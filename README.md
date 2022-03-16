@@ -1,8 +1,8 @@
 # Make WordPress
 
 ## Core
-<!-- CORE-LIST:START -->
-<!-- CORE-LIST:END -->
+<!-- CORE:START -->
+<!-- CORE:END -->
 
 ## Design
 <!-- DESIGN-LIST:START -->
