@@ -97,7 +97,7 @@
 - [Summary of Docs Team Meeting Feb 8, 2022](https://make.wordpress.org/docs/2022/02/08/summary-of-docs-team-meeting-feb-8-2022/)
 - [Agenda for docs team bi-weekly meeting 8 February 2022](https://make.wordpress.org/docs/2022/02/08/agenda-for-docs-team-bi-weekly-meeting-8-february-2022/)
 <!-- DOCS:END -->
-<BR />
+
 ## Support Articles
 <!-- HELPHUB:START -->
 - [Archive Title Block](https://wordpress.org/support/article/archive-title-block/)
@@ -111,7 +111,7 @@
 - [Template Part Block](https://wordpress.org/support/article/template-part-block/)
 - [Site Editor](https://wordpress.org/support/article/site-editor/)
 <!-- HELPHUB:END -->
-<BR />
+
 ## Developer Articles
 <!-- DEVHUB:START -->
 - [Building an edit form](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/3-building-an-edit-form/)
@@ -195,7 +195,7 @@
 - [Meeting Agenda for March 1, 2022](https://make.wordpress.org/training/2022/03/01/meeting-agenda-for-march-1-2022/)
 - [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/training/2022/02/25/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
 <!-- TRAINING:END -->
-<BR />
+
 ## Lesson Plans
 <!-- LESSONPLANS:START -->
 - [Templates](https://learn.wordpress.org/lesson-plan/templates/)
@@ -209,7 +209,7 @@
 - [How to Style Your Site with Global Styles](https://learn.wordpress.org/lesson-plan/how-to-style-your-site-with-global-styles/)
 - [How to use the List View](https://learn.wordpress.org/lesson-plan/how-to-use-the-list-view/)
 <!-- LESSONPLANS:END -->
-<BR />
+
 ## Workshops
 <!-- WORKSHOPS:START -->
 - [Managing Settings: Permalinks](https://learn.wordpress.org/workshop/managing-settings-permalinks/)
@@ -223,7 +223,7 @@
 - [Making a Plugin Inside the Dashboard](https://learn.wordpress.org/workshop/making-a-plugin-inside-the-dashboard/)
 - [Styling Your Site With Global Styles](https://learn.wordpress.org/workshop/how-to-style-your-site-with-global-styles/)
 <!-- WORKSHOPS:END -->
-<BR />
+
 ## Courses
 <!-- COURSES:START -->
 - [Part 3: Advanced Site Design with Full Site Editing: Site Editor, Templates and Template Parts](https://learn.wordpress.org/course/part-3-advanced-site-design-with-full-site-editing-site-editor-templates-and-template-parts/)
@@ -232,7 +232,7 @@
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
 - [Getting Started With WordPress: Get Setup](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
 <!-- COURSES:END -->
-<BR />
+
 ## Social Learning Spaces
 <!-- SLS:START -->
 <!-- SLS:END -->
