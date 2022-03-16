@@ -146,6 +146,16 @@
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda for March 15, 2022](https://make.wordpress.org/training/2022/03/14/meeting-agenda-for-march-15-2022/)
+- [Recap of Training Team meetings, March 8 and 10, 2022](https://make.wordpress.org/training/2022/03/10/recap-of-training-team-meetings-march-8-and-10-2022/)
+- [Meeting Agenda for March 8, 2022](https://make.wordpress.org/training/2022/03/08/meeting-agenda-for-march-8-2022/)
+- [X-post: First review on the new Sitemap for HelpHub or Documentation](https://make.wordpress.org/training/2022/03/08/xpost-first-review-on-the-new-sitemap-for-helphub-or-documentation/)
+- [Recap of Training Team meetings, March 1 and 3, 2022](https://make.wordpress.org/training/2022/03/03/recap-of-training-team-meetings-march-1-and-3-2022/)
+- [March 2022 Team Sprint](https://make.wordpress.org/training/2022/03/03/march-2022-team-sprint/)
+- [Sources of Info for WordPress 6.0](https://make.wordpress.org/training/2022/03/01/sources-of-info-for-wordpress-6-0/)
+- [February 2022 Retrospective](https://make.wordpress.org/training/2022/03/01/february-2022-retrospective/)
+- [Meeting Agenda for March 1, 2022](https://make.wordpress.org/training/2022/03/01/meeting-agenda-for-march-1-2022/)
+- [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/training/2022/02/25/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
 <!-- TRAINING:END -->
 
 ## Test
