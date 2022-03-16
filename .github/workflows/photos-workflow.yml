@@ -1,4 +1,4 @@
-name: Latest Openverse post workflow
+name: Latest Photos post workflow
 on:
   schedule:     # Runs every 60 minutes
       - cron: '0 * * * *' # Runs every hour, on the hour
@@ -16,5 +16,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "PHOTOS"
-          feed_list: "https://make.wordpress.org/photos/feed"
+          feed_list: "https://make.wordpress.org/photos/feed/"
           max_post_count: 25
