@@ -1,0 +1,20 @@
+name: Latest Project post workflow
+on:
+  schedule:     # Runs every 60 minutes
+      - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch:
+
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "PROJECT"
+          feed_list: "https://make.wordpress.org/project/feed"
+          max_post_count: 25
