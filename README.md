@@ -34,7 +34,7 @@
 <!-- POLYGLOTS:START -->
 <!-- POLYGLOTS:END -->
 
-## SUPPORT
+## Support
 <!-- SUPPORT:START -->
 <!-- SUPPORT:END -->
 
