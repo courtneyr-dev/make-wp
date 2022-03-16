@@ -405,6 +405,16 @@
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [CORS headers for s.w.org](https://make.wordpress.org/systems/2022/02/22/cors-headers-for-s-w-org/)
+- [Deploy &amp; Clear caches for: Planet &amp; Codex](https://make.wordpress.org/systems/2022/01/13/deploy-clear-caches-for-planet-codex/)
+- [Disable Themes Trac browser for root index](https://make.wordpress.org/systems/2021/12/16/disable-themes-trac-browser-for-root-index/)
+- [Remove user agent blocking for Firefox/100 &amp; Chrome/100.0](https://make.wordpress.org/systems/2021/11/25/remove-user-agent-blocking-for-firefox-100-chrome-100-0/)
+- [Redirects for JSON Schemas](https://make.wordpress.org/systems/2021/11/03/redirects-for-json-schemas/)
+- [Google Search Console domain access + Postmaster tools](https://make.wordpress.org/systems/2021/09/30/google-search-console-domain-access-postmaster-tools/)
+- [Theme Directory changes](https://make.wordpress.org/systems/2021/09/17/theme-directory-changes/)
+- [Create Openverse email address for Helpscout](https://make.wordpress.org/systems/2021/09/17/create-openverse-email-address-for-helpscout/)
+- [Delete 2.9.5 tag at buddypress.svn.wordpress.org](https://make.wordpress.org/systems/2021/08/13/delete-2-9-5-tag-at-buddypress-svn-wordpress-org/)
+- [Email deliverability time problems](https://make.wordpress.org/systems/2021/08/03/email-deliverability-time-problems/)
 <!-- SYSTEMS:END -->
 
 ## News
