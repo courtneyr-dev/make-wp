@@ -15,6 +15,6 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "OPENVERSE"
-          feed_list: "https://make.wordpress.org/openverse/feed"
+          comment_tag_name: "PHOTOS"
+          feed_list: "https://make.wordpress.org/photos/feed"
           max_post_count: 25
