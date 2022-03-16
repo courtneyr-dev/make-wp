@@ -57,3 +57,55 @@
 ## Meta
 <!-- META:START -->
 <!-- META:END -->
+
+## Training
+<!-- TRAINING:START -->
+<!-- TRAINING:END -->
+
+## Test
+<!-- TEST:START -->
+<!-- TEST:END -->
+
+## TV
+<!-- TV:START -->
+<!-- TV:END -->
+
+## Marketing
+<!-- MARKETING:START -->
+<!-- MARKETING:END -->
+
+## CLI
+<!-- CLI:START -->
+<!-- CLI:END -->
+
+## Hosting
+<!-- HOSTING:START -->
+<!-- HOSTING:END -->
+
+## Tide
+<!-- TIDE:START -->
+<!-- TIDE:END -->
+
+## Openverse
+<!-- OPENVERSE:START -->
+<!-- OPENVERSE:END -->
+
+## Photos
+<!-- PHOTOS:START -->
+<!-- PHOTOS:END -->
+
+## Updates
+<!-- UPDATES:START -->
+<!-- UPDATES:END -->
+
+## Project
+<!-- PROJECT:START -->
+<!-- PROJECT:END -->
+
+## System
+<!-- SYSTEM:START -->
+<!-- SYSTEM:END -->
+
+## News
+<!-- NEWS:START -->
+<!-- NEWS:END -->
