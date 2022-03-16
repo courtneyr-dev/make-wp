@@ -393,9 +393,9 @@
 - [X-post: New WordPress Make Site](https://make.wordpress.org/project/2021/06/02/xpost-new-wordpress-make-site/)
 <!-- PROJECT:END -->
 
-## System
-<!-- SYSTEM:START -->
-<!-- SYSTEM:END -->
+## Systems
+<!-- SYSTEMS:START -->
+<!-- SYSTEMS:END -->
 
 ## News
 <!-- NEWS:START -->
