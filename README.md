@@ -18,10 +18,6 @@
 <!-- DESIGN:START -->
 <!-- DESIGN:END -->
 
-## Design
-<!-- DESIGN:START -->
-<!-- DESIGN:END -->
-
 ## Mobile
 <!-- MOBILE:START -->
 <!-- MOBILE:END -->
