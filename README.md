@@ -62,6 +62,16 @@
 
 ## Support
 <!-- SUPPORT:START -->
+- [Agenda for the March 10, 2022 Support Team Meeting](https://make.wordpress.org/support/2022/03/agenda-for-the-march-10-2022-support-team-meeting/)
+- [Agenda for the March 3, 2022 Support Meeting](https://make.wordpress.org/support/2022/03/agenda-for-the-march-3-2022-support-meeting/)
+- [X-post: What’s new on LearnWP in February 2022](https://make.wordpress.org/support/2022/02/xpost-whats-new-on-learnwp-in-february-2022/)
+- [Agenda for the Feb. 10 Support Team meeting](https://make.wordpress.org/support/2022/02/agenda-for-the-feb-10-support-team-meeting/)
+- [Agenda for the January 27 Support Meeting](https://make.wordpress.org/support/2022/01/agenda-for-the-january-27-support-meeting/)
+- [Agenda for the January 13 Support Meeting](https://make.wordpress.org/support/2022/01/agenda-for-the-january-13-support-meeting/)
+- [Summary: January 6, 2022 Support Meeting](https://make.wordpress.org/support/2022/01/summary-january-6-2022-support-meeting/)
+- [Agenda for the January 6, 2022 Support Team meeting](https://make.wordpress.org/support/2022/01/agenda-for-the-january-6-2022-support-team-meeting/)
+- [No formal meeting for Support on December 23](https://make.wordpress.org/support/2021/12/no-formal-meeting-for-support-on-december-23/)
+- [Agenda for the December 16 Support Team Meeting](https://make.wordpress.org/support/2021/12/agenda-for-the-december-16-support-team-meeting/)
 <!-- SUPPORT:END -->
 
 ## Documentation
