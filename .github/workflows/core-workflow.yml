@@ -18,3 +18,4 @@ jobs:
         comment_tag_name: "CORE"
           feed_list: "https://make.wordpress.org/core/feed"
           max_post_count: 25
+ 
