@@ -97,6 +97,14 @@
 - [Summary of Docs Team Meeting Feb 8, 2022](https://make.wordpress.org/docs/2022/02/08/summary-of-docs-team-meeting-feb-8-2022/)
 - [Agenda for docs team bi-weekly meeting 8 February 2022](https://make.wordpress.org/docs/2022/02/08/agenda-for-docs-team-bi-weekly-meeting-8-february-2022/)
 <!-- DOCS:END -->
+<BR />
+### Support Articles
+<!-- HELPHUB:START -->
+<!-- HELPHUB:END -->
+<BR />
+### Developer Articles
+<!-- DEVHUB:START -->
+<!-- DEVHUB:END -->
 
 ## Themes
 <!-- THEMES:START -->
@@ -167,6 +175,22 @@
 - [Meeting Agenda for March 1, 2022](https://make.wordpress.org/training/2022/03/01/meeting-agenda-for-march-1-2022/)
 - [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/training/2022/02/25/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
 <!-- TRAINING:END -->
+<BR />
+### Lesson Plans
+<!-- LESSONPLANS:START -->
+<!-- LESSONPLANS:END -->
+<BR />
+### Workshops
+<!-- WORKSHOPS:START -->
+<!-- WORKSHOPS:END -->
+<BR />
+### Courses
+<!-- COURSES:START -->
+<!-- COURSES:END -->
+<BR />
+### Social Learning Spaces
+<!-- SLS:START -->
+<!-- SLS:END -->
 
 ## Test
 <!-- TEST:START -->
