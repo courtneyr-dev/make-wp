@@ -16,6 +16,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DESIGN"
-          feed_list: "https://make.wordpress.org/core/feed"
+          feed_list: "https://make.wordpress.org/design/feed"
           max_post_count: 25
  
