@@ -16,6 +16,16 @@
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/design/2022/03/16/xpost-coming-soon-block-pattern-directory-submissions/)
+- [Design Share: Feb 28–Mar 11](https://make.wordpress.org/design/2022/03/14/design-share-feb-28-mar-11/)
+- [Design contribution process](https://make.wordpress.org/design/2022/03/09/design-contribution-process/)
+- [Design Share: Feb 14–25](https://make.wordpress.org/design/2022/02/28/design-share-feb-14-25/)
+- [Show and Tell — February 2022](https://make.wordpress.org/design/2022/02/15/show-and-tell-february-2022/)
+- [Design Share](https://make.wordpress.org/design/2022/02/14/design-share/)
+- [X-post: Supporting Black Voices in WordPress](https://make.wordpress.org/design/2022/01/27/xpost-supporting-black-voices-in-wordpress/)
+- [Redesign of Openverse](https://make.wordpress.org/design/2021/12/17/redesign-of-openverse/)
+- [About WordPress 5.9](https://make.wordpress.org/design/2021/11/30/about-wordpress-5-9/)
+- [Show and Tell for Nov. 2021](https://make.wordpress.org/design/2021/11/16/show-and-tell-for-nov-2021/)
 <!-- DESIGN:END -->
 
 ## Mobile
