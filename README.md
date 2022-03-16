@@ -233,6 +233,16 @@
 
 ## TV
 <!-- TV:START -->
+- [X-post: Proposal: Refurbishing Camera Kits](https://make.wordpress.org/tv/2022/02/16/xpost-proposal-refurbishing-camera-kits/)
+- [Proposal: Auto-populate WordCamp video details using the WordCamp JSON API](https://make.wordpress.org/tv/2021/12/07/proposal-auto-populate-wordcamp-video-details-using-the-wordcamp-json-api/)
+- [X-post: Experiment: A Public Channel for All Team Reps](https://make.wordpress.org/tv/2021/05/25/xpost-experiment-a-public-channel-for-all-team-reps/)
+- [X-post: Standards for Learn WordPress workshop content](https://make.wordpress.org/tv/2020/11/23/xpost-standards-for-learn-wordpress-workshop-content/)
+- [X-post: Learn WordPress is Live](https://make.wordpress.org/tv/2020/08/12/xpost-learn-wordpress-is-live/)
+- [X-post: Learn WordPress: Project Details and Roadmap](https://make.wordpress.org/tv/2020/08/07/xpost-learn-wordpress-project-details-and-roadmap/)
+- [X-post: WCEU 2020 Online Contributor Day: Feedback and achievements](https://make.wordpress.org/tv/2020/07/02/xpost-wceu-2020-online-contributor-day-feedback-and-achievements/)
+- [X-post: Video and YouTube Workflow for Online WordCamps: Request for Feedback](https://make.wordpress.org/tv/2020/06/24/xpost-video-and-youtube-workflow-for-online-wordcamps-request-for-feedback/)
+- [Video tutorial for editing videos with Shotcut](https://make.wordpress.org/tv/2020/06/04/video-tutorial-for-editing-videos-with-shotcut/)
+- [What is ‘Contributor Day’?](https://make.wordpress.org/tv/2020/05/27/what-is-contributor-day/)
 <!-- TV:END -->
 ### WPTV videos
 <!-- WPTV:START -->
