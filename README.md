@@ -245,6 +245,9 @@
 
 ## Photos
 <!-- PHOTOS:START -->
+- [Photo Directory Team Reps 2022: Submit your Votes!](https://make.wordpress.org/photos/2022/03/07/photo-directory-team-reps-2022-submit-your-votes/)
+- [Photo Directory Team Rep Nominations for 2022](https://make.wordpress.org/photos/2022/02/23/photo-directory-team-rep-nominations-for-2022/)
+- [Welcome to Make Photos](https://make.wordpress.org/photos/2022/02/17/welcome-to-make-photos/)
 <!-- PHOTOS:END -->
 
 ## Updates
