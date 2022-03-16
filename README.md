@@ -49,3 +49,11 @@
 ## Plugins
 <!-- PLUGINS:START -->
 <!-- PLUGINS:END -->
+
+## Community
+<!-- COMMUNITY:START -->
+<!-- COMMUNITY:END -->
+
+## Meta
+<!-- META:START -->
+<!-- META:END -->
