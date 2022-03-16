@@ -324,6 +324,16 @@
 
 ## Updates
 <!-- UPDATES:START -->
+- [X-post: Proposal to remove spam/dormant Five for the Future pledges](https://make.wordpress.org/updates/2022/03/16/xpost-proposal-to-remove-spam-dormant-five-for-the-future-pledges/)
+- [Themes team update March 15, 2022](https://make.wordpress.org/updates/2022/03/15/themes-team-update-march-15-2022/)
+- [Plugin Review Team: 14 March 2022](https://make.wordpress.org/updates/2022/03/15/plugin-review-team-14-march-2022/)
+- [Documentation Team Update – March 14, 2022](https://make.wordpress.org/updates/2022/03/14/documentation-team-update-march-14-2022/)
+- [Plugin Review Team: 7 March 2022](https://make.wordpress.org/updates/2022/03/09/plugin-review-team-7-march-2022/)
+- [Themes team update March 08, 2022](https://make.wordpress.org/updates/2022/03/08/themes-team-update-march-08-2022/)
+- [Mobile Team Update – March 8th](https://make.wordpress.org/updates/2022/03/08/mobile-team-update-march-8th/)
+- [Test Team Update for 7 March 2022](https://make.wordpress.org/updates/2022/03/07/test-team-update-for-7-march-2022/)
+- [Documentation Team Update – March 7, 2022](https://make.wordpress.org/updates/2022/03/07/documentation-team-update-march-7-2022/)
+- [Themes team update March 02, 2022](https://make.wordpress.org/updates/2022/03/02/themes-team-update-march-02-2022/)
 <!-- UPDATES:END -->
 
 ## Project
