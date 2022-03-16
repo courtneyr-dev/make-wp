@@ -256,6 +256,31 @@
 <!-- TV:END -->
 ### WPTV videos
 <!-- WPTV:START -->
+- [Adding a Site Tagline to Block Themes](https://wordpress.tv/2022/03/13/adding-a-site-tagline-to-block-themes/)
+- [Nick Diego: Builder Basics – Designing with Columns, Group, and Row Blocks](https://wordpress.tv/2022/03/10/nick-diego-builder-basics-designing-with-columns-group-and-row-blocks/)
+- [Manage Settings: Privacy](https://wordpress.tv/2022/03/07/manage-settings-privacy/)
+- [Milana Cap: Update screenshots in WordPress documentation](https://wordpress.tv/2022/03/04/update-screenshots-in-wordpress-documentation/)
+- [What is the difference between WordPress .Com and .Org?](https://wordpress.tv/2022/02/28/what-is-the-difference-between-wordpress-com-and-org/)
+- [Managing Settings: Permalinks](https://wordpress.tv/2022/02/28/managing-settings-permalinks/)
+- [Onlinevortrag: „WP 5.9, Full Site Editing, FSE-Themes «Twenty Twenty-Two» sowie «Aino»”](https://wordpress.tv/2022/02/24/onlinevortrag-wp-5-9-full-site-editing-fse-themes-twenty-twenty-two-sowie-aino/)
+- [Intro to the Site Editor and Template Editor](https://wordpress.tv/2022/02/20/intro-to-the-site-editor-and-template-editor/)
+- [Sarah Snow: Building Sidebars with the Site Editor](https://wordpress.tv/2022/02/18/sarah-snow-building-sidebars-with-the-site-editor/)
+- [Andras Guseo: Débogage et dépannage de WordPress](https://wordpress.tv/2022/02/10/andras-guseo-debogage-et-depannage-de-wordpress/)
+- [Templates](https://wordpress.tv/2022/02/08/templates/)
+- [How to Create a Menu with the Navigation Block](https://wordpress.tv/2022/02/08/how-to-create-a-menu-with-the-navigation-block/)
+- [Roxy Kohilakis: Template Parts](https://wordpress.tv/2022/02/07/roxy-kohilakis-template-parts/)
+- [Maciek Palmowski: Static WordPress – How To Make WordPress Faster And More Secure](https://wordpress.tv/2022/02/06/maciek-palmowski-static-wordpress-how-to-make-wordpress-faster-and-more-secure-2/)
+- [Anne McCarthy: Exploring WordPress 5.9](https://wordpress.tv/2022/02/03/anne-mccarthy-exploring-wordpress-5-9/)
+- [Piccia Neri: Diseño para convertir más: Las personas siempre en primer lugar](https://wordpress.tv/2022/02/01/piccia-neri-diseno-para-convertir-mas-las-personas-siempre-en-primer-lugar/)
+- [Clausura WordCamp Nicaragua 2021](https://wordpress.tv/2022/01/26/clausura-wordcamp-nicaragua-2021/)
+- [How to Create Low-Code Block Patterns](https://wordpress.tv/2022/01/24/how-to-create-low-code-block-patterns/)
+- [How to use the List View](https://wordpress.tv/2022/01/10/how-to-use-the-list-view/)
+- [How to Style Your Site with Global Styles](https://wordpress.tv/2022/01/10/how-to-style-your-site-with-global-styles/)
+- [Organizing your Media Library](https://wordpress.tv/2022/01/09/organizing-your-media-library-2/)
+- [Rafa Poveda: La comunidad más mejor del mundo](https://wordpress.tv/2022/01/05/rafa-poveda-la-comunidad-mas-mejor-del-mundo/)
+- [Nilo Velez y Miguel Angel Terron: Nuestra historia de amor con WordPress](https://wordpress.tv/2022/01/05/nilo-velez-y-miguel-angel-terron-nuestra-historia-de-amor-con-wordpress/)
+- [Comunidad WordPress España: El autobus que nos paso por encima](https://wordpress.tv/2022/01/05/comunidad-wordpress-espana-el-autobus-que-nos-paso-por-encima/)
+- [Rocio Valdivia, Luis Herranz y Hector Prieto – Y ahora qué hacemos](https://wordpress.tv/2022/01/05/rocio-valdivia-luis-herranz-y-hector-prieto-y-ahora-que-hacemos/)
 <!-- WPTV:END -->
 
 ## Marketing
