@@ -44,6 +44,7 @@
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Notes: March 4, 2022](https://make.wordpress.org/accessibility/2022/03/16/accessibility-team-meeting-notes-march-4-2022/)
 - [Accessibility Team Meeting Agenda: March 4, 2022](https://make.wordpress.org/accessibility/2022/03/03/accessibility-team-meeting-agenda-march-4-2022/)
 - [Accessibility Team Meeting Notes: February 18, 2022](https://make.wordpress.org/accessibility/2022/02/22/accessibility-team-meeting-notes-february-18-2022/)
 - [X-post: The hashtag and its future in documentation articles](https://make.wordpress.org/accessibility/2022/02/20/xpost-the-hashtag-and-its-future-in-documentation-articles/)
@@ -53,7 +54,6 @@
 - [Accessibility Team Meeting Notes: January 21, 2022](https://make.wordpress.org/accessibility/2022/01/22/accessibility-team-meeting-notes-january-21-2022/)
 - [Accessibility Team Meeting Agenda: January 21, 2022](https://make.wordpress.org/accessibility/2022/01/19/accessibility-team-meeting-agenda-january-21-2022/)
 - [Accessibility Team Meeting Notes: January 7, 2022](https://make.wordpress.org/accessibility/2022/01/08/accessibility-team-meeting-notes-january-7-2022/)
-- [Accessibility Team’s goals for WordPress 6.0 and beyond](https://make.wordpress.org/accessibility/2022/01/08/accessibility-teams-goals-for-wordpress-6-0-and-beyond/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
