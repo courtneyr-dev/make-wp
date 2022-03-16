@@ -170,6 +170,16 @@
 
 ## Test
 <!-- TEST:START -->
+- [FSE Program: Bring your questions – Round Three](https://make.wordpress.org/test/2022/03/16/fse-program-bring-your-questions-round-three/)
+- [X-post: Call for Testing: WordPress for iOS 19.4](https://make.wordpress.org/test/2022/03/07/xpost-call-for-testing-wordpress-for-ios-19-4/)
+- [X-post: Call for Testing: WordPress for Android 19.4](https://make.wordpress.org/test/2022/03/07/xpost-call-for-testing-wordpress-for-android-19-4/)
+- [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/test/2022/02/26/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
+- [FSE Program All Things Media Summary](https://make.wordpress.org/test/2022/02/25/fse-program-all-things-media-summary/)
+- [FSE Program Testing Call #12: Hyping Headers](https://make.wordpress.org/test/2022/02/23/fse-program-testing-call-12-hyping-headers/)
+- [X-post: Call for Testing: WordPress for iOS 19.3](https://make.wordpress.org/test/2022/02/22/xpost-call-for-testing-wordpress-for-ios-19-3/)
+- [X-post: Call for Testing: WordPress for Android 19.3](https://make.wordpress.org/test/2022/02/22/xpost-call-for-testing-wordpress-for-android-19-3/)
+- [Hallway Hangout: All Things Media](https://make.wordpress.org/test/2022/02/16/hallway-hangout-all-things-media/)
+- [X-post: Call for Testing: WordPress for Android 19.2](https://make.wordpress.org/test/2022/02/08/xpost-call-for-testing-wordpress-for-android-19-2/)
 <!-- TEST:END -->
 
 ## TV
