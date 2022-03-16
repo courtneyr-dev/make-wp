@@ -235,6 +235,16 @@
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WordPress for Writers: Launching your Writer Website](https://learn.wordpress.org/?meeting=wordpress-for-writers-launching-your-writer-website)
+- [Hello Blocks. Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block)
+- [Builder Basics: Designing with Columns, Group, and Row Blocks](https://learn.wordpress.org/?meeting=builder-basics-designing-with-columns-group-and-rows)
+- [Builder Basics: Exploring Block Layout, Alignment, Dimensions, and Spacing](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-dimensions-and-spacing)
+- [Intro to Theme Blocks](https://learn.wordpress.org/?meeting=intro-to-theme-blocks)
+- [Beginner’s Guide to Full Site Editing](https://learn.wordpress.org/?meeting=beginners-guide-to-full-site-editing-5)
+- [I’m New To WordPress: Getting Started For The First Time](https://learn.wordpress.org/?meeting=im-new-to-wordpress-getting-started-for-the-first-time)
+- [Beginner’s Guide to Full Site Editing](https://learn.wordpress.org/?meeting=beginners-guide-to-full-site-editing-4)
+- [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops)
+- [Honey, I Broke My Website! What To Do When Site Editing Goes Wrong](https://learn.wordpress.org/?meeting=honey-i-broke-my-website-what-to-do-when-site-editing-goes-wrong-2)
 <!-- SLS:END -->
 
 ## Test
