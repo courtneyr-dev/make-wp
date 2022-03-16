@@ -86,6 +86,16 @@
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/docs/2022/03/16/xpost-coming-soon-block-pattern-directory-submissions/)
+- [Summary of Docs Team Meeting March 8, 2022](https://make.wordpress.org/docs/2022/03/08/summary-of-docs-team-meeting-march-8-2022/)
+- [Agenda for docs team bi-weekly meeting 8 March 2022](https://make.wordpress.org/docs/2022/03/08/agenda-for-docs-team-bi-weekly-meeting-8-march-2022/)
+- [First review on the new Sitemap for HelpHub](https://make.wordpress.org/docs/2022/03/07/first-review-on-the-new-sitemap-for-helphub-or-documentation/)
+- [Summary of Docs Team Meeting Feb 22, 2022](https://make.wordpress.org/docs/2022/03/02/summary-of-docs-team-meeting-feb-22-2022/)
+- [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/docs/2022/02/25/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
+- [Agenda for docs team bi-weekly meeting 22 February 2022](https://make.wordpress.org/docs/2022/02/21/agenda-for-docs-team-bi-weekly-meeting-22-february-2022/)
+- [The hashtag and its future in documentation articles](https://make.wordpress.org/docs/2022/02/20/the-hashtag-and-its-future-in-documentation-articles/)
+- [Summary of Docs Team Meeting Feb 8, 2022](https://make.wordpress.org/docs/2022/02/08/summary-of-docs-team-meeting-feb-8-2022/)
+- [Agenda for docs team bi-weekly meeting 8 February 2022](https://make.wordpress.org/docs/2022/02/08/agenda-for-docs-team-bi-weekly-meeting-8-february-2022/)
 <!-- DOCS:END -->
 
 ## Themes
