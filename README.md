@@ -104,6 +104,16 @@
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Please don’t ‘test’ submitting other people’s plugins.](https://make.wordpress.org/plugins/2021/11/29/please-dont-test-submitting-other-peoples-plugins/)
+- [Reminder: Check Your Accounts’ Emails &lpar;and your Committers&rpar;](https://make.wordpress.org/plugins/2021/11/03/reminder-check-your-accounts-emails-and-your-committers/)
+- [https://make.wordpress.org/core/2021/09/27/changes-to-the-wordpress-core-php-test-suite/](https://make.wordpress.org/plugins/2021/09/27/https-make-wordpress-org-core-2021-09-27-changes-to-the-wordpress-core-php-test-suite/)
+- [Change to How Long Active Reviews Remain Open](https://make.wordpress.org/plugins/2021/09/20/change-to-how-long-active-reviews-remain-open/)
+- [X-post: [Announcement] New workflow for reporting documentation issues](https://make.wordpress.org/plugins/2021/09/15/xpost-announcement-new-workflow-for-reporting-documentation-issues/)
+- [Inaccurate Stats Have Been Corrected](https://make.wordpress.org/plugins/2021/08/27/inaccurate-stats-have-been-corrected/)
+- [X-post: Gallery Block Refactor Dev Note](https://make.wordpress.org/plugins/2021/08/25/xpost-gallery-block-refactor-dev-note/)
+- [X-post: Experiment: A Public Channel for All Team Reps](https://make.wordpress.org/plugins/2021/05/25/xpost-experiment-a-public-channel-for-all-team-reps/)
+- [X-post: Why hosters should install the PHP-intl extension](https://make.wordpress.org/plugins/2021/05/20/xpost-why-hosters-should-install-the-php-intl-extension/)
+- [X-post: Automatically Catching Bugs in Plugins](https://make.wordpress.org/plugins/2021/04/27/xpost-automatically-catching-bugs-in-plugins/)
 <!-- PLUGINS:END -->
 
 ## Community
