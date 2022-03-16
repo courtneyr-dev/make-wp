@@ -1,1 +1,6 @@
-# make-wp
+# Make WordPress
+
+## Core
+
+
+## Design
