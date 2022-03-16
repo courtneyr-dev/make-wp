@@ -1,7 +1,7 @@
 name: Latest Mobile post workflow
 on:
   schedule:     # Runs every 5 minutes
-    - cron: '*/5 * * * *'
+   - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
 
   
