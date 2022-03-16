@@ -20,6 +20,16 @@
 
 ## Mobile
 <!-- MOBILE:START -->
+- [Call for Testing: WordPress for iOS 19.4](https://make.wordpress.org/mobile/2022/03/07/call-for-testing-wordpress-for-ios-19-4/)
+- [Call for Testing: WordPress for Android 19.4](https://make.wordpress.org/mobile/2022/03/07/call-for-testing-wordpress-for-android-19-4/)
+- [Call for Testing: WordPress for iOS 19.3](https://make.wordpress.org/mobile/2022/02/22/call-for-testing-wordpress-for-ios-19-3/)
+- [Call for Testing: WordPress for Android 19.3](https://make.wordpress.org/mobile/2022/02/22/call-for-testing-wordpress-for-android-19-3/)
+- [Call for Testing: WordPress for Android 19.2](https://make.wordpress.org/mobile/2022/02/08/call-for-testing-wordpress-for-android-19-2/)
+- [Call for Testing: WordPress for iOS 19.2](https://make.wordpress.org/mobile/2022/02/08/call-for-testing-wordpress-for-ios-19-2/)
+- [Call for Testing: WordPress for Android 19.1](https://make.wordpress.org/mobile/2022/01/27/call-for-testing-wordpress-for-android-19-1/)
+- [Call for Testing: WordPress for iOS 19.1](https://make.wordpress.org/mobile/2022/01/24/call-for-testing-wordpress-for-ios-19-1/)
+- [Call for Testing: WordPress for Android 19.0](https://make.wordpress.org/mobile/2022/01/10/call-for-testing-wordpress-for-android-19-0/)
+- [Call for Testing: WordPress for iOS 19.0](https://make.wordpress.org/mobile/2022/01/10/call-for-testing-wordpress-for-ios-19-0/)
 <!-- MOBILE:END -->
 
 ## Accessibility
