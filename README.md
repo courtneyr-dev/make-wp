@@ -306,6 +306,31 @@
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 5.9.2 Security and Maintenance Release](https://wordpress.org/news/2022/03/wordpress-5-9-2-security-maintenance-release/)
+- [WP Briefing: Episode 26: Matt Mullenweg on Ukraine, Community, and WordPress](https://wordpress.org/news/2022/03/episode-26-matt-mullenweg-on-ukraine-community-and-wordpress/)
+- [The Month in WordPress – February 2022](https://wordpress.org/news/2022/03/the-month-in-wordpress-february-2022/)
+- [People of WordPress: Tonya Mork](https://wordpress.org/news/2022/02/people-of-wordpress-tonya-mork/)
+- [WordPress 5.9.1 Maintenance Release](https://wordpress.org/news/2022/02/wordpress-5-9-1-maintenance-release/)
+- [WP Briefing: Episode 25: Five Cents on Five for the Future](https://wordpress.org/news/2022/02/episode-25-five-cents-on-five-for-the-future/)
+- [A New WordPress News](https://wordpress.org/news/2022/02/a-new-wordpress-news/)
+- [WP Briefing: Episode 24: Three Goals in 2022](https://wordpress.org/news/2022/02/episode-24-three-goals-in-2022/)
+- [The Month in WordPress – January 2022](https://wordpress.org/news/2022/02/the-month-in-wordpress-january-2022/)
+- [WordPress 5.9 “Josephine”](https://wordpress.org/news/2022/01/josephine/)
+- [WordPress 5.9 RC3](https://wordpress.org/news/2022/01/wordpress-5-9-rc3/)
+- [WP Briefing: Episode 23: A letter from WordPress’ Executive Director](https://wordpress.org/news/2022/01/episode-23-a-letter-from-wordpress-executive-director/)
+- [WordPress 5.9 RC 2](https://wordpress.org/news/2022/01/wordpress-5-9-rc-2/)
+- [WordPress 5.8.3 Security Release](https://wordpress.org/news/2022/01/wordpress-5-8-3-security-release/)
+- [The Month in WordPress – December 2021](https://wordpress.org/news/2022/01/the-month-in-wordpress-december-2021/)
+- [WordPress 5.9 RC 1](https://wordpress.org/news/2022/01/wordpress-5-9-rc-1/)
+- [People of WordPress: Collins Agbonghama](https://wordpress.org/news/2021/12/people-of-wordpress-collins-agbonghama/)
+- [WordPress 5.9 Beta 4](https://wordpress.org/news/2021/12/wordpress-5-9-beta-4/)
+- [WP Briefing: Episode 22: A Carol of Thanks](https://wordpress.org/news/2021/12/episode-22-a-carol-of-thanks/)
+- [Highlights from State of the Word 2021](https://wordpress.org/news/2021/12/highlights-from-state-of-the-word-2021/)
+- [WordPress 5.9 Beta 3](https://wordpress.org/news/2021/12/wordpress-5-9-beta-3/)
+- [WordPress 5.9 Beta 2](https://wordpress.org/news/2021/12/wordpress-5-9-beta-2/)
+- [The Month in WordPress – November 2021](https://wordpress.org/news/2021/12/month-in-wordpress-november-2021/)
+- [WordPress 5.9 Beta 1](https://wordpress.org/news/2021/11/wordpress-5-9-beta-1/)
+- [People of WordPress: Devin Maeztri](https://wordpress.org/news/2021/11/people-of-wordpress-devin-maeztri/)
 <!-- NEWS:END -->
 
 ## Jobs
