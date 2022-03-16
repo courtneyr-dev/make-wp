@@ -16,6 +16,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "JOBS"
-          feed_list: "Https://jobs.wordpress.net/feed"
+          feed_list: "https://jobs.wordpress.net/feed"
           max_post_count: 50
  
