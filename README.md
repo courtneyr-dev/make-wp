@@ -333,6 +333,16 @@
 
 ## Hosting
 <!-- HOSTING:START -->
+- [WordPress 5.9 and PHP 8.0-8.1](https://make.wordpress.org/hosting/2022/01/10/wordpress-5-9-and-php-8-0-8-1/)
+- [Hosting Team Reps 2022](https://make.wordpress.org/hosting/2022/01/09/hosting-team-reps-2022/)
+- [WordPress Hosting Team 2021 Summary](https://make.wordpress.org/hosting/2022/01/09/wordpress-hosting-team-2021-summary/)
+- [Nominations for Hosting Team Reps 2022](https://make.wordpress.org/hosting/2021/10/30/nominations-for-hosting-team-reps-2022/)
+- [X-post: Proposal for a Performance team](https://make.wordpress.org/hosting/2021/10/12/xpost-proposal-for-a-performance-team/)
+- [WordPress 5.8.1 Security Release is Time Sensitive](https://make.wordpress.org/hosting/2021/09/15/wordpress-5-8-1-security-release-is-time-sensitive/)
+- [X-post: Upgrade/Install Meeting Notes, August 17](https://make.wordpress.org/hosting/2021/08/20/xpost-upgrade-install-meeting-notes-august-17/)
+- [Hosting Team meeting summary 2021-07-14](https://make.wordpress.org/hosting/2021/07/16/summary-2021-07-14/)
+- [Hosting Team meeting agenda 2021-06-16](https://make.wordpress.org/hosting/2021/06/15/hosting-team-meeting-agenda-2021-06-16/)
+- [Hosting Team meeting summary 2021-06-09](https://make.wordpress.org/hosting/2021/06/10/hosting-team-meeting-summary-2021-06-09/)
 <!-- HOSTING:END -->
 
 ## Tide
