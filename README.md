@@ -2,6 +2,7 @@
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 12.8? &lpar;16 March&rpar;](https://make.wordpress.org/core/2022/03/16/whats-new-in-gutenberg-12-8-16-march/)
 - [Devchat agenda, March 16, 2022](https://make.wordpress.org/core/2022/03/15/devchat-agenda-march-16-2022/)
 - [Performance team meeting summary 15 March 2022](https://make.wordpress.org/core/2022/03/15/performance-team-meeting-summary-15-march-2022/)
 - [Bug Scrub Schedule for 6.0](https://make.wordpress.org/core/2022/03/15/bug-scrub-schedule-for-6-0/)
@@ -11,7 +12,6 @@
 - [Editor Chat Summary: 9th March 2022](https://make.wordpress.org/core/2022/03/14/editor-chat-summary-9th-march-2022/)
 - [WordPress 6.0 planning update](https://make.wordpress.org/core/2022/03/11/wordpress-6-0-planning-update/)
 - [Dev Chat summary, March 9, 2022](https://make.wordpress.org/core/2022/03/10/dev-chat-summary-march-9-2022/)
-- [Devchat agenda, March 9, 2022](https://make.wordpress.org/core/2022/03/09/devchat-agenda-march-9-2022/)
 <!-- CORE:END -->
 
 ## Design
