@@ -292,6 +292,16 @@
 
 ## Tide
 <!-- TIDE:START -->
+- [CANCELLED Tide Chat: March 1st](https://make.wordpress.org/tide/2022/02/27/cancelled-tide-chat-march-1st/)
+- [Tide Chat Agenda: February 15th](https://make.wordpress.org/tide/2022/02/14/tide-chat-agenda-february-15th/)
+- [CANCELLED Tide Chat: February 1st](https://make.wordpress.org/tide/2022/01/31/cancelled-tide-chat-february-1st/)
+- [Tide Chat Agenda: January 18th](https://make.wordpress.org/tide/2022/01/17/tide-chat-agenda-january-18th/)
+- [Tide Chat Summary: November 23rd](https://make.wordpress.org/tide/2021/11/24/tide-chat-summary-november-23rd/)
+- [Tide Chat Agenda: November 23rd](https://make.wordpress.org/tide/2021/11/22/tide-chat-agenda-november-23rd/)
+- [Tide Chat Summary: November 9th](https://make.wordpress.org/tide/2021/11/10/tide-chat-summary-november-9th/)
+- [Tide Chat Agenda: October 26th](https://make.wordpress.org/tide/2021/10/25/tide-chat-agenda-october-26th/)
+- [Tide Chat Summary: October 12th](https://make.wordpress.org/tide/2021/10/12/tide-chat-summary-october-12th/)
+- [Tide Chat Agenda: October 12th](https://make.wordpress.org/tide/2021/10/11/tide-chat-agenda-october-12th/)
 <!-- TIDE:END -->
 
 ## Openverse
