@@ -1,4 +1,5 @@
 # Make WordPress
+What's happening across [WordPress.org](https://wordpress.org)? This is a self-updating list. Each hour, it will check via RSS for any new posts across teams, various sites like WPTV, Learn, HelpHub, DevHub, and Jobs. 
 
 ## Core
 <!-- CORE:START -->
