@@ -58,6 +58,16 @@
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-points-and-rewards-for-woocommerce-3/)
+- [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-jetpack-wp-security-backup-speed-growth-4/)
+- [PTE Request for Cookies and Content Security Policy](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-cookies-and-content-security-policy-3/)
+- [Agenda: Weekly Polyglots Chat – March 16, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/16/agenda-weekly-polyglots-chat-march-16-2022-1300-utc/)
+- [PTE Request for DHL Parcel for WooCommerce](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-dhl-parcel-for-woocommerce/)
+- [PTE Request for theme and plugins](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-theme-and-plugins/)
+- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/03/15/pte-request-for-customer-reviews-for-woocommerce-16/)
+- [Hello, Polyglots!](https://make.wordpress.org/polyglots/2022/03/14/hello-polyglots-293/)
+- [Hello, Can anyone in the…](https://make.wordpress.org/polyglots/2022/03/14/hello-can-anyone-in-the/)
+- [PTE Request for Multicollab – Google Doc-Style Editorial Commenting for WordPress](https://make.wordpress.org/polyglots/2022/03/14/pte-request-for-multicollab-google-doc-style-editorial-commenting-for-wordpress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
