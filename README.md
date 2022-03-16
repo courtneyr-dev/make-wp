@@ -15,5 +15,37 @@
 <!-- CORE:END -->
 
 ## Design
-<!-- DESIGN-LIST:START -->
-<!-- DESIGN-LIST:END -->
+<!-- DESIGN:START -->
+<!-- DESIGN:END -->
+
+## Design
+<!-- DESIGN:START -->
+<!-- DESIGN:END -->
+
+## Mobile
+<!-- MOBILE:START -->
+<!-- MOBILE:END -->
+
+## Accessibility
+<!-- ACCESSIBILITY:START -->
+<!-- ACCESSIBILITY:END -->
+
+## Polyglots
+<!-- POLYGLOTS:START -->
+<!-- POLYGLOTS:END -->
+
+## SUPPORT
+<!-- SUPPORT:START -->
+<!-- SUPPORT:END -->
+
+## Documentation
+<!-- DOCS:START -->
+<!-- DOCS:END -->
+
+## Themes
+<!-- THEMES:START -->
+<!-- THEMES:END -->
+
+## Plugins
+<!-- PLUGINS:START -->
+<!-- PLUGINS:END -->
