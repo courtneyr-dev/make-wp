@@ -229,6 +229,16 @@
 
 ## CLI
 <!-- CLI:START -->
+- [WP-CLI v2.6.0 Release Notes](https://make.wordpress.org/cli/2022/01/26/wp-cli-v2-6-0-release-notes/)
+- [X-post: Experiment: A Public Channel for All Team Reps](https://make.wordpress.org/cli/2021/05/25/xpost-experiment-a-public-channel-for-all-team-reps/)
+- [WP-CLI v2.5.0 Release Notes](https://make.wordpress.org/cli/2021/05/19/wp-cli-v2-5-0-release-notes/)
+- [WP-CLI v2.5.0 release date](https://make.wordpress.org/cli/2021/05/13/wp-cli-v2-5-0-release-date/)
+- [New Premier Sponsor added: Cloudways](https://make.wordpress.org/cli/2021/03/12/new-premier-sponsor-added-cloudways/)
+- [X-post: External Linking Policy – “Commercial blogs”](https://make.wordpress.org/cli/2020/07/06/xpost-external-linking-policy-commercial-blogs/)
+- [X-post: WCEU 2020 Online Contributor Day: Feedback and achievements](https://make.wordpress.org/cli/2020/07/02/xpost-wceu-2020-online-contributor-day-feedback-and-achievements/)
+- [X-post: External Linking Policy – Trusted Sources](https://make.wordpress.org/cli/2020/06/15/xpost-external-linking-policy-trusted-sources/)
+- [X-post: WCEU 2020 Online Contributor Day: All that team facilitators and experienced Contributors need to know](https://make.wordpress.org/cli/2020/05/21/xpost-wceu-2020-online-contributor-day-all-that-team-facilitators-and-experienced-contributors-need-to-know/)
+- [X-post: WCEU Online 2020 Contributor Day: Submit your introduction videos, office hours times and introductory session needs this week](https://make.wordpress.org/cli/2020/05/11/xpost-wceu-online-2020-contributor-day-submit-your-introduction-videos-office-hours-times-and-introductory-session-needs-this-week/)
 <!-- CLI:END -->
 
 ## Hosting
