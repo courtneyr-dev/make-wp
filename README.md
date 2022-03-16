@@ -418,4 +418,14 @@
 
 ## Jobs
 <!-- JOBS:START -->
+- [Video Editor / Content Producer](https://jobs.wordpress.net/job/video-editor-content-producer/)
+- [Customer Support Ninja](https://jobs.wordpress.net/job/customer-support-ninja/)
+- [Full Stack Developer &lpar;m/f/d&rpar; Remote](https://jobs.wordpress.net/job/full-stack-developer-m-f-d-remote/)
+- [Full-Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-8/)
+- [WordPress Accessibility Tester](https://jobs.wordpress.net/job/wordpress-accessibility-tester/)
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-84/)
+- [WordPress Website Project Manager](https://jobs.wordpress.net/job/wordpress-website-project-manager/)
+- [Social Media Manager](https://jobs.wordpress.net/job/social-media-manager/)
+- [Full Stack Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/full-stack-developer-remote/)
+- [WP All Import: Customer Support](https://jobs.wordpress.net/job/wp-all-import-customer-support/)
 <!-- JOBS:END -->
