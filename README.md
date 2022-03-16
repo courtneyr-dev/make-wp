@@ -308,6 +308,14 @@
 
 ## Project
 <!-- PROJECT:START -->
+- [Proposal to remove spam/dormant Five for the Future pledges](https://make.wordpress.org/project/2022/03/16/proposal-to-remove-spam-dormant-five-for-the-future-pledges/)
+- [A Theory of Technology Adoption in the WordPress Project](https://make.wordpress.org/project/2022/02/11/a-theory-of-technology-adoption-in-the-wordpress-project/)
+- [Big Picture Goals 2022](https://make.wordpress.org/project/2022/01/21/big-picture-goals-2022/)
+- [X-post: Proposal for a Performance team](https://make.wordpress.org/project/2021/10/12/xpost-proposal-for-a-performance-team/)
+- [Suggested iterations for the Five for the Future program and tool](https://make.wordpress.org/project/2021/09/10/suggested-iterations-for-the-five-for-the-future-program-and-tool/)
+- [The Metrics of Contributions](https://make.wordpress.org/project/2021/06/17/the-metrics-of-contributions/)
+- [Welcome to make.wordpress.org/project](https://make.wordpress.org/project/2021/06/03/welcome-to-make-wordpress-org-project/)
+- [X-post: New WordPress Make Site](https://make.wordpress.org/project/2021/06/02/xpost-new-wordpress-make-site/)
 <!-- PROJECT:END -->
 
 ## System
