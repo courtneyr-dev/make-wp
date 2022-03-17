@@ -452,14 +452,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WP Developer – Products, Services, Core Contributor](https://jobs.wordpress.net/job/senior-wp-developer-products-services-core-contributor/)
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-5/)
+- [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-4/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-746/)
 - [Freelance WordPress full-stack developer](https://jobs.wordpress.net/job/freelance-wordpress-full-stack-developer/)
 - [Video Editor / Content Producer](https://jobs.wordpress.net/job/video-editor-content-producer/)
 - [Customer Support Ninja](https://jobs.wordpress.net/job/customer-support-ninja/)
 - [Full Stack Developer &lpar;m/f/d&rpar; Remote](https://jobs.wordpress.net/job/full-stack-developer-m-f-d-remote/)
 - [Full-Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-8/)
 - [WordPress Accessibility Tester](https://jobs.wordpress.net/job/wordpress-accessibility-tester/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-84/)
-- [WordPress Website Project Manager](https://jobs.wordpress.net/job/wordpress-website-project-manager/)
-- [Social Media Manager](https://jobs.wordpress.net/job/social-media-manager/)
-- [Full Stack Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/full-stack-developer-remote/)
 <!-- JOBS:END -->
