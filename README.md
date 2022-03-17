@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Manage Settings: Privacy](https://learn.wordpress.org/workshop/manage-settings-privacy/)
 - [Managing Settings: Permalinks](https://learn.wordpress.org/workshop/managing-settings-permalinks/)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/workshop/intro-to-the-site-editor-and-template-editor/)
 - [Building Sidebars With the Site Editor](https://learn.wordpress.org/workshop/building-sidebars-with-the-site-editor/)
@@ -222,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Create a Menu with the Navigation Block](https://learn.wordpress.org/workshop/how-to-create-a-menu-with-the-navigation-block/)
 - [How to Create Low-Code Block Patterns](https://learn.wordpress.org/workshop/how-to-create-low-code-block-patterns/)
 - [Making a Plugin Inside the Dashboard](https://learn.wordpress.org/workshop/making-a-plugin-inside-the-dashboard/)
-- [Styling Your Site With Global Styles](https://learn.wordpress.org/workshop/how-to-style-your-site-with-global-styles/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
