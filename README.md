@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Discussion: Revisiting In-person Regional WordCamps](https://make.wordpress.org/community/2022/03/17/discussion-revisiting-in-person-regional-wordcamps/)
 - [Meetup Organizer Newsletter: March 2022](https://make.wordpress.org/community/2022/03/14/meetup-organizer-newsletter-march-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on March 9, 2022](https://make.wordpress.org/community/2022/03/10/recap-of-the-diverse-speaker-training-group-wpdiversity-on-march-9-2022/)
 - [Community Team Meeting Recap – March 3, 2022](https://make.wordpress.org/community/2022/03/08/community-team-meeting-recap-march-3-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on February 23, 2022](https://make.wordpress.org/community/2022/02/24/recap-of-the-diverse-speaker-training-group-wpdiversity-on-february-23-2022/)
 - [2022 Global Sponsors: Announcement](https://make.wordpress.org/community/2022/02/21/2022-global-sponsors-announcement/)
 - [Proposal: Refurbishing Camera Kits](https://make.wordpress.org/community/2022/02/16/proposal-refurbishing-camera-kits/)
-- [Meetup Organizer Newsletter: February 2022](https://make.wordpress.org/community/2022/02/15/meetup-organizer-newsletter-february-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
