@@ -101,7 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
-- [Post Featured Image](https://wordpress.org/support/article/post-featured-image/)
+- [Post Featured Image Block](https://wordpress.org/support/article/post-featured-image-block/)
 - [Archive Title Block](https://wordpress.org/support/article/archive-title-block/)
 - [Term Description Block](https://wordpress.org/support/article/term-description-block/)
 - [Twenty Twenty-Two Changelog](https://wordpress.org/support/article/twenty-twenty-two-changelog/)
