@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Review Request for Improving Search Form Accessibility](https://make.wordpress.org/polyglots/2022/03/17/review-request-for-improving-search-form-accessibility/)
 - [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-points-and-rewards-for-woocommerce-3/)
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-jetpack-wp-security-backup-speed-growth-4/)
 - [PTE Request for Cookies and Content Security Policy](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-cookies-and-content-security-policy-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/03/15/pte-request-for-customer-reviews-for-woocommerce-16/)
 - [Hello, Polyglots!](https://make.wordpress.org/polyglots/2022/03/14/hello-polyglots-293/)
 - [Hello, Can anyone in the…](https://make.wordpress.org/polyglots/2022/03/14/hello-can-anyone-in-the/)
-- [PTE Request for Multicollab – Google Doc-Style Editorial Commenting for WordPress](https://make.wordpress.org/polyglots/2022/03/14/pte-request-for-multicollab-google-doc-style-editorial-commenting-for-wordpress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
