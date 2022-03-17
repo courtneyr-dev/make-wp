@@ -452,6 +452,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Freelance WordPress full-stack developer](https://jobs.wordpress.net/job/freelance-wordpress-full-stack-developer/)
 - [Video Editor / Content Producer](https://jobs.wordpress.net/job/video-editor-content-producer/)
 - [Customer Support Ninja](https://jobs.wordpress.net/job/customer-support-ninja/)
 - [Full Stack Developer &lpar;m/f/d&rpar; Remote](https://jobs.wordpress.net/job/full-stack-developer-m-f-d-remote/)
@@ -461,5 +462,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Website Project Manager](https://jobs.wordpress.net/job/wordpress-website-project-manager/)
 - [Social Media Manager](https://jobs.wordpress.net/job/social-media-manager/)
 - [Full Stack Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/full-stack-developer-remote/)
-- [WP All Import: Customer Support](https://jobs.wordpress.net/job/wp-all-import-customer-support/)
 <!-- JOBS:END -->
