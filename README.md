@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Devchat summary, March 16, 2022](https://make.wordpress.org/core/2022/03/17/devchat-summary-march-16-2022/)
 - [Bug Scrub for Two-Factor plugin](https://make.wordpress.org/core/2022/03/16/bug-scrub-for-two-factor-plugin/)
 - [What’s new in Gutenberg 12.8? &lpar;16 March&rpar;](https://make.wordpress.org/core/2022/03/16/whats-new-in-gutenberg-12-8-16-march/)
 - [Devchat agenda, March 16, 2022](https://make.wordpress.org/core/2022/03/15/devchat-agenda-march-16-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: 16th March 2022](https://make.wordpress.org/core/2022/03/14/editor-chat-agenda-16th-march-2022/)
 - [Performance Chat Agenda: 15 March 2022](https://make.wordpress.org/core/2022/03/14/performance-chat-agenda-15-march-2022/)
 - [Editor Chat Summary: 9th March 2022](https://make.wordpress.org/core/2022/03/14/editor-chat-summary-9th-march-2022/)
-- [WordPress 6.0 planning update](https://make.wordpress.org/core/2022/03/11/wordpress-6-0-planning-update/)
 <!-- CORE:END -->
 
 ## Design
