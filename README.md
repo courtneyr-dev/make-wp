@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Post Featured Image](https://wordpress.org/support/article/post-featured-image/)
 - [Archive Title Block](https://wordpress.org/support/article/archive-title-block/)
 - [Term Description Block](https://wordpress.org/support/article/term-description-block/)
 - [Twenty Twenty-Two Changelog](https://wordpress.org/support/article/twenty-twenty-two-changelog/)
@@ -109,7 +110,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dimension Controls Overview](https://wordpress.org/support/article/dimension-controls-overview/)
 - [Styles Overview](https://wordpress.org/support/article/styles-overview/)
 - [Navigation Block](https://wordpress.org/support/article/navigation-block/)
-- [Template Part Block](https://wordpress.org/support/article/template-part-block/)
 - [Site Editor](https://wordpress.org/support/article/site-editor/)
 <!-- HELPHUB:END -->
 
