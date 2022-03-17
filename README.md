@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Andrea Paternostro, Max Nardini: Creare pagine di ricerca e filtro con effetto wow &lpar;quasi&rpar; senza codice](https://wordpress.tv/2022/03/17/andrea-paternostro-max-nardini-creare-pagine-di-ricerca-e-filtro-con-effetto-wow-quasi-senza-codice/)
 - [Francesco Grasso: WooCommerce su misura – Template, action hooks e filters](https://wordpress.tv/2022/03/17/francesco-grasso-woocommerce-su-misura-template-action-hooks-e-filters/)
 - [Matteo Spirandelli: Opening Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-opening-remarks-wordpress-meetup-day-2022/)
 - [Adding a Site Tagline to Block Themes](https://wordpress.tv/2022/03/13/adding-a-site-tagline-to-block-themes/)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Style Your Site with Global Styles](https://wordpress.tv/2022/01/10/how-to-style-your-site-with-global-styles/)
 - [Organizing your Media Library](https://wordpress.tv/2022/01/09/organizing-your-media-library-2/)
 - [Rafa Poveda: La comunidad más mejor del mundo](https://wordpress.tv/2022/01/05/rafa-poveda-la-comunidad-mas-mejor-del-mundo/)
-- [Nilo Velez y Miguel Angel Terron: Nuestra historia de amor con WordPress](https://wordpress.tv/2022/01/05/nilo-velez-y-miguel-angel-terron-nuestra-historia-de-amor-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
