@@ -277,6 +277,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Luca Rodino: Il mondo Cookieless che verrà: i cambiamenti in arrivo e come prepararci](https://wordpress.tv/2022/03/17/luca-rodino-il-mondo-cookieless-che-verra-i-cambiamenti-in-arrivo-e-come-prepararci/)
+- [Dennis Ploetner: Contribuire ad un progetto open source](https://wordpress.tv/2022/03/17/dennis-ploetner-contribuire-ad-un-progetto-open-source/)
+- [Giacomo Cariulo: Da freelance ad agenzia. Skills e tools](https://wordpress.tv/2022/03/17/giacomo-cariulo-da-freelance-ad-agenzia-skills-e-tools/)
 - [Andrea Paternostro, Max Nardini: Creare pagine di ricerca e filtro con effetto wow &lpar;quasi&rpar; senza codice](https://wordpress.tv/2022/03/17/andrea-paternostro-max-nardini-creare-pagine-di-ricerca-e-filtro-con-effetto-wow-quasi-senza-codice/)
 - [Francesco Grasso: WooCommerce su misura – Template, action hooks e filters](https://wordpress.tv/2022/03/17/francesco-grasso-woocommerce-su-misura-template-action-hooks-e-filters/)
 - [Matteo Spirandelli: Opening Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-opening-remarks-wordpress-meetup-day-2022/)
@@ -299,9 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Clausura WordCamp Nicaragua 2021](https://wordpress.tv/2022/01/26/clausura-wordcamp-nicaragua-2021/)
 - [How to Create Low-Code Block Patterns](https://wordpress.tv/2022/01/24/how-to-create-low-code-block-patterns/)
 - [How to use the List View](https://wordpress.tv/2022/01/10/how-to-use-the-list-view/)
-- [How to Style Your Site with Global Styles](https://wordpress.tv/2022/01/10/how-to-style-your-site-with-global-styles/)
-- [Organizing your Media Library](https://wordpress.tv/2022/01/09/organizing-your-media-library-2/)
-- [Rafa Poveda: La comunidad más mejor del mundo](https://wordpress.tv/2022/01/05/rafa-poveda-la-comunidad-mas-mejor-del-mundo/)
 <!-- WPTV:END -->
 
 ## Marketing
