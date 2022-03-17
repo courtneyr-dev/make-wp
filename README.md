@@ -277,6 +277,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Piermario Orecchioni: Perche dovreste voler bene a Gutenberg e come iniziare a farlo](https://wordpress.tv/2022/03/17/piermario-orecchioni-perche-dovreste-voler-bene-a-gutenberg-e-come-iniziare-a-farlo/)
+- [Gaia Mazzucco, Andrea Giglio: La centralità dell’individuo all’interno dell’ambito IT](https://wordpress.tv/2022/03/17/gaia-mazzucco-andrea-giglio-la-centralita-dellindividuo-allinterno-dellambito-it/)
+- [Matteo Spirandelli, Alessandro Labianca: Closing Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-alessandro-labianca-closing-remarks-wordpress-meetup-day-2022/)
+- [Alessandro Vercellotti: Novità gdpr 2022](https://wordpress.tv/2022/03/17/alessandro-vercellotti-novita-gdpr-2022/)
 - [Luca Rodino: Il mondo Cookieless che verrà: i cambiamenti in arrivo e come prepararci](https://wordpress.tv/2022/03/17/luca-rodino-il-mondo-cookieless-che-verra-i-cambiamenti-in-arrivo-e-come-prepararci/)
 - [Dennis Ploetner: Contribuire ad un progetto open source](https://wordpress.tv/2022/03/17/dennis-ploetner-contribuire-ad-un-progetto-open-source/)
 - [Giacomo Cariulo: Da freelance ad agenzia. Skills e tools](https://wordpress.tv/2022/03/17/giacomo-cariulo-da-freelance-ad-agenzia-skills-e-tools/)
@@ -298,10 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Roxy Kohilakis: Template Parts](https://wordpress.tv/2022/02/07/roxy-kohilakis-template-parts/)
 - [Maciek Palmowski: Static WordPress – How To Make WordPress Faster And More Secure](https://wordpress.tv/2022/02/06/maciek-palmowski-static-wordpress-how-to-make-wordpress-faster-and-more-secure-2/)
 - [Anne McCarthy: Exploring WordPress 5.9](https://wordpress.tv/2022/02/03/anne-mccarthy-exploring-wordpress-5-9/)
-- [Piccia Neri: Diseño para convertir más: Las personas siempre en primer lugar](https://wordpress.tv/2022/02/01/piccia-neri-diseno-para-convertir-mas-las-personas-siempre-en-primer-lugar/)
-- [Clausura WordCamp Nicaragua 2021](https://wordpress.tv/2022/01/26/clausura-wordcamp-nicaragua-2021/)
-- [How to Create Low-Code Block Patterns](https://wordpress.tv/2022/01/24/how-to-create-low-code-block-patterns/)
-- [How to use the List View](https://wordpress.tv/2022/01/10/how-to-use-the-list-view/)
 <!-- WPTV:END -->
 
 ## Marketing
