@@ -277,6 +277,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Francesco Grasso: WooCommerce su misura – Template, action hooks e filters](https://wordpress.tv/2022/03/17/francesco-grasso-woocommerce-su-misura-template-action-hooks-e-filters/)
+- [Matteo Spirandelli: Opening Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-opening-remarks-wordpress-meetup-day-2022/)
 - [Adding a Site Tagline to Block Themes](https://wordpress.tv/2022/03/13/adding-a-site-tagline-to-block-themes/)
 - [Nick Diego: Builder Basics – Designing with Columns, Group, and Row Blocks](https://wordpress.tv/2022/03/10/nick-diego-builder-basics-designing-with-columns-group-and-row-blocks/)
 - [Manage Settings: Privacy](https://wordpress.tv/2022/03/07/manage-settings-privacy/)
@@ -300,8 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Organizing your Media Library](https://wordpress.tv/2022/01/09/organizing-your-media-library-2/)
 - [Rafa Poveda: La comunidad más mejor del mundo](https://wordpress.tv/2022/01/05/rafa-poveda-la-comunidad-mas-mejor-del-mundo/)
 - [Nilo Velez y Miguel Angel Terron: Nuestra historia de amor con WordPress](https://wordpress.tv/2022/01/05/nilo-velez-y-miguel-angel-terron-nuestra-historia-de-amor-con-wordpress/)
-- [Comunidad WordPress España: El autobus que nos paso por encima](https://wordpress.tv/2022/01/05/comunidad-wordpress-espana-el-autobus-que-nos-paso-por-encima/)
-- [Rocio Valdivia, Luis Herranz y Hector Prieto – Y ahora qué hacemos](https://wordpress.tv/2022/01/05/rocio-valdivia-luis-herranz-y-hector-prieto-y-ahora-que-hacemos/)
 <!-- WPTV:END -->
 
 ## Marketing
