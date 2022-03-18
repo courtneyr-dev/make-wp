@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [In last week’s Meta meeting,…](https://make.wordpress.org/meta/2022/03/18/in-last-weeks-meta-meeting/)
 - [Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/meta/2022/03/16/coming-soon-block-pattern-directory-submissions/)
 - [X-post: First review on the new Sitemap for HelpHub](https://make.wordpress.org/meta/2022/03/10/xpost-first-review-on-the-new-sitemap-for-helphub-or-documentation/)
 - [Meta Trac Ticket Focus, Feb 24](https://make.wordpress.org/meta/2022/02/24/meta-trac-ticket-focus-feb-24/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Discussion: Meta focuses in 2022](https://make.wordpress.org/meta/2022/01/05/discussion-meta-focuses-in-2022/)
 - [X-post: Proposal: Auto-populate WordCamp video details using the WordCamp JSON API](https://make.wordpress.org/meta/2021/12/07/xpost-proposal-auto-populate-wordcamp-video-details-using-the-wordcamp-json-api/)
 - [Request: New Social Learning Slack channel](https://make.wordpress.org/meta/2021/11/16/request-new-social-learning-slack-channel/)
-- [API outage 11 Nov 2021](https://make.wordpress.org/meta/2021/11/11/api-outage-11-nov-2021/)
 <!-- META:END -->
 
 ## Training
