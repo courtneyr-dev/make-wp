@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [String Review Request for Tag Groups](https://make.wordpress.org/polyglots/2022/03/18/string-review-request-for-tag-groups/)
 - [PTE Request for PublishPress Blocks…](https://make.wordpress.org/polyglots/2022/03/18/pte-request-for-publishpress-blocks/)
 - [Review Request for Improving Search Form Accessibility](https://make.wordpress.org/polyglots/2022/03/17/review-request-for-improving-search-form-accessibility/)
 - [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-points-and-rewards-for-woocommerce-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for DHL Parcel for WooCommerce](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-dhl-parcel-for-woocommerce/)
 - [PTE Request for theme and plugins](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-theme-and-plugins/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/03/15/pte-request-for-customer-reviews-for-woocommerce-16/)
-- [Hello, Polyglots!](https://make.wordpress.org/polyglots/2022/03/14/hello-polyglots-293/)
 <!-- POLYGLOTS:END -->
 
 ## Support
