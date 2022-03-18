@@ -453,6 +453,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Designer](https://jobs.wordpress.net/job/wordpress-designer-51/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-747/)
 - [Senior WP Developer – Products, Services, Core Contributor](https://jobs.wordpress.net/job/senior-wp-developer-products-services-core-contributor/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-5/)
 - [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-4/)
@@ -461,6 +463,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Video Editor / Content Producer](https://jobs.wordpress.net/job/video-editor-content-producer/)
 - [Customer Support Ninja](https://jobs.wordpress.net/job/customer-support-ninja/)
 - [Full Stack Developer &lpar;m/f/d&rpar; Remote](https://jobs.wordpress.net/job/full-stack-developer-m-f-d-remote/)
-- [Full-Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-8/)
-- [WordPress Accessibility Tester](https://jobs.wordpress.net/job/wordpress-accessibility-tester/)
 <!-- JOBS:END -->
