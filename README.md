@@ -236,6 +236,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Builder Basics: Exploring Block Layout, Alignment, and Dimensions &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions-part-2)
+- [Builder Basics: Headers and Footers in Full Site Editing](https://learn.wordpress.org/?meeting=builder-basics-headers-and-footers-in-full-site-editing)
+- [Builder Basics: Designing with Columns, Group, and Row Blocks &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-designing-with-columns-group-and-row-blocks-part-2)
 - [Block Theme Discussions: Presets in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-presets-in-theme-json)
 - [Block Theme Discussions: Supports in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-supports-in-theme-json)
 - [Block Theme Discussions: JSON Schema](https://learn.wordpress.org/?meeting=block-theme-discussions-json-schema)
@@ -243,9 +246,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’m New To WordPress: Getting Started For The First Time](https://learn.wordpress.org/?meeting=im-new-to-wordpress-getting-started-for-the-first-time-2)
 - [WordPress for Writers: Launching your Writer Website](https://learn.wordpress.org/?meeting=wordpress-for-writers-launching-your-writer-website)
 - [Hello Blocks. Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block)
-- [Builder Basics: Designing with Columns, Group, and Row Blocks](https://learn.wordpress.org/?meeting=builder-basics-designing-with-columns-group-and-rows)
-- [Builder Basics: Exploring Block Layout, Alignment, Dimensions, and Spacing](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-dimensions-and-spacing)
-- [Intro to Theme Blocks](https://learn.wordpress.org/?meeting=intro-to-theme-blocks)
 <!-- SLS:END -->
 
 ## Test
