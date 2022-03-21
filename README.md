@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Post Categories Block](https://wordpress.org/support/article/post-categories-block/)
 - [Post Excerpt Block](https://wordpress.org/support/article/post-excerpt-block/)
 - [Post Title Block](https://wordpress.org/support/article/post-title-block/)
 - [Post Featured Image Block](https://wordpress.org/support/article/post-featured-image-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Comparing Patterns, Template Parts, and Reusable Blocks](https://wordpress.org/support/article/comparing-patterns-template-parts-and-reusable-blocks/)
 - [Twenty Twenty-Two](https://wordpress.org/support/article/twenty-twenty-two/)
 - [Dimension Controls Overview](https://wordpress.org/support/article/dimension-controls-overview/)
-- [Site Editor](https://wordpress.org/support/article/site-editor/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
