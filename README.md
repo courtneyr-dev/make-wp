@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Jorge González: Introducción a las Core Web Vitals](https://wordpress.tv/2022/03/21/jorge-gonzalez-introduccion-core-web-vitals/)
 - [Piermario Orecchioni: Perche dovreste voler bene a Gutenberg e come iniziare a farlo](https://wordpress.tv/2022/03/17/piermario-orecchioni-perche-dovreste-voler-bene-a-gutenberg-e-come-iniziare-a-farlo/)
 - [Gaia Mazzucco, Andrea Giglio: La centralità dell’individuo all’interno dell’ambito IT](https://wordpress.tv/2022/03/17/gaia-mazzucco-andrea-giglio-la-centralita-dellindividuo-allinterno-dellambito-it/)
 - [Matteo Spirandelli, Alessandro Labianca: Closing Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-alessandro-labianca-closing-remarks-wordpress-meetup-day-2022/)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Create a Menu with the Navigation Block](https://wordpress.tv/2022/02/08/how-to-create-a-menu-with-the-navigation-block/)
 - [Roxy Kohilakis: Template Parts](https://wordpress.tv/2022/02/07/roxy-kohilakis-template-parts/)
 - [Maciek Palmowski: Static WordPress – How To Make WordPress Faster And More Secure](https://wordpress.tv/2022/02/06/maciek-palmowski-static-wordpress-how-to-make-wordpress-faster-and-more-secure-2/)
-- [Anne McCarthy: Exploring WordPress 5.9](https://wordpress.tv/2022/02/03/anne-mccarthy-exploring-wordpress-5-9/)
 <!-- WPTV:END -->
 
 ## Marketing
