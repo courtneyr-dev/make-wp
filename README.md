@@ -250,6 +250,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for iOS 19.5](https://make.wordpress.org/test/2022/03/21/xpost-call-for-testing-wordpress-for-ios-19-5/)
 - [X-post: Call for Testing: WordPress for Android 19.5](https://make.wordpress.org/test/2022/03/21/xpost-call-for-testing-wordpress-for-android-19-5/)
 - [FSE Program: Bring your questions – Round Three](https://make.wordpress.org/test/2022/03/16/fse-program-bring-your-questions-round-three/)
 - [Test Team Chat Summary: 15 March 2022](https://make.wordpress.org/test/2022/03/16/test-team-chat-summary-15-march-2022/)
@@ -259,7 +260,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [FSE Program All Things Media Summary](https://make.wordpress.org/test/2022/02/25/fse-program-all-things-media-summary/)
 - [FSE Program Testing Call #12: Hyping Headers](https://make.wordpress.org/test/2022/02/23/fse-program-testing-call-12-hyping-headers/)
 - [X-post: Call for Testing: WordPress for iOS 19.3](https://make.wordpress.org/test/2022/02/22/xpost-call-for-testing-wordpress-for-ios-19-3/)
-- [X-post: Call for Testing: WordPress for Android 19.3](https://make.wordpress.org/test/2022/02/22/xpost-call-for-testing-wordpress-for-android-19-3/)
 <!-- TEST:END -->
 
 ## TV
