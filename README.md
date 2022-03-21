@@ -236,6 +236,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-3)
+- [Create a Magazine Layout with the WordPress Gutenberg Block Editor](https://learn.wordpress.org/?meeting=create-a-magazine-layout-with-the-wordpress-gutenberg-block-editor)
 - [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://learn.wordpress.org/?meeting=creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template)
 - [Builder Basics: Exploring Block Layout, Alignment, and Dimensions &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions-part-2)
 - [Builder Basics: Headers and Footers in Full Site Editing](https://learn.wordpress.org/?meeting=builder-basics-headers-and-footers-in-full-site-editing)
@@ -244,8 +246,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Theme Discussions: Supports in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-supports-in-theme-json)
 - [Block Theme Discussions: JSON Schema](https://learn.wordpress.org/?meeting=block-theme-discussions-json-schema)
 - [Block Theme Discussions: Custom Fonts](https://learn.wordpress.org/?meeting=block-theme-discussions-custom-fonts)
-- [I’m New To WordPress: Getting Started For The First Time](https://learn.wordpress.org/?meeting=im-new-to-wordpress-getting-started-for-the-first-time-2)
-- [WordPress for Writers: Launching your Writer Website](https://learn.wordpress.org/?meeting=wordpress-for-writers-launching-your-writer-website)
 <!-- SLS:END -->
 
 ## Test
