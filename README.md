@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/03/21/pte-request-for-customer-reviews-for-woocommerce-17/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2022/03/20/i-am-the-author-of-6/)
 - [PTE Request for Slimstat Analytics &lpar;wp-slimstat&rpar;](https://make.wordpress.org/polyglots/2022/03/18/pte-request-for-slimstat-analytics-wp-slimstat/)
 - [String Review Request for Tag Groups](https://make.wordpress.org/polyglots/2022/03/18/string-review-request-for-tag-groups/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-jetpack-wp-security-backup-speed-growth-4/)
 - [PTE Request for Cookies and Content Security Policy](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-cookies-and-content-security-policy-3/)
 - [Agenda: Weekly Polyglots Chat – March 16, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/16/agenda-weekly-polyglots-chat-march-16-2022-1300-utc/)
-- [PTE Request for DHL Parcel for WooCommerce](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-dhl-parcel-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
