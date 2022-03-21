@@ -348,6 +348,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Tide
 <!-- TIDE:START -->
+- [CANCELLED Tide Chat: March 29th](https://make.wordpress.org/tide/2022/03/21/cancelled-tide-chat-march-29th/)
 - [CANCELLED Tide Chat: March 1st](https://make.wordpress.org/tide/2022/02/27/cancelled-tide-chat-march-1st/)
 - [Tide Chat Agenda: February 15th](https://make.wordpress.org/tide/2022/02/14/tide-chat-agenda-february-15th/)
 - [CANCELLED Tide Chat: February 1st](https://make.wordpress.org/tide/2022/01/31/cancelled-tide-chat-february-1st/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tide Chat Summary: November 9th](https://make.wordpress.org/tide/2021/11/10/tide-chat-summary-november-9th/)
 - [Tide Chat Agenda: October 26th](https://make.wordpress.org/tide/2021/10/25/tide-chat-agenda-october-26th/)
 - [Tide Chat Summary: October 12th](https://make.wordpress.org/tide/2021/10/12/tide-chat-summary-october-12th/)
-- [Tide Chat Agenda: October 12th](https://make.wordpress.org/tide/2021/10/11/tide-chat-agenda-october-12th/)
 <!-- TIDE:END -->
 
 ## Openverse
