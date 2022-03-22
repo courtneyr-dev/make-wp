@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Polyglots Monthly Newsletter: March 2022](https://make.wordpress.org/polyglots/2022/03/22/polyglots-monthly-newsletter-march-2022/)
 - [PTE Request for theme-my-login](https://make.wordpress.org/polyglots/2022/03/22/pte-request-for-theme-my-login/)
 - [PTE Request for [One Click Upsell Funnel for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/22/pte-request-for-one-click-upsell-funnel-for-woocommerce/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/03/21/pte-request-for-customer-reviews-for-woocommerce-17/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for PublishPress Blocks…](https://make.wordpress.org/polyglots/2022/03/18/pte-request-for-publishpress-blocks/)
 - [Review Request for Improving Search Form Accessibility](https://make.wordpress.org/polyglots/2022/03/17/review-request-for-improving-search-form-accessibility/)
 - [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-points-and-rewards-for-woocommerce-3/)
-- [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/03/16/pte-request-for-jetpack-wp-security-backup-speed-growth-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
