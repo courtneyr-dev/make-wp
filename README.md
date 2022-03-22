@@ -453,6 +453,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Sales Manager](https://jobs.wordpress.net/job/sales-manager-3/)
+- [Build personal WordPress website](https://jobs.wordpress.net/job/build-personal-wordpress-website/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-3/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-29/)
 - [[rtCamp] Senior React Engineer](https://jobs.wordpress.net/job/rtcamp-senior-react-engineer-19/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-16/)
@@ -460,7 +463,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Designer](https://jobs.wordpress.net/job/wordpress-designer-51/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-747/)
 - [Senior WP Developer – Products, Services, Core Contributor](https://jobs.wordpress.net/job/senior-wp-developer-products-services-core-contributor/)
-- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-5/)
-- [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-4/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-746/)
 <!-- JOBS:END -->
