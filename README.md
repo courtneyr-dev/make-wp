@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – March 21, 2022](https://make.wordpress.org/core/2022/03/21/a-week-in-core-march-21-2022/)
 - [Performance Chat Agenda: 22 March 2022](https://make.wordpress.org/core/2022/03/21/performance-chat-agenda-22-march-2022/)
 - [Editor chat summary: Wednesday, 16 March 2022](https://make.wordpress.org/core/2022/03/18/editor-chat-summary-wednesday-16-march-2022/)
 - [Devchat summary, March 16, 2022](https://make.wordpress.org/core/2022/03/17/devchat-summary-march-16-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance team meeting summary 15 March 2022](https://make.wordpress.org/core/2022/03/15/performance-team-meeting-summary-15-march-2022/)
 - [Bug Scrub Schedule for 6.0](https://make.wordpress.org/core/2022/03/15/bug-scrub-schedule-for-6-0/)
 - [A Week in Core – March 14, 2022](https://make.wordpress.org/core/2022/03/14/a-week-in-core-march-14-2022/)
-- [Editor Chat Agenda: 16th March 2022](https://make.wordpress.org/core/2022/03/14/editor-chat-agenda-16th-march-2022/)
 <!-- CORE:END -->
 
 ## Design
