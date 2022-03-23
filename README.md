@@ -250,6 +250,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Migrating WordPress E2E tests to Playwright](https://make.wordpress.org/test/2022/03/23/xpost-migrating-wordpress-e2e-tests-to-playwright/)
 - [X-post: Test Team Update for 21 March 2022](https://make.wordpress.org/test/2022/03/21/xpost-test-team-update-for-21-march-2022/)
 - [X-post: Call for Testing: WordPress for iOS 19.5](https://make.wordpress.org/test/2022/03/21/xpost-call-for-testing-wordpress-for-ios-19-5/)
 - [X-post: Call for Testing: WordPress for Android 19.5](https://make.wordpress.org/test/2022/03/21/xpost-call-for-testing-wordpress-for-android-19-5/)
@@ -259,7 +260,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Testing: WordPress for Android 19.4](https://make.wordpress.org/test/2022/03/07/xpost-call-for-testing-wordpress-for-android-19-4/)
 - [Test Team Chat Summary: 1 March 2022](https://make.wordpress.org/test/2022/03/02/test-team-chat-summary-1-march-2022/)
 - [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/test/2022/02/26/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
-- [FSE Program All Things Media Summary](https://make.wordpress.org/test/2022/02/25/fse-program-all-things-media-summary/)
 <!-- TEST:END -->
 
 ## TV
