@@ -306,6 +306,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Agenda: Global Marketing Team, 23 March 2022](https://make.wordpress.org/marketing/2022/03/23/agenda-global-marketing-team-23-march-2022/)
+- [Notes: Global Marketing Team – 16 March 2022](https://make.wordpress.org/marketing/2022/03/23/notes-global-marketing-team-march-16-2022/)
 - [Agenda: Global Marketing Team, 16 March 2022](https://make.wordpress.org/marketing/2022/03/16/agenda-global-marketing-team-16-march-2022/)
 - [Notes: Global Marketing Team – March 9, 2022](https://make.wordpress.org/marketing/2022/03/16/notes-global-marketing-team-march-9-2022/)
 - [Agenda: Global Marketing Team, 9 March 2022](https://make.wordpress.org/marketing/2022/03/09/agenda-global-marketing-team-9-march-2022/)
@@ -314,8 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Notes: Global Marketing Team, 23 February 2022](https://make.wordpress.org/marketing/2022/03/01/notes-global-marketing-team-23-february-2022/)
 - [X-post: What’s new on LearnWP in February 2022](https://make.wordpress.org/marketing/2022/02/28/xpost-whats-new-on-learnwp-in-february-2022/)
 - [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/marketing/2022/02/27/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
-- [Agenda: Global Marketing Team, 23 February 2022](https://make.wordpress.org/marketing/2022/02/23/agenda-global-marketing-team-23-february-2022/)
-- [Notes: Global Marketing Meeting, 16 February 2022](https://make.wordpress.org/marketing/2022/02/21/notes-global-marketing-meeting-16-february-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
