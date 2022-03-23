@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [WP Job Openings – Job Listing, Career Page and Recruitment Plugin]](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-job-openings-job-listing-career-page-and-recruitment-plugin/)
+- [PTE Request for WP User Frontend](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-user-frontend/)
 - [Agenda: Weekly Polyglots Chat – Mar. 23, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/22/agenda-weekly-polyglots-chat-mar-23-2022-0700-utc/)
 - [Polyglots Monthly Newsletter: March 2022](https://make.wordpress.org/polyglots/2022/03/22/polyglots-monthly-newsletter-march-2022/)
 - [PTE Request for theme-my-login](https://make.wordpress.org/polyglots/2022/03/22/pte-request-for-theme-my-login/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the author of…](https://make.wordpress.org/polyglots/2022/03/20/i-am-the-author-of-6/)
 - [PTE Request for Slimstat Analytics &lpar;wp-slimstat&rpar;](https://make.wordpress.org/polyglots/2022/03/18/pte-request-for-slimstat-analytics-wp-slimstat/)
 - [String Review Request for Tag Groups](https://make.wordpress.org/polyglots/2022/03/18/string-review-request-for-tag-groups/)
-- [PTE Request for PublishPress Blocks…](https://make.wordpress.org/polyglots/2022/03/18/pte-request-for-publishpress-blocks/)
-- [Review Request for Improving Search Form Accessibility](https://make.wordpress.org/polyglots/2022/03/17/review-request-for-improving-search-form-accessibility/)
 <!-- POLYGLOTS:END -->
 
 ## Support
