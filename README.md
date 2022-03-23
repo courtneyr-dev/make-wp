@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Submit your Block Pattern to the Directory](https://wordpress.org/support/article/submit-your-block-pattern-to-the-directory/)
 - [Post Date Block](https://wordpress.org/support/article/post-date-block/)
 - [Post Tags Block](https://wordpress.org/support/article/post-tags-block/)
 - [Post Categories Block](https://wordpress.org/support/article/post-categories-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Archive Title Block](https://wordpress.org/support/article/archive-title-block/)
 - [Term Description Block](https://wordpress.org/support/article/term-description-block/)
 - [Comparing Patterns, Template Parts, and Reusable Blocks](https://wordpress.org/support/article/comparing-patterns-template-parts-and-reusable-blocks/)
-- [Twenty Twenty-Two](https://wordpress.org/support/article/twenty-twenty-two/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
