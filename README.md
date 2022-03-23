@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Working on WordPress release 6.0 – Selecting Trac tickets for DevNotes](https://make.wordpress.org/docs/2022/03/23/working-on-wordpress-release-6-0-selecting-trac-tickets-for-devnotes/)
 - [Summary of Docs Team Meeting March 22, 2022](https://make.wordpress.org/docs/2022/03/23/summary-of-docs-team-meeting-march-22-2022/)
 - [Agenda for docs team bi-weekly meeting 22 March 2022](https://make.wordpress.org/docs/2022/03/22/agenda-for-docs-team-bi-weekly-meeting-22-march-2022/)
 - [X-post: Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/docs/2022/03/16/xpost-coming-soon-block-pattern-directory-submissions/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of Docs Team Meeting Feb 22, 2022](https://make.wordpress.org/docs/2022/03/02/summary-of-docs-team-meeting-feb-22-2022/)
 - [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/docs/2022/02/25/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
 - [Agenda for docs team bi-weekly meeting 22 February 2022](https://make.wordpress.org/docs/2022/02/21/agenda-for-docs-team-bi-weekly-meeting-22-february-2022/)
-- [The hashtag and its future in documentation articles](https://make.wordpress.org/docs/2022/02/20/the-hashtag-and-its-future-in-documentation-articles/)
 <!-- DOCS:END -->
 
 ### Support Articles
