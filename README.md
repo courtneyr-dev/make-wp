@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Aruba HiSpeed Cache](https://make.wordpress.org/polyglots/2022/03/24/pte-request-for-aruba-hispeed-cache/)
 - [PTE Request for [WP Job Openings – Job Listing, Career Page and Recruitment Plugin]](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-job-openings-job-listing-career-page-and-recruitment-plugin/)
 - [PTE Request for WP User Frontend](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-user-frontend/)
 - [Agenda: Weekly Polyglots Chat – Mar. 23, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/22/agenda-weekly-polyglots-chat-mar-23-2022-0700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/03/21/pte-request-for-customer-reviews-for-woocommerce-17/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2022/03/20/i-am-the-author-of-6/)
 - [PTE Request for Slimstat Analytics &lpar;wp-slimstat&rpar;](https://make.wordpress.org/polyglots/2022/03/18/pte-request-for-slimstat-analytics-wp-slimstat/)
-- [String Review Request for Tag Groups](https://make.wordpress.org/polyglots/2022/03/18/string-review-request-for-tag-groups/)
 <!-- POLYGLOTS:END -->
 
 ## Support
