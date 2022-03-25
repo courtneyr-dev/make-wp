@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using Plugin Favorites on WordPress.org](https://learn.wordpress.org/workshop/using-plugin-favorites-on-wordpress-org/)
 - [Adding a Site Tagline to Block Themes](https://learn.wordpress.org/workshop/adding-a-site-tagline-to-block-themes/)
 - [Manage Settings: Privacy](https://learn.wordpress.org/workshop/manage-settings-privacy/)
 - [Managing Settings: Permalinks](https://learn.wordpress.org/workshop/managing-settings-permalinks/)
@@ -222,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Template Parts](https://learn.wordpress.org/workshop/template-parts/)
 - [Making Dashboard Widgets](https://learn.wordpress.org/workshop/making-dashboard-widgets/)
 - [How to Create a Menu with the Navigation Block](https://learn.wordpress.org/workshop/how-to-create-a-menu-with-the-navigation-block/)
-- [How to Create Low-Code Block Patterns](https://learn.wordpress.org/workshop/how-to-create-low-code-block-patterns/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
