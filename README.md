@@ -426,6 +426,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Get Creative with the All-New Pattern Creator](https://wordpress.org/news/2022/03/get-creative-with-the-all-new-pattern-creator/)
 - [WP Briefing: Episode 27: Is WordPress Made for Me?](https://wordpress.org/news/2022/03/episode-27-is-wordpress-made-for-me/)
 - [WordPress 5.9.2 Security and Maintenance Release](https://wordpress.org/news/2022/03/wordpress-5-9-2-security-maintenance-release/)
 - [WP Briefing: Episode 26: Matt Mullenweg on Ukraine, Community, and WordPress](https://wordpress.org/news/2022/03/episode-26-matt-mullenweg-on-ukraine-community-and-wordpress/)
@@ -450,7 +451,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 5.9 Beta 3](https://wordpress.org/news/2021/12/wordpress-5-9-beta-3/)
 - [WordPress 5.9 Beta 2](https://wordpress.org/news/2021/12/wordpress-5-9-beta-2/)
 - [The Month in WordPress – November 2021](https://wordpress.org/news/2021/12/month-in-wordpress-november-2021/)
-- [WordPress 5.9 Beta 1](https://wordpress.org/news/2021/11/wordpress-5-9-beta-1/)
 <!-- NEWS:END -->
 
 ## Jobs
