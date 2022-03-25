@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Taking Advantage of Query Loops](https://wordpress.tv/2022/03/25/taking-advantage-of-query-loops/)
 - [WordPress for Writers: Launching your Writer Website](https://wordpress.tv/2022/03/21/wordpress-for-writers-launching-your-writer-website/)
 - [Jorge González: Introducción a las Core Web Vitals](https://wordpress.tv/2022/03/21/jorge-gonzalez-introduccion-core-web-vitals/)
 - [Piermario Orecchioni: Perche dovreste voler bene a Gutenberg e come iniziare a farlo](https://wordpress.tv/2022/03/17/piermario-orecchioni-perche-dovreste-voler-bene-a-gutenberg-e-come-iniziare-a-farlo/)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Andras Guseo: Débogage et dépannage de WordPress](https://wordpress.tv/2022/02/10/andras-guseo-debogage-et-depannage-de-wordpress/)
 - [Templates](https://wordpress.tv/2022/02/08/templates/)
 - [How to Create a Menu with the Navigation Block](https://wordpress.tv/2022/02/08/how-to-create-a-menu-with-the-navigation-block/)
-- [Roxy Kohilakis: Template Parts](https://wordpress.tv/2022/02/07/roxy-kohilakis-template-parts/)
 <!-- WPTV:END -->
 
 ## Marketing
