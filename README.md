@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-749/)
 - [Senior PHP/WordPress Developer](https://jobs.wordpress.net/job/senior-php-wordpress-developer-4/)
 - [WordPress &amp; Full Stack Web Developer &lpar;6 month contract, minimum&rpar;](https://jobs.wordpress.net/job/wordpress-full-stack-web-developer-6-month-contract-minimum/)
 - [Frontend Web Designer – WordPress, Elementor, HTML,CSS](https://jobs.wordpress.net/job/frontend-web-designer-wordpress-elementor-htmlcss-3/)
@@ -464,5 +465,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sales Manager](https://jobs.wordpress.net/job/sales-manager-3/)
 - [Build personal WordPress website](https://jobs.wordpress.net/job/build-personal-wordpress-website/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-3/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-29/)
 <!-- JOBS:END -->
