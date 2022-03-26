@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/03/26/post-title-pte-request-for-visidea/)
 - [PTE Request for Aruba HiSpeed Cache](https://make.wordpress.org/polyglots/2022/03/24/pte-request-for-aruba-hispeed-cache/)
 - [PTE Request for [WP Job Openings – Job Listing, Career Page and Recruitment Plugin]](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-job-openings-job-listing-career-page-and-recruitment-plugin/)
 - [PTE Request for WP User Frontend](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-user-frontend/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [One Click Upsell Funnel for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/22/pte-request-for-one-click-upsell-funnel-for-woocommerce/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/03/21/pte-request-for-customer-reviews-for-woocommerce-17/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2022/03/20/i-am-the-author-of-6/)
-- [PTE Request for Slimstat Analytics &lpar;wp-slimstat&rpar;](https://make.wordpress.org/polyglots/2022/03/18/pte-request-for-slimstat-analytics-wp-slimstat/)
 <!-- POLYGLOTS:END -->
 
 ## Support
