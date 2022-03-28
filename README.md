@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Customer Reviews for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-customer-reviews-for-woocommerce-18/)
 - [PTE Request for Skins for Contact Form 7](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-skins-for-contact-form-7/)
 - [PTE Request for Wp-Adv-Quiz](https://make.wordpress.org/polyglots/2022/03/27/pte-request-for-wp-adv-quiz-2/)
 - [PTE Request for [Post to Google My Business &lpar;Google Business Profile&rpar;]](https://make.wordpress.org/polyglots/2022/03/26/pte-request-for-post-to-google-my-business-google-business-profile/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WP User Frontend](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-user-frontend/)
 - [Agenda: Weekly Polyglots Chat – Mar. 23, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/22/agenda-weekly-polyglots-chat-mar-23-2022-0700-utc/)
 - [Polyglots Monthly Newsletter: March 2022](https://make.wordpress.org/polyglots/2022/03/22/polyglots-monthly-newsletter-march-2022/)
-- [PTE Request for theme-my-login](https://make.wordpress.org/polyglots/2022/03/22/pte-request-for-theme-my-login/)
 <!-- POLYGLOTS:END -->
 
 ## Support
