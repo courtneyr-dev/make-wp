@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-jetpack-wp-security-backup-speed-growth-5/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2022/03/29/i-am-the-plugin-author-25/)
 - [PTE Request for Migration, Backup, Staging – WPvivid](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-migration-backup-staging-wpvivid/)
 - [PTE Request for [Customer Reviews for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-customer-reviews-for-woocommerce-18/)
 - [PTE Request for Skins for Contact Form 7](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-skins-for-contact-form-7/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/03/26/post-title-pte-request-for-visidea/)
 - [PTE Request for Aruba HiSpeed Cache](https://make.wordpress.org/polyglots/2022/03/24/pte-request-for-aruba-hispeed-cache/)
 - [PTE Request for [WP Job Openings – Job Listing, Career Page and Recruitment Plugin]](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-job-openings-job-listing-career-page-and-recruitment-plugin/)
-- [PTE Request for WP User Frontend](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-user-frontend/)
-- [Agenda: Weekly Polyglots Chat – Mar. 23, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/22/agenda-weekly-polyglots-chat-mar-23-2022-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
