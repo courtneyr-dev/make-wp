@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance team meeting summary 29 March 2022](https://make.wordpress.org/core/2022/03/29/performance-team-meeting-summary-29-march-2022/)
 - [Editor Chat Agenda: 30 March 2022](https://make.wordpress.org/core/2022/03/29/editor-chat-agenda-30-march-2022/)
 - [A Week in Core – March 28, 2022](https://make.wordpress.org/core/2022/03/29/a-week-in-core-march-28-2022/)
 - [Enabling WebP by default](https://make.wordpress.org/core/2022/03/28/enabling-webp-by-default/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Migrating WordPress E2E tests to Playwright](https://make.wordpress.org/core/2022/03/23/migrating-wordpress-e2e-tests-to-playwright/)
 - [Dev Chat Agenda – March 23, 2022](https://make.wordpress.org/core/2022/03/22/dev-chat-march-23-2022/)
 - [Performance team meeting summary 22 March 2022](https://make.wordpress.org/core/2022/03/22/performance-team-meeting-summary-22-march-2022/)
-- [Editor Chat Agenda: 23 March 2022](https://make.wordpress.org/core/2022/03/22/editor-chat-agenda-23-march-2022/)
 <!-- CORE:END -->
 
 ## Design
