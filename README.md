@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [How To Add and Remove Logo And Site Icon in Site Editor](https://learn.wordpress.org/lesson-plan/how-to-add-and-remove-logo-and-site-icon-in-site-editor/)
 - [How to Use and Contribute to the WordPress Photo Directory and Openverse](https://learn.wordpress.org/lesson-plan/how-to-use-and-contribute-to-the-wordpress-photo-directory-and-openverse/)
 - [Templates](https://learn.wordpress.org/lesson-plan/templates/)
 - [Introduction To Common Plugins](https://learn.wordpress.org/lesson-plan/introduction-to-common-plugins/)
@@ -208,7 +209,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Template Parts](https://learn.wordpress.org/lesson-plan/template-parts/)
 - [Difference between Reusable Blocks,  Block Pattern, Templates, Template Parts](https://learn.wordpress.org/lesson-plan/difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [Use Duotone Filters to Change Color Effects](https://learn.wordpress.org/lesson-plan/use-duotone-filters-to-change-color-effects/)
-- [How to Style Your Site with Global Styles](https://learn.wordpress.org/lesson-plan/how-to-style-your-site-with-global-styles/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
