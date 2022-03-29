@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for GeoDirectory](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-geodirectory-3/)
+- [I’ve suggested Croatian translations for…](https://make.wordpress.org/polyglots/2022/03/29/ive-suggested-croatian-translations-for/)
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-jetpack-wp-security-backup-speed-growth-5/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/03/29/i-am-the-plugin-author-25/)
 - [PTE Request for Migration, Backup, Staging – WPvivid](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-migration-backup-staging-wpvivid/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Wp-Adv-Quiz](https://make.wordpress.org/polyglots/2022/03/27/pte-request-for-wp-adv-quiz-2/)
 - [PTE Request for [Post to Google My Business &lpar;Google Business Profile&rpar;]](https://make.wordpress.org/polyglots/2022/03/26/pte-request-for-post-to-google-my-business-google-business-profile/)
 - [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/03/26/post-title-pte-request-for-visidea/)
-- [PTE Request for Aruba HiSpeed Cache](https://make.wordpress.org/polyglots/2022/03/24/pte-request-for-aruba-hispeed-cache/)
-- [PTE Request for [WP Job Openings – Job Listing, Career Page and Recruitment Plugin]](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-job-openings-job-listing-career-page-and-recruitment-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
