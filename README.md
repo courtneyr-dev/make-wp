@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Displaying the Post Comments Block in Block Themes](https://wordpress.tv/2022/03/29/displaying-the-post-comments-block-in-block-themes/)
 - [WordPress im Terminal – Bash, SSH und WP-CLI](https://wordpress.tv/2022/03/29/wordpress-im-terminal-bash-ssh-und-wp-cli/)
 - [Strukturierte Daten in der Suchmaschine](https://wordpress.tv/2022/03/29/strukturierte-daten-in-der-suchmaschine/)
 - [Hello Blocks! Coding a custom block](https://wordpress.tv/2022/03/29/hello-blocks-coding-a-custom-block/)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is the difference between WordPress .Com and .Org?](https://wordpress.tv/2022/02/28/what-is-the-difference-between-wordpress-com-and-org/)
 - [Managing Settings: Permalinks](https://wordpress.tv/2022/02/28/managing-settings-permalinks/)
 - [Onlinevortrag: „WP 5.9, Full Site Editing, FSE-Themes «Twenty Twenty-Two» sowie «Aino»”](https://wordpress.tv/2022/02/24/onlinevortrag-wp-5-9-full-site-editing-fse-themes-twenty-twenty-two-sowie-aino/)
-- [Intro to the Site Editor and Template Editor](https://wordpress.tv/2022/02/20/intro-to-the-site-editor-and-template-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
