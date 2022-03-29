@@ -384,6 +384,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Plugin Review Team: 28 March 2022](https://make.wordpress.org/updates/2022/03/28/plugin-review-team-28-march-2022/)
 - [Test Team Update for 28 March 2022](https://make.wordpress.org/updates/2022/03/28/test-team-update-for-28-march-2022/)
 - [Documentation Team Update – March 28, 2022](https://make.wordpress.org/updates/2022/03/28/documentation-team-update-march-28-2022/)
 - [Themes team update March 22, 2022](https://make.wordpress.org/updates/2022/03/22/themes-team-update-march-22-2022/)
@@ -393,7 +394,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Documentation Team Update – March 21, 2022](https://make.wordpress.org/updates/2022/03/21/documentation-team-update-march-21-2022/)
 - [X-post: In last week’s Meta meeting,…](https://make.wordpress.org/updates/2022/03/18/xpost-in-last-weeks-meta-meeting/)
 - [X-post: Proposal to remove spam/dormant Five for the Future pledges](https://make.wordpress.org/updates/2022/03/16/xpost-proposal-to-remove-spam-dormant-five-for-the-future-pledges/)
-- [Themes team update March 15, 2022](https://make.wordpress.org/updates/2022/03/15/themes-team-update-march-15-2022/)
 <!-- UPDATES:END -->
 
 ## Project
