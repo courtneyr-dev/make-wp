@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – March 30, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/30/agenda-weekly-polyglots-chat-march-30-2022-1300-utc/)
 - [PTE Request for GeoDirectory](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-geodirectory-3/)
 - [I’ve suggested Croatian translations for…](https://make.wordpress.org/polyglots/2022/03/29/ive-suggested-croatian-translations-for/)
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-jetpack-wp-security-backup-speed-growth-5/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Skins for Contact Form 7](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-skins-for-contact-form-7/)
 - [PTE Request for Wp-Adv-Quiz](https://make.wordpress.org/polyglots/2022/03/27/pte-request-for-wp-adv-quiz-2/)
 - [PTE Request for [Post to Google My Business &lpar;Google Business Profile&rpar;]](https://make.wordpress.org/polyglots/2022/03/26/pte-request-for-post-to-google-my-business-google-business-profile/)
-- [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/03/26/post-title-pte-request-for-visidea/)
 <!-- POLYGLOTS:END -->
 
 ## Support
