@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Milana Cap, Birgit Pauli-Haack, Courtney Engle Robertson, Femy Praseeth, Akira Tachibana: WordPress release 6.0 Trac ticket triage for docs](https://wordpress.tv/2022/03/30/milana-cap-birgit-pauli-haack-courtney-engle-robertson-femy-praseeth-akira-tachibana-wordpress-release-6-0-trac-ticket-triage-for-docs/)
 - [Displaying the Post Comments Block in Block Themes](https://wordpress.tv/2022/03/29/displaying-the-post-comments-block-in-block-themes/)
 - [WordPress im Terminal – Bash, SSH und WP-CLI](https://wordpress.tv/2022/03/29/wordpress-im-terminal-bash-ssh-und-wp-cli/)
 - [Strukturierte Daten in der Suchmaschine](https://wordpress.tv/2022/03/29/strukturierte-daten-in-der-suchmaschine/)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Milana Cap: Update screenshots in WordPress documentation](https://wordpress.tv/2022/03/04/update-screenshots-in-wordpress-documentation/)
 - [What is the difference between WordPress .Com and .Org?](https://wordpress.tv/2022/02/28/what-is-the-difference-between-wordpress-com-and-org/)
 - [Managing Settings: Permalinks](https://wordpress.tv/2022/02/28/managing-settings-permalinks/)
-- [Onlinevortrag: „WP 5.9, Full Site Editing, FSE-Themes «Twenty Twenty-Two» sowie «Aino»”](https://wordpress.tv/2022/02/24/onlinevortrag-wp-5-9-full-site-editing-fse-themes-twenty-twenty-two-sowie-aino/)
 <!-- WPTV:END -->
 
 ## Marketing
