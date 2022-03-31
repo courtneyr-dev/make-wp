@@ -455,6 +455,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Creative Professional &lpar;Designer&rpar;](https://jobs.wordpress.net/job/creative-professional-designer/)
+- [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-20/)
+- [[Astra] Partnerships Specialist &lpar;Affiliate / Influencer Marketing&rpar;](https://jobs.wordpress.net/job/astra-partnerships-specialist-affiliate-influencer-marketing/)
 - [https://secure.collage.co/jobs/saucal/76](https://jobs.wordpress.net/job/https-secure-collage-co-jobs-saucal-76/)
 - [BackEnd Developer](https://jobs.wordpress.net/job/backend-developer-2/)
 - [Long-term Development on Popular Plugins &lpar;Part or Full time&rpar;](https://jobs.wordpress.net/job/long-term-development-on-popular-plugins-part-or-full-time-2/)
@@ -462,7 +465,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior PHP/WordPress Developer](https://jobs.wordpress.net/job/senior-php-wordpress-developer-4/)
 - [WordPress &amp; Full Stack Web Developer &lpar;6 month contract, minimum&rpar;](https://jobs.wordpress.net/job/wordpress-full-stack-web-developer-6-month-contract-minimum/)
 - [Frontend Web Designer – WordPress, Elementor, HTML,CSS](https://jobs.wordpress.net/job/frontend-web-designer-wordpress-elementor-htmlcss-3/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-748/)
-- [Expert WordPress Developer](https://jobs.wordpress.net/job/expert-wordpress-developer-17/)
-- [Senior WordPress Plugins Developer](https://jobs.wordpress.net/job/senior-wordpress-plugins-developer/)
 <!-- JOBS:END -->
