@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2022/03/31/pte-request-for-jetpack-4/)
+- [Hi, As I see there…](https://make.wordpress.org/polyglots/2022/03/31/hi-as-i-see-there/)
+- [Hi,](https://make.wordpress.org/polyglots/2022/03/31/hi-93/)
 - [Agenda: Weekly Polyglots Chat – March 30, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/30/agenda-weekly-polyglots-chat-march-30-2022-1300-utc/)
 - [PTE Request for GeoDirectory](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-geodirectory-3/)
 - [I’ve suggested Croatian translations for…](https://make.wordpress.org/polyglots/2022/03/29/ive-suggested-croatian-translations-for/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/03/29/i-am-the-plugin-author-25/)
 - [PTE Request for Migration, Backup, Staging – WPvivid](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-migration-backup-staging-wpvivid/)
 - [PTE Request for [Customer Reviews for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-customer-reviews-for-woocommerce-18/)
-- [PTE Request for Skins for Contact Form 7](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-skins-for-contact-form-7/)
-- [PTE Request for Wp-Adv-Quiz](https://make.wordpress.org/polyglots/2022/03/27/pte-request-for-wp-adv-quiz-2/)
-- [PTE Request for [Post to Google My Business &lpar;Google Business Profile&rpar;]](https://make.wordpress.org/polyglots/2022/03/26/pte-request-for-post-to-google-my-business-google-business-profile/)
 <!-- POLYGLOTS:END -->
 
 ## Support
