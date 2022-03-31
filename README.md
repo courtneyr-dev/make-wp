@@ -205,7 +205,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction To Common Plugins](https://learn.wordpress.org/lesson-plan/introduction-to-common-plugins/)
 - [How to Create a Menu with the Navigation Block](https://learn.wordpress.org/lesson-plan/how-to-create-a-menu-with-the-navigation-block/)
 - [How to Build Low-Code Block Patterns](https://learn.wordpress.org/lesson-plan/how-to-build-low-code-block-patterns/)
-- [How to Create and Register a Block Pattern](https://learn.wordpress.org/lesson-plan/how-to-create-and-register-a-block-pattern/)
+- [How to Create and Register a Block Pattern](https://learn.wordpress.org/lesson-plan/how-to-create-and-register-a-block-pattern__trashed/)
 - [Template Parts](https://learn.wordpress.org/lesson-plan/template-parts/)
 - [Difference between Reusable Blocks,  Block Pattern, Templates, Template Parts](https://learn.wordpress.org/lesson-plan/difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [Use Duotone Filters to Change Color Effects](https://learn.wordpress.org/lesson-plan/use-duotone-filters-to-change-color-effects/)
