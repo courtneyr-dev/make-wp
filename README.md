@@ -398,6 +398,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Discussion: Contrib Handbook, Part 1](https://make.wordpress.org/project/2022/04/01/discussion-contrib-handbook-part-1/)
 - [Removal of the Zamir Plugin](https://make.wordpress.org/project/2022/03/23/removal-of-the-zamir-plugin/)
 - [X-post: In last week’s Meta meeting,…](https://make.wordpress.org/project/2022/03/18/xpost-in-last-weeks-meta-meeting/)
 - [Proposal to remove spam/dormant Five for the Future pledges](https://make.wordpress.org/project/2022/03/16/proposal-to-remove-spam-dormant-five-for-the-future-pledges/)
@@ -407,7 +408,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Suggested iterations for the Five for the Future program and tool](https://make.wordpress.org/project/2021/09/10/suggested-iterations-for-the-five-for-the-future-program-and-tool/)
 - [The Metrics of Contributions](https://make.wordpress.org/project/2021/06/17/the-metrics-of-contributions/)
 - [Welcome to make.wordpress.org/project](https://make.wordpress.org/project/2021/06/03/welcome-to-make-wordpress-org-project/)
-- [X-post: New WordPress Make Site](https://make.wordpress.org/project/2021/06/02/xpost-new-wordpress-make-site/)
 <!-- PROJECT:END -->
 
 ## Systems
