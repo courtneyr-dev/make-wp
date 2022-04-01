@@ -384,6 +384,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [What’s new on LearnWP in March 2022](https://make.wordpress.org/updates/2022/04/01/whats-new-on-learnwp-in-march-2022/)
 - [Themes team update March 29, 2022](https://make.wordpress.org/updates/2022/03/29/themes-team-update-march-29-2022/)
 - [Plugin Review Team: 28 March 2022](https://make.wordpress.org/updates/2022/03/28/plugin-review-team-28-march-2022/)
 - [Test Team Update for 28 March 2022](https://make.wordpress.org/updates/2022/03/28/test-team-update-for-28-march-2022/)
@@ -393,7 +394,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Review Team: 21 March 2022](https://make.wordpress.org/updates/2022/03/22/plugin-review-team-21-march-2022/)
 - [Test Team Update for 21 March 2022](https://make.wordpress.org/updates/2022/03/21/test-team-update-for-21-march-2022/)
 - [Documentation Team Update – March 21, 2022](https://make.wordpress.org/updates/2022/03/21/documentation-team-update-march-21-2022/)
-- [X-post: In last week’s Meta meeting,…](https://make.wordpress.org/updates/2022/03/18/xpost-in-last-weeks-meta-meeting/)
 <!-- UPDATES:END -->
 
 ## Project
