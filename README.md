@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Updates for translate.wordpress.org](https://make.wordpress.org/polyglots/2022/04/01/updates-for-translate-wordpress-org/)
 - [PTE Request for Popconvert](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-popconvert/)
 - [PTE Request for melibo-chatbot Plugin](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-melibo-chatbot-plugin/)
 - [PTE Request for](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-7/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2022/03/31/hi-93/)
 - [Agenda: Weekly Polyglots Chat – March 30, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/30/agenda-weekly-polyglots-chat-march-30-2022-1300-utc/)
 - [PTE Request for GeoDirectory](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-geodirectory-3/)
-- [I’ve suggested Croatian translations for…](https://make.wordpress.org/polyglots/2022/03/29/ive-suggested-croatian-translations-for/)
 <!-- POLYGLOTS:END -->
 
 ## Support
