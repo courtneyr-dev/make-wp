@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Displaying the Post Comments block in Block Themes](https://learn.wordpress.org/workshop/displaying-the-post-comments-block-in-block-themes/)
 - [Taking Advantage of Query Loops](https://learn.wordpress.org/workshop/taking-advantage-of-query-loops/)
 - [Using Plugin Favorites on WordPress.org](https://learn.wordpress.org/workshop/using-plugin-favorites-on-wordpress-org/)
 - [Adding a Site Tagline to Block Themes](https://learn.wordpress.org/workshop/adding-a-site-tagline-to-block-themes/)
@@ -222,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building Sidebars With the Site Editor](https://learn.wordpress.org/workshop/building-sidebars-with-the-site-editor/)
 - [Using Page Templates](https://learn.wordpress.org/workshop/templates/)
 - [Using Template Parts](https://learn.wordpress.org/workshop/template-parts/)
-- [Making Dashboard Widgets](https://learn.wordpress.org/workshop/making-dashboard-widgets/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
