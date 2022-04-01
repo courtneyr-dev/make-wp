@@ -185,16 +185,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/training/2022/04/01/xpost-whats-new-on-learnwp-in-march-2022/)
+- [Brand Guideline Additional Consideration](https://make.wordpress.org/training/2022/04/01/brand-guideline-additional-consideration/)
+- [March 2022 Sprint Retrospective](https://make.wordpress.org/training/2022/04/01/march-2022-sprint-retrospective/)
+- [April 2022 Sprint](https://make.wordpress.org/training/2022/04/01/april-2022-sprint/)
 - [Recap of Training Team meetings, March 29 and 31, 2022](https://make.wordpress.org/training/2022/04/01/recap-of-training-team-meetings-march-29-and-31-2022/)
 - [Meeting Agenda for March 29, 2022](https://make.wordpress.org/training/2022/03/29/meeting-agenda-for-march-29-2022/)
 - [Recap of Training Team meeting March 22 &amp; 24](https://make.wordpress.org/training/2022/03/25/recap-of-training-team-meeting-march-22-24/)
 - [Meeting Agenda for March 22, 2022](https://make.wordpress.org/training/2022/03/22/meeting-agenda-for-march-22-2022/)
 - [Recap of Training Team meetings, March 15 and 17, 2022](https://make.wordpress.org/training/2022/03/17/recap-of-training-team-meetings-march-15-and-17-2022/)
 - [Meeting Agenda for March 15, 2022](https://make.wordpress.org/training/2022/03/14/meeting-agenda-for-march-15-2022/)
-- [Recap of Training Team meetings, March 8 and 10, 2022](https://make.wordpress.org/training/2022/03/10/recap-of-training-team-meetings-march-8-and-10-2022/)
-- [Meeting Agenda for March 8, 2022](https://make.wordpress.org/training/2022/03/08/meeting-agenda-for-march-8-2022/)
-- [X-post: First review on the new Sitemap for HelpHub or Documentation](https://make.wordpress.org/training/2022/03/08/xpost-first-review-on-the-new-sitemap-for-helphub-or-documentation/)
-- [Recap of Training Team meetings, March 1 and 3, 2022](https://make.wordpress.org/training/2022/03/03/recap-of-training-team-meetings-march-1-and-3-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
