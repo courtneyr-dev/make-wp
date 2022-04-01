@@ -45,6 +45,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: April 1, 2022](https://make.wordpress.org/accessibility/2022/04/01/accessibility-team-meeting-agenda-april-1-2022/)
 - [Accessibility Team Meeting Notes: March 18, 2022](https://make.wordpress.org/accessibility/2022/03/21/accessibility-team-meeting-notes-march-18-2022/)
 - [Accessibility Team Meeting Agenda: March 18, 2022](https://make.wordpress.org/accessibility/2022/03/17/accessibility-team-meeting-agenda-march-18-2022/)
 - [Accessibility Team Meeting Notes: March 4, 2022](https://make.wordpress.org/accessibility/2022/03/16/accessibility-team-meeting-notes-march-4-2022/)
@@ -54,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: February 18, 2022](https://make.wordpress.org/accessibility/2022/02/17/accessibility-team-meeting-agenda-february-18-2022/)
 - [Accessibility Team Meeting Notes: February 4, 2022](https://make.wordpress.org/accessibility/2022/02/06/accessibility-team-meeting-notes-february-4-2022/)
 - [Accessibility Team Meeting Agenda: February 4, 2022](https://make.wordpress.org/accessibility/2022/02/03/accessibility-team-meeting-agenda-february-4-2022/)
-- [Accessibility Team Meeting Notes: January 21, 2022](https://make.wordpress.org/accessibility/2022/01/22/accessibility-team-meeting-notes-january-21-2022/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
