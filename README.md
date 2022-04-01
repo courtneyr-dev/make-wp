@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Popconvert](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-popconvert/)
+- [PTE Request for melibo-chatbot Plugin](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-melibo-chatbot-plugin/)
+- [PTE Request for](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-7/)
+- [PTE Request for Twenty Twenty-Two](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-twenty-twenty-two/)
 - [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2022/03/31/pte-request-for-jetpack-4/)
 - [Hi, As I see there…](https://make.wordpress.org/polyglots/2022/03/31/hi-as-i-see-there/)
 - [Hi,](https://make.wordpress.org/polyglots/2022/03/31/hi-93/)
 - [Agenda: Weekly Polyglots Chat – March 30, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/30/agenda-weekly-polyglots-chat-march-30-2022-1300-utc/)
 - [PTE Request for GeoDirectory](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-geodirectory-3/)
 - [I’ve suggested Croatian translations for…](https://make.wordpress.org/polyglots/2022/03/29/ive-suggested-croatian-translations-for/)
-- [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-jetpack-wp-security-backup-speed-growth-5/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2022/03/29/i-am-the-plugin-author-25/)
-- [PTE Request for Migration, Backup, Staging – WPvivid](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-migration-backup-staging-wpvivid/)
-- [PTE Request for [Customer Reviews for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/28/pte-request-for-customer-reviews-for-woocommerce-18/)
 <!-- POLYGLOTS:END -->
 
 ## Support
