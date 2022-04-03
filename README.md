@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-750/)
 - [WordPress Developer &lpar;Memberpress&rpar;](https://jobs.wordpress.net/job/wordpress-developer-memberpress/)
 - [WordPress Developer &amp; Web Team Lead](https://jobs.wordpress.net/job/wordpress-developer-web-team-lead/)
 - [Remote Product Strategist](https://jobs.wordpress.net/job/remote-product-strategist/)
@@ -464,5 +465,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Partnerships Specialist &lpar;Affiliate / Influencer Marketing&rpar;](https://jobs.wordpress.net/job/astra-partnerships-specialist-affiliate-influencer-marketing/)
 - [BackEnd Developer](https://jobs.wordpress.net/job/backend-developer-2/)
 - [Long-term Development on Popular Plugins &lpar;Part or Full time&rpar;](https://jobs.wordpress.net/job/long-term-development-on-popular-plugins-part-or-full-time-2/)
-- [WordPress Developer at Baeldung](https://jobs.wordpress.net/job/wordpress-developer-at-baeldung/)
 <!-- JOBS:END -->
