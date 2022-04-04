@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested spanish translations for…](https://make.wordpress.org/polyglots/2022/04/04/ive-suggested-spanish-translations-for/)
+- [PTE Request for Product Configurator for WooCommerce](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-product-configurator-for-woocommerce/)
+- [PTE Request for LiteSpeed Cache](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-litespeed-cache/)
 - [Updates for translate.wordpress.org](https://make.wordpress.org/polyglots/2022/04/01/updates-for-translate-wordpress-org/)
 - [PTE Request for Popconvert](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-popconvert/)
 - [PTE Request for melibo-chatbot Plugin](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-melibo-chatbot-plugin/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Twenty Twenty-Two](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-twenty-twenty-two/)
 - [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2022/03/31/pte-request-for-jetpack-4/)
 - [Hi, As I see there…](https://make.wordpress.org/polyglots/2022/03/31/hi-as-i-see-there/)
-- [Hi,](https://make.wordpress.org/polyglots/2022/03/31/hi-93/)
-- [Agenda: Weekly Polyglots Chat – March 30, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/03/30/agenda-weekly-polyglots-chat-march-30-2022-1300-utc/)
-- [PTE Request for GeoDirectory](https://make.wordpress.org/polyglots/2022/03/29/pte-request-for-geodirectory-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
