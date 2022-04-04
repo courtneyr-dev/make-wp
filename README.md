@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Chat Agenda: April 6th, 2022](https://make.wordpress.org/core/2022/04/04/editor-chat-agenda-april-6th-2022/)
+- [Performance Chat Agenda: 5 April 2022](https://make.wordpress.org/core/2022/04/04/performance-chat-agenda-5-april-2022/)
 - [Dev Chat Summary: March 30, 2022](https://make.wordpress.org/core/2022/03/31/dev-chat-summary-march-30-2022/)
 - [WordPress 5.9.3 RC 1](https://make.wordpress.org/core/2022/03/30/wordpress-5-9-3-rc-1/)
 - [Editor chat summary: 30 March, 2022](https://make.wordpress.org/core/2022/03/30/editor-chat-summary-30-march-2022/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Agenda, March 30, 2022](https://make.wordpress.org/core/2022/03/29/dev-chat-agenda-march-30-2022/)
 - [Performance team meeting summary 29 March 2022](https://make.wordpress.org/core/2022/03/29/performance-team-meeting-summary-29-march-2022/)
 - [Editor Chat Agenda: 30 March 2022](https://make.wordpress.org/core/2022/03/29/editor-chat-agenda-30-march-2022/)
-- [A Week in Core – March 28, 2022](https://make.wordpress.org/core/2022/03/29/a-week-in-core-march-28-2022/)
-- [Enabling WebP by default](https://make.wordpress.org/core/2022/03/28/enabling-webp-by-default/)
 <!-- CORE:END -->
 
 ## Design
