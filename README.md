@@ -412,6 +412,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Clear codex cache &amp; lower cache TTL?](https://make.wordpress.org/systems/2022/04/04/clear-codex-cache-lower-cache-ttl/)
 - [Enable sub-sites for developer.wordpress.org](https://make.wordpress.org/systems/2022/03/31/enable-sub-sites-for-developer-wordpress-org/)
 - [Update getinvolved@ email forwarder](https://make.wordpress.org/systems/2022/03/22/update-getinvolved-email-forwarder/)
 - [CORS headers for s.w.org](https://make.wordpress.org/systems/2022/02/22/cors-headers-for-s-w-org/)
@@ -421,7 +422,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Redirects for JSON Schemas](https://make.wordpress.org/systems/2021/11/03/redirects-for-json-schemas/)
 - [Google Search Console domain access + Postmaster tools](https://make.wordpress.org/systems/2021/09/30/google-search-console-domain-access-postmaster-tools/)
 - [Theme Directory changes](https://make.wordpress.org/systems/2021/09/17/theme-directory-changes/)
-- [Create Openverse email address for Helpscout](https://make.wordpress.org/systems/2021/09/17/create-openverse-email-address-for-helpscout/)
 <!-- SYSTEMS:END -->
 
 ## News
