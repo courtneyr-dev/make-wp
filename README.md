@@ -236,6 +236,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Adding Custom CSS to your WordPress Site](https://learn.wordpress.org/?meeting=adding-custom-css-to-your-wordpress-site)
 - [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-3)
 - [Create a Magazine Layout with the WordPress Gutenberg Block Editor](https://learn.wordpress.org/?meeting=create-a-magazine-layout-with-the-wordpress-gutenberg-block-editor)
 - [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://learn.wordpress.org/?meeting=creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template)
@@ -245,7 +246,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Theme Discussions: Presets in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-presets-in-theme-json)
 - [Block Theme Discussions: Supports in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-supports-in-theme-json)
 - [Block Theme Discussions: JSON Schema](https://learn.wordpress.org/?meeting=block-theme-discussions-json-schema)
-- [Block Theme Discussions: Custom Fonts](https://learn.wordpress.org/?meeting=block-theme-discussions-custom-fonts)
 <!-- SLS:END -->
 
 ## Test
