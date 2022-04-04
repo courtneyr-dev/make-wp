@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Ona WordPress theme](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-ona-wordpress-theme/)
+- [PTE Request for [SaleSmartly Chat]](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-salesmartly-chat/)
 - [I’ve suggested spanish translations for…](https://make.wordpress.org/polyglots/2022/04/04/ive-suggested-spanish-translations-for/)
 - [PTE Request for Product Configurator for WooCommerce](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-product-configurator-for-woocommerce/)
 - [PTE Request for LiteSpeed Cache](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-litespeed-cache/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for melibo-chatbot Plugin](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-melibo-chatbot-plugin/)
 - [PTE Request for](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-7/)
 - [PTE Request for Twenty Twenty-Two](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-twenty-twenty-two/)
-- [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2022/03/31/pte-request-for-jetpack-4/)
-- [Hi, As I see there…](https://make.wordpress.org/polyglots/2022/03/31/hi-as-i-see-there/)
 <!-- POLYGLOTS:END -->
 
 ## Support
