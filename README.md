@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – Apr. 6, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/05/agenda-weekly-polyglots-chat-apr-6-2022-0700-utc/)
+- [Hi im Mike from prowebza…](https://make.wordpress.org/polyglots/2022/04/05/hi-im-mike-from-prowebza/)
 - [PTE Request for Ona WordPress theme](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-ona-wordpress-theme/)
 - [PTE Request for [SaleSmartly Chat]](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-salesmartly-chat/)
 - [I’ve suggested spanish translations for…](https://make.wordpress.org/polyglots/2022/04/04/ive-suggested-spanish-translations-for/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Updates for translate.wordpress.org](https://make.wordpress.org/polyglots/2022/04/01/updates-for-translate-wordpress-org/)
 - [PTE Request for Popconvert](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-popconvert/)
 - [PTE Request for melibo-chatbot Plugin](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-melibo-chatbot-plugin/)
-- [PTE Request for](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-7/)
-- [PTE Request for Twenty Twenty-Two](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-twenty-twenty-two/)
 <!-- POLYGLOTS:END -->
 
 ## Support
