@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested german and german…](https://make.wordpress.org/polyglots/2022/04/05/ive-suggested-german-and-german/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/04/05/hi-dear-mentors-we-have-81/)
 - [Agenda: Weekly Polyglots Chat – Apr. 6, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/05/agenda-weekly-polyglots-chat-apr-6-2022-0700-utc/)
 - [Hi im Mike from prowebza…](https://make.wordpress.org/polyglots/2022/04/05/hi-im-mike-from-prowebza/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Product Configurator for WooCommerce](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-product-configurator-for-woocommerce/)
 - [PTE Request for LiteSpeed Cache](https://make.wordpress.org/polyglots/2022/04/04/pte-request-for-litespeed-cache/)
 - [Updates for translate.wordpress.org](https://make.wordpress.org/polyglots/2022/04/01/updates-for-translate-wordpress-org/)
-- [PTE Request for Popconvert](https://make.wordpress.org/polyglots/2022/04/01/pte-request-for-popconvert/)
 <!-- POLYGLOTS:END -->
 
 ## Support
