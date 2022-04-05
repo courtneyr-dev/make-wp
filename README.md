@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Site Tagline Block](https://wordpress.org/support/article/site-tagline-block/)
 - [Post Content Block](https://wordpress.org/support/article/post-content-block/)
 - [Pinterest Embed](https://wordpress.org/support/article/pinterest-embed/)
 - [Submit your Block Pattern to the Directory](https://wordpress.org/support/article/submit-your-block-pattern-to-the-directory/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Post Excerpt Block](https://wordpress.org/support/article/post-excerpt-block/)
 - [Post Title Block](https://wordpress.org/support/article/post-title-block/)
 - [Post Featured Image Block](https://wordpress.org/support/article/post-featured-image-block/)
-- [Archive Title Block](https://wordpress.org/support/article/archive-title-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
