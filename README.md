@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support](https://jobs.wordpress.net/job/hosting-support/)
 - [Developer](https://jobs.wordpress.net/job/developer-67/)
 - [SENIOR WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/senior-wordpress-developer-85/)
 - [[rtCamp] Technical Writer](https://jobs.wordpress.net/job/rtcamp-technical-writer-4/)
@@ -464,5 +465,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer &lpar;Memberpress&rpar;](https://jobs.wordpress.net/job/wordpress-developer-memberpress/)
 - [WordPress Developer &amp; Web Team Lead](https://jobs.wordpress.net/job/wordpress-developer-web-team-lead/)
 - [Remote Product Strategist](https://jobs.wordpress.net/job/remote-product-strategist/)
-- [Remote Product Engineer &lpar;WordPress/WooCommerce&rpar; at Saucal](https://jobs.wordpress.net/job/remote-product-engineer-wordpress-woocommerce-at-saucal/)
 <!-- JOBS:END -->
