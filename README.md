@@ -236,6 +236,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Fearless Theme Switching](https://learn.wordpress.org/?meeting=fearless-theme-switching)
 - [Podcasting with WordPress](https://learn.wordpress.org/?meeting=podcasting-with-wordpress)
 - [Adding Custom CSS to your WordPress Site](https://learn.wordpress.org/?meeting=adding-custom-css-to-your-wordpress-site)
 - [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-3)
@@ -245,7 +246,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Headers and Footers in Full Site Editing](https://learn.wordpress.org/?meeting=builder-basics-headers-and-footers-in-full-site-editing)
 - [Builder Basics: Designing with Columns, Group, and Row Blocks &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-designing-with-columns-group-and-row-blocks-part-2)
 - [Block Theme Discussions: Presets in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-presets-in-theme-json)
-- [Block Theme Discussions: Supports in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-supports-in-theme-json)
 <!-- SLS:END -->
 
 ## Test
