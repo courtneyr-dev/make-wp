@@ -306,6 +306,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Notes: Global Marketing Team, 30 March 2022](https://make.wordpress.org/marketing/2022/04/06/notes-global-marketing-team-30-march-2022/)
 - [Grow Your Story on WordPress￼](https://make.wordpress.org/marketing/2022/04/01/grow-your-story-on-wordpress/)
 - [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/marketing/2022/04/01/xpost-whats-new-on-learnwp-in-march-2022/)
 - [Agenda: Global Marketing Team, 30 March 2022](https://make.wordpress.org/marketing/2022/03/30/agenda-global-marketing-team-30-march-2022/)
@@ -315,7 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Global Marketing Team, 16 March 2022](https://make.wordpress.org/marketing/2022/03/16/agenda-global-marketing-team-16-march-2022/)
 - [Notes: Global Marketing Team – March 9, 2022](https://make.wordpress.org/marketing/2022/03/16/notes-global-marketing-team-march-9-2022/)
 - [Agenda: Global Marketing Team, 9 March 2022](https://make.wordpress.org/marketing/2022/03/09/agenda-global-marketing-team-9-march-2022/)
-- [Notes: Global Marketing Team – 2 March 2022](https://make.wordpress.org/marketing/2022/03/08/notes-global-marketing-team-march-2-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
