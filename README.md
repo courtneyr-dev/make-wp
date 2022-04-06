@@ -277,7 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [WordPress 6.0 Product Walk-Through on April 5th, 2022](https://wordpress.tv/2022/04/06/wordpress-6-0-product-walk-through/)
+- [WordPress 6.0 Product Walk-Through](https://wordpress.tv/2022/04/06/wordpress-6-0-product-walk-through/)
 - [Milana Cap, Birgit Pauli-Haack, Courtney Engle Robertson, Femy Praseeth, Akira Tachibana: WordPress release 6.0 Trac ticket triage for docs](https://wordpress.tv/2022/03/30/milana-cap-birgit-pauli-haack-courtney-engle-robertson-femy-praseeth-akira-tachibana-wordpress-release-6-0-trac-ticket-triage-for-docs/)
 - [Displaying the Post Comments Block in Block Themes](https://wordpress.tv/2022/03/29/displaying-the-post-comments-block-in-block-themes/)
 - [WordPress im Terminal – Bash, SSH und WP-CLI](https://wordpress.tv/2022/03/29/wordpress-im-terminal-bash-ssh-und-wp-cli/)
