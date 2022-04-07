@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [The difference between reusable blocks, block patterns, templates and template parts](https://learn.wordpress.org/workshop/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [Displaying the Post Comments block in Block Themes](https://learn.wordpress.org/workshop/displaying-the-post-comments-block-in-block-themes/)
 - [Taking Advantage of Query Loops](https://learn.wordpress.org/workshop/taking-advantage-of-query-loops/)
 - [Using Plugin Favorites on WordPress.org](https://learn.wordpress.org/workshop/using-plugin-favorites-on-wordpress-org/)
@@ -222,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/workshop/intro-to-the-site-editor-and-template-editor/)
 - [Building Sidebars With the Site Editor](https://learn.wordpress.org/workshop/building-sidebars-with-the-site-editor/)
 - [Using Page Templates](https://learn.wordpress.org/workshop/templates/)
-- [Using Template Parts](https://learn.wordpress.org/workshop/template-parts/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
