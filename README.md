@@ -455,14 +455,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Hosting Support](https://jobs.wordpress.net/job/hosting-support/)
-- [Developer](https://jobs.wordpress.net/job/developer-67/)
-- [SENIOR WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/senior-wordpress-developer-85/)
-- [[rtCamp] Technical Writer](https://jobs.wordpress.net/job/rtcamp-technical-writer-4/)
-- [[rtCamp] Digital Marketing Executive](https://jobs.wordpress.net/job/rtcamp-digital-marketing-executive-3/)
-- [WordPress Developer &lpar;Freelance/ full time&rpar;](https://jobs.wordpress.net/job/wordpress-developer-freelance-full-time/)
-- [WordPress Developer &lpar;Memberpress&rpar;](https://jobs.wordpress.net/job/wordpress-developer-memberpress/)
-- [WordPress Developer &amp; Web Team Lead](https://jobs.wordpress.net/job/wordpress-developer-web-team-lead/)
-- [Remote Product Strategist](https://jobs.wordpress.net/job/remote-product-strategist/)
-- [Remote Product Engineer &lpar;WordPress/WooCommerce&rpar; at Saucal](https://jobs.wordpress.net/job/remote-product-engineer-wordpress-woocommerce-at-saucal/)
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-86/)
+- [WordPress Development Support Role](https://jobs.wordpress.net/job/wordpress-development-support-role-2/)
+- [WordPress Expert Needed](https://jobs.wordpress.net/job/wordpress-expert-needed-4/)
+- [Senior User Experience Designer](https://jobs.wordpress.net/job/senior-user-experience-designer-5/)
+- [JavaScript Developer for Lede](https://jobs.wordpress.net/job/javascript-developer-for-lede-2/)
+- [Remote Product Manager](https://jobs.wordpress.net/job/remote-product-manager/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-14/)
+- [Technical Product Manager](https://jobs.wordpress.net/job/technical-product-manager/)
+- [Senior WordPress Developer / Technical WP Architect](https://jobs.wordpress.net/job/senior-wordpress-developer-technical-wp-architect/)
+- [Team Lead Support US](https://jobs.wordpress.net/job/team-lead-support-us/)
 <!-- JOBS:END -->
