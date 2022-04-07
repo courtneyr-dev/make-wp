@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://wordpress.tv/2022/04/07/creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template/)
 - [The Difference between Reusable Blocks, Block Patterns, Templates and Template Parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [WordPress 6.0 Product Walk-Through](https://wordpress.tv/2022/04/06/wordpress-6-0-product-walk-through/)
 - [Milana Cap, Birgit Pauli-Haack, Courtney Engle Robertson, Femy Praseeth, Akira Tachibana: WordPress release 6.0 Trac ticket triage for docs](https://wordpress.tv/2022/03/30/milana-cap-birgit-pauli-haack-courtney-engle-robertson-femy-praseeth-akira-tachibana-wordpress-release-6-0-trac-ticket-triage-for-docs/)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adding a Site Tagline to Block Themes](https://wordpress.tv/2022/03/13/adding-a-site-tagline-to-block-themes/)
 - [Nick Diego: Builder Basics – Designing with Columns, Group, and Row Blocks](https://wordpress.tv/2022/03/10/nick-diego-builder-basics-designing-with-columns-group-and-row-blocks/)
 - [Manage Settings: Privacy](https://wordpress.tv/2022/03/07/manage-settings-privacy/)
-- [Milana Cap: Update screenshots in WordPress documentation](https://wordpress.tv/2022/03/04/update-screenshots-in-wordpress-documentation/)
 <!-- WPTV:END -->
 
 ## Marketing
