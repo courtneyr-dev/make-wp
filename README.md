@@ -461,8 +461,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Technical Writer](https://jobs.wordpress.net/job/rtcamp-technical-writer-4/)
 - [[rtCamp] Digital Marketing Executive](https://jobs.wordpress.net/job/rtcamp-digital-marketing-executive-3/)
 - [WordPress Developer &lpar;Freelance/ full time&rpar;](https://jobs.wordpress.net/job/wordpress-developer-freelance-full-time/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-750/)
 - [WordPress Developer &lpar;Memberpress&rpar;](https://jobs.wordpress.net/job/wordpress-developer-memberpress/)
 - [WordPress Developer &amp; Web Team Lead](https://jobs.wordpress.net/job/wordpress-developer-web-team-lead/)
 - [Remote Product Strategist](https://jobs.wordpress.net/job/remote-product-strategist/)
+- [Remote Product Engineer &lpar;WordPress/WooCommerce&rpar; at Saucal](https://jobs.wordpress.net/job/remote-product-engineer-wordpress-woocommerce-at-saucal/)
 <!-- JOBS:END -->
