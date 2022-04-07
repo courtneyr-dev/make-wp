@@ -376,6 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [Recap of team meeting, April 1](https://make.wordpress.org/photos/2022/04/07/recap-of-team-meeting-april-1/)
 - [Announcement: Photo Directory Team Reps 2022](https://make.wordpress.org/photos/2022/03/23/announcement-photo-directory-team-reps-2022/)
 - [Photo Directory Team Reps 2022: Submit your Votes!](https://make.wordpress.org/photos/2022/03/07/photo-directory-team-reps-2022-submit-your-votes/)
 - [Photo Directory Team Rep Nominations for 2022](https://make.wordpress.org/photos/2022/02/23/photo-directory-team-rep-nominations-for-2022/)
