@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The difference between reusable blocks, block patterns, templates and template parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts-2/)
 - [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://wordpress.tv/2022/04/07/creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template/)
 - [The Difference between Reusable Blocks, Block Patterns, Templates and Template Parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [WordPress 6.0 Product Walk-Through](https://wordpress.tv/2022/04/06/wordpress-6-0-product-walk-through/)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Matteo Spirandelli: Opening Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-opening-remarks-wordpress-meetup-day-2022/)
 - [Adding a Site Tagline to Block Themes](https://wordpress.tv/2022/03/13/adding-a-site-tagline-to-block-themes/)
 - [Nick Diego: Builder Basics – Designing with Columns, Group, and Row Blocks](https://wordpress.tv/2022/03/10/nick-diego-builder-basics-designing-with-columns-group-and-row-blocks/)
-- [Manage Settings: Privacy](https://wordpress.tv/2022/03/07/manage-settings-privacy/)
 <!-- WPTV:END -->
 
 ## Marketing
