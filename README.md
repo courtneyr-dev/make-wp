@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Dokan](https://make.wordpress.org/polyglots/2022/04/08/pte-request-for-plugin_name/)
 - [Hi, I’m the plugin author…](https://make.wordpress.org/polyglots/2022/04/07/hi-im-the-plugin-author-2/)
 - [&lpar;I request approval of my…](https://make.wordpress.org/polyglots/2022/04/07/i-request-approval-of-my/)
 - [PTE Request for ‘packeta’](https://make.wordpress.org/polyglots/2022/04/07/pte-request-for-packeta/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for CEV Addons for Woocommerce](https://make.wordpress.org/polyglots/2022/04/06/pte-request-for-cev-addons-for-woocommerce/)
 - [I’ve suggested german and german…](https://make.wordpress.org/polyglots/2022/04/05/ive-suggested-german-and-german/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/04/05/hi-dear-mentors-we-have-81/)
-- [Agenda: Weekly Polyglots Chat – Apr. 6, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/05/agenda-weekly-polyglots-chat-apr-6-2022-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
