@@ -236,6 +236,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Hello Blocks! Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-2)
 - [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/?meeting=understanding-the-page-editor-vs-site-editor)
 - [No-Code Techniques to Showcase Your Images on Any Device](https://learn.wordpress.org/?meeting=no-code-techniques-to-showcase-your-images-on-any-device)
 - [Fearless Theme Switching](https://learn.wordpress.org/?meeting=fearless-theme-switching)
@@ -245,7 +246,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Create a Magazine Layout with the WordPress Gutenberg Block Editor](https://learn.wordpress.org/?meeting=create-a-magazine-layout-with-the-wordpress-gutenberg-block-editor)
 - [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://learn.wordpress.org/?meeting=creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template)
 - [Builder Basics: Exploring Block Layout, Alignment, and Dimensions &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions-part-2)
-- [Builder Basics: Headers and Footers in Full Site Editing](https://learn.wordpress.org/?meeting=builder-basics-headers-and-footers-in-full-site-editing)
 <!-- SLS:END -->
 
 ## Test
