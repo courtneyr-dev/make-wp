@@ -213,7 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [The difference between reusable blocks, block patterns, templates and template parts](https://learn.wordpress.org/workshop/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
+- [The Difference Between Reusable Blocks, Block Patterns, Templates &amp; Template Parts](https://learn.wordpress.org/workshop/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [Displaying the Post Comments block in Block Themes](https://learn.wordpress.org/workshop/displaying-the-post-comments-block-in-block-themes/)
 - [Taking Advantage of Query Loops](https://learn.wordpress.org/workshop/taking-advantage-of-query-loops/)
 - [Using Plugin Favorites on WordPress.org](https://learn.wordpress.org/workshop/using-plugin-favorites-on-wordpress-org/)
