@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Weather Forecast Widget](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-weather-forecast-widget/)
+- [PTE Request for “Combine Social Photos | Still BE”.](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-combine-social-photos-still-be/)
+- [PTE Request for MyAlice – Live Chat, WhatsApp, Facebook Messenger, Instagram, &amp; Chatbot for WooCommerce](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-myalice-live-chat-whatsapp-facebook-messenger-instagram-chatbot-for-woocommerce/)
 - [PTE Request for filter-featured-image and more](https://make.wordpress.org/polyglots/2022/04/09/pte-request-for-filter-featured-image-and-more/)
 - [PTE Request for Dokan](https://make.wordpress.org/polyglots/2022/04/08/pte-request-for-plugin_name/)
 - [Hi, I’m the plugin author…](https://make.wordpress.org/polyglots/2022/04/07/hi-im-the-plugin-author-2/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ‘packeta’](https://make.wordpress.org/polyglots/2022/04/07/pte-request-for-packeta/)
 - [Hello. The text “One response” is not translatable.](https://make.wordpress.org/polyglots/2022/04/07/hello-the-text-one-response-is-not-translatable/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/04/06/hello-polyglots-294/)
-- [PTE Request for [Leaky Paywall]](https://make.wordpress.org/polyglots/2022/04/06/pte-request-for-leaky-paywall-4/)
-- [PTE Request for CEV Addons for Woocommerce](https://make.wordpress.org/polyglots/2022/04/06/pte-request-for-cev-addons-for-woocommerce/)
-- [I’ve suggested german and german…](https://make.wordpress.org/polyglots/2022/04/05/ive-suggested-german-and-german/)
 <!-- POLYGLOTS:END -->
 
 ## Support
