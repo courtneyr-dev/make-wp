@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE and Review Request for EventPrime](https://make.wordpress.org/polyglots/2022/04/11/pte-and-review-request-for-eventprime/)
 - [PTE Request for [SaleSmartly – Live Chat &amp; Chat Bot Integrate]](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-salesmartly-live-chat-chat-bot-integrate/)
 - [PTE Request for Weather Forecast Widget](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-weather-forecast-widget/)
 - [PTE Request for “Combine Social Photos | Still BE”.](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-combine-social-photos-still-be/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, I’m the plugin author…](https://make.wordpress.org/polyglots/2022/04/07/hi-im-the-plugin-author-2/)
 - [&lpar;I request approval of my…](https://make.wordpress.org/polyglots/2022/04/07/i-request-approval-of-my/)
 - [PTE Request for ‘packeta’](https://make.wordpress.org/polyglots/2022/04/07/pte-request-for-packeta/)
-- [Hello. The text “One response” is not translatable.](https://make.wordpress.org/polyglots/2022/04/07/hello-the-text-one-response-is-not-translatable/)
 <!-- POLYGLOTS:END -->
 
 ## Support
