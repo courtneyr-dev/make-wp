@@ -456,6 +456,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-752/)
 - [Fashontech Full Stack WP Developer](https://jobs.wordpress.net/job/fashontech-full-stack-wp-developer/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-86/)
 - [WordPress Development Support Role](https://jobs.wordpress.net/job/wordpress-development-support-role-2/)
@@ -465,5 +466,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remote Product Manager](https://jobs.wordpress.net/job/remote-product-manager/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-14/)
 - [Technical Product Manager](https://jobs.wordpress.net/job/technical-product-manager/)
-- [Senior WordPress Developer / Technical WP Architect](https://jobs.wordpress.net/job/senior-wordpress-developer-technical-wp-architect/)
 <!-- JOBS:END -->
