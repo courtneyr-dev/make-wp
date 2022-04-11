@@ -413,6 +413,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Commit for images/core/emoji Could I…](https://make.wordpress.org/systems/2022/04/11/commit-for-images-core-emoji-could-i/)
 - [Clear codex cache &amp; lower cache TTL?](https://make.wordpress.org/systems/2022/04/04/clear-codex-cache-lower-cache-ttl/)
 - [Enable sub-sites for developer.wordpress.org](https://make.wordpress.org/systems/2022/03/31/enable-sub-sites-for-developer-wordpress-org/)
 - [Update getinvolved@ email forwarder](https://make.wordpress.org/systems/2022/03/22/update-getinvolved-email-forwarder/)
@@ -422,7 +423,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remove user agent blocking for Firefox/100 &amp; Chrome/100.0](https://make.wordpress.org/systems/2021/11/25/remove-user-agent-blocking-for-firefox-100-chrome-100-0/)
 - [Redirects for JSON Schemas](https://make.wordpress.org/systems/2021/11/03/redirects-for-json-schemas/)
 - [Google Search Console domain access + Postmaster tools](https://make.wordpress.org/systems/2021/09/30/google-search-console-domain-access-postmaster-tools/)
-- [Theme Directory changes](https://make.wordpress.org/systems/2021/09/17/theme-directory-changes/)
 <!-- SYSTEMS:END -->
 
 ## News
