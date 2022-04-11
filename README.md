@@ -115,14 +115,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
 - [ToggleGroupControlOptionIcon](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-icon/)
+- [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
 - [BorderBoxControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-box-control/)
 - [BorderControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-control/)
 - [Building an edit form](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/3-building-an-edit-form/)
 - [@wordpress/preferences](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences/)
-- [NavigatorBackButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-back-button/)
 - [NavigatorButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-button/)
+- [NavigatorBackButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-back-button/)
 - [Converting customizer settings to block patterns](https://developer.wordpress.org/themes/block-themes/converting-customizer-settings-to-block-patterns/)
 - [@wordpress/style-engine](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-style-engine/)
 <!-- DEVHUB:END -->
