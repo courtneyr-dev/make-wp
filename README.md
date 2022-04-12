@@ -427,6 +427,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.0 Beta 1](https://wordpress.org/news/2022/04/wordpress-6-0-beta-1/)
 - [WordPress 5.9.3 Maintenance Release](https://wordpress.org/news/2022/04/wordpress-5-9-3-maintenance-release/)
 - [The Month in WordPress – March 2022](https://wordpress.org/news/2022/04/the-month-in-wordpress-march-2022/)
 - [WP Briefing: Episode 28: Coming to a WordCamp Near You: A Return to In-Person WP Events](https://wordpress.org/news/2022/04/episode-28-coming-to-a-wordcamp-near-you-a-return-to-in-person-wp-events/)
@@ -451,7 +452,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 5.9 RC 1](https://wordpress.org/news/2022/01/wordpress-5-9-rc-1/)
 - [People of WordPress: Collins Agbonghama](https://wordpress.org/news/2021/12/people-of-wordpress-collins-agbonghama/)
 - [WordPress 5.9 Beta 4](https://wordpress.org/news/2021/12/wordpress-5-9-beta-4/)
-- [WP Briefing: Episode 22: A Carol of Thanks](https://wordpress.org/news/2021/12/episode-22-a-carol-of-thanks/)
 <!-- NEWS:END -->
 
 ## Jobs
