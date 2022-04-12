@@ -236,6 +236,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Testing WordPress Together: Authoring an Author Template](https://learn.wordpress.org/?meeting=testing-wordpress-together-authoring-an-author-template)
 - [How to Make a WordPress Blog in 2022](https://learn.wordpress.org/?meeting=how-to-make-a-wordpress-blog-in-2022)
 - [Hello Blocks! Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-2)
 - [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/?meeting=understanding-the-page-editor-vs-site-editor)
@@ -245,7 +246,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adding Custom CSS to your WordPress Site](https://learn.wordpress.org/?meeting=adding-custom-css-to-your-wordpress-site)
 - [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-3)
 - [Create a Magazine Layout with the WordPress Gutenberg Block Editor](https://learn.wordpress.org/?meeting=create-a-magazine-layout-with-the-wordpress-gutenberg-block-editor)
-- [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://learn.wordpress.org/?meeting=creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template)
 <!-- SLS:END -->
 
 ## Test
