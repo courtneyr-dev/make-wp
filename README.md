@@ -456,14 +456,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-30/)
+- [WordPress Updates Nerd](https://jobs.wordpress.net/job/wordpress-updates-nerd-2/)
+- [WordPress Site Speed Nerd](https://jobs.wordpress.net/job/wordpress-site-speed-nerd-2/)
+- [WordPress Expert](https://jobs.wordpress.net/job/wordpress-expert-33/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-752/)
 - [Fashontech Full Stack WP Developer](https://jobs.wordpress.net/job/fashontech-full-stack-wp-developer/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-86/)
 - [WordPress Development Support Role](https://jobs.wordpress.net/job/wordpress-development-support-role-2/)
 - [WordPress Expert Needed](https://jobs.wordpress.net/job/wordpress-expert-needed-4/)
 - [Senior User Experience Designer](https://jobs.wordpress.net/job/senior-user-experience-designer-5/)
-- [JavaScript Developer for Lede](https://jobs.wordpress.net/job/javascript-developer-for-lede-2/)
-- [Remote Product Manager](https://jobs.wordpress.net/job/remote-product-manager/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-14/)
-- [Technical Product Manager](https://jobs.wordpress.net/job/technical-product-manager/)
 <!-- JOBS:END -->
