@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nick Diego: Builder Basics – Headers and Footers in Full Site Editing](https://wordpress.tv/2022/04/13/nick-diego-builder-basics-headers-and-footers-in-full-site-editing/)
 - [Submitting Block Patterns to the Directory](https://wordpress.tv/2022/04/13/submitting-block-patterns-to-the-directory/)
 - [The difference between reusable blocks, block patterns, templates and template parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts-2/)
 - [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://wordpress.tv/2022/04/07/creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template/)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Andrea Paternostro, Max Nardini: Creare pagine di ricerca e filtro con effetto wow &lpar;quasi&rpar; senza codice](https://wordpress.tv/2022/03/17/andrea-paternostro-max-nardini-creare-pagine-di-ricerca-e-filtro-con-effetto-wow-quasi-senza-codice/)
 - [Francesco Grasso: WooCommerce su misura – Template, action hooks e filters](https://wordpress.tv/2022/03/17/francesco-grasso-woocommerce-su-misura-template-action-hooks-e-filters/)
 - [Matteo Spirandelli: Opening Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-opening-remarks-wordpress-meetup-day-2022/)
-- [Adding a Site Tagline to Block Themes](https://wordpress.tv/2022/03/13/adding-a-site-tagline-to-block-themes/)
 <!-- WPTV:END -->
 
 ## Marketing
