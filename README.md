@@ -456,14 +456,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-753/)
+- [WordPress – Junior Level – Full Stack Software Engineer](https://jobs.wordpress.net/job/wordpress-junior-level-full-stack-software-engineer/)
+- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-14/)
+- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-17/)
+- [[rtCamp] Senior React Engineer](https://jobs.wordpress.net/job/rtcamp-senior-react-engineer-20/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-30/)
 - [WordPress Updates Nerd](https://jobs.wordpress.net/job/wordpress-updates-nerd-2/)
 - [WordPress Site Speed Nerd](https://jobs.wordpress.net/job/wordpress-site-speed-nerd-2/)
-- [WordPress Expert](https://jobs.wordpress.net/job/wordpress-expert-33/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-752/)
 - [Fashontech Full Stack WP Developer](https://jobs.wordpress.net/job/fashontech-full-stack-wp-developer/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-86/)
-- [WordPress Development Support Role](https://jobs.wordpress.net/job/wordpress-development-support-role-2/)
-- [WordPress Expert Needed](https://jobs.wordpress.net/job/wordpress-expert-needed-4/)
-- [Senior User Experience Designer](https://jobs.wordpress.net/job/senior-user-experience-designer-5/)
 <!-- JOBS:END -->
