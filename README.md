@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Core Styles and Theme Customization: the next steps](https://make.wordpress.org/core/2022/04/13/core-styles-and-theme-customization-the-next-steps/)
 - [Dev Chat agenda, April 14, 2022](https://make.wordpress.org/core/2022/04/12/dev-chat-agenda-april-14-2022/)
 - [Performance team meeting summary 12 April 2022](https://make.wordpress.org/core/2022/04/12/performance-team-meeting-summary-12-april-2022/)
 - [Follow-up on WebP by default proposal](https://make.wordpress.org/core/2022/04/12/follow-up-on-webp-by-default-proposal/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Help Test the Comments Blocks for WordPress 6.0](https://make.wordpress.org/core/2022/04/11/xpost-help-test-the-comments-blocks-for-wordpress-6-0/)
 - [Dev Chat Summary, April 6, 2022](https://make.wordpress.org/core/2022/04/09/dev-chat-summary-april-6-2022/)
 - [6.0 Product Walk-Through Recap](https://make.wordpress.org/core/2022/04/07/6-0-product-walk-through-recap/)
-- [Editor Chat Summary: April 6, 2022](https://make.wordpress.org/core/2022/04/07/editor-chat-summary-april-6-2022/)
 <!-- CORE:END -->
 
 ## Design
