@@ -469,13 +469,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:END -->
 
 ## Central
-<!-- CENTRAL:START -->
-<!-- CENTRAL:END -->
+<!-- Central:START --> 
+<!-- Central:END -->
 
 ### WordCamp
-<!-- WORDCAMP:START -->
-<!-- WORDCAMP:END -->
+<!-- WordCamp:START -->
+<!-- WordCamp:END -->
 
 ## WordPress Foundation
-<!-- WPFOUNDATION:START -->
-<!-- WPFOUNDATION:END -->
+<!-- WPFoundation:START -->
+<!-- WPFoundation:END -->
