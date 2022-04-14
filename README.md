@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Recap of Training Team meetings, April 12 and 14, 2022](https://make.wordpress.org/training/2022/04/14/recap-of-training-team-meetings-april-12-and-14-2022/)
 - [Meeting Agenda for Week Beginning April 11, 2022](https://make.wordpress.org/training/2022/04/11/meeting-agenda-for-week-beginning-april-11-2022/)
 - [Recap of Training Team meetings, April 5 and 7, 2022](https://make.wordpress.org/training/2022/04/08/recap-of-training-team-meetings-april-5-and-7-2022/)
 - [Demo Sites for Learn WordPress Users](https://make.wordpress.org/training/2022/04/07/demo-sites-for-learn-wordpress-users/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [March 2022 Sprint Retrospective](https://make.wordpress.org/training/2022/04/01/march-2022-sprint-retrospective/)
 - [April 2022 Sprint](https://make.wordpress.org/training/2022/04/01/april-2022-sprint/)
 - [Recap of Training Team meetings, March 29 and 31, 2022](https://make.wordpress.org/training/2022/04/01/recap-of-training-team-meetings-march-29-and-31-2022/)
-- [Meeting Agenda for March 29, 2022](https://make.wordpress.org/training/2022/03/29/meeting-agenda-for-march-29-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
