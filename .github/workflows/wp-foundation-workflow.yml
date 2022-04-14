@@ -1,4 +1,4 @@
-name: Latest WordCamp post workflow
+name: Latest WordPress Foundation post workflow
 on:
   schedule:     # Runs every 5 minutes
    - cron: '0 * * * *' # Runs every hour, on the hour
