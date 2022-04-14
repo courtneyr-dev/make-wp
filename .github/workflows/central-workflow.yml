@@ -16,6 +16,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "Central"
-          feed_list: "https://central.wordcamp.org/news/feed/"
+          feed_list: "https://central.wordcamp.org/news/feed"
           max_post_count: 25
  
