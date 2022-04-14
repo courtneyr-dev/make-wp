@@ -489,14 +489,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
-- [By: Top Blogging Tips for Developers and Bloggers from WordPress WordCamps | Aspiring FEMpreneur](https://central.wordcamp.org/schedule/comment-page-1/#comment-799)
-- [By: Wordcamp Indonesia 2011, I’m Coming… | My Unconscious Mind](https://central.wordcamp.org/schedule/comment-page-1/#comment-794)
-- [By: Blog Wordpress!?! « Dionisiussmpdb2&#39;s Blog](https://central.wordcamp.org/schedule/comment-page-1/#comment-770)
-- [By: WORDPRESS | Tanurezasmpdb2&#39;s Blog](https://central.wordcamp.org/schedule/comment-page-1/#comment-769)
-- [By: Summer of WordCamp | Paris Value](https://central.wordcamp.org/schedule/comment-page-1/#comment-767)
-- [By: Summer of WordCamp | Jeffrey Allan Sousa Network Marketing Coach](https://central.wordcamp.org/schedule/comment-page-1/#comment-757)
-- [By: Summer of WordCamp | Theory Report](https://central.wordcamp.org/schedule/comment-page-1/#comment-635)
-- [By: SF WordCamp Recap | AppThemes](https://central.wordcamp.org/schedule/comment-page-1/#comment-496)
+- [WordCamp Netherlands](https://central.wordcamp.org/wordcamps/wordcamp-netherlands-2/)
+- [WordCamp Genève](https://central.wordcamp.org/wordcamps/wordcamp-geneve-suisse/)
+- [WordCamp Athens](https://central.wordcamp.org/wordcamps/wordcamp-athens-attica-greece-2022/)
+- [WordCamp Vienna, Austria](https://central.wordcamp.org/wordcamps/wordcamp-vienna-austria-3/)
+- [WordCamp Montclair, NJ, USA](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj-usa-5/)
+- [WordCamp Irun](https://central.wordcamp.org/wordcamps/wordcamp-irun-2/)
+- [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-5/)
+- [WordCamp São Paulo Online 2021](https://central.wordcamp.org/wordcamps/wordcamp-sao-paulo-online-2021/)
+- [WordCamp Prague 2022 Live!](https://central.wordcamp.org/wordcamps/wordcamp-prague-2022/)
+- [WordCamp Italia Online 2021](https://central.wordcamp.org/wordcamps/wordcamp-italy/)
+- [WordCamp Taiwan Online](https://central.wordcamp.org/wordcamps/wordcamp-taiwan/)
+- [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-7/)
+- [WordCamp US 2021 &lpar;Online&rpar;](https://central.wordcamp.org/wordcamps/wordcamp-us-2021-online/)
+- [WordCamp Florianópolis, Santa Catarina – Brazil](https://central.wordcamp.org/wordcamps/wordcamp-florianopolis-santa-catarina-brazil-3/)
+- [WordCamp Spain Online](https://central.wordcamp.org/wordcamps/wordcamp-spain-spanish-3/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
