@@ -15,7 +15,7 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "WPTV"
+          comment_tag_name: "Central"
           feed_list: "https://central.wordcamp.org/news/feed/"
           max_post_count: 25
  
