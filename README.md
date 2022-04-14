@@ -489,6 +489,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [By: Top Blogging Tips for Developers and Bloggers from WordPress WordCamps | Aspiring FEMpreneur](https://central.wordcamp.org/schedule/comment-page-1/#comment-799)
+- [By: Wordcamp Indonesia 2011, I’m Coming… | My Unconscious Mind](https://central.wordcamp.org/schedule/comment-page-1/#comment-794)
+- [By: Blog Wordpress!?! « Dionisiussmpdb2&#39;s Blog](https://central.wordcamp.org/schedule/comment-page-1/#comment-770)
+- [By: WORDPRESS | Tanurezasmpdb2&#39;s Blog](https://central.wordcamp.org/schedule/comment-page-1/#comment-769)
+- [By: Summer of WordCamp | Paris Value](https://central.wordcamp.org/schedule/comment-page-1/#comment-767)
+- [By: Summer of WordCamp | Jeffrey Allan Sousa Network Marketing Coach](https://central.wordcamp.org/schedule/comment-page-1/#comment-757)
+- [By: Summer of WordCamp | Theory Report](https://central.wordcamp.org/schedule/comment-page-1/#comment-635)
+- [By: SF WordCamp Recap | AppThemes](https://central.wordcamp.org/schedule/comment-page-1/#comment-496)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
