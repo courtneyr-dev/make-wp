@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Skins for Contact Form 7](https://make.wordpress.org/polyglots/2022/04/14/pte-request-for-skins-for-contact-form-7-2/)
 - [Agenda: Weekly Polyglots Chat – Apr. 13, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/12/agenda-weekly-polyglots-chat-apr-13-2022-1300-utc/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/04/12/pte-request-for-8/)
 - [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/04/11/post-title-pte-request-for-visidea-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for “Combine Social Photos | Still BE”.](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-combine-social-photos-still-be/)
 - [PTE Request for MyAlice – Live Chat, WhatsApp, Facebook Messenger, Instagram, &amp; Chatbot for WooCommerce](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-myalice-live-chat-whatsapp-facebook-messenger-instagram-chatbot-for-woocommerce/)
 - [PTE Request for filter-featured-image and more](https://make.wordpress.org/polyglots/2022/04/09/pte-request-for-filter-featured-image-and-more/)
-- [PTE Request for Dokan](https://make.wordpress.org/polyglots/2022/04/08/pte-request-for-plugin_name/)
 <!-- POLYGLOTS:END -->
 
 ## Support
