@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/04/14/ive-suggested-translations-for-this-19/)
+- [PTE Request for Advanced Ads](https://make.wordpress.org/polyglots/2022/04/14/pte-request-for-advanced-ads-9/)
+- [PTE Request for Promolayer Popup Builder](https://make.wordpress.org/polyglots/2022/04/14/pte-request-for-promolayer-popup-builder/)
 - [PTE Request for Skins for Contact Form 7](https://make.wordpress.org/polyglots/2022/04/14/pte-request-for-skins-for-contact-form-7-2/)
 - [Agenda: Weekly Polyglots Chat – Apr. 13, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/12/agenda-weekly-polyglots-chat-apr-13-2022-1300-utc/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/04/12/pte-request-for-8/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE and Review Request for EventPrime](https://make.wordpress.org/polyglots/2022/04/11/pte-and-review-request-for-eventprime/)
 - [PTE Request for [SaleSmartly – Live Chat &amp; Chat Bot Integrate]](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-salesmartly-live-chat-chat-bot-integrate/)
 - [PTE Request for Weather Forecast Widget](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-weather-forecast-widget/)
-- [PTE Request for “Combine Social Photos | Still BE”.](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-combine-social-photos-still-be/)
-- [PTE Request for MyAlice – Live Chat, WhatsApp, Facebook Messenger, Instagram, &amp; Chatbot for WooCommerce](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-myalice-live-chat-whatsapp-facebook-messenger-instagram-chatbot-for-woocommerce/)
-- [PTE Request for filter-featured-image and more](https://make.wordpress.org/polyglots/2022/04/09/pte-request-for-filter-featured-image-and-more/)
 <!-- POLYGLOTS:END -->
 
 ## Support
