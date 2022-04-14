@@ -467,3 +467,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-752/)
 - [Fashontech Full Stack WP Developer](https://jobs.wordpress.net/job/fashontech-full-stack-wp-developer/)
 <!-- JOBS:END -->
+
+## Central
+<!-- CENTRAL:START -->
+<!-- CENTRAL:END -->
+
+### WordCamp
+<!-- WORDCAMP:START -->
+<!-- WORDCAMP:END -->
+
+## WordPress Foundation
+<!-- WPFOUNDATION:START -->
+<!-- WPFOUNDATION:END -->
