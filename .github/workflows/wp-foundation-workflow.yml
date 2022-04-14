@@ -1,0 +1,21 @@
+name: Latest WordCamp post workflow
+on:
+  schedule:     # Runs every 5 minutes
+   - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch:
+
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "WPFoundation"
+          feed_list: "https://wordpressfoundation.org/feed/"
+          max_post_count: 25
+ 
