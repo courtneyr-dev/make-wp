@@ -362,6 +362,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Community Meeting Recap &lpar;April 12th&rpar;](https://make.wordpress.org/openverse/2022/04/15/community-meeting-recap-april-12th/)
 - [Community Meeting Recap &lpar;April 5th&rpar;](https://make.wordpress.org/openverse/2022/04/05/community-meeting-recap-april-5th/)
 - [Community Meeting Recap &lpar;March 29th&rpar;](https://make.wordpress.org/openverse/2022/03/29/community-meeting-recap-march-29th/)
 - [A week in Openverse: 2022-03-21 – 2022-03-28](https://make.wordpress.org/openverse/2022/03/28/last-week-openverse-2022-03-21-2022-03-28/)
@@ -371,7 +372,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A week in Openverse: 2022-03-07 – 2022-03-14](https://make.wordpress.org/openverse/2022/03/14/last-week-openverse-2022-03-07-2022-03-14/)
 - [Openverse Frontend v3.1.1 Release](https://make.wordpress.org/openverse/2022/03/10/openverse-frontend-v3-1-1-release/)
 - [TypeScript is now a first class citizen in Openverse frontend](https://make.wordpress.org/openverse/2022/03/07/typescript-is-now-a-first-class-citizen-in-openverse-frontend/)
-- [A week in Openverse: 2022-02-28 – 2022-03-07](https://make.wordpress.org/openverse/2022/03/07/last-week-openverse-2022-02-28-2022-03-07/)
 <!-- OPENVERSE:END -->
 
 ## Photos
