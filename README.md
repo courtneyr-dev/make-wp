@@ -277,6 +277,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Fearless Theme Switching](https://wordpress.tv/2022/04/15/fearless-theme-switching/)
+- [Testing WordPress 6.0: Authoring an Author Template](https://wordpress.tv/2022/04/15/testing-wordpress-6-0-authoring-an-author-template/)
 - [Podcasting with WordPress](https://wordpress.tv/2022/04/13/podcasting-with-wordpress/)
 - [Nick Diego: Builder Basics – Headers and Footers in Full Site Editing](https://wordpress.tv/2022/04/13/nick-diego-builder-basics-headers-and-footers-in-full-site-editing/)
 - [Submitting Block Patterns to the Directory](https://wordpress.tv/2022/04/13/submitting-block-patterns-to-the-directory/)
@@ -300,8 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Luca Rodino: Il mondo Cookieless che verrà: i cambiamenti in arrivo e come prepararci](https://wordpress.tv/2022/03/17/luca-rodino-il-mondo-cookieless-che-verra-i-cambiamenti-in-arrivo-e-come-prepararci/)
 - [Dennis Ploetner: Contribuire ad un progetto open source](https://wordpress.tv/2022/03/17/dennis-ploetner-contribuire-ad-un-progetto-open-source/)
 - [Giacomo Cariulo: Da freelance ad agenzia. Skills e tools](https://wordpress.tv/2022/03/17/giacomo-cariulo-da-freelance-ad-agenzia-skills-e-tools/)
-- [Andrea Paternostro, Max Nardini: Creare pagine di ricerca e filtro con effetto wow &lpar;quasi&rpar; senza codice](https://wordpress.tv/2022/03/17/andrea-paternostro-max-nardini-creare-pagine-di-ricerca-e-filtro-con-effetto-wow-quasi-senza-codice/)
-- [Francesco Grasso: WooCommerce su misura – Template, action hooks e filters](https://wordpress.tv/2022/03/17/francesco-grasso-woocommerce-su-misura-template-action-hooks-e-filters/)
 <!-- WPTV:END -->
 
 ## Marketing
