@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on April 14, 2022](https://make.wordpress.org/community/2022/04/14/recap-of-the-diverse-speaker-training-group-wpdiversity-on-april-14-2022/)
 - [Return to In-Person Events: Share Your Challenges](https://make.wordpress.org/community/2022/04/11/return-to-in-person-events-share-your-challenges/)
 - [Community Team Meeting Agenda 7 Apr 2022](https://make.wordpress.org/community/2022/04/07/community-team-meeting-agenda-7-apr-2022/)
 - [Upcoming #WPDiversity Events: April 2022](https://make.wordpress.org/community/2022/04/06/upcoming-wpdiversity-events-april-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on March 23, 2022](https://make.wordpress.org/community/2022/03/23/recap-of-the-diverse-speaker-training-group-wpdiversity-on-march-23-2022/)
 - [Return to In-Person Events: Blue Sky Thinking](https://make.wordpress.org/community/2022/03/23/return-to-events-blue-sky-thinking/)
 - [Discussion: Revisiting In-person Regional WordCamps](https://make.wordpress.org/community/2022/03/17/discussion-revisiting-in-person-regional-wordcamps/)
-- [Meetup Organizer Newsletter: March 2022](https://make.wordpress.org/community/2022/03/14/meetup-organizer-newsletter-march-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
