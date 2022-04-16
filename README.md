@@ -232,6 +232,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Part 1: Simple Site Design with Full Site Editing](https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/)
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
 - [Getting Started With WordPress: Get Setup](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
+- [Polyglots Contributor Training](https://learn.wordpress.org/course/polyglots-contributor-training/)
 <!-- COURSES:END -->
 
 ### Social Learning Spaces
