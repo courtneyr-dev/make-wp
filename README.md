@@ -279,6 +279,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Adding Custom CSS to Your WordPress Site](https://wordpress.tv/2022/04/18/adding-custom-css-to-your-wordpress-site/)
 - [Fearless Theme Switching](https://wordpress.tv/2022/04/15/fearless-theme-switching/)
 - [Testing WordPress 6.0: Authoring an Author Template](https://wordpress.tv/2022/04/15/testing-wordpress-6-0-authoring-an-author-template/)
 - [Podcasting with WordPress](https://wordpress.tv/2022/04/13/podcasting-with-wordpress/)
@@ -303,7 +304,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alessandro Vercellotti: Novità gdpr 2022](https://wordpress.tv/2022/03/17/alessandro-vercellotti-novita-gdpr-2022/)
 - [Luca Rodino: Il mondo Cookieless che verrà: i cambiamenti in arrivo e come prepararci](https://wordpress.tv/2022/03/17/luca-rodino-il-mondo-cookieless-che-verra-i-cambiamenti-in-arrivo-e-come-prepararci/)
 - [Dennis Ploetner: Contribuire ad un progetto open source](https://wordpress.tv/2022/03/17/dennis-ploetner-contribuire-ad-un-progetto-open-source/)
-- [Giacomo Cariulo: Da freelance ad agenzia. Skills e tools](https://wordpress.tv/2022/03/17/giacomo-cariulo-da-freelance-ad-agenzia-skills-e-tools/)
 <!-- WPTV:END -->
 
 ## Marketing
