@@ -459,6 +459,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress and React Developer](https://jobs.wordpress.net/job/wordpress-and-react-developer/)
 - [Full-Stack Software Engineer](https://jobs.wordpress.net/job/full-stack-software-engineer/)
 - [WordPress – Mid Level – Full Stack Software Engineer](https://jobs.wordpress.net/job/wordpress-mid-level-full-stack-software-engineer/)
 - [Blog writer](https://jobs.wordpress.net/job/blog-writer-4/)
@@ -468,7 +469,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Technical Support Specialist / Junior PHP Developer](https://jobs.wordpress.net/job/technical-support-specialist-junior-php-developer/)
 - [Jr WordPress Developer – 100% remote](https://jobs.wordpress.net/job/jr-wordpress-developer-100-remote/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-753/)
-- [WordPress – Junior Level – Full Stack Software Engineer](https://jobs.wordpress.net/job/wordpress-junior-level-full-stack-software-engineer/)
 <!-- JOBS:END -->
 
 ## Central
