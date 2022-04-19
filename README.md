@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE approve process change. Dear…](https://make.wordpress.org/polyglots/2022/04/19/pte-approve-process-change-dear/)
 - [PTE Request for MihanPanel](https://make.wordpress.org/polyglots/2022/04/18/pte-request-for-mihanpanel/)
 - [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/18/pte-request-for-points-and-rewards-for-woocommerce-4/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/04/17/pte-request-for-customer-reviews-for-woocommerce-19/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Skins for Contact Form 7](https://make.wordpress.org/polyglots/2022/04/14/pte-request-for-skins-for-contact-form-7-2/)
 - [Agenda: Weekly Polyglots Chat – Apr. 13, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/12/agenda-weekly-polyglots-chat-apr-13-2022-1300-utc/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/04/12/pte-request-for-8/)
-- [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/04/11/post-title-pte-request-for-visidea-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
