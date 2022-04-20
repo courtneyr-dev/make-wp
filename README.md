@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for Android 19.7](https://make.wordpress.org/test/2022/04/20/xpost-call-for-testing-wordpress-for-android-19-7/)
 - [X-post: Call for Testing: WordPress for iOS 19.7](https://make.wordpress.org/test/2022/04/19/xpost-call-for-testing-wordpress-for-ios-19-7/)
 - [Help Wanted: Test WordPress 6.0](https://make.wordpress.org/test/2022/04/12/help-wanted-test-wordpress-6-0/)
 - [Help Test the Comments Blocks for WordPress 6.0](https://make.wordpress.org/test/2022/04/08/help-test-the-comments-blocks-for-wordpress-6-0/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Testing: WordPress for iOS 19.6](https://make.wordpress.org/test/2022/04/04/xpost-call-for-testing-wordpress-for-ios-19-6/)
 - [FSE Program Testing Call #13: Authoring an Author Template](https://make.wordpress.org/test/2022/03/31/fse-program-testing-call-13-authoring-an-author-template/)
 - [X-post: Test Team Update for 28 March 2022](https://make.wordpress.org/test/2022/03/28/xpost-test-team-update-for-28-march-2022/)
-- [X-post: Migrating WordPress E2E tests to Playwright](https://make.wordpress.org/test/2022/03/23/xpost-migrating-wordpress-e2e-tests-to-playwright/)
 <!-- TEST:END -->
 
 ## TV
