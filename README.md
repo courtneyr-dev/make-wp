@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for SMNTCS plugins](https://make.wordpress.org/polyglots/2022/04/20/pte-request-for-smntcs-plugins/)
 - [Weekly Polyglots Chat – April 20, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/19/weekly-polyglots-chat-april-20-2022-700-utc/)
 - [The new notifications’ system at translate.wordpress.org](https://make.wordpress.org/polyglots/2022/04/19/the-new-notifications-system-at-translate-wordpress-org/)
 - [PTE approve process change. Dear…](https://make.wordpress.org/polyglots/2022/04/19/pte-approve-process-change-dear/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/04/14/ive-suggested-translations-for-this-19/)
 - [PTE Request for Advanced Ads](https://make.wordpress.org/polyglots/2022/04/14/pte-request-for-advanced-ads-9/)
 - [PTE Request for Promolayer Popup Builder](https://make.wordpress.org/polyglots/2022/04/14/pte-request-for-promolayer-popup-builder/)
-- [PTE Request for Skins for Contact Form 7](https://make.wordpress.org/polyglots/2022/04/14/pte-request-for-skins-for-contact-form-7-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
