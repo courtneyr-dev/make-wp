@@ -227,7 +227,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
-- [Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
 - [Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
 - [Basic Principles of Conflict Resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)
 - [Part 3: Advanced Site Design with Full Site Editing: Site Editor, Templates and Template Parts](https://learn.wordpress.org/course/part-3-advanced-site-design-with-full-site-editing-site-editor-templates-and-template-parts/)
@@ -236,6 +235,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
 - [Getting Started With WordPress: Get Setup](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
 - [How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
+- [Incident Response Team Training](https://learn.wordpress.org/course/incident-response-team-training/)
 - [Polyglots Contributor Training](https://learn.wordpress.org/course/polyglots-contributor-training/)
 <!-- COURSES:END -->
 
