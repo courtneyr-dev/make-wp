@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [For](https://make.wordpress.org/polyglots/2022/04/21/for/)
+- [Dear mentors, We have translations…](https://make.wordpress.org/polyglots/2022/04/21/dear-mentors-we-have-translations/)
 - [PTE Request for [Event Tickets Manager for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/21/pte-request-for-event-tickets-manager-for-woocommerce/)
 - [PTE Request for [buy-one-click-woocommerce]](https://make.wordpress.org/polyglots/2022/04/21/pte-request-for-buy-one-click-woocommerce/)
 - [PTE Request for Customizer Custom CSS plugin](https://make.wordpress.org/polyglots/2022/04/21/pte-request-for-customizer-custom-css-plugin/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Weekly Polyglots Chat – April 20, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/19/weekly-polyglots-chat-april-20-2022-700-utc/)
 - [The new notifications’ system at translate.wordpress.org](https://make.wordpress.org/polyglots/2022/04/19/the-new-notifications-system-at-translate-wordpress-org/)
 - [PTE approve process change. Dear…](https://make.wordpress.org/polyglots/2022/04/19/pte-approve-process-change-dear/)
-- [PTE Request for MihanPanel](https://make.wordpress.org/polyglots/2022/04/18/pte-request-for-mihanpanel/)
-- [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/18/pte-request-for-points-and-rewards-for-woocommerce-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
