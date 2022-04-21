@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [buy-one-click-woocommerce]](https://make.wordpress.org/polyglots/2022/04/21/pte-request-for-buy-one-click-woocommerce/)
 - [PTE Request for Customizer Custom CSS plugin](https://make.wordpress.org/polyglots/2022/04/21/pte-request-for-customizer-custom-css-plugin/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/04/21/post-title-pte-request-for-48/)
 - [PTE Request for SMNTCS plugins](https://make.wordpress.org/polyglots/2022/04/20/pte-request-for-smntcs-plugins/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for MihanPanel](https://make.wordpress.org/polyglots/2022/04/18/pte-request-for-mihanpanel/)
 - [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/18/pte-request-for-points-and-rewards-for-woocommerce-4/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/04/17/pte-request-for-customer-reviews-for-woocommerce-19/)
-- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/04/14/ive-suggested-translations-for-this-19/)
 <!-- POLYGLOTS:END -->
 
 ## Support
