@@ -241,6 +241,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Using the Navigation block](https://learn.wordpress.org/?meeting=using-the-navigation-block)
+- [Creating a Restaurant Website with the Block Editor](https://learn.wordpress.org/?meeting=creating-a-restaurant-website-with-the-block-editor)
 - [Testing WordPress Together: Authoring an Author Template](https://learn.wordpress.org/?meeting=testing-wordpress-together-authoring-an-author-template)
 - [How to Make a WordPress Blog in 2022](https://learn.wordpress.org/?meeting=how-to-make-a-wordpress-blog-in-2022)
 - [Hello Blocks! Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-2)
@@ -249,8 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fearless Theme Switching](https://learn.wordpress.org/?meeting=fearless-theme-switching)
 - [Podcasting with WordPress](https://learn.wordpress.org/?meeting=podcasting-with-wordpress)
 - [Adding Custom CSS to your WordPress Site](https://learn.wordpress.org/?meeting=adding-custom-css-to-your-wordpress-site)
-- [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-3)
-- [Create a Magazine Layout with the WordPress Gutenberg Block Editor](https://learn.wordpress.org/?meeting=create-a-magazine-layout-with-the-wordpress-gutenberg-block-editor)
 <!-- SLS:END -->
 
 ## Test
