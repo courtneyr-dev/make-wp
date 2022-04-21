@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-2)
 - [Using the Navigation block](https://learn.wordpress.org/?meeting=using-the-navigation-block)
 - [Creating a Restaurant Website with the Block Editor](https://learn.wordpress.org/?meeting=creating-a-restaurant-website-with-the-block-editor)
 - [Testing WordPress Together: Authoring an Author Template](https://learn.wordpress.org/?meeting=testing-wordpress-together-authoring-an-author-template)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [No-Code Techniques to Showcase Your Images on Any Device](https://learn.wordpress.org/?meeting=no-code-techniques-to-showcase-your-images-on-any-device)
 - [Fearless Theme Switching](https://learn.wordpress.org/?meeting=fearless-theme-switching)
 - [Podcasting with WordPress](https://learn.wordpress.org/?meeting=podcasting-with-wordpress)
-- [Adding Custom CSS to your WordPress Site](https://learn.wordpress.org/?meeting=adding-custom-css-to-your-wordpress-site)
 <!-- SLS:END -->
 
 ## Test
