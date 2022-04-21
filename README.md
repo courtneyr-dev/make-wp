@@ -157,6 +157,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Announcement: Updated COVID-19 guidelines for official WordPress events](https://make.wordpress.org/community/2022/04/21/announcement-updated-covid-19-guidelines-for-official-wordpress-events/)
+- [Meetup Organizer Newsletter: April 2022](https://make.wordpress.org/community/2022/04/21/meetup-organizer-newsletter-april-2022/)
 - [X-post: Migrating Contributor Training to Learn WordPress](https://make.wordpress.org/community/2022/04/19/xpost-migrating-contributor-training-to-learn-wordpress/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on April 14, 2022](https://make.wordpress.org/community/2022/04/14/recap-of-the-diverse-speaker-training-group-wpdiversity-on-april-14-2022/)
 - [Return to In-Person Events: Share Your Challenges](https://make.wordpress.org/community/2022/04/11/return-to-in-person-events-share-your-challenges/)
@@ -165,8 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/community/2022/04/01/xpost-whats-new-on-learnwp-in-march-2022/)
 - [Proposal: Steps to Integrate #WPDiversity into WordPress Event Organizing](https://make.wordpress.org/community/2022/03/30/proposal-steps-to-integrate-wpdiversity-into-wordpress-event-organizing/)
 - [Report: Allyship and Diverse Speaker Workshops February 2022](https://make.wordpress.org/community/2022/03/25/report-allyship-and-diverse-speaker-workshops-february-2022/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on March 23, 2022](https://make.wordpress.org/community/2022/03/23/recap-of-the-diverse-speaker-training-group-wpdiversity-on-march-23-2022/)
-- [Return to In-Person Events: Blue Sky Thinking](https://make.wordpress.org/community/2022/03/23/return-to-events-blue-sky-thinking/)
 <!-- COMMUNITY:END -->
 
 ## Meta
