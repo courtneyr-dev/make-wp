@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Finding Images Using the WordPress Photo Directory](https://wordpress.tv/2022/04/20/finding-images-using-the-wordpress-photo-directory/)
 - [Finding Images Using Openverse](https://wordpress.tv/2022/04/20/finding-images-using-openverse/)
 - [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/04/20/understanding-the-page-editor-vs-site-editor/)
 - [No-Code Techniques to Showcase Your Images on Any Device](https://wordpress.tv/2022/04/20/no-code-techniques-to-showcase-your-images-on-any-device/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress for Writers: Launching your Writer Website](https://wordpress.tv/2022/03/21/wordpress-for-writers-launching-your-writer-website/)
 - [Jorge González: Introducción a las Core Web Vitals](https://wordpress.tv/2022/03/21/jorge-gonzalez-introduccion-core-web-vitals/)
 - [Piermario Orecchioni: Perche dovreste voler bene a Gutenberg e come iniziare a farlo](https://wordpress.tv/2022/03/17/piermario-orecchioni-perche-dovreste-voler-bene-a-gutenberg-e-come-iniziare-a-farlo/)
-- [Gaia Mazzucco, Andrea Giglio: La centralità dell’individuo all’interno dell’ambito IT](https://wordpress.tv/2022/03/17/gaia-mazzucco-andrea-giglio-la-centralita-dellindividuo-allinterno-dellambito-it/)
 <!-- WPTV:END -->
 
 ## Marketing
