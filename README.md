@@ -418,6 +418,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Email forwarder reports@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-reportswordpress-org-for-helpscout/)
 - [Grant dotorg trac access for Brandon Kraft](https://make.wordpress.org/systems/2022/04/12/grant-dotorg-trac-access-for-brandon-kraft/)
 - [Commit for images/core/emoji Could I…](https://make.wordpress.org/systems/2022/04/11/commit-for-images-core-emoji-could-i/)
 - [Clear codex cache &amp; lower cache TTL?](https://make.wordpress.org/systems/2022/04/04/clear-codex-cache-lower-cache-ttl/)
@@ -427,7 +428,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Deploy &amp; Clear caches for: Planet &amp; Codex](https://make.wordpress.org/systems/2022/01/13/deploy-clear-caches-for-planet-codex/)
 - [Disable Themes Trac browser for root index](https://make.wordpress.org/systems/2021/12/16/disable-themes-trac-browser-for-root-index/)
 - [Remove user agent blocking for Firefox/100 &amp; Chrome/100.0](https://make.wordpress.org/systems/2021/11/25/remove-user-agent-blocking-for-firefox-100-chrome-100-0/)
-- [Redirects for JSON Schemas](https://make.wordpress.org/systems/2021/11/03/redirects-for-json-schemas/)
 <!-- SYSTEMS:END -->
 
 ## News
