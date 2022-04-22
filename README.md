@@ -461,16 +461,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CI engineer](https://jobs.wordpress.net/job/ci-engineer/)
+- [Lead developer](https://jobs.wordpress.net/job/lead-developer-16/)
+- [Software architect](https://jobs.wordpress.net/job/software-architect/)
+- [Senior JavaScript developer](https://jobs.wordpress.net/job/senior-javascript-developer-2/)
+- [Senior developer](https://jobs.wordpress.net/job/senior-developer-8/)
+- [React developer](https://jobs.wordpress.net/job/react-developer-3/)
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-757/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-756/)
 - [Full-Stack Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-developer-wordpress-4/)
 - [Senior PHP Engineer —Experience with WordPress](https://jobs.wordpress.net/job/senior-php-engineer-experience-with-wordpress/)
-- [[rtCamp] Digital Marketing Executive](https://jobs.wordpress.net/job/rtcamp-digital-marketing-executive-4/)
-- [[rtCamp] Technical Writer](https://jobs.wordpress.net/job/rtcamp-technical-writer-5/)
-- [Frontend Developer](https://jobs.wordpress.net/job/frontend-developer-4/)
-- [[Astra] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-2/)
-- [WordPress and React Developer](https://jobs.wordpress.net/job/wordpress-and-react-developer/)
-- [Full-Stack Software Engineer](https://jobs.wordpress.net/job/full-stack-software-engineer/)
-- [WordPress – Mid Level – Full Stack Software Engineer](https://jobs.wordpress.net/job/wordpress-mid-level-full-stack-software-engineer/)
 <!-- JOBS:END -->
 
 ## Central
