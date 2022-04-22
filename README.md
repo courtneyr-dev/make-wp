@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary of Docs Team Meeting April 19, 2022](https://make.wordpress.org/docs/2022/04/22/summary-of-docs-team-meeting-april-19-2022/)
 - [Agenda for docs team bi-weekly meeting 19 April 2022](https://make.wordpress.org/docs/2022/04/18/agenda-for-docs-team-bi-weekly-meeting-19-april-2022/)
 - [Summary of Docs team meeting Apr 5, 2022](https://make.wordpress.org/docs/2022/04/06/summary-of-docs-team-meeting-apr-5-2022/)
 - [X-post: Brand Guideline Additional Consideration](https://make.wordpress.org/docs/2022/04/05/xpost-brand-guideline-additional-consideration/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of Docs Team Meeting March 22, 2022](https://make.wordpress.org/docs/2022/03/23/summary-of-docs-team-meeting-march-22-2022/)
 - [Agenda for docs team bi-weekly meeting 22 March 2022](https://make.wordpress.org/docs/2022/03/22/agenda-for-docs-team-bi-weekly-meeting-22-march-2022/)
 - [X-post: Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/docs/2022/03/16/xpost-coming-soon-block-pattern-directory-submissions/)
-- [Summary of Docs Team Meeting March 8, 2022](https://make.wordpress.org/docs/2022/03/08/summary-of-docs-team-meeting-march-8-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
