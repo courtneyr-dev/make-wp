@@ -461,16 +461,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-756/)
+- [Full-Stack Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-developer-wordpress-4/)
+- [Senior PHP Engineer —Experience with WordPress](https://jobs.wordpress.net/job/senior-php-engineer-experience-with-wordpress/)
+- [[rtCamp] Digital Marketing Executive](https://jobs.wordpress.net/job/rtcamp-digital-marketing-executive-4/)
+- [[rtCamp] Technical Writer](https://jobs.wordpress.net/job/rtcamp-technical-writer-5/)
 - [Frontend Developer](https://jobs.wordpress.net/job/frontend-developer-4/)
 - [[Astra] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-2/)
 - [WordPress and React Developer](https://jobs.wordpress.net/job/wordpress-and-react-developer/)
 - [Full-Stack Software Engineer](https://jobs.wordpress.net/job/full-stack-software-engineer/)
 - [WordPress – Mid Level – Full Stack Software Engineer](https://jobs.wordpress.net/job/wordpress-mid-level-full-stack-software-engineer/)
-- [Blog writer](https://jobs.wordpress.net/job/blog-writer-4/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-755/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-754/)
-- [Product Manager &lpar;Product Owner&rpar;](https://jobs.wordpress.net/job/product-manager-product-owner/)
-- [Technical Support Specialist / Junior PHP Developer](https://jobs.wordpress.net/job/technical-support-specialist-junior-php-developer/)
 <!-- JOBS:END -->
 
 ## Central
