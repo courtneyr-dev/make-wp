@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for several projects](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-several-projects/)
+- [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2022/04/23/hello-i-am-the-plugin-8/)
 - [PTE Request for [Forms with chart from VAB]](https://make.wordpress.org/polyglots/2022/04/22/pte-request-for-forms-with-chart-from-vab/)
 - [Polyglots Monthly Newsletter: April 2022](https://make.wordpress.org/polyglots/2022/04/22/polyglots-monthly-newsletter-april-2022/)
 - [For](https://make.wordpress.org/polyglots/2022/04/21/for/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [buy-one-click-woocommerce]](https://make.wordpress.org/polyglots/2022/04/21/pte-request-for-buy-one-click-woocommerce/)
 - [PTE Request for Customizer Custom CSS plugin](https://make.wordpress.org/polyglots/2022/04/21/pte-request-for-customizer-custom-css-plugin/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/04/21/post-title-pte-request-for-48/)
-- [PTE Request for SMNTCS plugins](https://make.wordpress.org/polyglots/2022/04/20/pte-request-for-smntcs-plugins/)
-- [Weekly Polyglots Chat – April 20, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/19/weekly-polyglots-chat-april-20-2022-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
