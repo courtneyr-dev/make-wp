@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Currency Converter Widget ⚡ PRO]](https://make.wordpress.org/polyglots/2022/04/24/pte-request-for-currency-converter-widget-%e2%9a%a1-pro-2/)
 - [PTE Request for Simple Schedule Appointments](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-simple-schedule-appointments/)
 - [Hi,](https://make.wordpress.org/polyglots/2022/04/23/hi-94/)
 - [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-safelayout-cute-preloader/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Forms with chart from VAB]](https://make.wordpress.org/polyglots/2022/04/22/pte-request-for-forms-with-chart-from-vab/)
 - [Polyglots Monthly Newsletter: April 2022](https://make.wordpress.org/polyglots/2022/04/22/polyglots-monthly-newsletter-april-2022/)
 - [For](https://make.wordpress.org/polyglots/2022/04/21/for/)
-- [Dear mentors, We have translations…](https://make.wordpress.org/polyglots/2022/04/21/dear-mentors-we-have-translations/)
 <!-- POLYGLOTS:END -->
 
 ## Support
