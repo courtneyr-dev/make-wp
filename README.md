@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for OC Smart Table&lpar;free&rpar;](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-oc-smart-tablefree/)
+- [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-points-and-rewards-for-woocommerce-5/)
 - [Hello!](https://make.wordpress.org/polyglots/2022/04/25/hello-65/)
 - [PTE Request for publishpress-authors](https://make.wordpress.org/polyglots/2022/04/24/post-title-pte-request-for-publishpress-authors/)
 - [I want to contribute to…](https://make.wordpress.org/polyglots/2022/04/24/i-want-to-contribute-to/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2022/04/23/hi-94/)
 - [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-safelayout-cute-preloader/)
 - [PTE Request for [Currency Converter Widget ⚡ PRO]](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-currency-converter-widget-%e2%9a%a1-pro/)
-- [PTE Request for several projects](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-several-projects/)
-- [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2022/04/23/hello-i-am-the-plugin-8/)
 <!-- POLYGLOTS:END -->
 
 ## Support
