@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – April. 27, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/26/agenda-weekly-polyglots-chat-april-27-2022-1300-utc/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2022/04/26/i-am-the-plugin-author-26/)
 - [Proof of Concept: Rename “Reject” to “Request Changes”](https://make.wordpress.org/polyglots/2022/04/26/proof-of-concept-rename-reject-to-request-changes/)
 - [PTE Request for OC Smart Table&lpar;free&rpar;](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-oc-smart-tablefree/)
 - [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-points-and-rewards-for-woocommerce-5/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I want to contribute to…](https://make.wordpress.org/polyglots/2022/04/24/i-want-to-contribute-to/)
 - [PTE Request for [Currency Converter Widget ⚡ PRO]](https://make.wordpress.org/polyglots/2022/04/24/pte-request-for-currency-converter-widget-%e2%9a%a1-pro-2/)
 - [PTE Request for Simple Schedule Appointments](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-simple-schedule-appointments/)
-- [Hi,](https://make.wordpress.org/polyglots/2022/04/23/hi-94/)
-- [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-safelayout-cute-preloader/)
 <!-- POLYGLOTS:END -->
 
 ## Support
