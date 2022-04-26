@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Proof of Concept: Rename “Reject” to “Request Changes”](https://make.wordpress.org/polyglots/2022/04/26/proof-of-concept-rename-reject-to-request-changes/)
 - [PTE Request for OC Smart Table&lpar;free&rpar;](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-oc-smart-tablefree/)
 - [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-points-and-rewards-for-woocommerce-5/)
 - [Hello!](https://make.wordpress.org/polyglots/2022/04/25/hello-65/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Simple Schedule Appointments](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-simple-schedule-appointments/)
 - [Hi,](https://make.wordpress.org/polyglots/2022/04/23/hi-94/)
 - [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-safelayout-cute-preloader/)
-- [PTE Request for [Currency Converter Widget ⚡ PRO]](https://make.wordpress.org/polyglots/2022/04/23/pte-request-for-currency-converter-widget-%e2%9a%a1-pro/)
 <!-- POLYGLOTS:END -->
 
 ## Support
