@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda for April 27, 2022](https://make.wordpress.org/training/2022/04/26/meeting-agenda-for-april-27-2022/)
 - [Recap of Training Team meetings, April 19 and 21, 2022](https://make.wordpress.org/training/2022/04/21/recap-of-training-team-meetings-april-19-and-21-2022/)
 - [Meeting Agenda for Week Beginning April 18, 2022](https://make.wordpress.org/training/2022/04/19/meeting-agenda-for-week-beginning-april-18-2022/)
 - [Migrating Contributor Training to Learn WordPress](https://make.wordpress.org/training/2022/04/19/migrating-contributor-training-to-learn-wordpress/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Demo Sites for Learn WordPress Users](https://make.wordpress.org/training/2022/04/07/demo-sites-for-learn-wordpress-users/)
 - [Meeting Agenda for Week Beginning April 4, 2022](https://make.wordpress.org/training/2022/04/04/meeting-agenda-for-week-beginning-april-4-2022/)
 - [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/training/2022/04/01/xpost-whats-new-on-learnwp-in-march-2022/)
-- [Brand Guideline Additional Consideration](https://make.wordpress.org/training/2022/04/01/brand-guideline-additional-consideration/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
