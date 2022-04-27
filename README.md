@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat Summary, April 27, 2022](https://make.wordpress.org/core/2022/04/27/dev-chat-summary-april-27-2022/)
 - [Exploration to enable better Developer and Visitor Experiences with blocks](https://make.wordpress.org/core/2022/04/27/exploration-to-enable-better-developer-and-visitor-experiences-with-blocks/)
 - [An Update on Preferred Languages](https://make.wordpress.org/core/2022/04/27/an-update-on-preferred-languages/)
 - [Dev Chat Agenda, April 27, 2022](https://make.wordpress.org/core/2022/04/26/dev-chat-agenda-april-27-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 26 April 2022](https://make.wordpress.org/core/2022/04/25/performance-chat-agenda-26-april-2022/)
 - [Editor chat summary: Wednesday, 20 April 2022](https://make.wordpress.org/core/2022/04/24/editor-chat-summary-wednesday-20-april-2022/)
 - [Status of Webfonts API for WordPress 6.0 Inclusion](https://make.wordpress.org/core/2022/04/22/status-of-webfonts-api-for-wordpress-6-0-inclusion/)
-- [Dev Chat Summary, April 20, 2022](https://make.wordpress.org/core/2022/04/22/dev-chat-summary-april-20-2022/)
 <!-- CORE:END -->
 
 ## Design
