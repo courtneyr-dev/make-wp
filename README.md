@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Divídelo]](https://make.wordpress.org/polyglots/2022/04/27/pte-request-for-dividelo/)
 - [X-post: An Update on Preferred Languages](https://make.wordpress.org/polyglots/2022/04/27/xpost-an-update-on-preferred-languages/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/04/27/post-title-pte-request-for-49/)
 - [PTE Request for [MyFatoorah – WooCommerce]](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-myfatoorah-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for OC Smart Table&lpar;free&rpar;](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-oc-smart-tablefree/)
 - [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-points-and-rewards-for-woocommerce-5/)
 - [Hello!](https://make.wordpress.org/polyglots/2022/04/25/hello-65/)
-- [PTE Request for publishpress-authors](https://make.wordpress.org/polyglots/2022/04/24/post-title-pte-request-for-publishpress-authors/)
 <!-- POLYGLOTS:END -->
 
 ## Support
