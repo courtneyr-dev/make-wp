@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://learn.wordpress.org/?meeting=testing-wordpress-together-new-interactivity-features-for-recipe-websites)
 - [Open Source Principles and WordPress](https://learn.wordpress.org/?meeting=open-source-principles-and-wordpress)
 - [WordPress 5.9 Lookback &amp; 6.0 Look ahead](https://learn.wordpress.org/?meeting=wordpress-5-9-lookback-6-0-look-ahead)
 - [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-2)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Make a WordPress Blog in 2022](https://learn.wordpress.org/?meeting=how-to-make-a-wordpress-blog-in-2022)
 - [Hello Blocks! Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-2)
 - [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/?meeting=understanding-the-page-editor-vs-site-editor)
-- [No-Code Techniques to Showcase Your Images on Any Device](https://learn.wordpress.org/?meeting=no-code-techniques-to-showcase-your-images-on-any-device)
 <!-- SLS:END -->
 
 ## Test
