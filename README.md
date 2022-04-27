@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/preferences-persistence](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences-persistence/)
 - [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
 - [ToggleGroupControlOptionIcon](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-icon/)
 - [BorderBoxControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-box-control/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [NavigatorBackButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-back-button/)
 - [NavigatorButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-button/)
 - [Converting customizer settings to block patterns](https://developer.wordpress.org/themes/block-themes/converting-customizer-settings-to-block-patterns/)
-- [@wordpress/style-engine](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-style-engine/)
 <!-- DEVHUB:END -->
 
 ## Themes
