@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sarah Snow: How to Make a WordPress Blog &lpar;2022 Edition&rpar;](https://wordpress.tv/2022/04/28/sarah-snow-how-to-make-a-wordpress-blog-2022-edition/)
 - [WordPressformance. Cacheando, que es gerundio](https://wordpress.tv/2022/04/28/javier-casares-wordpressformance-cacheando-gerundio/)
 - [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2022/04/28/fran-torres-wordpress-framework-no-habian-contado/)
 - [Applying Duotone Filters to Change Color Effects](https://wordpress.tv/2022/04/25/applying-duotone-filters-to-change-color-effects/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Displaying the Post Comments Block in Block Themes](https://wordpress.tv/2022/03/29/displaying-the-post-comments-block-in-block-themes/)
 - [WordPress im Terminal – Bash, SSH und WP-CLI](https://wordpress.tv/2022/03/29/wordpress-im-terminal-bash-ssh-und-wp-cli/)
 - [Strukturierte Daten in der Suchmaschine](https://wordpress.tv/2022/03/29/strukturierte-daten-in-der-suchmaschine/)
-- [Hello Blocks! Coding a custom block](https://wordpress.tv/2022/03/29/hello-blocks-coding-a-custom-block/)
 <!-- WPTV:END -->
 
 ## Marketing
