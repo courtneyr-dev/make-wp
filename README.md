@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Ads](https://make.wordpress.org/polyglots/2022/04/28/pte-request-for-advanced-ads-10/)
+- [User Profile Plugin Turkish Translation](https://make.wordpress.org/polyglots/2022/04/28/user-profile-plugin-turkish-translation/)
 - [PTE Request for W3CSSPress](https://make.wordpress.org/polyglots/2022/04/28/pte-request-for-w3csspress/)
 - [PTE Request for [Divídelo]](https://make.wordpress.org/polyglots/2022/04/27/pte-request-for-dividelo/)
 - [X-post: An Update on Preferred Languages](https://make.wordpress.org/polyglots/2022/04/27/xpost-an-update-on-preferred-languages/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – April. 27, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/26/agenda-weekly-polyglots-chat-april-27-2022-1300-utc/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/04/26/i-am-the-plugin-author-26/)
 - [Proof of Concept: Rename “Reject” to “Request Changes”](https://make.wordpress.org/polyglots/2022/04/26/proof-of-concept-rename-reject-to-request-changes/)
-- [PTE Request for OC Smart Table&lpar;free&rpar;](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-oc-smart-tablefree/)
-- [PTE Request for [Points and Rewards for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-points-and-rewards-for-woocommerce-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
