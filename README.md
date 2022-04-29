@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Wolfram Embed](https://wordpress.org/support/article/wolfram-embed/)
 - [Site Tagline Block](https://wordpress.org/support/article/site-tagline-block/)
 - [Post Content Block](https://wordpress.org/support/article/post-content-block/)
 - [Pinterest Embed](https://wordpress.org/support/article/pinterest-embed/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Post Categories Block](https://wordpress.org/support/article/post-categories-block/)
 - [Post Excerpt Block](https://wordpress.org/support/article/post-excerpt-block/)
 - [Post Title Block](https://wordpress.org/support/article/post-title-block/)
-- [Post Featured Image Block](https://wordpress.org/support/article/post-featured-image-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
