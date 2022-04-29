@@ -418,6 +418,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [SSL cert expired for plugins-svn.bbpress.org](https://make.wordpress.org/systems/2022/04/29/ssl-cert-expired-for-plugins-svn-bbpress-org/)
 - [Email forwarder hosting@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-hostingwordpress-org-for-helpscout/)
 - [Email forwarder reports@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-reportswordpress-org-for-helpscout/)
 - [Grant dotorg trac access for Brandon Kraft](https://make.wordpress.org/systems/2022/04/12/grant-dotorg-trac-access-for-brandon-kraft/)
@@ -427,7 +428,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Update getinvolved@ email forwarder](https://make.wordpress.org/systems/2022/03/22/update-getinvolved-email-forwarder/)
 - [CORS headers for s.w.org](https://make.wordpress.org/systems/2022/02/22/cors-headers-for-s-w-org/)
 - [Deploy &amp; Clear caches for: Planet &amp; Codex](https://make.wordpress.org/systems/2022/01/13/deploy-clear-caches-for-planet-codex/)
-- [Disable Themes Trac browser for root index](https://make.wordpress.org/systems/2021/12/16/disable-themes-trac-browser-for-root-index/)
 <!-- SYSTEMS:END -->
 
 ## News
