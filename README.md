@@ -461,16 +461,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Web Developer](https://jobs.wordpress.net/job/web-developer-194/)
+- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-18/)
+- [[rtCamp] Senior React Engineer](https://jobs.wordpress.net/job/rtcamp-senior-react-engineer-21/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-31/)
+- [Simple filter to an EDD function](https://jobs.wordpress.net/job/simple-filter-to-an-edd-function/)
 - [Lead Software Engineer &lpar;JavaScript Frameworks&rpar;](https://jobs.wordpress.net/job/lead-software-engineer-javascript-frameworks/)
 - [Support Superhero](https://jobs.wordpress.net/job/support-superhero-4/)
 - [PHP/WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-30/)
 - [WP Site Dev Lead](https://jobs.wordpress.net/job/wp-site-dev-lead/)
 - [PHP Engineer](https://jobs.wordpress.net/job/php-engineer-3/)
-- [Back-end developer](https://jobs.wordpress.net/job/back-end-developer-7/)
-- [WordPress Plugin Web Developer &lpar;PHP&rpar;](https://jobs.wordpress.net/job/wordpress-plugin-web-developer-php-3/)
-- [Website Developer](https://jobs.wordpress.net/job/website-developer-26/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-193/)
-- [Small Bugfixing Woocomerce / Gerneratepress](https://jobs.wordpress.net/job/small-bugfixing-woocomerce-gerneratepress/)
 <!-- JOBS:END -->
 
 ## Central
