@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor chat summary: Wednesday, 27 April 2022](https://make.wordpress.org/core/2022/05/02/editor-chat-summary-wednesday-20-april-2022-2/)
 - [Theme export in WordPress 6.0](https://make.wordpress.org/core/2022/05/02/theme-export-in-wordpress-6-0/)
 - [New features for working with patterns and themes in WordPress 6.0](https://make.wordpress.org/core/2022/05/02/new-features-for-working-with-patterns-and-themes-in-wordpress-6-0/)
 - [Object type specific registration hooks in 6.0](https://make.wordpress.org/core/2022/05/02/object-type-specific-registration-hooks-in-6-0/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP_User_Query now accepts fields options in WordPress 6.0](https://make.wordpress.org/core/2022/04/29/wp_user_query-now-accepts-fields-options-in-wordpress-6-0/)
 - [Caching improvements in WordPress 6.0](https://make.wordpress.org/core/2022/04/29/caching-improvements-in-wordpress-6-0/)
 - [Taxonomy performance improvements in WordPress 6.0](https://make.wordpress.org/core/2022/04/28/taxonomy-performance-improvements-in-wordpress-6-0/)
-- [What’s new in Gutenberg 13.1? &lpar;27 April&rpar;](https://make.wordpress.org/core/2022/04/28/whats-new-in-gutenberg-13-1-27-april/)
 <!-- CORE:END -->
 
 ## Design
