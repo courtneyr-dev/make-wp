@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Media: storing file size as part of metadata](https://make.wordpress.org/core/2022/05/02/media-storing-file-size-as-part-of-metadata/)
+- [Performance increase for sites with large user counts &lpar;now also available on single site&rpar;](https://make.wordpress.org/core/2022/05/02/performance-increase-for-sites-with-large-user-counts-now-also-available-on-single-site/)
 - [WP_User_Query now accepts fields options in WordPress 6.0](https://make.wordpress.org/core/2022/04/29/wp_user_query-now-accepts-fields-options-in-wordpress-6-0/)
 - [Caching improvements in WordPress 6.0](https://make.wordpress.org/core/2022/04/29/caching-improvements-in-wordpress-6-0/)
 - [Taxonomy performance improvements in WordPress 6.0](https://make.wordpress.org/core/2022/04/28/taxonomy-performance-improvements-in-wordpress-6-0/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Changes to do_parse_request filter in WordPress 6.0](https://make.wordpress.org/core/2022/04/27/changes-to-do_parse_request-filter-in-wordpress-6-0/)
 - [New filter to modify content images in WordPress 6.0](https://make.wordpress.org/core/2022/04/27/new-filter-to-modify-content-images-in-wordpress-6-0/)
 - [Exploration to enable better Developer and Visitor Experiences with blocks](https://make.wordpress.org/core/2022/04/27/exploration-to-enable-better-developer-and-visitor-experiences-with-blocks/)
-- [An Update on Preferred Languages](https://make.wordpress.org/core/2022/04/27/an-update-on-preferred-languages/)
-- [Dev Chat Agenda, April 27, 2022](https://make.wordpress.org/core/2022/04/26/dev-chat-agenda-april-27-2022/)
 <!-- CORE:END -->
 
 ## Design
