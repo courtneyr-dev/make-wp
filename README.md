@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 3 May 2022](https://make.wordpress.org/core/2022/05/02/performance-chat-agenda-3-may-2022/)
 - [Media: storing file size as part of metadata](https://make.wordpress.org/core/2022/05/02/media-storing-file-size-as-part-of-metadata/)
 - [Performance increase for sites with large user counts &lpar;now also available on single site&rpar;](https://make.wordpress.org/core/2022/05/02/performance-increase-for-sites-with-large-user-counts-now-also-available-on-single-site/)
 - [WP_User_Query now accepts fields options in WordPress 6.0](https://make.wordpress.org/core/2022/04/29/wp_user_query-now-accepts-fields-options-in-wordpress-6-0/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Summary, April 27, 2022](https://make.wordpress.org/core/2022/04/27/dev-chat-summary-april-27-2022/)
 - [Changes to do_parse_request filter in WordPress 6.0](https://make.wordpress.org/core/2022/04/27/changes-to-do_parse_request-filter-in-wordpress-6-0/)
 - [New filter to modify content images in WordPress 6.0](https://make.wordpress.org/core/2022/04/27/new-filter-to-modify-content-images-in-wordpress-6-0/)
-- [Exploration to enable better Developer and Visitor Experiences with blocks](https://make.wordpress.org/core/2022/04/27/exploration-to-enable-better-developer-and-visitor-experiences-with-blocks/)
 <!-- CORE:END -->
 
 ## Design
