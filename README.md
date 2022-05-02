@@ -241,6 +241,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-3)
+- [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-2)
+- [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-1)
 - [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://learn.wordpress.org/?meeting=testing-wordpress-together-new-interactivity-features-for-recipe-websites)
 - [Open Source Principles and WordPress](https://learn.wordpress.org/?meeting=open-source-principles-and-wordpress)
 - [WordPress 5.9 Lookback &amp; 6.0 Look ahead](https://learn.wordpress.org/?meeting=wordpress-5-9-lookback-6-0-look-ahead)
@@ -248,9 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the Navigation block](https://learn.wordpress.org/?meeting=using-the-navigation-block)
 - [Creating a Restaurant Website with the Block Editor](https://learn.wordpress.org/?meeting=creating-a-restaurant-website-with-the-block-editor)
 - [Testing WordPress Together: Authoring an Author Template](https://learn.wordpress.org/?meeting=testing-wordpress-together-authoring-an-author-template)
-- [How to Make a WordPress Blog in 2022](https://learn.wordpress.org/?meeting=how-to-make-a-wordpress-blog-in-2022)
-- [Hello Blocks! Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-2)
-- [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/?meeting=understanding-the-page-editor-vs-site-editor)
 <!-- SLS:END -->
 
 ## Test
