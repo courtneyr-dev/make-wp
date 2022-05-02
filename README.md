@@ -241,6 +241,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Design With Me: Create a Simple Website for your Small Business](https://learn.wordpress.org/?meeting=design-with-me-create-a-simple-website-for-your-small-business)
+- [Sticky Styling: Getting Colors, Fonts, and Sizes to Stick](https://learn.wordpress.org/?meeting=sticky-styling-getting-colors-fonts-and-sizes-to-stick)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-3)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-2)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-1)
@@ -249,8 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 5.9 Lookback &amp; 6.0 Look ahead](https://learn.wordpress.org/?meeting=wordpress-5-9-lookback-6-0-look-ahead)
 - [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-2)
 - [Using the Navigation block](https://learn.wordpress.org/?meeting=using-the-navigation-block)
-- [Creating a Restaurant Website with the Block Editor](https://learn.wordpress.org/?meeting=creating-a-restaurant-website-with-the-block-editor)
-- [Testing WordPress Together: Authoring an Author Template](https://learn.wordpress.org/?meeting=testing-wordpress-together-authoring-an-author-template)
 <!-- SLS:END -->
 
 ## Test
