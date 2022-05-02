@@ -475,6 +475,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [Join the European WordPress Community in Porto, Portugal!](https://central.wordcamp.org/news/2022/05/join-the-european-wordpress-community-in-porto-portugal/)
 - [Represent Your Community: Join the WordCamp Asia 2023 Team](https://central.wordcamp.org/news/2022/04/represent-your-community-join-the-wordcamp-asia-2023-team/)
 - [Bluehost supports WordPress community events worldwide](https://central.wordcamp.org/news/2022/02/bluehost-supports-wordpress-community-events-worldwide-2/)
 - [Thanks to Jetpack for sponsoring community events worldwide](https://central.wordcamp.org/news/2022/02/thanks-to-jetpack-for-sponsoring-community-events-worldwide-2/)
@@ -489,7 +490,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Taiwan 2021 is coming on December 11-12. Get Your Free Ticket Now!](https://central.wordcamp.org/news/2021/12/wordcamp-taiwan-2021-is-coming-on-december-11-12-get-your-free-ticket-now/)
 - [WordCamp US Update: City Search 2022](https://central.wordcamp.org/news/2021/10/wordcamp-us-update-city-search-2022/)
 - [Making a great online conference experience at WordCamp Prague](https://central.wordcamp.org/news/2021/04/making-a-great-online-conference-experience-at-wordcamp-prague/)
-- [WordCamp India 2021 – A recap](https://central.wordcamp.org/news/2021/03/wordcamp-india-2021-a-recap/)
 <!-- Central:END -->
 
 ### WordCamp
