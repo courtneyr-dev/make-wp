@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – May 2, 2022](https://make.wordpress.org/core/2022/05/03/a-week-in-core-may-2-2022/)
 - [Editor Chat Agenda: 4 May 2022](https://make.wordpress.org/core/2022/05/02/editor-chat-agenda-4-may-2022/)
 - [Editor chat summary: Wednesday, 27 April 2022](https://make.wordpress.org/core/2022/05/02/editor-chat-summary-wednesday-20-april-2022-2/)
 - [Theme export in WordPress 6.0](https://make.wordpress.org/core/2022/05/02/theme-export-in-wordpress-6-0/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Media: storing file size as part of metadata](https://make.wordpress.org/core/2022/05/02/media-storing-file-size-as-part-of-metadata/)
 - [Performance increase for sites with large user counts &lpar;now also available on single site&rpar;](https://make.wordpress.org/core/2022/05/02/performance-increase-for-sites-with-large-user-counts-now-also-available-on-single-site/)
 - [WP_User_Query now accepts fields options in WordPress 6.0](https://make.wordpress.org/core/2022/04/29/wp_user_query-now-accepts-fields-options-in-wordpress-6-0/)
-- [Caching improvements in WordPress 6.0](https://make.wordpress.org/core/2022/04/29/caching-improvements-in-wordpress-6-0/)
 <!-- CORE:END -->
 
 ## Design
