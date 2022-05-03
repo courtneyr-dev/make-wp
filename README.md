@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on April 25, 2022](https://make.wordpress.org/community/2022/05/02/recap-of-the-diverse-speaker-training-group-wpdiversity-on-april-25-2022/)
 - [X-post: Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/community/2022/05/02/xpost-proposal-make-wordpress-team-or-project-updates/)
 - [WPDiversity is Expanding to APAC!](https://make.wordpress.org/community/2022/04/22/wpdiversity-is-expanding-to-apac/)
 - [Announcement: Updated COVID-19 guidelines for official WordPress events](https://make.wordpress.org/community/2022/04/21/announcement-updated-covid-19-guidelines-for-official-wordpress-events/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Return to In-Person Events: Share Your Challenges](https://make.wordpress.org/community/2022/04/11/return-to-in-person-events-share-your-challenges/)
 - [Community Team Meeting Agenda 7 Apr 2022](https://make.wordpress.org/community/2022/04/07/community-team-meeting-agenda-7-apr-2022/)
 - [Upcoming #WPDiversity Events: April 2022](https://make.wordpress.org/community/2022/04/06/upcoming-wpdiversity-events-april-2022/)
-- [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/community/2022/04/01/xpost-whats-new-on-learnwp-in-march-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
