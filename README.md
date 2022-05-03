@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.0 Field Guide](https://make.wordpress.org/core/2022/05/03/wordpress-6-0-field-guide/)
+- [Performance team meeting summary 3 May 2022](https://make.wordpress.org/core/2022/05/03/performance-team-meeting-summary-3-may-2022/)
 - [Miscellaneous Dev Notes for WordPress 6.0](https://make.wordpress.org/core/2022/05/03/miscellaneous-dev-notes-for-wordpress-6-0/)
 - [Block Editor miscellaneous Dev Notes for WordPress 6.0](https://make.wordpress.org/core/2022/05/03/block-editor-miscellaneous-dev-notes-for-wordpress-6-0/)
 - [Page creation patterns in WordPress 6.0](https://make.wordpress.org/core/2022/05/03/page-creation-patterns-in-wordpress-6-0/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block markup updates for image, quote, list and group blocks](https://make.wordpress.org/core/2022/05/03/block-markup-updates-for-image-quote-list-and-group-blocks/)
 - [Support for handling resolution errors for Editor data module](https://make.wordpress.org/core/2022/05/03/support-for-handling-resolution-errors-for-editor-data-module/)
 - [A Week in Core – May 2, 2022](https://make.wordpress.org/core/2022/05/03/a-week-in-core-may-2-2022/)
-- [Editor Chat Agenda: 4 May 2022](https://make.wordpress.org/core/2022/05/02/editor-chat-agenda-4-may-2022/)
-- [Editor chat summary: Wednesday, 27 April 2022](https://make.wordpress.org/core/2022/05/02/editor-chat-summary-wednesday-20-april-2022-2/)
 <!-- CORE:END -->
 
 ## Design
