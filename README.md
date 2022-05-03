@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2022/05/03/i-am-the-plugin-author-27/)
+- [Hi dear mentors,](https://make.wordpress.org/polyglots/2022/05/03/hi-dear-mentors-2/)
+- [Hi dear mentors,](https://make.wordpress.org/polyglots/2022/05/03/hi-dear-mentors/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/05/03/hello-polyglots-295/)
 - [WordPress 6.0 ready to be translated](https://make.wordpress.org/polyglots/2022/05/02/wordpress-6-0-ready-to-be-translated/)
 - [PTE Request for [One Click Upsell Funnel for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/29/pte-request-for-one-click-upsell-funnel-for-woocommerce-2/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [User Profile Plugin Turkish Translation](https://make.wordpress.org/polyglots/2022/04/28/user-profile-plugin-turkish-translation/)
 - [PTE Request for W3CSSPress](https://make.wordpress.org/polyglots/2022/04/28/pte-request-for-w3csspress/)
 - [PTE Request for [Divídelo]](https://make.wordpress.org/polyglots/2022/04/27/pte-request-for-dividelo/)
-- [X-post: An Update on Preferred Languages](https://make.wordpress.org/polyglots/2022/04/27/xpost-an-update-on-preferred-languages/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/04/27/post-title-pte-request-for-49/)
-- [PTE Request for [MyFatoorah – WooCommerce]](https://make.wordpress.org/polyglots/2022/04/26/pte-request-for-myfatoorah-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
