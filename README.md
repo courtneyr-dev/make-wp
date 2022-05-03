@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Separator block: Updated to use block supports color settings](https://make.wordpress.org/core/2022/05/03/separator-block-updated-to-use-block-supports-color-settings/)
 - [Block markup updates for image, quote, list and group blocks](https://make.wordpress.org/core/2022/05/03/block-markup-updates-for-image-quote-list-and-group-blocks/)
 - [Support for handling resolution errors for Editor data module](https://make.wordpress.org/core/2022/05/03/support-for-handling-resolution-errors-for-editor-data-module/)
 - [A Week in Core – May 2, 2022](https://make.wordpress.org/core/2022/05/03/a-week-in-core-may-2-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New features for working with patterns and themes in WordPress 6.0](https://make.wordpress.org/core/2022/05/02/new-features-for-working-with-patterns-and-themes-in-wordpress-6-0/)
 - [Object type specific registration hooks in 6.0](https://make.wordpress.org/core/2022/05/02/object-type-specific-registration-hooks-in-6-0/)
 - [Performance Chat Agenda: 3 May 2022](https://make.wordpress.org/core/2022/05/02/performance-chat-agenda-3-may-2022/)
-- [Media: storing file size as part of metadata](https://make.wordpress.org/core/2022/05/02/media-storing-file-size-as-part-of-metadata/)
 <!-- CORE:END -->
 
 ## Design
