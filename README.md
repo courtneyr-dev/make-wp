@@ -3,6 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Miscellaneous Dev Notes for WordPress 6.0](https://make.wordpress.org/core/2022/05/03/miscellaneous-dev-notes-for-wordpress-6-0/)
+- [Block Editor miscellaneous Dev Notes for WordPress 6.0](https://make.wordpress.org/core/2022/05/03/block-editor-miscellaneous-dev-notes-for-wordpress-6-0/)
+- [Page creation patterns in WordPress 6.0](https://make.wordpress.org/core/2022/05/03/page-creation-patterns-in-wordpress-6-0/)
 - [Global Styles variations in WordPress 6.0](https://make.wordpress.org/core/2022/05/03/global-styles-variations-in-wordpress-6-0/)
 - [Separator block: Updated to use block supports color settings](https://make.wordpress.org/core/2022/05/03/separator-block-updated-to-use-block-supports-color-settings/)
 - [Block markup updates for image, quote, list and group blocks](https://make.wordpress.org/core/2022/05/03/block-markup-updates-for-image-quote-list-and-group-blocks/)
@@ -10,9 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Week in Core – May 2, 2022](https://make.wordpress.org/core/2022/05/03/a-week-in-core-may-2-2022/)
 - [Editor Chat Agenda: 4 May 2022](https://make.wordpress.org/core/2022/05/02/editor-chat-agenda-4-may-2022/)
 - [Editor chat summary: Wednesday, 27 April 2022](https://make.wordpress.org/core/2022/05/02/editor-chat-summary-wednesday-20-april-2022-2/)
-- [Theme export in WordPress 6.0](https://make.wordpress.org/core/2022/05/02/theme-export-in-wordpress-6-0/)
-- [New features for working with patterns and themes in WordPress 6.0](https://make.wordpress.org/core/2022/05/02/new-features-for-working-with-patterns-and-themes-in-wordpress-6-0/)
-- [Object type specific registration hooks in 6.0](https://make.wordpress.org/core/2022/05/02/object-type-specific-registration-hooks-in-6-0/)
 <!-- CORE:END -->
 
 ## Design
