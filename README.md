@@ -461,6 +461,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Website Update Using WordPress](https://jobs.wordpress.net/job/website-update-using-word-press/)
 - [Backend WP/Budyypress/LEMP](https://jobs.wordpress.net/job/backend-wp-budyypress-lemp/)
 - [[Astra] Senior Web Designer](https://jobs.wordpress.net/job/astra-senior-web-designer/)
 - [Senior Software Automation Engineer – Commerce](https://jobs.wordpress.net/job/senior-software-automation-engineer-commerce/)
@@ -470,7 +471,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress theme change to Gutenberg/block editor](https://jobs.wordpress.net/job/wordpress-theme-change-to-gutenberg-block-editor/)
 - [WordPress theme customisation](https://jobs.wordpress.net/job/wordpress-theme-customisation-4/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-87/)
-- [[aThemes] Full-Stack WordPress Developer](https://jobs.wordpress.net/job/athemes-full-stack-wordpress-developer/)
 <!-- JOBS:END -->
 
 ## Central
