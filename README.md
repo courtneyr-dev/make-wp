@@ -461,16 +461,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Software Automation Engineer – Commerce](https://jobs.wordpress.net/job/senior-software-automation-engineer-commerce/)
+- [Senior User Experience Designer](https://jobs.wordpress.net/job/senior-user-experience-designer-6/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-15/)
+- [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-5/)
+- [WordPress theme change to Gutenberg/block editor](https://jobs.wordpress.net/job/wordpress-theme-change-to-gutenberg-block-editor/)
 - [Transferring current site to WP](https://jobs.wordpress.net/job/transferring-current-site-to-wp/)
 - [WordPress theme customisation](https://jobs.wordpress.net/job/wordpress-theme-customisation-4/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-87/)
 - [[aThemes] Full-Stack WordPress Developer](https://jobs.wordpress.net/job/athemes-full-stack-wordpress-developer/)
 - [Divi design, development and maintenance](https://jobs.wordpress.net/job/divi-design-development-and-maintenance/)
-- [WordPress PHP Developer](https://jobs.wordpress.net/job/wordpress-php-developer-22/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-194/)
-- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-18/)
-- [[rtCamp] Senior React Engineer](https://jobs.wordpress.net/job/rtcamp-senior-react-engineer-21/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-31/)
 <!-- JOBS:END -->
 
 ## Central
