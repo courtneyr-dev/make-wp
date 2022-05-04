@@ -468,9 +468,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-15/)
 - [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-5/)
 - [WordPress theme change to Gutenberg/block editor](https://jobs.wordpress.net/job/wordpress-theme-change-to-gutenberg-block-editor/)
-- [Transferring current site to WP](https://jobs.wordpress.net/job/transferring-current-site-to-wp/)
 - [WordPress theme customisation](https://jobs.wordpress.net/job/wordpress-theme-customisation-4/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-87/)
+- [[aThemes] Full-Stack WordPress Developer](https://jobs.wordpress.net/job/athemes-full-stack-wordpress-developer/)
 <!-- JOBS:END -->
 
 ## Central
