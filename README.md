@@ -461,6 +461,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Backend WP/Budyypress/LEMP](https://jobs.wordpress.net/job/backend-wp-budyypress-lemp/)
+- [[Astra] Senior Web Designer](https://jobs.wordpress.net/job/astra-senior-web-designer/)
 - [Senior Software Automation Engineer – Commerce](https://jobs.wordpress.net/job/senior-software-automation-engineer-commerce/)
 - [Senior User Experience Designer](https://jobs.wordpress.net/job/senior-user-experience-designer-6/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-15/)
@@ -469,8 +471,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Transferring current site to WP](https://jobs.wordpress.net/job/transferring-current-site-to-wp/)
 - [WordPress theme customisation](https://jobs.wordpress.net/job/wordpress-theme-customisation-4/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-87/)
-- [[aThemes] Full-Stack WordPress Developer](https://jobs.wordpress.net/job/athemes-full-stack-wordpress-developer/)
-- [Divi design, development and maintenance](https://jobs.wordpress.net/job/divi-design-development-and-maintenance/)
 <!-- JOBS:END -->
 
 ## Central
