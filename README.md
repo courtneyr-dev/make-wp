@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [i would like to join…](https://make.wordpress.org/polyglots/2022/05/05/i-would-like-to-join/)
+- [PTE Request for FAPI Member](https://make.wordpress.org/polyglots/2022/05/05/pte-request-for-fapi-member/)
 - [Agenda: Weekly Polyglots Chat – May. 4, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/03/agenda-weekly-polyglots-chat-may-4-2022-0700-utc/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/05/03/i-am-the-plugin-author-27/)
 - [Hi dear mentors,](https://make.wordpress.org/polyglots/2022/05/03/hi-dear-mentors-2/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.0 ready to be translated](https://make.wordpress.org/polyglots/2022/05/02/wordpress-6-0-ready-to-be-translated/)
 - [PTE Request for [One Click Upsell Funnel for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/29/pte-request-for-one-click-upsell-funnel-for-woocommerce-2/)
 - [PTE Request for Advanced Ads](https://make.wordpress.org/polyglots/2022/04/28/pte-request-for-advanced-ads-10/)
-- [User Profile Plugin Turkish Translation](https://make.wordpress.org/polyglots/2022/04/28/user-profile-plugin-turkish-translation/)
-- [PTE Request for W3CSSPress](https://make.wordpress.org/polyglots/2022/04/28/pte-request-for-w3csspress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
