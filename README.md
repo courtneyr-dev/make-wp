@@ -116,8 +116,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Developer Articles
 <!-- DEVHUB:START -->
 - [@wordpress/preferences-persistence](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences-persistence/)
-- [ToggleGroupControlOptionIcon](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-icon/)
 - [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
+- [ToggleGroupControlOptionIcon](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-icon/)
 - [BorderBoxControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-box-control/)
 - [BorderControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-control/)
 - [Building an edit form](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/3-building-an-edit-form/)
