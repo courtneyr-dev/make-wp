@@ -432,6 +432,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [The Month in WordPress – April 2022](https://wordpress.org/news/2022/05/the-month-in-wordpress-april-2022/)
 - [WordPress 6.0 Release Candidate 1](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-1/)
 - [WordPress 6.0 Beta 4](https://wordpress.org/news/2022/05/wordpress-6-0-beta-4/)
 - [WP Briefing: Episode 30: A Sneak Peek at WordPress 6.0](https://wordpress.org/news/2022/05/episode-30-a-sneak-peek-at-wordpress-6-0/)
@@ -456,7 +457,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 24: Three Goals in 2022](https://wordpress.org/news/2022/02/episode-24-three-goals-in-2022/)
 - [The Month in WordPress – January 2022](https://wordpress.org/news/2022/02/the-month-in-wordpress-january-2022/)
 - [WordPress 5.9 “Josephine”](https://wordpress.org/news/2022/01/josephine/)
-- [WordPress 5.9 RC3](https://wordpress.org/news/2022/01/wordpress-5-9-rc3/)
 <!-- NEWS:END -->
 
 ## Jobs
