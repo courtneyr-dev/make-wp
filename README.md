@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [How To Get Your Pull Request Reviewed?](https://developer.wordpress.org/block-editor/contributors/code/how-to-get-your-pull-request-reviewed/)
 - [@wordpress/preferences-persistence](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences-persistence/)
 - [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
 - [ToggleGroupControlOptionIcon](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-icon/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [@wordpress/preferences](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences/)
 - [NavigatorBackButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-back-button/)
 - [NavigatorButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-button/)
-- [Converting customizer settings to block patterns](https://developer.wordpress.org/themes/block-themes/converting-customizer-settings-to-block-patterns/)
 <!-- DEVHUB:END -->
 
 ## Themes
