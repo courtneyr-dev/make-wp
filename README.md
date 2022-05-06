@@ -461,6 +461,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-758/)
+- [Head of Growth Marketing &lpar;LifterLMS&rpar;](https://jobs.wordpress.net/job/head-of-growth-marketing-lifterlms/)
+- [Product Manager](https://jobs.wordpress.net/job/product-manager-2/)
 - [Website Update Using WordPress](https://jobs.wordpress.net/job/website-update-using-word-press/)
 - [Backend WP/Budyypress/LEMP](https://jobs.wordpress.net/job/backend-wp-budyypress-lemp/)
 - [[Astra] Senior Web Designer](https://jobs.wordpress.net/job/astra-senior-web-designer/)
@@ -468,9 +471,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior User Experience Designer](https://jobs.wordpress.net/job/senior-user-experience-designer-6/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-15/)
 - [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-5/)
-- [WordPress theme change to Gutenberg/block editor](https://jobs.wordpress.net/job/wordpress-theme-change-to-gutenberg-block-editor/)
-- [WordPress theme customisation](https://jobs.wordpress.net/job/wordpress-theme-customisation-4/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-87/)
 <!-- JOBS:END -->
 
 ## Central
