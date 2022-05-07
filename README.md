@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary Dev Chat, May 5, 2022](https://make.wordpress.org/core/2022/05/06/summary-dev-chat-may-5-2022/)
 - [Editor chat summary: Wednesday, 4 May 2022](https://make.wordpress.org/core/2022/05/05/editor-chat-summary-wednesday-4-may-2022/)
 - [Block Locking Settings in WordPress 6.0](https://make.wordpress.org/core/2022/05/05/block-locking-settings-in-wordpress-6-0/)
 - [Updates to the @wordpress/create-block templating system](https://make.wordpress.org/core/2022/05/05/updates-to-the-wordpress-create-block-templating-system/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance team meeting summary 3 May 2022](https://make.wordpress.org/core/2022/05/03/performance-team-meeting-summary-3-may-2022/)
 - [Miscellaneous Dev Notes for WordPress 6.0](https://make.wordpress.org/core/2022/05/03/miscellaneous-dev-notes-for-wordpress-6-0/)
 - [Block Editor miscellaneous Dev Notes for WordPress 6.0](https://make.wordpress.org/core/2022/05/03/block-editor-miscellaneous-dev-notes-for-wordpress-6-0/)
-- [Page creation patterns in WordPress 6.0](https://make.wordpress.org/core/2022/05/03/page-creation-patterns-in-wordpress-6-0/)
 <!-- CORE:END -->
 
 ## Design
