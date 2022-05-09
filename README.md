@@ -461,6 +461,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WooCommerce developer](https://jobs.wordpress.net/job/woocommerce-developer-8/)
+- [WordPress Continuous Integration Engineer](https://jobs.wordpress.net/job/wordpress-continuous-integration-engineer/)
 - [WordPress developer – Location: Rajkot 1+ year of experience](https://jobs.wordpress.net/job/wordpress-developer-location-rajkot-1-year-of-experience/)
 - [Pinterest tag installed twice](https://jobs.wordpress.net/job/pinterest-tag-installed-twice/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-758/)
@@ -469,8 +471,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Website Update Using WordPress](https://jobs.wordpress.net/job/website-update-using-word-press/)
 - [Backend WP/Budyypress/LEMP](https://jobs.wordpress.net/job/backend-wp-budyypress-lemp/)
 - [[Astra] Senior Web Designer](https://jobs.wordpress.net/job/astra-senior-web-designer/)
-- [Senior Software Automation Engineer – Commerce](https://jobs.wordpress.net/job/senior-software-automation-engineer-commerce/)
-- [Senior User Experience Designer](https://jobs.wordpress.net/job/senior-user-experience-designer-6/)
 <!-- JOBS:END -->
 
 ## Central
