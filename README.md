@@ -461,6 +461,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress developer – Location: Rajkot 1+ year of experience](https://jobs.wordpress.net/job/wordpress-developer-location-rajkot-1-year-of-experience/)
+- [Pinterest tag installed twice](https://jobs.wordpress.net/job/pinterest-tag-installed-twice/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-758/)
 - [Head of Growth Marketing &lpar;LifterLMS&rpar;](https://jobs.wordpress.net/job/head-of-growth-marketing-lifterlms/)
 - [Product Manager](https://jobs.wordpress.net/job/product-manager-2/)
@@ -469,8 +471,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Senior Web Designer](https://jobs.wordpress.net/job/astra-senior-web-designer/)
 - [Senior Software Automation Engineer – Commerce](https://jobs.wordpress.net/job/senior-software-automation-engineer-commerce/)
 - [Senior User Experience Designer](https://jobs.wordpress.net/job/senior-user-experience-designer-6/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-15/)
-- [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-5/)
 <!-- JOBS:END -->
 
 ## Central
