@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for two plugins &lpar;Russian&rpar;](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-two-plugins-russian/)
+- [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-jetpack-wp-security-backup-speed-growth-6/)
 - [PTE Request for Fast eBay Listings](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-fast-ebay-listings/)
 - [CampaignDot translation](https://make.wordpress.org/polyglots/2022/05/08/campaigndot-translation/)
 - [i would like to join…](https://make.wordpress.org/polyglots/2022/05/05/i-would-like-to-join/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/05/03/i-am-the-plugin-author-27/)
 - [Hi dear mentors,](https://make.wordpress.org/polyglots/2022/05/03/hi-dear-mentors-2/)
 - [Hi dear mentors,](https://make.wordpress.org/polyglots/2022/05/03/hi-dear-mentors/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/05/03/hello-polyglots-295/)
-- [WordPress 6.0 ready to be translated](https://make.wordpress.org/polyglots/2022/05/02/wordpress-6-0-ready-to-be-translated/)
 <!-- POLYGLOTS:END -->
 
 ## Support
