@@ -461,16 +461,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-22/)
+- [Test automation engineer](https://jobs.wordpress.net/job/test-automation-engineer/)
+- [Junior DevOps Engineer](https://jobs.wordpress.net/job/junior-devops-engineer/)
+- [WordPress Lead](https://jobs.wordpress.net/job/wordpress-lead-3/)
+- [Medior DevOps Engineer](https://jobs.wordpress.net/job/medior-devops-engineer-2/)
+- [Medior DevOps Engineer](https://jobs.wordpress.net/job/medior-devops-engineer/)
+- [WP, PHP developer, site optimisation](https://jobs.wordpress.net/job/wp-php-developer-site-optimisation/)
 - [WooCommerce developer](https://jobs.wordpress.net/job/woocommerce-developer-8/)
 - [WordPress Continuous Integration Engineer](https://jobs.wordpress.net/job/wordpress-continuous-integration-engineer/)
 - [WordPress developer – Location: Rajkot 1+ year of experience](https://jobs.wordpress.net/job/wordpress-developer-location-rajkot-1-year-of-experience/)
-- [Pinterest tag installed twice](https://jobs.wordpress.net/job/pinterest-tag-installed-twice/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-758/)
-- [Head of Growth Marketing &lpar;LifterLMS&rpar;](https://jobs.wordpress.net/job/head-of-growth-marketing-lifterlms/)
-- [Product Manager](https://jobs.wordpress.net/job/product-manager-2/)
-- [Website Update Using WordPress](https://jobs.wordpress.net/job/website-update-using-word-press/)
-- [Backend WP/Budyypress/LEMP](https://jobs.wordpress.net/job/backend-wp-budyypress-lemp/)
-- [[Astra] Senior Web Designer](https://jobs.wordpress.net/job/astra-senior-web-designer/)
 <!-- JOBS:END -->
 
 ## Central
