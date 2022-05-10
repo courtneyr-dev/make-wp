@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Weekly Polyglots Chat – May 11, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/10/weekly-polyglots-chat-may-11-2022-1300-utc/)
 - [PTE Request for two plugins &lpar;Russian&rpar;](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-two-plugins-russian/)
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-jetpack-wp-security-backup-speed-growth-6/)
 - [PTE Request for Fast eBay Listings](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-fast-ebay-listings/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – May. 4, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/03/agenda-weekly-polyglots-chat-may-4-2022-0700-utc/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/05/03/i-am-the-plugin-author-27/)
 - [Hi dear mentors,](https://make.wordpress.org/polyglots/2022/05/03/hi-dear-mentors-2/)
-- [Hi dear mentors,](https://make.wordpress.org/polyglots/2022/05/03/hi-dear-mentors/)
 <!-- POLYGLOTS:END -->
 
 ## Support
