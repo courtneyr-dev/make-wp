@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Como escolher e instalar plugins](https://wordpress.tv/2022/05/10/como-escolher-e-instalar-plugins/)
 - [Open-Source Principles and WordPress](https://wordpress.tv/2022/05/09/open-source-principles-and-wordpress/)
 - [Showcasing Content with Query Loops](https://wordpress.tv/2022/05/09/showcasing-content-with-query-loops/)
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 1&rpar;](https://wordpress.tv/2022/05/06/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-1/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nick Diego: Builder Basics – Headers and Footers in Full Site Editing](https://wordpress.tv/2022/04/13/nick-diego-builder-basics-headers-and-footers-in-full-site-editing/)
 - [Submitting Block Patterns to the Directory](https://wordpress.tv/2022/04/13/submitting-block-patterns-to-the-directory/)
 - [The difference between reusable blocks, block patterns, templates and template parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts-2/)
-- [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://wordpress.tv/2022/04/07/creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template/)
 <!-- WPTV:END -->
 
 ## Marketing
