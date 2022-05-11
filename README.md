@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for srs-player](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-srs-player/)
+- [PTE Request for CLICKSKEKS I…](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-clickskeks-i/)
 - [Review and PTE Request](https://make.wordpress.org/polyglots/2022/05/11/review-and-pte-request-7/)
 - [Weekly Polyglots Chat – May 11, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/10/weekly-polyglots-chat-may-11-2022-1300-utc/)
 - [PTE Request for two plugins &lpar;Russian&rpar;](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-two-plugins-russian/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampaignDot translation](https://make.wordpress.org/polyglots/2022/05/08/campaigndot-translation/)
 - [i would like to join…](https://make.wordpress.org/polyglots/2022/05/05/i-would-like-to-join/)
 - [PTE Request for FAPI Member](https://make.wordpress.org/polyglots/2022/05/05/pte-request-for-fapi-member/)
-- [Agenda: Weekly Polyglots Chat – May. 4, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/03/agenda-weekly-polyglots-chat-may-4-2022-0700-utc/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2022/05/03/i-am-the-plugin-author-27/)
 <!-- POLYGLOTS:END -->
 
 ## Support
