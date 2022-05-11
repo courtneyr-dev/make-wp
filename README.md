@@ -367,6 +367,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Openverse maintainers welcome Rebecca Widom as a new committer](https://make.wordpress.org/openverse/2022/05/11/openverse-maintainers-welcome-rebecca-widom-as-a-new-committer/)
 - [Community Meeting Recap &lpar;May 10&rpar;](https://make.wordpress.org/openverse/2022/05/11/community-meeting-recap-may-10/)
 - [Community Meeting Recap &lpar;April 26&rpar;](https://make.wordpress.org/openverse/2022/04/28/community-meeting-recap-april-26/)
 - [Community Meeting Recap &lpar;April 12th&rpar;](https://make.wordpress.org/openverse/2022/04/15/community-meeting-recap-april-12th/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Meeting Recap &lpar;Mar 22nd&rpar;](https://make.wordpress.org/openverse/2022/03/23/community-meeting-recap-mar-22nd/)
 - [A week in Openverse: 2022-03-14 – 2022-03-21](https://make.wordpress.org/openverse/2022/03/21/last-week-openverse-2022-03-14-2022-03-21/)
 - [Community Meeting Recap &lpar;Mar 15th&rpar;](https://make.wordpress.org/openverse/2022/03/15/community-meeting-recap-mar-15th/)
-- [A week in Openverse: 2022-03-07 – 2022-03-14](https://make.wordpress.org/openverse/2022/03/14/last-week-openverse-2022-03-07-2022-03-14/)
 <!-- OPENVERSE:END -->
 
 ## Photos
