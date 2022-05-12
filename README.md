@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Franz Enzenhofer: Diversity of Content – The SEO superpower and how to use it with WordPress](https://wordpress.tv/2022/05/12/franz-enzenhofer-diversity-of-content-the-seo-superpower-and-how-to-use-it-with-wordpress/)
+- [Taking Advantage of Query Loops](https://wordpress.tv/2022/05/12/taking-advantage-of-query-loops-2/)
 - [Website Auditing – Be the conversion Hero](https://wordpress.tv/2022/05/11/website-auditing-be-the-conversion-hero/)
 - [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/05/11/understanding-the-page-editor-vs-site-editor-2/)
 - [How to Scale WooCommerce](https://wordpress.tv/2022/05/11/how-to-scale-woocommerce/)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a Magazine Layout with the Block Editor](https://wordpress.tv/2022/04/19/creating-a-magazine-layout-with-the-block-editor/)
 - [Adding Custom CSS to Your WordPress Site](https://wordpress.tv/2022/04/18/adding-custom-css-to-your-wordpress-site/)
 - [Fearless Theme Switching](https://wordpress.tv/2022/04/15/fearless-theme-switching/)
-- [Testing WordPress 6.0: Authoring an Author Template](https://wordpress.tv/2022/04/15/testing-wordpress-6-0-authoring-an-author-template/)
-- [Podcasting with WordPress](https://wordpress.tv/2022/04/13/podcasting-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
