@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [New #WPDiversity APAC Meeting Schedule Announcement](https://make.wordpress.org/community/2022/05/12/new-wpdiversity-apac-meeting-schedule-announcement/)
 - [Join the Community Team for a #WPDiversity Writing Sprint: May 23 to May 30](https://make.wordpress.org/community/2022/05/11/join-the-community-team-for-a-wpdiversity-writing-sprint-may-23-to-may-30/)
 - [Report: Allyship and Diverse Speaker Workshops April 2022](https://make.wordpress.org/community/2022/05/06/report-allyship-and-diverse-speaker-workshops-april-2022/)
 - [Community Team Meeting Agenda for 2022-05-05](https://make.wordpress.org/community/2022/05/04/community-team-meeting-agenda-for-2022-05-05/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcement: Updated COVID-19 guidelines for official WordPress events](https://make.wordpress.org/community/2022/04/21/announcement-updated-covid-19-guidelines-for-official-wordpress-events/)
 - [Meetup Organizer Newsletter: April 2022](https://make.wordpress.org/community/2022/04/21/meetup-organizer-newsletter-april-2022/)
 - [X-post: Migrating Contributor Training to Learn WordPress](https://make.wordpress.org/community/2022/04/19/xpost-migrating-contributor-training-to-learn-wordpress/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on April 14, 2022](https://make.wordpress.org/community/2022/04/14/recap-of-the-diverse-speaker-training-group-wpdiversity-on-april-14-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
