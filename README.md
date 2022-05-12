@@ -461,6 +461,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Principal Software Engineer, WordPress Platform](https://jobs.wordpress.net/job/principal-software-engineer-wordpress-platform/)
+- [Senior Software Development Engineer – Managed WordPress](https://jobs.wordpress.net/job/senior-software-development-engineer-managed-wordpress/)
 - [Quality Assurance Engineer](https://jobs.wordpress.net/job/quality-assurance-engineer/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-88/)
 - [[rtCamp] Digital Marketing Manager](https://jobs.wordpress.net/job/rtcamp-digital-marketing-manager-2/)
@@ -469,8 +471,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-32/)
 - [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-22/)
 - [Test automation engineer](https://jobs.wordpress.net/job/test-automation-engineer/)
-- [Junior DevOps Engineer](https://jobs.wordpress.net/job/junior-devops-engineer/)
-- [WordPress Lead](https://jobs.wordpress.net/job/wordpress-lead-3/)
 <!-- JOBS:END -->
 
 ## Central
