@@ -461,16 +461,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Quality Assurance Engineer](https://jobs.wordpress.net/job/quality-assurance-engineer/)
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-88/)
+- [[rtCamp] Digital Marketing Manager](https://jobs.wordpress.net/job/rtcamp-digital-marketing-manager-2/)
+- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-19/)
+- [WordPRESS Designer](https://jobs.wordpress.net/job/wordpress-designer-52/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-32/)
 - [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-22/)
 - [Test automation engineer](https://jobs.wordpress.net/job/test-automation-engineer/)
 - [Junior DevOps Engineer](https://jobs.wordpress.net/job/junior-devops-engineer/)
 - [WordPress Lead](https://jobs.wordpress.net/job/wordpress-lead-3/)
-- [Medior DevOps Engineer](https://jobs.wordpress.net/job/medior-devops-engineer-2/)
-- [Medior DevOps Engineer](https://jobs.wordpress.net/job/medior-devops-engineer/)
-- [WP, PHP developer, site optimisation](https://jobs.wordpress.net/job/wp-php-developer-site-optimisation/)
-- [WooCommerce developer](https://jobs.wordpress.net/job/woocommerce-developer-8/)
-- [WordPress Continuous Integration Engineer](https://jobs.wordpress.net/job/wordpress-continuous-integration-engineer/)
-- [WordPress developer – Location: Rajkot 1+ year of experience](https://jobs.wordpress.net/job/wordpress-developer-location-rajkot-1-year-of-experience/)
 <!-- JOBS:END -->
 
 ## Central
