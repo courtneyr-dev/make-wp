@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [#editor-requests Hi! Just finished the…](https://make.wordpress.org/polyglots/2022/05/13/editor-requests-hi-just-finished-the/)
+- [Übersetzungen / PTE-Anfrage für JobBoardWP](https://make.wordpress.org/polyglots/2022/05/13/ubersetzungen-pte-anfrage-fur-jobboardwp/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/12/hi-dear-mentors-we-have-82/)
 - [PTE Request for srs-player](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-srs-player/)
 - [PTE Request for CLICKSKEKS I…](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-clickskeks-i/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for two plugins &lpar;Russian&rpar;](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-two-plugins-russian/)
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-jetpack-wp-security-backup-speed-growth-6/)
 - [PTE Request for Fast eBay Listings](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-fast-ebay-listings/)
-- [CampaignDot translation](https://make.wordpress.org/polyglots/2022/05/08/campaigndot-translation/)
-- [i would like to join…](https://make.wordpress.org/polyglots/2022/05/05/i-would-like-to-join/)
 <!-- POLYGLOTS:END -->
 
 ## Support
