@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Blocks](https://wordpress.org/support/article/adding-content-with-blocks/)
 - [CSS](https://wordpress.org/support/article/css/)
 - [Wolfram Embed](https://wordpress.org/support/article/wolfram-embed/)
 - [Site Tagline Block](https://wordpress.org/support/article/site-tagline-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Post Date Block](https://wordpress.org/support/article/post-date-block/)
 - [Post Tags Block](https://wordpress.org/support/article/post-tags-block/)
 - [Post Categories Block](https://wordpress.org/support/article/post-categories-block/)
-- [Post Excerpt Block](https://wordpress.org/support/article/post-excerpt-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
