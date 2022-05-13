@@ -461,6 +461,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Tech Support Contractor &lpar;NA Timezones ONLY&rpar;](https://jobs.wordpress.net/job/wordpress-tech-support-contractor-na-timezones-only/)
+- [WordPress PHP Developer wanted](https://jobs.wordpress.net/job/wordpress-php-developer-wanted/)
 - [Principal Software Engineer, WordPress Platform](https://jobs.wordpress.net/job/principal-software-engineer-wordpress-platform/)
 - [Senior Software Development Engineer – Managed WordPress](https://jobs.wordpress.net/job/senior-software-development-engineer-managed-wordpress/)
 - [Quality Assurance Engineer](https://jobs.wordpress.net/job/quality-assurance-engineer/)
@@ -469,8 +471,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-19/)
 - [WordPRESS Designer](https://jobs.wordpress.net/job/wordpress-designer-52/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-32/)
-- [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-22/)
-- [Test automation engineer](https://jobs.wordpress.net/job/test-automation-engineer/)
 <!-- JOBS:END -->
 
 ## Central
