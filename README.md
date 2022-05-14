@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Stefan Krajczar: WooCommerce-Setup for the European Market &amp; GDPR](https://wordpress.tv/2022/05/14/stefan-krajczar-woocommerce-setup-for-the-european-market-gdpr/)
 - [Franz Enzenhofer: Diversity of Content – The SEO superpower and how to use it with WordPress](https://wordpress.tv/2022/05/12/franz-enzenhofer-diversity-of-content-the-seo-superpower-and-how-to-use-it-with-wordpress/)
 - [Taking Advantage of Query Loops](https://wordpress.tv/2022/05/12/taking-advantage-of-query-loops-2/)
 - [Website Auditing – Be the conversion Hero](https://wordpress.tv/2022/05/11/website-auditing-be-the-conversion-hero/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [No-Code Techniques to Showcase Your Images on Any Device](https://wordpress.tv/2022/04/20/no-code-techniques-to-showcase-your-images-on-any-device/)
 - [Creating a Magazine Layout with the Block Editor](https://wordpress.tv/2022/04/19/creating-a-magazine-layout-with-the-block-editor/)
 - [Adding Custom CSS to Your WordPress Site](https://wordpress.tv/2022/04/18/adding-custom-css-to-your-wordpress-site/)
-- [Fearless Theme Switching](https://wordpress.tv/2022/04/15/fearless-theme-switching/)
 <!-- WPTV:END -->
 
 ## Marketing
