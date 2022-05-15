@@ -101,7 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
-- [What is a block?](https://wordpress.org/support/article/working-with-blocks/)
+- [Working with blocks](https://wordpress.org/support/article/working-with-blocks/)
 - [CSS](https://wordpress.org/support/article/css/)
 - [Wolfram Embed](https://wordpress.org/support/article/wolfram-embed/)
 - [Site Tagline Block](https://wordpress.org/support/article/site-tagline-block/)
