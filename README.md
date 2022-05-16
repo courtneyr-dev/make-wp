@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translations to be approved.](https://make.wordpress.org/polyglots/2022/05/16/translations-to-be-approved/)
+- [PTE Request for G-SMTP](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-g-smtp/)
 - [PTE request – Locale fa_IR](https://make.wordpress.org/polyglots/2022/05/15/pte-request-locale-fa_ir/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/05/14/hello-polyglots-296/)
 - [#editor-requests Hi! Just finished the…](https://make.wordpress.org/polyglots/2022/05/13/editor-requests-hi-just-finished-the/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for srs-player](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-srs-player/)
 - [PTE Request for CLICKSKEKS I…](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-clickskeks-i/)
 - [Review and PTE Request](https://make.wordpress.org/polyglots/2022/05/11/review-and-pte-request-7/)
-- [Weekly Polyglots Chat – May 11, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/10/weekly-polyglots-chat-may-11-2022-1300-utc/)
-- [PTE Request for two plugins &lpar;Russian&rpar;](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-two-plugins-russian/)
 <!-- POLYGLOTS:END -->
 
 ## Support
