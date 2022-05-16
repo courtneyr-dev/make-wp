@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Maximilian Reimann-Gajdusek: WooCommerce SEO – How to optimise your WooCommerce setup](https://wordpress.tv/2022/05/16/maximilian-reimann-gajdusek-woocommerce-seo-how-to-optimise-your-woocommerce-setup/)
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://wordpress.tv/2022/05/15/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-2/)
 - [Dominik Liss: Make WordPress hack-proof](https://wordpress.tv/2022/05/15/dominik-liss-make-wordpress-hack-proof/)
 - [Stefan Krajczar: WooCommerce-Setup for the European Market &amp; GDPR](https://wordpress.tv/2022/05/14/stefan-krajczar-woocommerce-setup-for-the-european-market-gdpr/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Finding Images Using the WordPress Photo Directory](https://wordpress.tv/2022/04/20/finding-images-using-the-wordpress-photo-directory/)
 - [Finding Images Using Openverse](https://wordpress.tv/2022/04/20/finding-images-using-openverse/)
 - [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/04/20/understanding-the-page-editor-vs-site-editor/)
-- [No-Code Techniques to Showcase Your Images on Any Device](https://wordpress.tv/2022/04/20/no-code-techniques-to-showcase-your-images-on-any-device/)
 <!-- WPTV:END -->
 
 ## Marketing
