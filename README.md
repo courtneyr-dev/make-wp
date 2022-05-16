@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Kayo-co WP Plugin](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-kayo-co-wp-plugin/)
 - [PTE Request for Tripandfly Search Widget](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-tripandfly-search-widget/)
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2022/05/16/hi-polyglots-107/)
 - [Translations to be approved.](https://make.wordpress.org/polyglots/2022/05/16/translations-to-be-approved/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [#editor-requests Hi! Just finished the…](https://make.wordpress.org/polyglots/2022/05/13/editor-requests-hi-just-finished-the/)
 - [Übersetzungen / PTE-Anfrage für JobBoardWP](https://make.wordpress.org/polyglots/2022/05/13/ubersetzungen-pte-anfrage-fur-jobboardwp/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/12/hi-dear-mentors-we-have-82/)
-- [PTE Request for srs-player](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-srs-player/)
 <!-- POLYGLOTS:END -->
 
 ## Support
