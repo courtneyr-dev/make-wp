@@ -433,6 +433,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.0 Release Candidate 3 &lpar;RC3&rpar; Now Available for Testing](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-3-rc3-now-available-for-testing/)
 - [WP Briefing: Episode 31: Open Source &amp; Accessibility– Celebrating Global Accessibility Awareness Day With Guest Joe Devon](https://wordpress.org/news/2022/05/episode-31-open-source-accessibility-celebrating-global-accessibility-awareness-day-with-guest-joe-devon/)
 - [WordPress 6.0 Release Candidate 2 &lpar;RC2&rpar; Now Available for Testing](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-2-rc2-now-available-for-testing/)
 - [The Month in WordPress – April 2022](https://wordpress.org/news/2022/05/the-month-in-wordpress-april-2022/)
@@ -457,7 +458,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 5.9.1 Maintenance Release](https://wordpress.org/news/2022/02/wordpress-5-9-1-maintenance-release/)
 - [WP Briefing: Episode 25: Five Cents on Five for the Future](https://wordpress.org/news/2022/02/episode-25-five-cents-on-five-for-the-future/)
 - [A New WordPress News](https://wordpress.org/news/2022/02/a-new-wordpress-news/)
-- [WP Briefing: Episode 24: Three Goals in 2022](https://wordpress.org/news/2022/02/episode-24-three-goals-in-2022/)
 <!-- NEWS:END -->
 
 ## Jobs
