@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for Android 19.9](https://make.wordpress.org/test/2022/05/17/xpost-call-for-testing-wordpress-for-android-19-9/)
 - [X-post: Call for Testing: WordPress for iOS 19.9](https://make.wordpress.org/test/2022/05/16/xpost-call-for-testing-wordpress-for-ios-19-9/)
 - [X-post: Call for Testing: WordPress for iOS 19.8](https://make.wordpress.org/test/2022/05/02/xpost-call-for-testing-wordpress-for-ios-19-8/)
 - [X-post: Call for Testing: WordPress for Android 19.8](https://make.wordpress.org/test/2022/05/02/xpost-call-for-testing-wordpress-for-android-19-8/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Testing: WordPress for iOS 19.7](https://make.wordpress.org/test/2022/04/19/xpost-call-for-testing-wordpress-for-ios-19-7/)
 - [Help Wanted: Test WordPress 6.0](https://make.wordpress.org/test/2022/04/12/help-wanted-test-wordpress-6-0/)
 - [Help Test the Comments Blocks for WordPress 6.0](https://make.wordpress.org/test/2022/04/08/help-test-the-comments-blocks-for-wordpress-6-0/)
-- [X-post: Call for Testing: WordPress for Android 19.6](https://make.wordpress.org/test/2022/04/05/xpost-call-for-testing-wordpress-for-android-19-6/)
 <!-- TEST:END -->
 
 ## TV
