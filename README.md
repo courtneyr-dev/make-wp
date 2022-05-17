@@ -462,6 +462,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Support Enthusiast](https://jobs.wordpress.net/job/campuspress-support-enthusiast-2/)
+- [Remote Product Engineer &lpar;WordPress/WooCommerce&rpar;](https://jobs.wordpress.net/job/remote-product-engineer-wordpress-woocommerce-2/)
+- [Need Senior WP Developer for Developing Plugin from Scratch](https://jobs.wordpress.net/job/need-senior-wp-developer-for-developing-plugin-from-scratch/)
 - [WordPress Tech Support Contractor &lpar;NA Timezones ONLY&rpar;](https://jobs.wordpress.net/job/wordpress-tech-support-contractor-na-timezones-only/)
 - [WordPress PHP Developer wanted](https://jobs.wordpress.net/job/wordpress-php-developer-wanted/)
 - [Principal Software Engineer, WordPress Platform](https://jobs.wordpress.net/job/principal-software-engineer-wordpress-platform/)
@@ -469,9 +472,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Quality Assurance Engineer](https://jobs.wordpress.net/job/quality-assurance-engineer/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-88/)
 - [[rtCamp] Digital Marketing Manager](https://jobs.wordpress.net/job/rtcamp-digital-marketing-manager-2/)
-- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-19/)
-- [WordPRESS Designer](https://jobs.wordpress.net/job/wordpress-designer-52/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-32/)
 <!-- JOBS:END -->
 
 ## Central
