@@ -245,7 +245,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bloggers: Own your Content and Share it Everywhere](https://learn.wordpress.org/?meeting=bloggers-own-your-content-and-share-it-everywhere)
 - [Hello Blocks! Creating a Custom Block](https://learn.wordpress.org/?meeting=hello-blocks-creating-a-custom-block)
 - [Design With Me: Create a Simple Website for your Small Business](https://learn.wordpress.org/?meeting=design-with-me-create-a-simple-website-for-your-small-business)
-- [Sticky Styling: Getting Colors, Fonts, and Sizes to Stick](https://learn.wordpress.org/?meeting=sticky-styling-getting-colors-fonts-and-sizes-to-stick)
+- [[Canceled] Sticky Styling: Getting Colors, Fonts, and Sizes to Stick](https://learn.wordpress.org/?meeting=sticky-styling-getting-colors-fonts-and-sizes-to-stick)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-3)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-2)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-1)
