@@ -311,6 +311,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Agenda: Global Marketing Meeting, May 18, 2022](https://make.wordpress.org/marketing/2022/05/18/agenda-global-marketing-meeting-may-18-2022/)
+- [Notes: Global Marketing Meeting, 11 May 2022](https://make.wordpress.org/marketing/2022/05/18/notes-global-marketing-meeting-11-may-2022/)
 - [Agenda: Global Marketing Meeting, May 11, 2022](https://make.wordpress.org/marketing/2022/05/11/agenda-global-marketing-meeting-may-11-2022/)
 - [Notes: Global Marketing Meeting, 4 May 2022](https://make.wordpress.org/marketing/2022/05/11/notes-global-marketing-meeting-4-may-2022/)
 - [Agenda: Global Marketing Meeting, May 4, 2022](https://make.wordpress.org/marketing/2022/05/04/agenda-global-marketing-meeting-may-4-2022/)
@@ -319,8 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Global Marketing Team Meeting, April 27, 2022](https://make.wordpress.org/marketing/2022/04/27/agenda-global-marketing-team-meeting-april-27-2022/)
 - [Notes: Global Marketing Meeting, 20 April 2022](https://make.wordpress.org/marketing/2022/04/26/notes-global-marketing-meeting-20-april-2022/)
 - [Agenda: Global Marketing Team, 20 April 2022](https://make.wordpress.org/marketing/2022/04/19/agenda-global-marketing-team-20-april-2022/)
-- [Notes: Global Marketing Meeting, 13 April 2022](https://make.wordpress.org/marketing/2022/04/19/notes-global-marketing-meeting-13-april-2022/)
-- [Notes: Global Marketing Meeting, 6 April 2022](https://make.wordpress.org/marketing/2022/04/12/notes-global-marketing-meeting-6-april-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
