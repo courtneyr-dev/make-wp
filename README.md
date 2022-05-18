@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Part 4: Building a _Create page_ form](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/4-building-a-create-page-form/)
 - [How To Get Your Pull Request Reviewed?](https://developer.wordpress.org/block-editor/contributors/code/how-to-get-your-pull-request-reviewed/)
 - [@wordpress/preferences-persistence](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences-persistence/)
 - [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building an edit form](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/3-building-an-edit-form/)
 - [@wordpress/preferences](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences/)
 - [NavigatorBackButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-back-button/)
-- [NavigatorButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-button/)
 <!-- DEVHUB:END -->
 
 ## Themes
