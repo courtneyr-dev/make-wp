@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.0 Translation Status &lpar;May 19, 2022&rpar;](https://make.wordpress.org/polyglots/2022/05/19/wordpress-6-0-translation-status-may-19-2022/)
 - [PTE Request for Vietnamese Translation…](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-vietnamese-translation-3/)
 - [Weekly Polyglots Chat – May 18, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/18/weekly-polyglots-chat-may-18-2022-700-utc/)
 - [Hello. I need the ability…](https://make.wordpress.org/polyglots/2022/05/17/hello-i-need-the-ability/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2022/05/16/hi-polyglots-107/)
 - [Translations to be approved.](https://make.wordpress.org/polyglots/2022/05/16/translations-to-be-approved/)
 - [PTE Request for G-SMTP](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-g-smtp/)
-- [PTE request – Locale fa_IR](https://make.wordpress.org/polyglots/2022/05/15/pte-request-locale-fa_ir/)
 <!-- POLYGLOTS:END -->
 
 ## Support
