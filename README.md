@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Football Pool](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-football-pool-2/)
 - [WordPress 6.0 Translation Status &lpar;May 19, 2022&rpar;](https://make.wordpress.org/polyglots/2022/05/19/wordpress-6-0-translation-status-may-19-2022/)
 - [PTE Request for Vietnamese Translation…](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-vietnamese-translation-3/)
 - [Weekly Polyglots Chat – May 18, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/18/weekly-polyglots-chat-may-18-2022-700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Tripandfly Search Widget](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-tripandfly-search-widget/)
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2022/05/16/hi-polyglots-107/)
 - [Translations to be approved.](https://make.wordpress.org/polyglots/2022/05/16/translations-to-be-approved/)
-- [PTE Request for G-SMTP](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-g-smtp/)
 <!-- POLYGLOTS:END -->
 
 ## Support
