@@ -405,6 +405,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Defining Five for the Future Pledges &amp; Contributions](https://make.wordpress.org/project/2022/05/20/defining-five-for-the-future-pledges-contributions/)
 - [Discussion: Contrib Handbook, Part 2](https://make.wordpress.org/project/2022/04/29/discussion-contrib-handbook-part-2/)
 - [Discussion: Contrib Handbook, Part 1](https://make.wordpress.org/project/2022/04/01/discussion-contrib-handbook-part-1/)
 - [Removal of the Zamir Plugin](https://make.wordpress.org/project/2022/03/23/removal-of-the-zamir-plugin/)
@@ -414,7 +415,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Big Picture Goals 2022](https://make.wordpress.org/project/2022/01/21/big-picture-goals-2022/)
 - [X-post: Proposal for a Performance team](https://make.wordpress.org/project/2021/10/12/xpost-proposal-for-a-performance-team/)
 - [Suggested iterations for the Five for the Future program and tool](https://make.wordpress.org/project/2021/09/10/suggested-iterations-for-the-five-for-the-future-program-and-tool/)
-- [The Metrics of Contributions](https://make.wordpress.org/project/2021/06/17/the-metrics-of-contributions/)
 <!-- PROJECT:END -->
 
 ## Systems
