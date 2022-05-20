@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordCamp Europe 2022 Contributor Day: Plans for the Community Team Table](https://make.wordpress.org/community/2022/05/20/wordcamp-europe-2022-contributor-day-plans-for-the-community-team-table/)
 - [X-post: What’s new on LearnWP in April 2022](https://make.wordpress.org/community/2022/05/18/xpost-whats-new-on-learnwp-in-april-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA and APAC on May 11 and 12, 2022](https://make.wordpress.org/community/2022/05/17/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-and-apac-on-may-11-and-12-2022/)
 - [New #WPDiversity APAC Meeting Schedule Announcement](https://make.wordpress.org/community/2022/05/12/new-wpdiversity-apac-meeting-schedule-announcement/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on April 25, 2022](https://make.wordpress.org/community/2022/05/02/recap-of-the-diverse-speaker-training-group-wpdiversity-on-april-25-2022/)
 - [X-post: Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/community/2022/05/02/xpost-proposal-make-wordpress-team-or-project-updates/)
 - [WPDiversity is Expanding to APAC!](https://make.wordpress.org/community/2022/04/22/wpdiversity-is-expanding-to-apac/)
-- [Announcement: Updated COVID-19 guidelines for official WordPress events](https://make.wordpress.org/community/2022/04/21/announcement-updated-covid-19-guidelines-for-official-wordpress-events/)
 <!-- COMMUNITY:END -->
 
 ## Meta
