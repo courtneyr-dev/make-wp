@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the Navigation Block](https://wordpress.tv/2022/05/19/using-the-navigation-block/)
 - [Getting to know the WordPress Dashboard](https://wordpress.tv/2022/05/19/getting-to-know-the-wordpress-dashboard/)
 - [Bloggers: Own your Content and Share it Everywhere](https://wordpress.tv/2022/05/19/bloggers-own-your-content-and-share-it-everywhere/)
 - [Esther Solà: Actualizaciones en WordPress &lpar;casi&rpar; sin problemas](https://wordpress.tv/2022/05/17/esther-sola-actualizaciones-wordpress-casi-sin-problemas/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2022/04/28/fran-torres-wordpress-framework-no-habian-contado/)
 - [Applying Duotone Filters to Change Color Effects](https://wordpress.tv/2022/04/25/applying-duotone-filters-to-change-color-effects/)
 - [Nahuai Badiola: Novedades de WordPress, descubre cómo ahorrar tiempo](https://wordpress.tv/2022/04/24/nahuai-badiola-novedades-wordpress-descubre-como-ahorrar-tiempo/)
-- [Using Block Patterns](https://wordpress.tv/2022/04/21/using-block-patterns-2/)
 <!-- WPTV:END -->
 
 ## Marketing
