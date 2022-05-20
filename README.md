@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Core Editor Improvement: Creating &amp; containing containers](https://make.wordpress.org/core/2022/05/20/core-editor-improvement-creating-containing-containers/)
 - [WordPress 6.0 Release Day Process](https://make.wordpress.org/core/2022/05/19/wordpress-6-0-release-day-process/)
 - [Dev Chat Summary, May 18, 2022](https://make.wordpress.org/core/2022/05/19/dev-chat-summary-may-18-2022/)
 - [Editor Chat Summary: 18th May 2022](https://make.wordpress.org/core/2022/05/19/editor-chat-summary-18th-may-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 17 May 2022](https://make.wordpress.org/core/2022/05/16/performance-chat-agenda-17-may-2022/)
 - [Editor chat agenda: 18th May 2022](https://make.wordpress.org/core/2022/05/16/editor-chat-agenda-18th-may-2022/)
 - [Editor chat summary: 11 May, 2022](https://make.wordpress.org/core/2022/05/16/editor-chat-summary-11-may-2022/)
-- [What’s new in Gutenberg 13.2? &lpar;May 11&rpar;](https://make.wordpress.org/core/2022/05/12/whats-new-in-gutenberg-13-2-may-11/)
 <!-- CORE:END -->
 
 ## Design
