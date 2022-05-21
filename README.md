@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi Polyglots,](https://make.wordpress.org/polyglots/2022/05/21/hi-polyglots-108/)
 - [PTE Request for Wocommerce](https://make.wordpress.org/polyglots/2022/05/20/pte-request-for-wordpress-2/)
 - [PTE Request for Football Pool](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-football-pool-2/)
 - [WordPress 6.0 Translation Status &lpar;May 19, 2022&rpar;](https://make.wordpress.org/polyglots/2022/05/19/wordpress-6-0-translation-status-may-19-2022/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/05/17/pte-request-for-customer-reviews-for-woocommerce-20/)
 - [PTE Request for Kayo-co WP Plugin](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-kayo-co-wp-plugin/)
 - [PTE Request for Tripandfly Search Widget](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-tripandfly-search-widget/)
-- [Hi Polyglots,](https://make.wordpress.org/polyglots/2022/05/16/hi-polyglots-107/)
 <!-- POLYGLOTS:END -->
 
 ## Support
