@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Persistent Login](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-wp-persistent-login/)
+- [LM/GTE request for Basque &lpar;eu&rpar;](https://make.wordpress.org/polyglots/2022/05/22/lm-gte-request-for-basque-eu/)
 - [PTE Request for WooCommerce Blocks](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-woocommerce-blocks-6/)
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2022/05/21/hi-polyglots-108/)
 - [PTE Request for Wocommerce](https://make.wordpress.org/polyglots/2022/05/20/pte-request-for-wordpress-2/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Vietnamese Translation…](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-vietnamese-translation-3/)
 - [Weekly Polyglots Chat – May 18, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/18/weekly-polyglots-chat-may-18-2022-700-utc/)
 - [Hello. I need the ability…](https://make.wordpress.org/polyglots/2022/05/17/hello-i-need-the-ability/)
-- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/05/17/pte-request-for-customer-reviews-for-woocommerce-20/)
-- [PTE Request for Kayo-co WP Plugin](https://make.wordpress.org/polyglots/2022/05/16/pte-request-for-kayo-co-wp-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
