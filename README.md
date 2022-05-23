@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Supercharging your Website with Custom Post Types and Custom Fields](https://learn.wordpress.org/?meeting=supercharging-your-website-with-custom-post-types-and-custom-fields)
 - [Let’s build a homepage together](https://learn.wordpress.org/?meeting=lets-build-a-homepage-together)
 - [I want a Website, not a Blog!](https://learn.wordpress.org/?meeting=i-want-a-website-not-a-blog)
 - [Bloggers: Own your Content and Share it Everywhere](https://learn.wordpress.org/?meeting=bloggers-own-your-content-and-share-it-everywhere)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-3)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-2)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-1)
-- [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://learn.wordpress.org/?meeting=testing-wordpress-together-new-interactivity-features-for-recipe-websites)
 <!-- SLS:END -->
 
 ## Test
