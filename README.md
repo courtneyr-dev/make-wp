@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Iñaki Jauregui: ¡Cómo escapar del RGPD, y no morir en el intento!](https://wordpress.tv/2022/05/22/inaki-jauregui-escapar-rgpd-no-morir-intento/)
+- [Diego Nieto: Vende en Marketplaces tus productos desde WooCommerce](https://wordpress.tv/2022/05/22/diego-nieto-vende-marketplaces-productos-woocommerce/)
 - [Pablo Moratinos: Una receta de optimización SEO en Search Console](https://wordpress.tv/2022/05/22/pablo-moratinos-una-receta-de-optimizacion-seo-en-search-console/)
 - [Shaunelle Drake: WordPress – giving everyone a voice](https://wordpress.tv/2022/05/22/shaunelle-drake-wordpress-giving-everyone-a-voice/)
 - [Noelia Jiménez: Cómo sacarle toda la chicha a un blog como herramienta de visibilidad de tu negocio](https://wordpress.tv/2022/05/22/noelia-jimenez-como-sacarle-toda-chicha-blog-como-herramienta-visibilidad-negocio/)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Franz Enzenhofer: Diversity of Content – The SEO superpower and how to use it with WordPress](https://wordpress.tv/2022/05/12/franz-enzenhofer-diversity-of-content-the-seo-superpower-and-how-to-use-it-with-wordpress/)
 - [Taking Advantage of Query Loops](https://wordpress.tv/2022/05/12/taking-advantage-of-query-loops-2/)
 - [Website Auditing – Be the conversion Hero](https://wordpress.tv/2022/05/11/website-auditing-be-the-conversion-hero/)
-- [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/05/11/understanding-the-page-editor-vs-site-editor-2/)
-- [Robert Windisch: How to Scale WooCommerce](https://wordpress.tv/2022/05/11/how-to-scale-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
