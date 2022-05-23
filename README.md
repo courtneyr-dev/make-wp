@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design Share: May 9–20](https://make.wordpress.org/design/2022/05/23/design-share-may-9-20/)
 - [Poll: Finding a new meeting time](https://make.wordpress.org/design/2022/05/13/poll-finding-a-new-meeting-time/)
 - [Design Team Show &amp; Tell — May 2022](https://make.wordpress.org/design/2022/05/11/design-team-show-tell-may-2022/)
 - [Design Share: Apr 25–May 6](https://make.wordpress.org/design/2022/05/09/design-share-apr-25-may-6/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share: Mar 14–25](https://make.wordpress.org/design/2022/03/28/design-share-mar-14-25/)
 - [X-post: Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/design/2022/03/16/xpost-coming-soon-block-pattern-directory-submissions/)
 - [Design Share: Feb 28–Mar 11](https://make.wordpress.org/design/2022/03/14/design-share-feb-28-mar-11/)
-- [Design contribution process](https://make.wordpress.org/design/2022/03/09/design-contribution-process/)
 <!-- DESIGN:END -->
 
 ## Mobile
