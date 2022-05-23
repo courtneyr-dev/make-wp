@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Regional In-person WordCamps Going Forward](https://make.wordpress.org/community/2022/05/23/regional-in-person-wordcamps-going-forward/)
 - [Seeking Feedback on Annual Meetup Survey for 2021-2022](https://make.wordpress.org/community/2022/05/20/seeking-feedback-on-annual-meetup-survey-for-2021-2022/)
 - [Meetup Organizer Newsletter: May 2022](https://make.wordpress.org/community/2022/05/20/meetup-organizer-newsletter-may-2022/)
 - [WordCamp Europe 2022 Contributor Day: Plans for the Community Team Table](https://make.wordpress.org/community/2022/05/20/wordcamp-europe-2022-contributor-day-plans-for-the-community-team-table/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Join the Community Team for a #WPDiversity Writing Sprint: May 23 to May 30](https://make.wordpress.org/community/2022/05/11/join-the-community-team-for-a-wpdiversity-writing-sprint-may-23-to-may-30/)
 - [Report: Allyship and Diverse Speaker Workshops April 2022](https://make.wordpress.org/community/2022/05/06/report-allyship-and-diverse-speaker-workshops-april-2022/)
 - [Community Team Meeting Agenda for 2022-05-05](https://make.wordpress.org/community/2022/05/04/community-team-meeting-agenda-for-2022-05-05/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on April 25, 2022](https://make.wordpress.org/community/2022/05/02/recap-of-the-diverse-speaker-training-group-wpdiversity-on-april-25-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
