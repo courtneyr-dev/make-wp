@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Website Security For Solopreneurs](https://learn.wordpress.org/?meeting=website-security-for-solopreneurs)
 - [Supercharging your Website with Custom Post Types and Custom Fields](https://learn.wordpress.org/?meeting=supercharging-your-website-with-custom-post-types-and-custom-fields)
 - [Let’s build a homepage together](https://learn.wordpress.org/?meeting=lets-build-a-homepage-together)
 - [I want a Website, not a Blog!](https://learn.wordpress.org/?meeting=i-want-a-website-not-a-blog)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Canceled] Sticky Styling: Getting Colors, Fonts, and Sizes to Stick](https://learn.wordpress.org/?meeting=sticky-styling-getting-colors-fonts-and-sizes-to-stick)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-3)
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-2)
-- [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-1)
 <!-- SLS:END -->
 
 ## Test
