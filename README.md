@@ -282,6 +282,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordCamp Irún: Presentación WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-presentacion-wordcamp-irun-2022/)
+- [Eva Farutxo Jiménez: Fotografía de producto creatíva DIY](https://wordpress.tv/2022/05/24/eva-farutxo-jimenez-fotografia-producto-creativa-diy/)
+- [Leire Roldán: Aspectos legales y fiscales de los Infoproductos](https://wordpress.tv/2022/05/24/leire-roldan-aspectos-legales-fiscales-infoproductos/)
+- [Sabela Muñiz: Do_action hackathon? Acercar WordPress al mundo real](https://wordpress.tv/2022/05/24/sabela-muniz-do-action-hackathon/)
+- [Néstor Angulo de Ugarte. N1909: El astuto caso del Ransomware en WordPress](https://wordpress.tv/2022/05/24/nestor-angulo-ugarte-n1909-astuto-caso-ransomware-wordpress/)
+- [Jorge Monclús: Sácale chispas a la API Rest de WordPress](https://wordpress.tv/2022/05/24/jorge-monclus-sacale-chispas-api-rest-wordpress/)
+- [Olatz Goicoechea: Optimiza tu presupuesto en publicidad digital](https://wordpress.tv/2022/05/24/olatz-goicoechea-optimiza-presupuesto-publicidad-digital/)
+- [Javi Guembe: ¿Webs para clientes? mejor webs para Stakeholders](https://wordpress.tv/2022/05/24/javi-guembe-webs-clientes-mejor-webs-stakeholders/)
+- [Mesa redonda: El futuro del Comercio Local y cómo puede ayudar WordPress](https://wordpress.tv/2022/05/24/mesa-redonda-futuro-comercio-local-y-como-puede-ayudar-wordpress/)
 - [Iñaki Jauregui: ¡Cómo escapar del RGPD, y no morir en el intento!](https://wordpress.tv/2022/05/22/inaki-jauregui-escapar-rgpd-no-morir-intento/)
 - [Diego Nieto: Vende en Marketplaces tus productos desde WooCommerce](https://wordpress.tv/2022/05/22/diego-nieto-vende-marketplaces-productos-woocommerce/)
 - [Pablo Moratinos: Una receta de optimización SEO en Search Console](https://wordpress.tv/2022/05/22/pablo-moratinos-una-receta-de-optimizacion-seo-en-search-console/)
@@ -291,22 +300,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Marta Torre: Editor de bloques &lpar;Gutenberg&rpar; De odiarlo a no poder vivir sin él](https://wordpress.tv/2022/05/22/marta-torre-editor-bloques-gutenberg-odiarlo-no-poder-vivir-sin-el/)
 - [Jesús Amieiro: Creando sitios multilingües con WordPress](https://wordpress.tv/2022/05/22/jesus-amieiro-creando-sitios-multilingues-wordpress/)
 - [Joan Vega: No le tengas miedo a los DNS &lpar;Claves, trucos y herramientas para dominar los Domain Name](https://wordpress.tv/2022/05/22/joan-vega-no-tengas-miedo-dns-claves-trucos-herramientas-dominar-domain-name/)
-- [WP-CLI: pierde el miedo a la consola](https://wordpress.tv/2022/05/22/juan-tejero-wp-cli-pierde-miedo-consola/)
+- [Juan Tejero. WP-CLI: pierde el miedo a la consola](https://wordpress.tv/2022/05/22/juan-tejero-wp-cli-pierde-miedo-consola/)
 - [Enara Franco: Storytelling. No me cuentes historias, cuéntame tu historia](https://wordpress.tv/2022/05/22/enara-franco-storytelling-no-me-cuentes-historias-cuentame-tu-historia/)
 - [Miguel Díaz: El ABC de WordPress](https://wordpress.tv/2022/05/22/miguel-diaz-abc-wordpress/)
 - [Ana Cirujano: 7 consejos de diseño UX para vender más con WooCommerce](https://wordpress.tv/2022/05/22/ana-cirujano-7-consejos-disen%cc%83o-ux-para-vender-mas-woocommerce/)
 - [Joe Wiedemann, Victoria Hufnagl: Efficient content production – with strategy](https://wordpress.tv/2022/05/20/joe-wiedemann-victoria-hufnagl-efficient-content-production-with-strategy/)
 - [Using the Navigation Block](https://wordpress.tv/2022/05/19/using-the-navigation-block/)
 - [Getting to know the WordPress Dashboard](https://wordpress.tv/2022/05/19/getting-to-know-the-wordpress-dashboard/)
-- [Bloggers: Own your Content and Share it Everywhere](https://wordpress.tv/2022/05/19/bloggers-own-your-content-and-share-it-everywhere/)
-- [Esther Solà: Actualizaciones en WordPress &lpar;casi&rpar; sin problemas](https://wordpress.tv/2022/05/17/esther-sola-actualizaciones-wordpress-casi-sin-problemas/)
-- [Maximilian Reimann-Gajdusek: WooCommerce SEO – How to optimise your WooCommerce setup](https://wordpress.tv/2022/05/16/maximilian-reimann-gajdusek-woocommerce-seo-how-to-optimise-your-woocommerce-setup/)
-- [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://wordpress.tv/2022/05/15/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-2/)
-- [Dominik Liss: Make WordPress hack-proof](https://wordpress.tv/2022/05/15/dominik-liss-make-wordpress-hack-proof/)
-- [Stefan Krajczar: WooCommerce-Setup for the European Market &amp; GDPR](https://wordpress.tv/2022/05/14/stefan-krajczar-woocommerce-setup-for-the-european-market-gdpr/)
-- [Franz Enzenhofer: Diversity of Content – The SEO superpower and how to use it with WordPress](https://wordpress.tv/2022/05/12/franz-enzenhofer-diversity-of-content-the-seo-superpower-and-how-to-use-it-with-wordpress/)
-- [Taking Advantage of Query Loops](https://wordpress.tv/2022/05/12/taking-advantage-of-query-loops-2/)
-- [Website Auditing – Be the conversion Hero](https://wordpress.tv/2022/05/11/website-auditing-be-the-conversion-hero/)
 <!-- WPTV:END -->
 
 ## Marketing
