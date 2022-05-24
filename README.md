@@ -462,6 +462,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Product Designer, eCommerce &lpar;Store&rpar;](https://jobs.wordpress.net/job/senior-product-designer-ecommerce-store/)
 - [Senior Fullstack Developer &lpar;PHP, Reactjs&rpar;](https://jobs.wordpress.net/job/senior-fullstack-developer-php-reactjs/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-89/)
 - [Migration expert](https://jobs.wordpress.net/job/migration-expert/)
@@ -471,7 +472,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Support Enthusiast](https://jobs.wordpress.net/job/campuspress-support-enthusiast-2/)
 - [Remote Product Engineer &lpar;WordPress/WooCommerce&rpar;](https://jobs.wordpress.net/job/remote-product-engineer-wordpress-woocommerce-2/)
 - [Need Senior WP Developer for Developing Plugin from Scratch](https://jobs.wordpress.net/job/need-senior-wp-developer-for-developing-plugin-from-scratch/)
-- [WordPress Tech Support Contractor &lpar;NA Timezones ONLY&rpar;](https://jobs.wordpress.net/job/wordpress-tech-support-contractor-na-timezones-only/)
 <!-- JOBS:END -->
 
 ## Central
