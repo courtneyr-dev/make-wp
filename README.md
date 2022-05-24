@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-85/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-84/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-83/)
 - [four plugins Persian](https://make.wordpress.org/polyglots/2022/05/24/four-plugins-persian/)
 - [PTE Request for s2Member](https://make.wordpress.org/polyglots/2022/05/24/pte-request-for-s2member/)
 - [PTE Request for WP Persistent Login](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-wp-persistent-login/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WooCommerce Blocks](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-woocommerce-blocks-6/)
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2022/05/21/hi-polyglots-108/)
 - [PTE Request for Wocommerce](https://make.wordpress.org/polyglots/2022/05/20/pte-request-for-wordpress-2/)
-- [PTE Request for Football Pool](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-football-pool-2/)
-- [WordPress 6.0 Translation Status &lpar;May 19, 2022&rpar;](https://make.wordpress.org/polyglots/2022/05/19/wordpress-6-0-translation-status-may-19-2022/)
-- [PTE Request for Vietnamese Translation…](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-vietnamese-translation-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
