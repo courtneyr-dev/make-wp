@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [four plugins Persian](https://make.wordpress.org/polyglots/2022/05/24/four-plugins-persian/)
+- [PTE Request for s2Member](https://make.wordpress.org/polyglots/2022/05/24/pte-request-for-s2member/)
 - [PTE Request for WP Persistent Login](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-wp-persistent-login/)
 - [LM/GTE request for Basque &lpar;eu&rpar;](https://make.wordpress.org/polyglots/2022/05/22/lm-gte-request-for-basque-eu/)
 - [PTE Request for WooCommerce Blocks](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-woocommerce-blocks-6/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Football Pool](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-football-pool-2/)
 - [WordPress 6.0 Translation Status &lpar;May 19, 2022&rpar;](https://make.wordpress.org/polyglots/2022/05/19/wordpress-6-0-translation-status-may-19-2022/)
 - [PTE Request for Vietnamese Translation…](https://make.wordpress.org/polyglots/2022/05/19/pte-request-for-vietnamese-translation-3/)
-- [Weekly Polyglots Chat – May 18, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/18/weekly-polyglots-chat-may-18-2022-700-utc/)
-- [Hello. I need the ability…](https://make.wordpress.org/polyglots/2022/05/17/hello-i-need-the-ability/)
 <!-- POLYGLOTS:END -->
 
 ## Support
