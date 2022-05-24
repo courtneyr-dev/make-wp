@@ -45,16 +45,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Notes: May 20, 2022](https://make.wordpress.org/accessibility/2022/05/24/accessibility-team-meeting-notes-may-20-2021/)
 - [Accessibility Team Meeting Agenda: May 20, 2022](https://make.wordpress.org/accessibility/2022/05/19/accessibility-team-meeting-agenda-may-20-2022/)
 - [Accessibility Team Meeting Agenda: May 6, 2022](https://make.wordpress.org/accessibility/2022/05/04/accessibility-team-meeting-agenda-may-6-2022/)
-- [Accessibility Team Meeting Notes: April 15, 2021](https://make.wordpress.org/accessibility/2022/04/22/accessibility-team-meeting-notes-april-15-2021/)
+- [Accessibility Team Meeting Notes: April 15, 2022](https://make.wordpress.org/accessibility/2022/04/22/accessibility-team-meeting-notes-april-15-2022/)
 - [X-post: WordPress 6.0 Accessibility Improvements](https://make.wordpress.org/accessibility/2022/04/20/xpost-wordpress-6-0-accessibility-improvements/)
 - [Accessibility Team Meeting Agenda: April 15, 2022](https://make.wordpress.org/accessibility/2022/04/13/accessibility-team-meeting-agenda-april-15-2022/)
 - [Accessibility Team Meeting Notes: April 1, 2022](https://make.wordpress.org/accessibility/2022/04/06/accessibility-team-meeting-notes-april-1-2022/)
 - [Accessibility Team Meeting Agenda: April 1, 2022](https://make.wordpress.org/accessibility/2022/04/01/accessibility-team-meeting-agenda-april-1-2022/)
 - [Accessibility Team Meeting Notes: March 18, 2022](https://make.wordpress.org/accessibility/2022/03/21/accessibility-team-meeting-notes-march-18-2022/)
 - [Accessibility Team Meeting Agenda: March 18, 2022](https://make.wordpress.org/accessibility/2022/03/17/accessibility-team-meeting-agenda-march-18-2022/)
-- [Accessibility Team Meeting Notes: March 4, 2022](https://make.wordpress.org/accessibility/2022/03/16/accessibility-team-meeting-notes-march-4-2022/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
