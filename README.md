@@ -462,16 +462,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Wanted: Junior WordPress Developer for Online Course Platform &lpar;Part time, remote&rpar;](https://jobs.wordpress.net/job/wanted-junior-wordpress-developer-for-online-course-platform-part-time-remote/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-759/)
+- [Find Solution for Non-Members Attending Events, Create Directory Page, and Make Small Coding Changes to MemberPress Website](https://jobs.wordpress.net/job/find-solution-for-non-members-attending-events-create-directory-page-and-make-small-coding-changes-to-memberpress-website/)
+- [Web Developer](https://jobs.wordpress.net/job/web-developer-195/)
 - [Senior Product Designer, eCommerce &lpar;Store&rpar;](https://jobs.wordpress.net/job/senior-product-designer-ecommerce-store/)
 - [Senior Fullstack Developer &lpar;PHP, Reactjs&rpar;](https://jobs.wordpress.net/job/senior-fullstack-developer-php-reactjs/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-89/)
 - [Migration expert](https://jobs.wordpress.net/job/migration-expert/)
 - [Agile Process Leader &lpar;Scrum Master&rpar;](https://jobs.wordpress.net/job/agile-process-leader-scrum-master/)
 - [WordPress Plugin Web Developer &lpar;PHP&rpar; for UpdraftPlus Company](https://jobs.wordpress.net/job/wordpress-plugin-web-developer-php-for-updraftplus-company/)
-- [Quality Assurance and Support Engineer](https://jobs.wordpress.net/job/quality-assurance-and-support-engineer/)
-- [CampusPress Support Enthusiast](https://jobs.wordpress.net/job/campuspress-support-enthusiast-2/)
-- [Remote Product Engineer &lpar;WordPress/WooCommerce&rpar;](https://jobs.wordpress.net/job/remote-product-engineer-wordpress-woocommerce-2/)
-- [Need Senior WP Developer for Developing Plugin from Scratch](https://jobs.wordpress.net/job/need-senior-wp-developer-for-developing-plugin-from-scratch/)
 <!-- JOBS:END -->
 
 ## Central
