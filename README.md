@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [wp-config.php](https://developer.wordpress.org/apis/wp-config-php/)
-- [Part 4: Building a _Create page_ form](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/4-building-a-create-page-form/)
-- [How To Get Your Pull Request Reviewed?](https://developer.wordpress.org/block-editor/contributors/code/how-to-get-your-pull-request-reviewed/)
-- [@wordpress/preferences-persistence](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences-persistence/)
-- [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
-- [ToggleGroupControlOptionIcon](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-icon/)
-- [BorderBoxControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-box-control/)
-- [BorderControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-control/)
-- [Building an edit form](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/3-building-an-edit-form/)
-- [@wordpress/preferences](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences/)
+- [WP_Widget_Media::reset_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/reset_default_labels/)
+- [WP_Widget_Media::get_l10n_defaults&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_l10n_defaults/)
+- [WP_Widget_Media::get_default_description&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_default_description/)
+- [term_exists_default_query_args](https://developer.wordpress.org/reference/hooks/term_exists_default_query_args/)
+- [registered_taxonomy_{$taxonomy}](https://developer.wordpress.org/reference/hooks/registered_taxonomy_taxonomy/)
+- [the_author_link](https://developer.wordpress.org/reference/hooks/the_author_link/)
+- [WP_Taxonomy::get_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_taxonomy/get_default_labels/)
+- [WP_Taxonomy::reset_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_taxonomy/reset_default_labels/)
+- [WP_Post_Type::get_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_post_type/get_default_labels/)
+- [register_{$taxonomy}_taxonomy_args](https://developer.wordpress.org/reference/hooks/register_taxonomy_taxonomy_args/)
 <!-- DEVHUB:END -->
 
 ## Themes
