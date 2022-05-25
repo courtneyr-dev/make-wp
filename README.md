@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/25/pte-request-for-jetpack-wp-security-backup-speed-growth-7/)
 - [GTE request for Arabic Locale](https://make.wordpress.org/polyglots/2022/05/25/gte-request-for-arabic-locale/)
 - [Agenda: Weekly Polyglots Chat – May. 25, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/24/agenda-weekly-polyglots-chat-may-25-2022-1300-utc/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-85/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for s2Member](https://make.wordpress.org/polyglots/2022/05/24/pte-request-for-s2member/)
 - [PTE Request for WP Persistent Login](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-wp-persistent-login/)
 - [LM/GTE request for Basque &lpar;eu&rpar;](https://make.wordpress.org/polyglots/2022/05/22/lm-gte-request-for-basque-eu/)
-- [PTE Request for WooCommerce Blocks](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-woocommerce-blocks-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
