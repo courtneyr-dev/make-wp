@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/26/hi-dear-mentors-we-have-86/)
 - [PTE Request for worten-conector](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-worten-conector/)
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-woocommerce-8/)
 - [Translation to be approved.](https://make.wordpress.org/polyglots/2022/05/26/translation-to-be-approved/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – May. 25, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/24/agenda-weekly-polyglots-chat-may-25-2022-1300-utc/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-85/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-84/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-83/)
 <!-- POLYGLOTS:END -->
 
 ## Support
