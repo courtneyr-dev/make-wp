@@ -462,16 +462,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Digital Marketing Manager](https://jobs.wordpress.net/job/rtcamp-digital-marketing-manager-3/)
+- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-20/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-33/)
+- [WordPress Engineer](https://jobs.wordpress.net/job/wordpress-engineer-21/)
+- [Software Engineer](https://jobs.wordpress.net/job/software-engineer-7/)
+- [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-6/)
+- [Quality Assurance Engineer](https://jobs.wordpress.net/job/quality-assurance-engineer-2/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-16/)
+- [WooCommerce Plugin Developer](https://jobs.wordpress.net/job/woocommerce-plugin-developer-5/)
 - [Wanted: Junior WordPress Developer for Online Course Platform &lpar;Part time, remote&rpar;](https://jobs.wordpress.net/job/wanted-junior-wordpress-developer-for-online-course-platform-part-time-remote/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-759/)
-- [Find Solution for Non-Members Attending Events, Create Directory Page, and Make Small Coding Changes to MemberPress Website](https://jobs.wordpress.net/job/find-solution-for-non-members-attending-events-create-directory-page-and-make-small-coding-changes-to-memberpress-website/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-195/)
-- [Senior Product Designer, eCommerce &lpar;Store&rpar;](https://jobs.wordpress.net/job/senior-product-designer-ecommerce-store/)
-- [Senior Fullstack Developer &lpar;PHP, Reactjs&rpar;](https://jobs.wordpress.net/job/senior-fullstack-developer-php-reactjs/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-89/)
-- [Migration expert](https://jobs.wordpress.net/job/migration-expert/)
-- [Agile Process Leader &lpar;Scrum Master&rpar;](https://jobs.wordpress.net/job/agile-process-leader-scrum-master/)
-- [WordPress Plugin Web Developer &lpar;PHP&rpar; for UpdraftPlus Company](https://jobs.wordpress.net/job/wordpress-plugin-web-developer-php-for-updraftplus-company/)
 <!-- JOBS:END -->
 
 ## Central
