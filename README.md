@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/plugins/2022/05/26/xpost-announcement-incident-response-training/)
 - [Rejoice to sanitize_url&lpar;&rpar;](https://make.wordpress.org/plugins/2022/05/25/rejoice-to-sanitize_url/)
 - [Featured/Beta Plugins Now Limit Changes](https://make.wordpress.org/plugins/2022/04/15/featured-beta-plugins-now-limit-changes/)
 - [Journal Entry: Removal of the Zamir Plugin](https://make.wordpress.org/plugins/2022/03/23/journal-entry-removal-of-the-zamir-plugin/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Change to How Long Active Reviews Remain Open](https://make.wordpress.org/plugins/2021/09/20/change-to-how-long-active-reviews-remain-open/)
 - [X-post: [Announcement] New workflow for reporting documentation issues](https://make.wordpress.org/plugins/2021/09/15/xpost-announcement-new-workflow-for-reporting-documentation-issues/)
 - [Inaccurate Stats Have Been Corrected](https://make.wordpress.org/plugins/2021/08/27/inaccurate-stats-have-been-corrected/)
-- [X-post: Gallery Block Refactor Dev Note](https://make.wordpress.org/plugins/2021/08/25/xpost-gallery-block-refactor-dev-note/)
 <!-- PLUGINS:END -->
 
 ## Community
