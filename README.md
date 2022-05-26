@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/themes/2022/05/26/xpost-announcement-incident-response-training/)
 - [Themes Team Meeting Notes – May 24, 2022](https://make.wordpress.org/themes/2022/05/24/themes-team-meeting-notes-may-24-2022/)
 - [Themes team meeting agenda for May 24, 2022](https://make.wordpress.org/themes/2022/05/23/themes-team-meeting-agenda-for-may-24-2022/)
 - [Themes Team Meeting Notes – May 10, 2022](https://make.wordpress.org/themes/2022/05/10/themes-team-meeting-notes-may-10-2022/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for April 26, 2022](https://make.wordpress.org/themes/2022/04/25/themes-team-meeting-agenda-for-april-26-2022/)
 - [Themes Team Meeting Notes – April 12, 2022](https://make.wordpress.org/themes/2022/04/13/themes-team-meeting-notes-april-12-2022/)
 - [Themes team meeting agenda for April 12, 2022](https://make.wordpress.org/themes/2022/04/11/themes-team-meeting-agenda-for-april-12-2022/)
-- [Gutenberg + Themes: Week of April 4th, 2022](https://make.wordpress.org/themes/2022/04/06/gutenberg-themes-week-of-april-4th-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
