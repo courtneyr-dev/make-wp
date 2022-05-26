@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for worten-conector](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-worten-conector/)
+- [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-woocommerce-8/)
+- [Translation to be approved.](https://make.wordpress.org/polyglots/2022/05/26/translation-to-be-approved/)
 - [PTE Request for WordPress](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-wordpress-hi/)
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/25/pte-request-for-jetpack-wp-security-backup-speed-growth-7/)
 - [GTE request for Arabic Locale](https://make.wordpress.org/polyglots/2022/05/25/gte-request-for-arabic-locale/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-85/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-84/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-83/)
-- [four plugins Persian](https://make.wordpress.org/polyglots/2022/05/24/four-plugins-persian/)
-- [PTE Request for s2Member](https://make.wordpress.org/polyglots/2022/05/24/pte-request-for-s2member/)
-- [PTE Request for WP Persistent Login](https://make.wordpress.org/polyglots/2022/05/22/pte-request-for-wp-persistent-login/)
 <!-- POLYGLOTS:END -->
 
 ## Support
