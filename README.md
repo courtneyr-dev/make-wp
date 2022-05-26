@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Managing Updates](https://wordpress.tv/2022/05/26/managing-updates/)
 - [Design With Me: Create a Simple Website For Your Small Business](https://wordpress.tv/2022/05/25/design-with-me-create-a-simple-website-for-your-small-business/)
 - [Nestor Angulo de Ugarte: The strange case of malicious favicons](https://wordpress.tv/2022/05/25/nestor-angulo-de-ugarte-the-strange-case-of-malicious-favicons/)
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://wordpress.tv/2022/05/24/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-3/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jesús Amieiro: Creando sitios multilingües con WordPress](https://wordpress.tv/2022/05/22/jesus-amieiro-creando-sitios-multilingues-wordpress/)
 - [Joan Vega: No le tengas miedo a los DNS &lpar;Claves, trucos y herramientas para dominar los Domain Name](https://wordpress.tv/2022/05/22/joan-vega-no-tengas-miedo-dns-claves-trucos-herramientas-dominar-domain-name/)
 - [Juan Tejero. WP-CLI: pierde el miedo a la consola](https://wordpress.tv/2022/05/22/juan-tejero-wp-cli-pierde-miedo-consola/)
-- [Enara Franco: Storytelling. No me cuentes historias, cuéntame tu historia](https://wordpress.tv/2022/05/22/enara-franco-storytelling-no-me-cuentes-historias-cuentame-tu-historia/)
 <!-- WPTV:END -->
 
 ## Marketing
