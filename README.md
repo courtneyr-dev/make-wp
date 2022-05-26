@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi there!](https://make.wordpress.org/polyglots/2022/05/26/hi-there-8/)
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/polyglots/2022/05/26/xpost-announcement-incident-response-training/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/26/hi-dear-mentors-we-have-86/)
 - [PTE Request for worten-conector](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-worten-conector/)
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-woocommerce-8/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/25/pte-request-for-jetpack-wp-security-backup-speed-growth-7/)
 - [GTE request for Arabic Locale](https://make.wordpress.org/polyglots/2022/05/25/gte-request-for-arabic-locale/)
 - [Agenda: Weekly Polyglots Chat – May. 25, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/24/agenda-weekly-polyglots-chat-may-25-2022-1300-utc/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-85/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/24/hi-dear-mentors-we-have-84/)
 <!-- POLYGLOTS:END -->
 
 ## Support
