@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/hosting/2022/05/26/xpost-announcement-incident-response-training/)
 - [Get ready for WordPress 6.0](https://make.wordpress.org/hosting/2022/05/04/get-ready-for-wordpress-6-0/)
 - [WordPress Hosting and WebP support](https://make.wordpress.org/hosting/2022/03/30/wordpress-hosting-and-webp-support/)
 - [WordPress 5.9 and PHP 8.0-8.1](https://make.wordpress.org/hosting/2022/01/10/wordpress-5-9-and-php-8-0-8-1/)
@@ -348,7 +349,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal for a Performance team](https://make.wordpress.org/hosting/2021/10/12/xpost-proposal-for-a-performance-team/)
 - [WordPress 5.8.1 Security Release is Time Sensitive](https://make.wordpress.org/hosting/2021/09/15/wordpress-5-8-1-security-release-is-time-sensitive/)
 - [X-post: Upgrade/Install Meeting Notes, August 17](https://make.wordpress.org/hosting/2021/08/20/xpost-upgrade-install-meeting-notes-august-17/)
-- [Hosting Team meeting summary 2021-07-14](https://make.wordpress.org/hosting/2021/07/16/summary-2021-07-14/)
 <!-- HOSTING:END -->
 
 ## Tide
