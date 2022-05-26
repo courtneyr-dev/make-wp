@@ -405,6 +405,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/project/2022/05/26/xpost-announcement-incident-response-training/)
 - [Request for feedback: Recording Five for the Future contributions](https://make.wordpress.org/project/2022/05/23/request-for-feedback-recording-five-for-the-future-contributions/)
 - [Discussion: Contrib Handbook, Part 3](https://make.wordpress.org/project/2022/05/20/discussion-contrib-handbook-part-3/)
 - [Defining Five for the Future Pledges &amp; Contributions](https://make.wordpress.org/project/2022/05/20/defining-five-for-the-future-pledges-contributions/)
@@ -414,7 +415,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: In last week’s Meta meeting,…](https://make.wordpress.org/project/2022/03/18/xpost-in-last-weeks-meta-meeting/)
 - [Proposal to remove spam/dormant Five for the Future pledges](https://make.wordpress.org/project/2022/03/16/proposal-to-remove-spam-dormant-five-for-the-future-pledges/)
 - [A Theory of Technology Adoption in the WordPress Project](https://make.wordpress.org/project/2022/02/11/a-theory-of-technology-adoption-in-the-wordpress-project/)
-- [Big Picture Goals 2022](https://make.wordpress.org/project/2022/01/21/big-picture-goals-2022/)
 <!-- PROJECT:END -->
 
 ## Systems
