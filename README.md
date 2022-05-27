@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Chat Summary: May 25, 2022](https://make.wordpress.org/core/2022/05/27/editor-chat-summary-may-25-2022/)
 - [WordPress 6.0 ‘Arturo’ Retrospective](https://make.wordpress.org/core/2022/05/27/wordpress-6-0-arturo-retrospective/)
 - [Block Font Sizes and Fluid typography](https://make.wordpress.org/core/2022/05/27/block-font-sizes-and-fluid-typography/)
 - [What’s New in Gutenberg 13.3.0 &lpar; May 25 &rpar;](https://make.wordpress.org/core/2022/05/26/whats-new-in-gutenberg-13-3-0-may-25/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance team meeting summary 24 May 2022](https://make.wordpress.org/core/2022/05/24/performance-team-meeting-summary-24-may-2022/)
 - [Performance Chat Agenda: 24 May 2022](https://make.wordpress.org/core/2022/05/23/performance-chat-agenda-24-may-2022/)
 - [Editor chat agenda: 25th May 2022](https://make.wordpress.org/core/2022/05/23/editor-chat-agenda-25th-may-2022/)
-- [WordPress 6.0 Release Candidate 4 &lpar;RC4&rpar; Now Available for Testing](https://make.wordpress.org/core/2022/05/20/wordpress-6-0-release-candidate-4-rc4-now-available-for-testing/)
 <!-- CORE:END -->
 
 ## Design
