@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Managing Updates](https://learn.wordpress.org/workshop/managing-updates/)
 - [Getting to know the WordPress Dashboard](https://learn.wordpress.org/workshop/getting-to-know-the-wordpress-dashboard/)
 - [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/workshop/understanding-the-page-editor-vs-site-editor/)
 - [Choosing and Installing a Plugin](https://learn.wordpress.org/workshop/searching-and-installing-a-plugin/)
@@ -222,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Submitting Block Patterns to the Directory](https://learn.wordpress.org/workshop/submitting-block-patterns-to-the-directory/)
 - [The Difference Between Reusable Blocks, Block Patterns, Templates &amp; Template Parts](https://learn.wordpress.org/workshop/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [Displaying the Post Comments block in Block Themes](https://learn.wordpress.org/workshop/displaying-the-post-comments-block-in-block-themes/)
-- [Taking Advantage of Query Loops](https://learn.wordpress.org/workshop/taking-advantage-of-query-loops/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
