@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ‘Woocommerce Partial Shipment’](https://make.wordpress.org/polyglots/2022/05/28/pte-request-for-woocommerce-partial-shipment/)
+- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2022/05/28/cross-locale-project-translation-editor-request/)
+- [PTE Request for porsline](https://make.wordpress.org/polyglots/2022/05/28/pte-request-for-porsline/)
 - [PTE Request for Social](https://make.wordpress.org/polyglots/2022/05/27/pte-request-for-social-2/)
 - [Hi there!](https://make.wordpress.org/polyglots/2022/05/26/hi-there-8/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/polyglots/2022/05/26/xpost-announcement-incident-response-training/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for worten-conector](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-worten-conector/)
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-woocommerce-8/)
 - [Translation to be approved.](https://make.wordpress.org/polyglots/2022/05/26/translation-to-be-approved/)
-- [PTE Request for WordPress](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-wordpress-hi/)
-- [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/25/pte-request-for-jetpack-wp-security-backup-speed-growth-7/)
-- [GTE request for Arabic Locale](https://make.wordpress.org/polyglots/2022/05/25/gte-request-for-arabic-locale/)
 <!-- POLYGLOTS:END -->
 
 ## Support
