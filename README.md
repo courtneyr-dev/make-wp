@@ -463,6 +463,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Dev – Woocommerce](https://jobs.wordpress.net/job/wordpress-dev-woocommerce/)
+- [WordPress/PHP Developer &amp; Consultant](https://jobs.wordpress.net/job/wordpress-php-developer-consultant/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-760/)
 - [[rtCamp] Digital Marketing Manager](https://jobs.wordpress.net/job/rtcamp-digital-marketing-manager-3/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-20/)
@@ -471,8 +473,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Software Engineer](https://jobs.wordpress.net/job/software-engineer-7/)
 - [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-6/)
 - [Quality Assurance Engineer](https://jobs.wordpress.net/job/quality-assurance-engineer-2/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-16/)
-- [WooCommerce Plugin Developer](https://jobs.wordpress.net/job/woocommerce-plugin-developer-5/)
 <!-- JOBS:END -->
 
 ## Central
