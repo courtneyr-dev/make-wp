@@ -434,6 +434,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 32: An Open Source Reading List](https://wordpress.org/news/2022/05/episode-32-an-open-source-reading-list/)
 - [WordPress 6.0 “Arturo”](https://wordpress.org/news/2022/05/arturo/)
 - [WordPress 6.0 Release Candidate 3 &lpar;RC3&rpar; Now Available for Testing](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-3-rc3-now-available-for-testing/)
 - [WP Briefing: Episode 31: Open Source &amp; Accessibility– Celebrating Global Accessibility Awareness Day With Guest Joe Devon](https://wordpress.org/news/2022/05/episode-31-open-source-accessibility-celebrating-global-accessibility-awareness-day-with-guest-joe-devon/)
@@ -458,7 +459,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Month in WordPress – February 2022](https://wordpress.org/news/2022/03/the-month-in-wordpress-february-2022/)
 - [People of WordPress: Tonya Mork](https://wordpress.org/news/2022/02/people-of-wordpress-tonya-mork/)
 - [WordPress 5.9.1 Maintenance Release](https://wordpress.org/news/2022/02/wordpress-5-9-1-maintenance-release/)
-- [WP Briefing: Episode 25: Five Cents on Five for the Future](https://wordpress.org/news/2022/02/episode-25-five-cents-on-five-for-the-future/)
 <!-- NEWS:END -->
 
 ## Jobs
