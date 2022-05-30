@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi there I have translated…](https://make.wordpress.org/polyglots/2022/05/30/hi-there-i-have-translated/)
 - [PTE Request for ‘Woocommerce Partial Shipment’](https://make.wordpress.org/polyglots/2022/05/28/pte-request-for-woocommerce-partial-shipment/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2022/05/28/cross-locale-project-translation-editor-request/)
 - [PTE Request for porsline](https://make.wordpress.org/polyglots/2022/05/28/pte-request-for-porsline/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/26/hi-dear-mentors-we-have-86/)
 - [PTE Request for worten-conector](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-worten-conector/)
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2022/05/26/pte-request-for-woocommerce-8/)
-- [Translation to be approved.](https://make.wordpress.org/polyglots/2022/05/26/translation-to-be-approved/)
 <!-- POLYGLOTS:END -->
 
 ## Support
