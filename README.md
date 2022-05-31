@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello,](https://make.wordpress.org/polyglots/2022/05/31/hello-66/)
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/31/pte-request-for-jetpack-wp-security-backup-speed-growth-8/)
 - [PTE Request for All-in-One WP Migration](https://make.wordpress.org/polyglots/2022/05/31/pte-request-for-all-in-one-wp-migration-7/)
 - [PTE Request for Creative WP Login Page](https://make.wordpress.org/polyglots/2022/05/30/pte-request-for-creative-wp-login-page-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for porsline](https://make.wordpress.org/polyglots/2022/05/28/pte-request-for-porsline/)
 - [PTE Request for Social](https://make.wordpress.org/polyglots/2022/05/27/pte-request-for-social-2/)
 - [Hi there!](https://make.wordpress.org/polyglots/2022/05/26/hi-there-8/)
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/polyglots/2022/05/26/xpost-announcement-incident-response-training/)
 <!-- POLYGLOTS:END -->
 
 ## Support
