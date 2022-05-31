@@ -241,6 +241,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar;](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required)
+- [Builder Basics: Everything You Need to Know About Patterns](https://learn.wordpress.org/?meeting=builder-basics-everything-you-need-to-know-about-patterns)
 - [Website Security For Solopreneurs](https://learn.wordpress.org/?meeting=website-security-for-solopreneurs)
 - [Supercharging your Website with Custom Post Types and Custom Fields](https://learn.wordpress.org/?meeting=supercharging-your-website-with-custom-post-types-and-custom-fields)
 - [Let’s build a homepage together](https://learn.wordpress.org/?meeting=lets-build-a-homepage-together)
@@ -249,8 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Blocks! Creating a Custom Block](https://learn.wordpress.org/?meeting=hello-blocks-creating-a-custom-block)
 - [Design With Me: Create a Simple Website for your Small Business](https://learn.wordpress.org/?meeting=design-with-me-create-a-simple-website-for-your-small-business)
 - [[Canceled] Sticky Styling: Getting Colors, Fonts, and Sizes to Stick](https://learn.wordpress.org/?meeting=sticky-styling-getting-colors-fonts-and-sizes-to-stick)
-- [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-3)
-- [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-2)
 <!-- SLS:END -->
 
 ## Test
