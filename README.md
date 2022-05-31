@@ -392,6 +392,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Mobile Team Update – May 31st](https://make.wordpress.org/updates/2022/05/31/mobile-team-update-may-31st/)
 - [Themes team update May 31, 2022](https://make.wordpress.org/updates/2022/05/31/themes-team-update-may-31-2022/)
 - [Announcement: Incident Response Training](https://make.wordpress.org/updates/2022/05/26/announcement-incident-response-training/)
 - [Themes team update May 24, 2022](https://make.wordpress.org/updates/2022/05/24/themes-team-update-may-24-2022/)
@@ -401,7 +402,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mobile Team Update – May 18th](https://make.wordpress.org/updates/2022/05/18/mobile-team-update-may-18th-3/)
 - [Plugin Review Team Update: 16 May 2022](https://make.wordpress.org/updates/2022/05/17/plugin-review-team-update-16-may-2022/)
 - [Documentation Team Update – May 16, 2022](https://make.wordpress.org/updates/2022/05/16/documentation-team-update-may-16-2022/)
-- [Plugin Review Team Status: 9 May ’22](https://make.wordpress.org/updates/2022/05/10/plugin-review-team-status-9-may-22/)
 <!-- UPDATES:END -->
 
 ## Project
