@@ -463,6 +463,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [develop graphics and framework for 2nd branch location](https://jobs.wordpress.net/job/develop-graphics-and-framework-for-2nd-branch-location/)
 - [WordPress Dev – Woocommerce](https://jobs.wordpress.net/job/wordpress-dev-woocommerce/)
 - [WordPress/PHP Developer &amp; Consultant](https://jobs.wordpress.net/job/wordpress-php-developer-consultant/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-760/)
@@ -472,7 +473,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Engineer](https://jobs.wordpress.net/job/wordpress-engineer-21/)
 - [Software Engineer](https://jobs.wordpress.net/job/software-engineer-7/)
 - [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-6/)
-- [Quality Assurance Engineer](https://jobs.wordpress.net/job/quality-assurance-engineer-2/)
 <!-- JOBS:END -->
 
 ## Central
