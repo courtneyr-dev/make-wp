@@ -282,6 +282,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Chabi Angulo: La seguridad es importante](https://wordpress.tv/2022/05/31/chabi-angulo-la-seguridad-es-importante/)
+- [Alberto Gómez: Crear newsletter de pago](https://wordpress.tv/2022/05/31/alberto-gomez-crear-newsletter-de-pago/)
+- [Flavia Bernárdez: Cambiar upload y bloque de galería](https://wordpress.tv/2022/05/31/flavia-bernardez-cambiar-upload-y-bloque-de-galeria/)
+- [Miguel Alanís: Fuentes y estilos en FSE](https://wordpress.tv/2022/05/31/miguel-alanis-fuentes-y-estilos-en-fse/)
 - [Destiny Kanno: I want a Website, not a Blog!](https://wordpress.tv/2022/05/27/destiny-kanno-i-want-a-website-not-a-blog/)
 - [Matteo Enna: I was a shy guy and I didn’t speak English, but then I discovered WordCamps!](https://wordpress.tv/2022/05/27/matteo-enna-i-was-a-shy-guy-and-i-didnt-speak-english-but-then-i-discovered-wordcamps/)
 - [Managing Updates](https://wordpress.tv/2022/05/26/managing-updates/)
@@ -303,10 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Diego Nieto: Vende en Marketplaces tus productos desde WooCommerce](https://wordpress.tv/2022/05/22/diego-nieto-vende-marketplaces-productos-woocommerce/)
 - [Pablo Moratinos: Una receta de optimización SEO en Search Console](https://wordpress.tv/2022/05/22/pablo-moratinos-una-receta-de-optimizacion-seo-en-search-console/)
 - [Shaunelle Drake: WordPress – giving everyone a voice](https://wordpress.tv/2022/05/22/shaunelle-drake-wordpress-giving-everyone-a-voice/)
-- [Noelia Jiménez: Cómo sacarle toda la chicha a un blog como herramienta de visibilidad de tu negocio](https://wordpress.tv/2022/05/22/noelia-jimenez-como-sacarle-toda-chicha-blog-como-herramienta-visibilidad-negocio/)
-- [Piccia Neri. Los patrones malvados: si los conoces los evitarás](https://wordpress.tv/2022/05/22/piccia-neri-patrones-malvados-conoces-evitaras/)
-- [Marta Torre: Editor de bloques &lpar;Gutenberg&rpar; De odiarlo a no poder vivir sin él](https://wordpress.tv/2022/05/22/marta-torre-editor-bloques-gutenberg-odiarlo-no-poder-vivir-sin-el/)
-- [Jesús Amieiro: Creando sitios multilingües con WordPress](https://wordpress.tv/2022/05/22/jesus-amieiro-creando-sitios-multilingues-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
