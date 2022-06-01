@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/06/01/hello-polyglots-297/)
 - [Polyglots Monthly Newsletter: May 2022](https://make.wordpress.org/polyglots/2022/05/31/polyglots-monthly-newsletter-may-2022/)
 - [Agenda: Weekly Polyglots Chat – June 1, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/31/agenda-weekly-polyglots-chat-june-1-2022-0700-utc%ef%bf%bc/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/05/31/pte-request-for-customer-reviews-for-woocommerce-21/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for All-in-One WP Migration](https://make.wordpress.org/polyglots/2022/05/31/pte-request-for-all-in-one-wp-migration-7/)
 - [PTE Request for Creative WP Login Page](https://make.wordpress.org/polyglots/2022/05/30/pte-request-for-creative-wp-login-page-2/)
 - [Hi there I have translated…](https://make.wordpress.org/polyglots/2022/05/30/hi-there-i-have-translated/)
-- [PTE Request for ‘Woocommerce Partial Shipment’](https://make.wordpress.org/polyglots/2022/05/28/pte-request-for-woocommerce-partial-shipment/)
 <!-- POLYGLOTS:END -->
 
 ## Support
