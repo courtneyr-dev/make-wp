@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Chat Summary: June 1st, 2022](https://make.wordpress.org/core/2022/06/01/editor-chat-summary-june-01-2022/)
 - [Two Weeks in Core – May 30, 2022](https://make.wordpress.org/core/2022/06/01/a-week-in-core-may-30-2022/)
 - [Devchat agenda, June 1, 2022](https://make.wordpress.org/core/2022/06/01/devchat-agenda-june-1-2022/)
 - [High Level Feedback from the FSE Outreach Program &lpar;May 2022&rpar;](https://make.wordpress.org/core/2022/05/31/high-level-feedback-from-the-fse-outreach-program-may-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Font Sizes and Fluid typography](https://make.wordpress.org/core/2022/05/27/block-font-sizes-and-fluid-typography/)
 - [What’s New in Gutenberg 13.3.0 &lpar; May 25 &rpar;](https://make.wordpress.org/core/2022/05/26/whats-new-in-gutenberg-13-3-0-may-25/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/core/2022/05/26/xpost-announcement-incident-response-training/)
-- [Dev Chat Summary, May 25, 2022](https://make.wordpress.org/core/2022/05/25/dev-chat-summary-may-25-2022/)
 <!-- CORE:END -->
 
 ## Design
