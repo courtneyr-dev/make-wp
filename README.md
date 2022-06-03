@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Invoice Payment for WooCommerce](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-invoice-payment-for-woocommerce/)
 - [PTE Request for WP Prayer…](https://make.wordpress.org/polyglots/2022/06/02/pte-request-for-wp-prayer-4/)
 - [Hi Polyglots I want to…](https://make.wordpress.org/polyglots/2022/06/02/hi-polyglots-i-want-to/)
 - [PTE Request for Core Patterns](https://make.wordpress.org/polyglots/2022/06/02/pte-request-for-core-patterns/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for KolorWeb Access Admin Notification](https://make.wordpress.org/polyglots/2022/06/01/pte-request-for-kolorweb-access-admin-notification/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/06/01/hello-polyglots-297/)
 - [Polyglots Monthly Newsletter: May 2022](https://make.wordpress.org/polyglots/2022/05/31/polyglots-monthly-newsletter-may-2022/)
-- [Agenda: Weekly Polyglots Chat – June 1, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/31/agenda-weekly-polyglots-chat-june-1-2022-0700-utc%ef%bf%bc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
