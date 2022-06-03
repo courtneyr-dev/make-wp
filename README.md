@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Open Source Principles and WordPress](https://learn.wordpress.org/?meeting=open-source-principles-and-wordpress-2)
 - [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar;](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required)
 - [Builder Basics: Everything You Need to Know About Patterns](https://learn.wordpress.org/?meeting=builder-basics-everything-you-need-to-know-about-patterns)
 - [Website Security For Solopreneurs](https://learn.wordpress.org/?meeting=website-security-for-solopreneurs)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bloggers: Own your Content and Share it Everywhere](https://learn.wordpress.org/?meeting=bloggers-own-your-content-and-share-it-everywhere)
 - [Hello Blocks! Creating a Custom Block](https://learn.wordpress.org/?meeting=hello-blocks-creating-a-custom-block)
 - [Design With Me: Create a Simple Website for your Small Business](https://learn.wordpress.org/?meeting=design-with-me-create-a-simple-website-for-your-small-business)
-- [[Canceled] Sticky Styling: Getting Colors, Fonts, and Sizes to Stick](https://learn.wordpress.org/?meeting=sticky-styling-getting-colors-fonts-and-sizes-to-stick)
 <!-- SLS:END -->
 
 ## Test
