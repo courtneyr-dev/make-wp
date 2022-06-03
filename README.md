@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for Blossom Themes](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-blossom-themes-3/)
 - [PTE Request for Any CPT Listing Block](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-any-cpt-listing-block/)
 - [PTE Request for Invoice Payment for WooCommerce](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-invoice-payment-for-woocommerce/)
 - [PTE Request for WP Prayer…](https://make.wordpress.org/polyglots/2022/06/02/pte-request-for-wp-prayer-4/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Rishi Theme](https://make.wordpress.org/polyglots/2022/06/01/pte-request-for-rishi-theme/)
 - [PTE Request for ArvanCloud CDN for WordPress](https://make.wordpress.org/polyglots/2022/06/01/pte-request-for-arvancloud-cdn-for-wordpress/)
 - [PTE Request for KolorWeb Access Admin Notification](https://make.wordpress.org/polyglots/2022/06/01/pte-request-for-kolorweb-access-admin-notification/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/06/01/hello-polyglots-297/)
 <!-- POLYGLOTS:END -->
 
 ## Support
