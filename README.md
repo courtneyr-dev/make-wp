@@ -463,6 +463,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-4/)
+- [Content Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/content-writer-remote/)
 - [Product Design – Growth WordPress Team](https://jobs.wordpress.net/job/product-design-growth-wordpress-team/)
 - [Migration of data](https://jobs.wordpress.net/job/migration-of-data/)
 - [[Astra] Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-plugin-developer/)
@@ -471,8 +473,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Software Engineer / WordPress Engineer](https://jobs.wordpress.net/job/senior-software-engineer-wordpress-engineer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-762/)
 - [develop graphics and framework for 2nd branch location](https://jobs.wordpress.net/job/develop-graphics-and-framework-for-2nd-branch-location/)
-- [WordPress Dev – Woocommerce](https://jobs.wordpress.net/job/wordpress-dev-woocommerce/)
-- [WordPress/PHP Developer &amp; Consultant](https://jobs.wordpress.net/job/wordpress-php-developer-consultant/)
 <!-- JOBS:END -->
 
 ## Central
