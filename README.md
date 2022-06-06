@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello](https://make.wordpress.org/polyglots/2022/06/06/hello-67/)
+- [PTE Request for WooCommerce Please…](https://make.wordpress.org/polyglots/2022/06/06/pte-request-for-woocommerce-please/)
 - [Hello, I have translated &lpar;#bn_BD&rpar;…](https://make.wordpress.org/polyglots/2022/06/04/hello-i-have-translated-bn_bd/)
 - [PTE Request for Cargo Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/06/04/pte-request-for-cargo-tracking-for-woocommerce/)
 - [Hi](https://make.wordpress.org/polyglots/2022/06/03/hi-95/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Invoice Payment for WooCommerce](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-invoice-payment-for-woocommerce/)
 - [PTE Request for WP Prayer…](https://make.wordpress.org/polyglots/2022/06/02/pte-request-for-wp-prayer-4/)
 - [Hi Polyglots I want to…](https://make.wordpress.org/polyglots/2022/06/02/hi-polyglots-i-want-to/)
-- [PTE Request for Core Patterns](https://make.wordpress.org/polyglots/2022/06/02/pte-request-for-core-patterns/)
-- [PTE Request for Ravon](https://make.wordpress.org/polyglots/2022/06/02/pte-request-for-ravon-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
