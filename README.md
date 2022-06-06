@@ -463,6 +463,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Woo Store New Products Builder Freelance](https://jobs.wordpress.net/job/woo-store-new-products-builder-freelance/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-4/)
 - [Content Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/content-writer-remote/)
 - [Product Design – Growth WordPress Team](https://jobs.wordpress.net/job/product-design-growth-wordpress-team/)
@@ -472,7 +473,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Please help us to Update our WordPress version and themes](https://jobs.wordpress.net/job/please-help-us-to-update-our-wordpress-version-and-themes/)
 - [Senior Software Engineer / WordPress Engineer](https://jobs.wordpress.net/job/senior-software-engineer-wordpress-engineer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-762/)
-- [develop graphics and framework for 2nd branch location](https://jobs.wordpress.net/job/develop-graphics-and-framework-for-2nd-branch-location/)
 <!-- JOBS:END -->
 
 ## Central
