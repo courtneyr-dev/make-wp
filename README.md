@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for legal-texts-connector-it-recht-kanzlei I…](https://make.wordpress.org/polyglots/2022/06/07/pte-request-for-legal-texts-connector-it-recht-kanzlei-i/)
+- [Hello. I am the author…](https://make.wordpress.org/polyglots/2022/06/07/hello-i-am-the-author-3/)
+- [I’ve suggested translations for plugin…](https://make.wordpress.org/polyglots/2022/06/07/ive-suggested-translations-for-plugin/)
 - [CLPTE Request](https://make.wordpress.org/polyglots/2022/06/07/clpte-request-7/)
 - [Hello](https://make.wordpress.org/polyglots/2022/06/06/hello-67/)
 - [PTE Request for WooCommerce Please…](https://make.wordpress.org/polyglots/2022/06/06/pte-request-for-woocommerce-please/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Cargo Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/06/04/pte-request-for-cargo-tracking-for-woocommerce/)
 - [Hi](https://make.wordpress.org/polyglots/2022/06/03/hi-95/)
 - [PTE request for Blossom Themes](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-blossom-themes-3/)
-- [PTE Request for Any CPT Listing Block](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-any-cpt-listing-block/)
-- [PTE Request for Invoice Payment for WooCommerce](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-invoice-payment-for-woocommerce/)
-- [PTE Request for WP Prayer…](https://make.wordpress.org/polyglots/2022/06/02/pte-request-for-wp-prayer-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
