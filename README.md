@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Migration, Backup, Staging – WPvivid](https://make.wordpress.org/polyglots/2022/06/07/pte-request-for-plugin_name-2/)
 - [PTE Request for legal-texts-connector-it-recht-kanzlei I…](https://make.wordpress.org/polyglots/2022/06/07/pte-request-for-legal-texts-connector-it-recht-kanzlei-i/)
 - [Hello. I am the author…](https://make.wordpress.org/polyglots/2022/06/07/hello-i-am-the-author-3/)
 - [I’ve suggested translations for plugin…](https://make.wordpress.org/polyglots/2022/06/07/ive-suggested-translations-for-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I have translated &lpar;#bn_BD&rpar;…](https://make.wordpress.org/polyglots/2022/06/04/hello-i-have-translated-bn_bd/)
 - [PTE Request for Cargo Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/06/04/pte-request-for-cargo-tracking-for-woocommerce/)
 - [Hi](https://make.wordpress.org/polyglots/2022/06/03/hi-95/)
-- [PTE request for Blossom Themes](https://make.wordpress.org/polyglots/2022/06/03/pte-request-for-blossom-themes-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
