@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Form Multilingual for GiveWP](https://make.wordpress.org/polyglots/2022/06/08/pte-request-for-form-multilingual-for-givewp/)
 - [PTE Request for Masterbar Note](https://make.wordpress.org/polyglots/2022/06/08/pte-request-for-masterbar-note/)
 - [Agenda: Weekly Polyglots Chat – Jun. 08, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/08/agenda-weekly-polyglots-chat-jun-08-2022-1300-utc/)
 - [PTE Request for Migration, Backup, Staging – WPvivid](https://make.wordpress.org/polyglots/2022/06/07/pte-request-for-plugin_name-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE Request](https://make.wordpress.org/polyglots/2022/06/07/clpte-request-7/)
 - [Hello](https://make.wordpress.org/polyglots/2022/06/06/hello-67/)
 - [PTE Request for WooCommerce Please…](https://make.wordpress.org/polyglots/2022/06/06/pte-request-for-woocommerce-please/)
-- [Hello, I have translated &lpar;#bn_BD&rpar;…](https://make.wordpress.org/polyglots/2022/06/04/hello-i-have-translated-bn_bd/)
 <!-- POLYGLOTS:END -->
 
 ## Support
