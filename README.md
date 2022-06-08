@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 2022-06-09](https://make.wordpress.org/community/2022/06/08/community-team-meeting-agenda-for-2022-06-09/)
 - [Recap of the APAC WPDiversity Network Building on May 26, 2022](https://make.wordpress.org/community/2022/05/31/recap-of-the-apac-wpdiversity-network-building-on-may-26-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 25, 2022](https://make.wordpress.org/community/2022/05/27/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-25-2022/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/community/2022/05/26/xpost-announcement-incident-response-training/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: May 2022](https://make.wordpress.org/community/2022/05/20/meetup-organizer-newsletter-may-2022/)
 - [WordCamp Europe 2022 Contributor Day: Plans for the Community Team Table](https://make.wordpress.org/community/2022/05/20/wordcamp-europe-2022-contributor-day-plans-for-the-community-team-table/)
 - [X-post: What’s new on LearnWP in April 2022](https://make.wordpress.org/community/2022/05/18/xpost-whats-new-on-learnwp-in-april-2022/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA and APAC on May 11 and 12, 2022](https://make.wordpress.org/community/2022/05/17/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-and-apac-on-may-11-and-12-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
