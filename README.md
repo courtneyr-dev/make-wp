@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Jetpack Social](https://make.wordpress.org/polyglots/2022/06/10/pte-request-for-jetpack-social/)
 - [PTE Request for [ASTRA THEME]](https://make.wordpress.org/polyglots/2022/06/10/pte-request-for-astra-theme-2/)
 - [Hi Polygots,](https://make.wordpress.org/polyglots/2022/06/10/hi-polygots-4/)
 - [#editor-requests PTE Request for One…](https://make.wordpress.org/polyglots/2022/06/09/editor-requests-pte-request-for-one/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Masterbar Note](https://make.wordpress.org/polyglots/2022/06/08/pte-request-for-masterbar-note/)
 - [Agenda: Weekly Polyglots Chat – Jun. 08, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/08/agenda-weekly-polyglots-chat-jun-08-2022-1300-utc/)
 - [PTE Request for Migration, Backup, Staging – WPvivid](https://make.wordpress.org/polyglots/2022/06/07/pte-request-for-plugin_name-2/)
-- [PTE Request for legal-texts-connector-it-recht-kanzlei I…](https://make.wordpress.org/polyglots/2022/06/07/pte-request-for-legal-texts-connector-it-recht-kanzlei-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
