@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for SK-Elib](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-sk-elib/)
+- [PTE Request for [Order Tracker for WooCommerce]](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-order-tracker-for-woocommerce/)
 - [PTE Request for Jetpack Social](https://make.wordpress.org/polyglots/2022/06/10/pte-request-for-jetpack-social/)
 - [PTE Request for [ASTRA THEME]](https://make.wordpress.org/polyglots/2022/06/10/pte-request-for-astra-theme-2/)
 - [Hi Polygots,](https://make.wordpress.org/polyglots/2022/06/10/hi-polygots-4/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello – I added Spanish…](https://make.wordpress.org/polyglots/2022/06/09/hello-i-added-spanish/)
 - [PTE Request for Form Multilingual for GiveWP](https://make.wordpress.org/polyglots/2022/06/08/pte-request-for-form-multilingual-for-givewp/)
 - [PTE Request for Masterbar Note](https://make.wordpress.org/polyglots/2022/06/08/pte-request-for-masterbar-note/)
-- [Agenda: Weekly Polyglots Chat – Jun. 08, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/08/agenda-weekly-polyglots-chat-jun-08-2022-1300-utc/)
-- [PTE Request for Migration, Backup, Staging – WPvivid](https://make.wordpress.org/polyglots/2022/06/07/pte-request-for-plugin_name-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
