@@ -157,7 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
-- [Report: Allyship and Diverse Speaker Workshops May 2022](https://make.wordpress.org/community/2022/06/11/report-allyship-and-diverse-speaker-workshops-may-2022/)
+- [Report: Inclusion and Diverse Speaker Workshops May 2022](https://make.wordpress.org/community/2022/06/11/report-allyship-and-diverse-speaker-workshops-may-2022/)
 - [Announcement: Team Representative Change for the Community Team in 2022](https://make.wordpress.org/community/2022/06/09/announcement-team-representative-change-for-the-community-team-in-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 8, 2022](https://make.wordpress.org/community/2022/06/09/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-8-2022/)
 - [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/community/2022/06/08/xpost-whats-new-on-learnwp-in-may-2022/)
