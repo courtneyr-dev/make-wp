@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for HivePress and extensions French](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-hivepress-and-extensions-french/)
+- [PTE Request for HivePress and its extensions Italian](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-hivepress-and-its-extensions-italian/)
 - [handbook page update](https://make.wordpress.org/polyglots/2022/06/11/handbook-page-update/)
 - [PTE Request for SK-Elib](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-sk-elib/)
 - [PTE Request for [Order Tracker for WooCommerce]](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-order-tracker-for-woocommerce/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polygots,](https://make.wordpress.org/polyglots/2022/06/10/hi-polygots-4/)
 - [#editor-requests PTE Request for One…](https://make.wordpress.org/polyglots/2022/06/09/editor-requests-pte-request-for-one/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2022/06/09/cross-locale-project-translation-editor-request-2/)
-- [Hello – I added Spanish…](https://make.wordpress.org/polyglots/2022/06/09/hello-i-added-spanish/)
-- [PTE Request for Form Multilingual for GiveWP](https://make.wordpress.org/polyglots/2022/06/08/pte-request-for-form-multilingual-for-givewp/)
 <!-- POLYGLOTS:END -->
 
 ## Support
