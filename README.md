@@ -463,6 +463,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress WooCommerce Expert](https://jobs.wordpress.net/job/wordpress-woocommerce-expert-2/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-76/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-196/)
 - [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-23/)
@@ -472,7 +473,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-9/)
 - [Support Superhero](https://jobs.wordpress.net/job/support-superhero-5/)
 - [Marketing Consultant](https://jobs.wordpress.net/job/marketing-consultant-2/)
-- [Frontend Developer](https://jobs.wordpress.net/job/frontend-developer-5/)
 <!-- JOBS:END -->
 
 ## Central
