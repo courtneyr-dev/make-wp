@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for iOS 20.1](https://make.wordpress.org/test/2022/06/13/xpost-call-for-testing-wordpress-for-ios-20-1/)
 - [Interim Test Team Rep for remainder of the current term](https://make.wordpress.org/test/2022/06/09/interim-test-team-rep-for-remainder-of-the-current-term/)
 - [X-post: Test Team Update – 8 June 2022](https://make.wordpress.org/test/2022/06/08/xpost-test-team-update-8-june-2022/)
 - [Field Notes from WCEU 2022 Contributor Day](https://make.wordpress.org/test/2022/06/07/field-notes-from-wceu-2022-contributor-day/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [FSE Program Rallying Recipe Reviewers Summary](https://make.wordpress.org/test/2022/05/30/fse-program-rallying-recipe-reviewers-summary/)
 - [X-post: Call for Testing: WordPress for iOS 20.0](https://make.wordpress.org/test/2022/05/30/xpost-call-for-testing-wordpress-for-ios-20-0/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/test/2022/05/26/xpost-announcement-incident-response-training/)
-- [Hallway Hangout: Discussion on Full Site Editing Issues/PRs/Designs &lpar;25 May&rpar;](https://make.wordpress.org/test/2022/05/25/hallway-hangout-discussion-on-full-site-editing-issues-prs-designs-25-may/)
 <!-- TEST:END -->
 
 ## TV
