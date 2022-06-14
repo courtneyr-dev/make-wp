@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for Android 20.1](https://make.wordpress.org/test/2022/06/14/xpost-call-for-testing-wordpress-for-android-20-1/)
 - [X-post: Test Team Update – 13 June 2022](https://make.wordpress.org/test/2022/06/13/xpost-test-team-update-13-june-2022/)
 - [X-post: Call for Testing: WordPress for iOS 20.1](https://make.wordpress.org/test/2022/06/13/xpost-call-for-testing-wordpress-for-ios-20-1/)
 - [Interim Test Team Rep for remainder of the current term](https://make.wordpress.org/test/2022/06/09/interim-test-team-rep-for-remainder-of-the-current-term/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Test Stats for WordPress 6.0](https://make.wordpress.org/test/2022/05/31/core-test-stats-for-wordpress-6-0/)
 - [X-post: Call for Testing: WordPress for Android 20.0](https://make.wordpress.org/test/2022/05/31/xpost-call-for-testing-wordpress-for-android-20-0/)
 - [FSE Program Rallying Recipe Reviewers Summary](https://make.wordpress.org/test/2022/05/30/fse-program-rallying-recipe-reviewers-summary/)
-- [X-post: Call for Testing: WordPress for iOS 20.0](https://make.wordpress.org/test/2022/05/30/xpost-call-for-testing-wordpress-for-ios-20-0/)
 <!-- TEST:END -->
 
 ## TV
