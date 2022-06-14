@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance team meeting summary 14 June 2022](https://make.wordpress.org/core/2022/06/14/performance-team-meeting-summary-14-june-2022/)
 - [Upcoming: Disallow assignments in conditions and remove the Yoda condition requirement for PHP](https://make.wordpress.org/core/2022/06/14/upcoming-disallow-assignments-in-conditions-and-remove-the-yoda-condition-requirement-for-php/)
 - [A Week in Core – June 13, 2022](https://make.wordpress.org/core/2022/06/13/a-week-in-core-june-13-2022/)
 - [Performance Chat Agenda: 14 June 2022](https://make.wordpress.org/core/2022/06/13/performance-chat-agenda-14-june-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor chat summary: 8 June, 2022](https://make.wordpress.org/core/2022/06/09/editor-chat-summary-8-june-2022/)
 - [Dev Chat Agenda, June 8, 2022](https://make.wordpress.org/core/2022/06/08/dev-chat-agenda-june-8-2022/)
 - [Performance team meeting summary 7 June2022](https://make.wordpress.org/core/2022/06/07/performance-team-meeting-summary-7-june-2022/)
-- [Editor Chat Agenda: 8 June 2022](https://make.wordpress.org/core/2022/06/07/editor-chat-agenda-8-june-2022/)
 <!-- CORE:END -->
 
 ## Design
