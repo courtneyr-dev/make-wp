@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Any  Post Slider](https://make.wordpress.org/polyglots/2022/06/14/pte-request-for-any-cpt-listing-block-2/)
 - [Hey Leute :&rpar; Ich hab…](https://make.wordpress.org/polyglots/2022/06/14/hey-leute-ich-hab/)
 - [PTE Request for Go AdOpt Plugin](https://make.wordpress.org/polyglots/2022/06/13/pte-request-for-go-adopt-plugin/)
 - [PTE Request for Sukra Theme…](https://make.wordpress.org/polyglots/2022/06/13/pte-request-for-sukra-theme/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for HivePress and extensions French](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-hivepress-and-extensions-french/)
 - [PTE Request for HivePress and its extensions Italian](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-hivepress-and-its-extensions-italian/)
 - [handbook page update](https://make.wordpress.org/polyglots/2022/06/11/handbook-page-update/)
-- [PTE Request for SK-Elib](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-sk-elib/)
 <!-- POLYGLOTS:END -->
 
 ## Support
