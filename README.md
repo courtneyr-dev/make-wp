@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Yaw Owusu-Ansah: Supercharging your Website with Custom Post Types and Custom Fields](https://wordpress.tv/2022/06/13/yaw-owusu-ansah-supercharging-your-website-with-custom-post-types-and-custom-fields/)
 - [Nick Diego: Builder Basics – Everything You Need to Know About Patterns](https://wordpress.tv/2022/06/13/nick-diego-builder-basics-everything-you-need-to-know-about-patterns/)
 - [Hugh Lashbrooke: Open-Source Principles and WordPress](https://wordpress.tv/2022/06/13/hugh-lashbrooke-open-source-principles-and-wordpress/)
 - [Creating a Front Page for a Block Theme](https://wordpress.tv/2022/06/09/creating-a-front-page-for-a-block-theme/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Néstor Angulo de Ugarte. N1909: El astuto caso del Ransomware en WordPress](https://wordpress.tv/2022/05/24/nestor-angulo-ugarte-n1909-astuto-caso-ransomware-wordpress/)
 - [Jorge Monclús: Sácale chispas a la API Rest de WordPress](https://wordpress.tv/2022/05/24/jorge-monclus-sacale-chispas-api-rest-wordpress/)
 - [Olatz Goicoechea: Optimiza tu presupuesto en publicidad digital](https://wordpress.tv/2022/05/24/olatz-goicoechea-optimiza-presupuesto-publicidad-digital/)
-- [Javi Guembe: ¿Webs para clientes? mejor webs para Stakeholders](https://wordpress.tv/2022/05/24/javi-guembe-webs-clientes-mejor-webs-stakeholders/)
 <!-- WPTV:END -->
 
 ## Marketing
