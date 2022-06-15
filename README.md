@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – June 15, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/15/agenda-weekly-polyglots-chat-june-15-2022-0700-utc/)
 - [PTE Request for Any  Post Slider](https://make.wordpress.org/polyglots/2022/06/14/pte-request-for-any-cpt-listing-block-2/)
 - [Hey Leute :&rpar; Ich hab…](https://make.wordpress.org/polyglots/2022/06/14/hey-leute-ich-hab/)
 - [PTE Request for Go AdOpt Plugin](https://make.wordpress.org/polyglots/2022/06/13/pte-request-for-go-adopt-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Ad [ Auto Insert H ]](https://make.wordpress.org/polyglots/2022/06/12/pte-request-for-ad-auto-insert-h/)
 - [PTE Request for HivePress and extensions French](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-hivepress-and-extensions-french/)
 - [PTE Request for HivePress and its extensions Italian](https://make.wordpress.org/polyglots/2022/06/11/pte-request-for-hivepress-and-its-extensions-italian/)
-- [handbook page update](https://make.wordpress.org/polyglots/2022/06/11/handbook-page-update/)
 <!-- POLYGLOTS:END -->
 
 ## Support
