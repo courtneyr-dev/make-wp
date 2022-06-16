@@ -463,16 +463,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Web developer](https://jobs.wordpress.net/job/web-developer-197/)
+- [WordPress Engineering Manager](https://jobs.wordpress.net/job/wordpress-engineering-manager/)
+- [Long Term Remote Part-Time WordPress Plugin Developer/Contractor, with 3+ years of experience](https://jobs.wordpress.net/job/long-term-remote-part-time-wordpress-plugin-developer-contractor-with-3-years-of-experience/)
+- [WordPress Website alterations](https://jobs.wordpress.net/job/wordpress-website-alterations/)
+- [Sr. UI Developer](https://jobs.wordpress.net/job/sr-ui-developer/)
 - [WordPress WooCommerce Expert](https://jobs.wordpress.net/job/wordpress-woocommerce-expert-2/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-76/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-196/)
 - [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-23/)
 - [[rtCamp] Digital Marketing Manager](https://jobs.wordpress.net/job/rtcamp-digital-marketing-manager-4/)
-- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-21/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-34/)
-- [Full Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-9/)
-- [Support Superhero](https://jobs.wordpress.net/job/support-superhero-5/)
-- [Marketing Consultant](https://jobs.wordpress.net/job/marketing-consultant-2/)
 <!-- JOBS:END -->
 
 ## Central
