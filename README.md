@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Gutenberg Landing Page Launched](https://make.wordpress.org/meta/2022/06/16/gutenberg-landing-page-launched/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/meta/2022/05/26/xpost-announcement-incident-response-training/)
 - [Theme Review Improvements](https://make.wordpress.org/meta/2022/05/23/theme-reviews-improvements/)
 - [Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/meta/2022/04/28/proposal-make-wordpress-team-or-project-updates/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/meta/2022/03/16/coming-soon-block-pattern-directory-submissions/)
 - [X-post: First review on the new Sitemap for HelpHub](https://make.wordpress.org/meta/2022/03/10/xpost-first-review-on-the-new-sitemap-for-helphub-or-documentation/)
 - [Meta Trac Ticket Focus, Feb 24](https://make.wordpress.org/meta/2022/02/24/meta-trac-ticket-focus-feb-24/)
-- [X-post: The hashtag and its future in documentation articles](https://make.wordpress.org/meta/2022/02/20/xpost-the-hashtag-and-its-future-in-documentation-articles/)
 <!-- META:END -->
 
 ## Training
