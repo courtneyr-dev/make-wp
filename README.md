@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for My Calendar and My Tickets](https://make.wordpress.org/polyglots/2022/06/16/pte-request-for-my-calendar-and-my-tickets/)
 - [WP Translation Day in September 2022 – suggestion, discussion](https://make.wordpress.org/polyglots/2022/06/15/wp-translation-day-in-september-2022-suggestion-discussion/)
 - [Brizy Page Builder translations](https://make.wordpress.org/polyglots/2022/06/15/brizy-page-builder-translations/)
 - [Hello Polyglots, I am the…](https://make.wordpress.org/polyglots/2022/06/15/hello-polyglots-i-am-the-638/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hey Leute :&rpar; Ich hab…](https://make.wordpress.org/polyglots/2022/06/14/hey-leute-ich-hab/)
 - [PTE Request for Go AdOpt Plugin](https://make.wordpress.org/polyglots/2022/06/13/pte-request-for-go-adopt-plugin/)
 - [PTE Request for Sukra Theme…](https://make.wordpress.org/polyglots/2022/06/13/pte-request-for-sukra-theme/)
-- [PTE Request for Fixed Widget…](https://make.wordpress.org/polyglots/2022/06/13/pte-request-for-fixed-widget/)
 <!-- POLYGLOTS:END -->
 
 ## Support
