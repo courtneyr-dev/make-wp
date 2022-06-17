@@ -463,16 +463,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] Visual UI Designer](https://jobs.wordpress.net/job/astra-visual-ui-designer/)
+- [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-5/)
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-6/)
+- [Lead WordPress Developer](https://jobs.wordpress.net/job/lead-wordpress-developer-8/)
 - [Web developer](https://jobs.wordpress.net/job/web-developer-197/)
 - [WordPress Engineering Manager](https://jobs.wordpress.net/job/wordpress-engineering-manager/)
 - [Long Term Remote Part-Time WordPress Plugin Developer/Contractor, with 3+ years of experience](https://jobs.wordpress.net/job/long-term-remote-part-time-wordpress-plugin-developer-contractor-with-3-years-of-experience/)
 - [WordPress Website alterations](https://jobs.wordpress.net/job/wordpress-website-alterations/)
 - [Sr. UI Developer](https://jobs.wordpress.net/job/sr-ui-developer/)
 - [WordPress WooCommerce Expert](https://jobs.wordpress.net/job/wordpress-woocommerce-expert-2/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-76/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-196/)
-- [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-23/)
-- [[rtCamp] Digital Marketing Manager](https://jobs.wordpress.net/job/rtcamp-digital-marketing-manager-4/)
 <!-- JOBS:END -->
 
 ## Central
