@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Leyka](https://make.wordpress.org/polyglots/2022/06/17/pte-request-for-leyka/)
 - [PTE Request for Packeta](https://make.wordpress.org/polyglots/2022/06/16/pte-request-for-packeta-2/)
 - [PTE Request for WPify Woo](https://make.wordpress.org/polyglots/2022/06/16/pte-request-for-wpify-woo-2/)
 - [PTE Request for My Calendar and My Tickets](https://make.wordpress.org/polyglots/2022/06/16/pte-request-for-my-calendar-and-my-tickets/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, I’m part of the…](https://make.wordpress.org/polyglots/2022/06/15/hi-im-part-of-the/)
 - [Agenda: Weekly Polyglots Chat – June 15, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/15/agenda-weekly-polyglots-chat-june-15-2022-0700-utc/)
 - [PTE Request for Any  Post Slider](https://make.wordpress.org/polyglots/2022/06/14/pte-request-for-any-cpt-listing-block-2/)
-- [Hey Leute :&rpar; Ich hab…](https://make.wordpress.org/polyglots/2022/06/14/hey-leute-ich-hab/)
 <!-- POLYGLOTS:END -->
 
 ## Support
