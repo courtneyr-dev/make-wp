@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Complying with GDPR when using Google Fonts](https://make.wordpress.org/themes/2022/06/18/complying-with-gdpr-when-using-google-fonts/)
 - [Themes Team Meeting Notes – June 14, 2022](https://make.wordpress.org/themes/2022/06/14/themes-team-meeting-notes-june-14-2022/)
 - [Themes team meeting agenda for June 14, 2022](https://make.wordpress.org/themes/2022/06/13/themes-team-meeting-agenda-for-june-14-2022/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/themes/2022/05/26/xpost-announcement-incident-response-training/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for May 10, 2022](https://make.wordpress.org/themes/2022/05/09/themes-team-meeting-agenda-for-may-10-2022/)
 - [Latest changes in Gutenberg + Themes: 13.0 release](https://make.wordpress.org/themes/2022/04/28/latest-changes-in-gutenberg-themes-13-0-release/)
 - [Themes Team Meeting Notes – April 26, 2022](https://make.wordpress.org/themes/2022/04/26/themes-team-meeting-notes-april-26-2022/)
-- [Themes team meeting agenda for April 26, 2022](https://make.wordpress.org/themes/2022/04/25/themes-team-meeting-agenda-for-april-26-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
