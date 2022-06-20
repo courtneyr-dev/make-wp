@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello, I am trying to…](https://make.wordpress.org/polyglots/2022/06/20/hello-i-am-trying-to/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/06/20/hello-polyglots-298/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/06/19/hi-dear-mentors-we-have-88/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/06/19/hi-dear-mentors-we-have-87/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WPify Woo](https://make.wordpress.org/polyglots/2022/06/16/pte-request-for-wpify-woo-2/)
 - [PTE Request for My Calendar and My Tickets](https://make.wordpress.org/polyglots/2022/06/16/pte-request-for-my-calendar-and-my-tickets/)
 - [WP Translation Day in September 2022 – suggestion, discussion](https://make.wordpress.org/polyglots/2022/06/15/wp-translation-day-in-september-2022-suggestion-discussion/)
-- [Brizy Page Builder translations](https://make.wordpress.org/polyglots/2022/06/15/brizy-page-builder-translations/)
 <!-- POLYGLOTS:END -->
 
 ## Support
