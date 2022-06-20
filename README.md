@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Persistent Login](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-wp-persistent-login-2/)
 - [PTE Request for ArvanCloud Object Storage](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-arvancloud-object-storage-2/)
 - [PTE Request for Backup Migration, Duplicate Post, Popup, Redirect Redirection and Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-backup-migration-duplicate-post-popup-redirect-redirection-and-social-media-share-buttons-popup-pop-up-social-sharing-icons/)
 - [Hello, I am trying to…](https://make.wordpress.org/polyglots/2022/06/20/hello-i-am-trying-to/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for oEmbed Infogram](https://make.wordpress.org/polyglots/2022/06/19/pte-request-for-oembed-infogram/)
 - [PTE Request for Leyka](https://make.wordpress.org/polyglots/2022/06/17/pte-request-for-leyka/)
 - [PTE Request for Packeta](https://make.wordpress.org/polyglots/2022/06/16/pte-request-for-packeta-2/)
-- [PTE Request for WPify Woo](https://make.wordpress.org/polyglots/2022/06/16/pte-request-for-wpify-woo-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
