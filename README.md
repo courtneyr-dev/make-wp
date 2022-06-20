@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: FSE Program: Sign up for usability testing by June 24th](https://make.wordpress.org/design/2022/06/20/xpost-fse-program-sign-up-for-usability-testing-by-june-24th/)
 - [Design Share: June 6–17](https://make.wordpress.org/design/2022/06/20/design-share-june-6-17/)
 - [Thinking Through the WordPress Admin Experience](https://make.wordpress.org/design/2022/06/13/thinking-through-the-wordpress-admin-experience/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/design/2022/05/26/xpost-announcement-incident-response-training/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Team Show &amp; Tell — May 2022](https://make.wordpress.org/design/2022/05/11/design-team-show-tell-may-2022/)
 - [Design Share: Apr 25–May 6](https://make.wordpress.org/design/2022/05/09/design-share-apr-25-may-6/)
 - [Design Share: Apr 11–22](https://make.wordpress.org/design/2022/04/25/design-share-apr-11-22/)
-- [Design Team Show &amp; Tell — April 2022](https://make.wordpress.org/design/2022/04/13/design-team-show-tell-april-2022/)
 <!-- DESIGN:END -->
 
 ## Mobile
