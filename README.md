@@ -282,6 +282,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Milana Cap: Contributor documentation – Documentation team handbook – onboarding for WordPress Documentation tea](https://wordpress.tv/2022/06/21/milana-cap-contributor-documentation-documentation-team-handbook-onboarding-for-wordpress-documentation-tea/)
+- [Milana Cap: Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: Developer documentation – Common APIs handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-common-apis-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: Developer documentation – Plugin handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-plugin-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: End user documentation – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-end-user-documentation-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Overview – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-overview-onboarding-for-wordpress-documentation-team/)
 - [Let’s build a homepage together!](https://wordpress.tv/2022/06/19/lets-build-a-homepage-together/)
 - [Choosing and Installing a Theme](https://wordpress.tv/2022/06/16/choosing-and-installing-a-theme/)
@@ -302,11 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design With Me: Create a Simple Website For Your Small Business](https://wordpress.tv/2022/05/25/design-with-me-create-a-simple-website-for-your-small-business/)
 - [Nestor Angulo de Ugarte: The strange case of malicious favicons](https://wordpress.tv/2022/05/25/nestor-angulo-de-ugarte-the-strange-case-of-malicious-favicons/)
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://wordpress.tv/2022/05/24/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-3/)
-- [Daniel Muñoz de Arenillas: ¿WordPress contamina?](https://wordpress.tv/2022/05/24/daniel-munoz-arenillas-wordpress-contamina-como-tener-una-web-respetuosa-planeta-puede/)
-- [WordCamp Irún: Cierre WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-cierre-wordcamp-irun-2022/)
-- [WordCamp Irún: Presentación WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-presentacion-wordcamp-irun-2022/)
-- [Eva Farutxo Jiménez: Fotografía de producto creatíva DIY](https://wordpress.tv/2022/05/24/eva-farutxo-jimenez-fotografia-producto-creativa-diy/)
-- [Leire Roldán: Aspectos legales y fiscales de los Infoproductos](https://wordpress.tv/2022/05/24/leire-roldan-aspectos-legales-fiscales-infoproductos/)
 <!-- WPTV:END -->
 
 ## Marketing
