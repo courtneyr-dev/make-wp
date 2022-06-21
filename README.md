@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Milana Cap: Overview – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-overview-onboarding-for-wordpress-documentation-team/)
 - [Let’s build a homepage together!](https://wordpress.tv/2022/06/19/lets-build-a-homepage-together/)
 - [Choosing and Installing a Theme](https://wordpress.tv/2022/06/16/choosing-and-installing-a-theme/)
 - [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar;](https://wordpress.tv/2022/06/16/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Irún: Presentación WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-presentacion-wordcamp-irun-2022/)
 - [Eva Farutxo Jiménez: Fotografía de producto creatíva DIY](https://wordpress.tv/2022/05/24/eva-farutxo-jimenez-fotografia-producto-creativa-diy/)
 - [Leire Roldán: Aspectos legales y fiscales de los Infoproductos](https://wordpress.tv/2022/05/24/leire-roldan-aspectos-legales-fiscales-infoproductos/)
-- [Sabela Muñiz: Do_action hackathon? Acercar WordPress al mundo real](https://wordpress.tv/2022/05/24/sabela-muniz-do-action-hackathon/)
 <!-- WPTV:END -->
 
 ## Marketing
