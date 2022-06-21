@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Olá boa tarde! Estive a…](https://make.wordpress.org/polyglots/2022/06/21/ola-boa-tarde-estive-a/)
 - [PTE Request for 2 Plugins](https://make.wordpress.org/polyglots/2022/06/21/pte-request-for-2-plugins/)
 - [PTE Request for Buy Now…](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-buy-now/)
 - [PTE Request for WP Persistent Login](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-wp-persistent-login-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/06/20/hello-polyglots-298/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/06/19/hi-dear-mentors-we-have-88/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/06/19/hi-dear-mentors-we-have-87/)
-- [PTE Request for oEmbed Infogram](https://make.wordpress.org/polyglots/2022/06/19/pte-request-for-oembed-infogram/)
 <!-- POLYGLOTS:END -->
 
 ## Support
