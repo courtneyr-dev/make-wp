@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/06/22/hello-polyglots-299/)
+- [PTE Request for REST API…](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-rest-api/)
+- [PTE Request for [bonus-for-woo]](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-bonus-for-woo/)
 - [Weekly Polyglots Chat – Jun. 22, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/22/weekly-polyglots-chat-jun-22-2022-1300-utc/)
 - [Request for beta testers for the discussion system](https://make.wordpress.org/polyglots/2022/06/22/request-for-beta-testers-for-the-discussion-system/)
 - [PTE Request for Custom AJAX Search Results](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-custom-ajax-search-results/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for 2 Plugins](https://make.wordpress.org/polyglots/2022/06/21/pte-request-for-2-plugins/)
 - [PTE Request for Buy Now…](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-buy-now/)
 - [PTE Request for WP Persistent Login](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-wp-persistent-login-2/)
-- [PTE Request for ArvanCloud Object Storage](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-arvancloud-object-storage-2/)
-- [PTE Request for Backup Migration, Duplicate Post, Popup, Redirect Redirection and Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2022/06/20/pte-request-for-backup-migration-duplicate-post-popup-redirect-redirection-and-social-media-share-buttons-popup-pop-up-social-sharing-icons/)
-- [Hello, I am trying to…](https://make.wordpress.org/polyglots/2022/06/20/hello-i-am-trying-to/)
 <!-- POLYGLOTS:END -->
 
 ## Support
