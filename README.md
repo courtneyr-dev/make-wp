@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Week in Test – 22 June 2022](https://make.wordpress.org/test/2022/06/22/week-in-test-22-june-2022/)
 - [Test Team Chat Agenda for 21 June 2022](https://make.wordpress.org/test/2022/06/20/test-team-chat-agenda-for-21-june-2022/)
 - [X-post: Test Team Update – 20 June 2022](https://make.wordpress.org/test/2022/06/20/xpost-test-team-update-20-june-2022/)
 - [FSE Program: Sign up for usability testing by June 24th](https://make.wordpress.org/test/2022/06/20/fse-program-sign-up-for-usability-testing-by-june-24th/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Interim Test Team Rep for remainder of the current term](https://make.wordpress.org/test/2022/06/09/interim-test-team-rep-for-remainder-of-the-current-term/)
 - [X-post: Test Team Update – 8 June 2022](https://make.wordpress.org/test/2022/06/08/xpost-test-team-update-8-june-2022/)
 - [Field Notes from WCEU 2022 Contributor Day](https://make.wordpress.org/test/2022/06/07/field-notes-from-wceu-2022-contributor-day/)
-- [Hallway Hangout: Discussion on Full Site Editing Issues/PRs/Designs &lpar;1 June&rpar;](https://make.wordpress.org/test/2022/06/02/hallway-hangout-discussion-on-full-site-editing-issues-prs-designs-1-june/)
 <!-- TEST:END -->
 
 ## TV
