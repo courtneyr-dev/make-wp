@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap: Community Deputy Training – All About Community Deputies](https://make.wordpress.org/community/2022/06/23/recap-community-deputy-training-all-about-community-deputies/)
 - [Announcement: Reactivating Meetup Venue Support Funds](https://make.wordpress.org/community/2022/06/22/announcement-reactivating-meetup-venue-support-funds/)
 - [4th biweekly APAC #WPDiversity Network Building &lpar;June 23, 2022&rpar;](https://make.wordpress.org/community/2022/06/20/4th-biweekly-apac-wpdiversity-network-building-june-23-2022/)
 - [Monthly Deputy / Organizer Training and Mini Sprints](https://make.wordpress.org/community/2022/06/18/monthly-deputy-organizer-training-and-mini-sprints/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Report: Inclusion and Diverse Speaker Workshops May 2022](https://make.wordpress.org/community/2022/06/11/report-allyship-and-diverse-speaker-workshops-may-2022/)
 - [Announcement: Team Representative Change for the Community Team in 2022](https://make.wordpress.org/community/2022/06/09/announcement-team-representative-change-for-the-community-team-in-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 8, 2022](https://make.wordpress.org/community/2022/06/09/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-8-2022/)
-- [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/community/2022/06/08/xpost-whats-new-on-learnwp-in-may-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
