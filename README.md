@@ -115,9 +115,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [WP_Widget_Media::reset_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/reset_default_labels/)
-- [WP_Widget_Media::get_l10n_defaults&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_l10n_defaults/)
 - [WP_Widget_Media::get_default_description&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_default_description/)
+- [WP_Widget_Media::get_l10n_defaults&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_l10n_defaults/)
+- [WP_Widget_Media::reset_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/reset_default_labels/)
 - [term_exists_default_query_args](https://developer.wordpress.org/reference/hooks/term_exists_default_query_args/)
 - [registered_taxonomy_{$taxonomy}](https://developer.wordpress.org/reference/hooks/registered_taxonomy_taxonomy/)
 - [the_author_link](https://developer.wordpress.org/reference/hooks/the_author_link/)
