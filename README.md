@@ -464,6 +464,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-90/)
 - [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-7/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-17/)
 - [Full Time WordPress Designer/Developer](https://jobs.wordpress.net/job/full-time-wordpress-designer-developer/)
@@ -473,7 +474,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Visual UI Designer](https://jobs.wordpress.net/job/astra-visual-ui-designer/)
 - [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-5/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-6/)
-- [Lead WordPress Developer](https://jobs.wordpress.net/job/lead-wordpress-developer-8/)
 <!-- JOBS:END -->
 
 ## Central
