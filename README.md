@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
 - [Design for conversions: how to be more profitable by putting people first](https://wordpress.tv/2022/06/23/design-for-conversions-how-to-be-more-profitable-by-putting-people-first/)
 - [A glimpse into the future of WordPress from a frontend point of view](https://wordpress.tv/2022/06/23/a-glimpse-into-the-future-of-wordpress-from-a-frontend-point-of-view/)
 - [Vicent Sanchis: What is the next thing about colour contrast?](https://wordpress.tv/2022/06/22/vicent-sanchis-what-is-the-next-thing-about-colour-contrast/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Marco Narzisi: Free journalism, fake news and truth in the age of WordPress](https://wordpress.tv/2022/06/01/marco-narzisi-free-journalism-fake-news-and-truth-in-the-age-of-wordpress/)
 - [Chabi Angulo: La seguridad es importante](https://wordpress.tv/2022/05/31/chabi-angulo-la-seguridad-es-importante/)
 - [Alberto Gómez: Crear newsletter de pago](https://wordpress.tv/2022/05/31/alberto-gomez-crear-newsletter-de-pago/)
-- [Flavia Bernárdez: Cambiar upload y bloque de galería](https://wordpress.tv/2022/05/31/flavia-bernardez-cambiar-upload-y-bloque-de-galeria/)
 <!-- WPTV:END -->
 
 ## Marketing
