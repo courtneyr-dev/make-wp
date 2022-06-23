@@ -464,6 +464,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [JavaScript Developer](https://jobs.wordpress.net/job/javascript-developer-7/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-17/)
+- [Full Time WordPress Designer/Developer](https://jobs.wordpress.net/job/full-time-wordpress-designer-developer/)
 - [Content Writer](https://jobs.wordpress.net/job/content-writer-18/)
 - [Development of an image-focused webpage](https://jobs.wordpress.net/job/development-of-an-image-focused-webpage/)
 - [Web Design &amp; Development](https://jobs.wordpress.net/job/web-design-development-3/)
@@ -471,9 +474,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-5/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-6/)
 - [Lead WordPress Developer](https://jobs.wordpress.net/job/lead-wordpress-developer-8/)
-- [Web developer](https://jobs.wordpress.net/job/web-developer-197/)
-- [WordPress Engineering Manager](https://jobs.wordpress.net/job/wordpress-engineering-manager/)
-- [Long Term Remote Part-Time WordPress Plugin Developer/Contractor, with 3+ years of experience](https://jobs.wordpress.net/job/long-term-remote-part-time-wordpress-plugin-developer-contractor-with-3-years-of-experience/)
 <!-- JOBS:END -->
 
 ## Central
