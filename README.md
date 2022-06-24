@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Google Drive is Flagging Plugins as ‘Viruses’](https://make.wordpress.org/plugins/2022/06/24/google-drive-is-flagging-plugins-as-viruses/)
 - [What’s The Deal with Invalid Reviews?](https://make.wordpress.org/plugins/2022/06/15/whats-the-deal-with-invalid-reviews/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/plugins/2022/05/26/xpost-announcement-incident-response-training/)
 - [Rejoice to sanitize_url&lpar;&rpar;](https://make.wordpress.org/plugins/2022/05/25/rejoice-to-sanitize_url/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Reminder: Check Your Accounts’ Emails &lpar;and your Committers&rpar;](https://make.wordpress.org/plugins/2021/11/03/reminder-check-your-accounts-emails-and-your-committers/)
 - [https://make.wordpress.org/core/2021/09/27/changes-to-the-wordpress-core-php-test-suite/](https://make.wordpress.org/plugins/2021/09/27/https-make-wordpress-org-core-2021-09-27-changes-to-the-wordpress-core-php-test-suite/)
 - [Change to How Long Active Reviews Remain Open](https://make.wordpress.org/plugins/2021/09/20/change-to-how-long-active-reviews-remain-open/)
-- [X-post: [Announcement] New workflow for reporting documentation issues](https://make.wordpress.org/plugins/2021/09/15/xpost-announcement-new-workflow-for-reporting-documentation-issues/)
 <!-- PLUGINS:END -->
 
 ## Community
