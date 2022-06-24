@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Team,](https://make.wordpress.org/polyglots/2022/06/24/hello-team-2/)
 - [X-post: Call for Translators: 2021-2022 Annual Meetup Surveys](https://make.wordpress.org/polyglots/2022/06/24/xpost-call-for-translators-2021-2022-annual-meetup-surveys/)
 - [Hello,](https://make.wordpress.org/polyglots/2022/06/24/hello-68/)
 - [PTE Request for hello-dolly](https://make.wordpress.org/polyglots/2022/06/24/pte-request-for-hello-dolly/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-buddypress-2/)
 - [Pic Sell](https://make.wordpress.org/polyglots/2022/06/22/pic-sell/)
 - [PTE Request for Kwanko tracking](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-kwanko-tracking/)
-- [PTE Request for [magazinehd / Angela Costa]](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-magazinehd-angela-costa/)
 <!-- POLYGLOTS:END -->
 
 ## Support
