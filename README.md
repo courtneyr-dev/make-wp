@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [[Rescheduled] Design With Me: Create a WordPress Blog of Your Own](https://learn.wordpress.org/?meeting=rescheduled-design-with-me-create-a-wordpress-blog-of-your-own)
 - [Explore the Block Directory](https://learn.wordpress.org/?meeting=explore-the-block-directory)
 - [Hello Blocks!  Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-3)
 - [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-4)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Everything You Need to Know About Patterns](https://learn.wordpress.org/?meeting=builder-basics-everything-you-need-to-know-about-patterns)
 - [Website Security For Solopreneurs](https://learn.wordpress.org/?meeting=website-security-for-solopreneurs)
 - [Supercharging your Website with Custom Post Types and Custom Fields](https://learn.wordpress.org/?meeting=supercharging-your-website-with-custom-post-types-and-custom-fields)
-- [Let’s build a homepage together](https://learn.wordpress.org/?meeting=lets-build-a-homepage-together)
 <!-- SLS:END -->
 
 ## Test
