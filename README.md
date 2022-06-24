@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello,](https://make.wordpress.org/polyglots/2022/06/24/hello-68/)
+- [PTE Request for hello-dolly](https://make.wordpress.org/polyglots/2022/06/24/pte-request-for-hello-dolly/)
+- [Request for WP 5.9 Translation…](https://make.wordpress.org/polyglots/2022/06/24/request-for-wp-5-9-translation/)
+- [PTE Request for Presta Products…](https://make.wordpress.org/polyglots/2022/06/24/pte-request-for-presta-products/)
+- [PTE Request for Infocob CRM Products](https://make.wordpress.org/polyglots/2022/06/24/pte-request-for-infocob-crm-products/)
 - [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-buddypress-2/)
 - [Pic Sell](https://make.wordpress.org/polyglots/2022/06/22/pic-sell/)
 - [PTE Request for Kwanko tracking](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-kwanko-tracking/)
 - [PTE Request for [magazinehd / Angela Costa]](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-magazinehd-angela-costa/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/06/22/hello-polyglots-299/)
-- [PTE Request for REST API…](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-rest-api/)
-- [PTE Request for [bonus-for-woo]](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-bonus-for-woo/)
-- [Weekly Polyglots Chat – Jun. 22, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/22/weekly-polyglots-chat-jun-22-2022-1300-utc/)
-- [Request for beta testers for the discussion system](https://make.wordpress.org/polyglots/2022/06/22/request-for-beta-testers-for-the-discussion-system/)
-- [PTE Request for Custom AJAX Search Results](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-custom-ajax-search-results/)
 <!-- POLYGLOTS:END -->
 
 ## Support
