@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi,](https://make.wordpress.org/polyglots/2022/06/26/hi-96/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/06/25/pte-request-for-9/)
 - [Hello Team,](https://make.wordpress.org/polyglots/2022/06/24/hello-team-2/)
 - [X-post: Call for Translators: 2021-2022 Annual Meetup Surveys](https://make.wordpress.org/polyglots/2022/06/24/xpost-call-for-translators-2021-2022-annual-meetup-surveys/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Presta Products…](https://make.wordpress.org/polyglots/2022/06/24/pte-request-for-presta-products/)
 - [PTE Request for Infocob CRM Products](https://make.wordpress.org/polyglots/2022/06/24/pte-request-for-infocob-crm-products/)
 - [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2022/06/22/pte-request-for-buddypress-2/)
-- [Pic Sell](https://make.wordpress.org/polyglots/2022/06/22/pic-sell/)
 <!-- POLYGLOTS:END -->
 
 ## Support
