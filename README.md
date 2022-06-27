@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Real Impact of Having Website Performance as a Mindset](https://wordpress.tv/2022/06/27/the-real-impact-of-having-website-performance-as-a-mindset/)
 - [Greg Ziolkowski: Level Up Block Building Skills](https://wordpress.tv/2022/06/26/greg-ziolkowski-level-up-block-building-skills/)
 - [Build Gatsby WordPress sites with Gatsby WP Themes](https://wordpress.tv/2022/06/24/build-gatsby-wordpress-sites-with-gatsby-wp-themes/)
 - [We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Yaw Owusu-Ansah: Supercharging your Website with Custom Post Types and Custom Fields](https://wordpress.tv/2022/06/13/yaw-owusu-ansah-supercharging-your-website-with-custom-post-types-and-custom-fields/)
 - [Nick Diego: Builder Basics – Everything You Need to Know About Patterns](https://wordpress.tv/2022/06/13/nick-diego-builder-basics-everything-you-need-to-know-about-patterns/)
 - [Hugh Lashbrooke: Open-Source Principles and WordPress](https://wordpress.tv/2022/06/13/hugh-lashbrooke-open-source-principles-and-wordpress/)
-- [Creating a Front Page for a Block Theme](https://wordpress.tv/2022/06/09/creating-a-front-page-for-a-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
