@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request and Review](https://make.wordpress.org/polyglots/2022/06/27/pte-request-and-review/)
+- [PTE and Review Request](https://make.wordpress.org/polyglots/2022/06/27/pte-and-review-request/)
 - [Polyglots Monthly Newsletter: June 2022](https://make.wordpress.org/polyglots/2022/06/27/polyglots-monthly-newsletter-june-2022/)
 - [PTE Request for BlackSwan Easy-Select Attributes for WooCommerce](https://make.wordpress.org/polyglots/2022/06/27/pte-request-for-blackswan-easy-select-attributes-for-woocommerce/)
 - [Hi,](https://make.wordpress.org/polyglots/2022/06/26/hi-96/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Translators: 2021-2022 Annual Meetup Surveys](https://make.wordpress.org/polyglots/2022/06/24/xpost-call-for-translators-2021-2022-annual-meetup-surveys/)
 - [Hello,](https://make.wordpress.org/polyglots/2022/06/24/hello-68/)
 - [PTE Request for hello-dolly](https://make.wordpress.org/polyglots/2022/06/24/pte-request-for-hello-dolly/)
-- [Request for WP 5.9 Translation…](https://make.wordpress.org/polyglots/2022/06/24/request-for-wp-5-9-translation/)
-- [PTE Request for Presta Products…](https://make.wordpress.org/polyglots/2022/06/24/pte-request-for-presta-products/)
 <!-- POLYGLOTS:END -->
 
 ## Support
