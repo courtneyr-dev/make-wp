@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
 - [Live Studio: Takis Bouyouris interviewing WCEU Local Team: José Freitas and Marco Pereirinha](https://wordpress.tv/2022/06/27/live-studio-takis-bouyouris-interviewing-wceu-local-team-jose-freitas-and-marco-pereirinha/)
 - [Leo Postovoit: The Real Impact of Having Website Performance as a Mindset](https://wordpress.tv/2022/06/27/the-real-impact-of-having-website-performance-as-a-mindset/)
 - [Greg Ziolkowski: Level Up Block Building Skills](https://wordpress.tv/2022/06/26/greg-ziolkowski-level-up-block-building-skills/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Choosing and Installing a Theme](https://wordpress.tv/2022/06/16/choosing-and-installing-a-theme/)
 - [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar;](https://wordpress.tv/2022/06/16/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required/)
 - [Yaw Owusu-Ansah: Supercharging your Website with Custom Post Types and Custom Fields](https://wordpress.tv/2022/06/13/yaw-owusu-ansah-supercharging-your-website-with-custom-post-types-and-custom-fields/)
-- [Nick Diego: Builder Basics – Everything You Need to Know About Patterns](https://wordpress.tv/2022/06/13/nick-diego-builder-basics-everything-you-need-to-know-about-patterns/)
 <!-- WPTV:END -->
 
 ## Marketing
