@@ -282,6 +282,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Is podcasting the future of WordPress?](https://wordpress.tv/2022/06/27/is-podcasting-the-future-of-wordpress/)
+- [Milan Ivanovic: Why we community?](https://wordpress.tv/2022/06/27/why-we-community/)
+- [Rodolfo Melogli: Let’s build &lpar;and sell&rpar; an online course](https://wordpress.tv/2022/06/27/rodolfo-melogli-lets-build-and-sell-an-online-course/)
 - [Introdução a visualização em lista](https://wordpress.tv/2022/06/27/introducao-a-visualizacao-em-lista/)
 - [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
 - [Live Studio: Takis Bouyouris interviewing WCEU Local Team: José Freitas and Marco Pereirinha](https://wordpress.tv/2022/06/27/live-studio-takis-bouyouris-interviewing-wceu-local-team-jose-freitas-and-marco-pereirinha/)
@@ -304,9 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Milana Cap: Developer documentation – Plugin handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-plugin-handbook-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: End user documentation – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-end-user-documentation-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Overview – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-overview-onboarding-for-wordpress-documentation-team/)
-- [Let’s build a homepage together!](https://wordpress.tv/2022/06/19/lets-build-a-homepage-together/)
-- [Choosing and Installing a Theme](https://wordpress.tv/2022/06/16/choosing-and-installing-a-theme/)
-- [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar;](https://wordpress.tv/2022/06/16/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required/)
 <!-- WPTV:END -->
 
 ## Marketing
