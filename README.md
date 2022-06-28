@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Week in Test – 27 June 2022](https://make.wordpress.org/test/2022/06/28/week-in-test-27-june-2022/)
 - [X-post: Test Team Update – 27 June 2022](https://make.wordpress.org/test/2022/06/27/xpost-test-team-update-27-june-2022/)
 - [Week in Test – 22 June 2022](https://make.wordpress.org/test/2022/06/22/week-in-test-22-june-2022/)
 - [Test Team Chat Agenda for 21 June 2022](https://make.wordpress.org/test/2022/06/20/test-team-chat-agenda-for-21-june-2022/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update – 13 June 2022](https://make.wordpress.org/test/2022/06/13/xpost-test-team-update-13-june-2022/)
 - [X-post: Call for Testing: WordPress for iOS 20.1](https://make.wordpress.org/test/2022/06/13/xpost-call-for-testing-wordpress-for-ios-20-1/)
 - [Interim Test Team Rep for remainder of the current term](https://make.wordpress.org/test/2022/06/09/interim-test-team-rep-for-remainder-of-the-current-term/)
-- [X-post: Test Team Update – 8 June 2022](https://make.wordpress.org/test/2022/06/08/xpost-test-team-update-8-june-2022/)
 <!-- TEST:END -->
 
 ## TV
