@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Good day everyone,](https://make.wordpress.org/polyglots/2022/06/29/good-day-everyone/)
 - [Agenda: Weekly Polyglots Chat – Jun. 29, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/28/agenda-weekly-polyglots-chat-jun-29-2022-700-utc/)
 - [PTE Request for Cta Image Overlay And Text and Custom Post Types Listing Block](https://make.wordpress.org/polyglots/2022/06/28/pte-request-for-cta-image-overlay-and-text-and-custom-post-types-listing-block/)
 - [Polyglots Coffee Break – July 28, 2022 at 22:00 UTC](https://make.wordpress.org/polyglots/2022/06/28/polyglots-coffee-break-july-28-2022-at-2200-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for BlackSwan Easy-Select Attributes for WooCommerce](https://make.wordpress.org/polyglots/2022/06/27/pte-request-for-blackswan-easy-select-attributes-for-woocommerce/)
 - [Hi,](https://make.wordpress.org/polyglots/2022/06/26/hi-96/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/06/25/pte-request-for-9/)
-- [Hello Team,](https://make.wordpress.org/polyglots/2022/06/24/hello-team-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
