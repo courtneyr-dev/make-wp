@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for iOS 20.2](https://make.wordpress.org/test/2022/06/29/xpost-call-for-testing-wordpress-for-ios-20-2/)
 - [X-post: Call for Testing: WordPress for Android 20.2](https://make.wordpress.org/test/2022/06/28/xpost-call-for-testing-wordpress-for-android-20-2/)
 - [Week in Test – 27 June 2022](https://make.wordpress.org/test/2022/06/28/week-in-test-27-june-2022/)
 - [X-post: Test Team Update – 27 June 2022](https://make.wordpress.org/test/2022/06/27/xpost-test-team-update-27-june-2022/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [FSE Program: Sign up for usability testing by June 24th](https://make.wordpress.org/test/2022/06/20/fse-program-sign-up-for-usability-testing-by-june-24th/)
 - [X-post: Call for Testing: WordPress for Android 20.1](https://make.wordpress.org/test/2022/06/14/xpost-call-for-testing-wordpress-for-android-20-1/)
 - [X-post: Test Team Update – 13 June 2022](https://make.wordpress.org/test/2022/06/13/xpost-test-team-update-13-june-2022/)
-- [X-post: Call for Testing: WordPress for iOS 20.1](https://make.wordpress.org/test/2022/06/13/xpost-call-for-testing-wordpress-for-ios-20-1/)
 <!-- TEST:END -->
 
 ## TV
