@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [Submitting Block Patterns to the Directory](https://learn.wordpress.org/lesson-plan/submitting-block-patterns-to-the-directory/)
 - [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
 - [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
 - [Displaying the Post Comments Block to Block Themes](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
@@ -208,7 +209,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction To Common Plugins](https://learn.wordpress.org/lesson-plan/introduction-to-common-plugins/)
 - [How to Create a Menu with the Navigation Block](https://learn.wordpress.org/lesson-plan/how-to-create-a-menu-with-the-navigation-block/)
 - [How to Build Low-Code Block Patterns](https://learn.wordpress.org/lesson-plan/how-to-build-low-code-block-patterns/)
-- [How to Create and Register a Block Pattern](https://learn.wordpress.org/lesson-plan/how-to-create-and-register-a-block-pattern__trashed/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
