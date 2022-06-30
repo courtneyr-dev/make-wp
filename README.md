@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ElemensKit, MetForm &amp; ShopEngine](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-elemenskit-metform-shopengine/)
+- [PTE Request for ExS Theme](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-exs-theme/)
+- [PTE Request for online Estore Theme](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-online-estore-theme/)
 - [Good day everyone,](https://make.wordpress.org/polyglots/2022/06/29/good-day-everyone/)
 - [Agenda: Weekly Polyglots Chat – Jun. 29, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/28/agenda-weekly-polyglots-chat-jun-29-2022-700-utc/)
 - [PTE Request for Cta Image Overlay And Text and Custom Post Types Listing Block](https://make.wordpress.org/polyglots/2022/06/28/pte-request-for-cta-image-overlay-and-text-and-custom-post-types-listing-block/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request and Review](https://make.wordpress.org/polyglots/2022/06/27/pte-request-and-review/)
 - [PTE and Review Request](https://make.wordpress.org/polyglots/2022/06/27/pte-and-review-request/)
 - [Polyglots Monthly Newsletter: June 2022](https://make.wordpress.org/polyglots/2022/06/27/polyglots-monthly-newsletter-june-2022/)
-- [PTE Request for BlackSwan Easy-Select Attributes for WooCommerce](https://make.wordpress.org/polyglots/2022/06/27/pte-request-for-blackswan-easy-select-attributes-for-woocommerce/)
-- [Hi,](https://make.wordpress.org/polyglots/2022/06/26/hi-96/)
-- [PTE Request for…](https://make.wordpress.org/polyglots/2022/06/25/pte-request-for-9/)
 <!-- POLYGLOTS:END -->
 
 ## Support
