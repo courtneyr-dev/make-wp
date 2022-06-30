@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sabrina Zeidan, Juan Hernando, Jason Rouet, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing WCEU Organisers: Sabrina Zeidan, Juan Hernando and Jason R](https://wordpress.tv/2022/06/30/sabrina-zeidan-juan-hernando-jason-rouet-evangelia-pappa-live-studio-evangelia-pappa-interviewing-wceu-organisers-sabrina-zeidan-juan-hernando-and-jason-r/)
 - [Milana Cap: Developer documentation – Block editor handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-block-editor-handbook-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Developer documentation – Themes handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-themes-handbook-onboarding-for-wordpress-documentation-team/)
 - [Richard Midson: Is podcasting the future of WordPress?](https://wordpress.tv/2022/06/27/is-podcasting-the-future-of-wordpress/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Milana Cap: Contributor documentation – Documentation team handbook – onboarding for WordPress Documentation tea](https://wordpress.tv/2022/06/21/milana-cap-contributor-documentation-documentation-team-handbook-onboarding-for-wordpress-documentation-tea/)
 - [Milana Cap: Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Developer documentation – Common APIs handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-common-apis-handbook-onboarding-for-wordpress-documentation-team/)
-- [Milana Cap: Developer documentation – Plugin handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-plugin-handbook-onboarding-for-wordpress-documentation-team/)
 <!-- WPTV:END -->
 
 ## Marketing
