@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/themes/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [Create Block Theme](https://make.wordpress.org/themes/2022/06/30/create-block-theme/)
 - [Themes Team Meeting Notes – June 28, 2022](https://make.wordpress.org/themes/2022/06/29/themes-team-meeting-notes-june-28-2022/)
 - [Latest changes in Gutenberg + Themes: 13.1 to 13.5 releases](https://make.wordpress.org/themes/2022/06/28/latest-changes-in-gutenberg-themes-13-1-to-13-5-releases/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for June 14, 2022](https://make.wordpress.org/themes/2022/06/13/themes-team-meeting-agenda-for-june-14-2022/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/themes/2022/05/26/xpost-announcement-incident-response-training/)
 - [Themes Team Meeting Notes – May 24, 2022](https://make.wordpress.org/themes/2022/05/24/themes-team-meeting-notes-may-24-2022/)
-- [Themes team meeting agenda for May 24, 2022](https://make.wordpress.org/themes/2022/05/23/themes-team-meeting-agenda-for-may-24-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
