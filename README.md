@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 22, 2022](https://make.wordpress.org/community/2022/06/30/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-22-2022/)
 - [Call for Translators: 2021-2022 Annual Meetup Surveys](https://make.wordpress.org/community/2022/06/24/call-for-translators-2021-2022-annual-meetup-surveys/)
 - [Monthly Organizer Newsletter: June 2022](https://make.wordpress.org/community/2022/06/24/monthly-organizer-newsletter-june-2022/)
 - [Recap: Community Deputy Training – All About Community Deputies](https://make.wordpress.org/community/2022/06/23/recap-community-deputy-training-all-about-community-deputies/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts-2/)
 - [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts/)
 - [Recap of the APAC WPDiversity Network Building on June 9, 2022](https://make.wordpress.org/community/2022/06/13/recap-of-the-apac-wpdiversity-network-building-on-june-9-2022/)
-- [Report: Inclusion and Diverse Speaker Workshops May 2022](https://make.wordpress.org/community/2022/06/11/report-allyship-and-diverse-speaker-workshops-may-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
