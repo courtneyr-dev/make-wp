@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi Polyglots people,](https://make.wordpress.org/polyglots/2022/06/30/hi-polyglots-people/)
+- [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-several-plugins-4/)
 - [PTE Request for Kadence, Ascend,…](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-kadence-ascend/)
 - [PTE Request for ElemensKit, MetForm &amp; ShopEngine](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-elemenskit-metform-shopengine/)
 - [PTE Request for ExS Theme](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-exs-theme/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – Jun. 29, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/28/agenda-weekly-polyglots-chat-jun-29-2022-700-utc/)
 - [PTE Request for Cta Image Overlay And Text and Custom Post Types Listing Block](https://make.wordpress.org/polyglots/2022/06/28/pte-request-for-cta-image-overlay-and-text-and-custom-post-types-listing-block/)
 - [Polyglots Coffee Break – July 28, 2022 at 22:00 UTC](https://make.wordpress.org/polyglots/2022/06/28/polyglots-coffee-break-july-28-2022-at-2200-utc/)
-- [PTE Request and Review](https://make.wordpress.org/polyglots/2022/06/27/pte-request-and-review/)
-- [PTE and Review Request](https://make.wordpress.org/polyglots/2022/06/27/pte-and-review-request/)
 <!-- POLYGLOTS:END -->
 
 ## Support
