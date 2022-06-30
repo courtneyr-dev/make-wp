@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Kadence, Ascend,…](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-kadence-ascend/)
 - [PTE Request for ElemensKit, MetForm &amp; ShopEngine](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-elemenskit-metform-shopengine/)
 - [PTE Request for ExS Theme](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-exs-theme/)
 - [PTE Request for online Estore Theme](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-online-estore-theme/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polyglots Coffee Break – July 28, 2022 at 22:00 UTC](https://make.wordpress.org/polyglots/2022/06/28/polyglots-coffee-break-july-28-2022-at-2200-utc/)
 - [PTE Request and Review](https://make.wordpress.org/polyglots/2022/06/27/pte-request-and-review/)
 - [PTE and Review Request](https://make.wordpress.org/polyglots/2022/06/27/pte-and-review-request/)
-- [Polyglots Monthly Newsletter: June 2022](https://make.wordpress.org/polyglots/2022/06/27/polyglots-monthly-newsletter-june-2022/)
 <!-- POLYGLOTS:END -->
 
 ## Support
