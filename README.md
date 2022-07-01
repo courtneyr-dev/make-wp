@@ -282,6 +282,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Laurent Maillard: Agile marketing – how we made our agency a better place](https://wordpress.tv/2022/07/01/laurent-maillard-agile-marketing-how-we-made-our-agency-a-better-place/)
+- [Marco Berrocal: WP_Query: The power of flexibility](https://wordpress.tv/2022/07/01/marco-berrocal-wp_query-the-power-of-flexibility/)
+- [Nate Finch: Using WordPress as an API](https://wordpress.tv/2022/07/01/nate-finch-using-wordpress-as-an-api/)
 - [Using Schema with WordPress Theme.json](https://wordpress.tv/2022/06/30/using-schema-with-wordpress-theme-json/)
 - [Sabrina Zeidan, Juan Hernando, Jason Rouet, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing WCEU Organisers: Sabrina Zeidan, Juan Hernando and Jason R](https://wordpress.tv/2022/06/30/sabrina-zeidan-juan-hernando-jason-rouet-evangelia-pappa-live-studio-evangelia-pappa-interviewing-wceu-organisers-sabrina-zeidan-juan-hernando-and-jason-r/)
 - [Milana Cap: Developer documentation – Block editor handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-block-editor-handbook-onboarding-for-wordpress-documentation-team/)
@@ -304,9 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live Studio: Sjoerd Blom interviewing one of the WCEU founders: Remkus de Vries](https://wordpress.tv/2022/06/22/live-studio-remkus-vries-sjoerd-blom/)
 - [Website Security For Solopreneurs](https://wordpress.tv/2022/06/21/bud-kraus-website-security-for-solopreneurs/)
 - [Milana Cap: WordPress through the terminal](https://wordpress.tv/2022/06/21/milana-cap-wordpress-through-the-terminal/)
-- [Stefano Minoia: Git and GitHub for theme development](https://wordpress.tv/2022/06/21/git-and-github-for-theme-development/)
-- [Milana Cap: Contributor documentation – Documentation team handbook – onboarding for WordPress Documentation tea](https://wordpress.tv/2022/06/21/milana-cap-contributor-documentation-documentation-team-handbook-onboarding-for-wordpress-documentation-tea/)
-- [Milana Cap: Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)
 <!-- WPTV:END -->
 
 ## Marketing
