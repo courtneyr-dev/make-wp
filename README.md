@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Exploration: improving DevHub](https://make.wordpress.org/core/2022/07/01/xpost-exploration-improving-devhub/)
 - [Plan for adding WebP &amp; multiple MIME support for images](https://make.wordpress.org/core/2022/06/30/plan-for-adding-webp-multiple-mime-support-for-images/)
 - [Devchat summary, June 29, 2022](https://make.wordpress.org/core/2022/06/30/devchat-summary-june-29-2022/)
 - [Making the Tech Editor Release Lead Role More Creative and Less Repetitive](https://make.wordpress.org/core/2022/06/30/making-the-tech-editor-release-lead-role-more-creative-and-less-repetitive/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance team meeting summary 28 June 2022](https://make.wordpress.org/core/2022/06/28/performance-team-meeting-summary-28-june-2022/)
 - [A Week in Core – June 27, 2022](https://make.wordpress.org/core/2022/06/27/a-week-in-core-june-27-2022/)
 - [Editor chat summary: June 22, 2022](https://make.wordpress.org/core/2022/06/27/editor-chat-summary-june-22-2022/)
-- [Rollback Feature: Testing Call to Action](https://make.wordpress.org/core/2022/06/26/rollback-feature-testing-call-to-action/)
 <!-- CORE:END -->
 
 ## Design
