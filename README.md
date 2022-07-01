@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Vassilena Valchanova: Building data-driven content personas](https://wordpress.tv/2022/07/01/vassilena-valchanova-building-data-driven-content-personas/)
 - [Laurent Maillard: Agile marketing – how we made our agency a better place](https://wordpress.tv/2022/07/01/laurent-maillard-agile-marketing-how-we-made-our-agency-a-better-place/)
 - [Marco Berrocal: WP_Query: The power of flexibility](https://wordpress.tv/2022/07/01/marco-berrocal-wp_query-the-power-of-flexibility/)
 - [Nate Finch: Using WordPress as an API](https://wordpress.tv/2022/07/01/nate-finch-using-wordpress-as-an-api/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Vicent Sanchis: What is the next thing about colour contrast?](https://wordpress.tv/2022/06/22/vicent-sanchis-what-is-the-next-thing-about-colour-contrast/)
 - [Live Studio: Sjoerd Blom interviewing one of the WCEU founders: Remkus de Vries](https://wordpress.tv/2022/06/22/live-studio-remkus-vries-sjoerd-blom/)
 - [Website Security For Solopreneurs](https://wordpress.tv/2022/06/21/bud-kraus-website-security-for-solopreneurs/)
-- [Milana Cap: WordPress through the terminal](https://wordpress.tv/2022/06/21/milana-cap-wordpress-through-the-terminal/)
 <!-- WPTV:END -->
 
 ## Marketing
