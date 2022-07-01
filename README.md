@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Adding a delete button](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/5-adding-a-delete-button/)
 - [WP_Widget_Media::reset_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/reset_default_labels/)
 - [WP_Widget_Media::get_l10n_defaults&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_l10n_defaults/)
 - [WP_Widget_Media::get_default_description&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_default_description/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP_Taxonomy::get_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_taxonomy/get_default_labels/)
 - [WP_Taxonomy::reset_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_taxonomy/reset_default_labels/)
 - [WP_Post_Type::get_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_post_type/get_default_labels/)
-- [register_{$taxonomy}_taxonomy_args](https://developer.wordpress.org/reference/hooks/register_taxonomy_taxonomy_args/)
 <!-- DEVHUB:END -->
 
 ## Themes
