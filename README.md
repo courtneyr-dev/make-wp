@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Discussion: Naming content types on Learn WordPress](https://make.wordpress.org/training/2022/07/03/discussion-naming-content-types-on-learn-wordpress/)
 - [Social Learning Spaces on Learn WordPress](https://make.wordpress.org/training/2022/07/01/social-learning-spaces-on-learn-wordpress/)
 - [Rethinking the Lesson Plan Creation &amp; Updating Process](https://make.wordpress.org/training/2022/07/01/rethinking-the-lesson-plan-creation-updating-process/)
 - [Training Team Goals and Strategy Call](https://make.wordpress.org/training/2022/07/01/training-team-goals-and-strategy-call/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Discussion: Tracking Social Learning Spaces](https://make.wordpress.org/training/2022/06/23/discussion-tracking-social-learning-spaces/)
 - [May 2022 Sprint Retrospective](https://make.wordpress.org/training/2022/06/21/may-2022-sprint-retrospective/)
 - [Meeting Agenda for June 21 – 23, 2022](https://make.wordpress.org/training/2022/06/20/meeting-agenda-for-june-21-23-2022/)
-- [Training Team Meeting Recap – June 14 &amp; 16](https://make.wordpress.org/training/2022/06/16/training-team-meeting-recap-june-14-16/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
