@@ -282,6 +282,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Yvette Sonneveld, Santana Inniss: Live Studio: Sjoerd Blom interviewing WCEU Attendees: Yvette Sonneveld and Santana Inniss](https://wordpress.tv/2022/07/03/yvette-sonneveld-santana-inniss-live-studio-sjoerd-blom-interviewing-wceu-attendees-yvette-sonneveld-and-santana-inniss/)
+- [Live Studio: Wendie Huis in ‘t Veld interviewing WCEU Speaker Piccia Neri](https://wordpress.tv/2022/07/03/live-studio-wendie-huis-in-t-veld-interviewing-wceu-speaker-piccia-neri/)
+- [Live Studio. Evangelia Pappa interviewing Serbian Community: Nemanja Cimbaljevic, Milana Cap and Mil](https://wordpress.tv/2022/07/03/live-studio-serbian-community/)
 - [José Ramón Padrón, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing Spanish Community: José Ramón Padrón](https://wordpress.tv/2022/07/03/jose-ramon-padron-evangelia-pappa-live-studio-evangelia-pappa-interviewing-spanish-community-jose-ramon-padron/)
 - [Paul Bearne: Finding your WordPress lifestyle – insider insights from a veteran coder](https://wordpress.tv/2022/07/03/paul-bearne-finding-your-wordpress-lifestyle-insider-insights-from-a-veteran-coder/)
 - [Daisy Olsen: Extending the WordPress Block Editor](https://wordpress.tv/2022/07/01/daisy-olsen-extending-the-wordpress-block-editor/)
@@ -304,9 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alexandra Spalato: Build Gatsby WordPress sites with Gatsby WP Themes](https://wordpress.tv/2022/06/24/build-gatsby-wordpress-sites-with-gatsby-wp-themes/)
 - [Alain Schlesser: We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
 - [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
-- [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
-- [Piccia Neri: Design for conversions: how to be more profitable by putting people first](https://wordpress.tv/2022/06/23/design-for-conversions-how-to-be-more-profitable-by-putting-people-first/)
-- [Pablo Postigo: A glimpse into the future of WordPress from a frontend point of view](https://wordpress.tv/2022/06/23/a-glimpse-into-the-future-of-wordpress-from-a-frontend-point-of-view/)
 <!-- WPTV:END -->
 
 ## Marketing
