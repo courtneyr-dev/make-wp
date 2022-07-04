@@ -116,15 +116,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Developer Articles
 <!-- DEVHUB:START -->
 - [Adding a delete button](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/5-adding-a-delete-button/)
-- [WP_Widget_Media::get_default_description&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_default_description/)
-- [WP_Widget_Media::get_l10n_defaults&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_l10n_defaults/)
 - [WP_Widget_Media::reset_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/reset_default_labels/)
+- [WP_Widget_Media::get_l10n_defaults&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_l10n_defaults/)
+- [WP_Widget_Media::get_default_description&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_widget_media/get_default_description/)
 - [term_exists_default_query_args](https://developer.wordpress.org/reference/hooks/term_exists_default_query_args/)
 - [registered_taxonomy_{$taxonomy}](https://developer.wordpress.org/reference/hooks/registered_taxonomy_taxonomy/)
 - [the_author_link](https://developer.wordpress.org/reference/hooks/the_author_link/)
 - [WP_Taxonomy::get_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_taxonomy/get_default_labels/)
 - [WP_Taxonomy::reset_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_taxonomy/reset_default_labels/)
-- [register_{$taxonomy}_taxonomy_args](https://developer.wordpress.org/reference/hooks/register_taxonomy_taxonomy_args/)
+- [WP_Post_Type::get_default_labels&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_post_type/get_default_labels/)
 <!-- DEVHUB:END -->
 
 ## Themes
