@@ -213,7 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Using Schema with WordPress Theme.json](https://learn.wordpress.org/workshop/using-schema-with-wordpress-theme-json/)
+- [Using Schema with WordPress theme.json](https://learn.wordpress.org/workshop/using-schema-with-wordpress-theme-json/)
 - [Anatomy of a Block Theme](https://learn.wordpress.org/workshop/anatomy-of-a-block-theme/)
 - [Choosing and Installing Theme](https://learn.wordpress.org/workshop/choosing-and-installing-theme/)
 - [Creating a Front Page for a Block Theme](https://learn.wordpress.org/workshop/creating-a-front-page-for-a-block-theme/)
