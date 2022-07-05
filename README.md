@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Proposal for a WordPress plugin checker](https://make.wordpress.org/plugins/2022/07/05/proposal-for-a-wordpress-plugin-checker/)
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/plugins/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/plugins/2022/06/27/xpost-rollback-feature-testing-call-to-action/)
 - [Google Drive is Flagging Plugins as ‘Viruses’](https://make.wordpress.org/plugins/2022/06/24/google-drive-is-flagging-plugins-as-viruses/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Featured/Beta Plugins Now Limit Changes](https://make.wordpress.org/plugins/2022/04/15/featured-beta-plugins-now-limit-changes/)
 - [Journal Entry: Removal of the Zamir Plugin](https://make.wordpress.org/plugins/2022/03/23/journal-entry-removal-of-the-zamir-plugin/)
 - [Please don’t ‘test’ submitting other people’s plugins.](https://make.wordpress.org/plugins/2021/11/29/please-dont-test-submitting-other-peoples-plugins/)
-- [Reminder: Check Your Accounts’ Emails &lpar;and your Committers&rpar;](https://make.wordpress.org/plugins/2021/11/03/reminder-check-your-accounts-emails-and-your-committers/)
 <!-- PLUGINS:END -->
 
 ## Community
