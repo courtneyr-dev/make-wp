@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for docs team bi-weekly meeting 5 July 2022](https://make.wordpress.org/docs/2022/07/05/agenda-for-docs-team-bi-weekly-meeting-5-july-2022/)
 - [X-post: Exploration: improving DevHub](https://make.wordpress.org/docs/2022/07/01/xpost-exploration-improving-devhub/)
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/docs/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [Summary of Docs Team Biweekly Meeting June 21, 2022](https://make.wordpress.org/docs/2022/06/28/summary-of-docs-team-biweekly-meeting-june-21-2022/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/docs/2022/05/26/xpost-announcement-incident-response-training/)
 - [Summary of Docs Team Meeting May 24, 2022](https://make.wordpress.org/docs/2022/05/26/summary-of-docs-team-meeting-may-24-2022/)
 - [Summary of Docs Team Meeting May 10, 2022](https://make.wordpress.org/docs/2022/05/11/summary-of-docs-team-meeting-may-10-2022/)
-- [Summary of Docs Team Meeting April 19, 2022](https://make.wordpress.org/docs/2022/04/22/summary-of-docs-team-meeting-april-19-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
