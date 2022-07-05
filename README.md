@@ -3,6 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.0.1 RC 1 is now available](https://make.wordpress.org/core/2022/07/05/wordpress-6-0-1-rc-1-is-now-available/)
+- [Editor Chat Agenda: 6th July 2022](https://make.wordpress.org/core/2022/07/05/editor-chat-agenda-6th-july-2022/)
+- [Performance team meeting summary 5 July 2022](https://make.wordpress.org/core/2022/07/05/performance-team-meeting-summary-5-july-2022/)
 - [A Week in Core – July 4, 2022](https://make.wordpress.org/core/2022/07/04/a-week-in-core-july-4-2022/)
 - [Editor chat summary: Wednesday, 29 June 2022](https://make.wordpress.org/core/2022/07/04/editor-chat-summary-wednesday-29-june-2022/)
 - [Proposal: Better REST API handling in JavaScript](https://make.wordpress.org/core/2022/07/04/proposal-better-rest-api-handling-in-javascript/)
@@ -10,9 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Exploration: improving DevHub](https://make.wordpress.org/core/2022/07/01/xpost-exploration-improving-devhub/)
 - [Plan for adding WebP &amp; multiple MIME support for images](https://make.wordpress.org/core/2022/06/30/plan-for-adding-webp-multiple-mime-support-for-images/)
 - [Devchat summary, June 29, 2022](https://make.wordpress.org/core/2022/06/30/devchat-summary-june-29-2022/)
-- [Making the Tech Editor Release Lead Role More Creative and Less Repetitive](https://make.wordpress.org/core/2022/06/30/making-the-tech-editor-release-lead-role-more-creative-and-less-repetitive/)
-- [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/core/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
-- [Devchat agenda, June 29, 2022](https://make.wordpress.org/core/2022/06/29/devchat-agenda-june-29-2022/)
 <!-- CORE:END -->
 
 ## Design
