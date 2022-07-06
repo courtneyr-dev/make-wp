@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Devchat agenda, July 6, 2022](https://make.wordpress.org/core/2022/07/05/devchat-agenda-july-6-2022/)
 - [X-post: Proposal for a WordPress plugin checker](https://make.wordpress.org/core/2022/07/05/xpost-proposal-for-a-wordpress-plugin-checker/)
 - [WordPress 6.0.1 RC 1 is now available](https://make.wordpress.org/core/2022/07/05/wordpress-6-0-1-rc-1-is-now-available/)
 - [Editor Chat Agenda: 6th July 2022](https://make.wordpress.org/core/2022/07/05/editor-chat-agenda-6th-july-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Better REST API handling in JavaScript](https://make.wordpress.org/core/2022/07/04/proposal-better-rest-api-handling-in-javascript/)
 - [Performance Chat Agenda: 5 July 2022](https://make.wordpress.org/core/2022/07/01/performance-chat-agenda-5-july-2022/)
 - [X-post: Exploration: improving DevHub](https://make.wordpress.org/core/2022/07/01/xpost-exploration-improving-devhub/)
-- [Plan for adding WebP &amp; multiple MIME support for images](https://make.wordpress.org/core/2022/06/30/plan-for-adding-webp-multiple-mime-support-for-images/)
 <!-- CORE:END -->
 
 ## Design
