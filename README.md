@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [User Management](https://learn.wordpress.org/workshop/user-management-2/)
 - [Using Schema with WordPress theme.json](https://learn.wordpress.org/workshop/using-schema-with-wordpress-theme-json/)
 - [Anatomy of a Block Theme](https://learn.wordpress.org/workshop/anatomy-of-a-block-theme/)
 - [Choosing and Installing Theme](https://learn.wordpress.org/workshop/choosing-and-installing-theme/)
@@ -222,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting to know the WordPress Dashboard](https://learn.wordpress.org/workshop/getting-to-know-the-wordpress-dashboard/)
 - [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/workshop/understanding-the-page-editor-vs-site-editor/)
 - [Choosing and Installing a Plugin](https://learn.wordpress.org/workshop/searching-and-installing-a-plugin/)
-- [Applying Duotone Filters to Change Color Effects](https://learn.wordpress.org/workshop/applying-duotone-filters-to-change-color-effects/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
