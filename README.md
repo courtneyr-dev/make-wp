@@ -435,6 +435,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [The Month in WordPress – June 2022](https://wordpress.org/news/2022/07/the-month-in-wordpress-june-2022/)
 - [People of WordPress: Leo Gopal](https://wordpress.org/news/2022/06/people-of-wordpress-leo-gopal/)
 - [WP Briefing: Episode 34: WordPress 6.1 is Coming!](https://wordpress.org/news/2022/06/episode-34-wordpress-6-1-is-coming/)
 - [WP Briefing: Episode 33: Some Important Questions from WCEU](https://wordpress.org/news/2022/06/episode-33-some-important-questions-from-wceu/)
@@ -459,7 +460,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 28: Coming to a WordCamp Near You: A Return to In-Person WP Events](https://wordpress.org/news/2022/04/episode-28-coming-to-a-wordcamp-near-you-a-return-to-in-person-wp-events/)
 - [People of WordPress: Juan Aldasoro](https://wordpress.org/news/2022/03/people-of-wordpress-juanfra-aldasoro/)
 - [Get Creative with the All-New Pattern Creator](https://wordpress.org/news/2022/03/get-creative-with-the-all-new-pattern-creator/)
-- [WP Briefing: Episode 27: Is WordPress Made for Me?](https://wordpress.org/news/2022/03/episode-27-is-wordpress-made-for-me/)
 <!-- NEWS:END -->
 
 ## Jobs
