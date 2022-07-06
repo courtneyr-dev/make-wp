@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [User Management](https://wordpress.tv/2022/07/06/user-management/)
+- [Design With Me: Create a WordPress Blog of Your Own](https://wordpress.tv/2022/07/06/design-with-me-create-a-wordpress-blog-of-your-own/)
 - [Yvette Sonneveld, Santana Inniss: Live Studio: Sjoerd Blom interviewing WCEU Attendees: Yvette Sonneveld and Santana Inniss](https://wordpress.tv/2022/07/03/yvette-sonneveld-santana-inniss-live-studio-sjoerd-blom-interviewing-wceu-attendees-yvette-sonneveld-and-santana-inniss/)
 - [Live Studio: Wendie Huis in ‘t Veld interviewing WCEU Speaker Piccia Neri](https://wordpress.tv/2022/07/03/live-studio-wendie-huis-in-t-veld-interviewing-wceu-speaker-piccia-neri/)
 - [Live Studio. Evangelia Pappa interviewing Serbian Community: Nemanja Cimbaljevic, Milana Cap and Mil](https://wordpress.tv/2022/07/03/live-studio-serbian-community/)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Leo Postovoit: The Real Impact of Having Website Performance as a Mindset](https://wordpress.tv/2022/06/27/the-real-impact-of-having-website-performance-as-a-mindset/)
 - [Greg Ziolkowski: Level Up Block Building Skills](https://wordpress.tv/2022/06/26/greg-ziolkowski-level-up-block-building-skills/)
 - [Alexandra Spalato: Build Gatsby WordPress sites with Gatsby WP Themes](https://wordpress.tv/2022/06/24/build-gatsby-wordpress-sites-with-gatsby-wp-themes/)
-- [Alain Schlesser: We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
-- [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
 <!-- WPTV:END -->
 
 ## Marketing
