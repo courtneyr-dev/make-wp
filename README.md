@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda 7 July 2022](https://make.wordpress.org/community/2022/07/06/community-team-meeting-agenda-7-july-2022/)
 - [5th biweekly APAC #WPDiversity Network Building &lpar;July 7, 2022&rpar;](https://make.wordpress.org/community/2022/07/04/5th-biweekly-apac-wpdiversity-network-building-july-7-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 22, 2022](https://make.wordpress.org/community/2022/06/30/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-22-2022/)
 - [Call for Translators: 2021-2022 Annual Meetup Surveys](https://make.wordpress.org/community/2022/06/24/call-for-translators-2021-2022-annual-meetup-surveys/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [4th biweekly APAC #WPDiversity Network Building &lpar;June 23, 2022&rpar;](https://make.wordpress.org/community/2022/06/20/4th-biweekly-apac-wpdiversity-network-building-june-23-2022/)
 - [Monthly Deputy / Organizer Training and Mini Sprints](https://make.wordpress.org/community/2022/06/18/monthly-deputy-organizer-training-and-mini-sprints/)
 - [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts-2/)
-- [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts/)
 <!-- COMMUNITY:END -->
 
 ## Meta
