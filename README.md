@@ -325,6 +325,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/cli/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/cli/2022/05/26/xpost-announcement-incident-response-training/)
 - [WP-CLI v2.6.0 Release Notes](https://make.wordpress.org/cli/2022/01/26/wp-cli-v2-6-0-release-notes/)
 - [X-post: Experiment: A Public Channel for All Team Reps](https://make.wordpress.org/cli/2021/05/25/xpost-experiment-a-public-channel-for-all-team-reps/)
@@ -334,7 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: External Linking Policy – “Commercial blogs”](https://make.wordpress.org/cli/2020/07/06/xpost-external-linking-policy-commercial-blogs/)
 - [X-post: WCEU 2020 Online Contributor Day: Feedback and achievements](https://make.wordpress.org/cli/2020/07/02/xpost-wceu-2020-online-contributor-day-feedback-and-achievements/)
 - [X-post: External Linking Policy – Trusted Sources](https://make.wordpress.org/cli/2020/06/15/xpost-external-linking-policy-trusted-sources/)
-- [X-post: WCEU 2020 Online Contributor Day: All that team facilitators and experienced Contributors need to know](https://make.wordpress.org/cli/2020/05/21/xpost-wceu-2020-online-contributor-day-all-that-team-facilitators-and-experienced-contributors-need-to-know/)
 <!-- CLI:END -->
 
 ## Hosting
