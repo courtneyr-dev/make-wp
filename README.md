@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Any Post Slider](https://make.wordpress.org/polyglots/2022/07/07/pte-request-for-any-post-slider/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/07/06/i-am-the-plugin-author-28/)
 - [PTE Request for Our Below Plugins](https://make.wordpress.org/polyglots/2022/07/06/pte-request-for-our-below-plugins/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/07/06/hi-dear-mentors-we-have-89/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots people,](https://make.wordpress.org/polyglots/2022/06/30/hi-polyglots-people/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-several-plugins-4/)
 - [PTE Request for Kadence, Ascend,…](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-kadence-ascend/)
-- [PTE Request for ElemensKit, MetForm &amp; ShopEngine](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-elemenskit-metform-shopengine/)
 <!-- POLYGLOTS:END -->
 
 ## Support
