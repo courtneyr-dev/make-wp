@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [World Wide Web Day is Coming and WP Briefing Wants You!](https://make.wordpress.org/community/2022/07/07/world-wide-web-day-is-coming-and-wp-briefing-wants-you/)
 - [Community Team Meeting Agenda 7 July 2022](https://make.wordpress.org/community/2022/07/06/community-team-meeting-agenda-7-july-2022/)
 - [5th biweekly APAC #WPDiversity Network Building &lpar;July 14, 2022&rpar;](https://make.wordpress.org/community/2022/07/04/5th-biweekly-apac-wpdiversity-network-building-july-7-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 22, 2022](https://make.wordpress.org/community/2022/06/30/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-22-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcement: Reactivating Meetup Venue Support Funds](https://make.wordpress.org/community/2022/06/22/announcement-reactivating-meetup-venue-support-funds/)
 - [4th biweekly APAC #WPDiversity Network Building &lpar;June 23, 2022&rpar;](https://make.wordpress.org/community/2022/06/20/4th-biweekly-apac-wpdiversity-network-building-june-23-2022/)
 - [Monthly Deputy / Organizer Training and Mini Sprints](https://make.wordpress.org/community/2022/06/18/monthly-deputy-organizer-training-and-mini-sprints/)
-- [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts-2/)
 <!-- COMMUNITY:END -->
 
 ## Meta
