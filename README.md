@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/hosting/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [Plan for adding WebP &amp; multiple MIME support for images](https://make.wordpress.org/hosting/2022/07/01/plan-for-adding-webp-multiple-mime-support-for-images/)
 - [WordCamp Europe 2022 Contributor Day: Summary](https://make.wordpress.org/hosting/2022/06/06/wordcamp-europe-2022-contributor-day-summary/)
 - [WordCamp Europe 2022 Contributor Day](https://make.wordpress.org/hosting/2022/05/31/wordcamp-europe-2022-contributor-day/)
@@ -348,7 +349,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 5.9 and PHP 8.0-8.1](https://make.wordpress.org/hosting/2022/01/10/wordpress-5-9-and-php-8-0-8-1/)
 - [Hosting Team Reps 2022](https://make.wordpress.org/hosting/2022/01/09/hosting-team-reps-2022/)
 - [WordPress Hosting Team 2021 Summary](https://make.wordpress.org/hosting/2022/01/09/wordpress-hosting-team-2021-summary/)
-- [Nominations for Hosting Team Reps 2022](https://make.wordpress.org/hosting/2021/10/30/nominations-for-hosting-team-reps-2022/)
 <!-- HOSTING:END -->
 
 ## Tide
