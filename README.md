@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Call for Supporters: Reactivating WordPress Meetups Around the World!](https://make.wordpress.org/community/2022/07/08/call-for-supporters-reactivating-wordpress-meetups-around-the-world/)
 - [Covid Prevention Stickers](https://make.wordpress.org/community/2022/07/08/covid-prevention-stickers/)
 - [Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/community/2022/07/07/wcus2022-contributor-team-signup/)
 - [World Wide Web Day is Coming and WP Briefing Wants You!](https://make.wordpress.org/community/2022/07/07/world-wide-web-day-is-coming-and-wp-briefing-wants-you/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for Translators: 2021-2022 Annual Meetup Surveys](https://make.wordpress.org/community/2022/06/24/call-for-translators-2021-2022-annual-meetup-surveys/)
 - [Meetup Organizer Newsletter: June 2022](https://make.wordpress.org/community/2022/06/24/monthly-organizer-newsletter-june-2022/)
 - [Recap: Community Deputy Training – All About Community Deputies](https://make.wordpress.org/community/2022/06/23/recap-community-deputy-training-all-about-community-deputies/)
-- [Announcement: Reactivating Meetup Venue Support Funds](https://make.wordpress.org/community/2022/06/22/announcement-reactivating-meetup-venue-support-funds/)
 <!-- COMMUNITY:END -->
 
 ## Meta
