@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a paid newsletter subscription in WordPress](https://wordpress.tv/2022/07/08/creating-a-paid-newsletter-subscription-in-wordpress/)
+- [Sofie Couwenbergh: How to create clear briefings for posts that’ll rank](https://wordpress.tv/2022/07/08/sofie-couwenbergh-how-to-create-clear-briefings-for-posts-thatll-rank/)
 - [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 - [User Management](https://wordpress.tv/2022/07/06/user-management/)
 - [Design With Me: Create a WordPress Blog of Your Own](https://wordpress.tv/2022/07/06/design-with-me-create-a-wordpress-blog-of-your-own/)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introdução a visualização em lista](https://wordpress.tv/2022/06/27/introducao-a-visualizacao-em-lista/)
 - [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
 - [Live Studio: Takis Bouyouris interviewing WCEU Local Team: José Freitas and Marco Pereirinha](https://wordpress.tv/2022/06/27/live-studio-takis-bouyouris-interviewing-wceu-local-team-jose-freitas-and-marco-pereirinha/)
-- [Leo Postovoit: The Real Impact of Having Website Performance as a Mindset](https://wordpress.tv/2022/06/27/the-real-impact-of-having-website-performance-as-a-mindset/)
-- [Greg Ziolkowski: Level Up Block Building Skills](https://wordpress.tv/2022/06/26/greg-ziolkowski-level-up-block-building-skills/)
 <!-- WPTV:END -->
 
 ## Marketing
