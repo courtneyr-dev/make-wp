@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for moneytigo](https://make.wordpress.org/polyglots/2022/07/10/pte-request-for-moneytigo/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/polyglots/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [PTE Request for Any Post Slider](https://make.wordpress.org/polyglots/2022/07/07/pte-request-for-any-post-slider/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/07/06/i-am-the-plugin-author-28/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for iubenda plugin](https://make.wordpress.org/polyglots/2022/07/05/pte-request-for-iubenda-plugin/)
 - [PTE Request for the Dynamic Year Block plugin](https://make.wordpress.org/polyglots/2022/07/03/pte-request-for-the-dynamic-year-block-plugin/)
 - [Hi Polyglots people,](https://make.wordpress.org/polyglots/2022/06/30/hi-polyglots-people/)
-- [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-several-plugins-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
