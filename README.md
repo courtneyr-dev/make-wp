@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots, I ‘m the…](https://make.wordpress.org/polyglots/2022/07/11/hello-polyglots-i-m-the-8/)
 - [PTE Request for moneytigo](https://make.wordpress.org/polyglots/2022/07/10/pte-request-for-moneytigo/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/polyglots/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [PTE Request for Any Post Slider](https://make.wordpress.org/polyglots/2022/07/07/pte-request-for-any-post-slider/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Weekly Polyglots Chat – July. 6, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/07/06/weekly-polyglots-chat-july-6-2022-1300-utc/)
 - [PTE Request for iubenda plugin](https://make.wordpress.org/polyglots/2022/07/05/pte-request-for-iubenda-plugin/)
 - [PTE Request for the Dynamic Year Block plugin](https://make.wordpress.org/polyglots/2022/07/03/pte-request-for-the-dynamic-year-block-plugin/)
-- [Hi Polyglots people,](https://make.wordpress.org/polyglots/2022/06/30/hi-polyglots-people/)
 <!-- POLYGLOTS:END -->
 
 ## Support
