@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress packages publish to npm every two weeks](https://make.wordpress.org/core/2022/07/12/wordpress-packages-publish-to-npm-every-two-weeks/)
 - [A Week in Core – July 11, 2022](https://make.wordpress.org/core/2022/07/11/a-week-in-core-july-11-2022/)
 - [Performance Chat Agenda: 11 July 2022](https://make.wordpress.org/core/2022/07/11/performance-chat-agenda-11-july-2022/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/core/2022/07/07/xpost-wcus2022-contributor-team-signup/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposed Editorial Process for the new Developer Blog](https://make.wordpress.org/core/2022/07/06/proposed-editorial-process-for-the-new-developer-blog/)
 - [Devchat agenda, July 6, 2022](https://make.wordpress.org/core/2022/07/05/devchat-agenda-july-6-2022/)
 - [X-post: Proposal for a WordPress plugin checker](https://make.wordpress.org/core/2022/07/05/xpost-proposal-for-a-wordpress-plugin-checker/)
-- [WordPress 6.0.1 RC 1 is now available](https://make.wordpress.org/core/2022/07/05/wordpress-6-0-1-rc-1-is-now-available/)
 <!-- CORE:END -->
 
 ## Design
