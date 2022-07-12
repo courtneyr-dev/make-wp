@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/test/2022/07/12/xpost-rollback-feature-testing-call-to-action/)
 - [X-post: Call for Testing: WordPress for iOS 20.3](https://make.wordpress.org/test/2022/07/12/xpost-call-for-testing-wordpress-for-ios-20-3/)
 - [X-post: Call for Testing: WordPress for Android 20.3](https://make.wordpress.org/test/2022/07/12/xpost-call-for-testing-wordpress-for-android-20-3/)
 - [FSE Program Pattern and Template Part Usability Testing Summary](https://make.wordpress.org/test/2022/07/12/fse-program-pattern-and-template-part-usability-testing-summary/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/test/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: Test Team Update – 5 July 2022](https://make.wordpress.org/test/2022/07/05/xpost-test-team-update-5-july-2022/)
 - [Hallway Hangout: Discussion on Full Site Editing visions and plans &lpar;30 June&rpar;](https://make.wordpress.org/test/2022/06/30/hallway-hangout-discussion-on-full-site-editing-visions-and-plans-30-june/)
-- [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/test/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 <!-- TEST:END -->
 
 ## TV
