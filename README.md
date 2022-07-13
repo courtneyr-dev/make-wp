@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How To Join the WordPress Training Team: Our Workflows](https://learn.wordpress.org/?meeting=how-to-join-the-wordpress-training-team-our-workflows)
 - [The ABCs of Blogging: Advanced Blogging &lpar;Part Two&rpar;](https://learn.wordpress.org/?meeting=the-abcs-of-blogging-advanced-blogging-and-setting-up-archive-pages-part-two)
 - [The ABCs of Blogging: Basic Blogging &lpar;Part One&rpar;](https://learn.wordpress.org/?meeting=the-abcs-of-blogging-basic-blogging-part-one)
 - [Builder Basics: Designing Advanced Layouts with Core Blocks](https://learn.wordpress.org/?meeting=builder-basics-designing-advanced-layouts-with-core-blocks)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Creating your first WordPress Child Theme](https://learn.wordpress.org/?meeting=lets-code-creating-your-first-wordpress-child-theme)
 - [Contribute With Me: Build a WordPress Lesson Plan Together](https://learn.wordpress.org/?meeting=contribute-with-me-build-a-wordpress-lesson-plan-together)
 - [Your First Ecommerce Website](https://learn.wordpress.org/?meeting=your-first-ecommerce-website)
-- [Explore the Template Editor](https://learn.wordpress.org/?meeting=explore-the-template-editor)
 <!-- SLS:END -->
 
 ## Test
