@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello, I wanted you to…](https://make.wordpress.org/polyglots/2022/07/12/hello-i-wanted-you-to/)
+- [Weekly Polyglots Chat – Jul. 13, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/07/12/weekly-polyglots-chat-jul-13-2022-700-utc/)
 - [PTE Request for 3CX Live Chat](https://make.wordpress.org/polyglots/2022/07/12/pte-request-for-3cx-live-chat/)
 - [Brizy Page Builder translations](https://make.wordpress.org/polyglots/2022/07/12/brizy-page-builder-translations-2/)
 - [PTE Request for cms-tree-page-view](https://make.wordpress.org/polyglots/2022/07/11/pte-request-for-cms-tree-page-view/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for moneytigo](https://make.wordpress.org/polyglots/2022/07/10/pte-request-for-moneytigo/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/polyglots/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [PTE Request for Any Post Slider](https://make.wordpress.org/polyglots/2022/07/07/pte-request-for-any-post-slider/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2022/07/06/i-am-the-plugin-author-28/)
-- [PTE Request for Our Below Plugins](https://make.wordpress.org/polyglots/2022/07/06/pte-request-for-our-below-plugins/)
 <!-- POLYGLOTS:END -->
 
 ## Support
