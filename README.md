@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Exchange Rates [exchange-rates]](https://make.wordpress.org/polyglots/2022/07/13/exchange-rates-exchange-rates/)
 - [Hello, I wanted you to…](https://make.wordpress.org/polyglots/2022/07/12/hello-i-wanted-you-to/)
 - [Weekly Polyglots Chat – Jul. 13, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/07/12/weekly-polyglots-chat-jul-13-2022-700-utc/)
 - [PTE Request for 3CX Live Chat](https://make.wordpress.org/polyglots/2022/07/12/pte-request-for-3cx-live-chat/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots, I ‘m the…](https://make.wordpress.org/polyglots/2022/07/11/hello-polyglots-i-m-the-8/)
 - [PTE Request for moneytigo](https://make.wordpress.org/polyglots/2022/07/10/pte-request-for-moneytigo/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/polyglots/2022/07/07/xpost-wcus2022-contributor-team-signup/)
-- [PTE Request for Any Post Slider](https://make.wordpress.org/polyglots/2022/07/07/pte-request-for-any-post-slider/)
 <!-- POLYGLOTS:END -->
 
 ## Support
