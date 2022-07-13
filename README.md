@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introdução ao Editor de Site e ao Editor de Modelos](https://wordpress.tv/2022/07/13/introducao-ao-editor-de-site-e-ao-editor-de-modelos/)
+- [Como criar um post ou página com o editor de blocos WordPress](https://wordpress.tv/2022/07/13/como-criar-um-post-ou-pagina-com-o-editor-de-blocos-wordpress/)
 - [Maciek Palmowski: Deploying WordPress with confidence using CI/CD](https://wordpress.tv/2022/07/13/maciek-palmowski-deploying-wordpress-with-confidence-using-ci-cd/)
 - [Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
 - [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Daisy Olsen: Extending the WordPress Block Editor](https://wordpress.tv/2022/07/01/daisy-olsen-extending-the-wordpress-block-editor/)
 - [Vassilena Valchanova: Building data-driven content personas](https://wordpress.tv/2022/07/01/vassilena-valchanova-building-data-driven-content-personas/)
 - [Laurent Maillard: Agile marketing – how we made our agency a better place](https://wordpress.tv/2022/07/01/laurent-maillard-agile-marketing-how-we-made-our-agency-a-better-place/)
-- [Marco Berrocal: WP_Query: The power of flexibility](https://wordpress.tv/2022/07/01/marco-berrocal-wp_query-the-power-of-flexibility/)
-- [Nate Finch: Using WordPress as an API](https://wordpress.tv/2022/07/01/nate-finch-using-wordpress-as-an-api/)
 <!-- WPTV:END -->
 
 ## Marketing
