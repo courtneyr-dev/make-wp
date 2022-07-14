@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – July 12 / July 14](https://make.wordpress.org/training/2022/07/14/training-team-meeting-recap-july-12-july-14/)
 - [Community Course Creation: A Proposal](https://make.wordpress.org/training/2022/07/12/community-course-creation-a-proposal/)
 - [Meeting Agenda July 12 – 14, 2022](https://make.wordpress.org/training/2022/07/12/meeting-agenda-july-12-14-2022/)
 - [Exploring WordPress Certifications](https://make.wordpress.org/training/2022/07/11/exploring-wordpress-certifications/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – June 28 &amp; 30](https://make.wordpress.org/training/2022/07/04/training-team-meeting-recap-june-28-30/)
 - [Meeting Agenda for July 5 – 7, 2022](https://make.wordpress.org/training/2022/07/04/meeting-agenda-for-july-5-7-2022/)
 - [Discussion: Naming content types on Learn WordPress](https://make.wordpress.org/training/2022/07/03/discussion-naming-content-types-on-learn-wordpress/)
-- [Social Learning Spaces on Learn WordPress](https://make.wordpress.org/training/2022/07/01/social-learning-spaces-on-learn-wordpress/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
