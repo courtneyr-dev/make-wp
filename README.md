@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Backend Developer &lpar; WordPress, WooCommerce, Laravel &rpar;](https://jobs.wordpress.net/job/senior-backend-developer-wordpress-woocommerce-laravel-3/)
 - [Design WordPress + Woo e-site](https://jobs.wordpress.net/job/design-wordpress-woo-e-site/)
 - [Woocommerce Consulting, Design, Theme, SEO, Google Ads, SEO](https://jobs.wordpress.net/job/woocommerce-consulting-design-theme-seo-google-ads-seo/)
 - [Web/WordPress Developer &lpar;remote&rpar;](https://jobs.wordpress.net/job/web-wordpress-developer-remote/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer &amp; Support Specialist](https://jobs.wordpress.net/job/wordpress-developer-support-specialist-3/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-36/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-23/)
-- [[LifterLMS] Senior WordPress Developer](https://jobs.wordpress.net/job/lifterlms-senior-wordpress-developer/)
 <!-- JOBS:END -->
 
 ## Central
