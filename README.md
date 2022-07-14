@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Jonathan Wold: Growing in WordPress through partnerships](https://wordpress.tv/2022/07/14/jonathan-wold-growing-in-wordpress-through-partnerships/)
 - [Victor Santoyo: Security lessons learned from 2021](https://wordpress.tv/2022/07/13/victor-santoyo-security-lessons-learned-from-2021/)
 - [Vito Peleg: Why does a 5d build become a 4-6w project with clients?](https://wordpress.tv/2022/07/13/vito-peleg-why-does-a-5d-build-become-a-4-6w-project-with-clients/)
 - [Introdução ao Editor de Site e ao Editor de Modelos](https://wordpress.tv/2022/07/13/introducao-ao-editor-de-site-e-ao-editor-de-modelos/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live Studio. Evangelia Pappa interviewing Serbian Community: Nemanja Cimbaljevic, Milana Cap and Mil](https://wordpress.tv/2022/07/03/live-studio-serbian-community/)
 - [José Ramón Padrón, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing Spanish Community: José Ramón Padrón](https://wordpress.tv/2022/07/03/jose-ramon-padron-evangelia-pappa-live-studio-evangelia-pappa-interviewing-spanish-community-jose-ramon-padron/)
 - [Paul Bearne: Finding your WordPress lifestyle – insider insights from a veteran coder](https://wordpress.tv/2022/07/03/paul-bearne-finding-your-wordpress-lifestyle-insider-insights-from-a-veteran-coder/)
-- [Daisy Olsen: Extending the WordPress Block Editor](https://wordpress.tv/2022/07/01/daisy-olsen-extending-the-wordpress-block-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
