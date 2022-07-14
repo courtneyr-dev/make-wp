@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Power Up With Free Wireframe Templates And Advanced Blocks](https://learn.wordpress.org/?meeting=power-up-with-free-wireframe-templates-and-advanced-blocks)
 - [Optimizing your images for WordPress](https://learn.wordpress.org/?meeting=optimizing-your-images-for-wordpress)
 - [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required-part-2)
 - [Curating the Editor Experience](https://learn.wordpress.org/?meeting=curating-the-editor-experience)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Designing Advanced Layouts with Core Blocks](https://learn.wordpress.org/?meeting=builder-basics-designing-advanced-layouts-with-core-blocks)
 - [Styling your site with global styles](https://learn.wordpress.org/?meeting=styling-your-site-with-global-styles)
 - [Writing content with the 10 Text blocks](https://learn.wordpress.org/?meeting=writing-content-with-the-10-text-blocks)
-- [Let’s code! Creating your first WordPress Child Theme](https://learn.wordpress.org/?meeting=lets-code-creating-your-first-wordpress-child-theme-2)
 <!-- SLS:END -->
 
 ## Test
