@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Explore the Block Directory](https://wordpress.tv/2022/07/15/explore-the-block-directory/)
 - [Nev Harris: Secrets to profitably pricing recurring revenue](https://wordpress.tv/2022/07/14/nev-harris-secrets-to-profitably-pricing-recurring-revenue/)
 - [Darren Ethier: The future of commerce in WordPress with Full Site Editing](https://wordpress.tv/2022/07/14/darren-ethier-the-future-of-commerce-in-wordpress-with-full-site-editing/)
 - [Dave Lockie: WordPress and web3 trends &lpar;disruption, challenges, opportunities&rpar;](https://wordpress.tv/2022/07/14/dave-lockie-wordpress-and-web3-trends-disruption-challenges-opportunities/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 - [User Management](https://wordpress.tv/2022/07/06/user-management/)
 - [Design With Me: Create a WordPress Blog of Your Own](https://wordpress.tv/2022/07/06/design-with-me-create-a-wordpress-blog-of-your-own/)
-- [Yvette Sonneveld, Santana Inniss: Live Studio: Sjoerd Blom interviewing WCEU Attendees: Yvette Sonneveld and Santana Inniss](https://wordpress.tv/2022/07/03/yvette-sonneveld-santana-inniss-live-studio-sjoerd-blom-interviewing-wceu-attendees-yvette-sonneveld-and-santana-inniss/)
 <!-- WPTV:END -->
 
 ## Marketing
