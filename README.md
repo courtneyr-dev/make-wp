@@ -213,16 +213,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [WordPress Action Hooks](https://learn.wordpress.org/workshop/wordpress-action-hooks/)
-- [User Management](https://learn.wordpress.org/workshop/user-management-2/)
-- [Using Schema with WordPress theme.json](https://learn.wordpress.org/workshop/using-schema-with-wordpress-theme-json/)
-- [Anatomy of a Block Theme](https://learn.wordpress.org/workshop/anatomy-of-a-block-theme/)
-- [Choosing and Installing Theme](https://learn.wordpress.org/workshop/choosing-and-installing-theme/)
-- [Creating a Front Page for a Block Theme](https://learn.wordpress.org/workshop/creating-a-front-page-for-a-block-theme/)
-- [Creating Custom Post Types Without Code](https://learn.wordpress.org/workshop/creating-custom-post-types-without-code/)
-- [Managing Updates](https://learn.wordpress.org/workshop/managing-updates/)
-- [Getting to know the WordPress Dashboard](https://learn.wordpress.org/workshop/getting-to-know-the-wordpress-dashboard/)
-- [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/workshop/understanding-the-page-editor-vs-site-editor/)
+- [WordPress Action Hooks](https://learn.wordpress.org/tutorial/wordpress-action-hooks/)
+- [User Management](https://learn.wordpress.org/tutorial/user-management-2/)
+- [Using Schema with WordPress theme.json](https://learn.wordpress.org/tutorial/using-schema-with-wordpress-theme-json/)
+- [Anatomy of a Block Theme](https://learn.wordpress.org/tutorial/anatomy-of-a-block-theme/)
+- [Choosing and Installing Theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
+- [Creating a Front Page for a Block Theme](https://learn.wordpress.org/tutorial/creating-a-front-page-for-a-block-theme/)
+- [Creating Custom Post Types Without Code](https://learn.wordpress.org/tutorial/creating-custom-post-types-without-code/)
+- [Managing Updates](https://learn.wordpress.org/tutorial/managing-updates/)
+- [Getting to know the WordPress Dashboard](https://learn.wordpress.org/tutorial/getting-to-know-the-wordpress-dashboard/)
+- [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/tutorial/understanding-the-page-editor-vs-site-editor/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
