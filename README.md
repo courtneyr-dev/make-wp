@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Block Theme Development Course – Update](https://make.wordpress.org/training/2022/07/15/block-theme-development-course-update/)
 - [Brainstorming: Best practices for hosting Online Workshops](https://make.wordpress.org/training/2022/07/15/brainstorming-best-practices-for-hosting-online-workshops/)
 - [Training Team Meeting Recap – July 12 / July 14](https://make.wordpress.org/training/2022/07/14/training-team-meeting-recap-july-12-july-14/)
 - [Community Course Creation: A Proposal](https://make.wordpress.org/training/2022/07/12/community-course-creation-a-proposal/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/training/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [GitHub Automation Download Meeting Recap](https://make.wordpress.org/training/2022/07/06/github-automation-download-meeting-recap/)
 - [Training Team Meeting Recap – June 28 &amp; 30](https://make.wordpress.org/training/2022/07/04/training-team-meeting-recap-june-28-30/)
-- [Meeting Agenda for July 5 – 7, 2022](https://make.wordpress.org/training/2022/07/04/meeting-agenda-for-july-5-7-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
