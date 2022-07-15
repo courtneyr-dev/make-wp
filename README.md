@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: What’s new on LearnWP in July 2022](https://make.wordpress.org/support/2022/07/xpost-whats-new-on-learnwp-in-july-2022/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/support/2022/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/support/2022/06/xpost-whats-new-on-learnwp-in-may-2022/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/support/2022/05/xpost-announcement-incident-response-training/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/support/2022/04/xpost-proposal-make-wordpress-team-or-project-updates/)
 - [Off forum support requests](https://make.wordpress.org/support/2022/04/off-forum-support-requests/)
 - [Agenda for the April 21 2022 support meeting](https://make.wordpress.org/support/2022/04/agenda-for-the-april-21-2022-support-meeting/)
-- [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/support/2022/04/xpost-whats-new-on-learnwp-in-march-2022/)
 <!-- SUPPORT:END -->
 
 ## Documentation
