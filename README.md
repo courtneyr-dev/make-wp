@@ -3,16 +3,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 19 July 2022](https://make.wordpress.org/core/2022/07/18/performance-chat-agenda-19-july-2022/)
 - [Editor chat summary: 13 July, 2022](https://make.wordpress.org/core/2022/07/14/editor-chat-summary-13-july-2022/)
 - [Summary, Dev Chat, July 13, 2022](https://make.wordpress.org/core/2022/07/14/summary-dev-chat-july-13-2022/)
 - [Proposal: Persistent Object Cache and Full Page Cache Site Health Checks](https://make.wordpress.org/core/2022/07/13/proposal-persistent-object-cache-and-full-page-cache-site-health-checks/)
 - [Editor chat summary: Wednesday, 06 July 2022](https://make.wordpress.org/core/2022/07/13/editor-chat-summary-wednesday-06-july-2022/)
 - [Dev chat agenda for July 13, 2022](https://make.wordpress.org/core/2022/07/12/devchat-agenda-for-july-13-2022/)
-- [Performance team meeting summary 11 July 2022](https://make.wordpress.org/core/2022/07/12/performance-team-meeting-summary-11-july-2022/)
+- [Performance team meeting summary 12 July 2022](https://make.wordpress.org/core/2022/07/12/performance-team-meeting-summary-12-july-2022/)
 - [Editor Chat Agenda: 13 July 2022](https://make.wordpress.org/core/2022/07/12/editor-chat-agenda-13-july-2022/)
 - [WordPress packages publish to npm every two weeks](https://make.wordpress.org/core/2022/07/12/wordpress-packages-publish-to-npm-every-two-weeks/)
 - [A Week in Core – July 11, 2022](https://make.wordpress.org/core/2022/07/11/a-week-in-core-july-11-2022/)
-- [Performance Chat Agenda: 11 July 2022](https://make.wordpress.org/core/2022/07/11/performance-chat-agenda-11-july-2022/)
 <!-- CORE:END -->
 
 ## Design
