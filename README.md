@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shipping Simulator for WooCommerce](https://make.wordpress.org/polyglots/2022/07/19/pte-request-for-shipping-simulator-for-woocommerce/)
 - [Hello, I wanted you to…](https://make.wordpress.org/polyglots/2022/07/19/hello-i-wanted-you-to-3/)
 - [Translation review Request for Qi theme](https://make.wordpress.org/polyglots/2022/07/18/translation-review-request-for-qi-theme/)
 - [PTE Request for Infocob CRM Products](https://make.wordpress.org/polyglots/2022/07/18/pte-request-for-infocob-crm-products-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE request for iutepay plugin](https://make.wordpress.org/polyglots/2022/07/14/clpte-request-for-iutepay-plugin/)
 - [CLPTE Request](https://make.wordpress.org/polyglots/2022/07/14/clpte-request-6/)
 - [PTE R…](https://make.wordpress.org/polyglots/2022/07/13/pte-r-6/)
-- [Exchange Rates [exchange-rates]](https://make.wordpress.org/polyglots/2022/07/13/exchange-rates-exchange-rates/)
 <!-- POLYGLOTS:END -->
 
 ## Support
