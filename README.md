@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Deputy / Organizer Training: Vetting WordCamps](https://make.wordpress.org/community/2022/07/19/deputy-organizer-training-vetting-wordcamps/)
 - [X-post: What’s new on LearnWP in July 2022](https://make.wordpress.org/community/2022/07/15/xpost-whats-new-on-learnwp-in-july-2022/)
 - [Call for Supporters: Reactivating WordPress Meetups Around the World!](https://make.wordpress.org/community/2022/07/08/call-for-supporters-reactivating-wordpress-meetups-around-the-world/)
 - [Covid Prevention Stickers](https://make.wordpress.org/community/2022/07/08/covid-prevention-stickers/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [5th biweekly APAC #WPDiversity Network Building &lpar;July 14, 2022&rpar;](https://make.wordpress.org/community/2022/07/04/5th-biweekly-apac-wpdiversity-network-building-july-7-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 22, 2022](https://make.wordpress.org/community/2022/06/30/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-22-2022/)
 - [Call for Translators: 2021-2022 Annual Meetup Surveys](https://make.wordpress.org/community/2022/06/24/call-for-translators-2021-2022-annual-meetup-surveys/)
-- [Meetup Organizer Newsletter: June 2022](https://make.wordpress.org/community/2022/06/24/monthly-organizer-newsletter-june-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
