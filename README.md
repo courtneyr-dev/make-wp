@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [WordPress Filter Hooks](https://learn.wordpress.org/tutorial/wordpress-filter-hooks/)
 - [Horizontal Pyramid Gallery](https://learn.wordpress.org/tutorial/horizontal-pyramid-gallery/)
 - [WordPress Action Hooks](https://learn.wordpress.org/tutorial/wordpress-action-hooks/)
 - [User Management](https://learn.wordpress.org/tutorial/user-management-2/)
@@ -222,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a Front Page for a Block Theme](https://learn.wordpress.org/tutorial/creating-a-front-page-for-a-block-theme/)
 - [Creating Custom Post Types Without Code](https://learn.wordpress.org/tutorial/creating-custom-post-types-without-code/)
 - [Managing Updates](https://learn.wordpress.org/tutorial/managing-updates/)
-- [Getting to know the WordPress Dashboard](https://learn.wordpress.org/tutorial/getting-to-know-the-wordpress-dashboard/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
