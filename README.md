@@ -241,8 +241,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=theme-development-workflows-for-different-types-of-developers)
 - [Let’s code! Creating your first WordPress Plugin](https://learn.wordpress.org/?meeting=lets-code-creating-your-first-wordpress-plugin)
-- [Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=19634)
+- [[CANCELED – Moved to July 28] Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=19634)
 - [Power Up With Free Wireframe Templates And Advanced Blocks](https://learn.wordpress.org/?meeting=power-up-with-free-wireframe-templates-and-advanced-blocks)
 - [Optimizing your images for WordPress](https://learn.wordpress.org/?meeting=optimizing-your-images-for-wordpress)
 - [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required-part-2)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How To Join the WordPress Training Team: Our Workflows](https://learn.wordpress.org/?meeting=how-to-join-the-wordpress-training-team-our-workflows)
 - [The ABCs of Blogging: Advanced Blogging &lpar;Part Two&rpar;](https://learn.wordpress.org/?meeting=the-abcs-of-blogging-advanced-blogging-and-setting-up-archive-pages-part-two)
 - [The ABCs of Blogging: Basic Blogging &lpar;Part One&rpar;](https://learn.wordpress.org/?meeting=the-abcs-of-blogging-basic-blogging-part-one)
-- [Builder Basics: Designing Advanced Layouts with Core Blocks](https://learn.wordpress.org/?meeting=builder-basics-designing-advanced-layouts-with-core-blocks)
 <!-- SLS:END -->
 
 ## Test
