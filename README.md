@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Devchat agenda, July 20, 2022](https://make.wordpress.org/core/2022/07/20/devchat-agenda-july-20-2022/)
 - [Performance team meeting summary 19 July 2022](https://make.wordpress.org/core/2022/07/19/performance-team-meeting-summary-19-july-2022/)
 - [A Week in Core – July 18, 2022](https://make.wordpress.org/core/2022/07/18/a-week-in-core-july-18-2022/)
 - [Editor Chat Agenda: 20 July 2022](https://make.wordpress.org/core/2022/07/18/editor-chat-agenda-20-july-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Persistent Object Cache and Full Page Cache Site Health Checks](https://make.wordpress.org/core/2022/07/13/proposal-persistent-object-cache-and-full-page-cache-site-health-checks/)
 - [Editor chat summary: Wednesday, 06 July 2022](https://make.wordpress.org/core/2022/07/13/editor-chat-summary-wednesday-06-july-2022/)
 - [Dev chat agenda for July 13, 2022](https://make.wordpress.org/core/2022/07/12/devchat-agenda-for-july-13-2022/)
-- [Performance team meeting summary 12 July 2022](https://make.wordpress.org/core/2022/07/12/performance-team-meeting-summary-12-july-2022/)
 <!-- CORE:END -->
 
 ## Design
