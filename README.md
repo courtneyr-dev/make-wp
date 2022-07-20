@@ -157,7 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
-- [Deputy / Organizer Training: Vetting WordCamps](https://make.wordpress.org/community/2022/07/19/deputy-organizer-training-vetting-wordcamps/)
+- [Deputy / Organizer Training: Meetup/WordCamp Application Vetting](https://make.wordpress.org/community/2022/07/19/deputy-organizer-training-vetting-wordcamps/)
 - [X-post: What’s new on LearnWP in July 2022](https://make.wordpress.org/community/2022/07/15/xpost-whats-new-on-learnwp-in-july-2022/)
 - [Call for Supporters: Reactivating WordPress Meetups Around the World!](https://make.wordpress.org/community/2022/07/08/call-for-supporters-reactivating-wordpress-meetups-around-the-world/)
 - [Covid Prevention Stickers](https://make.wordpress.org/community/2022/07/08/covid-prevention-stickers/)
