@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress block development](https://jobs.wordpress.net/job/wordpress-block-development/)
 - [Sr. Web Developer](https://jobs.wordpress.net/job/sr-web-developer-8/)
 - [Need help modifying plugins and site theme.](https://jobs.wordpress.net/job/need-help-modifying-plugins-and-site-theme/)
 - [[Astra] WordPress Support Manager](https://jobs.wordpress.net/job/astra-wordpress-support-manager/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-763/)
 - [Senior Backend Developer &lpar; WordPress, WooCommerce, Laravel &rpar;](https://jobs.wordpress.net/job/senior-backend-developer-wordpress-woocommerce-laravel-3/)
 - [Design WordPress + Woo e-site](https://jobs.wordpress.net/job/design-wordpress-woo-e-site/)
-- [Woocommerce Consulting, Design, Theme, SEO, Google Ads, SEO](https://jobs.wordpress.net/job/woocommerce-consulting-design-theme-seo-google-ads-seo/)
 <!-- JOBS:END -->
 
 ## Central
