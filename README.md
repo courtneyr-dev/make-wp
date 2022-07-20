@@ -517,6 +517,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## WordPress Foundation
 <!-- WPFoundation:START -->
+- [2022 Kim Parsell Memorial Scholarship Recipients: Margherita Pelonara, Simona Simionato, and Pooja Derashri](https://wordpressfoundation.org/news/2022/2022-kim-parsell-memorial-scholarship-recipients-margherita-pelonara-simona-simionato-and-pooja-derashri/)
 - [The Kim Parsell Memorial Scholarship Returns for WordCamp US 2022](https://wordpressfoundation.org/news/2022/the-kim-parsell-memorial-scholarship-returns-for-wordcamp-us-2022/)
 - [How is open source software good for business?](https://wordpressfoundation.org/news/2022/open-source-software-good-for-business/)
 - [What is the WordPress Foundation and Why Does it Exist?](https://wordpressfoundation.org/news/2022/what-is-the-wordpress-foundation-and-why-does-it-exist/)
@@ -526,5 +527,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcement: In-person do_action hackathons are back!](https://wordpressfoundation.org/news/2021/announcement-in-person-do_action-hackathons-are-back/)
 - [do_action Karnataka 2021: A report](https://wordpressfoundation.org/news/2021/do_action-karnataka-2021-a-report/)
 - [Announcement: Online do_action hackathons in India and Nigeria](https://wordpressfoundation.org/news/2021/announcement-online-do_action-hackathons-in-india-and-nigeria/)
-- [Answering FAQs on WordPress Trademarks and their usage](https://wordpressfoundation.org/news/2021/answering-faqs-on-wordpress-trademarks-and-their-usage/)
 <!-- WPFoundation:END -->
