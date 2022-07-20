@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The ABCs of Blogging: Part One](https://wordpress.tv/2022/07/19/the-abcs-of-blogging-part-one/)
 - [Horizontal Pyramid Gallery](https://wordpress.tv/2022/07/17/horizontal-pyramid-gallery/)
 - [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/17/matt-mullenweg-josepha-haden-in-conversation/)
 - [Mike Crantea: Optimization strategies for the Paint Web Vitals](https://wordpress.tv/2022/07/17/mike-crantea-optimization-strategies-for-the-paint-web-vitals/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
 - [Isotta Peira: Inclusività agli eventi di WordPress](https://wordpress.tv/2022/07/11/isotta-peira-inclusivita-agli-eventi-di-wordpress/)
 - [Let’s code! Creating your first WordPress Child Theme](https://wordpress.tv/2022/07/11/lets-code-creating-your-first-wordpress-child-theme/)
-- [Udo Meisen: Datenschutz Update 2022](https://wordpress.tv/2022/07/10/udo-meisen-datenschutz-update-2022/)
 <!-- WPTV:END -->
 
 ## Marketing
