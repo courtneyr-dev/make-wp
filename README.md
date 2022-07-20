@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Power Up With Free Wireframe Templates And Advanced Blocks](https://wordpress.tv/2022/07/20/power-up-with-free-wireframe-templates-and-advanced-blocks/)
+- [Your First Ecommerce Website – Part 1](https://wordpress.tv/2022/07/20/your-first-ecommerce-website-part-1/)
 - [WordPress Filter Hooks](https://wordpress.tv/2022/07/20/wordpress-filter-hooks/)
 - [Explore the Template Editor](https://wordpress.tv/2022/07/19/explore-the-template-editor/)
 - [The ABCs of Blogging: Part One](https://wordpress.tv/2022/07/19/the-abcs-of-blogging-part-one/)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Como criar um post ou página com o editor de blocos WordPress](https://wordpress.tv/2022/07/13/como-criar-um-post-ou-pagina-com-o-editor-de-blocos-wordpress/)
 - [Maciek Palmowski: Deploying WordPress with confidence using CI/CD](https://wordpress.tv/2022/07/13/maciek-palmowski-deploying-wordpress-with-confidence-using-ci-cd/)
 - [Micah Wood: Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
-- [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
-- [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
 <!-- WPTV:END -->
 
 ## Marketing
