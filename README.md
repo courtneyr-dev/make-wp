@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Urvanov Syntax Highlighter](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-urvanov-syntax-highlighter/)
+- [PTE Request for cms-tree-page-view](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-cms-tree-page-view-2/)
 - [PTE Request for Tainá theme…](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-taina-theme/)
 - [PTE and Review Request](https://make.wordpress.org/polyglots/2022/07/20/pte-and-review-request-2/)
 - [PTE Request for Events Made Easy](https://make.wordpress.org/polyglots/2022/07/20/post-title-pte-request-for-events-made-easy/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Shipping Simulator for WooCommerce](https://make.wordpress.org/polyglots/2022/07/19/pte-request-for-shipping-simulator-for-woocommerce/)
 - [Hello, I wanted you to…](https://make.wordpress.org/polyglots/2022/07/19/hello-i-wanted-you-to-3/)
 - [Translation review Request for Qi theme](https://make.wordpress.org/polyglots/2022/07/18/translation-review-request-for-qi-theme/)
-- [PTE Request for Infocob CRM Products](https://make.wordpress.org/polyglots/2022/07/18/pte-request-for-infocob-crm-products-2/)
-- [Plugin Reviews Plus](https://make.wordpress.org/polyglots/2022/07/14/plugin-reviews-plus/)
 <!-- POLYGLOTS:END -->
 
 ## Support
