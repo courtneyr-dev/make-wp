@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ryan Welcher: Creating a pre-publish checklist for Gutenberg](https://wordpress.tv/2022/07/21/ryan-welcher-creating-a-pre-publish-checklist-for-gutenberg/)
 - [Simon Kraft, Flavia Bernárdez, Ronald Gijsel, Erika Ellacott, Ana Garcia López, Laura Sacco: Building a Sustainable Community through Meetups](https://wordpress.tv/2022/07/21/simon-kraft-flavia-bernardez-ronald-gijsel-erika-ellacott-ana-garcia-lopez-laura-sacco-building-a-sustainable-community-through-meetups/)
 - [Alice Orrù: Copy tips for brilliant alt text and accessible writing](https://wordpress.tv/2022/07/21/alice-orru-copy-tips-for-brilliant-alt-text-and-accessible-writing/)
 - [Creating communities with WordPress multisite](https://wordpress.tv/2022/07/21/creating-communities-with-wordpress-multisite/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dave Lockie: WordPress and web3 trends &lpar;disruption, challenges, opportunities&rpar;](https://wordpress.tv/2022/07/14/dave-lockie-wordpress-and-web3-trends-disruption-challenges-opportunities/)
 - [Felix Arntz: Enhancing performance in an open-source CMS ecosystem](https://wordpress.tv/2022/07/14/felix-arntz-enhancing-performance-in-an-open-source-cms-ecosystem/)
 - [Jonathan Wold: Growing in WordPress through partnerships](https://wordpress.tv/2022/07/14/jonathan-wold-growing-in-wordpress-through-partnerships/)
-- [Victor Santoyo: Security lessons learned from 2021](https://wordpress.tv/2022/07/13/victor-santoyo-security-lessons-learned-from-2021/)
 <!-- WPTV:END -->
 
 ## Marketing
