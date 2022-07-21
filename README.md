@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [DevOps Engineer](https://jobs.wordpress.net/job/devops-engineer/)
 - [Senior Software Engineer](https://jobs.wordpress.net/job/senior-software-engineer-3/)
 - [WordPress &amp; Shopify Support Specialist](https://jobs.wordpress.net/job/wordpress-shopify-support-specialist/)
 - [WordPress block development](https://jobs.wordpress.net/job/wordpress-block-development/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Full Stack Software Engineer &lpar;BiblioWeb&rpar;](https://jobs.wordpress.net/job/senior-full-stack-software-engineer-biblioweb/)
 - [Front-end Developer](https://jobs.wordpress.net/job/front-end-developer-46/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-764/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-763/)
 <!-- JOBS:END -->
 
 ## Central
