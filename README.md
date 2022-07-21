@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
 - [Ryan Welcher: Creating a pre-publish checklist for Gutenberg](https://wordpress.tv/2022/07/21/ryan-welcher-creating-a-pre-publish-checklist-for-gutenberg/)
 - [Simon Kraft, Flavia Bernárdez, Ronald Gijsel, Erika Ellacott, Ana Garcia López, Laura Sacco: Building a Sustainable Community through Meetups](https://wordpress.tv/2022/07/21/simon-kraft-flavia-bernardez-ronald-gijsel-erika-ellacott-ana-garcia-lopez-laura-sacco-building-a-sustainable-community-through-meetups/)
 - [Alice Orrù: Copy tips for brilliant alt text and accessible writing](https://wordpress.tv/2022/07/21/alice-orru-copy-tips-for-brilliant-alt-text-and-accessible-writing/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Darren Ethier: The future of commerce in WordPress with Full Site Editing](https://wordpress.tv/2022/07/14/darren-ethier-the-future-of-commerce-in-wordpress-with-full-site-editing/)
 - [Dave Lockie: WordPress and web3 trends &lpar;disruption, challenges, opportunities&rpar;](https://wordpress.tv/2022/07/14/dave-lockie-wordpress-and-web3-trends-disruption-challenges-opportunities/)
 - [Felix Arntz: Enhancing performance in an open-source CMS ecosystem](https://wordpress.tv/2022/07/14/felix-arntz-enhancing-performance-in-an-open-source-cms-ecosystem/)
-- [Jonathan Wold: Growing in WordPress through partnerships](https://wordpress.tv/2022/07/14/jonathan-wold-growing-in-wordpress-through-partnerships/)
 <!-- WPTV:END -->
 
 ## Marketing
