@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Ultimate Sticky…](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-ultimate-sticky/)
+- [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-advanced-images/)
 - [PTE Request for Urvanov Syntax Highlighter](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-urvanov-syntax-highlighter/)
 - [PTE Request for cms-tree-page-view](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-cms-tree-page-view-2/)
 - [PTE Request for Tainá theme…](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-taina-theme/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Weekly Polyglots Chat – Jul. 20, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/07/20/weekly-polyglots-chat-jul-20-2022-1300-utc/)
 - [PTE Request for belingoGeo](https://make.wordpress.org/polyglots/2022/07/20/pte-request-for-belingogeo/)
 - [PTE Request for Shipping Simulator for WooCommerce](https://make.wordpress.org/polyglots/2022/07/19/pte-request-for-shipping-simulator-for-woocommerce/)
-- [Hello, I wanted you to…](https://make.wordpress.org/polyglots/2022/07/19/hello-i-wanted-you-to-3/)
-- [Translation review Request for Qi theme](https://make.wordpress.org/polyglots/2022/07/18/translation-review-request-for-qi-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
