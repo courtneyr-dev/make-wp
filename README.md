@@ -282,6 +282,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bernhard Kau, Taeke Reijenga, Sjoerd Blom: Live Studio, Sjoerd Blom interviewing WCEU Global Leads](https://wordpress.tv/2022/07/22/sjoerd-blom-interviewing-wceu-global-leads/)
+- [Paul Halfpenny, Imran Sayed, Evan Mullins, Ryan Welcher, Juanma Garrido: Lightning talks](https://wordpress.tv/2022/07/22/paul-halfpenny-imran-sayed-evan-mullins-ryan-welcher-juanma-garrido-lightning-talks/)
+- [Closing remarks](https://wordpress.tv/2022/07/22/closing-remarks-2/)
+- [Maja Benke: Accessibility for dyslexia](https://wordpress.tv/2022/07/22/maja-benke-accessibility-for-dyslexia/)
 - [Let’s code! Creating your first WordPress Plugin](https://wordpress.tv/2022/07/22/lets-code-creating-your-first-wordpress-plugin/)
 - [Ivan Popov: How headless WordPress benefits enterprises?](https://wordpress.tv/2022/07/22/ivan-popov-how-headless-wordpress-benefits-enterprises/)
 - [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
@@ -303,10 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adam Silverstein, Justin Ahinon: Optimize your WordPress](https://wordpress.tv/2022/07/17/adam-silverstein-justin-ahinon-optimize-your-wordpress/)
 - [Roberto Remedios: Traducciones en es-cr.wordpress.org](https://wordpress.tv/2022/07/16/roberto-remedios-traducciones-en-es-cr-wordpress-org/)
 - [Nick Diego: Builder Basics – Designing Advanced Layouts with Core Blocks](https://wordpress.tv/2022/07/15/nick-diego-builder-basics-designing-advanced-layouts-with-core-blocks/)
-- [Writing content with the 10 Text blocks](https://wordpress.tv/2022/07/15/writing-content-with-the-10-text-blocks/)
-- [Explore the Block Directory](https://wordpress.tv/2022/07/15/explore-the-block-directory/)
-- [Nev Harris: Secrets to profitably pricing recurring revenue](https://wordpress.tv/2022/07/14/nev-harris-secrets-to-profitably-pricing-recurring-revenue/)
-- [Darren Ethier: The future of commerce in WordPress with Full Site Editing](https://wordpress.tv/2022/07/14/darren-ethier-the-future-of-commerce-in-wordpress-with-full-site-editing/)
 <!-- WPTV:END -->
 
 ## Marketing
