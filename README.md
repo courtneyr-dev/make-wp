@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Polyglots Monthly Newsletter: July 2022](https://make.wordpress.org/polyglots/2022/07/22/polyglots-monthly-newsletter-july-2022/)
 - [PTE Request for Ultimate Sticky…](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-ultimate-sticky/)
 - [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-advanced-images/)
 - [PTE Request for Urvanov Syntax Highlighter](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-urvanov-syntax-highlighter/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Events Made Easy](https://make.wordpress.org/polyglots/2022/07/20/post-title-pte-request-for-events-made-easy/)
 - [Weekly Polyglots Chat – Jul. 20, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/07/20/weekly-polyglots-chat-jul-20-2022-1300-utc/)
 - [PTE Request for belingoGeo](https://make.wordpress.org/polyglots/2022/07/20/pte-request-for-belingogeo/)
-- [PTE Request for Shipping Simulator for WooCommerce](https://make.wordpress.org/polyglots/2022/07/19/pte-request-for-shipping-simulator-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
