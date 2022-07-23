@@ -505,13 +505,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Warsaw, Poland](https://central.wordcamp.org/wordcamps/wordcamp-warsaw-poland-3/)
 - [WordCamp Asia](https://central.wordcamp.org/wordcamps/wordcamp-bangkok-thailand-wordcamp-asia/)
 - [WordCamp Pontevedra](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-pontevedra-spain-2/)
+- [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-seville-spain/)
 - [WordCamp Genève](https://central.wordcamp.org/wordcamps/wordcamp-geneve-suisse/)
 - [WordCamp Athens](https://central.wordcamp.org/wordcamps/wordcamp-athens-attica-greece-2022/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2022/)
 - [WordCamp Vienna, Austria](https://central.wordcamp.org/wordcamps/wordcamp-vienna-austria-3/)
 - [WordCamp Montclair, NJ, USA](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj-usa-5/)
 - [WordCamp Irun](https://central.wordcamp.org/wordcamps/wordcamp-irun-2/)
-- [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-5/)
 - [WordCamp Prague 2022 Live!](https://central.wordcamp.org/wordcamps/wordcamp-prague-2022/)
 <!-- WordCamp:END -->
 
