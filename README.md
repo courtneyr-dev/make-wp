@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Obselling for WordPress / WooCommerce](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-obselling-for-wordpress-woocommerce/)
 - [PTE Request for Fuerte-WP](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-fuerte-wp/)
 - [PTE Request for License Manager for WooCommerce](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-license-manager-for-woocommerce-2/)
 - [PTE Request for WordPress Meta…](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-wordpress-meta/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Ultimate Sticky…](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-ultimate-sticky/)
 - [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-advanced-images/)
 - [PTE Request for Urvanov Syntax Highlighter](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-urvanov-syntax-highlighter/)
-- [PTE Request for cms-tree-page-view](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-cms-tree-page-view-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
