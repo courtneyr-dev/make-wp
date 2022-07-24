@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WordPress Meta…](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-wordpress-meta/)
 - [PTE Request for Aparat for WordPress](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-aparat-for-wordpress/)
 - [PTE Request for WordPress for Android and WordPress for iOS](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-wordpress-for/)
 - [Polyglots Monthly Newsletter: July 2022](https://make.wordpress.org/polyglots/2022/07/22/polyglots-monthly-newsletter-july-2022/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for cms-tree-page-view](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-cms-tree-page-view-2/)
 - [PTE Request for Tainá theme…](https://make.wordpress.org/polyglots/2022/07/21/pte-request-for-taina-theme/)
 - [PTE and Review Request](https://make.wordpress.org/polyglots/2022/07/20/pte-and-review-request-2/)
-- [PTE Request for Events Made Easy](https://make.wordpress.org/polyglots/2022/07/20/post-title-pte-request-for-events-made-easy/)
 <!-- POLYGLOTS:END -->
 
 ## Support
