@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 26 July 2022](https://make.wordpress.org/core/2022/07/25/performance-chat-agenda-26-july-2022/)
 - [Devchat summary, July 20, 2022](https://make.wordpress.org/core/2022/07/22/devchat-summary-july-20-2022/)
 - [Proposal: Add a dominant color background to images.](https://make.wordpress.org/core/2022/07/21/proposal-add-a-dominant-color-background-to-images/)
 - [Editor chat summary: 20 July 2022](https://make.wordpress.org/core/2022/07/21/editor-chat-summary-13-july-2022-2/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Devchat agenda, July 20, 2022](https://make.wordpress.org/core/2022/07/20/devchat-agenda-july-20-2022/)
 - [Performance team meeting summary 19 July 2022](https://make.wordpress.org/core/2022/07/19/performance-team-meeting-summary-19-july-2022/)
 - [A Week in Core – July 18, 2022](https://make.wordpress.org/core/2022/07/18/a-week-in-core-july-18-2022/)
-- [Editor Chat Agenda: 20 July 2022](https://make.wordpress.org/core/2022/07/18/editor-chat-agenda-20-july-2022/)
 <!-- CORE:END -->
 
 ## Design
