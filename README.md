@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Comment  Author Name Block](https://wordpress.org/support/article/comment-author-name-block/)
 - [Comment Date Block](https://wordpress.org/support/article/comment-date-block/)
 - [Read More Block](https://wordpress.org/support/article/read-more-block/)
 - [Site Logo Block](https://wordpress.org/support/article/site-logo-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CSS](https://wordpress.org/support/article/css/)
 - [Wolfram Embed](https://wordpress.org/support/article/wolfram-embed/)
 - [Site Tagline Block](https://wordpress.org/support/article/site-tagline-block/)
-- [Pinterest Embed](https://wordpress.org/support/article/pinterest-embed/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
