@@ -203,12 +203,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Υποβολή Μοτίβων μπλοκ &lpar;Block Patterns&rpar; στον κατάλογο.](https://learn.wordpress.org/lesson-plan/%cf%85%cf%80%ce%bf%ce%b2%ce%bf%ce%bb%ce%ae-%ce%bc%ce%bf%cf%84%ce%af%ce%b2%cf%89%ce%bd-%ce%bc%cf%80%ce%bb%ce%bf%ce%ba-block-patterns-%cf%83%cf%84%ce%bf%ce%bd-%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%ce%bf/)
 - [Πώς να χρησιμοποιήσετε και να συνεισφέρετε στον κατάλογο φωτογραφιών του WordPress αλλά και στο Openverse](https://learn.wordpress.org/lesson-plan/%cf%80%cf%8e%cf%82-%ce%bd%ce%b1-%cf%87%cf%81%ce%b7%cf%83%ce%b9%ce%bc%ce%bf%cf%80%ce%bf%ce%b9%ce%ae%cf%83%ce%b5%cf%84%ce%b5-%ce%ba%ce%b1%ce%b9-%ce%bd%ce%b1-%cf%83%cf%85%ce%bd%ce%b5%ce%b9%cf%83%cf%86/)
 - [Submitting Block Patterns to the Directory](https://learn.wordpress.org/lesson-plan/submitting-block-patterns-to-the-directory/)
+- [What Is W3 Total Cache](https://learn.wordpress.org/lesson-plan/what-is-w3-total-cache/)
 - [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
 - [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
 - [Displaying the Post Comments Block to Block Themes](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
 - [How To Add and Remove Logo And Site Icon in Site Editor](https://learn.wordpress.org/lesson-plan/how-to-add-and-remove-logo-and-site-icon-in-site-editor/)
 - [How to Use and Contribute to the WordPress Photo Directory and Openverse](https://learn.wordpress.org/lesson-plan/how-to-use-and-contribute-to-the-wordpress-photo-directory-and-openverse/)
-- [Templates](https://learn.wordpress.org/lesson-plan/templates/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
