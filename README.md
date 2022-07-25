@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for BookingPress plugin](https://make.wordpress.org/polyglots/2022/07/25/pte-request-for-bookingpress-plugin/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/07/25/ive-suggested-translations-for-this-20/)
 - [PTE Request for Obselling for WordPress / WooCommerce](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-obselling-for-wordpress-woocommerce/)
 - [PTE Request for Fuerte-WP](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-fuerte-wp/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WordPress for Android and WordPress for iOS](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-wordpress-for/)
 - [Polyglots Monthly Newsletter: July 2022](https://make.wordpress.org/polyglots/2022/07/22/polyglots-monthly-newsletter-july-2022/)
 - [PTE Request for Ultimate Sticky…](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-ultimate-sticky/)
-- [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-advanced-images/)
 <!-- POLYGLOTS:END -->
 
 ## Support
