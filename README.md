@@ -465,6 +465,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Weekly WP News Writer](https://jobs.wordpress.net/job/weekly-wp-news-writer/)
+- [Junior WordPress Developer](https://jobs.wordpress.net/job/junior-wordpress-developer-20/)
+- [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-21/)
 - [&lpar;Senior&rpar; WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-91/)
 - [Website Management Specialist](https://jobs.wordpress.net/job/website-management-specialist/)
 - [Mid-Level WordPress Developer](https://jobs.wordpress.net/job/mid-level-wordpress-developer-6/)
@@ -472,9 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-24/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-37/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-18/)
-- [Agile Process Leader &lpar;Scrum Master&rpar;](https://jobs.wordpress.net/job/agile-process-leader-scrum-master-2/)
-- [WordPress Frontend Web Developer](https://jobs.wordpress.net/job/wordpress-frontend-web-developer/)
-- [DevOps Engineer](https://jobs.wordpress.net/job/devops-engineer/)
 <!-- JOBS:END -->
 
 ## Central
