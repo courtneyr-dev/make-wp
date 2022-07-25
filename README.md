@@ -241,6 +241,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-3)
+- [Creating a landing page with a block theme](https://learn.wordpress.org/?meeting=creating-a-landing-page-with-a-block-theme)
 - [Let’s code! Common APIs: Shortcodes](https://learn.wordpress.org/?meeting=lets-code-common-apis-shortcodes)
 - [Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=theme-development-workflows-for-different-types-of-developers)
 - [Let’s code! Creating your first WordPress Plugin](https://learn.wordpress.org/?meeting=lets-code-creating-your-first-wordpress-plugin)
@@ -249,8 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Optimizing your images for WordPress](https://learn.wordpress.org/?meeting=optimizing-your-images-for-wordpress)
 - [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required-part-2)
 - [Curating the Editor Experience](https://learn.wordpress.org/?meeting=curating-the-editor-experience)
-- [How To Join the WordPress Training Team: Our Workflows](https://learn.wordpress.org/?meeting=how-to-join-the-wordpress-training-team-our-workflows)
-- [The ABCs of Blogging: Advanced Blogging &lpar;Part Two&rpar;](https://learn.wordpress.org/?meeting=the-abcs-of-blogging-advanced-blogging-and-setting-up-archive-pages-part-two)
 <!-- SLS:END -->
 
 ## Test
