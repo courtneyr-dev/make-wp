@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Comment Date Block](https://wordpress.org/support/article/comment-date-block/)
 - [Read More Block](https://wordpress.org/support/article/read-more-block/)
 - [Site Logo Block](https://wordpress.org/support/article/site-logo-block/)
 - [Site Title Block](https://wordpress.org/support/article/site-title-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Wolfram Embed](https://wordpress.org/support/article/wolfram-embed/)
 - [Site Tagline Block](https://wordpress.org/support/article/site-tagline-block/)
 - [Pinterest Embed](https://wordpress.org/support/article/pinterest-embed/)
-- [Submit your Block Pattern to the Directory](https://wordpress.org/support/article/submit-your-block-pattern-to-the-directory/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
