@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [IXR_Base64::IXR_Base64&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/ixr_base64/)
-- [IXR_Base64::getXml&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/getxml/)
+- [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
+- [Customize Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-customize-widgets/)
+- [Block directory](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-block-directory/)
+- [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
+- [Rich Text](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-rich-text/)
+- [Edit Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-widgets/)
+- [Preferences](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-preferences/)
+- [Reusable blocks](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-reusable-blocks/)
 - [IXR_Base64::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/__construct/)
-- [IXR_IntrospectionServer::methodHelp&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/methodhelp/)
-- [IXR_Base64](https://developer.wordpress.org/reference/classes/ixr_base64/)
-- [IXR_IntrospectionServer::methodSignature&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/methodsignature/)
-- [IXR_IntrospectionServer::call&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/call/)
-- [IXR_IntrospectionServer::addCallback&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/addcallback/)
-- [IXR_IntrospectionServer::IXR_IntrospectionServer&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/ixr_introspectionserver/)
-- [IXR_IntrospectionServer](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/)
+- [IXR_Base64::IXR_Base64&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/ixr_base64/)
 <!-- DEVHUB:END -->
 
 ## Themes
