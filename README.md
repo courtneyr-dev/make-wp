@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [profileGrid]](https://make.wordpress.org/polyglots/2022/07/26/pte-request-for-profilegrid/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/07/26/ive-suggested-translations-for-this-21/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/07/25/hi-dear-mentors-we-have-90/)
 - [PTE Request for BookingPress plugin](https://make.wordpress.org/polyglots/2022/07/25/pte-request-for-bookingpress-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for License Manager for WooCommerce](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-license-manager-for-woocommerce-2/)
 - [PTE Request for WordPress Meta…](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-wordpress-meta/)
 - [PTE Request for Aparat for WordPress](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-aparat-for-wordpress/)
-- [PTE Request for WordPress for Android and WordPress for iOS](https://make.wordpress.org/polyglots/2022/07/22/pte-request-for-wordpress-for/)
 <!-- POLYGLOTS:END -->
 
 ## Support
