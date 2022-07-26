@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [Locking Blocks in the Full Site Editor](https://learn.wordpress.org/lesson-plan/locking-blocks-in-the-full-site-editor/)
 - [Create a Basic Child Theme for Block Themes](https://learn.wordpress.org/lesson-plan/create-a-basic-child-theme-for-block-themes/)
 - [WebP images in WordPress](https://learn.wordpress.org/lesson-plan/webp-images-in-wordpress/)
 - [Υποβολή Μοτίβων μπλοκ &lpar;Block Patterns&rpar; στον κατάλογο.](https://learn.wordpress.org/lesson-plan/%cf%85%cf%80%ce%bf%ce%b2%ce%bf%ce%bb%ce%ae-%ce%bc%ce%bf%cf%84%ce%af%ce%b2%cf%89%ce%bd-%ce%bc%cf%80%ce%bb%ce%bf%ce%ba-block-patterns-%cf%83%cf%84%ce%bf%ce%bd-%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%ce%bf/)
@@ -208,7 +209,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
 - [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
 - [Displaying the Post Comments Block to Block Themes](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
-- [How To Add and Remove Logo And Site Icon in Site Editor](https://learn.wordpress.org/lesson-plan/how-to-add-and-remove-logo-and-site-icon-in-site-editor/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
