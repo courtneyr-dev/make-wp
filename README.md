@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Joe Campbell: The journey of becoming More Jersey](https://wordpress.tv/2022/07/26/joe-campbell-the-journey-of-becoming-more-jersey/)
 - [Luis Miguel Climent: ¿Tienes que hablar en público? Te doy algunos trucos](https://wordpress.tv/2022/07/25/luis-miguel-climent-tienes-que-hablar-en-publico-te-doy-algunos-trucos/)
 - [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/25/matt-mullenweg-josepha-haden-in-conversation/)
 - [David Viña: Aprende a facer webs con WordPress 6](https://wordpress.tv/2022/07/22/david-vina-aprende-a-facer-webs-con-wordpress-6/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Explore the Template Editor](https://wordpress.tv/2022/07/19/explore-the-template-editor/)
 - [The ABCs of Blogging: Part One](https://wordpress.tv/2022/07/19/the-abcs-of-blogging-part-one/)
 - [Horizontal Pyramid Gallery](https://wordpress.tv/2022/07/17/horizontal-pyramid-gallery/)
-- [Mike Crantea: Optimization strategies for the Paint Web Vitals](https://wordpress.tv/2022/07/17/mike-crantea-optimization-strategies-for-the-paint-web-vitals/)
 <!-- WPTV:END -->
 
 ## Marketing
