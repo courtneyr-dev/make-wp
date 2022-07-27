@@ -311,6 +311,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Agenda: Global WordPress Marketing Meeting, July 27, 2022](https://make.wordpress.org/marketing/2022/07/27/agenda-global-wordpress-marketing-meeting-july-27-2022/)
 - [Notes: Global Marketing Team Meeting, 20 July, 2022](https://make.wordpress.org/marketing/2022/07/25/notes-global-marketing-team-meeting-20-july-2022/)
 - [Agenda: Global Marketing Team Meeting, 20 July 2022](https://make.wordpress.org/marketing/2022/07/20/agenda-global-marketing-team-meeting-20-july-2022/)
 - [Notes: Global Marketing Meeting, July 13, 2022](https://make.wordpress.org/marketing/2022/07/20/notes-global-marketing-meeting-july-13-2022/)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Project Kickoff: WordPress.org Homepage and Download page redesign](https://make.wordpress.org/marketing/2022/07/08/xpost-project-kickoff-wordpress-org-homepage-and-download-page-redesign/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/marketing/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [Agenda: Global Marketing Meeting, July 6, 2022](https://make.wordpress.org/marketing/2022/07/06/agenda-global-marketing-meeting-july-6-2022/)
-- [Notes: Global Marketing Meeting, June 29, 2022](https://make.wordpress.org/marketing/2022/07/04/notes-global-marketing-meeting-june-29-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
