@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
-- [Edit Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-widgets/)
-- [Customize Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-customize-widgets/)
-- [Rich Text](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-rich-text/)
-- [Reusable blocks](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-reusable-blocks/)
 - [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
+- [Customize Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-customize-widgets/)
 - [Block directory](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-block-directory/)
+- [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
+- [Rich Text](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-rich-text/)
+- [Edit Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-widgets/)
 - [Preferences](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-preferences/)
+- [Reusable blocks](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-reusable-blocks/)
+- [IXR_Base64::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/__construct/)
 - [IXR_Base64::IXR_Base64&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/ixr_base64/)
-- [IXR_Base64::getXml&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/getxml/)
 <!-- DEVHUB:END -->
 
 ## Themes
