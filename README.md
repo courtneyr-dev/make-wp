@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Styling your site with global styles](https://wordpress.tv/2022/07/27/styling-your-site-with-global-styles/)
 - [Mel Choyce: Getting creative with block patterns](https://wordpress.tv/2022/07/27/mel-choyce-getting-creative-with-block-patterns/)
 - [Joe Campbell: The journey of becoming More Jersey](https://wordpress.tv/2022/07/26/joe-campbell-the-journey-of-becoming-more-jersey/)
 - [Luis Miguel Climent: ¿Tienes que hablar en público? Te doy algunos trucos](https://wordpress.tv/2022/07/25/luis-miguel-climent-tienes-que-hablar-en-publico-te-doy-algunos-trucos/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Your First Ecommerce Website – Part 1](https://wordpress.tv/2022/07/20/your-first-ecommerce-website-part-1/)
 - [WordPress Filter Hooks](https://wordpress.tv/2022/07/20/wordpress-filter-hooks/)
 - [Explore the Template Editor](https://wordpress.tv/2022/07/19/explore-the-template-editor/)
-- [The ABCs of Blogging: Part One](https://wordpress.tv/2022/07/19/the-abcs-of-blogging-part-one/)
 <!-- WPTV:END -->
 
 ## Marketing
