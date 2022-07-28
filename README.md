@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [JuanKa Díaz, José Conti, Nora Ferreirós, Núria Ramoneda: WP Barcelona Meetup. Nueva localización, nueva temporada](https://wordpress.tv/2022/07/28/juanka-diaz-jose-conti-nora-ferreiros-nuria-ramoneda-wp-barcelona-meetup-nueva-localizacion-nueva-temporada/)
 - [Building a home page with a block theme](https://wordpress.tv/2022/07/27/building-a-home-page-with-a-block-theme/)
 - [The ABCs of Blogging: Advanced Blogging &lpar;Part Two&rpar;](https://wordpress.tv/2022/07/27/the-abcs-of-blogging-advanced-blogging-part-two/)
 - [Styling your site with global styles](https://wordpress.tv/2022/07/27/styling-your-site-with-global-styles/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Milana Cap, David Perez, Wendie Huis in ‘t Veld. Interviewing table leads: Milana Cap and David Perez](https://wordpress.tv/2022/07/21/milana-cap-david-perez-wendie-huis-in-t-veld-interviewing-table-leads-milana-cap-and-david-perez/)
 - [Optimizing your images for WordPress](https://wordpress.tv/2022/07/20/optimizing-your-images-for-wordpress/)
 - [Power Up With Free Wireframe Templates And Advanced Blocks](https://wordpress.tv/2022/07/20/power-up-with-free-wireframe-templates-and-advanced-blocks/)
-- [Your First Ecommerce Website – Part 1](https://wordpress.tv/2022/07/20/your-first-ecommerce-website-part-1/)
 <!-- WPTV:END -->
 
 ## Marketing
