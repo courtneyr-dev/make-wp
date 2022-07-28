@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [An introduction to the 9 Design blocks](https://learn.wordpress.org/?meeting=an-introduction-to-the-9-design-blocks)
 - [The Creative Side of Blocks](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks)
 - [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-3)
 - [Creating a landing page with a block theme](https://learn.wordpress.org/?meeting=creating-a-landing-page-with-a-block-theme)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[CANCELED – Moved to July 28] Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=19634)
 - [Power Up With Free Wireframe Templates And Advanced Blocks](https://learn.wordpress.org/?meeting=power-up-with-free-wireframe-templates-and-advanced-blocks)
 - [Optimizing your images for WordPress](https://learn.wordpress.org/?meeting=optimizing-your-images-for-wordpress)
-- [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required-part-2)
 <!-- SLS:END -->
 
 ## Test
