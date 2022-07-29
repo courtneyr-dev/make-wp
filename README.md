@@ -241,6 +241,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [ブロックエディターでホームページを作ろう！](https://learn.wordpress.org/?meeting=%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81-2)
+- [ブロックエディターでホームページを作ろう！](https://learn.wordpress.org/?meeting=%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81)
 - [The Wide World of WordPress Events](https://learn.wordpress.org/?meeting=the-wide-world-of-wordpress-events)
 - [An introduction to the 9 Design blocks](https://learn.wordpress.org/?meeting=an-introduction-to-the-9-design-blocks)
 - [The Creative Side of Blocks](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks)
@@ -249,8 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Common APIs: Shortcodes](https://learn.wordpress.org/?meeting=lets-code-common-apis-shortcodes)
 - [Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=theme-development-workflows-for-different-types-of-developers)
 - [Let’s code! Creating your first WordPress Plugin](https://learn.wordpress.org/?meeting=lets-code-creating-your-first-wordpress-plugin)
-- [[CANCELED – Moved to July 28] Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=19634)
-- [Power Up With Free Wireframe Templates And Advanced Blocks](https://learn.wordpress.org/?meeting=power-up-with-free-wireframe-templates-and-advanced-blocks)
 <!-- SLS:END -->
 
 ## Test
