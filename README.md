@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translation PTE Request for FoodBook Lite](https://make.wordpress.org/polyglots/2022/07/29/translation-pte-request-for-foodbook-lite/)
+- [Quick heads up:](https://make.wordpress.org/polyglots/2022/07/29/quick-heads-up/)
 - [PTE Request for Backup Migration, Duplicate Post, Popup, Redirect Redirection and Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2022/07/28/pte-request-for-backup-migration-duplicate-post-popup-redirect-redirection-and-social-media-share-buttons-popup-pop-up-social-sharing-icons-2/)
 - [X-post: Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/polyglots/2022/07/27/xpost-project-update-wordpress-org-homepage-and-download-page-mockups/)
 - [Weekly Polyglots Chat – Jul. 27, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/07/27/weekly-polyglots-chat-jul-27-2022-700-utc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/07/25/hi-dear-mentors-we-have-90/)
 - [PTE Request for BookingPress plugin](https://make.wordpress.org/polyglots/2022/07/25/pte-request-for-bookingpress-plugin/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/07/25/ive-suggested-translations-for-this-20/)
-- [PTE Request for Obselling for WordPress / WooCommerce](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-obselling-for-wordpress-woocommerce/)
-- [PTE Request for Fuerte-WP](https://make.wordpress.org/polyglots/2022/07/24/pte-request-for-fuerte-wp/)
 <!-- POLYGLOTS:END -->
 
 ## Support
