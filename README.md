@@ -465,6 +465,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Merge Two WordPress Plugins](https://jobs.wordpress.net/job/merge-two-wordpress-plugins/)
+- [WordPress Back-end Web Developer](https://jobs.wordpress.net/job/wordpress-back-end-web-developer-3/)
+- [PHP Developer with Ultimate Membership Pro Experience](https://jobs.wordpress.net/job/php-developer-with-ultimate-membership-pro-experience/)
 - [On Click “Save Contact” button contact details store in contact list for both android and iphone](https://jobs.wordpress.net/job/on-click-save-contact-button-contact-details-store-in-contact-list-for-both-android-and-iphone/)
 - [Website and Social Media Manager](https://jobs.wordpress.net/job/website-and-social-media-manager/)
 - [Exp. Software Developer](https://jobs.wordpress.net/job/exp-software-developer/)
@@ -472,9 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Weekly WP News Writer](https://jobs.wordpress.net/job/weekly-wp-news-writer/)
 - [Junior WordPress Developer](https://jobs.wordpress.net/job/junior-wordpress-developer-20/)
 - [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-21/)
-- [&lpar;Senior&rpar; WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-91/)
-- [Website Management Specialist](https://jobs.wordpress.net/job/website-management-specialist/)
-- [Mid-Level WordPress Developer](https://jobs.wordpress.net/job/mid-level-wordpress-developer-6/)
 <!-- JOBS:END -->
 
 ## Central
