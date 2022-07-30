@@ -465,6 +465,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Taking over development for eCommerce payment form plugin](https://jobs.wordpress.net/job/taking-over-development-for-ecommerce-payment-form-plugin/)
+- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-6/)
+- [Website development](https://jobs.wordpress.net/job/website-development-15/)
 - [Merge Two WordPress Plugins](https://jobs.wordpress.net/job/merge-two-wordpress-plugins/)
 - [WordPress Back-end Web Developer](https://jobs.wordpress.net/job/wordpress-back-end-web-developer-3/)
 - [PHP Developer with Ultimate Membership Pro Experience](https://jobs.wordpress.net/job/php-developer-with-ultimate-membership-pro-experience/)
@@ -472,9 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Website and Social Media Manager](https://jobs.wordpress.net/job/website-and-social-media-manager/)
 - [Exp. Software Developer](https://jobs.wordpress.net/job/exp-software-developer/)
 - [Web Applications Engineer](https://jobs.wordpress.net/job/web-applications-engineer/)
-- [Weekly WP News Writer](https://jobs.wordpress.net/job/weekly-wp-news-writer/)
-- [Junior WordPress Developer](https://jobs.wordpress.net/job/junior-wordpress-developer-20/)
-- [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-21/)
 <!-- JOBS:END -->
 
 ## Central
