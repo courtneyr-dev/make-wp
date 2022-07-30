@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I have translated few strings…](https://make.wordpress.org/polyglots/2022/07/30/i-have-translated-few-strings/)
 - [Inactive Locale Manager &amp; GTE and Correction to be made on Oromo Language Locale](https://make.wordpress.org/polyglots/2022/07/30/inactive-locale-manager-gte-and-correction-to-be-made-on-oromo-language-locale/)
 - [Translation PTE Request for FoodBook Lite](https://make.wordpress.org/polyglots/2022/07/29/translation-pte-request-for-foodbook-lite/)
 - [Quick heads up:](https://make.wordpress.org/polyglots/2022/07/29/quick-heads-up/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [profileGrid]](https://make.wordpress.org/polyglots/2022/07/26/pte-request-for-profilegrid/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/07/26/ive-suggested-translations-for-this-21/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/07/25/hi-dear-mentors-we-have-90/)
-- [PTE Request for BookingPress plugin](https://make.wordpress.org/polyglots/2022/07/25/pte-request-for-bookingpress-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
