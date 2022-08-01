@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Customer and Technical Support Agent](https://jobs.wordpress.net/job/customer-and-technical-support-agent/)
 - [Taking over development for eCommerce payment form plugin](https://jobs.wordpress.net/job/taking-over-development-for-ecommerce-payment-form-plugin/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-6/)
 - [Website development](https://jobs.wordpress.net/job/website-development-15/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [On Click “Save Contact” button contact details store in contact list for both android and iphone](https://jobs.wordpress.net/job/on-click-save-contact-button-contact-details-store-in-contact-list-for-both-android-and-iphone/)
 - [Website and Social Media Manager](https://jobs.wordpress.net/job/website-and-social-media-manager/)
 - [Exp. Software Developer](https://jobs.wordpress.net/job/exp-software-developer/)
-- [Web Applications Engineer](https://jobs.wordpress.net/job/web-applications-engineer/)
 <!-- JOBS:END -->
 
 ## Central
