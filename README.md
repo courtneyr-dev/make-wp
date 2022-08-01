@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Pooja Derashri: How To Join the WordPress Training Team – Our Workflows](https://wordpress.tv/2022/07/31/pooja-derashri-how-to-join-the-wordpress-training-team-our-workflows/)
 - [Pam Aungst Cronin: How to prepare for the dreaded Google Analytics 4 upgrade deadline](https://wordpress.tv/2022/07/31/pam-aungst-cronin-how-to-prepare-for-the-dreaded-google-analytics-4-upgrade-deadline/)
 - [Let’s Code: Common APIs – Shortcodes](https://wordpress.tv/2022/07/29/lets-code-common-apis-shortcodes/)
 - [JuanKa Díaz, José Conti, Nora Ferreirós, Núria Ramoneda: WP Barcelona Meetup. Nueva localización, nueva temporada](https://wordpress.tv/2022/07/28/juanka-diaz-jose-conti-nora-ferreiros-nuria-ramoneda-wp-barcelona-meetup-nueva-localizacion-nueva-temporada/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Simon Kraft, Flavia Bernárdez, Ronald Gijsel, Erika Ellacott, Ana Garcia López, Laura Sacco: Building a Sustainable Community through Meetups](https://wordpress.tv/2022/07/21/simon-kraft-flavia-bernardez-ronald-gijsel-erika-ellacott-ana-garcia-lopez-laura-sacco-building-a-sustainable-community-through-meetups/)
 - [Alice Orrù: Copy tips for brilliant alt text and accessible writing](https://wordpress.tv/2022/07/21/alice-orru-copy-tips-for-brilliant-alt-text-and-accessible-writing/)
 - [Creating communities with WordPress multisite](https://wordpress.tv/2022/07/21/creating-communities-with-wordpress-multisite/)
-- [Milana Cap, David Perez, Wendie Huis in ‘t Veld. Interviewing table leads: Milana Cap and David Perez](https://wordpress.tv/2022/07/21/milana-cap-david-perez-wendie-huis-in-t-veld-interviewing-table-leads-milana-cap-and-david-perez/)
 <!-- WPTV:END -->
 
 ## Marketing
