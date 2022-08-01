@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Developing the redesigned Home and Download Pages](https://make.wordpress.org/design/2022/08/01/xpost-developing-the-redesigned-home-and-download-pages/)
 - [Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/design/2022/07/27/project-update-wordpress-org-homepage-and-download-page-mockups/)
 - [Proposal: A new kind of default theme](https://make.wordpress.org/design/2022/07/19/proposal-a-new-kind-of-default-theme/)
 - [Design Share: July 4–15](https://make.wordpress.org/design/2022/07/18/design-share-july-4-15/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Open Sourcing Theme Designs](https://make.wordpress.org/design/2022/07/01/open-sourcing-theme-designs/)
 - [X-post: FSE Program: Sign up for usability testing by June 24th](https://make.wordpress.org/design/2022/06/20/xpost-fse-program-sign-up-for-usability-testing-by-june-24th/)
 - [Design Share: June 6–17](https://make.wordpress.org/design/2022/06/20/design-share-june-6-17/)
-- [Thinking Through the WordPress Admin Experience](https://make.wordpress.org/design/2022/06/13/thinking-through-the-wordpress-admin-experience/)
 <!-- DESIGN:END -->
 
 ## Mobile
