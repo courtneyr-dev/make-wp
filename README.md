@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – July 26 &amp; 28](https://make.wordpress.org/training/2022/08/02/training-team-meeting-recap-july-26-28/)
 - [Meeting Agenda August 2, 2022](https://make.wordpress.org/training/2022/08/01/meeting-agenda-august-2-2022/)
 - [July 2022 Faculty Meeting Recap](https://make.wordpress.org/training/2022/07/27/july-2022-faculty-meeting-recap/)
 - [Information Sources for WP 6.1](https://make.wordpress.org/training/2022/07/27/information-sources-for-wp-6-1/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary Update: Courses Currently in…](https://make.wordpress.org/training/2022/07/21/summary-update-courses-currently-in/)
 - [Proposal: Merging Lesson Plans, Video Tutorials, and Slides](https://make.wordpress.org/training/2022/07/19/proposal-to-merging-lesson-plans-video-tutorials-and-slides/)
 - [Meeting Agenda July 19 – 21, 2022](https://make.wordpress.org/training/2022/07/18/meeting-agenda-july-19-21-2022/)
-- [Block Theme Development Course – Update](https://make.wordpress.org/training/2022/07/15/block-theme-development-course-update/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
