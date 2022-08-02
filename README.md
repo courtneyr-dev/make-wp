@@ -101,11 +101,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Comment Pagination Block](https://wordpress.org/support/article/comment-pagination-block/)
 - [Comment  Author Name Block](https://wordpress.org/support/article/comment-author-name-block/)
 - [Comment Date Block](https://wordpress.org/support/article/comment-date-block/)
 - [Read More Block](https://wordpress.org/support/article/read-more-block/)
 - [Site Logo Block](https://wordpress.org/support/article/site-logo-block/)
-- [Site Title Block](https://wordpress.org/support/article/site-title-block/)
 - [Additional guide to using the Site Editor](https://wordpress.org/support/article/additional-guide-to-using-the-site-editor/)
 - [Working with blocks](https://wordpress.org/support/article/working-with-blocks/)
 - [CSS](https://wordpress.org/support/article/css/)
