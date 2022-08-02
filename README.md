@@ -129,6 +129,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Themes team update August 02, 2022](https://make.wordpress.org/themes/2022/08/02/xpost-themes-team-update-august-02-2022/)
+- [X-post: Moving Core block styling to JSON](https://make.wordpress.org/themes/2022/08/02/xpost-moving-core-block-styling-to-json/)
 - [Using locally-hosted Google fonts in themes](https://make.wordpress.org/themes/2022/07/28/using-locally-hosted-google-fonts-in-themes/)
 - [Gutenberg 13.6 + Themes](https://make.wordpress.org/themes/2022/07/27/gutenberg-13-6-themes/)
 - [Themes Team Meeting Notes – July 26, 2022](https://make.wordpress.org/themes/2022/07/27/themes-team-meeting-notes-july-26-2022/)
@@ -137,8 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes Team Meeting Notes – July 12, 2022](https://make.wordpress.org/themes/2022/07/13/themes-team-meeting-notes-july-12-2022/)
 - [Themes team meeting agenda for July 12, 2022](https://make.wordpress.org/themes/2022/07/12/themes-team-meeting-agenda-for-july-12-2022/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/themes/2022/07/07/xpost-wcus2022-contributor-team-signup/)
-- [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/themes/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
-- [Create Block Theme](https://make.wordpress.org/themes/2022/06/30/create-block-theme/)
 <!-- THEMES:END -->
 
 ## Plugins
