@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for docs team bi-weekly meeting 2 August 2022](https://make.wordpress.org/docs/2022/08/02/agenda-for-docs-team-bi-weekly-meeting-2-august-2022/)
 - [Summary of Docs Team Biweekly Meeting July 19th, 2022](https://make.wordpress.org/docs/2022/07/19/summary-of-docs-team-biweekly-meeting-july-19th-2022/)
 - [Agenda for docs team bi-weekly meeting 19 July 2022](https://make.wordpress.org/docs/2022/07/18/agenda-for-docs-team-bi-weekly-meeting-19-july-2022/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/docs/2022/07/07/xpost-wcus2022-contributor-team-signup/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/docs/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [Summary of Docs Team Biweekly Meeting June 21, 2022](https://make.wordpress.org/docs/2022/06/28/summary-of-docs-team-biweekly-meeting-june-21-2022/)
 - [Onboarding to Documentation team](https://make.wordpress.org/docs/2022/06/13/live-onboarding-sessions-for-the-documentation-team/)
-- [Summary of Docs Team Meeting June 7, 2022](https://make.wordpress.org/docs/2022/06/08/summary-of-docs-team-meeting-june-7-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
