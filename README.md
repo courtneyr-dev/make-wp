@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Introducing… Domains!](https://learn.wordpress.org/?meeting=introducing-domains)
 - [Let’s Code! An Introduction to Block Development](https://learn.wordpress.org/?meeting=lets-code-an-introduction-to-block-development)
 - [ブロックエディターでホームページを作ろう！](https://learn.wordpress.org/?meeting=%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81-2)
 - [ブロックエディターでホームページを作ろう！](https://learn.wordpress.org/?meeting=%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-3)
 - [Creating a landing page with a block theme](https://learn.wordpress.org/?meeting=creating-a-landing-page-with-a-block-theme)
 - [Let’s code! Common APIs: Shortcodes](https://learn.wordpress.org/?meeting=lets-code-common-apis-shortcodes)
-- [Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=theme-development-workflows-for-different-types-of-developers)
 <!-- SLS:END -->
 
 ## Test
