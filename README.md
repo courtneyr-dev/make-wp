@@ -3,7 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
-- [Devchat summary, July 27, 2022](https://make.wordpress.org/core/2022/08/02/devchat-summary-july-27-2022/)
+- [Dev chat summary, July 27, 2022](https://make.wordpress.org/core/2022/08/02/devchat-summary-july-27-2022/)
 - [Editor Chat Agenda: 3 August 2022](https://make.wordpress.org/core/2022/08/02/editor-chat-agenda-3-august-2022/)
 - [Performance team meeting summary 2 August 2022](https://make.wordpress.org/core/2022/08/02/performance-team-meeting-summary-2-august-2022/)
 - [A Week in Core – August 1, 2022](https://make.wordpress.org/core/2022/08/01/a-week-in-core-august-1-2022/)
