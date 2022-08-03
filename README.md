@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Weekly Polyglots Chat – Aug. 3, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/03/weekly-polyglots-chat-aug-3-2022-1300-utc/)
 - [July 2022 Coffee Break recap &lpar;Translation Day discussion&rpar;](https://make.wordpress.org/polyglots/2022/08/03/july-2022-coffee-break-recap-translation-day-discussion/)
 - [Demande de PTE pour le thème CosmosWP](https://make.wordpress.org/polyglots/2022/08/01/demande-de-pte-pour-le-theme-cosmoswp/)
 - [PTE Request for [Persian Password]](https://make.wordpress.org/polyglots/2022/08/01/pte-request-for-persian-password/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Quick heads up:](https://make.wordpress.org/polyglots/2022/07/29/quick-heads-up/)
 - [PTE Request for Backup Migration, Duplicate Post, Popup, Redirect Redirection and Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2022/07/28/pte-request-for-backup-migration-duplicate-post-popup-redirect-redirection-and-social-media-share-buttons-popup-pop-up-social-sharing-icons-2/)
 - [X-post: Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/polyglots/2022/07/27/xpost-project-update-wordpress-org-homepage-and-download-page-mockups/)
-- [Weekly Polyglots Chat – Jul. 27, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/07/27/weekly-polyglots-chat-jul-27-2022-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
