@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary of Docs Team Biweekly Meeting August 2, 2022](https://make.wordpress.org/docs/2022/08/03/summary-of-docs-team-biweekly-meeting-august-2-2022/)
 - [Agenda for docs team bi-weekly meeting 2 August 2022](https://make.wordpress.org/docs/2022/08/02/agenda-for-docs-team-bi-weekly-meeting-2-august-2022/)
 - [Summary of Docs Team Biweekly Meeting July 19th, 2022](https://make.wordpress.org/docs/2022/07/19/summary-of-docs-team-biweekly-meeting-july-19th-2022/)
 - [Agenda for docs team bi-weekly meeting 19 July 2022](https://make.wordpress.org/docs/2022/07/18/agenda-for-docs-team-bi-weekly-meeting-19-july-2022/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Exploration: improving DevHub](https://make.wordpress.org/docs/2022/07/01/xpost-exploration-improving-devhub/)
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/docs/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [Summary of Docs Team Biweekly Meeting June 21, 2022](https://make.wordpress.org/docs/2022/06/28/summary-of-docs-team-biweekly-meeting-june-21-2022/)
-- [Onboarding to Documentation team](https://make.wordpress.org/docs/2022/06/13/live-onboarding-sessions-for-the-documentation-team/)
 <!-- DOCS:END -->
 
 ### Support Articles
