@@ -422,6 +422,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Relax rate limiting for downloads.wordpress.org/plugin-checksums/](https://make.wordpress.org/systems/2022/08/03/relax-rate-limiting-for-downloads-wordpress-org-plugin-checksums/)
 - [Helpscout cannot email to @wordpress.org…](https://make.wordpress.org/systems/2022/08/02/helpscout-cannot-email-to-wordpress-org/)
 - [SSL cert expired for plugins-svn.bbpress.org](https://make.wordpress.org/systems/2022/04/29/ssl-cert-expired-for-plugins-svn-bbpress-org/)
 - [Email forwarder hosting@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-hostingwordpress-org-for-helpscout/)
@@ -431,7 +432,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Clear codex cache &amp; lower cache TTL?](https://make.wordpress.org/systems/2022/04/04/clear-codex-cache-lower-cache-ttl/)
 - [Enable sub-sites for developer.wordpress.org](https://make.wordpress.org/systems/2022/03/31/enable-sub-sites-for-developer-wordpress-org/)
 - [Update getinvolved@ email forwarder](https://make.wordpress.org/systems/2022/03/22/update-getinvolved-email-forwarder/)
-- [CORS headers for s.w.org](https://make.wordpress.org/systems/2022/02/22/cors-headers-for-s-w-org/)
 <!-- SYSTEMS:END -->
 
 ## News
