@@ -465,16 +465,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] Hiring QA Engineer with experience in UX](https://jobs.wordpress.net/job/astra-hiring-qa-engineer-with-experience-in-ux/)
+- [[Astra] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-3/)
+- [Short Term WordPress Database Rescue/Merge](https://jobs.wordpress.net/job/short-term-wordpress-database-rescue-merge/)
+- [Web Developer](https://jobs.wordpress.net/job/web-developer-199/)
+- [Product Developer](https://jobs.wordpress.net/job/product-developer/)
+- [Create A WordPress Theme From Our Design](https://jobs.wordpress.net/job/create-a-wordpress-theme-from-our-design/)
 - [Developer with experience in WordPress](https://jobs.wordpress.net/job/developer-with-experience-in-wordpress/)
 - [Customer and Technical Support Agent](https://jobs.wordpress.net/job/customer-and-technical-support-agent/)
 - [Taking over development for eCommerce payment form plugin](https://jobs.wordpress.net/job/taking-over-development-for-ecommerce-payment-form-plugin/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-6/)
-- [Website development](https://jobs.wordpress.net/job/website-development-15/)
-- [Merge Two WordPress Plugins](https://jobs.wordpress.net/job/merge-two-wordpress-plugins/)
-- [WordPress Back-end Web Developer](https://jobs.wordpress.net/job/wordpress-back-end-web-developer-3/)
-- [PHP Developer with Ultimate Membership Pro Experience](https://jobs.wordpress.net/job/php-developer-with-ultimate-membership-pro-experience/)
-- [On Click “Save Contact” button contact details store in contact list for both android and iphone](https://jobs.wordpress.net/job/on-click-save-contact-button-contact-details-store-in-contact-list-for-both-android-and-iphone/)
-- [Website and Social Media Manager](https://jobs.wordpress.net/job/website-and-social-media-manager/)
 <!-- JOBS:END -->
 
 ## Central
