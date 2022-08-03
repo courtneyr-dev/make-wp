@@ -467,7 +467,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:START -->
 - [[Astra] Hiring QA Engineer with experience in UX](https://jobs.wordpress.net/job/astra-hiring-qa-engineer-with-experience-in-ux/)
 - [[Astra] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-3/)
-- [Short Term WordPress Database Rescue/Merge](https://jobs.wordpress.net/job/short-term-wordpress-database-rescue-merge/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-199/)
 - [Product Developer](https://jobs.wordpress.net/job/product-developer/)
 - [Create A WordPress Theme From Our Design](https://jobs.wordpress.net/job/create-a-wordpress-theme-from-our-design/)
@@ -475,6 +474,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customer and Technical Support Agent](https://jobs.wordpress.net/job/customer-and-technical-support-agent/)
 - [Taking over development for eCommerce payment form plugin](https://jobs.wordpress.net/job/taking-over-development-for-ecommerce-payment-form-plugin/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-6/)
+- [Website development](https://jobs.wordpress.net/job/website-development-15/)
 <!-- JOBS:END -->
 
 ## Central
