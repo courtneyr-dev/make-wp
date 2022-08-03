@@ -283,7 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://wordpress.tv/2022/08/02/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required-part-2/)
-- [Pooja Derashri: How To Join the WordPress Training Team – Our Workflows](https://wordpress.tv/2022/07/31/pooja-derashri-how-to-join-the-wordpress-training-team-our-workflows/)
+- [How To Join the WordPress Training Team: Our Workflows](https://wordpress.tv/2022/07/31/pooja-derashri-how-to-join-the-wordpress-training-team-our-workflows/)
 - [Pam Aungst Cronin: How to prepare for the dreaded Google Analytics 4 upgrade deadline](https://wordpress.tv/2022/07/31/pam-aungst-cronin-how-to-prepare-for-the-dreaded-google-analytics-4-upgrade-deadline/)
 - [Let’s Code: Common APIs – Shortcodes](https://wordpress.tv/2022/07/29/lets-code-common-apis-shortcodes/)
 - [JuanKa Díaz, José Conti, Nora Ferreirós, Núria Ramoneda: WP Barcelona Meetup. Nueva localización, nueva temporada](https://wordpress.tv/2022/07/28/juanka-diaz-jose-conti-nora-ferreiros-nuria-ramoneda-wp-barcelona-meetup-nueva-localizacion-nueva-temporada/)
