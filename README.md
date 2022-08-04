@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Cherry-picking automation](https://developer.wordpress.org/block-editor/contributors/code/release/auto-cherry-picking/)
 - [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
 - [Customize Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-customize-widgets/)
 - [Block directory](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-block-directory/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Preferences](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-preferences/)
 - [Reusable blocks](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-reusable-blocks/)
 - [IXR_Base64::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/__construct/)
-- [IXR_Base64::IXR_Base64&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/ixr_base64/)
 <!-- DEVHUB:END -->
 
 ## Themes
