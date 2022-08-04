@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a landing page with a block theme](https://wordpress.tv/2022/08/04/creating-a-landing-page-with-a-block-theme/)
 - [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://wordpress.tv/2022/08/02/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required-part-2/)
 - [How To Join the WordPress Training Team: Our Workflows](https://wordpress.tv/2022/07/31/pooja-derashri-how-to-join-the-wordpress-training-team-our-workflows/)
 - [Pam Aungst Cronin: How to prepare for the dreaded Google Analytics 4 upgrade deadline](https://wordpress.tv/2022/07/31/pam-aungst-cronin-how-to-prepare-for-the-dreaded-google-analytics-4-upgrade-deadline/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
 - [Ryan Welcher: Creating a pre-publish checklist for Gutenberg](https://wordpress.tv/2022/07/21/ryan-welcher-creating-a-pre-publish-checklist-for-gutenberg/)
 - [Simon Kraft, Flavia Bernárdez, Ronald Gijsel, Erika Ellacott, Ana Garcia López, Laura Sacco: Building a Sustainable Community through Meetups](https://wordpress.tv/2022/07/21/simon-kraft-flavia-bernardez-ronald-gijsel-erika-ellacott-ana-garcia-lopez-laura-sacco-building-a-sustainable-community-through-meetups/)
-- [Alice Orrù: Copy tips for brilliant alt text and accessible writing](https://wordpress.tv/2022/07/21/alice-orru-copy-tips-for-brilliant-alt-text-and-accessible-writing/)
 <!-- WPTV:END -->
 
 ## Marketing
