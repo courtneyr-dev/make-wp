@@ -282,6 +282,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Daniel Paz: Core Web Vitals e WordPress](https://wordpress.tv/2022/08/04/daniel-paz-core-web-vitals-e-wordpress/)
+- [Alex Cuadra: La comunidad WordPress](https://wordpress.tv/2022/08/04/alex-cuadra-la-comunidad-wordpress/)
+- [Víctor Sáenz: Reencuentro comunidad WordPress Chiclana Julio 2022](https://wordpress.tv/2022/08/04/victor-saenz-reencuentro-comunidad-wordpress-chiclana-julio-2022/)
 - [Creating a landing page with a block theme](https://wordpress.tv/2022/08/04/creating-a-landing-page-with-a-block-theme/)
 - [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://wordpress.tv/2022/08/02/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required-part-2/)
 - [How To Join the WordPress Training Team: Our Workflows](https://wordpress.tv/2022/07/31/pooja-derashri-how-to-join-the-wordpress-training-team-our-workflows/)
@@ -304,9 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Maja Benke: Accessibility for dyslexia](https://wordpress.tv/2022/07/22/maja-benke-accessibility-for-dyslexia/)
 - [Let’s code! Creating your first WordPress Plugin](https://wordpress.tv/2022/07/22/lets-code-creating-your-first-wordpress-plugin/)
 - [Ivan Popov: How headless WordPress benefits enterprises?](https://wordpress.tv/2022/07/22/ivan-popov-how-headless-wordpress-benefits-enterprises/)
-- [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
-- [Ryan Welcher: Creating a pre-publish checklist for Gutenberg](https://wordpress.tv/2022/07/21/ryan-welcher-creating-a-pre-publish-checklist-for-gutenberg/)
-- [Simon Kraft, Flavia Bernárdez, Ronald Gijsel, Erika Ellacott, Ana Garcia López, Laura Sacco: Building a Sustainable Community through Meetups](https://wordpress.tv/2022/07/21/simon-kraft-flavia-bernardez-ronald-gijsel-erika-ellacott-ana-garcia-lopez-laura-sacco-building-a-sustainable-community-through-meetups/)
 <!-- WPTV:END -->
 
 ## Marketing
