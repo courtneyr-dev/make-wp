@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda 4 Aug 2022](https://make.wordpress.org/community/2022/08/04/community-team-meeting-agenda-4-aug-2022/)
 - [Announcing the 2021-2022 Annual Meetup Survey!](https://make.wordpress.org/community/2022/08/02/announcing-the-2021-2022-annual-meetup-survey/)
 - [Report: Inclusion and Diverse Speaker Workshops June 2022](https://make.wordpress.org/community/2022/07/22/report-inclusion-and-diverse-speaker-workshops-june-2022/)
 - [July Meetup Organizer newsletter](https://make.wordpress.org/community/2022/07/22/july-meetup-organizer-newsletter/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on LearnWP in July 2022](https://make.wordpress.org/community/2022/07/15/xpost-whats-new-on-learnwp-in-july-2022/)
 - [Call for Supporters: Reactivating WordPress Meetups Around the World!](https://make.wordpress.org/community/2022/07/08/call-for-supporters-reactivating-wordpress-meetups-around-the-world/)
 - [Covid Prevention Stickers](https://make.wordpress.org/community/2022/07/08/covid-prevention-stickers/)
-- [Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/community/2022/07/07/wcus2022-contributor-team-signup/)
 <!-- COMMUNITY:END -->
 
 ## Meta
