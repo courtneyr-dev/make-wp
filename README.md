@@ -45,6 +45,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: August 5, 2022](https://make.wordpress.org/accessibility/2022/08/05/accessibility-team-meeting-agenda-august-5-2022/)
+- [Accessibility Team Meeting Notes: July 15, 2022](https://make.wordpress.org/accessibility/2022/08/05/accessibility-team-meeting-notes-july-15-2022/)
 - [Call for Team Rep Nomination – July 2022](https://make.wordpress.org/accessibility/2022/07/15/call-team-rep-nomination-july-2022/)
 - [Accessibility Team Meeting Agenda: July 15, 2022](https://make.wordpress.org/accessibility/2022/07/14/accessibility-team-meeting-agenda-july-15-2022/)
 - [Accessibility Team Meeting Notes: July 1, 2022](https://make.wordpress.org/accessibility/2022/07/09/accessibility-team-meeting-notes-july-1-2022/)
@@ -53,8 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Notes: June 17, 2022](https://make.wordpress.org/accessibility/2022/06/22/meeting-notes-june-17-2022/)
 - [Accessibility Team Meeting Agenda: June 17, 2022](https://make.wordpress.org/accessibility/2022/06/15/accessibility-team-meeting-agenda-june-17-2022/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/accessibility/2022/05/26/xpost-announcement-incident-response-training/)
-- [Accessibility Team Meeting Notes: May 20, 2022](https://make.wordpress.org/accessibility/2022/05/24/accessibility-team-meeting-notes-may-20-2021/)
-- [Accessibility Team Meeting Agenda: May 20, 2022](https://make.wordpress.org/accessibility/2022/05/19/accessibility-team-meeting-agenda-may-20-2022/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
