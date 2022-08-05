@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [An introduction to the 9 Design blocks](https://wordpress.tv/2022/08/05/an-introduction-to-the-9-design-blocks/)
 - [Theme Development Workflows For Different Types of Developers](https://wordpress.tv/2022/08/04/theme-development-workflows-for-different-types-of-developers/)
 - [Daniel Paz: Core Web Vitals e WordPress](https://wordpress.tv/2022/08/04/daniel-paz-core-web-vitals-e-wordpress/)
 - [Alex Cuadra: La comunidad WordPress](https://wordpress.tv/2022/08/04/alex-cuadra-la-comunidad-wordpress/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Paul Halfpenny, Imran Sayed, Evan Mullins, Ryan Welcher, Juanma Garrido: Lightning talks](https://wordpress.tv/2022/07/22/paul-halfpenny-imran-sayed-evan-mullins-ryan-welcher-juanma-garrido-lightning-talks/)
 - [Closing remarks](https://wordpress.tv/2022/07/22/closing-remarks-2/)
 - [Maja Benke: Accessibility for dyslexia](https://wordpress.tv/2022/07/22/maja-benke-accessibility-for-dyslexia/)
-- [Let’s code! Creating your first WordPress Plugin](https://wordpress.tv/2022/07/22/lets-code-creating-your-first-wordpress-plugin/)
 <!-- WPTV:END -->
 
 ## Marketing
