@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Block patterns](https://developer.wordpress.org/themes/advanced-topics/block-patterns/)
 - [Cherry-picking automation](https://developer.wordpress.org/block-editor/contributors/code/release/auto-cherry-picking/)
-- [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
-- [Customize Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-customize-widgets/)
-- [Block directory](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-block-directory/)
-- [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
-- [Rich Text](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-rich-text/)
 - [Edit Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-widgets/)
-- [Preferences](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-preferences/)
 - [Reusable blocks](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-reusable-blocks/)
-- [IXR_Base64::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/__construct/)
+- [Preferences](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-preferences/)
+- [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
+- [Rich Text](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-rich-text/)
+- [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
+- [Block directory](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-block-directory/)
+- [Customize Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-customize-widgets/)
 <!-- DEVHUB:END -->
 
 ## Themes
