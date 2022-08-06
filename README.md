@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Jason Lawton: Using Advanced Custom Fields to create custom blocks](https://wordpress.tv/2022/08/06/jason-lawton-using-advanced-custom-fields-to-create-custom-blocks/)
 - [Let’s Code: An Introduction to Block Development](https://wordpress.tv/2022/08/05/lets-code-an-introduction-to-block-development/)
 - [An introduction to the 9 Design blocks](https://wordpress.tv/2022/08/05/an-introduction-to-the-9-design-blocks/)
 - [Theme Development Workflows For Different Types of Developers](https://wordpress.tv/2022/08/04/theme-development-workflows-for-different-types-of-developers/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Devin Walker, Joshua Strebel, Marieke van de Rakt, Shane Pearlman, Taeke Reijenga: Acquisitions in WordPress](https://wordpress.tv/2022/07/22/devin-walker-joshua-strebel-marieke-van-de-rakt-shane-pearlman-taeke-reijenga-acquisitions-in-wordpress/)
 - [Bernhard Kau, Taeke Reijenga, Sjoerd Blom: Live Studio, Sjoerd Blom interviewing WCEU Global Leads](https://wordpress.tv/2022/07/22/sjoerd-blom-interviewing-wceu-global-leads/)
 - [Paul Halfpenny, Imran Sayed, Evan Mullins, Ryan Welcher, Juanma Garrido: Lightning talks](https://wordpress.tv/2022/07/22/paul-halfpenny-imran-sayed-evan-mullins-ryan-welcher-juanma-garrido-lightning-talks/)
-- [Closing remarks](https://wordpress.tv/2022/07/22/closing-remarks-2/)
 <!-- WPTV:END -->
 
 ## Marketing
