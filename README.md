@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the theme author…](https://make.wordpress.org/polyglots/2022/08/06/i-am-the-theme-author-2/)
 - [PTE Request for Advanced Custom Fields](https://make.wordpress.org/polyglots/2022/08/05/pte-request-for-advanced-custom-fields/)
 - [Weekly Polyglots Chat – Aug. 3, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/03/weekly-polyglots-chat-aug-3-2022-1300-utc/)
 - [July 2022 Coffee Break recap &lpar;Translation Day discussion&rpar;](https://make.wordpress.org/polyglots/2022/08/03/july-2022-coffee-break-recap-translation-day-discussion/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Inactive Locale Manager &amp; GTE and Correction to be made on Oromo Language Locale](https://make.wordpress.org/polyglots/2022/07/30/inactive-locale-manager-gte-and-correction-to-be-made-on-oromo-language-locale/)
 - [Translation PTE Request for FoodBook Lite](https://make.wordpress.org/polyglots/2022/07/29/translation-pte-request-for-foodbook-lite/)
 - [Quick heads up:](https://make.wordpress.org/polyglots/2022/07/29/quick-heads-up/)
-- [PTE Request for Backup Migration, Duplicate Post, Popup, Redirect Redirection and Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2022/07/28/pte-request-for-backup-migration-duplicate-post-popup-redirect-redirection-and-social-media-share-buttons-popup-pop-up-social-sharing-icons-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
