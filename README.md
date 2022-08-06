@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Delivery status via Google Sheets](https://jobs.wordpress.net/job/delivery-status-via-google-sheets/)
 - [Senior Editorial Strategist &lpar;WordPress Trainer&rpar;](https://jobs.wordpress.net/job/senior-editorial-strategist-wordpress-trainer/)
 - [[Astra] Hiring QA Engineer with experience in UX](https://jobs.wordpress.net/job/astra-hiring-qa-engineer-with-experience-in-ux/)
 - [[Astra] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-3/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer with experience in WordPress](https://jobs.wordpress.net/job/developer-with-experience-in-wordpress/)
 - [Customer and Technical Support Agent](https://jobs.wordpress.net/job/customer-and-technical-support-agent/)
 - [Taking over development for eCommerce payment form plugin](https://jobs.wordpress.net/job/taking-over-development-for-ecommerce-payment-form-plugin/)
-- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-6/)
 <!-- JOBS:END -->
 
 ## Central
