@@ -465,6 +465,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-42/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-12/)
+- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-25/)
 - [Delivery status via Google Sheets](https://jobs.wordpress.net/job/delivery-status-via-google-sheets/)
 - [Senior Editorial Strategist &lpar;WordPress Trainer&rpar;](https://jobs.wordpress.net/job/senior-editorial-strategist-wordpress-trainer/)
 - [[Astra] Hiring QA Engineer with experience in UX](https://jobs.wordpress.net/job/astra-hiring-qa-engineer-with-experience-in-ux/)
@@ -472,9 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-199/)
 - [Product Developer](https://jobs.wordpress.net/job/product-developer/)
 - [Create A WordPress Theme From Our Design](https://jobs.wordpress.net/job/create-a-wordpress-theme-from-our-design/)
-- [Developer with experience in WordPress](https://jobs.wordpress.net/job/developer-with-experience-in-wordpress/)
-- [Customer and Technical Support Agent](https://jobs.wordpress.net/job/customer-and-technical-support-agent/)
-- [Taking over development for eCommerce payment form plugin](https://jobs.wordpress.net/job/taking-over-development-for-ecommerce-payment-form-plugin/)
 <!-- JOBS:END -->
 
 ## Central
