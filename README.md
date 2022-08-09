@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 9 August 2022](https://make.wordpress.org/test/2022/08/09/xpost-test-team-update-9-august-2022/)
 - [X-post: Call for Testing: WordPress for Android 20.5](https://make.wordpress.org/test/2022/08/09/xpost-call-for-testing-wordpress-for-android-20-5/)
 - [X-post: Call for Testing: WordPress for iOS 20.5](https://make.wordpress.org/test/2022/08/08/xpost-call-for-testing-wordpress-for-ios-20-5/)
 - [FSE Program Category Customization Summary](https://make.wordpress.org/test/2022/08/03/fse-program-category-customization-summary/)
@@ -264,7 +265,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/test/2022/07/12/xpost-rollback-feature-testing-call-to-action/)
 - [X-post: Call for Testing: WordPress for iOS 20.3](https://make.wordpress.org/test/2022/07/12/xpost-call-for-testing-wordpress-for-ios-20-3/)
 - [X-post: Call for Testing: WordPress for Android 20.3](https://make.wordpress.org/test/2022/07/12/xpost-call-for-testing-wordpress-for-android-20-3/)
-- [FSE Program Pattern and Template Part Usability Testing Summary](https://make.wordpress.org/test/2022/07/12/fse-program-pattern-and-template-part-usability-testing-summary/)
 <!-- TEST:END -->
 
 ## TV
