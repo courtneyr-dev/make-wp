@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Themes team update August 09, 2022](https://make.wordpress.org/themes/2022/08/09/xpost-themes-team-update-august-09-2022/)
 - [Gutenberg 13.7 + Themes](https://make.wordpress.org/themes/2022/08/05/gutenberg-13-7-themes/)
 - [X-post: Themes team update August 02, 2022](https://make.wordpress.org/themes/2022/08/02/xpost-themes-team-update-august-02-2022/)
 - [X-post: Moving Core block styling to JSON](https://make.wordpress.org/themes/2022/08/02/xpost-moving-core-block-styling-to-json/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for July 26, 2022](https://make.wordpress.org/themes/2022/07/25/themes-team-meeting-agenda-for-july-26-2022/)
 - [X-post: Proposal: A new kind of default theme](https://make.wordpress.org/themes/2022/07/19/xpost-proposal-a-new-kind-of-default-theme/)
 - [Themes Team Meeting Notes – July 12, 2022](https://make.wordpress.org/themes/2022/07/13/themes-team-meeting-notes-july-12-2022/)
-- [Themes team meeting agenda for July 12, 2022](https://make.wordpress.org/themes/2022/07/12/themes-team-meeting-agenda-for-july-12-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
