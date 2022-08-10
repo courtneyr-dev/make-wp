@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-16/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-42/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-12/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-25/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-3/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-199/)
 - [Product Developer](https://jobs.wordpress.net/job/product-developer/)
-- [Create A WordPress Theme From Our Design](https://jobs.wordpress.net/job/create-a-wordpress-theme-from-our-design/)
 <!-- JOBS:END -->
 
 ## Central
