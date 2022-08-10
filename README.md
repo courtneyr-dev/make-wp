@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Block Theme Builders: Figma to Block Theme](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
+- [Georgie-Ann Getton: Increasing productivity and avoiding burnout](https://wordpress.tv/2022/08/10/georgie-ann-getton-increasing-productivity-and-avoiding-burnout/)
 - [Using the create-block Tool](https://wordpress.tv/2022/08/10/using-the-create-block-tool/)
 - [Michelle Frechette: Accessibility is more than disability accommodation](https://wordpress.tv/2022/08/08/michelle-frechette-accessibility-is-more-than-disability-accommodation-2/)
 - [The Creative Side of Blocks](https://wordpress.tv/2022/08/08/the-creative-side-of-blocks/)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Joe Campbell: The journey of becoming More Jersey](https://wordpress.tv/2022/07/26/joe-campbell-the-journey-of-becoming-more-jersey/)
 - [Luis Miguel Climent: ¿Tienes que hablar en público? Te doy algunos trucos](https://wordpress.tv/2022/07/25/luis-miguel-climent-tienes-que-hablar-en-publico-te-doy-algunos-trucos/)
 - [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/25/matt-mullenweg-josepha-haden-in-conversation/)
-- [David Viña: Aprende a facer webs con WordPress 6](https://wordpress.tv/2022/07/22/david-vina-aprende-a-facer-webs-con-wordpress-6/)
-- [Nick Diego: Curating the Editor Experience](https://wordpress.tv/2022/07/22/nick-diego-curating-the-editor-experience/)
 <!-- WPTV:END -->
 
 ## Marketing
