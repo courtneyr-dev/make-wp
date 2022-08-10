@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using the create-block Tool](https://learn.wordpress.org/tutorial/using-the-create-block-tool/)
 - [Creating a landing page with a block theme](https://learn.wordpress.org/tutorial/creating-a-landing-page-with-a-block-theme/)
 - [Building a home page with a block theme](https://learn.wordpress.org/tutorial/building-a-home-page-with-a-block-theme/)
 - [WordPress Filter Hooks](https://learn.wordpress.org/tutorial/wordpress-filter-hooks/)
@@ -222,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Schema with WordPress theme.json](https://learn.wordpress.org/tutorial/using-schema-with-wordpress-theme-json/)
 - [Anatomy of a Block Theme](https://learn.wordpress.org/tutorial/anatomy-of-a-block-theme/)
 - [Choosing and Installing Theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
-- [Creating a Front Page for a Block Theme](https://learn.wordpress.org/tutorial/creating-a-front-page-for-a-block-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
