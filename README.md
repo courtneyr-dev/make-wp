@@ -255,7 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
-- [Testing.Testing: Calls for Testing Facilitators](https://make.wordpress.org/test/2022/08/10/testing-testing-calls-for-testing-facilitators/)
+- [Testing. Testing: Calls for Testing Facilitators](https://make.wordpress.org/test/2022/08/10/testing-testing-calls-for-testing-facilitators/)
 - [X-post: Test Team Update: 9 August 2022](https://make.wordpress.org/test/2022/08/09/xpost-test-team-update-9-august-2022/)
 - [X-post: Call for Testing: WordPress for Android 20.5](https://make.wordpress.org/test/2022/08/09/xpost-call-for-testing-wordpress-for-android-20-5/)
 - [X-post: Call for Testing: WordPress for iOS 20.5](https://make.wordpress.org/test/2022/08/08/xpost-call-for-testing-wordpress-for-ios-20-5/)
