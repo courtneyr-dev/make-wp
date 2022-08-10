@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Open Links In New Tab](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-open-links-in-new-tab/)
+- [PTE Request for BotCat](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-botcat/)
+- [PTE Request for Pinterest for WooCommerce](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-pinterest-for-woocommerce/)
+- [PTE Request for alma-gateway-for-woocommerce I…](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-alma-gateway-for-woocommerce-i/)
+- [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-shipping-live/)
+- [PTE Request for Filter Everything — WooCoomerce Product &amp; WordPress Filter](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-filter-everything-woocoomerce-product-wordpress-filter/)
 - [German translation review request for the Coldbox theme](https://make.wordpress.org/polyglots/2022/08/10/german-translation-review-request-for-the-coldbox-theme/)
 - [Weekly Polyglots Chat – Aug. 10, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/10/weekly-polyglots-chat-aug-10-2022-700-utc/)
 - [Please check the Ukrainian translation…](https://make.wordpress.org/polyglots/2022/08/08/please-check-the-ukrainian-translation/)
 - [I am the theme author…](https://make.wordpress.org/polyglots/2022/08/06/i-am-the-theme-author-2/)
-- [PTE Request for Advanced Custom Fields](https://make.wordpress.org/polyglots/2022/08/05/pte-request-for-advanced-custom-fields/)
-- [Weekly Polyglots Chat – Aug. 3, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/03/weekly-polyglots-chat-aug-3-2022-1300-utc/)
-- [July 2022 Coffee Break recap &lpar;Translation Day discussion&rpar;](https://make.wordpress.org/polyglots/2022/08/03/july-2022-coffee-break-recap-translation-day-discussion/)
-- [Demande de PTE pour le thème CosmosWP](https://make.wordpress.org/polyglots/2022/08/01/demande-de-pte-pour-le-theme-cosmoswp/)
-- [PTE Request for [Persian Password]](https://make.wordpress.org/polyglots/2022/08/01/pte-request-for-persian-password/)
-- [I have translated few strings…](https://make.wordpress.org/polyglots/2022/07/30/i-have-translated-few-strings/)
 <!-- POLYGLOTS:END -->
 
 ## Support
