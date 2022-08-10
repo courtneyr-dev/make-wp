@@ -3,9 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
-- [Agenda, Dev Chat, August 10, 2022](https://make.wordpress.org/core/2022/08/10/agenda-dev-chat-august-10-2022/)
 - [Proposal: Stop merging experimental APIs from Gutenberg to WordPress Core](https://make.wordpress.org/core/2022/08/10/proposal-stop-merging-experimental-apis-from-gutenberg-to-wordpress-core/)
 - [Standardize npm script naming in the Gutenberg project](https://make.wordpress.org/core/2022/08/10/standardize-npm-script-naming-in-the-gutenberg-project/)
+- [Agenda, Dev Chat, August 10, 2022](https://make.wordpress.org/core/2022/08/09/agenda-dev-chat-august-10-2022/)
 - [Hallway Hangout: Editor Tech Lead role 101](https://make.wordpress.org/core/2022/08/09/hallway-hangout-editor-tech-lead-role-101/)
 - [Performance team meeting summary 9 August 2022](https://make.wordpress.org/core/2022/08/09/performance-team-meeting-summary-9-august-2022/)
 - [A Week in Core – August 8, 2022](https://make.wordpress.org/core/2022/08/09/a-week-in-core-august-8-2022/)
