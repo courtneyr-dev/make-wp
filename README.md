@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the create-block Tool](https://wordpress.tv/2022/08/10/using-the-create-block-tool/)
 - [Michelle Frechette: Accessibility is more than disability accommodation](https://wordpress.tv/2022/08/08/michelle-frechette-accessibility-is-more-than-disability-accommodation-2/)
 - [The Creative Side of Blocks](https://wordpress.tv/2022/08/08/the-creative-side-of-blocks/)
 - [Jason Lawton: Using Advanced Custom Fields to create custom blocks](https://wordpress.tv/2022/08/06/jason-lawton-using-advanced-custom-fields-to-create-custom-blocks/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/25/matt-mullenweg-josepha-haden-in-conversation/)
 - [David Viña: Aprende a facer webs con WordPress 6](https://wordpress.tv/2022/07/22/david-vina-aprende-a-facer-webs-con-wordpress-6/)
 - [Nick Diego: Curating the Editor Experience](https://wordpress.tv/2022/07/22/nick-diego-curating-the-editor-experience/)
-- [Devin Walker, Joshua Strebel, Marieke van de Rakt, Shane Pearlman, Taeke Reijenga: Acquisitions in WordPress](https://wordpress.tv/2022/07/22/devin-walker-joshua-strebel-marieke-van-de-rakt-shane-pearlman-taeke-reijenga-acquisitions-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
