@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Weekly Polyglots Chat – Aug. 10, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/10/weekly-polyglots-chat-aug-10-2022-700-utc/)
 - [Please check the Ukrainian translation…](https://make.wordpress.org/polyglots/2022/08/08/please-check-the-ukrainian-translation/)
 - [I am the theme author…](https://make.wordpress.org/polyglots/2022/08/06/i-am-the-theme-author-2/)
 - [PTE Request for Advanced Custom Fields](https://make.wordpress.org/polyglots/2022/08/05/pte-request-for-advanced-custom-fields/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Persian Password]](https://make.wordpress.org/polyglots/2022/08/01/pte-request-for-persian-password/)
 - [I have translated few strings…](https://make.wordpress.org/polyglots/2022/07/30/i-have-translated-few-strings/)
 - [Inactive Locale Manager &amp; GTE and Correction to be made on Oromo Language Locale](https://make.wordpress.org/polyglots/2022/07/30/inactive-locale-manager-gte-and-correction-to-be-made-on-oromo-language-locale/)
-- [Translation PTE Request for FoodBook Lite](https://make.wordpress.org/polyglots/2022/07/29/translation-pte-request-for-foodbook-lite/)
 <!-- POLYGLOTS:END -->
 
 ## Support
