@@ -282,7 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Block Theme Builders: Figma to Block Theme](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
+- [Damon Cook: Block Theme Builders – Figma to Block Theme](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
 - [Georgie-Ann Getton: Increasing productivity and avoiding burnout](https://wordpress.tv/2022/08/10/georgie-ann-getton-increasing-productivity-and-avoiding-burnout/)
 - [Using the create-block Tool](https://wordpress.tv/2022/08/10/using-the-create-block-tool/)
 - [Michelle Frechette: Accessibility is more than disability accommodation](https://wordpress.tv/2022/08/08/michelle-frechette-accessibility-is-more-than-disability-accommodation-2/)
