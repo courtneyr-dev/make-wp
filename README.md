@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Wide World of WordPress Events](https://wordpress.tv/2022/08/11/the-wide-world-of-wordpress-events/)
 - [Damon Cook: Block Theme Builders – Figma to Block Theme](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
 - [Georgie-Ann Getton: Increasing productivity and avoiding burnout](https://wordpress.tv/2022/08/10/georgie-ann-getton-increasing-productivity-and-avoiding-burnout/)
 - [Using the create-block Tool](https://wordpress.tv/2022/08/10/using-the-create-block-tool/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mel Choyce: Getting creative with block patterns](https://wordpress.tv/2022/07/27/mel-choyce-getting-creative-with-block-patterns/)
 - [Joe Campbell: The journey of becoming More Jersey](https://wordpress.tv/2022/07/26/joe-campbell-the-journey-of-becoming-more-jersey/)
 - [Luis Miguel Climent: ¿Tienes que hablar en público? Te doy algunos trucos](https://wordpress.tv/2022/07/25/luis-miguel-climent-tienes-que-hablar-en-publico-te-doy-algunos-trucos/)
-- [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/25/matt-mullenweg-josepha-haden-in-conversation/)
 <!-- WPTV:END -->
 
 ## Marketing
