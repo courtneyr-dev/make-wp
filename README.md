@@ -471,10 +471,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-42/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-12/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-25/)
-- [Delivery status via Google Sheets](https://jobs.wordpress.net/job/delivery-status-via-google-sheets/)
 - [Senior Editorial Strategist &lpar;WordPress Trainer&rpar;](https://jobs.wordpress.net/job/senior-editorial-strategist-wordpress-trainer/)
 - [[Astra] Hiring QA Engineer with experience in UX](https://jobs.wordpress.net/job/astra-hiring-qa-engineer-with-experience-in-ux/)
 - [[Astra] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-3/)
+- [Web Developer](https://jobs.wordpress.net/job/web-developer-199/)
 <!-- JOBS:END -->
 
 ## Central
