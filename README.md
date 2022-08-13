@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/13/pte-request-for-shipping-live-2/)
 - [I am the themes author…](https://make.wordpress.org/polyglots/2022/08/13/i-am-the-themes-author/)
 - [PTE Request for Open Links In New Tab](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-open-links-in-new-tab/)
 - [PTE Request for BotCat](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-botcat/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Filter Everything — WooCoomerce Product &amp; WordPress Filter](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-filter-everything-woocoomerce-product-wordpress-filter/)
 - [German translation review request for the Coldbox theme](https://make.wordpress.org/polyglots/2022/08/10/german-translation-review-request-for-the-coldbox-theme/)
 - [Weekly Polyglots Chat – Aug. 10, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/10/weekly-polyglots-chat-aug-10-2022-700-utc/)
-- [Please check the Ukrainian translation…](https://make.wordpress.org/polyglots/2022/08/08/please-check-the-ukrainian-translation/)
 <!-- POLYGLOTS:END -->
 
 ## Support
