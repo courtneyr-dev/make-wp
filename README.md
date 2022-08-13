@@ -465,6 +465,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Sales Solutions Architect](https://jobs.wordpress.net/job/sales-solutions-architect/)
+- [Digital Content Strategist](https://jobs.wordpress.net/job/digital-content-strategist-2/)
+- [Some CSS and plugin tuning](https://jobs.wordpress.net/job/some-css-and-plugin-tuning/)
 - [Online Marketing and Business Development Manager &lpar;f/m/d&rpar; for WordPress Plugins](https://jobs.wordpress.net/job/online-marketing-and-business-development-manager-f-m-d-for-wordpress-plugins/)
 - [WordPress Developer &lpar;f/m/d&rpar; for Privacy WordPress Plugins &lpar;PHP/React/Node.js&rpar;](https://jobs.wordpress.net/job/wordpress-developer-f-m-d-for-privacy-wordpress-plugins-php-react-node-js/)
 - [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-16/)
@@ -472,9 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-12/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-25/)
 - [Senior Editorial Strategist &lpar;WordPress Trainer&rpar;](https://jobs.wordpress.net/job/senior-editorial-strategist-wordpress-trainer/)
-- [[Astra] Hiring QA Engineer with experience in UX](https://jobs.wordpress.net/job/astra-hiring-qa-engineer-with-experience-in-ux/)
-- [[Astra] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-3/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-199/)
 <!-- JOBS:END -->
 
 ## Central
