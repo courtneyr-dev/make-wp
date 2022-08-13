@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [The Creative Side of Blocks, Vol. 2](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-2)
 - [Using Create Block Theme](https://learn.wordpress.org/?meeting=using-create-block-theme-2)
 - [Intro to Multisites](https://learn.wordpress.org/?meeting=intro-to-multisites)
 - [Troubleshooting in WordPress](https://learn.wordpress.org/?meeting=troubleshooting-in-wordpress)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Theme Builders: Design With Figma](https://learn.wordpress.org/?meeting=block-theme-builders-design-with-figma)
 - [Introducing… Domains!](https://learn.wordpress.org/?meeting=introducing-domains)
 - [Let’s Code! An Introduction to Block Development](https://learn.wordpress.org/?meeting=lets-code-an-introduction-to-block-development)
-- [ブロックエディターでホームページを作ろう！](https://learn.wordpress.org/?meeting=%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81-2)
 <!-- SLS:END -->
 
 ## Test
