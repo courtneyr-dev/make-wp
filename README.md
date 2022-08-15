@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Testing and Feedback for the Fluid Typography Feature](https://make.wordpress.org/themes/2022/08/15/testing-and-feedback-for-the-fluid-typography-feature/)
 - [X-post: Twenty Twenty-Three default theme — Project kickoff](https://make.wordpress.org/themes/2022/08/10/xpost-twenty-twenty-three-default-theme-project-kickoff/)
 - [Themes Team Meeting Notes – August 9, 2022](https://make.wordpress.org/themes/2022/08/09/themes-team-meeting-notes-august-9-2022/)
 - [Themes team meeting agenda for August 09, 2022](https://make.wordpress.org/themes/2022/08/09/themes-team-meeting-agenda-for-august-09-2022/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Moving Core block styling to JSON](https://make.wordpress.org/themes/2022/08/02/xpost-moving-core-block-styling-to-json/)
 - [Using locally-hosted Google fonts in themes](https://make.wordpress.org/themes/2022/07/28/using-locally-hosted-google-fonts-in-themes/)
 - [Gutenberg 13.6 + Themes](https://make.wordpress.org/themes/2022/07/27/gutenberg-13-6-themes/)
-- [Themes Team Meeting Notes – July 26, 2022](https://make.wordpress.org/themes/2022/07/27/themes-team-meeting-notes-july-26-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
