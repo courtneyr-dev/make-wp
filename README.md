@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Call for Ideas: WordCamp US 2022 Contributor Day](https://make.wordpress.org/community/2022/08/15/call-for-ideas-wordcamp-us-2022-contributor-day/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 10, 2022](https://make.wordpress.org/community/2022/08/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-10-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 27, 2022](https://make.wordpress.org/community/2022/08/05/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-27-2022/)
 - [Community Team Meeting Agenda 4 Aug 2022](https://make.wordpress.org/community/2022/08/04/community-team-meeting-agenda-4-aug-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Deputy Feedback Wanted: Streamlining WordCamp Phases](https://make.wordpress.org/community/2022/07/22/deputy-feedback-wanted-streamlining-wordcamp-phases/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 13, 2022](https://make.wordpress.org/community/2022/07/20/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-13-2022/)
 - [Deputy / Organizer Training: Meetup/WordCamp Application Vetting](https://make.wordpress.org/community/2022/07/19/deputy-organizer-training-vetting-wordcamps/)
-- [X-post: What’s new on LearnWP in July 2022](https://make.wordpress.org/community/2022/07/15/xpost-whats-new-on-learnwp-in-july-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
