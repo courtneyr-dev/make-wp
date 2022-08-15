@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor chat summary: 10 August, 2022](https://make.wordpress.org/core/2022/08/15/editor-chat-summary-10-august-2022/)
 - [Dev Chat Summary, August 10, 2022](https://make.wordpress.org/core/2022/08/10/dev-chat-summary-august-10-2022/)
 - [Proposal: Stop merging experimental APIs from Gutenberg to WordPress Core](https://make.wordpress.org/core/2022/08/10/proposal-stop-merging-experimental-apis-from-gutenberg-to-wordpress-core/)
 - [Standardize npm script naming in the Gutenberg project](https://make.wordpress.org/core/2022/08/10/standardize-npm-script-naming-in-the-gutenberg-project/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Week in Core – August 8, 2022](https://make.wordpress.org/core/2022/08/09/a-week-in-core-august-8-2022/)
 - [Bug Scrub Schedule for 6.1](https://make.wordpress.org/core/2022/08/09/bug-scrub-schedule-for-6-1/)
 - [Dev Chat summary, August 3, 2022](https://make.wordpress.org/core/2022/08/08/devchat-summary-august-3-2022/)
-- [Editor Chat Agenda: 10 August 2022](https://make.wordpress.org/core/2022/08/08/editor-chat-agenda-10-august-2022/)
 <!-- CORE:END -->
 
 ## Design
