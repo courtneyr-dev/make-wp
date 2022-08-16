@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ebonie Butler, Michelle Frechette, Josepha Haden,  Courtney Robertson: The WordPress all-women and non-binary release squad: Contributing to WordPress and more](https://wordpress.tv/2022/08/16/ebonie-butler-michelle-frechette-josepha-haden-courtney-robertson-the-wordpress-all-women-and-non-binary-release-squad-contributing-to-wordpress-and-more/)
 - [Creating a landing page with a block theme](https://wordpress.tv/2022/08/15/creating-a-landing-page-with-a-block-theme-2/)
 - [Olga Gleckler: Тестирование сайта с Cypress.io](https://wordpress.tv/2022/08/14/olga-gleckler-%d1%82%d0%b5%d1%81%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d0%b0%d0%b9%d1%82%d0%b0-%d1%81-cypress-io/)
 - [Jos Velasco: Construye una página web con WordPress sin código](https://wordpress.tv/2022/08/13/jos-velasco-construye-una-pagina-web-con-wordpress-sin-codigo/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s Code: Common APIs – Shortcodes](https://wordpress.tv/2022/07/29/lets-code-common-apis-shortcodes/)
 - [JuanKa Díaz, José Conti, Nora Ferreirós, Núria Ramoneda: WP Barcelona Meetup. Nueva localización, nueva temporada](https://wordpress.tv/2022/07/28/juanka-diaz-jose-conti-nora-ferreiros-nuria-ramoneda-wp-barcelona-meetup-nueva-localizacion-nueva-temporada/)
 - [Building a home page with a block theme](https://wordpress.tv/2022/07/27/building-a-home-page-with-a-block-theme/)
-- [The ABCs of Blogging: Advanced Blogging &lpar;Part Two&rpar;](https://wordpress.tv/2022/07/27/the-abcs-of-blogging-advanced-blogging-part-two/)
 <!-- WPTV:END -->
 
 ## Marketing
