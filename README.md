@@ -367,6 +367,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Community Meeting Recap &lpar;16 August 2022&rpar;](https://make.wordpress.org/openverse/2022/08/16/community-meeting-recap-16-august-2022/)
 - [Openverse API results constrained to 20 pages](https://make.wordpress.org/openverse/2022/08/11/openverse-api-results-constrained-to-20-pages/)
 - [Community Meeting Recap &lpar;09 August 2022&rpar;](https://make.wordpress.org/openverse/2022/08/09/community-meeting-recap-09-august-2022/)
 - [Community Meeting Recap &lpar;02 August 2022&rpar;](https://make.wordpress.org/openverse/2022/08/04/community-meeting-recap-02-august-2022/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Check-in meeting idea](https://make.wordpress.org/openverse/2022/07/13/check-in-meeting-idea/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/openverse/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [Community Meeting Recap &lpar;5 July 2022&rpar;](https://make.wordpress.org/openverse/2022/07/05/community-meeting-recap-5-july-2022/)
-- [Community Meeting Recap &lpar;28 June 2022&rpar;](https://make.wordpress.org/openverse/2022/06/28/community-meeting-recap-28-june-2022/)
 <!-- OPENVERSE:END -->
 
 ## Photos
