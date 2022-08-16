@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code! Converting a Shortcode into a Block](https://learn.wordpress.org/?meeting=lets-code-converting-a-shortcode-into-a-block)
 - [The Creative Side of Blocks, Vol. 2](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-2)
 - [Using Create Block Theme](https://learn.wordpress.org/?meeting=using-create-block-theme-2)
 - [Intro to Multisites](https://learn.wordpress.org/?meeting=intro-to-multisites)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring the Power of Block Variations](https://learn.wordpress.org/?meeting=exploring-the-power-of-block-variations)
 - [Block Theme Builders: Design With Figma](https://learn.wordpress.org/?meeting=block-theme-builders-design-with-figma)
 - [Introducing… Domains!](https://learn.wordpress.org/?meeting=introducing-domains)
-- [Let’s Code! An Introduction to Block Development](https://learn.wordpress.org/?meeting=lets-code-an-introduction-to-block-development)
 <!-- SLS:END -->
 
 ## Test
