@@ -465,6 +465,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Remote Part-time Customer Support Agent](https://jobs.wordpress.net/job/remote-part-time-customer-support-agent/)
+- [Sr. WordPress Developer](https://jobs.wordpress.net/job/sr-wordpress-developer-20/)
 - [WP Web designer](https://jobs.wordpress.net/job/wp-web-designer/)
 - [Sales Solutions Architect](https://jobs.wordpress.net/job/sales-solutions-architect/)
 - [Digital Content Strategist](https://jobs.wordpress.net/job/digital-content-strategist-2/)
@@ -473,8 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-16/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-42/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-12/)
-- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-25/)
-- [Senior Editorial Strategist &lpar;WordPress Trainer&rpar;](https://jobs.wordpress.net/job/senior-editorial-strategist-wordpress-trainer/)
 <!-- JOBS:END -->
 
 ## Central
