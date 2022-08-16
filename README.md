@@ -394,6 +394,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Themes team update August 16, 2022](https://make.wordpress.org/updates/2022/08/16/themes-team-update-august-16-2022/)
 - [Documentation Team Update – August 15, 2022](https://make.wordpress.org/updates/2022/08/15/documentation-team-update-august-15-2022/)
 - [X-post: Test Team Reps: Call for Nominations](https://make.wordpress.org/updates/2022/08/10/xpost-test-team-reps-call-for-nominations-2/)
 - [Test Team Update: 9 August 2022](https://make.wordpress.org/updates/2022/08/09/test-team-update-9-august-2022/)
@@ -403,7 +404,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Documentation Team Update – August 8, 2022](https://make.wordpress.org/updates/2022/08/08/documentation-team-update-august-8-2022/)
 - [Themes team update August 02, 2022](https://make.wordpress.org/updates/2022/08/02/themes-team-update-august-02-2022/)
 - [Plugin Review Team: 1 Aug 2022 🐰](https://make.wordpress.org/updates/2022/08/01/plugin-review-team-1-aug-2022-%f0%9f%90%b0/)
-- [Documentation Team Update – August 1, 2022](https://make.wordpress.org/updates/2022/08/01/documentation-team-update-august-1-2022/)
 <!-- UPDATES:END -->
 
 ## Project
