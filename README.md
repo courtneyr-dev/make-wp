@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Misha Rudrastyh: Создание темы с поддержкой Full Site Editing](https://wordpress.tv/2022/08/17/misha-rudrastyh-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%82%d0%b5%d0%bc%d1%8b-%d1%81-%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%be%d0%b9-full-site-editing/)
 - [Using Create Block Theme](https://wordpress.tv/2022/08/17/using-create-block-theme/)
 - [Ebonie Butler, Michelle Frechette, Josepha Haden,  Courtney Robertson: The WordPress all-women and non-binary release squad: Contributing to WordPress and more](https://wordpress.tv/2022/08/16/ebonie-butler-michelle-frechette-josepha-haden-courtney-robertson-the-wordpress-all-women-and-non-binary-release-squad-contributing-to-wordpress-and-more/)
 - [Creating a landing page with a block theme](https://wordpress.tv/2022/08/15/creating-a-landing-page-with-a-block-theme-2/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How To Join the WordPress Training Team: Our Workflows](https://wordpress.tv/2022/07/31/pooja-derashri-how-to-join-the-wordpress-training-team-our-workflows/)
 - [Pam Aungst Cronin: How to prepare for the dreaded Google Analytics 4 upgrade deadline](https://wordpress.tv/2022/07/31/pam-aungst-cronin-how-to-prepare-for-the-dreaded-google-analytics-4-upgrade-deadline/)
 - [Let’s Code: Common APIs – Shortcodes](https://wordpress.tv/2022/07/29/lets-code-common-apis-shortcodes/)
-- [JuanKa Díaz, José Conti, Nora Ferreirós, Núria Ramoneda: WP Barcelona Meetup. Nueva localización, nueva temporada](https://wordpress.tv/2022/07/28/juanka-diaz-jose-conti-nora-ferreiros-nuria-ramoneda-wp-barcelona-meetup-nueva-localizacion-nueva-temporada/)
 <!-- WPTV:END -->
 
 ## Marketing
