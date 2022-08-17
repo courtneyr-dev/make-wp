@@ -408,7 +408,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
-- [Open Source and the Free Rider Problem](https://make.wordpress.org/project/2022/08/01/open-source-and-the-free-rider-problem/)
+- [Open Source and how we sustain ourselves](https://make.wordpress.org/project/2022/08/01/open-source-and-the-free-rider-problem/)
 - [Updates on the Five for the Future program, and proposed improvements](https://make.wordpress.org/project/2022/07/28/updates-on-the-five-for-the-future-program-and-proposed-improvements/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/project/2022/05/26/xpost-announcement-incident-response-training/)
 - [Request for feedback: Recording Five for the Future contributions](https://make.wordpress.org/project/2022/05/23/request-for-feedback-recording-five-for-the-future-contributions/)
