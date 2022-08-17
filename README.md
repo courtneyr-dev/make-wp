@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Comment Reply Link Block](https://wordpress.org/support/article/comment-reply-link-block/)
 - [Comment Content Block](https://wordpress.org/support/article/comment-content-block/)
 - [Comment Pagination Block](https://wordpress.org/support/article/comment-pagination-block/)
 - [Comment  Author Name Block](https://wordpress.org/support/article/comment-author-name-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Additional guide to using the Site Editor](https://wordpress.org/support/article/additional-guide-to-using-the-site-editor/)
 - [Working with blocks](https://wordpress.org/support/article/working-with-blocks/)
 - [CSS](https://wordpress.org/support/article/css/)
-- [Wolfram Embed](https://wordpress.org/support/article/wolfram-embed/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
