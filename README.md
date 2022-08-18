@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Customizing your post content layout](https://wordpress.tv/2022/08/17/customizing-your-post-content-layout/)
+- [ブロックエディターでホームページを作ろう！](https://wordpress.tv/2022/08/17/%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/)
 - [Misha Rudrastyh: Создание темы с поддержкой Full Site Editing](https://wordpress.tv/2022/08/17/misha-rudrastyh-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%82%d0%b5%d0%bc%d1%8b-%d1%81-%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%be%d0%b9-full-site-editing/)
 - [Using Create Block Theme](https://wordpress.tv/2022/08/17/using-create-block-theme/)
 - [Ebonie Butler, Michelle Frechette, Josepha Haden,  Courtney Robertson: The WordPress all-women and non-binary release squad: Contributing to WordPress and more](https://wordpress.tv/2022/08/16/ebonie-butler-michelle-frechette-josepha-haden-courtney-robertson-the-wordpress-all-women-and-non-binary-release-squad-contributing-to-wordpress-and-more/)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a landing page with a block theme](https://wordpress.tv/2022/08/04/creating-a-landing-page-with-a-block-theme/)
 - [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://wordpress.tv/2022/08/02/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required-part-2/)
 - [How To Join the WordPress Training Team: Our Workflows](https://wordpress.tv/2022/07/31/pooja-derashri-how-to-join-the-wordpress-training-team-our-workflows/)
-- [Pam Aungst Cronin: How to prepare for the dreaded Google Analytics 4 upgrade deadline](https://wordpress.tv/2022/07/31/pam-aungst-cronin-how-to-prepare-for-the-dreaded-google-analytics-4-upgrade-deadline/)
-- [Let’s Code: Common APIs – Shortcodes](https://wordpress.tv/2022/07/29/lets-code-common-apis-shortcodes/)
 <!-- WPTV:END -->
 
 ## Marketing
