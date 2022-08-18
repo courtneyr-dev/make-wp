@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] WordPress SEO Specialist](https://jobs.wordpress.net/job/astra-wordpress-seo-specialist/)
 - [Build a Responsive WordPress Website](https://jobs.wordpress.net/job/build-a-responsive-wordpress-website/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-765/)
 - [Remote Part-time Customer Support Agent](https://jobs.wordpress.net/job/remote-part-time-customer-support-agent/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Digital Content Strategist](https://jobs.wordpress.net/job/digital-content-strategist-2/)
 - [Online Marketing and Business Development Manager &lpar;f/m/d&rpar; for WordPress Plugins](https://jobs.wordpress.net/job/online-marketing-and-business-development-manager-f-m-d-for-wordpress-plugins/)
 - [WordPress Developer &lpar;f/m/d&rpar; for Privacy WordPress Plugins &lpar;PHP/React/Node.js&rpar;](https://jobs.wordpress.net/job/wordpress-developer-f-m-d-for-privacy-wordpress-plugins-php-react-node-js/)
-- [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-16/)
 <!-- JOBS:END -->
 
 ## Central
