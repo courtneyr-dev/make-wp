@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WooCommerce JTL-Connector](https://make.wordpress.org/polyglots/2022/08/18/pte-request-for-woocommerce-jtl-connector/)
+- [PTE Request for 3CX Free Live Chat](https://make.wordpress.org/polyglots/2022/08/18/pte-request-for-3cx-free-live-chat/)
+- [Hi, I would like to…](https://make.wordpress.org/polyglots/2022/08/18/hi-i-would-like-to-16/)
+- [Translation of Astra and RestroPress to Bulgarian language](https://make.wordpress.org/polyglots/2022/08/17/translation-of-astra-and-restropress-to-bulgarian-language/)
 - [PTE Request for Taager plugin](https://make.wordpress.org/polyglots/2022/08/17/pte-request-for-taager-plugin/)
 - [Agenda: Weekly Polyglots Chat – August. 17, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/16/agenda-weekly-polyglots-chat-august-17-2022-1300-utc/)
 - [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/13/pte-request-for-shipping-live-2/)
 - [I am the themes author…](https://make.wordpress.org/polyglots/2022/08/13/i-am-the-themes-author/)
 - [PTE Request for Open Links In New Tab](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-open-links-in-new-tab/)
 - [PTE Request for BotCat](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-botcat/)
-- [PTE Request for Pinterest for WooCommerce](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-pinterest-for-woocommerce/)
-- [PTE Request for alma-gateway-for-woocommerce I…](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-alma-gateway-for-woocommerce-i/)
-- [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-shipping-live/)
-- [PTE Request for Filter Everything — WooCoomerce Product &amp; WordPress Filter](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-filter-everything-woocoomerce-product-wordpress-filter/)
 <!-- POLYGLOTS:END -->
 
 ## Support
