@@ -381,6 +381,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [WordPress World Photography Day Challenge 2022](https://make.wordpress.org/photos/2022/08/18/wordpress-world-photography-day-challenge-2022/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/photos/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [Recap of team meeting, June 2](https://make.wordpress.org/photos/2022/06/17/recap-of-team-meeting-june-2/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/photos/2022/05/26/xpost-announcement-incident-response-training/)
