@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Comment Template Block](https://wordpress.org/support/article/comment-template-block/)
 - [Comment Edit Link Block](https://wordpress.org/support/article/comment-edit-link-block/)
 - [Comment Reply Link Block](https://wordpress.org/support/article/comment-reply-link-block/)
 - [Comment Content Block](https://wordpress.org/support/article/comment-content-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Read More Block](https://wordpress.org/support/article/read-more-block/)
 - [Site Logo Block](https://wordpress.org/support/article/site-logo-block/)
 - [Additional guide to using the Site Editor](https://wordpress.org/support/article/additional-guide-to-using-the-site-editor/)
-- [Working with blocks](https://wordpress.org/support/article/working-with-blocks/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
