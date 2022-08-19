@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Construction Landing Page Theme and Epic Construction Theme](https://make.wordpress.org/polyglots/2022/08/19/pte-request-for-construction-landing-page-theme-and-epic-construction-theme/)
+- [PTE Request for Get Google Reviews](https://make.wordpress.org/polyglots/2022/08/19/pte-request-for-get-google-reviews/)
 - [PTE Request for WooCommerce JTL-Connector](https://make.wordpress.org/polyglots/2022/08/18/pte-request-for-woocommerce-jtl-connector/)
 - [PTE Request for 3CX Free Live Chat](https://make.wordpress.org/polyglots/2022/08/18/pte-request-for-3cx-free-live-chat/)
 - [Hi, I would like to…](https://make.wordpress.org/polyglots/2022/08/18/hi-i-would-like-to-16/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – August. 17, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/16/agenda-weekly-polyglots-chat-august-17-2022-1300-utc/)
 - [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/13/pte-request-for-shipping-live-2/)
 - [I am the themes author…](https://make.wordpress.org/polyglots/2022/08/13/i-am-the-themes-author/)
-- [PTE Request for Open Links In New Tab](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-open-links-in-new-tab/)
-- [PTE Request for BotCat](https://make.wordpress.org/polyglots/2022/08/10/pte-request-for-botcat/)
 <!-- POLYGLOTS:END -->
 
 ## Support
