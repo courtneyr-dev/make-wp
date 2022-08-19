@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Damon Cook: Block Theme Builders – Figma to Block Theme](https://wordpress.tv/2022/08/19/block-theme-builders-figma-to-block-theme/)
 - [Intro to Multisites](https://wordpress.tv/2022/08/18/intro-to-multisites/)
 - [Customizing your post content layout](https://wordpress.tv/2022/08/17/customizing-your-post-content-layout/)
 - [ブロックエディターでホームページを作ろう！](https://wordpress.tv/2022/08/17/%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alex Cuadra: La comunidad WordPress](https://wordpress.tv/2022/08/04/alex-cuadra-la-comunidad-wordpress/)
 - [Víctor Sáenz: Reencuentro comunidad WordPress Chiclana Julio 2022](https://wordpress.tv/2022/08/04/victor-saenz-reencuentro-comunidad-wordpress-chiclana-julio-2022/)
 - [Creating a landing page with a block theme](https://wordpress.tv/2022/08/04/creating-a-landing-page-with-a-block-theme/)
-- [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://wordpress.tv/2022/08/02/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required-part-2/)
 <!-- WPTV:END -->
 
 ## Marketing
