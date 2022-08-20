@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nick Diego: Taking Block Patterns to the Next Level](https://wordpress.tv/2022/08/19/nick-diego-taking-block-patterns-to-the-next-level/)
 - [Damon Cook: Block Theme Builders – Figma to Block Theme](https://wordpress.tv/2022/08/19/block-theme-builders-figma-to-block-theme/)
 - [Intro to Multisites](https://wordpress.tv/2022/08/18/intro-to-multisites/)
 - [Customizing your post content layout](https://wordpress.tv/2022/08/17/customizing-your-post-content-layout/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Daniel Paz: Core Web Vitals e WordPress](https://wordpress.tv/2022/08/04/daniel-paz-core-web-vitals-e-wordpress/)
 - [Alex Cuadra: La comunidad WordPress](https://wordpress.tv/2022/08/04/alex-cuadra-la-comunidad-wordpress/)
 - [Víctor Sáenz: Reencuentro comunidad WordPress Chiclana Julio 2022](https://wordpress.tv/2022/08/04/victor-saenz-reencuentro-comunidad-wordpress-chiclana-julio-2022/)
-- [Creating a landing page with a block theme](https://wordpress.tv/2022/08/04/creating-a-landing-page-with-a-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
