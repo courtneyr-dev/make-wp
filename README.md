@@ -213,7 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Customizing your post content layout.](https://learn.wordpress.org/tutorial/customizing-your-post-content-layout/)
+- [Customizing your post content layout](https://learn.wordpress.org/tutorial/customizing-your-post-content-layout/)
 - [Using the create-block Tool](https://learn.wordpress.org/tutorial/using-the-create-block-tool/)
 - [Creating a landing page with a block theme](https://learn.wordpress.org/tutorial/creating-a-landing-page-with-a-block-theme/)
 - [Building a home page with a block theme](https://learn.wordpress.org/tutorial/building-a-home-page-with-a-block-theme/)
