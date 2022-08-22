@@ -466,6 +466,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Custom WP_Job Manager snippets/addon](https://jobs.wordpress.net/job/custom-wp_job-manager-snippets-addon/)
+- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-7/)
+- [[ThemeSphere] Customer Support Specialist](https://jobs.wordpress.net/job/themesphere-customer-support-specialist-3/)
 - [[Remote] WordPress Developer &lpar;PHP/JS&rpar;](https://jobs.wordpress.net/job/remote-wordpress-developer-php-js-3/)
 - [[Astra] WordPress SEO Specialist](https://jobs.wordpress.net/job/astra-wordpress-seo-specialist/)
 - [Build a Responsive WordPress Website](https://jobs.wordpress.net/job/build-a-responsive-wordpress-website/)
@@ -473,9 +476,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remote Part-time Customer Support Agent](https://jobs.wordpress.net/job/remote-part-time-customer-support-agent/)
 - [Sr. WordPress Developer](https://jobs.wordpress.net/job/sr-wordpress-developer-20/)
 - [WP Web designer](https://jobs.wordpress.net/job/wp-web-designer/)
-- [Sales Solutions Architect](https://jobs.wordpress.net/job/sales-solutions-architect/)
-- [Digital Content Strategist](https://jobs.wordpress.net/job/digital-content-strategist-2/)
-- [Online Marketing and Business Development Manager &lpar;f/m/d&rpar; for WordPress Plugins](https://jobs.wordpress.net/job/online-marketing-and-business-development-manager-f-m-d-for-wordpress-plugins/)
 <!-- JOBS:END -->
 
 ## Central
