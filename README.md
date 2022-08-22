@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/08/22/hi-dear-mentors-we-have-91/)
 - [I’ve suggested translations for Advanced…](https://make.wordpress.org/polyglots/2022/08/22/ive-suggested-translations-for-advanced-2/)
 - [I am the themes author…](https://make.wordpress.org/polyglots/2022/08/21/i-am-the-themes-author-2/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/08/21/ive-suggested-translations-for-this-22/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Construction Landing Page Theme and Epic Construction Theme](https://make.wordpress.org/polyglots/2022/08/19/pte-request-for-construction-landing-page-theme-and-epic-construction-theme/)
 - [PTE Request for Get Google Reviews](https://make.wordpress.org/polyglots/2022/08/19/pte-request-for-get-google-reviews/)
 - [PTE Request for WooCommerce JTL-Connector](https://make.wordpress.org/polyglots/2022/08/18/pte-request-for-woocommerce-jtl-connector/)
-- [PTE Request for 3CX Free Live Chat](https://make.wordpress.org/polyglots/2022/08/18/pte-request-for-3cx-free-live-chat/)
 <!-- POLYGLOTS:END -->
 
 ## Support
