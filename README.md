@@ -466,6 +466,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Restore WordPress Website](https://jobs.wordpress.net/job/restore-wordpress-website/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-7/)
 - [[ThemeSphere] Customer Support Specialist](https://jobs.wordpress.net/job/themesphere-customer-support-specialist-3/)
 - [[Remote] WordPress Developer &lpar;PHP/JS&rpar;](https://jobs.wordpress.net/job/remote-wordpress-developer-php-js-3/)
@@ -475,7 +476,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remote Part-time Customer Support Agent](https://jobs.wordpress.net/job/remote-part-time-customer-support-agent/)
 - [Sr. WordPress Developer](https://jobs.wordpress.net/job/sr-wordpress-developer-20/)
 - [WP Web designer](https://jobs.wordpress.net/job/wp-web-designer/)
-- [Sales Solutions Architect](https://jobs.wordpress.net/job/sales-solutions-architect/)
 <!-- JOBS:END -->
 
 ## Central
