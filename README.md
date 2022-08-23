@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Polyglots Monthly Newsletter: August 2022](https://make.wordpress.org/polyglots/2022/08/22/polyglots-monthly-newsletter-august-2022/)
 - [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/22/pte-request-for-shipping-live-3/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/08/22/hi-dear-mentors-we-have-91/)
 - [I’ve suggested translations for Advanced…](https://make.wordpress.org/polyglots/2022/08/22/ive-suggested-translations-for-advanced-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Blocksy Theme 申请成为Blocksy主题的编辑](https://make.wordpress.org/polyglots/2022/08/20/pte-request-for-blocksy-theme-%e7%94%b3%e8%af%b7%e6%88%90%e4%b8%bablocksy%e4%b8%bb%e9%a2%98%e7%9a%84%e7%bc%96%e8%be%91/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/08/19/i-am-the-plugin-author-29/)
 - [PTE Request for Construction Landing Page Theme and Epic Construction Theme](https://make.wordpress.org/polyglots/2022/08/19/pte-request-for-construction-landing-page-theme-and-epic-construction-theme/)
-- [PTE Request for Get Google Reviews](https://make.wordpress.org/polyglots/2022/08/19/pte-request-for-get-google-reviews/)
 <!-- POLYGLOTS:END -->
 
 ## Support
