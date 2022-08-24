@@ -241,6 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code! Diving into theme.json](https://learn.wordpress.org/?meeting=lets-code-diving-into-theme-json)
 - [10 種類のテキストブロック　〜使い分けのコツ〜](https://learn.wordpress.org/?meeting=10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c-2)
 - [10 種類のテキストブロック　〜使い分けのコツ〜](https://learn.wordpress.org/?meeting=10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c)
 - [Intro to Templates](https://learn.wordpress.org/?meeting=intro-to-templates)
@@ -250,7 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Create Block Theme](https://learn.wordpress.org/?meeting=using-create-block-theme-2)
 - [Intro to Multisites](https://learn.wordpress.org/?meeting=intro-to-multisites)
 - [Troubleshooting in WordPress](https://learn.wordpress.org/?meeting=troubleshooting-in-wordpress)
-- [Using Create Block Theme](https://learn.wordpress.org/?meeting=using-create-block-theme)
 <!-- SLS:END -->
 
 ## Test
