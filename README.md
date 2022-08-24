@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Troubleshooting in WordPress](https://wordpress.tv/2022/08/24/troubleshooting-in-wordpress/)
 - [Let’s code! Converting a Shortcode into a Block](https://wordpress.tv/2022/08/23/lets-code-converting-a-shortcode-into-a-block/)
 - [Nici Catton: What is “Hybrid Agile” and why is it helpful in larger organizations](https://wordpress.tv/2022/08/21/nici-catton-what-is-hybrid-agile-and-why-is-it-helpful-in-larger-organizations/)
 - [Nick Diego: Taking Block Patterns to the Next Level](https://wordpress.tv/2022/08/19/nick-diego-taking-block-patterns-to-the-next-level/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s Code: An Introduction to Block Development](https://wordpress.tv/2022/08/05/lets-code-an-introduction-to-block-development/)
 - [An introduction to the 9 Design blocks](https://wordpress.tv/2022/08/05/an-introduction-to-the-9-design-blocks/)
 - [Theme Development Workflows For Different Types of Developers](https://wordpress.tv/2022/08/04/theme-development-workflows-for-different-types-of-developers/)
-- [Daniel Paz: Core Web Vitals e WordPress](https://wordpress.tv/2022/08/04/daniel-paz-core-web-vitals-e-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
