@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [Hosting Team meeting agenda 2022-08-24](https://make.wordpress.org/hosting/2022/08/24/hosting-team-meeting-agenda-2022-08-24/)
 - [Proposal: Updating WP_MEMORY_LIMIT](https://make.wordpress.org/hosting/2022/08/18/proposal-updating-wp_memory_limit/)
 - [Hosting Team meeting agenda 2022-08-17](https://make.wordpress.org/hosting/2022/08/17/hosting-team-meeting-agenda-2022-08-17/)
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/hosting/2022/07/12/xpost-rollback-feature-testing-call-to-action/)
@@ -348,7 +349,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Europe 2022 Contributor Day](https://make.wordpress.org/hosting/2022/05/31/wordcamp-europe-2022-contributor-day/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/hosting/2022/05/26/xpost-announcement-incident-response-training/)
 - [Get ready for WordPress 6.0](https://make.wordpress.org/hosting/2022/05/04/get-ready-for-wordpress-6-0/)
-- [WordPress Hosting and WebP support](https://make.wordpress.org/hosting/2022/03/30/wordpress-hosting-and-webp-support/)
 <!-- HOSTING:END -->
 
 ## Tide
