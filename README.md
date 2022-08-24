@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [TT3 default theme: One week left to submit style variations](https://make.wordpress.org/design/2022/08/24/tt3-default-theme-one-week-left-to-submit-style-variations/)
 - [Design Share: Aug 1–12](https://make.wordpress.org/design/2022/08/15/design-share-aug-1-12/)
 - [Twenty Twenty-Three default theme — Project kickoff](https://make.wordpress.org/design/2022/08/10/twenty-twenty-three-default-theme-project-kickoff/)
 - [‘Open Floor’: Design Team Bi-weekly Meeting 10 August 2022](https://make.wordpress.org/design/2022/08/10/open-floor-design-team-bi-weekly-meeting-10-august-2022/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/design/2022/07/27/project-update-wordpress-org-homepage-and-download-page-mockups/)
 - [Proposal: A new kind of default theme](https://make.wordpress.org/design/2022/07/19/proposal-a-new-kind-of-default-theme/)
 - [Design Share: July 4–15](https://make.wordpress.org/design/2022/07/18/design-share-july-4-15/)
-- [Project Kickoff: WordPress.org Homepage and Download page redesign](https://make.wordpress.org/design/2022/07/08/project-kickoff-wordpress-org-homepage-and-download-page-redesign/)
 <!-- DESIGN:END -->
 
 ## Mobile
