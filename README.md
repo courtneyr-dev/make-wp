@@ -241,6 +241,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [10 種類のテキストブロック　〜使い分けのコツ〜](https://learn.wordpress.org/?meeting=10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c-2)
+- [10 種類のテキストブロック　〜使い分けのコツ〜](https://learn.wordpress.org/?meeting=10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c)
 - [Intro to Templates](https://learn.wordpress.org/?meeting=intro-to-templates)
 - [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system)
 - [Let’s code! Converting a Shortcode into a Block](https://learn.wordpress.org/?meeting=lets-code-converting-a-shortcode-into-a-block)
@@ -249,8 +251,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intro to Multisites](https://learn.wordpress.org/?meeting=intro-to-multisites)
 - [Troubleshooting in WordPress](https://learn.wordpress.org/?meeting=troubleshooting-in-wordpress)
 - [Using Create Block Theme](https://learn.wordpress.org/?meeting=using-create-block-theme)
-- [Taking Block Patterns to the Next Level](https://learn.wordpress.org/?meeting=taking-block-patterns-to-the-next-level)
-- [Exploring the Power of Block Variations](https://learn.wordpress.org/?meeting=exploring-the-power-of-block-variations)
 <!-- SLS:END -->
 
 ## Test
