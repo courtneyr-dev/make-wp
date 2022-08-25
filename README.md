@@ -298,7 +298,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jos Velasco: Construye una página web con WordPress sin código](https://wordpress.tv/2022/08/13/jos-velasco-construye-una-pagina-web-con-wordpress-sin-codigo/)
 - [Introducing… Domains!](https://wordpress.tv/2022/08/12/introducing-domains/)
 - [The Wide World of WordPress Events](https://wordpress.tv/2022/08/11/the-wide-world-of-wordpress-events/)
-- [Damon Cook: Block Theme Builders – Figma to Block Theme](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
+- [Damon Cook: Block Theme Builders – Design with Figma](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
 - [Georgie-Ann Getton: Increasing productivity and avoiding burnout](https://wordpress.tv/2022/08/10/georgie-ann-getton-increasing-productivity-and-avoiding-burnout/)
 - [Using the create-block Tool](https://wordpress.tv/2022/08/10/using-the-create-block-tool/)
 - [Michelle Frechette: Accessibility is more than disability accommodation](https://wordpress.tv/2022/08/08/michelle-frechette-accessibility-is-more-than-disability-accommodation-2/)
