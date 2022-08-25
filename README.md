@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a new header with blocks](https://wordpress.tv/2022/08/24/creating-a-new-header-with-blocks/)
 - [Troubleshooting in WordPress](https://wordpress.tv/2022/08/24/troubleshooting-in-wordpress/)
 - [Let’s code! Converting a Shortcode into a Block](https://wordpress.tv/2022/08/23/lets-code-converting-a-shortcode-into-a-block/)
 - [Nici Catton: What is “Hybrid Agile” and why is it helpful in larger organizations](https://wordpress.tv/2022/08/21/nici-catton-what-is-hybrid-agile-and-why-is-it-helpful-in-larger-organizations/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jason Lawton: Using Advanced Custom Fields to create custom blocks](https://wordpress.tv/2022/08/06/jason-lawton-using-advanced-custom-fields-to-create-custom-blocks/)
 - [Let’s Code: An Introduction to Block Development](https://wordpress.tv/2022/08/05/lets-code-an-introduction-to-block-development/)
 - [An introduction to the 9 Design blocks](https://wordpress.tv/2022/08/05/an-introduction-to-the-9-design-blocks/)
-- [Theme Development Workflows For Different Types of Developers](https://wordpress.tv/2022/08/04/theme-development-workflows-for-different-types-of-developers/)
 <!-- WPTV:END -->
 
 ## Marketing
