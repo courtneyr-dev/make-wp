@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nick Diego: Exploring the Power of Block Variations](https://wordpress.tv/2022/08/26/nick-diego-exploring-the-power-of-block-variations/)
 - [Paul Gilzow: Introduction to GitOps](https://wordpress.tv/2022/08/25/paul-gilzow-introduction-to-gitops/)
 - [Creating a new header with blocks](https://wordpress.tv/2022/08/24/creating-a-new-header-with-blocks/)
 - [Troubleshooting in WordPress](https://wordpress.tv/2022/08/24/troubleshooting-in-wordpress/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Michelle Frechette: Accessibility is more than disability accommodation](https://wordpress.tv/2022/08/08/michelle-frechette-accessibility-is-more-than-disability-accommodation-2/)
 - [The Creative Side of Blocks](https://wordpress.tv/2022/08/08/the-creative-side-of-blocks/)
 - [Jason Lawton: Using Advanced Custom Fields to create custom blocks](https://wordpress.tv/2022/08/06/jason-lawton-using-advanced-custom-fields-to-create-custom-blocks/)
-- [Let’s Code: An Introduction to Block Development](https://wordpress.tv/2022/08/05/lets-code-an-introduction-to-block-development/)
 <!-- WPTV:END -->
 
 ## Marketing
