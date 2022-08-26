@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Post SMTP Mailer-Email](https://make.wordpress.org/polyglots/2022/08/26/pte-request-for-post-smtp-mailer-email/)
+- [PTE Request for Helpful](https://make.wordpress.org/polyglots/2022/08/26/pte-request-for-helpful/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/08/26/hi-dear-mentors-we-have-93/)
 - [PTE Request for gdpr-helper](https://make.wordpress.org/polyglots/2022/08/25/pte-request-for-gdpr-helper/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/08/25/hi-dear-mentors-we-have-92/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Weekly Polyglots Chat – Aug. 24, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/24/weekly-polyglots-chat-aug-24-2022-700-utc/)
 - [PTE Request for UpFront](https://make.wordpress.org/polyglots/2022/08/23/pte-request-for-upfront/)
 - [Review and PTE Request](https://make.wordpress.org/polyglots/2022/08/23/review-and-pte-request-8/)
-- [Polyglots Monthly Newsletter: August 2022](https://make.wordpress.org/polyglots/2022/08/22/polyglots-monthly-newsletter-august-2022/)
-- [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/22/pte-request-for-shipping-live-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
