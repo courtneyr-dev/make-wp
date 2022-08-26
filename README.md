@@ -474,8 +474,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support and Intervention Developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml/)
 - [Hosting Developers &lpar;DevOps&rpar;](https://jobs.wordpress.net/job/hosting-developers-devops/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-19/)
-- [Restore WordPress Website](https://jobs.wordpress.net/job/restore-wordpress-website/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-7/)
+- [[ThemeSphere] Customer Support Specialist](https://jobs.wordpress.net/job/themesphere-customer-support-specialist-3/)
 <!-- JOBS:END -->
 
 ## Central
