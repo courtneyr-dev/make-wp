@@ -466,6 +466,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-43/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-13/)
 - [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema/)
 - [Hosting Support and Intervention|Coding|WordPress|PHP|MySQL|Ubuntu|Bash|NGINX|](https://jobs.wordpress.net/job/hosting-support-and-interventioncodingwordpressphpmysqlubuntubashnginx/)
 - [Plugin Testing and Analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs/)
@@ -474,8 +476,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support and Intervention Developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml/)
 - [Hosting Developers &lpar;DevOps&rpar;](https://jobs.wordpress.net/job/hosting-developers-devops/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-19/)
-- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-7/)
-- [[ThemeSphere] Customer Support Specialist](https://jobs.wordpress.net/job/themesphere-customer-support-specialist-3/)
 <!-- JOBS:END -->
 
 ## Central
