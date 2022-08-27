@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Awesome Elements For Elementor]](https://make.wordpress.org/polyglots/2022/08/27/pte-request-for-awesome-elements-for-elementor/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/08/27/ive-suggested-translations-for-this-23/)
 - [PTE Request for Post SMTP Mailer-Email](https://make.wordpress.org/polyglots/2022/08/26/pte-request-for-post-smtp-mailer-email/)
 - [PTE Request for Helpful](https://make.wordpress.org/polyglots/2022/08/26/pte-request-for-helpful/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi I am the themes…](https://make.wordpress.org/polyglots/2022/08/25/hi-i-am-the-themes/)
 - [I would like to become…](https://make.wordpress.org/polyglots/2022/08/24/i-would-like-to-become-2/)
 - [Weekly Polyglots Chat – Aug. 24, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/24/weekly-polyglots-chat-aug-24-2022-700-utc/)
-- [PTE Request for UpFront](https://make.wordpress.org/polyglots/2022/08/23/pte-request-for-upfront/)
 <!-- POLYGLOTS:END -->
 
 ## Support
