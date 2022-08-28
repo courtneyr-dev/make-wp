@@ -466,6 +466,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Social Media Marketer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/social-media-marketer-remote/)
+- [Copywriter &lpar;Remote&rpar;](https://jobs.wordpress.net/job/copywriter-remote/)
+- [Copywriter &lpar;Remote&rpar;](https://jobs.wordpress.net/job/__trashed-3/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-43/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-13/)
 - [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema/)
@@ -473,9 +476,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Testing and Analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs/)
 - [Social Media Manager |Benchmark|Strategy|Design|Creation|SEO|Marketing|](https://jobs.wordpress.net/job/social-media-manager-benchmarkstrategydesigncreationseomarketing/)
 - [CampusPress Support and Developer |Coding|WordPress|PHP+MySQL or HTML+CSS|](https://jobs.wordpress.net/job/campuspress-support-and-developer-codingwordpressphpmysql-or-htmlcss/)
-- [Support and Intervention Developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml/)
-- [Hosting Developers &lpar;DevOps&rpar;](https://jobs.wordpress.net/job/hosting-developers-devops/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-19/)
 <!-- JOBS:END -->
 
 ## Central
