@@ -45,6 +45,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Use of accessibility-ready tag for block-based themes](https://make.wordpress.org/accessibility/2022/08/29/use-of-accessibility-ready-tag-for-block-based-themes/)
+- [Accessibility Team Meeting Notes: August 19, 2022](https://make.wordpress.org/accessibility/2022/08/29/accessibility-team-meeting-notes-august-19-2022/)
 - [Accessibility Team Meeting Agenda: August 19, 2022](https://make.wordpress.org/accessibility/2022/08/19/accessibility-team-meeting-agenda-august-19-2022/)
 - [Accessibility Team Meeting Notes: August 5, 2022](https://make.wordpress.org/accessibility/2022/08/19/accessibility-team-meeting-notes-august-5-2022/)
 - [Accessibility Team Meeting Agenda: August 5, 2022](https://make.wordpress.org/accessibility/2022/08/05/accessibility-team-meeting-agenda-august-5-2022/)
@@ -53,8 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: July 15, 2022](https://make.wordpress.org/accessibility/2022/07/14/accessibility-team-meeting-agenda-july-15-2022/)
 - [Accessibility Team Meeting Notes: July 1, 2022](https://make.wordpress.org/accessibility/2022/07/09/accessibility-team-meeting-notes-july-1-2022/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/accessibility/2022/07/07/xpost-wcus2022-contributor-team-signup/)
-- [Accessibility Team Meeting Agenda: July 1, 2022](https://make.wordpress.org/accessibility/2022/06/30/accessibility-team-meeting-agenda-july-1-2022/)
-- [Accessibility Team Meeting Notes: June 17, 2022](https://make.wordpress.org/accessibility/2022/06/22/meeting-notes-june-17-2022/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
