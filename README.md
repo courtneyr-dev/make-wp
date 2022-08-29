@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda for August 30, 2022](https://make.wordpress.org/training/2022/08/29/meeting-agenda-for-august-30-2022/)
 - [Training Team Meeting Recap – August 23](https://make.wordpress.org/training/2022/08/29/training-team-meeting-recap-august-23/)
 - [Documenting the Successful Launch of Japanese Online Workshops](https://make.wordpress.org/training/2022/08/27/documenting-the-successful-launch-of-japanese-online-workshops/)
 - [August 25th / 30th Supplemental SME Meeting](https://make.wordpress.org/training/2022/08/24/august-25th-30th-supplemental-sme-meeting/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Minimizing Zoom Disruptions in Online Workshops](https://make.wordpress.org/training/2022/08/10/minimizing-zoom-disruptions-in-online-workshops/)
 - [Summary Update: Courses Currently in Development &lpar;9 August 2022&rpar;](https://make.wordpress.org/training/2022/08/09/summary-update-courses-currently-in-2/)
 - [June &amp; July 2022 Sprint Retrospective](https://make.wordpress.org/training/2022/08/09/june-july-2022-sprint-retrospective/)
-- [Meeting Agenda August 9, 2022](https://make.wordpress.org/training/2022/08/08/meeting-agenda-9-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
