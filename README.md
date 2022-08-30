@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Salam n Hola](https://make.wordpress.org/polyglots/2022/08/30/salam-n-hola/)
 - [PTE Request for WordPress 5.8.x](https://make.wordpress.org/polyglots/2022/08/29/pte-request-for-wordpress-5-8-x-3/)
 - [PTE Request for WooCommerce MyParcel](https://make.wordpress.org/polyglots/2022/08/29/pte-request-for-woocommerce-myparcel/)
 - [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/29/pte-request-for-shipping-live-4/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Openverse](https://make.wordpress.org/polyglots/2022/08/28/pte-request-for-openverse/)
 - [PTE Request for [Themeinwp Import Companion]](https://make.wordpress.org/polyglots/2022/08/27/pte-request-for-themeinwp-import-companion/)
 - [PTE Request for [Awesome Elements For Elementor]](https://make.wordpress.org/polyglots/2022/08/27/pte-request-for-awesome-elements-for-elementor/)
-- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/08/27/ive-suggested-translations-for-this-23/)
 <!-- POLYGLOTS:END -->
 
 ## Support
