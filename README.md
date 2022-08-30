@@ -437,6 +437,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.0.2 Security and Maintenance Release](https://wordpress.org/news/2022/08/wordpress-6-0-2-security-and-maintenance-release/)
 - [A New WordPress.org Homepage and Download Page](https://wordpress.org/news/2022/08/a-new-wordpress-org-homepage-and-download-page/)
 - [The Month in WordPress – July 2022](https://wordpress.org/news/2022/08/the-month-in-wordpress-july-2022/)
 - [WP Briefing: Episode 37: The World of WordPress on World Wide Web Day](https://wordpress.org/news/2022/08/episode-37-the-world-of-wordpress-on-world-wide-web-day/)
@@ -461,7 +462,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 30: A Sneak Peek at WordPress 6.0](https://wordpress.org/news/2022/05/episode-30-a-sneak-peek-at-wordpress-6-0/)
 - [People of WordPress: Meher Bala](https://wordpress.org/news/2022/04/people-of-wordpress-meher-bala/)
 - [WordPress 6.0 Beta 3](https://wordpress.org/news/2022/04/wordpress-6-0-beta-3/)
-- [WordPress 6.0 Beta 2](https://wordpress.org/news/2022/04/wordpress-6-0-beta-2/)
 <!-- NEWS:END -->
 
 ## Jobs
