@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Converting a Shortcode into a Block](https://wordpress.tv/2022/08/30/converting-a-shortcode-into-a-block/)
 - [What is the Domain Name System?](https://wordpress.tv/2022/08/29/what-is-the-domain-name-system/)
 - [How Do They Do That? The &lpar;Very&rpar; Basics of Block Theme Development](https://wordpress.tv/2022/08/28/how-do-they-do-that-the-very-basics-of-block-theme-development/)
 - [Nick Diego: Exploring the Power of Block Variations](https://wordpress.tv/2022/08/26/nick-diego-exploring-the-power-of-block-variations/)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Damon Cook: Block Theme Builders – Design with Figma](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
 - [Georgie-Ann Getton: Increasing productivity and avoiding burnout](https://wordpress.tv/2022/08/10/georgie-ann-getton-increasing-productivity-and-avoiding-burnout/)
 - [Using the create-block Tool](https://wordpress.tv/2022/08/10/using-the-create-block-tool/)
-- [Michelle Frechette: Accessibility is more than disability accommodation](https://wordpress.tv/2022/08/08/michelle-frechette-accessibility-is-more-than-disability-accommodation-2/)
 <!-- WPTV:END -->
 
 ## Marketing
