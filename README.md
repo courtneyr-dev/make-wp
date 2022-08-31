@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordPress Events Organiser Training](https://make.wordpress.org/community/2022/08/31/wordpress-events-organiser-training/)
 - [Meetup Organizer Newsletter: August 2022](https://make.wordpress.org/community/2022/08/19/meetup-organizer-newsletter-august-2022/)
 - [Call for Ideas: WordCamp US 2022 Contributor Day](https://make.wordpress.org/community/2022/08/15/call-for-ideas-wordcamp-us-2022-contributor-day/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 10, 2022](https://make.wordpress.org/community/2022/08/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-10-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Report: Inclusion and Diverse Speaker Workshops June 2022](https://make.wordpress.org/community/2022/07/22/report-inclusion-and-diverse-speaker-workshops-june-2022/)
 - [July Meetup Organizer newsletter](https://make.wordpress.org/community/2022/07/22/july-meetup-organizer-newsletter/)
 - [Deputy Feedback Wanted: Streamlining WordCamp Phases](https://make.wordpress.org/community/2022/07/22/deputy-feedback-wanted-streamlining-wordcamp-phases/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 13, 2022](https://make.wordpress.org/community/2022/07/20/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-13-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
