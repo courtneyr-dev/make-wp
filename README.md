@@ -185,16 +185,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [August 24th / 30th Supplemental SME Meeting Recap](https://make.wordpress.org/training/2022/08/31/august-24th-30th-supplemental-sme-meeting-recap/)
 - [August 2022 Monthly Faculty Meeting](https://make.wordpress.org/training/2022/08/29/august-2022-monthly-faculty-meeting/)
 - [Meeting Agenda for August 30, 2022](https://make.wordpress.org/training/2022/08/29/meeting-agenda-for-august-30-2022/)
 - [Training Team Meeting Recap – August 23](https://make.wordpress.org/training/2022/08/29/training-team-meeting-recap-august-23/)
 - [Documenting the Successful Launch of Japanese Online Workshops](https://make.wordpress.org/training/2022/08/27/documenting-the-successful-launch-of-japanese-online-workshops/)
-- [August 25th / 30th Supplemental SME Meeting](https://make.wordpress.org/training/2022/08/24/august-25th-30th-supplemental-sme-meeting/)
+- [August 24th / 30th Supplemental SME Meeting](https://make.wordpress.org/training/2022/08/24/august-25th-30th-supplemental-sme-meeting/)
 - [Meeting Agenda August 23, 2022](https://make.wordpress.org/training/2022/08/22/meeting-agenda-august-23-2022/)
 - [Training Team Meeting Recap – August 9](https://make.wordpress.org/training/2022/08/16/training-team-meeting-recap-august-9/)
 - [Meeting Agenda August 16, 2022](https://make.wordpress.org/training/2022/08/15/meeting-agenda-august-16-2022/)
 - [Minimizing Zoom Disruptions in Online Workshops](https://make.wordpress.org/training/2022/08/10/minimizing-zoom-disruptions-in-online-workshops/)
-- [Summary Update: Courses Currently in Development &lpar;9 August 2022&rpar;](https://make.wordpress.org/training/2022/08/09/summary-update-courses-currently-in-2/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
