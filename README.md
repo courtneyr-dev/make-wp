@@ -297,6 +297,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Building a header from scratch](https://wordpress.tv/2022/08/31/building-a-header-from-scratch/)
 - [David Perálvarez: Introducción a los LMS para crear Academias Online con WordPress](https://wordpress.tv/2022/08/30/david-peralvarez-david-peralvarez-introduccion-a-los-lms-para-crear-academias-online-con-wordpress/)
 - [Converting a Shortcode into a Block](https://wordpress.tv/2022/08/30/converting-a-shortcode-into-a-block/)
 - [What is the Domain Name System?](https://wordpress.tv/2022/08/29/what-is-the-domain-name-system/)
@@ -321,7 +322,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing… Domains!](https://wordpress.tv/2022/08/12/introducing-domains/)
 - [The Wide World of WordPress Events](https://wordpress.tv/2022/08/11/the-wide-world-of-wordpress-events/)
 - [Damon Cook: Block Theme Builders – Design with Figma](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
-- [Georgie-Ann Getton: Increasing productivity and avoiding burnout](https://wordpress.tv/2022/08/10/georgie-ann-getton-increasing-productivity-and-avoiding-burnout/)
 <!-- WPTV:END -->
 
 ## Marketing
