@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi. I’ve suggested translations for…](https://make.wordpress.org/polyglots/2022/08/31/hi-ive-suggested-translations-for-3/)
 - [Agenda: Weekly Polyglots Chat – August 29, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/30/agenda-weekly-polyglots-chat-august-29-2022-1300-utc/)
 - [PTE Request for eMart Shop and Joyas Shop](https://make.wordpress.org/polyglots/2022/08/30/pte-request-for-emart-shop-and-joyas-shop-theme/)
 - [Salam n Hola](https://make.wordpress.org/polyglots/2022/08/30/salam-n-hola/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Better Payment…](https://make.wordpress.org/polyglots/2022/08/28/pte-request-for-better-payment/)
 - [PTE Request for SeatReg](https://make.wordpress.org/polyglots/2022/08/28/pte-request-for-seatreg/)
 - [PTE Request for [WP ERP…](https://make.wordpress.org/polyglots/2022/08/28/pte-request-for-wp-erp-4/)
-- [PTE Request for Openverse](https://make.wordpress.org/polyglots/2022/08/28/pte-request-for-openverse/)
 <!-- POLYGLOTS:END -->
 
 ## Support
