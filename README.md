@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/create-block External Template](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/packages-create-block-external-template/)
 - [Block patterns](https://developer.wordpress.org/themes/advanced-topics/block-patterns/)
 - [Cherry-picking automation](https://developer.wordpress.org/block-editor/contributors/code/release/auto-cherry-picking/)
-- [Edit Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-widgets/)
-- [Reusable blocks](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-reusable-blocks/)
-- [Preferences](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-preferences/)
-- [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
-- [Rich Text](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-rich-text/)
-- [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
 - [Block directory](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-block-directory/)
+- [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
 - [Customize Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-customize-widgets/)
+- [Preferences](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-preferences/)
+- [Reusable blocks](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-reusable-blocks/)
+- [Edit Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-widgets/)
+- [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
 <!-- DEVHUB:END -->
 
 ## Themes
