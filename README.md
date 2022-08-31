@@ -209,6 +209,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Submitting Block Patterns to the Directory](https://learn.wordpress.org/lesson-plan/submitting-block-patterns-to-the-directory/)
 - [Template Editor](https://learn.wordpress.org/lesson-plan/template-editor/)
 - [What Is W3 Total Cache](https://learn.wordpress.org/lesson-plan/what-is-w3-total-cache/)
+- [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
+- [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
+- [Displaying the Post Comments Block to Block Themes](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
+- [How To Add and Remove Logo And Site Icon in Site Editor](https://learn.wordpress.org/lesson-plan/how-to-add-and-remove-logo-and-site-icon-in-site-editor/)
+- [How to Use and Contribute to the WordPress Photo Directory and Openverse](https://learn.wordpress.org/lesson-plan/how-to-use-and-contribute-to-the-wordpress-photo-directory-and-openverse/)
+- [Templates](https://learn.wordpress.org/lesson-plan/templates/)
+- [Introduction To Common Plugins](https://learn.wordpress.org/lesson-plan/introduction-to-common-plugins/)
+- [How to Create a Menu with the Navigation Block](https://learn.wordpress.org/lesson-plan/how-to-create-a-menu-with-the-navigation-block/)
+- [How to Build Low-Code Block Patterns](https://learn.wordpress.org/lesson-plan/how-to-build-low-code-block-patterns/)
+- [How to Create and Register a Block Pattern](https://learn.wordpress.org/lesson-plan/how-to-create-and-register-a-block-pattern__trashed/)
+- [Template Parts](https://learn.wordpress.org/lesson-plan/template-parts/)
+- [Difference between Reusable Blocks,  Block Pattern, Templates, Template Parts](https://learn.wordpress.org/lesson-plan/difference-between-reusable-blocks-block-pattern-templates-template-parts/)
+- [Use Duotone Filters to Change Color Effects](https://learn.wordpress.org/lesson-plan/use-duotone-filters-to-change-color-effects/)
+- [How to Style Your Site with Global Styles](https://learn.wordpress.org/lesson-plan/how-to-style-your-site-with-global-styles/)
+- [How to use the List View](https://learn.wordpress.org/lesson-plan/how-to-use-the-list-view/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
