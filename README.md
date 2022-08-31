@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Agenda, Dev Chat, August 31, 2022](https://make.wordpress.org/core/2022/08/31/agenda-dev-chat-august-31-2022/)
+- [Summary, Dev Chat, August 24, 2022](https://make.wordpress.org/core/2022/08/31/summary-dev-chat-august-24-2022/)
 - [Performance team meeting summary 30 August 2022](https://make.wordpress.org/core/2022/08/30/performance-team-meeting-summary-30-august-2022/)
 - [Editor Chat Agenda: 31 August 2022](https://make.wordpress.org/core/2022/08/30/editor-chat-agenda-31-august-2022/)
 - [Editor chat summary: 24 August, 2022](https://make.wordpress.org/core/2022/08/29/editor-chat-summary-10-august-2022-2-2/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Editor Improvement: Refining the template creation experience](https://make.wordpress.org/core/2022/08/25/core-editor-improvement-refining-the-template-creation-experience/)
 - [A Week in Core – August 22, 2022](https://make.wordpress.org/core/2022/08/24/a-week-in-core-august-22-2022/)
 - [Performance team meeting summary 23 August 2022](https://make.wordpress.org/core/2022/08/23/performance-team-meeting-summary-23-august-2022/)
-- [Devchat agenda, August 24, 2022](https://make.wordpress.org/core/2022/08/23/devchat-agenda-august-24-2022/)
-- [WordPress 6.0.2 RC1 is now available](https://make.wordpress.org/core/2022/08/23/wordpress-6-0-2-rc1-is-now-available/)
 <!-- CORE:END -->
 
 ## Design
