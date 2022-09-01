@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 14.0? &lpar;31 August&rpar;](https://make.wordpress.org/core/2022/09/01/whats-new-in-gutenberg-14-0-31-august/)
 - [Editor chat summary: 31 August, 2022](https://make.wordpress.org/core/2022/08/31/editor-chat-summary-10-august-2022-2-2-2/)
 - [Agenda, Dev Chat, August 31, 2022](https://make.wordpress.org/core/2022/08/31/agenda-dev-chat-august-31-2022/)
 - [Summary, Dev Chat, August 24, 2022](https://make.wordpress.org/core/2022/08/31/summary-dev-chat-august-24-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Use of accessibility-ready tag for block-based themes](https://make.wordpress.org/core/2022/08/29/xpost-use-of-accessibility-ready-tag-for-block-based-themes/)
 - [Performance Chat Agenda: 30 August 2022](https://make.wordpress.org/core/2022/08/26/performance-chat-agenda-30-august-2022/)
 - [Core Editor Improvement: Refining the template creation experience](https://make.wordpress.org/core/2022/08/25/core-editor-improvement-refining-the-template-creation-experience/)
-- [A Week in Core – August 22, 2022](https://make.wordpress.org/core/2022/08/24/a-week-in-core-august-22-2022/)
 <!-- CORE:END -->
 
 ## Design
