@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Simplifying the Admin Bar &amp; Global Navigation Menu](https://make.wordpress.org/meta/2022/09/01/simplifying-the-admin-bar-global-navigation-menu/)
 - [Navigation](https://make.wordpress.org/meta/2022/08/18/navigation/)
 - [Developing the redesigned Home and Download Pages](https://make.wordpress.org/meta/2022/08/01/developing-the-redesigned-home-and-download-pages/)
 - [X-post: Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/meta/2022/07/27/xpost-project-update-wordpress-org-homepage-and-download-page-mockups/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploration: improving DevHub](https://make.wordpress.org/meta/2022/07/01/exploration-improving-devhub/)
 - [Gutenberg Landing Page Launched](https://make.wordpress.org/meta/2022/06/16/gutenberg-landing-page-launched/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/meta/2022/05/26/xpost-announcement-incident-response-training/)
-- [Theme Review Improvements](https://make.wordpress.org/meta/2022/05/23/theme-reviews-improvements/)
 <!-- META:END -->
 
 ## Training
