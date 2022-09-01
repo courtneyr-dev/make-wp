@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Customizing a header with patterns](https://wordpress.tv/2022/08/31/customizing-a-header-with-patterns/)
 - [Building a header from scratch](https://wordpress.tv/2022/08/31/building-a-header-from-scratch/)
 - [David Perálvarez: Introducción a los LMS para crear Academias Online con WordPress](https://wordpress.tv/2022/08/30/david-peralvarez-david-peralvarez-introduccion-a-los-lms-para-crear-academias-online-con-wordpress/)
 - [Converting a Shortcode into a Block](https://wordpress.tv/2022/08/30/converting-a-shortcode-into-a-block/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jos Velasco: Construye una página web con WordPress sin código](https://wordpress.tv/2022/08/13/jos-velasco-construye-una-pagina-web-con-wordpress-sin-codigo/)
 - [Introducing… Domains!](https://wordpress.tv/2022/08/12/introducing-domains/)
 - [The Wide World of WordPress Events](https://wordpress.tv/2022/08/11/the-wide-world-of-wordpress-events/)
-- [Damon Cook: Block Theme Builders – Design with Figma](https://wordpress.tv/2022/08/10/block-theme-builders-design-with-figma/)
 <!-- WPTV:END -->
 
 ## Marketing
