@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Customizing a header with patterns](https://learn.wordpress.org/tutorial/customizing-a-header-with-patterns/)
 - [Creating a new header with blocks](https://learn.wordpress.org/tutorial/creating-a-new-header-with-blocks/)
 - [Customizing your post content layout](https://learn.wordpress.org/tutorial/customizing-your-post-content-layout/)
 - [Using the create-block Tool](https://learn.wordpress.org/tutorial/using-the-create-block-tool/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Submitting Block Patterns to the Directory](https://learn.wordpress.org/tutorial/submitting-block-patterns-to-the-directory/)
 - [The Difference Between Reusable Blocks, Block Patterns, Templates &amp; Template Parts](https://learn.wordpress.org/tutorial/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [Displaying the Post Comments block in Block Themes](https://learn.wordpress.org/tutorial/displaying-the-post-comments-block-in-block-themes/)
-- [Taking Advantage of Query Loops](https://learn.wordpress.org/tutorial/taking-advantage-of-query-loops/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
