@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: What’s new on LearnWP – August 2022](https://make.wordpress.org/community/2022/09/01/xpost-whats-new-on-learnwp-august-2022/)
 - [Community Team Meeting Agenda for Sept 1, 2022](https://make.wordpress.org/community/2022/08/31/community-team-meeting-agenda-for-sept-1-2022/)
 - [WordPress Events Organiser Training](https://make.wordpress.org/community/2022/08/31/wordpress-events-organiser-training/)
 - [Meetup Organizer Newsletter: August 2022](https://make.wordpress.org/community/2022/08/19/meetup-organizer-newsletter-august-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda 4 Aug 2022](https://make.wordpress.org/community/2022/08/04/community-team-meeting-agenda-4-aug-2022/)
 - [Announcing the 2021-2022 Annual Meetup Survey!](https://make.wordpress.org/community/2022/08/02/announcing-the-2021-2022-annual-meetup-survey/)
 - [Report: Inclusion and Diverse Speaker Workshops June 2022](https://make.wordpress.org/community/2022/07/22/report-inclusion-and-diverse-speaker-workshops-june-2022/)
-- [July Meetup Organizer newsletter](https://make.wordpress.org/community/2022/07/22/july-meetup-organizer-newsletter/)
 <!-- COMMUNITY:END -->
 
 ## Meta
