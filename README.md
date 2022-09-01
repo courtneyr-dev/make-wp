@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Openverse](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-openverse-2/)
+- [PTE Request for [Woocommerce Blocks]](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-woocommerce-blocks-7/)
+- [PTE Request for…](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-10/)
+- [PTE Request for smartarget-contact-us](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-smartarget-contact-us/)
+- [PTE Request for Operátornaklik](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-operatornaklik/)
+- [Hi. I’ve suggested translations for…](https://make.wordpress.org/polyglots/2022/09/01/hi-ive-suggested-translations-for-4/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/09/01/hi-dear-mentors-we-have-94/)
 - [Hi. I’ve suggested translations for…](https://make.wordpress.org/polyglots/2022/08/31/hi-ive-suggested-translations-for-3/)
 - [Agenda: Weekly Polyglots Chat – August 29, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/08/30/agenda-weekly-polyglots-chat-august-29-2022-1300-utc/)
 - [PTE Request for eMart Shop and Joyas Shop](https://make.wordpress.org/polyglots/2022/08/30/pte-request-for-emart-shop-and-joyas-shop-theme/)
-- [Salam n Hola](https://make.wordpress.org/polyglots/2022/08/30/salam-n-hola/)
-- [PTE Request for WordPress 5.8.x](https://make.wordpress.org/polyglots/2022/08/29/pte-request-for-wordpress-5-8-x-3/)
-- [PTE Request for WooCommerce MyParcel](https://make.wordpress.org/polyglots/2022/08/29/pte-request-for-woocommerce-myparcel/)
-- [PTE Request for Shipping Live…](https://make.wordpress.org/polyglots/2022/08/29/pte-request-for-shipping-live-4/)
-- [PTE Request for Better Payment…](https://make.wordpress.org/polyglots/2022/08/28/pte-request-for-better-payment/)
-- [PTE Request for SeatReg](https://make.wordpress.org/polyglots/2022/08/28/pte-request-for-seatreg/)
 <!-- POLYGLOTS:END -->
 
 ## Support
