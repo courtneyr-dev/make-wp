@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Rachel Winchester: WordPress as a paintbrush: an introduction to Internet Art](https://wordpress.tv/2022/09/02/rachel-winchester-wordpress-as-a-paintbrush-an-introduction-to-internet-art/)
 - [Let’s code! Diving into theme.json](https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/)
 - [A Personal Site in 1, 2, 3 with Patterns](https://wordpress.tv/2022/09/02/a-personal-site-in-1-2-3-with-patterns/)
 - [Introduction to the Dashboard](https://wordpress.tv/2022/09/01/introduction-to-the-dashboard/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Misha Rudrastyh: Создание темы с поддержкой Full Site Editing](https://wordpress.tv/2022/08/17/misha-rudrastyh-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%82%d0%b5%d0%bc%d1%8b-%d1%81-%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%be%d0%b9-full-site-editing/)
 - [Using Create Block Theme](https://wordpress.tv/2022/08/17/using-create-block-theme/)
 - [Ebonie Butler, Michelle Frechette, Josepha Haden,  Courtney Robertson: The WordPress all-women and non-binary release squad: Contributing to WordPress and more](https://wordpress.tv/2022/08/16/ebonie-butler-michelle-frechette-josepha-haden-courtney-robertson-the-wordpress-all-women-and-non-binary-release-squad-contributing-to-wordpress-and-more/)
-- [Creating a landing page with a block theme](https://wordpress.tv/2022/08/15/creating-a-landing-page-with-a-block-theme-2/)
 <!-- WPTV:END -->
 
 ## Marketing
