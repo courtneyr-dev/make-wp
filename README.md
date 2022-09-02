@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sam Tyurenkov: Оптимизация сайтов](https://wordpress.tv/2022/09/01/sam-tyurenkov-%d0%be%d0%bf%d1%82%d0%b8%d0%bc%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d1%81%d0%b0%d0%b9%d1%82%d0%be%d0%b2/)
 - [Customizing a header with patterns](https://wordpress.tv/2022/08/31/customizing-a-header-with-patterns/)
 - [Building a header from scratch](https://wordpress.tv/2022/08/31/building-a-header-from-scratch/)
 - [David Perálvarez: Introducción a los LMS para crear Academias Online con WordPress](https://wordpress.tv/2022/08/30/david-peralvarez-david-peralvarez-introduccion-a-los-lms-para-crear-academias-online-con-wordpress/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Olga Gleckler: Тестирование сайта с Cypress.io](https://wordpress.tv/2022/08/14/olga-gleckler-%d1%82%d0%b5%d1%81%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d0%b0%d0%b9%d1%82%d0%b0-%d1%81-cypress-io/)
 - [Jos Velasco: Construye una página web con WordPress sin código](https://wordpress.tv/2022/08/13/jos-velasco-construye-una-pagina-web-con-wordpress-sin-codigo/)
 - [Introducing… Domains!](https://wordpress.tv/2022/08/12/introducing-domains/)
-- [The Wide World of WordPress Events](https://wordpress.tv/2022/08/11/the-wide-world-of-wordpress-events/)
 <!-- WPTV:END -->
 
 ## Marketing
