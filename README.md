@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code! Diving into theme.json](https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/)
 - [A Personal Site in 1, 2, 3 with Patterns](https://wordpress.tv/2022/09/02/a-personal-site-in-1-2-3-with-patterns/)
 - [Introduction to the Dashboard](https://wordpress.tv/2022/09/01/introduction-to-the-dashboard/)
 - [Sam Tyurenkov: Оптимизация сайтов](https://wordpress.tv/2022/09/01/sam-tyurenkov-%d0%be%d0%bf%d1%82%d0%b8%d0%bc%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d1%81%d0%b0%d0%b9%d1%82%d0%be%d0%b2/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Create Block Theme](https://wordpress.tv/2022/08/17/using-create-block-theme/)
 - [Ebonie Butler, Michelle Frechette, Josepha Haden,  Courtney Robertson: The WordPress all-women and non-binary release squad: Contributing to WordPress and more](https://wordpress.tv/2022/08/16/ebonie-butler-michelle-frechette-josepha-haden-courtney-robertson-the-wordpress-all-women-and-non-binary-release-squad-contributing-to-wordpress-and-more/)
 - [Creating a landing page with a block theme](https://wordpress.tv/2022/08/15/creating-a-landing-page-with-a-block-theme-2/)
-- [Olga Gleckler: Тестирование сайта с Cypress.io](https://wordpress.tv/2022/08/14/olga-gleckler-%d1%82%d0%b5%d1%81%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d0%b0%d0%b9%d1%82%d0%b0-%d1%81-cypress-io/)
 <!-- WPTV:END -->
 
 ## Marketing
