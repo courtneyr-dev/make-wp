@@ -517,16 +517,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-24/)
+- [WordPress Technical Support Specialist](https://jobs.wordpress.net/job/wordpress-technical-support-specialist-2/)
+- [Sr Web Developer](https://jobs.wordpress.net/job/sr-web-developer-9/)
+- [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-21/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-200/)
 - [Project/Account &amp; Operations Manager](https://jobs.wordpress.net/job/project-account-operations-manager/)
 - [WordPress expert developer](https://jobs.wordpress.net/job/wordpress-expert-developer-2/)
 - [Senior Web Backend Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/senior-web-backend-developer-m-f-d/)
 - [Front-End &lpar;ReactJS&rpar; Developer](https://jobs.wordpress.net/job/front-end-reactjs-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-766/)
-- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-22/)
-- [Senior WordPress Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/senior-wordpress-developer-m-f-d/)
-- [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-17/)
-- [Frontend and Backend WordPress Developer at Baeldung](https://jobs.wordpress.net/job/frontend-and-backend-wordpress-developer-at-baeldung/)
 <!-- JOBS:END -->
 
 ## Central
