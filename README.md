@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Daniel Knoflicek: Growth Hacking im eCommerce | Mehr Umsatz mit Growth Hacking &lpar;DE&rpar;](https://wordpress.tv/2022/09/03/daniel-knoflicek-growth-hacking-im-ecommerce-mehr-umsatz-mit-growth-hacking-de/)
 - [Elena M. Brambilla: PHP 8, le novità che ci attendono!](https://wordpress.tv/2022/09/03/elena-m-brambilla-php-8-le-novita-che-ci-attendono/)
 - [Rachel Winchester: WordPress as a paintbrush: an introduction to Internet Art](https://wordpress.tv/2022/09/02/rachel-winchester-wordpress-as-a-paintbrush-an-introduction-to-internet-art/)
 - [Let’s code! Diving into theme.json](https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customizing your post content layout](https://wordpress.tv/2022/08/17/customizing-your-post-content-layout/)
 - [ブロックエディターでホームページを作ろう！](https://wordpress.tv/2022/08/17/%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/)
 - [Misha Rudrastyh: Создание темы с поддержкой Full Site Editing](https://wordpress.tv/2022/08/17/misha-rudrastyh-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%82%d0%b5%d0%bc%d1%8b-%d1%81-%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%be%d0%b9-full-site-editing/)
-- [Using Create Block Theme](https://wordpress.tv/2022/08/17/using-create-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
