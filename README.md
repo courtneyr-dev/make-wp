@@ -517,6 +517,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [React WordPress Gutenberg](https://jobs.wordpress.net/job/react-wordpress-gutenberg/)
 - [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-24/)
 - [WordPress Technical Support Specialist](https://jobs.wordpress.net/job/wordpress-technical-support-specialist-2/)
 - [Sr Web Developer](https://jobs.wordpress.net/job/sr-web-developer-9/)
@@ -526,7 +527,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress expert developer](https://jobs.wordpress.net/job/wordpress-expert-developer-2/)
 - [Senior Web Backend Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/senior-web-backend-developer-m-f-d/)
 - [Front-End &lpar;ReactJS&rpar; Developer](https://jobs.wordpress.net/job/front-end-reactjs-developer/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-766/)
 <!-- JOBS:END -->
 
 ## Central
