@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Improving DevHub Code References](https://make.wordpress.org/docs/2022/09/05/xpost-improving-devhub-code-references/)
 - [Documentation team meeting postponed to WCUS Contributor Day](https://make.wordpress.org/docs/2022/09/05/documentation-team-meeting-postponed-to-wcus-contributor-day/)
 - [Summary of Docs Team Biweekly Meeting August 30, 2022](https://make.wordpress.org/docs/2022/08/30/summary-of-docs-team-biweekly-meeting-august-30-2022/)
 - [Agenda for docs team bi-weekly meeting 30 August 2022](https://make.wordpress.org/docs/2022/08/30/agenda-for-docs-team-bi-weekly-meeting-30-august-2022/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of Docs Team Biweekly Meeting August 2, 2022](https://make.wordpress.org/docs/2022/08/03/summary-of-docs-team-biweekly-meeting-august-2-2022/)
 - [Agenda for docs team bi-weekly meeting 2 August 2022](https://make.wordpress.org/docs/2022/08/02/agenda-for-docs-team-bi-weekly-meeting-2-august-2022/)
 - [Summary of Docs Team Biweekly Meeting July 19th, 2022](https://make.wordpress.org/docs/2022/07/19/summary-of-docs-team-biweekly-meeting-july-19th-2022/)
-- [Agenda for docs team bi-weekly meeting 19 July 2022](https://make.wordpress.org/docs/2022/07/18/agenda-for-docs-team-bi-weekly-meeting-19-july-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
