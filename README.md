@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Local Avatars…](https://make.wordpress.org/polyglots/2022/09/06/pte-request-for-local-avatars/)
 - [PTE Request for MainWP Dashboard…](https://make.wordpress.org/polyglots/2022/09/05/pte-request-for-mainwp-dashboard/)
 - [PTE Request for CRM WordPress Plugin – RepairBuddy](https://make.wordpress.org/polyglots/2022/09/05/pte-request-for-crm-wordpress-plugin-repairbuddy/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/09/05/post-title-pte-request-for-51/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Darujme](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-darujme/)
 - [PTE Request for Openverse](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-openverse-2/)
 - [PTE Request for [Woocommerce Blocks]](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-woocommerce-blocks-7/)
-- [PTE Request for…](https://make.wordpress.org/polyglots/2022/09/01/pte-request-for-10/)
 <!-- POLYGLOTS:END -->
 
 ## Support
