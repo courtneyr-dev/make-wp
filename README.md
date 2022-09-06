@@ -309,7 +309,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Testing: WordPress for iOS 20.7](https://make.wordpress.org/test/2022/09/06/xpost-call-for-testing-wordpress-for-ios-20-7/)
 - [FSE Program Back to Basics Summary](https://make.wordpress.org/test/2022/09/06/fse-program-back-to-basics-summary/)
 - [X-post: Test Team Update: 5 September 2022](https://make.wordpress.org/test/2022/09/05/xpost-test-team-update-5-september-2022/)
-- [Test Team Rep for 2022-2023](https://make.wordpress.org/test/2022/09/01/test-team-rep-for-2022-2023/)
+- [Test Team Reps for 2022-2023](https://make.wordpress.org/test/2022/09/01/test-team-rep-for-2022-2023/)
 - [X-post: Test Team Update: 30 August 2022](https://make.wordpress.org/test/2022/08/30/xpost-test-team-update-30-august-2022/)
 - [Hallway Hangout: Discussion on Block Themes &lpar;25 Aug&rpar;](https://make.wordpress.org/test/2022/08/25/hallway-hangout-discussion-on-block-themes-25-aug/)
 - [X-post: Call for Testing: WordPress for Android 20.6](https://make.wordpress.org/test/2022/08/23/xpost-call-for-testing-wordpress-for-android-20-6/)
