@@ -446,6 +446,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Themes team update September 06, 2022](https://make.wordpress.org/updates/2022/09/06/themes-team-update-september-06-2022/)
 - [Plugin Status Change: 5 Sept 2022](https://make.wordpress.org/updates/2022/09/06/plugin-status-change-5-sept-2022/)
 - [Test Team Update: 5 September 2022](https://make.wordpress.org/updates/2022/09/05/test-team-update-5-september-2022/)
 - [What’s new on LearnWP – August 2022](https://make.wordpress.org/updates/2022/09/01/whats-new-on-learnwp-august-2022/)
@@ -455,7 +456,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mobile Team Update – August 23rd](https://make.wordpress.org/updates/2022/08/23/mobile-team-update-august-23rd/)
 - [Themes team update August 23, 2022](https://make.wordpress.org/updates/2022/08/23/themes-team-update-august-23-2022/)
 - [X-post: Proposal: Updating WP_MEMORY_LIMIT](https://make.wordpress.org/updates/2022/08/18/xpost-proposal-updating-wp_memory_limit/)
-- [Test Team Update: 16 August 2022](https://make.wordpress.org/updates/2022/08/16/test-team-update-16-august-2022/)
 <!-- UPDATES:END -->
 
 ## Project
