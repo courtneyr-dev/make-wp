@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: TT3 default theme: Announcing style variation selections](https://make.wordpress.org/themes/2022/09/07/xpost-tt3-default-theme-announcing-style-variation-selections/)
 - [X-post: Themes team update September 06, 2022](https://make.wordpress.org/themes/2022/09/06/xpost-themes-team-update-september-06-2022/)
 - [X-post: Use of accessibility-ready tag for block-based themes](https://make.wordpress.org/themes/2022/08/29/xpost-use-of-accessibility-ready-tag-for-block-based-themes/)
 - [X-post: Hallway Hangout: Discussion on Block Themes &lpar;25 Aug&rpar;](https://make.wordpress.org/themes/2022/08/25/xpost-hallway-hangout-discussion-on-block-themes-25-aug/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for August 23, 2022](https://make.wordpress.org/themes/2022/08/22/themes-team-meeting-agenda-for-august-23-2022/)
 - [X-post: Themes team update August 16, 2022](https://make.wordpress.org/themes/2022/08/16/xpost-themes-team-update-august-16-2022/)
 - [Testing and Feedback for the Fluid Typography Feature](https://make.wordpress.org/themes/2022/08/15/testing-and-feedback-for-the-fluid-typography-feature/)
-- [X-post: Twenty Twenty-Three default theme — Project kickoff](https://make.wordpress.org/themes/2022/08/10/xpost-twenty-twenty-three-default-theme-project-kickoff/)
 <!-- THEMES:END -->
 
 ## Plugins
