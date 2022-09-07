@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [2023 Global Sponsorship Working Group](https://make.wordpress.org/community/2022/09/07/2023-global-sponsorship-working-group/)
 - [WordCamp US 2022 Contributor Day Plans](https://make.wordpress.org/community/2022/09/06/wordcamp-us-2022-contributor-day-plans/)
 - [X-post: What’s new on LearnWP – August 2022](https://make.wordpress.org/community/2022/09/01/xpost-whats-new-on-learnwp-august-2022/)
 - [Community Team Meeting Agenda for Sept 1, 2022](https://make.wordpress.org/community/2022/08/31/community-team-meeting-agenda-for-sept-1-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 10, 2022](https://make.wordpress.org/community/2022/08/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-10-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 27, 2022](https://make.wordpress.org/community/2022/08/05/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-27-2022/)
 - [Community Team Meeting Agenda 4 Aug 2022](https://make.wordpress.org/community/2022/08/04/community-team-meeting-agenda-4-aug-2022/)
-- [Announcing the 2021-2022 Annual Meetup Survey!](https://make.wordpress.org/community/2022/08/02/announcing-the-2021-2022-annual-meetup-survey/)
 <!-- COMMUNITY:END -->
 
 ## Meta
