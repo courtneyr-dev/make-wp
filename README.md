@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Creative Side of Blocks, Vol. 2](https://wordpress.tv/2022/09/07/the-creative-side-of-blocks-vol-2/)
 - [Styling your WordPress Blocks](https://wordpress.tv/2022/09/05/styling-your-wordpress-blocks/)
 - [Daniel Knoflicek: Growth Hacking im eCommerce | Mehr Umsatz mit Growth Hacking &lpar;DE&rpar;](https://wordpress.tv/2022/09/03/daniel-knoflicek-growth-hacking-im-ecommerce-mehr-umsatz-mit-growth-hacking-de/)
 - [Elena M. Brambilla: PHP 8, le novità che ci attendono!](https://wordpress.tv/2022/09/03/elena-m-brambilla-php-8-le-novita-che-ci-attendono/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Damon Cook: Block Theme Builders – Figma to Block Theme](https://wordpress.tv/2022/08/19/block-theme-builders-figma-to-block-theme/)
 - [Intro to Multisites](https://wordpress.tv/2022/08/18/intro-to-multisites/)
 - [Customizing your post content layout](https://wordpress.tv/2022/08/17/customizing-your-post-content-layout/)
-- [ブロックエディターでホームページを作ろう！](https://wordpress.tv/2022/08/17/%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/)
 <!-- WPTV:END -->
 
 ## Marketing
