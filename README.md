@@ -488,6 +488,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Dropping security updates for WordPress versions 3.7 through 4.0](https://wordpress.org/news/2022/09/dropping-security-updates-for-wordpress-versions-3-7-through-4-0/)
 - [The Month in WordPress – August 2022](https://wordpress.org/news/2022/09/the-month-in-wordpress-august-2022/)
 - [WP Briefing: Episode 38: All About LearnWP with Special Guest Hauwa Abashiya](https://wordpress.org/news/2022/09/episode-38-all-about-learnwp-with-special-guest-hauwa-abashiya/)
 - [People of WordPress: Bud Kraus](https://wordpress.org/news/2022/08/people-of-wordpress-bud-kraus/)
@@ -512,7 +513,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.0 Release Candidate 2 &lpar;RC2&rpar; Now Available for Testing](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-2-rc2-now-available-for-testing/)
 - [The Month in WordPress – April 2022](https://wordpress.org/news/2022/05/the-month-in-wordpress-april-2022/)
 - [WordPress 6.0 Release Candidate 1](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-1/)
-- [WordPress 6.0 Beta 4](https://wordpress.org/news/2022/05/wordpress-6-0-beta-4/)
 <!-- NEWS:END -->
 
 ## Jobs
