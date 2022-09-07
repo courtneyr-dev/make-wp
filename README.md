@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Word counting type setting for Locales](https://make.wordpress.org/polyglots/2022/09/07/word-counting-type-setting-for-locales/)
 - [Agenda: Weekly Polyglots Chat – Sep. 7, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/07/agenda-weekly-polyglots-chat-sep-7-2022-700-utc/)
 - [Announcement: WordPress Translation Day 2022](https://make.wordpress.org/polyglots/2022/09/06/announcement-wordpress-translation-day-2022/)
 - [I am the theme author…](https://make.wordpress.org/polyglots/2022/09/06/i-am-the-theme-author-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Local Avatars…](https://make.wordpress.org/polyglots/2022/09/06/pte-request-for-local-avatars/)
 - [PTE Request for MainWP Dashboard…](https://make.wordpress.org/polyglots/2022/09/05/pte-request-for-mainwp-dashboard/)
 - [PTE Request for CRM WordPress Plugin – RepairBuddy](https://make.wordpress.org/polyglots/2022/09/05/pte-request-for-crm-wordpress-plugin-repairbuddy/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/09/05/post-title-pte-request-for-51/)
 <!-- POLYGLOTS:END -->
 
 ## Support
