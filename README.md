@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Customizing a header with patterns](https://wordpress.tv/2022/09/07/customizing-a-header-with-patterns-2/)
 - [The Creative Side of Blocks, Vol. 2](https://wordpress.tv/2022/09/07/the-creative-side-of-blocks-vol-2/)
 - [Styling your WordPress Blocks](https://wordpress.tv/2022/09/05/styling-your-wordpress-blocks/)
 - [Daniel Knoflicek: Growth Hacking im eCommerce | Mehr Umsatz mit Growth Hacking &lpar;DE&rpar;](https://wordpress.tv/2022/09/03/daniel-knoflicek-growth-hacking-im-ecommerce-mehr-umsatz-mit-growth-hacking-de/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nick Diego: Taking Block Patterns to the Next Level](https://wordpress.tv/2022/08/19/nick-diego-taking-block-patterns-to-the-next-level/)
 - [Damon Cook: Block Theme Builders – Figma to Block Theme](https://wordpress.tv/2022/08/19/block-theme-builders-figma-to-block-theme/)
 - [Intro to Multisites](https://wordpress.tv/2022/08/18/intro-to-multisites/)
-- [Customizing your post content layout](https://wordpress.tv/2022/08/17/customizing-your-post-content-layout/)
 <!-- WPTV:END -->
 
 ## Marketing
