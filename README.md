@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Customizing a footer with patterns](https://learn.wordpress.org/tutorial/customizing-a-footer-with-patterns/)
 - [Styling your WordPress Blocks](https://learn.wordpress.org/tutorial/styling-your-wordpress-block/)
 - [Customizing a header with patterns](https://learn.wordpress.org/tutorial/customizing-a-header-with-patterns/)
 - [Converting a Shortcode into a Block](https://learn.wordpress.org/tutorial/converting-a-shortcode-into-a-block/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Applying Duotone Filters to Change Color Effects](https://learn.wordpress.org/tutorial/applying-duotone-filters-to-change-color-effects/)
 - [Finding Images Using the WordPress Photo Directory](https://learn.wordpress.org/tutorial/finding-images-using-the-wordpress-photo-directory/)
 - [Finding Images Using Openverse](https://learn.wordpress.org/tutorial/finding-images-using-openverse/)
-- [Submitting Block Patterns to the Directory](https://learn.wordpress.org/tutorial/submitting-block-patterns-to-the-directory/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
