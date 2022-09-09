@@ -306,6 +306,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Week in Test: 8 September 2022](https://make.wordpress.org/test/2022/09/08/week-in-test-8-september-2022/)
 - [X-post: Full-Width Blocks and Root Padding in WordPress 6.1](https://make.wordpress.org/test/2022/09/08/xpost-full-width-blocks-and-root-padding-in-wordpress-6-1/)
 - [X-post: Call for Testing: WordPress for iOS 20.7](https://make.wordpress.org/test/2022/09/06/xpost-call-for-testing-wordpress-for-ios-20-7/)
 - [FSE Program Back to Basics Summary](https://make.wordpress.org/test/2022/09/06/fse-program-back-to-basics-summary/)
@@ -315,7 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Discussion on Block Themes &lpar;25 Aug&rpar;](https://make.wordpress.org/test/2022/08/25/hallway-hangout-discussion-on-block-themes-25-aug/)
 - [X-post: Call for Testing: WordPress for Android 20.6](https://make.wordpress.org/test/2022/08/23/xpost-call-for-testing-wordpress-for-android-20-6/)
 - [X-post: Call for Testing: WordPress for iOS 20.6](https://make.wordpress.org/test/2022/08/22/xpost-call-for-testing-wordpress-for-ios-20-6/)
-- [Week in Test: 16 August 2022](https://make.wordpress.org/test/2022/08/16/week-in-test-16-august-2022/)
 <!-- TEST:END -->
 
 ## TV
