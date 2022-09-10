@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Joyas Shop](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-joyas-shop/)
 - [PTE Request for WooCommerce PayPal Payments](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-woocommerce-paypal-payments/)
 - [PTE Request for Performance Lab Plugin](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-performance-lab-plugin/)
 - [X-post: Looking for feedback: Handbook page about content localization](https://make.wordpress.org/polyglots/2022/09/10/xpost-looking-for-feedback-handbook-page-about-content-localization/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Delivery Date…](https://make.wordpress.org/polyglots/2022/09/08/pte-request-for-delivery-date/)
 - [Word counting type setting for Locales](https://make.wordpress.org/polyglots/2022/09/07/word-counting-type-setting-for-locales/)
 - [Agenda: Weekly Polyglots Chat – Sep. 7, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/07/agenda-weekly-polyglots-chat-sep-7-2022-700-utc/)
-- [Announcement: WordPress Translation Day 2022](https://make.wordpress.org/polyglots/2022/09/06/announcement-wordpress-translation-day-2022/)
 <!-- POLYGLOTS:END -->
 
 ## Support
