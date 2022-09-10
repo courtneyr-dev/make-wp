@@ -555,6 +555,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Griñón for E-Commerce – Madrid](https://central.wordcamp.org/wordcamps/wordcamp-grinon/)
 - [WordCamp Gresik, East Java, Indonesia](https://central.wordcamp.org/wordcamps/wordcamp-gresik-east-java-indonesia/)
 - [WordCamp Nepal](https://central.wordcamp.org/wordcamps/wordcamp-nepal-5/)
+- [WordCamp Kolkata, West Bengal, India](https://central.wordcamp.org/wordcamps/wordcamp-kolkata-west-bengal-india-2/)
 - [WordCamp Kathmandu, Bagmati, Nepal](https://central.wordcamp.org/wordcamps/wordcamp-kathmandu-bagmati-nepal-2/)
 - [WordCamp Jinja](https://central.wordcamp.org/wordcamps/wordcamp-jinja-2022/)
 - [WordCamp Italia](https://central.wordcamp.org/wordcamps/wordcamp-italia-2022/)
@@ -564,7 +565,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Asia](https://central.wordcamp.org/wordcamps/wordcamp-bangkok-thailand-wordcamp-asia/)
 - [WordCamp Pontevedra](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-pontevedra-spain-2/)
 - [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-seville-spain/)
-- [WordCamp Irun](https://central.wordcamp.org/wordcamps/wordcamp-irun-2/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
