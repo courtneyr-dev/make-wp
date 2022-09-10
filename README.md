@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Looking for feedback: Handbook page about content localization](https://make.wordpress.org/training/2022/09/10/looking-for-feedback-handbook-page-about-content-localization/)
 - [Training Team Meeting Recap – September 6](https://make.wordpress.org/training/2022/09/07/training-team-meeting-recap-september-6/)
 - [Proposal for GitHub Process Updates](https://make.wordpress.org/training/2022/09/07/proposal-for-github-process-updates/)
 - [Meeting Agenda for September 6, 2022](https://make.wordpress.org/training/2022/09/05/meeting-agenda-for-september-6-2022/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [August 24th / 30th Supplemental SME Meeting Recap](https://make.wordpress.org/training/2022/08/31/august-24th-30th-supplemental-sme-meeting-recap/)
 - [August 2022 Monthly Faculty Meeting](https://make.wordpress.org/training/2022/08/29/august-2022-monthly-faculty-meeting/)
 - [Meeting Agenda for August 30, 2022](https://make.wordpress.org/training/2022/08/29/meeting-agenda-for-august-30-2022/)
-- [Training Team Meeting Recap – August 23](https://make.wordpress.org/training/2022/08/29/training-team-meeting-recap-august-23/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
