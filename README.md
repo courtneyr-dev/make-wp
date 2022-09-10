@@ -277,6 +277,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s Build a Custom Block in One Hour](https://learn.wordpress.org/?meeting=lets-build-a-custom-block-in-one-hour)
 - [Block Theme Builders: Choosing &amp; Using Fonts](https://learn.wordpress.org/?meeting=block-theme-builders-choosing-using-fonts)
 - [Block &amp; Theme Global Styles Customization](https://learn.wordpress.org/?meeting=block-theme-global-styles-customization)
 - [All About Reusable Blocks](https://learn.wordpress.org/?meeting=all-about-reusable-blocks)
@@ -301,7 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intro to Multisites](https://learn.wordpress.org/?meeting=intro-to-multisites)
 - [Troubleshooting in WordPress](https://learn.wordpress.org/?meeting=troubleshooting-in-wordpress)
 - [Using Create Block Theme](https://learn.wordpress.org/?meeting=using-create-block-theme)
-- [Taking Block Patterns to the Next Level](https://learn.wordpress.org/?meeting=taking-block-patterns-to-the-next-level)
 <!-- SLS:END -->
 
 ## Test
