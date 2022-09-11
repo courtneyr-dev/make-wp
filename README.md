@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Canonical Plugins Revisited](https://make.wordpress.org/core/2022/09/11/canonical-plugins-revisited/)
+- [WebP in Core for 6.1](https://make.wordpress.org/core/2022/09/11/webp-in-core-for-6-1/)
 - [Agenda for devchat, special #WCUS session, September 11, 2022](https://make.wordpress.org/core/2022/09/08/agenda-for-devchat-special-wcus-session-september-11-2022/)
 - [Performance Chat Agenda: 13 September 2022](https://make.wordpress.org/core/2022/09/08/performance-chat-agenda-13-september-2022/)
 - [X-post: Dropping security updates for WordPress versions 3.7 through 4.0](https://make.wordpress.org/core/2022/09/07/xpost-dropping-security-updates-for-wordpress-versions-3-7-through-4-0/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Devchat agenda: postponed to September 11](https://make.wordpress.org/core/2022/09/07/devchat-agenda-postponed-to-september-11/)
 - [Performance team meeting summary 6 September 2022](https://make.wordpress.org/core/2022/09/06/performance-team-meeting-summary-6-september-2022/)
 - [6.1 Product Walk-Through](https://make.wordpress.org/core/2022/09/05/6-1-product-walk-through/)
-- [Editor chat agenda – 7th September 2022](https://make.wordpress.org/core/2022/09/05/editor-chat-agenda-7th-september-2022/)
-- [X-post: Improving DevHub Code References](https://make.wordpress.org/core/2022/09/05/xpost-improving-devhub-code-references/)
 <!-- CORE:END -->
 
 ## Design
