@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translating for the user … isn’t it?](https://make.wordpress.org/polyglots/2022/09/12/translating-for-the-user-isnt-it/)
 - [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/09/12/pte-request-for-safelayout-cute-preloader-2/)
 - [PTE Request for PDF Invoices and Packing Slips For WooCommerce](https://make.wordpress.org/polyglots/2022/09/12/pte-request-for-pdf-invoices-and-packing-slips-for-woocommerce/)
 - [PTE Request for Joyas Shop](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-joyas-shop/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for the Family Wiki Plugin](https://make.wordpress.org/polyglots/2022/09/09/pte-request-for-the-family-wiki-plugin/)
 - [PTE Request for DR SARA COVID](https://make.wordpress.org/polyglots/2022/09/09/pte-request-for-dr-sara-covid/)
 - [PTE Request for Meta Generator…](https://make.wordpress.org/polyglots/2022/09/08/pte-request-for-meta-generator/)
-- [PTE Request for Delivery Date…](https://make.wordpress.org/polyglots/2022/09/08/pte-request-for-delivery-date/)
 <!-- POLYGLOTS:END -->
 
 ## Support
