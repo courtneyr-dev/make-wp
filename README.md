@@ -550,6 +550,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [Community Summit 2023](https://central.wordcamp.org/wordcamps/community-summit-2023/)
+- [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2023/)
 - [WordCamp Valencia](https://central.wordcamp.org/wordcamps/wordcamp-valencia/)
 - [WordCamp Nagpur 2022](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-2/)
 - [WordCamp Griñón for E-Commerce – Madrid](https://central.wordcamp.org/wordcamps/wordcamp-grinon/)
@@ -560,8 +562,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Jinja](https://central.wordcamp.org/wordcamps/wordcamp-jinja-2022/)
 - [WordCamp Italia](https://central.wordcamp.org/wordcamps/wordcamp-italia-2022/)
 - [WordCamp San José / Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-5/)
-- [WordCamp Netherlands](https://central.wordcamp.org/wordcamps/wordcamp-netherlands-2/)
-- [WordCamp Warsaw, Poland](https://central.wordcamp.org/wordcamps/wordcamp-warsaw-poland-3/)
 - [WordCamp Asia](https://central.wordcamp.org/wordcamps/wordcamp-bangkok-thailand-wordcamp-asia/)
 - [WordCamp Pontevedra](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-pontevedra-spain-2/)
 - [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-seville-spain/)
