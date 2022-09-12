@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Devchat summary, September 11, 2022](https://make.wordpress.org/core/2022/09/11/devchat-summary-september-11-2022/)
+- [New is_login_screen&lpar;&rpar; function for determining if a page is the login screen](https://make.wordpress.org/core/2022/09/11/new-is_login_screen-function-for-determining-if-a-page-is-the-login-screen/)
 - [Canonical Plugins Revisited](https://make.wordpress.org/core/2022/09/11/canonical-plugins-revisited/)
 - [WebP in Core for 6.1](https://make.wordpress.org/core/2022/09/11/webp-in-core-for-6-1/)
 - [Agenda for devchat, special #WCUS session, September 11, 2022](https://make.wordpress.org/core/2022/09/08/agenda-for-devchat-special-wcus-session-september-11-2022/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Week in Core – September 5, 2022](https://make.wordpress.org/core/2022/09/07/a-week-in-core-september-5-2022/)
 - [Core Editor chat summary: 7th September 2022](https://make.wordpress.org/core/2022/09/07/core-editor-chat-summary-7th-september-2022/)
 - [Devchat agenda: postponed to September 11](https://make.wordpress.org/core/2022/09/07/devchat-agenda-postponed-to-september-11/)
-- [Performance team meeting summary 6 September 2022](https://make.wordpress.org/core/2022/09/06/performance-team-meeting-summary-6-september-2022/)
-- [6.1 Product Walk-Through](https://make.wordpress.org/core/2022/09/05/6-1-product-walk-through/)
 <!-- CORE:END -->
 
 ## Design
