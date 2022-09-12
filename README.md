@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [A Chat with Matt Mullenweg: WordCamp US 2022 Q&amp;A](https://wordpress.tv/2022/09/12/a-chat-with-matt-mullenweg-wordcamp-us-2022-qa/)
 - [All About Reusable Blocks](https://wordpress.tv/2022/09/09/all-about-reusable-blocks/)
 - [Customizing a header with patterns](https://wordpress.tv/2022/09/07/customizing-a-header-with-patterns-2/)
 - [The Creative Side of Blocks, Vol. 2](https://wordpress.tv/2022/09/07/the-creative-side-of-blocks-vol-2/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Converting a Shortcode into a Block](https://wordpress.tv/2022/08/23/lets-code-converting-a-shortcode-into-a-block/)
 - [Nici Catton: What is “Hybrid Agile” and why is it helpful in larger organizations](https://wordpress.tv/2022/08/21/nici-catton-what-is-hybrid-agile-and-why-is-it-helpful-in-larger-organizations/)
 - [Nick Diego: Taking Block Patterns to the Next Level](https://wordpress.tv/2022/08/19/nick-diego-taking-block-patterns-to-the-next-level/)
-- [Damon Cook: Block Theme Builders – Figma to Block Theme](https://wordpress.tv/2022/08/19/block-theme-builders-figma-to-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
