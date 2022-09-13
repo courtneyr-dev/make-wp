@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Global Styles Filters](https://developer.wordpress.org/block-editor/reference-guides/filters/global-styles-filters/)
 - [Tools &amp; Resources](https://developer.wordpress.org/themes/basics/tools-resources/)
 - [Propagating updates for block types](https://developer.wordpress.org/block-editor/how-to-guides/propagating-updates/)
 - [@wordpress/create-block External Template](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/packages-create-block-external-template/)
@@ -122,7 +123,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cherry-picking automation](https://developer.wordpress.org/block-editor/contributors/code/release/auto-cherry-picking/)
 - [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
 - [Block directory](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-block-directory/)
-- [Customize Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-customize-widgets/)
 - [Edit Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-widgets/)
 - [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
 <!-- DEVHUB:END -->
