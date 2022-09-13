@@ -517,6 +517,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-44/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-14/)
 - [Technical Support](https://jobs.wordpress.net/job/technical-support-3/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-768/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-77/)
@@ -525,8 +527,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remote Freelance Marketing Copywriter](https://jobs.wordpress.net/job/remote-freelance-marketing-copywriter/)
 - [React WordPress Gutenberg](https://jobs.wordpress.net/job/react-wordpress-gutenberg/)
 - [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-24/)
-- [WordPress Technical Support Specialist](https://jobs.wordpress.net/job/wordpress-technical-support-specialist-2/)
-- [Sr Web Developer](https://jobs.wordpress.net/job/sr-web-developer-9/)
 <!-- JOBS:END -->
 
 ## Central
