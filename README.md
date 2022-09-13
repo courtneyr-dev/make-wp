@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Heroku Free Tier Being Retired](https://make.wordpress.org/plugins/2022/09/13/heroku-free-tier-being-retired/)
 - [Top reasons not to use setlocale&lpar;&rpar; for character encoding conversion](https://make.wordpress.org/plugins/2022/09/09/top-reasons-not-to-use-setlocale-for-character-encoding-conversion/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/plugins/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [Proposal for a WordPress plugin checker](https://make.wordpress.org/plugins/2022/07/05/proposal-for-a-wordpress-plugin-checker/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s The Deal with Invalid Reviews?](https://make.wordpress.org/plugins/2022/06/15/whats-the-deal-with-invalid-reviews/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/plugins/2022/05/26/xpost-announcement-incident-response-training/)
 - [Rejoice to sanitize_url&lpar;&rpar;](https://make.wordpress.org/plugins/2022/05/25/rejoice-to-sanitize_url/)
-- [Featured/Beta Plugins Now Limit Changes](https://make.wordpress.org/plugins/2022/04/15/featured-beta-plugins-now-limit-changes/)
 <!-- PLUGINS:END -->
 
 ## Community
