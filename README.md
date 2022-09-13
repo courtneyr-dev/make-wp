@@ -418,6 +418,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Community Meeting Recap &lpar;13 September 2022&rpar;](https://make.wordpress.org/openverse/2022/09/13/community-meeting-recap-13-september-2022/)
 - [Frontend Release v3.4.8 and a call for a11y testing](https://make.wordpress.org/openverse/2022/09/07/frontend-release-v3-4-8-and-a-call-for-a11y-testing/)
 - [Community meeting recap &lpar;6 September 2022&rpar;](https://make.wordpress.org/openverse/2022/09/07/community-meeting-recap-6-september-2022/)
 - [Openverse Biweekly Update – September 5th](https://make.wordpress.org/openverse/2022/09/05/openverse-biweekly-update-september-5th/)
@@ -427,7 +428,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Openverse Monthly Priorities Meeting 2022-09-07](https://make.wordpress.org/openverse/2022/08/26/openverse-monthly-priorities-meeting-2022-09-07/)
 - [Community Meeting Recap &lpar;23 August 2022&rpar;](https://make.wordpress.org/openverse/2022/08/23/community-meeting-recap-23-august-2022/)
 - [Frontend Release v3.4.4](https://make.wordpress.org/openverse/2022/08/23/frontend-release-v3-4-4/)
-- [Openverse Priorities Brainstorm](https://make.wordpress.org/openverse/2022/08/22/openverse-priorities-brainstorm/)
 <!-- OPENVERSE:END -->
 
 ## Photos
