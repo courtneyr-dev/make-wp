@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Testing and Feedback for using block based template parts in classic themes](https://make.wordpress.org/themes/2022/09/12/testing-and-feedback-for-using-block-based-template-parts-in-classic-themes/)
 - [Themes team meeting agenda for September 13, 2022](https://make.wordpress.org/themes/2022/09/12/themes-team-meeting-agenda-for-september-13-2022/)
 - [Full-Width Blocks and Root Padding in WordPress 6.1](https://make.wordpress.org/themes/2022/09/07/full-width-blocks-and-root-padding-in-wordpress-6-1/)
 - [X-post: TT3 default theme: Announcing style variation selections](https://make.wordpress.org/themes/2022/09/07/xpost-tt3-default-theme-announcing-style-variation-selections/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: TT3 default theme: One week left to submit style variations](https://make.wordpress.org/themes/2022/08/24/xpost-tt3-default-theme-one-week-left-to-submit-style-variations/)
 - [Themes Team Meeting Notes – August 23, 2022](https://make.wordpress.org/themes/2022/08/23/themes-team-meeting-notes-august-23-2022/)
 - [X-post: Themes team update August 23, 2022](https://make.wordpress.org/themes/2022/08/23/xpost-themes-team-update-august-23-2022/)
-- [Themes team meeting agenda for August 23, 2022](https://make.wordpress.org/themes/2022/08/22/themes-team-meeting-agenda-for-august-23-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
