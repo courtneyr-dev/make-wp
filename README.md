@@ -163,10 +163,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on LearnWP – August 2022](https://make.wordpress.org/community/2022/09/01/xpost-whats-new-on-learnwp-august-2022/)
 - [Community Team Meeting Agenda for Sept 1, 2022](https://make.wordpress.org/community/2022/08/31/community-team-meeting-agenda-for-sept-1-2022/)
 - [WordPress Events Organiser Training](https://make.wordpress.org/community/2022/08/31/wordpress-events-organiser-training/)
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 24, 2022](https://make.wordpress.org/community/2022/08/25/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-24-2022/)
 - [Meetup Organizer Newsletter: August 2022](https://make.wordpress.org/community/2022/08/19/meetup-organizer-newsletter-august-2022/)
 - [Call for Ideas: WordCamp US 2022 Contributor Day](https://make.wordpress.org/community/2022/08/15/call-for-ideas-wordcamp-us-2022-contributor-day/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 10, 2022](https://make.wordpress.org/community/2022/08/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-10-2022/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 27, 2022](https://make.wordpress.org/community/2022/08/05/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-27-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
