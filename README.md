@@ -342,7 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customizing a header with patterns](https://wordpress.tv/2022/09/07/customizing-a-header-with-patterns-2/)
 - [The Creative Side of Blocks, Vol. 2](https://wordpress.tv/2022/09/07/the-creative-side-of-blocks-vol-2/)
 - [Styling your WordPress Blocks](https://wordpress.tv/2022/09/05/styling-your-wordpress-blocks/)
-- [Daniel Knoflicek: Growth Hacking im eCommerce | Mehr Umsatz mit Growth Hacking &lpar;DE&rpar;](https://wordpress.tv/2022/09/03/daniel-knoflicek-growth-hacking-im-ecommerce-mehr-umsatz-mit-growth-hacking-de/)
+- [Growth hacking im eCommerce | Mehr umsatz mit growth hacking &lpar;DE&rpar;](https://wordpress.tv/2022/09/03/daniel-knoflicek-growth-hacking-im-ecommerce-mehr-umsatz-mit-growth-hacking-de/)
 - [Elena M. Brambilla: PHP 8, le novità che ci attendono!](https://wordpress.tv/2022/09/03/elena-m-brambilla-php-8-le-novita-che-ci-attendono/)
 - [WordPress as a paintbrush: an introduction to Internet Art](https://wordpress.tv/2022/09/02/rachel-winchester-wordpress-as-a-paintbrush-an-introduction-to-internet-art/)
 - [Let’s code! Diving into theme.json](https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/)
