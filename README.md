@@ -363,7 +363,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Marketing
 <!-- MARKETING:START -->
 - [Agenda, WordPress global Marketing Team meeting, September 14, 2022](https://make.wordpress.org/marketing/2022/09/14/agenda-wordpress-global-marketing-team-meeting-september-14-2022/)
-- [Notes, WordPress global Marketing Team meeting, September 13, 2022](https://make.wordpress.org/marketing/2022/09/13/notes-wordpress-global-marketing-team-meeting-september-13-2022/)
+- [Notes, WordPress global Marketing Team meeting, September 7, 2022](https://make.wordpress.org/marketing/2022/09/13/notes-wordpress-global-marketing-team-meeting-september-07-2022/)
 - [Agenda, global Marketing Team meeting, September 7, 2022](https://make.wordpress.org/marketing/2022/09/07/agenda-global-marketing-team-meeting-september-7-2022/)
 - [Notes: Global Marketing Team Meeting, August 31, 2022](https://make.wordpress.org/marketing/2022/09/07/notes-global-marketing-team-meeting-august-31-2022/)
 - [X-post: What’s new on LearnWP – August 2022](https://make.wordpress.org/marketing/2022/09/01/xpost-whats-new-on-learnwp-august-2022/)
