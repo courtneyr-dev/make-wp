@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Taming the Whirlwind – Growing Your WordPress Business While You’re Busy With Client Work](https://wordpress.tv/2022/09/13/taming-the-whirlwind-growing-your-wordpress-business-while-youre-busy-with-client-work/)
 - [Let’s code! A Beginners Guide to Block Locking in Block Themes](https://wordpress.tv/2022/09/12/lets-code-a-beginners-guide-to-block-locking-in-block-themes/)
 - [A Chat with Matt Mullenweg: WordCamp US 2022 Q&amp;A](https://wordpress.tv/2022/09/12/a-chat-with-matt-mullenweg-wordcamp-us-2022-qa/)
 - [All About Reusable Blocks](https://wordpress.tv/2022/09/09/all-about-reusable-blocks/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a new header with blocks](https://wordpress.tv/2022/08/24/creating-a-new-header-with-blocks/)
 - [Troubleshooting in WordPress](https://wordpress.tv/2022/08/24/troubleshooting-in-wordpress/)
 - [Let’s code! Converting a Shortcode into a Block](https://wordpress.tv/2022/08/23/lets-code-converting-a-shortcode-into-a-block/)
-- [Nici Catton: What is “Hybrid Agile” and why is it helpful in larger organizations](https://wordpress.tv/2022/08/21/nici-catton-what-is-hybrid-agile-and-why-is-it-helpful-in-larger-organizations/)
 <!-- WPTV:END -->
 
 ## Marketing
