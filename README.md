@@ -87,6 +87,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team Bi-Weekly Meeting 27 September 2022](https://make.wordpress.org/docs/2022/09/14/agenda-for-docs-team-bi-weekly-meeting-27-september-2022/)
+- [Summary of Docs Team Meeting September 13, 2022](https://make.wordpress.org/docs/2022/09/14/summary-of-docs-team-meeting-september-13-2022/)
 - [Agenda for docs team bi-weekly meeting 13 September 2022](https://make.wordpress.org/docs/2022/09/12/agenda-for-docs-team-bi-weekly-meeting-13-september-2022/)
 - [X-post: WordCamp US 2022 Contributor Day: Summary](https://make.wordpress.org/docs/2022/09/11/xpost-wordcamp-us-2022-contributor-day-summary/)
 - [X-post: WordPress Advanced Administration Handbook](https://make.wordpress.org/docs/2022/09/07/xpost-wordpress-advanced-administration-handbook/)
@@ -95,8 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of Docs Team Biweekly Meeting August 30, 2022](https://make.wordpress.org/docs/2022/08/30/summary-of-docs-team-biweekly-meeting-august-30-2022/)
 - [Agenda for docs team bi-weekly meeting 30 August 2022](https://make.wordpress.org/docs/2022/08/30/agenda-for-docs-team-bi-weekly-meeting-30-august-2022/)
 - [Summary of Docs Team Biweekly Meeting August 16, 2022](https://make.wordpress.org/docs/2022/08/17/summary-of-docs-team-biweekly-meeting-august-16-2022/)
-- [Agenda for Docs Team Meeting 16 August 2022](https://make.wordpress.org/docs/2022/08/16/agenda-for-docs-team-meeting-16-august-2022/)
-- [Kick-off WordPress 6.1 release docs](https://make.wordpress.org/docs/2022/08/10/kick-off-wordpress-6-1-release-docs/)
 <!-- DOCS:END -->
 
 ### Support Articles
