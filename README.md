@@ -333,7 +333,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Taming the Whirlwind – Growing Your WordPress Business While You’re Busy With Client Work](https://wordpress.tv/2022/09/13/taming-the-whirlwind-growing-your-wordpress-business-while-youre-busy-with-client-work/)
+- [WordPress 6.1 Product Walk-Through](https://wordpress.tv/2022/09/13/wordpress-6-1-product-walk-through/)
+- [Taming the whirlwind – growing your WordPress business while you’re busy with client work](https://wordpress.tv/2022/09/13/taming-the-whirlwind-growing-your-wordpress-business-while-youre-busy-with-client-work/)
 - [Let’s code! A Beginners Guide to Block Locking in Block Themes](https://wordpress.tv/2022/09/12/lets-code-a-beginners-guide-to-block-locking-in-block-themes/)
 - [A Chat with Matt Mullenweg: WordCamp US 2022 Q&amp;A](https://wordpress.tv/2022/09/12/a-chat-with-matt-mullenweg-wordcamp-us-2022-qa/)
 - [All About Reusable Blocks](https://wordpress.tv/2022/09/09/all-about-reusable-blocks/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Paul Gilzow: Introduction to GitOps](https://wordpress.tv/2022/08/25/paul-gilzow-introduction-to-gitops/)
 - [Creating a new header with blocks](https://wordpress.tv/2022/08/24/creating-a-new-header-with-blocks/)
 - [Troubleshooting in WordPress](https://wordpress.tv/2022/08/24/troubleshooting-in-wordpress/)
-- [Let’s code! Converting a Shortcode into a Block](https://wordpress.tv/2022/08/23/lets-code-converting-a-shortcode-into-a-block/)
 <!-- WPTV:END -->
 
 ## Marketing
