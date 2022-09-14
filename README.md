@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – September 12, 2022](https://make.wordpress.org/core/2022/09/14/a-week-in-core-september-12-2022/)
 - [Performance team meeting summary 13 September 2022](https://make.wordpress.org/core/2022/09/13/performance-team-meeting-summary-13-september-2022/)
 - [Editor Chat Agenda: 14th September 2022](https://make.wordpress.org/core/2022/09/13/editor-chat-agenda-14th-september-2022/)
 - [Let’s make WordPress officially support SQLite](https://make.wordpress.org/core/2022/09/12/lets-make-wordpress-officially-support-sqlite/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WebP in Core for 6.1](https://make.wordpress.org/core/2022/09/11/webp-in-core-for-6-1/)
 - [Agenda for devchat, special #WCUS session, September 11, 2022](https://make.wordpress.org/core/2022/09/08/agenda-for-devchat-special-wcus-session-september-11-2022/)
 - [Performance Chat Agenda: 13 September 2022](https://make.wordpress.org/core/2022/09/08/performance-chat-agenda-13-september-2022/)
-- [X-post: Dropping security updates for WordPress versions 3.7 through 4.0](https://make.wordpress.org/core/2022/09/07/xpost-dropping-security-updates-for-wordpress-versions-3-7-through-4-0/)
 <!-- CORE:END -->
 
 ## Design
