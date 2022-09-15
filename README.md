@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for AccessibleWP – Accessibility Skip-Links](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-accessiblewp-accessibility-skip-links/)
 - [PTE Request for [EDITORX] and [projects/meta/wordpress-org]](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-editorx-and-projects-meta-wordpress-org/)
 - [PTE Request for Kadence theme](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-kadence-theme-3/)
 - [PTE Request for Auto Block Recovery](https://make.wordpress.org/polyglots/2022/09/14/pte-request-for-auto-block-recovery/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/09/12/pte-request-for-safelayout-cute-preloader-2/)
 - [PTE Request for PDF Invoices and Packing Slips For WooCommerce](https://make.wordpress.org/polyglots/2022/09/12/pte-request-for-pdf-invoices-and-packing-slips-for-woocommerce/)
 - [PTE Request for Joyas Shop](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-joyas-shop/)
-- [PTE Request for WooCommerce PayPal Payments](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-woocommerce-paypal-payments/)
 <!-- POLYGLOTS:END -->
 
 ## Support
