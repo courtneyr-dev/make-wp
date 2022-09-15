@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Kadence theme](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-kadence-theme-3/)
 - [PTE Request for Auto Block Recovery](https://make.wordpress.org/polyglots/2022/09/14/pte-request-for-auto-block-recovery/)
 - [PTE Request for [Question Answer]](https://make.wordpress.org/polyglots/2022/09/14/pte-request-for-question-answer/)
 - [Weekly Polyglots Chat – September. 14, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/13/weekly-polyglots-chat-september-14-2022-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Joyas Shop](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-joyas-shop/)
 - [PTE Request for WooCommerce PayPal Payments](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-woocommerce-paypal-payments/)
 - [PTE Request for Performance Lab Plugin](https://make.wordpress.org/polyglots/2022/09/10/pte-request-for-performance-lab-plugin/)
-- [X-post: Looking for feedback: Handbook page about content localization](https://make.wordpress.org/polyglots/2022/09/10/xpost-looking-for-feedback-handbook-page-about-content-localization/)
 <!-- POLYGLOTS:END -->
 
 ## Support
