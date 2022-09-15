@@ -306,6 +306,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [FSE Program Testing Call #17: Guiding the Gutenberg Gallery](https://make.wordpress.org/test/2022/09/15/fse-program-testing-call-17-guiding-the-gutenberg-gallery/)
 - [X-post: Testing and Feedback for using block based template parts in classic themes](https://make.wordpress.org/test/2022/09/12/xpost-testing-and-feedback-for-using-block-based-template-parts-in-classic-themes/)
 - [X-post: Test Team Update: 12 September 2022](https://make.wordpress.org/test/2022/09/12/xpost-test-team-update-12-september-2022/)
 - [X-post: Call for Testing: WordPress for Android 20.7](https://make.wordpress.org/test/2022/09/11/xpost-call-for-testing-wordpress-for-android-20-7/)
@@ -315,7 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [FSE Program Back to Basics Summary](https://make.wordpress.org/test/2022/09/06/fse-program-back-to-basics-summary/)
 - [X-post: Test Team Update: 5 September 2022](https://make.wordpress.org/test/2022/09/05/xpost-test-team-update-5-september-2022/)
 - [Test Team Reps for 2022-2023](https://make.wordpress.org/test/2022/09/01/test-team-rep-for-2022-2023/)
-- [X-post: Test Team Update: 30 August 2022](https://make.wordpress.org/test/2022/08/30/xpost-test-team-update-30-august-2022/)
 <!-- TEST:END -->
 
 ## TV
