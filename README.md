@@ -245,7 +245,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Anatomy of a Block Theme](https://learn.wordpress.org/tutorial/anatomy-of-a-block-theme/)
 - [Choosing and Installing Theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
 - [Creating a Front Page for a Block Theme](https://learn.wordpress.org/tutorial/creating-a-front-page-for-a-block-theme/)
-- [Creating Custom Post Types Without Code](https://learn.wordpress.org/tutorial/creating-custom-post-types-without-code/)
 - [Managing Updates](https://learn.wordpress.org/tutorial/managing-updates/)
 - [Getting to know the WordPress Dashboard](https://learn.wordpress.org/tutorial/getting-to-know-the-wordpress-dashboard/)
 - [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/tutorial/understanding-the-page-editor-vs-site-editor/)
@@ -253,6 +252,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Applying Duotone Filters to Change Color Effects](https://learn.wordpress.org/tutorial/applying-duotone-filters-to-change-color-effects/)
 - [Finding Images Using the WordPress Photo Directory](https://learn.wordpress.org/tutorial/finding-images-using-the-wordpress-photo-directory/)
 - [Finding Images Using Openverse](https://learn.wordpress.org/tutorial/finding-images-using-openverse/)
+- [Submitting Block Patterns to the Directory](https://learn.wordpress.org/tutorial/submitting-block-patterns-to-the-directory/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
