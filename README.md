@@ -517,16 +517,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Freelancer WordPress Developer](https://jobs.wordpress.net/job/freelancer-wordpress-developer/)
+- [Developer / Plug-Developer](https://jobs.wordpress.net/job/developer-plug-developer/)
+- [Senior Front-End Javascript Developer &lpar;part-time&rpar;](https://jobs.wordpress.net/job/senior-front-end-javascript-developer-part-time/)
+- [Senior WordPress PHP Engineer &lpar;part-time&rpar;](https://jobs.wordpress.net/job/senior-wordpress-php-engineer-part-time/)
 - [Looking for PPC / Digital Marketing Expert  Full Time Only Individual No Agency](https://jobs.wordpress.net/job/looking-for-ppc-digital-marketing-expert-full-time-only-individual-no-agency/)
 - [WordPress &amp; PHP Developer](https://jobs.wordpress.net/job/wordpress-php-developer-23/)
 - [WordPress Freelancer](https://jobs.wordpress.net/job/wordpress-freelancer-8/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-769/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-20/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-44/)
-- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-14/)
-- [Technical Support](https://jobs.wordpress.net/job/technical-support-3/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-768/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-77/)
 <!-- JOBS:END -->
 
 ## Central
