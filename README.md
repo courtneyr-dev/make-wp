@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introduction to block theme development &lpar;for beginners&rpar;](https://wordpress.tv/2022/09/16/introduction-to-block-theme-development-for-beginners/)
 - [Let’s code: what happens when you make theme changes?](https://wordpress.tv/2022/09/16/lets-code-what-happens-when-you-make-theme-changes/)
 - [Block theme builders: choosing and using fonts](https://wordpress.tv/2022/09/15/block-theme-builders-choosing-using-fonts/)
 - [Keine angst vor Full Site Editing und WordPress 5.9 &lpar;DE&rpar;](https://wordpress.tv/2022/09/14/keine-angst-vor-full-site-editing-und-wordpress-5-9-de/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Converting a Shortcode into a Block](https://wordpress.tv/2022/08/30/converting-a-shortcode-into-a-block/)
 - [What is the Domain Name System?](https://wordpress.tv/2022/08/29/what-is-the-domain-name-system/)
 - [How Do They Do That? The &lpar;Very&rpar; Basics of Block Theme Development](https://wordpress.tv/2022/08/28/how-do-they-do-that-the-very-basics-of-block-theme-development/)
-- [Nick Diego: Exploring the Power of Block Variations](https://wordpress.tv/2022/08/26/nick-diego-exploring-the-power-of-block-variations/)
 <!-- WPTV:END -->
 
 ## Marketing
