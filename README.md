@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 14.1? &lpar;15 September&rpar;](https://make.wordpress.org/core/2022/09/16/whats-new-in-gutenberg-14-1-15-september/)
 - [Dev Chat summary, September 14, 2022](https://make.wordpress.org/core/2022/09/15/dev-chat-summary-september-14-2022/)
 - [6.1 Product Walk-Through Recap](https://make.wordpress.org/core/2022/09/14/6-1-product-walk-through-recap/)
 - [A Week in Core – September 12, 2022](https://make.wordpress.org/core/2022/09/14/a-week-in-core-september-12-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s make WordPress officially support SQLite](https://make.wordpress.org/core/2022/09/12/lets-make-wordpress-officially-support-sqlite/)
 - [Devchat summary, September 11, 2022](https://make.wordpress.org/core/2022/09/11/devchat-summary-september-11-2022/)
 - [New is_login_screen&lpar;&rpar; function for determining if a page is the login screen](https://make.wordpress.org/core/2022/09/11/new-is_login_screen-function-for-determining-if-a-page-is-the-login-screen/)
-- [Canonical Plugins Revisited](https://make.wordpress.org/core/2022/09/11/canonical-plugins-revisited/)
 <!-- CORE:END -->
 
 ## Design
