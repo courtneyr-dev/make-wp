@@ -333,7 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Let’s Code! What Happens When You Make Theme Changes?](https://wordpress.tv/2022/09/16/lets-code-what-happens-when-you-make-theme-changes/)
+- [Let’s code: what happens when you make theme changes?](https://wordpress.tv/2022/09/16/lets-code-what-happens-when-you-make-theme-changes/)
 - [Block theme builders: choosing &amp; using fonts](https://wordpress.tv/2022/09/15/block-theme-builders-choosing-using-fonts/)
 - [Keine angst vor Full Site Editing und WordPress 5.9 &lpar;DE&rpar;](https://wordpress.tv/2022/09/14/keine-angst-vor-full-site-editing-und-wordpress-5-9-de/)
 - [WordPress 6.1 product walk-through](https://wordpress.tv/2022/09/13/wordpress-6-1-product-walk-through/)
@@ -347,7 +347,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Growth hacking im eCommerce | Mehr umsatz mit growth hacking &lpar;DE&rpar;](https://wordpress.tv/2022/09/03/daniel-knoflicek-growth-hacking-im-ecommerce-mehr-umsatz-mit-growth-hacking-de/)
 - [Elena M. Brambilla: PHP 8, le novità che ci attendono!](https://wordpress.tv/2022/09/03/elena-m-brambilla-php-8-le-novita-che-ci-attendono/)
 - [WordPress as a paintbrush: an introduction to Internet Art](https://wordpress.tv/2022/09/02/rachel-winchester-wordpress-as-a-paintbrush-an-introduction-to-internet-art/)
-- [Let’s code! Diving into theme.json](https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/)
+- [Let’s code: diving into theme.json](https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/)
 - [A personal site in 1, 2, 3 with patterns](https://wordpress.tv/2022/09/02/a-personal-site-in-1-2-3-with-patterns/)
 - [Introduction to the Dashboard](https://wordpress.tv/2022/09/01/introduction-to-the-dashboard/)
 - [Sam Tyurenkov: Оптимизация сайтов](https://wordpress.tv/2022/09/01/sam-tyurenkov-%d0%be%d0%bf%d1%82%d0%b8%d0%bc%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d1%81%d0%b0%d0%b9%d1%82%d0%be%d0%b2/)
