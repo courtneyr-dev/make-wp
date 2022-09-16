@@ -334,7 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Let’s code: what happens when you make theme changes?](https://wordpress.tv/2022/09/16/lets-code-what-happens-when-you-make-theme-changes/)
-- [Block theme builders: choosing &amp; using fonts](https://wordpress.tv/2022/09/15/block-theme-builders-choosing-using-fonts/)
+- [Block theme builders: choosing and using fonts](https://wordpress.tv/2022/09/15/block-theme-builders-choosing-using-fonts/)
 - [Keine angst vor Full Site Editing und WordPress 5.9 &lpar;DE&rpar;](https://wordpress.tv/2022/09/14/keine-angst-vor-full-site-editing-und-wordpress-5-9-de/)
 - [WordPress 6.1 product walk-through](https://wordpress.tv/2022/09/13/wordpress-6-1-product-walk-through/)
 - [Taming the whirlwind – growing your WordPress business while you’re busy with client work](https://wordpress.tv/2022/09/13/taming-the-whirlwind-growing-your-wordpress-business-while-youre-busy-with-client-work/)
