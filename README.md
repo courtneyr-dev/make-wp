@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [10 種類のテキストブロック　〜使い分けのコツ〜](https://wordpress.tv/2022/09/16/10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c/)
 - [Introduction to block theme development &lpar;for beginners&rpar;](https://wordpress.tv/2022/09/16/introduction-to-block-theme-development-for-beginners/)
 - [Let’s code: what happens when you make theme changes?](https://wordpress.tv/2022/09/16/lets-code-what-happens-when-you-make-theme-changes/)
 - [Block theme builders: choosing and using fonts](https://wordpress.tv/2022/09/15/block-theme-builders-choosing-using-fonts/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [David Perálvarez: Introducción a los LMS para crear Academias Online con WordPress](https://wordpress.tv/2022/08/30/david-peralvarez-david-peralvarez-introduccion-a-los-lms-para-crear-academias-online-con-wordpress/)
 - [Converting a Shortcode into a Block](https://wordpress.tv/2022/08/30/converting-a-shortcode-into-a-block/)
 - [What is the Domain Name System?](https://wordpress.tv/2022/08/29/what-is-the-domain-name-system/)
-- [How Do They Do That? The &lpar;Very&rpar; Basics of Block Theme Development](https://wordpress.tv/2022/08/28/how-do-they-do-that-the-very-basics-of-block-theme-development/)
 <!-- WPTV:END -->
 
 ## Marketing
