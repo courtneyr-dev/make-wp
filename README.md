@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on September 14, 2022](https://make.wordpress.org/community/2022/09/17/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-september-14-2022/)
 - [Proposal: CampTix Attendee to Google Sheets integration](https://make.wordpress.org/community/2022/09/11/proposal-camptix-attendee-to-google-sheets-integration/)
 - [2023 Global Sponsorship Working Group](https://make.wordpress.org/community/2022/09/07/2023-global-sponsorship-working-group/)
 - [WordCamp US 2022 Contributor Day Plans](https://make.wordpress.org/community/2022/09/06/wordcamp-us-2022-contributor-day-plans/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 24, 2022](https://make.wordpress.org/community/2022/08/25/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-24-2022/)
 - [Meetup Organizer Newsletter: August 2022](https://make.wordpress.org/community/2022/08/19/meetup-organizer-newsletter-august-2022/)
 - [Call for Ideas: WordCamp US 2022 Contributor Day](https://make.wordpress.org/community/2022/08/15/call-for-ideas-wordcamp-us-2022-contributor-day/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 10, 2022](https://make.wordpress.org/community/2022/08/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-10-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
