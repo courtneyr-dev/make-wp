@@ -277,6 +277,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [行・縦積みブロックでレスポンシブデザインを体験！](https://learn.wordpress.org/?meeting=%e8%a1%8c%e3%83%bb%e7%b8%a6%e7%a9%8d%e3%81%bf%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%ac%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b7%e3%83%96%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%82%92%e4%bd%93-2)
+- [行・縦積みブロックでレスポンシブデザインを体験！](https://learn.wordpress.org/?meeting=%e8%a1%8c%e3%83%bb%e7%b8%a6%e7%a9%8d%e3%81%bf%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%ac%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b7%e3%83%96%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%82%92%e4%bd%93)
 - [Let’s code! What Happens When You Make Theme Changes in the Editor?](https://learn.wordpress.org/?meeting=lets-code-what-happens-when-you-make-theme-changes-in-the-editor)
 - [Security](https://learn.wordpress.org/?meeting=security)
 - [Uncovering the Cover Block](https://learn.wordpress.org/?meeting=uncovering-the-cover-block)
@@ -300,8 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intro to Templates](https://learn.wordpress.org/?meeting=intro-to-templates)
 - [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system)
 - [Let’s code! Converting a Shortcode into a Block](https://learn.wordpress.org/?meeting=lets-code-converting-a-shortcode-into-a-block)
-- [The Creative Side of Blocks, Vol. 2](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-2)
-- [Using Create Block Theme](https://learn.wordpress.org/?meeting=using-create-block-theme-2)
 <!-- SLS:END -->
 
 ## Test
