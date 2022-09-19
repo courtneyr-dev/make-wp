@@ -517,6 +517,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Regular WordPress Plugin Development](https://jobs.wordpress.net/job/regular-wordpress-plugin-development/)
 - [WP, JS, Linux &amp; PY DevOps Senior Engineer  |AdvancedCoding|WP&amp;Web|PY|Automation|JS|INFRA|Launchpad&amp;Git|Linux&amp;Bash|](https://jobs.wordpress.net/job/wp-js-linux-py-devops-senior-engineer-advancedcodingwpwebpyautomationjsinfralaunchpadgitlinuxbash/)
 - [Hosting Support and Intervention|Coding|WordPress|PHP|MySQL|Ubuntu|Bash|NGINX|](https://jobs.wordpress.net/job/hosting-support-and-interventioncodingwordpressphpmysqlubuntubashnginx-2/)
 - [Social Media Manager |Benchmark|Strategy|Design|Creation|SEO|Marketing|](https://jobs.wordpress.net/job/social-media-manager-benchmarkstrategydesigncreationseomarketing-2/)
@@ -526,7 +527,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support and intervention developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml-2/)
 - [Content Marketer &lpar;part-time&rpar;](https://jobs.wordpress.net/job/content-marketer-part-time/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-770/)
-- [Freelancer WordPress Developer](https://jobs.wordpress.net/job/freelancer-wordpress-developer/)
 <!-- JOBS:END -->
 
 ## Central
