@@ -320,6 +320,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## TV
 <!-- TV:START -->
+- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/tv/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/tv/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tv/2022/05/26/xpost-announcement-incident-response-training/)
 - [X-post: Proposal: Refurbishing Camera Kits](https://make.wordpress.org/tv/2022/02/16/xpost-proposal-refurbishing-camera-kits/)
@@ -329,7 +330,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Learn WordPress is Live](https://make.wordpress.org/tv/2020/08/12/xpost-learn-wordpress-is-live/)
 - [X-post: Learn WordPress: Project Details and Roadmap](https://make.wordpress.org/tv/2020/08/07/xpost-learn-wordpress-project-details-and-roadmap/)
 - [X-post: WCEU 2020 Online Contributor Day: Feedback and achievements](https://make.wordpress.org/tv/2020/07/02/xpost-wceu-2020-online-contributor-day-feedback-and-achievements/)
-- [X-post: Video and YouTube Workflow for Online WordCamps: Request for Feedback](https://make.wordpress.org/tv/2020/06/24/xpost-video-and-youtube-workflow-for-online-wordcamps-request-for-feedback/)
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
