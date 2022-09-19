@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/training/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Meeting Agenda for September 20, 2022](https://make.wordpress.org/training/2022/09/19/meeting-agenda-for-september-21-2022/)
 - [Team Profile Badges](https://make.wordpress.org/training/2022/09/16/team-profile-badges/)
 - [Training Team Meeting Recap for September 13, 2022](https://make.wordpress.org/training/2022/09/14/training-team-meeting-recap-for-september-13-2022/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp US 2022](https://make.wordpress.org/training/2022/09/11/wordcamp-us-2022/)
 - [Looking for feedback: Handbook page about content localization](https://make.wordpress.org/training/2022/09/10/looking-for-feedback-handbook-page-about-content-localization/)
 - [Training Team Meeting Recap – September 6](https://make.wordpress.org/training/2022/09/07/training-team-meeting-recap-september-6/)
-- [Proposal for GitHub Process Updates](https://make.wordpress.org/training/2022/09/07/proposal-for-github-process-updates/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
