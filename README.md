@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/polyglots/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-safelayout-cute-preloader-3/)
 - [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommerce/)
 - [PTE Request for [meta/wordpress-org]](https://make.wordpress.org/polyglots/2022/09/18/pte-request-for-meta-wordpress-org-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [EDITORX] and [projects/meta/wordpress-org]](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-editorx-and-projects-meta-wordpress-org/)
 - [PTE Request for Kadence theme](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-kadence-theme-3/)
 - [PTE Request for Auto Block Recovery](https://make.wordpress.org/polyglots/2022/09/14/pte-request-for-auto-block-recovery/)
-- [PTE Request for [Question Answer]](https://make.wordpress.org/polyglots/2022/09/14/pte-request-for-question-answer/)
 <!-- POLYGLOTS:END -->
 
 ## Support
