@@ -446,6 +446,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/updates/2022/09/18/wordcamp-us-contributor-day-2022-recap/)
 - [Themes team update September 14, 2022](https://make.wordpress.org/updates/2022/09/14/themes-team-update-september-14-2022/)
 - [Plugin Review Team: 12 Sept 2022](https://make.wordpress.org/updates/2022/09/13/plugin-review-team-12-sept-2022/)
 - [Test Team Update: 12 September 2022](https://make.wordpress.org/updates/2022/09/12/test-team-update-12-september-2022/)
@@ -455,7 +456,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Test Team Update: 5 September 2022](https://make.wordpress.org/updates/2022/09/05/test-team-update-5-september-2022/)
 - [What’s new on LearnWP – August 2022](https://make.wordpress.org/updates/2022/09/01/whats-new-on-learnwp-august-2022/)
 - [Test Team Update: 30 August 2022](https://make.wordpress.org/updates/2022/08/30/test-team-update-30-august-2022/)
-- [Plugin Review Team: 29 Aug 2022](https://make.wordpress.org/updates/2022/08/29/plugin-review-team-29-aug-2022/)
 <!-- UPDATES:END -->
 
 ## Project
