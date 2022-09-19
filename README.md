@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/design/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Design Share: Aug 28-Sep 9](https://make.wordpress.org/design/2022/09/12/design-share-aug-28-sep-9/)
 - [TT3 default theme: Announcing style variation selections](https://make.wordpress.org/design/2022/09/07/tt3-default-theme-announcing-style-variation-selections/)
 - [Design Share: Aug 15-26](https://make.wordpress.org/design/2022/08/29/design-share-aug-15-26/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [‘Open Floor’: Design Team Bi-weekly Meeting 10 August 2022](https://make.wordpress.org/design/2022/08/10/open-floor-design-team-bi-weekly-meeting-10-august-2022/)
 - [Design Exploration: Encourage editor configuration during on-boarding](https://make.wordpress.org/design/2022/08/04/design-exploration-encourage-editor-configuration-during-on-boarding/)
 - [Design Share: July 18–29](https://make.wordpress.org/design/2022/08/01/design-share-july-18-29/)
-- [X-post: Developing the redesigned Home and Download Pages](https://make.wordpress.org/design/2022/08/01/xpost-developing-the-redesigned-home-and-download-pages/)
 <!-- DESIGN:END -->
 
 ## Mobile
