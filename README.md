@@ -517,6 +517,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Front-end / WordPress / HubSpot Developer](https://jobs.wordpress.net/job/front-end-wordpress-hubspot-developer/)
+- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-8/)
+- [Social Media Coordinator](https://jobs.wordpress.net/job/social-media-coordinator/)
 - [Regular WordPress Plugin Development](https://jobs.wordpress.net/job/regular-wordpress-plugin-development/)
 - [WP, JS, Linux &amp; PY DevOps Senior Engineer  |AdvancedCoding|WP&amp;Web|PY|Automation|JS|INFRA|Launchpad&amp;Git|Linux&amp;Bash|](https://jobs.wordpress.net/job/wp-js-linux-py-devops-senior-engineer-advancedcodingwpwebpyautomationjsinfralaunchpadgitlinuxbash/)
 - [Hosting Support and Intervention|Coding|WordPress|PHP|MySQL|Ubuntu|Bash|NGINX|](https://jobs.wordpress.net/job/hosting-support-and-interventioncodingwordpressphpmysqlubuntubashnginx-2/)
@@ -524,9 +527,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-2/)
 - [Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs-2/)
 - [CampusPress support and developer |Coding|WordPress|PHP+MySQL or HTML+CSS|](https://jobs.wordpress.net/job/campuspress-support-and-developer-codingwordpressphpmysql-or-htmlcss-2/)
-- [Support and intervention developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml-2/)
-- [Content Marketer &lpar;part-time&rpar;](https://jobs.wordpress.net/job/content-marketer-part-time/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-770/)
 <!-- JOBS:END -->
 
 ## Central
