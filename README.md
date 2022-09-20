@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordPress Events Organizer Training &lpar;Americas Timezones Version&rpar;](https://make.wordpress.org/community/2022/09/20/wordpress-events-organizer-training-americas-timezones-version/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/community/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on September 14, 2022](https://make.wordpress.org/community/2022/09/17/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-september-14-2022/)
 - [Proposal: CampTix Attendee to Google Sheets integration](https://make.wordpress.org/community/2022/09/11/proposal-camptix-attendee-to-google-sheets-integration/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for Sept 1, 2022](https://make.wordpress.org/community/2022/08/31/community-team-meeting-agenda-for-sept-1-2022/)
 - [WordPress Events Organiser Training](https://make.wordpress.org/community/2022/08/31/wordpress-events-organiser-training/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 24, 2022](https://make.wordpress.org/community/2022/08/25/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-24-2022/)
-- [Meetup Organizer Newsletter: August 2022](https://make.wordpress.org/community/2022/08/19/meetup-organizer-newsletter-august-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
