@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Tambar – Bottom Admin Toolbar](https://make.wordpress.org/polyglots/2022/09/20/pte-request-for-tambar-bottom-admin-toolbar/)
 - [PTE Request for GiveWP – Donation Plugin and Fundraising Platform](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-givewp-donation-plugin-and-fundraising-platform/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/polyglots/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-safelayout-cute-preloader-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for smartarget-contact-us I…](https://make.wordpress.org/polyglots/2022/09/16/pte-request-for-smartarget-contact-us-i/)
 - [PTE Request for AccessibleWP – Accessibility Skip-Links](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-accessiblewp-accessibility-skip-links/)
 - [PTE Request for [EDITORX] and [projects/meta/wordpress-org]](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-editorx-and-projects-meta-wordpress-org/)
-- [PTE Request for Kadence theme](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-kadence-theme-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
