@@ -517,6 +517,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-93/)
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-92/)
 - [Front-end / WordPress / HubSpot Developer](https://jobs.wordpress.net/job/front-end-wordpress-hubspot-developer/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-8/)
 - [Social Media Coordinator](https://jobs.wordpress.net/job/social-media-coordinator/)
@@ -525,8 +527,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Support and Intervention|Coding|WordPress|PHP|MySQL|Ubuntu|Bash|NGINX|](https://jobs.wordpress.net/job/hosting-support-and-interventioncodingwordpressphpmysqlubuntubashnginx-2/)
 - [Social Media Manager |Benchmark|Strategy|Design|Creation|SEO|Marketing|](https://jobs.wordpress.net/job/social-media-manager-benchmarkstrategydesigncreationseomarketing-2/)
 - [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-2/)
-- [Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs-2/)
-- [CampusPress support and developer |Coding|WordPress|PHP+MySQL or HTML+CSS|](https://jobs.wordpress.net/job/campuspress-support-and-developer-codingwordpressphpmysql-or-htmlcss-2/)
 <!-- JOBS:END -->
 
 ## Central
