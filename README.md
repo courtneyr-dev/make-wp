@@ -560,10 +560,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Nepal](https://central.wordcamp.org/wordcamps/wordcamp-nepal-5/)
 - [WordCamp Brno, Czech Republic](https://central.wordcamp.org/wordcamps/wordcamp-brno-czech-republic-4/)
 - [WordCamp Kolkata, West Bengal, India](https://central.wordcamp.org/wordcamps/wordcamp-kolkata-west-bengal-india-2/)
+- [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-2023/)
 - [WordCamp Jinja](https://central.wordcamp.org/wordcamps/wordcamp-jinja-2022/)
 - [WordCamp Italia](https://central.wordcamp.org/wordcamps/wordcamp-italia-2022/)
 - [WordCamp San José / Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-5/)
-- [WordCamp Asia](https://central.wordcamp.org/wordcamps/wordcamp-bangkok-thailand-wordcamp-asia/)
 - [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-seville-spain/)
 <!-- WordCamp:END -->
 
