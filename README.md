@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Project Proposal: Content Localization](https://make.wordpress.org/community/2022/09/21/xpost-project-proposal-content-localization/)
 - [[Action requested] Vote for “Organizing Diverse &amp; Inclusive Events workshop” date and time](https://make.wordpress.org/community/2022/09/20/action-requested-vote-for-organizing-diverse-inclusive-events-workshop-date-and-time/)
 - [WordPress Events Organizer Training &lpar;Americas Timezones Version&rpar;](https://make.wordpress.org/community/2022/09/20/wordpress-events-organizer-training-americas-timezones-version/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/community/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp US 2022 Contributor Day Plans](https://make.wordpress.org/community/2022/09/06/wordcamp-us-2022-contributor-day-plans/)
 - [X-post: What’s new on LearnWP – August 2022](https://make.wordpress.org/community/2022/09/01/xpost-whats-new-on-learnwp-august-2022/)
 - [Community Team Meeting Agenda for Sept 1, 2022](https://make.wordpress.org/community/2022/08/31/community-team-meeting-agenda-for-sept-1-2022/)
-- [WordPress Events Organiser Training](https://make.wordpress.org/community/2022/08/31/wordpress-events-organiser-training/)
 <!-- COMMUNITY:END -->
 
 ## Meta
