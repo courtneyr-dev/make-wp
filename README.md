@@ -306,6 +306,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Help Test WordPress 6.1](https://make.wordpress.org/test/2022/09/21/help-test-wordpress-6-1/)
 - [X-post: Test Team Update: 19 September 2022](https://make.wordpress.org/test/2022/09/20/xpost-test-team-update-19-september-2022/)
 - [X-post: Call for Testing: WordPress for iOS 20.8](https://make.wordpress.org/test/2022/09/19/xpost-call-for-testing-wordpress-for-ios-20-8/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/test/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
@@ -315,7 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 12 September 2022](https://make.wordpress.org/test/2022/09/12/xpost-test-team-update-12-september-2022/)
 - [X-post: Call for Testing: WordPress for Android 20.7](https://make.wordpress.org/test/2022/09/11/xpost-call-for-testing-wordpress-for-android-20-7/)
 - [Week in Test: 8 September 2022](https://make.wordpress.org/test/2022/09/08/week-in-test-8-september-2022/)
-- [X-post: Full-Width Blocks and Root Padding in WordPress 6.1](https://make.wordpress.org/test/2022/09/08/xpost-full-width-blocks-and-root-padding-in-wordpress-6-1/)
 <!-- TEST:END -->
 
 ## TV
