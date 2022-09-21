@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Project Proposal: Content Localization](https://make.wordpress.org/polyglots/2022/09/21/xpost-project-proposal-content-localization/)
 - [PTE Request for Smash Balloon Social Photo Feed.](https://make.wordpress.org/polyglots/2022/09/21/pte-request-for-smash-balloon-social-photo-feed/)
 - [Weekly Polyglots Chat – Sep. 21, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/21/weekly-polyglots-chat-sep-21-2022-0700-utc/)
 - [PTE Request for Tambar – Bottom Admin Toolbar](https://make.wordpress.org/polyglots/2022/09/20/pte-request-for-tambar-bottom-admin-toolbar/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommerce/)
 - [PTE Request for [meta/wordpress-org]](https://make.wordpress.org/polyglots/2022/09/18/pte-request-for-meta-wordpress-org-2/)
 - [PTE Request for [Topper System…](https://make.wordpress.org/polyglots/2022/09/17/pte-request-for-topper-system/)
-- [PTE Request for smartarget-contact-us I…](https://make.wordpress.org/polyglots/2022/09/16/pte-request-for-smartarget-contact-us-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
