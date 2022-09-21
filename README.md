@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Smash Balloon Social Photo Feed.](https://make.wordpress.org/polyglots/2022/09/21/pte-request-for-smash-balloon-social-photo-feed/)
 - [Weekly Polyglots Chat – Sep. 21, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/21/weekly-polyglots-chat-sep-21-2022-0700-utc/)
 - [PTE Request for Tambar – Bottom Admin Toolbar](https://make.wordpress.org/polyglots/2022/09/20/pte-request-for-tambar-bottom-admin-toolbar/)
 - [PTE Request for GiveWP – Donation Plugin and Fundraising Platform](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-givewp-donation-plugin-and-fundraising-platform/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [meta/wordpress-org]](https://make.wordpress.org/polyglots/2022/09/18/pte-request-for-meta-wordpress-org-2/)
 - [PTE Request for [Topper System…](https://make.wordpress.org/polyglots/2022/09/17/pte-request-for-topper-system/)
 - [PTE Request for smartarget-contact-us I…](https://make.wordpress.org/polyglots/2022/09/16/pte-request-for-smartarget-contact-us-i/)
-- [PTE Request for AccessibleWP – Accessibility Skip-Links](https://make.wordpress.org/polyglots/2022/09/15/pte-request-for-accessiblewp-accessibility-skip-links/)
 <!-- POLYGLOTS:END -->
 
 ## Support
