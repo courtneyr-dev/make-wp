@@ -531,6 +531,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [The First In-Person WordCamp in India is Looking for Speakers!](https://central.wordcamp.org/news/2022/09/the-first-in-person-wordcamp-in-india-is-looking-for-speakers/)
 - [WordCamp Jinja: Diverse Speaker Sessions, Web Design Hackathon, Teachers Workshop and Fun at the Nile Source!](https://central.wordcamp.org/news/2022/07/wordcamp-jinja-diverse-speaker-sessions-web-design-hackathon-teachers-workshop-and-fun-at-the-nile-source/)
 - [WordCamp Europe 2022 is just around the corner](https://central.wordcamp.org/news/2022/05/wordcamp-europe-2022-is-just-around-the-corner/)
 - [Join the European WordPress Community in Porto, Portugal!](https://central.wordcamp.org/news/2022/05/join-the-european-wordpress-community-in-porto-portugal/)
@@ -545,7 +546,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call For Speakers for WordCamp Europe 2022 in Porto is Open](https://central.wordcamp.org/news/2022/01/call-for-speakers-for-wordcamp-europe-2022-in-porto-is-open/)
 - [The first in-person WordCamp Europe in 3 years is coming!](https://central.wordcamp.org/news/2021/12/the-first-in-person-wordcamp-europe-in-3-years-is-coming/)
 - [WordCamp Sevilla 2021 in-person! Last Tickets!](https://central.wordcamp.org/news/2021/12/wordcamp-sevilla-2021-in-person-last-tickets/)
-- [WordCamp Taiwan 2021 is coming on December 11-12. Get Your Free Ticket Now!](https://central.wordcamp.org/news/2021/12/wordcamp-taiwan-2021-is-coming-on-december-11-12-get-your-free-ticket-now/)
 <!-- Central:END -->
 
 ### WordCamp
