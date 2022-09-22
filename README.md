@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Local WordPress development](https://wordpress.tv/2022/09/22/local-wordpress-development/)
 - [Image Optimization](https://wordpress.tv/2022/09/21/image-optimization/)
 - [Let’s Build a Custom Block in One Hour](https://wordpress.tv/2022/09/21/lets-build-a-custom-block-in-one-hour/)
 - [Building a WordPress agency](https://wordpress.tv/2022/09/21/building-a-wordpress-agency/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Elena M. Brambilla: PHP 8, le novità che ci attendono!](https://wordpress.tv/2022/09/03/elena-m-brambilla-php-8-le-novita-che-ci-attendono/)
 - [WordPress as a paintbrush: an introduction to Internet Art](https://wordpress.tv/2022/09/02/rachel-winchester-wordpress-as-a-paintbrush-an-introduction-to-internet-art/)
 - [Let’s code: diving into theme.json](https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/)
-- [A personal site in 1, 2, 3 with patterns](https://wordpress.tv/2022/09/02/a-personal-site-in-1-2-3-with-patterns/)
 <!-- WPTV:END -->
 
 ## Marketing
