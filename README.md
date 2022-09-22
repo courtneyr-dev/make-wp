@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Building a WordPress agency](https://wordpress.tv/2022/09/21/building-a-wordpress-agency/)
 - [Building and nurturing a local open source community](https://wordpress.tv/2022/09/21/building-and-nurturing-a-local-open-source-community/)
 - [What is WordPress and how to get started with it](https://wordpress.tv/2022/09/21/what-is-wordpress-and-how-to-get-started-with-it/)
 - [Gerenciando atualizações no WordPress](https://wordpress.tv/2022/09/20/gerenciando-atualizacoes-no-wordpress/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A personal site in 1, 2, 3 with patterns](https://wordpress.tv/2022/09/02/a-personal-site-in-1-2-3-with-patterns/)
 - [Introduction to the Dashboard](https://wordpress.tv/2022/09/01/introduction-to-the-dashboard/)
 - [Sam Tyurenkov: Оптимизация сайтов](https://wordpress.tv/2022/09/01/sam-tyurenkov-%d0%be%d0%bf%d1%82%d0%b8%d0%bc%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d1%81%d0%b0%d0%b9%d1%82%d0%be%d0%b2/)
-- [Customizing a header with patterns](https://wordpress.tv/2022/08/31/customizing-a-header-with-patterns/)
 <!-- WPTV:END -->
 
 ## Marketing
