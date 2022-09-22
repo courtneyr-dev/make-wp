@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shipping Cost…](https://make.wordpress.org/polyglots/2022/09/22/pte-request-for-shipping-cost/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/09/22/hi-dear-mentors-we-have-95/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/09/22/ive-suggested-translations-for-this-24/)
 - [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/09/22/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommercehallan-pdf-invoice-packing-slip-for-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Weekly Polyglots Chat – Sep. 21, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/21/weekly-polyglots-chat-sep-21-2022-0700-utc/)
 - [PTE Request for Tambar – Bottom Admin Toolbar](https://make.wordpress.org/polyglots/2022/09/20/pte-request-for-tambar-bottom-admin-toolbar/)
 - [PTE Request for GiveWP – Donation Plugin and Fundraising Platform](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-givewp-donation-plugin-and-fundraising-platform/)
-- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/polyglots/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 <!-- POLYGLOTS:END -->
 
 ## Support
