@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Distribution for bol.com for WooCommerce](https://make.wordpress.org/polyglots/2022/09/22/pte-request-for-distribution-for-bol-com-for-woocommerce/)
+- [I’ve suggested italian translations for…](https://make.wordpress.org/polyglots/2022/09/22/ive-suggested-italian-translations-for/)
 - [PTE Request for Shipping Cost…](https://make.wordpress.org/polyglots/2022/09/22/pte-request-for-shipping-cost/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/09/22/hi-dear-mentors-we-have-95/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/09/22/ive-suggested-translations-for-this-24/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Project Proposal: Content Localization](https://make.wordpress.org/polyglots/2022/09/21/xpost-project-proposal-content-localization/)
 - [PTE Request for Smash Balloon Social Photo Feed.](https://make.wordpress.org/polyglots/2022/09/21/pte-request-for-smash-balloon-social-photo-feed/)
 - [Weekly Polyglots Chat – Sep. 21, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/21/weekly-polyglots-chat-sep-21-2022-0700-utc/)
-- [PTE Request for Tambar – Bottom Admin Toolbar](https://make.wordpress.org/polyglots/2022/09/20/pte-request-for-tambar-bottom-admin-toolbar/)
-- [PTE Request for GiveWP – Donation Plugin and Fundraising Platform](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-givewp-donation-plugin-and-fundraising-platform/)
 <!-- POLYGLOTS:END -->
 
 ## Support
