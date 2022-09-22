@@ -3,7 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, September 21, 2022](https://make.wordpress.org/core/2022/09/22/summary-dev-chat-september-21-2022/)
 - [Core Editor chat summary: 21st September 2022](https://make.wordpress.org/core/2022/09/21/core-editor-chat-summary-21st-september-2022/)
+- [Dev Chat agenda, September 21, 2022](https://make.wordpress.org/core/2022/09/20/dev-chat-agenda-september-21-2022/)
 - [WordPress 6.1 Beta 1 delayed](https://make.wordpress.org/core/2022/09/20/wordpress-6-1-beta-1-delayed/)
 - [Performance team meeting summary 20 September 2022](https://make.wordpress.org/core/2022/09/20/performance-team-meeting-summary-20-september-2022/)
 - [Editor Chat Agenda: 21st September 2022](https://make.wordpress.org/core/2022/09/20/editor-chat-agenda-21st-september-2022/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/core/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Developer Blog Editorial Group – Meeting Notes September 1, 2022](https://make.wordpress.org/core/2022/09/19/developer-blog-editorial-group-september-1-2022/)
 - [Performance Chat Agenda: 20 September 2022](https://make.wordpress.org/core/2022/09/19/performance-chat-agenda-20-september-2022/)
-- [Editor chat summary: Wednesday, 14 September 2022](https://make.wordpress.org/core/2022/09/19/editor-chat-summary-wednesday-14-september-2022/)
-- [What’s new in Gutenberg 14.1? &lpar;15 September&rpar;](https://make.wordpress.org/core/2022/09/16/whats-new-in-gutenberg-14-1-15-september/)
 <!-- CORE:END -->
 
 ## Design
