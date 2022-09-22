@@ -517,6 +517,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Gutenberg/WordPress Website Developer](https://jobs.wordpress.net/job/gutenberg-wordpress-website-developer/)
+- [Website Solutions Sales Expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-93/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-92/)
 - [Front-end / WordPress / HubSpot Developer](https://jobs.wordpress.net/job/front-end-wordpress-hubspot-developer/)
@@ -525,8 +527,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Regular WordPress Plugin Development](https://jobs.wordpress.net/job/regular-wordpress-plugin-development/)
 - [WP, JS, Linux &amp; PY DevOps Senior Engineer  |AdvancedCoding|WP&amp;Web|PY|Automation|JS|INFRA|Launchpad&amp;Git|Linux&amp;Bash|](https://jobs.wordpress.net/job/wp-js-linux-py-devops-senior-engineer-advancedcodingwpwebpyautomationjsinfralaunchpadgitlinuxbash/)
 - [Hosting Support and Intervention|Coding|WordPress|PHP|MySQL|Ubuntu|Bash|NGINX|](https://jobs.wordpress.net/job/hosting-support-and-interventioncodingwordpressphpmysqlubuntubashnginx-2/)
-- [Social Media Manager |Benchmark|Strategy|Design|Creation|SEO|Marketing|](https://jobs.wordpress.net/job/social-media-manager-benchmarkstrategydesigncreationseomarketing-2/)
-- [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-2/)
 <!-- JOBS:END -->
 
 ## Central
