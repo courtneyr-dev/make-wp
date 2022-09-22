@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/09/22/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommercehallan-pdf-invoice-packing-slip-for-woocommerce/)
 - [PTE Request for Mission News](https://make.wordpress.org/polyglots/2022/09/21/pte-request-for-mission-news/)
 - [X-post: Project Proposal: Content Localization](https://make.wordpress.org/polyglots/2022/09/21/xpost-project-proposal-content-localization/)
 - [PTE Request for Smash Balloon Social Photo Feed.](https://make.wordpress.org/polyglots/2022/09/21/pte-request-for-smash-balloon-social-photo-feed/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/polyglots/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [PTE Request for [Safelayout Cute Preloader]](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-safelayout-cute-preloader-3/)
 - [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/09/19/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommerce/)
-- [PTE Request for [meta/wordpress-org]](https://make.wordpress.org/polyglots/2022/09/18/pte-request-for-meta-wordpress-org-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
