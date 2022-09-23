@@ -277,6 +277,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Part 2: Re-Creating Block Designs](https://learn.wordpress.org/?meeting=part-2-re-creating-block-designs)
+- [Part 1: Re-Creating Block Designs](https://learn.wordpress.org/?meeting=part-1-re-creating-block-designs)
 - [Media Tips &amp; Tricks](https://learn.wordpress.org/?meeting=media-tips-tricks)
 - [Code with me:  code your first settings in theme.json](https://learn.wordpress.org/?meeting=code-with-me-code-your-first-settings-in-theme-json)
 - [行・縦積みブロックでレスポンシブデザインを体験！](https://learn.wordpress.org/?meeting=%e8%a1%8c%e3%83%bb%e7%b8%a6%e7%a9%8d%e3%81%bf%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%ac%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b7%e3%83%96%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%82%92%e4%bd%93-2)
@@ -300,8 +302,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How Do They Do That? The &lpar;Very&rpar; Basics of Block Theme Development](https://learn.wordpress.org/?meeting=how-do-they-do-that-the-very-basics-of-block-theme-development)
 - [Let’s code! Diving into theme.json](https://learn.wordpress.org/?meeting=lets-code-diving-into-theme-json)
 - [10 種類のテキストブロック　〜使い分けのコツ〜](https://learn.wordpress.org/?meeting=10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c-2)
-- [10 種類のテキストブロック　〜使い分けのコツ〜](https://learn.wordpress.org/?meeting=10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c)
-- [Intro to Templates](https://learn.wordpress.org/?meeting=intro-to-templates)
 <!-- SLS:END -->
 
 ## Test
