@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi. I’ve suggested translations for…](https://make.wordpress.org/polyglots/2022/09/23/hi-ive-suggested-translations-for-5/)
 - [PTE Request for Distribution for bol.com for WooCommerce](https://make.wordpress.org/polyglots/2022/09/22/pte-request-for-distribution-for-bol-com-for-woocommerce/)
 - [I’ve suggested italian translations for…](https://make.wordpress.org/polyglots/2022/09/22/ive-suggested-italian-translations-for/)
 - [PTE Request for Shipping Cost…](https://make.wordpress.org/polyglots/2022/09/22/pte-request-for-shipping-cost/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Mission News](https://make.wordpress.org/polyglots/2022/09/21/pte-request-for-mission-news/)
 - [X-post: Project Proposal: Content Localization](https://make.wordpress.org/polyglots/2022/09/21/xpost-project-proposal-content-localization/)
 - [PTE Request for Smash Balloon Social Photo Feed.](https://make.wordpress.org/polyglots/2022/09/21/pte-request-for-smash-balloon-social-photo-feed/)
-- [Weekly Polyglots Chat – Sep. 21, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/21/weekly-polyglots-chat-sep-21-2022-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
