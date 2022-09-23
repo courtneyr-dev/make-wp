@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using Block Attributes to Enable User Editing](https://learn.wordpress.org/tutorial/using-block-attributes-to-enable-user-editing/)
 - [Image Optimization](https://learn.wordpress.org/tutorial/image-optimization/)
 - [Introduction to block theme development &lpar;for beginners&rpar;](https://learn.wordpress.org/tutorial/introduction-to-block-theme-development-for-beginners/)
 - [Customizing a footer with patterns](https://learn.wordpress.org/tutorial/customizing-a-footer-with-patterns/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/tutorial/understanding-the-page-editor-vs-site-editor/)
 - [Choosing and Installing a Plugin](https://learn.wordpress.org/tutorial/searching-and-installing-a-plugin/)
 - [Applying Duotone Filters to Change Color Effects](https://learn.wordpress.org/tutorial/applying-duotone-filters-to-change-color-effects/)
-- [Finding Images Using the WordPress Photo Directory](https://learn.wordpress.org/tutorial/finding-images-using-the-wordpress-photo-directory/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
