@@ -306,6 +306,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Week in Test: 23 September 2022](https://make.wordpress.org/test/2022/09/23/week-in-test-23-september-2022/)
 - [Help Test WordPress 6.1](https://make.wordpress.org/test/2022/09/21/help-test-wordpress-6-1/)
 - [X-post: Test Team Update: 19 September 2022](https://make.wordpress.org/test/2022/09/20/xpost-test-team-update-19-september-2022/)
 - [X-post: Call for Testing: WordPress for iOS 20.8](https://make.wordpress.org/test/2022/09/19/xpost-call-for-testing-wordpress-for-ios-20-8/)
@@ -315,7 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Testing and Feedback for using block based template parts in classic themes](https://make.wordpress.org/test/2022/09/12/xpost-testing-and-feedback-for-using-block-based-template-parts-in-classic-themes/)
 - [X-post: Test Team Update: 12 September 2022](https://make.wordpress.org/test/2022/09/12/xpost-test-team-update-12-september-2022/)
 - [X-post: Call for Testing: WordPress for Android 20.7](https://make.wordpress.org/test/2022/09/11/xpost-call-for-testing-wordpress-for-android-20-7/)
-- [Week in Test: 8 September 2022](https://make.wordpress.org/test/2022/09/08/week-in-test-8-september-2022/)
 <!-- TEST:END -->
 
 ## TV
