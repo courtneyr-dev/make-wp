@@ -185,6 +185,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – September 20](https://make.wordpress.org/training/2022/09/23/training-team-meeting-recap-september-20/)
+- [#WPTranslation Day – Contributor Day](https://make.wordpress.org/training/2022/09/23/wptranslation-day-contributor-day/)
 - [Summary Update: Courses Currently in Development &lpar;22 September 2022&rpar;](https://make.wordpress.org/training/2022/09/23/summary-update-courses-currently-in-development-22-september-2022/)
 - [Project Proposal: Content Localization](https://make.wordpress.org/training/2022/09/21/project-proposal-content-localization/)
 - [Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/training/2022/09/21/proposal-faster-course-development-with-video-based-courses/)
@@ -193,8 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Team Profile Badges](https://make.wordpress.org/training/2022/09/16/team-profile-badges/)
 - [Training Team Meeting Recap for September 13, 2022](https://make.wordpress.org/training/2022/09/14/training-team-meeting-recap-for-september-13-2022/)
 - [[Discussion] Reimagining the Training Team contributor roles](https://make.wordpress.org/training/2022/09/14/discussion-reimagining-the-training-team-contributor-roles/)
-- [August Sprint Retrospective](https://make.wordpress.org/training/2022/09/13/august-sprint-retrospective/)
-- [Meeting Agenda for September 14, 2022](https://make.wordpress.org/training/2022/09/12/meeting-agenda-for-september-14-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
