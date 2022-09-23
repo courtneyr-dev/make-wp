@@ -186,7 +186,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Training
 <!-- TRAINING:START -->
 - [Training Team Meeting Recap – September 20](https://make.wordpress.org/training/2022/09/23/training-team-meeting-recap-september-20/)
-- [#WPTranslation Day – Contributor Day](https://make.wordpress.org/training/2022/09/23/wptranslation-day-contributor-day/)
+- [#WPTranslation Day Sept 30 – Contributor Day](https://make.wordpress.org/training/2022/09/23/wptranslation-day-contributor-day/)
 - [Summary Update: Courses Currently in Development &lpar;22 September 2022&rpar;](https://make.wordpress.org/training/2022/09/23/summary-update-courses-currently-in-development-22-september-2022/)
 - [Project Proposal: Content Localization](https://make.wordpress.org/training/2022/09/21/project-proposal-content-localization/)
 - [Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/training/2022/09/21/proposal-faster-course-development-with-video-based-courses/)
