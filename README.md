@@ -59,7 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE Request for MarcTV Moderate Comments](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-marctv-moderate-comments/)
+- [PTE Request for MarcTV Moderate Comments and Game Review Box](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-marctv-moderate-comments/)
 - [PTE Request for Game Review Box](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-game-review-box/)
 - [PTE Request for PublishPress Checklist](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-publishpress-checklist/)
 - [PTE Request for SHOPVOTE](https://make.wordpress.org/polyglots/2022/09/23/pte-request-for-shopvote/)
