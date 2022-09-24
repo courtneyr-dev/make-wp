@@ -333,6 +333,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [FSE For the Win](https://wordpress.tv/2022/09/24/fse-for-the-win/)
+- [Let’s Build a Custom Block in 15 Minutes](https://wordpress.tv/2022/09/24/lets-build-a-custom-block-in-15-minutes/)
+- [How Your Small Business Can Participate in Five for the Future](https://wordpress.tv/2022/09/24/how-your-small-business-can-participate-in-five-for-the-future/)
 - [Media tips &amp; tricks](https://wordpress.tv/2022/09/23/media-tips-tricks/)
 - [Code with me: code your first settings in theme.json](https://wordpress.tv/2022/09/23/code-with-me-code-your-first-settings-in-theme-json/)
 - [WordPress REST API integration](https://wordpress.tv/2022/09/23/wordpress-rest-api-integration/)
@@ -355,9 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: a beginners guide to block locking in block themes](https://wordpress.tv/2022/09/12/lets-code-a-beginners-guide-to-block-locking-in-block-themes/)
 - [A chat with Matt Mullenweg: WordCamp US 2022 Q&amp;A](https://wordpress.tv/2022/09/12/a-chat-with-matt-mullenweg-wordcamp-us-2022-qa/)
 - [All about reusable blocks](https://wordpress.tv/2022/09/09/all-about-reusable-blocks/)
-- [Customizing a footer with patterns](https://wordpress.tv/2022/09/07/customizing-a-footer-with-patterns/)
-- [The creative side of blocks, Volume 2](https://wordpress.tv/2022/09/07/the-creative-side-of-blocks-vol-2/)
-- [Styling your WordPress blocks](https://wordpress.tv/2022/09/05/styling-your-wordpress-blocks/)
 <!-- WPTV:END -->
 
 ## Marketing
