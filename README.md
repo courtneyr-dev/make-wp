@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for MarcTV Moderate Comments](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-marctv-moderate-comments/)
 - [PTE Request for Game Review Box](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-game-review-box/)
 - [PTE Request for PublishPress Checklist](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-publishpress-checklist/)
 - [PTE Request for SHOPVOTE](https://make.wordpress.org/polyglots/2022/09/23/pte-request-for-shopvote/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested italian translations for…](https://make.wordpress.org/polyglots/2022/09/22/ive-suggested-italian-translations-for/)
 - [PTE Request for Shipping Cost…](https://make.wordpress.org/polyglots/2022/09/22/pte-request-for-shipping-cost/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/09/22/hi-dear-mentors-we-have-95/)
-- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/09/22/ive-suggested-translations-for-this-24/)
 <!-- POLYGLOTS:END -->
 
 ## Support
