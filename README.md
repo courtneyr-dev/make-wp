@@ -333,6 +333,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Media tips &amp; tricks](https://wordpress.tv/2022/09/23/media-tips-tricks/)
+- [Code with me: code your first settings in theme.json](https://wordpress.tv/2022/09/23/code-with-me-code-your-first-settings-in-theme-json/)
 - [WordPress REST API integration](https://wordpress.tv/2022/09/23/wordpress-rest-api-integration/)
 - [Using block attributes to enable user editing](https://wordpress.tv/2022/09/23/using-block-attributes-to-enable-user-editing/)
 - [Local WordPress development](https://wordpress.tv/2022/09/22/local-wordpress-development/)
@@ -356,8 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customizing a footer with patterns](https://wordpress.tv/2022/09/07/customizing-a-footer-with-patterns/)
 - [The creative side of blocks, Volume 2](https://wordpress.tv/2022/09/07/the-creative-side-of-blocks-vol-2/)
 - [Styling your WordPress blocks](https://wordpress.tv/2022/09/05/styling-your-wordpress-blocks/)
-- [Growth hacking im eCommerce | Mehr umsatz mit growth hacking &lpar;DE&rpar;](https://wordpress.tv/2022/09/03/daniel-knoflicek-growth-hacking-im-ecommerce-mehr-umsatz-mit-growth-hacking-de/)
-- [Elena M. Brambilla: PHP 8, le novità che ci attendono!](https://wordpress.tv/2022/09/03/elena-m-brambilla-php-8-le-novita-che-ci-attendono/)
 <!-- WPTV:END -->
 
 ## Marketing
