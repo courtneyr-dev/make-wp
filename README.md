@@ -333,6 +333,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Las 1001 formas de crear bloques de Gutenberg, de novato a PRO](https://wordpress.tv/2022/09/25/las-1001-formas-de-crear-bloques-de-gutenberg-de-novato-a-pro/)
+- [Apertura de la WordCamp Pontevedra 2022](https://wordpress.tv/2022/09/25/apertura-de-la-wordcamp-pontevedra-2022/)
+- [Rechtliches zu deutschen WP-Webseiten – update 2022](https://wordpress.tv/2022/09/25/rechtliches-zu-deutschen-wp-webseiten-update-2022/)
 - [CSS 2022: un mundo completamente nuevo](https://wordpress.tv/2022/09/25/css-2022-un-mundo-completamente-nuevo/)
 - [Usar HTTP API para consumir recursos externos](https://wordpress.tv/2022/09/25/usar-http-api-para-consumir-recursos-externos/)
 - [WordPress en el centro de mi estrategia](https://wordpress.tv/2022/09/25/wordpress-en-el-centro-de-mi-estrategia/)
@@ -355,9 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gerenciando atualizações no WordPress](https://wordpress.tv/2022/09/20/gerenciando-atualizacoes-no-wordpress/)
 - [Contributing to Make WordPress](https://wordpress.tv/2022/09/17/contributing-to-make-wordpress/)
 - [10 種類のテキストブロック　〜使い分けのコツ〜](https://wordpress.tv/2022/09/16/10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c/)
-- [Introduction to block theme development &lpar;for beginners&rpar;](https://wordpress.tv/2022/09/16/introduction-to-block-theme-development-for-beginners/)
-- [Let’s code: what happens when you make theme changes?](https://wordpress.tv/2022/09/16/lets-code-what-happens-when-you-make-theme-changes/)
-- [Block theme builders: choosing and using fonts](https://wordpress.tv/2022/09/15/block-theme-builders-choosing-using-fonts/)
 <!-- WPTV:END -->
 
 ## Marketing
