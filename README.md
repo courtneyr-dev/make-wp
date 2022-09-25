@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [CSS 2022: un mundo completamente nuevo](https://wordpress.tv/2022/09/25/css-2022-un-mundo-completamente-nuevo/)
 - [Usar HTTP API para consumir recursos externos](https://wordpress.tv/2022/09/25/usar-http-api-para-consumir-recursos-externos/)
 - [WordPress en el centro de mi estrategia](https://wordpress.tv/2022/09/25/wordpress-en-el-centro-de-mi-estrategia/)
 - [Actualiza plugins propios desde un repositorio privado git](https://wordpress.tv/2022/09/25/actualiza-plugins-propios-desde-un-repositorio-privado-git/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to block theme development &lpar;for beginners&rpar;](https://wordpress.tv/2022/09/16/introduction-to-block-theme-development-for-beginners/)
 - [Let’s code: what happens when you make theme changes?](https://wordpress.tv/2022/09/16/lets-code-what-happens-when-you-make-theme-changes/)
 - [Block theme builders: choosing and using fonts](https://wordpress.tv/2022/09/15/block-theme-builders-choosing-using-fonts/)
-- [Keine angst vor Full Site Editing und WordPress 5.9 &lpar;DE&rpar;](https://wordpress.tv/2022/09/14/keine-angst-vor-full-site-editing-und-wordpress-5-9-de/)
 <!-- WPTV:END -->
 
 ## Marketing
