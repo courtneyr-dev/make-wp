@@ -333,6 +333,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Usar HTTP API para consumir recursos externos](https://wordpress.tv/2022/09/25/usar-http-api-para-consumir-recursos-externos/)
+- [WordPress en el centro de mi estrategia](https://wordpress.tv/2022/09/25/wordpress-en-el-centro-de-mi-estrategia/)
+- [Actualiza plugins propios desde un repositorio privado git](https://wordpress.tv/2022/09/25/actualiza-plugins-propios-desde-un-repositorio-privado-git/)
+- [WPO mal entendido](https://wordpress.tv/2022/09/25/wpo-mal-entendido/)
+- [Fiscalidad de los cursos online](https://wordpress.tv/2022/09/25/fiscalidad-de-los-cursos-online/)
 - [FSE For the Win](https://wordpress.tv/2022/09/24/fse-for-the-win/)
 - [Let’s Build a Custom Block in 15 Minutes](https://wordpress.tv/2022/09/24/lets-build-a-custom-block-in-15-minutes/)
 - [How Your Small Business Can Participate in Five for the Future](https://wordpress.tv/2022/09/24/how-your-small-business-can-participate-in-five-for-the-future/)
@@ -353,11 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: what happens when you make theme changes?](https://wordpress.tv/2022/09/16/lets-code-what-happens-when-you-make-theme-changes/)
 - [Block theme builders: choosing and using fonts](https://wordpress.tv/2022/09/15/block-theme-builders-choosing-using-fonts/)
 - [Keine angst vor Full Site Editing und WordPress 5.9 &lpar;DE&rpar;](https://wordpress.tv/2022/09/14/keine-angst-vor-full-site-editing-und-wordpress-5-9-de/)
-- [WordPress 6.1 product walk-through](https://wordpress.tv/2022/09/13/wordpress-6-1-product-walk-through/)
-- [Taming the whirlwind – growing your WordPress business while you’re busy with client work](https://wordpress.tv/2022/09/13/taming-the-whirlwind-growing-your-wordpress-business-while-youre-busy-with-client-work/)
-- [Let’s code: a beginners guide to block locking in block themes](https://wordpress.tv/2022/09/12/lets-code-a-beginners-guide-to-block-locking-in-block-themes/)
-- [A chat with Matt Mullenweg: WordCamp US 2022 Q&amp;A](https://wordpress.tv/2022/09/12/a-chat-with-matt-mullenweg-wordcamp-us-2022-qa/)
-- [All about reusable blocks](https://wordpress.tv/2022/09/09/all-about-reusable-blocks/)
 <!-- WPTV:END -->
 
 ## Marketing
