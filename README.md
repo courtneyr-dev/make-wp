@@ -333,6 +333,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Trucos para hacer una web corporativa cuando no existe manual de imagen](https://wordpress.tv/2022/09/25/trucos-para-hacer-una-web-corporativa-cuando-no-existe-manual-de-imagen/)
+- [10 Cosas que se pueden hacer en WP-CLI &lpar;y a lo mejor no lo sabías&rpar;](https://wordpress.tv/2022/09/25/10-cosas-que-se-pueden-hacer-en-wp-cli-y-a-lo-mejor-no-lo-sabias/)
 - [Las 1001 formas de crear bloques de Gutenberg, de novato a PRO](https://wordpress.tv/2022/09/25/las-1001-formas-de-crear-bloques-de-gutenberg-de-novato-a-pro/)
 - [Apertura de la WordCamp Pontevedra 2022](https://wordpress.tv/2022/09/25/apertura-de-la-wordcamp-pontevedra-2022/)
 - [Rechtliches zu deutschen WP-Webseiten – update 2022](https://wordpress.tv/2022/09/25/rechtliches-zu-deutschen-wp-webseiten-update-2022/)
@@ -350,14 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress REST API integration](https://wordpress.tv/2022/09/23/wordpress-rest-api-integration/)
 - [Using block attributes to enable user editing](https://wordpress.tv/2022/09/23/using-block-attributes-to-enable-user-editing/)
 - [Local WordPress development](https://wordpress.tv/2022/09/22/local-wordpress-development/)
-- [Image Optimization](https://wordpress.tv/2022/09/21/image-optimization/)
+- [Image optimization](https://wordpress.tv/2022/09/21/image-optimization/)
 - [Let’s Build a Custom Block in One Hour](https://wordpress.tv/2022/09/21/lets-build-a-custom-block-in-one-hour/)
 - [Building a WordPress agency](https://wordpress.tv/2022/09/21/building-a-wordpress-agency/)
 - [Building and nurturing a local open source community](https://wordpress.tv/2022/09/21/building-and-nurturing-a-local-open-source-community/)
 - [What is WordPress and how to get started with it](https://wordpress.tv/2022/09/21/what-is-wordpress-and-how-to-get-started-with-it/)
 - [Gerenciando atualizações no WordPress](https://wordpress.tv/2022/09/20/gerenciando-atualizacoes-no-wordpress/)
-- [Contributing to Make WordPress](https://wordpress.tv/2022/09/17/contributing-to-make-wordpress/)
-- [10 種類のテキストブロック　〜使い分けのコツ〜](https://wordpress.tv/2022/09/16/10-%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%80%e3%80%9c%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91%e3%81%ae%e3%82%b3%e3%83%84%e3%80%9c/)
 <!-- WPTV:END -->
 
 ## Marketing
