@@ -446,6 +446,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Test Team Update: 26 September 2022](https://make.wordpress.org/updates/2022/09/26/test-team-update-26-september-2022/)
 - [Documentation Team Update – September 26, 2022](https://make.wordpress.org/updates/2022/09/26/documentation-team-update-september-26-2022/)
 - [Plugin Review Team – 19 Sept 2022](https://make.wordpress.org/updates/2022/09/20/plugin-review-team-19-sept-2022/)
 - [Mobile Team Update – September 20th](https://make.wordpress.org/updates/2022/09/20/mobile-team-update-september-20th/)
@@ -455,7 +456,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/updates/2022/09/18/wordcamp-us-contributor-day-2022-recap/)
 - [Themes team update September 14, 2022](https://make.wordpress.org/updates/2022/09/14/themes-team-update-september-14-2022/)
 - [Plugin Review Team: 12 Sept 2022](https://make.wordpress.org/updates/2022/09/13/plugin-review-team-12-sept-2022/)
-- [Test Team Update: 12 September 2022](https://make.wordpress.org/updates/2022/09/12/test-team-update-12-september-2022/)
 <!-- UPDATES:END -->
 
 ## Project
