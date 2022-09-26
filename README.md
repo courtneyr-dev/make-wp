@@ -45,6 +45,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Notes: September 16, 2022](https://make.wordpress.org/accessibility/2022/09/26/accessibility-team-meeting-notes-september-16-2022/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/accessibility/2022/09/18/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Accessibility Team Meeting Agenda: September 16, 2022](https://make.wordpress.org/accessibility/2022/09/16/accessibility-team-meeting-agenda-september-16-2022/)
 - [X-post: Frontend Release v3.4.8 and a call for a11y testing](https://make.wordpress.org/accessibility/2022/09/07/xpost-frontend-release-v3-4-8-and-a-call-for-a11y-testing/)
@@ -54,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: August 19, 2022](https://make.wordpress.org/accessibility/2022/08/19/accessibility-team-meeting-agenda-august-19-2022/)
 - [Accessibility Team Meeting Notes: August 5, 2022](https://make.wordpress.org/accessibility/2022/08/19/accessibility-team-meeting-notes-august-5-2022/)
 - [Accessibility Team Meeting Agenda: August 5, 2022](https://make.wordpress.org/accessibility/2022/08/05/accessibility-team-meeting-agenda-august-5-2022/)
-- [Accessibility Team Meeting Notes: July 15, 2022](https://make.wordpress.org/accessibility/2022/08/05/accessibility-team-meeting-notes-july-15-2022/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
