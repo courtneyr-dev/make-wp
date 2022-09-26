@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How better performing websites can help save the planet](https://wordpress.tv/2022/09/26/how-better-performing-websites-can-help-save-the-planet/)
 - [Five for the Future: financiando WordPress de una forma sostenible](https://wordpress.tv/2022/09/26/five-for-the-future-financiando-wordpress-de-una-forma-sostenible/)
 - [Ayudando a pequeñas empresas rurales a crear grandes proyectos digitales](https://wordpress.tv/2022/09/26/ayudando-a-pequenas-empresas-rurales-a-crear-grandes-proyectos-digitales/)
 - [Crear un modelo con FSE para un nuevo Tipo de Dato Personalizado](https://wordpress.tv/2022/09/26/crear-un-modelo-con-fse-para-un-nuevo-tipo-de-dato-personalizado/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Trucos para hacer una web corporativa cuando no existe manual de imagen](https://wordpress.tv/2022/09/25/trucos-para-hacer-una-web-corporativa-cuando-no-existe-manual-de-imagen/)
 - [10 Cosas que se pueden hacer en WP-CLI &lpar;y a lo mejor no lo sabías&rpar;](https://wordpress.tv/2022/09/25/10-cosas-que-se-pueden-hacer-en-wp-cli-y-a-lo-mejor-no-lo-sabias/)
 - [Las 1001 formas de crear bloques de Gutenberg, de novato a PRO](https://wordpress.tv/2022/09/25/las-1001-formas-de-crear-bloques-de-gutenberg-de-novato-a-pro/)
-- [Apertura de la WordCamp Pontevedra 2022](https://wordpress.tv/2022/09/25/apertura-de-la-wordcamp-pontevedra-2022/)
 <!-- WPTV:END -->
 
 ## Marketing
