@@ -333,6 +333,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Five for the Future: financiando WordPress de una forma sostenible](https://wordpress.tv/2022/09/26/five-for-the-future-financiando-wordpress-de-una-forma-sostenible/)
+- [Ayudando a pequeñas empresas rurales a crear grandes proyectos digitales](https://wordpress.tv/2022/09/26/ayudando-a-pequenas-empresas-rurales-a-crear-grandes-proyectos-digitales/)
+- [Crear un modelo con FSE para un nuevo Tipo de Dato Personalizado](https://wordpress.tv/2022/09/26/crear-un-modelo-con-fse-para-un-nuevo-tipo-de-dato-personalizado/)
+- [De vuelta al futuro de las WordCamps](https://wordpress.tv/2022/09/26/de-vuelta-al-futuro-de-las-wordcamps/)
+- [Larga vida a los blogs &lpar;de WordPress, ¡claro!&rpar;](https://wordpress.tv/2022/09/26/larga-vida-a-los-blogs-de-wordpress-claro/)
 - [AMA: Seguridad en WordPress, ¿Y eso qué significa realmente?](https://wordpress.tv/2022/09/26/ama-seguridad-en-wordpress-y-eso-que-significa-realmente/)
 - [Plugins y otras formas de mejorar la accesibilidad web con WordPress](https://wordpress.tv/2022/09/25/plugins-y-otras-formas-de-mejorar-la-accesibilidad-web-con-wordpress/)
 - [GA4, GTM y el dataLayer](https://wordpress.tv/2022/09/25/ga4-gtm-y-el-datalayer/)
@@ -353,11 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [10 Cosas que se pueden hacer en WP-CLI &lpar;y a lo mejor no lo sabías&rpar;](https://wordpress.tv/2022/09/25/10-cosas-que-se-pueden-hacer-en-wp-cli-y-a-lo-mejor-no-lo-sabias/)
 - [Las 1001 formas de crear bloques de Gutenberg, de novato a PRO](https://wordpress.tv/2022/09/25/las-1001-formas-de-crear-bloques-de-gutenberg-de-novato-a-pro/)
 - [Apertura de la WordCamp Pontevedra 2022](https://wordpress.tv/2022/09/25/apertura-de-la-wordcamp-pontevedra-2022/)
-- [Rechtliches zu deutschen WP-Webseiten – update 2022](https://wordpress.tv/2022/09/25/rechtliches-zu-deutschen-wp-webseiten-update-2022/)
-- [CSS 2022: un mundo completamente nuevo](https://wordpress.tv/2022/09/25/css-2022-un-mundo-completamente-nuevo/)
-- [Usar HTTP API para consumir recursos externos](https://wordpress.tv/2022/09/25/usar-http-api-para-consumir-recursos-externos/)
-- [WordPress en el centro de mi estrategia](https://wordpress.tv/2022/09/25/wordpress-en-el-centro-de-mi-estrategia/)
-- [Actualiza plugins propios desde un repositorio privado git](https://wordpress.tv/2022/09/25/actualiza-plugins-propios-desde-un-repositorio-privado-git/)
 <!-- WPTV:END -->
 
 ## Marketing
