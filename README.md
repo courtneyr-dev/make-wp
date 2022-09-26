@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Block &amp; Theme Global Styles Customization](https://wordpress.tv/2022/09/25/block-theme-global-styles-customization/)
 - [Trucos para hacer una web corporativa cuando no existe manual de imagen](https://wordpress.tv/2022/09/25/trucos-para-hacer-una-web-corporativa-cuando-no-existe-manual-de-imagen/)
 - [10 Cosas que se pueden hacer en WP-CLI &lpar;y a lo mejor no lo sabías&rpar;](https://wordpress.tv/2022/09/25/10-cosas-que-se-pueden-hacer-en-wp-cli-y-a-lo-mejor-no-lo-sabias/)
 - [Las 1001 formas de crear bloques de Gutenberg, de novato a PRO](https://wordpress.tv/2022/09/25/las-1001-formas-de-crear-bloques-de-gutenberg-de-novato-a-pro/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building a WordPress agency](https://wordpress.tv/2022/09/21/building-a-wordpress-agency/)
 - [Building and nurturing a local open source community](https://wordpress.tv/2022/09/21/building-and-nurturing-a-local-open-source-community/)
 - [What is WordPress and how to get started with it](https://wordpress.tv/2022/09/21/what-is-wordpress-and-how-to-get-started-with-it/)
-- [Gerenciando atualizações no WordPress](https://wordpress.tv/2022/09/20/gerenciando-atualizacoes-no-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
