@@ -333,6 +333,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo organizar WCEU 2022 me hizo un mejor profesional de WordPress](https://wordpress.tv/2022/09/25/como-organizar-wceu-2022-me-hizo-un-mejor-profesional-de-wordpress/)
+- [¿Dónde fue el tiempo que me prometió la tecnología?](https://wordpress.tv/2022/09/25/donde-fue-el-tiempo-que-me-prometio-la-tecnologia/)
+- [¿Un Late Show para la WordCamp Spain? Cómo se hizo y por qué](https://wordpress.tv/2022/09/25/un-late-show-para-la-wordcamp-spain-como-se-hizo-y-por-que/)
+- [Audiencia o comunidad: qué necesita tu negocio](https://wordpress.tv/2022/09/25/audiencia-o-comunidad-que-necesita-tu-negocio/)
+- [Cómo escribir el copy de tu web para vender más](https://wordpress.tv/2022/09/25/como-escribir-el-copy-de-tu-web-para-vender-mas/)
+- [Desarrollo de temas de WordPress en 2022, ¿qué hay de nuevo?](https://wordpress.tv/2022/09/25/desarrollo-de-temas-de-wordpress-en-2022-que-hay-de-nuevo/)
 - [Block &amp; Theme Global Styles Customization](https://wordpress.tv/2022/09/25/block-theme-global-styles-customization/)
 - [Trucos para hacer una web corporativa cuando no existe manual de imagen](https://wordpress.tv/2022/09/25/trucos-para-hacer-una-web-corporativa-cuando-no-existe-manual-de-imagen/)
 - [10 Cosas que se pueden hacer en WP-CLI &lpar;y a lo mejor no lo sabías&rpar;](https://wordpress.tv/2022/09/25/10-cosas-que-se-pueden-hacer-en-wp-cli-y-a-lo-mejor-no-lo-sabias/)
@@ -352,12 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Code with me: code your first settings in theme.json](https://wordpress.tv/2022/09/23/code-with-me-code-your-first-settings-in-theme-json/)
 - [WordPress REST API integration](https://wordpress.tv/2022/09/23/wordpress-rest-api-integration/)
 - [Using block attributes to enable user editing](https://wordpress.tv/2022/09/23/using-block-attributes-to-enable-user-editing/)
-- [Local WordPress development](https://wordpress.tv/2022/09/22/local-wordpress-development/)
-- [Image optimization](https://wordpress.tv/2022/09/21/image-optimization/)
-- [Let’s Build a Custom Block in One Hour](https://wordpress.tv/2022/09/21/lets-build-a-custom-block-in-one-hour/)
-- [Building a WordPress agency](https://wordpress.tv/2022/09/21/building-a-wordpress-agency/)
-- [Building and nurturing a local open source community](https://wordpress.tv/2022/09/21/building-and-nurturing-a-local-open-source-community/)
-- [What is WordPress and how to get started with it](https://wordpress.tv/2022/09/21/what-is-wordpress-and-how-to-get-started-with-it/)
 <!-- WPTV:END -->
 
 ## Marketing
