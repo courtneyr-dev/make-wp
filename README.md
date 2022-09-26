@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda for September 27, 2022](https://make.wordpress.org/training/2022/09/26/meeting-agenda-for-september-27-2022/)
 - [Training Team Meeting Recap – September 20](https://make.wordpress.org/training/2022/09/23/training-team-meeting-recap-september-20/)
 - [#WPTranslation Day Sept 30 – Contributor Day](https://make.wordpress.org/training/2022/09/23/wptranslation-day-contributor-day/)
 - [Summary Update: Courses Currently in Development &lpar;22 September 2022&rpar;](https://make.wordpress.org/training/2022/09/23/summary-update-courses-currently-in-development-22-september-2022/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meeting Agenda for September 20, 2022](https://make.wordpress.org/training/2022/09/19/meeting-agenda-for-september-21-2022/)
 - [Team Profile Badges](https://make.wordpress.org/training/2022/09/16/team-profile-badges/)
 - [Training Team Meeting Recap for September 13, 2022](https://make.wordpress.org/training/2022/09/14/training-team-meeting-recap-for-september-13-2022/)
-- [[Discussion] Reimagining the Training Team contributor roles](https://make.wordpress.org/training/2022/09/14/discussion-reimagining-the-training-team-contributor-roles/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
