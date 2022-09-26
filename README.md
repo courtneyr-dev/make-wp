@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for September 27, 2022](https://make.wordpress.org/themes/2022/09/26/themes-team-meeting-agenda-for-september-27-2022/)
 - [X-post: Themes team update September 20, 2022](https://make.wordpress.org/themes/2022/09/20/xpost-themes-team-update-september-20-2022/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/themes/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [X-post: Themes team update September 14, 2022](https://make.wordpress.org/themes/2022/09/14/xpost-themes-team-update-september-14-2022/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: TT3 default theme: Announcing style variation selections](https://make.wordpress.org/themes/2022/09/07/xpost-tt3-default-theme-announcing-style-variation-selections/)
 - [X-post: Themes team update September 06, 2022](https://make.wordpress.org/themes/2022/09/06/xpost-themes-team-update-september-06-2022/)
 - [X-post: Use of accessibility-ready tag for block-based themes](https://make.wordpress.org/themes/2022/08/29/xpost-use-of-accessibility-ready-tag-for-block-based-themes/)
-- [X-post: Hallway Hangout: Discussion on Block Themes &lpar;25 Aug&rpar;](https://make.wordpress.org/themes/2022/08/25/xpost-hallway-hangout-discussion-on-block-themes-25-aug/)
 <!-- THEMES:END -->
 
 ## Plugins
