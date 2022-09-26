@@ -333,6 +333,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [AMA: Seguridad en WordPress, ¿Y eso qué significa realmente?](https://wordpress.tv/2022/09/26/ama-seguridad-en-wordpress-y-eso-que-significa-realmente/)
+- [Plugins y otras formas de mejorar la accesibilidad web con WordPress](https://wordpress.tv/2022/09/25/plugins-y-otras-formas-de-mejorar-la-accesibilidad-web-con-wordpress/)
+- [GA4, GTM y el dataLayer](https://wordpress.tv/2022/09/25/ga4-gtm-y-el-datalayer/)
+- [Upselling en WooCommerce](https://wordpress.tv/2022/09/25/upselling-en-woocommerce/)
+- [Cómo diseñar el checkout de WooCommerce para aumentar la conversión](https://wordpress.tv/2022/09/25/como-disenar-el-checkout-de-woocommerce-para-aumentar-la-conversion/)
+- [No limites tu publicidad, ni Google ni Facebook, invierte en publicidad omnicanal](https://wordpress.tv/2022/09/25/no-limites-tu-publicidad-ni-google-ni-facebook-invierte-en-publicidad-omnicanal/)
+- [Perdón, llevamos 15 años mintiendo: WordPress NO es fácil](https://wordpress.tv/2022/09/25/perdon-llevamos-15-anos-mintiendo-wordpress-no-es-facil/)
+- [3 cosas que olvidé en mi primer WooCommerce y que querrás saber](https://wordpress.tv/2022/09/25/3-cosas-que-olvide-en-mi-primer-woocommerce-y-que-querras-saber/)
+- [Caso real: Cómo mejoré 96 puntos el PageSpeed de un cliente](https://wordpress.tv/2022/09/25/caso-real-como-mejore-96-puntos-el-pagespeed-de-un-cliente/)
 - [Cómo organizar WCEU 2022 me hizo un mejor profesional de WordPress](https://wordpress.tv/2022/09/25/como-organizar-wceu-2022-me-hizo-un-mejor-profesional-de-wordpress/)
 - [¿Dónde fue el tiempo que me prometió la tecnología?](https://wordpress.tv/2022/09/25/donde-fue-el-tiempo-que-me-prometio-la-tecnologia/)
 - [¿Un Late Show para la WordCamp Spain? Cómo se hizo y por qué](https://wordpress.tv/2022/09/25/un-late-show-para-la-wordcamp-spain-como-se-hizo-y-por-que/)
@@ -349,15 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Usar HTTP API para consumir recursos externos](https://wordpress.tv/2022/09/25/usar-http-api-para-consumir-recursos-externos/)
 - [WordPress en el centro de mi estrategia](https://wordpress.tv/2022/09/25/wordpress-en-el-centro-de-mi-estrategia/)
 - [Actualiza plugins propios desde un repositorio privado git](https://wordpress.tv/2022/09/25/actualiza-plugins-propios-desde-un-repositorio-privado-git/)
-- [WPO mal entendido](https://wordpress.tv/2022/09/25/wpo-mal-entendido/)
-- [Fiscalidad de los cursos online](https://wordpress.tv/2022/09/25/fiscalidad-de-los-cursos-online/)
-- [FSE For the Win](https://wordpress.tv/2022/09/24/fse-for-the-win/)
-- [Let’s Build a Custom Block in 15 Minutes](https://wordpress.tv/2022/09/24/lets-build-a-custom-block-in-15-minutes/)
-- [How Your Small Business Can Participate in Five for the Future](https://wordpress.tv/2022/09/24/how-your-small-business-can-participate-in-five-for-the-future/)
-- [Media tips &amp; tricks](https://wordpress.tv/2022/09/23/media-tips-tricks/)
-- [Code with me: code your first settings in theme.json](https://wordpress.tv/2022/09/23/code-with-me-code-your-first-settings-in-theme-json/)
-- [WordPress REST API integration](https://wordpress.tv/2022/09/23/wordpress-rest-api-integration/)
-- [Using block attributes to enable user editing](https://wordpress.tv/2022/09/23/using-block-attributes-to-enable-user-editing/)
 <!-- WPTV:END -->
 
 ## Marketing
