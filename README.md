@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Themes team update September 27, 2022](https://make.wordpress.org/themes/2022/09/27/xpost-themes-team-update-september-27-2022/)
 - [Themes team meeting agenda for September 27, 2022](https://make.wordpress.org/themes/2022/09/26/themes-team-meeting-agenda-for-september-27-2022/)
 - [X-post: Themes team update September 20, 2022](https://make.wordpress.org/themes/2022/09/20/xpost-themes-team-update-september-20-2022/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/themes/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full-Width Blocks and Root Padding in WordPress 6.1](https://make.wordpress.org/themes/2022/09/07/full-width-blocks-and-root-padding-in-wordpress-6-1/)
 - [X-post: TT3 default theme: Announcing style variation selections](https://make.wordpress.org/themes/2022/09/07/xpost-tt3-default-theme-announcing-style-variation-selections/)
 - [X-post: Themes team update September 06, 2022](https://make.wordpress.org/themes/2022/09/06/xpost-themes-team-update-september-06-2022/)
-- [X-post: Use of accessibility-ready tag for block-based themes](https://make.wordpress.org/themes/2022/08/29/xpost-use-of-accessibility-ready-tag-for-block-based-themes/)
 <!-- THEMES:END -->
 
 ## Plugins
