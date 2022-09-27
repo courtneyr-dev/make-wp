@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Reminder: We will check your website](https://make.wordpress.org/plugins/2022/09/27/reminder-we-will-check-your-website/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/plugins/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Heroku Free Tier Being Retired](https://make.wordpress.org/plugins/2022/09/13/heroku-free-tier-being-retired/)
 - [Top reasons not to use setlocale&lpar;&rpar; for character encoding conversion](https://make.wordpress.org/plugins/2022/09/09/top-reasons-not-to-use-setlocale-for-character-encoding-conversion/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/plugins/2022/06/27/xpost-rollback-feature-testing-call-to-action/)
 - [Google Drive is Flagging Plugins as ‘Viruses’](https://make.wordpress.org/plugins/2022/06/24/google-drive-is-flagging-plugins-as-viruses/)
 - [What’s The Deal with Invalid Reviews?](https://make.wordpress.org/plugins/2022/06/15/whats-the-deal-with-invalid-reviews/)
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/plugins/2022/05/26/xpost-announcement-incident-response-training/)
 <!-- PLUGINS:END -->
 
 ## Community
