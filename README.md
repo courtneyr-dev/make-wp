@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Celebrating APAC WPDiversity Network Building: Update on Our 10th Meeting](https://make.wordpress.org/community/2022/09/27/celebrating-apac-wpdiversity-network-building-update-on-our-10th-meeting/)
 - [Meetup Organizer Newsletter: September 2022](https://make.wordpress.org/community/2022/09/22/meetup-organizer-newsletter-september-2022/)
 - [X-post: Project Proposal: Content Localization](https://make.wordpress.org/community/2022/09/21/xpost-project-proposal-content-localization/)
 - [[Action requested] Vote for “Organizing Diverse &amp; Inclusive Events workshop” date and time](https://make.wordpress.org/community/2022/09/20/action-requested-vote-for-organizing-diverse-inclusive-events-workshop-date-and-time/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: CampTix Attendee to Google Sheets integration](https://make.wordpress.org/community/2022/09/11/proposal-camptix-attendee-to-google-sheets-integration/)
 - [2023 Global Sponsorship Working Group](https://make.wordpress.org/community/2022/09/07/2023-global-sponsorship-working-group/)
 - [WordCamp US 2022 Contributor Day Plans](https://make.wordpress.org/community/2022/09/06/wordcamp-us-2022-contributor-day-plans/)
-- [X-post: What’s new on LearnWP – August 2022](https://make.wordpress.org/community/2022/09/01/xpost-whats-new-on-learnwp-august-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
