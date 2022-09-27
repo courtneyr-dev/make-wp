@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [DevOps and open source: marriage made in Heaven](https://wordpress.tv/2022/09/27/devops-and-open-source-marriage-made-in-heaven/)
 - [Clausura de la WordCamp Pontevedra 2022](https://wordpress.tv/2022/09/26/clausura-de-la-wordcamp-pontevedra-2022/)
 - [How better performing websites can help save the planet](https://wordpress.tv/2022/09/26/how-better-performing-websites-can-help-save-the-planet/)
 - [Five for the Future: financiando WordPress dun xeito sostible](https://wordpress.tv/2022/09/26/five-for-the-future-financiando-wordpress-de-una-forma-sostenible/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Desarrollo de temas de WordPress en 2022, ¿qué hay de nuevo?](https://wordpress.tv/2022/09/25/desarrollo-de-temas-de-wordpress-en-2022-que-hay-de-nuevo/)
 - [Block &amp; Theme Global Styles Customization](https://wordpress.tv/2022/09/25/block-theme-global-styles-customization/)
 - [Trucos para hacer una web corporativa cuando no existe manual de imagen](https://wordpress.tv/2022/09/25/trucos-para-hacer-una-web-corporativa-cuando-no-existe-manual-de-imagen/)
-- [10 Cosas que se pueden hacer en WP-CLI &lpar;y a lo mejor no lo sabías&rpar;](https://wordpress.tv/2022/09/25/10-cosas-que-se-pueden-hacer-en-wp-cli-y-a-lo-mejor-no-lo-sabias/)
 <!-- WPTV:END -->
 
 ## Marketing
