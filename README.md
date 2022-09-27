@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translation of my plugin](https://make.wordpress.org/polyglots/2022/09/27/translation-of-my-plugin/)
 - [X-post: Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/polyglots/2022/09/27/xpost-proposal-faster-course-development-with-video-based-courses/)
 - [PTE Request for SaturnWP+Astra](https://make.wordpress.org/polyglots/2022/09/27/pte-request-for-saturnwpastra/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/09/27/hi-dear-mentors-we-have-96/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Game Review Box](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-game-review-box/)
 - [PTE Request for PublishPress Checklist](https://make.wordpress.org/polyglots/2022/09/24/pte-request-for-publishpress-checklist/)
 - [PTE Request for SHOPVOTE](https://make.wordpress.org/polyglots/2022/09/23/pte-request-for-shopvote/)
-- [X-post: #WPTranslation Day – Contributor Day](https://make.wordpress.org/polyglots/2022/09/23/xpost-wptranslation-day-contributor-day/)
 <!-- POLYGLOTS:END -->
 
 ## Support
