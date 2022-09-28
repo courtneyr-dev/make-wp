@@ -357,7 +357,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Audiencia o comunidad: qué necesita tu negocio](https://wordpress.tv/2022/09/25/audiencia-o-comunidad-que-necesita-tu-negocio/)
 - [Cómo escribir el copy de tu web para vender más](https://wordpress.tv/2022/09/25/como-escribir-el-copy-de-tu-web-para-vender-mas/)
 - [Desarrollo de temas de WordPress en 2022, ¿qué hay de nuevo?](https://wordpress.tv/2022/09/25/desarrollo-de-temas-de-wordpress-en-2022-que-hay-de-nuevo/)
-- [Block &amp; Theme Global Styles Customization](https://wordpress.tv/2022/09/25/block-theme-global-styles-customization/)
+- [Block and theme global styles customization](https://wordpress.tv/2022/09/25/block-theme-global-styles-customization/)
 <!-- WPTV:END -->
 
 ## Marketing
