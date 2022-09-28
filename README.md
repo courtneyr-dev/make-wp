@@ -333,6 +333,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Security](https://wordpress.tv/2022/09/28/security/)
 - [Let Amazon Alexa talk about your WordPress content](https://wordpress.tv/2022/09/28/let-amazon-alexa-talk-about-your-wordpress-content/)
 - [Translate.wordpress.org feedback tool walk-through](https://wordpress.tv/2022/09/27/jesus-amieiro-alex-kirk-translate-wordpress-org-feedback-tool-walk-through/)
 - [DevOps and open source: marriage made in Heaven](https://wordpress.tv/2022/09/27/devops-and-open-source-marriage-made-in-heaven/)
@@ -357,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Un Late Show para la WordCamp Spain? Cómo se hizo y por qué](https://wordpress.tv/2022/09/25/un-late-show-para-la-wordcamp-spain-como-se-hizo-y-por-que/)
 - [Audiencia o comunidad: qué necesita tu negocio](https://wordpress.tv/2022/09/25/audiencia-o-comunidad-que-necesita-tu-negocio/)
 - [Cómo escribir el copy de tu web para vender más](https://wordpress.tv/2022/09/25/como-escribir-el-copy-de-tu-web-para-vender-mas/)
-- [Desarrollo de temas de WordPress en 2022, ¿qué hay de nuevo?](https://wordpress.tv/2022/09/25/desarrollo-de-temas-de-wordpress-en-2022-que-hay-de-nuevo/)
 <!-- WPTV:END -->
 
 ## Marketing
