@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Custom Fields](https://make.wordpress.org/polyglots/2022/09/28/pte-request-for-advanced-custom-fields-2/)
+- [Weekly Polyglots Chat – Sep. 28, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/28/weekly-polyglots-chat-sep-28-2022-1300-utc/)
+- [Hi. I’ve suggested translations for…](https://make.wordpress.org/polyglots/2022/09/28/hi-ive-suggested-translations-for-7/)
+- [Discussions’ Dashboard for GTEs](https://make.wordpress.org/polyglots/2022/09/28/discussions-dashboard-for-gtes/)
 - [Hi. I’ve suggested translations for…](https://make.wordpress.org/polyglots/2022/09/28/hi-ive-suggested-translations-for-6/)
 - [A new status: changes requested](https://make.wordpress.org/polyglots/2022/09/28/a-new-status-changes-requested/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/09/28/hi-dear-mentors-we-have-97/)
 - [The feedback tool](https://make.wordpress.org/polyglots/2022/09/28/the-feedback-tool/)
 - [Translation of my plugin](https://make.wordpress.org/polyglots/2022/09/27/translation-of-my-plugin/)
 - [X-post: Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/polyglots/2022/09/27/xpost-proposal-faster-course-development-with-video-based-courses/)
-- [PTE Request for SaturnWP+Astra](https://make.wordpress.org/polyglots/2022/09/27/pte-request-for-saturnwpastra/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/09/27/hi-dear-mentors-we-have-96/)
-- [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/09/27/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommerce-2/)
-- [PTE Request for eMart Shop](https://make.wordpress.org/polyglots/2022/09/25/pte-request-for-emart-shop/)
 <!-- POLYGLOTS:END -->
 
 ## Support
