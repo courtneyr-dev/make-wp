@@ -257,6 +257,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
+- [Using the WordPress Data Layer](https://learn.wordpress.org/course/wordpress-data-in-javascript/)
 - [Part 3: Advanced Site Design with Full Site Editing: Site Editor, Templates and Template Parts](https://learn.wordpress.org/course/part-3-advanced-site-design-with-full-site-editing-site-editor-templates-and-template-parts/)
 - [Part 2: Personalized Site Design with Full Site Editing and Theme Blocks](https://learn.wordpress.org/course/part-2-personalized-site-design-with-full-site-editing-and-theme-blocks/)
 - [Part 1: Simple Site Design with Full Site Editing](https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/)
