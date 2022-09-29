@@ -517,16 +517,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Archaeologist](https://jobs.wordpress.net/job/senior-archaeologist/)
+- [Remote WordPress – Junior Full Stack Software Engineer – REMOTE – Full Time](https://jobs.wordpress.net/job/remote-wordpress-junior-full-stack-software-engineer-remote-full-time/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-15/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-45/)
 - [WP tech support / admin](https://jobs.wordpress.net/job/wp-tech-support-admin/)
 - [Custom Plug in repair](https://jobs.wordpress.net/job/custom-plug-in-repair/)
 - [WordPress Woocommerce](https://jobs.wordpress.net/job/wordpress-woocommerce/)
 - [2 x WooCommerce plugin developers](https://jobs.wordpress.net/job/2-x-woocommerce-plugin-developers/)
 - [Theme Customisation / API](https://jobs.wordpress.net/job/theme-customisation-api/)
 - [WordPress Full-Stack Developer](https://jobs.wordpress.net/job/wordpress-full-stack-developer-5/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-78/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-771/)
-- [Website Solutions Sales Expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-93/)
 <!-- JOBS:END -->
 
 ## Central
