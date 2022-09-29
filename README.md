@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Wappointment](https://make.wordpress.org/polyglots/2022/09/29/pte-request-for-wappointment/)
 - [PTE Request for Yoast SEO](https://make.wordpress.org/polyglots/2022/09/28/pte-request-for-yoast-seo-7/)
 - [PTE Request for Advanced Custom Fields](https://make.wordpress.org/polyglots/2022/09/28/pte-request-for-advanced-custom-fields-2/)
 - [Weekly Polyglots Chat – Sep. 28, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/28/weekly-polyglots-chat-sep-28-2022-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A new status: changes requested](https://make.wordpress.org/polyglots/2022/09/28/a-new-status-changes-requested/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/09/28/hi-dear-mentors-we-have-97/)
 - [The feedback tool](https://make.wordpress.org/polyglots/2022/09/28/the-feedback-tool/)
-- [Translation of my plugin](https://make.wordpress.org/polyglots/2022/09/27/translation-of-my-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
