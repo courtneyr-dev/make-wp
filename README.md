@@ -334,6 +334,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introduction to DEIB in WordPress](https://wordpress.tv/2022/09/29/introduction-to-deib-in-wordpress/)
+- [Human-Computer Interaction 101](https://wordpress.tv/2022/09/29/human-computer-interaction-101/)
+- [Adding a Pattern From the Pattern Directory to Your Theme](https://wordpress.tv/2022/09/29/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 - [Personalizing your 404 Template](https://wordpress.tv/2022/09/28/personalizing-your-404-template/)
 - [Security](https://wordpress.tv/2022/09/28/security/)
 - [Let Amazon Alexa talk about your WordPress content](https://wordpress.tv/2022/09/28/let-amazon-alexa-talk-about-your-wordpress-content/)
@@ -356,9 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [3 cosas que olvidé en mi primer WooCommerce y que querrás saber](https://wordpress.tv/2022/09/25/3-cosas-que-olvide-en-mi-primer-woocommerce-y-que-querras-saber/)
 - [Caso real: Cómo mejoré 96 puntos el PageSpeed de un cliente](https://wordpress.tv/2022/09/25/caso-real-como-mejore-96-puntos-el-pagespeed-de-un-cliente/)
 - [Cómo organizar WCEU 2022 me hizo un mejor profesional de WordPress](https://wordpress.tv/2022/09/25/como-organizar-wceu-2022-me-hizo-un-mejor-profesional-de-wordpress/)
-- [Onde foi o tempo que me prometeu a tecnoloxía?](https://wordpress.tv/2022/09/25/donde-fue-el-tiempo-que-me-prometio-la-tecnologia/)
-- [¿Un Late Show para la WordCamp Spain? Cómo se hizo y por qué](https://wordpress.tv/2022/09/25/un-late-show-para-la-wordcamp-spain-como-se-hizo-y-por-que/)
-- [Audiencia o comunidad: qué necesita tu negocio](https://wordpress.tv/2022/09/25/audiencia-o-comunidad-que-necesita-tu-negocio/)
 <!-- WPTV:END -->
 
 ## Marketing
