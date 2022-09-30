@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: creating your primary templates in the Editor](https://wordpress.tv/2022/09/30/lets-code-creating-your-primary-templates-in-the-editor/)
 - [Introduction to DEIB in WordPress](https://wordpress.tv/2022/09/29/introduction-to-deib-in-wordpress/)
 - [Human-Computer Interaction 101](https://wordpress.tv/2022/09/29/human-computer-interaction-101/)
 - [Adding a Pattern From the Pattern Directory to Your Theme](https://wordpress.tv/2022/09/29/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Perdón, llevamos 15 años mintiendo: WordPress NO es fácil](https://wordpress.tv/2022/09/25/perdon-llevamos-15-anos-mintiendo-wordpress-no-es-facil/)
 - [3 cosas que olvidé en mi primer WooCommerce y que querrás saber](https://wordpress.tv/2022/09/25/3-cosas-que-olvide-en-mi-primer-woocommerce-y-que-querras-saber/)
 - [Caso real: Cómo mejoré 96 puntos el PageSpeed de un cliente](https://wordpress.tv/2022/09/25/caso-real-como-mejore-96-puntos-el-pagespeed-de-un-cliente/)
-- [Cómo organizar WCEU 2022 me hizo un mejor profesional de WordPress](https://wordpress.tv/2022/09/25/como-organizar-wceu-2022-me-hizo-un-mejor-profesional-de-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
