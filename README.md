@@ -185,6 +185,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [September 2022 Monthly Faculty Meeting Recap](https://make.wordpress.org/training/2022/09/30/september-2022-monthly-faculty-meeting-recap/)
+- [Become an Online Workshop Facilitator or Tutorial Presenter Today!](https://make.wordpress.org/training/2022/09/30/become-an-online-workshop-facilitator-or-tutorial-presenter-today/)
 - [September 2022 Monthly Faculty Meeting](https://make.wordpress.org/training/2022/09/27/september-2022-monthly-faculty-meeting/)
 - [Meeting Agenda for September 27, 2022](https://make.wordpress.org/training/2022/09/26/meeting-agenda-for-september-27-2022/)
 - [Training Team Meeting Recap – September 20](https://make.wordpress.org/training/2022/09/23/training-team-meeting-recap-september-20/)
@@ -193,8 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Project Proposal: Content Localization](https://make.wordpress.org/training/2022/09/21/project-proposal-content-localization/)
 - [Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/training/2022/09/21/proposal-faster-course-development-with-video-based-courses/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/training/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
-- [Meeting Agenda for September 20, 2022](https://make.wordpress.org/training/2022/09/19/meeting-agenda-for-september-21-2022/)
-- [Team Profile Badges](https://make.wordpress.org/training/2022/09/16/team-profile-badges/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
