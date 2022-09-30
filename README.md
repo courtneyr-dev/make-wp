@@ -419,6 +419,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Next steps for Walters Art Museum data](https://make.wordpress.org/openverse/2022/09/30/next-steps-for-walters-art-museum-data/)
 - [Openverse Monthly Priorities Meeting 2022-10-05](https://make.wordpress.org/openverse/2022/09/30/openverse-monthly-priorities-meeting-2022-10-05/)
 - [Community Meeting Recap &lpar;27 September 2022&rpar;](https://make.wordpress.org/openverse/2022/09/27/community-meeting-recap-27-september-2022/)
 - [Community Meeting Recap &lpar;20 September 2022&rpar;](https://make.wordpress.org/openverse/2022/09/20/community-meeting-recap-20-september-2022/)
@@ -428,7 +429,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community meeting recap &lpar;6 September 2022&rpar;](https://make.wordpress.org/openverse/2022/09/07/community-meeting-recap-6-september-2022/)
 - [Openverse Biweekly Update – September 5th](https://make.wordpress.org/openverse/2022/09/05/openverse-biweekly-update-september-5th/)
 - [Applying ECS to the ingestion server/data refresh](https://make.wordpress.org/openverse/2022/09/02/applying-ecs-to-the-ingestion-server-data-refresh/)
-- [Community meeting recap &lpar;30 August 2022&rpar;](https://make.wordpress.org/openverse/2022/08/31/community-meeting-recap-30-august-2022/)
 <!-- OPENVERSE:END -->
 
 ## Photos
