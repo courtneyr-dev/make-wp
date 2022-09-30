@@ -45,6 +45,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [X-post: Adding subtitles to the WordPress.tv videos](https://make.wordpress.org/accessibility/2022/09/30/xpost-adding-subtitles-to-the-wordpress-tv-videos-2/)
+- [X-post: Adding subtitles to the WordPress.tv videos](https://make.wordpress.org/accessibility/2022/09/30/xpost-adding-subtitles-to-the-wordpress-tv-videos/)
 - [X-post: Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/accessibility/2022/09/27/xpost-proposal-faster-course-development-with-video-based-courses/)
 - [Accessibility Team Meeting Notes: September 16, 2022](https://make.wordpress.org/accessibility/2022/09/26/accessibility-team-meeting-notes-september-16-2022/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/accessibility/2022/09/18/xpost-wordcamp-us-contributor-day-2022-recap/)
@@ -53,8 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: September 2, 2022](https://make.wordpress.org/accessibility/2022/09/01/accessibility-team-meeting-agenda-september-2-2022/)
 - [Use of accessibility-ready tag for block-based themes](https://make.wordpress.org/accessibility/2022/08/29/use-of-accessibility-ready-tag-for-block-based-themes/)
 - [Accessibility Team Meeting Notes: August 19, 2022](https://make.wordpress.org/accessibility/2022/08/29/accessibility-team-meeting-notes-august-19-2022/)
-- [Accessibility Team Meeting Agenda: August 19, 2022](https://make.wordpress.org/accessibility/2022/08/19/accessibility-team-meeting-agenda-august-19-2022/)
-- [Accessibility Team Meeting Notes: August 5, 2022](https://make.wordpress.org/accessibility/2022/08/19/accessibility-team-meeting-notes-august-5-2022/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
