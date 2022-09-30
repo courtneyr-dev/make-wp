@@ -337,7 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: creating your primary templates in the Editor](https://wordpress.tv/2022/09/30/lets-code-creating-your-primary-templates-in-the-editor/)
 - [Introduction to DEIB in WordPress](https://wordpress.tv/2022/09/29/introduction-to-deib-in-wordpress/)
 - [Human-Computer Interaction 101](https://wordpress.tv/2022/09/29/human-computer-interaction-101/)
-- [Adding a Pattern From the Pattern Directory to Your Theme](https://wordpress.tv/2022/09/29/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
+- [Adding a pattern from the pattern directory to your theme](https://wordpress.tv/2022/09/29/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 - [Personalizing your 404 Template](https://wordpress.tv/2022/09/28/personalizing-your-404-template/)
 - [Security](https://wordpress.tv/2022/09/28/security/)
 - [Let Amazon Alexa talk about your WordPress content](https://wordpress.tv/2022/09/28/let-amazon-alexa-talk-about-your-wordpress-content/)
