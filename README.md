@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [September 29th Support Team Meeting Summary](https://make.wordpress.org/support/2022/09/september-29th-support-team-meeting-summary-2/)
 - [Agenda: Support Team Meeting – September 29, 2022](https://make.wordpress.org/support/2022/09/agenda-support-team-meeting-september-29-2022/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/support/2022/09/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [X-post: What’s new on LearnWP – August 2022](https://make.wordpress.org/support/2022/09/xpost-whats-new-on-learnwp-august-2022/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/support/2022/06/xpost-whats-new-on-learnwp-in-may-2022/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/support/2022/05/xpost-announcement-incident-response-training/)
 - [X-post: What’s new on LearnWP in April 2022](https://make.wordpress.org/support/2022/05/xpost-whats-new-on-learnwp-in-april-2022/)
-- [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/support/2022/05/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
 <!-- SUPPORT:END -->
 
 ## Documentation
