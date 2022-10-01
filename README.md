@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Spectra – WordPress Gutenberg Blocks]](https://make.wordpress.org/polyglots/2022/10/01/pte-request-for-spectra-wordpress-gutenberg-blocks/)
+- [PTE Request for Block Designer](https://make.wordpress.org/polyglots/2022/10/01/pte-request-for-block-designer/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/10/01/ive-suggested-translations-for-this-25/)
 - [PTE Request for List Yarpp Block](https://make.wordpress.org/polyglots/2022/09/30/pte-request-for-list-yarpp-block/)
 - [PTE Request for [WPS Limit Login]](https://make.wordpress.org/polyglots/2022/09/30/pte-request-for-wps-limit-login/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Wappointment](https://make.wordpress.org/polyglots/2022/09/29/pte-request-for-wappointment/)
 - [PTE Request for Yoast SEO](https://make.wordpress.org/polyglots/2022/09/28/pte-request-for-yoast-seo-7/)
 - [PTE Request for Advanced Custom Fields](https://make.wordpress.org/polyglots/2022/09/28/pte-request-for-advanced-custom-fields-2/)
-- [Weekly Polyglots Chat – Sep. 28, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/28/weekly-polyglots-chat-sep-28-2022-1300-utc/)
-- [Hi. I’ve suggested translations for…](https://make.wordpress.org/polyglots/2022/09/28/hi-ive-suggested-translations-for-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
