@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Vertical rhythm: efficiency in WordPress theme layout](https://wordpress.tv/2022/10/01/vertical-rhythm-efficiency-in-wordpress-theme-layout/)
 - [Social media marketing for WordPress businesses](https://wordpress.tv/2022/09/30/social-media-marketing-for-wordpress-businesses/)
 - [Let’s code: creating your primary templates in the Editor](https://wordpress.tv/2022/09/30/lets-code-creating-your-primary-templates-in-the-editor/)
 - [Introduction to DEIB in WordPress](https://wordpress.tv/2022/09/29/introduction-to-deib-in-wordpress/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo diseñar el checkout de WooCommerce para aumentar la conversión](https://wordpress.tv/2022/09/25/como-disenar-el-checkout-de-woocommerce-para-aumentar-la-conversion/)
 - [No limites tu publicidad, ni Google ni Facebook, invierte en publicidad omnicanal](https://wordpress.tv/2022/09/25/no-limites-tu-publicidad-ni-google-ni-facebook-invierte-en-publicidad-omnicanal/)
 - [Perdón, llevamos 15 años mintiendo: WordPress NO es fácil](https://wordpress.tv/2022/09/25/perdon-llevamos-15-anos-mintiendo-wordpress-no-es-facil/)
-- [3 cosas que olvidé en mi primer WooCommerce y que querrás saber](https://wordpress.tv/2022/09/25/3-cosas-que-olvide-en-mi-primer-woocommerce-y-que-querras-saber/)
 <!-- WPTV:END -->
 
 ## Marketing
