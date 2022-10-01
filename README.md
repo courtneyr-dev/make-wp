@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/10/01/ive-suggested-translations-for-this-25/)
 - [PTE Request for List Yarpp Block](https://make.wordpress.org/polyglots/2022/09/30/pte-request-for-list-yarpp-block/)
 - [PTE Request for [WPS Limit Login]](https://make.wordpress.org/polyglots/2022/09/30/pte-request-for-wps-limit-login/)
 - [Adding subtitles to the WordPress.tv videos](https://make.wordpress.org/polyglots/2022/09/30/adding-subtitles-to-the-wordpress-tv-videos/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Advanced Custom Fields](https://make.wordpress.org/polyglots/2022/09/28/pte-request-for-advanced-custom-fields-2/)
 - [Weekly Polyglots Chat – Sep. 28, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/09/28/weekly-polyglots-chat-sep-28-2022-1300-utc/)
 - [Hi. I’ve suggested translations for…](https://make.wordpress.org/polyglots/2022/09/28/hi-ive-suggested-translations-for-7/)
-- [Discussions Dashboard for GTEs](https://make.wordpress.org/polyglots/2022/09/28/discussions-dashboard-for-gtes/)
 <!-- POLYGLOTS:END -->
 
 ## Support
