@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Project Thread: GitHub Process Updates](https://make.wordpress.org/training/2022/10/02/project-thread-github-process-updates/)
 - [September 2022 Monthly Faculty Meeting Recap](https://make.wordpress.org/training/2022/09/30/september-2022-monthly-faculty-meeting-recap/)
 - [Become an Online Workshop Facilitator or Tutorial Presenter Today!](https://make.wordpress.org/training/2022/09/30/become-an-online-workshop-facilitator-or-tutorial-presenter-today/)
 - [September 2022 Monthly Faculty Meeting](https://make.wordpress.org/training/2022/09/27/september-2022-monthly-faculty-meeting/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary Update: Courses Currently in Development &lpar;22 September 2022&rpar;](https://make.wordpress.org/training/2022/09/23/summary-update-courses-currently-in-development-22-september-2022/)
 - [Project Proposal: Content Localization](https://make.wordpress.org/training/2022/09/21/project-proposal-content-localization/)
 - [Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/training/2022/09/21/proposal-faster-course-development-with-video-based-courses/)
-- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/training/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
