@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [EasyJobs – Easiest Talent Recruitment Suite – Job Manager &amp; Career Page in Elementor]](https://make.wordpress.org/polyglots/2022/10/02/pte-request-for-easyjobs-easiest-talent-recruitment-suite-job-manager-career-page-in-elementor/)
 - [PTE Request for [Spectra – WordPress Gutenberg Blocks]](https://make.wordpress.org/polyglots/2022/10/01/pte-request-for-spectra-wordpress-gutenberg-blocks/)
 - [PTE Request for Block Designer](https://make.wordpress.org/polyglots/2022/10/01/pte-request-for-block-designer/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/10/01/ive-suggested-translations-for-this-25/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polyglots Monthly Newsletter: September 2022](https://make.wordpress.org/polyglots/2022/09/30/polyglots-monthly-newsletter-september-2022/)
 - [PTE Request for Wappointment](https://make.wordpress.org/polyglots/2022/09/29/pte-request-for-wappointment/)
 - [PTE Request for Yoast SEO](https://make.wordpress.org/polyglots/2022/09/28/pte-request-for-yoast-seo-7/)
-- [PTE Request for Advanced Custom Fields](https://make.wordpress.org/polyglots/2022/09/28/pte-request-for-advanced-custom-fields-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
