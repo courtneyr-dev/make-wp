@@ -489,6 +489,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 40: All Things Testing with Special Guests Anne McCarthy and Brian Alexander](https://wordpress.org/news/2022/10/episode-40-all-things-testing-with-special-guests-anne-mccarthy-and-brian-alexander/)
 - [WordPress 6.1 Beta 2 Now Available](https://wordpress.org/news/2022/09/wordpress-6-1-beta-2-now-available/)
 - [WordPress 6.1 Beta 1 Now Available](https://wordpress.org/news/2022/09/wordpress-6-1-beta-1-now-available/)
 - [WP Briefing: Episode 39: Contributor Stories Live from WordCamp US!](https://wordpress.org/news/2022/09/episode-39-contributor-stories-live-from-wordcamp-us/)
@@ -513,7 +514,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 32: An Open Source Reading List](https://wordpress.org/news/2022/05/episode-32-an-open-source-reading-list/)
 - [WordPress 6.0 “Arturo”](https://wordpress.org/news/2022/05/arturo/)
 - [WordPress 6.0 Release Candidate 3 &lpar;RC3&rpar; Now Available for Testing](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-3-rc3-now-available-for-testing/)
-- [WP Briefing: Episode 31: Open Source &amp; Accessibility– Celebrating Global Accessibility Awareness Day With Guest Joe Devon](https://wordpress.org/news/2022/05/episode-31-open-source-accessibility-celebrating-global-accessibility-awareness-day-with-guest-joe-devon/)
 <!-- NEWS:END -->
 
 ## Jobs
