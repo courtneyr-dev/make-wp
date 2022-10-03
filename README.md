@@ -524,10 +524,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP tech support / admin](https://jobs.wordpress.net/job/wp-tech-support-admin/)
 - [Custom Plug in repair](https://jobs.wordpress.net/job/custom-plug-in-repair/)
 - [WordPress Woocommerce](https://jobs.wordpress.net/job/wordpress-woocommerce/)
-- [2 x WooCommerce plugin developers](https://jobs.wordpress.net/job/2-x-woocommerce-plugin-developers/)
 - [Theme Customisation / API](https://jobs.wordpress.net/job/theme-customisation-api/)
 - [WordPress Full-Stack Developer](https://jobs.wordpress.net/job/wordpress-full-stack-developer-5/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-78/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-771/)
 <!-- JOBS:END -->
 
 ## Central
