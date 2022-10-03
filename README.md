@@ -334,6 +334,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3%e6%b4%bb%e5%8b%95%e3%81%a8%e3%82%b3%e3%83%b3%e3%83%88%e3%83%aa%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88/)
+- [Itsuko Miyake, Akira Tachibana: 翻訳を通してのコントリビュートとは](https://wordpress.tv/2022/10/03/itsuko-miyake-akira-tachibana-%e7%bf%bb%e8%a8%b3%e3%82%92%e9%80%9a%e3%81%97%e3%81%a6%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%88%e3%83%aa%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88%e3%81%a8%e3%81%af/)
+- [Tamayo Suzuki: 「WordPress でアフィリエイト」は儲かるの？マネタイズのお話し](https://wordpress.tv/2022/10/03/tamayo-suzuki-%e3%80%8cwordpress-%e3%81%a7%e3%82%a2%e3%83%95%e3%82%a3%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%88%e3%80%8d%e3%81%af%e5%84%b2%e3%81%8b%e3%82%8b%e3%81%ae%ef%bc%9f%e3%83%9e%e3%83%8d%e3%82%bf/)
 - [Core / Gutenberg にコードで貢献してみよう](https://wordpress.tv/2022/10/03/aki-hamano-core-gutenberg-code-contribution/)
 - [Koji Maruyama: 記事がもっと読まれる！GA4 とプラグイン QA を併用した時短アクセス解析手法](https://wordpress.tv/2022/10/03/koji-maruyama-ga4-plugin-qa-analytics/)
 - [Vertical rhythm: efficiency in WordPress theme layout](https://wordpress.tv/2022/10/01/vertical-rhythm-efficiency-in-wordpress-theme-layout/)
@@ -356,9 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Larga vida a los blogs &lpar;de WordPress, ¡claro!&rpar;](https://wordpress.tv/2022/09/26/larga-vida-a-los-blogs-de-wordpress-claro/)
 - [AMA: Seguridad en WordPress, ¿Y eso qué significa realmente?](https://wordpress.tv/2022/09/26/ama-seguridad-en-wordpress-y-eso-que-significa-realmente/)
 - [Plugins y otras formas de mejorar la accesibilidad web con WordPress](https://wordpress.tv/2022/09/25/plugins-y-otras-formas-de-mejorar-la-accesibilidad-web-con-wordpress/)
-- [GA4, GTM y el dataLayer](https://wordpress.tv/2022/09/25/ga4-gtm-y-el-datalayer/)
-- [Upselling en WooCommerce](https://wordpress.tv/2022/09/25/upselling-en-woocommerce/)
-- [Cómo diseñar el checkout de WooCommerce para aumentar la conversión](https://wordpress.tv/2022/09/25/como-disenar-el-checkout-de-woocommerce-para-aumentar-la-conversion/)
 <!-- WPTV:END -->
 
 ## Marketing
