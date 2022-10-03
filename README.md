@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for Blossom Themes Templates](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-blossom-themes-templates/)
 - [PTE Request for Discount Rules for WooCommerce](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-discount-rules-for-woocommerce/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/10/03/post-title-pte-request-for-52/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/10/03/hi-dear-mentors-we-have-98/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Block Designer](https://make.wordpress.org/polyglots/2022/10/01/pte-request-for-block-designer/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/10/01/ive-suggested-translations-for-this-25/)
 - [PTE Request for List Yarpp Block](https://make.wordpress.org/polyglots/2022/09/30/pte-request-for-list-yarpp-block/)
-- [PTE Request for [WPS Limit Login]](https://make.wordpress.org/polyglots/2022/09/30/pte-request-for-wps-limit-login/)
 <!-- POLYGLOTS:END -->
 
 ## Support
