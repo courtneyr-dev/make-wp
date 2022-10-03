@@ -334,6 +334,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Core / Gutenberg にコードで貢献してみよう](https://wordpress.tv/2022/10/03/aki-hamano-core-gutenberg-code-contribution/)
+- [Koji Maruyama: 記事がもっと読まれる！GA4 とプラグイン QA を併用した時短アクセス解析手法](https://wordpress.tv/2022/10/03/koji-maruyama-ga4-plugin-qa-analytics/)
 - [Vertical rhythm: efficiency in WordPress theme layout](https://wordpress.tv/2022/10/01/vertical-rhythm-efficiency-in-wordpress-theme-layout/)
 - [Social media marketing for WordPress businesses](https://wordpress.tv/2022/09/30/social-media-marketing-for-wordpress-businesses/)
 - [Let’s code: creating your primary templates in the Editor](https://wordpress.tv/2022/09/30/lets-code-creating-your-primary-templates-in-the-editor/)
@@ -357,8 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GA4, GTM y el dataLayer](https://wordpress.tv/2022/09/25/ga4-gtm-y-el-datalayer/)
 - [Upselling en WooCommerce](https://wordpress.tv/2022/09/25/upselling-en-woocommerce/)
 - [Cómo diseñar el checkout de WooCommerce para aumentar la conversión](https://wordpress.tv/2022/09/25/como-disenar-el-checkout-de-woocommerce-para-aumentar-la-conversion/)
-- [No limites tu publicidad, ni Google ni Facebook, invierte en publicidad omnicanal](https://wordpress.tv/2022/09/25/no-limites-tu-publicidad-ni-google-ni-facebook-invierte-en-publicidad-omnicanal/)
-- [Perdón, llevamos 15 años mintiendo: WordPress NO es fácil](https://wordpress.tv/2022/09/25/perdon-llevamos-15-anos-mintiendo-wordpress-no-es-facil/)
 <!-- WPTV:END -->
 
 ## Marketing
