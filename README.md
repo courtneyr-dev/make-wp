@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Discount Rules for WooCommerce](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-discount-rules-for-woocommerce/)
+- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/10/03/post-title-pte-request-for-52/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/10/03/hi-dear-mentors-we-have-98/)
 - [Locale manager for pa-PK. Punjabi…](https://make.wordpress.org/polyglots/2022/10/02/locale-manager-for-pa-pk-punjabi/)
 - [PTE Request for [EasyJobs – Easiest Talent Recruitment Suite – Job Manager &amp; Career Page in Elementor]](https://make.wordpress.org/polyglots/2022/10/02/pte-request-for-easyjobs-easiest-talent-recruitment-suite-job-manager-career-page-in-elementor/)
 - [PTE Request for [Spectra – WordPress Gutenberg Blocks]](https://make.wordpress.org/polyglots/2022/10/01/pte-request-for-spectra-wordpress-gutenberg-blocks/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/10/01/ive-suggested-translations-for-this-25/)
 - [PTE Request for List Yarpp Block](https://make.wordpress.org/polyglots/2022/09/30/pte-request-for-list-yarpp-block/)
 - [PTE Request for [WPS Limit Login]](https://make.wordpress.org/polyglots/2022/09/30/pte-request-for-wps-limit-login/)
-- [Adding subtitles to the WordPress.tv videos](https://make.wordpress.org/polyglots/2022/09/30/adding-subtitles-to-the-wordpress-tv-videos/)
-- [Polyglots Monthly Newsletter: September 2022](https://make.wordpress.org/polyglots/2022/09/30/polyglots-monthly-newsletter-september-2022/)
-- [PTE Request for Wappointment](https://make.wordpress.org/polyglots/2022/09/29/pte-request-for-wappointment/)
 <!-- POLYGLOTS:END -->
 
 ## Support
