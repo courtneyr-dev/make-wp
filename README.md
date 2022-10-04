@@ -278,6 +278,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WordPress Roles and Capabilities](https://learn.wordpress.org/?meeting=wordpress-roles-and-capabilities)
 - [Introduction to DEIB in WordPress](https://learn.wordpress.org/?meeting=introduction-to-deib-in-wordpress)
 - [Let’s code! Creating your Primary Templates in the Editor](https://learn.wordpress.org/?meeting=lets-code-creating-your-primary-templates-in-the-editor)
 - [Part 2: Re-Creating Block Designs](https://learn.wordpress.org/?meeting=part-2-re-creating-block-designs)
@@ -302,7 +303,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to the Dashboard](https://learn.wordpress.org/?meeting=introduction-to-the-dashboard)
 - [Customizing a footer with patterns](https://learn.wordpress.org/?meeting=customizing-a-footer-with-patterns)
 - [Build a header from scratch](https://learn.wordpress.org/?meeting=build-a-header-from-scratch)
-- [How Do They Do That? The &lpar;Very&rpar; Basics of Block Theme Development](https://learn.wordpress.org/?meeting=how-do-they-do-that-the-very-basics-of-block-theme-development)
 <!-- SLS:END -->
 
 ## Test
