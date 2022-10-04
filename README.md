@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/10/04/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommerce-3/)
 - [Locale: pt_MZ Country code: MZ…](https://make.wordpress.org/polyglots/2022/10/04/locale-pt_mz-country-code-mz/)
 - [PTE request for Blossom Themes Templates](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-blossom-themes-templates/)
 - [PTE Request for Discount Rules for WooCommerce](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-discount-rules-for-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [EasyJobs – Easiest Talent Recruitment Suite – Job Manager &amp; Career Page in Elementor]](https://make.wordpress.org/polyglots/2022/10/02/pte-request-for-easyjobs-easiest-talent-recruitment-suite-job-manager-career-page-in-elementor/)
 - [PTE Request for [Spectra – WordPress Gutenberg Blocks]](https://make.wordpress.org/polyglots/2022/10/01/pte-request-for-spectra-wordpress-gutenberg-blocks/)
 - [PTE Request for Block Designer](https://make.wordpress.org/polyglots/2022/10/01/pte-request-for-block-designer/)
-- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/10/01/ive-suggested-translations-for-this-25/)
 <!-- POLYGLOTS:END -->
 
 ## Support
