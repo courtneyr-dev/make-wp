@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [SEO for business](https://wordpress.tv/2022/10/04/seo-for-business/)
 - [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3%e6%b4%bb%e5%8b%95%e3%81%a8%e3%82%b3%e3%83%b3%e3%83%88%e3%83%aa%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88/)
 - [Itsuko Miyake, Akira Tachibana: 翻訳を通してのコントリビュートとは](https://wordpress.tv/2022/10/03/itsuko-miyake-akira-tachibana-translation-contribution/)
 - [Tamayo Suzuki: 「WordPress でアフィリエイト」は儲かるの？マネタイズのお話し](https://wordpress.tv/2022/10/03/tamayo-suzuki-%e3%80%8cwordpress-%e3%81%a7%e3%82%a2%e3%83%95%e3%82%a3%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%88%e3%80%8d%e3%81%af%e5%84%b2%e3%81%8b%e3%82%8b%e3%81%ae%ef%bc%9f%e3%83%9e%e3%83%8d%e3%82%bf/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [De vuelta al futuro de las WordCamps](https://wordpress.tv/2022/09/26/de-vuelta-al-futuro-de-las-wordcamps/)
 - [Larga vida a los blogs &lpar;de WordPress, ¡claro!&rpar;](https://wordpress.tv/2022/09/26/larga-vida-a-los-blogs-de-wordpress-claro/)
 - [AMA: Seguridad en WordPress, ¿Y eso qué significa realmente?](https://wordpress.tv/2022/09/26/ama-seguridad-en-wordpress-y-eso-que-significa-realmente/)
-- [Plugins y otras formas de mejorar la accesibilidad web con WordPress](https://wordpress.tv/2022/09/25/plugins-y-otras-formas-de-mejorar-la-accesibilidad-web-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
