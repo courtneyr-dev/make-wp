@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordCamp Mentors’ October check-in!](https://make.wordpress.org/community/2022/10/04/wordcamp-mentors-october-check-in/)
 - [Help Improve the Make/Community Contributor Day Onboarding](https://make.wordpress.org/community/2022/09/30/help-improve-the-make-community-contributor-day-onboarding/)
 - [Help Improve the Overall Make/Community Onboarding](https://make.wordpress.org/community/2022/09/30/help-improve-the-overall-make-community-onboarding/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on September 28, 2022](https://make.wordpress.org/community/2022/09/29/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-september-28-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: September 2022](https://make.wordpress.org/community/2022/09/22/meetup-organizer-newsletter-september-2022/)
 - [X-post: Project Proposal: Content Localization](https://make.wordpress.org/community/2022/09/21/xpost-project-proposal-content-localization/)
 - [[Action requested] Vote for “Organizing Diverse &amp; Inclusive Events workshop” date and time](https://make.wordpress.org/community/2022/09/20/action-requested-vote-for-organizing-diverse-inclusive-events-workshop-date-and-time/)
-- [WordPress Events Organizer Training &lpar;Americas Timezones Version&rpar;](https://make.wordpress.org/community/2022/09/20/wordpress-events-organizer-training-americas-timezones-version/)
 <!-- COMMUNITY:END -->
 
 ## Meta
