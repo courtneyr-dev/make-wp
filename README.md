@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Reclassification of end-user documentation](https://make.wordpress.org/docs/2022/10/05/reclassification-of-end-user-documentation/)
 - [Summary of Docs Team Meeting September 27, 2022](https://make.wordpress.org/docs/2022/09/27/summary-of-docs-team-meeting-september-27-2022/)
 - [Agenda for Docs Team Bi-Weekly Meeting 27 September 2022](https://make.wordpress.org/docs/2022/09/14/agenda-for-docs-team-bi-weekly-meeting-27-september-2022/)
 - [Summary of Docs Team Meeting September 13, 2022](https://make.wordpress.org/docs/2022/09/14/summary-of-docs-team-meeting-september-13-2022/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Improving DevHub Code References](https://make.wordpress.org/docs/2022/09/05/xpost-improving-devhub-code-references/)
 - [Documentation team meeting postponed to WCUS Contributor Day](https://make.wordpress.org/docs/2022/09/05/documentation-team-meeting-postponed-to-wcus-contributor-day/)
 - [Summary of Docs Team Biweekly Meeting August 30, 2022](https://make.wordpress.org/docs/2022/08/30/summary-of-docs-team-biweekly-meeting-august-30-2022/)
-- [Agenda for docs team bi-weekly meeting 30 August 2022](https://make.wordpress.org/docs/2022/08/30/agenda-for-docs-team-bi-weekly-meeting-30-august-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
