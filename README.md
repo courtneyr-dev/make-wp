@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Blossom Flower] Theme](https://make.wordpress.org/polyglots/2022/10/05/pte-request-for-blossom-flower-theme/)
 - [Weekly Polyglots Chat – Oct. 5, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/05/weekly-polyglots-chat-oct-5-2022-700-utc/)
 - [2022 WordPress Translation Day recap](https://make.wordpress.org/polyglots/2022/10/04/2022-wordpress-translation-day-recap/)
 - [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/10/04/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommerce-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/10/03/post-title-pte-request-for-52/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/10/03/hi-dear-mentors-we-have-98/)
 - [Locale manager for pa-PK. Punjabi…](https://make.wordpress.org/polyglots/2022/10/02/locale-manager-for-pa-pk-punjabi/)
-- [PTE Request for [EasyJobs – Easiest Talent Recruitment Suite – Job Manager &amp; Career Page in Elementor]](https://make.wordpress.org/polyglots/2022/10/02/pte-request-for-easyjobs-easiest-talent-recruitment-suite-job-manager-career-page-in-elementor/)
 <!-- POLYGLOTS:END -->
 
 ## Support
