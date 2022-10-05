@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Adding a Pattern From the Pattern Directory to Your Theme](https://learn.wordpress.org/tutorial/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 - [Personalizing your 404 Template.](https://learn.wordpress.org/tutorial/personalizing-your-404-template/)
 - [Using Block Attributes to Enable User Editing](https://learn.wordpress.org/tutorial/using-block-attributes-to-enable-user-editing/)
 - [Image Optimization](https://learn.wordpress.org/tutorial/image-optimization/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Managing Updates](https://learn.wordpress.org/tutorial/managing-updates/)
 - [Getting to know the WordPress Dashboard](https://learn.wordpress.org/tutorial/getting-to-know-the-wordpress-dashboard/)
 - [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/tutorial/understanding-the-page-editor-vs-site-editor/)
-- [Choosing and Installing a Plugin](https://learn.wordpress.org/tutorial/searching-and-installing-a-plugin/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
