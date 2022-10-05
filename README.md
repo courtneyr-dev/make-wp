@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: Reclassification of end-user documentation](https://make.wordpress.org/meta/2022/10/05/xpost-reclassification-of-end-user-documentation/)
 - [X-post: Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/meta/2022/09/27/xpost-proposal-faster-course-development-with-video-based-courses/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/meta/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Improving DevHub Code References](https://make.wordpress.org/meta/2022/09/05/improving-devhub-code-references/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/meta/2022/07/27/xpost-project-update-wordpress-org-homepage-and-download-page-mockups/)
 - [Pattern Previews for Themes in the Directory – Beta](https://make.wordpress.org/meta/2022/07/21/pattern-previews-for-themes-in-the-directory-beta/)
 - [X-post: Project Kickoff: WordPress.org Homepage and Download page redesign](https://make.wordpress.org/meta/2022/07/08/xpost-project-kickoff-wordpress-org-homepage-and-download-page-redesign/)
-- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/meta/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- META:END -->
 
 ## Training
