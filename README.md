@@ -363,15 +363,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
-- [Notes, WordPress global Marketing Team meeting, September 28, 2022](https://make.wordpress.org/marketing/2022/10/04/notes-wordpress-global-marketing-team-meeting-september-28-2022/)
-- [Notes, WordPress global Marketing Team meeting, September 21, 2022](https://make.wordpress.org/marketing/2022/09/27/notes-wordpress-global-marketing-team-meeting-september-21-2022/)
-- [Agenda, global WordPress Marketing Team meeting, September 28, 2022](https://make.wordpress.org/marketing/2022/09/26/agenda-global-wordpress-marketing-team-meeting-september-28-2022/)
-- [Agenda, global WordPress Marketing Team meeting, September 21, 2022](https://make.wordpress.org/marketing/2022/09/20/agenda-global-wordpress-marketing-team-meeting-september-21-2022/)
+- [Notes: WordPress global Marketing Team meeting, September 28, 2022](https://make.wordpress.org/marketing/2022/10/04/notes-wordpress-global-marketing-team-meeting-september-28-2022/)
+- [Notes: WordPress global Marketing Team meeting, September 21, 2022](https://make.wordpress.org/marketing/2022/09/27/notes-wordpress-global-marketing-team-meeting-september-21-2022/)
+- [Agenda: WordPress global Marketing Team meeting, September 28, 2022](https://make.wordpress.org/marketing/2022/09/26/agenda-global-wordpress-marketing-team-meeting-september-28-2022/)
+- [Agenda: WordPress global Marketing Team meeting, September 21, 2022](https://make.wordpress.org/marketing/2022/09/20/agenda-global-wordpress-marketing-team-meeting-september-21-2022/)
 - [Notes: Global Marketing Meeting, September 14, 2022](https://make.wordpress.org/marketing/2022/09/20/notes-global-marketing-meeting-september-14-2022/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/marketing/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Agenda, WordPress global Marketing Team meeting, September 14, 2022](https://make.wordpress.org/marketing/2022/09/14/agenda-wordpress-global-marketing-team-meeting-september-14-2022/)
-- [Notes, WordPress global Marketing Team meeting, September 7, 2022](https://make.wordpress.org/marketing/2022/09/13/notes-wordpress-global-marketing-team-meeting-september-07-2022/)
-- [Agenda, global Marketing Team meeting, September 7, 2022](https://make.wordpress.org/marketing/2022/09/07/agenda-global-marketing-team-meeting-september-7-2022/)
+- [Notes: WordPress global Marketing Team meeting, September 7, 2022](https://make.wordpress.org/marketing/2022/09/13/notes-wordpress-global-marketing-team-meeting-september-07-2022/)
+- [Agenda: Global Marketing Team meeting, September 7, 2022](https://make.wordpress.org/marketing/2022/09/07/agenda-global-marketing-team-meeting-september-7-2022/)
 - [Notes: Global Marketing Team Meeting, August 31, 2022](https://make.wordpress.org/marketing/2022/09/07/notes-global-marketing-team-meeting-august-31-2022/)
 <!-- MARKETING:END -->
 
