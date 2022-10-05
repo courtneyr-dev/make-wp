@@ -518,6 +518,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Help with plugin](https://jobs.wordpress.net/job/help-with-plugin/)
+- [WordPress website repair](https://jobs.wordpress.net/job/wordpress-website-repair/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-3/)
 - [Full Stack Gutenberg Developer](https://jobs.wordpress.net/job/full-stack-gutenberg-developer/)
 - [Remote WordPress – Junior Full Stack Software Engineer – REMOTE – Full Time](https://jobs.wordpress.net/job/remote-wordpress-junior-full-stack-software-engineer-remote-full-time/)
@@ -526,8 +528,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP tech support / admin](https://jobs.wordpress.net/job/wp-tech-support-admin/)
 - [WordPress Woocommerce](https://jobs.wordpress.net/job/wordpress-woocommerce/)
 - [WordPress Full-Stack Developer](https://jobs.wordpress.net/job/wordpress-full-stack-developer-5/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-78/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-771/)
 <!-- JOBS:END -->
 
 ## Central
