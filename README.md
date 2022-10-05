@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for Oct 6, 2022](https://make.wordpress.org/community/2022/10/05/community-team-meeting-agenda-for-oct-6-2022/)
 - [WordCamp Mentors’ October check-in!](https://make.wordpress.org/community/2022/10/04/wordcamp-mentors-october-check-in/)
 - [Help Improve the Make/Community Contributor Day Onboarding](https://make.wordpress.org/community/2022/09/30/help-improve-the-make-community-contributor-day-onboarding/)
 - [Help Improve the Overall Make/Community Onboarding](https://make.wordpress.org/community/2022/09/30/help-improve-the-overall-make-community-onboarding/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Celebrating APAC WPDiversity Network Building: Update on Our 10th Meeting](https://make.wordpress.org/community/2022/09/27/celebrating-apac-wpdiversity-network-building-update-on-our-10th-meeting/)
 - [Meetup Organizer Newsletter: September 2022](https://make.wordpress.org/community/2022/09/22/meetup-organizer-newsletter-september-2022/)
 - [X-post: Project Proposal: Content Localization](https://make.wordpress.org/community/2022/09/21/xpost-project-proposal-content-localization/)
-- [[Action requested] Vote for “Organizing Diverse &amp; Inclusive Events workshop” date and time](https://make.wordpress.org/community/2022/09/20/action-requested-vote-for-organizing-diverse-inclusive-events-workshop-date-and-time/)
 <!-- COMMUNITY:END -->
 
 ## Meta
