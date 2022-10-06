@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/10/06/gte-request-for-afrikaans-af-za/)
 - [PTE Request for [Blossom Flower] Theme](https://make.wordpress.org/polyglots/2022/10/05/pte-request-for-blossom-flower-theme/)
 - [Weekly Polyglots Chat – Oct. 5, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/05/weekly-polyglots-chat-oct-5-2022-700-utc/)
 - [2022 WordPress Translation Day recap](https://make.wordpress.org/polyglots/2022/10/04/2022-wordpress-translation-day-recap/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Discount Rules for WooCommerce](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-discount-rules-for-woocommerce/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/10/03/post-title-pte-request-for-52/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/10/03/hi-dear-mentors-we-have-98/)
-- [Locale manager for pa-PK. Punjabi…](https://make.wordpress.org/polyglots/2022/10/02/locale-manager-for-pa-pk-punjabi/)
 <!-- POLYGLOTS:END -->
 
 ## Support
