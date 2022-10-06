@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [New cache Site Health checks in WordPress 6.1](https://make.wordpress.org/core/2022/10/06/new-cache-site-health-checks-in-wordpress-6-1/)
 - [Editor chat summary: 5 October, 2022](https://make.wordpress.org/core/2022/10/06/editor-chat-summary-5-october-2022/)
 - [Dev chat summary, October 5, 2022](https://make.wordpress.org/core/2022/10/05/dev-chat-summary-october-5-2022/)
 - [Dev Chat agenda, October 5, 2022](https://make.wordpress.org/core/2022/10/04/dev-chat-agenda-october-5-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 4 October 2022](https://make.wordpress.org/core/2022/10/03/performance-chat-agenda-4-october-2022/)
 - [Editor Chat Agenda: October 5th 2022](https://make.wordpress.org/core/2022/10/03/editor-chat-agenda-october-5th-2022/)
 - [Dev chat summary, September 28, 2022](https://make.wordpress.org/core/2022/09/30/devchat-summary-september-28-2022/)
-- [What’s new in Gutenberg 14.2? &lpar;28 September&rpar;](https://make.wordpress.org/core/2022/09/30/whats-new-in-gutenberg-14-2-28-september/)
 <!-- CORE:END -->
 
 ## Design
