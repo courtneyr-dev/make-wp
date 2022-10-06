@@ -518,16 +518,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] Quality Assurance Engineer](https://jobs.wordpress.net/job/astra-quality-assurance-engineer/)
+- [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-6/)
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-7/)
+- [Senior WordPress Software Engineer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-remote/)
 - [Help with plugin](https://jobs.wordpress.net/job/help-with-plugin/)
 - [WordPress website repair](https://jobs.wordpress.net/job/wordpress-website-repair/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-3/)
 - [Full Stack Gutenberg Developer](https://jobs.wordpress.net/job/full-stack-gutenberg-developer/)
 - [Remote WordPress – Junior Full Stack Software Engineer – REMOTE – Full Time](https://jobs.wordpress.net/job/remote-wordpress-junior-full-stack-software-engineer-remote-full-time/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-15/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-45/)
-- [WP tech support / admin](https://jobs.wordpress.net/job/wp-tech-support-admin/)
-- [WordPress Woocommerce](https://jobs.wordpress.net/job/wordpress-woocommerce/)
-- [WordPress Full-Stack Developer](https://jobs.wordpress.net/job/wordpress-full-stack-developer-5/)
 <!-- JOBS:END -->
 
 ## Central
