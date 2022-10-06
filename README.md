@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [eCommerce best practices](https://wordpress.tv/2022/10/06/ecommerce-best-practices/)
 - [E-learning with WordPress](https://wordpress.tv/2022/10/05/e-learning-with-wordpress/)
 - [SEO for business](https://wordpress.tv/2022/10/04/seo-for-business/)
 - [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-community-and-contribute/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Axudando a pequenas empresas rurais a crear grandes proxectos dixitais](https://wordpress.tv/2022/09/26/ayudando-a-pequenas-empresas-rurales-a-crear-grandes-proyectos-digitales/)
 - [Crear un modelo con FSE para un novo Tipo de Dato Personalizado](https://wordpress.tv/2022/09/26/crear-un-modelo-con-fse-para-un-nuevo-tipo-de-dato-personalizado/)
 - [De vuelta al futuro de las WordCamps](https://wordpress.tv/2022/09/26/de-vuelta-al-futuro-de-las-wordcamps/)
-- [Larga vida a los blogs &lpar;de WordPress, ¡claro!&rpar;](https://wordpress.tv/2022/09/26/larga-vida-a-los-blogs-de-wordpress-claro/)
 <!-- WPTV:END -->
 
 ## Marketing
