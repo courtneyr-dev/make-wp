@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [E-learning with WordPress](https://wordpress.tv/2022/10/05/e-learning-with-wordpress/)
 - [SEO for business](https://wordpress.tv/2022/10/04/seo-for-business/)
 - [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3%e6%b4%bb%e5%8b%95%e3%81%a8%e3%82%b3%e3%83%b3%e3%83%88%e3%83%aa%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88/)
 - [Itsuko Miyake, Akira Tachibana: 翻訳を通してのコントリビュートとは](https://wordpress.tv/2022/10/03/itsuko-miyake-akira-tachibana-translation-contribution/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crear un modelo con FSE para un novo Tipo de Dato Personalizado](https://wordpress.tv/2022/09/26/crear-un-modelo-con-fse-para-un-nuevo-tipo-de-dato-personalizado/)
 - [De vuelta al futuro de las WordCamps](https://wordpress.tv/2022/09/26/de-vuelta-al-futuro-de-las-wordcamps/)
 - [Larga vida a los blogs &lpar;de WordPress, ¡claro!&rpar;](https://wordpress.tv/2022/09/26/larga-vida-a-los-blogs-de-wordpress-claro/)
-- [AMA: Seguridad en WordPress, ¿Y eso qué significa realmente?](https://wordpress.tv/2022/09/26/ama-seguridad-en-wordpress-y-eso-que-significa-realmente/)
 <!-- WPTV:END -->
 
 ## Marketing
