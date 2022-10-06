@@ -336,9 +336,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WPTV:START -->
 - [E-learning with WordPress](https://wordpress.tv/2022/10/05/e-learning-with-wordpress/)
 - [SEO for business](https://wordpress.tv/2022/10/04/seo-for-business/)
-- [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3%e6%b4%bb%e5%8b%95%e3%81%a8%e3%82%b3%e3%83%b3%e3%83%88%e3%83%aa%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88/)
+- [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-community-and-contribute/)
 - [Itsuko Miyake, Akira Tachibana: 翻訳を通してのコントリビュートとは](https://wordpress.tv/2022/10/03/itsuko-miyake-akira-tachibana-translation-contribution/)
-- [Tamayo Suzuki: 「WordPress でアフィリエイト」は儲かるの？マネタイズのお話し](https://wordpress.tv/2022/10/03/tamayo-suzuki-%e3%80%8cwordpress-%e3%81%a7%e3%82%a2%e3%83%95%e3%82%a3%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%88%e3%80%8d%e3%81%af%e5%84%b2%e3%81%8b%e3%82%8b%e3%81%ae%ef%bc%9f%e3%83%9e%e3%83%8d%e3%82%bf/)
+- [Tamayo Suzuki: 「WordPress でアフィリエイト」は儲かるの？マネタイズのお話し](https://wordpress.tv/2022/10/03/tamayo-suzuki-using-wordpress-and-affliate/)
 - [Core / Gutenberg にコードで貢献してみよう](https://wordpress.tv/2022/10/03/aki-hamano-core-gutenberg-code-contribution/)
 - [Koji Maruyama: 記事がもっと読まれる！GA4 とプラグイン QA を併用した時短アクセス解析手法](https://wordpress.tv/2022/10/03/koji-maruyama-ga4-plugin-qa-analytics/)
 - [Vertical rhythm: efficiency in WordPress theme layout](https://wordpress.tv/2022/10/01/vertical-rhythm-efficiency-in-wordpress-theme-layout/)
