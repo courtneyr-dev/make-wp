@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Basic blogging for beginners](https://wordpress.tv/2022/10/07/basic-blogging-for-beginners/)
 - [eCommerce best practices](https://wordpress.tv/2022/10/06/ecommerce-best-practices/)
 - [E-learning with WordPress](https://wordpress.tv/2022/10/05/e-learning-with-wordpress/)
 - [SEO for business](https://wordpress.tv/2022/10/04/seo-for-business/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Five for the Future: financiando WordPress dun xeito sostible](https://wordpress.tv/2022/09/26/five-for-the-future-financiando-wordpress-de-una-forma-sostenible/)
 - [Axudando a pequenas empresas rurais a crear grandes proxectos dixitais](https://wordpress.tv/2022/09/26/ayudando-a-pequenas-empresas-rurales-a-crear-grandes-proyectos-digitales/)
 - [Crear un modelo con FSE para un novo Tipo de Dato Personalizado](https://wordpress.tv/2022/09/26/crear-un-modelo-con-fse-para-un-nuevo-tipo-de-dato-personalizado/)
-- [De vuelta al futuro de las WordCamps](https://wordpress.tv/2022/09/26/de-vuelta-al-futuro-de-las-wordcamps/)
 <!-- WPTV:END -->
 
 ## Marketing
