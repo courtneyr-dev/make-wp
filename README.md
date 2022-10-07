@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Dear Woocommerce,](https://make.wordpress.org/polyglots/2022/10/07/dear-woocommerce/)
+- [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/10/07/pte-request-for-several-plugins-5/)
 - [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/10/06/gte-request-for-afrikaans-af-za/)
 - [PTE Request for [Blossom Flower] Theme](https://make.wordpress.org/polyglots/2022/10/05/pte-request-for-blossom-flower-theme/)
 - [Weekly Polyglots Chat – Oct. 5, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/05/weekly-polyglots-chat-oct-5-2022-700-utc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Locale: pt_MZ Country code: MZ…](https://make.wordpress.org/polyglots/2022/10/04/locale-pt_mz-country-code-mz/)
 - [PTE request for Blossom Themes Templates](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-blossom-themes-templates/)
 - [PTE Request for Discount Rules for WooCommerce](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-discount-rules-for-woocommerce/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/10/03/post-title-pte-request-for-52/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/10/03/hi-dear-mentors-we-have-98/)
 <!-- POLYGLOTS:END -->
 
 ## Support
