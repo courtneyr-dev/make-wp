@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [Imposta una pagina statica come homepage](https://learn.wordpress.org/lesson-plan/imposta-una-pagina-statica-come-homepage/)
 - [Εισαγωγή στoυς πιο κοινούς τύπους πρόσθετων](https://learn.wordpress.org/lesson-plan/%ce%b5%ce%b9%cf%83%ce%b1%ce%b3%cf%89%ce%b3%ce%ae-%cf%83%cf%84o%cf%85%cf%82-%cf%80%ce%b9%ce%bf-%ce%ba%ce%bf%ce%b9%ce%bd%ce%bf%cf%8d%cf%82-%cf%84%cf%8d%cf%80%ce%bf%cf%85%cf%82-%cf%80%cf%81%ce%bf%cf%83/)
 - [Locking Blocks in the Full Site Editor](https://learn.wordpress.org/lesson-plan/locking-blocks-in-the-full-site-editor/)
 - [Create a Basic Child Theme for Block Themes](https://learn.wordpress.org/lesson-plan/create-a-basic-child-theme-for-block-themes/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Difference between Reusable Blocks,  Block Pattern, Templates, Template Parts](https://learn.wordpress.org/lesson-plan/difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [Use Duotone Filters to Change Color Effects](https://learn.wordpress.org/lesson-plan/use-duotone-filters-to-change-color-effects/)
 - [How to Style Your Site with Global Styles](https://learn.wordpress.org/lesson-plan/how-to-style-your-site-with-global-styles/)
-- [How to use the List View](https://learn.wordpress.org/lesson-plan/how-to-use-the-list-view/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
