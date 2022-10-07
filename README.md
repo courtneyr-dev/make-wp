@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to get and retain web design clients](https://wordpress.tv/2022/10/07/how-to-get-and-retain-web-design-clients/)
 - [Basic blogging for beginners](https://wordpress.tv/2022/10/07/basic-blogging-for-beginners/)
 - [eCommerce best practices](https://wordpress.tv/2022/10/06/ecommerce-best-practices/)
 - [E-learning with WordPress](https://wordpress.tv/2022/10/05/e-learning-with-wordpress/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How better performing websites can help save the planet](https://wordpress.tv/2022/09/26/how-better-performing-websites-can-help-save-the-planet/)
 - [Five for the Future: financiando WordPress dun xeito sostible](https://wordpress.tv/2022/09/26/five-for-the-future-financiando-wordpress-de-una-forma-sostenible/)
 - [Axudando a pequenas empresas rurais a crear grandes proxectos dixitais](https://wordpress.tv/2022/09/26/ayudando-a-pequenas-empresas-rurales-a-crear-grandes-proyectos-digitales/)
-- [Crear un modelo con FSE para un novo Tipo de Dato Personalizado](https://wordpress.tv/2022/09/26/crear-un-modelo-con-fse-para-un-nuevo-tipo-de-dato-personalizado/)
 <!-- WPTV:END -->
 
 ## Marketing
