@@ -3,16 +3,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Improved PHP performance for core blocks registration](https://make.wordpress.org/core/2022/10/07/improved-php-performance-for-core-blocks-registration/)
 - [Performance Chat Agenda: 11 October 2022](https://make.wordpress.org/core/2022/10/07/performance-chat-agenda-11-october-2022/)
 - [Improvements to WP_Query performance in 6.1](https://make.wordpress.org/core/2022/10/07/improvements-to-wp_query-performance-in-6-1/)
+- [Introducing “Update URI” theme header in WordPress 6.1](https://make.wordpress.org/core/2022/10/06/introducing-update-uri-theme-header-in-wordpress-6-1/)
 - [New cache Site Health checks in WordPress 6.1](https://make.wordpress.org/core/2022/10/06/new-cache-site-health-checks-in-wordpress-6-1/)
 - [Editor chat summary: 5 October, 2022](https://make.wordpress.org/core/2022/10/06/editor-chat-summary-5-october-2022/)
 - [Dev chat summary, October 5, 2022](https://make.wordpress.org/core/2022/10/05/dev-chat-summary-october-5-2022/)
 - [Dev Chat agenda, October 5, 2022](https://make.wordpress.org/core/2022/10/04/dev-chat-agenda-october-5-2022/)
 - [Performance team meeting summary 4 October 2022](https://make.wordpress.org/core/2022/10/04/performance-team-meeting-summary-4-october-2022/)
 - [A Week in Core – October 3, 2022](https://make.wordpress.org/core/2022/10/03/a-week-in-core-october-4-2022/)
-- [Editor chat summary: Wednesday, 28 September 2022](https://make.wordpress.org/core/2022/10/03/editor-chat-summary-wednesday-28-september-2022/)
-- [Performance Chat Agenda: 4 October 2022](https://make.wordpress.org/core/2022/10/03/performance-chat-agenda-4-october-2022/)
 <!-- CORE:END -->
 
 ## Design
