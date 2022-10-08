@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Escaping Table and Field names with wpdb::prepare&lpar;&rpar; in WordPress 6.1](https://make.wordpress.org/core/2022/10/08/escaping-table-and-field-names-with-wpdbprepare-in-wordpress-6-1/)
 - [Create-block scaffolding tool updates](https://make.wordpress.org/core/2022/10/07/create-block-scaffolding-tool-updates/)
 - [Introduction of presets across padding, margin and block gap](https://make.wordpress.org/core/2022/10/07/introduction-of-presets-across-padding-margin-and-block-gap/)
 - [Improved PHP performance for core blocks registration](https://make.wordpress.org/core/2022/10/07/improved-php-performance-for-core-blocks-registration/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New cache Site Health checks in WordPress 6.1](https://make.wordpress.org/core/2022/10/06/new-cache-site-health-checks-in-wordpress-6-1/)
 - [Editor chat summary: 5 October, 2022](https://make.wordpress.org/core/2022/10/06/editor-chat-summary-5-october-2022/)
 - [Dev chat summary, October 5, 2022](https://make.wordpress.org/core/2022/10/05/dev-chat-summary-october-5-2022/)
-- [Dev Chat agenda, October 5, 2022](https://make.wordpress.org/core/2022/10/04/dev-chat-agenda-october-5-2022/)
 <!-- CORE:END -->
 
 ## Design
