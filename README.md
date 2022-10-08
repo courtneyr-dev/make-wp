@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordCamp Jinja 2022 panel discussion](https://wordpress.tv/2022/10/08/wordcamp-jinja-2022-panel-discussion/)
 - [How to get and retain web design clients](https://wordpress.tv/2022/10/07/how-to-get-and-retain-web-design-clients/)
 - [Basic blogging for beginners](https://wordpress.tv/2022/10/07/basic-blogging-for-beginners/)
 - [eCommerce best practices](https://wordpress.tv/2022/10/06/ecommerce-best-practices/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Clausura de la WordCamp Pontevedra 2022](https://wordpress.tv/2022/09/26/clausura-de-la-wordcamp-pontevedra-2022/)
 - [How better performing websites can help save the planet](https://wordpress.tv/2022/09/26/how-better-performing-websites-can-help-save-the-planet/)
 - [Five for the Future: financiando WordPress dun xeito sostible](https://wordpress.tv/2022/09/26/five-for-the-future-financiando-wordpress-de-una-forma-sostenible/)
-- [Axudando a pequenas empresas rurais a crear grandes proxectos dixitais](https://wordpress.tv/2022/09/26/ayudando-a-pequenas-empresas-rurales-a-crear-grandes-proyectos-digitales/)
 <!-- WPTV:END -->
 
 ## Marketing
