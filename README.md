@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Multisite improvements in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/multisite-improvements-in-wordpress-6-1/)
 - [Introducing WP_List_Table::get_views_links&lpar;&rpar; in WordPress 6.1](https://make.wordpress.org/core/2022/10/09/introducing-wp_list_tableget_views_links-in-wordpress-6-1/)
 - [Escaping Table and Field names with wpdb::prepare&lpar;&rpar; in WordPress 6.1](https://make.wordpress.org/core/2022/10/08/escaping-table-and-field-names-with-wpdbprepare-in-wordpress-6-1/)
 - [Create-block scaffolding tool updates](https://make.wordpress.org/core/2022/10/07/create-block-scaffolding-tool-updates/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improvements to WP_Query performance in 6.1](https://make.wordpress.org/core/2022/10/07/improvements-to-wp_query-performance-in-6-1/)
 - [Introducing “Update URI” theme header in WordPress 6.1](https://make.wordpress.org/core/2022/10/06/introducing-update-uri-theme-header-in-wordpress-6-1/)
 - [New cache Site Health checks in WordPress 6.1](https://make.wordpress.org/core/2022/10/06/new-cache-site-health-checks-in-wordpress-6-1/)
-- [Editor chat summary: 5 October, 2022](https://make.wordpress.org/core/2022/10/06/editor-chat-summary-5-october-2022/)
 <!-- CORE:END -->
 
 ## Design
