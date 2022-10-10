@@ -518,6 +518,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-772/)
+- [Need Help! Site Corrupted](https://jobs.wordpress.net/job/need-help-site-corrupted/)
 - [WordPress Developer – Remote](https://jobs.wordpress.net/job/wordpress-developer-remote-11/)
 - [Technical Customer Support at WP Rocket – Remote](https://jobs.wordpress.net/job/technical-customer-support-at-wp-rocket-remote/)
 - [Looking for a WordPress Expert for Long Term](https://jobs.wordpress.net/job/looking-for-a-wordpress-expert-for-long-term/)
@@ -525,9 +527,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-6/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-7/)
 - [Senior WordPress Software Engineer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-remote/)
-- [Help with plugin](https://jobs.wordpress.net/job/help-with-plugin/)
 - [WordPress website repair](https://jobs.wordpress.net/job/wordpress-website-repair/)
-- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-3/)
 <!-- JOBS:END -->
 
 ## Central
