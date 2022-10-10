@@ -518,6 +518,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Beaver Builder Web Designer – Freelance Only](https://jobs.wordpress.net/job/beaver-builder-web-designer-freelance-only/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-773/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-772/)
 - [Need Help! Site Corrupted](https://jobs.wordpress.net/job/need-help-site-corrupted/)
 - [WordPress Developer – Remote](https://jobs.wordpress.net/job/wordpress-developer-remote-11/)
@@ -526,8 +528,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Quality Assurance Engineer](https://jobs.wordpress.net/job/astra-quality-assurance-engineer/)
 - [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-6/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-7/)
-- [Senior WordPress Software Engineer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-remote/)
-- [WordPress website repair](https://jobs.wordpress.net/job/wordpress-website-repair/)
 <!-- JOBS:END -->
 
 ## Central
