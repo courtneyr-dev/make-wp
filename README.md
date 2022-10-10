@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Functions and hooks for required fields in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/functions-and-hooks-for-required-fields-in-wordpress-6-1/)
 - [Updated editor layout support in 6.1 after refactor](https://make.wordpress.org/core/2022/10/10/updated-editor-layout-support-in-6-1-after-refactor/)
 - [Seeking proposals for Interop 2023](https://make.wordpress.org/core/2022/10/10/seeking-proposals-for-interop-2023/)
 - [Moving the send_headers action to later in the load](https://make.wordpress.org/core/2022/10/10/moving-the-send_headers-action-to-later-in-the-load/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Components updates in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/editor-components-updates-for-wordpress-6-1/)
 - [Styling elements in block themes](https://make.wordpress.org/core/2022/10/10/styling-elements-in-block-themes/)
 - [Performance improvements to the REST API](https://make.wordpress.org/core/2022/10/10/performance-improvements-to-the-rest-api/)
-- [Editor Chat Agenda: October 12, 2022](https://make.wordpress.org/core/2022/10/10/editor-chat-agenda-12-october-2022/)
 <!-- CORE:END -->
 
 ## Design
