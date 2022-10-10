@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Moving the send_headers action to later in the load](https://make.wordpress.org/core/2022/10/10/moving-the-send_headers-action-to-later-in-the-load/)
 - [Changes to block editor preferences in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/changes-to-block-editor-preferences-in-wordpress-6-1/)
 - [Extending the Query Loop block](https://make.wordpress.org/core/2022/10/10/extending-the-query-loop-block/)
 - [Filters for theme.json data](https://make.wordpress.org/core/2022/10/10/filters-for-theme-json-data/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: October 12, 2022](https://make.wordpress.org/core/2022/10/10/editor-chat-agenda-12-october-2022/)
 - [Block styles generation &lpar;Style Engine&rpar;](https://make.wordpress.org/core/2022/10/10/block-styles-generation-style-engine/)
 - [Multisite improvements in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/multisite-improvements-in-wordpress-6-1/)
-- [Introducing WP_List_Table::get_views_links&lpar;&rpar; in WordPress 6.1](https://make.wordpress.org/core/2022/10/09/introducing-wp_list_tableget_views_links-in-wordpress-6-1/)
 <!-- CORE:END -->
 
 ## Design
