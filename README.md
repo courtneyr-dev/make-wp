@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How WordPress changed my life](https://wordpress.tv/2022/10/10/how-wordpress-changed-my-life/)
 - [Así me hice podcaster](https://wordpress.tv/2022/10/10/asi-me-hice-podcaster/)
 - [WordCamp Jinja 2022 panel discussion](https://wordpress.tv/2022/10/08/wordcamp-jinja-2022-panel-discussion/)
 - [How to get and retain web design clients](https://wordpress.tv/2022/10/07/how-to-get-and-retain-web-design-clients/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Translate.wordpress.org feedback tool walk-through](https://wordpress.tv/2022/09/27/jesus-amieiro-alex-kirk-translate-wordpress-org-feedback-tool-walk-through/)
 - [DevOps and open source: marriage made in Heaven](https://wordpress.tv/2022/09/27/devops-and-open-source-marriage-made-in-heaven/)
 - [Clausura de la WordCamp Pontevedra 2022](https://wordpress.tv/2022/09/26/clausura-de-la-wordcamp-pontevedra-2022/)
-- [How better performing websites can help save the planet](https://wordpress.tv/2022/09/26/how-better-performing-websites-can-help-save-the-planet/)
 <!-- WPTV:END -->
 
 ## Marketing
