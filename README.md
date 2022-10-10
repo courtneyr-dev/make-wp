@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Chat Agenda: October 12, 2022](https://make.wordpress.org/core/2022/10/10/editor-chat-agenda-12-october-2022/)
+- [Block styles generation &lpar;Style Engine&rpar;](https://make.wordpress.org/core/2022/10/10/block-styles-generation-style-engine/)
 - [Multisite improvements in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/multisite-improvements-in-wordpress-6-1/)
 - [Introducing WP_List_Table::get_views_links&lpar;&rpar; in WordPress 6.1](https://make.wordpress.org/core/2022/10/09/introducing-wp_list_tableget_views_links-in-wordpress-6-1/)
 - [Escaping Table and Field names with wpdb::prepare&lpar;&rpar; in WordPress 6.1](https://make.wordpress.org/core/2022/10/08/escaping-table-and-field-names-with-wpdbprepare-in-wordpress-6-1/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improved PHP performance for core blocks registration](https://make.wordpress.org/core/2022/10/07/improved-php-performance-for-core-blocks-registration/)
 - [Performance Chat Agenda: 11 October 2022](https://make.wordpress.org/core/2022/10/07/performance-chat-agenda-11-october-2022/)
 - [Improvements to WP_Query performance in 6.1](https://make.wordpress.org/core/2022/10/07/improvements-to-wp_query-performance-in-6-1/)
-- [Introducing “Update URI” theme header in WordPress 6.1](https://make.wordpress.org/core/2022/10/06/introducing-update-uri-theme-header-in-wordpress-6-1/)
-- [New cache Site Health checks in WordPress 6.1](https://make.wordpress.org/core/2022/10/06/new-cache-site-health-checks-in-wordpress-6-1/)
 <!-- CORE:END -->
 
 ## Design
