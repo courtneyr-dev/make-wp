@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [SureCart]](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-surecart/)
 - [Dear Woocommerce,](https://make.wordpress.org/polyglots/2022/10/07/dear-woocommerce/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/10/07/pte-request-for-several-plugins-5/)
 - [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/10/06/gte-request-for-afrikaans-af-za/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/10/04/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommerce-3/)
 - [Locale: pt_MZ Country code: MZ…](https://make.wordpress.org/polyglots/2022/10/04/locale-pt_mz-country-code-mz/)
 - [PTE request for Blossom Themes Templates](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-blossom-themes-templates/)
-- [PTE Request for Discount Rules for WooCommerce](https://make.wordpress.org/polyglots/2022/10/03/pte-request-for-discount-rules-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
