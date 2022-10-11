@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Renaming WordPress.org Support to Documentation](https://make.wordpress.org/meta/2022/10/11/renaming-wordpress-org-support-to-documentation/)
 - [X-post: Reclassification of end-user documentation](https://make.wordpress.org/meta/2022/10/05/xpost-reclassification-of-end-user-documentation/)
 - [X-post: Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/meta/2022/09/27/xpost-proposal-faster-course-development-with-video-based-courses/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/meta/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developing the redesigned Home and Download Pages](https://make.wordpress.org/meta/2022/08/01/developing-the-redesigned-home-and-download-pages/)
 - [X-post: Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/meta/2022/07/27/xpost-project-update-wordpress-org-homepage-and-download-page-mockups/)
 - [Pattern Previews for Themes in the Directory – Beta](https://make.wordpress.org/meta/2022/07/21/pattern-previews-for-themes-in-the-directory-beta/)
-- [X-post: Project Kickoff: WordPress.org Homepage and Download page redesign](https://make.wordpress.org/meta/2022/07/08/xpost-project-kickoff-wordpress-org-homepage-and-download-page-redesign/)
 <!-- META:END -->
 
 ## Training
