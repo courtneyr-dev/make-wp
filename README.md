@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Field Guide for WordPress 6.1](https://make.wordpress.org/core/2022/10/11/performance-field-guide-for-wordpress-6-1/)
 - [Roster of design tools per block](https://make.wordpress.org/core/2022/10/11/roster-of-design-tools-per-block/)
 - [Miscellaneous Core changes for WordPress 6.1](https://make.wordpress.org/core/2022/10/11/miscellaneous-core-changes-for-wordpress-6-1/)
 - [A Week in Core – October 10, 2022](https://make.wordpress.org/core/2022/10/11/a-week-in-core-october-10-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Moving the send_headers action to later in the load](https://make.wordpress.org/core/2022/10/10/moving-the-send_headers-action-to-later-in-the-load/)
 - [Changes to block editor preferences in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/changes-to-block-editor-preferences-in-wordpress-6-1/)
 - [Extending the Query Loop block](https://make.wordpress.org/core/2022/10/10/extending-the-query-loop-block/)
-- [Filters for theme.json data](https://make.wordpress.org/core/2022/10/10/filters-for-theme-json-data/)
 <!-- CORE:END -->
 
 ## Design
