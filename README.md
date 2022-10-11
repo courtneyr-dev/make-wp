@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Reminder about Final Notices](https://make.wordpress.org/plugins/2022/10/11/reminder-about-final-notices/)
 - [Reminder: We will check your website](https://make.wordpress.org/plugins/2022/09/27/reminder-we-will-check-your-website/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/plugins/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Heroku Free Tier Being Retired](https://make.wordpress.org/plugins/2022/09/13/heroku-free-tier-being-retired/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/plugins/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/plugins/2022/06/27/xpost-rollback-feature-testing-call-to-action/)
 - [Google Drive is Flagging Plugins as ‘Viruses’](https://make.wordpress.org/plugins/2022/06/24/google-drive-is-flagging-plugins-as-viruses/)
-- [What’s The Deal with Invalid Reviews?](https://make.wordpress.org/plugins/2022/06/15/whats-the-deal-with-invalid-reviews/)
 <!-- PLUGINS:END -->
 
 ## Community
