@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat agenda, October 12, 2022](https://make.wordpress.org/core/2022/10/11/dev-chat-agenda-october-12-2022/)
 - [Reference Styles values in theme.json](https://make.wordpress.org/core/2022/10/11/reference-styles-values-in-theme-json/)
 - [WordPress 6.1 Accessibility Improvements](https://make.wordpress.org/core/2022/10/11/wordpress-6-1-accessibility-improvements/)
 - [Miscellaneous REST API improvements in WordPress 6.1](https://make.wordpress.org/core/2022/10/11/miscellaneous-rest-api-improvements-in-wordpress-6-1/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Roster of design tools per block](https://make.wordpress.org/core/2022/10/11/roster-of-design-tools-per-block/)
 - [Miscellaneous Core changes for WordPress 6.1](https://make.wordpress.org/core/2022/10/11/miscellaneous-core-changes-for-wordpress-6-1/)
 - [A Week in Core – October 10, 2022](https://make.wordpress.org/core/2022/10/11/a-week-in-core-october-10-2022/)
-- [Functions and hooks for required fields in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/functions-and-hooks-for-required-fields-in-wordpress-6-1/)
 <!-- CORE:END -->
 
 ## Design
