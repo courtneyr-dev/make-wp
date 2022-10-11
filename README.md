@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Ultimate SMS…](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-ultimate-sms/)
 - [PTE Request for [mxp-sepa-qr-code-addon-for-woocommerce] I’ve…](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-mxp-sepa-qr-code-addon-for-woocommerce-ive/)
 - [PTE Request for [SureCart]](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-surecart/)
 - [Dear Woocommerce,](https://make.wordpress.org/polyglots/2022/10/07/dear-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Weekly Polyglots Chat – Oct. 5, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/05/weekly-polyglots-chat-oct-5-2022-700-utc/)
 - [2022 WordPress Translation Day recap](https://make.wordpress.org/polyglots/2022/10/04/2022-wordpress-translation-day-recap/)
 - [PTE Request for Challan – PDF Invoice &amp; Packing Slip for WooCommerce](https://make.wordpress.org/polyglots/2022/10/04/pte-request-for-challan-pdf-invoice-packing-slip-for-woocommerce-3/)
-- [Locale: pt_MZ Country code: MZ…](https://make.wordpress.org/polyglots/2022/10/04/locale-pt_mz-country-code-mz/)
 <!-- POLYGLOTS:END -->
 
 ## Support
