@@ -3,6 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.1 Accessibility Improvements](https://make.wordpress.org/core/2022/10/11/wordpress-6-1-accessibility-improvements/)
+- [Miscellaneous REST API improvements in WordPress 6.1](https://make.wordpress.org/core/2022/10/11/miscellaneous-rest-api-improvements-in-wordpress-6-1/)
+- [Performance team meeting summary 11 October 2022](https://make.wordpress.org/core/2022/10/11/performance-team-meeting-summary-11-october-2022/)
 - [Performance Field Guide for WordPress 6.1](https://make.wordpress.org/core/2022/10/11/performance-field-guide-for-wordpress-6-1/)
 - [Roster of design tools per block](https://make.wordpress.org/core/2022/10/11/roster-of-design-tools-per-block/)
 - [Miscellaneous Core changes for WordPress 6.1](https://make.wordpress.org/core/2022/10/11/miscellaneous-core-changes-for-wordpress-6-1/)
@@ -10,9 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Functions and hooks for required fields in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/functions-and-hooks-for-required-fields-in-wordpress-6-1/)
 - [Updated editor layout support in 6.1 after refactor](https://make.wordpress.org/core/2022/10/10/updated-editor-layout-support-in-6-1-after-refactor/)
 - [Seeking proposals for Interop 2023](https://make.wordpress.org/core/2022/10/10/seeking-proposals-for-interop-2023/)
-- [Moving the send_headers action to later in the load](https://make.wordpress.org/core/2022/10/10/moving-the-send_headers-action-to-later-in-the-load/)
-- [Changes to block editor preferences in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/changes-to-block-editor-preferences-in-wordpress-6-1/)
-- [Extending the Query Loop block](https://make.wordpress.org/core/2022/10/10/extending-the-query-loop-block/)
 <!-- CORE:END -->
 
 ## Design
