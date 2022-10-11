@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes Team Meeting Notes – October 11, 2022](https://make.wordpress.org/themes/2022/10/11/themes-team-meeting-notes-october-11-2022/)
 - [X-post: Themes team update October 11, 2022](https://make.wordpress.org/themes/2022/10/11/xpost-themes-team-update-october-11-2022/)
 - [Themes team meeting agenda for October 11, 2022](https://make.wordpress.org/themes/2022/10/10/themes-team-meeting-agenda-for-october-11-2022/)
 - [X-post: Introducing “Update URI” theme header in WordPress 6.1](https://make.wordpress.org/themes/2022/10/07/xpost-introducing-update-uri-theme-header-in-wordpress-6-1/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for September 27, 2022](https://make.wordpress.org/themes/2022/09/26/themes-team-meeting-agenda-for-september-27-2022/)
 - [X-post: Themes team update September 20, 2022](https://make.wordpress.org/themes/2022/09/20/xpost-themes-team-update-september-20-2022/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/themes/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
-- [X-post: Themes team update September 14, 2022](https://make.wordpress.org/themes/2022/09/14/xpost-themes-team-update-september-14-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
