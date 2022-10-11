@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Miscellaneous Core changes for WordPress 6.1](https://make.wordpress.org/core/2022/10/11/miscellaneous-core-changes-for-wordpress-6-1/)
 - [A Week in Core – October 10, 2022](https://make.wordpress.org/core/2022/10/11/a-week-in-core-october-10-2022/)
 - [Functions and hooks for required fields in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/functions-and-hooks-for-required-fields-in-wordpress-6-1/)
 - [Updated editor layout support in 6.1 after refactor](https://make.wordpress.org/core/2022/10/10/updated-editor-layout-support-in-6-1-after-refactor/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Extending the Query Loop block](https://make.wordpress.org/core/2022/10/10/extending-the-query-loop-block/)
 - [Filters for theme.json data](https://make.wordpress.org/core/2022/10/10/filters-for-theme-json-data/)
 - [Editor Components updates in WordPress 6.1](https://make.wordpress.org/core/2022/10/10/editor-components-updates-for-wordpress-6-1/)
-- [Styling elements in block themes](https://make.wordpress.org/core/2022/10/10/styling-elements-in-block-themes/)
 <!-- CORE:END -->
 
 ## Design
