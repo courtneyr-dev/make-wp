@@ -377,7 +377,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
-- [WP-CLI v2.7.0 Release Notes](https://make.wordpress.org/cli/2022/10/12/wp-cli-v2-7-0-release-notes/)
+- [WP-CLI v2.7.0 Release Notes](https://make.wordpress.org/cli/2022/10/11/wp-cli-v2-7-0-release-notes/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/cli/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/cli/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/cli/2022/05/26/xpost-announcement-incident-response-training/)
