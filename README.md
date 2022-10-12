@@ -518,6 +518,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Plugin Developer / Divi Theme](https://jobs.wordpress.net/job/wordpress-plugin-developer-divi-theme/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-46/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-16/)
 - [WordPress/Full Stack Developer](https://jobs.wordpress.net/job/wordpress-full-stack-developer-6/)
 - [Fullstack-Developer &lpar;PHP&rpar;](https://jobs.wordpress.net/job/fullstack-developer-php/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-773/)
@@ -525,9 +528,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Need Help! Site Corrupted](https://jobs.wordpress.net/job/need-help-site-corrupted/)
 - [WordPress Developer – Remote](https://jobs.wordpress.net/job/wordpress-developer-remote-11/)
 - [Technical Customer Support at WP Rocket – Remote](https://jobs.wordpress.net/job/technical-customer-support-at-wp-rocket-remote/)
-- [Looking for a WordPress Expert for Long Term](https://jobs.wordpress.net/job/looking-for-a-wordpress-expert-for-long-term/)
-- [[Astra] Quality Assurance Engineer](https://jobs.wordpress.net/job/astra-quality-assurance-engineer/)
-- [[Astra] Senior PHP Developer](https://jobs.wordpress.net/job/astra-senior-php-developer-6/)
 <!-- JOBS:END -->
 
 ## Central
