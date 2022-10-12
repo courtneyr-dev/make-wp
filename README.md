@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.1 Field Guide](https://make.wordpress.org/core/2022/10/12/wordpress-6-1-field-guide/)
 - [Block API changes in WordPress 6.1](https://make.wordpress.org/core/2022/10/12/block-api-changes-in-wordpress-6-1/)
 - [Content locking features and updates](https://make.wordpress.org/core/2022/10/11/content-locking-features-and-updates/)
 - [Simplified data access with new React hooks in WordPress 6.1](https://make.wordpress.org/core/2022/10/11/simplified-data-access-with-new-react-hooks-in-wordpress-6-1/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Miscellaneous REST API improvements in WordPress 6.1](https://make.wordpress.org/core/2022/10/11/miscellaneous-rest-api-improvements-in-wordpress-6-1/)
 - [Performance team meeting summary 11 October 2022](https://make.wordpress.org/core/2022/10/11/performance-team-meeting-summary-11-october-2022/)
 - [Performance Field Guide for WordPress 6.1](https://make.wordpress.org/core/2022/10/11/performance-field-guide-for-wordpress-6-1/)
-- [Enhanced TypeScript support in WordPress 6.1](https://make.wordpress.org/core/2022/10/11/enhanced-typescript-support-in-wordpress-6-1/)
 <!-- CORE:END -->
 
 ## Design
