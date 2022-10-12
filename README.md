@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Joli FAQ SEP](https://make.wordpress.org/polyglots/2022/10/12/pte-request-for-joli-faq-sep/)
 - [Agenda: Weekly Polyglots Chat – October 12, 2022 &lpar;13:00 UTC&rpar; Category: Weekly chat](https://make.wordpress.org/polyglots/2022/10/12/agenda-weekly-polyglots-chat-october-12-2022-1300-utc-category-weekly-chat/)
 - [WordPress 6.1 ready to be translated](https://make.wordpress.org/polyglots/2022/10/11/wordpress-6-1-ready-to-be-translated/)
 - [PTE Request for [Ultimate SMS…](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-ultimate-sms/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/10/07/pte-request-for-several-plugins-5/)
 - [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/10/06/gte-request-for-afrikaans-af-za/)
 - [PTE Request for [Blossom Flower] Theme](https://make.wordpress.org/polyglots/2022/10/05/pte-request-for-blossom-flower-theme/)
-- [Weekly Polyglots Chat – Oct. 5, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/05/weekly-polyglots-chat-oct-5-2022-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
