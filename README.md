@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on October 12, 2022](https://make.wordpress.org/community/2022/10/12/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-october-12-2022/)
 - [Upcoming #WPDiversity Events: October 2022](https://make.wordpress.org/community/2022/10/07/upcoming-wpdiversity-events-october-2022/)
 - [Idea: Freescout for WordCamp organising teams](https://make.wordpress.org/community/2022/10/06/idea-freescout-for-wordcamp-organising-teams/)
 - [Recap of APAC WPDiversity Network Building – 10th meeting &lpar;Sept 29, 2022&rpar;](https://make.wordpress.org/community/2022/10/06/recap-of-apac-wpdiversity-network-building-10th-meeting-sept-29-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Help Improve the Overall Make/Community Onboarding](https://make.wordpress.org/community/2022/09/30/help-improve-the-overall-make-community-onboarding/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on September 28, 2022](https://make.wordpress.org/community/2022/09/29/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-september-28-2022/)
 - [Update: Global Meetup Reactivation Project](https://make.wordpress.org/community/2022/09/29/meetup-reactivation-update/)
-- [By 15 October – Please complete the Annual Meetup Survey and share widely!](https://make.wordpress.org/community/2022/09/27/15-oct-survey-deadline/)
 <!-- COMMUNITY:END -->
 
 ## Meta
