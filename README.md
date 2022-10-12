@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Working with REST APIs and webhooks in WordPress](https://wordpress.tv/2022/10/11/working-with-rest-apis-and-webhooks-in-wordpress/)
 - [Where is WordPress’ place in the website creator economy?](https://wordpress.tv/2022/10/10/where-is-wordpress-place-in-the-website-creator-economy/)
 - [How WordPress changed my life](https://wordpress.tv/2022/10/10/how-wordpress-changed-my-life/)
 - [Así me hice podcaster](https://wordpress.tv/2022/10/10/asi-me-hice-podcaster/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Security](https://wordpress.tv/2022/09/28/security/)
 - [Let Amazon Alexa talk about your WordPress content](https://wordpress.tv/2022/09/28/let-amazon-alexa-talk-about-your-wordpress-content/)
 - [Translate.wordpress.org feedback tool walk-through](https://wordpress.tv/2022/09/27/jesus-amieiro-alex-kirk-translate-wordpress-org-feedback-tool-walk-through/)
-- [DevOps and open source: marriage made in Heaven](https://wordpress.tv/2022/09/27/devops-and-open-source-marriage-made-in-heaven/)
 <!-- WPTV:END -->
 
 ## Marketing
