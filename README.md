@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – October 12, 2022 &lpar;13:00 UTC&rpar; Category: Weekly chat](https://make.wordpress.org/polyglots/2022/10/12/agenda-weekly-polyglots-chat-october-12-2022-1300-utc-category-weekly-chat/)
 - [WordPress 6.1 ready to be translated](https://make.wordpress.org/polyglots/2022/10/11/wordpress-6-1-ready-to-be-translated/)
 - [PTE Request for [Ultimate SMS…](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-ultimate-sms/)
 - [PTE Request for [mxp-sepa-qr-code-addon-for-woocommerce] I’ve…](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-mxp-sepa-qr-code-addon-for-woocommerce-ive/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/10/06/gte-request-for-afrikaans-af-za/)
 - [PTE Request for [Blossom Flower] Theme](https://make.wordpress.org/polyglots/2022/10/05/pte-request-for-blossom-flower-theme/)
 - [Weekly Polyglots Chat – Oct. 5, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/05/weekly-polyglots-chat-oct-5-2022-700-utc/)
-- [2022 WordPress Translation Day recap](https://make.wordpress.org/polyglots/2022/10/04/2022-wordpress-translation-day-recap/)
 <!-- POLYGLOTS:END -->
 
 ## Support
