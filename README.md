@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [all-in-one-wp-security-and-firewall]](https://make.wordpress.org/polyglots/2022/10/13/pte-request-for-all-in-one-wp-security-and-firewall/)
 - [PTE Request for [sig-ga4-widget]](https://make.wordpress.org/polyglots/2022/10/13/pte-request-for-sig-ga4-widget/)
 - [PTE Request for Joli FAQ SEP](https://make.wordpress.org/polyglots/2022/10/12/pte-request-for-joli-faq-sep/)
 - [Agenda: Weekly Polyglots Chat – October 12, 2022 &lpar;13:00 UTC&rpar; Category: Weekly chat](https://make.wordpress.org/polyglots/2022/10/12/agenda-weekly-polyglots-chat-october-12-2022-1300-utc-category-weekly-chat/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [SureCart]](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-surecart/)
 - [Dear Woocommerce,](https://make.wordpress.org/polyglots/2022/10/07/dear-woocommerce/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/10/07/pte-request-for-several-plugins-5/)
-- [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/10/06/gte-request-for-afrikaans-af-za/)
 <!-- POLYGLOTS:END -->
 
 ## Support
