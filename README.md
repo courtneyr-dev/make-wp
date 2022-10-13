@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Uncovering the Cover Block](https://wordpress.tv/2022/10/13/uncovering-the-cover-block/)
 - [Build a fast WordPress site using React with Frontity](https://wordpress.tv/2022/10/12/build-a-fast-wordpress-site-using-react-with-frontity/)
 - [Working with REST APIs and webhooks in WordPress](https://wordpress.tv/2022/10/11/working-with-rest-apis-and-webhooks-in-wordpress/)
 - [Where is WordPress’ place in the website creator economy?](https://wordpress.tv/2022/10/10/where-is-wordpress-place-in-the-website-creator-economy/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adding a pattern from the pattern directory to your theme](https://wordpress.tv/2022/09/29/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 - [Personalizing your 404 template](https://wordpress.tv/2022/09/28/personalizing-your-404-template/)
 - [Security](https://wordpress.tv/2022/09/28/security/)
-- [Let Amazon Alexa talk about your WordPress content](https://wordpress.tv/2022/09/28/let-amazon-alexa-talk-about-your-wordpress-content/)
 <!-- WPTV:END -->
 
 ## Marketing
