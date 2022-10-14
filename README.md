@@ -278,6 +278,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Uncovering the Cover Block](https://learn.wordpress.org/?meeting=uncovering-the-cover-block-2)
 - [Hallway Hangout: Block Theme Development Features in WordPress 6.1](https://learn.wordpress.org/?meeting=hallway-hangout-block-theme-development-features-in-wordpress-6-1)
 - [Let’s code! Creating Custom Templates and Template Parts](https://learn.wordpress.org/?meeting=lets-code-creating-custom-templates-and-template-parts)
 - [WordPress Roles and Capabilities](https://learn.wordpress.org/?meeting=wordpress-roles-and-capabilities)
@@ -302,7 +303,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-4)
 - [The Beginner’s Guide to Full Site Editing](https://learn.wordpress.org/?meeting=the-beginners-guide-to-full-site-editing)
 - [A Personal Site in 1, 2, 3 with Patterns](https://learn.wordpress.org/?meeting=a-personal-site-in-1-2-3-with-patterns)
-- [Introduction to the Dashboard](https://learn.wordpress.org/?meeting=introduction-to-the-dashboard)
 <!-- SLS:END -->
 
 ## Test
