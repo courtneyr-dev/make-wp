@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Contributing to the WordPress mobile apps](https://wordpress.tv/2022/10/13/contributing-to-the-wordpress-mobile-apps/)
 - [Uncovering the Cover Block](https://wordpress.tv/2022/10/13/uncovering-the-cover-block/)
 - [Build a fast WordPress site using React with Frontity](https://wordpress.tv/2022/10/12/build-a-fast-wordpress-site-using-react-with-frontity/)
 - [Working with REST APIs and webhooks in WordPress](https://wordpress.tv/2022/10/11/working-with-rest-apis-and-webhooks-in-wordpress/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Human-Computer Interaction 101](https://wordpress.tv/2022/09/29/human-computer-interaction-101/)
 - [Adding a pattern from the pattern directory to your theme](https://wordpress.tv/2022/09/29/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 - [Personalizing your 404 template](https://wordpress.tv/2022/09/28/personalizing-your-404-template/)
-- [Security](https://wordpress.tv/2022/09/28/security/)
 <!-- WPTV:END -->
 
 ## Marketing
