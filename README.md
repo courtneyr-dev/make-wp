@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [#editor-requests To complete the translation…](https://make.wordpress.org/polyglots/2022/10/14/editor-requests-to-complete-the-translation/)
 - [PTE Request for “Waiting for the tide” plugin](https://make.wordpress.org/polyglots/2022/10/13/pte-request-for-waiting-for-the-tide-plugin/)
 - [PTE Request for [all-in-one-wp-security-and-firewall]](https://make.wordpress.org/polyglots/2022/10/13/pte-request-for-all-in-one-wp-security-and-firewall/)
 - [PTE Request for [sig-ga4-widget]](https://make.wordpress.org/polyglots/2022/10/13/pte-request-for-sig-ga4-widget/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Ultimate SMS…](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-ultimate-sms/)
 - [PTE Request for [mxp-sepa-qr-code-addon-for-woocommerce] I’ve…](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-mxp-sepa-qr-code-addon-for-woocommerce-ive/)
 - [PTE Request for [SureCart]](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-surecart/)
-- [Dear Woocommerce,](https://make.wordpress.org/polyglots/2022/10/07/dear-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
