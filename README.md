@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Global terms removed in WordPress 6.1](https://make.wordpress.org/core/2022/10/14/global-terms-removed-in-wordpress-6-1/)
 - [Editor chat summary: 12 October 2022](https://make.wordpress.org/core/2022/10/13/editor-chat-summary-october-12-2022/)
 - [What’s new in Gutenberg 14.3? &lpar;12 October&rpar;](https://make.wordpress.org/core/2022/10/13/whats-new-in-gutenberg-14-3-12-october/)
 - [WordPress 6.1 Field Guide](https://make.wordpress.org/core/2022/10/12/wordpress-6-1-field-guide/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat agenda, October 12, 2022](https://make.wordpress.org/core/2022/10/11/dev-chat-agenda-october-12-2022/)
 - [Reference Styles values in theme.json](https://make.wordpress.org/core/2022/10/11/reference-styles-values-in-theme-json/)
 - [WordPress 6.1 Accessibility Improvements](https://make.wordpress.org/core/2022/10/11/wordpress-6-1-accessibility-improvements/)
-- [Miscellaneous REST API improvements in WordPress 6.1](https://make.wordpress.org/core/2022/10/11/miscellaneous-rest-api-improvements-in-wordpress-6-1/)
 <!-- CORE:END -->
 
 ## Design
