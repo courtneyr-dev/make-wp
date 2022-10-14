@@ -7,7 +7,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in Gutenberg 14.3? &lpar;12 October&rpar;](https://make.wordpress.org/core/2022/10/13/whats-new-in-gutenberg-14-3-12-october/)
 - [WordPress 6.1 Field Guide](https://make.wordpress.org/core/2022/10/12/wordpress-6-1-field-guide/)
 - [Block API changes in WordPress 6.1](https://make.wordpress.org/core/2022/10/12/block-api-changes-in-wordpress-6-1/)
-- [Content locking features and updates](https://make.wordpress.org/core/2022/10/11/content-locking-features-and-updates/)
+- [Content only editing and other locking updates](https://make.wordpress.org/core/2022/10/11/content-locking-features-and-updates/)
 - [Simplified data access with new React hooks in WordPress 6.1](https://make.wordpress.org/core/2022/10/11/simplified-data-access-with-new-react-hooks-in-wordpress-6-1/)
 - [Dev Chat agenda, October 12, 2022](https://make.wordpress.org/core/2022/10/11/dev-chat-agenda-october-12-2022/)
 - [Reference Styles values in theme.json](https://make.wordpress.org/core/2022/10/11/reference-styles-values-in-theme-json/)
