@@ -336,7 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WPTV:START -->
 - [Let’s code: creating custom templates and template parts](https://wordpress.tv/2022/10/14/lets-code-creating-custom-templates-and-template-parts/)
 - [Contributing to the WordPress mobile apps](https://wordpress.tv/2022/10/13/contributing-to-the-wordpress-mobile-apps/)
-- [Uncovering the Cover Block](https://wordpress.tv/2022/10/13/uncovering-the-cover-block/)
+- [Uncovering the cover block](https://wordpress.tv/2022/10/13/uncovering-the-cover-block/)
 - [Build a fast WordPress site using React with Frontity](https://wordpress.tv/2022/10/12/build-a-fast-wordpress-site-using-react-with-frontity/)
 - [Working with REST APIs and webhooks in WordPress](https://wordpress.tv/2022/10/11/working-with-rest-apis-and-webhooks-in-wordpress/)
 - [Where is WordPress’ place in the website creator economy?](https://wordpress.tv/2022/10/10/where-is-wordpress-place-in-the-website-creator-economy/)
