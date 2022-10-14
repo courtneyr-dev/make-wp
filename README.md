@@ -489,6 +489,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [The Month in WordPress – September 2022](https://wordpress.org/news/2022/10/the-month-in-wordpress-september-2022/)
 - [WordPress 6.1 Release Candidate 1 &lpar;RC1&rpar; Now Available](https://wordpress.org/news/2022/10/wordpress-6-1-release-candidate-1-rc1-now-available/)
 - [WordPress 6.1 Beta 3 Now Available](https://wordpress.org/news/2022/10/wordpress-6-1-beta-3-now-available/)
 - [WP Briefing: Episode 40: All Things Testing with Special Guests Anne McCarthy and Brian Alexander](https://wordpress.org/news/2022/10/episode-40-all-things-testing-with-special-guests-anne-mccarthy-and-brian-alexander/)
@@ -513,7 +514,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 33: Some Important Questions from WCEU](https://wordpress.org/news/2022/06/episode-33-some-important-questions-from-wceu/)
 - [The Month in WordPress – May 2022](https://wordpress.org/news/2022/06/the-month-in-wordpress-may-2022/)
 - [People of WordPress: Dee Teal](https://wordpress.org/news/2022/05/people-of-wordpress-dee-teal/)
-- [WP Briefing: Episode 32: An Open Source Reading List](https://wordpress.org/news/2022/05/episode-32-an-open-source-reading-list/)
 <!-- NEWS:END -->
 
 ## Jobs
