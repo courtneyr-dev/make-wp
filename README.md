@@ -518,16 +518,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [site corrupted need help fixing](https://jobs.wordpress.net/job/site-corrupted-need-help-fixing/)
+- [User Experience &lpar;Front-end&rpar; Developer](https://jobs.wordpress.net/job/user-experience-front-end-developer-4/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-21/)
+- [consultant](https://jobs.wordpress.net/job/consultant-14/)
+- [Proofreading English and Italian](https://jobs.wordpress.net/job/proofreading-english-and-italian/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-774/)
 - [Social Media Freelancer](https://jobs.wordpress.net/job/social-media-freelancer/)
 - [WordPress Developer – Full-Time](https://jobs.wordpress.net/job/wordpress-developer-full-time-3/)
 - [Site optimization](https://jobs.wordpress.net/job/site-optimization/)
 - [Content Manager](https://jobs.wordpress.net/job/content-manager-3/)
-- [WordPress Plugin Developer / Divi Theme](https://jobs.wordpress.net/job/wordpress-plugin-developer-divi-theme/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-46/)
-- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-16/)
-- [WordPress/Full Stack Developer](https://jobs.wordpress.net/job/wordpress-full-stack-developer-6/)
-- [Fullstack-Developer &lpar;PHP&rpar;](https://jobs.wordpress.net/job/fullstack-developer-php/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-773/)
 <!-- JOBS:END -->
 
 ## Central
