@@ -307,6 +307,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Week in Test: 15 October 2022](https://make.wordpress.org/test/2022/10/15/week-in-test-15-october-2022/)
+- [X-post: Call for Testing: Plugin Dependencies](https://make.wordpress.org/test/2022/10/15/xpost-call-for-testing-plugin-dependencies/)
 - [X-post: Test Team Update: 10 October 2022](https://make.wordpress.org/test/2022/10/10/xpost-test-team-update-10-october-2022/)
 - [X-post: Call for Testing: WordPress for Android 20.9](https://make.wordpress.org/test/2022/10/04/xpost-call-for-testing-wordpress-for-android-20-9/)
 - [X-post: Test Team Update: 3 October 2022](https://make.wordpress.org/test/2022/10/04/xpost-test-team-update-3-october-2022/)
@@ -315,8 +317,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Week in Test: 23 September 2022](https://make.wordpress.org/test/2022/09/23/week-in-test-23-september-2022/)
 - [Help Test WordPress 6.1](https://make.wordpress.org/test/2022/09/21/help-test-wordpress-6-1/)
 - [X-post: Test Team Update: 19 September 2022](https://make.wordpress.org/test/2022/09/20/xpost-test-team-update-19-september-2022/)
-- [X-post: Call for Testing: WordPress for iOS 20.8](https://make.wordpress.org/test/2022/09/19/xpost-call-for-testing-wordpress-for-ios-20-8/)
-- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/test/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 <!-- TEST:END -->
 
 ## TV
