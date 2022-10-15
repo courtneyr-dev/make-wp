@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Remote work, WordPress and life](https://wordpress.tv/2022/10/14/remote-work-wordpress-and-life/)
 - [Let’s code: creating custom templates and template parts](https://wordpress.tv/2022/10/14/lets-code-creating-custom-templates-and-template-parts/)
 - [Contributing to the WordPress mobile apps](https://wordpress.tv/2022/10/13/contributing-to-the-wordpress-mobile-apps/)
 - [Uncovering the cover block](https://wordpress.tv/2022/10/13/uncovering-the-cover-block/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: creating your primary templates in the Editor](https://wordpress.tv/2022/09/30/lets-code-creating-your-primary-templates-in-the-editor/)
 - [Introduction to DEIB in WordPress](https://wordpress.tv/2022/09/29/introduction-to-deib-in-wordpress/)
 - [Human-Computer Interaction 101](https://wordpress.tv/2022/09/29/human-computer-interaction-101/)
-- [Adding a pattern from the pattern directory to your theme](https://wordpress.tv/2022/09/29/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
