@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Gift Pack For WooCommoerce Plugin](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-gift-pack-for-woocommoerce-plugin/)
 - [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/10/16/pte-request-for-parcel-panel-order-tracking-for-woocommerce/)
 - [PTE Request for Abs – Additional block styles](https://make.wordpress.org/polyglots/2022/10/14/pte-request-for-abs-additional-block-styles/)
 - [#editor-requests To complete the translation…](https://make.wordpress.org/polyglots/2022/10/14/editor-requests-to-complete-the-translation/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Joli FAQ SEP](https://make.wordpress.org/polyglots/2022/10/12/pte-request-for-joli-faq-sep/)
 - [Agenda: Weekly Polyglots Chat – October 12, 2022 &lpar;13:00 UTC&rpar; Category: Weekly chat](https://make.wordpress.org/polyglots/2022/10/12/agenda-weekly-polyglots-chat-october-12-2022-1300-utc-category-weekly-chat/)
 - [WordPress 6.1 ready to be translated](https://make.wordpress.org/polyglots/2022/10/11/wordpress-6-1-ready-to-be-translated/)
-- [PTE Request for [Ultimate SMS…](https://make.wordpress.org/polyglots/2022/10/11/pte-request-for-ultimate-sms/)
 <!-- POLYGLOTS:END -->
 
 ## Support
