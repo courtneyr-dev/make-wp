@@ -489,6 +489,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.0.3 Security Release](https://wordpress.org/news/2022/10/wordpress-6-0-3-security-release/)
 - [WP Briefing: Episode 41: WordPress 6.1 Sneak Peek with Special Guest Nick Diego](https://wordpress.org/news/2022/10/episode-41-wordpress-6-1-sneak-peek-with-special-guest-nick-diego/)
 - [The Month in WordPress – September 2022](https://wordpress.org/news/2022/10/the-month-in-wordpress-september-2022/)
 - [WordPress 6.1 Release Candidate 1 &lpar;RC1&rpar; Now Available](https://wordpress.org/news/2022/10/wordpress-6-1-release-candidate-1-rc1-now-available/)
@@ -513,7 +514,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [People of WordPress: Leo Gopal](https://wordpress.org/news/2022/06/people-of-wordpress-leo-gopal/)
 - [WP Briefing: Episode 34: WordPress 6.1 is Coming!](https://wordpress.org/news/2022/06/episode-34-wordpress-6-1-is-coming/)
 - [WP Briefing: Episode 33: Some Important Questions from WCEU](https://wordpress.org/news/2022/06/episode-33-some-important-questions-from-wceu/)
-- [The Month in WordPress – May 2022](https://wordpress.org/news/2022/06/the-month-in-wordpress-may-2022/)
 <!-- NEWS:END -->
 
 ## Jobs
