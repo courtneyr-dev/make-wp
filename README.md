@@ -377,6 +377,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [WP-CLI v2.7.1 Release Notes](https://make.wordpress.org/cli/2022/10/18/wp-cli-v2-7-1-release-notes/)
 - [WP-CLI v2.7.0 Release Notes](https://make.wordpress.org/cli/2022/10/11/wp-cli-v2-7-0-release-notes/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/cli/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/cli/2022/07/07/xpost-wcus2022-contributor-team-signup/)
@@ -386,7 +387,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP-CLI v2.5.0 Release Notes](https://make.wordpress.org/cli/2021/05/19/wp-cli-v2-5-0-release-notes/)
 - [WP-CLI v2.5.0 release date](https://make.wordpress.org/cli/2021/05/13/wp-cli-v2-5-0-release-date/)
 - [New Premier Sponsor added: Cloudways](https://make.wordpress.org/cli/2021/03/12/new-premier-sponsor-added-cloudways/)
-- [X-post: External Linking Policy – “Commercial blogs”](https://make.wordpress.org/cli/2020/07/06/xpost-external-linking-policy-commercial-blogs/)
 <!-- CLI:END -->
 
 ## Hosting
