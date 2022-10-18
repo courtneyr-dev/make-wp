@@ -278,6 +278,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 3](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-3)
+- [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 2](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-2)
+- [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 1](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-1)
 - [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress)
 - [Let’s code! Using Block Patterns in your Block Theme.](https://learn.wordpress.org/?meeting=lets-code-using-block-patterns-in-your-block-theme)
 - [Ideas for getting more views on your blog](https://learn.wordpress.org/?meeting=ideas-for-getting-more-views-on-your-blog)
@@ -300,9 +303,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s Build a Custom Block in One Hour](https://learn.wordpress.org/?meeting=lets-build-a-custom-block-in-one-hour)
 - [Block Theme Builders: Choosing &amp; Using Fonts](https://learn.wordpress.org/?meeting=block-theme-builders-choosing-using-fonts)
 - [Block &amp; Theme Global Styles Customization](https://learn.wordpress.org/?meeting=block-theme-global-styles-customization)
-- [All About Reusable Blocks](https://learn.wordpress.org/?meeting=all-about-reusable-blocks)
-- [Let’s code! A Beginners Guide to Block Locking in Block Themes](https://learn.wordpress.org/?meeting=lets-code-a-beginners-guide-to-block-locking-in-block-themes)
-- [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-2)
 <!-- SLS:END -->
 
 ## Test
