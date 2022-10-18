@@ -334,6 +334,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Part 1: Re-creating Block Designs](https://wordpress.tv/2022/10/17/part-1-re-creating-block-designs/)
 - [Leonardo Pinori: Utilizzo dei tools dell’ecosystem Roots per lo sviluppo di un tema total custom](https://wordpress.tv/2022/10/17/leonardo-pinori-utilizzo-dei-tools-dellecosystem-roots-per-lo-sviluppo-di-un-tema-total-custom/)
 - [Remote work, WordPress and life](https://wordpress.tv/2022/10/14/remote-work-wordpress-and-life/)
 - [Let’s code: creating custom templates and template parts](https://wordpress.tv/2022/10/14/lets-code-creating-custom-templates-and-template-parts/)
@@ -358,7 +359,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Vertical rhythm: efficiency in WordPress theme layout](https://wordpress.tv/2022/10/01/vertical-rhythm-efficiency-in-wordpress-theme-layout/)
 - [Social media marketing for WordPress businesses](https://wordpress.tv/2022/09/30/social-media-marketing-for-wordpress-businesses/)
 - [Let’s code: creating your primary templates in the Editor](https://wordpress.tv/2022/09/30/lets-code-creating-your-primary-templates-in-the-editor/)
-- [Introduction to DEIB in WordPress](https://wordpress.tv/2022/09/29/introduction-to-deib-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
