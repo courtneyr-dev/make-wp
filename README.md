@@ -278,6 +278,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress)
 - [Let’s code! Using Block Patterns in your Block Theme.](https://learn.wordpress.org/?meeting=lets-code-using-block-patterns-in-your-block-theme)
 - [Ideas for getting more views on your blog](https://learn.wordpress.org/?meeting=ideas-for-getting-more-views-on-your-blog)
 - [Using Composer with WordPress](https://learn.wordpress.org/?meeting=using-composer-with-wordpress)
@@ -302,7 +303,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [All About Reusable Blocks](https://learn.wordpress.org/?meeting=all-about-reusable-blocks)
 - [Let’s code! A Beginners Guide to Block Locking in Block Themes](https://learn.wordpress.org/?meeting=lets-code-a-beginners-guide-to-block-locking-in-block-themes)
 - [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-2)
-- [Introducing… Domains!](https://learn.wordpress.org/?meeting=introducing-domains-2)
 <!-- SLS:END -->
 
 ## Test
