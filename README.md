@@ -307,6 +307,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for Android 21.0](https://make.wordpress.org/test/2022/10/18/xpost-call-for-testing-wordpress-for-android-21-0/)
 - [X-post: Call for Testing: WordPress for iOS 21.0](https://make.wordpress.org/test/2022/10/18/xpost-call-for-testing-wordpress-for-ios-21-0/)
 - [X-post: Test Team Update: 17 October 2022](https://make.wordpress.org/test/2022/10/17/xpost-test-team-update-17-october-2022/)
 - [FSE Program Guiding the Gutenberg Gallery Summary](https://make.wordpress.org/test/2022/10/15/fse-program-guiding-the-gutenberg-gallery-summary/)
@@ -316,7 +317,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Testing: WordPress for Android 20.9](https://make.wordpress.org/test/2022/10/04/xpost-call-for-testing-wordpress-for-android-20-9/)
 - [X-post: Test Team Update: 3 October 2022](https://make.wordpress.org/test/2022/10/04/xpost-test-team-update-3-october-2022/)
 - [X-post: Call for Testing: WordPress for iOS 20.9](https://make.wordpress.org/test/2022/10/04/xpost-call-for-testing-wordpress-for-ios-20-9/)
-- [X-post: Test Team Update: 26 September 2022](https://make.wordpress.org/test/2022/09/26/xpost-test-team-update-26-september-2022/)
 <!-- TEST:END -->
 
 ## TV
