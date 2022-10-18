@@ -518,16 +518,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [site corrupted need help fixing](https://jobs.wordpress.net/job/site-corrupted-need-help-fixing/)
-- [User Experience &lpar;Front-end&rpar; Developer](https://jobs.wordpress.net/job/user-experience-front-end-developer-4/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-21/)
-- [consultant](https://jobs.wordpress.net/job/consultant-14/)
-- [Proofreading English and Italian](https://jobs.wordpress.net/job/proofreading-english-and-italian/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-774/)
-- [Social Media Freelancer](https://jobs.wordpress.net/job/social-media-freelancer/)
-- [WordPress Developer – Full-Time](https://jobs.wordpress.net/job/wordpress-developer-full-time-3/)
-- [Site optimization](https://jobs.wordpress.net/job/site-optimization/)
-- [Content Manager](https://jobs.wordpress.net/job/content-manager-3/)
+- [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-2/)
+- [Bug Fix: Lazy Loading Not Working](https://jobs.wordpress.net/job/bug-fix-lazy-loading-not-working/)
+- [Copywriter &lpar;French/English&rpar; – Remote](https://jobs.wordpress.net/job/copywriter-french-english-remote/)
+- [Content Writer](https://jobs.wordpress.net/job/content-writer-19/)
+- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-9/)
+- [Finish Website and build a page](https://jobs.wordpress.net/job/finish-website-and-build-a-page/)
+- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-15/)
+- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-9/)
+- [Senior Developer](https://jobs.wordpress.net/job/senior-developer-9/)
+- [IT &lpar;Plugin&rpar; Developer](https://jobs.wordpress.net/job/it-plugin-developer/)
 <!-- JOBS:END -->
 
 ## Central
