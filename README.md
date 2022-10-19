@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – October 17, 2022](https://make.wordpress.org/core/2022/10/19/a-week-in-core-october-17-2022/)
 - [Editor Chat Agenda: October 19, 2022](https://make.wordpress.org/core/2022/10/18/editor-chat-agenda-october-19-2022/)
 - [Dev Chat agenda, October 19, 2022](https://make.wordpress.org/core/2022/10/18/dev-chat-agenda-october-19-2022/)
 - [Performance Chat Summary: 18 October 2022](https://make.wordpress.org/core/2022/10/18/performance-team-meeting-summary-11-october-2022-2/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor chat summary: 12 October 2022](https://make.wordpress.org/core/2022/10/13/editor-chat-summary-october-12-2022/)
 - [What’s new in Gutenberg 14.3? &lpar;12 October&rpar;](https://make.wordpress.org/core/2022/10/13/whats-new-in-gutenberg-14-3-12-october/)
 - [Call for Testing: Plugin Dependencies](https://make.wordpress.org/core/2022/10/12/call-for-testing-plugin-dependencies/)
-- [WordPress 6.1 Field Guide](https://make.wordpress.org/core/2022/10/12/wordpress-6-1-field-guide/)
 <!-- CORE:END -->
 
 ## Design
