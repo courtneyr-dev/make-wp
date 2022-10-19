@@ -280,6 +280,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [クエリループブロックでブログページを作ろう！](https://learn.wordpress.org/?meeting=%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81-2)
+- [クエリループブロックでブログページを作ろう！](https://learn.wordpress.org/?meeting=%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81)
 - [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 3](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-3)
 - [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 2](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-2)
 - [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 1](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-1)
@@ -303,8 +305,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Security](https://learn.wordpress.org/?meeting=security)
 - [Uncovering the Cover Block](https://learn.wordpress.org/?meeting=uncovering-the-cover-block)
 - [Let’s Build a Custom Block in One Hour](https://learn.wordpress.org/?meeting=lets-build-a-custom-block-in-one-hour)
-- [Block Theme Builders: Choosing &amp; Using Fonts](https://learn.wordpress.org/?meeting=block-theme-builders-choosing-using-fonts)
-- [Block &amp; Theme Global Styles Customization](https://learn.wordpress.org/?meeting=block-theme-global-styles-customization)
 <!-- SLS:END -->
 
 ## Test
