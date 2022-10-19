@@ -280,6 +280,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Blogging With WordPress – 2022 Edition](https://learn.wordpress.org/?meeting=blogging-with-wordpress-2022-edition-2)
+- [Blogging with WordPress – 2022 Edition](https://learn.wordpress.org/?meeting=blogging-with-wordpress-2022-edition)
 - [クエリループブロックでブログページを作ろう！](https://learn.wordpress.org/?meeting=%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81-2)
 - [クエリループブロックでブログページを作ろう！](https://learn.wordpress.org/?meeting=%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81)
 - [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 3](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-3)
@@ -303,8 +305,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [行・縦積みブロックでレスポンシブデザインを体験！](https://learn.wordpress.org/?meeting=%e8%a1%8c%e3%83%bb%e7%b8%a6%e7%a9%8d%e3%81%bf%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%ac%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b7%e3%83%96%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%82%92%e4%bd%93)
 - [Let’s code! What Happens When You Make Theme Changes in the Editor?](https://learn.wordpress.org/?meeting=lets-code-what-happens-when-you-make-theme-changes-in-the-editor)
 - [Security](https://learn.wordpress.org/?meeting=security)
-- [Uncovering the Cover Block](https://learn.wordpress.org/?meeting=uncovering-the-cover-block)
-- [Let’s Build a Custom Block in One Hour](https://learn.wordpress.org/?meeting=lets-build-a-custom-block-in-one-hour)
 <!-- SLS:END -->
 
 ## Test
