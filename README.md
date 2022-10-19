@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Managing Settings: Media](https://learn.wordpress.org/tutorial/managing-settings-media/)
 - [Uncovering the Cover Block](https://learn.wordpress.org/tutorial/uncovering-the-cover-block/)
 - [Adding a Pattern From the Pattern Directory to Your Theme](https://learn.wordpress.org/tutorial/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 - [Personalizing your 404 Template.](https://learn.wordpress.org/tutorial/personalizing-your-404-template/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Choosing and Installing Theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
 - [Creating a Front Page for a Block Theme](https://learn.wordpress.org/tutorial/creating-a-front-page-for-a-block-theme/)
 - [Managing Updates](https://learn.wordpress.org/tutorial/managing-updates/)
-- [Getting to know the WordPress Dashboard](https://learn.wordpress.org/tutorial/getting-to-know-the-wordpress-dashboard/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
