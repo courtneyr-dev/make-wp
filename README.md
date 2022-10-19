@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Managing Settings: Media](https://wordpress.tv/2022/10/19/managing-settings-media/)
 - [Internationalization and localization](https://wordpress.tv/2022/10/19/internationalization-and-localization/)
 - [Part 1: Re-creating Block Designs](https://wordpress.tv/2022/10/17/part-1-re-creating-block-designs/)
 - [Leonardo Pinori: Utilizzo dei tools dell’ecosystem Roots per lo sviluppo di un tema total custom](https://wordpress.tv/2022/10/17/leonardo-pinori-utilizzo-dei-tools-dellecosystem-roots-per-lo-sviluppo-di-un-tema-total-custom/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core / Gutenberg にコードで貢献してみよう](https://wordpress.tv/2022/10/03/aki-hamano-core-gutenberg-code-contribution/)
 - [Koji Maruyama: 記事がもっと読まれる！GA4 とプラグイン QA を併用した時短アクセス解析手法](https://wordpress.tv/2022/10/03/koji-maruyama-ga4-plugin-qa-analytics/)
 - [Vertical rhythm: efficiency in WordPress theme layout](https://wordpress.tv/2022/10/01/vertical-rhythm-efficiency-in-wordpress-theme-layout/)
-- [Social media marketing for WordPress businesses](https://wordpress.tv/2022/09/30/social-media-marketing-for-wordpress-businesses/)
 <!-- WPTV:END -->
 
 ## Marketing
