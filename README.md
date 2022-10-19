@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [New design for HelpHub in WordPress.org](https://make.wordpress.org/docs/2022/10/19/new-design-for-helphub-in-wordpress-org/)
 - [The first ever Documentation team Contributor Day – 25th October, 2022](https://make.wordpress.org/docs/2022/10/19/the-first-ever-documentation-team-contributor-day-25th-october-2022/)
 - [Summary of Docs Team Meeting October 11, 2022](https://make.wordpress.org/docs/2022/10/11/summary-of-docs-team-meeting-october-11-2022/)
 - [X-post: Renaming WordPress.org Support to Documentation](https://make.wordpress.org/docs/2022/10/11/xpost-renaming-wordpress-org-support-to-documentation/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for Docs Team Bi-Weekly Meeting 27 September 2022](https://make.wordpress.org/docs/2022/09/14/agenda-for-docs-team-bi-weekly-meeting-27-september-2022/)
 - [Summary of Docs Team Meeting September 13, 2022](https://make.wordpress.org/docs/2022/09/14/summary-of-docs-team-meeting-september-13-2022/)
 - [Agenda for docs team bi-weekly meeting 13 September 2022](https://make.wordpress.org/docs/2022/09/12/agenda-for-docs-team-bi-weekly-meeting-13-september-2022/)
-- [X-post: WordCamp US 2022 Contributor Day: Summary](https://make.wordpress.org/docs/2022/09/11/xpost-wordcamp-us-2022-contributor-day-summary/)
 <!-- DOCS:END -->
 
 ### Support Articles
