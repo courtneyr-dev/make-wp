@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – Oct. 19, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/19/agenda-weekly-polyglots-chat-oct-19-2022-700-utc/)
 - [PTE Request for Sementes –…](https://make.wordpress.org/polyglots/2022/10/18/pte-request-for-sementes/)
 - [I am the plugin Contributor…](https://make.wordpress.org/polyglots/2022/10/18/i-am-the-plugin-contributor/)
 - [PTE Request for My Style Anytime](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-my-style-anytime/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Abs – Additional block styles](https://make.wordpress.org/polyglots/2022/10/14/pte-request-for-abs-additional-block-styles/)
 - [#editor-requests To complete the translation…](https://make.wordpress.org/polyglots/2022/10/14/editor-requests-to-complete-the-translation/)
 - [PTE Request for “Waiting for the tide” plugin](https://make.wordpress.org/polyglots/2022/10/13/pte-request-for-waiting-for-the-tide-plugin/)
-- [PTE Request for [all-in-one-wp-security-and-firewall]](https://make.wordpress.org/polyglots/2022/10/13/pte-request-for-all-in-one-wp-security-and-firewall/)
 <!-- POLYGLOTS:END -->
 
 ## Support
