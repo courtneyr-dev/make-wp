@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Create Unique ID plugin](https://jobs.wordpress.net/job/create-unique-id-plugin/)
 - [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-2/)
 - [Bug Fix: Lazy Loading Not Working](https://jobs.wordpress.net/job/bug-fix-lazy-loading-not-working/)
 - [Copywriter &lpar;French/English&rpar; – Remote](https://jobs.wordpress.net/job/copywriter-french-english-remote/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-15/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-9/)
 - [Senior Developer](https://jobs.wordpress.net/job/senior-developer-9/)
-- [IT &lpar;Plugin&rpar; Developer](https://jobs.wordpress.net/job/it-plugin-developer/)
 <!-- JOBS:END -->
 
 ## Central
