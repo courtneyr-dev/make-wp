@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/polyglots/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 - [PTE Request for MC WooCommerce Wishlist Plugin](https://make.wordpress.org/polyglots/2022/10/19/pte-request-for-mc-woocommerce-wishlist-plugin/)
 - [Agenda: Weekly Polyglots Chat – Oct. 19, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/19/agenda-weekly-polyglots-chat-oct-19-2022-700-utc/)
 - [PTE Request for Sementes –…](https://make.wordpress.org/polyglots/2022/10/18/pte-request-for-sementes/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-code-snippets/)
 - [PTE Request for Gift Pack For WooCommoerce Plugin](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-gift-pack-for-woocommoerce-plugin/)
 - [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/10/16/pte-request-for-parcel-panel-order-tracking-for-woocommerce/)
-- [PTE Request for Abs – Additional block styles](https://make.wordpress.org/polyglots/2022/10/14/pte-request-for-abs-additional-block-styles/)
 <!-- POLYGLOTS:END -->
 
 ## Support
