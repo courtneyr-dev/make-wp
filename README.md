@@ -527,9 +527,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-775/)
 - [Create Unique ID plugin](https://jobs.wordpress.net/job/create-unique-id-plugin/)
 - [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-2/)
-- [Bug Fix: Lazy Loading Not Working](https://jobs.wordpress.net/job/bug-fix-lazy-loading-not-working/)
 - [Copywriter &lpar;French/English&rpar; – Remote](https://jobs.wordpress.net/job/copywriter-french-english-remote/)
 - [Content Writer](https://jobs.wordpress.net/job/content-writer-19/)
+- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-9/)
 <!-- JOBS:END -->
 
 ## Central
