@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.1 Translation Status &lpar;October 20, 2022&rpar;](https://make.wordpress.org/polyglots/2022/10/20/wordpress-6-1-translation-status-october-20-2022/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/polyglots/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 - [PTE Request for MC WooCommerce Wishlist Plugin](https://make.wordpress.org/polyglots/2022/10/19/pte-request-for-mc-woocommerce-wishlist-plugin/)
 - [Agenda: Weekly Polyglots Chat – Oct. 19, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/19/agenda-weekly-polyglots-chat-oct-19-2022-700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for My Style Anytime](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-my-style-anytime/)
 - [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-code-snippets/)
 - [PTE Request for Gift Pack For WooCommoerce Plugin](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-gift-pack-for-woocommoerce-plugin/)
-- [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/10/16/pte-request-for-parcel-panel-order-tracking-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
