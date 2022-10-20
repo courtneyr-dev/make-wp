@@ -520,16 +520,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-776/)
+- [PHP/ WordPress Plugin Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-21/)
+- [Talent Acquisition Specialist](https://jobs.wordpress.net/job/talent-acquisition-specialist-2/)
+- [Technical SEO Manager](https://jobs.wordpress.net/job/technical-seo-manager/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-775/)
 - [Create Unique ID plugin](https://jobs.wordpress.net/job/create-unique-id-plugin/)
 - [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-2/)
 - [Bug Fix: Lazy Loading Not Working](https://jobs.wordpress.net/job/bug-fix-lazy-loading-not-working/)
 - [Copywriter &lpar;French/English&rpar; – Remote](https://jobs.wordpress.net/job/copywriter-french-english-remote/)
 - [Content Writer](https://jobs.wordpress.net/job/content-writer-19/)
-- [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-9/)
-- [Finish Website and build a page](https://jobs.wordpress.net/job/finish-website-and-build-a-page/)
-- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-15/)
-- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-9/)
 <!-- JOBS:END -->
 
 ## Central
