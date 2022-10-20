@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Displaying Style Variations for Supporting Themes](https://make.wordpress.org/meta/2022/10/20/displaying-style-variations-for-supporting-themes/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/meta/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 - [Renaming WordPress.org Support to Documentation](https://make.wordpress.org/meta/2022/10/11/renaming-wordpress-org-support-to-documentation/)
 - [X-post: Reclassification of end-user documentation](https://make.wordpress.org/meta/2022/10/05/xpost-reclassification-of-end-user-documentation/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Simplifying the Admin Bar &amp; Global Navigation Menu](https://make.wordpress.org/meta/2022/09/01/simplifying-the-admin-bar-global-navigation-menu/)
 - [Navigation](https://make.wordpress.org/meta/2022/08/18/navigation/)
 - [Developing the redesigned Home and Download Pages](https://make.wordpress.org/meta/2022/08/01/developing-the-redesigned-home-and-download-pages/)
-- [X-post: Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/meta/2022/07/27/xpost-project-update-wordpress-org-homepage-and-download-page-mockups/)
 <!-- META:END -->
 
 ## Training
