@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/10/21/hi-dear-mentors-we-have-99/)
 - [Polyglots Monthly Newsletter: October 2022](https://make.wordpress.org/polyglots/2022/10/21/polyglots-monthly-newsletter-october-2022/)
 - [CLPTE Request for Jetpack plugins](https://make.wordpress.org/polyglots/2022/10/21/clpte-request-for-jetpack-plugins/)
 - [PTE Request for Fygaro WC Plugin](https://make.wordpress.org/polyglots/2022/10/21/pte-request-for-fygaro-wc-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for MC WooCommerce Wishlist Plugin](https://make.wordpress.org/polyglots/2022/10/19/pte-request-for-mc-woocommerce-wishlist-plugin/)
 - [Agenda: Weekly Polyglots Chat – Oct. 19, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/19/agenda-weekly-polyglots-chat-oct-19-2022-700-utc/)
 - [PTE Request for Sementes –…](https://make.wordpress.org/polyglots/2022/10/18/pte-request-for-sementes/)
-- [Request for it_IT SVN access](https://make.wordpress.org/polyglots/2022/10/18/request-for-it_it-svn-access/)
 <!-- POLYGLOTS:END -->
 
 ## Support
