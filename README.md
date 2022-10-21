@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Flujo del Cliente: El diseño más óptimo para una web](https://wordpress.tv/2022/10/21/flujo-del-cliente-el-diseno-mas-optimo-para-una-web/)
 - [Stefan Kremer: International verkaufen – Sprachen, Währungen, Steuern.](https://wordpress.tv/2022/10/20/stefan-kremer-international-verkaufen-sprachen-waehrungen-steuern/)
 - [Adding a Contact Form to Your Site](https://wordpress.tv/2022/10/19/adding-a-contact-form-to-your-site/)
 - [Managing Settings: Media](https://wordpress.tv/2022/10/19/managing-settings-media/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-community-and-contribute/)
 - [Itsuko Miyake, Akira Tachibana: 翻訳を通してのコントリビュートとは](https://wordpress.tv/2022/10/03/itsuko-miyake-akira-tachibana-translation-contribution/)
 - [Tamayo Suzuki: 「WordPress でアフィリエイト」は儲かるの？マネタイズのお話し](https://wordpress.tv/2022/10/03/tamayo-suzuki-using-wordpress-and-affliate/)
-- [Core / Gutenberg にコードで貢献してみよう](https://wordpress.tv/2022/10/03/aki-hamano-core-gutenberg-code-contribution/)
 <!-- WPTV:END -->
 
 ## Marketing
