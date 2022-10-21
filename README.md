@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Deputy Training #4: WordCamp Process Flow](https://make.wordpress.org/community/2022/10/21/community-deputy-training-4-wordcamp-process-flow/)
 - [Report: Diverse Speaker Workshop September 2022](https://make.wordpress.org/community/2022/10/17/report-diverse-speaker-workshop-september-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on October 12, 2022](https://make.wordpress.org/community/2022/10/12/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-october-12-2022/)
 - [Upcoming #WPDiversity Events: October 2022](https://make.wordpress.org/community/2022/10/07/upcoming-wpdiversity-events-october-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Mentors’ October check-in!](https://make.wordpress.org/community/2022/10/04/wordcamp-mentors-october-check-in/)
 - [Help Improve the Make/Community Contributor Day Onboarding](https://make.wordpress.org/community/2022/09/30/help-improve-the-make-community-contributor-day-onboarding/)
 - [Help Improve the Overall Make/Community Onboarding](https://make.wordpress.org/community/2022/09/30/help-improve-the-overall-make-community-onboarding/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on September 28, 2022](https://make.wordpress.org/community/2022/09/29/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-september-28-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
