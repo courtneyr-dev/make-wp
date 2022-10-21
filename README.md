@@ -336,12 +336,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Hallway hangout: block theme development features in WordPress 6.1](https://wordpress.tv/2022/10/21/hallway-hangout-block-theme-development-features-in-wordpress-6-1/)
 - [Flujo del Cliente: El diseño más óptimo para una web](https://wordpress.tv/2022/10/21/flujo-del-cliente-el-diseno-mas-optimo-para-una-web/)
 - [Stefan Kremer: International verkaufen – Sprachen, Währungen, Steuern.](https://wordpress.tv/2022/10/20/stefan-kremer-international-verkaufen-sprachen-waehrungen-steuern/)
-- [Adding a Contact Form to Your Site](https://wordpress.tv/2022/10/19/adding-a-contact-form-to-your-site/)
-- [Managing Settings: Media](https://wordpress.tv/2022/10/19/managing-settings-media/)
+- [Adding a contact form to your site](https://wordpress.tv/2022/10/19/adding-a-contact-form-to-your-site/)
+- [Managing settings: media](https://wordpress.tv/2022/10/19/managing-settings-media/)
 - [Internationalization and localization](https://wordpress.tv/2022/10/19/internationalization-and-localization/)
-- [Part 1: Re-creating Block Designs](https://wordpress.tv/2022/10/17/part-1-re-creating-block-designs/)
+- [Re-creating block designs, part one](https://wordpress.tv/2022/10/17/part-1-re-creating-block-designs/)
 - [Leonardo Pinori: Utilizzo dei tools dell’ecosystem Roots per lo sviluppo di un tema total custom](https://wordpress.tv/2022/10/17/leonardo-pinori-utilizzo-dei-tools-dellecosystem-roots-per-lo-sviluppo-di-un-tema-total-custom/)
 - [Remote work, WordPress and life](https://wordpress.tv/2022/10/14/remote-work-wordpress-and-life/)
 - [Let’s code: creating custom templates and template parts](https://wordpress.tv/2022/10/14/lets-code-creating-custom-templates-and-template-parts/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO for business](https://wordpress.tv/2022/10/04/seo-for-business/)
 - [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-community-and-contribute/)
 - [Itsuko Miyake, Akira Tachibana: 翻訳を通してのコントリビュートとは](https://wordpress.tv/2022/10/03/itsuko-miyake-akira-tachibana-translation-contribution/)
-- [Tamayo Suzuki: 「WordPress でアフィリエイト」は儲かるの？マネタイズのお話し](https://wordpress.tv/2022/10/03/tamayo-suzuki-using-wordpress-and-affliate/)
 <!-- WPTV:END -->
 
 ## Marketing
