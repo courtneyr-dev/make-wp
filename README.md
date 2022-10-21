@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE Request for Jetpack plugins](https://make.wordpress.org/polyglots/2022/10/21/clpte-request-for-jetpack-plugins/)
+- [PTE Request for Fygaro WC Plugin](https://make.wordpress.org/polyglots/2022/10/21/pte-request-for-fygaro-wc-plugin/)
 - [Добрый день!](https://make.wordpress.org/polyglots/2022/10/20/%d0%b4%d0%be%d0%b1%d1%80%d1%8b%d0%b9-%d0%b4%d0%b5%d0%bd%d1%8c/)
 - [WordPress 6.1 Translation Status &lpar;October 20, 2022&rpar;](https://make.wordpress.org/polyglots/2022/10/20/wordpress-6-1-translation-status-october-20-2022/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/polyglots/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Sementes –…](https://make.wordpress.org/polyglots/2022/10/18/pte-request-for-sementes/)
 - [Request for it_IT SVN access](https://make.wordpress.org/polyglots/2022/10/18/request-for-it_it-svn-access/)
 - [I am the plugin Contributor…](https://make.wordpress.org/polyglots/2022/10/18/i-am-the-plugin-contributor/)
-- [PTE Request for My Style Anytime](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-my-style-anytime/)
-- [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2022/10/17/pte-request-for-code-snippets/)
 <!-- POLYGLOTS:END -->
 
 ## Support
