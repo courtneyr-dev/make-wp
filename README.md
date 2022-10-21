@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: WordPress.org Redesign Update](https://make.wordpress.org/support/2022/10/xpost-wordpress-org-redesign-update/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/support/2022/10/xpost-new-design-for-helphub-in-wordpress-org/)
 - [X-post: Renaming WordPress.org Support to Documentation](https://make.wordpress.org/support/2022/10/xpost-renaming-wordpress-org-support-to-documentation/)
 - [September 29th Support Team Meeting Summary](https://make.wordpress.org/support/2022/09/september-29th-support-team-meeting-summary-2/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Support Team Meeting – August 4, 2022](https://make.wordpress.org/support/2022/08/agenda-support-team-meeting-august-4-2022/)
 - [X-post: What’s new on LearnWP in July 2022](https://make.wordpress.org/support/2022/07/xpost-whats-new-on-learnwp-in-july-2022/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/support/2022/07/xpost-wcus2022-contributor-team-signup/)
-- [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/support/2022/06/xpost-whats-new-on-learnwp-in-may-2022/)
 <!-- SUPPORT:END -->
 
 ## Documentation
