@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Roles and Capabilities](https://wordpress.tv/2022/10/21/wordpress-roles-and-capabilities/)
 - [Let’s code: using block patterns in your block theme.](https://wordpress.tv/2022/10/21/lets-code-using-block-patterns-in-your-block-theme/)
 - [Hallway hangout: block theme development features in WordPress 6.1](https://wordpress.tv/2022/10/21/hallway-hangout-block-theme-development-features-in-wordpress-6-1/)
 - [Flujo del Cliente: El diseño más óptimo para una web](https://wordpress.tv/2022/10/21/flujo-del-cliente-el-diseno-mas-optimo-para-una-web/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [eCommerce best practices](https://wordpress.tv/2022/10/06/ecommerce-best-practices/)
 - [E-learning with WordPress](https://wordpress.tv/2022/10/05/e-learning-with-wordpress/)
 - [SEO for business](https://wordpress.tv/2022/10/04/seo-for-business/)
-- [Junko Nukaga, Naoko Takano, Shusei Toda: コミュニティ活動とコントリビュート 〜日本の WordPress コミュニティのこれまでと今とこれから〜](https://wordpress.tv/2022/10/03/junko-nukaga-naoko-takano-shusei-toda-community-and-contribute/)
 <!-- WPTV:END -->
 
 ## Marketing
