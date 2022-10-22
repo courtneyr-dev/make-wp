@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [行ブロック・縦積みブロックでレスポンシブデザインを体験](https://wordpress.tv/2022/10/22/%e8%a1%8c%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%bb%e7%b8%a6%e7%a9%8d%e3%81%bf%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%ac%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b7%e3%83%96%e3%83%87%e3%82%b6/)
 - [WordPress Roles and Capabilities](https://wordpress.tv/2022/10/21/wordpress-roles-and-capabilities/)
 - [Let’s code: using block patterns in your block theme.](https://wordpress.tv/2022/10/21/lets-code-using-block-patterns-in-your-block-theme/)
 - [Hallway hangout: block theme development features in WordPress 6.1](https://wordpress.tv/2022/10/21/hallway-hangout-block-theme-development-features-in-wordpress-6-1/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Basic blogging for beginners](https://wordpress.tv/2022/10/07/basic-blogging-for-beginners/)
 - [eCommerce best practices](https://wordpress.tv/2022/10/06/ecommerce-best-practices/)
 - [E-learning with WordPress](https://wordpress.tv/2022/10/05/e-learning-with-wordpress/)
-- [SEO for business](https://wordpress.tv/2022/10/04/seo-for-business/)
 <!-- WPTV:END -->
 
 ## Marketing
