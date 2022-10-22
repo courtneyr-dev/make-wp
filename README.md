@@ -520,6 +520,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Video Creator](https://jobs.wordpress.net/job/video-creator/)
+- [Wanted: Hungry full stack WordPress developer for website rebuild and ongoing contract work [remote – Americas]](https://jobs.wordpress.net/job/wanted-hungry-full-stack-wordpress-developer-for-website-rebuild-and-ongoing-contract-work-remote-americas/)
+- [WordPress Copywriter](https://jobs.wordpress.net/job/wordpress-copywriter/)
 - [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-2/)
 - [WordPress Developer – single template](https://jobs.wordpress.net/job/wordpress-developer-single-template/)
 - [Frontend Developer – Gutenberg Full Site Editing](https://jobs.wordpress.net/job/frontend-developer-gutenberg-full-site-editing/)
@@ -527,9 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PHP/ WordPress Plugin Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-21/)
 - [Talent Acquisition Specialist](https://jobs.wordpress.net/job/talent-acquisition-specialist-2/)
 - [Technical SEO Manager](https://jobs.wordpress.net/job/technical-seo-manager/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-775/)
-- [Create Unique ID plugin](https://jobs.wordpress.net/job/create-unique-id-plugin/)
-- [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-2/)
 <!-- JOBS:END -->
 
 ## Central
