@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/23/pte-request-for-simple-cloudflare-turnstile/)
 - [PTE Request for Fastest Store and Apparel Store](https://make.wordpress.org/polyglots/2022/10/22/pte-request-for-fastest-store-and-apparel-store/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/10/21/hi-dear-mentors-we-have-99/)
 - [Polyglots Monthly Newsletter: October 2022](https://make.wordpress.org/polyglots/2022/10/21/polyglots-monthly-newsletter-october-2022/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.1 Translation Status &lpar;October 20, 2022&rpar;](https://make.wordpress.org/polyglots/2022/10/20/wordpress-6-1-translation-status-october-20-2022/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/polyglots/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 - [PTE Request for MC WooCommerce Wishlist Plugin](https://make.wordpress.org/polyglots/2022/10/19/pte-request-for-mc-woocommerce-wishlist-plugin/)
-- [Agenda: Weekly Polyglots Chat – Oct. 19, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/19/agenda-weekly-polyglots-chat-oct-19-2022-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
