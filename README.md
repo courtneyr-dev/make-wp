@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design Share: Oct 10-Oct 21](https://make.wordpress.org/design/2022/10/24/design-share-oct-10-oct-21/)
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/design/2022/10/21/xpost-wordpress-org-redesign-update/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/design/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 - [X-post: Renaming WordPress.org Support to Documentation](https://make.wordpress.org/design/2022/10/11/xpost-renaming-wordpress-org-support-to-documentation/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share: Aug 28-Sep 9](https://make.wordpress.org/design/2022/09/12/design-share-aug-28-sep-9/)
 - [TT3 default theme: Announcing style variation selections](https://make.wordpress.org/design/2022/09/07/tt3-default-theme-announcing-style-variation-selections/)
 - [Design Share: Aug 15-26](https://make.wordpress.org/design/2022/08/29/design-share-aug-15-26/)
-- [TT3 default theme: One week left to submit style variations](https://make.wordpress.org/design/2022/08/24/tt3-default-theme-one-week-left-to-submit-style-variations/)
 <!-- DESIGN:END -->
 
 ## Mobile
