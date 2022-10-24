@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [El color y el tamaño factores clave para la legibilidad del texto](https://wordpress.tv/2022/10/23/el-color-y-el-tamano-factores-clave-para-la-legibilidad-del-texto/)
 - [Datenschutz 2022 für WordPress-website &lpar;DE&rpar;](https://wordpress.tv/2022/10/23/datenschutz-2022-fur-wordpress-website-de/)
 - [Podcasting with WordPress](https://wordpress.tv/2022/10/22/podcasting-with-wordpress-2019/)
 - [行ブロック・縦積みブロックでレスポンシブデザインを体験](https://wordpress.tv/2022/10/22/%e8%a1%8c%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%bb%e7%b8%a6%e7%a9%8d%e3%81%bf%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%ac%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b7%e3%83%96%e3%83%87%e3%82%b6/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Así me hice podcaster](https://wordpress.tv/2022/10/10/asi-me-hice-podcaster/)
 - [WordCamp Jinja 2022 panel discussion](https://wordpress.tv/2022/10/08/wordcamp-jinja-2022-panel-discussion/)
 - [How to get and retain web design clients](https://wordpress.tv/2022/10/07/how-to-get-and-retain-web-design-clients/)
-- [Basic blogging for beginners](https://wordpress.tv/2022/10/07/basic-blogging-for-beginners/)
 <!-- WPTV:END -->
 
 ## Marketing
