@@ -280,6 +280,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code! Global Styles Variations in Block Themes](https://learn.wordpress.org/?meeting=lets-code-global-styles-variations-in-block-themes)
 - [WordPress development live stream: Global Styles](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-global-styles)
 - [WordPress Roles and Capabilities](https://learn.wordpress.org/?meeting=wordpress-roles-and-capabilities-2)
 - [Block &amp; Theme Global Styles Customization](https://learn.wordpress.org/?meeting=block-theme-global-styles-customization-2)
@@ -304,7 +305,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Part 2: Re-Creating Block Designs](https://learn.wordpress.org/?meeting=part-2-re-creating-block-designs)
 - [Part 1: Re-Creating Block Designs](https://learn.wordpress.org/?meeting=part-1-re-creating-block-designs)
 - [Media Tips &amp; Tricks](https://learn.wordpress.org/?meeting=media-tips-tricks)
-- [Code with me:  code your first settings in theme.json](https://learn.wordpress.org/?meeting=code-with-me-code-your-first-settings-in-theme-json)
 <!-- SLS:END -->
 
 ## Test
