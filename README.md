@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for pretty-google-calendar](https://make.wordpress.org/polyglots/2022/10/24/pte-request-for-pretty-google-calendar/)
+- [PTE Request for [Gtbabel]](https://make.wordpress.org/polyglots/2022/10/24/pte-request-for-gtbabel/)
 - [Hello! can you please check…](https://make.wordpress.org/polyglots/2022/10/24/hello-can-you-please-check/)
 - [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/23/pte-request-for-simple-cloudflare-turnstile/)
 - [PTE Request for Fastest Store and Apparel Store](https://make.wordpress.org/polyglots/2022/10/22/pte-request-for-fastest-store-and-apparel-store/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE Request for Jetpack plugins](https://make.wordpress.org/polyglots/2022/10/21/clpte-request-for-jetpack-plugins/)
 - [PTE Request for Fygaro WC Plugin](https://make.wordpress.org/polyglots/2022/10/21/pte-request-for-fygaro-wc-plugin/)
 - [Добрый день!](https://make.wordpress.org/polyglots/2022/10/20/%d0%b4%d0%be%d0%b1%d1%80%d1%8b%d0%b9-%d0%b4%d0%b5%d0%bd%d1%8c/)
-- [WordPress 6.1 Translation Status &lpar;October 20, 2022&rpar;](https://make.wordpress.org/polyglots/2022/10/20/wordpress-6-1-translation-status-october-20-2022/)
-- [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/polyglots/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 <!-- POLYGLOTS:END -->
 
 ## Support
