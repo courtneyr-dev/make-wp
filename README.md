@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Anatomy of accessible forms](https://wordpress.tv/2022/10/24/anatomy-of-accessible-forms/)
 - [¿Es WordPress seguro? Depende de ti](https://wordpress.tv/2022/10/23/es-wordpress-seguro-depende-de-ti/)
 - [El color y el tamaño factores clave para la legibilidad del texto](https://wordpress.tv/2022/10/23/el-color-y-el-tamano-factores-clave-para-la-legibilidad-del-texto/)
 - [Datenschutz 2022 für WordPress-website &lpar;DE&rpar;](https://wordpress.tv/2022/10/23/datenschutz-2022-fur-wordpress-website-de/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Where is WordPress’ place in the website creator economy?](https://wordpress.tv/2022/10/10/where-is-wordpress-place-in-the-website-creator-economy/)
 - [How WordPress changed my life](https://wordpress.tv/2022/10/10/how-wordpress-changed-my-life/)
 - [Así me hice podcaster](https://wordpress.tv/2022/10/10/asi-me-hice-podcaster/)
-- [WordCamp Jinja 2022 panel discussion](https://wordpress.tv/2022/10/08/wordcamp-jinja-2022-panel-discussion/)
 <!-- WPTV:END -->
 
 ## Marketing
