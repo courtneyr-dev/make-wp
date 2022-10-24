@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [developer](https://jobs.wordpress.net/job/developer-68/)
 - [[WordLift] Front-End Developer](https://jobs.wordpress.net/job/wordlift-front-end-developer/)
 - [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-3/)
 - [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-3/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support and intervention developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml-3/)
 - [Blog Writer |WordPress|Content Writing|Copywriting|Software Writing|Marketing|](https://jobs.wordpress.net/job/blog-writer-wordpresscontent-writingcopywritingsoftware-writingmarketing/)
 - [HR and Finance Assistant |HR|Finance|Bookkeeping|Accounting|Payroll|](https://jobs.wordpress.net/job/hr-and-finance-assistant-hrfinancebookkeepingaccountingpayroll/)
-- [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter/)
 <!-- JOBS:END -->
 
 ## Central
