@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat summary, October 19, 2022](https://make.wordpress.org/core/2022/10/24/dev-chat-summary-october-19-2022/)
+- [Performance Chat Agenda: 25 October 2022](https://make.wordpress.org/core/2022/10/24/performance-chat-agenda-25-october-2022/)
 - [Multisite registration and activation pages have new HTML and CSS](https://make.wordpress.org/core/2022/10/20/multisite-registration-and-activation-pages-have-new-html-and-css/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/core/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 - [A Week in Core – October 17, 2022](https://make.wordpress.org/core/2022/10/19/a-week-in-core-october-17-2022/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 18 October 2022](https://make.wordpress.org/core/2022/10/18/performance-team-meeting-summary-11-october-2022-2/)
 - [Dev chat summary, October 12, 2022](https://make.wordpress.org/core/2022/10/17/dev-chat-summary-october-12-2022/)
 - [Performance Chat Agenda: 18 October 2022](https://make.wordpress.org/core/2022/10/17/performance-chat-agenda-18-october-2022/)
-- [Global terms removed in WordPress 6.1](https://make.wordpress.org/core/2022/10/14/global-terms-removed-in-wordpress-6-1/)
-- [Editor chat summary: 12 October 2022](https://make.wordpress.org/core/2022/10/13/editor-chat-summary-october-12-2022/)
 <!-- CORE:END -->
 
 ## Design
