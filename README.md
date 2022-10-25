@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Website optimization the right way](https://wordpress.tv/2022/10/25/website-optimization-the-right-way/)
 - [Las claves de una buena comunicación entre Desarrollador y Diseñador](https://wordpress.tv/2022/10/25/las-claves-de-una-buena-comunicacion-entre-desarrollador-y-disenador/)
 - [Optimización del Diseño UX y Experimentos con WordPress](https://wordpress.tv/2022/10/25/optimizacion-del-diseno-ux-y-experimentos-con-wordpress/)
 - [La percepción visual y la memoria: cómo ganar en la web gracias a una mejor comunicación visual](https://wordpress.tv/2022/10/25/la-percepcion-visual-y-la-memoria-como-ganar-en-la-web-gracias-a-una-mejor-comunicacion-visual/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway hangout: block theme development features in WordPress 6.1](https://wordpress.tv/2022/10/21/hallway-hangout-block-theme-development-features-in-wordpress-6-1/)
 - [Flujo del Cliente: El diseño más óptimo para una web](https://wordpress.tv/2022/10/21/flujo-del-cliente-el-diseno-mas-optimo-para-una-web/)
 - [Stefan Kremer: International verkaufen – Sprachen, Währungen, Steuern.](https://wordpress.tv/2022/10/20/stefan-kremer-international-verkaufen-sprachen-waehrungen-steuern/)
-- [Adding a contact form to your site](https://wordpress.tv/2022/10/19/adding-a-contact-form-to-your-site/)
 <!-- WPTV:END -->
 
 ## Marketing
