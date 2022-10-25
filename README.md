@@ -421,6 +421,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Storing provider supplied thumbnails](https://make.wordpress.org/openverse/2022/10/25/storing-provider-supplied-thumbnails/)
 - [Community Meeting Recap &lpar;18 October 2022&rpar;](https://make.wordpress.org/openverse/2022/10/20/community-meeting-recap-18-october-2022/)
 - [Community Meeting Recap &lpar;11 October 2022&rpar;](https://make.wordpress.org/openverse/2022/10/13/community-meeting-recap-11-october-2022/)
 - [Next steps for Thingiverse data](https://make.wordpress.org/openverse/2022/10/10/next-steps-for-thingiverse-data/)
@@ -430,7 +431,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Openverse Monthly Priorities Meeting 2022-10-05](https://make.wordpress.org/openverse/2022/09/30/openverse-monthly-priorities-meeting-2022-10-05/)
 - [Community Meeting Recap &lpar;27 September 2022&rpar;](https://make.wordpress.org/openverse/2022/09/27/community-meeting-recap-27-september-2022/)
 - [Community Meeting Recap &lpar;20 September 2022&rpar;](https://make.wordpress.org/openverse/2022/09/20/community-meeting-recap-20-september-2022/)
-- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/openverse/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 <!-- OPENVERSE:END -->
 
 ## Photos
