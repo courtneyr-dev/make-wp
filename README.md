@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor chat summary: Wednesday, 20 October 2022](https://make.wordpress.org/core/2022/10/24/editor-chat-summary-wednesday-20-october-2022/)
+- [A Week in Core – October 24, 2022](https://make.wordpress.org/core/2022/10/24/a-week-in-core-october-24-2022/)
 - [Editor Chat Agenda: October 26th 2022](https://make.wordpress.org/core/2022/10/24/editor-chat-agenda-october-26th-2022/)
 - [Dev Chat summary, October 19, 2022](https://make.wordpress.org/core/2022/10/24/dev-chat-summary-october-19-2022/)
 - [Performance Chat Agenda: 25 October 2022](https://make.wordpress.org/core/2022/10/24/performance-chat-agenda-25-october-2022/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Week in Core – October 17, 2022](https://make.wordpress.org/core/2022/10/19/a-week-in-core-october-17-2022/)
 - [Editor Chat Agenda: October 19, 2022](https://make.wordpress.org/core/2022/10/18/editor-chat-agenda-october-19-2022/)
 - [Dev Chat agenda, October 19, 2022](https://make.wordpress.org/core/2022/10/18/dev-chat-agenda-october-19-2022/)
-- [Performance Chat Summary: 18 October 2022](https://make.wordpress.org/core/2022/10/18/performance-team-meeting-summary-11-october-2022-2/)
-- [Dev chat summary, October 12, 2022](https://make.wordpress.org/core/2022/10/17/dev-chat-summary-october-12-2022/)
 <!-- CORE:END -->
 
 ## Design
