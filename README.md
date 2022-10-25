@@ -336,6 +336,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2022/10/25/bienvenida-a-la-wordcamp-valencia/)
+- [¿Y tu web qué?, Diseño para desarrolladores que quieren vender con su web](https://wordpress.tv/2022/10/25/y-tu-web-que-diseno-para-desarrolladores-que-quieren-vender-con-su-web/)
+- [Precios x10 y 99% de presupuestos aceptados. ¿Utopía o enfoque inteligente a los servicios web?](https://wordpress.tv/2022/10/25/precios-x10-y-99-de-presupuestos-aceptados-utopia-o-enfoque-inteligente-a-los-servicios-web/)
+- [Si vas a hackear, ¡hazlo bonito! Guía de estilo](https://wordpress.tv/2022/10/25/si-vas-a-hackear-hazlo-bonito-guia-de-estilo/)
+- [Diseña tu entrada al Metaverso con WordPress](https://wordpress.tv/2022/10/25/disena-tu-entrada-al-metaverso-con-wordpress/)
 - [Conceptos básicos y pilares para desarrollar con CSS](https://wordpress.tv/2022/10/24/conceptos-basicos-y-pilares-para-desarrollar-con-css/)
 - [Tipografía fluida en WordPress](https://wordpress.tv/2022/10/24/tipografia-fluida-en-wordpress/)
 - [Anatomy of accessible forms](https://wordpress.tv/2022/10/24/anatomy-of-accessible-forms/)
@@ -356,11 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Leonardo Pinori: Utilizzo dei tools dell’ecosystem Roots per lo sviluppo di un tema total custom](https://wordpress.tv/2022/10/17/leonardo-pinori-utilizzo-dei-tools-dellecosystem-roots-per-lo-sviluppo-di-un-tema-total-custom/)
 - [Remote work, WordPress and life](https://wordpress.tv/2022/10/14/remote-work-wordpress-and-life/)
 - [Let’s code: creating custom templates and template parts](https://wordpress.tv/2022/10/14/lets-code-creating-custom-templates-and-template-parts/)
-- [Contributing to the WordPress mobile apps](https://wordpress.tv/2022/10/13/contributing-to-the-wordpress-mobile-apps/)
-- [Uncovering the cover block](https://wordpress.tv/2022/10/13/uncovering-the-cover-block/)
-- [Build a fast WordPress site using React with Frontity](https://wordpress.tv/2022/10/12/build-a-fast-wordpress-site-using-react-with-frontity/)
-- [Working with REST APIs and webhooks in WordPress](https://wordpress.tv/2022/10/11/working-with-rest-apis-and-webhooks-in-wordpress/)
-- [Where is WordPress’ place in the website creator economy?](https://wordpress.tv/2022/10/10/where-is-wordpress-place-in-the-website-creator-economy/)
 <!-- WPTV:END -->
 
 ## Marketing
