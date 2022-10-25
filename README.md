@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Prayer II](https://make.wordpress.org/polyglots/2022/10/25/pte-request-for-wp-prayer-ii/)
 - [Hello!](https://make.wordpress.org/polyglots/2022/10/25/hello-69/)
 - [PTE Request for pretty-google-calendar](https://make.wordpress.org/polyglots/2022/10/24/pte-request-for-pretty-google-calendar/)
 - [PTE Request for [Gtbabel]](https://make.wordpress.org/polyglots/2022/10/24/pte-request-for-gtbabel/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/10/21/hi-dear-mentors-we-have-99/)
 - [Polyglots Monthly Newsletter: October 2022](https://make.wordpress.org/polyglots/2022/10/21/polyglots-monthly-newsletter-october-2022/)
 - [CLPTE Request for Jetpack plugins](https://make.wordpress.org/polyglots/2022/10/21/clpte-request-for-jetpack-plugins/)
-- [PTE Request for Fygaro WC Plugin](https://make.wordpress.org/polyglots/2022/10/21/pte-request-for-fygaro-wc-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
