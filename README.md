@@ -336,6 +336,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Las claves de una buena comunicación entre Desarrollador y Diseñador](https://wordpress.tv/2022/10/25/las-claves-de-una-buena-comunicacion-entre-desarrollador-y-disenador/)
+- [Optimización del Diseño UX y Experimentos con WordPress](https://wordpress.tv/2022/10/25/optimizacion-del-diseno-ux-y-experimentos-con-wordpress/)
+- [La percepción visual y la memoria: cómo ganar en la web gracias a una mejor comunicación visual](https://wordpress.tv/2022/10/25/la-percepcion-visual-y-la-memoria-como-ganar-en-la-web-gracias-a-una-mejor-comunicacion-visual/)
+- [Creando la imagen de WCEU en equipo](https://wordpress.tv/2022/10/25/creando-la-imagen-de-wceu-en-equipo/)
+- [Desarrollo de WordPress impulsado por el diseño](https://wordpress.tv/2022/10/25/desarrollo-de-wordpress-impulsado-por-el-diseno/)
+- [Design to Sell: Como destacar en la era del blanding](https://wordpress.tv/2022/10/25/design-to-sell-como-destacar-en-la-era-del-blanding/)
 - [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2022/10/25/bienvenida-a-la-wordcamp-valencia/)
 - [¿Y tu web qué?, Diseño para desarrolladores que quieren vender con su web](https://wordpress.tv/2022/10/25/y-tu-web-que-diseno-para-desarrolladores-que-quieren-vender-con-su-web/)
 - [Precios x10 y 99% de presupuestos aceptados. ¿Utopía o enfoque inteligente a los servicios web?](https://wordpress.tv/2022/10/25/precios-x10-y-99-de-presupuestos-aceptados-utopia-o-enfoque-inteligente-a-los-servicios-web/)
@@ -355,12 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Flujo del Cliente: El diseño más óptimo para una web](https://wordpress.tv/2022/10/21/flujo-del-cliente-el-diseno-mas-optimo-para-una-web/)
 - [Stefan Kremer: International verkaufen – Sprachen, Währungen, Steuern.](https://wordpress.tv/2022/10/20/stefan-kremer-international-verkaufen-sprachen-waehrungen-steuern/)
 - [Adding a contact form to your site](https://wordpress.tv/2022/10/19/adding-a-contact-form-to-your-site/)
-- [Managing settings: media](https://wordpress.tv/2022/10/19/managing-settings-media/)
-- [Internationalization and localization](https://wordpress.tv/2022/10/19/internationalization-and-localization/)
-- [Re-creating block designs, part one](https://wordpress.tv/2022/10/17/part-1-re-creating-block-designs/)
-- [Leonardo Pinori: Utilizzo dei tools dell’ecosystem Roots per lo sviluppo di un tema total custom](https://wordpress.tv/2022/10/17/leonardo-pinori-utilizzo-dei-tools-dellecosystem-roots-per-lo-sviluppo-di-un-tema-total-custom/)
-- [Remote work, WordPress and life](https://wordpress.tv/2022/10/14/remote-work-wordpress-and-life/)
-- [Let’s code: creating custom templates and template parts](https://wordpress.tv/2022/10/14/lets-code-creating-custom-templates-and-template-parts/)
 <!-- WPTV:END -->
 
 ## Marketing
