@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE request for BedBooking plugin](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-bedbooking-plugin/)
 - [CLPTE Request for Order Sync with Zendesk for WooCommerce](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-order-sync-with-zendesk-for-woocommerce/)
 - [Agenda: Weekly Polyglots Chat – Oct. 26, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/25/agenda-weekly-polyglots-chat-oct-26-2022-1300-utc/)
 - [Hello, i’ve translated the followin…](https://make.wordpress.org/polyglots/2022/10/25/hello-ive-translated-the-followin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Gtbabel]](https://make.wordpress.org/polyglots/2022/10/24/pte-request-for-gtbabel/)
 - [Hello! can you please check…](https://make.wordpress.org/polyglots/2022/10/24/hello-can-you-please-check/)
 - [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/23/pte-request-for-simple-cloudflare-turnstile/)
-- [PTE Request for Fastest Store and Apparel Store](https://make.wordpress.org/polyglots/2022/10/22/pte-request-for-fastest-store-and-apparel-store/)
 <!-- POLYGLOTS:END -->
 
 ## Support
