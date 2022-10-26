@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Headless WordPress with React](https://wordpress.tv/2022/10/26/headless-wordpress-with-react/)
 - [Carlota Galván: No me estires el logo](https://wordpress.tv/2022/10/26/carlota-galvan-no-me-estires-el-logo/)
 - [Fernando Tellado: ¿Es más rápido diseñar con Wix que con WordPress?](https://wordpress.tv/2022/10/26/fernando-tellado-es-mas-rapido-disenar-con-wix-que-con-wordpress/)
 - [Juan Seguí, Ana Gavilán, Piccia Neri, Santiago Alonso, Julián Ruiz: Mesa redonda: «LOS LÍMITES DEL DISEÑO»](https://wordpress.tv/2022/10/26/juan-segui-ana-gavilan-piccia-neri-santiago-alonso-julian-ruiz-mesa-redonda-los-limites-del-diseno/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Podcasting with WordPress](https://wordpress.tv/2022/10/22/podcasting-with-wordpress-2019/)
 - [行ブロック・縦積みブロックでレスポンシブデザインを体験](https://wordpress.tv/2022/10/22/%e8%a1%8c%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%bb%e7%b8%a6%e7%a9%8d%e3%81%bf%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%ac%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b7%e3%83%96%e3%83%87%e3%82%b6/)
 - [WordPress roles and capabilities](https://wordpress.tv/2022/10/21/wordpress-roles-and-capabilities/)
-- [Let’s code: using block patterns in your block theme](https://wordpress.tv/2022/10/21/lets-code-using-block-patterns-in-your-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
