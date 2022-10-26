@@ -336,6 +336,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Fernando Tellado: ¿Es más rápido diseñar con Wix que con WordPress?](https://wordpress.tv/2022/10/26/fernando-tellado-es-mas-rapido-disenar-con-wix-que-con-wordpress/)
+- [Juan Seguí, Ana Gavilán, Piccia Neri, Santiago Alonso, Julián Ruiz: Mesa redonda: «LOS LÍMITES DEL DISEÑO»](https://wordpress.tv/2022/10/26/juan-segui-ana-gavilan-piccia-neri-santiago-alonso-julian-ruiz-mesa-redonda-los-limites-del-diseno/)
 - [Website optimization the right way](https://wordpress.tv/2022/10/25/website-optimization-the-right-way/)
 - [Las claves de una buena comunicación entre Desarrollador y Diseñador](https://wordpress.tv/2022/10/25/las-claves-de-una-buena-comunicacion-entre-desarrollador-y-disenador/)
 - [Optimización del Diseño UX y Experimentos con WordPress](https://wordpress.tv/2022/10/25/optimizacion-del-diseno-ux-y-experimentos-con-wordpress/)
@@ -359,8 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress roles and capabilities](https://wordpress.tv/2022/10/21/wordpress-roles-and-capabilities/)
 - [Let’s code: using block patterns in your block theme](https://wordpress.tv/2022/10/21/lets-code-using-block-patterns-in-your-block-theme/)
 - [Hallway hangout: block theme development features in WordPress 6.1](https://wordpress.tv/2022/10/21/hallway-hangout-block-theme-development-features-in-wordpress-6-1/)
-- [Flujo del Cliente: El diseño más óptimo para una web](https://wordpress.tv/2022/10/21/flujo-del-cliente-el-diseno-mas-optimo-para-una-web/)
-- [Stefan Kremer: International verkaufen – Sprachen, Währungen, Steuern.](https://wordpress.tv/2022/10/20/stefan-kremer-international-verkaufen-sprachen-waehrungen-steuern/)
 <!-- WPTV:END -->
 
 ## Marketing
