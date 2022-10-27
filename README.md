@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Tools: Import and Export](https://learn.wordpress.org/tutorial/tools-import-and-export/)
 - [Adding a Contact Form to Your Site](https://learn.wordpress.org/tutorial/adding-a-contact-form-to-your-site/)
 - [Managing Settings: Media](https://learn.wordpress.org/tutorial/managing-settings-media/)
 - [Uncovering the Cover Block](https://learn.wordpress.org/tutorial/uncovering-the-cover-block/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Schema with WordPress theme.json](https://learn.wordpress.org/tutorial/using-schema-with-wordpress-theme-json/)
 - [Anatomy of a Block Theme](https://learn.wordpress.org/tutorial/anatomy-of-a-block-theme/)
 - [Choosing and Installing Theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
-- [Creating a Front Page for a Block Theme](https://learn.wordpress.org/tutorial/creating-a-front-page-for-a-block-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
