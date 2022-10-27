@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using Composer with WordPress](https://wordpress.tv/2022/10/27/using-composer-with-wordpress/)
 - [Tools: Import and Export](https://wordpress.tv/2022/10/26/tools-import-and-export/)
 - [A brief history of WordPress](https://wordpress.tv/2022/10/26/a-brief-history-of-wordpress/)
 - [Headless WordPress with React](https://wordpress.tv/2022/10/26/headless-wordpress-with-react/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Es WordPress seguro? Depende de ti](https://wordpress.tv/2022/10/23/es-wordpress-seguro-depende-de-ti/)
 - [El color y el tamaño factores clave para la legibilidad del texto](https://wordpress.tv/2022/10/23/el-color-y-el-tamano-factores-clave-para-la-legibilidad-del-texto/)
 - [Datenschutz 2022 für WordPress-website &lpar;DE&rpar;](https://wordpress.tv/2022/10/23/datenschutz-2022-fur-wordpress-website-de/)
-- [Podcasting with WordPress](https://wordpress.tv/2022/10/22/podcasting-with-wordpress-2019/)
 <!-- WPTV:END -->
 
 ## Marketing
