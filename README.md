@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Multisite registration and activation pages have new HTML and CSS](https://make.wordpress.org/themes/2022/10/27/xpost-multisite-registration-and-activation-pages-have-new-html-and-css/)
 - [Themes Team Meeting Notes – October 25, 2022](https://make.wordpress.org/themes/2022/10/25/themes-team-meeting-notes-october-25-2022/)
 - [Themes team meeting agenda for October 25, 2022](https://make.wordpress.org/themes/2022/10/24/themes-team-meeting-agenda-for-october-25-2022/)
 - [X-post: Displaying Style Variations for Supporting Themes](https://make.wordpress.org/themes/2022/10/20/xpost-displaying-style-variations-for-supporting-themes/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for October 11, 2022](https://make.wordpress.org/themes/2022/10/10/themes-team-meeting-agenda-for-october-11-2022/)
 - [X-post: Introducing “Update URI” theme header in WordPress 6.1](https://make.wordpress.org/themes/2022/10/07/xpost-introducing-update-uri-theme-header-in-wordpress-6-1/)
 - [X-post: Themes team update October 04, 2022](https://make.wordpress.org/themes/2022/10/04/xpost-themes-team-update-october-04-2022/)
-- [Themes Team Meeting Notes – September 27, 2022](https://make.wordpress.org/themes/2022/09/28/themes-team-meeting-notes-september-27-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
