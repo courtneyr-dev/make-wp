@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Software Engineer](https://jobs.wordpress.net/job/senior-wordpress-software-engineer/)
 - [Principal WordPress Engineer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/principal-wordpress-engineer-remote/)
 - [developer](https://jobs.wordpress.net/job/developer-68/)
 - [[WordLift] Front-End Developer](https://jobs.wordpress.net/job/wordlift-front-end-developer/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Social Media Manager |Benchmark|Strategy|Design|Creation|SEO|Marketing|](https://jobs.wordpress.net/job/social-media-manager-benchmarkstrategydesigncreationseomarketing-3/)
 - [CampusPress support and developer |Coding|WordPress|PHP+MySQL or HTML+CSS|](https://jobs.wordpress.net/job/campuspress-support-and-developer-codingwordpressphpmysql-or-htmlcss-3/)
 - [Support and intervention developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml-3/)
-- [Blog Writer |WordPress|Content Writing|Copywriting|Software Writing|Marketing|](https://jobs.wordpress.net/job/blog-writer-wordpresscontent-writingcopywritingsoftware-writingmarketing/)
 <!-- JOBS:END -->
 
 ## Central
