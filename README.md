@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-parcel-panel-order-tracking-for-woocommerce-2/)
+- [For become editor translator &lpar;PTE&rpar;](https://make.wordpress.org/polyglots/2022/10/27/for-become-editor-translator-pte/)
 - [CLPTE request for BedBooking plugin](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-bedbooking-plugin/)
 - [CLPTE Request for Order Sync with Zendesk for WooCommerce](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-order-sync-with-zendesk-for-woocommerce/)
 - [Agenda: Weekly Polyglots Chat – Oct. 26, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/25/agenda-weekly-polyglots-chat-oct-26-2022-1300-utc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello!](https://make.wordpress.org/polyglots/2022/10/25/hello-69/)
 - [PTE Request for pretty-google-calendar](https://make.wordpress.org/polyglots/2022/10/24/pte-request-for-pretty-google-calendar/)
 - [PTE Request for [Gtbabel]](https://make.wordpress.org/polyglots/2022/10/24/pte-request-for-gtbabel/)
-- [Hello! can you please check…](https://make.wordpress.org/polyglots/2022/10/24/hello-can-you-please-check/)
-- [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/23/pte-request-for-simple-cloudflare-turnstile/)
 <!-- POLYGLOTS:END -->
 
 ## Support
