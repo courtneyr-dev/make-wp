@@ -336,7 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [A Brief History of WordPress](https://wordpress.tv/2022/10/26/a-brief-history-of-wordpress/)
+- [A brief history of WordPress](https://wordpress.tv/2022/10/26/a-brief-history-of-wordpress/)
 - [Headless WordPress with React](https://wordpress.tv/2022/10/26/headless-wordpress-with-react/)
 - [Carlota Galván: No me estires el logo](https://wordpress.tv/2022/10/26/carlota-galvan-no-me-estires-el-logo/)
 - [Fernando Tellado: ¿Es más rápido diseñar con Wix que con WordPress?](https://wordpress.tv/2022/10/26/fernando-tellado-es-mas-rapido-disenar-con-wix-que-con-wordpress/)
