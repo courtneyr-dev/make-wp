@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Atr Portfolio and other plugins](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-atr-portfolio-and-other-plugins/)
 - [I have created a new…](https://make.wordpress.org/polyglots/2022/10/27/i-have-created-a-new/)
 - [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-parcel-panel-order-tracking-for-woocommerce-2/)
 - [For become editor translator &lpar;PTE&rpar;](https://make.wordpress.org/polyglots/2022/10/27/for-become-editor-translator-pte/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, i’ve translated the followin…](https://make.wordpress.org/polyglots/2022/10/25/hello-ive-translated-the-followin/)
 - [PTE Request for WP Prayer II](https://make.wordpress.org/polyglots/2022/10/25/pte-request-for-wp-prayer-ii/)
 - [Hello!](https://make.wordpress.org/polyglots/2022/10/25/hello-69/)
-- [PTE Request for pretty-google-calendar](https://make.wordpress.org/polyglots/2022/10/24/pte-request-for-pretty-google-calendar/)
 <!-- POLYGLOTS:END -->
 
 ## Support
