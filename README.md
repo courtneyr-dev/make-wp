@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Review Request for two plugins and PTE request for eight plugins](https://make.wordpress.org/polyglots/2022/10/28/review-request-for-two-plugins-and-pte-request-for-eight-plugins/)
 - [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-simple-cloudflare-turnstile-2/)
 - [PTE Request for MME Real Estate](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-mme-real-estate/)
 - [Hello, I have read many…](https://make.wordpress.org/polyglots/2022/10/27/hello-i-have-read-many/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-parcel-panel-order-tracking-for-woocommerce-2/)
 - [For become editor translator &lpar;PTE&rpar;](https://make.wordpress.org/polyglots/2022/10/27/for-become-editor-translator-pte/)
 - [CLPTE request for BedBooking plugin](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-bedbooking-plugin/)
-- [CLPTE Request for Order Sync with Zendesk for WooCommerce](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-order-sync-with-zendesk-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
