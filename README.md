@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Please approve the translation of…](https://make.wordpress.org/polyglots/2022/10/28/please-approve-the-translation-of/)
+- [Hello, I have translated the…](https://make.wordpress.org/polyglots/2022/10/28/hello-i-have-translated-the/)
 - [Review Request for two plugins and PTE request for eight plugins](https://make.wordpress.org/polyglots/2022/10/28/review-request-for-two-plugins-and-pte-request-for-eight-plugins/)
 - [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-simple-cloudflare-turnstile-2/)
 - [PTE Request for MME Real Estate](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-mme-real-estate/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Atr Portfolio and other plugins](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-atr-portfolio-and-other-plugins/)
 - [I have created a new…](https://make.wordpress.org/polyglots/2022/10/27/i-have-created-a-new/)
 - [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-parcel-panel-order-tracking-for-woocommerce-2/)
-- [For become editor translator &lpar;PTE&rpar;](https://make.wordpress.org/polyglots/2022/10/27/for-become-editor-translator-pte/)
-- [CLPTE request for BedBooking plugin](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-bedbooking-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
