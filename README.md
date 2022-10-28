@@ -337,7 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Using Composer with WordPress](https://wordpress.tv/2022/10/27/using-composer-with-wordpress/)
-- [Tools: Import and Export](https://wordpress.tv/2022/10/26/tools-import-and-export/)
+- [Tools: import and export](https://wordpress.tv/2022/10/26/tools-import-and-export/)
 - [A brief history of WordPress](https://wordpress.tv/2022/10/26/a-brief-history-of-wordpress/)
 - [Headless WordPress with React](https://wordpress.tv/2022/10/26/headless-wordpress-with-react/)
 - [Carlota Galván: No me estires el logo](https://wordpress.tv/2022/10/26/carlota-galvan-no-me-estires-el-logo/)
