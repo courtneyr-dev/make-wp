@@ -280,6 +280,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code! Internationalisation in Block Themes](https://learn.wordpress.org/?meeting=lets-code-internationalisation-in-block-themes)
+- [WordPress development live stream: Internationalisation](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-internationalisation)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization)
 - [Let’s code! Global Styles Variations in Block Themes](https://learn.wordpress.org/?meeting=lets-code-global-styles-variations-in-block-themes)
 - [WordPress development live stream: Global Styles](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-global-styles)
@@ -303,8 +305,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Roles and Capabilities](https://learn.wordpress.org/?meeting=wordpress-roles-and-capabilities)
 - [Introduction to DEIB in WordPress](https://learn.wordpress.org/?meeting=introduction-to-deib-in-wordpress)
 - [Let’s code! Creating your Primary Templates in the Editor](https://learn.wordpress.org/?meeting=lets-code-creating-your-primary-templates-in-the-editor)
-- [Part 2: Re-Creating Block Designs](https://learn.wordpress.org/?meeting=part-2-re-creating-block-designs)
-- [Part 1: Re-Creating Block Designs](https://learn.wordpress.org/?meeting=part-1-re-creating-block-designs)
 <!-- SLS:END -->
 
 ## Test
