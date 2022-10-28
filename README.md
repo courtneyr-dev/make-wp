@@ -336,6 +336,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Prophylactic programming for WordPress](https://wordpress.tv/2022/10/27/prophylactic-programming-for-wordpress/)
+- [Atrévete a jugar con los bloques de WordPress](https://wordpress.tv/2022/10/27/atrevete-a-jugar-con-los-bloques-de-wordpress/)
 - [Using Composer with WordPress](https://wordpress.tv/2022/10/27/using-composer-with-wordpress/)
 - [Tools: import and export](https://wordpress.tv/2022/10/26/tools-import-and-export/)
 - [A brief history of WordPress](https://wordpress.tv/2022/10/26/a-brief-history-of-wordpress/)
@@ -359,8 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tipografía fluida en WordPress](https://wordpress.tv/2022/10/24/tipografia-fluida-en-wordpress/)
 - [Anatomy of accessible forms](https://wordpress.tv/2022/10/24/anatomy-of-accessible-forms/)
 - [¿Es WordPress seguro? Depende de ti](https://wordpress.tv/2022/10/23/es-wordpress-seguro-depende-de-ti/)
-- [El color y el tamaño factores clave para la legibilidad del texto](https://wordpress.tv/2022/10/23/el-color-y-el-tamano-factores-clave-para-la-legibilidad-del-texto/)
-- [Datenschutz 2022 für WordPress-website &lpar;DE&rpar;](https://wordpress.tv/2022/10/23/datenschutz-2022-fur-wordpress-website-de/)
 <!-- WPTV:END -->
 
 ## Marketing
