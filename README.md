@@ -62,7 +62,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Review Request for two plugins and PTE request for eight plugins](https://make.wordpress.org/polyglots/2022/10/28/review-request-for-two-plugins-and-pte-request-for-eight-plugins/)
 - [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-simple-cloudflare-turnstile-2/)
 - [PTE Request for MME Real Estate](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-mme-real-estate/)
-- [Hello, I have read many…](https://make.wordpress.org/polyglots/2022/10/27/hello-i-have-read-many/)
+- [PTE Request for [Corymbus Forms]](https://make.wordpress.org/polyglots/2022/10/27/hello-i-have-read-many/)
 - [Hello, i’ve translated the followin…](https://make.wordpress.org/polyglots/2022/10/27/hello-ive-translated-the-followin-2/)
 - [PTE Request for Atr Portfolio and other plugins](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-atr-portfolio-and-other-plugins/)
 - [I have created a new…](https://make.wordpress.org/polyglots/2022/10/27/i-have-created-a-new/)
