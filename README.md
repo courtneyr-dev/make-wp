@@ -336,6 +336,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: global styles variations in block themes](https://wordpress.tv/2022/10/28/lets-code-global-styles-variations-in-block-themes/)
 - [A beginner’s guide to the WordPress template hierarchy](https://wordpress.tv/2022/10/28/a-beginners-guide-to-the-wordpress-template-hierarchy/)
 - [Prophylactic programming for WordPress](https://wordpress.tv/2022/10/27/prophylactic-programming-for-wordpress/)
 - [Atrévete a jugar con los bloques de WordPress](https://wordpress.tv/2022/10/27/atrevete-a-jugar-con-los-bloques-de-wordpress/)
@@ -360,7 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Diseña tu entrada al Metaverso con WordPress](https://wordpress.tv/2022/10/25/disena-tu-entrada-al-metaverso-con-wordpress/)
 - [Conceptos básicos y pilares para desarrollar con CSS](https://wordpress.tv/2022/10/24/conceptos-basicos-y-pilares-para-desarrollar-con-css/)
 - [Tipografía fluida en WordPress](https://wordpress.tv/2022/10/24/tipografia-fluida-en-wordpress/)
-- [Anatomy of accessible forms](https://wordpress.tv/2022/10/24/anatomy-of-accessible-forms/)
 <!-- WPTV:END -->
 
 ## Marketing
