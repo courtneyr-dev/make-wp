@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.1 Release Candidate 5 &lpar;RC5&rpar; Now Available for Testing](https://make.wordpress.org/core/2022/10/28/wordpress-6-1-release-candidate-5-rc5-now-available-for-testing/)
 - [Core Editor Improvement: Advancing the writing experience](https://make.wordpress.org/core/2022/10/28/core-editor-improvement-advancing-the-writing-experience/)
 - [Dev Chat summary, October 27, 2022](https://make.wordpress.org/core/2022/10/27/dev-chat-summary-october-27-2022/)
 - [What’s new in Gutenberg 14.4? &lpar;26 October&rpar;](https://make.wordpress.org/core/2022/10/27/whats-new-in-gutenberg-14-4-26-october/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.1 Release Day Process](https://make.wordpress.org/core/2022/10/25/wordpress-6-1-release-day-process/)
 - [Editor chat summary: Wednesday, 20 October 2022](https://make.wordpress.org/core/2022/10/24/editor-chat-summary-wednesday-20-october-2022/)
 - [A Week in Core – October 24, 2022](https://make.wordpress.org/core/2022/10/24/a-week-in-core-october-24-2022/)
-- [Editor Chat Agenda: October 26th 2022](https://make.wordpress.org/core/2022/10/24/editor-chat-agenda-october-26th-2022/)
 <!-- CORE:END -->
 
 ## Design
