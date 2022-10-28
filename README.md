@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-simple-cloudflare-turnstile-2/)
+- [PTE Request for MME Real Estate](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-mme-real-estate/)
 - [Hello, I have read many…](https://make.wordpress.org/polyglots/2022/10/27/hello-i-have-read-many/)
 - [Hello, i’ve translated the followin…](https://make.wordpress.org/polyglots/2022/10/27/hello-ive-translated-the-followin-2/)
 - [PTE Request for Atr Portfolio and other plugins](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-atr-portfolio-and-other-plugins/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [For become editor translator &lpar;PTE&rpar;](https://make.wordpress.org/polyglots/2022/10/27/for-become-editor-translator-pte/)
 - [CLPTE request for BedBooking plugin](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-bedbooking-plugin/)
 - [CLPTE Request for Order Sync with Zendesk for WooCommerce](https://make.wordpress.org/polyglots/2022/10/26/clpte-request-for-order-sync-with-zendesk-for-woocommerce/)
-- [Agenda: Weekly Polyglots Chat – Oct. 26, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/10/25/agenda-weekly-polyglots-chat-oct-26-2022-1300-utc/)
-- [Hello, i’ve translated the followin…](https://make.wordpress.org/polyglots/2022/10/25/hello-ive-translated-the-followin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
