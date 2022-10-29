@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for W3CSSPress](https://make.wordpress.org/polyglots/2022/10/29/pte-request-for-w3csspress-2/)
 - [Plugin PTE Request for Woo Helper](https://make.wordpress.org/polyglots/2022/10/29/__trashed-2/)
 - [Please approve the translation of…](https://make.wordpress.org/polyglots/2022/10/28/please-approve-the-translation-of/)
 - [Hello, I have translated the…](https://make.wordpress.org/polyglots/2022/10/28/hello-i-have-translated-the/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Corymbus Forms]](https://make.wordpress.org/polyglots/2022/10/27/hello-i-have-read-many/)
 - [Hello, i’ve translated the followin…](https://make.wordpress.org/polyglots/2022/10/27/hello-ive-translated-the-followin-2/)
 - [PTE Request for Atr Portfolio and other plugins](https://make.wordpress.org/polyglots/2022/10/27/pte-request-for-atr-portfolio-and-other-plugins/)
-- [I have created a new…](https://make.wordpress.org/polyglots/2022/10/27/i-have-created-a-new/)
 <!-- POLYGLOTS:END -->
 
 ## Support
