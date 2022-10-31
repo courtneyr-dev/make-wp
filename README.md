@@ -477,6 +477,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [IP blocked from plugins.svn?](https://make.wordpress.org/systems/2022/10/31/ip-blocked-from-plugins-svn/)
 - [Redirect request: {ios,android,iphone}.wordpress.org](https://make.wordpress.org/systems/2022/10/12/redirect-request-iosandroidiphone-wordpress-org/)
 - [Sandbox for danielbachhuber Could I…](https://make.wordpress.org/systems/2022/09/13/sandbox-for-danielbachhuber-could-i/)
 - [Relax rate limiting for downloads.wordpress.org/plugin-checksums/](https://make.wordpress.org/systems/2022/08/03/relax-rate-limiting-for-downloads-wordpress-org-plugin-checksums/)
@@ -486,7 +487,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Email forwarder reports@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-reportswordpress-org-for-helpscout/)
 - [Grant dotorg trac access for Brandon Kraft](https://make.wordpress.org/systems/2022/04/12/grant-dotorg-trac-access-for-brandon-kraft/)
 - [Commit for images/core/emoji Could I…](https://make.wordpress.org/systems/2022/04/11/commit-for-images-core-emoji-could-i/)
-- [Clear codex cache &amp; lower cache TTL?](https://make.wordpress.org/systems/2022/04/04/clear-codex-cache-lower-cache-ttl/)
 <!-- SYSTEMS:END -->
 
 ## News
