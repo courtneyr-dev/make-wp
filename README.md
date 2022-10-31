@@ -336,6 +336,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Getting started with core contribution &lpar;Bangla&rpar; – part 3](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-3/)
+- [Getting started with core contribution &lpar;Bangla&rpar; – part 2](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-2/)
+- [Getting started with core contribution &lpar;Bangla&rpar; – part 1](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-1/)
 - [The future of themes: designing for the block editor and beyond](https://wordpress.tv/2022/10/28/the-future-of-themes-designing-for-the-block-editor-and-beyond/)
 - [Let’s code: global styles variations in block themes](https://wordpress.tv/2022/10/28/lets-code-global-styles-variations-in-block-themes/)
 - [A beginner’s guide to the WordPress template hierarchy](https://wordpress.tv/2022/10/28/a-beginners-guide-to-the-wordpress-template-hierarchy/)
@@ -358,9 +361,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2022/10/25/bienvenida-a-la-wordcamp-valencia/)
 - [¿Y tu web qué?, Diseño para desarrolladores que quieren vender con su web](https://wordpress.tv/2022/10/25/y-tu-web-que-diseno-para-desarrolladores-que-quieren-vender-con-su-web/)
 - [Precios x10 y 99% de presupuestos aceptados. ¿Utopía o enfoque inteligente a los servicios web?](https://wordpress.tv/2022/10/25/precios-x10-y-99-de-presupuestos-aceptados-utopia-o-enfoque-inteligente-a-los-servicios-web/)
-- [Si vas a hackear, ¡hazlo bonito! Guía de estilo](https://wordpress.tv/2022/10/25/si-vas-a-hackear-hazlo-bonito-guia-de-estilo/)
-- [Diseña tu entrada al Metaverso con WordPress](https://wordpress.tv/2022/10/25/disena-tu-entrada-al-metaverso-con-wordpress/)
-- [Conceptos básicos y pilares para desarrollar con CSS](https://wordpress.tv/2022/10/24/conceptos-basicos-y-pilares-para-desarrollar-con-css/)
 <!-- WPTV:END -->
 
 ## Marketing
