@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Core Web Vitals](https://jobs.wordpress.net/job/core-web-vitals/)
+- [WordPress Bugfixing &amp; Development](https://jobs.wordpress.net/job/wordpress-bugfixing-development/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-47/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-10/)
 - [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-16/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior WordPress Software Engineer](https://jobs.wordpress.net/job/senior-wordpress-software-engineer/)
 - [Principal WordPress Engineer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/principal-wordpress-engineer-remote/)
 - [developer](https://jobs.wordpress.net/job/developer-68/)
-- [[WordLift] Front-End Developer](https://jobs.wordpress.net/job/wordlift-front-end-developer/)
-- [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-3/)
 <!-- JOBS:END -->
 
 ## Central
