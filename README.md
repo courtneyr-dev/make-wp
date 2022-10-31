@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Postponed to WP 6.2: Escaping Table and Field names with wpdb::prepare&lpar;&rpar;](https://make.wordpress.org/core/2022/10/31/postponed-to-wp-6-2-escaping-table-and-field-names-with-wpdbprepare/)
 - [Editor chat summary: Wednesday, October 26 2022](https://make.wordpress.org/core/2022/10/31/editor-chat-summary-wednesday-october-26-2022/)
 - [Performance Chat Agenda: 1 November 2022](https://make.wordpress.org/core/2022/10/31/performance-chat-agenda-1-november-2022/)
 - [WordPress 6.1 Release Candidate 5 &lpar;RC5&rpar; Now Available for Testing](https://make.wordpress.org/core/2022/10/28/wordpress-6-1-release-candidate-5-rc5-now-available-for-testing/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.1 Release Candidate 4 &lpar;RC4&rpar; Now Available for Testing](https://make.wordpress.org/core/2022/10/27/wordpress-6-1-release-candidate-4-rc4-now-available-for-testing/)
 - [Dev Chat agenda: October 26,2022](https://make.wordpress.org/core/2022/10/26/dev-chat-agenda-october-262022/)
 - [Performance Chat Summary: 25 October 2022](https://make.wordpress.org/core/2022/10/25/performance-team-meeting-summary-25-october-2022/)
-- [WordPress 6.1 Release Day Process](https://make.wordpress.org/core/2022/10/25/wordpress-6-1-release-day-process/)
 <!-- CORE:END -->
 
 ## Design
