@@ -211,6 +211,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Submitting Block Patterns to the Directory](https://learn.wordpress.org/lesson-plan/submitting-block-patterns-to-the-directory/)
 - [Template Editor](https://learn.wordpress.org/lesson-plan/template-editor/)
 - [What Is W3 Total Cache](https://learn.wordpress.org/lesson-plan/what-is-w3-total-cache/)
+- [Upload a Theme to the WordPress Repository](https://learn.wordpress.org/lesson-plan/upload-a-theme-to-the-wordpress-repository/)
 - [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
 - [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
 - [Displaying the Post Comments Block to Block Themes](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Create and Register a Block Pattern](https://learn.wordpress.org/lesson-plan/how-to-create-and-register-a-block-pattern__trashed/)
 - [Template Parts](https://learn.wordpress.org/lesson-plan/template-parts/)
 - [Difference between Reusable Blocks,  Block Pattern, Templates, Template Parts](https://learn.wordpress.org/lesson-plan/difference-between-reusable-blocks-block-pattern-templates-template-parts/)
-- [Use Duotone Filters to Change Color Effects](https://learn.wordpress.org/lesson-plan/use-duotone-filters-to-change-color-effects/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
