@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Postponed to WP 6.2: Escaping Table and Field names with wpdb::prepare&lpar;&rpar;](https://make.wordpress.org/plugins/2022/10/31/xpost-postponed-to-wp-6-2-escaping-table-and-field-names-with-wpdbprepare/)
 - [Reminder about Final Notices](https://make.wordpress.org/plugins/2022/10/11/reminder-about-final-notices/)
 - [Reminder: We will check your website](https://make.wordpress.org/plugins/2022/09/27/reminder-we-will-check-your-website/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/plugins/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal for a WordPress plugin checker](https://make.wordpress.org/plugins/2022/07/05/proposal-for-a-wordpress-plugin-checker/)
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/plugins/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/plugins/2022/06/27/xpost-rollback-feature-testing-call-to-action/)
-- [Google Drive is Flagging Plugins as ‘Viruses’](https://make.wordpress.org/plugins/2022/06/24/google-drive-is-flagging-plugins-as-viruses/)
 <!-- PLUGINS:END -->
 
 ## Community
