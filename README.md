@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Part 2: Re-Creating Block Designs](https://wordpress.tv/2022/11/01/part-2-re-creating-block-designs/)
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 3](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-3/)
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 2](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-2/)
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 1](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-1/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design to Sell: Como destacar en la era del blanding](https://wordpress.tv/2022/10/25/design-to-sell-como-destacar-en-la-era-del-blanding/)
 - [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2022/10/25/bienvenida-a-la-wordcamp-valencia/)
 - [¿Y tu web qué?, Diseño para desarrolladores que quieren vender con su web](https://wordpress.tv/2022/10/25/y-tu-web-que-diseno-para-desarrolladores-que-quieren-vender-con-su-web/)
-- [Precios x10 y 99% de presupuestos aceptados. ¿Utopía o enfoque inteligente a los servicios web?](https://wordpress.tv/2022/10/25/precios-x10-y-99-de-presupuestos-aceptados-utopia-o-enfoque-inteligente-a-los-servicios-web/)
 <!-- WPTV:END -->
 
 ## Marketing
