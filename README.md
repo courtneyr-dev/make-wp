@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Image Source Overlay](https://make.wordpress.org/polyglots/2022/11/01/pte-request-for-image-source-overlay/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/10/30/ive-suggested-translations-for-this-26/)
 - [PTE Request for W3CSSPress](https://make.wordpress.org/polyglots/2022/10/29/pte-request-for-w3csspress-2/)
 - [Plugin PTE Request for Woo Helper](https://make.wordpress.org/polyglots/2022/10/29/__trashed-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-simple-cloudflare-turnstile-2/)
 - [PTE Request for MME Real Estate](https://make.wordpress.org/polyglots/2022/10/28/pte-request-for-mme-real-estate/)
 - [PTE Request for [Corymbus Forms]](https://make.wordpress.org/polyglots/2022/10/27/hello-i-have-read-many/)
-- [Hello, i’ve translated the followin…](https://make.wordpress.org/polyglots/2022/10/27/hello-ive-translated-the-followin-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
