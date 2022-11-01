@@ -464,6 +464,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Now we have a sustainability channel in Making WordPress Slack, what should we do?](https://make.wordpress.org/project/2022/11/01/sustainability-channel-what-should-we-do/)
 - [WCUS 2022 Q&amp;A](https://make.wordpress.org/project/2022/09/19/wcus-2022-qa/)
 - [Open Source and how we sustain ourselves](https://make.wordpress.org/project/2022/08/01/open-source-and-the-free-rider-problem/)
 - [Updates on the Five for the Future program, and proposed improvements](https://make.wordpress.org/project/2022/07/28/updates-on-the-five-for-the-future-program-and-proposed-improvements/)
@@ -473,7 +474,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Defining Five for the Future Pledges &amp; Contributions](https://make.wordpress.org/project/2022/05/20/defining-five-for-the-future-pledges-contributions/)
 - [Discussion: Contrib Handbook, Part 2](https://make.wordpress.org/project/2022/04/29/discussion-contrib-handbook-part-2/)
 - [Discussion: Contrib Handbook, Part 1](https://make.wordpress.org/project/2022/04/01/discussion-contrib-handbook-part-1/)
-- [Removal of the Zamir Plugin](https://make.wordpress.org/project/2022/03/23/removal-of-the-zamir-plugin/)
 <!-- PROJECT:END -->
 
 ## Systems
