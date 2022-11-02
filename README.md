@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Twenty Twenty-Three](https://wordpress.org/support/article/twenty-twenty-three/)
 - [Twenty Twenty-Three Changelog](https://wordpress.org/support/article/twenty-twenty-three-changelog/)
 - [Post Author Biography Block](https://wordpress.org/support/article/post-author-biography-block/)
 - [Comment Template Block](https://wordpress.org/support/article/comment-template-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Comment Pagination Block](https://wordpress.org/support/article/comment-pagination-block/)
 - [Comment  Author Name Block](https://wordpress.org/support/article/comment-author-name-block/)
 - [Comment Date Block](https://wordpress.org/support/article/comment-date-block/)
-- [Site Logo Block](https://wordpress.org/support/article/site-logo-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
