@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Global Styles Filters](https://developer.wordpress.org/block-editor/reference-guides/filters/global-styles-filters/)
-- [Tools &amp; Resources](https://developer.wordpress.org/themes/basics/tools-resources/)
-- [Propagating updates for block types](https://developer.wordpress.org/block-editor/how-to-guides/propagating-updates/)
-- [@wordpress/create-block External Template](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/packages-create-block-external-template/)
-- [Block patterns](https://developer.wordpress.org/themes/advanced-topics/block-patterns/)
-- [Cherry-picking automation](https://developer.wordpress.org/block-editor/contributors/code/release/auto-cherry-picking/)
-- [Edit Site](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-site/)
-- [Block directory](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-block-directory/)
-- [Edit Widgets](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-edit-widgets/)
-- [The Keyboard Shortcuts Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-keyboard-shortcuts/)
+- [wp_register_persisted_preferences_meta&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_register_persisted_preferences_meta/)
+- [wp_list_users_args](https://developer.wordpress.org/reference/hooks/wp_list_users_args/)
+- [wp_typography_get_css_variable_inline_style&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_typography_get_css_variable_inline_style/)
+- [WP_Block_Type::__set&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__set/)
+- [WP_Block_Type::__get&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__get/)
+- [WP_Block_Type::__isset&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__isset/)
+- [wp_img_tag_add_decoding_attr](https://developer.wordpress.org/reference/hooks/wp_img_tag_add_decoding_attr/)
+- [wp_img_tag_add_decoding_attr&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_img_tag_add_decoding_attr/)
+- [update_menu_item_cache&lpar;&rpar;](https://developer.wordpress.org/reference/functions/update_menu_item_cache/)
+- [pre_option](https://developer.wordpress.org/reference/hooks/pre_option/)
 <!-- DEVHUB:END -->
 
 ## Themes
