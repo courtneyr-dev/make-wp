@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using block template parts in classic themes](https://wordpress.tv/2022/11/02/using-block-template-parts-in-classic-themes/)
 - [Part 2: Re-Creating Block Designs](https://wordpress.tv/2022/11/01/part-2-re-creating-block-designs/)
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 3](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-3/)
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 2](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-2/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Desarrollo de WordPress impulsado por el diseño](https://wordpress.tv/2022/10/25/desarrollo-de-wordpress-impulsado-por-el-diseno/)
 - [Design to Sell: Como destacar en la era del blanding](https://wordpress.tv/2022/10/25/design-to-sell-como-destacar-en-la-era-del-blanding/)
 - [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2022/10/25/bienvenida-a-la-wordcamp-valencia/)
-- [¿Y tu web qué?, Diseño para desarrolladores que quieren vender con su web](https://wordpress.tv/2022/10/25/y-tu-web-que-diseno-para-desarrolladores-que-quieren-vender-con-su-web/)
 <!-- WPTV:END -->
 
 ## Marketing
