@@ -281,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Builder Basics: Demystifying theme.json and Global Styles](https://learn.wordpress.org/?meeting=builder-basics-demystifying-theme-json-and-global-styles)
 - [Builder Basics: Building with Columns, Groups, Rows and Stacks](https://learn.wordpress.org/?meeting=builder-basics-building-with-columns-groups-rows-and-stacks)
 - [Builder Basics: Exploring Block Layout, Alignment, and Dimensions](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions)
 - [Builder Basics: How to Curate the Editing Experience](https://learn.wordpress.org/?meeting=builder-basics-how-to-curate-the-editing-experience)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 1](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-1)
 - [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress)
 - [Let’s code! Using Block Patterns in your Block Theme.](https://learn.wordpress.org/?meeting=lets-code-using-block-patterns-in-your-block-theme)
-- [Ideas for getting more views on your blog](https://learn.wordpress.org/?meeting=ideas-for-getting-more-views-on-your-blog)
 <!-- SLS:END -->
 
 ## Test
