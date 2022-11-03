@@ -281,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Builder Basics: How to Curate the Editing Experience](https://learn.wordpress.org/?meeting=builder-basics-how-to-curate-the-editing-experience)
 - [WordPress 6.1 Exploration](https://learn.wordpress.org/?meeting=wordpress-6-1-exploration-2)
 - [WordPress 6.1 Exploration](https://learn.wordpress.org/?meeting=wordpress-6-1-exploration)
 - [The Creative Side of Blocks, Vol. 3](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-3)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ideas for getting more views on your blog](https://learn.wordpress.org/?meeting=ideas-for-getting-more-views-on-your-blog)
 - [Using Composer with WordPress](https://learn.wordpress.org/?meeting=using-composer-with-wordpress)
 - [Uncovering the Cover Block](https://learn.wordpress.org/?meeting=uncovering-the-cover-block-2)
-- [Hallway Hangout: Block Theme Development Features in WordPress 6.1](https://learn.wordpress.org/?meeting=hallway-hangout-block-theme-development-features-in-wordpress-6-1)
 <!-- SLS:END -->
 
 ## Test
