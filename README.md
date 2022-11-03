@@ -337,6 +337,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Lenguaje visual en proyectos web corporativos](https://wordpress.tv/2022/11/03/lenguaje-visual-en-proyectos-web-corporativos/)
+- [Usabilidad en palabras o UX Writing para tu sitio web](https://wordpress.tv/2022/11/03/usabilidad-en-palabras-o-ux-writing-para-tu-sitio-web/)
+- [WP Barcelona Meetup – nueva web, nueva temporada](https://wordpress.tv/2022/11/03/wp-barcelona-meetup-nueva-web-nueva-temporada/)
+- [5 años de meetups en WordPress Tarragona](https://wordpress.tv/2022/11/03/5-anos-de-meetups-en-wordpress-tarragona/)
 - [Using block template parts in classic themes](https://wordpress.tv/2022/11/02/using-block-template-parts-in-classic-themes/)
 - [Part 2: Re-Creating Block Designs](https://wordpress.tv/2022/11/01/part-2-re-creating-block-designs/)
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 3](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-3/)
@@ -358,10 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Las claves de una buena comunicación entre Desarrollador y Diseñador](https://wordpress.tv/2022/10/25/las-claves-de-una-buena-comunicacion-entre-desarrollador-y-disenador/)
 - [Optimización del Diseño UX y Experimentos con WordPress](https://wordpress.tv/2022/10/25/optimizacion-del-diseno-ux-y-experimentos-con-wordpress/)
 - [La percepción visual y la memoria: cómo ganar en la web gracias a una mejor comunicación visual](https://wordpress.tv/2022/10/25/la-percepcion-visual-y-la-memoria-como-ganar-en-la-web-gracias-a-una-mejor-comunicacion-visual/)
-- [Creando la imagen de WCEU en equipo](https://wordpress.tv/2022/10/25/creando-la-imagen-de-wceu-en-equipo/)
-- [Desarrollo de WordPress impulsado por el diseño](https://wordpress.tv/2022/10/25/desarrollo-de-wordpress-impulsado-por-el-diseno/)
-- [Design to Sell: Como destacar en la era del blanding](https://wordpress.tv/2022/10/25/design-to-sell-como-destacar-en-la-era-del-blanding/)
-- [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2022/10/25/bienvenida-a-la-wordcamp-valencia/)
 <!-- WPTV:END -->
 
 ## Marketing
