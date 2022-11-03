@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Update: Global Meetup Reactivation Project](https://make.wordpress.org/community/2022/11/03/update-global-meetup-reactivation-project/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on October 26, 2022](https://make.wordpress.org/community/2022/11/02/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-october-26-2022/)
 - [Deputy Training #4: WordCamp Process Flow Recap](https://make.wordpress.org/community/2022/10/27/deputy-training-4-wordcamp-process-flow-recap/)
 - [Meetup Organizer Newsletter: October 2022](https://make.wordpress.org/community/2022/10/26/meetup-organizer-newsletter-october-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Upcoming #WPDiversity Events: October 2022](https://make.wordpress.org/community/2022/10/07/upcoming-wpdiversity-events-october-2022/)
 - [Idea: Freescout for WordCamp organising teams](https://make.wordpress.org/community/2022/10/06/idea-freescout-for-wordcamp-organising-teams/)
 - [Recap of APAC WPDiversity Network Building – 10th meeting &lpar;Sept 29, 2022&rpar;](https://make.wordpress.org/community/2022/10/06/recap-of-apac-wpdiversity-network-building-10th-meeting-sept-29-2022/)
-- [Community Team Meeting Agenda for Oct 6, 2022](https://make.wordpress.org/community/2022/10/05/community-team-meeting-agenda-for-oct-6-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
