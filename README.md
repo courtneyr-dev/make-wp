@@ -530,7 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Web Vitals](https://jobs.wordpress.net/job/core-web-vitals/)
 - [WordPress Bugfixing &amp; Development](https://jobs.wordpress.net/job/wordpress-bugfixing-development/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-47/)
-- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-10/)
+- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-16/)
 <!-- JOBS:END -->
 
 ## Central
