@@ -281,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [The Creative Side of Blocks, Vol. 3](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-3)
 - [Padding, Margin and Block Spacing](https://learn.wordpress.org/?meeting=padding-margin-and-block-spacing)
 - [Let’s code! Internationalisation in Block Themes](https://learn.wordpress.org/?meeting=lets-code-internationalisation-in-block-themes)
 - [WordPress development live stream: Internationalisation](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-internationalisation)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Block Theme Development Features in WordPress 6.1](https://learn.wordpress.org/?meeting=hallway-hangout-block-theme-development-features-in-wordpress-6-1)
 - [Let’s code! Creating Custom Templates and Template Parts](https://learn.wordpress.org/?meeting=lets-code-creating-custom-templates-and-template-parts)
 - [WordPress Roles and Capabilities](https://learn.wordpress.org/?meeting=wordpress-roles-and-capabilities)
-- [Introduction to DEIB in WordPress](https://learn.wordpress.org/?meeting=introduction-to-deib-in-wordpress)
 <!-- SLS:END -->
 
 ## Test
