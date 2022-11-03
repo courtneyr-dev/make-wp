@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Website Auditing and conversion optimization](https://wordpress.tv/2022/11/03/website-auditing-and-conversion-optimization/)
 - [Lenguaje visual en proyectos web corporativos](https://wordpress.tv/2022/11/03/lenguaje-visual-en-proyectos-web-corporativos/)
 - [Usabilidad en palabras o UX Writing para tu sitio web](https://wordpress.tv/2022/11/03/usabilidad-en-palabras-o-ux-writing-para-tu-sitio-web/)
 - [WP Barcelona Meetup – nueva web, nueva temporada](https://wordpress.tv/2022/11/03/wp-barcelona-meetup-nueva-web-nueva-temporada/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Website optimization the right way](https://wordpress.tv/2022/10/25/website-optimization-the-right-way/)
 - [Las claves de una buena comunicación entre Desarrollador y Diseñador](https://wordpress.tv/2022/10/25/las-claves-de-una-buena-comunicacion-entre-desarrollador-y-disenador/)
 - [Optimización del Diseño UX y Experimentos con WordPress](https://wordpress.tv/2022/10/25/optimizacion-del-diseno-ux-y-experimentos-con-wordpress/)
-- [La percepción visual y la memoria: cómo ganar en la web gracias a una mejor comunicación visual](https://wordpress.tv/2022/10/25/la-percepcion-visual-y-la-memoria-como-ganar-en-la-web-gracias-a-una-mejor-comunicacion-visual/)
 <!-- WPTV:END -->
 
 ## Marketing
