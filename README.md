@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for AccessibleWP – Accessibility Toolbar](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-accessiblewp-accessibility-toolbar/)
 - [Agenda: Weekly Polyglots Chat – Nov. 2, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/02/agenda-weekly-polyglots-chat-nov-2-2022-700-utc/)
 - [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/11/02/pte-request-for-parcel-panel-order-tracking-for-woocommerce-3/)
 - [PTE Request for Simple Cloudflare Turnstile](https://make.wordpress.org/polyglots/2022/11/01/pte-request-for-simple-cloudflare-turnstile-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for W3CSSPress](https://make.wordpress.org/polyglots/2022/10/29/pte-request-for-w3csspress-2/)
 - [Plugin PTE Request for Woo Helper](https://make.wordpress.org/polyglots/2022/10/29/__trashed-2/)
 - [Please approve the translation of…](https://make.wordpress.org/polyglots/2022/10/28/please-approve-the-translation-of/)
-- [Hello, I have translated the…](https://make.wordpress.org/polyglots/2022/10/28/hello-i-have-translated-the/)
 <!-- POLYGLOTS:END -->
 
 ## Support
