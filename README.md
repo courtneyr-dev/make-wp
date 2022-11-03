@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Local Structured…](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-local-structured/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-customer-reviews-for-woocommerce-22/)
 - [PTE Request for Easy Donation for Woocommerce Plugin](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-easy-donation-for-woocommerce-plugin/)
 - [PTE Request for AccessibleWP – Accessibility Toolbar](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-accessiblewp-accessibility-toolbar/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Simple Downloads…](https://make.wordpress.org/polyglots/2022/11/01/pte-request-for-simple-downloads/)
 - [PTE Request for Image Source Overlay](https://make.wordpress.org/polyglots/2022/11/01/pte-request-for-image-source-overlay/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2022/10/30/ive-suggested-translations-for-this-26/)
-- [PTE Request for W3CSSPress](https://make.wordpress.org/polyglots/2022/10/29/pte-request-for-w3csspress-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
