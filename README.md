@@ -281,6 +281,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/?meeting=intro-to-the-site-editor-and-template-editor)
+- [Using the Navigation Block](https://learn.wordpress.org/?meeting=using-the-navigation-block-2)
+- [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization-2)
+- [The Right Way to Customize a WordPress Plugin/Theme](https://learn.wordpress.org/?meeting=the-right-way-to-customize-a-wordpress-plugin-theme)
 - [Builder Basics: Demystifying theme.json and Global Styles](https://learn.wordpress.org/?meeting=builder-basics-demystifying-theme-json-and-global-styles)
 - [Builder Basics: Building with Columns, Groups, Rows and Stacks](https://learn.wordpress.org/?meeting=builder-basics-building-with-columns-groups-rows-and-stacks)
 - [Builder Basics: Exploring Block Layout, Alignment, and Dimensions](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions)
@@ -291,7 +295,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Padding, Margin and Block Spacing](https://learn.wordpress.org/?meeting=padding-margin-and-block-spacing)
 - [Let’s code! Internationalisation in Block Themes](https://learn.wordpress.org/?meeting=lets-code-internationalisation-in-block-themes)
 - [WordPress development live stream: Internationalisation](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-internationalisation)
-- [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization)
 - [Let’s code! Global Styles Variations in Block Themes](https://learn.wordpress.org/?meeting=lets-code-global-styles-variations-in-block-themes)
 - [WordPress development live stream: Global Styles](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-global-styles)
 - [WordPress Roles and Capabilities](https://learn.wordpress.org/?meeting=wordpress-roles-and-capabilities-2)
@@ -303,9 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [クエリループブロックでブログページを作ろう！](https://learn.wordpress.org/?meeting=%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81)
 - [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 3](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-3)
 - [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 2](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-2)
-- [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 1](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-1)
-- [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress)
-- [Let’s code! Using Block Patterns in your Block Theme.](https://learn.wordpress.org/?meeting=lets-code-using-block-patterns-in-your-block-theme)
 <!-- SLS:END -->
 
 ## Test
