@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/11/04/hi-dear-mentors-we-have-101/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/11/04/hi-dear-mentors-we-have-100/)
 - [CEBUANO TRANSLATION](https://make.wordpress.org/polyglots/2022/11/04/cebuano-translation/)
 - [PTE Request for Axeptio](https://make.wordpress.org/polyglots/2022/11/04/pte-request-for-axeptio/)
 - [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/11/04/hello-a-contributor-has-translated/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Easy Donation for Woocommerce Plugin](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-easy-donation-for-woocommerce-plugin/)
 - [PTE Request for AccessibleWP – Accessibility Toolbar](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-accessiblewp-accessibility-toolbar/)
 - [Agenda: Weekly Polyglots Chat – Nov. 2, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/02/agenda-weekly-polyglots-chat-nov-2-2022-700-utc/)
-- [PTE Request for Parcel Panel Order Tracking for WooCommerce](https://make.wordpress.org/polyglots/2022/11/02/pte-request-for-parcel-panel-order-tracking-for-woocommerce-3/)
-- [PTE Request for Simple Cloudflare Turnstile](https://make.wordpress.org/polyglots/2022/11/01/pte-request-for-simple-cloudflare-turnstile-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
