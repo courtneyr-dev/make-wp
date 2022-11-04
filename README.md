@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 - [Using Block Template Parts in Classic Themes](https://learn.wordpress.org/tutorial/using-block-template-parts-in-classic-themes/)
 - [A Beginners Guide to the WordPress Template Hierarchy](https://learn.wordpress.org/tutorial/a-beginners-guide-to-the-wordpress-template-hierarchy/)
 - [Tools: Import and Export](https://learn.wordpress.org/tutorial/tools-import-and-export/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Horizontal Pyramid Gallery](https://learn.wordpress.org/tutorial/horizontal-pyramid-gallery/)
 - [WordPress Action Hooks](https://learn.wordpress.org/tutorial/wordpress-action-hooks/)
 - [User Management](https://learn.wordpress.org/tutorial/user-management-2/)
-- [Using Schema with WordPress theme.json](https://learn.wordpress.org/tutorial/using-schema-with-wordpress-theme-json/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
