@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordCamp Mentors’ November check-in!](https://make.wordpress.org/community/2022/11/04/wordcamp-mentors-november-check-in/)
 - [Community Team Meeting Agenda for Nov 3, 2022](https://make.wordpress.org/community/2022/11/03/community-team-meeting-agenda-for-nov-3-2022/)
 - [Update: Global Meetup Reactivation Project](https://make.wordpress.org/community/2022/11/03/update-global-meetup-reactivation-project/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on October 26, 2022](https://make.wordpress.org/community/2022/11/02/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-october-26-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Report: Diverse Speaker Workshop September 2022](https://make.wordpress.org/community/2022/10/17/report-diverse-speaker-workshop-september-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on October 12, 2022](https://make.wordpress.org/community/2022/10/12/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-october-12-2022/)
 - [Upcoming #WPDiversity Events: October 2022](https://make.wordpress.org/community/2022/10/07/upcoming-wpdiversity-events-october-2022/)
-- [Idea: Freescout for WordCamp organising teams](https://make.wordpress.org/community/2022/10/06/idea-freescout-for-wordcamp-organising-teams/)
 <!-- COMMUNITY:END -->
 
 ## Meta
