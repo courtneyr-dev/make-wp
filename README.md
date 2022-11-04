@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Freelance Web Designer](https://jobs.wordpress.net/job/freelance-web-designer-4/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-11/)
 - [Senior Software Development Engineer – Managed WordPress](https://jobs.wordpress.net/job/senior-software-development-engineer-managed-wordpress-2/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-202/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-777/)
 - [Core Web Vitals](https://jobs.wordpress.net/job/core-web-vitals/)
 - [WordPress Bugfixing &amp; Development](https://jobs.wordpress.net/job/wordpress-bugfixing-development/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-47/)
 <!-- JOBS:END -->
 
 ## Central
