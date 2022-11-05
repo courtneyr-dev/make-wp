@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Graduate or Student Web Developer](https://jobs.wordpress.net/job/graduate-or-student-web-developer/)
+- [Web Designer / Developer](https://jobs.wordpress.net/job/web-designer-developer-8/)
+- [Web Support](https://jobs.wordpress.net/job/web-support/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-778/)
 - [Freelance Web Designer](https://jobs.wordpress.net/job/freelance-web-designer-4/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-11/)
 - [Senior Software Development Engineer – Managed WordPress](https://jobs.wordpress.net/job/senior-software-development-engineer-managed-wordpress-2/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-202/)
 - [Customer Support Manager – Remote](https://jobs.wordpress.net/job/customer-support-manager-remote/)
 - [Web Solutions Architect](https://jobs.wordpress.net/job/web-solutions-architect/)
-- [Web Designer](https://jobs.wordpress.net/job/web-designer-70/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-777/)
-- [Core Web Vitals](https://jobs.wordpress.net/job/core-web-vitals/)
-- [WordPress Bugfixing &amp; Development](https://jobs.wordpress.net/job/wordpress-bugfixing-development/)
 <!-- JOBS:END -->
 
 ## Central
