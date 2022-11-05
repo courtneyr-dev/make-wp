@@ -119,10 +119,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [wp_list_users_args](https://developer.wordpress.org/reference/hooks/wp_list_users_args/)
 - [wp_typography_get_css_variable_inline_style&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_typography_get_css_variable_inline_style/)
 - [WP_Block_Type::__set&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__set/)
-- [WP_Block_Type::__isset&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__isset/)
 - [WP_Block_Type::__get&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__get/)
-- [wp_img_tag_add_decoding_attr&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_img_tag_add_decoding_attr/)
+- [WP_Block_Type::__isset&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__isset/)
 - [wp_img_tag_add_decoding_attr](https://developer.wordpress.org/reference/hooks/wp_img_tag_add_decoding_attr/)
+- [wp_img_tag_add_decoding_attr&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_img_tag_add_decoding_attr/)
 - [update_menu_item_cache&lpar;&rpar;](https://developer.wordpress.org/reference/functions/update_menu_item_cache/)
 - [pre_option](https://developer.wordpress.org/reference/hooks/pre_option/)
 <!-- DEVHUB:END -->
