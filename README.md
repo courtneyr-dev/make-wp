@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translation review and PTE request](https://make.wordpress.org/polyglots/2022/11/06/translation-review-and-pte-request/)
 - [Translation review for Recent Comments Widget Plus](https://make.wordpress.org/polyglots/2022/11/05/translation-review-for-recent-comments-widget-plus/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/11/04/hi-dear-mentors-we-have-101/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/11/04/hi-dear-mentors-we-have-100/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Local Structured…](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-local-structured/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-customer-reviews-for-woocommerce-22/)
 - [PTE Request for Easy Donation for Woocommerce Plugin](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-easy-donation-for-woocommerce-plugin/)
-- [PTE Request for AccessibleWP – Accessibility Toolbar](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-accessiblewp-accessibility-toolbar/)
 <!-- POLYGLOTS:END -->
 
 ## Support
