@@ -560,7 +560,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Valencia](https://central.wordcamp.org/wordcamps/wordcamp-valencia/)
 - [WordCamp Phoenix, Arizona, USA](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-arizona-usa/)
 - [WordCamp Lyon](https://central.wordcamp.org/wordcamps/wordcamp-lyon-france/)
-- [WordCamp Nagpur 2022](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-2/)
+- [WordCamp Nagpur, India](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-2/)
 - [WordCamp São Paulo](https://central.wordcamp.org/wordcamps/wordcamp-sao-paulo-9/)
 - [WordCamp Griñón for E-Commerce – Madrid](https://central.wordcamp.org/wordcamps/wordcamp-grinon/)
 - [WordCamp Nepal](https://central.wordcamp.org/wordcamps/wordcamp-nepal-5/)
