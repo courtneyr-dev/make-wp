@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introducing Twenty Twenty-Three](https://wordpress.tv/2022/11/07/introducing-twenty-twenty-three/)
 - [Lets code: Internationalisation in block themes](https://wordpress.tv/2022/11/07/lets-code-internationalisation-in-block-themes/)
 - [Web development strategy with WordPress and Gutenberg](https://wordpress.tv/2022/11/05/web-development-strategy-with-wordpress-and-gutenberg/)
 - [Intro to the Site Editor and Template Editor](https://wordpress.tv/2022/11/03/intro-to-the-site-editor-and-template-editor-2/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A brief history of WordPress](https://wordpress.tv/2022/10/26/a-brief-history-of-wordpress/)
 - [Headless WordPress with React](https://wordpress.tv/2022/10/26/headless-wordpress-with-react/)
 - [Carlota Galván: No me estires el logo](https://wordpress.tv/2022/10/26/carlota-galvan-no-me-estires-el-logo/)
-- [Fernando Tellado: ¿Es más rápido diseñar con Wix que con WordPress?](https://wordpress.tv/2022/10/26/fernando-tellado-es-mas-rapido-disenar-con-wix-que-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
