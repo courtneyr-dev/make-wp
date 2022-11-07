@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Lets code: Internationalisation in block themes](https://wordpress.tv/2022/11/07/lets-code-internationalisation-in-block-themes/)
 - [Web development strategy with WordPress and Gutenberg](https://wordpress.tv/2022/11/05/web-development-strategy-with-wordpress-and-gutenberg/)
 - [Intro to the Site Editor and Template Editor](https://wordpress.tv/2022/11/03/intro-to-the-site-editor-and-template-editor-2/)
 - [Ideas for getting more views on your blog](https://wordpress.tv/2022/11/03/ideas-for-getting-more-views-on-your-blog/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Headless WordPress with React](https://wordpress.tv/2022/10/26/headless-wordpress-with-react/)
 - [Carlota Galván: No me estires el logo](https://wordpress.tv/2022/10/26/carlota-galvan-no-me-estires-el-logo/)
 - [Fernando Tellado: ¿Es más rápido diseñar con Wix que con WordPress?](https://wordpress.tv/2022/10/26/fernando-tellado-es-mas-rapido-disenar-con-wix-que-con-wordpress/)
-- [Juan Seguí, Ana Gavilán, Piccia Neri, Santiago Alonso, Julián Ruiz: Mesa redonda: «LOS LÍMITES DEL DISEÑO»](https://wordpress.tv/2022/10/26/juan-segui-ana-gavilan-piccia-neri-santiago-alonso-julian-ruiz-mesa-redonda-los-limites-del-diseno/)
 <!-- WPTV:END -->
 
 ## Marketing
