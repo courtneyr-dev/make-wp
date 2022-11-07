@@ -281,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Using Chrome’s Developer Tools](https://learn.wordpress.org/?meeting=using-chromes-developer-tools)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/?meeting=intro-to-the-site-editor-and-template-editor)
 - [Using the Navigation Block](https://learn.wordpress.org/?meeting=using-the-navigation-block-2)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization-2)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [クエリループブロックでブログページを作ろう！](https://learn.wordpress.org/?meeting=%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81-2)
 - [クエリループブロックでブログページを作ろう！](https://learn.wordpress.org/?meeting=%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81)
 - [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 3](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-3)
-- [Getting Started with Core Contribution &lpar;Bangla&rpar; – Part 2](https://learn.wordpress.org/?meeting=getting-started-with-core-contribution-bangla-part-2)
 <!-- SLS:END -->
 
 ## Test
