@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Social Bot](https://make.wordpress.org/polyglots/2022/11/07/pte-request-for-social-bot/)
+- [PTE Request](https://make.wordpress.org/polyglots/2022/11/07/pte-request-25/)
 - [CLPTE request for Parcel Panel Order Tracking for WooCommerce &lpar;100% FREE&rpar;](https://make.wordpress.org/polyglots/2022/11/07/clpte-request-for-parcel-panel-order-tracking-for-woocommerce-100-free/)
 - [Translation review and PTE request](https://make.wordpress.org/polyglots/2022/11/06/translation-review-and-pte-request/)
 - [Translation review for Recent Comments Widget Plus](https://make.wordpress.org/polyglots/2022/11/05/translation-review-for-recent-comments-widget-plus/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CEBUANO TRANSLATION](https://make.wordpress.org/polyglots/2022/11/04/cebuano-translation/)
 - [PTE Request for Axeptio](https://make.wordpress.org/polyglots/2022/11/04/pte-request-for-axeptio/)
 - [PTE Request for [Simple Cloudflare Turnstile]](https://make.wordpress.org/polyglots/2022/11/04/hello-a-contributor-has-translated/)
-- [PTE Request for Local Structured…](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-local-structured/)
-- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/11/03/pte-request-for-customer-reviews-for-woocommerce-22/)
 <!-- POLYGLOTS:END -->
 
 ## Support
