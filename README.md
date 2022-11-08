@@ -450,6 +450,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Plugin Review Team Status: 7 Nov 2022](https://make.wordpress.org/updates/2022/11/08/plugin-review-team-status-7-nov-2022/)
 - [Themes team update November 08, 2022](https://make.wordpress.org/updates/2022/11/08/themes-team-update-november-08-2022/)
 - [Test Team Update: 7 November 2022](https://make.wordpress.org/updates/2022/11/08/test-team-update-7-november-2022/)
 - [Site Editor: a More User-Friendly Name](https://make.wordpress.org/updates/2022/11/04/site-editor-a-more-user-friendly-name/)
@@ -459,7 +460,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Review Team: 31 Oct 2022 👻](https://make.wordpress.org/updates/2022/10/31/plugin-review-team-31-oct-2022-%f0%9f%91%bb/)
 - [Support Team Meeting Updates for October 27](https://make.wordpress.org/updates/2022/10/27/support-team-meeting-updates-for-october-27/)
 - [Core Performance Team Update – October 26, 2022](https://make.wordpress.org/updates/2022/10/26/core-performance-team-update-october-26-2022/)
-- [Plugin Review Team Status: 24 Oct 2022](https://make.wordpress.org/updates/2022/10/26/plugin-review-team-status-24-oct-2022/)
 <!-- UPDATES:END -->
 
 ## Project
