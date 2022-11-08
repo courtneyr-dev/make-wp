@@ -492,6 +492,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Introducing Twenty Twenty-Three](https://wordpress.org/news/2022/11/introducing-twenty-twenty-three/)
 - [WordPress 6.1 “Misha”](https://wordpress.org/news/2022/11/misha/)
 - [People of WordPress: Raghavendra Satish Peri](https://wordpress.org/news/2022/10/people-of-wordpress-raghavendra-satish-peri/)
 - [WP Briefing: Episode 42: Something Spooky This Way Comes](https://wordpress.org/news/2022/10/episode-42-something-spooky-this-way-comes/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 37: The World of WordPress on World Wide Web Day](https://wordpress.org/news/2022/08/episode-37-the-world-of-wordpress-on-world-wide-web-day/)
 - [People of WordPress: Carla Doria](https://wordpress.org/news/2022/07/people-of-wordpress-carla-doria/)
 - [WP Briefing: Episode 36: Beginner’s Guide to Contributions 2.0](https://wordpress.org/news/2022/07/episode-36-beginners-guide-to-contributions-2-0/)
-- [WordPress 6.0.1 Maintenance Release](https://wordpress.org/news/2022/07/wordpress-6-0-1-maintenance-release/)
 <!-- NEWS:END -->
 
 ## Jobs
