@@ -337,6 +337,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Usability testing de la teoría a la práctica](https://wordpress.tv/2022/11/08/usability-testing-de-la-teoria-a-la-practica/)
+- [La magia del contenido](https://wordpress.tv/2022/11/08/la-magia-del-contenido/)
+- [Usando custom fields y uikit](https://wordpress.tv/2022/11/08/usando-custom-fields-y-uikit/)
 - [Creando un bloque de Gutenberg Dinámico a partir de un Shortcode](https://wordpress.tv/2022/11/08/creando-un-bloque-de-gutenberg-dinamico-a-partir-de-un-shortcode/)
 - [Meeting your customers where they are – how businesses can thrive in a digital-first world](https://wordpress.tv/2022/11/07/meeting-your-customers-where-they-are-how-businesses-can-thrive-in-a-digital-first-world/)
 - [Introducing Twenty Twenty-Three](https://wordpress.tv/2022/11/07/introducing-twenty-twenty-three/)
@@ -359,9 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A beginner’s guide to the WordPress template hierarchy](https://wordpress.tv/2022/10/28/a-beginners-guide-to-the-wordpress-template-hierarchy/)
 - [Prophylactic programming for WordPress](https://wordpress.tv/2022/10/27/prophylactic-programming-for-wordpress/)
 - [Atrévete a jugar con los bloques de WordPress](https://wordpress.tv/2022/10/27/atrevete-a-jugar-con-los-bloques-de-wordpress/)
-- [Using Composer with WordPress](https://wordpress.tv/2022/10/27/using-composer-with-wordpress/)
-- [Tools: import and export](https://wordpress.tv/2022/10/26/tools-import-and-export/)
-- [A brief history of WordPress](https://wordpress.tv/2022/10/26/a-brief-history-of-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
