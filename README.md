@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi. I would like to…](https://make.wordpress.org/polyglots/2022/11/08/hi-i-would-like-to-17/)
 - [Agenda: Weekly Polyglots Chat – Nov. 09, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/08/agenda-weekly-polyglots-chat-nov-09-2022-1300-utc/)
 - [Call for Polyglots Team Representatives](https://make.wordpress.org/polyglots/2022/11/08/call-for-polyglots-team-representatives-2/)
 - [Starting a Polyglots Outreach Effort](https://make.wordpress.org/polyglots/2022/11/08/starting-a-polyglots-outreach-effort/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Events Manager…](https://make.wordpress.org/polyglots/2022/11/07/pte-request-for-events-manager-3/)
 - [PTE Request for Social Bot](https://make.wordpress.org/polyglots/2022/11/07/pte-request-for-social-bot/)
 - [PTE Request](https://make.wordpress.org/polyglots/2022/11/07/pte-request-25/)
-- [CLPTE request for Parcel Panel Order Tracking for WooCommerce &lpar;100% FREE&rpar;](https://make.wordpress.org/polyglots/2022/11/07/clpte-request-for-parcel-panel-order-tracking-for-woocommerce-100-free/)
 <!-- POLYGLOTS:END -->
 
 ## Support
