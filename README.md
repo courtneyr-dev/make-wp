@@ -337,6 +337,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Rompamos el Tabú usando Elementor](https://wordpress.tv/2022/11/09/rompamos-el-tabu-usando-elementor/)
+- [Defendiendo tu WordPress: Una metodología práctica contra las ciberamenazas](https://wordpress.tv/2022/11/09/defendiendo-tu-wordpress-una-metodologia-practica-contra-las-ciberamenazas/)
 - [Qué es lo más importante hoy en día, y por qué es la comunidad WordPress](https://wordpress.tv/2022/11/09/que-es-lo-mas-importante-hoy-en-dia-y-por-que-es-la-comunidad-wordpress/)
 - [Usability testing de la teoría a la práctica](https://wordpress.tv/2022/11/08/usability-testing-de-la-teoria-a-la-practica/)
 - [La magia del contenido](https://wordpress.tv/2022/11/08/la-magia-del-contenido/)
@@ -360,8 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 1](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-1/)
 - [The future of themes: designing for the block editor and beyond](https://wordpress.tv/2022/10/28/the-future-of-themes-designing-for-the-block-editor-and-beyond/)
 - [Let’s code: global styles variations in block themes](https://wordpress.tv/2022/10/28/lets-code-global-styles-variations-in-block-themes/)
-- [A beginner’s guide to the WordPress template hierarchy](https://wordpress.tv/2022/10/28/a-beginners-guide-to-the-wordpress-template-hierarchy/)
-- [Prophylactic programming for WordPress](https://wordpress.tv/2022/10/27/prophylactic-programming-for-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
