@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap for November 1, 2022](https://make.wordpress.org/training/2022/11/09/training-team-meeting-recap-for-november-1-2022/)
 - [Project Thread: Content Localization Foundations](https://make.wordpress.org/training/2022/11/07/project-thread-content-localization-foundations/)
 - [Meeting Agenda for November 8, 2022](https://make.wordpress.org/training/2022/11/07/meeting-agenda-for-november-8-2022/)
 - [Summary Update: Courses Currently in Development or Published &lpar;1 November 2022&rpar;](https://make.wordpress.org/training/2022/11/01/summary-update-courses-currently-in-development-1-november-2022/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/training/2022/10/22/xpost-wordpress-org-redesign-update/)
 - [Managing Projects and Terminology: DRI](https://make.wordpress.org/training/2022/10/22/managing-projects-and-terminology-dri/)
 - [Proposal: Create a new onboarding experience to the Training Team](https://make.wordpress.org/training/2022/10/21/proposal-create-a-new-onboarding-experience-to-the-training-team/)
-- [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/training/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
