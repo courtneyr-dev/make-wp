@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Qué es lo más importante hoy en día, y por qué es la comunidad WordPress](https://wordpress.tv/2022/11/09/que-es-lo-mas-importante-hoy-en-dia-y-por-que-es-la-comunidad-wordpress/)
 - [Usability testing de la teoría a la práctica](https://wordpress.tv/2022/11/08/usability-testing-de-la-teoria-a-la-practica/)
 - [La magia del contenido](https://wordpress.tv/2022/11/08/la-magia-del-contenido/)
 - [Usando custom fields y uikit](https://wordpress.tv/2022/11/08/usando-custom-fields-y-uikit/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: global styles variations in block themes](https://wordpress.tv/2022/10/28/lets-code-global-styles-variations-in-block-themes/)
 - [A beginner’s guide to the WordPress template hierarchy](https://wordpress.tv/2022/10/28/a-beginners-guide-to-the-wordpress-template-hierarchy/)
 - [Prophylactic programming for WordPress](https://wordpress.tv/2022/10/27/prophylactic-programming-for-wordpress/)
-- [Atrévete a jugar con los bloques de WordPress](https://wordpress.tv/2022/10/27/atrevete-a-jugar-con-los-bloques-de-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
