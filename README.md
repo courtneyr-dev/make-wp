@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Software Developer](https://jobs.wordpress.net/job/senior-software-developer/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-22/)
+- [WordPress Maintenance &amp; Fix &amp; Develop / Existing website Entrada Theme](https://jobs.wordpress.net/job/wordpress-maintenance-fix-develop-existing-website-entrada-theme/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-780/)
 - [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-5/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-779/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-4/)
 - [Graduate or Student Web Developer](https://jobs.wordpress.net/job/graduate-or-student-web-developer/)
 - [Web Designer / Developer](https://jobs.wordpress.net/job/web-designer-developer-8/)
-- [Freelance Web Designer](https://jobs.wordpress.net/job/freelance-web-designer-4/)
-- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-11/)
-- [Senior Software Development Engineer – Managed WordPress](https://jobs.wordpress.net/job/senior-software-development-engineer-managed-wordpress-2/)
 <!-- JOBS:END -->
 
 ## Central
