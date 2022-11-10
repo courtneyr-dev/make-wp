@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Block Spacing](https://wordpress.tv/2022/11/09/block-spacing/)
 - [Padding, Margin and Block Spacing](https://wordpress.tv/2022/11/09/padding-margin-and-block-spacing/)
 - [Rompamos el Tabú usando Elementor](https://wordpress.tv/2022/11/09/rompamos-el-tabu-usando-elementor/)
 - [Defendiendo tu WordPress: Una metodología práctica contra las ciberamenazas](https://wordpress.tv/2022/11/09/defendiendo-tu-wordpress-una-metodologia-practica-contra-las-ciberamenazas/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 3](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-3/)
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 2](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-2/)
 - [Getting started with core contribution &lpar;Bangla&rpar; – part 1](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-1/)
-- [The future of themes: designing for the block editor and beyond](https://wordpress.tv/2022/10/28/the-future-of-themes-designing-for-the-block-editor-and-beyond/)
 <!-- WPTV:END -->
 
 ## Marketing
