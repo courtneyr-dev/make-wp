@@ -216,7 +216,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Upload a Theme to the WordPress Repository](https://learn.wordpress.org/lesson-plan/upload-a-theme-to-the-wordpress-repository/)
 - [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
 - [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
-- [Displaying the Post Comments Block to Block Themes](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
+- [Displaying the Comments Block](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
 - [How To Add and Remove Logo And Site Icon in Site Editor](https://learn.wordpress.org/lesson-plan/how-to-add-and-remove-logo-and-site-icon-in-site-editor/)
 - [How to Use and Contribute to the WordPress Photo Directory and Openverse](https://learn.wordpress.org/lesson-plan/how-to-use-and-contribute-to-the-wordpress-photo-directory-and-openverse/)
 - [Templates](https://learn.wordpress.org/lesson-plan/templates/)
