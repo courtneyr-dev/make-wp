@@ -337,6 +337,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Outbound e inbound: ¿Cuál es el mix perfecto para mi estrategia?](https://wordpress.tv/2022/11/10/outbound-e-inbound-cual-es-el-mix-perfecto-para-mi-estrategia/)
+- [6 consejos para la optimización de contenido para cada red social de tu negocio](https://wordpress.tv/2022/11/10/6-consejos-para-la-optimizacion-de-contenido-para-cada-red-social-de-tu-negocio/)
+- [Creación de Gutenberg Blocks](https://wordpress.tv/2022/11/10/creacion-de-gutenberg-blocks/)
+- [Vendiendole al cerebro – Enfoque neurocientífico](https://wordpress.tv/2022/11/10/vendiendole-al-cerebro-enfoque-neurocientifico/)
+- [Qué necesita saber el programador y el diseñador para llevar al éxito un sitio web](https://wordpress.tv/2022/11/10/que-necesita-saber-el-programador-y-el-disenador-para-llevar-al-exito-un-sitio-web/)
+- [¿Puede Frame Innovation salvar el mundo? Un nuevo enfoque por Kees Dorst](https://wordpress.tv/2022/11/10/puede-frame-innovation-salvar-el-mundo-un-nuevo-enfoque-por-kees-dorst/)
+- [Patrones de diseño](https://wordpress.tv/2022/11/10/patrones-de-diseno/)
+- [Estrategias e ideas de marketing asequibles para pequeñas empresas WordPress](https://wordpress.tv/2022/11/10/estrategias-e-ideas-de-marketing-asequibles-para-pequenas-empresas-wordpress/)
+- [De lo tradicional a la nube](https://wordpress.tv/2022/11/10/de-lo-tradicional-a-la-nube/)
+- [Plugins en WP: Mi experiencia «From Zero to Hero»](https://wordpress.tv/2022/11/10/plugins-en-wp-mi-experiencia-from-zero-to-hero/)
 - [Block Spacing](https://wordpress.tv/2022/11/09/block-spacing/)
 - [Padding, Margin and Block Spacing](https://wordpress.tv/2022/11/09/padding-margin-and-block-spacing/)
 - [Rompamos el Tabú usando Elementor](https://wordpress.tv/2022/11/09/rompamos-el-tabu-usando-elementor/)
@@ -352,16 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web development strategy with WordPress and Gutenberg](https://wordpress.tv/2022/11/05/web-development-strategy-with-wordpress-and-gutenberg/)
 - [Intro to the Site Editor and Template Editor](https://wordpress.tv/2022/11/03/intro-to-the-site-editor-and-template-editor-2/)
 - [Ideas for getting more views on your blog](https://wordpress.tv/2022/11/03/ideas-for-getting-more-views-on-your-blog/)
-- [Website Auditing and conversion optimization](https://wordpress.tv/2022/11/03/website-auditing-and-conversion-optimization/)
-- [Lenguaje visual en proyectos web corporativos](https://wordpress.tv/2022/11/03/lenguaje-visual-en-proyectos-web-corporativos/)
-- [Usabilidad en palabras o UX Writing para tu sitio web](https://wordpress.tv/2022/11/03/usabilidad-en-palabras-o-ux-writing-para-tu-sitio-web/)
-- [WP Barcelona Meetup – nueva web, nueva temporada](https://wordpress.tv/2022/11/03/wp-barcelona-meetup-nueva-web-nueva-temporada/)
-- [5 años de meetups en WordPress Tarragona](https://wordpress.tv/2022/11/03/5-anos-de-meetups-en-wordpress-tarragona/)
-- [Using block template parts in classic themes](https://wordpress.tv/2022/11/02/using-block-template-parts-in-classic-themes/)
-- [Part 2: Re-Creating Block Designs](https://wordpress.tv/2022/11/01/part-2-re-creating-block-designs/)
-- [Getting started with core contribution &lpar;Bangla&rpar; – part 3](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-3/)
-- [Getting started with core contribution &lpar;Bangla&rpar; – part 2](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-2/)
-- [Getting started with core contribution &lpar;Bangla&rpar; – part 1](https://wordpress.tv/2022/10/31/getting-started-with-core-contribution-bangla-part-1/)
 <!-- WPTV:END -->
 
 ## Marketing
