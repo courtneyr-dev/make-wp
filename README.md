@@ -366,7 +366,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
-- [Feadback request: Amplification request form](https://make.wordpress.org/marketing/2022/11/10/feadback-request-amplification-request-form/)
+- [Feedback request: Amplification request form](https://make.wordpress.org/marketing/2022/11/10/feadback-request-amplification-request-form/)
 - [Agenda: WordPress global Marketing Team meeting, November 9, 2022](https://make.wordpress.org/marketing/2022/11/09/agenda-wordpress-global-marketing-team-meeting-november-9-2022/)
 - [Notes: Global Marketing Team meeting, November 2, 2022](https://make.wordpress.org/marketing/2022/11/07/notes-global-marketing-team-meeting-november-2-2022/)
 - [Agenda: WordPress global Marketing Team meeting, November 2, 2022](https://make.wordpress.org/marketing/2022/11/02/agenda-wordpress-global-marketing-team-meeting-november-2-2022/)
