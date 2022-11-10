@@ -73,7 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
-- [Agenda: Support Team Meeting Thursday November 11, 2022](https://make.wordpress.org/support/2022/11/agenda-support-team-meeting-thursday-november-11-2022/)
+- [Agenda: Support Team Meeting Thursday November 10, 2022](https://make.wordpress.org/support/2022/11/agenda-support-team-meeting-thursday-november-11-2022/)
 - [October 27th Support Team Meeting Summary](https://make.wordpress.org/support/2022/10/october-27th-support-team-meeting-summary-2/)
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/support/2022/10/xpost-wordpress-org-redesign-update/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/support/2022/10/xpost-new-design-for-helphub-in-wordpress-org/)
