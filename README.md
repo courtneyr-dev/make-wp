@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer/)
+- [WordPress Engineer with extensive Gutenberg Block Skills](https://jobs.wordpress.net/job/wordpress-engineer-with-extensive-gutenberg-block-skills/)
+- [Need some help](https://jobs.wordpress.net/job/need-some-help/)
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-23/)
 - [Senior Software Developer](https://jobs.wordpress.net/job/senior-software-developer/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-22/)
 - [WordPress Maintenance &amp; Fix &amp; Develop / Existing website Entrada Theme](https://jobs.wordpress.net/job/wordpress-maintenance-fix-develop-existing-website-entrada-theme/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-780/)
 - [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-5/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-779/)
-- [[Remote] WordPress Developer &lpar;PHP/JS&rpar;](https://jobs.wordpress.net/job/remote-wordpress-developer-php-js-4/)
-- [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-4/)
-- [Graduate or Student Web Developer](https://jobs.wordpress.net/job/graduate-or-student-web-developer/)
-- [Web Designer / Developer](https://jobs.wordpress.net/job/web-designer-developer-8/)
 <!-- JOBS:END -->
 
 ## Central
