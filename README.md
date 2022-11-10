@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Builder Basics: How to Curate the Editing Experience](https://wordpress.tv/2022/11/10/builder-basics-how-to-curate-the-editing-experience/)
 - [Que necesito para convertirme en un UX Designer](https://wordpress.tv/2022/11/10/que-necesito-para-convertirme-en-un-ux-designer/)
 - [Crear un formulario accesible con Gravity Forms 2.5](https://wordpress.tv/2022/11/10/crear-un-formulario-accesible-con-gravity-forms-2-5/)
 - [Core Web Vitals 101](https://wordpress.tv/2022/11/10/core-web-vitals-101/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Qué es lo más importante hoy en día, y por qué es la comunidad WordPress](https://wordpress.tv/2022/11/09/que-es-lo-mas-importante-hoy-en-dia-y-por-que-es-la-comunidad-wordpress/)
 - [Usability testing de la teoría a la práctica](https://wordpress.tv/2022/11/08/usability-testing-de-la-teoria-a-la-practica/)
 - [La magia del contenido](https://wordpress.tv/2022/11/08/la-magia-del-contenido/)
-- [Usando custom fields y uikit](https://wordpress.tv/2022/11/08/usando-custom-fields-y-uikit/)
 <!-- WPTV:END -->
 
 ## Marketing
