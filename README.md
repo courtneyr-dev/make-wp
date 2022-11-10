@@ -366,6 +366,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Feadback request: Amplification request form](https://make.wordpress.org/marketing/2022/11/10/feadback-request-amplification-request-form/)
 - [Agenda: WordPress global Marketing Team meeting, November 9, 2022](https://make.wordpress.org/marketing/2022/11/09/agenda-wordpress-global-marketing-team-meeting-november-9-2022/)
 - [Notes: Global Marketing Team meeting, November 2, 2022](https://make.wordpress.org/marketing/2022/11/07/notes-global-marketing-team-meeting-november-2-2022/)
 - [Agenda: WordPress global Marketing Team meeting, November 2, 2022](https://make.wordpress.org/marketing/2022/11/02/agenda-wordpress-global-marketing-team-meeting-november-2-2022/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: global Marketing Team meeting, October 19, 2022](https://make.wordpress.org/marketing/2022/10/19/agenda-global-marketing-team-meeting-october-19-2022/)
 - [Notes: Global Marketing Team meeting, October 12, 2022](https://make.wordpress.org/marketing/2022/10/17/notes-global-marketing-team-meeting-october-12-2022/)
 - [Agenda: WordPress global marketing team meeting, October 12, 2022](https://make.wordpress.org/marketing/2022/10/11/agenda-wordpress-global-marketing-team-meeting-october-12-2022/)
-- [X-post: Renaming WordPress.org Support to Documentation](https://make.wordpress.org/marketing/2022/10/11/xpost-renaming-wordpress-org-support-to-documentation/)
 <!-- MARKETING:END -->
 
 ## CLI
