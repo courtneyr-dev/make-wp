@@ -337,6 +337,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Que necesito para convertirme en un UX Designer](https://wordpress.tv/2022/11/10/que-necesito-para-convertirme-en-un-ux-designer/)
+- [Crear un formulario accesible con Gravity Forms 2.5](https://wordpress.tv/2022/11/10/crear-un-formulario-accesible-con-gravity-forms-2-5/)
+- [Core Web Vitals 101](https://wordpress.tv/2022/11/10/core-web-vitals-101/)
+- [Comenzando con WordPress y cómo crear un sitio web que guste a los buscadores](https://wordpress.tv/2022/11/10/comenzando-con-wordpress-y-como-crear-un-sitio-web-que-guste-a-los-buscadores/)
+- [Pagos con Paypal Checkout Express sin Woo](https://wordpress.tv/2022/11/10/pagos-con-paypal-checkout-express-sin-woo/)
+- [SEO, SEM, ¿Cómo gustarle a Google?](https://wordpress.tv/2022/11/10/seo-sem-como-gustarle-a-google/)
+- [Legalizando mi negocio Digital](https://wordpress.tv/2022/11/10/legalizando-mi-negocio-digital/)
 - [Outbound e inbound: ¿Cuál es el mix perfecto para mi estrategia?](https://wordpress.tv/2022/11/10/outbound-e-inbound-cual-es-el-mix-perfecto-para-mi-estrategia/)
 - [6 consejos para la optimización de contenido para cada red social de tu negocio](https://wordpress.tv/2022/11/10/6-consejos-para-la-optimizacion-de-contenido-para-cada-red-social-de-tu-negocio/)
 - [Creación de Gutenberg Blocks](https://wordpress.tv/2022/11/10/creacion-de-gutenberg-blocks/)
@@ -355,13 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Usability testing de la teoría a la práctica](https://wordpress.tv/2022/11/08/usability-testing-de-la-teoria-a-la-practica/)
 - [La magia del contenido](https://wordpress.tv/2022/11/08/la-magia-del-contenido/)
 - [Usando custom fields y uikit](https://wordpress.tv/2022/11/08/usando-custom-fields-y-uikit/)
-- [Creando un bloque de Gutenberg Dinámico a partir de un Shortcode](https://wordpress.tv/2022/11/08/creando-un-bloque-de-gutenberg-dinamico-a-partir-de-un-shortcode/)
-- [Meeting your customers where they are – how businesses can thrive in a digital-first world](https://wordpress.tv/2022/11/07/meeting-your-customers-where-they-are-how-businesses-can-thrive-in-a-digital-first-world/)
-- [Introducing Twenty Twenty-Three](https://wordpress.tv/2022/11/07/introducing-twenty-twenty-three/)
-- [Lets code: internationalization in block themes](https://wordpress.tv/2022/11/07/lets-code-internationalisation-in-block-themes/)
-- [Web development strategy with WordPress and Gutenberg](https://wordpress.tv/2022/11/05/web-development-strategy-with-wordpress-and-gutenberg/)
-- [Intro to the Site Editor and Template Editor](https://wordpress.tv/2022/11/03/intro-to-the-site-editor-and-template-editor-2/)
-- [Ideas for getting more views on your blog](https://wordpress.tv/2022/11/03/ideas-for-getting-more-views-on-your-blog/)
 <!-- WPTV:END -->
 
 ## Marketing
