@@ -337,6 +337,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Herramientas y consejos para que tu web sea accesible](https://wordpress.tv/2022/11/11/herramientas-y-consejos-para-que-tu-web-sea-accesible/)
+- [Abriendo un negocio en Costa Rica](https://wordpress.tv/2022/11/11/abriendo-un-negocio-en-costa-rica/)
 - [Builder Basics: How to Curate the Editing Experience](https://wordpress.tv/2022/11/10/builder-basics-how-to-curate-the-editing-experience/)
 - [Que necesito para convertirme en un UX Designer](https://wordpress.tv/2022/11/10/que-necesito-para-convertirme-en-un-ux-designer/)
 - [Crear un formulario accesible con Gravity Forms 2.5](https://wordpress.tv/2022/11/10/crear-un-formulario-accesible-con-gravity-forms-2-5/)
@@ -360,8 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rompamos el Tabú usando Elementor](https://wordpress.tv/2022/11/09/rompamos-el-tabu-usando-elementor/)
 - [Defendiendo tu WordPress: Una metodología práctica contra las ciberamenazas](https://wordpress.tv/2022/11/09/defendiendo-tu-wordpress-una-metodologia-practica-contra-las-ciberamenazas/)
 - [Qué es lo más importante hoy en día, y por qué es la comunidad WordPress](https://wordpress.tv/2022/11/09/que-es-lo-mas-importante-hoy-en-dia-y-por-que-es-la-comunidad-wordpress/)
-- [Usability testing de la teoría a la práctica](https://wordpress.tv/2022/11/08/usability-testing-de-la-teoria-a-la-practica/)
-- [La magia del contenido](https://wordpress.tv/2022/11/08/la-magia-del-contenido/)
 <!-- WPTV:END -->
 
 ## Marketing
