@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: developing blocks without React! – Part 1](https://wordpress.tv/2022/11/11/lets-code-developing-blocks-without-react-part-1/)
 - [Herramientas y consejos para que tu web sea accesible](https://wordpress.tv/2022/11/11/herramientas-y-consejos-para-que-tu-web-sea-accesible/)
 - [Abriendo un negocio en Costa Rica](https://wordpress.tv/2022/11/11/abriendo-un-negocio-en-costa-rica/)
 - [Builder Basics: How to Curate the Editing Experience](https://wordpress.tv/2022/11/10/builder-basics-how-to-curate-the-editing-experience/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Padding, Margin and Block Spacing](https://wordpress.tv/2022/11/09/padding-margin-and-block-spacing/)
 - [Rompamos el Tabú usando Elementor](https://wordpress.tv/2022/11/09/rompamos-el-tabu-usando-elementor/)
 - [Defendiendo tu WordPress: Una metodología práctica contra las ciberamenazas](https://wordpress.tv/2022/11/09/defendiendo-tu-wordpress-una-metodologia-practica-contra-las-ciberamenazas/)
-- [Qué es lo más importante hoy en día, y por qué es la comunidad WordPress](https://wordpress.tv/2022/11/09/que-es-lo-mas-importante-hoy-en-dia-y-por-que-es-la-comunidad-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
