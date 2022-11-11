@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Upcoming #WPDiversity Events: December 2022](https://make.wordpress.org/community/2022/11/11/upcoming-wpdiversity-events-december-2022/)
 - [Community Team Rep Nominations for 2023](https://make.wordpress.org/community/2022/11/10/community-team-rep-nominations-for-2023/)
 - [WordCamp Mentors’ November check-in!](https://make.wordpress.org/community/2022/11/04/wordcamp-mentors-november-check-in/)
 - [Community Team Meeting Agenda for Nov 3, 2022](https://make.wordpress.org/community/2022/11/03/community-team-meeting-agenda-for-nov-3-2022/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: October 2022](https://make.wordpress.org/community/2022/10/26/meetup-organizer-newsletter-october-2022/)
 - [Community Deputy Training #4: WordCamp Process Flow](https://make.wordpress.org/community/2022/10/21/community-deputy-training-4-wordcamp-process-flow/)
 - [Report: Diverse Speaker Workshop September 2022](https://make.wordpress.org/community/2022/10/17/report-diverse-speaker-workshop-september-2022/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on October 12, 2022](https://make.wordpress.org/community/2022/10/12/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-october-12-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
