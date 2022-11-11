@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi!](https://make.wordpress.org/polyglots/2022/11/11/hi-97/)
 - [PTE Request for [My Calendar] and [SpeakOut!]](https://make.wordpress.org/polyglots/2022/11/10/pte-request-for-my-calendar-and-speakout/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/11/10/i-am-the-plugin-author-31/)
 - [Please add me to this…](https://make.wordpress.org/polyglots/2022/11/10/please-add-me-to-this-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – Nov. 09, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/08/agenda-weekly-polyglots-chat-nov-09-2022-1300-utc/)
 - [Call for Polyglots Team Representatives](https://make.wordpress.org/polyglots/2022/11/08/call-for-polyglots-team-representatives-2/)
 - [Starting a Polyglots Outreach Effort](https://make.wordpress.org/polyglots/2022/11/08/starting-a-polyglots-outreach-effort/)
-- [PTE Request for Email Scheduling](https://make.wordpress.org/polyglots/2022/11/08/pte-request-for-email-scheduling/)
 <!-- POLYGLOTS:END -->
 
 ## Support
