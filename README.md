@@ -340,7 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: developing blocks without React! – Part 1](https://wordpress.tv/2022/11/11/lets-code-developing-blocks-without-react-part-1/)
 - [Herramientas y consejos para que tu web sea accesible](https://wordpress.tv/2022/11/11/herramientas-y-consejos-para-que-tu-web-sea-accesible/)
 - [Abriendo un negocio en Costa Rica](https://wordpress.tv/2022/11/11/abriendo-un-negocio-en-costa-rica/)
-- [Builder Basics: How to Curate the Editing Experience](https://wordpress.tv/2022/11/10/builder-basics-how-to-curate-the-editing-experience/)
+- [Builder basics: how to curate the editing experience](https://wordpress.tv/2022/11/10/builder-basics-how-to-curate-the-editing-experience/)
 - [Que necesito para convertirme en un UX Designer](https://wordpress.tv/2022/11/10/que-necesito-para-convertirme-en-un-ux-designer/)
 - [Crear un formulario accesible con Gravity Forms 2.5](https://wordpress.tv/2022/11/10/crear-un-formulario-accesible-con-gravity-forms-2-5/)
 - [Core Web Vitals 101](https://wordpress.tv/2022/11/10/core-web-vitals-101/)
