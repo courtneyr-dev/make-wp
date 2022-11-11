@@ -281,6 +281,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WordPress development live stream: Developing Blocks without React – Part 2](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-2)
+- [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2)
 - [Let’s code: Developing Blocks without React! – Part 1](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-1)
 - [WordPress development live stream: Developing Blocks without React! – Part 1](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-1)
 - [Using Chrome’s Developer Tools](https://learn.wordpress.org/?meeting=using-chromes-developer-tools)
@@ -304,8 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block &amp; Theme Global Styles Customization](https://learn.wordpress.org/?meeting=block-theme-global-styles-customization-2)
 - [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress-2)
 - [Blogging With WordPress – 2022 Edition](https://learn.wordpress.org/?meeting=blogging-with-wordpress-2022-edition-2)
-- [Blogging with WordPress – 2022 Edition](https://learn.wordpress.org/?meeting=blogging-with-wordpress-2022-edition)
-- [クエリループブロックでブログページを作ろう！](https://learn.wordpress.org/?meeting=%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81-2)
 <!-- SLS:END -->
 
 ## Test
