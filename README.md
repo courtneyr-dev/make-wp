@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-advanced-images-2/)
+- [PTE Request for Virtuaria – Pagseguro Pix para Woocommerce](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-virtuaria-pagseguro-pix-para-woocommerce/)
+- [PTE Request for Lockee](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-lockee/)
+- [PTE Request for Ultimate Sticky…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-ultimate-sticky-2/)
 - [PTE Request for Easy Donation for Woocommerce Plugin](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-easy-donation-for-woocommerce-plugin-2/)
 - [PTE Request for eyezon](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-eyezon/)
 - [Hi!](https://make.wordpress.org/polyglots/2022/11/11/hi-97/)
 - [PTE Request for [My Calendar] and [SpeakOut!]](https://make.wordpress.org/polyglots/2022/11/10/pte-request-for-my-calendar-and-speakout/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/11/10/i-am-the-plugin-author-31/)
 - [Please add me to this…](https://make.wordpress.org/polyglots/2022/11/10/please-add-me-to-this-2/)
-- [PTE Request for SEOKEY and other plugins](https://make.wordpress.org/polyglots/2022/11/09/pte-request-for-seokey-and-other-plugins/)
-- [# PTE Request for picu…](https://make.wordpress.org/polyglots/2022/11/08/pte-request-for-picu-6/)
-- [Hi. I would like to…](https://make.wordpress.org/polyglots/2022/11/08/hi-i-would-like-to-17/)
-- [Agenda: Weekly Polyglots Chat – Nov. 09, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/08/agenda-weekly-polyglots-chat-nov-09-2022-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
