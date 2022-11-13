@@ -525,12 +525,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-18/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-12/)
 - [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-17/)
-- [Technical Support of WordPress Site](https://jobs.wordpress.net/job/technical-support-of-wordpress-site/)
 - [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer/)
 - [WordPress Engineer with extensive Gutenberg Block Skills](https://jobs.wordpress.net/job/wordpress-engineer-with-extensive-gutenberg-block-skills/)
 - [Need some help](https://jobs.wordpress.net/job/need-some-help/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-23/)
 - [Senior Software Developer](https://jobs.wordpress.net/job/senior-software-developer/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-22/)
 <!-- JOBS:END -->
 
 ## Central
