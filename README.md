@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Finding and fixing the six most common WCAG 2 failures](https://wordpress.tv/2022/11/14/finding-and-fixing-the-six-most-common-wcag-2-failures/)
 - [Let’s code: developing blocks without React! – Part 1](https://wordpress.tv/2022/11/11/lets-code-developing-blocks-without-react-part-1/)
 - [Herramientas y consejos para que tu web sea accesible](https://wordpress.tv/2022/11/11/herramientas-y-consejos-para-que-tu-web-sea-accesible/)
 - [Abriendo un negocio en Costa Rica](https://wordpress.tv/2022/11/11/abriendo-un-negocio-en-costa-rica/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Spacing](https://wordpress.tv/2022/11/09/block-spacing/)
 - [Padding, Margin and Block Spacing](https://wordpress.tv/2022/11/09/padding-margin-and-block-spacing/)
 - [Rompamos el Tabú usando Elementor](https://wordpress.tv/2022/11/09/rompamos-el-tabu-usando-elementor/)
-- [Defendiendo tu WordPress: Una metodología práctica contra las ciberamenazas](https://wordpress.tv/2022/11/09/defendiendo-tu-wordpress-una-metodologia-practica-contra-las-ciberamenazas/)
 <!-- WPTV:END -->
 
 ## Marketing
