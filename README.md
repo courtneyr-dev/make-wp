@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Gift Pack…](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-gift-pack/)
 - [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-advanced-images-2/)
 - [PTE Request for Virtuaria – Pagseguro Pix para Woocommerce](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-virtuaria-pagseguro-pix-para-woocommerce/)
 - [PTE Request for Lockee](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-lockee/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi!](https://make.wordpress.org/polyglots/2022/11/11/hi-97/)
 - [PTE Request for [My Calendar] and [SpeakOut!]](https://make.wordpress.org/polyglots/2022/11/10/pte-request-for-my-calendar-and-speakout/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2022/11/10/i-am-the-plugin-author-31/)
-- [Please add me to this…](https://make.wordpress.org/polyglots/2022/11/10/please-add-me-to-this-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
