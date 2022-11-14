@@ -281,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Thessaloniki WordPress Meetup: Block Theme Workshop – Part 2](https://learn.wordpress.org/?meeting=thessaloniki-wordpress-meetup-block-theme-workshop-part-2)
 - [WordPress development live stream: Developing Blocks without React – Part 2](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-2)
 - [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2)
 - [Let’s code: Developing Blocks without React! – Part 1](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-1)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Roles and Capabilities](https://learn.wordpress.org/?meeting=wordpress-roles-and-capabilities-2)
 - [Block &amp; Theme Global Styles Customization](https://learn.wordpress.org/?meeting=block-theme-global-styles-customization-2)
 - [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress-2)
-- [Blogging With WordPress – 2022 Edition](https://learn.wordpress.org/?meeting=blogging-with-wordpress-2022-edition-2)
 <!-- SLS:END -->
 
 ## Test
