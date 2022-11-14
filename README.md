@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-6/)
+- [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-4/)
+- [Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjsplugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs/)
+- [Talent Acquisition Specialist](https://jobs.wordpress.net/job/talent-acquisition-specialist-3/)
+- [SEO/Traffic analyst](https://jobs.wordpress.net/job/seo-traffic-analyst-4/)
+- [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-2/)
+- [HR and Finance Assistant |HR|Finance|Bookkeeping|Accounting|Payroll|](https://jobs.wordpress.net/job/hr-and-finance-assistant-hrfinancebookkeepingaccountingpayroll-2/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-48/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-18/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-12/)
-- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-17/)
-- [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer/)
-- [WordPress Engineer with extensive Gutenberg Block Skills](https://jobs.wordpress.net/job/wordpress-engineer-with-extensive-gutenberg-block-skills/)
-- [Need some help](https://jobs.wordpress.net/job/need-some-help/)
-- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-23/)
-- [Senior Software Developer](https://jobs.wordpress.net/job/senior-software-developer/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-22/)
 <!-- JOBS:END -->
 
 ## Central
