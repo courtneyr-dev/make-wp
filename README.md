@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WPX GDPR…](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-wpx-gdpr/)
+- [PTE Request for Super Light Cache Buster](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-super-light-cache-buster/)
+- [PTE Request for two plugins](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-two-plugins-2/)
+- [PTE Request for Donation Platform for WooCommerce](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-donation-platform-for-woocommerce-2/)
 - [PTE Request for Gift Pack…](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-gift-pack/)
 - [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-advanced-images-2/)
 - [PTE Request for Virtuaria – Pagseguro Pix para Woocommerce](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-virtuaria-pagseguro-pix-para-woocommerce/)
 - [PTE Request for Lockee](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-lockee/)
 - [PTE Request for Ultimate Sticky…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-ultimate-sticky-2/)
 - [PTE Request for Easy Donation for Woocommerce Plugin](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-easy-donation-for-woocommerce-plugin-2/)
-- [PTE Request for eyezon](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-eyezon/)
-- [Hi!](https://make.wordpress.org/polyglots/2022/11/11/hi-97/)
-- [PTE Request for [My Calendar] and [SpeakOut!]](https://make.wordpress.org/polyglots/2022/11/10/pte-request-for-my-calendar-and-speakout/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2022/11/10/i-am-the-plugin-author-31/)
 <!-- POLYGLOTS:END -->
 
 ## Support
