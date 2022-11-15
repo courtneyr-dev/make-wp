@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for User Toolkit](https://make.wordpress.org/polyglots/2022/11/15/pte-request-for-user-toolkit/)
 - [PTE Request for WPX GDPR…](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-wpx-gdpr/)
 - [PTE Request for Super Light Cache Buster](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-super-light-cache-buster/)
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-two-plugins-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Virtuaria – Pagseguro Pix para Woocommerce](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-virtuaria-pagseguro-pix-para-woocommerce/)
 - [PTE Request for Lockee](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-lockee/)
 - [PTE Request for Ultimate Sticky…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-ultimate-sticky-2/)
-- [PTE Request for Easy Donation for Woocommerce Plugin](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-easy-donation-for-woocommerce-plugin-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
