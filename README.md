@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [पाठ योजना कैसे बनाएं](https://learn.wordpress.org/lesson-plan/%e0%a4%aa%e0%a4%be%e0%a4%a0-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%88%e0%a4%b8%e0%a5%87-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%8f%e0%a4%82/)
 - [पाठ योजना कसरी बनाउने](https://learn.wordpress.org/lesson-plan/%e0%a4%aa%e0%a4%be%e0%a4%a0-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%b8%e0%a4%b0%e0%a5%80-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%89%e0%a4%a8%e0%a5%87/)
 - [Panduan membuat Rencana Pembelajaran](https://learn.wordpress.org/lesson-plan/panduan-membuat-rencana-pembelajaran/)
 - [Πώς να προσθέσετε και να αφαιρέσετε λογότυπο και εικονίδιο ιστοτόπου στο πρόγραμμα επεξεργασίας ιστότοπου](https://learn.wordpress.org/lesson-plan/%cf%80%cf%8e%cf%82-%ce%bd%ce%b1-%cf%80%cf%81%ce%bf%cf%83%ce%b8%ce%ad%cf%83%ce%b5%cf%84%ce%b5-%ce%ba%ce%b1%ce%b9-%ce%bd%ce%b1-%ce%b1%cf%86%ce%b1%ce%b9%cf%81%ce%ad%cf%83%ce%b5%cf%84%ce%b5-%ce%bb%ce%bf/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Templates](https://learn.wordpress.org/lesson-plan/templates/)
 - [Introduction To Common Plugins](https://learn.wordpress.org/lesson-plan/introduction-to-common-plugins/)
 - [How to Create a Menu with the Navigation Block](https://learn.wordpress.org/lesson-plan/how-to-create-a-menu-with-the-navigation-block/)
-- [How to Build Low-Code Block Patterns](https://learn.wordpress.org/lesson-plan/how-to-build-low-code-block-patterns/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
