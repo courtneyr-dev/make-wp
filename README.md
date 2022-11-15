@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [November 2022 Faculty Meeting](https://make.wordpress.org/training/2022/11/15/november-2022-faculty-meeting/)
 - [Meeting Agenda for November 15, 2022](https://make.wordpress.org/training/2022/11/14/meeting-agenda-for-november-15-2022/)
 - [Choosing accessible/contrasting dark theme colors for online workshops and tutorial videos](https://make.wordpress.org/training/2022/11/09/choosing-accessible-contrasting-dark-theme-colors-for-online-workshops-and-tutorial-videos/)
 - [Training Team Meeting Recap for November 1, 2022](https://make.wordpress.org/training/2022/11/09/training-team-meeting-recap-for-november-1-2022/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meeting Agenda for November 1, 2022](https://make.wordpress.org/training/2022/10/31/meeting-agenda-for-november-1-2022/)
 - [Meeting Agenda for October 25, 2022](https://make.wordpress.org/training/2022/10/25/meeting-agenda-for-october-25-2022/)
 - [October 2022 Monthly Faculty Meeting Agenda](https://make.wordpress.org/training/2022/10/24/october-2022-monthly-faculty-meeting-agenda/)
-- [X-post: WordPress.org Redesign Update](https://make.wordpress.org/training/2022/10/22/xpost-wordpress-org-redesign-update/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
