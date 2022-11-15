@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – Nov. 16, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/15/agenda-weekly-polyglots-chat-nov-16-2022-700-utc/)
 - [PTE Request for User Toolkit](https://make.wordpress.org/polyglots/2022/11/15/pte-request-for-user-toolkit/)
 - [PTE Request for WPX GDPR…](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-wpx-gdpr/)
 - [PTE Request for Super Light Cache Buster](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-super-light-cache-buster/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-advanced-images-2/)
 - [PTE Request for Virtuaria – Pagseguro Pix para Woocommerce](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-virtuaria-pagseguro-pix-para-woocommerce/)
 - [PTE Request for Lockee](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-lockee/)
-- [PTE Request for Ultimate Sticky…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-ultimate-sticky-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
