@@ -373,9 +373,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: WordPress global Marketing Team meeting, November 2, 2022](https://make.wordpress.org/marketing/2022/11/02/agenda-wordpress-global-marketing-team-meeting-november-2-2022/)
 - [Notes: Global Marketing Team meeting, October 26, 2022](https://make.wordpress.org/marketing/2022/11/01/notes-global-marketing-team-meeting-october-26-2022/)
 - [Agenda: global Marketing Team meeting, October 26, 2022](https://make.wordpress.org/marketing/2022/10/26/agenda-global-marketing-team-meeting-october-26-2022/)
+- [Notes: Global Marketing Team meeting, October 19, 2022](https://make.wordpress.org/marketing/2022/10/25/notes-global-marketing-team-meeting-october-19-2022/)
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/marketing/2022/10/21/xpost-wordpress-org-redesign-update/)
 - [Agenda: global Marketing Team meeting, October 19, 2022](https://make.wordpress.org/marketing/2022/10/19/agenda-global-marketing-team-meeting-october-19-2022/)
-- [Notes: Global Marketing Team meeting, October 12, 2022](https://make.wordpress.org/marketing/2022/10/17/notes-global-marketing-team-meeting-october-12-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
