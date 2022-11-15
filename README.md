@@ -422,6 +422,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Community Meeting Recap &lpar;15 November 2022&rpar;](https://make.wordpress.org/openverse/2022/11/15/community-meeting-recap-15-november-2022/)
 - [Community Meeting Recap &lpar;25 October 2022&rpar;](https://make.wordpress.org/openverse/2022/10/25/community-meeting-recap-25-october-2022/)
 - [Handling very large &lpar;&gt;2GB&rpar; files](https://make.wordpress.org/openverse/2022/10/25/handling-very-large-2gb-files/)
 - [Storing provider supplied thumbnails](https://make.wordpress.org/openverse/2022/10/25/storing-provider-supplied-thumbnails/)
@@ -431,7 +432,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap: Priorities Meeting 2022-10-05](https://make.wordpress.org/openverse/2022/10/05/recap-priorities-meeting-2022-10-05/)
 - [iNaturalist Retrospective Recap](https://make.wordpress.org/openverse/2022/10/05/inaturalist-retrospective-recap/)
 - [Next steps for Walters Art Museum data](https://make.wordpress.org/openverse/2022/09/30/next-steps-for-walters-art-museum-data/)
-- [Openverse Monthly Priorities Meeting 2022-10-05](https://make.wordpress.org/openverse/2022/09/30/openverse-monthly-priorities-meeting-2022-10-05/)
 <!-- OPENVERSE:END -->
 
 ## Photos
