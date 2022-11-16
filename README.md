@@ -521,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-11/)
 - [Custom Woocommerce Product For Print on Demand system](https://jobs.wordpress.net/job/custom-woocommerce-product-for-print-on-demand-system/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist/)
 - [Senior Content Writer](https://jobs.wordpress.net/job/senior-content-writer/)
@@ -531,6 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjsplugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs/)
 - [Talent Acquisition Specialist](https://jobs.wordpress.net/job/talent-acquisition-specialist-3/)
 - [SEO/Traffic analyst](https://jobs.wordpress.net/job/seo-traffic-analyst-4/)
+- [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-2/)
 <!-- JOBS:END -->
 
 ## Central
