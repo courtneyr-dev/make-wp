@@ -337,6 +337,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Presentación de la WordCamp Sevilla 2022](https://wordpress.tv/2022/11/15/presentacion-de-la-wordcamp-sevilla-2022/)
+- [La puerta de entrada a WordPress](https://wordpress.tv/2022/11/15/la-puerta-de-entrada-a-wordpress/)
+- [Para qué utilizar WordPress](https://wordpress.tv/2022/11/15/para-que-utilizar-wordpress/)
+- [Paso a paso de creación de una web](https://wordpress.tv/2022/11/15/paso-a-paso-de-creacion-de-una-web/)
+- [Dar a conocer tu proyecto](https://wordpress.tv/2022/11/15/dar-a-conocer-tu-proyecto/)
+- [Creación de Gutenberg Blocks](https://wordpress.tv/2022/11/15/creacion-de-gutenberg-blocks-2/)
+- [Digitalizando mi Pyme](https://wordpress.tv/2022/11/15/digitalizando-mi-pyme/)
+- [Empleabilidad post Covid-19](https://wordpress.tv/2022/11/15/empleabilidad-post-covid-19/)
 - [Finding and fixing the six most common WCAG 2 failures](https://wordpress.tv/2022/11/14/finding-and-fixing-the-six-most-common-wcag-2-failures/)
 - [Let’s code: developing blocks without React! – Part 1](https://wordpress.tv/2022/11/11/lets-code-developing-blocks-without-react-part-1/)
 - [Herramientas y consejos para que tu web sea accesible](https://wordpress.tv/2022/11/11/herramientas-y-consejos-para-que-tu-web-sea-accesible/)
@@ -354,14 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creación de Gutenberg Blocks](https://wordpress.tv/2022/11/10/creacion-de-gutenberg-blocks/)
 - [Vendiendole al cerebro – Enfoque neurocientífico](https://wordpress.tv/2022/11/10/vendiendole-al-cerebro-enfoque-neurocientifico/)
 - [Qué necesita saber el programador y el diseñador para llevar al éxito un sitio web](https://wordpress.tv/2022/11/10/que-necesita-saber-el-programador-y-el-disenador-para-llevar-al-exito-un-sitio-web/)
-- [¿Puede Frame Innovation salvar el mundo? Un nuevo enfoque por Kees Dorst](https://wordpress.tv/2022/11/10/puede-frame-innovation-salvar-el-mundo-un-nuevo-enfoque-por-kees-dorst/)
-- [Patrones de diseño](https://wordpress.tv/2022/11/10/patrones-de-diseno/)
-- [Estrategias e ideas de marketing asequibles para pequeñas empresas WordPress](https://wordpress.tv/2022/11/10/estrategias-e-ideas-de-marketing-asequibles-para-pequenas-empresas-wordpress/)
-- [De lo tradicional a la nube](https://wordpress.tv/2022/11/10/de-lo-tradicional-a-la-nube/)
-- [Plugins en WP: Mi experiencia «From Zero to Hero»](https://wordpress.tv/2022/11/10/plugins-en-wp-mi-experiencia-from-zero-to-hero/)
-- [Block Spacing](https://wordpress.tv/2022/11/09/block-spacing/)
-- [Padding, Margin and Block Spacing](https://wordpress.tv/2022/11/09/padding-margin-and-block-spacing/)
-- [Rompamos el Tabú usando Elementor](https://wordpress.tv/2022/11/09/rompamos-el-tabu-usando-elementor/)
 <!-- WPTV:END -->
 
 ## Marketing
