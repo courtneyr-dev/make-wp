@@ -422,6 +422,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Record number of contributors for the Catalog](https://make.wordpress.org/openverse/2022/11/16/record-number-of-contributors-for-the-catalog/)
 - [Community Meeting Recap &lpar;15 November 2022&rpar;](https://make.wordpress.org/openverse/2022/11/15/community-meeting-recap-15-november-2022/)
 - [Community Meeting Recap &lpar;25 October 2022&rpar;](https://make.wordpress.org/openverse/2022/10/25/community-meeting-recap-25-october-2022/)
 - [Handling very large &lpar;&gt;2GB&rpar; files](https://make.wordpress.org/openverse/2022/10/25/handling-very-large-2gb-files/)
@@ -431,7 +432,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Next steps for Thingiverse data](https://make.wordpress.org/openverse/2022/10/10/next-steps-for-thingiverse-data/)
 - [Recap: Priorities Meeting 2022-10-05](https://make.wordpress.org/openverse/2022/10/05/recap-priorities-meeting-2022-10-05/)
 - [iNaturalist Retrospective Recap](https://make.wordpress.org/openverse/2022/10/05/inaturalist-retrospective-recap/)
-- [Next steps for Walters Art Museum data](https://make.wordpress.org/openverse/2022/09/30/next-steps-for-walters-art-museum-data/)
 <!-- OPENVERSE:END -->
 
 ## Photos
