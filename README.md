@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Announcement: New European Camera Kits](https://make.wordpress.org/community/2022/11/17/announcement-new-european-camera-kits/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on November 9, 2022](https://make.wordpress.org/community/2022/11/15/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-november-9-2022/)
 - [Upcoming #WPDiversity Events: December 2022](https://make.wordpress.org/community/2022/11/11/upcoming-wpdiversity-events-december-2022/)
 - [Community Team Rep Nominations for 2023](https://make.wordpress.org/community/2022/11/10/community-team-rep-nominations-for-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on October 26, 2022](https://make.wordpress.org/community/2022/11/02/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-october-26-2022/)
 - [Deputy Training #4: WordCamp Process Flow Recap](https://make.wordpress.org/community/2022/10/27/deputy-training-4-wordcamp-process-flow-recap/)
 - [Meetup Organizer Newsletter: October 2022](https://make.wordpress.org/community/2022/10/26/meetup-organizer-newsletter-october-2022/)
-- [Community Deputy Training #4: WordCamp Process Flow](https://make.wordpress.org/community/2022/10/21/community-deputy-training-4-wordcamp-process-flow/)
 <!-- COMMUNITY:END -->
 
 ## Meta
