@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Padding Versus Margin](https://wordpress.tv/2022/11/16/padding-versus-margin/)
 - [Presentación de la WordCamp Sevilla 2022](https://wordpress.tv/2022/11/15/presentacion-de-la-wordcamp-sevilla-2022/)
 - [La puerta de entrada a WordPress](https://wordpress.tv/2022/11/15/la-puerta-de-entrada-a-wordpress/)
 - [Para qué utilizar WordPress](https://wordpress.tv/2022/11/15/para-que-utilizar-wordpress/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [6 consejos para la optimización de contenido para cada red social de tu negocio](https://wordpress.tv/2022/11/10/6-consejos-para-la-optimizacion-de-contenido-para-cada-red-social-de-tu-negocio/)
 - [Creación de Gutenberg Blocks](https://wordpress.tv/2022/11/10/creacion-de-gutenberg-blocks/)
 - [Vendiendole al cerebro – Enfoque neurocientífico](https://wordpress.tv/2022/11/10/vendiendole-al-cerebro-enfoque-neurocientifico/)
-- [Qué necesita saber el programador y el diseñador para llevar al éxito un sitio web](https://wordpress.tv/2022/11/10/que-necesita-saber-el-programador-y-el-disenador-para-llevar-al-exito-un-sitio-web/)
 <!-- WPTV:END -->
 
 ## Marketing
