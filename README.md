@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Padding Versus Margin](https://learn.wordpress.org/tutorial/padding-versus-margin/)
 - [Block Spacing](https://learn.wordpress.org/tutorial/block-spacing/)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 - [Using Block Template Parts in Classic Themes](https://learn.wordpress.org/tutorial/using-block-template-parts-in-classic-themes/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building a home page with a block theme](https://learn.wordpress.org/tutorial/building-a-home-page-with-a-block-theme/)
 - [WordPress Filter Hooks](https://learn.wordpress.org/tutorial/wordpress-filter-hooks/)
 - [Horizontal Pyramid Gallery](https://learn.wordpress.org/tutorial/horizontal-pyramid-gallery/)
-- [WordPress Action Hooks](https://learn.wordpress.org/tutorial/wordpress-action-hooks/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
