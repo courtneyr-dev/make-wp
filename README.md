@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress 6.1 Exploration](https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/)
 - [Johan Janssens: Automating WordPress for fun and profit](https://wordpress.tv/2022/11/17/johan-janssens-automating-wordpress-for-fun-and-profit/)
 - [Aaron Reimann: Making Your Contact Forms Land in an Inbox](https://wordpress.tv/2022/11/17/aaron-reimann-making-your-contact-forms-land-in-an-inbox-2/)
 - [Christien van de Sande: Hoe manage je het beste je projecten én je opdrachtgever?](https://wordpress.tv/2022/11/17/christien-van-de-sande-hoe-manage-je-het-beste-je-projecten-en-je-opdrachtgever/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Padding versus margin](https://wordpress.tv/2022/11/16/padding-versus-margin/)
 - [Presentación de la WordCamp Sevilla 2022](https://wordpress.tv/2022/11/15/presentacion-de-la-wordcamp-sevilla-2022/)
 - [La puerta de entrada a WordPress](https://wordpress.tv/2022/11/15/la-puerta-de-entrada-a-wordpress/)
-- [Para qué utilizar WordPress](https://wordpress.tv/2022/11/15/para-que-utilizar-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
