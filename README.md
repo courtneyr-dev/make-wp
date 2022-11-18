@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Starting fresh on WordPress, Part 1](https://wordpress.tv/2022/11/18/starting-fresh-on-wordpress-part-1/)
 - [Extending WordPress using SlotFill](https://wordpress.tv/2022/11/18/extending-wordpress-using-slotfill/)
 - [Carlo Daniele: creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/11/18/carlo-daniele-creare-blocchi-per-gutenberg-da-dove-iniziare/)
 - [Let’s code: developing blocks without React! – Part 2](https://wordpress.tv/2022/11/18/lets-code-developing-blocks-without-react-part-2/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Caroline Greven: Van PEBCAK naar communicatiegemak](https://wordpress.tv/2022/11/17/caroline-greven-van-pebcak-naar-communicatiegemak/)
 - [Theo van der Zee: Optimizing websites for sustainability](https://wordpress.tv/2022/11/17/theo-van-der-zee-optimizing-websites-for-sustainability/)
 - [Joost de Valk: Improve the environment – Start with your website!](https://wordpress.tv/2022/11/17/joost-de-valk-improve-the-environment-start-with-your-website/)
-- [WordCamp Nederland 2022 – Opening](https://wordpress.tv/2022/11/17/wordcamp-nederland-2022-opening/)
 <!-- WPTV:END -->
 
 ## Marketing
