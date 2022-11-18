@@ -502,21 +502,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.1 Release Candidate 2 &lpar;RC2&rpar; Now Available](https://wordpress.org/news/2022/10/wordpress-6-1-release-candidate-2-now-available/)
 - [WordPress 6.0.3 Security Release](https://wordpress.org/news/2022/10/wordpress-6-0-3-security-release/)
 - [WP Briefing: Episode 41: WordPress 6.1 Sneak Peek with Special Guest Nick Diego](https://wordpress.org/news/2022/10/episode-41-wordpress-6-1-sneak-peek-with-special-guest-nick-diego/)
-- [The Month in WordPress – September 2022](https://wordpress.org/news/2022/10/the-month-in-wordpress-september-2022/)
-- [WordPress 6.1 Release Candidate 1 &lpar;RC1&rpar; Now Available](https://wordpress.org/news/2022/10/wordpress-6-1-release-candidate-1-rc1-now-available/)
-- [WordPress 6.1 Beta 3 Now Available](https://wordpress.org/news/2022/10/wordpress-6-1-beta-3-now-available/)
-- [WP Briefing: Episode 40: All Things Testing with Special Guests Anne McCarthy and Brian Alexander](https://wordpress.org/news/2022/10/episode-40-all-things-testing-with-special-guests-anne-mccarthy-and-brian-alexander/)
-- [WordPress 6.1 Beta 2 Now Available](https://wordpress.org/news/2022/09/wordpress-6-1-beta-2-now-available/)
-- [WordPress 6.1 Beta 1 Now Available](https://wordpress.org/news/2022/09/wordpress-6-1-beta-1-now-available/)
-- [WP Briefing: Episode 39: Contributor Stories Live from WordCamp US!](https://wordpress.org/news/2022/09/episode-39-contributor-stories-live-from-wordcamp-us/)
-- [Dropping security updates for WordPress versions 3.7 through 4.0](https://wordpress.org/news/2022/09/dropping-security-updates-for-wordpress-versions-3-7-through-4-0/)
-- [The Month in WordPress – August 2022](https://wordpress.org/news/2022/09/the-month-in-wordpress-august-2022/)
-- [WP Briefing: Episode 38: All About LearnWP with Special Guest Hauwa Abashiya](https://wordpress.org/news/2022/09/episode-38-all-about-learnwp-with-special-guest-hauwa-abashiya/)
-- [People of WordPress: Bud Kraus](https://wordpress.org/news/2022/08/people-of-wordpress-bud-kraus/)
-- [WordPress 6.0.2 Security and Maintenance Release](https://wordpress.org/news/2022/08/wordpress-6-0-2-security-and-maintenance-release/)
-- [A New WordPress.org Homepage and Download Page](https://wordpress.org/news/2022/08/a-new-wordpress-org-homepage-and-download-page/)
-- [The Month in WordPress – July 2022](https://wordpress.org/news/2022/08/the-month-in-wordpress-july-2022/)
-- [WP Briefing: Episode 37: The World of WordPress on World Wide Web Day](https://wordpress.org/news/2022/08/episode-37-the-world-of-wordpress-on-world-wide-web-day/)
 <!-- NEWS:END -->
 
 ## Jobs
