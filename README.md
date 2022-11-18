@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Carlo Daniele: creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/11/18/carlo-daniele-creare-blocchi-per-gutenberg-da-dove-iniziare/)
 - [Let’s code: developing blocks without React! – Part 2](https://wordpress.tv/2022/11/18/lets-code-developing-blocks-without-react-part-2/)
 - [WordPress 6.1 Exploration](https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/)
 - [Johan Janssens: Automating WordPress for fun and profit](https://wordpress.tv/2022/11/17/johan-janssens-automating-wordpress-for-fun-and-profit/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Joost de Valk: Improve the environment – Start with your website!](https://wordpress.tv/2022/11/17/joost-de-valk-improve-the-environment-start-with-your-website/)
 - [WordCamp Nederland 2022 – Opening](https://wordpress.tv/2022/11/17/wordcamp-nederland-2022-opening/)
 - [Padding versus margin](https://wordpress.tv/2022/11/16/padding-versus-margin/)
-- [Presentación de la WordCamp Sevilla 2022](https://wordpress.tv/2022/11/15/presentacion-de-la-wordcamp-sevilla-2022/)
 <!-- WPTV:END -->
 
 ## Marketing
