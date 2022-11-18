@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Fukusawa Theme…](https://make.wordpress.org/polyglots/2022/11/18/pte-request-for-fukusawa-theme/)
 - [Plugin Author Translation Review Request for Super Monitoring](https://make.wordpress.org/polyglots/2022/11/18/plugin-author-translation-review-request-for-super-monitoring/)
 - [Polyglots Outreach Effort: November 2022](https://make.wordpress.org/polyglots/2022/11/16/polyglots-outreach-effort-november-2022/)
 - [Agenda: Weekly Polyglots Chat – Nov. 16, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/15/agenda-weekly-polyglots-chat-nov-16-2022-700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-two-plugins-2/)
 - [PTE Request for Donation Platform for WooCommerce](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-donation-platform-for-woocommerce-2/)
 - [PTE Request for Gift Pack…](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-gift-pack/)
-- [PTE Request for Advanced Images…](https://make.wordpress.org/polyglots/2022/11/12/pte-request-for-advanced-images-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
