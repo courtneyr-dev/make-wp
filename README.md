@@ -337,14 +337,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [The creative side of blocks, vol. 3](https://wordpress.tv/2022/11/18/the-creative-side-of-blocks-vol-3/)
+- [The creative side of blocks, volume 3](https://wordpress.tv/2022/11/18/the-creative-side-of-blocks-vol-3/)
 - [Starting fresh on WordPress, Part 1](https://wordpress.tv/2022/11/18/starting-fresh-on-wordpress-part-1/)
 - [Extending WordPress using SlotFill](https://wordpress.tv/2022/11/18/extending-wordpress-using-slotfill/)
 - [Carlo Daniele: creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/11/18/carlo-daniele-creare-blocchi-per-gutenberg-da-dove-iniziare/)
 - [Let’s code: developing blocks without React! – Part 2](https://wordpress.tv/2022/11/18/lets-code-developing-blocks-without-react-part-2/)
 - [WordPress 6.1 exploration](https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/)
 - [Automating WordPress for fun and profit](https://wordpress.tv/2022/11/17/johan-janssens-automating-wordpress-for-fun-and-profit/)
-- [Aaron Reimann: Making Your Contact Forms Land in an Inbox](https://wordpress.tv/2022/11/17/aaron-reimann-making-your-contact-forms-land-in-an-inbox-2/)
+- [Making your contact forms land in an inbox](https://wordpress.tv/2022/11/17/aaron-reimann-making-your-contact-forms-land-in-an-inbox-2/)
 - [Christien van de Sande: Hoe manage je het beste je projecten én je opdrachtgever?](https://wordpress.tv/2022/11/17/christien-van-de-sande-hoe-manage-je-het-beste-je-projecten-en-je-opdrachtgever/)
 - [Christoph Daum: Using WordPress for leading local newspaper websites Favorite session](https://wordpress.tv/2022/11/17/christoph-daum-using-wordpress-for-leading-local-newspaper-websites-favorite-session/)
 - [Bert Boerland: Wat WordPress kan leren van Drupal &lpar;en vv&rpar;](https://wordpress.tv/2022/11/17/bert-boerland-wat-wordpress-kan-leren-van-drupal-en-vv/)
