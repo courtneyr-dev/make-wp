@@ -342,7 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Carlo Daniele: creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/11/18/carlo-daniele-creare-blocchi-per-gutenberg-da-dove-iniziare/)
 - [Let’s code: developing blocks without React! – Part 2](https://wordpress.tv/2022/11/18/lets-code-developing-blocks-without-react-part-2/)
 - [WordPress 6.1 exploration](https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/)
-- [Johan Janssens: Automating WordPress for fun and profit](https://wordpress.tv/2022/11/17/johan-janssens-automating-wordpress-for-fun-and-profit/)
+- [Automating WordPress for fun and profit](https://wordpress.tv/2022/11/17/johan-janssens-automating-wordpress-for-fun-and-profit/)
 - [Aaron Reimann: Making Your Contact Forms Land in an Inbox](https://wordpress.tv/2022/11/17/aaron-reimann-making-your-contact-forms-land-in-an-inbox-2/)
 - [Christien van de Sande: Hoe manage je het beste je projecten én je opdrachtgever?](https://wordpress.tv/2022/11/17/christien-van-de-sande-hoe-manage-je-het-beste-je-projecten-en-je-opdrachtgever/)
 - [Christoph Daum: Using WordPress for leading local newspaper websites Favorite session](https://wordpress.tv/2022/11/17/christoph-daum-using-wordpress-for-leading-local-newspaper-websites-favorite-session/)
@@ -361,7 +361,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Erik van Beek: WordPress portalen en apps bouwen met Gravity Forms, GravityView, Gravity Flow en GravityWP](https://wordpress.tv/2022/11/17/erik-van-beek-wordpress-portalen-en-apps-bouwen-met-gravity-forms-gravityview-gravity-flow-en-gravitywp/)
 - [Caroline Greven: Van PEBCAK naar communicatiegemak](https://wordpress.tv/2022/11/17/caroline-greven-van-pebcak-naar-communicatiegemak/)
 - [Theo van der Zee: Optimizing websites for sustainability](https://wordpress.tv/2022/11/17/theo-van-der-zee-optimizing-websites-for-sustainability/)
-- [Joost de Valk: Improve the environment – Start with your website!](https://wordpress.tv/2022/11/17/joost-de-valk-improve-the-environment-start-with-your-website/)
+- [Improve the environment. Start with your website!](https://wordpress.tv/2022/11/17/joost-de-valk-improve-the-environment-start-with-your-website/)
 <!-- WPTV:END -->
 
 ## Marketing
