@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [User Roles and Capabilities](https://developer.wordpress.org/apis/security/user-roles-and-capabilities/)
+- [Example](https://developer.wordpress.org/apis/security/example/)
+- [Nonces](https://developer.wordpress.org/apis/security/nonces/)
+- [Escaping Data](https://developer.wordpress.org/apis/security/escaping/)
+- [Validating Data](https://developer.wordpress.org/apis/security/data-validation/)
+- [Sanitizing Data](https://developer.wordpress.org/apis/security/sanitizing/)
+- [Security](https://developer.wordpress.org/apis/security/)
 - [wp_register_persisted_preferences_meta&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_register_persisted_preferences_meta/)
 - [wp_list_users_args](https://developer.wordpress.org/reference/hooks/wp_list_users_args/)
 - [wp_typography_get_css_variable_inline_style&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_typography_get_css_variable_inline_style/)
-- [WP_Block_Type::__set&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__set/)
-- [WP_Block_Type::__get&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__get/)
-- [WP_Block_Type::__isset&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_type/__isset/)
-- [wp_img_tag_add_decoding_attr](https://developer.wordpress.org/reference/hooks/wp_img_tag_add_decoding_attr/)
-- [wp_img_tag_add_decoding_attr&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_img_tag_add_decoding_attr/)
-- [update_menu_item_cache&lpar;&rpar;](https://developer.wordpress.org/reference/functions/update_menu_item_cache/)
-- [pre_option](https://developer.wordpress.org/reference/hooks/pre_option/)
 <!-- DEVHUB:END -->
 
 ## Themes
