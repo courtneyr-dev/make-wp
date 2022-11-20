@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Common Vulnerabilities](https://developer.wordpress.org/apis/security/common-vulnerabilities/)
 - [User Roles and Capabilities](https://developer.wordpress.org/apis/security/user-roles-and-capabilities/)
 - [Example](https://developer.wordpress.org/apis/security/example/)
 - [Nonces](https://developer.wordpress.org/apis/security/nonces/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Security](https://developer.wordpress.org/apis/security/)
 - [wp_register_persisted_preferences_meta&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_register_persisted_preferences_meta/)
 - [wp_list_users_args](https://developer.wordpress.org/reference/hooks/wp_list_users_args/)
-- [wp_typography_get_css_variable_inline_style&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_typography_get_css_variable_inline_style/)
 <!-- DEVHUB:END -->
 
 ## Themes
