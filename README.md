@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Your technical support philosophy is losing money and angering customers](https://wordpress.tv/2022/11/20/your-technical-support-philosophy-is-losing-money-and-angering-customers/)
 - [The creative side of blocks, volume 3](https://wordpress.tv/2022/11/18/the-creative-side-of-blocks-vol-3/)
 - [Starting fresh on WordPress, Part 1](https://wordpress.tv/2022/11/18/starting-fresh-on-wordpress-part-1/)
 - [Extending WordPress using SlotFill](https://wordpress.tv/2022/11/18/extending-wordpress-using-slotfill/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Liesbeth Smit: How I created an EU scrollytelling campaign in Windows95 style](https://wordpress.tv/2022/11/17/liesbeth-smit-how-i-created-an-eu-scrollytelling-campaign-in-windows95-style/)
 - [Erik van Beek: WordPress portalen en apps bouwen met Gravity Forms, GravityView, Gravity Flow en GravityWP](https://wordpress.tv/2022/11/17/erik-van-beek-wordpress-portalen-en-apps-bouwen-met-gravity-forms-gravityview-gravity-flow-en-gravitywp/)
 - [Caroline Greven: Van PEBCAK naar communicatiegemak](https://wordpress.tv/2022/11/17/caroline-greven-van-pebcak-naar-communicatiegemak/)
-- [Theo van der Zee: Optimizing websites for sustainability](https://wordpress.tv/2022/11/17/theo-van-der-zee-optimizing-websites-for-sustainability/)
 <!-- WPTV:END -->
 
 ## Marketing
