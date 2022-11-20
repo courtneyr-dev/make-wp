@@ -506,6 +506,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-12/)
+- [[Astra] Senior Frontend Developer](https://jobs.wordpress.net/job/astra-senior-frontend-developer-3/)
+- [Project](https://jobs.wordpress.net/job/project-5/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-4/)
 - [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-4/)
 - [Custom Woocommerce Product For Print on Demand system](https://jobs.wordpress.net/job/custom-woocommerce-product-for-print-on-demand-system/)
@@ -513,9 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Content Writer](https://jobs.wordpress.net/job/senior-content-writer/)
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-10/)
 - [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-6/)
-- [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-4/)
-- [Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjsplugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs/)
-- [Talent Acquisition Specialist](https://jobs.wordpress.net/job/talent-acquisition-specialist-3/)
 <!-- JOBS:END -->
 
 ## Central
