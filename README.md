@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Approve User](https://make.wordpress.org/polyglots/2022/11/21/pte-request-for-wp-approve-user/)
 - [PTE Request for our plugins…](https://make.wordpress.org/polyglots/2022/11/19/pte-request-for-our-plugins/)
 - [PTE Request for Wp Fastest Cache](https://make.wordpress.org/polyglots/2022/11/18/pte-request-for-wp-fastest-cache-3/)
 - [PTE Request for Fukusawa Theme…](https://make.wordpress.org/polyglots/2022/11/18/pte-request-for-fukusawa-theme/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for User Toolkit](https://make.wordpress.org/polyglots/2022/11/15/pte-request-for-user-toolkit/)
 - [PTE Request for WPX GDPR…](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-wpx-gdpr/)
 - [PTE Request for Super Light Cache Buster](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-super-light-cache-buster/)
-- [PTE Request for two plugins](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-two-plugins-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
