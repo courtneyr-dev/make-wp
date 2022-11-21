@@ -281,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Image SEO Best Practices to Make Your Content Discoverable](https://learn.wordpress.org/?meeting=image-seo-best-practices-to-make-your-content-discoverable)
 - [Hallway Hangout: Future of CSS in themes](https://learn.wordpress.org/?meeting=hallway-hangout-future-of-css-in-themes)
 - [Designing in the Site Editor: A WordPress Block Theme Exploration](https://learn.wordpress.org/?meeting=designing-in-the-site-editor-a-wordpress-block-theme-exploration-2)
 - [Designing in the Site Editor: A WordPress Block Theme Exploration](https://learn.wordpress.org/?meeting=designing-in-the-site-editor-a-wordpress-block-theme-exploration)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.1 Exploration](https://learn.wordpress.org/?meeting=wordpress-6-1-exploration-2)
 - [WordPress 6.1 Exploration](https://learn.wordpress.org/?meeting=wordpress-6-1-exploration)
 - [The Creative Side of Blocks, Vol. 3](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-3)
-- [Padding, Margin and Block Spacing](https://learn.wordpress.org/?meeting=padding-margin-and-block-spacing)
 <!-- SLS:END -->
 
 ## Test
