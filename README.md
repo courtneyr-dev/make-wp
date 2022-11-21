@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Clue: a detective’s guide to troubleshooting in WordPress](https://wordpress.tv/2022/11/21/clue-a-detectives-guide-to-troubleshooting-in-wordpress/)
 - [¿Qué necesito para vender en Internet?](https://wordpress.tv/2022/11/21/que-necesito-para-vender-en-internet/)
 - [クエリループブロックでブログページを作ろう！](https://wordpress.tv/2022/11/20/%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/)
 - [Your technical support philosophy is losing money and angering customers](https://wordpress.tv/2022/11/20/your-technical-support-philosophy-is-losing-money-and-angering-customers/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Csaba Varszegi: A talk that nobody wants to hear](https://wordpress.tv/2022/11/17/csaba-varszegi-a-talk-that-nobody-wants-to-hear/)
 - [Juliette Reinders Folmer: Gitting things done](https://wordpress.tv/2022/11/17/juliette-reinders-folmer-gitting-things-done/)
 - [Ivana Cirkovic: So what?](https://wordpress.tv/2022/11/17/ivana-cirkovic-so-what/)
-- [Liesbeth Smit: How I created an EU scrollytelling campaign in Windows95 style](https://wordpress.tv/2022/11/17/liesbeth-smit-how-i-created-an-eu-scrollytelling-campaign-in-windows95-style/)
 <!-- WPTV:END -->
 
 ## Marketing
