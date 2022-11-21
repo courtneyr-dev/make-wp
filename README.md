@@ -506,6 +506,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Mid-level+ Developer](https://jobs.wordpress.net/job/mid-level-developer-2/)
+- [WordPress Video Educator](https://jobs.wordpress.net/job/wordpress-video-educator-2/)
+- [Experience Web developer](https://jobs.wordpress.net/job/experience-web-developer/)
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-12/)
 - [[Astra] Senior Frontend Developer](https://jobs.wordpress.net/job/astra-senior-frontend-developer-3/)
 - [Project](https://jobs.wordpress.net/job/project-5/)
@@ -513,9 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-4/)
 - [Custom Woocommerce Product For Print on Demand system](https://jobs.wordpress.net/job/custom-woocommerce-product-for-print-on-demand-system/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist/)
-- [Senior Content Writer](https://jobs.wordpress.net/job/senior-content-writer/)
-- [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-10/)
-- [Website solutions sales expert |WordPress|B2C|B2B|](https://jobs.wordpress.net/job/website-solutions-sales-expert-wordpressb2cb2b-6/)
 <!-- JOBS:END -->
 
 ## Central
