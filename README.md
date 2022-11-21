@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/11/21/post-title-pte-request-for-53/)
+- [PTE Request for Sensei LMS](https://make.wordpress.org/polyglots/2022/11/21/pte-request-for-sensei-lms-4/)
 - [PTE Request for WP Approve User](https://make.wordpress.org/polyglots/2022/11/21/pte-request-for-wp-approve-user/)
 - [PTE Request for our plugins…](https://make.wordpress.org/polyglots/2022/11/19/pte-request-for-our-plugins/)
 - [PTE Request for Wp Fastest Cache](https://make.wordpress.org/polyglots/2022/11/18/pte-request-for-wp-fastest-cache-3/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polyglots Outreach Effort: November 2022](https://make.wordpress.org/polyglots/2022/11/16/polyglots-outreach-effort-november-2022/)
 - [Agenda: Weekly Polyglots Chat – Nov. 16, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/15/agenda-weekly-polyglots-chat-nov-16-2022-700-utc/)
 - [PTE Request for User Toolkit](https://make.wordpress.org/polyglots/2022/11/15/pte-request-for-user-toolkit/)
-- [PTE Request for WPX GDPR…](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-wpx-gdpr/)
-- [PTE Request for Super Light Cache Buster](https://make.wordpress.org/polyglots/2022/11/14/pte-request-for-super-light-cache-buster/)
 <!-- POLYGLOTS:END -->
 
 ## Support
