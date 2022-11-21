@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress Developer Blog is in public beta](https://make.wordpress.org/core/2022/11/21/wordpress-developer-blog-is-in-public-beta/)
 - [Editor Chat Agenda: November 23, 2022](https://make.wordpress.org/core/2022/11/21/editor-chat-agenda-nov-23-2022/)
 - [Editor chat summary: 16 November 2022](https://make.wordpress.org/core/2022/11/17/editor-chat-summary-november-16-2022/)
 - [Dev Chat summary: Wednesday, November 16, 2022](https://make.wordpress.org/core/2022/11/17/dev-chat-summary-wednesday-november-16-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: November 16, 2022](https://make.wordpress.org/core/2022/11/14/editor-chat-agenda-nov-16-2022/)
 - [Nominations for Core Team Reps: 2023 Edition](https://make.wordpress.org/core/2022/11/14/nominations-for-core-team-reps-2023-edition/)
 - [WordPress 6.1.1 RC1 is now available](https://make.wordpress.org/core/2022/11/11/wordpress-6-1-1-rc1-is-now-available/)
-- [Dev Chat summary, November 9, 2022](https://make.wordpress.org/core/2022/11/09/dev-chat-summary-november-9-2022/)
 <!-- CORE:END -->
 
 ## Design
