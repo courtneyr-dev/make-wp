@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Post Author Block](https://wordpress.org/support/article/post-author-block/)
 - [Search Results Title Block](https://wordpress.org/support/article/search-results-title-block/)
 - [Amazon Kindle Block](https://wordpress.org/support/article/amazon-kindle-embed-block/)
 - [Layout Settings Overview](https://wordpress.org/support/article/layout-settings-overview/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Border Settings Overview](https://wordpress.org/support/article/border-settings-overview/)
 - [Post Author Biography Block](https://wordpress.org/support/article/post-author-biography-block/)
 - [Comment Template Block](https://wordpress.org/support/article/comment-template-block/)
-- [Comment Edit Link Block](https://wordpress.org/support/article/comment-edit-link-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
