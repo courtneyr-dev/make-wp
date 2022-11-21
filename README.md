@@ -539,10 +539,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordCamp Cebu](https://central.wordcamp.org/wordcamps/wordcamp-cebu-2/)
 - [Community Summit 2023](https://central.wordcamp.org/wordcamps/community-summit-2023/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2023/)
 - [WordCamp Montclair, NJ](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj/)
-- [WordCamp Valencia](https://central.wordcamp.org/wordcamps/wordcamp-valencia/)
 - [WordCamp Phoenix, Arizona, USA](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-arizona-usa/)
 - [WordCamp Lyon](https://central.wordcamp.org/wordcamps/wordcamp-lyon-france/)
 - [WordCamp Nagpur, India](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-2/)
