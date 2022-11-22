@@ -511,11 +511,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Experience Web developer](https://jobs.wordpress.net/job/experience-web-developer/)
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-12/)
 - [[Astra] Senior Frontend Developer](https://jobs.wordpress.net/job/astra-senior-frontend-developer-3/)
-- [Project](https://jobs.wordpress.net/job/project-5/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-4/)
 - [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-4/)
 - [Custom Woocommerce Product For Print on Demand system](https://jobs.wordpress.net/job/custom-woocommerce-product-for-print-on-demand-system/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist/)
+- [Senior Content Writer](https://jobs.wordpress.net/job/senior-content-writer/)
 <!-- JOBS:END -->
 
 ## Central
