@@ -281,6 +281,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2-2)
+- [WordPress development live stream: Developers Guide to Block Themes – Part 2](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developers-guide-to-block-themes-part-2)
 - [Image SEO Best Practices to Make Your Content Discoverable](https://learn.wordpress.org/?meeting=image-seo-best-practices-to-make-your-content-discoverable)
 - [Hallway Hangout: Future of CSS in themes](https://learn.wordpress.org/?meeting=hallway-hangout-future-of-css-in-themes)
 - [Designing in the Site Editor: A WordPress Block Theme Exploration](https://learn.wordpress.org/?meeting=designing-in-the-site-editor-a-wordpress-block-theme-exploration-2)
@@ -304,8 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Exploring Block Layout, Alignment, and Dimensions](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions)
 - [Builder Basics: How to Curate the Editing Experience](https://learn.wordpress.org/?meeting=builder-basics-how-to-curate-the-editing-experience)
 - [WordPress 6.1 Exploration](https://learn.wordpress.org/?meeting=wordpress-6-1-exploration-2)
-- [WordPress 6.1 Exploration](https://learn.wordpress.org/?meeting=wordpress-6-1-exploration)
-- [The Creative Side of Blocks, Vol. 3](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-3)
 <!-- SLS:END -->
 
 ## Test
