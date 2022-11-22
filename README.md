@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: DevHub getting a new look](https://make.wordpress.org/support/2022/11/xpost-devhub-getting-a-new-look/)
 - [November 17th Support Team Meeting Summary](https://make.wordpress.org/support/2022/11/november-17th-support-team-meeting-summary-2/)
 - [Call for Support Team Representative&lpar;s&rpar;](https://make.wordpress.org/support/2022/11/call-for-support-team-representatives/)
 - [Agenda: Support Team Meeting Thursday November 10, 2022](https://make.wordpress.org/support/2022/11/agenda-support-team-meeting-thursday-november-11-2022/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Renaming WordPress.org Support to Documentation](https://make.wordpress.org/support/2022/10/xpost-renaming-wordpress-org-support-to-documentation/)
 - [September 29th Support Team Meeting Summary](https://make.wordpress.org/support/2022/09/september-29th-support-team-meeting-summary-2/)
 - [Agenda: Support Team Meeting – September 29, 2022](https://make.wordpress.org/support/2022/09/agenda-support-team-meeting-september-29-2022/)
-- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/support/2022/09/xpost-wordcamp-us-contributor-day-2022-recap/)
 <!-- SUPPORT:END -->
 
 ## Documentation
