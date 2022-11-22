@@ -344,7 +344,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ronda de conclusiones](https://wordpress.tv/2022/11/22/grinon-ronda-de-conclusiones/)
 - [WordPress básico](https://wordpress.tv/2022/11/22/wordpress-basico/)
 - [Impulsa tu tienda WooCoomerce con Elementor](https://wordpress.tv/2022/11/22/impulsa-tu-tienda-woocoomerce-con-elementor/)
-- [An Anthropologist, a WordPress Developer, and a Lawyer Walk into a Bar](https://wordpress.tv/2022/11/22/an-anthropologist-a-wordpress-developer-and-a-lawyer-walk-into-a-bar/)
+- [An anthropologist, a WordPress developer, and a lawyer walk into a bar](https://wordpress.tv/2022/11/22/an-anthropologist-a-wordpress-developer-and-a-lawyer-walk-into-a-bar/)
 - [Elementor básico](https://wordpress.tv/2022/11/22/elementor-basico/)
 - [El coste de un hackeo](https://wordpress.tv/2022/11/22/el-coste-de-un-hackeo/)
 - [Bloques en WooCommerce, presente y futuro](https://wordpress.tv/2022/11/22/bloques-en-woocommerce-presente-y-futuro/)
