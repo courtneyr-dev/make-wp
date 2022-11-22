@@ -506,16 +506,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer Mid Level](https://jobs.wordpress.net/job/wordpress-developer-mid-level-4/)
+- [[Astra] WordPress Expert – Website Manager](https://jobs.wordpress.net/job/astra-wordpress-expert-website-manager/)
+- [WordPress Website Development](https://jobs.wordpress.net/job/wordpress-website-development-7/)
+- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-3/)
+- [Web – CRO – Ads](https://jobs.wordpress.net/job/web-cro-ads/)
+- [React Gutenberg developer](https://jobs.wordpress.net/job/react-gutenberg-developer/)
 - [Mid-level+ Developer](https://jobs.wordpress.net/job/mid-level-developer-2/)
 - [WordPress Video Educator](https://jobs.wordpress.net/job/wordpress-video-educator-2/)
 - [Experience Web developer](https://jobs.wordpress.net/job/experience-web-developer/)
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-12/)
-- [[Astra] Senior Frontend Developer](https://jobs.wordpress.net/job/astra-senior-frontend-developer-3/)
-- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-4/)
-- [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-4/)
-- [Custom Woocommerce Product For Print on Demand system](https://jobs.wordpress.net/job/custom-woocommerce-product-for-print-on-demand-system/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist/)
-- [Senior Content Writer](https://jobs.wordpress.net/job/senior-content-writer/)
 <!-- JOBS:END -->
 
 ## Central
