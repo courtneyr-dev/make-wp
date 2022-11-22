@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: DevHub getting a new look](https://make.wordpress.org/design/2022/11/22/xpost-devhub-getting-a-new-look/)
 - [Design Share: Nov 7 – Nov 18](https://make.wordpress.org/design/2022/11/21/design-share-nov-7-nov-18/)
 - [A refresh of WordPress.org/Showcase](https://make.wordpress.org/design/2022/11/11/a-refresh-of-wordpress-org-showcase/)
 - [Design Share: Oct 24-Nov 4](https://make.wordpress.org/design/2022/11/07/design-share-oct-24-nov-4/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Renaming WordPress.org Support to Documentation](https://make.wordpress.org/design/2022/10/11/xpost-renaming-wordpress-org-support-to-documentation/)
 - [Design Share: Sep 26–Oct 7](https://make.wordpress.org/design/2022/10/10/design-share-sep-26-oct-7/)
 - [Design Share: Sep 12 – Sep 23](https://make.wordpress.org/design/2022/09/26/design-share-sep-12-sep-23/)
-- [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/design/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 <!-- DESIGN:END -->
 
 ## Mobile
