@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [El coste de un hackeo](https://wordpress.tv/2022/11/22/el-coste-de-un-hackeo/)
 - [Bloques en WooCommerce, presente y futuro](https://wordpress.tv/2022/11/22/bloques-en-woocommerce-presente-y-futuro/)
 - [WooCommerce sin hacer un clic, usando la línea de comandos](https://wordpress.tv/2022/11/22/woocommerce-sin-hacer-un-clic-usando-la-linea-de-comandos/)
 - [Gestión de Stock via File Transfer](https://wordpress.tv/2022/11/22/gestion-de-stock-via-file-transfer/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bert Boerland: Wat WordPress kan leren van Drupal &lpar;en vv&rpar;](https://wordpress.tv/2022/11/17/bert-boerland-wat-wordpress-kan-leren-van-drupal-en-vv/)
 - [Erik Joling: Van WereldProblemen naar WordPress](https://wordpress.tv/2022/11/17/erik-joling-van-wereldproblemen-naar-wordpress/)
 - [Ton Zijlstra: WordPress sites tot IndieWeb alleskunners maken Favorite session: WordPress sites tot IndieWeb alles](https://wordpress.tv/2022/11/17/ton-zijlstra-wordpress-sites-tot-indieweb-alleskunners-maken-favorite-session-wordpress-sites-tot-indieweb-alles/)
-- [Vassilena Valchanova: The brand of You](https://wordpress.tv/2022/11/17/vassilena-valchanova-the-brand-of-you/)
 <!-- WPTV:END -->
 
 ## Marketing
