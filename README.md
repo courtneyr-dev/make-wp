@@ -337,6 +337,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Analítica digital para ecommerce](https://wordpress.tv/2022/11/22/analitica-digital-para-ecommerce/)
+- [17 trucos de WooCommerce que me habría gustado conocer antes](https://wordpress.tv/2022/11/22/17-trucos-de-woocommerce-que-me-habria-gustado-conocer-antes/)
+- [Automatizaciones de email para tu tienda en WooCommerce](https://wordpress.tv/2022/11/22/automatizaciones-de-email-para-tu-tienda-en-woocommerce/)
+- [¿Cómo aumentar tus ventas con un podcast?](https://wordpress.tv/2022/11/22/como-aumentar-tus-ventas-con-un-podcast/)
 - [Ronda de conclusiones](https://wordpress.tv/2022/11/22/grinon-ronda-de-conclusiones/)
 - [WordPress básico](https://wordpress.tv/2022/11/22/wordpress-basico/)
 - [Impulsa tu tienda WooCoomerce con Elementor](https://wordpress.tv/2022/11/22/impulsa-tu-tienda-woocoomerce-con-elementor/)
@@ -358,10 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Starting fresh on WordPress, Part 1](https://wordpress.tv/2022/11/18/starting-fresh-on-wordpress-part-1/)
 - [Extending WordPress using SlotFill](https://wordpress.tv/2022/11/18/extending-wordpress-using-slotfill/)
 - [Carlo Daniele: creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/11/18/carlo-daniele-creare-blocchi-per-gutenberg-da-dove-iniziare/)
-- [Let’s code: developing blocks without React! – Part 2](https://wordpress.tv/2022/11/18/lets-code-developing-blocks-without-react-part-2/)
-- [WordPress 6.1 exploration](https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/)
-- [Automating WordPress for fun and profit](https://wordpress.tv/2022/11/17/johan-janssens-automating-wordpress-for-fun-and-profit/)
-- [Making your contact forms land in an inbox](https://wordpress.tv/2022/11/17/aaron-reimann-making-your-contact-forms-land-in-an-inbox-2/)
 <!-- WPTV:END -->
 
 ## Marketing
