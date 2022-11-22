@@ -337,6 +337,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ronda de conclusiones](https://wordpress.tv/2022/11/22/grinon-ronda-de-conclusiones/)
+- [WordPress básico](https://wordpress.tv/2022/11/22/wordpress-basico/)
+- [Impulsa tu tienda WooCoomerce con Elementor](https://wordpress.tv/2022/11/22/impulsa-tu-tienda-woocoomerce-con-elementor/)
+- [An Anthropologist, a WordPress Developer, and a Lawyer Walk into a Bar](https://wordpress.tv/2022/11/22/an-anthropologist-a-wordpress-developer-and-a-lawyer-walk-into-a-bar/)
+- [Elementor básico](https://wordpress.tv/2022/11/22/elementor-basico/)
 - [El coste de un hackeo](https://wordpress.tv/2022/11/22/el-coste-de-un-hackeo/)
 - [Bloques en WooCommerce, presente y futuro](https://wordpress.tv/2022/11/22/bloques-en-woocommerce-presente-y-futuro/)
 - [WooCommerce sin hacer un clic, usando la línea de comandos](https://wordpress.tv/2022/11/22/woocommerce-sin-hacer-un-clic-usando-la-linea-de-comandos/)
@@ -357,11 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.1 exploration](https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/)
 - [Automating WordPress for fun and profit](https://wordpress.tv/2022/11/17/johan-janssens-automating-wordpress-for-fun-and-profit/)
 - [Making your contact forms land in an inbox](https://wordpress.tv/2022/11/17/aaron-reimann-making-your-contact-forms-land-in-an-inbox-2/)
-- [Hoe manage je het beste je projecten én je opdrachtgever?](https://wordpress.tv/2022/11/17/christien-van-de-sande-hoe-manage-je-het-beste-je-projecten-en-je-opdrachtgever/)
-- [Using WordPress for leading local newspaper websites](https://wordpress.tv/2022/11/17/christoph-daum-using-wordpress-for-leading-local-newspaper-websites-favorite-session/)
-- [Bert Boerland: Wat WordPress kan leren van Drupal &lpar;en vv&rpar;](https://wordpress.tv/2022/11/17/bert-boerland-wat-wordpress-kan-leren-van-drupal-en-vv/)
-- [Erik Joling: Van WereldProblemen naar WordPress](https://wordpress.tv/2022/11/17/erik-joling-van-wereldproblemen-naar-wordpress/)
-- [Ton Zijlstra: WordPress sites tot IndieWeb alleskunners maken Favorite session: WordPress sites tot IndieWeb alles](https://wordpress.tv/2022/11/17/ton-zijlstra-wordpress-sites-tot-indieweb-alleskunners-maken-favorite-session-wordpress-sites-tot-indieweb-alles/)
 <!-- WPTV:END -->
 
 ## Marketing
