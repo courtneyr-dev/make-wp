@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Speed up your eCommerce: SureCart vs. Woo](https://wordpress.tv/2022/11/22/speed-up-your-ecommerce-surecart-vs-woo/)
 - [Trabalhando com estilos globais](https://wordpress.tv/2022/11/21/trabalhando-com-estilos-globais/)
 - [Clue: a detective’s guide to troubleshooting in WordPress](https://wordpress.tv/2022/11/21/clue-a-detectives-guide-to-troubleshooting-in-wordpress/)
 - [¿Qué necesito para vender en Internet?](https://wordpress.tv/2022/11/21/que-necesito-para-vender-en-internet/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Team WCNL: Afsluiting](https://wordpress.tv/2022/11/17/team-wcnl-afsluiting/)
 - [Val Vesa: The People of WordCamps, the Faces of WordPress](https://wordpress.tv/2022/11/17/val-vesa-the-people-of-wordcamps-the-faces-of-wordpress/)
 - [Csaba Varszegi: A talk that nobody wants to hear](https://wordpress.tv/2022/11/17/csaba-varszegi-a-talk-that-nobody-wants-to-hear/)
-- [Juliette Reinders Folmer: Gitting things done](https://wordpress.tv/2022/11/17/juliette-reinders-folmer-gitting-things-done/)
 <!-- WPTV:END -->
 
 ## Marketing
