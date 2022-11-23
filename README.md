@@ -337,6 +337,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Activa tu lado hacker y eleva tu productividad](https://wordpress.tv/2022/11/23/activa-tu-lado-hacker-y-eleva-tu-productividad/)
+- [Si no etiquetas tu ecommerce estás haciendo el canelo](https://wordpress.tv/2022/11/23/si-no-etiquetas-tu-ecommerce-estas-haciendo-el-canelo/)
+- [¿Por qué los miniobjetivos son tanto o más importantes que la venta final?](https://wordpress.tv/2022/11/23/por-que-los-miniobjetivos-son-tanto-o-mas-importantes-que-la-venta-final/)
 - [Streamline your Block Theme development with Create Block Theme](https://wordpress.tv/2022/11/23/streamline-your-block-theme-development-with-create-block-theme/)
 - [Demystifying Gutenberg](https://wordpress.tv/2022/11/22/demystifying-gutenberg/)
 - [Buenas prácticas para la accesibilidad en tiendas online con WordPress](https://wordpress.tv/2022/11/22/inaki-martin-buenas-practicas-para-la-accesibilidad-en-tiendas-online-con-wordpress/)
@@ -359,9 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ronda de conclusiones](https://wordpress.tv/2022/11/22/grinon-ronda-de-conclusiones/)
 - [WordPress básico](https://wordpress.tv/2022/11/22/wordpress-basico/)
 - [Impulsa tu tienda WooCoomerce con Elementor](https://wordpress.tv/2022/11/22/impulsa-tu-tienda-woocoomerce-con-elementor/)
-- [An anthropologist, a WordPress developer, and a lawyer walk into a bar](https://wordpress.tv/2022/11/22/an-anthropologist-a-wordpress-developer-and-a-lawyer-walk-into-a-bar/)
-- [Elementor básico](https://wordpress.tv/2022/11/22/elementor-basico/)
-- [El coste de un hackeo](https://wordpress.tv/2022/11/22/el-coste-de-un-hackeo/)
 <!-- WPTV:END -->
 
 ## Marketing
