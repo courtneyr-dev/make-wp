@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Demystifying Gutenberg](https://wordpress.tv/2022/11/22/demystifying-gutenberg/)
 - [Buenas prácticas para la accesibilidad en tiendas online con WordPress](https://wordpress.tv/2022/11/22/inaki-martin-buenas-practicas-para-la-accesibilidad-en-tiendas-online-con-wordpress/)
 - [Pasos para internacionalizar con WooCommerce](https://wordpress.tv/2022/11/22/pasos-para-internacionalizar-con-woocommerce/)
 - [Los 4 Fantásticos: 4 plugins imprescindibles para WooCommerce](https://wordpress.tv/2022/11/22/los-4-fantasticos-4-plugins-imprescindibles-para-woocommerce/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Elementor básico](https://wordpress.tv/2022/11/22/elementor-basico/)
 - [El coste de un hackeo](https://wordpress.tv/2022/11/22/el-coste-de-un-hackeo/)
 - [Bloques en WooCommerce, presente y futuro](https://wordpress.tv/2022/11/22/bloques-en-woocommerce-presente-y-futuro/)
-- [WooCommerce sin hacer un clic, usando la línea de comandos](https://wordpress.tv/2022/11/22/woocommerce-sin-hacer-un-clic-usando-la-linea-de-comandos/)
 <!-- WPTV:END -->
 
 ## Marketing
