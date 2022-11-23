@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Streamline your Block Theme development with Create Block Theme](https://learn.wordpress.org/tutorial/streamline-your-block-theme-development-with-create-block-theme/)
 - [Padding Versus Margin](https://learn.wordpress.org/tutorial/padding-versus-margin/)
 - [Block Spacing](https://learn.wordpress.org/tutorial/block-spacing/)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a landing page with a block theme](https://learn.wordpress.org/tutorial/creating-a-landing-page-with-a-block-theme/)
 - [Building a home page with a block theme](https://learn.wordpress.org/tutorial/building-a-home-page-with-a-block-theme/)
 - [WordPress Filter Hooks](https://learn.wordpress.org/tutorial/wordpress-filter-hooks/)
-- [Horizontal Pyramid Gallery](https://learn.wordpress.org/tutorial/horizontal-pyramid-gallery/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
