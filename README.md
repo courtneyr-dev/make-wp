@@ -229,6 +229,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [Streamline your Block Theme development with Create Block Theme](https://learn.wordpress.org/tutorial/streamline-your-block-theme-development-with-create-block-theme/)
+- [Trabalhando com estilos globais](https://learn.wordpress.org/tutorial/trabalhando-com-estilos-globais/)
 - [Padding Versus Margin](https://learn.wordpress.org/tutorial/padding-versus-margin/)
 - [Block Spacing](https://learn.wordpress.org/tutorial/block-spacing/)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
@@ -242,6 +243,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Personalizing your 404 Template.](https://learn.wordpress.org/tutorial/personalizing-your-404-template/)
 - [Using Block Attributes to Enable User Editing](https://learn.wordpress.org/tutorial/using-block-attributes-to-enable-user-editing/)
 - [Image Optimization](https://learn.wordpress.org/tutorial/image-optimization/)
+- [Gerenciando atualizações no WordPress](https://learn.wordpress.org/tutorial/gerenciando-atualizacoes-no-wordpress/)
 - [Introduction to block theme development &lpar;for beginners&rpar;](https://learn.wordpress.org/tutorial/introduction-to-block-theme-development-for-beginners/)
 - [Customizing a footer with patterns](https://learn.wordpress.org/tutorial/customizing-a-footer-with-patterns/)
 - [Styling your WordPress Blocks](https://learn.wordpress.org/tutorial/styling-your-wordpress-block/)
@@ -250,9 +252,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a new header with blocks](https://learn.wordpress.org/tutorial/creating-a-new-header-with-blocks/)
 - [Customizing your post content layout](https://learn.wordpress.org/tutorial/customizing-your-post-content-layout/)
 - [Using the create-block Tool](https://learn.wordpress.org/tutorial/using-the-create-block-tool/)
-- [Creating a landing page with a block theme](https://learn.wordpress.org/tutorial/creating-a-landing-page-with-a-block-theme/)
-- [Building a home page with a block theme](https://learn.wordpress.org/tutorial/building-a-home-page-with-a-block-theme/)
-- [WordPress Filter Hooks](https://learn.wordpress.org/tutorial/wordpress-filter-hooks/)
+- [Introdução ao Editor de Site e ao Editor de Modelos](https://learn.wordpress.org/tutorial/introducao-ao-editor-de-site-e-ao-editor-de-modelos/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
