@@ -506,6 +506,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Update 6 WordPress themes to work with PHP 8](https://jobs.wordpress.net/job/update-6-wordpress-themes-to-work-with-php-8/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-781/)
 - [WordPress Developer Mid Level](https://jobs.wordpress.net/job/wordpress-developer-mid-level-4/)
 - [[Astra] WordPress Expert – Website Manager](https://jobs.wordpress.net/job/astra-wordpress-expert-website-manager/)
 - [WordPress Website Development](https://jobs.wordpress.net/job/wordpress-website-development-7/)
@@ -514,8 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [React Gutenberg developer](https://jobs.wordpress.net/job/react-gutenberg-developer/)
 - [Mid-level+ Developer](https://jobs.wordpress.net/job/mid-level-developer-2/)
 - [WordPress Video Educator](https://jobs.wordpress.net/job/wordpress-video-educator-2/)
-- [Experience Web developer](https://jobs.wordpress.net/job/experience-web-developer/)
-- [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-12/)
 <!-- JOBS:END -->
 
 ## Central
