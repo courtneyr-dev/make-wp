@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [A rookie’s reflection – it is never too late to learn!](https://wordpress.tv/2022/11/23/a-rookies-reflection-it-is-never-too-late-to-learn/)
 - [Activa tu lado hacker y eleva tu productividad](https://wordpress.tv/2022/11/23/activa-tu-lado-hacker-y-eleva-tu-productividad/)
 - [Si no etiquetas tu ecommerce estás haciendo el canelo](https://wordpress.tv/2022/11/23/si-no-etiquetas-tu-ecommerce-estas-haciendo-el-canelo/)
 - [¿Por qué los miniobjetivos son tanto o más importantes que la venta final?](https://wordpress.tv/2022/11/23/por-que-los-miniobjetivos-son-tanto-o-mas-importantes-que-la-venta-final/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Cómo aumentar tus ventas con un podcast?](https://wordpress.tv/2022/11/22/como-aumentar-tus-ventas-con-un-podcast/)
 - [Ronda de conclusiones](https://wordpress.tv/2022/11/22/grinon-ronda-de-conclusiones/)
 - [WordPress básico](https://wordpress.tv/2022/11/22/wordpress-basico/)
-- [Impulsa tu tienda WooCoomerce con Elementor](https://wordpress.tv/2022/11/22/impulsa-tu-tienda-woocoomerce-con-elementor/)
 <!-- WPTV:END -->
 
 ## Marketing
