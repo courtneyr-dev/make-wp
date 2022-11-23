@@ -366,6 +366,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Notes: Global Marketing Team meeting, November 16, 2022](https://make.wordpress.org/marketing/2022/11/23/notes-global-marketing-team-meeting-november-16-2022/)
+- [Agenda: global Marketing Team meeting, November 23, 2022](https://make.wordpress.org/marketing/2022/11/23/agenda-global-marketing-team-meeting-november-23-2022/)
 - [2023 Team Rep Nominations for Marketing](https://make.wordpress.org/marketing/2022/11/16/2023-team-rep-nominations-for-marketing/)
 - [Agenda: global Marketing Team meeting, November 16, 2022](https://make.wordpress.org/marketing/2022/11/16/agenda-global-marketing-team-meeting-november-16-2022/)
 - [Notes: Global Marketing Team meeting, November 9, 2022](https://make.wordpress.org/marketing/2022/11/16/notes-global-marketing-team-meeting-november-9-2022/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: WordPress global Marketing Team meeting, November 9, 2022](https://make.wordpress.org/marketing/2022/11/09/agenda-wordpress-global-marketing-team-meeting-november-9-2022/)
 - [Notes: Global Marketing Team meeting, November 2, 2022](https://make.wordpress.org/marketing/2022/11/07/notes-global-marketing-team-meeting-november-2-2022/)
 - [Agenda: WordPress global Marketing Team meeting, November 2, 2022](https://make.wordpress.org/marketing/2022/11/02/agenda-wordpress-global-marketing-team-meeting-november-2-2022/)
-- [Notes: Global Marketing Team meeting, October 26, 2022](https://make.wordpress.org/marketing/2022/11/01/notes-global-marketing-team-meeting-october-26-2022/)
-- [Agenda: global Marketing Team meeting, October 26, 2022](https://make.wordpress.org/marketing/2022/10/26/agenda-global-marketing-team-meeting-october-26-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
