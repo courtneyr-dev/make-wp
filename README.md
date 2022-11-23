@@ -337,6 +337,19 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Buenas prácticas para la accesibilidad en tiendas online con WordPress](https://wordpress.tv/2022/11/22/inaki-martin-buenas-practicas-para-la-accesibilidad-en-tiendas-online-con-wordpress/)
+- [Pasos para internacionalizar con WooCommerce](https://wordpress.tv/2022/11/22/pasos-para-internacionalizar-con-woocommerce/)
+- [Los 4 Fantásticos: 4 plugins imprescindibles para WooCommerce](https://wordpress.tv/2022/11/22/los-4-fantasticos-4-plugins-imprescindibles-para-woocommerce/)
+- [Cómo gestionar un proyecto en línea](https://wordpress.tv/2022/11/22/como-gestionar-un-proyecto-en-linea/)
+- [Cómo la personalización puede aumentar tus ventas](https://wordpress.tv/2022/11/22/como-la-personalizacion-puede-aumentar-tus-ventas/)
+- [Interrogatorio a Google – ¿Qué hay que hacer para posicionar en SEO local?](https://wordpress.tv/2022/11/22/interrogatorio-a-google-que-hay-que-hacer-para-posicionar-en-seo-local/)
+- [Cómo elegir un tema para WooCommerce](https://wordpress.tv/2022/11/22/como-elegir-un-tema-para-woocommerce/)
+- [Storytelling aplicado a las marcas](https://wordpress.tv/2022/11/22/storytelling-aplicado-a-las-marcas/)
+- [Aprende a optimizar el SEO de tu ecommerce](https://wordpress.tv/2022/11/22/aprende-a-optimizar-el-seo-de-tu-ecommerce/)
+- [Community Building: ¿Por qué dinamizar una Comunidad y cómo potenciar mi negocio Online?](https://wordpress.tv/2022/11/22/community-building-por-que-dinamizar-una-comunidad-y-como-potenciar-mi-negocio-online/)
+- [Hablemos de rendimiento](https://wordpress.tv/2022/11/22/hablemos-de-rendimiento/)
+- [WooCommerce básico](https://wordpress.tv/2022/11/22/woocommerce-basico/)
+- [Designing in the Site Editor: A WordPress Block Theme Exploration](https://wordpress.tv/2022/11/22/designing-in-the-site-editor-a-wordpress-block-theme-exploration/)
 - [Analítica digital para ecommerce](https://wordpress.tv/2022/11/22/analitica-digital-para-ecommerce/)
 - [17 trucos de WooCommerce que me habría gustado conocer antes](https://wordpress.tv/2022/11/22/17-trucos-de-woocommerce-que-me-habria-gustado-conocer-antes/)
 - [Automatizaciones de email para tu tienda en WooCommerce](https://wordpress.tv/2022/11/22/automatizaciones-de-email-para-tu-tienda-en-woocommerce/)
@@ -349,19 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [El coste de un hackeo](https://wordpress.tv/2022/11/22/el-coste-de-un-hackeo/)
 - [Bloques en WooCommerce, presente y futuro](https://wordpress.tv/2022/11/22/bloques-en-woocommerce-presente-y-futuro/)
 - [WooCommerce sin hacer un clic, usando la línea de comandos](https://wordpress.tv/2022/11/22/woocommerce-sin-hacer-un-clic-usando-la-linea-de-comandos/)
-- [Gestión de Stock via File Transfer](https://wordpress.tv/2022/11/22/gestion-de-stock-via-file-transfer/)
-- [Automatiza WooCommerce para humanizar tu negocio](https://wordpress.tv/2022/11/22/automatiza-woocommerce-para-humanizar-tu-negocio/)
-- [Como crear una academia online con WordPress](https://wordpress.tv/2022/11/22/como-crear-una-academia-online-con-wordpress/)
-- [Speed up your eCommerce: SureCart vs. Woo](https://wordpress.tv/2022/11/22/speed-up-your-ecommerce-surecart-vs-woo/)
-- [Trabalhando com estilos globais](https://wordpress.tv/2022/11/21/trabalhando-com-estilos-globais/)
-- [Clue: a detective’s guide to troubleshooting in WordPress](https://wordpress.tv/2022/11/21/clue-a-detectives-guide-to-troubleshooting-in-wordpress/)
-- [¿Qué necesito para vender en Internet?](https://wordpress.tv/2022/11/21/que-necesito-para-vender-en-internet/)
-- [クエリループブロックでブログページを作ろう！](https://wordpress.tv/2022/11/20/%e3%82%af%e3%82%a8%e3%83%aa%e3%83%ab%e3%83%bc%e3%83%97%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%a7%e3%83%96%e3%83%ad%e3%82%b0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/)
-- [Your technical support philosophy is losing money and angering customers](https://wordpress.tv/2022/11/20/your-technical-support-philosophy-is-losing-money-and-angering-customers/)
-- [The creative side of blocks, volume 3](https://wordpress.tv/2022/11/18/the-creative-side-of-blocks-vol-3/)
-- [Starting fresh on WordPress, Part 1](https://wordpress.tv/2022/11/18/starting-fresh-on-wordpress-part-1/)
-- [Extending WordPress using SlotFill](https://wordpress.tv/2022/11/18/extending-wordpress-using-slotfill/)
-- [Carlo Daniele: creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/11/18/carlo-daniele-creare-blocchi-per-gutenberg-da-dove-iniziare/)
 <!-- WPTV:END -->
 
 ## Marketing
