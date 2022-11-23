@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Streamline your Block Theme development with Create Block Theme](https://wordpress.tv/2022/11/23/streamline-your-block-theme-development-with-create-block-theme/)
 - [Demystifying Gutenberg](https://wordpress.tv/2022/11/22/demystifying-gutenberg/)
 - [Buenas prácticas para la accesibilidad en tiendas online con WordPress](https://wordpress.tv/2022/11/22/inaki-martin-buenas-practicas-para-la-accesibilidad-en-tiendas-online-con-wordpress/)
 - [Pasos para internacionalizar con WooCommerce](https://wordpress.tv/2022/11/22/pasos-para-internacionalizar-con-woocommerce/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [An anthropologist, a WordPress developer, and a lawyer walk into a bar](https://wordpress.tv/2022/11/22/an-anthropologist-a-wordpress-developer-and-a-lawyer-walk-into-a-bar/)
 - [Elementor básico](https://wordpress.tv/2022/11/22/elementor-basico/)
 - [El coste de un hackeo](https://wordpress.tv/2022/11/22/el-coste-de-un-hackeo/)
-- [Bloques en WooCommerce, presente y futuro](https://wordpress.tv/2022/11/22/bloques-en-woocommerce-presente-y-futuro/)
 <!-- WPTV:END -->
 
 ## Marketing
