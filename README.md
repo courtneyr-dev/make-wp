@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Somali core translation](https://make.wordpress.org/polyglots/2022/11/24/somali-core-translation/)
 - [PTE Request for Save and…](https://make.wordpress.org/polyglots/2022/11/24/pte-request-for-save-and-2/)
 - [PTE Request to be a translator for Fluent-CRM](https://make.wordpress.org/polyglots/2022/11/24/pte-request-to-be-a-translator-for-fluent-crm/)
 - [Request to be a translator…](https://make.wordpress.org/polyglots/2022/11/24/request-to-be-a-translator-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – Nov. 23, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/22/agenda-weekly-polyglots-chat-nov-23-2022-1300-utc/)
 - [Polyglots Monthly Newsletter: November 2022](https://make.wordpress.org/polyglots/2022/11/22/polyglots-monthly-newsletter-november-2022/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/11/21/post-title-pte-request-for-53/)
-- [PTE Request for Sensei LMS](https://make.wordpress.org/polyglots/2022/11/21/pte-request-for-sensei-lms-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
