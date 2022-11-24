@@ -337,6 +337,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ecommerce en B2B: cómo hacer que el carrito sea un tráiler](https://wordpress.tv/2022/11/24/ecommerce-en-b2b-como-hacer-que-el-carrito-sea-un-trailer/)
+- [Claves legales para evitar disgustos y mejorar las ventas en e-commerce](https://wordpress.tv/2022/11/24/claves-legales-para-evitar-disgustos-y-mejorar-las-ventas-en-e-commerce/)
 - [A rookie’s reflection – it is never too late to learn!](https://wordpress.tv/2022/11/23/a-rookies-reflection-it-is-never-too-late-to-learn/)
 - [Activa tu lado hacker y eleva tu productividad](https://wordpress.tv/2022/11/23/activa-tu-lado-hacker-y-eleva-tu-productividad/)
 - [Si no etiquetas tu ecommerce estás haciendo el canelo](https://wordpress.tv/2022/11/23/si-no-etiquetas-tu-ecommerce-estas-haciendo-el-canelo/)
@@ -360,8 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [17 trucos de WooCommerce que me habría gustado conocer antes](https://wordpress.tv/2022/11/22/17-trucos-de-woocommerce-que-me-habria-gustado-conocer-antes/)
 - [Automatizaciones de email para tu tienda en WooCommerce](https://wordpress.tv/2022/11/22/automatizaciones-de-email-para-tu-tienda-en-woocommerce/)
 - [¿Cómo aumentar tus ventas con un podcast?](https://wordpress.tv/2022/11/22/como-aumentar-tus-ventas-con-un-podcast/)
-- [Ronda de conclusiones](https://wordpress.tv/2022/11/22/grinon-ronda-de-conclusiones/)
-- [WordPress básico](https://wordpress.tv/2022/11/22/wordpress-basico/)
 <!-- WPTV:END -->
 
 ## Marketing
