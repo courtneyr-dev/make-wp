@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request to be a translator…](https://make.wordpress.org/polyglots/2022/11/24/request-to-be-a-translator-2/)
 - [Request to be a translator…](https://make.wordpress.org/polyglots/2022/11/23/request-to-be-a-translator/)
 - [PTE Request for wpDisquz](https://make.wordpress.org/polyglots/2022/11/23/pte-request-for-wpdisquz/)
 - [PTE Request for Easy Donation for Woocommerce Plugin](https://make.wordpress.org/polyglots/2022/11/23/pte-request-for-easy-donation-for-woocommerce-plugin-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Sensei LMS](https://make.wordpress.org/polyglots/2022/11/21/pte-request-for-sensei-lms-4/)
 - [PTE Request for WP Approve User](https://make.wordpress.org/polyglots/2022/11/21/pte-request-for-wp-approve-user/)
 - [PTE Request for our plugins…](https://make.wordpress.org/polyglots/2022/11/19/pte-request-for-our-plugins/)
-- [PTE Request for Wp Fastest Cache](https://make.wordpress.org/polyglots/2022/11/18/pte-request-for-wp-fastest-cache-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
