@@ -281,6 +281,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: Developing Blocks without React! – Part 3](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-3)
+- [WordPress development live stream: Developing Blocks without React – Part 3](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-3)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization)
 - [Creating a Call To Action with the Block Editor &lpar;APAC Time Zone&rpar;](https://learn.wordpress.org/?meeting=creating-a-call-to-action-with-the-block-editor-apac-time-zone)
 - [Creating a Call To Action with the Block Editor](https://learn.wordpress.org/?meeting=creating-a-call-to-action-with-the-block-editor)
@@ -304,8 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress development live stream: Developing Blocks without React! – Part 1](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-1)
 - [Using Chrome’s Developer Tools](https://learn.wordpress.org/?meeting=using-chromes-developer-tools)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/?meeting=intro-to-the-site-editor-and-template-editor)
-- [Using the Navigation Block](https://learn.wordpress.org/?meeting=using-the-navigation-block-2)
-- [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization-2)
 <!-- SLS:END -->
 
 ## Test
