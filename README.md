@@ -539,7 +539,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
-- [WordCamp Cebu](https://central.wordcamp.org/wordcamps/wordcamp-cebu-2/)
+- [WordCamp Cebu](https://central.wordcamp.org/wordcamps/wordcamp-cebu-2023/)
 - [Community Summit 2023](https://central.wordcamp.org/wordcamps/community-summit-2023/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2023/)
 - [WordCamp Montclair, NJ](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj/)
@@ -549,11 +549,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp São Paulo](https://central.wordcamp.org/wordcamps/wordcamp-sao-paulo-9/)
 - [WordCamp Griñón for E-Commerce – Madrid](https://central.wordcamp.org/wordcamps/wordcamp-grinon/)
 - [WordCamp Nepal](https://central.wordcamp.org/wordcamps/wordcamp-nepal-5/)
+- [WordCamp Switzerland](https://central.wordcamp.org/wordcamps/wordcamp-fribourg-murten-switzerland/)
 - [WordCamp Brno, Czech Republic](https://central.wordcamp.org/wordcamps/wordcamp-brno-czech-republic-4/)
 - [WordCamp Kolkata, West Bengal, India](https://central.wordcamp.org/wordcamps/wordcamp-kolkata-west-bengal-india-2/)
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-2023/)
 - [WordCamp Italia](https://central.wordcamp.org/wordcamps/wordcamp-italia-2022/)
-- [WordCamp San José / Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-5/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
