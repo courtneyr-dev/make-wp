@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Proposal: Amend the Inline Documentation Standards for multi-line comments](https://make.wordpress.org/core/2022/11/24/proposal-amend-the-inline-documentation-standards-for-multi-line-comments/)
 - [Dev Chat summary: Wednesday, November 23, 2022](https://make.wordpress.org/core/2022/11/24/dev-chat-summary-wednesday-november-23-2022/)
 - [What’s new in Gutenberg 14.6? &lpar;23 November&rpar;](https://make.wordpress.org/core/2022/11/23/whats-new-in-gutenberg-14-6-23-november/)
 - [Editor chat summary: 23 November 2022](https://make.wordpress.org/core/2022/11/23/editor-chat-summary-november-23-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: DevHub getting a new look](https://make.wordpress.org/core/2022/11/22/xpost-devhub-getting-a-new-look/)
 - [Performance Chat Summary: 22 November 2022](https://make.wordpress.org/core/2022/11/22/performance-chat-summary-22-november-2022/)
 - [Performance Chat Agenda: 22 November 2022](https://make.wordpress.org/core/2022/11/22/performance-chat-agenda-22-november-2022/)
-- [WordPress Developer Blog is in public beta](https://make.wordpress.org/core/2022/11/21/wordpress-developer-blog-is-in-public-beta/)
 <!-- CORE:END -->
 
 ## Design
