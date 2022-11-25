@@ -281,6 +281,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Creating a Call To Action with the Block Editor &lpar;APAC Time Zone&rpar;](https://learn.wordpress.org/?meeting=creating-a-call-to-action-with-the-block-editor-apac-time-zone)
+- [Creating a Call To Action with the Block Editor](https://learn.wordpress.org/?meeting=creating-a-call-to-action-with-the-block-editor)
+- [Image SEO Best Practices to Make Your Content Discoverable](https://learn.wordpress.org/?meeting=image-seo-best-practices-to-make-your-content-discoverable-2)
+- [Navigation Block](https://learn.wordpress.org/?meeting=navigation-block)
 - [I Just Got This WordPress and Don’t Know How to Use It](https://learn.wordpress.org/?meeting=i-just-got-this-wordpress-and-dont-know-how-to-use-it)
 - [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2-2)
 - [WordPress development live stream: Developers Guide to Block Themes – Part 2](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developers-guide-to-block-themes-part-2)
@@ -302,10 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the Navigation Block](https://learn.wordpress.org/?meeting=using-the-navigation-block-2)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization-2)
 - [The Right Way to Customize a WordPress Plugin/Theme](https://learn.wordpress.org/?meeting=the-right-way-to-customize-a-wordpress-plugin-theme)
-- [Builder Basics: Demystifying theme.json and Global Styles](https://learn.wordpress.org/?meeting=builder-basics-demystifying-theme-json-and-global-styles)
-- [Builder Basics: Building with Columns, Groups, Rows and Stacks](https://learn.wordpress.org/?meeting=builder-basics-building-with-columns-groups-rows-and-stacks)
-- [Builder Basics: Exploring Block Layout, Alignment, and Dimensions](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions)
-- [Builder Basics: How to Curate the Editing Experience](https://learn.wordpress.org/?meeting=builder-basics-how-to-curate-the-editing-experience)
 <!-- SLS:END -->
 
 ## Test
