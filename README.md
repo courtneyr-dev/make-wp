@@ -506,16 +506,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] Lead SEO &amp; Content Marketing Specialist](https://jobs.wordpress.net/job/astra-lead-seo-content-marketing-specialist/)
+- [Template Update – Minor Tweaks](https://jobs.wordpress.net/job/template-update-minor-tweaks/)
+- [CampusPress support and developer |Coding|WordPress|PHP+MySQL or HTML+CSS|](https://jobs.wordpress.net/job/campuspress-support-and-developer-codingwordpressphpmysql-or-htmlcss-4/)
+- [Senior Full Stack Developer](https://jobs.wordpress.net/job/senior-full-stack-developer-7/)
+- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-13/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-19/)
+- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-18/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-49/)
 - [Update 6 WordPress themes to work with PHP 8](https://jobs.wordpress.net/job/update-6-wordpress-themes-to-work-with-php-8/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-781/)
-- [WordPress Developer Mid Level](https://jobs.wordpress.net/job/wordpress-developer-mid-level-4/)
-- [[Astra] WordPress Expert – Website Manager](https://jobs.wordpress.net/job/astra-wordpress-expert-website-manager/)
-- [WordPress Website Development](https://jobs.wordpress.net/job/wordpress-website-development-7/)
-- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-3/)
-- [Web – CRO – Ads](https://jobs.wordpress.net/job/web-cro-ads/)
-- [React Gutenberg developer](https://jobs.wordpress.net/job/react-gutenberg-developer/)
-- [Mid-level+ Developer](https://jobs.wordpress.net/job/mid-level-developer-2/)
-- [WordPress Video Educator](https://jobs.wordpress.net/job/wordpress-video-educator-2/)
 <!-- JOBS:END -->
 
 ## Central
