@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Embracing minds of all kinds: making digital content usable for people with cognitive disabilities](https://wordpress.tv/2022/11/26/embracing-minds-of-all-kinds-making-digital-content-usable-for-people-with-cognitive-disabilities/)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://wordpress.tv/2022/11/25/what-is-seo-search-engine-optimization/)
 - [Best design practices to create engagement](https://wordpress.tv/2022/11/25/best-design-practices-to-create-engagement/)
 - [Let’s code: developing blocks without React! – Part 2 &lpar;take two&rpar;](https://wordpress.tv/2022/11/25/lets-code-developing-blocks-without-react-part-2-take-2/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hablemos de rendimiento](https://wordpress.tv/2022/11/22/hablemos-de-rendimiento/)
 - [WooCommerce básico](https://wordpress.tv/2022/11/22/woocommerce-basico/)
 - [Designing in the Site Editor: A WordPress Block Theme Exploration](https://wordpress.tv/2022/11/22/designing-in-the-site-editor-a-wordpress-block-theme-exploration/)
-- [Analítica digital para ecommerce](https://wordpress.tv/2022/11/22/analitica-digital-para-ecommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
