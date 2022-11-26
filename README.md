@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [What is SEO? &lpar;Search Engine Optimization&rpar;](https://wordpress.tv/2022/11/25/what-is-seo-search-engine-optimization/)
 - [Best design practices to create engagement](https://wordpress.tv/2022/11/25/best-design-practices-to-create-engagement/)
 - [Let’s code: developing blocks without React! – Part 2](https://wordpress.tv/2022/11/25/lets-code-developing-blocks-without-react-part-2-take-2/)
 - [Ecommerce en B2B: cómo hacer que el carrito sea un tráiler](https://wordpress.tv/2022/11/24/ecommerce-en-b2b-como-hacer-que-el-carrito-sea-un-trailer/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WooCommerce básico](https://wordpress.tv/2022/11/22/woocommerce-basico/)
 - [Designing in the Site Editor: A WordPress Block Theme Exploration](https://wordpress.tv/2022/11/22/designing-in-the-site-editor-a-wordpress-block-theme-exploration/)
 - [Analítica digital para ecommerce](https://wordpress.tv/2022/11/22/analitica-digital-para-ecommerce/)
-- [17 trucos de WooCommerce que me habría gustado conocer antes](https://wordpress.tv/2022/11/22/17-trucos-de-woocommerce-que-me-habria-gustado-conocer-antes/)
 <!-- WPTV:END -->
 
 ## Marketing
