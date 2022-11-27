@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Contact Form…](https://make.wordpress.org/polyglots/2022/11/26/pte-request-for-contact-form-2/)
+- [Hello, on a WP Store…](https://make.wordpress.org/polyglots/2022/11/26/hello-on-a-wp-store/)
+- [Hello Polyglots, I ‘m the…](https://make.wordpress.org/polyglots/2022/11/26/hello-polyglots-i-m-the-9/)
 - [I’ve been translating the #mn…](https://make.wordpress.org/polyglots/2022/11/25/ive-been-translating-the-mn/)
 - [PTE Request for Flexible Quantity…](https://make.wordpress.org/polyglots/2022/11/25/pte-request-for-flexible-quantity/)
 - [Somali core translation](https://make.wordpress.org/polyglots/2022/11/24/somali-core-translation/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request to be a translator for Fluent-CRM](https://make.wordpress.org/polyglots/2022/11/24/pte-request-to-be-a-translator-for-fluent-crm/)
 - [Request to be a translator…](https://make.wordpress.org/polyglots/2022/11/24/request-to-be-a-translator-2/)
 - [Request to be a translator…](https://make.wordpress.org/polyglots/2022/11/23/request-to-be-a-translator/)
-- [PTE Request for wpDisquz](https://make.wordpress.org/polyglots/2022/11/23/pte-request-for-wpdisquz/)
-- [PTE Request for Easy Donation for Woocommerce Plugin](https://make.wordpress.org/polyglots/2022/11/23/pte-request-for-easy-donation-for-woocommerce-plugin-3/)
-- [Agenda: Weekly Polyglots Chat – Nov. 23, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/22/agenda-weekly-polyglots-chat-nov-23-2022-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
