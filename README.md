@@ -337,6 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Customizing core blocks for clients](https://wordpress.tv/2022/11/27/customizing-core-blocks-for-clients/)
 - [Embracing minds of all kinds: making digital content usable for people with cognitive disabilities](https://wordpress.tv/2022/11/26/embracing-minds-of-all-kinds-making-digital-content-usable-for-people-with-cognitive-disabilities/)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://wordpress.tv/2022/11/25/what-is-seo-search-engine-optimization/)
 - [Best design practices to create engagement](https://wordpress.tv/2022/11/25/best-design-practices-to-create-engagement/)
@@ -361,7 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Building: ¿Por qué dinamizar una Comunidad y cómo potenciar mi negocio Online?](https://wordpress.tv/2022/11/22/community-building-por-que-dinamizar-una-comunidad-y-como-potenciar-mi-negocio-online/)
 - [Hablemos de rendimiento](https://wordpress.tv/2022/11/22/hablemos-de-rendimiento/)
 - [WooCommerce básico](https://wordpress.tv/2022/11/22/woocommerce-basico/)
-- [Designing in the Site Editor: A WordPress Block Theme Exploration](https://wordpress.tv/2022/11/22/designing-in-the-site-editor-a-wordpress-block-theme-exploration/)
 <!-- WPTV:END -->
 
 ## Marketing
