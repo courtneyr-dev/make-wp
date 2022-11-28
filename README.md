@@ -281,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Join Core Release Party](https://learn.wordpress.org/?meeting=how-to-join-core-release-party)
 - [Let’s code: Developing Blocks without React! – Part 3](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-3)
 - [WordPress development live stream: Developing Blocks without React – Part 3](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-3)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: Developing Blocks without React! – Part 1](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-1)
 - [WordPress development live stream: Developing Blocks without React! – Part 1](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-1)
 - [Using Chrome’s Developer Tools](https://learn.wordpress.org/?meeting=using-chromes-developer-tools)
-- [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/?meeting=intro-to-the-site-editor-and-template-editor)
 <!-- SLS:END -->
 
 ## Test
