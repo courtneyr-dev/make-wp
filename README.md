@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Stack Block](https://wordpress.org/support/article/stack-block/)
 - [Pocket Casts Embed Block](https://wordpress.org/support/article/pocket-casts-embed-block/)
 - [Row Block](https://wordpress.org/support/article/row-block/)
 - [Post Template Block](https://wordpress.org/support/article/post-template-block/)
@@ -109,7 +110,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Post Author Block](https://wordpress.org/support/article/post-author-block/)
 - [Search Results Title Block](https://wordpress.org/support/article/search-results-title-block/)
 - [Amazon Kindle Block](https://wordpress.org/support/article/amazon-kindle-embed-block/)
-- [Typography Settings Overview](https://wordpress.org/support/article/typography-settings-overview/)
 - [Twenty Twenty-Three](https://wordpress.org/support/article/twenty-twenty-three/)
 <!-- HELPHUB:END -->
 
