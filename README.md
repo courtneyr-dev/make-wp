@@ -506,7 +506,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [[Astra] Lead SEO &amp; Content Marketing Specialist](https://jobs.wordpress.net/job/astra-lead-seo-content-marketing-specialist/)
 - [CampusPress support and developer |Coding|WordPress|PHP+MySQL or HTML+CSS|](https://jobs.wordpress.net/job/campuspress-support-and-developer-codingwordpressphpmysql-or-htmlcss-4/)
 - [Senior Full Stack Developer](https://jobs.wordpress.net/job/senior-full-stack-developer-7/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-13/)
@@ -516,6 +515,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Update 6 WordPress themes to work with PHP 8](https://jobs.wordpress.net/job/update-6-wordpress-themes-to-work-with-php-8/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-781/)
 - [WordPress Developer Mid Level](https://jobs.wordpress.net/job/wordpress-developer-mid-level-4/)
+- [[Astra] WordPress Expert – Website Manager](https://jobs.wordpress.net/job/astra-wordpress-expert-website-manager/)
 <!-- JOBS:END -->
 
 ## Central
