@@ -337,7 +337,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [How to Join Core Release Party | Bangla](https://wordpress.tv/2022/11/29/robin-linkon-miyan-how-to-join-core-release-party-bangla/)
+- [How to Join Core Release Party | Bangla](https://wordpress.tv/2022/11/29/how-to-join-core-release-party-bangla/)
 - [Prepare for the cookie-less future with Google Analytics 4](https://wordpress.tv/2022/11/28/prepare-for-the-cookie-less-future-with-google-analytics-4/)
 - [Customizing core blocks for clients](https://wordpress.tv/2022/11/27/customizing-core-blocks-for-clients/)
 - [Embracing minds of all kinds: making digital content usable for people with cognitive disabilities](https://wordpress.tv/2022/11/26/embracing-minds-of-all-kinds-making-digital-content-usable-for-people-with-cognitive-disabilities/)
