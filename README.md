@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP-Members Membership Plugin](https://make.wordpress.org/polyglots/2022/11/29/pte-request-for-wp-members-membership-plugin/)
 - [GPTE request for locale nl_NL](https://make.wordpress.org/polyglots/2022/11/29/gpte-request-for-locale-nl_nl/)
 - [PTE Request for XML Sitemaps Manager](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-xml-sitemaps-manager/)
 - [PTE Request for “Wrapping ShortCode”](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-wrapping-shortcode/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Contact Form…](https://make.wordpress.org/polyglots/2022/11/26/pte-request-for-contact-form-2/)
 - [Hello, on a WP Store…](https://make.wordpress.org/polyglots/2022/11/26/hello-on-a-wp-store/)
 - [Hello Polyglots, I ‘m the…](https://make.wordpress.org/polyglots/2022/11/26/hello-polyglots-i-m-the-9/)
-- [I’ve been translating the #mn…](https://make.wordpress.org/polyglots/2022/11/25/ive-been-translating-the-mn/)
 <!-- POLYGLOTS:END -->
 
 ## Support
