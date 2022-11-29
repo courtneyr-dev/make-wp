@@ -450,6 +450,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Documentation Team Update – November 29, 2022](https://make.wordpress.org/updates/2022/11/29/documentation-team-update-november-29-2022/)
 - [Themes team update November 29, 2022](https://make.wordpress.org/updates/2022/11/29/themes-team-update-november-29-2022/)
 - [Test Team Update: 28 November 2022](https://make.wordpress.org/updates/2022/11/29/test-team-update-28-november-2022/)
 - [Plugin Review Team Status – 28 Nov 2022](https://make.wordpress.org/updates/2022/11/29/plugin-review-team-status-28-nov-2022/)
@@ -459,7 +460,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Documentation Team Update – November 21, 2022](https://make.wordpress.org/updates/2022/11/21/documentation-team-update-november-21-2022/)
 - [X-post: The Road To 5000 Photos, A Retrospective](https://make.wordpress.org/updates/2022/11/17/xpost-the-road-to-5000-photos-a-retrospective/)
 - [Team Rep Nominations, 2022](https://make.wordpress.org/updates/2022/11/15/team-rep-nominations-2022/)
-- [Plugin Review Team: 14 November 2022](https://make.wordpress.org/updates/2022/11/15/plugin-review-team-14-november-2022/)
 <!-- UPDATES:END -->
 
 ## Project
