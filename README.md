@@ -342,7 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Embracing minds of all kinds: making digital content usable for people with cognitive disabilities](https://wordpress.tv/2022/11/26/embracing-minds-of-all-kinds-making-digital-content-usable-for-people-with-cognitive-disabilities/)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://wordpress.tv/2022/11/25/what-is-seo-search-engine-optimization/)
 - [Best design practices to create engagement](https://wordpress.tv/2022/11/25/best-design-practices-to-create-engagement/)
-- [Let’s code: developing blocks without React! – Part 2 &lpar;take two&rpar;](https://wordpress.tv/2022/11/25/lets-code-developing-blocks-without-react-part-2-take-2/)
+- [Let’s code: developing blocks without React! – Attributes and RichText](https://wordpress.tv/2022/11/25/lets-code-developing-blocks-without-react-part-2-take-2/)
 - [Ecommerce en B2B: cómo hacer que el carrito sea un tráiler](https://wordpress.tv/2022/11/24/ecommerce-en-b2b-como-hacer-que-el-carrito-sea-un-trailer/)
 - [Claves legales para evitar disgustos y mejorar las ventas en e-commerce](https://wordpress.tv/2022/11/24/claves-legales-para-evitar-disgustos-y-mejorar-las-ventas-en-e-commerce/)
 - [A rookie’s reflection – it is never too late to learn!](https://wordpress.tv/2022/11/23/a-rookies-reflection-it-is-never-too-late-to-learn/)
