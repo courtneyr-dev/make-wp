@@ -337,6 +337,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using Chrome’s Developer Tools](https://wordpress.tv/2022/11/30/using-chromes-developer-tools/)
+- [Using Page Templates](https://wordpress.tv/2022/11/30/using-page-templates/)
 - [How to Join Core Release Party | Bangla](https://wordpress.tv/2022/11/29/how-to-join-core-release-party-bangla/)
 - [Prepare for the cookie-less future with Google Analytics 4](https://wordpress.tv/2022/11/28/prepare-for-the-cookie-less-future-with-google-analytics-4/)
 - [Customizing core blocks for clients](https://wordpress.tv/2022/11/27/customizing-core-blocks-for-clients/)
@@ -360,8 +362,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Interrogatorio a Google – ¿Qué hay que hacer para posicionar en SEO local?](https://wordpress.tv/2022/11/22/interrogatorio-a-google-que-hay-que-hacer-para-posicionar-en-seo-local/)
 - [Cómo elegir un tema para WooCommerce](https://wordpress.tv/2022/11/22/como-elegir-un-tema-para-woocommerce/)
 - [Storytelling aplicado a las marcas](https://wordpress.tv/2022/11/22/storytelling-aplicado-a-las-marcas/)
-- [Aprende a optimizar el SEO de tu ecommerce](https://wordpress.tv/2022/11/22/aprende-a-optimizar-el-seo-de-tu-ecommerce/)
-- [Community Building: ¿Por qué dinamizar una Comunidad y cómo potenciar mi negocio Online?](https://wordpress.tv/2022/11/22/community-building-por-que-dinamizar-una-comunidad-y-como-potenciar-mi-negocio-online/)
 <!-- WPTV:END -->
 
 ## Marketing
