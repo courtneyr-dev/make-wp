@@ -478,6 +478,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Add proxy for samsuresh and unintended8](https://make.wordpress.org/systems/2022/11/30/add-proxy-for-samsuresh-and-unintended8/)
 - [FreeScout for WordCamp events](https://make.wordpress.org/systems/2022/11/30/freescout-for-wordcamp-events/)
 - [IP blocked from plugins.svn?](https://make.wordpress.org/systems/2022/10/31/ip-blocked-from-plugins-svn/)
 - [Redirect request: {ios,android,iphone}.wordpress.org](https://make.wordpress.org/systems/2022/10/12/redirect-request-iosandroidiphone-wordpress-org/)
@@ -487,7 +488,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SSL cert expired for plugins-svn.bbpress.org](https://make.wordpress.org/systems/2022/04/29/ssl-cert-expired-for-plugins-svn-bbpress-org/)
 - [Email forwarder hosting@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-hostingwordpress-org-for-helpscout/)
 - [Email forwarder reports@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-reportswordpress-org-for-helpscout/)
-- [Grant dotorg trac access for Brandon Kraft](https://make.wordpress.org/systems/2022/04/12/grant-dotorg-trac-access-for-brandon-kraft/)
 <!-- SYSTEMS:END -->
 
 ## News
