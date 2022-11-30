@@ -45,6 +45,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: December 2, 2022](https://make.wordpress.org/accessibility/2022/11/30/accessibility-team-meeting-agenda-december-2-2022/)
 - [X-post: Meetup.com Accessibility Overlay Update](https://make.wordpress.org/accessibility/2022/11/23/xpost-meetup-com-accessibility-overlay-update/)
 - [Accessibility Team Meeting Agenda: November 18, 2022](https://make.wordpress.org/accessibility/2022/11/17/accessibility-team-meeting-agenda-november-18-2022/)
 - [X-post: Choosing accessible/contrasting dark theme colors for online workshops and tutorial videos](https://make.wordpress.org/accessibility/2022/11/09/xpost-choosing-accessible-contrasting-dark-theme-colors-for-online-workshops-and-tutorial-videos/)
@@ -54,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: October 21, 2022](https://make.wordpress.org/accessibility/2022/10/09/accessibility-team-meeting-agenda-october-21-2022/)
 - [Accessibility Team Meeting Notes: October 7, 2022](https://make.wordpress.org/accessibility/2022/10/09/accessibility-team-meeting-notes-october-7-2022/)
 - [Accessibility Team Meeting Agenda: October 7, 2022](https://make.wordpress.org/accessibility/2022/10/07/accessibility-team-meeting-agenda-october-7-2022/)
-- [X-post: Adding subtitles to the WordPress.tv videos](https://make.wordpress.org/accessibility/2022/09/30/xpost-adding-subtitles-to-the-wordpress-tv-videos-2/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
