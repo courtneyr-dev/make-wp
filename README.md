@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [Streamline your Block Theme development with Create Block Theme](https://learn.wordpress.org/tutorial/streamline-your-block-theme-development-with-create-block-theme/)
 - [Trabalhando com estilos globais](https://learn.wordpress.org/tutorial/trabalhando-com-estilos-globais/)
 - [Padding Versus Margin](https://learn.wordpress.org/tutorial/padding-versus-margin/)
@@ -240,7 +241,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Managing Settings: Media](https://learn.wordpress.org/tutorial/managing-settings-media/)
 - [Uncovering the Cover Block](https://learn.wordpress.org/tutorial/uncovering-the-cover-block/)
 - [Adding a Pattern From the Pattern Directory to Your Theme](https://learn.wordpress.org/tutorial/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
-- [Personalizing your 404 Template.](https://learn.wordpress.org/tutorial/personalizing-your-404-template/)
+- [Personalizing your 404 Template](https://learn.wordpress.org/tutorial/personalizing-your-404-template/)
 - [Using Block Attributes to Enable User Editing](https://learn.wordpress.org/tutorial/using-block-attributes-to-enable-user-editing/)
 - [Image Optimization](https://learn.wordpress.org/tutorial/image-optimization/)
 - [Gerenciando atualizações no WordPress](https://learn.wordpress.org/tutorial/gerenciando-atualizacoes-no-wordpress/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a new header with blocks](https://learn.wordpress.org/tutorial/creating-a-new-header-with-blocks/)
 - [Customizing your post content layout](https://learn.wordpress.org/tutorial/customizing-your-post-content-layout/)
 - [Using the create-block Tool](https://learn.wordpress.org/tutorial/using-the-create-block-tool/)
-- [Introdução ao Editor de Site e ao Editor de Modelos](https://learn.wordpress.org/tutorial/introducao-ao-editor-de-site-e-ao-editor-de-modelos/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
