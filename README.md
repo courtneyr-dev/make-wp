@@ -157,6 +157,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda 1 Dec 2022](https://make.wordpress.org/community/2022/11/30/community-team-meeting-agenda-1-dec-2022/)
+- [Vote for Community Team Rep 2023](https://make.wordpress.org/community/2022/11/30/vote-for-community-team-rep-2023/)
 - [Plan Your State of the Word Watch Party Today!](https://make.wordpress.org/community/2022/11/28/plan-your-state-of-the-word-watch-party-today/)
 - [WordPress Community Team Training #5: Active Listening](https://make.wordpress.org/community/2022/11/28/wordpress-community-team-training-5-active-listening/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on November 23, 2022](https://make.wordpress.org/community/2022/11/24/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-november-23-2022/)
@@ -165,8 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcement: New European Camera Kits](https://make.wordpress.org/community/2022/11/17/announcement-new-european-camera-kits/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on November 9, 2022](https://make.wordpress.org/community/2022/11/15/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-november-9-2022/)
 - [Upcoming #WPDiversity Events: December 2022](https://make.wordpress.org/community/2022/11/11/upcoming-wpdiversity-events-december-2022/)
-- [Community Team Rep Nominations for 2023](https://make.wordpress.org/community/2022/11/10/community-team-rep-nominations-for-2023/)
-- [WordCamp Mentors’ November check-in!](https://make.wordpress.org/community/2022/11/04/wordcamp-mentors-november-check-in/)
 <!-- COMMUNITY:END -->
 
 ## Meta
