@@ -478,6 +478,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [FreeScout for WordCamp events](https://make.wordpress.org/systems/2022/11/30/freescout-for-wordcamp-events/)
 - [IP blocked from plugins.svn?](https://make.wordpress.org/systems/2022/10/31/ip-blocked-from-plugins-svn/)
 - [Redirect request: {ios,android,iphone}.wordpress.org](https://make.wordpress.org/systems/2022/10/12/redirect-request-iosandroidiphone-wordpress-org/)
 - [Sandbox for danielbachhuber Could I…](https://make.wordpress.org/systems/2022/09/13/sandbox-for-danielbachhuber-could-i/)
@@ -487,7 +488,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Email forwarder hosting@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-hostingwordpress-org-for-helpscout/)
 - [Email forwarder reports@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-reportswordpress-org-for-helpscout/)
 - [Grant dotorg trac access for Brandon Kraft](https://make.wordpress.org/systems/2022/04/12/grant-dotorg-trac-access-for-brandon-kraft/)
-- [Commit for images/core/emoji Could I…](https://make.wordpress.org/systems/2022/04/11/commit-for-images-core-emoji-could-i/)
 <!-- SYSTEMS:END -->
 
 ## News
