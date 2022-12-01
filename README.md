@@ -339,7 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Using Chrome’s Developer Tools](https://wordpress.tv/2022/11/30/using-chromes-developer-tools/)
-- [Using Page Templates](https://wordpress.tv/2022/11/30/using-page-templates/)
+- [Using page templates](https://wordpress.tv/2022/11/30/using-page-templates/)
 - [How to Join Core Release Party | Bangla](https://wordpress.tv/2022/11/29/how-to-join-core-release-party-bangla/)
 - [Prepare for the cookie-less future with Google Analytics 4](https://wordpress.tv/2022/11/28/prepare-for-the-cookie-less-future-with-google-analytics-4/)
 - [Customizing core blocks for clients](https://wordpress.tv/2022/11/27/customizing-core-blocks-for-clients/)
