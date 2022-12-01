@@ -506,16 +506,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-783/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-23/)
+- [Freelance Developer](https://jobs.wordpress.net/job/freelance-developer-7/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-2/)
 - [Front and Backend Full Stack WordPress Developer](https://jobs.wordpress.net/job/front-and-backend-full-stack-wordpress-developer/)
 - [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-25/)
 - [Back-end WordPress &amp; WooCommerce Developer](https://jobs.wordpress.net/job/back-end-wordpress-woocommerce-developer/)
 - [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-94/)
 - [Plugin Developer](https://jobs.wordpress.net/job/plugin-developer-18/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-782/)
-- [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-22/)
-- [Design and develop a mobile app &lpar;iOS/Android&rpar; and connecting to a real estate WordPress site](https://jobs.wordpress.net/job/design-and-develop-a-mobile-app-ios-android-and-connecting-to-a-real-estate-wordpress-site/)
-- [[Astra] Lead SEO &amp; Content Marketing Specialist](https://jobs.wordpress.net/job/astra-lead-seo-content-marketing-specialist-2/)
 <!-- JOBS:END -->
 
 ## Central
