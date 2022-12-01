@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/12/01/post-title-pte-request-for-54/)
 - [Locale: fr-ch Country code: ch…](https://make.wordpress.org/polyglots/2022/11/30/locale-fr-ch-country-code-ch/)
 - [PTE Request for “Sensei LMS…](https://make.wordpress.org/polyglots/2022/11/29/pte-request-for-sensei-lms-5/)
 - [Agenda: Weekly Polyglots Chat – Nov. 30, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/29/agenda-weekly-polyglots-chat-nov-30-2022-0700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for “Wrapping ShortCode”](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-wrapping-shortcode/)
 - [PTE Request for CatFolders](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-catfolders/)
 - [Request to be a Somali…](https://make.wordpress.org/polyglots/2022/11/28/request-to-be-a-somali/)
-- [PTE Request for Popup Maker…](https://make.wordpress.org/polyglots/2022/11/27/pte-request-for-popup-maker-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
