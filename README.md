@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Share Your Experience: The 2022 WordPress Survey is Open](https://wordpress.org/news/2022/12/2022-wordpress-survey/)
 - [People of WordPress: Huanyi Chuang](https://wordpress.org/news/2022/11/people-of-wordpress-huanyi-chuang/)
 - [WP Briefing: Episode 44: Minors, Majors, and Why We Have So Many Releases](https://wordpress.org/news/2022/11/episode-44-minors-majors-and-why-we-have-so-many-releases/)
 - [The Month in WordPress – October 2022](https://wordpress.org/news/2022/11/the-month-in-wordpress-october-2022/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing Twenty Twenty-Three](https://wordpress.org/news/2022/11/introducing-twenty-twenty-three/)
 - [WordPress 6.1 “Misha”](https://wordpress.org/news/2022/11/misha/)
 - [People of WordPress: Raghavendra Satish Peri](https://wordpress.org/news/2022/10/people-of-wordpress-raghavendra-satish-peri/)
-- [WP Briefing: Episode 42: Something Spooky This Way Comes](https://wordpress.org/news/2022/10/episode-42-something-spooky-this-way-comes/)
 <!-- NEWS:END -->
 
 ## Jobs
