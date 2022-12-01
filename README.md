@@ -281,6 +281,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Own Your Expertise &amp; Start Speaking at WordPress Events #WPDiversity](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-wpdiversity)
+- [State of the Word Watch Party &lpar;Online&rpar;](https://learn.wordpress.org/?meeting=state-of-the-word-watch-party-online)
 - [State of the Word Watch Party &lpar;Live Online&rpar;](https://learn.wordpress.org/?meeting=https-www-meetup-com-learn-wordpress-online-workshops-events-290051844)
 - [How to Join Core Release Party](https://learn.wordpress.org/?meeting=how-to-join-core-release-party)
 - [Let’s code: Developing Blocks without React! – Part 3](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-3)
@@ -304,8 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Thessaloniki WordPress Meetup: Block Theme Workshop – Part 2](https://learn.wordpress.org/?meeting=thessaloniki-wordpress-meetup-block-theme-workshop-part-2)
 - [WordPress development live stream: Developing Blocks without React – Part 2](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-2)
 - [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2)
-- [Let’s code: Developing Blocks without React! – Part 1](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-1)
-- [WordPress development live stream: Developing Blocks without React! – Part 1](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-1)
 <!-- SLS:END -->
 
 ## Test
