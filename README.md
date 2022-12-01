@@ -281,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Test &lpar;with Report&rpar; a Core Trac Ticket | Bangla](https://learn.wordpress.org/?meeting=how-to-test-with-report-a-core-trac-ticket-bangla)
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events #WPDiversity](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-wpdiversity)
 - [State of the Word Watch Party &lpar;Online&rpar;](https://learn.wordpress.org/?meeting=state-of-the-word-watch-party-online)
 - [State of the Word Watch Party &lpar;Live Online&rpar;](https://learn.wordpress.org/?meeting=https-www-meetup-com-learn-wordpress-online-workshops-events-290051844)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Demystifying Gutenberg](https://learn.wordpress.org/?meeting=demystifying-gutenberg)
 - [Thessaloniki WordPress Meetup: Block Theme Workshop – Part 2](https://learn.wordpress.org/?meeting=thessaloniki-wordpress-meetup-block-theme-workshop-part-2)
 - [WordPress development live stream: Developing Blocks without React – Part 2](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-2)
-- [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2)
 <!-- SLS:END -->
 
 ## Test
