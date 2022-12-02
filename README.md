@@ -45,6 +45,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Call for Team Rep Nomination – December 2022](https://make.wordpress.org/accessibility/2022/12/02/call-for-team-rep-nomination-december-2022/)
 - [Accessibility Team Meeting Agenda: December 2, 2022](https://make.wordpress.org/accessibility/2022/11/30/accessibility-team-meeting-agenda-december-2-2022/)
 - [X-post: Meetup.com Accessibility Overlay Update](https://make.wordpress.org/accessibility/2022/11/23/xpost-meetup-com-accessibility-overlay-update/)
 - [Accessibility Team Meeting Agenda: November 18, 2022](https://make.wordpress.org/accessibility/2022/11/17/accessibility-team-meeting-agenda-november-18-2022/)
@@ -54,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress 6.1 Accessibility Improvements](https://make.wordpress.org/accessibility/2022/10/11/xpost-wordpress-6-1-accessibility-improvements/)
 - [Accessibility Team Meeting Agenda: October 21, 2022](https://make.wordpress.org/accessibility/2022/10/09/accessibility-team-meeting-agenda-october-21-2022/)
 - [Accessibility Team Meeting Notes: October 7, 2022](https://make.wordpress.org/accessibility/2022/10/09/accessibility-team-meeting-notes-october-7-2022/)
-- [Accessibility Team Meeting Agenda: October 7, 2022](https://make.wordpress.org/accessibility/2022/10/07/accessibility-team-meeting-agenda-october-7-2022/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
