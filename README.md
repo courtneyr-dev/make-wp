@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [I just got this WordPress and don’t know how to use it](https://wordpress.tv/2022/12/01/i-just-got-this-wordpress-and-dont-know-how-to-use-it/)
 - [Using Chrome’s Developer Tools](https://wordpress.tv/2022/11/30/using-chromes-developer-tools/)
 - [Using page templates](https://wordpress.tv/2022/11/30/using-page-templates/)
 - [How to Join Core Release Party | Bangla](https://wordpress.tv/2022/11/29/how-to-join-core-release-party-bangla/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo la personalización puede aumentar tus ventas](https://wordpress.tv/2022/11/22/como-la-personalizacion-puede-aumentar-tus-ventas/)
 - [Interrogatorio a Google – ¿Qué hay que hacer para posicionar en SEO local?](https://wordpress.tv/2022/11/22/interrogatorio-a-google-que-hay-que-hacer-para-posicionar-en-seo-local/)
 - [Cómo elegir un tema para WooCommerce](https://wordpress.tv/2022/11/22/como-elegir-un-tema-para-woocommerce/)
-- [Storytelling aplicado a las marcas](https://wordpress.tv/2022/11/22/storytelling-aplicado-a-las-marcas/)
 <!-- WPTV:END -->
 
 ## Marketing
