@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Builder Basics: Building with Columns, Groups, Rows and Stacks](https://wordpress.tv/2022/12/02/builder-basics-building-with-columns-groups-rows-and-stacks/)
 - [Let’s code: developing blocks without React! – Controls](https://wordpress.tv/2022/12/02/lets-code-developing-blocks-without-react-controls/)
 - [Improving processes and website tracking with Google Tag Manager and WordPress](https://wordpress.tv/2022/12/01/improving-processes-and-website-tracking-with-google-tag-manager-and-wordpress/)
 - [I just got this WordPress and don’t know how to use it](https://wordpress.tv/2022/12/01/i-just-got-this-wordpress-and-dont-know-how-to-use-it/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pasos para internacionalizar con WooCommerce](https://wordpress.tv/2022/11/22/pasos-para-internacionalizar-con-woocommerce/)
 - [Los 4 Fantásticos: 4 plugins imprescindibles para WooCommerce](https://wordpress.tv/2022/11/22/los-4-fantasticos-4-plugins-imprescindibles-para-woocommerce/)
 - [Cómo gestionar un proyecto en línea](https://wordpress.tv/2022/11/22/como-gestionar-un-proyecto-en-linea/)
-- [Cómo la personalización puede aumentar tus ventas](https://wordpress.tv/2022/11/22/como-la-personalizacion-puede-aumentar-tus-ventas/)
 <!-- WPTV:END -->
 
 ## Marketing
