@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: developing blocks without React! – Controls](https://wordpress.tv/2022/12/02/lets-code-developing-blocks-without-react-controls/)
 - [Improving processes and website tracking with Google Tag Manager and WordPress](https://wordpress.tv/2022/12/01/improving-processes-and-website-tracking-with-google-tag-manager-and-wordpress/)
 - [I just got this WordPress and don’t know how to use it](https://wordpress.tv/2022/12/01/i-just-got-this-wordpress-and-dont-know-how-to-use-it/)
 - [Using Chrome’s Developer Tools](https://wordpress.tv/2022/11/30/using-chromes-developer-tools/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Los 4 Fantásticos: 4 plugins imprescindibles para WooCommerce](https://wordpress.tv/2022/11/22/los-4-fantasticos-4-plugins-imprescindibles-para-woocommerce/)
 - [Cómo gestionar un proyecto en línea](https://wordpress.tv/2022/11/22/como-gestionar-un-proyecto-en-linea/)
 - [Cómo la personalización puede aumentar tus ventas](https://wordpress.tv/2022/11/22/como-la-personalizacion-puede-aumentar-tus-ventas/)
-- [Interrogatorio a Google – ¿Qué hay que hacer para posicionar en SEO local?](https://wordpress.tv/2022/11/22/interrogatorio-a-google-que-hay-que-hacer-para-posicionar-en-seo-local/)
 <!-- WPTV:END -->
 
 ## Marketing
