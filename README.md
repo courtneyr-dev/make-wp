@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Images on the web — past present and future](https://wordpress.tv/2022/12/03/images-on-the-web-past-present-and-future/)
 - [Hallway Hangout: the future of CSS in block themes](https://wordpress.tv/2022/12/02/hallway-hangout-future-of-css-in-block-themes/)
 - [Builder basics: building with columns, groups, rows and stacks](https://wordpress.tv/2022/12/02/builder-basics-building-with-columns-groups-rows-and-stacks/)
 - [Let’s code: developing blocks without React! – Controls](https://wordpress.tv/2022/12/02/lets-code-developing-blocks-without-react-controls/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Demystifying Gutenberg](https://wordpress.tv/2022/11/22/demystifying-gutenberg/)
 - [Buenas prácticas para la accesibilidad en tiendas online con WordPress](https://wordpress.tv/2022/11/22/inaki-martin-buenas-practicas-para-la-accesibilidad-en-tiendas-online-con-wordpress/)
 - [Pasos para internacionalizar con WooCommerce](https://wordpress.tv/2022/11/22/pasos-para-internacionalizar-con-woocommerce/)
-- [Los 4 Fantásticos: 4 plugins imprescindibles para WooCommerce](https://wordpress.tv/2022/11/22/los-4-fantasticos-4-plugins-imprescindibles-para-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
