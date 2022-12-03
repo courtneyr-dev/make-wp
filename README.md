@@ -338,7 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Hallway Hangout: Future of CSS in block themes](https://wordpress.tv/2022/12/02/hallway-hangout-future-of-css-in-block-themes/)
+- [Hallway Hangout: the future of CSS in block themes](https://wordpress.tv/2022/12/02/hallway-hangout-future-of-css-in-block-themes/)
 - [Builder basics: building with columns, groups, rows and stacks](https://wordpress.tv/2022/12/02/builder-basics-building-with-columns-groups-rows-and-stacks/)
 - [Let’s code: developing blocks without React! – Controls](https://wordpress.tv/2022/12/02/lets-code-developing-blocks-without-react-controls/)
 - [Improving processes and website tracking with Google Tag Manager and WordPress](https://wordpress.tv/2022/12/01/improving-processes-and-website-tracking-with-google-tag-manager-and-wordpress/)
