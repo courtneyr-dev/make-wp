@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Oxygen / WordPress page builder &lpar;WFH | multiple projects&rpar;](https://jobs.wordpress.net/job/oxygen-wordpress-page-builder-wfh-multiple-projects/)
+- [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-18/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-783/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-23/)
 - [Freelance Developer](https://jobs.wordpress.net/job/freelance-developer-7/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-25/)
 - [Back-end WordPress &amp; WooCommerce Developer](https://jobs.wordpress.net/job/back-end-wordpress-woocommerce-developer/)
 - [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-94/)
-- [Plugin Developer](https://jobs.wordpress.net/job/plugin-developer-18/)
 <!-- JOBS:END -->
 
 ## Central
