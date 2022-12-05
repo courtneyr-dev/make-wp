@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: Learn WordPress Site Updates – December 2022](https://make.wordpress.org/meta/2022/12/05/xpost-learn-wordpress-site-updates-december-2022/)
 - [X-post: DevHub getting a new look](https://make.wordpress.org/meta/2022/11/22/xpost-devhub-getting-a-new-look/)
 - [X-post: A refresh of WordPress.org/Showcase](https://make.wordpress.org/meta/2022/11/11/xpost-a-refresh-of-wordpress-org-showcase/)
 - [WordPress.org Redesign Update](https://make.wordpress.org/meta/2022/10/21/wordpress-org-redesign-update/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Reclassification of end-user documentation](https://make.wordpress.org/meta/2022/10/05/xpost-reclassification-of-end-user-documentation/)
 - [X-post: Proposal: Faster Course Development with Video-Based Courses](https://make.wordpress.org/meta/2022/09/27/xpost-proposal-faster-course-development-with-video-based-courses/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/meta/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
-- [Improving DevHub Code References](https://make.wordpress.org/meta/2022/09/05/improving-devhub-code-references/)
 <!-- META:END -->
 
 ## Training
