@@ -311,6 +311,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 5 December 2022](https://make.wordpress.org/test/2022/12/05/xpost-test-team-update-5-december-2022/)
 - [X-post: Call for Testing: WordPress for iOS 21.3](https://make.wordpress.org/test/2022/11/29/xpost-call-for-testing-wordpress-for-ios-21-3/)
 - [X-post: Test Team Update: 28 November 2022](https://make.wordpress.org/test/2022/11/29/xpost-test-team-update-28-november-2022/)
 - [X-post: Test Team Update: 21 November 2022](https://make.wordpress.org/test/2022/11/22/xpost-test-team-update-21-november-2022/)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [FSE Program Exploration: Site Editor Sneak Peek](https://make.wordpress.org/test/2022/11/13/fse-program-exploration-site-editor-sneak-peek/)
 - [X-post: Test Team Update: 7 November 2022](https://make.wordpress.org/test/2022/11/08/xpost-test-team-update-7-november-2022/)
 - [Hallway Hangout: On 6.1, 6.2, and block themes &lpar;Nov 2nd&rpar;](https://make.wordpress.org/test/2022/11/03/hallway-hangout-on-6-1-6-2-and-block-themes-2-nov/)
-- [X-post: Call for Testing: WordPress for Android 21.1](https://make.wordpress.org/test/2022/11/01/xpost-call-for-testing-wordpress-for-android-21-1/)
 <!-- TEST:END -->
 
 ## TV
