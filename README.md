@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [DEIB: uncomfortable truths of belonging](https://wordpress.tv/2022/12/04/deib-uncomfortable-truths-of-belonging/)
 - [Copias de seguridad en WordPress con Duplicator](https://wordpress.tv/2022/12/04/copias-de-seguridad-en-wordpress-con-duplicator/)
 - [Images on the web — past present and future](https://wordpress.tv/2022/12/03/images-on-the-web-past-present-and-future/)
 - [Hallway Hangout: the future of CSS in block themes](https://wordpress.tv/2022/12/02/hallway-hangout-future-of-css-in-block-themes/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Por qué los miniobjetivos son tanto o más importantes que la venta final?](https://wordpress.tv/2022/11/23/por-que-los-miniobjetivos-son-tanto-o-mas-importantes-que-la-venta-final/)
 - [Streamline your block theme development with the Create Block theme](https://wordpress.tv/2022/11/23/streamline-your-block-theme-development-with-create-block-theme/)
 - [Demystifying Gutenberg](https://wordpress.tv/2022/11/22/demystifying-gutenberg/)
-- [Buenas prácticas para la accesibilidad en tiendas online con WordPress](https://wordpress.tv/2022/11/22/inaki-martin-buenas-practicas-para-la-accesibilidad-en-tiendas-online-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
