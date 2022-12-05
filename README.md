@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Greenshift plugin](https://make.wordpress.org/polyglots/2022/12/05/pte-request-for-greenshift-plugin/)
+- [Flexible Quantity – Measurement Price Calculator for WooCommerce](https://make.wordpress.org/polyglots/2022/12/05/flexible-quantity-measurement-price-calculator-for-woocommerce/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/12/01/post-title-pte-request-for-54/)
 - [Locale: fr-ch Country code: ch…](https://make.wordpress.org/polyglots/2022/11/30/locale-fr-ch-country-code-ch/)
 - [PTE Request for “Sensei LMS…](https://make.wordpress.org/polyglots/2022/11/29/pte-request-for-sensei-lms-5/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GPTE request for locale nl_NL](https://make.wordpress.org/polyglots/2022/11/29/gpte-request-for-locale-nl_nl/)
 - [PTE Request for XML Sitemaps Manager](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-xml-sitemaps-manager/)
 - [PTE Request for “Wrapping ShortCode”](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-wrapping-shortcode/)
-- [PTE Request for CatFolders](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-catfolders/)
-- [Request to be a Somali…](https://make.wordpress.org/polyglots/2022/11/28/request-to-be-a-somali/)
 <!-- POLYGLOTS:END -->
 
 ## Support
