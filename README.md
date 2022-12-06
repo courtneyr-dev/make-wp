@@ -185,7 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
-- [Vote for Training Team rep 2023](https://make.wordpress.org/training/2022/12/06/vote-for-training-team-rep-2023/)
+- [Vote for Training Team Rep 2023](https://make.wordpress.org/training/2022/12/06/vote-for-training-team-rep-2023/)
 - [Learn WordPress Site Updates – December 2022](https://make.wordpress.org/training/2022/12/05/learn-wordpress-site-updates-december-2022/)
 - [Meeting Agenda for December 6, 2022](https://make.wordpress.org/training/2022/12/05/meeting-agenda-for-december-6-2022/)
 - [Training Team Meeting Recap for November 29, 2022](https://make.wordpress.org/training/2022/12/05/training-team-meeting-recap-for-november-29-2022/)
