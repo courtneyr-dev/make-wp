@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Simón Zambrano, Juan Calderón: Creando un sitio WordPress desde cero con Gutenberg](https://wordpress.tv/2022/12/06/simon-zambrano-juan-calderon-creando-un-sitio-wordpress-desde-cero-con-gutenberg/)
+- [Marija Zaric: The Commons – the importance of being open and sharing / my story](https://wordpress.tv/2022/12/06/marija-zaric-the-commons-the-importance-of-being-open-and-sharing-my-story-2/)
 - [Image SEO best practices to make your content discoverable](https://wordpress.tv/2022/12/05/image-seo-best-practices-to-make-your-content-discoverable/)
 - [DEIB: uncomfortable truths of belonging](https://wordpress.tv/2022/12/04/deib-uncomfortable-truths-of-belonging/)
 - [Copias de seguridad en WordPress con Duplicator](https://wordpress.tv/2022/12/04/copias-de-seguridad-en-wordpress-con-duplicator/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A rookie’s reflection – it is never too late to learn!](https://wordpress.tv/2022/11/23/a-rookies-reflection-it-is-never-too-late-to-learn/)
 - [Activa tu lado hacker y eleva tu productividad](https://wordpress.tv/2022/11/23/activa-tu-lado-hacker-y-eleva-tu-productividad/)
 - [Si no etiquetas tu ecommerce estás haciendo el canelo](https://wordpress.tv/2022/11/23/si-no-etiquetas-tu-ecommerce-estas-haciendo-el-canelo/)
-- [¿Por qué los miniobjetivos son tanto o más importantes que la venta final?](https://wordpress.tv/2022/11/23/por-que-los-miniobjetivos-son-tanto-o-mas-importantes-que-la-venta-final/)
-- [Streamline your block theme development with the Create Block theme](https://wordpress.tv/2022/11/23/streamline-your-block-theme-development-with-create-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
