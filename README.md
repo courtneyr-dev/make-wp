@@ -339,7 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Simón Zambrano, Juan Calderón: Creando un sitio WordPress desde cero con Gutenberg](https://wordpress.tv/2022/12/06/simon-zambrano-juan-calderon-creando-un-sitio-wordpress-desde-cero-con-gutenberg/)
-- [Marija Zaric: The Commons – the importance of being open and sharing / my story](https://wordpress.tv/2022/12/06/marija-zaric-the-commons-the-importance-of-being-open-and-sharing-my-story-2/)
+- [The Commons – the importance of being open and sharing / my story](https://wordpress.tv/2022/12/06/marija-zaric-the-commons-the-importance-of-being-open-and-sharing-my-story-2/)
 - [Image SEO best practices to make your content discoverable](https://wordpress.tv/2022/12/05/image-seo-best-practices-to-make-your-content-discoverable/)
 - [DEIB: uncomfortable truths of belonging](https://wordpress.tv/2022/12/04/deib-uncomfortable-truths-of-belonging/)
 - [Copias de seguridad en WordPress con Duplicator](https://wordpress.tv/2022/12/04/copias-de-seguridad-en-wordpress-con-duplicator/)
