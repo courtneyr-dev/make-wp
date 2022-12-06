@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – Dec. 07, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/06/agenda-weekly-polyglots-chat-dec-07-2022-1300-utc/)
 - [PTE Request for Greenshift plugin](https://make.wordpress.org/polyglots/2022/12/05/pte-request-for-greenshift-plugin/)
 - [Flexible Quantity – Measurement Price Calculator for WooCommerce](https://make.wordpress.org/polyglots/2022/12/05/flexible-quantity-measurement-price-calculator-for-woocommerce/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/12/01/post-title-pte-request-for-54/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WP-Members Membership Plugin](https://make.wordpress.org/polyglots/2022/11/29/pte-request-for-wp-members-membership-plugin/)
 - [GPTE request for locale nl_NL](https://make.wordpress.org/polyglots/2022/11/29/gpte-request-for-locale-nl_nl/)
 - [PTE Request for XML Sitemaps Manager](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-xml-sitemaps-manager/)
-- [PTE Request for “Wrapping ShortCode”](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-wrapping-shortcode/)
 <!-- POLYGLOTS:END -->
 
 ## Support
