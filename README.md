@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – December 5, 2022](https://make.wordpress.org/core/2022/12/05/a-week-in-core-december-5-2022/)
 - [Performance Chat Agenda: 6 December 2022](https://make.wordpress.org/core/2022/12/05/performance-chat-agenda-6-december-2022/)
 - [Core Team Reps for 2023: Submit Your Votes](https://make.wordpress.org/core/2022/12/02/core-team-reps-for-2023-submit-your-votes/)
 - [Dev Chat summary: Wednesday, November 30, 2022](https://make.wordpress.org/core/2022/11/30/dev-chat-summary-wednesday-november-30-2022/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Week in Core – November 28, 2022](https://make.wordpress.org/core/2022/11/29/a-week-in-core-november-28-2022/)
 - [Editor Chat Agenda: November 30, 2022](https://make.wordpress.org/core/2022/11/28/editor-chat-agenda-november-30-2022/)
 - [Performance Chat Agenda: 29 November 2022](https://make.wordpress.org/core/2022/11/28/performance-chat-agenda-29-november-2022/)
-- [Proposal: Amend the Inline Documentation Standards for multi-line comments](https://make.wordpress.org/core/2022/11/24/proposal-amend-the-inline-documentation-standards-for-multi-line-comments/)
 <!-- CORE:END -->
 
 ## Design
