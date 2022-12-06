@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Create wp20.wordpress.net](https://make.wordpress.org/systems/2022/12/06/create-wp20-wordpress-net/)
 - [IP connectivity problem debug request](https://make.wordpress.org/systems/2022/12/06/ip-connectivity-problem-debug-request/)
 - [Dedicated uploads CDN](https://make.wordpress.org/systems/2022/12/05/dedicated-uploads-cdn/)
 - [Add proxy for samsuresh and unintended8](https://make.wordpress.org/systems/2022/11/30/add-proxy-for-samsuresh-and-unintended8/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sandbox for danielbachhuber Could I…](https://make.wordpress.org/systems/2022/09/13/sandbox-for-danielbachhuber-could-i/)
 - [Relax rate limiting for downloads.wordpress.org/plugin-checksums/](https://make.wordpress.org/systems/2022/08/03/relax-rate-limiting-for-downloads-wordpress-org-plugin-checksums/)
 - [Helpscout cannot email to @wordpress.org…](https://make.wordpress.org/systems/2022/08/02/helpscout-cannot-email-to-wordpress-org/)
-- [SSL cert expired for plugins-svn.bbpress.org](https://make.wordpress.org/systems/2022/04/29/ssl-cert-expired-for-plugins-svn-bbpress-org/)
 <!-- SYSTEMS:END -->
 
 ## News
