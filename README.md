@@ -543,18 +543,18 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Cebu](https://central.wordcamp.org/wordcamps/wordcamp-cebu-2023/)
 - [Community Summit 2023](https://central.wordcamp.org/wordcamps/community-summit-2023/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2023/)
+- [WordCamp Zaragoza, Spain](https://central.wordcamp.org/wordcamps/wordcamp-zaragoza-2/)
 - [WordCamp Montclair, NJ](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj/)
 - [WordCamp Phoenix, Arizona, USA](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-arizona-usa/)
 - [WordCamp Entebbe](https://central.wordcamp.org/wordcamps/wordcamp-entebbe-3/)
 - [WordCamp Lyon](https://central.wordcamp.org/wordcamps/wordcamp-lyon-france/)
 - [WordCamp Nagpur, India](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-2/)
 - [WordCamp São Paulo](https://central.wordcamp.org/wordcamps/wordcamp-sao-paulo-9/)
-- [WordCamp Griñón for E-Commerce – Madrid](https://central.wordcamp.org/wordcamps/wordcamp-grinon/)
 - [WordCamp Switzerland](https://central.wordcamp.org/wordcamps/wordcamp-fribourg-murten-switzerland/)
 - [WordCamp Brno, Czech Republic](https://central.wordcamp.org/wordcamps/wordcamp-brno-czech-republic-4/)
+- [WordCamp Floripa 2022](https://central.wordcamp.org/wordcamps/wordcamp-floripa-santa-catarina-brasil/)
 - [WordCamp Kolkata, West Bengal, India](https://central.wordcamp.org/wordcamps/wordcamp-kolkata-west-bengal-india-2/)
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-2023/)
-- [WordCamp Italia](https://central.wordcamp.org/wordcamps/wordcamp-italia-2022/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
