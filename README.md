@@ -338,7 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Image SEO Best Practices to Make Your Content Discoverable](https://wordpress.tv/2022/12/05/image-seo-best-practices-to-make-your-content-discoverable/)
+- [Image SEO best practices to make your content discoverable](https://wordpress.tv/2022/12/05/image-seo-best-practices-to-make-your-content-discoverable/)
 - [DEIB: uncomfortable truths of belonging](https://wordpress.tv/2022/12/04/deib-uncomfortable-truths-of-belonging/)
 - [Copias de seguridad en WordPress con Duplicator](https://wordpress.tv/2022/12/04/copias-de-seguridad-en-wordpress-con-duplicator/)
 - [Images on the web — past present and future](https://wordpress.tv/2022/12/03/images-on-the-web-past-present-and-future/)
