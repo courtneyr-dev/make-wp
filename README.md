@@ -282,6 +282,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Creating a Theme with the Create Block Theme Plugin Session 1](https://learn.wordpress.org/?meeting=creating-a-theme-with-the-create-block-theme-plugin-session-1)
+- [Creating a Theme with the Create Block Theme Plugin Session 2](https://learn.wordpress.org/?meeting=creating-a-theme-with-the-create-block-theme-plugin-session-2)
+- [Exploring Category Templates and the Query Loop Block Session 2](https://learn.wordpress.org/?meeting=exploring-category-templates-and-the-query-loop-block-session-2)
+- [Exploring Category Templates and the Query Loop Block Session 1](https://learn.wordpress.org/?meeting=exploring-category-templates-and-the-query-loop-block-session-1)
 - [Let’s code: Developing Blocks without React! – Block Supports](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-block-supports)
 - [WordPress development live stream: Developing Blocks without React – Block Supports](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-block-supports)
 - [How to Test &lpar;with Report&rpar; a Core Trac Ticket | Bangla](https://learn.wordpress.org/?meeting=how-to-test-with-report-a-core-trac-ticket-bangla)
@@ -303,10 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Future of CSS in themes](https://learn.wordpress.org/?meeting=hallway-hangout-future-of-css-in-themes)
 - [Designing in the Site Editor: A WordPress Block Theme Exploration](https://learn.wordpress.org/?meeting=designing-in-the-site-editor-a-wordpress-block-theme-exploration-2)
 - [Designing in the Site Editor: A WordPress Block Theme Exploration](https://learn.wordpress.org/?meeting=designing-in-the-site-editor-a-wordpress-block-theme-exploration)
-- [WordPress 6.1 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-1-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81-2)
-- [WordPress 6.1 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-1-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
-- [Demystifying Gutenberg](https://learn.wordpress.org/?meeting=demystifying-gutenberg-2)
-- [Demystifying Gutenberg](https://learn.wordpress.org/?meeting=demystifying-gutenberg)
 <!-- SLS:END -->
 
 ## Test
