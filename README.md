@@ -507,6 +507,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Designer &lpar;Full/Part-Time, Remote&rpar;](https://jobs.wordpress.net/job/designer-full-part-time-remote/)
+- [Development Operations Manager](https://jobs.wordpress.net/job/development-operations-manager/)
+- [Technical Customer Support at WP Rocket – Remote](https://jobs.wordpress.net/job/technical-customer-support-at-wp-rocket-remote-2/)
 - [Experienced Developer with WordPress knowelage](https://jobs.wordpress.net/job/experienced-developer-with-wordpress-knowelage/)
 - [[WordLift] Product Designer](https://jobs.wordpress.net/job/wordlift-product-designer/)
 - [[WordLift] Full Stack Developer](https://jobs.wordpress.net/job/wordlift-full-stack-developer/)
@@ -514,9 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Oxygen / WordPress page builder &lpar;WFH | multiple projects&rpar;](https://jobs.wordpress.net/job/oxygen-wordpress-page-builder-wfh-multiple-projects/)
 - [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-18/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-783/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-23/)
-- [Freelance Developer](https://jobs.wordpress.net/job/freelance-developer-7/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-2/)
 <!-- JOBS:END -->
 
 ## Central
