@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/12/07/gte-request-for-afrikaans-af-za-2/)
 - [editor request for https://translate.wordpress.org/projects/wp-plugins/google-site-kit/ plugin…](https://make.wordpress.org/polyglots/2022/12/06/editor-request-for-https-translate-wordpress-org-projects-wp-plugins-google-site-kit-plugin/)
 - [PTE Request for Bricksable Plugin…](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-bricksable-plugin/)
 - [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-my-calendar/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/12/01/post-title-pte-request-for-54/)
 - [Locale: fr-ch Country code: ch…](https://make.wordpress.org/polyglots/2022/11/30/locale-fr-ch-country-code-ch/)
 - [PTE Request for “Sensei LMS…](https://make.wordpress.org/polyglots/2022/11/29/pte-request-for-sensei-lms-5/)
-- [Agenda: Weekly Polyglots Chat – Nov. 30, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/29/agenda-weekly-polyglots-chat-nov-30-2022-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
