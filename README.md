@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [editor request for https://translate.wordpress.org/projects/wp-plugins/google-site-kit/ plugin…](https://make.wordpress.org/polyglots/2022/12/06/editor-request-for-https-translate-wordpress-org-projects-wp-plugins-google-site-kit-plugin/)
+- [PTE Request for Bricksable Plugin…](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-bricksable-plugin/)
+- [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-my-calendar/)
 - [Agenda: Weekly Polyglots Chat – Dec. 07, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/06/agenda-weekly-polyglots-chat-dec-07-2022-1300-utc/)
 - [PTE Request for Greenshift plugin](https://make.wordpress.org/polyglots/2022/12/05/pte-request-for-greenshift-plugin/)
 - [Flexible Quantity – Measurement Price Calculator for WooCommerce](https://make.wordpress.org/polyglots/2022/12/05/flexible-quantity-measurement-price-calculator-for-woocommerce/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Locale: fr-ch Country code: ch…](https://make.wordpress.org/polyglots/2022/11/30/locale-fr-ch-country-code-ch/)
 - [PTE Request for “Sensei LMS…](https://make.wordpress.org/polyglots/2022/11/29/pte-request-for-sensei-lms-5/)
 - [Agenda: Weekly Polyglots Chat – Nov. 30, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/11/29/agenda-weekly-polyglots-chat-nov-30-2022-0700-utc/)
-- [PTE Request for WP-Members Membership Plugin](https://make.wordpress.org/polyglots/2022/11/29/pte-request-for-wp-members-membership-plugin/)
-- [GPTE request for locale nl_NL](https://make.wordpress.org/polyglots/2022/11/29/gpte-request-for-locale-nl_nl/)
-- [PTE Request for XML Sitemaps Manager](https://make.wordpress.org/polyglots/2022/11/28/pte-request-for-xml-sitemaps-manager/)
 <!-- POLYGLOTS:END -->
 
 ## Support
