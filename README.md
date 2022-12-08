@@ -437,6 +437,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/photos/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [The Road To 5000 Photos, A Retrospective](https://make.wordpress.org/photos/2022/11/17/the-road-to-5000-photos-a-retrospective/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/photos/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [WordPress World Photography Day Challenge 2022](https://make.wordpress.org/photos/2022/08/18/wordpress-world-photography-day-challenge-2022/)
@@ -446,7 +447,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of team meeting, May 6](https://make.wordpress.org/photos/2022/05/12/recap-of-team-meeting-may-6/)
 - [Recap of team meeting, April 1](https://make.wordpress.org/photos/2022/04/07/recap-of-team-meeting-april-1/)
 - [Announcement: Photo Directory Team Reps 2022](https://make.wordpress.org/photos/2022/03/23/announcement-photo-directory-team-reps-2022/)
-- [Photo Directory Team Reps 2022: Submit your Votes!](https://make.wordpress.org/photos/2022/03/07/photo-directory-team-reps-2022-submit-your-votes/)
 <!-- PHOTOS:END -->
 
 ## Updates
