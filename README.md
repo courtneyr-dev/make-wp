@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Travel Engine](https://make.wordpress.org/polyglots/2022/12/08/pte-request-for-wp-travel-engine/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/08/hi-dear-mentors-we-have-102/)
 - [Hola.](https://make.wordpress.org/polyglots/2022/12/07/hola-2/)
 - [Color blindness in the diffs from the translation memory](https://make.wordpress.org/polyglots/2022/12/07/color-blindness-in-the-diffs-from-the-translation-memory/)
 - [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/12/07/gte-request-for-afrikaans-af-za-2/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-my-calendar/)
 - [Agenda: Weekly Polyglots Chat – Dec. 07, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/06/agenda-weekly-polyglots-chat-dec-07-2022-1300-utc/)
 - [PTE Request for Greenshift plugin](https://make.wordpress.org/polyglots/2022/12/05/pte-request-for-greenshift-plugin/)
-- [Flexible Quantity – Measurement Price Calculator for WooCommerce](https://make.wordpress.org/polyglots/2022/12/05/flexible-quantity-measurement-price-calculator-for-woocommerce/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2022/12/01/post-title-pte-request-for-54/)
 <!-- POLYGLOTS:END -->
 
 ## Support
