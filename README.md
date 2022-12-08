@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the Navigation Block](https://wordpress.tv/2022/12/07/using-the-navigation-block-2/)
 - [Simón Zambrano, Juan Calderón: Creando un sitio WordPress desde cero con Gutenberg](https://wordpress.tv/2022/12/06/simon-zambrano-juan-calderon-creando-un-sitio-wordpress-desde-cero-con-gutenberg/)
 - [The Commons – the importance of being open and sharing / my story](https://wordpress.tv/2022/12/06/marija-zaric-the-commons-the-importance-of-being-open-and-sharing-my-story-2/)
 - [Image SEO best practices to make your content discoverable](https://wordpress.tv/2022/12/05/image-seo-best-practices-to-make-your-content-discoverable/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Claves legales para evitar disgustos y mejorar las ventas en e-commerce](https://wordpress.tv/2022/11/24/claves-legales-para-evitar-disgustos-y-mejorar-las-ventas-en-e-commerce/)
 - [A rookie’s reflection – it is never too late to learn!](https://wordpress.tv/2022/11/23/a-rookies-reflection-it-is-never-too-late-to-learn/)
 - [Activa tu lado hacker y eleva tu productividad](https://wordpress.tv/2022/11/23/activa-tu-lado-hacker-y-eleva-tu-productividad/)
-- [Si no etiquetas tu ecommerce estás haciendo el canelo](https://wordpress.tv/2022/11/23/si-no-etiquetas-tu-ecommerce-estas-haciendo-el-canelo/)
 <!-- WPTV:END -->
 
 ## Marketing
