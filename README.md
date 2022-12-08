@@ -339,7 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Content creators are users too: the crucial Importance of carefully crafted editorial experiences](https://wordpress.tv/2022/12/08/content-creators-are-users-too-the-crucial-importance-of-carefully-crafted-editorial-experiences/)
-- [Using the Navigation Block](https://wordpress.tv/2022/12/07/using-the-navigation-block-2/)
+- [Using the navigation block](https://wordpress.tv/2022/12/07/using-the-navigation-block-2/)
 - [Simón Zambrano, Juan Calderón: Creando un sitio WordPress desde cero con Gutenberg](https://wordpress.tv/2022/12/06/simon-zambrano-juan-calderon-creando-un-sitio-wordpress-desde-cero-con-gutenberg/)
 - [The Commons – the importance of being open and sharing / my story](https://wordpress.tv/2022/12/06/marija-zaric-the-commons-the-importance-of-being-open-and-sharing-my-story-2/)
 - [Image SEO best practices to make your content discoverable](https://wordpress.tv/2022/12/05/image-seo-best-practices-to-make-your-content-discoverable/)
