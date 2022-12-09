@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Wikibiographie](https://make.wordpress.org/polyglots/2022/12/09/pte-request-for-wikibiographie/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/polyglots/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [PTE Request for WP Travel Engine](https://make.wordpress.org/polyglots/2022/12/08/pte-request-for-wp-travel-engine/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/08/hi-dear-mentors-we-have-102/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [editor request for https://translate.wordpress.org/projects/wp-plugins/google-site-kit/ plugin…](https://make.wordpress.org/polyglots/2022/12/06/editor-request-for-https-translate-wordpress-org-projects-wp-plugins-google-site-kit-plugin/)
 - [PTE Request for Bricksable Plugin…](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-bricksable-plugin/)
 - [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-my-calendar/)
-- [Agenda: Weekly Polyglots Chat – Dec. 07, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/06/agenda-weekly-polyglots-chat-dec-07-2022-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
