@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The key to locking blocks](https://wordpress.tv/2022/12/08/the-key-to-locking-blocks/)
 - [Content creators are users too: the crucial Importance of carefully crafted editorial experiences](https://wordpress.tv/2022/12/08/content-creators-are-users-too-the-crucial-importance-of-carefully-crafted-editorial-experiences/)
 - [Using the navigation block](https://wordpress.tv/2022/12/07/using-the-navigation-block-2/)
 - [Simón Zambrano, Juan Calderón: Creando un sitio WordPress desde cero con Gutenberg](https://wordpress.tv/2022/12/06/simon-zambrano-juan-calderon-creando-un-sitio-wordpress-desde-cero-con-gutenberg/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: developing blocks without React! – Attributes and RichText](https://wordpress.tv/2022/11/25/lets-code-developing-blocks-without-react-part-2-take-2/)
 - [Ecommerce en B2B: cómo hacer que el carrito sea un tráiler](https://wordpress.tv/2022/11/24/ecommerce-en-b2b-como-hacer-que-el-carrito-sea-un-trailer/)
 - [Claves legales para evitar disgustos y mejorar las ventas en e-commerce](https://wordpress.tv/2022/11/24/claves-legales-para-evitar-disgustos-y-mejorar-las-ventas-en-e-commerce/)
-- [A rookie’s reflection – it is never too late to learn!](https://wordpress.tv/2022/11/23/a-rookies-reflection-it-is-never-too-late-to-learn/)
 <!-- WPTV:END -->
 
 ## Marketing
