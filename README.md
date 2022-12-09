@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: Developing Blocks without React! – Review](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-review)
 - [EP2: WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep2-wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla)
 - [EP1: WordPress Environment Setup &lpar;Local WP &amp; Laravel Valet&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep1-wordpress-environment-setup-local-wp-laravel-valet-bangla)
 - [Creating a Theme with the Create Block Theme Plugin Session 1](https://learn.wordpress.org/?meeting=creating-a-theme-with-the-create-block-theme-plugin-session-1)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2-2)
 - [WordPress development live stream: Developers Guide to Block Themes – Part 2](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developers-guide-to-block-themes-part-2)
 - [Image SEO Best Practices to Make Your Content Discoverable](https://learn.wordpress.org/?meeting=image-seo-best-practices-to-make-your-content-discoverable)
-- [Hallway Hangout: Future of CSS in themes](https://learn.wordpress.org/?meeting=hallway-hangout-future-of-css-in-themes)
 <!-- SLS:END -->
 
 ## Test
