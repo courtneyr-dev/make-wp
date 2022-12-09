@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Builder Basics: Demystifying theme.json and Global Styles](https://wordpress.tv/2022/12/09/builder-basics-demystifying-theme-json-and-global-styles/)
 - [Manage your block theme fonts with Create Block Theme](https://wordpress.tv/2022/12/09/manage-your-block-theme-fonts-with-create-block-theme/)
 - [How to Test &lpar;with Report&rpar; a Core Trac Ticket | Bangla](https://wordpress.tv/2022/12/08/how-to-test-with-report-a-core-trac-ticket-bangla/)
 - [The key to locking blocks](https://wordpress.tv/2022/12/08/the-key-to-locking-blocks/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Embracing minds of all kinds: making digital content usable for people with cognitive disabilities](https://wordpress.tv/2022/11/26/embracing-minds-of-all-kinds-making-digital-content-usable-for-people-with-cognitive-disabilities/)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://wordpress.tv/2022/11/25/what-is-seo-search-engine-optimization/)
 - [Best design practices to create engagement](https://wordpress.tv/2022/11/25/best-design-practices-to-create-engagement/)
-- [Let’s code: developing blocks without React! – Attributes and RichText](https://wordpress.tv/2022/11/25/lets-code-developing-blocks-without-react-part-2-take-2/)
 <!-- WPTV:END -->
 
 ## Marketing
