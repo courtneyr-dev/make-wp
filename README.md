@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request to be a Gujarati…](https://make.wordpress.org/polyglots/2022/12/09/request-to-be-a-gujarati/)
+- [Hello, I have translated the…](https://make.wordpress.org/polyglots/2022/12/09/hello-i-have-translated-the-2/)
 - [PTE Request for Wikibiographie](https://make.wordpress.org/polyglots/2022/12/09/pte-request-for-wikibiographie/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/polyglots/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [PTE Request for WP Travel Engine](https://make.wordpress.org/polyglots/2022/12/08/pte-request-for-wp-travel-engine/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Color blindness in the diffs from the translation memory](https://make.wordpress.org/polyglots/2022/12/07/color-blindness-in-the-diffs-from-the-translation-memory/)
 - [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/12/07/gte-request-for-afrikaans-af-za-2/)
 - [editor request for https://translate.wordpress.org/projects/wp-plugins/google-site-kit/ plugin…](https://make.wordpress.org/polyglots/2022/12/06/editor-request-for-https-translate-wordpress-org-projects-wp-plugins-google-site-kit-plugin/)
-- [PTE Request for Bricksable Plugin…](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-bricksable-plugin/)
-- [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2022/12/06/pte-request-for-my-calendar/)
 <!-- POLYGLOTS:END -->
 
 ## Support
