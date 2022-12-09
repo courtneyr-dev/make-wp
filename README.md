@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Manage your block theme fonts with Create Block Theme](https://learn.wordpress.org/tutorial/manage-your-block-theme-fonts-with-create-block-theme/)
 - [The Key to Locking Blocks](https://learn.wordpress.org/tutorial/the-key-to-locking-blocks/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [Streamline your Block Theme development with Create Block Theme](https://learn.wordpress.org/tutorial/streamline-your-block-theme-development-with-create-block-theme/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customizing a header with patterns](https://learn.wordpress.org/tutorial/customizing-a-header-with-patterns/)
 - [Converting a Shortcode into a Block](https://learn.wordpress.org/tutorial/converting-a-shortcode-into-a-block/)
 - [Creating a new header with blocks](https://learn.wordpress.org/tutorial/creating-a-new-header-with-blocks/)
-- [Customizing your post content layout](https://learn.wordpress.org/tutorial/customizing-your-post-content-layout/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
