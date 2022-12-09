@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Get Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=get-blogging-in-2023-set-up-your-blog-interactive-2)
+- [Get Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=get-blogging-in-2023-set-up-your-blog-interactive)
 - [Let’s code: Developing Blocks without React! – Review](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-review)
 - [EP2: WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep2-wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla)
 - [EP1: WordPress Environment Setup &lpar;Local WP &amp; Laravel Valet&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep1-wordpress-environment-setup-local-wp-laravel-valet-bangla)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Navigation Block](https://learn.wordpress.org/?meeting=navigation-block)
 - [I Just Got This WordPress and Don’t Know How to Use It](https://learn.wordpress.org/?meeting=i-just-got-this-wordpress-and-dont-know-how-to-use-it)
 - [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2-2)
-- [WordPress development live stream: Developers Guide to Block Themes – Part 2](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developers-guide-to-block-themes-part-2)
-- [Image SEO Best Practices to Make Your Content Discoverable](https://learn.wordpress.org/?meeting=image-seo-best-practices-to-make-your-content-discoverable)
 <!-- SLS:END -->
 
 ## Test
