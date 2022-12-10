@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Vantevo Analytics](https://make.wordpress.org/polyglots/2022/12/10/pte-request-for-vantevo-analytics/)
 - [Request to be a Gujarati…](https://make.wordpress.org/polyglots/2022/12/09/request-to-be-a-gujarati/)
 - [Hello, I have translated the…](https://make.wordpress.org/polyglots/2022/12/09/hello-i-have-translated-the-2/)
 - [PTE Request for Wikibiographie](https://make.wordpress.org/polyglots/2022/12/09/pte-request-for-wikibiographie/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hola.](https://make.wordpress.org/polyglots/2022/12/07/hola-2/)
 - [Color blindness in the diffs from the translation memory](https://make.wordpress.org/polyglots/2022/12/07/color-blindness-in-the-diffs-from-the-translation-memory/)
 - [GTE Request for Afrikaans &lpar;af-ZA&rpar;](https://make.wordpress.org/polyglots/2022/12/07/gte-request-for-afrikaans-af-za-2/)
-- [editor request for https://translate.wordpress.org/projects/wp-plugins/google-site-kit/ plugin…](https://make.wordpress.org/polyglots/2022/12/06/editor-request-for-https-translate-wordpress-org-projects-wp-plugins-google-site-kit-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
