@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Backend Developer](https://jobs.wordpress.net/job/senior-backend-developer-2/)
+- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-14/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-20/)
 - [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-19/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-50/)
 - [Lead/Senior Full Stack Engineer](https://jobs.wordpress.net/job/lead-senior-full-stack-engineer/)
 - [Designer &lpar;Full/Part-Time, Remote&rpar;](https://jobs.wordpress.net/job/designer-full-part-time-remote/)
-- [Development Operations Manager](https://jobs.wordpress.net/job/development-operations-manager/)
-- [Technical Customer Support at WP Rocket – Remote](https://jobs.wordpress.net/job/technical-customer-support-at-wp-rocket-remote-2/)
 <!-- JOBS:END -->
 
 ## Central
