@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-2/)
+- [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-5/)
+- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-4/)
+- [Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs-4/)
+- [Support and intervention developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml-6/)
+- [Support and intervention developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml-5/)
+- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-2/)
 - [Senior Backend Developer](https://jobs.wordpress.net/job/senior-backend-developer-2/)
 - [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-14/)
-- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-20/)
-- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-19/)
-- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-26/)
-- [[rtCamp] Systems Engineer](https://jobs.wordpress.net/job/rtcamp-systems-engineer-20/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-50/)
-- [Lead/Senior Full Stack Engineer](https://jobs.wordpress.net/job/lead-senior-full-stack-engineer/)
-- [Designer &lpar;Full/Part-Time, Remote&rpar;](https://jobs.wordpress.net/job/designer-full-part-time-remote/)
 <!-- JOBS:END -->
 
 ## Central
