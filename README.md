@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [EP3: WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep3-wordpress-migration-local-live-to-local-live-bangla)
 - [Get Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=get-blogging-in-2023-set-up-your-blog-interactive-2)
 - [Get Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=get-blogging-in-2023-set-up-your-blog-interactive)
 - [Let’s code: Developing Blocks without React! – Review](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-review)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Image SEO Best Practices to Make Your Content Discoverable](https://learn.wordpress.org/?meeting=image-seo-best-practices-to-make-your-content-discoverable-2)
 - [Navigation Block](https://learn.wordpress.org/?meeting=navigation-block)
 - [I Just Got This WordPress and Don’t Know How to Use It](https://learn.wordpress.org/?meeting=i-just-got-this-wordpress-and-dont-know-how-to-use-it)
-- [Let’s code: Developing Blocks without React! – Part 2](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-2-2)
 <!-- SLS:END -->
 
 ## Test
