@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Pagination Block](https://wordpress.org/support/article/pagination-block/)
 - [Page List Block](https://wordpress.org/support/article/page-list-block/)
 - [Custom Link Block](https://wordpress.org/support/article/custom-link-block/)
 - [Posts List Block](https://wordpress.org/support/article/posts-list-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Post Template Block](https://wordpress.org/support/article/post-template-block/)
 - [Comments Title Block](https://wordpress.org/support/article/comments-title-block/)
 - [Post Comments Form Block](https://wordpress.org/support/article/post-comments-form-block/)
-- [Post Author Block](https://wordpress.org/support/article/post-author-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
