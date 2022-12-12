@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Reflecting on 2022 in Polyglots](https://make.wordpress.org/polyglots/2022/12/12/reflecting-on-2022-in-polyglots/)
+- [PTE Request for WP Podro](https://make.wordpress.org/polyglots/2022/12/12/pte-request-for-wp-podro/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/12/hi-dear-mentors-we-have-103/)
 - [Converting translate.wordpress.org to full width](https://make.wordpress.org/polyglots/2022/12/12/converting-translate-wordpress-org-to-full-width/)
 - [PTE Request for emb3d-model-viewer](https://make.wordpress.org/polyglots/2022/12/11/pte-request-for-emb3d-model-viewer/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I have translated the…](https://make.wordpress.org/polyglots/2022/12/09/hello-i-have-translated-the-2/)
 - [PTE Request for Wikibiographie](https://make.wordpress.org/polyglots/2022/12/09/pte-request-for-wikibiographie/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/polyglots/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
-- [PTE Request for WP Travel Engine](https://make.wordpress.org/polyglots/2022/12/08/pte-request-for-wp-travel-engine/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/08/hi-dear-mentors-we-have-102/)
 <!-- POLYGLOTS:END -->
 
 ## Support
