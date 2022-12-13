@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – Dec. 13, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/13/agenda-weekly-polyglots-chat-dec-13-2022-700-utc/)
+- [Custom Reasons Now Available Upon Request for translate.wordpress.org](https://make.wordpress.org/polyglots/2022/12/13/custom-reasons-now-available-upon-request-for-translate-wordpress-org/)
 - [Reflecting on 2022 in Polyglots](https://make.wordpress.org/polyglots/2022/12/12/reflecting-on-2022-in-polyglots/)
 - [PTE Request for WP Podro](https://make.wordpress.org/polyglots/2022/12/12/pte-request-for-wp-podro/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/12/hi-dear-mentors-we-have-103/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Vantevo Analytics](https://make.wordpress.org/polyglots/2022/12/10/pte-request-for-vantevo-analytics/)
 - [Request to be a Gujarati…](https://make.wordpress.org/polyglots/2022/12/09/request-to-be-a-gujarati/)
 - [Hello, I have translated the…](https://make.wordpress.org/polyglots/2022/12/09/hello-i-have-translated-the-2/)
-- [PTE Request for Wikibiographie](https://make.wordpress.org/polyglots/2022/12/09/pte-request-for-wikibiographie/)
-- [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/polyglots/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 <!-- POLYGLOTS:END -->
 
 ## Support
