@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a call to action](https://wordpress.tv/2022/12/12/creating-a-call-to-action/)
 - [Let’s code: developing blocks without React! – Block Supports](https://wordpress.tv/2022/12/12/lets-code-developing-blocks-without-react-block-supports/)
 - [WordPress through the terminal](https://wordpress.tv/2022/12/11/wordpress-through-the-terminal/)
 - [Builder basics: demystifying theme.json and global styles](https://wordpress.tv/2022/12/09/builder-basics-demystifying-theme-json-and-global-styles/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Join Core Release Party | Bangla](https://wordpress.tv/2022/11/29/how-to-join-core-release-party-bangla/)
 - [Prepare for the cookie-less future with Google Analytics 4](https://wordpress.tv/2022/11/28/prepare-for-the-cookie-less-future-with-google-analytics-4/)
 - [Customizing core blocks for clients](https://wordpress.tv/2022/11/27/customizing-core-blocks-for-clients/)
-- [Embracing minds of all kinds: making digital content usable for people with cognitive disabilities](https://wordpress.tv/2022/11/26/embracing-minds-of-all-kinds-making-digital-content-usable-for-people-with-cognitive-disabilities/)
 <!-- WPTV:END -->
 
 ## Marketing
