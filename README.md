@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla/)
 - [Presentación e Inauguración WordCamp Sevilla 2012](https://wordpress.tv/2022/12/13/presentacion-e-inauguracion-wordcamp-sevilla-2012/)
 - [Software libre como modelo de cambio productivo](https://wordpress.tv/2022/12/13/software-libre-como-modelo-de-cambio-productivo/)
 - [Cómo vivir en la nube: WP como pieza fundamental del negocio](https://wordpress.tv/2022/12/13/como-vivir-en-la-nube-wp-como-pieza-fundamental-del-negocio/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Manage your block theme fonts with Create Block Theme](https://wordpress.tv/2022/12/09/manage-your-block-theme-fonts-with-create-block-theme/)
 - [How to Test &lpar;with Report&rpar; a Core Trac Ticket | Bangla](https://wordpress.tv/2022/12/08/how-to-test-with-report-a-core-trac-ticket-bangla/)
 - [The key to locking blocks](https://wordpress.tv/2022/12/08/the-key-to-locking-blocks/)
-- [Content creators are users too: the crucial Importance of carefully crafted editorial experiences](https://wordpress.tv/2022/12/08/content-creators-are-users-too-the-crucial-importance-of-carefully-crafted-editorial-experiences/)
 <!-- WPTV:END -->
 
 ## Marketing
