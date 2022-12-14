@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin Contributor…](https://make.wordpress.org/polyglots/2022/12/14/i-am-the-plugin-contributor-2/)
 - [PTE Request for AM LottiePlayer](https://make.wordpress.org/polyglots/2022/12/13/pte-request-for-am-lottieplayer/)
 - [Agenda: Weekly Polyglots Chat – Dec. 13, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/13/agenda-weekly-polyglots-chat-dec-13-2022-700-utc/)
 - [Custom Reasons Now Available Upon Request for translate.wordpress.org](https://make.wordpress.org/polyglots/2022/12/13/custom-reasons-now-available-upon-request-for-translate-wordpress-org/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Converting translate.wordpress.org to full width](https://make.wordpress.org/polyglots/2022/12/12/converting-translate-wordpress-org-to-full-width/)
 - [PTE Request for emb3d-model-viewer](https://make.wordpress.org/polyglots/2022/12/11/pte-request-for-emb3d-model-viewer/)
 - [PTE Request for Vantevo Analytics](https://make.wordpress.org/polyglots/2022/12/10/pte-request-for-vantevo-analytics/)
-- [Request to be a Gujarati…](https://make.wordpress.org/polyglots/2022/12/09/request-to-be-a-gujarati/)
 <!-- POLYGLOTS:END -->
 
 ## Support
