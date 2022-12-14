@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Hide GTM code](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-hide-gtm-code/)
 - [PTE Request for Easy Donation for Woocommerce](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-easy-donation-for-woocommerce/)
 - [PTE Request for Gift Pack for Woocommerce](https://make.wordpress.org/polyglots/2022/12/14/i-am-the-plugin-contributor-3/)
 - [PTE Request for Contact Form to Any API](https://make.wordpress.org/polyglots/2022/12/14/i-am-the-plugin-contributor-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Reflecting on 2022 in Polyglots](https://make.wordpress.org/polyglots/2022/12/12/reflecting-on-2022-in-polyglots/)
 - [PTE Request for WP Podro](https://make.wordpress.org/polyglots/2022/12/12/pte-request-for-wp-podro/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/12/hi-dear-mentors-we-have-103/)
-- [Converting translate.wordpress.org to full width](https://make.wordpress.org/polyglots/2022/12/12/converting-translate-wordpress-org-to-full-width/)
 <!-- POLYGLOTS:END -->
 
 ## Support
