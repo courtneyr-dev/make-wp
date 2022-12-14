@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for CleverNode Related Content](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-clevernode-related-content/)
+- [&lpar;Post Title&rpar; PTE Request for What Singular Template](https://make.wordpress.org/polyglots/2022/12/14/post-title-pte-request-for-what-singular-template/)
 - [PTE Request for Hide GTM code](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-hide-gtm-code/)
 - [PTE Request for Easy Donation for Woocommerce](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-easy-donation-for-woocommerce/)
 - [PTE Request for Gift Pack for Woocommerce](https://make.wordpress.org/polyglots/2022/12/14/i-am-the-plugin-contributor-3/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – Dec. 13, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/13/agenda-weekly-polyglots-chat-dec-13-2022-700-utc/)
 - [Custom Reasons Now Available Upon Request for translate.wordpress.org](https://make.wordpress.org/polyglots/2022/12/13/custom-reasons-now-available-upon-request-for-translate-wordpress-org/)
 - [Reflecting on 2022 in Polyglots](https://make.wordpress.org/polyglots/2022/12/12/reflecting-on-2022-in-polyglots/)
-- [PTE Request for WP Podro](https://make.wordpress.org/polyglots/2022/12/12/pte-request-for-wp-podro/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/12/hi-dear-mentors-we-have-103/)
 <!-- POLYGLOTS:END -->
 
 ## Support
