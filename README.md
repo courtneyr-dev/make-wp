@@ -59,7 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE Request for Mortgage Calculator](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-mortgage-calculator/)
+- [PTE Request for Pdf Embed and Mortgage Calculator](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-pdf-embed/)
 - [PTE Request for CleverNode Related Content](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-clevernode-related-content/)
 - [&lpar;Post Title&rpar; PTE Request for What Singular Template](https://make.wordpress.org/polyglots/2022/12/14/post-title-pte-request-for-what-singular-template/)
 - [PTE Request for Hide GTM code](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-hide-gtm-code/)
