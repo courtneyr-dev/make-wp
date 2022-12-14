@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WordPress development live stream: Building an Advanced Query Loop plugin](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-building-an-advanced-query-loop-plugin)
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account)
 - [Start Blogging in 2023 Part 2: Planning Your Blog’s Content](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-2-planning-your-blogs-content)
 - [Start Blogging in 2023 – Part 1: Planning To Reach Your Audience](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-1-planning-to-reach-your-audience)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress development live stream: Developing Blocks without React – Part 3](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-3)
 - [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization)
 - [Creating a Call To Action with the Block Editor &lpar;APAC Time Zone&rpar;](https://learn.wordpress.org/?meeting=creating-a-call-to-action-with-the-block-editor-apac-time-zone)
-- [Creating a Call To Action with the Block Editor](https://learn.wordpress.org/?meeting=creating-a-call-to-action-with-the-block-editor)
 <!-- SLS:END -->
 
 ## Test
