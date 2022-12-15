@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-migration-local-live-to-local-live-bangla/)
 - [Developing cultural intelligence](https://wordpress.tv/2022/12/14/developing-cultural-intelligence/)
 - [WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla/)
 - [Presentación e Inauguración WordCamp Sevilla 2012](https://wordpress.tv/2022/12/13/presentacion-e-inauguracion-wordcamp-sevilla-2012/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress through the terminal](https://wordpress.tv/2022/12/11/wordpress-through-the-terminal/)
 - [Builder basics: demystifying theme.json and global styles](https://wordpress.tv/2022/12/09/builder-basics-demystifying-theme-json-and-global-styles/)
 - [Manage your block theme fonts with Create Block Theme](https://wordpress.tv/2022/12/09/manage-your-block-theme-fonts-with-create-block-theme/)
-- [How to Test &lpar;with Report&rpar; a Core Trac Ticket | Bangla](https://wordpress.tv/2022/12/08/how-to-test-with-report-a-core-trac-ticket-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
