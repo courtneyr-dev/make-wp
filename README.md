@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Idea: Creating a translation events kit for Meetups](https://make.wordpress.org/polyglots/2022/12/15/xpost-idea-creating-a-translation-events-kit-for-meetups/)
 - [PTE Request for Pdf Embed and Mortgage Calculator](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-pdf-embed/)
 - [PTE Request for CleverNode Related Content](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-clevernode-related-content/)
 - [&lpar;Post Title&rpar; PTE Request for What Singular Template](https://make.wordpress.org/polyglots/2022/12/14/post-title-pte-request-for-what-singular-template/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Contact Form to Any API](https://make.wordpress.org/polyglots/2022/12/14/i-am-the-plugin-contributor-2/)
 - [PTE Request for AM LottiePlayer](https://make.wordpress.org/polyglots/2022/12/13/pte-request-for-am-lottieplayer/)
 - [Agenda: Weekly Polyglots Chat – Dec. 13, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/13/agenda-weekly-polyglots-chat-dec-13-2022-700-utc/)
-- [Custom Reasons Now Available Upon Request for translate.wordpress.org](https://make.wordpress.org/polyglots/2022/12/13/custom-reasons-now-available-upon-request-for-translate-wordpress-org/)
 <!-- POLYGLOTS:END -->
 
 ## Support
