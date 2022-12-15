@@ -338,9 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-migration-local-live-to-local-live-bangla/)
+- [EP3: WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-migration-local-live-to-local-live-bangla/)
 - [Developing cultural intelligence](https://wordpress.tv/2022/12/14/developing-cultural-intelligence/)
-- [WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla/)
 - [Presentación e Inauguración WordCamp Sevilla 2012](https://wordpress.tv/2022/12/13/presentacion-e-inauguracion-wordcamp-sevilla-2012/)
 - [Software libre como modelo de cambio productivo](https://wordpress.tv/2022/12/13/software-libre-como-modelo-de-cambio-productivo/)
 - [Cómo vivir en la nube: WP como pieza fundamental del negocio](https://wordpress.tv/2022/12/13/como-vivir-en-la-nube-wp-como-pieza-fundamental-del-negocio/)
@@ -357,7 +356,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Anatomía del theme «perfecto»](https://wordpress.tv/2022/12/13/anatomia-del-theme-perfecto/)
 - [Trabajando con WordPress &lpar;desde dentro&rpar;](https://wordpress.tv/2022/12/13/trabajando-con-wordpress-desde-dentro/)
 - [Drupal y WordPress, destinados a entenderse](https://wordpress.tv/2022/12/13/drupal-y-wordpress-destinados-a-entenderse/)
-- [WordPress Environment Setup &lpar;Local WP &amp; Laravel Valet&rpar; | Bangla](https://wordpress.tv/2022/12/12/wordpress-environment-setup-local-wp-laravel-valet-bangla/)
+- [EP2: WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://wordpress.tv/2022/12/13/wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla/)
+- [EP1: WordPress Environment Setup &lpar;Local WP &amp; Laravel Valet&rpar; | Bangla](https://wordpress.tv/2022/12/12/wordpress-environment-setup-local-wp-laravel-valet-bangla/)
 - [Creating a call to action](https://wordpress.tv/2022/12/12/creating-a-call-to-action/)
 - [Let’s code: developing blocks without React! – Block Supports](https://wordpress.tv/2022/12/12/lets-code-developing-blocks-without-react-block-supports/)
 - [WordPress through the terminal](https://wordpress.tv/2022/12/11/wordpress-through-the-terminal/)
