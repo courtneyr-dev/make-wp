@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How live streaming can level up your career](https://wordpress.tv/2022/12/15/how-live-streaming-can-level-up-your-career/)
 - [WordPress theme template tour](https://wordpress.tv/2022/12/15/wordpress-theme-template-tour/)
 - [EP3: WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-migration-local-live-to-local-live-bangla/)
 - [Developing cultural intelligence](https://wordpress.tv/2022/12/14/developing-cultural-intelligence/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a call to action](https://wordpress.tv/2022/12/12/creating-a-call-to-action/)
 - [Let’s code: developing blocks without React! – Block Supports](https://wordpress.tv/2022/12/12/lets-code-developing-blocks-without-react-block-supports/)
 - [WordPress through the terminal](https://wordpress.tv/2022/12/11/wordpress-through-the-terminal/)
-- [Builder basics: demystifying theme.json and global styles](https://wordpress.tv/2022/12/09/builder-basics-demystifying-theme-json-and-global-styles/)
 <!-- WPTV:END -->
 
 ## Marketing
