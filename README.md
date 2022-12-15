@@ -228,7 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [WordPress theme template tour](https://learn.wordpress.org/tutorial/wordpress-theme-template-tour/)
+- [WordPress Theme Template Tour](https://learn.wordpress.org/tutorial/wordpress-theme-template-tour/)
 - [Manage your block theme fonts with Create Block Theme](https://learn.wordpress.org/tutorial/manage-your-block-theme-fonts-with-create-block-theme/)
 - [The Key to Locking Blocks](https://learn.wordpress.org/tutorial/the-key-to-locking-blocks/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
