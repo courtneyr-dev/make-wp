@@ -45,6 +45,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: December 16, 2022](https://make.wordpress.org/accessibility/2022/12/16/accessibility-team-meeting-agenda-december-16-2022/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/accessibility/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [Accessibility Team Meeting Notes: December 2, 2022](https://make.wordpress.org/accessibility/2022/12/08/accessibility-team-meeting-notes-december-2-2022/)
 - [Call for Team Rep Nomination – December 2022](https://make.wordpress.org/accessibility/2022/12/02/call-for-team-rep-nomination-december-2022/)
@@ -54,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Choosing accessible/contrasting dark theme colors for online workshops and tutorial videos](https://make.wordpress.org/accessibility/2022/11/09/xpost-choosing-accessible-contrasting-dark-theme-colors-for-online-workshops-and-tutorial-videos/)
 - [X-post: Multisite registration and activation pages have new HTML and CSS](https://make.wordpress.org/accessibility/2022/10/27/xpost-multisite-registration-and-activation-pages-have-new-html-and-css/)
 - [Accessibility Team Meeting Notes: October 19, 2022](https://make.wordpress.org/accessibility/2022/10/22/accessibility-team-meeting-notes-october-19-2022/)
-- [X-post: WordPress 6.1 Accessibility Improvements](https://make.wordpress.org/accessibility/2022/10/11/xpost-wordpress-6-1-accessibility-improvements/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
