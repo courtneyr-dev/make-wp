@@ -338,8 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Matt Mullenweg: State of the Word 2022 Q&amp;A](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022-qa/)
-- [Matt Mullenweg: State of the Word 2022](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022/)
+- [State of the Word 2022 Q&amp;A](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022-qa/)
+- [State of the Word 2022](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022/)
 - [WordPress y QRs en el MundoReal™](https://wordpress.tv/2022/12/16/wordpress-y-qrs-en-el-mundoreal/)
 - [WP Mayor, The Story and the works](https://wordpress.tv/2022/12/16/wp-mayor-the-story-and-the-works/)
 - [ElClubExpress.com un club cultural con WordPress](https://wordpress.tv/2022/12/16/elclubexpress-com-un-club-cultural-con-wordpress/)
