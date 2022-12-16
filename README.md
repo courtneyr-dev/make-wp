@@ -61,7 +61,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- POLYGLOTS:START -->
 - [PTE Request for ShinyStat Analytics](https://make.wordpress.org/polyglots/2022/12/16/pte-request-for-shinystat-analytics/)
 - [Translator PTE Request for Tutor…](https://make.wordpress.org/polyglots/2022/12/15/translator-pte-request-for-tutor/)
-- [PTE Request for mail-control I…](https://make.wordpress.org/polyglots/2022/12/15/pte-request-for-mail-control-i/)
+- [PTE Request for Mail Control](https://make.wordpress.org/polyglots/2022/12/15/pte-request-for-mail-control-i/)
 - [Polyglots Outreach Effort: December 2022](https://make.wordpress.org/polyglots/2022/12/15/polyglots-outreach-effort-december-2022/)
 - [X-post: Idea: Creating a translation events kit for Meetups](https://make.wordpress.org/polyglots/2022/12/15/xpost-idea-creating-a-translation-events-kit-for-meetups/)
 - [PTE Request for Pdf Embed and Mortgage Calculator](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-pdf-embed/)
