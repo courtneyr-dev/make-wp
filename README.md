@@ -282,6 +282,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor-2)
+- [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor)
+- [サイトエディターでのテンプレート編集に慣れよう！](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88-2)
+- [サイトエディターでのテンプレート編集に慣れよう！](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88)
 - [WordPress development live stream: Building an Advanced Query Loop plugin](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-building-an-advanced-query-loop-plugin)
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account)
 - [Start Blogging in 2023 Part 2: Planning Your Blog’s Content](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-2-planning-your-blogs-content)
@@ -303,10 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [State of the Word Watch Party &lpar;Online&rpar;](https://learn.wordpress.org/?meeting=state-of-the-word-watch-party-online)
 - [State of the Word Watch Party &lpar;Live Online&rpar;](https://learn.wordpress.org/?meeting=https-www-meetup-com-learn-wordpress-online-workshops-events-290051844)
 - [How to Join Core Release Party](https://learn.wordpress.org/?meeting=how-to-join-core-release-party)
-- [Let’s code: Developing Blocks without React! – Part 3](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-part-3)
-- [WordPress development live stream: Developing Blocks without React – Part 3](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-part-3)
-- [What is SEO? &lpar;Search Engine Optimization&rpar;](https://learn.wordpress.org/?meeting=what-is-seo-search-engine-optimization)
-- [Creating a Call To Action with the Block Editor &lpar;APAC Time Zone&rpar;](https://learn.wordpress.org/?meeting=creating-a-call-to-action-with-the-block-editor-apac-time-zone)
 <!-- SLS:END -->
 
 ## Test
