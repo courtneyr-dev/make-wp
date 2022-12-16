@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Exploring Category Templates and the Query Loop Block](https://wordpress.tv/2022/12/15/exploring-category-templates-and-the-query-loop-block/)
+- [Displaying the comments block in block themes](https://wordpress.tv/2022/12/15/displaying-the-comments-block-in-block-themes/)
 - [Scale up your local business with SEO and WordPress](https://wordpress.tv/2022/12/15/scale-up-your-local-business-with-seo-and-wordpress/)
 - [How live streaming can level up your career](https://wordpress.tv/2022/12/15/how-live-streaming-can-level-up-your-career/)
 - [WordPress theme template tour](https://wordpress.tv/2022/12/15/wordpress-theme-template-tour/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Drupal y WordPress, destinados a entenderse](https://wordpress.tv/2022/12/13/drupal-y-wordpress-destinados-a-entenderse/)
 - [EP2: WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://wordpress.tv/2022/12/13/wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla/)
 - [EP1: WordPress Environment Setup &lpar;Local WP &amp; Laravel Valet&rpar; | Bangla](https://wordpress.tv/2022/12/12/wordpress-environment-setup-local-wp-laravel-valet-bangla/)
-- [Creating a call to action](https://wordpress.tv/2022/12/12/creating-a-call-to-action/)
-- [Let’s code: developing blocks without React! – Block Supports](https://wordpress.tv/2022/12/12/lets-code-developing-blocks-without-react-block-supports/)
 <!-- WPTV:END -->
 
 ## Marketing
