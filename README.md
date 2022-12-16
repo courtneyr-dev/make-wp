@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Designer](https://jobs.wordpress.net/job/designer-12/)
+- [Developer Freelancer required with Skillset](https://jobs.wordpress.net/job/developer-freelancer-required-with-skillset/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-2/)
 - [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-5/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-4/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support and intervention developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml-5/)
 - [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-2/)
 - [Senior Backend Developer](https://jobs.wordpress.net/job/senior-backend-developer-2/)
-- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst/)
-- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-14/)
 <!-- JOBS:END -->
 
 ## Central
