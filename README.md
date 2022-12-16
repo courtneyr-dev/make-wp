@@ -338,6 +338,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress y QRs en el MundoReal™](https://wordpress.tv/2022/12/16/wordpress-y-qrs-en-el-mundoreal/)
+- [WP Mayor, The Story and the works](https://wordpress.tv/2022/12/16/wp-mayor-the-story-and-the-works/)
+- [ElClubExpress.com un club cultural con WordPress](https://wordpress.tv/2022/12/16/elclubexpress-com-un-club-cultural-con-wordpress/)
+- [WordPress Multinetwork](https://wordpress.tv/2022/12/16/wordpress-multinetwork/)
+- [Televisión y radio 2.0 &lpar;El 2.0 de verdad&rpar;](https://wordpress.tv/2022/12/16/television-y-radio-2-0-el-2-0-de-verdad/)
+- [Microformatos](https://wordpress.tv/2022/12/16/microformatos/)
 - [Exploring Category Templates and the Query Loop Block](https://wordpress.tv/2022/12/15/exploring-category-templates-and-the-query-loop-block/)
 - [Displaying the comments block in block themes](https://wordpress.tv/2022/12/15/displaying-the-comments-block-in-block-themes/)
 - [Scale up your local business with SEO and WordPress](https://wordpress.tv/2022/12/15/scale-up-your-local-business-with-seo-and-wordpress/)
@@ -357,12 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress.org, localhost y WP Wizard 2.0](https://wordpress.tv/2022/12/13/wordpress-org-localhost-y-wp-wizard-2-0/)
 - [Mis 10 pasos fundamentales para crear temas hijos](https://wordpress.tv/2022/12/13/mis-10-pasos-fundamentales-para-crear-temas-hijos/)
 - [WordPress &amp; Genesis as your starter theme](https://wordpress.tv/2022/12/13/wordpress-genesis-as-your-starter-theme/)
-- [Cómo gestionar boletines con Wysija](https://wordpress.tv/2022/12/13/como-gestionar-boletines-con-wysija/)
-- [Anatomía del theme «perfecto»](https://wordpress.tv/2022/12/13/anatomia-del-theme-perfecto/)
-- [Trabajando con WordPress &lpar;desde dentro&rpar;](https://wordpress.tv/2022/12/13/trabajando-con-wordpress-desde-dentro/)
-- [Drupal y WordPress, destinados a entenderse](https://wordpress.tv/2022/12/13/drupal-y-wordpress-destinados-a-entenderse/)
-- [EP2: WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://wordpress.tv/2022/12/13/wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla/)
-- [EP1: WordPress Environment Setup &lpar;Local WP &amp; Laravel Valet&rpar; | Bangla](https://wordpress.tv/2022/12/12/wordpress-environment-setup-local-wp-laravel-valet-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
