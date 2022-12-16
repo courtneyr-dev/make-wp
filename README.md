@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Matt Mullenweg: State of the Word 2022 Q&amp;A](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022-qa/)
+- [Matt Mullenweg: State of the Word 2022](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022/)
 - [WordPress y QRs en el MundoReal™](https://wordpress.tv/2022/12/16/wordpress-y-qrs-en-el-mundoreal/)
 - [WP Mayor, The Story and the works](https://wordpress.tv/2022/12/16/wp-mayor-the-story-and-the-works/)
 - [ElClubExpress.com un club cultural con WordPress](https://wordpress.tv/2022/12/16/elclubexpress-com-un-club-cultural-con-wordpress/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Joomla y WordPress, juntos y revueltos](https://wordpress.tv/2022/12/13/joomla-y-wordpress-juntos-y-revueltos/)
 - [Golfparatodos.es, un administrador diferente para cada tipo de usuario](https://wordpress.tv/2022/12/13/golfparatodos-es-un-administrador-diferente-para-cada-tipo-de-usuario/)
 - [WordPress.org, localhost y WP Wizard 2.0](https://wordpress.tv/2022/12/13/wordpress-org-localhost-y-wp-wizard-2-0/)
-- [Mis 10 pasos fundamentales para crear temas hijos](https://wordpress.tv/2022/12/13/mis-10-pasos-fundamentales-para-crear-temas-hijos/)
-- [WordPress &amp; Genesis as your starter theme](https://wordpress.tv/2022/12/13/wordpress-genesis-as-your-starter-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
