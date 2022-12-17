@@ -59,7 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [–](https://make.wordpress.org/polyglots/2022/12/16/pte-request-for-blocksy-companion/)
+- [PTE Request for Blocksy Companion](https://make.wordpress.org/polyglots/2022/12/16/pte-request-for-blocksy-companion/)
 - [Translation review for SEOPress](https://make.wordpress.org/polyglots/2022/12/16/translation-review-for-seopress/)
 - [PTE Request for ShinyStat Analytics](https://make.wordpress.org/polyglots/2022/12/16/pte-request-for-shinystat-analytics/)
 - [Translator PTE Request for Tutor…](https://make.wordpress.org/polyglots/2022/12/15/translator-pte-request-for-tutor/)
