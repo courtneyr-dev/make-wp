@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Gamify your content](https://wordpress.tv/2022/12/17/gamify-your-content/)
 - [How the pandemic influenced 2022 content writing trends](https://wordpress.tv/2022/12/16/how-the-pandemic-influenced-2022-content-writing-trends/)
 - [State of the Word 2022](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022/)
 - [State of the Word 2022 Q&amp;A](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022-qa/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress &amp; Genesis as your starter theme](https://wordpress.tv/2022/12/13/wordpress-genesis-as-your-starter-theme/)
 - [Cómo gestionar boletines con Wysija](https://wordpress.tv/2022/12/13/como-gestionar-boletines-con-wysija/)
 - [Anatomía del theme «perfecto»](https://wordpress.tv/2022/12/13/anatomia-del-theme-perfecto/)
-- [Trabajando con WordPress &lpar;desde dentro&rpar;](https://wordpress.tv/2022/12/13/trabajando-con-wordpress-desde-dentro/)
 <!-- WPTV:END -->
 
 ## Marketing
