@@ -338,6 +338,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Brunella Martino: GA – GA4 – Tool americani e responsabilità](https://wordpress.tv/2022/12/18/brunella-martino-ga-ga4-tool-americani-e-responsabilita/)
+- [Stefano Minoia: Palette accessibili](https://wordpress.tv/2022/12/18/stefano-minoia-palette-accessibili/)
+- [Alice Orrù: Scrittura accessibile e inclusiva: cosa ho imparato traducendo temi e plugin per WordPress](https://wordpress.tv/2022/12/18/alice-orru-scrittura-accessibile-e-inclusiva-cosa-ho-imparato-traducendo-temi-e-plugin-per-wordpress/)
+- [James Baldacchino: Pricing WordPress Products](https://wordpress.tv/2022/12/18/james-baldacchino-pricing-wordpress-products/)
+- [Alberto Monteverdi: Web content design con WordPress e Gutenberg](https://wordpress.tv/2022/12/18/alberto-monteverdi-web-content-design-con-wordpress-e-gutenberg/)
+- [Monica Liverani, Elisa Pasqualetto: Scrivere contenuti per il sito WordPress partendo da un’analisi di mercato](https://wordpress.tv/2022/12/18/monica-liverani-elisa-pasqualetto-scrivere-contenuti-per-il-sito-wordpress-partendo-da-unanalisi-di-mercato/)
+- [Francesca Marano: Un nuovo inizio dopo i quaranta: come affrontare nuove sfide](https://wordpress.tv/2022/12/18/francesca-marano-un-nuovo-inizio-dopo-i-quaranta-come-affrontare-nuove-sfide/)
+- [Carlos Moreira: Freemium – Modello di business sostenibile per un prodotto WordPress](https://wordpress.tv/2022/12/18/carlos-moreira-freemium-modello-di-business-sostenibile-per-un-prodotto-wordpress/)
+- [Luisa Ravelli: Tradurre un tema o un plugin &lpar;… una volta per tutte&rpar;](https://wordpress.tv/2022/12/18/luisa-ravelli-tradurre-un-tema-o-un-plugin-una-volta-per-tutte/)
+- [Gloria Liuni: I pattern di Gutenberg](https://wordpress.tv/2022/12/18/gloria-liuni-i-pattern-di-gutenberg/)
+- [Mario Wolf: Headless nel futuro di WordPress](https://wordpress.tv/2022/12/18/mario-wolf-headless-nel-futuro-di-wordpress/)
 - [Simon Kraft: Making Connections](https://wordpress.tv/2022/12/18/simon-kraft-making-connections/)
 - [Starting fresh on WordPress, Part 2](https://wordpress.tv/2022/12/17/starting-fresh-on-wordpress-part-2/)
 - [Gamify your content](https://wordpress.tv/2022/12/17/gamify-your-content/)
@@ -352,17 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP3: WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-migration-local-live-to-local-live-bangla/)
 - [Developing cultural intelligence](https://wordpress.tv/2022/12/14/developing-cultural-intelligence/)
 - [Presentación e Inauguración WordCamp Sevilla 2012](https://wordpress.tv/2022/12/13/presentacion-e-inauguracion-wordcamp-sevilla-2012/)
-- [Software libre como modelo de cambio productivo](https://wordpress.tv/2022/12/13/software-libre-como-modelo-de-cambio-productivo/)
-- [Cómo vivir en la nube: WP como pieza fundamental del negocio](https://wordpress.tv/2022/12/13/como-vivir-en-la-nube-wp-como-pieza-fundamental-del-negocio/)
-- [Clínica SEO](https://wordpress.tv/2022/12/13/clinica-seo/)
-- [Las posibilidades de BuddyPress](https://wordpress.tv/2022/12/13/las-posibilidades-de-buddypress/)
-- [WangGuard: pasado, presente y futuro](https://wordpress.tv/2022/12/13/wangguard-pasado-presente-y-futuro/)
-- [Taller de Plugins](https://wordpress.tv/2022/12/13/taller-de-plugins/)
-- [Joomla y WordPress, juntos y revueltos](https://wordpress.tv/2022/12/13/joomla-y-wordpress-juntos-y-revueltos/)
-- [Golfparatodos.es, un administrador diferente para cada tipo de usuario](https://wordpress.tv/2022/12/13/golfparatodos-es-un-administrador-diferente-para-cada-tipo-de-usuario/)
-- [WordPress.org, localhost y WP Wizard 2.0](https://wordpress.tv/2022/12/13/wordpress-org-localhost-y-wp-wizard-2-0/)
-- [Mis 10 pasos fundamentales para crear temas hijos](https://wordpress.tv/2022/12/13/mis-10-pasos-fundamentales-para-crear-temas-hijos/)
-- [WordPress &amp; Genesis as your starter theme](https://wordpress.tv/2022/12/13/wordpress-genesis-as-your-starter-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
