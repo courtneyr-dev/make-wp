@@ -338,18 +338,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Brunella Martino: GA – GA4 – Tool americani e responsabilità](https://wordpress.tv/2022/12/18/brunella-martino-ga-ga4-tool-americani-e-responsabilita/)
-- [Stefano Minoia: Palette accessibili](https://wordpress.tv/2022/12/18/stefano-minoia-palette-accessibili/)
-- [Alice Orrù: Scrittura accessibile e inclusiva: cosa ho imparato traducendo temi e plugin per WordPress](https://wordpress.tv/2022/12/18/alice-orru-scrittura-accessibile-e-inclusiva-cosa-ho-imparato-traducendo-temi-e-plugin-per-wordpress/)
-- [James Baldacchino: Pricing WordPress Products](https://wordpress.tv/2022/12/18/james-baldacchino-pricing-wordpress-products/)
-- [Alberto Monteverdi: Web content design con WordPress e Gutenberg](https://wordpress.tv/2022/12/18/alberto-monteverdi-web-content-design-con-wordpress-e-gutenberg/)
-- [Monica Liverani, Elisa Pasqualetto: Scrivere contenuti per il sito WordPress partendo da un’analisi di mercato](https://wordpress.tv/2022/12/18/monica-liverani-elisa-pasqualetto-scrivere-contenuti-per-il-sito-wordpress-partendo-da-unanalisi-di-mercato/)
-- [Francesca Marano: Un nuovo inizio dopo i quaranta: come affrontare nuove sfide](https://wordpress.tv/2022/12/18/francesca-marano-un-nuovo-inizio-dopo-i-quaranta-come-affrontare-nuove-sfide/)
-- [Carlos Moreira: Freemium – Modello di business sostenibile per un prodotto WordPress](https://wordpress.tv/2022/12/18/carlos-moreira-freemium-modello-di-business-sostenibile-per-un-prodotto-wordpress/)
-- [Luisa Ravelli: Tradurre un tema o un plugin &lpar;… una volta per tutte&rpar;](https://wordpress.tv/2022/12/18/luisa-ravelli-tradurre-un-tema-o-un-plugin-una-volta-per-tutte/)
-- [Gloria Liuni: I pattern di Gutenberg](https://wordpress.tv/2022/12/18/gloria-liuni-i-pattern-di-gutenberg/)
-- [Mario Wolf: Headless nel futuro di WordPress](https://wordpress.tv/2022/12/18/mario-wolf-headless-nel-futuro-di-wordpress/)
-- [Simon Kraft: Making Connections](https://wordpress.tv/2022/12/18/simon-kraft-making-connections/)
+- [Build your social media posting application with WordPress and Zapier](https://wordpress.tv/2022/12/18/build-your-social-media-posting-application-with-wordpress-and-zapier/)
+- [Da Universal Analytics a GA4 come gestire la migrazione del tracciamento e-commerce in WordPress](https://wordpress.tv/2022/12/18/da-universal-analytics-a-ga4-come-gestire-la-migrazione-del-tracciamento-e-commerce-in-wordpress/)
+- [GA – GA4 – Tool americani e responsabilità](https://wordpress.tv/2022/12/18/brunella-martino-ga-ga4-tool-americani-e-responsabilita/)
+- [Palette accessibili](https://wordpress.tv/2022/12/18/stefano-minoia-palette-accessibili/)
+- [Scrittura accessibile e inclusiva: cosa ho imparato traducendo temi e plugin per WordPress](https://wordpress.tv/2022/12/18/alice-orru-scrittura-accessibile-e-inclusiva-cosa-ho-imparato-traducendo-temi-e-plugin-per-wordpress/)
+- [Pricing WordPress products](https://wordpress.tv/2022/12/18/james-baldacchino-pricing-wordpress-products/)
+- [Web content design con WordPress e Gutenberg](https://wordpress.tv/2022/12/18/alberto-monteverdi-web-content-design-con-wordpress-e-gutenberg/)
+- [Scrivere contenuti per il sito WordPress partendo da un’analisi di mercato](https://wordpress.tv/2022/12/18/monica-liverani-elisa-pasqualetto-scrivere-contenuti-per-il-sito-wordpress-partendo-da-unanalisi-di-mercato/)
+- [Un nuovo inizio dopo i quaranta: come affrontare nuove sfide](https://wordpress.tv/2022/12/18/francesca-marano-un-nuovo-inizio-dopo-i-quaranta-come-affrontare-nuove-sfide/)
+- [Freemium – Modello di business sostenibile per un prodotto WordPress](https://wordpress.tv/2022/12/18/carlos-moreira-freemium-modello-di-business-sostenibile-per-un-prodotto-wordpress/)
+- [Tradurre un tema o un plugin &lpar;… una volta per tutte&rpar;](https://wordpress.tv/2022/12/18/luisa-ravelli-tradurre-un-tema-o-un-plugin-una-volta-per-tutte/)
+- [I pattern di Gutenberg](https://wordpress.tv/2022/12/18/gloria-liuni-i-pattern-di-gutenberg/)
+- [Headless nel futuro di WordPress](https://wordpress.tv/2022/12/18/mario-wolf-headless-nel-futuro-di-wordpress/)
+- [Making Connections](https://wordpress.tv/2022/12/18/simon-kraft-making-connections/)
 - [Starting fresh on WordPress, Part 2](https://wordpress.tv/2022/12/17/starting-fresh-on-wordpress-part-2/)
 - [Gamify your content](https://wordpress.tv/2022/12/17/gamify-your-content/)
 - [How the pandemic influenced 2022 content writing trends](https://wordpress.tv/2022/12/16/how-the-pandemic-influenced-2022-content-writing-trends/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How live streaming can level up your career](https://wordpress.tv/2022/12/15/how-live-streaming-can-level-up-your-career/)
 - [WordPress theme template tour](https://wordpress.tv/2022/12/15/wordpress-theme-template-tour/)
 - [EP3: WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-migration-local-live-to-local-live-bangla/)
-- [Developing cultural intelligence](https://wordpress.tv/2022/12/14/developing-cultural-intelligence/)
-- [Presentación e Inauguración WordCamp Sevilla 2012](https://wordpress.tv/2022/12/13/presentacion-e-inauguracion-wordcamp-sevilla-2012/)
 <!-- WPTV:END -->
 
 ## Marketing
