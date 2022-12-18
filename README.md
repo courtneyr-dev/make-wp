@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress for the next generation](https://wordpress.tv/2022/12/18/wordpress-for-the-next-generation/)
 - [Connected commerce: evolving to multichannel selling](https://wordpress.tv/2022/12/18/connected-commerce-evolving-to-multichannel-selling/)
 - [Tackling performance in the WordPress ecosystem at scale](https://wordpress.tv/2022/12/18/tackling-performance-in-the-wordpress-ecosystem-at-scale/)
 - [Blocks: verso il Full Site Editing e oltre!](https://wordpress.tv/2022/12/18/blocks-verso-il-full-site-editing-e-oltre/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I pattern di Gutenberg](https://wordpress.tv/2022/12/18/gloria-liuni-i-pattern-di-gutenberg/)
 - [Headless nel futuro di WordPress](https://wordpress.tv/2022/12/18/mario-wolf-headless-nel-futuro-di-wordpress/)
 - [Making Connections](https://wordpress.tv/2022/12/18/simon-kraft-making-connections/)
-- [Starting fresh on WordPress, Part 2](https://wordpress.tv/2022/12/17/starting-fresh-on-wordpress-part-2/)
 <!-- WPTV:END -->
 
 ## Marketing
