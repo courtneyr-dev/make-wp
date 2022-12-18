@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Smart Coupons For WooCommerce Coupons…](https://make.wordpress.org/polyglots/2022/12/18/smart-coupons-for-woocommerce-coupons/)
 - [PTE Request for Blocksy Companion](https://make.wordpress.org/polyglots/2022/12/16/pte-request-for-blocksy-companion/)
 - [Translation review for SEOPress](https://make.wordpress.org/polyglots/2022/12/16/translation-review-for-seopress/)
 - [PTE Request for ShinyStat Analytics](https://make.wordpress.org/polyglots/2022/12/16/pte-request-for-shinystat-analytics/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Idea: Creating a translation events kit for Meetups](https://make.wordpress.org/polyglots/2022/12/15/xpost-idea-creating-a-translation-events-kit-for-meetups/)
 - [PTE Request for Pdf Embed and Mortgage Calculator](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-pdf-embed/)
 - [PTE Request for CleverNode Related Content](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-clevernode-related-content/)
-- [&lpar;Post Title&rpar; PTE Request for What Singular Template](https://make.wordpress.org/polyglots/2022/12/14/post-title-pte-request-for-what-singular-template/)
 <!-- POLYGLOTS:END -->
 
 ## Support
