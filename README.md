@@ -338,6 +338,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tackling performance in the WordPress ecosystem at scale](https://wordpress.tv/2022/12/18/tackling-performance-in-the-wordpress-ecosystem-at-scale/)
+- [Blocks: verso il Full Site Editing e oltre!](https://wordpress.tv/2022/12/18/blocks-verso-il-full-site-editing-e-oltre/)
+- [CRO: se la conosci non potrai più farne a meno](https://wordpress.tv/2022/12/18/cro-se-la-conosci-non-potrai-piu-farne-a-meno/)
+- [Creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/12/18/creare-blocchi-per-gutenberg-da-dove-iniziare/)
+- [Schema.org: cos’è e perché dovrebbe interessarti](https://wordpress.tv/2022/12/18/schema-org-cose-e-perche-dovrebbe-interessarti/)
+- [Raise the bar](https://wordpress.tv/2022/12/18/raise-the-bar/)
+- [Image formats and optimization](https://wordpress.tv/2022/12/18/image-formats-and-optimization/)
+- [Cache: anche gli oggetti scadono, come lo yogurt](https://wordpress.tv/2022/12/18/cache-anche-gli-oggetti-scadono-come-lo-yogurt/)
+- [Docs or it didn’t happen](https://wordpress.tv/2022/12/18/docs-or-it-didnt-happen/)
 - [Build your social media posting application with WordPress and Zapier](https://wordpress.tv/2022/12/18/build-your-social-media-posting-application-with-wordpress-and-zapier/)
 - [Da Universal Analytics a GA4 come gestire la migrazione del tracciamento e-commerce in WordPress](https://wordpress.tv/2022/12/18/da-universal-analytics-a-ga4-come-gestire-la-migrazione-del-tracciamento-e-commerce-in-wordpress/)
 - [GA – GA4 – Tool americani e responsabilità](https://wordpress.tv/2022/12/18/brunella-martino-ga-ga4-tool-americani-e-responsabilita/)
@@ -354,15 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Making Connections](https://wordpress.tv/2022/12/18/simon-kraft-making-connections/)
 - [Starting fresh on WordPress, Part 2](https://wordpress.tv/2022/12/17/starting-fresh-on-wordpress-part-2/)
 - [Gamify your content](https://wordpress.tv/2022/12/17/gamify-your-content/)
-- [How the pandemic influenced 2022 content writing trends](https://wordpress.tv/2022/12/16/how-the-pandemic-influenced-2022-content-writing-trends/)
-- [State of the Word 2022](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022/)
-- [State of the Word 2022 Q&amp;A](https://wordpress.tv/2022/12/16/matt-mullenweg-state-of-the-word-2022-qa/)
-- [Exploring Category Templates and the Query Loop Block](https://wordpress.tv/2022/12/15/exploring-category-templates-and-the-query-loop-block/)
-- [Displaying the comments block in block themes](https://wordpress.tv/2022/12/15/displaying-the-comments-block-in-block-themes/)
-- [Scale up your local business with SEO and WordPress](https://wordpress.tv/2022/12/15/scale-up-your-local-business-with-seo-and-wordpress/)
-- [How live streaming can level up your career](https://wordpress.tv/2022/12/15/how-live-streaming-can-level-up-your-career/)
-- [WordPress theme template tour](https://wordpress.tv/2022/12/15/wordpress-theme-template-tour/)
-- [EP3: WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://wordpress.tv/2022/12/14/wordpress-migration-local-live-to-local-live-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
