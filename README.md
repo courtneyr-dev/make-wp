@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Simon Kraft: Making Connections](https://wordpress.tv/2022/12/18/simon-kraft-making-connections/)
 - [Starting fresh on WordPress, Part 2](https://wordpress.tv/2022/12/17/starting-fresh-on-wordpress-part-2/)
 - [Gamify your content](https://wordpress.tv/2022/12/17/gamify-your-content/)
 - [How the pandemic influenced 2022 content writing trends](https://wordpress.tv/2022/12/16/how-the-pandemic-influenced-2022-content-writing-trends/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress.org, localhost y WP Wizard 2.0](https://wordpress.tv/2022/12/13/wordpress-org-localhost-y-wp-wizard-2-0/)
 - [Mis 10 pasos fundamentales para crear temas hijos](https://wordpress.tv/2022/12/13/mis-10-pasos-fundamentales-para-crear-temas-hijos/)
 - [WordPress &amp; Genesis as your starter theme](https://wordpress.tv/2022/12/13/wordpress-genesis-as-your-starter-theme/)
-- [Cómo gestionar boletines con Wysija](https://wordpress.tv/2022/12/13/como-gestionar-boletines-con-wysija/)
 <!-- WPTV:END -->
 
 ## Marketing
