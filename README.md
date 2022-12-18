@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Patterns, reusable blocks and block locking](https://learn.wordpress.org/?meeting=patterns-reusable-blocks-and-block-locking)
 - [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor-2)
 - [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor)
 - [サイトエディターでのテンプレート編集に慣れよう！](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88-2)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events #WPDiversity](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-wpdiversity)
 - [State of the Word Watch Party &lpar;Online&rpar;](https://learn.wordpress.org/?meeting=state-of-the-word-watch-party-online)
 - [State of the Word Watch Party &lpar;Live Online&rpar;](https://learn.wordpress.org/?meeting=https-www-meetup-com-learn-wordpress-online-workshops-events-290051844)
-- [How to Join Core Release Party](https://learn.wordpress.org/?meeting=how-to-join-core-release-party)
 <!-- SLS:END -->
 
 ## Test
