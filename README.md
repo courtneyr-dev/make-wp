@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda for December 20, 2022](https://make.wordpress.org/training/2022/12/19/meeting-agenda-for-december-20-2022/)
 - [Training Team Meeting Recap for December 13, 2022](https://make.wordpress.org/training/2022/12/17/training-team-meeting-recap-for-december-13-2022/)
 - [Meeting Agenda for December 13, 2022](https://make.wordpress.org/training/2022/12/12/meeting-agenda-for-december-13-2022/)
 - [Training Team Meeting Recap for December 6, 2022](https://make.wordpress.org/training/2022/12/09/training-team-meeting-recap-for-december-6-2022/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meeting Agenda for December 6, 2022](https://make.wordpress.org/training/2022/12/05/meeting-agenda-for-december-6-2022/)
 - [Training Team Meeting Recap for November 29, 2022](https://make.wordpress.org/training/2022/12/05/training-team-meeting-recap-for-november-29-2022/)
 - [November Month Retrospective](https://make.wordpress.org/training/2022/12/05/november-month-retrospective/)
-- [Meeting Agenda for November 29, 2022](https://make.wordpress.org/training/2022/11/28/meeting-agenda-for-november-29-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
