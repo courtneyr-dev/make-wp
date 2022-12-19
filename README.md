@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [PHP](https://jobs.wordpress.net/job/php/)
+- [Sr. WordPress Developer](https://jobs.wordpress.net/job/sr-wordpress-developer-21/)
 - [Developer](https://jobs.wordpress.net/job/__trashed-21/)
 - [Page Designer](https://jobs.wordpress.net/job/page-designer/)
 - [Fix my website issue about www hyper text](https://jobs.wordpress.net/job/fix-my-website-issue-about-www-hyper-text/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-2/)
 - [Animation &amp; Video Expert |WordPress|Premier|Audition|After Effects|Illustrator|Photoshop|Cinema|](https://jobs.wordpress.net/job/animation-video-expert-wordpresspremierauditionafter-effectsillustratorphotoshopcinema-5/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-4/)
-- [Plugin testing and analyzing QA |Non-Coding|WordPress|PHP|MysSQL|Git|CSS|JS|](https://jobs.wordpress.net/job/plugin-testing-and-analyzing-qa-non-codingwordpressphpmyssqlgitcssjs-4/)
-- [Support and intervention developer |Coding|WordPress|PHP|CSS|MySQL|HTML|](https://jobs.wordpress.net/job/support-and-intervention-developer-codingwordpressphpcssmysqlhtml-6/)
 <!-- JOBS:END -->
 
 ## Central
