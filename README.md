@@ -493,7 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [State of the Word 2022: A Celebration of the Four Freedoms of Open Source](https://wordpress.org/news/2022/12/sotw-2022-a-celebration-of-the-four-freedoms-of-open-source/)
+- [State of the Word 2022: A Celebration of the Four Freedoms of Open Source](https://wordpress.org/news/2022/12/state-of-the-word-2022-recap/)
 - [Share Your Experience: The 2022 WordPress Survey is Open](https://wordpress.org/news/2022/12/2022-wordpress-survey/)
 - [People of WordPress: Huanyi Chuang](https://wordpress.org/news/2022/11/people-of-wordpress-huanyi-chuang/)
 - [WP Briefing: Episode 44: Minors, Majors, and Why We Have So Many Releases](https://wordpress.org/news/2022/11/episode-44-minors-majors-and-why-we-have-so-many-releases/)
