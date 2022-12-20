@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Turn WordPress into a video marketing machine](https://wordpress.tv/2022/12/19/turn-wordpress-into-a-video-marketing-machine/)
 - [Empowering local stores: learn from the tech giants while staying local](https://wordpress.tv/2022/12/19/empowering-local-stores-learn-from-the-tech-giants-while-staying-local/)
 - [WordPress 6.1 のアップデート内容を見てみよう！](https://wordpress.tv/2022/12/19/wordpress-6-1-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 - [WordPress for the next generation](https://wordpress.tv/2022/12/18/wordpress-for-the-next-generation/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Un nuovo inizio dopo i quaranta: come affrontare nuove sfide](https://wordpress.tv/2022/12/18/francesca-marano-un-nuovo-inizio-dopo-i-quaranta-come-affrontare-nuove-sfide/)
 - [Freemium – Modello di business sostenibile per un prodotto WordPress](https://wordpress.tv/2022/12/18/carlos-moreira-freemium-modello-di-business-sostenibile-per-un-prodotto-wordpress/)
 - [Tradurre un tema o un plugin &lpar;… una volta per tutte&rpar;](https://wordpress.tv/2022/12/18/luisa-ravelli-tradurre-un-tema-o-un-plugin-una-volta-per-tutte/)
-- [I pattern di Gutenberg](https://wordpress.tv/2022/12/18/gloria-liuni-i-pattern-di-gutenberg/)
 <!-- WPTV:END -->
 
 ## Marketing
