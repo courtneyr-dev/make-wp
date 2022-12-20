@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account-2)
 - [Learn WordPress end-of-year social](https://learn.wordpress.org/?meeting=learn-wordpress-end-of-year-social)
 - [APAC: Creating a photography website with the block editor](https://learn.wordpress.org/?meeting=apac-creating-a-photography-website-with-the-block-editor)
 - [Creating a photography website with the block editor](https://learn.wordpress.org/?meeting=creating-a-photography-website-with-the-block-editor)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring Category Templates and the Query Loop Block Session 2](https://learn.wordpress.org/?meeting=exploring-category-templates-and-the-query-loop-block-session-2)
 - [Exploring Category Templates and the Query Loop Block Session 1](https://learn.wordpress.org/?meeting=exploring-category-templates-and-the-query-loop-block-session-1)
 - [Let’s code: Developing Blocks without React! – Block Supports](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-block-supports)
-- [WordPress development live stream: Developing Blocks without React – Block Supports](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-developing-blocks-without-react-block-supports)
 <!-- SLS:END -->
 
 ## Test
