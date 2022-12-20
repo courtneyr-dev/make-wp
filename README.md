@@ -543,6 +543,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Cebu](https://central.wordcamp.org/wordcamps/wordcamp-cebu-2023/)
 - [Community Summit 2023](https://central.wordcamp.org/wordcamps/community-summit-2023/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2023/)
+- [WordCamp Kerala, India](https://central.wordcamp.org/wordcamps/wordcamp-kerala-india/)
 - [WordCamp Zaragoza, Spain](https://central.wordcamp.org/wordcamps/wordcamp-zaragoza-2/)
 - [WordCamp Montclair, NJ](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj/)
 - [WordCamp Chiclana](https://central.wordcamp.org/wordcamps/wordcamp-chiclana-2023/)
@@ -553,7 +554,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Switzerland](https://central.wordcamp.org/wordcamps/wordcamp-fribourg-murten-switzerland/)
 - [WordCamp Brno, Czech Republic](https://central.wordcamp.org/wordcamps/wordcamp-brno-czech-republic-4/)
 - [WordCamp Floripa 2022](https://central.wordcamp.org/wordcamps/wordcamp-floripa-santa-catarina-brasil/)
-- [WordCamp Kolkata, West Bengal, India](https://central.wordcamp.org/wordcamps/wordcamp-kolkata-west-bengal-india-2/)
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-2023/)
 <!-- WordCamp:END -->
 
