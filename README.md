@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Trac triage session – Dec. 21, 2022 &lpar;9:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/20/agenda-trac-triage-session-dec-21-2022-900-utc/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/20/hi-dear-mentors-we-have-104/)
 - [Polyglots Monthly Newsletter: December 2022](https://make.wordpress.org/polyglots/2022/12/20/polyglots-monthly-newsletter-december-2022/)
 - [PTE Request for [Moein Dictionary&lpar;free&rpar;]](https://make.wordpress.org/polyglots/2022/12/19/pte-request-for-moein-dictionaryfree/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ShinyStat Analytics](https://make.wordpress.org/polyglots/2022/12/16/pte-request-for-shinystat-analytics/)
 - [Translator PTE Request for Tutor…](https://make.wordpress.org/polyglots/2022/12/15/translator-pte-request-for-tutor/)
 - [PTE Request for Mail Control](https://make.wordpress.org/polyglots/2022/12/15/pte-request-for-mail-control-i/)
-- [Polyglots Outreach Effort: December 2022](https://make.wordpress.org/polyglots/2022/12/15/polyglots-outreach-effort-december-2022/)
 <!-- POLYGLOTS:END -->
 
 ## Support
