@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/20/hi-dear-mentors-we-have-104/)
+- [Polyglots Monthly Newsletter: December 2022](https://make.wordpress.org/polyglots/2022/12/20/polyglots-monthly-newsletter-december-2022/)
 - [PTE Request for [Moein Dictionary&lpar;free&rpar;]](https://make.wordpress.org/polyglots/2022/12/19/pte-request-for-moein-dictionaryfree/)
 - [Smart Coupons For WooCommerce Coupons…](https://make.wordpress.org/polyglots/2022/12/18/smart-coupons-for-woocommerce-coupons/)
 - [PTE Request for Blocksy Companion](https://make.wordpress.org/polyglots/2022/12/16/pte-request-for-blocksy-companion/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Translator PTE Request for Tutor…](https://make.wordpress.org/polyglots/2022/12/15/translator-pte-request-for-tutor/)
 - [PTE Request for Mail Control](https://make.wordpress.org/polyglots/2022/12/15/pte-request-for-mail-control-i/)
 - [Polyglots Outreach Effort: December 2022](https://make.wordpress.org/polyglots/2022/12/15/polyglots-outreach-effort-december-2022/)
-- [X-post: Idea: Creating a translation events kit for Meetups](https://make.wordpress.org/polyglots/2022/12/15/xpost-idea-creating-a-translation-events-kit-for-meetups/)
-- [PTE Request for Pdf Embed and Mortgage Calculator](https://make.wordpress.org/polyglots/2022/12/14/pte-request-for-pdf-embed/)
 <!-- POLYGLOTS:END -->
 
 ## Support
