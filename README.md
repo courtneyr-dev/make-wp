@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor chat summary: Wednesday, December 14, 2022](https://make.wordpress.org/core/2022/12/21/editor-chat-summary-wednesday-december-14-2022/)
 - [Introducing new Core Team Reps for 2023](https://make.wordpress.org/core/2022/12/20/core-team-reps-for-2023-and-beyond/)
 - [Performance Chat Summary: 20 December 2022](https://make.wordpress.org/core/2022/12/20/performance-team-meeting-summary-20-december-2022/)
 - [Help us test the SQLite implementation](https://make.wordpress.org/core/2022/12/20/help-us-test-the-sqlite-implementation/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Performance Considerations for Block Themes](https://make.wordpress.org/core/2022/12/16/hallway-hangout-performance-considerations-for-block-themes/)
 - [Dev Chat summary: Wednesday, December 14, 2022](https://make.wordpress.org/core/2022/12/14/dev-chat-summary-wednesday-december-14-2022/)
 - [Dev Chat agenda, December 14, 2022](https://make.wordpress.org/core/2022/12/14/devchat-agenda-december-14-2022/)
-- [Editor Chat Agenda: December 14, 2022](https://make.wordpress.org/core/2022/12/13/editor-chat-agenda-december-14-2022/)
 <!-- CORE:END -->
 
 ## Design
