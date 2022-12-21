@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Announcement: New WordPress Incident Response Team](https://make.wordpress.org/community/2022/12/21/xpost-announcement-new-wordpress-incident-response-team/)
 - [Community Team Reps for 2023](https://make.wordpress.org/community/2022/12/20/community-team-reps-for-2023/)
 - [Community Team 2022 Goals Recap](https://make.wordpress.org/community/2022/12/20/community-team-2022-goals-recap/)
 - [Diverse Speaker Training Group &lpar;#WPDiversity&rpar; 2022 Year-End Report](https://make.wordpress.org/community/2022/12/19/diverse-speaker-training-group-wpdiversity-2022-year-end-report/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on December 14, 2022](https://make.wordpress.org/community/2022/12/15/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-december-14-2022/)
 - [December Update: Global Meetup Reactivation Project](https://make.wordpress.org/community/2022/12/09/december-update-global-meetup-reactivation-project/)
 - [Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/community/2022/12/08/suggest-topics-for-the-2023-wordpress-community-summit/)
-- [WordCamp Mentors’ December check-in!](https://make.wordpress.org/community/2022/12/06/wordcamp-mentors-december-check-in/)
 <!-- COMMUNITY:END -->
 
 ## Meta
