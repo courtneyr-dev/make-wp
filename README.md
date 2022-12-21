@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Getting started with a WordPress.org account](https://wordpress.tv/2022/12/20/getting-started-with-a-wordpress-org-account/)
 - [Designing for accessibility](https://wordpress.tv/2022/12/20/designing-for-accessibility/)
 - [Turn WordPress into a video marketing machine](https://wordpress.tv/2022/12/19/turn-wordpress-into-a-video-marketing-machine/)
 - [Empowering local stores: learn from the tech giants while staying local](https://wordpress.tv/2022/12/19/empowering-local-stores-learn-from-the-tech-giants-while-staying-local/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web content design con WordPress e Gutenberg](https://wordpress.tv/2022/12/18/alberto-monteverdi-web-content-design-con-wordpress-e-gutenberg/)
 - [Scrivere contenuti per il sito WordPress partendo da un’analisi di mercato](https://wordpress.tv/2022/12/18/monica-liverani-elisa-pasqualetto-scrivere-contenuti-per-il-sito-wordpress-partendo-da-unanalisi-di-mercato/)
 - [Un nuovo inizio dopo i quaranta: come affrontare nuove sfide](https://wordpress.tv/2022/12/18/francesca-marano-un-nuovo-inizio-dopo-i-quaranta-come-affrontare-nuove-sfide/)
-- [Freemium – Modello di business sostenibile per un prodotto WordPress](https://wordpress.tv/2022/12/18/carlos-moreira-freemium-modello-di-business-sostenibile-per-un-prodotto-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
