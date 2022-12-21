@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Announcement: New WordPress Incident Response Team](https://make.wordpress.org/project/2022/12/21/announcement-new-wordpress-incident-response-team/)
 - [X-post: FSE Program: Seeking volunteers to use Replay.io for capturing bugs](https://make.wordpress.org/project/2022/12/07/xpost-fse-program-seeking-volunteers-to-use-replay-io-for-capturing-bugs/)
 - [Now we have a sustainability channel in Making WordPress Slack, what should we do?](https://make.wordpress.org/project/2022/11/01/sustainability-channel-what-should-we-do/)
 - [WCUS 2022 Q&amp;A](https://make.wordpress.org/project/2022/09/19/wcus-2022-qa/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for feedback: Recording Five for the Future contributions](https://make.wordpress.org/project/2022/05/23/request-for-feedback-recording-five-for-the-future-contributions/)
 - [Discussion: Contrib Handbook, Part 3](https://make.wordpress.org/project/2022/05/20/discussion-contrib-handbook-part-3/)
 - [Defining Five for the Future Pledges &amp; Contributions](https://make.wordpress.org/project/2022/05/20/defining-five-for-the-future-pledges-contributions/)
-- [Discussion: Contrib Handbook, Part 2](https://make.wordpress.org/project/2022/04/29/discussion-contrib-handbook-part-2/)
 <!-- PROJECT:END -->
 
 ## Systems
