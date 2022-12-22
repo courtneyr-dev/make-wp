@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream)
 - [EP6: Introduction to Plugins &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep6-introduction-to-plugins-file-structure-troubleshooting-bangla)
 - [EP5: Introduction to Themes &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep5-introduction-to-themes-file-structure-troubleshooting-bangla)
 - [EP4: Introduction to WordPress &lpar;Dashboard, Frontend&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep4-introduction-to-wordpress-dashboard-frontend-bangla)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: Developing Blocks without React! – Review](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-review)
 - [EP2: WordPress Installation on Local and Live &lpar;cPanel, FTP &amp; MySQL&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep2-wordpress-installation-on-local-and-live-cpanel-ftp-mysql-bangla)
 - [EP1: WordPress Environment Setup &lpar;Local WP &amp; Laravel Valet&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep1-wordpress-environment-setup-local-wp-laravel-valet-bangla)
-- [Creating a Theme with the Create Block Theme Plugin Session 1](https://learn.wordpress.org/?meeting=creating-a-theme-with-the-create-block-theme-plugin-session-1)
 <!-- SLS:END -->
 
 ## Test
