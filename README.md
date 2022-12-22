@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sarah Snow, Kathryn Presner: Start Blogging in 2023 – Part 1: Planning To Reach Your Audience](https://wordpress.tv/2022/12/22/sarah-snow-kathryn-presner-start-blogging-in-2023-part-1-planning-to-reach-your-audience/)
 - [Creating a theme with the Create Block Theme plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
 - [Cómo y por qué crear webs más sostenibles con WordPress](https://wordpress.tv/2022/12/21/como-y-por-que-crear-webs-mas-sostenibles-con-wordpress/)
 - [Creating a call to action](https://wordpress.tv/2022/12/21/creating-a-call-to-action-2/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Da Universal Analytics a GA4 come gestire la migrazione del tracciamento e-commerce in WordPress](https://wordpress.tv/2022/12/18/da-universal-analytics-a-ga4-come-gestire-la-migrazione-del-tracciamento-e-commerce-in-wordpress/)
 - [GA – GA4 – Tool americani e responsabilità](https://wordpress.tv/2022/12/18/brunella-martino-ga-ga4-tool-americani-e-responsabilita/)
 - [Palette accessibili](https://wordpress.tv/2022/12/18/stefano-minoia-palette-accessibili/)
-- [Scrittura accessibile e inclusiva: cosa ho imparato traducendo temi e plugin per WordPress](https://wordpress.tv/2022/12/18/alice-orru-scrittura-accessibile-e-inclusiva-cosa-ho-imparato-traducendo-temi-e-plugin-per-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
