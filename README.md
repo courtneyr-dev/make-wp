@@ -513,10 +513,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PHP](https://jobs.wordpress.net/job/php/)
 - [Sr. WordPress Developer](https://jobs.wordpress.net/job/sr-wordpress-developer-21/)
 - [Developer](https://jobs.wordpress.net/job/__trashed-21/)
-- [Page Designer](https://jobs.wordpress.net/job/page-designer/)
 - [Fix my website issue about www hyper text](https://jobs.wordpress.net/job/fix-my-website-issue-about-www-hyper-text/)
 - [Designer](https://jobs.wordpress.net/job/designer-12/)
 - [Developer Freelancer required with Skillset](https://jobs.wordpress.net/job/developer-freelancer-required-with-skillset/)
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-2/)
 <!-- JOBS:END -->
 
 ## Central
