@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Two-Factor Auth progress for WordPress.org](https://make.wordpress.org/meta/2022/12/22/two-factor-auth-progress-for-wordpress-org/)
 - [Refreshing the WordPress Showcase](https://make.wordpress.org/meta/2022/12/14/showcase-visual-refresh/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/meta/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [X-post: Learn WordPress Site Updates – December 2022](https://make.wordpress.org/meta/2022/12/05/xpost-learn-wordpress-site-updates-december-2022/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Displaying Style Variations for Supporting Themes](https://make.wordpress.org/meta/2022/10/20/displaying-style-variations-for-supporting-themes/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/meta/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 - [Renaming WordPress.org Support to Documentation](https://make.wordpress.org/meta/2022/10/11/renaming-wordpress-org-support-to-documentation/)
-- [X-post: Reclassification of end-user documentation](https://make.wordpress.org/meta/2022/10/05/xpost-reclassification-of-end-user-documentation/)
 <!-- META:END -->
 
 ## Training
