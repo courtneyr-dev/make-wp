@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a Theme with the Create Block Theme Plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
 - [Cómo y por qué crear webs más sostenibles con WordPress](https://wordpress.tv/2022/12/21/como-y-por-que-crear-webs-mas-sostenibles-con-wordpress/)
 - [Creating a Call To Action](https://wordpress.tv/2022/12/21/creating-a-call-to-action-2/)
 - [A new era of WordPress themes is here: block themes](https://wordpress.tv/2022/12/21/a-new-era-of-wordpress-themes-is-here-block-themes/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GA – GA4 – Tool americani e responsabilità](https://wordpress.tv/2022/12/18/brunella-martino-ga-ga4-tool-americani-e-responsabilita/)
 - [Palette accessibili](https://wordpress.tv/2022/12/18/stefano-minoia-palette-accessibili/)
 - [Scrittura accessibile e inclusiva: cosa ho imparato traducendo temi e plugin per WordPress](https://wordpress.tv/2022/12/18/alice-orru-scrittura-accessibile-e-inclusiva-cosa-ho-imparato-traducendo-temi-e-plugin-per-wordpress/)
-- [Pricing WordPress products](https://wordpress.tv/2022/12/18/james-baldacchino-pricing-wordpress-products/)
 <!-- WPTV:END -->
 
 ## Marketing
