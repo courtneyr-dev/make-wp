@@ -338,9 +338,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Creating a Theme with the Create Block Theme Plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
+- [Creating a theme with the Create Block Theme plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
 - [Cómo y por qué crear webs más sostenibles con WordPress](https://wordpress.tv/2022/12/21/como-y-por-que-crear-webs-mas-sostenibles-con-wordpress/)
-- [Creating a Call To Action](https://wordpress.tv/2022/12/21/creating-a-call-to-action-2/)
+- [Creating a call to action](https://wordpress.tv/2022/12/21/creating-a-call-to-action-2/)
 - [A new era of WordPress themes is here: block themes](https://wordpress.tv/2022/12/21/a-new-era-of-wordpress-themes-is-here-block-themes/)
 - [Getting started with a WordPress.org account](https://wordpress.tv/2022/12/20/getting-started-with-a-wordpress-org-account/)
 - [Designing for accessibility](https://wordpress.tv/2022/12/20/designing-for-accessibility/)
