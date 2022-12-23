@@ -339,7 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Tools: Site Health](https://wordpress.tv/2022/12/22/tools-site-health/)
-- [Sarah Snow, Kathryn Presner: Start Blogging in 2023 – Part 1: Planning To Reach Your Audience](https://wordpress.tv/2022/12/22/sarah-snow-kathryn-presner-start-blogging-in-2023-part-1-planning-to-reach-your-audience/)
+- [Start blogging in 2023 – Part 1: planning to reach your audience](https://wordpress.tv/2022/12/22/sarah-snow-kathryn-presner-start-blogging-in-2023-part-1-planning-to-reach-your-audience/)
 - [Creating a theme with the Create Block Theme plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
 - [Cómo y por qué crear webs más sostenibles con WordPress](https://wordpress.tv/2022/12/21/como-y-por-que-crear-webs-mas-sostenibles-con-wordpress/)
 - [Creating a call to action](https://wordpress.tv/2022/12/21/creating-a-call-to-action-2/)
