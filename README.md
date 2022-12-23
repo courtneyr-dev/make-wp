@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-15/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-21/)
+- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-20/)
+- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-27/)
+- [[rtCamp] Systems Engineer](https://jobs.wordpress.net/job/rtcamp-systems-engineer-21/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-51/)
 - [Content Marketing Executive](https://jobs.wordpress.net/job/content-marketing-executive/)
 - [creating simple website](https://jobs.wordpress.net/job/creating-simple-website/)
 - [WP page designer](https://jobs.wordpress.net/job/wp-page-designer/)
 - [PHP](https://jobs.wordpress.net/job/php/)
-- [Sr. WordPress Developer](https://jobs.wordpress.net/job/sr-wordpress-developer-21/)
-- [Developer](https://jobs.wordpress.net/job/__trashed-21/)
-- [Fix my website issue about www hyper text](https://jobs.wordpress.net/job/fix-my-website-issue-about-www-hyper-text/)
-- [Designer](https://jobs.wordpress.net/job/designer-12/)
-- [Developer Freelancer required with Skillset](https://jobs.wordpress.net/job/developer-freelancer-required-with-skillset/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-2/)
 <!-- JOBS:END -->
 
 ## Central
