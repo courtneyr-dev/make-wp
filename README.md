@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for…](https://make.wordpress.org/polyglots/2022/12/24/post-title-pte-request-for-55/)
 - [PTE Request for WC1C](https://make.wordpress.org/polyglots/2022/12/24/pte-request-for-wc1c/)
 - [Good evening](https://make.wordpress.org/polyglots/2022/12/23/good-evening/)
 - [PTE Request for WP Wiki Tooltip](https://make.wordpress.org/polyglots/2022/12/23/pte-request-for-wp-wiki-tooltip/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/20/hi-dear-mentors-we-have-104/)
 - [Polyglots Monthly Newsletter: December 2022](https://make.wordpress.org/polyglots/2022/12/20/polyglots-monthly-newsletter-december-2022/)
 - [PTE Request for [Moein Dictionary&lpar;free&rpar;]](https://make.wordpress.org/polyglots/2022/12/19/pte-request-for-moein-dictionaryfree/)
-- [Smart Coupons For WooCommerce Coupons…](https://make.wordpress.org/polyglots/2022/12/18/smart-coupons-for-woocommerce-coupons/)
 <!-- POLYGLOTS:END -->
 
 ## Support
