@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Reviews Plus]](https://make.wordpress.org/polyglots/2022/12/26/pte-request-for-reviews-plus/)
 - [Project translation request for  NexProperty Theme](https://make.wordpress.org/polyglots/2022/12/25/project-translation-request-for-nexproperty-theme/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/12/24/pte-request-for-11/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/12/24/post-title-pte-request-for-55/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Funnelforms Free](https://make.wordpress.org/polyglots/2022/12/21/pte-request-for-funnelforms-free/)
 - [Weekly Polyglots Chat – Dec. 21, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/20/weekly-polyglots-chat-dec-21-2022-1300-utc/)
 - [Agenda: Trac triage session – Dec. 21, 2022 &lpar;9:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/12/20/agenda-trac-triage-session-dec-21-2022-900-utc/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/12/20/hi-dear-mentors-we-have-104/)
 <!-- POLYGLOTS:END -->
 
 ## Support
