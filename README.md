@@ -299,7 +299,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [サイトエディターでのテンプレート編集に慣れよう！](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88)
 - [WordPress development live stream: Building an Advanced Query Loop plugin](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-building-an-advanced-query-loop-plugin)
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account)
-- [Start Blogging in 2023 Part 2: Planning Your Blog’s Content](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-2-planning-your-blogs-content)
+- [[CANCELED – To be rescheduled ] Start Blogging in 2023 Part 2: Planning Your Blog’s Content](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-2-planning-your-blogs-content)
 - [Start Blogging in 2023 – Part 1: Planning To Reach Your Audience](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-1-planning-to-reach-your-audience)
 - [EP3: WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep3-wordpress-migration-local-live-to-local-live-bangla)
 - [Get Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=get-blogging-in-2023-set-up-your-blog-interactive-2)
