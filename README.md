@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Get hooked! Using the right WordPress actions](https://wordpress.tv/2022/12/28/get-hooked-using-the-right-wordpress-actions/)
 - [Blog to video: tapping into YouTube and video SEO with your existing content](https://wordpress.tv/2022/12/24/blog-to-video-tapping-into-youtube-and-video-seo-with-your-existing-content/)
 - [Tools: Site Health](https://wordpress.tv/2022/12/22/tools-site-health/)
 - [Start blogging in 2023 – Part 1: planning to reach your audience](https://wordpress.tv/2022/12/22/sarah-snow-kathryn-presner-start-blogging-in-2023-part-1-planning-to-reach-your-audience/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cache: anche gli oggetti scadono, come lo yogurt](https://wordpress.tv/2022/12/18/cache-anche-gli-oggetti-scadono-come-lo-yogurt/)
 - [Docs or it didn’t happen](https://wordpress.tv/2022/12/18/docs-or-it-didnt-happen/)
 - [Build your social media posting application with WordPress and Zapier](https://wordpress.tv/2022/12/18/build-your-social-media-posting-application-with-wordpress-and-zapier/)
-- [Da Universal Analytics a GA4 come gestire la migrazione del tracciamento e-commerce in WordPress](https://wordpress.tv/2022/12/18/da-universal-analytics-a-ga4-come-gestire-la-migrazione-del-tracciamento-e-commerce-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
