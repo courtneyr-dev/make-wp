@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-24/)
 - [Senior Content Writer](https://jobs.wordpress.net/job/senior-content-writer-2/)
 - [New Site creation](https://jobs.wordpress.net/job/__trashed-32/)
 - [Senior Software Developer](https://jobs.wordpress.net/job/senior-software-developer-2/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-21/)
 - [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-20/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-27/)
-- [[rtCamp] Systems Engineer](https://jobs.wordpress.net/job/rtcamp-systems-engineer-21/)
 <!-- JOBS:END -->
 
 ## Central
