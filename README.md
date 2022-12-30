@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [State of the Word 2022](https://wordpress.tv/2022/12/30/matt-mullenweg-state-of-the-word-2022/)
+- [State of the Word 2022 Q&amp;A](https://wordpress.tv/2022/12/30/matt-mullenweg-state-of-the-word-2022-qa/)
 - [Get hooked! Using the right WordPress actions](https://wordpress.tv/2022/12/28/get-hooked-using-the-right-wordpress-actions/)
 - [Blog to video: tapping into YouTube and video SEO with your existing content](https://wordpress.tv/2022/12/24/blog-to-video-tapping-into-youtube-and-video-seo-with-your-existing-content/)
 - [Tools: Site Health](https://wordpress.tv/2022/12/22/tools-site-health/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Raise the bar](https://wordpress.tv/2022/12/18/raise-the-bar/)
 - [Image formats and optimization](https://wordpress.tv/2022/12/18/image-formats-and-optimization/)
 - [Cache: anche gli oggetti scadono, come lo yogurt](https://wordpress.tv/2022/12/18/cache-anche-gli-oggetti-scadono-come-lo-yogurt/)
-- [Docs or it didn’t happen](https://wordpress.tv/2022/12/18/docs-or-it-didnt-happen/)
-- [Build your social media posting application with WordPress and Zapier](https://wordpress.tv/2022/12/18/build-your-social-media-posting-application-with-wordpress-and-zapier/)
 <!-- WPTV:END -->
 
 ## Marketing
