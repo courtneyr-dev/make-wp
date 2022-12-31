@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Project translation request for BookingPress Plugin](https://make.wordpress.org/polyglots/2022/12/30/project-translation-request-for-bookingpress-plugin/)
 - [#reviews-requests Hello, there are some…](https://make.wordpress.org/polyglots/2022/12/30/reviews-requests-hello-there-are-some/)
 - [PTE Request for Twenty Twenty-Three Theme.](https://make.wordpress.org/polyglots/2022/12/29/pte-request-for-twenty-twenty-three-theme/)
 - [PTE Request for flamix-bitrix24-and-contact-forms-7-integrations](https://make.wordpress.org/polyglots/2022/12/27/pte-request-for-flamix-bitrix24-and-contact-forms-7-integrations/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Reviews Plus]](https://make.wordpress.org/polyglots/2022/12/26/pte-request-for-reviews-plus/)
 - [Project translation request for  NexProperty Theme](https://make.wordpress.org/polyglots/2022/12/25/project-translation-request-for-nexproperty-theme/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/12/24/pte-request-for-11/)
-- [PTE Request for…](https://make.wordpress.org/polyglots/2022/12/24/post-title-pte-request-for-55/)
 <!-- POLYGLOTS:END -->
 
 ## Support
