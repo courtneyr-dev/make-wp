@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Simply Schedule Appointments](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-simply-schedule-appointments-4/)
 - [&lpar;Post Title&rpar; PTE Request for [lap-api]](https://make.wordpress.org/polyglots/2023/01/02/post-title-pte-request-for-lap-api/)
 - [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/02/pte-request-for-perfectwp-wc-omnibus/)
 - [PTE Request for share-computy](https://make.wordpress.org/polyglots/2023/01/01/pte-request-for-share-computy/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Twenty Twenty-Three Theme.](https://make.wordpress.org/polyglots/2022/12/29/pte-request-for-twenty-twenty-three-theme/)
 - [PTE Request for flamix-bitrix24-and-contact-forms-7-integrations](https://make.wordpress.org/polyglots/2022/12/27/pte-request-for-flamix-bitrix24-and-contact-forms-7-integrations/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/12/27/hello-polyglots-300/)
-- [Hello;](https://make.wordpress.org/polyglots/2022/12/26/hello-70/)
 <!-- POLYGLOTS:END -->
 
 ## Support
