@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: developing blocks without React! – Review](https://wordpress.tv/2023/01/04/lets-code-developing-blocks-without-react-review/)
 - [EP6: Introduction to Plugins &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep6-introduction-to-plugins-file-structure-troubleshooting-bangla/)
 - [EP5: Introduction to Themes &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep5-introduction-to-themes-file-structure-troubleshooting-bangla/)
 - [EP4: Introduction to WordPress &lpar;Dashboard, Frontend&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep4-introduction-to-wordpress-dashboard-frontend-bangla/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Blocks: verso il Full Site Editing e oltre!](https://wordpress.tv/2022/12/18/blocks-verso-il-full-site-editing-e-oltre/)
 - [CRO: se la conosci non potrai più farne a meno](https://wordpress.tv/2022/12/18/cro-se-la-conosci-non-potrai-piu-farne-a-meno/)
 - [Creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/12/18/creare-blocchi-per-gutenberg-da-dove-iniziare/)
-- [Schema.org: cos’è e perché dovrebbe interessarti](https://wordpress.tv/2022/12/18/schema-org-cose-e-perche-dovrebbe-interessarti/)
 <!-- WPTV:END -->
 
 ## Marketing
