@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Time Slot](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-time-slot/)
+- [#reviews-requests Hi! There are some…](https://make.wordpress.org/polyglots/2023/01/04/reviews-requests-hi-there-are-some/)
 - [Agenda: Weekly Polyglots Chat – January 4, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/03/agenda-weekly-polyglots-chat-january-4-2023-700-utc/)
 - [PTE Request for GTM Kit](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-gtm-kit/)
 - [PTE Request for DominoKit](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-dominokit/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/02/pte-request-for-perfectwp-wc-omnibus/)
 - [PTE Request for share-computy](https://make.wordpress.org/polyglots/2023/01/01/pte-request-for-share-computy/)
 - [PTE Request for Carousel Slider and others](https://make.wordpress.org/polyglots/2022/12/31/pte-request-for-carousel-slider-and-others/)
-- [Project translation request for BookingPress Plugin](https://make.wordpress.org/polyglots/2022/12/30/project-translation-request-for-bookingpress-plugin/)
-- [#reviews-requests Hello, there are some…](https://make.wordpress.org/polyglots/2022/12/30/reviews-requests-hello-there-are-some/)
 <!-- POLYGLOTS:END -->
 
 ## Support
