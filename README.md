@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Comments Block](https://wordpress.org/support/article/comments-block/)
 - [Post Navigation Link Block](https://wordpress.org/support/article/post-navigation-link-block/)
 - [Pagination Block](https://wordpress.org/support/article/pagination-block/)
 - [Page List Block](https://wordpress.org/support/article/page-list-block/)
@@ -110,7 +111,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pocket Casts Embed Block](https://wordpress.org/support/article/pocket-casts-embed-block/)
 - [Row Block](https://wordpress.org/support/article/row-block/)
 - [Post Template Block](https://wordpress.org/support/article/post-template-block/)
-- [Comments Title Block](https://wordpress.org/support/article/comments-title-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
