@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for speakout I…](https://make.wordpress.org/polyglots/2023/01/05/pte-request-for-speakout-i-2/)
 - [PTE Request for Noptin Newsletter](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-noptin-newsletter/)
 - [PTE Request for SDZ – Table of Contents](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-sdz-table-of-contents/)
 - [PTE Request for Time Slot](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-time-slot/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for DominoKit](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-dominokit/)
 - [PTE Request for Simply Schedule Appointments](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-simply-schedule-appointments-4/)
 - [&lpar;Post Title&rpar; PTE Request for [lap-api]](https://make.wordpress.org/polyglots/2023/01/02/post-title-pte-request-for-lap-api/)
-- [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/02/pte-request-for-perfectwp-wc-omnibus/)
 <!-- POLYGLOTS:END -->
 
 ## Support
