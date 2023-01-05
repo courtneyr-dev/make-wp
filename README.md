@@ -507,6 +507,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Advance](https://jobs.wordpress.net/job/wordpress-advance-2/)
+- [Junior WordPress Developer &amp; support analyst](https://jobs.wordpress.net/job/junior-wordpress-developer-support-analyst/)
+- [Web Developer 4 Driving Safety- Maintenance](https://jobs.wordpress.net/job/web-developer-4-driving-safety-maintenance/)
 - [WordPress Developer &lpar;Backup Plugin Experience&rpar;](https://jobs.wordpress.net/job/wordpress-developer-backup-plugin-experience/)
 - [e-commerce Webshop – Theme Customization](https://jobs.wordpress.net/job/e-commerce-webshop-theme-customization/)
 - [SEO Strategy For PPC](https://jobs.wordpress.net/job/seo-strategy-for-ppc/)
@@ -514,9 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-24/)
 - [Senior Content Writer](https://jobs.wordpress.net/job/senior-content-writer-2/)
 - [New Site creation](https://jobs.wordpress.net/job/__trashed-32/)
-- [Senior Software Developer](https://jobs.wordpress.net/job/senior-software-developer-2/)
-- [Web Designer](https://jobs.wordpress.net/job/web-designer-71/)
-- [WordPress Advance](https://jobs.wordpress.net/job/wordpress-advance/)
 <!-- JOBS:END -->
 
 ## Central
