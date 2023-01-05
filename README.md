@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for Kadence…](https://make.wordpress.org/polyglots/2023/01/05/ive-suggested-translations-for-kadence/)
+- [PTE Request for 10Web Booster.](https://make.wordpress.org/polyglots/2023/01/05/pte-request-for-10web-booster/)
 - [PTE Request for speakout I…](https://make.wordpress.org/polyglots/2023/01/05/pte-request-for-speakout-i-2/)
 - [PTE Request for Noptin Newsletter](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-noptin-newsletter/)
 - [PTE Request for SDZ – Table of Contents](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-sdz-table-of-contents/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – January 4, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/03/agenda-weekly-polyglots-chat-january-4-2023-700-utc/)
 - [PTE Request for GTM Kit](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-gtm-kit/)
 - [PTE Request for DominoKit](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-dominokit/)
-- [PTE Request for Simply Schedule Appointments](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-simply-schedule-appointments-4/)
-- [&lpar;Post Title&rpar; PTE Request for [lap-api]](https://make.wordpress.org/polyglots/2023/01/02/post-title-pte-request-for-lap-api/)
 <!-- POLYGLOTS:END -->
 
 ## Support
