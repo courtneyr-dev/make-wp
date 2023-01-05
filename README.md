@@ -339,13 +339,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Let’s code: developing blocks without React! – Review](https://wordpress.tv/2023/01/04/lets-code-developing-blocks-without-react-review/)
+- [State of the Word 2022](https://wordpress.tv/2023/01/04/matt-mullenweg-state-of-the-word-2022/)
+- [State of the Word 2022 Q&amp;A](https://wordpress.tv/2023/01/04/matt-mullenweg-state-of-the-word-2022-qa/)
+- [Get hooked! Using the right WordPress actions](https://wordpress.tv/2023/01/03/get-hooked-using-the-right-wordpress-actions/)
+- [Blog to video: tapping into YouTube and video SEO with your existing content](https://wordpress.tv/2023/01/03/blog-to-video-tapping-into-youtube-and-video-seo-with-your-existing-content/)
 - [EP6: Introduction to Plugins &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep6-introduction-to-plugins-file-structure-troubleshooting-bangla/)
 - [EP5: Introduction to Themes &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep5-introduction-to-themes-file-structure-troubleshooting-bangla/)
 - [EP4: Introduction to WordPress &lpar;Dashboard, Frontend&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep4-introduction-to-wordpress-dashboard-frontend-bangla/)
-- [State of the Word 2022](https://wordpress.tv/2022/12/30/matt-mullenweg-state-of-the-word-2022/)
-- [State of the Word 2022 Q&amp;A](https://wordpress.tv/2022/12/30/matt-mullenweg-state-of-the-word-2022-qa/)
-- [Get hooked! Using the right WordPress actions](https://wordpress.tv/2022/12/28/get-hooked-using-the-right-wordpress-actions/)
-- [Blog to video: tapping into YouTube and video SEO with your existing content](https://wordpress.tv/2022/12/24/blog-to-video-tapping-into-youtube-and-video-seo-with-your-existing-content/)
 - [Tools: Site Health](https://wordpress.tv/2022/12/22/tools-site-health/)
 - [Start blogging in 2023 – Part 1: planning to reach your audience](https://wordpress.tv/2022/12/22/sarah-snow-kathryn-presner-start-blogging-in-2023-part-1-planning-to-reach-your-audience/)
 - [Creating a theme with the Create Block Theme plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
