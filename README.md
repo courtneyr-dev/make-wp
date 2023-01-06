@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-28/)
+- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-21/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-22/)
+- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-16/)
+- [Full Time content Witter for my WordPress website](https://jobs.wordpress.net/job/full-time-content-witter-for-my-wordpress-website/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-52/)
 - [WordPress Advance](https://jobs.wordpress.net/job/wordpress-advance-2/)
 - [Junior WordPress Developer &amp; support analyst](https://jobs.wordpress.net/job/junior-wordpress-developer-support-analyst/)
 - [Web Developer 4 Driving Safety- Maintenance](https://jobs.wordpress.net/job/web-developer-4-driving-safety-maintenance/)
 - [WordPress Developer &lpar;Backup Plugin Experience&rpar;](https://jobs.wordpress.net/job/wordpress-developer-backup-plugin-experience/)
-- [e-commerce Webshop – Theme Customization](https://jobs.wordpress.net/job/e-commerce-webshop-theme-customization/)
-- [SEO Strategy For PPC](https://jobs.wordpress.net/job/seo-strategy-for-ppc/)
-- [Sr. Full Stack Developer](https://jobs.wordpress.net/job/sr-full-stack-developer/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-24/)
-- [Senior Content Writer](https://jobs.wordpress.net/job/senior-content-writer-2/)
-- [New Site creation](https://jobs.wordpress.net/job/__trashed-32/)
 <!-- JOBS:END -->
 
 ## Central
