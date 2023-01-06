@@ -205,6 +205,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Πώς να προσθέσετε και να αφαιρέσετε λογότυπο και εικονίδιο ιστοτόπου στο πρόγραμμα επεξεργασίας ιστότοπου](https://learn.wordpress.org/lesson-plan/%cf%80%cf%8e%cf%82-%ce%bd%ce%b1-%cf%80%cf%81%ce%bf%cf%83%ce%b8%ce%ad%cf%83%ce%b5%cf%84%ce%b5-%ce%ba%ce%b1%ce%b9-%ce%bd%ce%b1-%ce%b1%cf%86%ce%b1%ce%b9%cf%81%ce%ad%cf%83%ce%b5%cf%84%ce%b5-%ce%bb%ce%bf/)
 - [Како припремити план лекција?](https://learn.wordpress.org/lesson-plan/%d0%ba%d0%b0%d0%ba%d0%be-%d0%bf%d1%80%d0%b8%d0%bf%d1%80%d0%b5%d0%bc%d0%b8%d1%82%d0%b8-%d0%bf%d0%bb%d0%b0%d0%bd-%d0%bb%d0%b5%d0%ba%d1%86%d0%b8%d1%98%d0%b0/)
 - [Imposta una pagina statica come homepage](https://learn.wordpress.org/lesson-plan/imposta-una-pagina-statica-come-homepage/)
+- [Dashboard-Übersicht](https://learn.wordpress.org/lesson-plan/dashboard-uebersicht/)
 - [Εισαγωγή στoυς πιο κοινούς τύπους πρόσθετων](https://learn.wordpress.org/lesson-plan/%ce%b5%ce%b9%cf%83%ce%b1%ce%b3%cf%89%ce%b3%ce%ae-%cf%83%cf%84o%cf%85%cf%82-%cf%80%ce%b9%ce%bf-%ce%ba%ce%bf%ce%b9%ce%bd%ce%bf%cf%8d%cf%82-%cf%84%cf%8d%cf%80%ce%bf%cf%85%cf%82-%cf%80%cf%81%ce%bf%cf%83/)
 - [Locking Blocks in the Full Site Editor](https://learn.wordpress.org/lesson-plan/locking-blocks-in-the-full-site-editor/)
 - [Create a Basic Child Theme for Block Themes](https://learn.wordpress.org/lesson-plan/create-a-basic-child-theme-for-block-themes/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Use and Contribute to the WordPress Photo Directory and Openverse](https://learn.wordpress.org/lesson-plan/how-to-use-and-contribute-to-the-wordpress-photo-directory-and-openverse/)
 - [Templates](https://learn.wordpress.org/lesson-plan/templates/)
 - [Introduction To Common Plugins](https://learn.wordpress.org/lesson-plan/introduction-to-common-plugins/)
-- [How to Create a Menu with the Navigation Block](https://learn.wordpress.org/lesson-plan/how-to-create-a-menu-with-the-navigation-block/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
