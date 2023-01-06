@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Tools: Site Health](https://learn.wordpress.org/tutorial/tools-site-health/)
 - [Introduction to theme.json](https://learn.wordpress.org/tutorial/introduction-to-theme-json/)
 - [Creating a Call To Action](https://learn.wordpress.org/tutorial/creating-a-call-to-action/)
 - [Displaying the Comments block in Block Themes](https://learn.wordpress.org/tutorial/displaying-the-post-comments-block-in-block-themes/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Image Optimization](https://learn.wordpress.org/tutorial/image-optimization/)
 - [Gerenciando atualizações no WordPress](https://learn.wordpress.org/tutorial/gerenciando-atualizacoes-no-wordpress/)
 - [Introduction to block theme development &lpar;for beginners&rpar;](https://learn.wordpress.org/tutorial/introduction-to-block-theme-development-for-beginners/)
-- [Customizing a footer with patterns](https://learn.wordpress.org/tutorial/customizing-a-footer-with-patterns/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
