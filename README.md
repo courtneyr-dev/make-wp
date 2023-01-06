@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Start Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://wordpress.tv/2023/01/05/start-blogging-in-2023-set-up-your-blog-interactive/)
 - [Let’s code: developing blocks without React! – Review](https://wordpress.tv/2023/01/04/lets-code-developing-blocks-without-react-review/)
 - [State of the Word 2022](https://wordpress.tv/2023/01/04/matt-mullenweg-state-of-the-word-2022/)
 - [State of the Word 2022 Q&amp;A](https://wordpress.tv/2023/01/04/matt-mullenweg-state-of-the-word-2022-qa/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tackling performance in the WordPress ecosystem at scale](https://wordpress.tv/2022/12/18/tackling-performance-in-the-wordpress-ecosystem-at-scale/)
 - [Blocks: verso il Full Site Editing e oltre!](https://wordpress.tv/2022/12/18/blocks-verso-il-full-site-editing-e-oltre/)
 - [CRO: se la conosci non potrai più farne a meno](https://wordpress.tv/2022/12/18/cro-se-la-conosci-non-potrai-piu-farne-a-meno/)
-- [Creare blocchi per Gutenberg. Da dove iniziare?](https://wordpress.tv/2022/12/18/creare-blocchi-per-gutenberg-da-dove-iniziare/)
 <!-- WPTV:END -->
 
 ## Marketing
