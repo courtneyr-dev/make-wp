@@ -284,7 +284,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- SLS:START -->
 - [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor-3)
 - [Start Blogging in 2023 Part 2: Planning Your Blog’s Content [Rescheduled!]](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-2-planning-your-blogs-content-rescheduled)
-- [Let’s code! Extending the WP REST API](https://learn.wordpress.org/?meeting=lets-code-extending-the-wp-rest-api)
+- [Let’s code! Using the WP REST API](https://learn.wordpress.org/?meeting=lets-code-extending-the-wp-rest-api)
 - [Let’s code: WordPress Plugin Security](https://learn.wordpress.org/?meeting=lets-code-wordpress-plugin-security)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream)
 - [EP6: Introduction to Plugins &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep6-introduction-to-plugins-file-structure-troubleshooting-bangla)
