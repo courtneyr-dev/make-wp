@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-24/)
+- [Custom GeneratePress WooCommerce Template](https://jobs.wordpress.net/job/custom-generatepress-woocommerce-template/)
 - [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-28/)
 - [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-21/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Time content Witter for my WordPress website](https://jobs.wordpress.net/job/full-time-content-witter-for-my-wordpress-website/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-52/)
 - [WordPress Advance](https://jobs.wordpress.net/job/wordpress-advance-2/)
-- [Junior WordPress Developer &amp; support analyst](https://jobs.wordpress.net/job/junior-wordpress-developer-support-analyst/)
-- [Web Developer 4 Driving Safety- Maintenance](https://jobs.wordpress.net/job/web-developer-4-driving-safety-maintenance/)
 <!-- JOBS:END -->
 
 ## Central
