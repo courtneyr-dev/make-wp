@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Start Blogging in 2023 Part 2: Planning Your Blog’s Content [Rescheduled!]](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-2-planning-your-blogs-content-rescheduled)
 - [Let’s code! Extending the WP REST API](https://learn.wordpress.org/?meeting=lets-code-extending-the-wp-rest-api)
 - [Let’s code: WordPress Plugin Security](https://learn.wordpress.org/?meeting=lets-code-wordpress-plugin-security)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP3: WordPress Migration &lpar;Local/Live to Local/Live&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep3-wordpress-migration-local-live-to-local-live-bangla)
 - [Get Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=get-blogging-in-2023-set-up-your-blog-interactive-2)
 - [Get Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=get-blogging-in-2023-set-up-your-blog-interactive)
-- [Let’s code: Developing Blocks without React! – Review](https://learn.wordpress.org/?meeting=lets-code-developing-blocks-without-react-review)
 <!-- SLS:END -->
 
 ## Test
