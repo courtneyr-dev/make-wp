@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Restrict Content Pro Add-On for Gravity Forms](https://jobs.wordpress.net/job/restrict-content-pro-add-on-for-gravity-forms/)
+- [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-4/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-24/)
 - [Custom GeneratePress WooCommerce Template](https://jobs.wordpress.net/job/custom-generatepress-woocommerce-template/)
 - [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-22/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-16/)
 - [Full Time content Witter for my WordPress website](https://jobs.wordpress.net/job/full-time-content-witter-for-my-wordpress-website/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-52/)
-- [WordPress Advance](https://jobs.wordpress.net/job/wordpress-advance-2/)
 <!-- JOBS:END -->
 
 ## Central
