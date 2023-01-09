@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Live stream: Building an Advanced Query Loop block variation plugin](https://learn.wordpress.org/?meeting=live-stream-building-an-advanced-query-loop-block-variation-plugin)
+- [Live stream: Reviewing developer-focused features in Gutenberg 15.0](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-0)
 - [Live stream: Reviewing developer-focused features in Gutenberg 14.9](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-14-9)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-4)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-3)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [APAC: Patterns, reusable blocks and block locking](https://learn.wordpress.org/?meeting=apac-patterns-reusable-blocks-and-block-locking)
 - [Patterns, reusable blocks and block locking](https://learn.wordpress.org/?meeting=patterns-reusable-blocks-and-block-locking)
 - [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor)
-- [サイトエディターでのテンプレート編集に慣れよう！](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88-2)
-- [サイトエディターでのテンプレート編集に慣れよう！](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88)
 <!-- SLS:END -->
 
 ## Test
