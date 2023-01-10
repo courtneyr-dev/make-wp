@@ -87,16 +87,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
-- [Summary of Docs Team Meeting November 1, 2022](https://make.wordpress.org/docs/2022/11/02/summary-of-docs-team-meeting-november-1-2022/)
-- [The Documentation team Contributor Day summary](https://make.wordpress.org/docs/2022/10/28/the-documentation-team-contributor-day-summary/)
-- [X-post: WordPress.org Redesign Update](https://make.wordpress.org/docs/2022/10/21/xpost-wordpress-org-redesign-update/)
-- [New design for HelpHub in WordPress.org](https://make.wordpress.org/docs/2022/10/19/new-design-for-helphub-in-wordpress-org/)
-- [The first ever Documentation team Contributor Day – 25th October, 2022](https://make.wordpress.org/docs/2022/10/19/the-first-ever-documentation-team-contributor-day-25th-october-2022/)
-- [Summary of Docs Team Meeting October 11, 2022](https://make.wordpress.org/docs/2022/10/11/summary-of-docs-team-meeting-october-11-2022/)
-- [X-post: Renaming WordPress.org Support to Documentation](https://make.wordpress.org/docs/2022/10/11/xpost-renaming-wordpress-org-support-to-documentation/)
-- [Agenda for Docs Team Bi-Weekly October 11  2022](https://make.wordpress.org/docs/2022/10/10/agenda-for-docs-team-bi-weekly-october-11-2022/)
-- [Reclassification of end-user documentation](https://make.wordpress.org/docs/2022/10/05/reclassification-of-end-user-documentation/)
-- [Summary of Docs Team Meeting September 27, 2022](https://make.wordpress.org/docs/2022/09/27/summary-of-docs-team-meeting-september-27-2022/)
+- [Documentation Team Discussion on the 2023 Community Summit Call for Submissions](https://make.wordpress.org/docs/2023/01/10/documentation-team-discussion-on-the-2023-community-summit-call-for-submissions/)
+- [There is work in progress in HelpHub &lpar;Documentation&rpar;](https://make.wordpress.org/docs/2023/01/07/there-is-work-in-progress-in-helphub-documentation/)
+- [Agenda for Docs Team Bi-Weekly January 10, 2023](https://make.wordpress.org/docs/2023/01/04/agenda-for-docs-team-bi-weekly-january-10-2023/)
+- [Summary for Docs Team meeting, December 13, 2022](https://make.wordpress.org/docs/2022/12/22/summary-for-docs-team-meeting-december-13-2022/)
+- [Agenda for Docs Team Bi-Weekly December 13, 2022](https://make.wordpress.org/docs/2022/12/13/agenda-for-docs-team-bi-weekly-december-13-2022/)
+- [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/docs/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
+- [Summary for Docs Team Meeting November 29, 2022](https://make.wordpress.org/docs/2022/11/30/summary-for-docs-team-meeting-november-29-2022/)
+- [Agenda for Docs Team Bi-Weekly November 29, 2022](https://make.wordpress.org/docs/2022/11/28/agenda-for-docs-team-bi-weekly-november-29-2022/)
+- [DevHub getting a new look](https://make.wordpress.org/docs/2022/11/22/devhub-getting-a-new-look/)
+- [Summary of Docs Team Meeting: 15 November 2022](https://make.wordpress.org/docs/2022/11/15/summary-of-docs-team-meeting-15-november-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
