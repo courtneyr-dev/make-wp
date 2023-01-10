@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [SEO Migration from Woo to Bigcommerce](https://jobs.wordpress.net/job/seo-migration-from-woo-to-bigcommerce/)
+- [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer-2/)
 - [Theme Installation and Customization](https://jobs.wordpress.net/job/theme-installation-and-customization/)
 - [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-5/)
 - [Content Marketing Executive](https://jobs.wordpress.net/job/content-marketing-executive-2/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-4/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-24/)
 - [Custom GeneratePress WooCommerce Template](https://jobs.wordpress.net/job/custom-generatepress-woocommerce-template/)
-- [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety/)
-- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-28/)
 <!-- JOBS:END -->
 
 ## Central
