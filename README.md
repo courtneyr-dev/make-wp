@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role/)
 - [SEO Migration from Woo to Bigcommerce](https://jobs.wordpress.net/job/seo-migration-from-woo-to-bigcommerce/)
 - [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer-2/)
 - [Theme Installation and Customization](https://jobs.wordpress.net/job/theme-installation-and-customization/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Restrict Content Pro Add-On for Gravity Forms](https://jobs.wordpress.net/job/restrict-content-pro-add-on-for-gravity-forms/)
 - [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-4/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-24/)
-- [Custom GeneratePress WooCommerce Template](https://jobs.wordpress.net/job/custom-generatepress-woocommerce-template/)
 <!-- JOBS:END -->
 
 ## Central
