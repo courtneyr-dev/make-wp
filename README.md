@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am one of the…](https://make.wordpress.org/polyglots/2023/01/10/i-am-one-of-the/)
+- [PTE Request for Quotes-llama I…](https://make.wordpress.org/polyglots/2023/01/10/pte-request-for-quotes-llama-i/)
+- [“Open hours” for the Galician language](https://make.wordpress.org/polyglots/2023/01/10/open-hours-for-the-galician-language/)
 - [I’ve suggested translations for Kadence…](https://make.wordpress.org/polyglots/2023/01/05/ive-suggested-translations-for-kadence/)
 - [PTE Request for 10Web Booster.](https://make.wordpress.org/polyglots/2023/01/05/pte-request-for-10web-booster/)
 - [PTE Request for speakout I…](https://make.wordpress.org/polyglots/2023/01/05/pte-request-for-speakout-i-2/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for SDZ – Table of Contents](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-sdz-table-of-contents/)
 - [PTE Request for Time Slot](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-time-slot/)
 - [#reviews-requests Hi! There are some…](https://make.wordpress.org/polyglots/2023/01/04/reviews-requests-hi-there-are-some/)
-- [Agenda: Weekly Polyglots Chat – January 4, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/03/agenda-weekly-polyglots-chat-january-4-2023-700-utc/)
-- [PTE Request for GTM Kit](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-gtm-kit/)
-- [PTE Request for DominoKit](https://make.wordpress.org/polyglots/2023/01/03/pte-request-for-dominokit/)
 <!-- POLYGLOTS:END -->
 
 ## Support
