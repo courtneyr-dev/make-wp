@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Images on the web — past present and future](https://learn.wordpress.org/?meeting=images-on-the-web-past-present-and-future)
 - [EP9: WooCommerce Settings and FAQ | Bangla](https://learn.wordpress.org/?meeting=ep9-woocommerce-settings-and-faq-bangla-2)
 - [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep8-introduction-to-products-various-types-of-product-bangla-2)
 - [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep7-introduction-to-woocommerce-installation-checkout-flow-bangla-2)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account-2)
 - [Learn WordPress end-of-year social](https://learn.wordpress.org/?meeting=learn-wordpress-end-of-year-social)
 - [APAC: Creating a photography website with the block editor](https://learn.wordpress.org/?meeting=apac-creating-a-photography-website-with-the-block-editor)
-- [Creating a photography website with the block editor](https://learn.wordpress.org/?meeting=creating-a-photography-website-with-the-block-editor)
 <!-- SLS:END -->
 
 ## Test
