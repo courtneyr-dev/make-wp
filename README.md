@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Weekly Polyglots Chat – Jan. 11, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/10/weekly-polyglots-chat-jan-11-2023-0700-utc/)
 - [I am one of the…](https://make.wordpress.org/polyglots/2023/01/10/i-am-one-of-the/)
 - [PTE Request for Quotes-llama I…](https://make.wordpress.org/polyglots/2023/01/10/pte-request-for-quotes-llama-i/)
 - [“Open hours” for the Galician language](https://make.wordpress.org/polyglots/2023/01/10/open-hours-for-the-galician-language/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Noptin Newsletter](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-noptin-newsletter/)
 - [PTE Request for SDZ – Table of Contents](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-sdz-table-of-contents/)
 - [PTE Request for Time Slot](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-time-slot/)
-- [#reviews-requests Hi! There are some…](https://make.wordpress.org/polyglots/2023/01/04/reviews-requests-hi-there-are-some/)
 <!-- POLYGLOTS:END -->
 
 ## Support
