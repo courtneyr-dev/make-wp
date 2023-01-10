@@ -282,6 +282,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [EP9: WooCommerce Settings and FAQ | Bangla](https://learn.wordpress.org/?meeting=ep9-woocommerce-settings-and-faq-bangla-2)
+- [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep8-introduction-to-products-various-types-of-product-bangla-2)
+- [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep7-introduction-to-woocommerce-installation-checkout-flow-bangla-2)
 - [Live stream: Building an Advanced Query Loop block variation plugin](https://learn.wordpress.org/?meeting=live-stream-building-an-advanced-query-loop-block-variation-plugin)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.0](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-0)
 - [Live stream: Reviewing developer-focused features in Gutenberg 14.9](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-14-9)
@@ -304,9 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Learn WordPress end-of-year social](https://learn.wordpress.org/?meeting=learn-wordpress-end-of-year-social)
 - [APAC: Creating a photography website with the block editor](https://learn.wordpress.org/?meeting=apac-creating-a-photography-website-with-the-block-editor)
 - [Creating a photography website with the block editor](https://learn.wordpress.org/?meeting=creating-a-photography-website-with-the-block-editor)
-- [APAC: Patterns, reusable blocks and block locking](https://learn.wordpress.org/?meeting=apac-patterns-reusable-blocks-and-block-locking)
-- [Patterns, reusable blocks and block locking](https://learn.wordpress.org/?meeting=patterns-reusable-blocks-and-block-locking)
-- [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor)
 <!-- SLS:END -->
 
 ## Test
