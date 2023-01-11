@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Junior Marketing Specialist](https://jobs.wordpress.net/job/junior-marketing-specialist/)
+- [[WordLift] Full Stack Developer](https://jobs.wordpress.net/job/wordlift-full-stack-developer-2/)
+- [Design Support Role](https://jobs.wordpress.net/job/design-support-role/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-784/)
 - [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role/)
 - [SEO Migration from Woo to Bigcommerce](https://jobs.wordpress.net/job/seo-migration-from-woo-to-bigcommerce/)
 - [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer-2/)
 - [Theme Installation and Customization](https://jobs.wordpress.net/job/theme-installation-and-customization/)
 - [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-5/)
 - [Content Marketing Executive](https://jobs.wordpress.net/job/content-marketing-executive-2/)
-- [Engineering Manager – Remote](https://jobs.wordpress.net/job/engineering-manager-remote-4/)
-- [Restrict Content Pro Add-On for Gravity Forms](https://jobs.wordpress.net/job/restrict-content-pro-add-on-for-gravity-forms/)
-- [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-4/)
-- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-24/)
 <!-- JOBS:END -->
 
 ## Central
