@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2023/01/11/pte-request-for-booking-activities-5/)
 - [PTE Request for Custom Cart…](https://make.wordpress.org/polyglots/2023/01/11/pte-request-for-custom-cart/)
 - [PTE Request for MC Woocommerce wishlist](https://make.wordpress.org/polyglots/2023/01/11/pte-request-for-mc-woocommerce-wishlist/)
 - [Weekly Polyglots Chat – Jan. 11, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/10/weekly-polyglots-chat-jan-11-2023-0700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested translations for Kadence…](https://make.wordpress.org/polyglots/2023/01/05/ive-suggested-translations-for-kadence/)
 - [PTE Request for 10Web Booster.](https://make.wordpress.org/polyglots/2023/01/05/pte-request-for-10web-booster/)
 - [PTE Request for speakout I…](https://make.wordpress.org/polyglots/2023/01/05/pte-request-for-speakout-i-2/)
-- [PTE Request for Noptin Newsletter](https://make.wordpress.org/polyglots/2023/01/04/pte-request-for-noptin-newsletter/)
 <!-- POLYGLOTS:END -->
 
 ## Support
