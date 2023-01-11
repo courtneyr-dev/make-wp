@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Update on the work to make building interactive blocks easier](https://make.wordpress.org/core/2023/01/11/update-on-the-work-to-make-building-interactive-blocks-easier/)
 - [Editor Chat Agenda: 11 January 2023](https://make.wordpress.org/core/2023/01/10/editor-chat-agenda-11-january-2023/)
 - [Performance Chat Summary: 10 January 2023](https://make.wordpress.org/core/2023/01/10/performance-team-meeting-summary-10-january-2023/)
 - [Editor chat summary: Wednesday, 4 January 2023](https://make.wordpress.org/core/2023/01/10/editor-chat-summary-wednesday-4-january-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 10 January 2023](https://make.wordpress.org/core/2023/01/09/performance-chat-agenda-10-january-2023/)
 - [Dev Chat summary, January 4, 2023](https://make.wordpress.org/core/2023/01/08/dev-chat-summary-january-4-2023/)
 - [Core Editor Improvement: Advancing the Site Editor experience](https://make.wordpress.org/core/2023/01/06/core-editor-improvement-advancing-the-site-editor-experience/)
-- [What’s new in Gutenberg 14.9? &lpar;4 January&rpar;](https://make.wordpress.org/core/2023/01/04/whats-new-in-gutenberg-14-9-4-january/)
 <!-- CORE:END -->
 
 ## Design
