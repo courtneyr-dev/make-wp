@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Early bug scrub schedule for WP 6.2](https://make.wordpress.org/core/2023/01/11/early-bug-scrub-schedule-for-wp-6-2/)
 - [Editor chat summary: Wednesday, 11 January 2023](https://make.wordpress.org/core/2023/01/11/editor-chat-summary-wednesday-11-january-2023/)
 - [Update on the work to make building interactive blocks easier](https://make.wordpress.org/core/2023/01/11/update-on-the-work-to-make-building-interactive-blocks-easier/)
 - [Editor Chat Agenda: 11 January 2023](https://make.wordpress.org/core/2023/01/10/editor-chat-agenda-11-january-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat agenda, January 11, 2023](https://make.wordpress.org/core/2023/01/09/dev-chat-agenda-january-11-2023/)
 - [Fields API Kick-off Chat Summary: January 5th, 2023](https://make.wordpress.org/core/2023/01/09/fields-api-kick-off-chat-summary-january-5th-2023/)
 - [Performance Chat Agenda: 10 January 2023](https://make.wordpress.org/core/2023/01/09/performance-chat-agenda-10-january-2023/)
-- [Dev Chat summary, January 4, 2023](https://make.wordpress.org/core/2023/01/08/dev-chat-summary-january-4-2023/)
 <!-- CORE:END -->
 
 ## Design
