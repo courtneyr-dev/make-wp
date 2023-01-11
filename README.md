@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://learn.wordpress.org/?meeting=create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d-2)
+- [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://learn.wordpress.org/?meeting=create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86)
 - [Images on the web — past present and future](https://learn.wordpress.org/?meeting=images-on-the-web-past-present-and-future)
 - [EP9: WooCommerce Settings and FAQ | Bangla](https://learn.wordpress.org/?meeting=ep9-woocommerce-settings-and-faq-bangla-2)
 - [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep8-introduction-to-products-various-types-of-product-bangla-2)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP4: Introduction to WordPress &lpar;Dashboard, Frontend&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep4-introduction-to-wordpress-dashboard-frontend-bangla)
 - [The Wide World of WordPress Events](https://learn.wordpress.org/?meeting=the-wide-world-of-wordpress-events-2)
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account-2)
-- [Learn WordPress end-of-year social](https://learn.wordpress.org/?meeting=learn-wordpress-end-of-year-social)
-- [APAC: Creating a photography website with the block editor](https://learn.wordpress.org/?meeting=apac-creating-a-photography-website-with-the-block-editor)
 <!-- SLS:END -->
 
 ## Test
