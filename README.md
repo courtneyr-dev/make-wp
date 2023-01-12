@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Python Developer](https://jobs.wordpress.net/job/python-developer-2/)
+- [Plugin Developer](https://jobs.wordpress.net/job/plugin-developer-19/)
 - [Junior Marketing Specialist](https://jobs.wordpress.net/job/junior-marketing-specialist/)
 - [[WordLift] Full Stack Developer](https://jobs.wordpress.net/job/wordlift-full-stack-developer-2/)
 - [Design Support Role](https://jobs.wordpress.net/job/design-support-role/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO Migration from Woo to Bigcommerce](https://jobs.wordpress.net/job/seo-migration-from-woo-to-bigcommerce/)
 - [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer-2/)
 - [Theme Installation and Customization](https://jobs.wordpress.net/job/theme-installation-and-customization/)
-- [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-5/)
-- [Content Marketing Executive](https://jobs.wordpress.net/job/content-marketing-executive-2/)
 <!-- JOBS:END -->
 
 ## Central
