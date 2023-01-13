@@ -507,9 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Designer &amp; Videographer &lpar;Remote &amp; part time&rpar;](https://jobs.wordpress.net/job/designer-videographer-remote-part-time/)
-- [Technical content writer &lpar;Remote &amp; freelance&rpar;](https://jobs.wordpress.net/job/technical-content-writer-remote-freelance/)
-- [Copywriter &lpar;Remote&rpar;](https://jobs.wordpress.net/job/copywriter-remote-2/)
 - [Python Developer](https://jobs.wordpress.net/job/python-developer-2/)
 - [Plugin Developer](https://jobs.wordpress.net/job/plugin-developer-19/)
 - [Junior Marketing Specialist](https://jobs.wordpress.net/job/junior-marketing-specialist/)
@@ -517,6 +514,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Support Role](https://jobs.wordpress.net/job/design-support-role/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-784/)
 - [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role/)
+- [SEO Migration from Woo to Bigcommerce](https://jobs.wordpress.net/job/seo-migration-from-woo-to-bigcommerce/)
+- [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer-2/)
+- [Theme Installation and Customization](https://jobs.wordpress.net/job/theme-installation-and-customization/)
 <!-- JOBS:END -->
 
 ## Central
