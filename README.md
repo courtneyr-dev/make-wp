@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Taking Advantage of Query Loops](https://learn.wordpress.org/tutorial/taking-advantage-of-query-loops/)
 - [Tools: Site Health](https://learn.wordpress.org/tutorial/tools-site-health/)
 - [Introduction to theme.json](https://learn.wordpress.org/tutorial/introduction-to-theme-json/)
 - [Creating a Call To Action](https://learn.wordpress.org/tutorial/creating-a-call-to-action/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Block Attributes to Enable User Editing](https://learn.wordpress.org/tutorial/using-block-attributes-to-enable-user-editing/)
 - [Image Optimization](https://learn.wordpress.org/tutorial/image-optimization/)
 - [Gerenciando atualizações no WordPress](https://learn.wordpress.org/tutorial/gerenciando-atualizacoes-no-wordpress/)
-- [Introduction to block theme development &lpar;for beginners&rpar;](https://learn.wordpress.org/tutorial/introduction-to-block-theme-development-for-beginners/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
