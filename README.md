@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Taking Advantage of Query Loops](https://wordpress.tv/2023/01/12/taking-advantage-of-query-loops-3/)
 - [Start Blogging in 2023 Part 2: Planning Your Blog’s Content](https://wordpress.tv/2023/01/11/start-blogging-in-2023-part-2-planning-your-blogs-content/)
 - [Introduction to theme.json](https://wordpress.tv/2023/01/06/introduction-to-theme-json/)
 - [Let’s code: WordPress plugin security](https://wordpress.tv/2023/01/06/lets-code-wordpress-plugin-security/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Empowering local stores: learn from the tech giants while staying local](https://wordpress.tv/2022/12/19/empowering-local-stores-learn-from-the-tech-giants-while-staying-local/)
 - [WordPress 6.1 のアップデート内容を見てみよう！](https://wordpress.tv/2022/12/19/wordpress-6-1-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 - [WordPress for the next generation](https://wordpress.tv/2022/12/18/wordpress-for-the-next-generation/)
-- [Connected commerce: evolving to multichannel selling](https://wordpress.tv/2022/12/18/connected-commerce-evolving-to-multichannel-selling/)
 <!-- WPTV:END -->
 
 ## Marketing
