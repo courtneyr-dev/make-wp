@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Looking for your &lpar;intentionally&rpar; wrong plugins](https://make.wordpress.org/plugins/2023/01/13/looking-for-your-intentionally-wrong-plugins/)
 - [Plugin Guideline Update: Community Code of Conduct](https://make.wordpress.org/plugins/2022/12/21/plugin-guideline-update-community-code-of-conduct/)
 - [Plugins/themes categorization](https://make.wordpress.org/plugins/2022/12/16/plugins-themes-categorization/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/plugins/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/plugins/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [Heroku Free Tier Being Retired](https://make.wordpress.org/plugins/2022/09/13/heroku-free-tier-being-retired/)
 - [Top reasons not to use setlocale&lpar;&rpar; for character encoding conversion](https://make.wordpress.org/plugins/2022/09/09/top-reasons-not-to-use-setlocale-for-character-encoding-conversion/)
-- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/plugins/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- PLUGINS:END -->
 
 ## Community
