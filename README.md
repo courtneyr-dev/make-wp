@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Own Your Expertise &amp; Start Speaking at WordPress Events APAC](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-apac)
 - [Let’s code: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=lets-code-interacting-with-the-wp-rest-api)
 - [WordPress development live stream: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-interacting-with-the-wp-rest-api)
 - [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://learn.wordpress.org/?meeting=create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d-2)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream)
 - [EP6: Introduction to Plugins &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep6-introduction-to-plugins-file-structure-troubleshooting-bangla)
 - [EP5: Introduction to Themes &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep5-introduction-to-themes-file-structure-troubleshooting-bangla)
-- [EP4: Introduction to WordPress &lpar;Dashboard, Frontend&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep4-introduction-to-wordpress-dashboard-frontend-bangla)
 <!-- SLS:END -->
 
 ## Test
