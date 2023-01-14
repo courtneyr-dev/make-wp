@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/01/14/ive-suggested-translations-for-this-27/)
 - [PTE Request for LWS Plugins [LWS Affiliation, LWS SMS, LWS Optimize, LWS Hide Login, LWS Cleaner, LWS Tools, LWSCache]](https://make.wordpress.org/polyglots/2023/01/14/pte-request-for-lws-plugins-lws-affiliation-lws-sms-lws-optimize-lws-hide-login-lws-cleaner-lws-tools-lwscache/)
 - [PTE Request for DominoKit](https://make.wordpress.org/polyglots/2023/01/14/pte-request-for-dominokit-2/)
 - [Polyglots Monthly Newsletter: January 2023](https://make.wordpress.org/polyglots/2023/01/13/polyglots-monthly-newsletter-january-2023/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2023/01/11/pte-request-for-booking-activities-5/)
 - [PTE Request for Custom Cart…](https://make.wordpress.org/polyglots/2023/01/11/pte-request-for-custom-cart/)
 - [PTE Request for MC Woocommerce wishlist](https://make.wordpress.org/polyglots/2023/01/11/pte-request-for-mc-woocommerce-wishlist/)
-- [Weekly Polyglots Chat – Jan. 11, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/10/weekly-polyglots-chat-jan-11-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
