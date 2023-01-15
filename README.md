@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Advanced Administration Handbook: Status 2023-01-15](https://make.wordpress.org/docs/2023/01/15/xpost-advanced-administration-handbook-status-2023-01-15/)
 - [Summary for Docs Team meeting, January 10, 2023](https://make.wordpress.org/docs/2023/01/13/summary-for-docs-team-meeting-january-10-2023/)
 - [Documentation Team Discussion on the 2023 Community Summit Call for Submissions](https://make.wordpress.org/docs/2023/01/10/documentation-team-discussion-on-the-2023-community-summit-call-for-submissions/)
 - [There is work in progress in HelpHub &lpar;Documentation&rpar;](https://make.wordpress.org/docs/2023/01/07/there-is-work-in-progress-in-helphub-documentation/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/docs/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [Summary for Docs Team Meeting November 29, 2022](https://make.wordpress.org/docs/2022/11/30/summary-for-docs-team-meeting-november-29-2022/)
 - [Agenda for Docs Team Bi-Weekly November 29, 2022](https://make.wordpress.org/docs/2022/11/28/agenda-for-docs-team-bi-weekly-november-29-2022/)
-- [DevHub getting a new look](https://make.wordpress.org/docs/2022/11/22/devhub-getting-a-new-look/)
 <!-- DOCS:END -->
 
 ### Support Articles
