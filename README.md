@@ -395,6 +395,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [Advanced Administration Handbook: Status 2023-01-15](https://make.wordpress.org/hosting/2023/01/15/advanced-administration-handbook-status-2023-01-15/)
 - [WordPress Hosting Team 2022 recap](https://make.wordpress.org/hosting/2022/12/28/2022-recap/)
 - [Voting for Hosting Team Reps 2023](https://make.wordpress.org/hosting/2022/12/15/voting-for-hosting-team-reps-2023/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/hosting/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
@@ -404,7 +405,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call For Action – Testing Rollback Feature](https://make.wordpress.org/hosting/2022/10/19/call-for-action-testing-rollback-feature/)
 - [X-post: New cache Site Health checks in WordPress 6.1](https://make.wordpress.org/hosting/2022/10/08/xpost-new-cache-site-health-checks-in-wordpress-6-1/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/hosting/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
-- [WordCamp US 2022 Contributor Day: Summary](https://make.wordpress.org/hosting/2022/09/11/wordcamp-us-2022-contributor-day-summary/)
 <!-- HOSTING:END -->
 
 ## Tide
