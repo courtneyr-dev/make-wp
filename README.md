@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-3/)
+- [Video Editor / Content Producer](https://jobs.wordpress.net/job/video-editor-content-producer-2/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-4/)
+- [CampusPress Support Enthusiast](https://jobs.wordpress.net/job/campuspress-support-enthusiast-3/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-3/)
+- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-3/)
+- [WordPress Maintenance for Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-org/)
 - [Plugin Developer](https://jobs.wordpress.net/job/plugin-developer-20/)
 - [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-19/)
 - [Python Developer](https://jobs.wordpress.net/job/python-developer-2/)
-- [Plugin Developer](https://jobs.wordpress.net/job/plugin-developer-19/)
-- [Junior Marketing Specialist](https://jobs.wordpress.net/job/junior-marketing-specialist/)
-- [[WordLift] Full Stack Developer](https://jobs.wordpress.net/job/wordlift-full-stack-developer-2/)
-- [Design Support Role](https://jobs.wordpress.net/job/design-support-role/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-784/)
-- [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role/)
-- [SEO Migration from Woo to Bigcommerce](https://jobs.wordpress.net/job/seo-migration-from-woo-to-bigcommerce/)
 <!-- JOBS:END -->
 
 ## Central
