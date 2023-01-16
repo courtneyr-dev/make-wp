@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Summary Update: Courses Currently in Development &lpar;16 January 2023&rpar;](https://make.wordpress.org/training/2023/01/16/summary-update-courses-currently-in-development-16-january-2023/)
 - [Meeting Agenda for January 17, 2022](https://make.wordpress.org/training/2023/01/16/meeting-agenda-for-january-17-2022/)
 - [Project Thread: Learning Needs Analysis](https://make.wordpress.org/training/2023/01/16/project-thread-learning-needs-analysis/)
 - [January 2023 Faculty Meeting](https://make.wordpress.org/training/2023/01/15/january-2023-faculty-meeting/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team: Discovering our Values](https://make.wordpress.org/training/2023/01/13/training-team-discovering-our-values/)
 - [Meeting Agenda for January 10, 2022](https://make.wordpress.org/training/2023/01/09/meeting-agenda-for-january-10-2022/)
 - [Training Team Meeting Recap for December 20 , 2022](https://make.wordpress.org/training/2022/12/23/training-team-meeting-recap-for-december-20-2022/)
-- [December 2022 Faculty Meeting](https://make.wordpress.org/training/2022/12/21/december-2022-faculty-meeting/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
