@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [डैशबोर्ड अवलोकन](https://learn.wordpress.org/lesson-plan/hi-dashboard-overview/)
 - [પ્લગઇન્સ પસંદ કરી રહ્યા છીએ અને સ્થાપિત કરી રહ્યા છીએ](https://learn.wordpress.org/lesson-plan/gu-choosing-and-installing-plugins/)
 - [ડેશબોર્ડ નિરીક્ષણ](https://learn.wordpress.org/lesson-plan/gu-dashboard-overview/)
 - [पाठ योजना कैसे बनाएं](https://learn.wordpress.org/lesson-plan/%e0%a4%aa%e0%a4%be%e0%a4%a0-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%88%e0%a4%b8%e0%a5%87-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%8f%e0%a4%82/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
 - [Displaying the Comments Block](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
 - [How To Add and Remove Logo And Site Icon in Site Editor](https://learn.wordpress.org/lesson-plan/how-to-add-and-remove-logo-and-site-icon-in-site-editor/)
-- [How to Use and Contribute to the WordPress Photo Directory and Openverse](https://learn.wordpress.org/lesson-plan/how-to-use-and-contribute-to-the-wordpress-photo-directory-and-openverse/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
