@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Stripe Gateway for WooCommerce](https://make.wordpress.org/polyglots/2023/01/16/pte-request-for-stripe-gateway-for-woocommerce/)
 - [Hello](https://make.wordpress.org/polyglots/2023/01/15/hello-71/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/01/14/ive-suggested-translations-for-this-27/)
 - [PTE Request for LWS Plugins [LWS Affiliation, LWS SMS, LWS Optimize, LWS Hide Login, LWS Cleaner, LWS Tools, LWSCache]](https://make.wordpress.org/polyglots/2023/01/14/pte-request-for-lws-plugins-lws-affiliation-lws-sms-lws-optimize-lws-hide-login-lws-cleaner-lws-tools-lwscache/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for bestchat](https://make.wordpress.org/polyglots/2023/01/12/pte-request-for-bestchat/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/01/11/hi-dear-mentors-we-have-105/)
 - [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2023/01/11/pte-request-for-booking-activities-5/)
-- [PTE Request for Custom Cart…](https://make.wordpress.org/polyglots/2023/01/11/pte-request-for-custom-cart/)
 <!-- POLYGLOTS:END -->
 
 ## Support
