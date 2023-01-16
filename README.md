@@ -451,6 +451,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Test Team Update: 16 January 2023](https://make.wordpress.org/updates/2023/01/16/test-team-update-16-january-2023/)
 - [X-post: Project Thread: Learning Needs Analysis](https://make.wordpress.org/updates/2023/01/16/xpost-project-thread-learning-needs-analysis/)
 - [Documentation Team Update – January 16, 2023](https://make.wordpress.org/updates/2023/01/16/documentation-team-update-january-16-2023/)
 - [X-post: Advanced Administration Handbook: Status 2023-01-15](https://make.wordpress.org/updates/2023/01/15/xpost-advanced-administration-handbook-status-2023-01-15/)
@@ -460,7 +461,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Test Team Update: 9 January 2023](https://make.wordpress.org/updates/2023/01/09/test-team-update-9-january-2023/)
 - [Documentation Team Update – January 9, 2023](https://make.wordpress.org/updates/2023/01/09/documentation-team-update-january-9-2023/)
 - [Themes team update January 04, 2023](https://make.wordpress.org/updates/2023/01/04/themes-team-update-january-04-2023/)
-- [Test Team Update: 2 January 2023](https://make.wordpress.org/updates/2023/01/02/test-team-update-2-january-2023/)
 <!-- UPDATES:END -->
 
 ## Project
