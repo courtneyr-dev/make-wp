@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [サイトエディターでのテンプレート編集に慣れよう！](https://wordpress.tv/2023/01/17/%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88/)
 - [The Wide World of WordPress Events &lpar;2023&rpar;](https://wordpress.tv/2023/01/13/the-wide-world-of-wordpress-events-2023/)
 - [Let’s code: using the WordPress REST API](https://wordpress.tv/2023/01/13/lets-code-using-the-wordpress-rest-api/)
 - [Taking Advantage of Query Loops](https://wordpress.tv/2023/01/12/taking-advantage-of-query-loops-3/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting started with a WordPress.org account](https://wordpress.tv/2022/12/20/getting-started-with-a-wordpress-org-account/)
 - [Designing for accessibility](https://wordpress.tv/2022/12/20/designing-for-accessibility/)
 - [Turn WordPress into a video marketing machine](https://wordpress.tv/2022/12/19/turn-wordpress-into-a-video-marketing-machine/)
-- [Empowering local stores: learn from the tech giants while staying local](https://wordpress.tv/2022/12/19/empowering-local-stores-learn-from-the-tech-giants-while-staying-local/)
 <!-- WPTV:END -->
 
 ## Marketing
