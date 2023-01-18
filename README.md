@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: January 2023](https://make.wordpress.org/community/2023/01/18/meetup-organizer-newsletter-january-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on January 11, 2023](https://make.wordpress.org/community/2023/01/12/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-january-11-2023/)
 - [Community Team Training: Using Learn WordPress at your WordPress Meetup](https://make.wordpress.org/community/2023/01/11/community-team-training-using-learn-wordpress-at-your-wordpress-meetup/)
 - [Community Team Meeting Agenda for 5 January, 2023](https://make.wordpress.org/community/2023/01/04/community-team-meeting-agenda-for-5-january-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Reps for 2023](https://make.wordpress.org/community/2022/12/20/community-team-reps-for-2023/)
 - [Community Team 2022 Goals Recap](https://make.wordpress.org/community/2022/12/20/community-team-2022-goals-recap/)
 - [Diverse Speaker Training Group &lpar;#WPDiversity&rpar; 2022 Year-End Report](https://make.wordpress.org/community/2022/12/19/diverse-speaker-training-group-wpdiversity-2022-year-end-report/)
-- [Report: #WPDiversity Inclusion and Diverse Speaker Workshops October and November 2022](https://make.wordpress.org/community/2022/12/17/report-wpdiversity-inclusion-and-diverse-speaker-workshops-october-and-november-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
