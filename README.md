@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – January 18, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/18/agenda-weekly-polyglots-chat-january-18-2023-1300-utc/)
+- [I have translated the Plugins…](https://make.wordpress.org/polyglots/2023/01/18/i-have-translated-the-plugins/)
 - [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-perfectwp-wc-omnibus-2/)
 - [PTE Request for Qi Addons For Elementor](https://make.wordpress.org/polyglots/2023/01/17/pte-request-for-qi-addons-for-elementor/)
 - [CLPTE request](https://make.wordpress.org/polyglots/2023/01/17/clpte-request-8/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello](https://make.wordpress.org/polyglots/2023/01/15/hello-71/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/01/14/ive-suggested-translations-for-this-27/)
 - [PTE Request for LWS Plugins [LWS Affiliation, LWS SMS, LWS Optimize, LWS Hide Login, LWS Cleaner, LWS Tools, LWSCache]](https://make.wordpress.org/polyglots/2023/01/14/pte-request-for-lws-plugins-lws-affiliation-lws-sms-lws-optimize-lws-hide-login-lws-cleaner-lws-tools-lwscache/)
-- [PTE Request for DominoKit](https://make.wordpress.org/polyglots/2023/01/14/pte-request-for-dominokit-2/)
-- [Polyglots Monthly Newsletter: January 2023](https://make.wordpress.org/polyglots/2023/01/13/polyglots-monthly-newsletter-january-2023/)
 <!-- POLYGLOTS:END -->
 
 ## Support
