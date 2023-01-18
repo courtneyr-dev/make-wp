@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-perfectwp-wc-omnibus-2/)
 - [PTE Request for Qi Addons For Elementor](https://make.wordpress.org/polyglots/2023/01/17/pte-request-for-qi-addons-for-elementor/)
 - [CLPTE request](https://make.wordpress.org/polyglots/2023/01/17/clpte-request-8/)
 - [PTE Request for Tutor LMS](https://make.wordpress.org/polyglots/2023/01/17/pte-request-for-tutor-lms-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for LWS Plugins [LWS Affiliation, LWS SMS, LWS Optimize, LWS Hide Login, LWS Cleaner, LWS Tools, LWSCache]](https://make.wordpress.org/polyglots/2023/01/14/pte-request-for-lws-plugins-lws-affiliation-lws-sms-lws-optimize-lws-hide-login-lws-cleaner-lws-tools-lwscache/)
 - [PTE Request for DominoKit](https://make.wordpress.org/polyglots/2023/01/14/pte-request-for-dominokit-2/)
 - [Polyglots Monthly Newsletter: January 2023](https://make.wordpress.org/polyglots/2023/01/13/polyglots-monthly-newsletter-january-2023/)
-- [PTE Request for 10Web Booster.](https://make.wordpress.org/polyglots/2023/01/13/pte-request-for-10web-booster-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
