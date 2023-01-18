@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Tainacan](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-tainacan/)
+- [Hi! My plugin Estimate Delivery…](https://make.wordpress.org/polyglots/2023/01/18/hi-my-plugin-estimate-delivery/)
 - [Agenda: Weekly Polyglots Chat – January 18, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/18/agenda-weekly-polyglots-chat-january-18-2023-1300-utc/)
 - [I have translated the Plugins…](https://make.wordpress.org/polyglots/2023/01/18/i-have-translated-the-plugins/)
 - [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-perfectwp-wc-omnibus-2/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Tutor LMS](https://make.wordpress.org/polyglots/2023/01/17/pte-request-for-tutor-lms-3/)
 - [PTE Request for Stripe Gateway for WooCommerce](https://make.wordpress.org/polyglots/2023/01/16/pte-request-for-stripe-gateway-for-woocommerce/)
 - [Hello](https://make.wordpress.org/polyglots/2023/01/15/hello-71/)
-- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/01/14/ive-suggested-translations-for-this-27/)
-- [PTE Request for LWS Plugins [LWS Affiliation, LWS SMS, LWS Optimize, LWS Hide Login, LWS Cleaner, LWS Tools, LWSCache]](https://make.wordpress.org/polyglots/2023/01/14/pte-request-for-lws-plugins-lws-affiliation-lws-sms-lws-optimize-lws-hide-login-lws-cleaner-lws-tools-lwscache/)
 <!-- POLYGLOTS:END -->
 
 ## Support
