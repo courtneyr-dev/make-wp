@@ -338,6 +338,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [EP9: WooCommerce Settings and FAQ | Bangla](https://wordpress.tv/2023/01/17/ep9-woocommerce-settings-and-faq-bangla/)
+- [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep8-introduction-to-products-various-types-of-product-bangla/)
+- [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep7-introduction-to-woocommerce-installation-checkout-flow-bangla/)
 - [Images on the Web – Past, Present and Future](https://wordpress.tv/2023/01/17/images-on-the-web-past-present-and-future-2/)
 - [サイトエディターでのテンプレート編集に慣れよう！](https://wordpress.tv/2023/01/17/%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88/)
 - [The Wide World of WordPress Events &lpar;2023&rpar;](https://wordpress.tv/2023/01/13/the-wide-world-of-wordpress-events-2023/)
@@ -360,9 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a theme with the Create Block Theme plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
 - [Cómo y por qué crear webs más sostenibles con WordPress](https://wordpress.tv/2022/12/21/como-y-por-que-crear-webs-mas-sostenibles-con-wordpress/)
 - [Creating a call to action](https://wordpress.tv/2022/12/21/creating-a-call-to-action-2/)
-- [A new era of WordPress themes is here: block themes](https://wordpress.tv/2022/12/21/a-new-era-of-wordpress-themes-is-here-block-themes/)
-- [Getting started with a WordPress.org account](https://wordpress.tv/2022/12/20/getting-started-with-a-wordpress-org-account/)
-- [Designing for accessibility](https://wordpress.tv/2022/12/20/designing-for-accessibility/)
 <!-- WPTV:END -->
 
 ## Marketing
