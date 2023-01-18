@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [Pengenalan Dasbor WordPress](https://learn.wordpress.org/lesson-plan/id-dashboard-overview/)
 - [डैशबोर्ड अवलोकन](https://learn.wordpress.org/lesson-plan/hi-dashboard-overview/)
 - [પ્લગઇન્સ પસંદ કરી રહ્યા છીએ અને સ્થાપિત કરી રહ્યા છીએ](https://learn.wordpress.org/lesson-plan/gu-choosing-and-installing-plugins/)
 - [ડેશબોર્ડ નિરીક્ષણ](https://learn.wordpress.org/lesson-plan/gu-dashboard-overview/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
 - [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
 - [Displaying the Comments Block](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
-- [How To Add and Remove Logo And Site Icon in Site Editor](https://learn.wordpress.org/lesson-plan/how-to-add-and-remove-logo-and-site-icon-in-site-editor/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
