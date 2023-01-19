@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Proposal: Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams.](https://make.wordpress.org/community/2023/01/19/proposal-adopt-github-for-team-projects/)
 - [Meetup Organizer Newsletter: January 2023](https://make.wordpress.org/community/2023/01/18/meetup-organizer-newsletter-january-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on January 11, 2023](https://make.wordpress.org/community/2023/01/12/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-january-11-2023/)
 - [Community Team Training: Using Learn WordPress at your WordPress Meetup](https://make.wordpress.org/community/2023/01/11/community-team-training-using-learn-wordpress-at-your-wordpress-meetup/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcement: New WordPress Incident Response Team](https://make.wordpress.org/community/2022/12/21/xpost-announcement-new-wordpress-incident-response-team/)
 - [Community Team Reps for 2023](https://make.wordpress.org/community/2022/12/20/community-team-reps-for-2023/)
 - [Community Team 2022 Goals Recap](https://make.wordpress.org/community/2022/12/20/community-team-2022-goals-recap/)
-- [Diverse Speaker Training Group &lpar;#WPDiversity&rpar; 2022 Year-End Report](https://make.wordpress.org/community/2022/12/19/diverse-speaker-training-group-wpdiversity-2022-year-end-report/)
 <!-- COMMUNITY:END -->
 
 ## Meta
