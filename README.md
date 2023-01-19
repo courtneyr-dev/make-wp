@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Agenda for the January 19th Support Meeting](https://make.wordpress.org/support/2023/01/agenda-for-the-january-19th-support-meeting/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/support/2022/12/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [Introducing the Block Editor in the Support Forums](https://make.wordpress.org/support/2022/12/introducing-the-block-editor-in-the-support-forums/)
 - [X-post: DevHub getting a new look](https://make.wordpress.org/support/2022/11/xpost-devhub-getting-a-new-look/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [October 27th Support Team Meeting Summary](https://make.wordpress.org/support/2022/10/october-27th-support-team-meeting-summary-2/)
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/support/2022/10/xpost-wordpress-org-redesign-update/)
 - [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/support/2022/10/xpost-new-design-for-helphub-in-wordpress-org/)
-- [X-post: Renaming WordPress.org Support to Documentation](https://make.wordpress.org/support/2022/10/xpost-renaming-wordpress-org-support-to-documentation/)
 <!-- SUPPORT:END -->
 
 ## Documentation
