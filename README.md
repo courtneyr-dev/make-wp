@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [The Month in WordPress – December 2022](https://wordpress.org/news/2023/01/the-month-in-wordpress-december-2022/)
 - [WP Briefing: Episode 47: Letter from the Executive Director](https://wordpress.org/news/2023/01/episode-47-letter-from-the-executive-director/)
 - [Letter from WordPress’ Executive Director, 2022](https://wordpress.org/news/2023/01/letter-from-wordpress-executive-director-2022/)
 - [WordPress is Turning 20: Let’s Celebrate!](https://wordpress.org/news/2023/01/wordpress-is-turning-20-lets-celebrate/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [State of the Word 2022: A Celebration of the Four Freedoms of Open Source](https://wordpress.org/news/2022/12/state-of-the-word-2022-recap/)
 - [Share Your Experience: The 2022 WordPress Survey is Open](https://wordpress.org/news/2022/12/2022-wordpress-survey/)
 - [People of WordPress: Huanyi Chuang](https://wordpress.org/news/2022/11/people-of-wordpress-huanyi-chuang/)
-- [WP Briefing: Episode 44: Minors, Majors, and Why We Have So Many Releases](https://wordpress.org/news/2022/11/episode-44-minors-majors-and-why-we-have-so-many-releases/)
 <!-- NEWS:END -->
 
 ## Jobs
