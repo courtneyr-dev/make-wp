@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WordPress Through The Terminal](https://learn.wordpress.org/?meeting=wordpress-through-the-terminal)
+- [The Future Of Themes: Designing for the Block Editor and Beyond](https://learn.wordpress.org/?meeting=the-future-of-themes-designing-for-the-block-editor-and-beyond)
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events APAC](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-apac)
 - [Let’s code: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=lets-code-interacting-with-the-wp-rest-api)
 - [WordPress development live stream: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-interacting-with-the-wp-rest-api)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Using the WP REST API](https://learn.wordpress.org/?meeting=lets-code-extending-the-wp-rest-api)
 - [Let’s code: WordPress Plugin Security](https://learn.wordpress.org/?meeting=lets-code-wordpress-plugin-security)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream)
-- [EP6: Introduction to Plugins &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep6-introduction-to-plugins-file-structure-troubleshooting-bangla)
-- [EP5: Introduction to Themes &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep5-introduction-to-themes-file-structure-troubleshooting-bangla)
 <!-- SLS:END -->
 
 ## Test
