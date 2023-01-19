@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi,](https://make.wordpress.org/polyglots/2023/01/19/hi-98/)
+- [PTE Request for Croquet Metaverse Web Showcase](https://make.wordpress.org/polyglots/2023/01/19/pte-request-for-croquet-metaverse-web-showcase/)
+- [Hello there;](https://make.wordpress.org/polyglots/2023/01/19/hello-there-2/)
 - [PTE Request for Tainacan](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-tainacan/)
 - [Hi! My plugin Estimate Delivery…](https://make.wordpress.org/polyglots/2023/01/18/hi-my-plugin-estimate-delivery/)
 - [Agenda: Weekly Polyglots Chat – January 18, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/18/agenda-weekly-polyglots-chat-january-18-2023-1300-utc/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-perfectwp-wc-omnibus-2/)
 - [PTE Request for Qi Addons For Elementor](https://make.wordpress.org/polyglots/2023/01/17/pte-request-for-qi-addons-for-elementor/)
 - [CLPTE request](https://make.wordpress.org/polyglots/2023/01/17/clpte-request-8/)
-- [PTE Request for Tutor LMS](https://make.wordpress.org/polyglots/2023/01/17/pte-request-for-tutor-lms-3/)
-- [PTE Request for Stripe Gateway for WooCommerce](https://make.wordpress.org/polyglots/2023/01/16/pte-request-for-stripe-gateway-for-woocommerce/)
-- [Hello](https://make.wordpress.org/polyglots/2023/01/15/hello-71/)
 <!-- POLYGLOTS:END -->
 
 ## Support
