@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2023/01/20/i-am-the-plugin-author-32/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/01/19/hi-98/)
 - [PTE Request for Croquet Metaverse Web Showcase](https://make.wordpress.org/polyglots/2023/01/19/pte-request-for-croquet-metaverse-web-showcase/)
 - [Hello there;](https://make.wordpress.org/polyglots/2023/01/19/hello-there-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I have translated the Plugins…](https://make.wordpress.org/polyglots/2023/01/18/i-have-translated-the-plugins/)
 - [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-perfectwp-wc-omnibus-2/)
 - [PTE Request for Qi Addons For Elementor](https://make.wordpress.org/polyglots/2023/01/17/pte-request-for-qi-addons-for-elementor/)
-- [CLPTE request](https://make.wordpress.org/polyglots/2023/01/17/clpte-request-8/)
 <!-- POLYGLOTS:END -->
 
 ## Support
