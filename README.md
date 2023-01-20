@@ -157,7 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
-- [Proposal: Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams.](https://make.wordpress.org/community/2023/01/19/proposal-adopt-github-for-team-projects/)
+- [Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/community/2023/01/19/proposal-adopt-github-for-team-projects/)
 - [Meetup Organizer Newsletter: January 2023](https://make.wordpress.org/community/2023/01/18/meetup-organizer-newsletter-january-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on January 11, 2023](https://make.wordpress.org/community/2023/01/12/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-january-11-2023/)
 - [Community Team Training: Using Learn WordPress at your WordPress Meetup](https://make.wordpress.org/community/2023/01/11/community-team-training-using-learn-wordpress-at-your-wordpress-meetup/)
