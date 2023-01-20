@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: interacting with the WP REST API](https://wordpress.tv/2023/01/20/lets-code-interacting-with-the-wp-rest-api/)
 - [EP9: WooCommerce Settings and FAQ | Bangla](https://wordpress.tv/2023/01/17/ep9-woocommerce-settings-and-faq-bangla/)
 - [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep8-introduction-to-products-various-types-of-product-bangla/)
 - [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep7-introduction-to-woocommerce-installation-checkout-flow-bangla/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Start blogging in 2023 – Part 1: planning to reach your audience](https://wordpress.tv/2022/12/22/sarah-snow-kathryn-presner-start-blogging-in-2023-part-1-planning-to-reach-your-audience/)
 - [Creating a theme with the Create Block Theme plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
 - [Cómo y por qué crear webs más sostenibles con WordPress](https://wordpress.tv/2022/12/21/como-y-por-que-crear-webs-mas-sostenibles-con-wordpress/)
-- [Creating a call to action](https://wordpress.tv/2022/12/21/creating-a-call-to-action-2/)
 <!-- WPTV:END -->
 
 ## Marketing
