@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “Korea for WooCommerce”](https://make.wordpress.org/polyglots/2023/01/20/pte-request-for-korea-for-woocommerce/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/01/20/i-am-the-plugin-author-32/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/01/19/hi-98/)
 - [PTE Request for Croquet Metaverse Web Showcase](https://make.wordpress.org/polyglots/2023/01/19/pte-request-for-croquet-metaverse-web-showcase/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – January 18, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/18/agenda-weekly-polyglots-chat-january-18-2023-1300-utc/)
 - [I have translated the Plugins…](https://make.wordpress.org/polyglots/2023/01/18/i-have-translated-the-plugins/)
 - [PTE Request for PerfectWP – WC Omnibus](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-perfectwp-wc-omnibus-2/)
-- [PTE Request for Qi Addons For Elementor](https://make.wordpress.org/polyglots/2023/01/17/pte-request-for-qi-addons-for-elementor/)
 <!-- POLYGLOTS:END -->
 
 ## Support
