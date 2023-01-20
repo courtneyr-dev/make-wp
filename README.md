@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [પૃષ્ઠો વિ. પોસ્ટ્સ](https://learn.wordpress.org/lesson-plan/gu-pages-vs-posts/)
 - [Pengenalan Dasbor WordPress](https://learn.wordpress.org/lesson-plan/id-dashboard-overview/)
 - [डैशबोर्ड अवलोकन](https://learn.wordpress.org/lesson-plan/hi-dashboard-overview/)
 - [પ્લગઇન્સ પસંદ કરી રહ્યા છીએ અને સ્થાપિત કરી રહ્યા છીએ](https://learn.wordpress.org/lesson-plan/gu-choosing-and-installing-plugins/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Upload a Theme to the WordPress Repository](https://learn.wordpress.org/lesson-plan/upload-a-theme-to-the-wordpress-repository/)
 - [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
 - [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
-- [Displaying the Comments Block](https://learn.wordpress.org/lesson-plan/displaying-the-post-comments-block-to-block-themes/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
