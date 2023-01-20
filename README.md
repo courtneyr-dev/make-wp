@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: WP REST API updates, custom fields, and authentication](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-updates-custom-fields-and-authentication)
+- [WordPress development live stream: REST API updates, custom fields, auth](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-rest-api-updates-custom-fields-auth)
 - [WordPress Through The Terminal](https://learn.wordpress.org/?meeting=wordpress-through-the-terminal)
 - [The Future Of Themes: Designing for the Block Editor and Beyond](https://learn.wordpress.org/?meeting=the-future-of-themes-designing-for-the-block-editor-and-beyond)
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events APAC](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-apac)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor-3)
 - [Start Blogging in 2023 Part 2: Planning Your Blog’s Content [Rescheduled!]](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-2-planning-your-blogs-content-rescheduled)
 - [Let’s code! Using the WP REST API](https://learn.wordpress.org/?meeting=lets-code-extending-the-wp-rest-api)
-- [Let’s code: WordPress Plugin Security](https://learn.wordpress.org/?meeting=lets-code-wordpress-plugin-security)
-- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream)
 <!-- SLS:END -->
 
 ## Test
