@@ -507,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-6/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-5/)
 - [Web Developer &lpar;Salaried, 30 Hours&rpar;](https://jobs.wordpress.net/job/web-developer-salaried-30-hours/)
 - [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-5/)
@@ -517,6 +516,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist/)
 - [WordPress site help](https://jobs.wordpress.net/job/wordpress-site-help/)
 - [WordPress Front-End Developer at Baeldung](https://jobs.wordpress.net/job/wordpress-front-end-developer-at-baeldung/)
+- [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-3/)
 <!-- JOBS:END -->
 
 ## Central
