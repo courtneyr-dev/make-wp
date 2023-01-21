@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Builder Basics: Block Styles vs. Block Variations](https://learn.wordpress.org/?meeting=builder-basics-block-styles-vs-block-variations)
 - [Builder Basics: Adding Custom CSS to Block Themes](https://learn.wordpress.org/?meeting=builder-basics-adding-custom-css-to-block-themes)
 - [Let’s code: WP REST API updates, custom fields, and authentication](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-updates-custom-fields-and-authentication)
 - [WordPress development live stream: REST API updates, custom fields, auth](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-rest-api-updates-custom-fields-auth)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP9: WooCommerce Settings and FAQ | Bangla](https://learn.wordpress.org/?meeting=ep9-woocommerce-settings-and-faq-bangla)
 - [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep7-introduction-to-woocommerce-installation-checkout-flow-bangla)
 - [Let’s make custom templates in the Site Editor!](https://learn.wordpress.org/?meeting=lets-make-custom-templates-in-the-site-editor-3)
-- [Start Blogging in 2023 Part 2: Planning Your Blog’s Content [Rescheduled!]](https://learn.wordpress.org/?meeting=start-blogging-in-2023-part-2-planning-your-blogs-content-rescheduled)
 <!-- SLS:END -->
 
 ## Test
