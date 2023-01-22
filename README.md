@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/docs/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
 - [X-post: Can you help with topics for the WordPress Developer Blog?](https://make.wordpress.org/docs/2023/01/17/xpost-can-you-help-with-topics-for-the-wordpress-developer-blog/)
 - [Development and design work continues on Helphub](https://make.wordpress.org/docs/2023/01/16/developing-and-design-work-continues-on-helphub/)
 - [X-post: Advanced Administration Handbook: Status 2023-01-15](https://make.wordpress.org/docs/2023/01/15/xpost-advanced-administration-handbook-status-2023-01-15/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for Docs Team Bi-Weekly January 10, 2023](https://make.wordpress.org/docs/2023/01/04/agenda-for-docs-team-bi-weekly-january-10-2023/)
 - [Summary for Docs Team meeting, December 13, 2022](https://make.wordpress.org/docs/2022/12/22/summary-for-docs-team-meeting-december-13-2022/)
 - [Agenda for Docs Team Bi-Weekly December 13, 2022](https://make.wordpress.org/docs/2022/12/13/agenda-for-docs-team-bi-weekly-december-13-2022/)
-- [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/docs/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 <!-- DOCS:END -->
 
 ### Support Articles
