@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-34/)
+- [Custom Guttenberg Blocks Theme / Redesign](https://jobs.wordpress.net/job/custom-guttenberg-blocks-theme-redesign/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-5/)
 - [Web Developer &lpar;Salaried, 30 Hours&rpar;](https://jobs.wordpress.net/job/web-developer-salaried-30-hours/)
 - [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-5/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Multi-media artist](https://jobs.wordpress.net/job/multi-media-artist/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist/)
 - [WordPress site help](https://jobs.wordpress.net/job/wordpress-site-help/)
-- [WordPress Front-End Developer at Baeldung](https://jobs.wordpress.net/job/wordpress-front-end-developer-at-baeldung/)
-- [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-3/)
 <!-- JOBS:END -->
 
 ## Central
