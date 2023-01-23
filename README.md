@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Goals for 2023: Call for Suggestions](https://make.wordpress.org/community/2023/01/23/community-team-goals-for-2023-call-for-suggestions/)
 - [Upcoming #WPDiversity Events: January 2023](https://make.wordpress.org/community/2023/01/23/upcoming-wpdiversity-events-january-2023/)
 - [Proposal: Dedicated communication place for WordCamp mentors](https://make.wordpress.org/community/2023/01/20/proposal-dedicated-communication-place-for-wordcamp-mentors/)
 - [Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/community/2023/01/19/proposal-adopt-github-for-team-projects/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 5 January, 2023](https://make.wordpress.org/community/2023/01/04/community-team-meeting-agenda-for-5-january-2023/)
 - [Meetup Organizer Newsletter: December 2022](https://make.wordpress.org/community/2022/12/22/meetup-organizer-newsletter-december-2022/)
 - [Updates Across the Make/Community Team Site and our Handbooks](https://make.wordpress.org/community/2022/12/21/updates-across-the-make-community-team-site-and-our-handbooks/)
-- [X-post: Announcement: New WordPress Incident Response Team](https://make.wordpress.org/community/2022/12/21/xpost-announcement-new-wordpress-incident-response-team/)
 <!-- COMMUNITY:END -->
 
 ## Meta
