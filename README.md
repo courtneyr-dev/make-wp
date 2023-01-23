@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team Bi-Weekly Meeting January 24, 2023](https://make.wordpress.org/docs/2023/01/23/agenda-for-docs-team-bi-weekly-meeting-january-24-2023/)
 - [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/docs/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
 - [X-post: Can you help with topics for the WordPress Developer Blog?](https://make.wordpress.org/docs/2023/01/17/xpost-can-you-help-with-topics-for-the-wordpress-developer-blog/)
 - [Development and design work continues on Helphub](https://make.wordpress.org/docs/2023/01/16/developing-and-design-work-continues-on-helphub/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [There is work in progress in HelpHub &lpar;Documentation&rpar;](https://make.wordpress.org/docs/2023/01/07/there-is-work-in-progress-in-helphub-documentation/)
 - [Agenda for Docs Team Bi-Weekly January 10, 2023](https://make.wordpress.org/docs/2023/01/04/agenda-for-docs-team-bi-weekly-january-10-2023/)
 - [Summary for Docs Team meeting, December 13, 2022](https://make.wordpress.org/docs/2022/12/22/summary-for-docs-team-meeting-december-13-2022/)
-- [Agenda for Docs Team Bi-Weekly December 13, 2022](https://make.wordpress.org/docs/2022/12/13/agenda-for-docs-team-bi-weekly-december-13-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
