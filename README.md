@@ -507,6 +507,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-4/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-2/)
 - [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-34/)
 - [Custom Guttenberg Blocks Theme / Redesign](https://jobs.wordpress.net/job/custom-guttenberg-blocks-theme-redesign/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-5/)
@@ -514,9 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-5/)
 - [Copywriter](https://jobs.wordpress.net/job/copywriter-4/)
 - [Technical writer](https://jobs.wordpress.net/job/technical-writer-2/)
-- [Multi-media artist](https://jobs.wordpress.net/job/multi-media-artist/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist/)
-- [WordPress site help](https://jobs.wordpress.net/job/wordpress-site-help/)
 <!-- JOBS:END -->
 
 ## Central
