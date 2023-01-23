@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “WordPress”](https://make.wordpress.org/polyglots/2023/01/23/pte-request-for-wordpress-3/)
 - [PTE Request for “Favicon by RealFaviconGenerator”](https://make.wordpress.org/polyglots/2023/01/22/pte-request-for-favicon-by-realfavicongenerator/)
 - [GTE Request](https://make.wordpress.org/polyglots/2023/01/21/gte-request-4/)
 - [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/21/korean-pte-request-for-several-plugins/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Croquet Metaverse Web Showcase](https://make.wordpress.org/polyglots/2023/01/19/pte-request-for-croquet-metaverse-web-showcase/)
 - [Hello there;](https://make.wordpress.org/polyglots/2023/01/19/hello-there-2/)
 - [PTE Request for Tainacan](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-tainacan/)
-- [Hi! My plugin Estimate Delivery…](https://make.wordpress.org/polyglots/2023/01/18/hi-my-plugin-estimate-delivery/)
 <!-- POLYGLOTS:END -->
 
 ## Support
