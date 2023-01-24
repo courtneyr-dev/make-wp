@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Alina Kakshapati: WordPress as a Career](https://wordpress.tv/2023/01/24/alina-kakshapati-wordpress-as-a-career/)
 - [Néstor Angulo: Round 1! FIGHT! – O cómo sobrevivir al ataque de un hacker malicioso](https://wordpress.tv/2023/01/24/nestor-angulo-round-1-fight-o-como-sobrevivir-al-ataque-de-un-hacker-malicioso/)
 - [Nahuai Badiola: Cosas guapas que puedes hacer con bloques de WordPress](https://wordpress.tv/2023/01/24/nahuai-badiola-cosas-guapas-que-puedes-hacer-con-bloques-de-wordpress/)
 - [Ana Cirujano: Cómo pedir feedback de diseño web](https://wordpress.tv/2023/01/24/ana-cirujano-como-pedir-feedback-de-diseno-web/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Blog to video: tapping into YouTube and video SEO with your existing content](https://wordpress.tv/2023/01/03/blog-to-video-tapping-into-youtube-and-video-seo-with-your-existing-content/)
 - [EP6: Introduction to Plugins &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep6-introduction-to-plugins-file-structure-troubleshooting-bangla/)
 - [EP5: Introduction to Themes &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep5-introduction-to-themes-file-structure-troubleshooting-bangla/)
-- [EP4: Introduction to WordPress &lpar;Dashboard, Frontend&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep4-introduction-to-wordpress-dashboard-frontend-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
