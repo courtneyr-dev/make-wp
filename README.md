@@ -338,6 +338,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Néstor Angulo: Round 1! FIGHT! – O cómo sobrevivir al ataque de un hacker malicioso](https://wordpress.tv/2023/01/24/nestor-angulo-round-1-fight-o-como-sobrevivir-al-ataque-de-un-hacker-malicioso/)
+- [Nahuai Badiola: Cosas guapas que puedes hacer con bloques de WordPress](https://wordpress.tv/2023/01/24/nahuai-badiola-cosas-guapas-que-puedes-hacer-con-bloques-de-wordpress/)
+- [Ana Cirujano: Cómo pedir feedback de diseño web](https://wordpress.tv/2023/01/24/ana-cirujano-como-pedir-feedback-de-diseno-web/)
+- [Pablo Moratinos: Todo sobre el etiquetado de enlaces con UTMs. Novedades en GA4](https://wordpress.tv/2023/01/24/todo-sobre-el-etiquetado-de-enlaces-con-utms-novedades-en-ga4/)
 - [Let’s code: interacting with the WP REST API](https://wordpress.tv/2023/01/20/lets-code-interacting-with-the-wp-rest-api/)
 - [EP9: WooCommerce Settings and FAQ | Bangla](https://wordpress.tv/2023/01/17/ep9-woocommerce-settings-and-faq-bangla/)
 - [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep8-introduction-to-products-various-types-of-product-bangla/)
@@ -359,10 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP6: Introduction to Plugins &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep6-introduction-to-plugins-file-structure-troubleshooting-bangla/)
 - [EP5: Introduction to Themes &lpar;File Structure, Troubleshooting&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep5-introduction-to-themes-file-structure-troubleshooting-bangla/)
 - [EP4: Introduction to WordPress &lpar;Dashboard, Frontend&rpar; | Bangla](https://wordpress.tv/2022/12/31/ep4-introduction-to-wordpress-dashboard-frontend-bangla/)
-- [Tools: Site Health](https://wordpress.tv/2022/12/22/tools-site-health/)
-- [Start blogging in 2023 – Part 1: planning to reach your audience](https://wordpress.tv/2022/12/22/sarah-snow-kathryn-presner-start-blogging-in-2023-part-1-planning-to-reach-your-audience/)
-- [Creating a theme with the Create Block Theme plugin](https://wordpress.tv/2022/12/22/creating-a-theme-with-the-create-block-theme-plugin/)
-- [Cómo y por qué crear webs más sostenibles con WordPress](https://wordpress.tv/2022/12/21/como-y-por-que-crear-webs-mas-sostenibles-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
