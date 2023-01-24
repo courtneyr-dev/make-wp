@@ -87,7 +87,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [New look, new site, new HelpHub](https://make.wordpress.org/docs/2023/01/24/new-look-new-site-new-helphub/)
 - [Agenda for Docs Team Bi-Weekly Meeting January 24, 2023](https://make.wordpress.org/docs/2023/01/23/agenda-for-docs-team-bi-weekly-meeting-january-24-2023/)
+- [Support, forums, training or documentation](https://make.wordpress.org/docs/2023/01/23/support-forums-training-or-documentation/)
 - [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/docs/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
 - [X-post: Can you help with topics for the WordPress Developer Blog?](https://make.wordpress.org/docs/2023/01/17/xpost-can-you-help-with-topics-for-the-wordpress-developer-blog/)
 - [Development and design work continues on Helphub](https://make.wordpress.org/docs/2023/01/16/developing-and-design-work-continues-on-helphub/)
@@ -95,8 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Docs Team meeting, January 10, 2023](https://make.wordpress.org/docs/2023/01/13/summary-for-docs-team-meeting-january-10-2023/)
 - [Documentation Team Discussion on the 2023 Community Summit Call for Submissions](https://make.wordpress.org/docs/2023/01/10/documentation-team-discussion-on-the-2023-community-summit-call-for-submissions/)
 - [There is work in progress in HelpHub &lpar;Documentation&rpar;](https://make.wordpress.org/docs/2023/01/07/there-is-work-in-progress-in-helphub-documentation/)
-- [Agenda for Docs Team Bi-Weekly January 10, 2023](https://make.wordpress.org/docs/2023/01/04/agenda-for-docs-team-bi-weekly-january-10-2023/)
-- [Summary for Docs Team meeting, December 13, 2022](https://make.wordpress.org/docs/2022/12/22/summary-for-docs-team-meeting-december-13-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
