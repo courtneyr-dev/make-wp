@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Brainstorm – WordCamp Asia 2023 Contributor Day](https://make.wordpress.org/training/2023/01/24/brainstorm-wordcamp-asia-2023-contributor-day/)
 - [Meeting Agenda for January 24, 2023](https://make.wordpress.org/training/2023/01/23/meeting-agenda-for-january-24-2023/)
 - [Meet your 2023 Training Team Representatives](https://make.wordpress.org/training/2023/01/23/meet-your-2023-training-team-representatives/)
 - [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/training/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Project Thread: Learning Needs Analysis](https://make.wordpress.org/training/2023/01/16/project-thread-learning-needs-analysis/)
 - [January 2023 Faculty Meeting](https://make.wordpress.org/training/2023/01/15/january-2023-faculty-meeting/)
 - [Training Team Meeting Recap for January 10, 2023](https://make.wordpress.org/training/2023/01/14/training-team-meeting-recap-for-january-10-2023/)
-- [Project Overview: Learning Needs Analysis](https://make.wordpress.org/training/2023/01/14/project-overview-learning-needs-analysis/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
