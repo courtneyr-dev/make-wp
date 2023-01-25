@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – Jan. 25, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/24/44838/)
 - [PTE Request for “Auto Image Attributes From Filename With Bulk Updater”](https://make.wordpress.org/polyglots/2023/01/24/pte-request-for-auto-image-attributes-from-filename-with-bulk-updater/)
 - [GTE Request](https://make.wordpress.org/polyglots/2023/01/21/gte-request-4/)
 - [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/21/korean-pte-request-for-several-plugins/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Croquet Metaverse Web Showcase](https://make.wordpress.org/polyglots/2023/01/19/pte-request-for-croquet-metaverse-web-showcase/)
 - [Hello there;](https://make.wordpress.org/polyglots/2023/01/19/hello-there-2/)
 - [PTE Request for Tainacan](https://make.wordpress.org/polyglots/2023/01/18/pte-request-for-tainacan/)
-- [Hi! My plugin Estimate Delivery…](https://make.wordpress.org/polyglots/2023/01/18/hi-my-plugin-estimate-delivery/)
 <!-- POLYGLOTS:END -->
 
 ## Support
