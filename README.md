@@ -507,6 +507,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Quality Analyst &lpar;Remote – EMEA/India&rpar;](https://jobs.wordpress.net/job/senior-quality-analyst-remote-emea-india/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-25/)
+- [Support Specialist](https://jobs.wordpress.net/job/support-specialist-6/)
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-4/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-2/)
@@ -514,9 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Custom Guttenberg Blocks Theme / Redesign](https://jobs.wordpress.net/job/custom-guttenberg-blocks-theme-redesign/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-5/)
 - [Web Developer &lpar;Salaried, 30 Hours&rpar;](https://jobs.wordpress.net/job/web-developer-salaried-30-hours/)
-- [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-5/)
-- [Copywriter](https://jobs.wordpress.net/job/copywriter-4/)
-- [Technical writer](https://jobs.wordpress.net/job/technical-writer-2/)
 <!-- JOBS:END -->
 
 ## Central
