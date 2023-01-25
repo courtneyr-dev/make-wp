@@ -514,9 +514,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-4/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-2/)
 - [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-34/)
-- [Custom Guttenberg Blocks Theme / Redesign](https://jobs.wordpress.net/job/custom-guttenberg-blocks-theme-redesign/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-5/)
 - [Web Developer &lpar;Salaried, 30 Hours&rpar;](https://jobs.wordpress.net/job/web-developer-salaried-30-hours/)
+- [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-5/)
 <!-- JOBS:END -->
 
 ## Central
