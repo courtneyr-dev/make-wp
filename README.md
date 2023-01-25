@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordPress Community Support &amp; WordPress Foundation Entity Structure](https://make.wordpress.org/community/2023/01/25/wordpress-community-support-wordpress-foundation-entity-structure/)
 - [Community Team Goals for 2023: Call for Suggestions](https://make.wordpress.org/community/2023/01/23/community-team-goals-for-2023-call-for-suggestions/)
 - [Upcoming #WPDiversity Events: January 2023](https://make.wordpress.org/community/2023/01/23/upcoming-wpdiversity-events-january-2023/)
 - [Proposal: Dedicated communication place for WordCamp mentors](https://make.wordpress.org/community/2023/01/20/proposal-dedicated-communication-place-for-wordcamp-mentors/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Training: Using Learn WordPress at your WordPress Meetup](https://make.wordpress.org/community/2023/01/11/community-team-training-using-learn-wordpress-at-your-wordpress-meetup/)
 - [Community Team Meeting Agenda for 5 January, 2023](https://make.wordpress.org/community/2023/01/04/community-team-meeting-agenda-for-5-january-2023/)
 - [Meetup Organizer Newsletter: December 2022](https://make.wordpress.org/community/2022/12/22/meetup-organizer-newsletter-december-2022/)
-- [Updates Across the Make/Community Team Site and our Handbooks](https://make.wordpress.org/community/2022/12/21/updates-across-the-make-community-team-site-and-our-handbooks/)
 <!-- COMMUNITY:END -->
 
 ## Meta
