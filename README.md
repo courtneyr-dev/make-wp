@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/01/26/hi-dear-mentors-we-have-106/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/01/25/cross-locale-project-translation-editor-request-3/)
 - [Agenda: Weekly Polyglots Chat – Jan. 25, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/24/44838/)
 - [PTE Request for “Auto Image Attributes From Filename With Bulk Updater”](https://make.wordpress.org/polyglots/2023/01/24/pte-request-for-auto-image-attributes-from-filename-with-bulk-updater/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/01/20/i-am-the-plugin-author-32/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/01/19/hi-98/)
 - [PTE Request for Croquet Metaverse Web Showcase](https://make.wordpress.org/polyglots/2023/01/19/pte-request-for-croquet-metaverse-web-showcase/)
-- [Hello there;](https://make.wordpress.org/polyglots/2023/01/19/hello-there-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
