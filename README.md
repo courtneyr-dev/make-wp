@@ -507,6 +507,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-8/)
+- [[Astra] QA Engineer – Manual](https://jobs.wordpress.net/job/astra-qa-engineer-manual/)
+- [Content Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/content-writer-remote-2/)
 - [Senior Quality Analyst &lpar;Remote – EMEA/India&rpar;](https://jobs.wordpress.net/job/senior-quality-analyst-remote-emea-india/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-25/)
 - [Support Specialist](https://jobs.wordpress.net/job/support-specialist-6/)
@@ -514,9 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-4/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-2/)
 - [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-34/)
-- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-5/)
-- [Web Developer &lpar;Salaried, 30 Hours&rpar;](https://jobs.wordpress.net/job/web-developer-salaried-30-hours/)
-- [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-5/)
 <!-- JOBS:END -->
 
 ## Central
