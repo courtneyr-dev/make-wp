@@ -338,6 +338,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Como añadir modelos 3D en nuestros productos](https://wordpress.tv/2023/01/26/como-anadir-modelos-3d-en-nuestros-productos/)
+- [Cómo crear una bolsa de trabajo con WordPress y Wp Job Manager](https://wordpress.tv/2023/01/26/como-crear-una-bolsa-de-trabajo-con-wordpress-y-wp-job-manager/)
+- [Cuenta un cuento que atraiga el dinero a tu web](https://wordpress.tv/2023/01/26/cuenta-un-cuento-que-atraiga-el-dinero-a-tu-web/)
+- [WordPressformance: Capas de Cache](https://wordpress.tv/2023/01/26/wordpressformance-capas-de-cache/)
+- [HTML y CSS para trabajar en equipo](https://wordpress.tv/2023/01/26/html-y-css-para-trabajar-en-equipo/)
+- [WordPress y la API REST: usando WordPress como gestor de contenidos en aplicaciones externas](https://wordpress.tv/2023/01/26/wordpress-y-la-api-rest-usando-wordpress-como-gestor-de-contenidos-en-aplicaciones-externas/)
+- [Kit de Branding para Dummies y no Diseñadores](https://wordpress.tv/2023/01/26/kit-de-branding-para-dummies-y-no-disenadores/)
+- [Antes y después – Rediseñando webs &lpar;Taller&rpar;](https://wordpress.tv/2023/01/26/antes-y-despues-redisenando-webs-taller/)
+- [¿Existe la Automatización Orientada a Objetos?](https://wordpress.tv/2023/01/26/existe-la-automatizacion-orientada-a-objetos/)
+- [Haciendo una web legible con WordPress. Taller de contraste de color](https://wordpress.tv/2023/01/26/haciendo-una-web-legible-con-wordpress-taller-de-contraste-de-color/)
 - [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2023/01/26/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf/)
 - [Creciendo con WordPress: qué charla la de aquel evento](https://wordpress.tv/2023/01/26/creciendo-con-wordpress-que-charla-la-de-aquel-evento/)
 - [Rendimiento y optimización para WordPress en 2023](https://wordpress.tv/2023/01/26/rendimiento-y-optimizacion-para-wordpress-en-2023/)
@@ -353,16 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP9: WooCommerce Settings and FAQ | Bangla](https://wordpress.tv/2023/01/17/ep9-woocommerce-settings-and-faq-bangla/)
 - [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep8-introduction-to-products-various-types-of-product-bangla/)
 - [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep7-introduction-to-woocommerce-installation-checkout-flow-bangla/)
-- [Images on the Web – Past, Present and Future](https://wordpress.tv/2023/01/17/images-on-the-web-past-present-and-future-2/)
-- [サイトエディターでのテンプレート編集に慣れよう！](https://wordpress.tv/2023/01/17/%e3%82%b5%e3%82%a4%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%a7%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%88/)
-- [The Wide World of WordPress Events &lpar;2023&rpar;](https://wordpress.tv/2023/01/13/the-wide-world-of-wordpress-events-2023/)
-- [Let’s code: using the WordPress REST API](https://wordpress.tv/2023/01/13/lets-code-using-the-wordpress-rest-api/)
-- [Taking Advantage of Query Loops](https://wordpress.tv/2023/01/12/taking-advantage-of-query-loops-3/)
-- [Start Blogging in 2023 Part 2: Planning Your Blog’s Content](https://wordpress.tv/2023/01/11/start-blogging-in-2023-part-2-planning-your-blogs-content/)
-- [Introduction to theme.json](https://wordpress.tv/2023/01/06/introduction-to-theme-json/)
-- [Let’s code: WordPress plugin security](https://wordpress.tv/2023/01/06/lets-code-wordpress-plugin-security/)
-- [Start Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://wordpress.tv/2023/01/05/start-blogging-in-2023-set-up-your-blog-interactive/)
-- [Let’s code: developing blocks without React! – Review](https://wordpress.tv/2023/01/04/lets-code-developing-blocks-without-react-review/)
 <!-- WPTV:END -->
 
 ## Marketing
