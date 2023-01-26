@@ -367,6 +367,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: WordPress.org Redesign Recent Launches](https://make.wordpress.org/marketing/2023/01/26/xpost-wordpress-org-redesign-recent-launches/)
 - [Notes: Global Marketing Team meeting, Jan 17, 2023](https://make.wordpress.org/marketing/2023/01/23/notes-global-marketing-team-meeting-jan-17-2023/)
 - [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/marketing/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
 - [X-post: Can you help with topics for the WordPress Developer Blog?](https://make.wordpress.org/marketing/2023/01/17/xpost-can-you-help-with-topics-for-the-wordpress-developer-blog/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [2023 Marketing Team: new meeting time and new team reps](https://make.wordpress.org/marketing/2023/01/10/2023-marketing-team-new-meeting-time-and-new-team-reps/)
 - [Notes: Global Marketing Team meeting, December 21, 2022](https://make.wordpress.org/marketing/2022/12/26/notes-global-marketing-team-meeting-december-21-2022/)
 - [Notes: Global Marketing Team meeting, December 14, 2022](https://make.wordpress.org/marketing/2022/12/19/notes-global-marketing-team-meeting-december-14-2022/)
-- [Notes: Global Marketing Team meeting, November 30, 2022](https://make.wordpress.org/marketing/2022/12/14/notes-global-marketing-team-meeting-november-30-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
