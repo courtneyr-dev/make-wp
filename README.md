@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Santosh Bhandari: WordPress Application Security](https://wordpress.tv/2023/01/26/santosh-bhandari-wordpress-application-security/)
 - [Como añadir modelos 3D en nuestros productos](https://wordpress.tv/2023/01/26/como-anadir-modelos-3d-en-nuestros-productos/)
 - [Cómo crear una bolsa de trabajo con WordPress y Wp Job Manager](https://wordpress.tv/2023/01/26/como-crear-una-bolsa-de-trabajo-con-wordpress-y-wp-job-manager/)
 - [Cuenta un cuento que atraiga el dinero a tu web](https://wordpress.tv/2023/01/26/cuenta-un-cuento-que-atraiga-el-dinero-a-tu-web/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: interacting with the WP REST API](https://wordpress.tv/2023/01/20/lets-code-interacting-with-the-wp-rest-api/)
 - [EP9: WooCommerce Settings and FAQ | Bangla](https://wordpress.tv/2023/01/17/ep9-woocommerce-settings-and-faq-bangla/)
 - [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep8-introduction-to-products-various-types-of-product-bangla/)
-- [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep7-introduction-to-woocommerce-installation-checkout-flow-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
