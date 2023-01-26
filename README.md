@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Laxman Bhattarai: Your Next Website with WordPress](https://wordpress.tv/2023/01/26/laxman-bhattarai-your-next-website-with-wordpress/)
+- [Krishna Neupane: Creating efficient WordPress Queries with WP_Query](https://wordpress.tv/2023/01/26/krishna-neupane-creating-efficient-wordpress-queries-with-wp_query/)
 - [Santosh Bhandari: WordPress Application Security](https://wordpress.tv/2023/01/26/santosh-bhandari-wordpress-application-security/)
 - [Como añadir modelos 3D en nuestros productos](https://wordpress.tv/2023/01/26/como-anadir-modelos-3d-en-nuestros-productos/)
 - [Cómo crear una bolsa de trabajo con WordPress y Wp Job Manager](https://wordpress.tv/2023/01/26/como-crear-una-bolsa-de-trabajo-con-wordpress-y-wp-job-manager/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ana Cirujano: Cómo pedir feedback de diseño web](https://wordpress.tv/2023/01/24/ana-cirujano-como-pedir-feedback-de-diseno-web/)
 - [Pablo Moratinos: Todo sobre el etiquetado de enlaces con UTMs. Novedades en GA4](https://wordpress.tv/2023/01/24/todo-sobre-el-etiquetado-de-enlaces-con-utms-novedades-en-ga4/)
 - [Let’s code: interacting with the WP REST API](https://wordpress.tv/2023/01/20/lets-code-interacting-with-the-wp-rest-api/)
-- [EP9: WooCommerce Settings and FAQ | Bangla](https://wordpress.tv/2023/01/17/ep9-woocommerce-settings-and-faq-bangla/)
-- [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://wordpress.tv/2023/01/17/ep8-introduction-to-products-various-types-of-product-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
