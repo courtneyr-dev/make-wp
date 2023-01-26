@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [WordPress.org Redesign Recent Launches](https://make.wordpress.org/meta/2023/01/26/wordpress-org-redesign-recent-launches/)
 - [A Meta subproject for evaluating Matrix](https://make.wordpress.org/meta/2023/01/25/a-meta-subproject-for-evaluating-matrix/)
 - [Two-Factor Auth progress for WordPress.org](https://make.wordpress.org/meta/2022/12/22/two-factor-auth-progress-for-wordpress-org/)
 - [Refreshing the WordPress Showcase](https://make.wordpress.org/meta/2022/12/14/showcase-visual-refresh/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: A refresh of WordPress.org/Showcase](https://make.wordpress.org/meta/2022/11/11/xpost-a-refresh-of-wordpress-org-showcase/)
 - [WordPress.org Redesign Update](https://make.wordpress.org/meta/2022/10/21/wordpress-org-redesign-update/)
 - [Displaying Style Variations for Supporting Themes](https://make.wordpress.org/meta/2022/10/20/displaying-style-variations-for-supporting-themes/)
-- [X-post: New design for HelpHub in WordPress.org](https://make.wordpress.org/meta/2022/10/19/xpost-new-design-for-helphub-in-wordpress-org/)
 <!-- META:END -->
 
 ## Training
