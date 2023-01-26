@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [APAC: Using the Columns Block](https://learn.wordpress.org/?meeting=apac-using-the-columns-block)
+- [Using the Columns Block](https://learn.wordpress.org/?meeting=using-the-columns-block)
 - [Call for Testing: Find Your Style &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=call-for-testing-find-your-style-interactive)
 - [Builder Basics: Block Styles vs. Block Variations](https://learn.wordpress.org/?meeting=builder-basics-block-styles-vs-block-variations)
 - [Builder Basics: Adding Custom CSS to Block Themes](https://learn.wordpress.org/?meeting=builder-basics-adding-custom-css-to-block-themes)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-3)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-2)
 - [EP8: Introduction to Products &lpar;Various types of Product&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep8-introduction-to-products-various-types-of-product-bangla)
-- [EP9: WooCommerce Settings and FAQ | Bangla](https://learn.wordpress.org/?meeting=ep9-woocommerce-settings-and-faq-bangla)
-- [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep7-introduction-to-woocommerce-installation-checkout-flow-bangla)
 <!-- SLS:END -->
 
 ## Test
