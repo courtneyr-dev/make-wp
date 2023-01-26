@@ -338,6 +338,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2023/01/26/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf/)
+- [Creciendo con WordPress: qué charla la de aquel evento](https://wordpress.tv/2023/01/26/creciendo-con-wordpress-que-charla-la-de-aquel-evento/)
+- [Rendimiento y optimización para WordPress en 2023](https://wordpress.tv/2023/01/26/rendimiento-y-optimizacion-para-wordpress-en-2023/)
+- [Full Site Editing &lpar;Taller&rpar;](https://wordpress.tv/2023/01/26/full-site-editing-taller/)
 - [Patterns, Reusable Blocks and Block Locking](https://wordpress.tv/2023/01/24/patterns-reusable-blocks-and-block-locking/)
 - [How to improve SEO rankings](https://wordpress.tv/2023/01/24/how-to-improve-seo-rankings/)
 - [Alina Kakshapati: WordPress as a Career](https://wordpress.tv/2023/01/24/alina-kakshapati-wordpress-as-a-career/)
@@ -359,10 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: WordPress plugin security](https://wordpress.tv/2023/01/06/lets-code-wordpress-plugin-security/)
 - [Start Blogging in 2023: Set Up Your Blog &lpar;Interactive&rpar;](https://wordpress.tv/2023/01/05/start-blogging-in-2023-set-up-your-blog-interactive/)
 - [Let’s code: developing blocks without React! – Review](https://wordpress.tv/2023/01/04/lets-code-developing-blocks-without-react-review/)
-- [State of the Word 2022](https://wordpress.tv/2023/01/04/matt-mullenweg-state-of-the-word-2022/)
-- [State of the Word 2022 Q&amp;A](https://wordpress.tv/2023/01/04/matt-mullenweg-state-of-the-word-2022-qa/)
-- [Get hooked! Using the right WordPress actions](https://wordpress.tv/2023/01/03/get-hooked-using-the-right-wordpress-actions/)
-- [Blog to video: tapping into YouTube and video SEO with your existing content](https://wordpress.tv/2023/01/03/blog-to-video-tapping-into-youtube-and-video-seo-with-your-existing-content/)
 <!-- WPTV:END -->
 
 ## Marketing
