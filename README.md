@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Discussion: Ending the Eternal September](https://make.wordpress.org/project/2023/01/27/discussion-ending-the-eternal-september/)
 - [Big Picture Goals 2023](https://make.wordpress.org/project/2023/01/18/big-picture-goals-2023/)
 - [2022 State of the Word Q&amp;A](https://make.wordpress.org/project/2023/01/13/sotw22qa/)
 - [Request for Feedback: How can we Improve the Five for the Future Contributor Journey?](https://make.wordpress.org/project/2023/01/09/request-for-feedback-how-can-we-improve-the-five-for-the-future-contributor-journey/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Now we have a sustainability channel in Making WordPress Slack, what should we do?](https://make.wordpress.org/project/2022/11/01/sustainability-channel-what-should-we-do/)
 - [WCUS 2022 Q&amp;A](https://make.wordpress.org/project/2022/09/19/wcus-2022-qa/)
 - [Open Source and how we sustain ourselves](https://make.wordpress.org/project/2022/08/01/open-source-and-the-free-rider-problem/)
-- [Updates on the Five for the Future program, and proposed improvements](https://make.wordpress.org/project/2022/07/28/updates-on-the-five-for-the-future-program-and-proposed-improvements/)
 <!-- PROJECT:END -->
 
 ## Systems
