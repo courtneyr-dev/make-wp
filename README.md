@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using theme.json with classic themes](https://wordpress.tv/2023/01/27/using-theme-json-with-classic-themes/)
 - [Laxman Bhattarai: Your Next Website with WordPress](https://wordpress.tv/2023/01/26/laxman-bhattarai-your-next-website-with-wordpress/)
 - [Krishna Neupane: Creating efficient WordPress Queries with WP_Query](https://wordpress.tv/2023/01/26/krishna-neupane-creating-efficient-wordpress-queries-with-wp_query/)
 - [Santosh Bhandari: WordPress Application Security](https://wordpress.tv/2023/01/26/santosh-bhandari-wordpress-application-security/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nahuai Badiola: Cosas guapas que puedes hacer con bloques de WordPress](https://wordpress.tv/2023/01/24/nahuai-badiola-cosas-guapas-que-puedes-hacer-con-bloques-de-wordpress/)
 - [Ana Cirujano: Cómo pedir feedback de diseño web](https://wordpress.tv/2023/01/24/ana-cirujano-como-pedir-feedback-de-diseno-web/)
 - [Pablo Moratinos: Todo sobre el etiquetado de enlaces con UTMs. Novedades en GA4](https://wordpress.tv/2023/01/24/todo-sobre-el-etiquetado-de-enlaces-con-utms-novedades-en-ga4/)
-- [Let’s code: interacting with the WP REST API](https://wordpress.tv/2023/01/20/lets-code-interacting-with-the-wp-rest-api/)
 <!-- WPTV:END -->
 
 ## Marketing
