@@ -257,9 +257,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
+- [Develop Your First Low-Code Block Theme](https://learn.wordpress.org/course/develop-your-first-low-code-block-theme/)
 - [A Developers Guide to Block Themes – Part 2](https://learn.wordpress.org/course/a-developers-guide-to-block-themes-part-2/)
 - [A Developers Guide to Block Themes – Part 1](https://learn.wordpress.org/course/a-developers-guide-to-block-themes-part-1/)
-- [Develop Your First Low-Code Block Theme](https://learn.wordpress.org/course/develop-your-first-low-code-block-theme/)
 - [Using the WordPress Data Layer](https://learn.wordpress.org/course/using-the-wordpress-data-layer/)
 - [Introduction to Block Development:  Build your first custom block](https://learn.wordpress.org/course/introduction-to-block-development-build-your-first-custom-block/)
 - [Part 3: Advanced Site Design with Full Site Editing: Site Editor, Templates and Template Parts](https://learn.wordpress.org/course/part-3-advanced-site-design-with-full-site-editing-site-editor-templates-and-template-parts/)
