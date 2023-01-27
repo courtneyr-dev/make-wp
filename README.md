@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Courtney Robertson, Sarah Snow: Call For Testing: Find Your Style](https://wordpress.tv/2023/01/27/courtney-robertson-sarah-snow-call-for-testing-find-your-style/)
 - [Let’s code: WP REST API updates, custom fields, and authentication](https://wordpress.tv/2023/01/27/lets-code-wp-rest-api-updates-custom-fields-and-authentication/)
 - [Using theme.json with classic themes](https://wordpress.tv/2023/01/27/using-theme-json-with-classic-themes/)
 - [Laxman Bhattarai: Your Next Website with WordPress](https://wordpress.tv/2023/01/26/laxman-bhattarai-your-next-website-with-wordpress/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alina Kakshapati: WordPress as a Career](https://wordpress.tv/2023/01/24/alina-kakshapati-wordpress-as-a-career/)
 - [Néstor Angulo: Round 1! FIGHT! – O cómo sobrevivir al ataque de un hacker malicioso](https://wordpress.tv/2023/01/24/nestor-angulo-round-1-fight-o-como-sobrevivir-al-ataque-de-un-hacker-malicioso/)
 - [Nahuai Badiola: Cosas guapas que puedes hacer con bloques de WordPress](https://wordpress.tv/2023/01/24/nahuai-badiola-cosas-guapas-que-puedes-hacer-con-bloques-de-wordpress/)
-- [Ana Cirujano: Cómo pedir feedback de diseño web](https://wordpress.tv/2023/01/24/ana-cirujano-como-pedir-feedback-de-diseno-web/)
 <!-- WPTV:END -->
 
 ## Marketing
