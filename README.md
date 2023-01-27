@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Under Construction theme](https://make.wordpress.org/polyglots/2023/01/27/pte-request-for-under-construction-theme/)
 - [PTE Request for SEOPress](https://make.wordpress.org/polyglots/2023/01/26/pte-request-for-seopress-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/01/26/hi-dear-mentors-we-have-106/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/01/25/cross-locale-project-translation-editor-request-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/21/korean-pte-request-for-several-plugins/)
 - [PTE Request for “Korea for WooCommerce”](https://make.wordpress.org/polyglots/2023/01/20/pte-request-for-korea-for-woocommerce/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/01/20/i-am-the-plugin-author-32/)
-- [Hi,](https://make.wordpress.org/polyglots/2023/01/19/hi-98/)
 <!-- POLYGLOTS:END -->
 
 ## Support
