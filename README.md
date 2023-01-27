@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using theme.json with classic themes](https://learn.wordpress.org/tutorial/using-theme-json-with-classic-themes/)
 - [How to improve SEO rankings](https://learn.wordpress.org/tutorial/how-to-improve-seo-rankings/)
 - [Creating Custom Fields](https://learn.wordpress.org/tutorial/creating-custom-fields/)
 - [Taking Advantage of Query Loops](https://learn.wordpress.org/tutorial/taking-advantage-of-query-loops/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Uncovering the Cover Block](https://learn.wordpress.org/tutorial/uncovering-the-cover-block/)
 - [Adding a Pattern From the Pattern Directory to Your Theme](https://learn.wordpress.org/tutorial/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 - [Personalizing your 404 Template](https://learn.wordpress.org/tutorial/personalizing-your-404-template/)
-- [Using Block Attributes to Enable User Editing](https://learn.wordpress.org/tutorial/using-block-attributes-to-enable-user-editing/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
