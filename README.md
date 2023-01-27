@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: WP REST API updates, custom fields, and authentication](https://wordpress.tv/2023/01/27/lets-code-wp-rest-api-updates-custom-fields-and-authentication/)
 - [Using theme.json with classic themes](https://wordpress.tv/2023/01/27/using-theme-json-with-classic-themes/)
 - [Laxman Bhattarai: Your Next Website with WordPress](https://wordpress.tv/2023/01/26/laxman-bhattarai-your-next-website-with-wordpress/)
 - [Krishna Neupane: Creating efficient WordPress Queries with WP_Query](https://wordpress.tv/2023/01/26/krishna-neupane-creating-efficient-wordpress-queries-with-wp_query/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Néstor Angulo: Round 1! FIGHT! – O cómo sobrevivir al ataque de un hacker malicioso](https://wordpress.tv/2023/01/24/nestor-angulo-round-1-fight-o-como-sobrevivir-al-ataque-de-un-hacker-malicioso/)
 - [Nahuai Badiola: Cosas guapas que puedes hacer con bloques de WordPress](https://wordpress.tv/2023/01/24/nahuai-badiola-cosas-guapas-que-puedes-hacer-con-bloques-de-wordpress/)
 - [Ana Cirujano: Cómo pedir feedback de diseño web](https://wordpress.tv/2023/01/24/ana-cirujano-como-pedir-feedback-de-diseno-web/)
-- [Pablo Moratinos: Todo sobre el etiquetado de enlaces con UTMs. Novedades en GA4](https://wordpress.tv/2023/01/24/todo-sobre-el-etiquetado-de-enlaces-con-utms-novedades-en-ga4/)
 <!-- WPTV:END -->
 
 ## Marketing
