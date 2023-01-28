@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety-2/)
+- [WordPress Login need to send api request to another webiste login](https://jobs.wordpress.net/job/wordpress-login-need-to-send-api-request-to-another-webiste-login/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-8/)
 - [[Astra] QA Engineer – Manual](https://jobs.wordpress.net/job/astra-qa-engineer-manual/)
 - [Content Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/content-writer-remote-2/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support Specialist](https://jobs.wordpress.net/job/support-specialist-6/)
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-4/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-2/)
-- [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-34/)
 <!-- JOBS:END -->
 
 ## Central
