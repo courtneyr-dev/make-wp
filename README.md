@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Prayer](https://make.wordpress.org/polyglots/2023/01/28/pte-request-for-wp-prayer-5/)
 - [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/28/korean-pte-request-for-several-plugins-2/)
 - [PTE Request for Under Construction theme](https://make.wordpress.org/polyglots/2023/01/27/pte-request-for-under-construction-theme/)
 - [PTE Request for SEOPress](https://make.wordpress.org/polyglots/2023/01/26/pte-request-for-seopress-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for “Auto Image Attributes From Filename With Bulk Updater”](https://make.wordpress.org/polyglots/2023/01/24/pte-request-for-auto-image-attributes-from-filename-with-bulk-updater/)
 - [GTE Request](https://make.wordpress.org/polyglots/2023/01/21/gte-request-4/)
 - [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/21/korean-pte-request-for-several-plugins/)
-- [PTE Request for “Korea for WooCommerce”](https://make.wordpress.org/polyglots/2023/01/20/pte-request-for-korea-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
