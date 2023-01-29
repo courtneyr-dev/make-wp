@@ -95,8 +95,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Can you help with topics for the WordPress Developer Blog?](https://make.wordpress.org/docs/2023/01/17/xpost-can-you-help-with-topics-for-the-wordpress-developer-blog/)
 - [Development and design work continues on Helphub](https://make.wordpress.org/docs/2023/01/16/developing-and-design-work-continues-on-helphub/)
 - [X-post: Advanced Administration Handbook: Status 2023-01-15](https://make.wordpress.org/docs/2023/01/15/xpost-advanced-administration-handbook-status-2023-01-15/)
-- [Summary for Docs Team meeting, January 10, 2023](https://make.wordpress.org/docs/2023/01/13/summary-for-docs-team-meeting-january-10-2023/)
 - [Documentation Team Discussion on the 2023 Community Summit Call for Submissions](https://make.wordpress.org/docs/2023/01/10/documentation-team-discussion-on-the-2023-community-summit-call-for-submissions/)
+- [Summary for Docs Team meeting, January 10, 2023](https://make.wordpress.org/docs/2023/01/09/summary-for-docs-team-meeting-january-10-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
