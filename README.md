@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-4/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-5/)
+- [Python Developer](https://jobs.wordpress.net/job/python-developer-4/)
+- [Python Developer](https://jobs.wordpress.net/job/python-developer-3/)
+- [CampusPress Support Enthusiast](https://jobs.wordpress.net/job/campuspress-support-enthusiast-4/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-5/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-3/)
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-785/)
 - [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety-2/)
 - [WordPress Login need to send api request to another webiste login](https://jobs.wordpress.net/job/wordpress-login-need-to-send-api-request-to-another-webiste-login/)
-- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-8/)
-- [[Astra] QA Engineer – Manual](https://jobs.wordpress.net/job/astra-qa-engineer-manual/)
-- [Content Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/content-writer-remote-2/)
-- [Senior Quality Analyst &lpar;Remote – EMEA/India&rpar;](https://jobs.wordpress.net/job/senior-quality-analyst-remote-emea-india/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-25/)
-- [Support Specialist](https://jobs.wordpress.net/job/support-specialist-6/)
-- [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-4/)
 <!-- JOBS:END -->
 
 ## Central
