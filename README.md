@@ -194,7 +194,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bite-sized content on Learn WordPress](https://make.wordpress.org/training/2023/01/18/bite-sized-content-on-learn-wordpress/)
 - [Summary Update: Courses Currently in Development &lpar;16 January 2023&rpar;](https://make.wordpress.org/training/2023/01/16/summary-update-courses-currently-in-development-16-january-2023/)
 - [Meeting Agenda for January 17, 2023](https://make.wordpress.org/training/2023/01/16/meeting-agenda-for-january-17-2022/)
-- [Project Thread: Learning Needs Analysis](https://make.wordpress.org/training/2023/01/16/project-thread-learning-needs-analysis/)
+- [Project Thread: Learning Needs Analysis Survey](https://make.wordpress.org/training/2023/01/16/project-thread-learning-needs-analysis/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
