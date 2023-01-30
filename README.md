@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hide My WP Ghost –…](https://make.wordpress.org/polyglots/2023/01/30/hide-my-wp-ghost/)
 - [CLPTE Request for Funnelforms Free](https://make.wordpress.org/polyglots/2023/01/30/pte-request-for-funnelforms-free-2/)
 - [PTE Request for WP Prayer](https://make.wordpress.org/polyglots/2023/01/28/pte-request-for-wp-prayer-5/)
 - [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/28/korean-pte-request-for-several-plugins-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/01/25/cross-locale-project-translation-editor-request-3/)
 - [Agenda: Weekly Polyglots Chat – Jan. 25, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/24/44838/)
 - [PTE Request for “Auto Image Attributes From Filename With Bulk Updater”](https://make.wordpress.org/polyglots/2023/01/24/pte-request-for-auto-image-attributes-from-filename-with-bulk-updater/)
-- [GTE Request](https://make.wordpress.org/polyglots/2023/01/21/gte-request-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
