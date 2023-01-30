@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Thessaloniki WordPress Meetup: Block Theme Workshop – Part 3](https://learn.wordpress.org/?meeting=thessaloniki-wordpress-meetup-block-theme-workshop-part-3)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-5)
 - [WordPress dev livestream: Extending the WP REST API – modifying responses](https://learn.wordpress.org/?meeting=wordpress-dev-livestream-extending-the-wp-rest-api-modifying-responses)
 - [Let’s code: extending the WP REST API – modifying responses](https://learn.wordpress.org/?meeting=lets-code-extending-the-wp-rest-api-modifying-responses)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP7: Introduction to WooCommerce &lpar;Installation, Checkout flow&rpar; | Bangla](https://learn.wordpress.org/?meeting=ep7-introduction-to-woocommerce-installation-checkout-flow-bangla-2)
 - [Live stream: Building an Advanced Query Loop block variation plugin](https://learn.wordpress.org/?meeting=live-stream-building-an-advanced-query-loop-block-variation-plugin)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.0](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-0)
-- [Live stream: Reviewing developer-focused features in Gutenberg 14.9](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-14-9)
 <!-- SLS:END -->
 
 ## Test
