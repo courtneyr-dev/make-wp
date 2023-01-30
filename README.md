@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 48: What Does Concluding a Gutenberg Phase Really Mean?](https://wordpress.org/news/2023/01/episode-48-what-does-concluding-a-gutenberg-phase-really-mean/)
 - [The Month in WordPress – December 2022](https://wordpress.org/news/2023/01/the-month-in-wordpress-december-2022/)
 - [WP Briefing: Episode 47: Letter from the Executive Director](https://wordpress.org/news/2023/01/episode-47-letter-from-the-executive-director/)
 - [Letter from WordPress’ Executive Director, 2022](https://wordpress.org/news/2023/01/letter-from-wordpress-executive-director-2022/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Month in WordPress – November 2022](https://wordpress.org/news/2022/12/the-month-in-wordpress-november-2022/)
 - [State of the Word 2022: A Celebration of the Four Freedoms of Open Source](https://wordpress.org/news/2022/12/state-of-the-word-2022-recap/)
 - [Share Your Experience: The 2022 WordPress Survey is Open](https://wordpress.org/news/2022/12/2022-wordpress-survey/)
-- [People of WordPress: Huanyi Chuang](https://wordpress.org/news/2022/11/people-of-wordpress-huanyi-chuang/)
 <!-- NEWS:END -->
 
 ## Jobs
