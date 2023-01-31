@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Backend Developer &lpar; WordPress, WooCommerce, Laravel &rpar;](https://jobs.wordpress.net/job/senior-backend-developer-wordpress-woocommerce-laravel-4/)
+- [Put on apt -jetpack](https://jobs.wordpress.net/job/put-on-apt-jetpack/)
 - [WordPress designer](https://jobs.wordpress.net/job/wordpress-designer-53/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-786/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-4/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Python Developer](https://jobs.wordpress.net/job/python-developer-3/)
 - [CampusPress Support Enthusiast](https://jobs.wordpress.net/job/campuspress-support-enthusiast-4/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-5/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-3/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-785/)
 <!-- JOBS:END -->
 
 ## Central
