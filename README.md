@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Auto Image…](https://make.wordpress.org/polyglots/2023/01/31/pte-request-for-auto-image/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2023/01/31/i-am-the-plugin-author-33/)
 - [Polyglots Outreach Effort: February 2023](https://make.wordpress.org/polyglots/2023/01/31/polyglots-outreach-effort-february-2023/)
 - [Hide My WP Ghost –…](https://make.wordpress.org/polyglots/2023/01/30/hide-my-wp-ghost/)
 - [CLPTE Request for Funnelforms Free](https://make.wordpress.org/polyglots/2023/01/30/pte-request-for-funnelforms-free-2/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Under Construction theme](https://make.wordpress.org/polyglots/2023/01/27/pte-request-for-under-construction-theme/)
 - [PTE Request for SEOPress](https://make.wordpress.org/polyglots/2023/01/26/pte-request-for-seopress-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/01/26/hi-dear-mentors-we-have-106/)
-- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/01/25/cross-locale-project-translation-editor-request-3/)
-- [Agenda: Weekly Polyglots Chat – Jan. 25, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/01/24/44838/)
 <!-- POLYGLOTS:END -->
 
 ## Support
