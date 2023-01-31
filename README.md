@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress designer](https://jobs.wordpress.net/job/wordpress-designer-53/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-786/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-4/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-5/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-5/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-3/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-785/)
-- [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety-2/)
 <!-- JOBS:END -->
 
 ## Central
