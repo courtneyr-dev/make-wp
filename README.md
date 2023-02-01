@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – February 01, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/01/agenda-weekly-polyglots-chat-february-01-2023-1300-utc/)
 - [PTE Request for Auto Image…](https://make.wordpress.org/polyglots/2023/01/31/pte-request-for-auto-image/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/01/31/i-am-the-plugin-author-33/)
 - [Polyglots Outreach Effort: February 2023](https://make.wordpress.org/polyglots/2023/01/31/polyglots-outreach-effort-february-2023/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/28/korean-pte-request-for-several-plugins-2/)
 - [PTE Request for Under Construction theme](https://make.wordpress.org/polyglots/2023/01/27/pte-request-for-under-construction-theme/)
 - [PTE Request for SEOPress](https://make.wordpress.org/polyglots/2023/01/26/pte-request-for-seopress-2/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/01/26/hi-dear-mentors-we-have-106/)
 <!-- POLYGLOTS:END -->
 
 ## Support
