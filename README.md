@@ -73,6 +73,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Agenda for February 2nd Support Meeting](https://make.wordpress.org/support/2023/02/agenda-for-february-2nd-support-meeting-2/)
+- [Summary for January 26th Support Meeting](https://make.wordpress.org/support/2023/02/summary-for-january-26th-support-meeting/)
 - [Agenda for the January 26th Support Meeting](https://make.wordpress.org/support/2023/01/agenda-for-the-january-26th-support-meeting/)
 - [Summary for January 19th Support Meeting](https://make.wordpress.org/support/2023/01/summary-for-january-19th-support-meeting/)
 - [Agenda for the January 19th Support Meeting](https://make.wordpress.org/support/2023/01/agenda-for-the-january-19th-support-meeting/)
@@ -81,8 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: DevHub getting a new look](https://make.wordpress.org/support/2022/11/xpost-devhub-getting-a-new-look/)
 - [November 17th Support Team Meeting Summary](https://make.wordpress.org/support/2022/11/november-17th-support-team-meeting-summary-2/)
 - [Call for Support Team Representative&lpar;s&rpar;](https://make.wordpress.org/support/2022/11/call-for-support-team-representatives/)
-- [Agenda: Support Team Meeting Thursday November 10, 2022](https://make.wordpress.org/support/2022/11/agenda-support-team-meeting-thursday-november-11-2022/)
-- [October 27th Support Team Meeting Summary](https://make.wordpress.org/support/2022/10/october-27th-support-team-meeting-summary-2/)
 <!-- SUPPORT:END -->
 
 ## Documentation
