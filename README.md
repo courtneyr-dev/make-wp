@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [EP12: Block Pattern : Create and Submit | Bangla](https://learn.wordpress.org/?meeting=ep12-block-pattern-create-and-submit-bangla)
+- [EP11: Block Editor &lpar;Gutenberg&rpar; : Settings | Bangla](https://learn.wordpress.org/?meeting=ep11-block-editor-gutenberg-settings-bangla)
 - [EP10: Block Editor &lpar;Gutenberg&rpar; : What and How | Bangla](https://learn.wordpress.org/?meeting=ep10-block-editor-gutenberg-what-and-how-bangla)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.1](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-1)
 - [Live stream: Integrating OpenAI with a custom block](https://learn.wordpress.org/?meeting=live-stream-integrating-openai-with-a-custom-block-2)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress development live stream: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-interacting-with-the-wp-rest-api)
 - [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://learn.wordpress.org/?meeting=create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d-2)
 - [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://learn.wordpress.org/?meeting=create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86)
-- [Images on the web — past present and future](https://learn.wordpress.org/?meeting=images-on-the-web-past-present-and-future)
-- [EP9: WooCommerce Settings and FAQ | Bangla](https://learn.wordpress.org/?meeting=ep9-woocommerce-settings-and-faq-bangla-2)
 <!-- SLS:END -->
 
 ## Test
