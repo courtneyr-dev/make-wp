@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE Request](https://make.wordpress.org/polyglots/2023/02/02/clpte-request-9/)
+- [Locale Request for Toki Pona…](https://make.wordpress.org/polyglots/2023/02/02/locale-request-for-toki-pona/)
 - [PTE Request for Table Rate…](https://make.wordpress.org/polyglots/2023/02/02/pte-request-for-table-rate/)
 - [Hello, please make @kabeza PTE…](https://make.wordpress.org/polyglots/2023/02/01/hello-please-make-kabeza-pte/)
 - [Agenda: Weekly Polyglots Chat – February 01, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/01/agenda-weekly-polyglots-chat-february-01-2023-1300-utc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polyglots Outreach Effort: February 2023](https://make.wordpress.org/polyglots/2023/01/31/polyglots-outreach-effort-february-2023/)
 - [Hide My WP Ghost –…](https://make.wordpress.org/polyglots/2023/01/30/hide-my-wp-ghost/)
 - [CLPTE Request for Funnelforms Free](https://make.wordpress.org/polyglots/2023/01/30/pte-request-for-funnelforms-free-2/)
-- [PTE Request for WP Prayer](https://make.wordpress.org/polyglots/2023/01/28/pte-request-for-wp-prayer-5/)
-- [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/28/korean-pte-request-for-several-plugins-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
