@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WORDPRESS SITE](https://jobs.wordpress.net/job/wordpress-site-5/)
+- [PPC Specialist](https://jobs.wordpress.net/job/ppc-specialist/)
+- [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-26/)
+- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-4/)
 - [Technical content writer](https://jobs.wordpress.net/job/technical-content-writer-2/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-95/)
 - [Full Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-10/)
 - [SEO, Google ads and WEB DEVELOPER](https://jobs.wordpress.net/job/seo-google-ads-and-web-developer/)
 - [Senior Backend Developer &lpar; WordPress, WooCommerce, Laravel &rpar;](https://jobs.wordpress.net/job/senior-backend-developer-wordpress-woocommerce-laravel-4/)
 - [Put on apt -jetpack](https://jobs.wordpress.net/job/put-on-apt-jetpack/)
-- [WordPress designer](https://jobs.wordpress.net/job/wordpress-designer-53/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-786/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-4/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-5/)
 <!-- JOBS:END -->
 
 ## Central
