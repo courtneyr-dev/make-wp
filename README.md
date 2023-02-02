@@ -9,7 +9,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 31 January 2023](https://make.wordpress.org/core/2023/01/31/performance-team-meeting-summary-31-january-2023/)
 - [Dev Chat Agenda: February 1, 2023](https://make.wordpress.org/core/2023/01/31/dev-chat-agenda-february-1-2023/)
 - [Performance Chat Agenda: 31 January 2023](https://make.wordpress.org/core/2023/01/31/performance-chat-agenda-31-january-2023/)
-- [A Week in Core – January 30, 2022](https://make.wordpress.org/core/2023/01/30/a-week-in-core-january-30-2022/)
+- [A Week in Core – January 30, 2023](https://make.wordpress.org/core/2023/01/30/a-week-in-core-january-30-2023/)
 - [Editor Chat Agenda: February 1st 2023](https://make.wordpress.org/core/2023/01/30/editor-chat-agenda-february-1st-2023/)
 - [Core Editor chat summary: 25th January 2023](https://make.wordpress.org/core/2023/01/30/core-editor-chat-summary-25th-january-2023/)
 - [Dev Chat summary, January 25, 2023](https://make.wordpress.org/core/2023/01/27/dev-chat-summary-january-25-2023/)
