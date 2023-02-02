@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Table Rate…](https://make.wordpress.org/polyglots/2023/02/02/pte-request-for-table-rate/)
 - [Hello, please make @kabeza PTE…](https://make.wordpress.org/polyglots/2023/02/01/hello-please-make-kabeza-pte/)
 - [Agenda: Weekly Polyglots Chat – February 01, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/01/agenda-weekly-polyglots-chat-february-01-2023-1300-utc/)
 - [PTE Request for Auto Image…](https://make.wordpress.org/polyglots/2023/01/31/pte-request-for-auto-image/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE Request for Funnelforms Free](https://make.wordpress.org/polyglots/2023/01/30/pte-request-for-funnelforms-free-2/)
 - [PTE Request for WP Prayer](https://make.wordpress.org/polyglots/2023/01/28/pte-request-for-wp-prayer-5/)
 - [Korean PTE Request for several plugins](https://make.wordpress.org/polyglots/2023/01/28/korean-pte-request-for-several-plugins-2/)
-- [PTE Request for Under Construction theme](https://make.wordpress.org/polyglots/2023/01/27/pte-request-for-under-construction-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
