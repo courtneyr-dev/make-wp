@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Explore with Me: What’s New In Gutenberg? Session 2](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-2)
+- [Explore with Me: What’s New In Gutenberg? Session 1](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-1)
 - [EP12: Block Pattern : Create and Submit | Bangla](https://learn.wordpress.org/?meeting=ep12-block-pattern-create-and-submit-bangla)
 - [EP11: Block Editor &lpar;Gutenberg&rpar; : Settings | Bangla](https://learn.wordpress.org/?meeting=ep11-block-editor-gutenberg-settings-bangla)
 - [EP10: Block Editor &lpar;Gutenberg&rpar; : What and How | Bangla](https://learn.wordpress.org/?meeting=ep10-block-editor-gutenberg-what-and-how-bangla)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events APAC](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-apac)
 - [Let’s code: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=lets-code-interacting-with-the-wp-rest-api)
 - [WordPress development live stream: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-interacting-with-the-wp-rest-api)
-- [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://learn.wordpress.org/?meeting=create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d-2)
-- [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://learn.wordpress.org/?meeting=create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86)
 <!-- SLS:END -->
 
 ## Test
