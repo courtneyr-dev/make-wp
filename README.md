@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s make custom templates in the Site Editor!](https://wordpress.tv/2023/02/02/lets-make-custom-templates-in-the-site-editor/)
 - [The Future Of Themes: Designing for the Block Editor and Beyond](https://wordpress.tv/2023/01/30/the-future-of-themes-designing-for-the-block-editor-and-beyond-2/)
 - [Factores a tener en cuenta a la hora de crear una Academia Online con WordPress](https://wordpress.tv/2023/01/29/factores-a-tener-en-cuenta-a-la-hora-de-crear-una-academia-online-con-wordpress/)
 - [Courtney Robertson, Sarah Snow: Call For Testing: Find Your Style](https://wordpress.tv/2023/01/27/courtney-robertson-sarah-snow-call-for-testing-find-your-style/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Site Editing &lpar;Taller&rpar;](https://wordpress.tv/2023/01/26/full-site-editing-taller/)
 - [Patterns, Reusable Blocks and Block Locking](https://wordpress.tv/2023/01/24/patterns-reusable-blocks-and-block-locking/)
 - [How to improve SEO rankings](https://wordpress.tv/2023/01/24/how-to-improve-seo-rankings/)
-- [Alina Kakshapati: WordPress as a Career](https://wordpress.tv/2023/01/24/alina-kakshapati-wordpress-as-a-career/)
 <!-- WPTV:END -->
 
 ## Marketing
