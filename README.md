@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introduction to securely developing plugins](https://wordpress.tv/2023/02/03/introduction-to-securely-developing-plugins/)
 - [WordPress Through The Terminal](https://wordpress.tv/2023/02/02/wordpress-through-the-terminal-2/)
 - [Let’s make custom templates in the Site Editor!](https://wordpress.tv/2023/02/02/lets-make-custom-templates-in-the-site-editor/)
 - [The Future Of Themes: Designing for the Block Editor and Beyond](https://wordpress.tv/2023/01/30/the-future-of-themes-designing-for-the-block-editor-and-beyond-2/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creciendo con WordPress: qué charla la de aquel evento](https://wordpress.tv/2023/01/26/creciendo-con-wordpress-que-charla-la-de-aquel-evento/)
 - [Rendimiento y optimización para WordPress en 2023](https://wordpress.tv/2023/01/26/rendimiento-y-optimizacion-para-wordpress-en-2023/)
 - [Full Site Editing &lpar;Taller&rpar;](https://wordpress.tv/2023/01/26/full-site-editing-taller/)
-- [Patterns, Reusable Blocks and Block Locking](https://wordpress.tv/2023/01/24/patterns-reusable-blocks-and-block-locking/)
 <!-- WPTV:END -->
 
 ## Marketing
