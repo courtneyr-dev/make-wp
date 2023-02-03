@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: WP REST API – modifying responses](https://wordpress.tv/2023/02/03/lets-code-wp-rest-api-modifying-responses/)
 - [Introduction to securely developing plugins](https://wordpress.tv/2023/02/03/introduction-to-securely-developing-plugins/)
 - [WordPress Through The Terminal](https://wordpress.tv/2023/02/02/wordpress-through-the-terminal-2/)
 - [Let’s make custom templates in the Site Editor!](https://wordpress.tv/2023/02/02/lets-make-custom-templates-in-the-site-editor/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2023/01/26/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf/)
 - [Creciendo con WordPress: qué charla la de aquel evento](https://wordpress.tv/2023/01/26/creciendo-con-wordpress-que-charla-la-de-aquel-evento/)
 - [Rendimiento y optimización para WordPress en 2023](https://wordpress.tv/2023/01/26/rendimiento-y-optimizacion-para-wordpress-en-2023/)
-- [Full Site Editing &lpar;Taller&rpar;](https://wordpress.tv/2023/01/26/full-site-editing-taller/)
 <!-- WPTV:END -->
 
 ## Marketing
