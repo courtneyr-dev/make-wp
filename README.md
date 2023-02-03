@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer, Full Stack](https://jobs.wordpress.net/job/wordpress-developer-full-stack/)
 - [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role-2/)
 - [Cause Marketing Developer Partners – for Driving Safety](https://jobs.wordpress.net/job/cause-marketing-developer-partners-for-driving-safety/)
 - [WORDPRESS SITE](https://jobs.wordpress.net/job/wordpress-site-5/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Technical content writer](https://jobs.wordpress.net/job/technical-content-writer-2/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-95/)
 - [Full Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-10/)
-- [SEO, Google ads and WEB DEVELOPER](https://jobs.wordpress.net/job/seo-google-ads-and-web-developer/)
 <!-- JOBS:END -->
 
 ## Central
