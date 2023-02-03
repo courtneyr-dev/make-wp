@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GlotPress as a Local Translation Plugin](https://make.wordpress.org/polyglots/2023/02/03/glotpress-as-a-local-translation-plugin/)
 - [CLPTE Request](https://make.wordpress.org/polyglots/2023/02/02/clpte-request-9/)
 - [Locale Request for Toki Pona…](https://make.wordpress.org/polyglots/2023/02/02/locale-request-for-toki-pona/)
 - [PTE Request for Table Rate…](https://make.wordpress.org/polyglots/2023/02/02/pte-request-for-table-rate/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/01/31/i-am-the-plugin-author-33/)
 - [Polyglots Outreach Effort: February 2023](https://make.wordpress.org/polyglots/2023/01/31/polyglots-outreach-effort-february-2023/)
 - [Hide My WP Ghost –…](https://make.wordpress.org/polyglots/2023/01/30/hide-my-wp-ghost/)
-- [CLPTE Request for Funnelforms Free](https://make.wordpress.org/polyglots/2023/01/30/pte-request-for-funnelforms-free-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
