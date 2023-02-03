@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [New Learn WordPress GitHub Project View Updates](https://make.wordpress.org/training/2023/02/03/new-learn-wordpress-github-project-view-updates/)
 - [Training Team Values Exercise Recap](https://make.wordpress.org/training/2023/02/02/training-team-values-exercise-recap/)
 - [Training Team Meeting Recap for January 24, 2023](https://make.wordpress.org/training/2023/02/01/training-team-meeting-recap-for-january-24-2023/)
 - [Meeting Agenda for January 31, 2023](https://make.wordpress.org/training/2023/01/30/meeting-agenda-for-january-31-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meet your 2023 Training Team Representatives](https://make.wordpress.org/training/2023/01/23/meet-your-2023-training-team-representatives/)
 - [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/training/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
 - [Bite-sized content on Learn WordPress](https://make.wordpress.org/training/2023/01/18/bite-sized-content-on-learn-wordpress/)
-- [Summary Update: Courses Currently in Development &lpar;16 January 2023&rpar;](https://make.wordpress.org/training/2023/01/16/summary-update-courses-currently-in-development-16-january-2023/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
