@@ -282,6 +282,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=27874)
+- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-7)
+- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-6)
 - [Let’s code: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-custom-routes-and-endpoints)
 - [WP dev livestream: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=27869)
 - [Explore with Me: What’s New In Gutenberg? Session 2](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-2)
@@ -304,9 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Adding Custom CSS to Block Themes](https://learn.wordpress.org/?meeting=builder-basics-adding-custom-css-to-block-themes)
 - [Let’s code: WP REST API updates, custom fields, and authentication](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-updates-custom-fields-and-authentication)
 - [WordPress development live stream: REST API updates, custom fields, auth](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-rest-api-updates-custom-fields-auth)
-- [WordPress Through The Terminal](https://learn.wordpress.org/?meeting=wordpress-through-the-terminal)
-- [The Future Of Themes: Designing for the Block Editor and Beyond](https://learn.wordpress.org/?meeting=the-future-of-themes-designing-for-the-block-editor-and-beyond)
-- [How to Own Your Expertise &amp; Start Speaking at WordPress Events APAC](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-apac)
 <!-- SLS:END -->
 
 ## Test
