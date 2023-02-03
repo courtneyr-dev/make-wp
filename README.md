@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-custom-routes-and-endpoints)
+- [WP dev livestream: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=27869)
 - [Explore with Me: What’s New In Gutenberg? Session 2](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-2)
 - [Explore with Me: What’s New In Gutenberg? Session 1](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-1)
 - [EP12: Block Pattern : Create and Submit | Bangla](https://learn.wordpress.org/?meeting=ep12-block-pattern-create-and-submit-bangla)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Through The Terminal](https://learn.wordpress.org/?meeting=wordpress-through-the-terminal)
 - [The Future Of Themes: Designing for the Block Editor and Beyond](https://learn.wordpress.org/?meeting=the-future-of-themes-designing-for-the-block-editor-and-beyond)
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events APAC](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-apac)
-- [Let’s code: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=lets-code-interacting-with-the-wp-rest-api)
-- [WordPress development live stream: Interacting with the WP REST API](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-interacting-with-the-wp-rest-api)
 <!-- SLS:END -->
 
 ## Test
