@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-2)
+- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 1](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-1)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=27874)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-7)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-6)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for Testing: Find Your Style &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=call-for-testing-find-your-style-interactive)
 - [Builder Basics: Block Styles vs. Block Variations](https://learn.wordpress.org/?meeting=builder-basics-block-styles-vs-block-variations)
 - [Builder Basics: Adding Custom CSS to Block Themes](https://learn.wordpress.org/?meeting=builder-basics-adding-custom-css-to-block-themes)
-- [Let’s code: WP REST API updates, custom fields, and authentication](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-updates-custom-fields-and-authentication)
-- [WordPress development live stream: REST API updates, custom fields, auth](https://learn.wordpress.org/?meeting=wordpress-development-live-stream-rest-api-updates-custom-fields-auth)
 <!-- SLS:END -->
 
 ## Test
