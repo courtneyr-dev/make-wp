@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WordPress Plugin.](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-wordpress-plugin/)
+- [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-12/)
+- [PTE Request for Word Count Analysis, Internal Link Flow &amp; Topical Authority &amp; Topical Map](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-word-count-analysis-internal-link-flow-topical-authority-topical-map/)
 - [PTE Request for Vik Booking…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-vik-booking/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/post-title-pte-request-for-57/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/03/post-title-pte-request-for-56/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GlotPress as a Local Translation Plugin](https://make.wordpress.org/polyglots/2023/02/03/glotpress-as-a-local-translation-plugin/)
 - [CLPTE Request](https://make.wordpress.org/polyglots/2023/02/02/clpte-request-9/)
 - [Locale Request for Toki Pona…](https://make.wordpress.org/polyglots/2023/02/02/locale-request-for-toki-pona/)
-- [PTE Request for Table Rate…](https://make.wordpress.org/polyglots/2023/02/02/pte-request-for-table-rate/)
-- [Hello, please make @kabeza PTE…](https://make.wordpress.org/polyglots/2023/02/01/hello-please-make-kabeza-pte/)
-- [Agenda: Weekly Polyglots Chat – February 01, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/01/agenda-weekly-polyglots-chat-february-01-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
