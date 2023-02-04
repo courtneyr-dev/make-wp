@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Phase 2, Finale](https://make.wordpress.org/core/2023/02/04/phase-2-finale/)
 - [Hallway Hangout: Performance Improvements for WordPress 6.2](https://make.wordpress.org/core/2023/02/03/hallway-hangout-performance-improvements-for-wordpress-6-2/)
 - [Developer Blog – Editorial meeting: February 2, 2023](https://make.wordpress.org/core/2023/02/02/developer-blog-editorial-meeting-february-2-2023/)
 - [Automated performance monitoring in WordPress core](https://make.wordpress.org/core/2023/02/02/automated-performance-monitoring-in-wordpress-core/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Agenda: February 1, 2023](https://make.wordpress.org/core/2023/01/31/dev-chat-agenda-february-1-2023/)
 - [Performance Chat Agenda: 31 January 2023](https://make.wordpress.org/core/2023/01/31/performance-chat-agenda-31-january-2023/)
 - [A Week in Core – January 30, 2023](https://make.wordpress.org/core/2023/01/30/a-week-in-core-january-30-2023/)
-- [Editor Chat Agenda: February 1st 2023](https://make.wordpress.org/core/2023/01/30/editor-chat-agenda-february-1st-2023/)
 <!-- CORE:END -->
 
 ## Design
