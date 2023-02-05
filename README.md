@@ -63,12 +63,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WordPress Plugin](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-3/)
 - [PTE Request for WordPress Plugin…](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-2/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/05/post-title-pte-request-for-58/)
-- [PTE Request for WordPress Plugin.](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-wordpress-plugin/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-12/)
 - [PTE Request for Word Count Analysis, Internal Link Flow &amp; Topical Authority &amp; Topical Map](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-word-count-analysis-internal-link-flow-topical-authority-topical-map/)
 - [PTE Request for Vik Booking…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-vik-booking/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/post-title-pte-request-for-57/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/03/post-title-pte-request-for-56/)
+- [PTE Request for BuddyPress I’ve…](https://make.wordpress.org/polyglots/2023/02/03/pte-request-for-buddypress-ive/)
 <!-- POLYGLOTS:END -->
 
 ## Support
