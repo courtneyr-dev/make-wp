@@ -59,8 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’m requiered to have experience…](https://make.wordpress.org/polyglots/2023/02/05/im-requiered-to-have-experience/)
 - [PTE Request for WordPress Plugin](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-4/)
-- [PTE Request for WordPress Plugin](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-3/)
 - [PTE Request for WordPress Plugin…](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-2/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/05/post-title-pte-request-for-58/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-12/)
