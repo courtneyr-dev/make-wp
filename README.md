@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/05/post-title-pte-request-for-58/)
 - [PTE Request for WordPress Plugin.](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-wordpress-plugin/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-12/)
 - [PTE Request for Word Count Analysis, Internal Link Flow &amp; Topical Authority &amp; Topical Map](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-word-count-analysis-internal-link-flow-topical-authority-topical-map/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for BuddyPress I’ve…](https://make.wordpress.org/polyglots/2023/02/03/pte-request-for-buddypress-ive/)
 - [GlotPress as a Local Translation Plugin](https://make.wordpress.org/polyglots/2023/02/03/glotpress-as-a-local-translation-plugin/)
 - [CLPTE Request](https://make.wordpress.org/polyglots/2023/02/02/clpte-request-9/)
-- [Locale Request for Toki Pona…](https://make.wordpress.org/polyglots/2023/02/02/locale-request-for-toki-pona/)
 <!-- POLYGLOTS:END -->
 
 ## Support
