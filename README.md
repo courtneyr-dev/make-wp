@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/plugins/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Twitter API Changes](https://make.wordpress.org/plugins/2023/02/03/twitter-api-changes/)
 - [Looking for your &lpar;intentionally&rpar; wrong plugins](https://make.wordpress.org/plugins/2023/01/13/looking-for-your-intentionally-wrong-plugins/)
 - [Plugin Guideline Update: Community Code of Conduct](https://make.wordpress.org/plugins/2022/12/21/plugin-guideline-update-community-code-of-conduct/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Reminder about Final Notices](https://make.wordpress.org/plugins/2022/10/11/reminder-about-final-notices/)
 - [Reminder: We will check your website](https://make.wordpress.org/plugins/2022/09/27/reminder-we-will-check-your-website/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/plugins/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
-- [Heroku Free Tier Being Retired](https://make.wordpress.org/plugins/2022/09/13/heroku-free-tier-being-retired/)
 <!-- PLUGINS:END -->
 
 ## Community
