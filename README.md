@@ -266,7 +266,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Part 2: Personalized Site Design with Full Site Editing and Theme Blocks](https://learn.wordpress.org/course/part-2-personalized-site-design-with-full-site-editing-and-theme-blocks/)
 - [Part 1: Simple Site Design with Full Site Editing](https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/)
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
-- [Getting Started With WordPress: Get Setup](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
+- [Getting Started With WordPress: Get Set Up](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
 - [How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
 - [WordCamp Organizer Training](https://learn.wordpress.org/course/wordcamp-organizer-training/)
 - [WordPress Community Deputy Training](https://learn.wordpress.org/course/wordpress-community-deputy-training/)
