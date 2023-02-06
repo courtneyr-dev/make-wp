@@ -381,6 +381,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/cli/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Good issues for new and existing contributors](https://make.wordpress.org/cli/2023/01/11/good-issues-for-new-and-existing-contributors-2/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/cli/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [WP-CLI v2.7.1 Release Notes](https://make.wordpress.org/cli/2022/10/18/wp-cli-v2-7-1-release-notes/)
@@ -390,7 +391,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/cli/2022/05/26/xpost-announcement-incident-response-training/)
 - [WP-CLI v2.6.0 Release Notes](https://make.wordpress.org/cli/2022/01/26/wp-cli-v2-6-0-release-notes/)
 - [X-post: Experiment: A Public Channel for All Team Reps](https://make.wordpress.org/cli/2021/05/25/xpost-experiment-a-public-channel-for-all-team-reps/)
-- [WP-CLI v2.5.0 Release Notes](https://make.wordpress.org/cli/2021/05/19/wp-cli-v2-5-0-release-notes/)
 <!-- CLI:END -->
 
 ## Hosting
