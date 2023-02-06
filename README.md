@@ -311,6 +311,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 6 February 2023](https://make.wordpress.org/test/2023/02/06/xpost-test-team-update-6-february-2023-2/)
+- [X-post: Test Team Update: 6 February 2023](https://make.wordpress.org/test/2023/02/06/xpost-test-team-update-6-february-2023/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/test/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [X-post: Test Team Update: 30 January 2023](https://make.wordpress.org/test/2023/01/31/xpost-test-team-update-30-january-2023/)
 - [Hallway Hangout: Themer Goodies Edition](https://make.wordpress.org/test/2023/01/25/hallway-hangout-themer-goodies-edition/)
@@ -319,8 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 16 January 2023](https://make.wordpress.org/test/2023/01/16/xpost-test-team-update-16-january-2023/)
 - [FSE Program Running Through Refinements Summary](https://make.wordpress.org/test/2023/01/16/fse-program-running-through-refinements-summary/)
 - [FSE Program Testing Call #20: Find Your Style](https://make.wordpress.org/test/2023/01/11/fse-program-testing-call-20-find-your-style/)
-- [X-post: Test Team Update: 9 January 2023](https://make.wordpress.org/test/2023/01/09/xpost-test-team-update-9-january-2023/)
-- [Proposal to Update Test Handbook Homepage](https://make.wordpress.org/test/2023/01/04/proposal-to-update-test-handbook-homepage/)
 <!-- TEST:END -->
 
 ## TV
