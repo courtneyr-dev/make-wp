@@ -31,6 +31,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Mobile
 <!-- MOBILE:START -->
+- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/mobile/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Call for Testing: WordPress for iOS 21.6](https://make.wordpress.org/mobile/2023/01/24/call-for-testing-wordpress-for-ios-21-6/)
 - [Call for Testing: WordPress for Android 21.4](https://make.wordpress.org/mobile/2022/12/20/call-for-testing-wordpress-for-android-21-4/)
 - [Call for Testing: WordPress for iOS 21.4](https://make.wordpress.org/mobile/2022/12/19/call-for-testing-wordpress-for-ios-21-4/)
@@ -40,7 +41,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for Testing: WordPress for Android 21.2](https://make.wordpress.org/mobile/2022/11/15/call-for-testing-wordpress-for-android-21-2/)
 - [Call for Testing: WordPress for iOS 21.2](https://make.wordpress.org/mobile/2022/11/14/call-for-testing-wordpress-for-ios-21-2/)
 - [Call for Testing: WordPress for Android 21.1](https://make.wordpress.org/mobile/2022/11/01/call-for-testing-wordpress-for-android-21-1/)
-- [Call for Testing: WordPress for iOS 21.1](https://make.wordpress.org/mobile/2022/11/01/call-for-testing-wordpress-for-ios-21-1/)
 <!-- MOBILE:END -->
 
 ## Accessibility
