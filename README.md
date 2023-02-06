@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Update plugins.trac templates](https://make.wordpress.org/systems/2023/02/06/update-plugins-trac-templates/)
 - [Spam on mailing lists](https://make.wordpress.org/systems/2023/02/06/spam-on-mailing-lists/)
 - [MC Access for Peter Wilson](https://make.wordpress.org/systems/2023/01/13/mc-access-for-peter-wilson/)
 - [Enable HTTP redirect endpoint on pd.w.org](https://make.wordpress.org/systems/2023/01/12/enable-http-redirect-endpoint-on-pd-w-org/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [IP connectivity problem debug request](https://make.wordpress.org/systems/2022/12/06/ip-connectivity-problem-debug-request/)
 - [Dedicated uploads CDN](https://make.wordpress.org/systems/2022/12/05/dedicated-uploads-cdn/)
 - [Add proxy for samsuresh and unintended8](https://make.wordpress.org/systems/2022/11/30/add-proxy-for-samsuresh-and-unintended8/)
-- [FreeScout for WordCamp events](https://make.wordpress.org/systems/2022/11/30/freescout-for-wordcamp-events/)
 <!-- SYSTEMS:END -->
 
 ## News
