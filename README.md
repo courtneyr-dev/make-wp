@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [साइट संपादक और टेम्प्लेट का परिचय](https://learn.wordpress.org/lesson-plan/hi-intro-to-the-site-editor-and-templates/)
 - [પૃષ્ઠો વિ. પોસ્ટ્સ](https://learn.wordpress.org/lesson-plan/gu-pages-vs-posts/)
 - [ફરીથી વાપરી શકાય તેવા બ્લોક્સ, બ્લોકના પેટર્ન, ટેમ્પલેટ્સ, ટેમ્પલેટના ભાગો વચ્ચેનો તફાવત](https://learn.wordpress.org/lesson-plan/gu-difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [Pengenalan Dasbor WordPress](https://learn.wordpress.org/lesson-plan/id-dashboard-overview/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Template Editor](https://learn.wordpress.org/lesson-plan/template-editor/)
 - [What Is W3 Total Cache](https://learn.wordpress.org/lesson-plan/what-is-w3-total-cache/)
 - [Upload a Theme to the WordPress Repository](https://learn.wordpress.org/lesson-plan/upload-a-theme-to-the-wordpress-repository/)
-- [Intro to the Site Editor and Templates](https://learn.wordpress.org/lesson-plan/intro-to-site-editor-and-templates/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
