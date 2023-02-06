@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Essential Blocks for Gutenberg](https://make.wordpress.org/polyglots/2023/02/06/pte-request-for-essential-blocks-for-gutenberg/)
+- [PTE Request for Rest-Cent Donations](https://make.wordpress.org/polyglots/2023/02/06/pte-request-for-rest-cent-donations/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/polyglots/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [I’m requiered to have experience…](https://make.wordpress.org/polyglots/2023/02/05/im-requiered-to-have-experience/)
 - [PTE Request for WordPress Plugin](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-4/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-12/)
 - [PTE Request for Word Count Analysis, Internal Link Flow &amp; Topical Authority &amp; Topical Map](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-word-count-analysis-internal-link-flow-topical-authority-topical-map/)
 - [PTE Request for Vik Booking…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-vik-booking/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/post-title-pte-request-for-57/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/03/post-title-pte-request-for-56/)
 <!-- POLYGLOTS:END -->
 
 ## Support
