@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/polyglots/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [I’m requiered to have experience…](https://make.wordpress.org/polyglots/2023/02/05/im-requiered-to-have-experience/)
 - [PTE Request for WordPress Plugin](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-4/)
 - [PTE Request for WordPress Plugin…](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Vik Booking…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-vik-booking/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/post-title-pte-request-for-57/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/03/post-title-pte-request-for-56/)
-- [PTE Request for BuddyPress I’ve…](https://make.wordpress.org/polyglots/2023/02/03/pte-request-for-buddypress-ive/)
 <!-- POLYGLOTS:END -->
 
 ## Support
