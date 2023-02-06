@@ -395,6 +395,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/hosting/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/hosting/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
 - [Advanced Administration Handbook: Status 2023-01-15](https://make.wordpress.org/hosting/2023/01/15/advanced-administration-handbook-status-2023-01-15/)
 - [WordPress Hosting Team 2022 recap](https://make.wordpress.org/hosting/2022/12/28/2022-recap/)
@@ -404,7 +405,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Server Environment for WordPress 6.1](https://make.wordpress.org/hosting/2022/11/23/server-environment-for-wordpress-6-1/)
 - [Nominations for Hosting Team Reps 2023](https://make.wordpress.org/hosting/2022/11/09/nominations-for-hosting-team-reps-2023/)
 - [Call For Action – Testing Rollback Feature](https://make.wordpress.org/hosting/2022/10/19/call-for-action-testing-rollback-feature/)
-- [X-post: New cache Site Health checks in WordPress 6.1](https://make.wordpress.org/hosting/2022/10/08/xpost-new-cache-site-health-checks-in-wordpress-6-1/)
 <!-- HOSTING:END -->
 
 ## Tide
