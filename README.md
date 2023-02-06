@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Spam on mailing lists](https://make.wordpress.org/systems/2023/02/06/spam-on-mailing-lists/)
 - [MC Access for Peter Wilson](https://make.wordpress.org/systems/2023/01/13/mc-access-for-peter-wilson/)
 - [Enable HTTP redirect endpoint on pd.w.org](https://make.wordpress.org/systems/2023/01/12/enable-http-redirect-endpoint-on-pd-w-org/)
 - [Remove/Increase showcase rate limits](https://make.wordpress.org/systems/2022/12/21/remove-increase-showcase-rate-limits/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dedicated uploads CDN](https://make.wordpress.org/systems/2022/12/05/dedicated-uploads-cdn/)
 - [Add proxy for samsuresh and unintended8](https://make.wordpress.org/systems/2022/11/30/add-proxy-for-samsuresh-and-unintended8/)
 - [FreeScout for WordCamp events](https://make.wordpress.org/systems/2022/11/30/freescout-for-wordcamp-events/)
-- [IP blocked from plugins.svn?](https://make.wordpress.org/systems/2022/10/31/ip-blocked-from-plugins-svn/)
 <!-- SYSTEMS:END -->
 
 ## News
