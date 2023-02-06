@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-6/)
 - [Google Feed &amp; Table Rate Shipping](https://jobs.wordpress.net/job/google-feed-table-rate-shipping/)
 - [Senior WordPress Developer with strong React, Node.js &amp; Gutenberg experience](https://jobs.wordpress.net/job/senior-wordpress-developer-with-strong-react-node-js-gutenberg-experience/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-787/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cause Marketing Developer Partners – for Driving Safety](https://jobs.wordpress.net/job/cause-marketing-developer-partners-for-driving-safety/)
 - [WORDPRESS SITE](https://jobs.wordpress.net/job/wordpress-site-5/)
 - [PPC Specialist](https://jobs.wordpress.net/job/ppc-specialist/)
-- [Senior Web Developer](https://jobs.wordpress.net/job/senior-web-developer-26/)
 <!-- JOBS:END -->
 
 ## Central
