@@ -409,6 +409,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Tide
 <!-- TIDE:START -->
+- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/tide/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/tide/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/tide/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tide/2022/05/26/xpost-announcement-incident-response-training/)
@@ -418,7 +419,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CANCELLED Tide Chat: February 1st](https://make.wordpress.org/tide/2022/01/31/cancelled-tide-chat-february-1st/)
 - [Tide Chat Agenda: January 18th](https://make.wordpress.org/tide/2022/01/17/tide-chat-agenda-january-18th/)
 - [Tide Chat Summary: November 23rd](https://make.wordpress.org/tide/2021/11/24/tide-chat-summary-november-23rd/)
-- [Tide Chat Agenda: November 23rd](https://make.wordpress.org/tide/2021/11/22/tide-chat-agenda-november-23rd/)
 <!-- TIDE:END -->
 
 ## Openverse
