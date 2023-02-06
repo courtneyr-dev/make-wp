@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/design/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Design Share: Jan 16-Jan 27](https://make.wordpress.org/design/2023/01/30/design-share-jan-16-jan-27/)
 - [X-post: WordPress.org Redesign Recent Launches](https://make.wordpress.org/design/2023/01/26/xpost-wordpress-org-redesign-recent-launches/)
 - [A refresh of WordPress.org/themes](https://make.wordpress.org/design/2023/01/16/a-refresh-of-wordpress-org-themes/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/design/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [Design Share: Nov 21–Dec 2](https://make.wordpress.org/design/2022/12/05/design-share-nov-21-dec-2/)
 - [X-post: DevHub getting a new look](https://make.wordpress.org/design/2022/11/22/xpost-devhub-getting-a-new-look/)
-- [Design Share: Nov 7 – Nov 18](https://make.wordpress.org/design/2022/11/21/design-share-nov-7-nov-18/)
 <!-- DESIGN:END -->
 
 ## Mobile
