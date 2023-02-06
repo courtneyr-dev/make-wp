@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/docs/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Onboarding session for GitHub-related roles](https://make.wordpress.org/docs/2023/02/03/onboarding-session-for-github-related-roles/)
 - [Summary for docs team meeting, January 24, 2023](https://make.wordpress.org/docs/2023/01/31/summary-for-docs-team-meeting-january-24-2023/)
 - [X-post: WordPress.org Redesign Recent Launches](https://make.wordpress.org/docs/2023/01/26/xpost-wordpress-org-redesign-recent-launches/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/docs/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
 - [X-post: Can you help with topics for the WordPress Developer Blog?](https://make.wordpress.org/docs/2023/01/17/xpost-can-you-help-with-topics-for-the-wordpress-developer-blog/)
 - [Development and design work continues on Helphub](https://make.wordpress.org/docs/2023/01/16/developing-and-design-work-continues-on-helphub/)
-- [X-post: Advanced Administration Handbook: Status 2023-01-15](https://make.wordpress.org/docs/2023/01/15/xpost-advanced-administration-handbook-status-2023-01-15/)
 <!-- DOCS:END -->
 
 ### Support Articles
