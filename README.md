@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.2 Beta 1](https://wordpress.org/news/2023/02/wordpress-6-2-beta-1/)
 - [The Month in WordPress – January 2023](https://wordpress.org/news/2023/02/the-month-in-wordpress-january-2023/)
 - [People of WordPress: Daniel Kossmann](https://wordpress.org/news/2023/01/people-of-wordpress-daniel-kossmann/)
 - [WP Briefing: Episode 48: What Does Concluding a Gutenberg Phase Really Mean?](https://wordpress.org/news/2023/01/episode-48-what-does-concluding-a-gutenberg-phase-really-mean/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress is Turning 20: Let’s Celebrate!](https://wordpress.org/news/2023/01/wordpress-is-turning-20-lets-celebrate/)
 - [WP Briefing: Episode 46: The WP Bloopers Podcast](https://wordpress.org/news/2022/12/episode-46-the-wp-bloopers-podcast/)
 - [WP Briefing: Episode 45: State of the Word Reflections](https://wordpress.org/news/2022/12/episode-45-state-of-the-word-reflections/)
-- [The Month in WordPress – November 2022](https://wordpress.org/news/2022/12/the-month-in-wordpress-november-2022/)
 <!-- NEWS:END -->
 
 ## Jobs
