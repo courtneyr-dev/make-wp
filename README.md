@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Custom Cart Link for WooCommerce](https://make.wordpress.org/polyglots/2023/02/08/pte-request-for-custom-cart-link-for-woocommerce/)
+- [We’d like to be able…](https://make.wordpress.org/polyglots/2023/02/08/wed-like-to-be-able/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/polyglots/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [Agenda: Weekly Polyglots Chat – February 08, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/07/agenda-weekly-polyglots-chat-february-08-2023-0700-utc/)
 - [PTE Request for Essential Blocks for Gutenberg](https://make.wordpress.org/polyglots/2023/02/06/pte-request-for-essential-blocks-for-gutenberg/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’m requiered to have experience…](https://make.wordpress.org/polyglots/2023/02/05/im-requiered-to-have-experience/)
 - [PTE Request for WordPress Plugin](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-4/)
 - [PTE Request for WordPress Plugin…](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-2/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/05/post-title-pte-request-for-58/)
-- [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/04/pte-request-for-12/)
 <!-- POLYGLOTS:END -->
 
 ## Support
