@@ -423,6 +423,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/openverse/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [Community Meeting Recap &lpar;07 February 2023&rpar;](https://make.wordpress.org/openverse/2023/02/07/community-meeting-recap-07-february-2023/)
 - [Openverse is Moving!](https://make.wordpress.org/openverse/2023/02/03/openverse-is-moving/)
 - [Community Meeting Recap &lpar;31 January 2023&rpar;](https://make.wordpress.org/openverse/2023/02/01/community-meeting-recap-31-january-2023/)
@@ -432,7 +433,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Meeting Recap &lpar;10 January 2023&rpar;](https://make.wordpress.org/openverse/2023/01/10/community-meeting-recap-10-january-2023/)
 - [Openverse’s staging site has moved](https://make.wordpress.org/openverse/2023/01/06/openverses-staging-site-has-moved/)
 - [Community Meeting Recap &lpar;3 January 2023&rpar;](https://make.wordpress.org/openverse/2023/01/03/community-meeting-recap-3-january-2023/)
-- [Community Meeting Recap &lpar;20 December 2022&rpar;](https://make.wordpress.org/openverse/2022/12/20/community-meeting-recap-20-december-2022/)
 <!-- OPENVERSE:END -->
 
 ## Photos
