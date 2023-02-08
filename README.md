@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Customize WP JobManager plugin](https://jobs.wordpress.net/job/customize-wp-jobmanager-plugin/)
+- [SEO, WordPress Advance, Web scrapping Programmer, Mobile Developer and Backend Developer](https://jobs.wordpress.net/job/seo-wordpress-advance-web-scrapping-programmer-mobile-developer-and-backend-developer/)
+- [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-6/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-788/)
+- [Content Creator](https://jobs.wordpress.net/job/content-creator-2/)
+- [WordPress Engineer](https://jobs.wordpress.net/job/wordpress-engineer-22/)
+- [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-4/)
+- [Software Developer](https://jobs.wordpress.net/job/software-developer-26/)
 - [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-6/)
 - [Google Feed &amp; Table Rate Shipping](https://jobs.wordpress.net/job/google-feed-table-rate-shipping/)
-- [Senior WordPress Developer with strong React, Node.js &amp; Gutenberg experience](https://jobs.wordpress.net/job/senior-wordpress-developer-with-strong-react-node-js-gutenberg-experience/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-787/)
-- [Experienced WP developer](https://jobs.wordpress.net/job/experienced-wp-developer-2/)
-- [WordPress Developer, Full Stack](https://jobs.wordpress.net/job/wordpress-developer-full-stack/)
-- [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role-2/)
-- [Cause Marketing Developer Partners – for Driving Safety](https://jobs.wordpress.net/job/cause-marketing-developer-partners-for-driving-safety/)
-- [WORDPRESS SITE](https://jobs.wordpress.net/job/wordpress-site-5/)
-- [PPC Specialist](https://jobs.wordpress.net/job/ppc-specialist/)
 <!-- JOBS:END -->
 
 ## Central
