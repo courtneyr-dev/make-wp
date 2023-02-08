@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Apply to Attend the 2023 Community Summit](https://make.wordpress.org/community/2023/02/08/apply-to-attend-the-2023-community-summit/)
 - [X-post: Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2023/02/06/xpost-proposal-creating-a-wordpress-contributor-mentorship-program/)
 - [Community Booth at WordCamp Asia 2023](https://make.wordpress.org/community/2023/02/06/community-booth-at-wordcamp-asia-2023/)
 - [Update: APAC Meetup Reactivation Project](https://make.wordpress.org/community/2023/02/03/update-apac-meetup-reactivation-project/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WC Asia Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/01/30/wc-asia-contributor-day-what-should-we-work-on/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on January 25, 2023](https://make.wordpress.org/community/2023/01/25/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-january-25-2023/)
 - [WordPress Community Support &amp; WordPress Foundation Entity Structure](https://make.wordpress.org/community/2023/01/25/wordpress-community-support-wordpress-foundation-entity-structure/)
-- [Community Team Goals for 2023: Call for Suggestions](https://make.wordpress.org/community/2023/01/23/community-team-goals-for-2023-call-for-suggestions/)
 <!-- COMMUNITY:END -->
 
 ## Meta
