@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [What is Learn WordPress?](https://learn.wordpress.org/?meeting=what-is-learn-wordpress)
 - [How to create a video tutorial about WordPress &lpar;using free computer software&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-video-tutorial-about-wordpress-using-free-computer-software)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-8)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-2)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Deep Dive into WordPress Loops](https://learn.wordpress.org/?meeting=a-deep-dive-into-wordpress-loops)
 - [APAC: Using the Columns Block](https://learn.wordpress.org/?meeting=apac-using-the-columns-block)
 - [Using the Columns Block](https://learn.wordpress.org/?meeting=using-the-columns-block)
-- [Call for Testing: Find Your Style &lpar;Interactive&rpar;](https://learn.wordpress.org/?meeting=call-for-testing-find-your-style-interactive)
 <!-- SLS:END -->
 
 ## Test
