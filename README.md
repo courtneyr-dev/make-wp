@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Botiga theme](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-botiga-theme/)
+- [Norwegian Bokmål translations for Formality…](https://make.wordpress.org/polyglots/2023/02/09/norwegian-bokmal-translations-for-formality/)
 - [PTE Request for Custom Cart Link for WooCommerce](https://make.wordpress.org/polyglots/2023/02/08/pte-request-for-custom-cart-link-for-woocommerce/)
 - [We’d like to be able…](https://make.wordpress.org/polyglots/2023/02/08/wed-like-to-be-able/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/polyglots/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Rest-Cent Donations](https://make.wordpress.org/polyglots/2023/02/06/pte-request-for-rest-cent-donations/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/polyglots/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [I’m requiered to have experience…](https://make.wordpress.org/polyglots/2023/02/05/im-requiered-to-have-experience/)
-- [PTE Request for WordPress Plugin](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-4/)
-- [PTE Request for WordPress Plugin…](https://make.wordpress.org/polyglots/2023/02/05/pte-request-for-wordpress-plugin-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
