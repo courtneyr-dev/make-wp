@@ -9,10 +9,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours is returning](https://make.wordpress.org/core/2023/02/07/developer-hours-is-returning/)
 - [Performance Chat Summary: 7 February 2023](https://make.wordpress.org/core/2023/02/07/performance-team-meeting-summary-31-january-2023-2/)
 - [A Week in Core – February 6, 2023](https://make.wordpress.org/core/2023/02/07/a-week-in-core-february-6-2023/)
+- [Dev Chat agenda, February 8, 2023](https://make.wordpress.org/core/2023/02/07/dev-chat-agenda-february-8-2023/)
 - [Performance Chat Agenda: 7 February 2023](https://make.wordpress.org/core/2023/02/07/performance-chat-agenda-07-february-2023/)
 - [Roadmap to 6.2](https://make.wordpress.org/core/2023/02/06/roadmap-to-6-2/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/core/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
-- [Editor Chat Agenda: February 8, 2023](https://make.wordpress.org/core/2023/02/06/editor-chat-agenda-february-8-2023/)
 <!-- CORE:END -->
 
 ## Design
