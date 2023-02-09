@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Internal Link Juicer: SEO Auto Linker for WordPress](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-internal-link-juicer-seo-auto-linker-for-wordpress/)
+- [PTE Request for Duplicate Post](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-duplicate-post-2/)
+- [PTE Request for AI Engine &lpar;ChatGPT-like Chatbot, Content/Image Generator, AI Playground, AI Fine-tuning&rpar;](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-ai-engine-chatgpt-like-chatbot-content-image-generator-ai-playground-ai-fine-tuning/)
+- [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-rank-math-seo-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/02/09/hi-dear-mentors-we-have-107/)
 - [PTE Request for Botiga theme](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-botiga-theme/)
 - [Norwegian Bokmål translations for Formality…](https://make.wordpress.org/polyglots/2023/02/09/norwegian-bokmal-translations-for-formality/)
 - [PTE Request for Custom Cart Link for WooCommerce](https://make.wordpress.org/polyglots/2023/02/08/pte-request-for-custom-cart-link-for-woocommerce/)
 - [We’d like to be able…](https://make.wordpress.org/polyglots/2023/02/08/wed-like-to-be-able/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/polyglots/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
-- [Agenda: Weekly Polyglots Chat – February 08, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/07/agenda-weekly-polyglots-chat-february-08-2023-0700-utc/)
-- [PTE Request for Essential Blocks for Gutenberg](https://make.wordpress.org/polyglots/2023/02/06/pte-request-for-essential-blocks-for-gutenberg/)
-- [PTE Request for Rest-Cent Donations](https://make.wordpress.org/polyglots/2023/02/06/pte-request-for-rest-cent-donations/)
-- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/polyglots/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 <!-- POLYGLOTS:END -->
 
 ## Support
