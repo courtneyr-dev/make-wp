@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Migrating your WordPress website to a different host and domain](https://wordpress.tv/2023/02/08/migrating-your-wordpress-website-to-a-different-host-and-domain/)
 - [Builder Basics: Adding Custom CSS to Block Themes](https://wordpress.tv/2023/02/08/builder-basics-adding-custom-css-to-block-themes/)
 - [Creating a photography website with the block editor](https://wordpress.tv/2023/02/07/creating-a-photography-website-with-the-block-editor/)
 - [Let’s code: WP REST API – modifying responses](https://wordpress.tv/2023/02/03/lets-code-wp-rest-api-modifying-responses/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Antes y después – Rediseñando webs &lpar;Taller&rpar;](https://wordpress.tv/2023/01/26/antes-y-despues-redisenando-webs-taller/)
 - [¿Existe la Automatización Orientada a Objetos?](https://wordpress.tv/2023/01/26/existe-la-automatizacion-orientada-a-objetos/)
 - [Haciendo una web legible con WordPress. Taller de contraste de color](https://wordpress.tv/2023/01/26/haciendo-una-web-legible-con-wordpress-taller-de-contraste-de-color/)
-- [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2023/01/26/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf/)
 <!-- WPTV:END -->
 
 ## Marketing
