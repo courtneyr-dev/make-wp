@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Migrating your WordPress website to a different host and domain](https://learn.wordpress.org/tutorial/migrating-your-wordpress-website-to-a-different-host-and-domain/)
 - [Introduction to securely developing plugins](https://learn.wordpress.org/tutorial/introduction-to-securely-developing-plugins/)
 - [Using theme.json with classic themes](https://learn.wordpress.org/tutorial/using-theme-json-with-classic-themes/)
 - [How to improve SEO rankings](https://learn.wordpress.org/tutorial/how-to-improve-seo-rankings/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adding a Contact Form to Your Site](https://learn.wordpress.org/tutorial/adding-a-contact-form-to-your-site/)
 - [Managing Settings: Media](https://learn.wordpress.org/tutorial/managing-settings-media/)
 - [Uncovering the Cover Block](https://learn.wordpress.org/tutorial/uncovering-the-cover-block/)
-- [Adding a Pattern From the Pattern Directory to Your Theme](https://learn.wordpress.org/tutorial/adding-a-pattern-from-the-pattern-directory-to-your-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
