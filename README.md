@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/02/09/hi-dear-mentors-we-have-107/)
 - [PTE Request for Botiga theme](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-botiga-theme/)
 - [Norwegian Bokmål translations for Formality…](https://make.wordpress.org/polyglots/2023/02/09/norwegian-bokmal-translations-for-formality/)
 - [PTE Request for Custom Cart Link for WooCommerce](https://make.wordpress.org/polyglots/2023/02/08/pte-request-for-custom-cart-link-for-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Essential Blocks for Gutenberg](https://make.wordpress.org/polyglots/2023/02/06/pte-request-for-essential-blocks-for-gutenberg/)
 - [PTE Request for Rest-Cent Donations](https://make.wordpress.org/polyglots/2023/02/06/pte-request-for-rest-cent-donations/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/polyglots/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
-- [I’m requiered to have experience…](https://make.wordpress.org/polyglots/2023/02/05/im-requiered-to-have-experience/)
 <!-- POLYGLOTS:END -->
 
 ## Support
