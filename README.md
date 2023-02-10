@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [What is Learn WordPress? &lpar;Timezone 2&rpar;](https://learn.wordpress.org/?meeting=what-is-learn-wordpress-timezone-2)
 - [画像のSEO対策 〜WordPressでできること〜](https://learn.wordpress.org/?meeting=%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c-2)
 - [画像のSEO対策 〜WordPressでできること〜](https://learn.wordpress.org/?meeting=%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c)
 - [What is Learn WordPress?](https://learn.wordpress.org/?meeting=what-is-learn-wordpress)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-5)
 - [WordPress dev livestream: Extending the WP REST API – modifying responses](https://learn.wordpress.org/?meeting=wordpress-dev-livestream-extending-the-wp-rest-api-modifying-responses)
 - [Let’s code: extending the WP REST API – modifying responses](https://learn.wordpress.org/?meeting=lets-code-extending-the-wp-rest-api-modifying-responses)
-- [A Deep Dive into WordPress Loops](https://learn.wordpress.org/?meeting=a-deep-dive-into-wordpress-loops)
 <!-- SLS:END -->
 
 ## Test
