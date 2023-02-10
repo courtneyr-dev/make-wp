@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for bbPress. I’ve…](https://make.wordpress.org/polyglots/2023/02/10/pte-request-for-bbpress-ive/)
 - [PTE Request for Internal Link Juicer: SEO Auto Linker for WordPress](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-internal-link-juicer-seo-auto-linker-for-wordpress/)
 - [PTE Request for Duplicate Post](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-duplicate-post-2/)
 - [PTE Request for AI Engine &lpar;ChatGPT-like Chatbot, Content/Image Generator, AI Playground, AI Fine-tuning&rpar;](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-ai-engine-chatgpt-like-chatbot-content-image-generator-ai-playground-ai-fine-tuning/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Norwegian Bokmål translations for Formality…](https://make.wordpress.org/polyglots/2023/02/09/norwegian-bokmal-translations-for-formality/)
 - [PTE Request for Custom Cart Link for WooCommerce](https://make.wordpress.org/polyglots/2023/02/08/pte-request-for-custom-cart-link-for-woocommerce/)
 - [We’d like to be able…](https://make.wordpress.org/polyglots/2023/02/08/wed-like-to-be-able/)
-- [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/polyglots/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 <!-- POLYGLOTS:END -->
 
 ## Support
