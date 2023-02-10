@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Wp Job Manager – Customization of Job-Dashboard-Actions](https://jobs.wordpress.net/job/wp-job-manager-customization-of-job-dashboard-actions/)
+- [Website maintenance](https://jobs.wordpress.net/job/website-maintenance-2/)
+- [Archive old site](https://jobs.wordpress.net/job/archive-old-site/)
+- [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-7/)
 - [Customize WP JobManager plugin](https://jobs.wordpress.net/job/customize-wp-jobmanager-plugin/)
 - [SEO, WordPress Advance, Web scrapping Programmer, Mobile Developer and Backend Developer](https://jobs.wordpress.net/job/seo-wordpress-advance-web-scrapping-programmer-mobile-developer-and-backend-developer/)
 - [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-6/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-788/)
 - [Content Creator](https://jobs.wordpress.net/job/content-creator-2/)
 - [WordPress Engineer](https://jobs.wordpress.net/job/wordpress-engineer-22/)
-- [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-4/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-26/)
-- [SEO Specialist](https://jobs.wordpress.net/job/seo-specialist-6/)
-- [Google Feed &amp; Table Rate Shipping](https://jobs.wordpress.net/job/google-feed-table-rate-shipping/)
 <!-- JOBS:END -->
 
 ## Central
