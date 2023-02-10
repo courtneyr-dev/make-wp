@@ -338,6 +338,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [EP 12: Block Pattern : Create and Submit | Bangla](https://wordpress.tv/2023/02/10/ep-12-block-pattern-create-and-submit-bangla/)
+- [EP 11: Block Editor &lpar;Gutenberg&rpar; : Settings | Bangla](https://wordpress.tv/2023/02/10/ep-11-block-editor-gutenberg-settings-bangla/)
+- [EP 10: Block Editor &lpar;Gutenberg&rpar; : What and How | Bangla](https://wordpress.tv/2023/02/10/ep-10-block-editor-gutenberg-what-and-how-bangla/)
 - [Explore with Me: What’s New In Gutenberg?](https://wordpress.tv/2023/02/10/explore-with-me-whats-new-in-gutenberg/)
 - [Migrating your WordPress website to a different host and domain](https://wordpress.tv/2023/02/08/migrating-your-wordpress-website-to-a-different-host-and-domain/)
 - [Builder Basics: Adding Custom CSS to Block Themes](https://wordpress.tv/2023/02/08/builder-basics-adding-custom-css-to-block-themes/)
@@ -360,9 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPressformance: Capas de Cache](https://wordpress.tv/2023/01/26/wordpressformance-capas-de-cache/)
 - [HTML y CSS para trabajar en equipo](https://wordpress.tv/2023/01/26/html-y-css-para-trabajar-en-equipo/)
 - [WordPress y la API REST: usando WordPress como gestor de contenidos en aplicaciones externas](https://wordpress.tv/2023/01/26/wordpress-y-la-api-rest-usando-wordpress-como-gestor-de-contenidos-en-aplicaciones-externas/)
-- [Kit de Branding para Dummies y no Diseñadores](https://wordpress.tv/2023/01/26/kit-de-branding-para-dummies-y-no-disenadores/)
-- [Antes y después – Rediseñando webs &lpar;Taller&rpar;](https://wordpress.tv/2023/01/26/antes-y-despues-redisenando-webs-taller/)
-- [¿Existe la Automatización Orientada a Objetos?](https://wordpress.tv/2023/01/26/existe-la-automatizacion-orientada-a-objetos/)
 <!-- WPTV:END -->
 
 ## Marketing
