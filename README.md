@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to create a video tutorial about WordPress &lpar;using free computer software&rpar;](https://wordpress.tv/2023/02/10/how-to-create-a-video-tutorial-about-wordpress-using-free-computer-software/)
 - [Let’s code: WP REST API – custom routes and endpoints](https://wordpress.tv/2023/02/10/lets-code-wp-rest-api-custom-routes-and-endpoints/)
 - [EP 12: Block Pattern : Create and Submit | Bangla](https://wordpress.tv/2023/02/10/ep-12-block-pattern-create-and-submit-bangla/)
 - [EP 11: Block Editor &lpar;Gutenberg&rpar; : Settings | Bangla](https://wordpress.tv/2023/02/10/ep-11-block-editor-gutenberg-settings-bangla/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo crear una bolsa de trabajo con WordPress y Wp Job Manager](https://wordpress.tv/2023/01/26/como-crear-una-bolsa-de-trabajo-con-wordpress-y-wp-job-manager/)
 - [Cuenta un cuento que atraiga el dinero a tu web](https://wordpress.tv/2023/01/26/cuenta-un-cuento-que-atraiga-el-dinero-a-tu-web/)
 - [WordPressformance: Capas de Cache](https://wordpress.tv/2023/01/26/wordpressformance-capas-de-cache/)
-- [HTML y CSS para trabajar en equipo](https://wordpress.tv/2023/01/26/html-y-css-para-trabajar-en-equipo/)
 <!-- WPTV:END -->
 
 ## Marketing
