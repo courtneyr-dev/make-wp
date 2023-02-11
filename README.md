@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-2)
+- [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team)
 - [What is Learn WordPress? &lpar;Timezone 2&rpar;](https://learn.wordpress.org/?meeting=what-is-learn-wordpress-timezone-2)
 - [画像のSEO対策 〜WordPressでできること〜](https://learn.wordpress.org/?meeting=%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c-2)
 - [画像のSEO対策 〜WordPressでできること〜](https://learn.wordpress.org/?meeting=%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live stream: Integrating OpenAI with a custom block](https://learn.wordpress.org/?meeting=live-stream-integrating-openai-with-a-custom-block)
 - [Thessaloniki WordPress Meetup: Block Theme Workshop – Part 3](https://learn.wordpress.org/?meeting=thessaloniki-wordpress-meetup-block-theme-workshop-part-3)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-5)
-- [WordPress dev livestream: Extending the WP REST API – modifying responses](https://learn.wordpress.org/?meeting=wordpress-dev-livestream-extending-the-wp-rest-api-modifying-responses)
-- [Let’s code: extending the WP REST API – modifying responses](https://learn.wordpress.org/?meeting=lets-code-extending-the-wp-rest-api-modifying-responses)
 <!-- SLS:END -->
 
 ## Test
