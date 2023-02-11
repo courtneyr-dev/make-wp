@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://wordpress.tv/2023/02/10/create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86/)
 - [How to create a video tutorial about WordPress &lpar;using free computer software&rpar;](https://wordpress.tv/2023/02/10/how-to-create-a-video-tutorial-about-wordpress-using-free-computer-software/)
 - [Let’s code: WP REST API – custom routes and endpoints](https://wordpress.tv/2023/02/10/lets-code-wp-rest-api-custom-routes-and-endpoints/)
 - [EP 12: Block Pattern : Create and Submit | Bangla](https://wordpress.tv/2023/02/10/ep-12-block-pattern-create-and-submit-bangla/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Como añadir modelos 3D en nuestros productos](https://wordpress.tv/2023/01/26/como-anadir-modelos-3d-en-nuestros-productos/)
 - [Cómo crear una bolsa de trabajo con WordPress y Wp Job Manager](https://wordpress.tv/2023/01/26/como-crear-una-bolsa-de-trabajo-con-wordpress-y-wp-job-manager/)
 - [Cuenta un cuento que atraiga el dinero a tu web](https://wordpress.tv/2023/01/26/cuenta-un-cuento-que-atraiga-el-dinero-a-tu-web/)
-- [WordPressformance: Capas de Cache](https://wordpress.tv/2023/01/26/wordpressformance-capas-de-cache/)
 <!-- WPTV:END -->
 
 ## Marketing
