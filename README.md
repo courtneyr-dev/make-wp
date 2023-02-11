@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on February 8, 2023](https://make.wordpress.org/community/2023/02/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-february-8-2023/)
 - [2023 Global Sponsors: Announcement](https://make.wordpress.org/community/2023/02/08/2023-global-sponsors-announcement/)
 - [Apply to Attend the 2023 Community Summit](https://make.wordpress.org/community/2023/02/08/apply-to-attend-the-2023-community-summit/)
 - [X-post: Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2023/02/06/xpost-proposal-creating-a-wordpress-contributor-mentorship-program/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Mentors’ February check-in!](https://make.wordpress.org/community/2023/02/01/wordcamp-mentors-february-check-in/)
 - [Updates to the Regional WordCamps Handbook Page](https://make.wordpress.org/community/2023/01/31/updates-to-the-regional-wordcamps-handbook-page/)
 - [WC Asia Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/01/30/wc-asia-contributor-day-what-should-we-work-on/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on January 25, 2023](https://make.wordpress.org/community/2023/01/25/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-january-25-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
