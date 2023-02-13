@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [NavigatorToParentButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-to-parent-button/)
 - [@wordpress/private-apis](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-private-apis/)
 - [Custom block styles](https://developer.wordpress.org/themes/advanced-topics/custom-block-styles/)
 - [Common Vulnerabilities](https://developer.wordpress.org/apis/security/common-vulnerabilities/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Escaping Data](https://developer.wordpress.org/apis/security/escaping/)
 - [Validating Data](https://developer.wordpress.org/apis/security/data-validation/)
 - [Sanitizing Data](https://developer.wordpress.org/apis/security/sanitizing/)
-- [Security](https://developer.wordpress.org/apis/security/)
 <!-- DEVHUB:END -->
 
 ## Themes
