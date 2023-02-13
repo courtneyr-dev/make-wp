@@ -507,6 +507,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-25/)
+- [PHP/WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-31/)
 - [Writer](https://jobs.wordpress.net/job/writer-4/)
 - [Website maintenance](https://jobs.wordpress.net/job/website-maintenance-2/)
 - [Archive old site](https://jobs.wordpress.net/job/archive-old-site/)
@@ -515,8 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO, WordPress Advance, Web scrapping Programmer, Mobile Developer and Backend Developer](https://jobs.wordpress.net/job/seo-wordpress-advance-web-scrapping-programmer-mobile-developer-and-backend-developer/)
 - [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-6/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-788/)
-- [Content Creator](https://jobs.wordpress.net/job/content-creator-2/)
-- [WordPress Engineer](https://jobs.wordpress.net/job/wordpress-engineer-22/)
 <!-- JOBS:END -->
 
 ## Central
