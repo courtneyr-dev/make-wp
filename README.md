@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [Weglot supports the global WordPress community](https://central.wordcamp.org/news/2023/02/weglot-supports-the-global-wordpress-community/)
 - [WordCamp Entebbe: First Wordcamp to happen in Africa in 2023 is on!](https://central.wordcamp.org/news/2023/01/wordcamp-entebbe-first-wordcamp-to-happen-in-africa-in-2023-is-on/)
 - [The First In-Person WordCamp in India is Looking for Speakers!](https://central.wordcamp.org/news/2022/09/the-first-in-person-wordcamp-in-india-is-looking-for-speakers/)
 - [WordCamp Jinja: Diverse Speaker Sessions, Web Design Hackathon, Teachers Workshop and Fun at the Nile Source!](https://central.wordcamp.org/news/2022/07/wordcamp-jinja-diverse-speaker-sessions-web-design-hackathon-teachers-workshop-and-fun-at-the-nile-source/)
@@ -535,7 +536,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Weglot joins the WordPress global community sponsorship program in 2022](https://central.wordcamp.org/news/2022/02/weglot-joins-the-wordpress-global-community-sponsorship-program-in-2022/)
 - [WP Y’all has been Postponed until the Spring](https://central.wordcamp.org/news/2022/01/wp-yall-has-been-postponed-until-the-spring/)
 - [Call For Speakers for WordCamp Europe 2022 in Porto is Open](https://central.wordcamp.org/news/2022/01/call-for-speakers-for-wordcamp-europe-2022-in-porto-is-open/)
-- [The first in-person WordCamp Europe in 3 years is coming!](https://central.wordcamp.org/news/2021/12/the-first-in-person-wordcamp-europe-in-3-years-is-coming/)
 <!-- Central:END -->
 
 ### WordCamp
