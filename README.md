@@ -508,7 +508,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [Writer](https://jobs.wordpress.net/job/writer-4/)
-- [Wp Job Manager – Customization of Job-Dashboard-Actions](https://jobs.wordpress.net/job/wp-job-manager-customization-of-job-dashboard-actions/)
 - [Website maintenance](https://jobs.wordpress.net/job/website-maintenance-2/)
 - [Archive old site](https://jobs.wordpress.net/job/archive-old-site/)
 - [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-7/)
@@ -517,6 +516,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Maintenance](https://jobs.wordpress.net/job/wordpress-maintenance-6/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-788/)
 - [Content Creator](https://jobs.wordpress.net/job/content-creator-2/)
+- [WordPress Engineer](https://jobs.wordpress.net/job/wordpress-engineer-22/)
 <!-- JOBS:END -->
 
 ## Central
