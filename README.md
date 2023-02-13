@@ -90,13 +90,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for Docs Team bi-weekly meeting February 21, 2023](https://make.wordpress.org/docs/2023/02/10/agenda-for-docs-team-bi-weekly-meeting-february-21-2023/)
 - [Summary for Docs Team meeting, February 7, 2023](https://make.wordpress.org/docs/2023/02/10/summary-for-docs-team-meeting-february-7-2023/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/docs/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
+- [Future plans for HelpHub](https://make.wordpress.org/docs/2023/02/07/future-plans-for-helphub/)
 - [Agenda for Docs Team bi-weekly meeting February 7, 2023](https://make.wordpress.org/docs/2023/02/07/agenda-for-docs-team-bi-weekly-meeting-february-7-2023/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/docs/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Onboarding session for GitHub-related roles](https://make.wordpress.org/docs/2023/02/03/onboarding-session-for-github-related-roles/)
 - [Summary for docs team meeting, January 24, 2023](https://make.wordpress.org/docs/2023/01/31/summary-for-docs-team-meeting-january-24-2023/)
 - [X-post: WordPress.org Redesign Recent Launches](https://make.wordpress.org/docs/2023/01/26/xpost-wordpress-org-redesign-recent-launches/)
 - [New look, new site, new HelpHub](https://make.wordpress.org/docs/2023/01/24/new-look-new-site-new-helphub/)
-- [Agenda for Docs Team Bi-Weekly Meeting January 24, 2023](https://make.wordpress.org/docs/2023/01/23/agenda-for-docs-team-bi-weekly-meeting-january-24-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
