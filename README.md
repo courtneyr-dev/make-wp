@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Future plans for HelpHub](https://make.wordpress.org/polyglots/2023/02/13/xpost-future-plans-for-helphub/)
 - [Hello, I would like to…](https://make.wordpress.org/polyglots/2023/02/13/hello-i-would-like-to-10/)
 - [PTE Request for WP Bottom Menu](https://make.wordpress.org/polyglots/2023/02/13/pte-request-for-wp-bottom-menu/)
 - [PTE Request for Course Booking System](https://make.wordpress.org/polyglots/2023/02/13/pte-request-for-course-booking-system/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Internal Link Juicer: SEO Auto Linker for WordPress](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-internal-link-juicer-seo-auto-linker-for-wordpress/)
 - [PTE Request for Duplicate Post](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-duplicate-post-2/)
 - [PTE Request for AI Engine &lpar;ChatGPT-like Chatbot, Content/Image Generator, AI Playground, AI Fine-tuning&rpar;](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-ai-engine-chatgpt-like-chatbot-content-image-generator-ai-playground-ai-fine-tuning/)
-- [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-rank-math-seo-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
