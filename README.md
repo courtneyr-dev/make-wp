@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Course Booking System](https://make.wordpress.org/polyglots/2023/02/13/pte-request-for-course-booking-system/)
 - [X-post: Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/polyglots/2023/02/10/xpost-proposal-creating-a-wordpress-contributor-mentorship-program/)
 - [PTE Request for [Templately]](https://make.wordpress.org/polyglots/2023/02/10/pte-request-for-templately/)
 - [PTE Request for bbPress. I’ve…](https://make.wordpress.org/polyglots/2023/02/10/pte-request-for-bbpress-ive/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-rank-math-seo-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/02/09/hi-dear-mentors-we-have-107/)
 - [PTE Request for Botiga theme](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-botiga-theme/)
-- [Norwegian Bokmål translations for Formality…](https://make.wordpress.org/polyglots/2023/02/09/norwegian-bokmal-translations-for-formality/)
 <!-- POLYGLOTS:END -->
 
 ## Support
