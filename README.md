@@ -5,7 +5,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- CORE:START -->
 - [What’s new in Gutenberg 15.1? &lpar;8 February&rpar;](https://make.wordpress.org/core/2023/02/10/whats-new-in-gutenberg-15-0-18-january-2/)
 - [Dev Chat, Summary, February 8, 2023](https://make.wordpress.org/core/2023/02/09/dev-chat-summary-february-8-2023/)
-- [Editor chat summary: February 8th, 2023](https://make.wordpress.org/core/2023/02/09/editor-chat-summary-february-1st-2023-2/)
+- [Editor chat summary: February 8th, 2023](https://make.wordpress.org/core/2023/02/09/editor-chat-summary-february-8th-2023/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/core/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [Developer Hours is returning](https://make.wordpress.org/core/2023/02/07/developer-hours-is-returning/)
 - [Performance Chat Summary: 7 February 2023](https://make.wordpress.org/core/2023/02/07/performance-team-meeting-summary-31-january-2023-2/)
