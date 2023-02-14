@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Order Export…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-order-export/)
+- [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-13/)
 - [Agenda: Weekly Polyglots Chat – Feb. 15, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/14/agenda-weekly-polyglots-chat-feb-15-2023-1300-utc/)
 - [I’ve suggested translations for Kadence…](https://make.wordpress.org/polyglots/2023/02/13/ive-suggested-translations-for-kadence-2/)
 - [X-post: Future plans for HelpHub](https://make.wordpress.org/polyglots/2023/02/13/xpost-future-plans-for-helphub/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Course Booking System](https://make.wordpress.org/polyglots/2023/02/13/pte-request-for-course-booking-system/)
 - [X-post: Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/polyglots/2023/02/10/xpost-proposal-creating-a-wordpress-contributor-mentorship-program/)
 - [PTE Request for [Templately]](https://make.wordpress.org/polyglots/2023/02/10/pte-request-for-templately/)
-- [PTE Request for bbPress. I’ve…](https://make.wordpress.org/polyglots/2023/02/10/pte-request-for-bbpress-ive/)
-- [PTE Request for Internal Link Juicer: SEO Auto Linker for WordPress](https://make.wordpress.org/polyglots/2023/02/09/pte-request-for-internal-link-juicer-seo-auto-linker-for-wordpress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
