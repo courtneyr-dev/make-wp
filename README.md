@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [GoDaddy joins the WordPress global community sponsorship program in 2023](https://central.wordcamp.org/news/2023/02/godaddy-joins-the-wordpress-global-community-sponsorship-program-in-2023/)
 - [Thanks to Weglot for supporting the global WordPress community](https://central.wordcamp.org/news/2023/02/weglot-supports-the-global-wordpress-community/)
 - [WordCamp Entebbe: First Wordcamp to happen in Africa in 2023 is on!](https://central.wordcamp.org/news/2023/01/wordcamp-entebbe-first-wordcamp-to-happen-in-africa-in-2023-is-on/)
 - [The First In-Person WordCamp in India is Looking for Speakers!](https://central.wordcamp.org/news/2022/09/the-first-in-person-wordcamp-in-india-is-looking-for-speakers/)
@@ -535,7 +536,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WooCommerce sponsors WordPress community events across the globe](https://central.wordcamp.org/news/2022/02/woocommerce-sponsors-wordpress-community-events-across-the-globe-2/)
 - [Weglot joins the WordPress global community sponsorship program in 2022](https://central.wordcamp.org/news/2022/02/weglot-joins-the-wordpress-global-community-sponsorship-program-in-2022/)
 - [WP Y’all has been Postponed until the Spring](https://central.wordcamp.org/news/2022/01/wp-yall-has-been-postponed-until-the-spring/)
-- [Call For Speakers for WordCamp Europe 2022 in Porto is Open](https://central.wordcamp.org/news/2022/01/call-for-speakers-for-wordcamp-europe-2022-in-porto-is-open/)
 <!-- Central:END -->
 
 ### WordCamp
