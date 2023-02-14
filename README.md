@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Community Sharing: Media Plugins](https://learn.wordpress.org/?meeting=community-sharing-media-plugins)
 - [Let’s code: Developer AMA – Ask Me Anything](https://learn.wordpress.org/?meeting=lets-code-developer-ama-ask-me-anything)
 - [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-2)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP10: Block Editor &lpar;Gutenberg&rpar; : What and How | Bangla](https://learn.wordpress.org/?meeting=ep10-block-editor-gutenberg-what-and-how-bangla)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.1](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-1)
 - [Live stream: Integrating OpenAI with a custom block](https://learn.wordpress.org/?meeting=live-stream-integrating-openai-with-a-custom-block-2)
-- [Live stream: Integrating OpenAI with a custom block](https://learn.wordpress.org/?meeting=live-stream-integrating-openai-with-a-custom-block)
 <!-- SLS:END -->
 
 ## Test
