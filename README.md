@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [429s &lpar;rate limiting&rpar; from translate.wordpress.org export translation routes](https://make.wordpress.org/systems/2023/02/14/429s-rate-limiting-from-translate-wordpress-org-export-translation-routes/)
 - [Load-balancers on IP Abuse database](https://make.wordpress.org/systems/2023/02/13/load-balancers-on-ip-abuse-database/)
 - [Upgrade NodeJS/npm on the Build Server](https://make.wordpress.org/systems/2023/02/09/upgrade-nodejs-npm-on-the-build-server/)
 - [Update plugins.trac templates](https://make.wordpress.org/systems/2023/02/06/update-plugins-trac-templates/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remove/Increase showcase rate limits](https://make.wordpress.org/systems/2022/12/21/remove-increase-showcase-rate-limits/)
 - [trac nginx cache stuck in updating state](https://make.wordpress.org/systems/2022/12/12/trac-nginx-cache-stuck-in-updating-state/)
 - [Create wp20.wordpress.net](https://make.wordpress.org/systems/2022/12/06/create-wp20-wordpress-net/)
-- [IP connectivity problem debug request](https://make.wordpress.org/systems/2022/12/06/ip-connectivity-problem-debug-request/)
 <!-- SYSTEMS:END -->
 
 ## News
