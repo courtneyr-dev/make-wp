@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [Thanks to Automattic for sponsoring community events worldwide](https://central.wordcamp.org/news/2023/02/thanks-to-automattic-for-sponsoring-community-events-worldwide/)
 - [GoDaddy joins the WordPress global community sponsorship program in 2023](https://central.wordcamp.org/news/2023/02/godaddy-joins-the-wordpress-global-community-sponsorship-program-in-2023/)
 - [Thanks to Weglot for supporting the global WordPress community](https://central.wordcamp.org/news/2023/02/weglot-supports-the-global-wordpress-community/)
 - [WordCamp Entebbe: First Wordcamp to happen in Africa in 2023 is on!](https://central.wordcamp.org/news/2023/01/wordcamp-entebbe-first-wordcamp-to-happen-in-africa-in-2023-is-on/)
@@ -535,7 +536,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nexcess joins the WordPress global community sponsorship program in 2022](https://central.wordcamp.org/news/2022/02/nexcess-joins-the-wordpress-global-community-sponsorship-program-in-2022/)
 - [WooCommerce sponsors WordPress community events across the globe](https://central.wordcamp.org/news/2022/02/woocommerce-sponsors-wordpress-community-events-across-the-globe-2/)
 - [Weglot joins the WordPress global community sponsorship program in 2022](https://central.wordcamp.org/news/2022/02/weglot-joins-the-wordpress-global-community-sponsorship-program-in-2022/)
-- [WP Y’all has been Postponed until the Spring](https://central.wordcamp.org/news/2022/01/wp-yall-has-been-postponed-until-the-spring/)
 <!-- Central:END -->
 
 ### WordCamp
