@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-14/)
+- [PTE Request for Five-Star Restaurant Reservations/Restaurant Menu](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-five-star-restaurant-reservations-restaurant-menu/)
 - [PTE Request for Order Export…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-order-export/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-13/)
 - [Agenda: Weekly Polyglots Chat – Feb. 15, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/14/agenda-weekly-polyglots-chat-feb-15-2023-1300-utc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I would like to…](https://make.wordpress.org/polyglots/2023/02/13/hello-i-would-like-to-10/)
 - [PTE Request for WP Bottom Menu](https://make.wordpress.org/polyglots/2023/02/13/pte-request-for-wp-bottom-menu/)
 - [PTE Request for Course Booking System](https://make.wordpress.org/polyglots/2023/02/13/pte-request-for-course-booking-system/)
-- [X-post: Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/polyglots/2023/02/10/xpost-proposal-creating-a-wordpress-contributor-mentorship-program/)
-- [PTE Request for [Templately]](https://make.wordpress.org/polyglots/2023/02/10/pte-request-for-templately/)
 <!-- POLYGLOTS:END -->
 
 ## Support
