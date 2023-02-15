@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: February 2023](https://make.wordpress.org/community/2023/02/15/meetup-organizer-newsletter-february-2023/)
 - [WordCamp Asia 2023 Contributor Day](https://make.wordpress.org/community/2023/02/14/wordcamp-asia-2023-contributor-day/)
 - [Discussion: Refining the Mentor Program](https://make.wordpress.org/community/2023/02/13/discussion-refining-the-mentor-program/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on February 8, 2023](https://make.wordpress.org/community/2023/02/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-february-8-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Booth at WordCamp Asia 2023](https://make.wordpress.org/community/2023/02/06/community-booth-at-wordcamp-asia-2023/)
 - [Update: APAC Meetup Reactivation Project](https://make.wordpress.org/community/2023/02/03/update-apac-meetup-reactivation-project/)
 - [Community Team Meeting Agenda for 2 February 2023](https://make.wordpress.org/community/2023/02/01/community-team-meeting-agenda-for-2-february-2023/)
-- [WordCamp Mentors’ February check-in!](https://make.wordpress.org/community/2023/02/01/wordcamp-mentors-february-check-in/)
 <!-- COMMUNITY:END -->
 
 ## Meta
