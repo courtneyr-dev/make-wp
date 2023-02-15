@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for VikRentCar Car Rental Management System](https://make.wordpress.org/polyglots/2023/02/15/pte-request-for-vikrentcar-car-rental-management-system-2/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-14/)
 - [PTE Request for Five-Star Restaurant Reservations/Restaurant Menu](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-five-star-restaurant-reservations-restaurant-menu/)
 - [PTE Request for Order Export…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-order-export/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Future plans for HelpHub](https://make.wordpress.org/polyglots/2023/02/13/xpost-future-plans-for-helphub/)
 - [Hello, I would like to…](https://make.wordpress.org/polyglots/2023/02/13/hello-i-would-like-to-10/)
 - [PTE Request for WP Bottom Menu](https://make.wordpress.org/polyglots/2023/02/13/pte-request-for-wp-bottom-menu/)
-- [PTE Request for Course Booking System](https://make.wordpress.org/polyglots/2023/02/13/pte-request-for-course-booking-system/)
 <!-- POLYGLOTS:END -->
 
 ## Support
