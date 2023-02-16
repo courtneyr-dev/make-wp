@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme-2)
+- [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme)
 - [Designers &amp; Developers: Cats &amp; Dogs Living in Harmony](https://learn.wordpress.org/?meeting=designers-developers-cats-dogs-living-in-harmony)
 - [Training Team Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-contributor-day-online-session)
 - [Community Sharing: Media Plugins](https://learn.wordpress.org/?meeting=community-sharing-media-plugins)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Explore with Me: What’s New In Gutenberg? Session 2](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-2)
 - [Explore with Me: What’s New In Gutenberg? Session 1](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-1)
 - [EP12: Block Pattern : Create and Submit | Bangla](https://learn.wordpress.org/?meeting=ep12-block-pattern-create-and-submit-bangla)
-- [EP11: Block Editor &lpar;Gutenberg&rpar; : Settings | Bangla](https://learn.wordpress.org/?meeting=ep11-block-editor-gutenberg-settings-bangla)
-- [EP10: Block Editor &lpar;Gutenberg&rpar; : What and How | Bangla](https://learn.wordpress.org/?meeting=ep10-block-editor-gutenberg-what-and-how-bangla)
 <!-- SLS:END -->
 
 ## Test
