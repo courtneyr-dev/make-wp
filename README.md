@@ -338,7 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Aditya Shah: WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
+- [WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
 - [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
 - [Developer hours: migrate a plugin to blocks](https://wordpress.tv/2023/02/15/developer-hours-migrate-a-plugin-to-blocks/)
 - [Hallway Hangout: Themer goodies coming to WordPress 6.2](https://wordpress.tv/2023/02/14/hallway-hangout-themer-goodies-coming-to-wordpress-6-2/)
