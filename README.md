@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Artist Image…](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-artist-image/)
+- [Feedback tool – Custom reasons for it_IT](https://make.wordpress.org/polyglots/2023/02/16/feedback-tool-custom-reasons-for-it_it/)
+- [PTE Request for TutorStarter Theme](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-tutorstarter-theme/)
+- [Polyglots Monthly Newsletter: February 2023](https://make.wordpress.org/polyglots/2023/02/16/polyglots-monthly-newsletter-february-2023/)
 - [PTE Request for [AI Engine: ChatGPT Chatbot, GPT Content Generator, Custom Playground &amp; Features]](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-ai-engine-chatgpt-chatbot-gpt-content-generator-custom-playground-features/)
 - [PTE Request for VikRentCar Car Rental Management System](https://make.wordpress.org/polyglots/2023/02/15/pte-request-for-vikrentcar-car-rental-management-system-2/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-14/)
 - [PTE Request for Five-Star Restaurant Reservations/Restaurant Menu](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-five-star-restaurant-reservations-restaurant-menu/)
 - [PTE Request for Order Export…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-order-export/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-13/)
-- [Agenda: Weekly Polyglots Chat – Feb. 15, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/14/agenda-weekly-polyglots-chat-feb-15-2023-1300-utc/)
-- [I’ve suggested translations for Kadence…](https://make.wordpress.org/polyglots/2023/02/13/ive-suggested-translations-for-kadence-2/)
-- [X-post: Future plans for HelpHub](https://make.wordpress.org/polyglots/2023/02/13/xpost-future-plans-for-helphub/)
-- [Hello, I would like to…](https://make.wordpress.org/polyglots/2023/02/13/hello-i-would-like-to-10/)
 <!-- POLYGLOTS:END -->
 
 ## Support
