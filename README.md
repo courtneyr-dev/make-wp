@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Secure Encrypted Form](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-secure-encrypted-form/)
 - [PTE Request for [Artist Image…](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-artist-image/)
 - [Feedback tool – Custom reasons for it_IT](https://make.wordpress.org/polyglots/2023/02/16/feedback-tool-custom-reasons-for-it_it/)
 - [PTE Request for TutorStarter Theme](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-tutorstarter-theme/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-14/)
 - [PTE Request for Five-Star Restaurant Reservations/Restaurant Menu](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-five-star-restaurant-reservations-restaurant-menu/)
 - [PTE Request for Order Export…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-order-export/)
-- [PTE Request for…](https://make.wordpress.org/polyglots/2023/02/14/pte-request-for-13/)
 <!-- POLYGLOTS:END -->
 
 ## Support
