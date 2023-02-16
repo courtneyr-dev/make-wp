@@ -511,12 +511,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Engineer](https://jobs.wordpress.net/job/wordpress-engineer-23/)
 - [Customer Success Engineer](https://jobs.wordpress.net/job/customer-success-engineer-5/)
 - [Content Creator](https://jobs.wordpress.net/job/content-creator-3/)
-- [Currency exchange plugin](https://jobs.wordpress.net/job/currency-exchange-plugin/)
 - [Web Developers](https://jobs.wordpress.net/job/web-developers-3/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-5/)
 - [Project Based Developer](https://jobs.wordpress.net/job/project-based-developer/)
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-2/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-789/)
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-25/)
 <!-- JOBS:END -->
 
 ## Central
