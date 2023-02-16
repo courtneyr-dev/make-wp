@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Summary for February 16th Support Meeting](https://make.wordpress.org/support/2023/02/summary-for-february-16th-support-meeting/)
 - [Agenda for February 16th Support Meeting](https://make.wordpress.org/support/2023/02/agenda-for-february-16th-support-meeting-2/)
 - [Summary for February 9th Support Meeting](https://make.wordpress.org/support/2023/02/summary-for-february-9th-support-meeting/)
 - [Agenda for February 9th Support Meeting](https://make.wordpress.org/support/2023/02/agenda-for-february-9th-support-meeting-2/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Editor Live in Most Forums](https://make.wordpress.org/support/2023/02/block-editor-live-in-most-forums/)
 - [Agenda for February 2nd Support Meeting](https://make.wordpress.org/support/2023/02/agenda-for-february-2nd-support-meeting-2/)
 - [Summary for January 26th Support Meeting](https://make.wordpress.org/support/2023/02/summary-for-january-26th-support-meeting/)
-- [Agenda for the January 26th Support Meeting](https://make.wordpress.org/support/2023/01/agenda-for-the-january-26th-support-meeting/)
 <!-- SUPPORT:END -->
 
 ## Documentation
