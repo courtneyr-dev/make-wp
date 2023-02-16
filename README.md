@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Aditya Shah: WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
 - [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
 - [Developer hours: migrate a plugin to blocks](https://wordpress.tv/2023/02/15/developer-hours-migrate-a-plugin-to-blocks/)
 - [Hallway Hangout: Themer goodies coming to WordPress 6.2](https://wordpress.tv/2023/02/14/hallway-hangout-themer-goodies-coming-to-wordpress-6-2/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using theme.json with classic themes](https://wordpress.tv/2023/01/27/using-theme-json-with-classic-themes/)
 - [Laxman Bhattarai: Your Next Website with WordPress](https://wordpress.tv/2023/01/26/laxman-bhattarai-your-next-website-with-wordpress/)
 - [Krishna Neupane: Creating efficient WordPress Queries with WP_Query](https://wordpress.tv/2023/01/26/krishna-neupane-creating-efficient-wordpress-queries-with-wp_query/)
-- [Santosh Bhandari: WordPress Application Security](https://wordpress.tv/2023/01/26/santosh-bhandari-wordpress-application-security/)
 <!-- WPTV:END -->
 
 ## Marketing
