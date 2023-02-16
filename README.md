@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Designers &amp; Developers: Cats &amp; Dogs Living in Harmony](https://learn.wordpress.org/?meeting=designers-developers-cats-dogs-living-in-harmony)
 - [Training Team Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-contributor-day-online-session)
 - [Community Sharing: Media Plugins](https://learn.wordpress.org/?meeting=community-sharing-media-plugins)
 - [Let’s code: Developer AMA – Ask Me Anything](https://learn.wordpress.org/?meeting=lets-code-developer-ama-ask-me-anything)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP12: Block Pattern : Create and Submit | Bangla](https://learn.wordpress.org/?meeting=ep12-block-pattern-create-and-submit-bangla)
 - [EP11: Block Editor &lpar;Gutenberg&rpar; : Settings | Bangla](https://learn.wordpress.org/?meeting=ep11-block-editor-gutenberg-settings-bangla)
 - [EP10: Block Editor &lpar;Gutenberg&rpar; : What and How | Bangla](https://learn.wordpress.org/?meeting=ep10-block-editor-gutenberg-what-and-how-bangla)
-- [Live stream: Reviewing developer-focused features in Gutenberg 15.1](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-1)
 <!-- SLS:END -->
 
 ## Test
