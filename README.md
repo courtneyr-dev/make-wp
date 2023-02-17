@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api-2)
+- [Help test WordPress – developer edition](https://learn.wordpress.org/?meeting=help-test-wordpress-developer-edition)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme-2)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme)
 - [Designers &amp; Developers: Cats &amp; Dogs Living in Harmony](https://learn.wordpress.org/?meeting=designers-developers-cats-dogs-living-in-harmony)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-custom-routes-and-endpoints)
 - [WP dev livestream: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=27869)
 - [Explore with Me: What’s New In Gutenberg? Session 2](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-2)
-- [Explore with Me: What’s New In Gutenberg? Session 1](https://learn.wordpress.org/?meeting=explore-with-me-whats-new-in-gutenberg-session-1)
-- [EP12: Block Pattern : Create and Submit | Bangla](https://learn.wordpress.org/?meeting=ep12-block-pattern-create-and-submit-bangla)
 <!-- SLS:END -->
 
 ## Test
