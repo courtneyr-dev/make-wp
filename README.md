@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [February 2023 Faculty Meeting](https://make.wordpress.org/training/2023/02/17/february-2023-faculty-meeting/)
 - [X-post: Future plans for HelpHub](https://make.wordpress.org/training/2023/02/13/xpost-future-plans-for-helphub/)
 - [Meeting Agenda for February 14, 2023](https://make.wordpress.org/training/2023/02/13/meeting-agenda-for-february-14-2023/)
 - [WordCamp Asia 2023 Contributor Day](https://make.wordpress.org/training/2023/02/13/wordcamp-asia-2023-contributor-day/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/training/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Meeting Agenda for February 7, 2023](https://make.wordpress.org/training/2023/02/06/meeting-agenda-for-february-7-2023/)
 - [Training Team 2023 Goals Setting](https://make.wordpress.org/training/2023/02/06/training-team-2023-goals-setting/)
-- [Proposal: Training Faculty Developer Squad](https://make.wordpress.org/training/2023/02/03/proposal-training-faculty-developer-squad/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
