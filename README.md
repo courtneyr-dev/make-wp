@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the WordPress REST API](https://wordpress.tv/2023/02/17/using-the-wordpress-rest-api/)
 - [Sage Framework – O melhor do PHP em um único lugar](https://wordpress.tv/2023/02/16/sage-framework-o-melhor-do-php-em-um-unico-lugar/)
 - [Análise de Vulnerabilidades: Ferramentas para verificar a segurança do seu WordPress](https://wordpress.tv/2023/02/16/analise-de-vulnerabilidades-ferramentas-para-verificar-a-seguranca-do-seu-wordpress/)
 - [La courbe d’apprentissage d’un développeur, de WordPress classique à FSE](https://wordpress.tv/2023/02/16/la-courbe-dapprentissage-dun-developpeur-de-wordpress-classique-a-fse/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s make custom templates in the Site Editor!](https://wordpress.tv/2023/02/02/lets-make-custom-templates-in-the-site-editor/)
 - [The Future Of Themes: Designing for the Block Editor and Beyond](https://wordpress.tv/2023/01/30/the-future-of-themes-designing-for-the-block-editor-and-beyond-2/)
 - [Factores a tener en cuenta a la hora de crear una Academia Online con WordPress](https://wordpress.tv/2023/01/29/factores-a-tener-en-cuenta-a-la-hora-de-crear-una-academia-online-con-wordpress/)
-- [Courtney Robertson, Sarah Snow: Call For Testing: Find Your Style](https://wordpress.tv/2023/01/27/courtney-robertson-sarah-snow-call-for-testing-find-your-style/)
 <!-- WPTV:END -->
 
 ## Marketing
