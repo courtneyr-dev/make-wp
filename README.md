@@ -338,10 +338,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sage Framework – O melhor do PHP em um único lugar](https://wordpress.tv/2023/02/16/sage-framework-o-melhor-do-php-em-um-unico-lugar/)
 - [Análise de Vulnerabilidades: Ferramentas para verificar a segurança do seu WordPress](https://wordpress.tv/2023/02/16/analise-de-vulnerabilidades-ferramentas-para-verificar-a-seguranca-do-seu-wordpress/)
 - [La courbe d’apprentissage d’un développeur, de WordPress classique à FSE](https://wordpress.tv/2023/02/16/la-courbe-dapprentissage-dun-developpeur-de-wordpress-classique-a-fse/)
 - [Gérer un blog professionnel sur WordPress](https://wordpress.tv/2023/02/16/gerer-un-blog-professionnel-sur-wordpress/)
-- [WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
+- [Aditya Shah: WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
 - [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
 - [Developer hours: migrate a plugin to blocks](https://wordpress.tv/2023/02/15/developer-hours-migrate-a-plugin-to-blocks/)
 - [Hallway Hangout: Themer goodies coming to WordPress 6.2](https://wordpress.tv/2023/02/14/hallway-hangout-themer-goodies-coming-to-wordpress-6-2/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Future Of Themes: Designing for the Block Editor and Beyond](https://wordpress.tv/2023/01/30/the-future-of-themes-designing-for-the-block-editor-and-beyond-2/)
 - [Factores a tener en cuenta a la hora de crear una Academia Online con WordPress](https://wordpress.tv/2023/01/29/factores-a-tener-en-cuenta-a-la-hora-de-crear-una-academia-online-con-wordpress/)
 - [Courtney Robertson, Sarah Snow: Call For Testing: Find Your Style](https://wordpress.tv/2023/01/27/courtney-robertson-sarah-snow-call-for-testing-find-your-style/)
-- [Let’s code: WP REST API updates, custom fields, and authentication](https://wordpress.tv/2023/01/27/lets-code-wp-rest-api-updates-custom-fields-and-authentication/)
 <!-- WPTV:END -->
 
 ## Marketing
