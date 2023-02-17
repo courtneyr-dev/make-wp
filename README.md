@@ -338,6 +338,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Análise de Vulnerabilidades: Ferramentas para verificar a segurança do seu WordPress](https://wordpress.tv/2023/02/16/analise-de-vulnerabilidades-ferramentas-para-verificar-a-seguranca-do-seu-wordpress/)
+- [La courbe d’apprentissage d’un développeur, de WordPress classique à FSE](https://wordpress.tv/2023/02/16/la-courbe-dapprentissage-dun-developpeur-de-wordpress-classique-a-fse/)
+- [Gérer un blog professionnel sur WordPress](https://wordpress.tv/2023/02/16/gerer-un-blog-professionnel-sur-wordpress/)
 - [WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
 - [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
 - [Developer hours: migrate a plugin to blocks](https://wordpress.tv/2023/02/15/developer-hours-migrate-a-plugin-to-blocks/)
@@ -360,9 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Factores a tener en cuenta a la hora de crear una Academia Online con WordPress](https://wordpress.tv/2023/01/29/factores-a-tener-en-cuenta-a-la-hora-de-crear-una-academia-online-con-wordpress/)
 - [Courtney Robertson, Sarah Snow: Call For Testing: Find Your Style](https://wordpress.tv/2023/01/27/courtney-robertson-sarah-snow-call-for-testing-find-your-style/)
 - [Let’s code: WP REST API updates, custom fields, and authentication](https://wordpress.tv/2023/01/27/lets-code-wp-rest-api-updates-custom-fields-and-authentication/)
-- [Using theme.json with classic themes](https://wordpress.tv/2023/01/27/using-theme-json-with-classic-themes/)
-- [Laxman Bhattarai: Your Next Website with WordPress](https://wordpress.tv/2023/01/26/laxman-bhattarai-your-next-website-with-wordpress/)
-- [Krishna Neupane: Creating efficient WordPress Queries with WP_Query](https://wordpress.tv/2023/01/26/krishna-neupane-creating-efficient-wordpress-queries-with-wp_query/)
 <!-- WPTV:END -->
 
 ## Marketing
