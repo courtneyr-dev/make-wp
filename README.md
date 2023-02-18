@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Deliverability](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-deliverability/)
 - [PTE Request for WP Hotel Booking](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-wp-hotel-booking/)
 - [PTE Request for DevtasksUp – ClickUp integration](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-devtasksup-clickup-integration/)
 - [PTE Request for WooCommerce Management App by WEmanage](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-woocommerce-management-app-by-wemanage/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [“Open hours” for the Galician language. Feb. 21, 2023 &lpar;12:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/17/open-hours-for-the-galician-language-feb-21-2023-1200-utc/)
 - [Virtual projects for the patterns project](https://make.wordpress.org/polyglots/2023/02/16/virtual-projects-for-the-patterns-project/)
 - [PTE Request for Secure Encrypted Form](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-secure-encrypted-form/)
-- [PTE Request for [Artist Image…](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-artist-image/)
 <!-- POLYGLOTS:END -->
 
 ## Support
