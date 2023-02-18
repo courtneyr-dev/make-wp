@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Best design practices to create engagement](https://learn.wordpress.org/?meeting=best-design-practices-to-create-engagement)
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events AMER/EMEA](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-amer-emea)
 - [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api-2)
 - [Help test WordPress – developer edition](https://learn.wordpress.org/?meeting=help-test-wordpress-developer-edition)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-7)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-6)
 - [Let’s code: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-custom-routes-and-endpoints)
-- [WP dev livestream: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=27869)
 <!-- SLS:END -->
 
 ## Test
