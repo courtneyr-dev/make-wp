@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Hotel Booking](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-wp-hotel-booking/)
+- [PTE Request for DevtasksUp – ClickUp integration](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-devtasksup-clickup-integration/)
+- [PTE Request for WooCommerce Management App by WEmanage](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-woocommerce-management-app-by-wemanage/)
+- [Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/18/post-title-pte-request-for-59/)
+- [PTE Request for Tiledesk Live Chat and Dokan Lite](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-tiledesk-live-chat-and-dokan-lite/)
 - [PTE Request for Kadence Theme](https://make.wordpress.org/polyglots/2023/02/17/pte-request-for-kadence-theme-4/)
 - [“Open hours” for the Galician language. Feb. 21, 2023 &lpar;12:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/17/open-hours-for-the-galician-language-feb-21-2023-1200-utc/)
 - [Virtual projects for the patterns project](https://make.wordpress.org/polyglots/2023/02/16/virtual-projects-for-the-patterns-project/)
 - [PTE Request for Secure Encrypted Form](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-secure-encrypted-form/)
 - [PTE Request for [Artist Image…](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-artist-image/)
-- [Feedback tool – Custom reasons for it_IT](https://make.wordpress.org/polyglots/2023/02/16/feedback-tool-custom-reasons-for-it_it/)
-- [PTE Request for TutorStarter Theme](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-tutorstarter-theme/)
-- [Polyglots Monthly Newsletter: February 2023](https://make.wordpress.org/polyglots/2023/02/16/polyglots-monthly-newsletter-february-2023/)
-- [PTE Request for [AI Engine: ChatGPT Chatbot, GPT Content Generator, Custom Playground &amp; Features]](https://make.wordpress.org/polyglots/2023/02/16/pte-request-for-ai-engine-chatgpt-chatbot-gpt-content-generator-custom-playground-features/)
-- [PTE Request for VikRentCar Car Rental Management System](https://make.wordpress.org/polyglots/2023/02/15/pte-request-for-vikrentcar-car-rental-management-system-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
