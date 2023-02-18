@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Qué hago? Mi sitio tiene código malicioso](https://wordpress.tv/2023/02/18/que-hago-mi-sitio-tiene-codigo-malicioso/)
 - [Let’s code: developer AMA](https://wordpress.tv/2023/02/18/lets-code-developer-ama/)
 - [Using the WordPress REST API](https://wordpress.tv/2023/02/17/using-the-wordpress-rest-api/)
 - [Sage Framework – O melhor do PHP em um único lugar](https://wordpress.tv/2023/02/16/sage-framework-o-melhor-do-php-em-um-unico-lugar/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to securely developing plugins](https://wordpress.tv/2023/02/03/introduction-to-securely-developing-plugins/)
 - [WordPress Through The Terminal](https://wordpress.tv/2023/02/02/wordpress-through-the-terminal-2/)
 - [Let’s make custom templates in the Site Editor!](https://wordpress.tv/2023/02/02/lets-make-custom-templates-in-the-site-editor/)
-- [The Future Of Themes: Designing for the Block Editor and Beyond](https://wordpress.tv/2023/01/30/the-future-of-themes-designing-for-the-block-editor-and-beyond-2/)
 <!-- WPTV:END -->
 
 ## Marketing
