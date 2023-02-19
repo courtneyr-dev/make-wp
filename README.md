@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Configura &lpar;de una vez&rpar; tu web con GA4 antes de que sea tarde](https://wordpress.tv/2023/02/19/configura-de-una-vez-tu-web-con-ga4-antes-de-que-sea-tarde/)
 - [¿Qué hago? Mi sitio tiene código malicioso](https://wordpress.tv/2023/02/18/que-hago-mi-sitio-tiene-codigo-malicioso/)
 - [Let’s code: developer AMA](https://wordpress.tv/2023/02/18/lets-code-developer-ama/)
 - [Using the WordPress REST API](https://wordpress.tv/2023/02/17/using-the-wordpress-rest-api/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: WP REST API – modifying responses](https://wordpress.tv/2023/02/03/lets-code-wp-rest-api-modifying-responses/)
 - [Introduction to securely developing plugins](https://wordpress.tv/2023/02/03/introduction-to-securely-developing-plugins/)
 - [WordPress Through The Terminal](https://wordpress.tv/2023/02/02/wordpress-through-the-terminal-2/)
-- [Let’s make custom templates in the Site Editor!](https://wordpress.tv/2023/02/02/lets-make-custom-templates-in-the-site-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
