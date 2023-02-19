@@ -338,8 +338,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ramón Navas: Cómo escoger el mejor hosting para tu sitio web](https://wordpress.tv/2023/02/19/ramon-navas-como-escoger-el-mejor-hosting-para-tu-sitio-web/)
+- [Celis Guevara: Aspectos legales de las páginas web](https://wordpress.tv/2023/02/19/celis-guevara-aspectos-legales-de-las-paginas-web/)
+- [Aura Brito, Roosevelt Gordones: Ask Me Anything &lpar;AMA&rpar; de WordPress](https://wordpress.tv/2023/02/19/aura-brito-roosevelt-gordones-ask-me-anything-ama-de-wordpress/)
+- [Aura Brito, Roosevelt Gordones: Primeros pasos para crear tu blog](https://wordpress.tv/2023/02/19/aura-brito-roosevelt-gordones-primeros-pasos-para-crear-tu-blog/)
+- [Aura Brito: Blogging como forma de Emprendimiento](https://wordpress.tv/2023/02/19/aura-brito-blogging-como-forma-de-emprendimiento/)
 - [Configura &lpar;de una vez&rpar; tu web con GA4 antes de que sea tarde](https://wordpress.tv/2023/02/19/configura-de-una-vez-tu-web-con-ga4-antes-de-que-sea-tarde/)
-- [¿Qué hago? Mi sitio tiene código malicioso](https://wordpress.tv/2023/02/18/que-hago-mi-sitio-tiene-codigo-malicioso/)
+- [Alexis Arnal: ¿Qué hago? Mi sitio tiene código malicioso](https://wordpress.tv/2023/02/18/que-hago-mi-sitio-tiene-codigo-malicioso/)
 - [Let’s code: developer AMA](https://wordpress.tv/2023/02/18/lets-code-developer-ama/)
 - [Using the WordPress REST API](https://wordpress.tv/2023/02/17/using-the-wordpress-rest-api/)
 - [Sage Framework – O melhor do PHP em um único lugar](https://wordpress.tv/2023/02/16/sage-framework-o-melhor-do-php-em-um-unico-lugar/)
@@ -358,11 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP 10: Block Editor &lpar;Gutenberg&rpar; : What and How | Bangla](https://wordpress.tv/2023/02/10/ep-10-block-editor-gutenberg-what-and-how-bangla/)
 - [Explore with Me: What’s New In Gutenberg?](https://wordpress.tv/2023/02/10/explore-with-me-whats-new-in-gutenberg/)
 - [Migrating your WordPress website to a different host and domain](https://wordpress.tv/2023/02/08/migrating-your-wordpress-website-to-a-different-host-and-domain/)
-- [Builder Basics: Adding Custom CSS to Block Themes](https://wordpress.tv/2023/02/08/builder-basics-adding-custom-css-to-block-themes/)
-- [Creating a photography website with the block editor](https://wordpress.tv/2023/02/07/creating-a-photography-website-with-the-block-editor/)
-- [Let’s code: WP REST API – modifying responses](https://wordpress.tv/2023/02/03/lets-code-wp-rest-api-modifying-responses/)
-- [Introduction to securely developing plugins](https://wordpress.tv/2023/02/03/introduction-to-securely-developing-plugins/)
-- [WordPress Through The Terminal](https://wordpress.tv/2023/02/02/wordpress-through-the-terminal-2/)
 <!-- WPTV:END -->
 
 ## Marketing
