@@ -551,10 +551,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Chiclana](https://central.wordcamp.org/wordcamps/wordcamp-chiclana-2023/)
 - [WordCamp Entebbe](https://central.wordcamp.org/wordcamps/wordcamp-entebbe-3/)
 - [WordCamp Torrelodones 2023](https://central.wordcamp.org/wordcamps/wordcamp-torrelodones-madrid-spain/)
-- [WordCamp São Paulo](https://central.wordcamp.org/wordcamps/wordcamp-sao-paulo-9/)
 - [WordCamp Lisboa](https://central.wordcamp.org/wordcamps/wordcamp-lisboa-5/)
 - [WordCamp Switzerland](https://central.wordcamp.org/wordcamps/wordcamp-fribourg-murten-switzerland/)
 - [WordCamp Floripa 2022](https://central.wordcamp.org/wordcamps/wordcamp-floripa-santa-catarina-brasil/)
+- [WordCamp Bogotá, Colombia](https://central.wordcamp.org/wordcamps/wordcamp-bogota-colombia-2/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
