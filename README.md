@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Imageshop DAM Connector](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-imageshop-dam-connector/)
 - [PTE Request for Contest Gallery](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-contest-gallery/)
 - [PTE Request for SAML Single…](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-saml-single/)
 - [PTE Request for Accessible External Text Links](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-accessible-external-text-links/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for DevtasksUp – ClickUp integration](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-devtasksup-clickup-integration/)
 - [PTE Request for WooCommerce Management App by WEmanage](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-woocommerce-management-app-by-wemanage/)
 - [Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/18/post-title-pte-request-for-59/)
-- [PTE Request for Tiledesk Live Chat and Dokan Lite](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-tiledesk-live-chat-and-dokan-lite/)
 <!-- POLYGLOTS:END -->
 
 ## Support
