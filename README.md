@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Contest Gallery](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-contest-gallery/)
+- [PTE Request for SAML Single…](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-saml-single/)
+- [PTE Request for Accessible External Text Links](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-accessible-external-text-links/)
 - [PTE Request for [Simple History – user activity log, audit tool]](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-simple-history-user-activity-log-audit-tool/)
 - [PTE Request for Deliverability](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-deliverability/)
 - [PTE Request for WP Hotel Booking](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-wp-hotel-booking/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WooCommerce Management App by WEmanage](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-woocommerce-management-app-by-wemanage/)
 - [Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/02/18/post-title-pte-request-for-59/)
 - [PTE Request for Tiledesk Live Chat and Dokan Lite](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-tiledesk-live-chat-and-dokan-lite/)
-- [PTE Request for Kadence Theme](https://make.wordpress.org/polyglots/2023/02/17/pte-request-for-kadence-theme-4/)
-- [“Open hours” for the Galician language. Feb. 21, 2023 &lpar;12:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/17/open-hours-for-the-galician-language-feb-21-2023-1200-utc/)
-- [Virtual projects for the patterns project](https://make.wordpress.org/polyglots/2023/02/16/virtual-projects-for-the-patterns-project/)
 <!-- POLYGLOTS:END -->
 
 ## Support
