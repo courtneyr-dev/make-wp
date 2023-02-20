@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Sync translations between Dev and Stable projects](https://make.wordpress.org/polyglots/2023/02/20/sync-translations-between-dev-and-stable-projects/)
 - [Components into tabs in the right sidebar](https://make.wordpress.org/polyglots/2023/02/20/components-into-tabs-in-the-right-sidebar/)
 - [CLPTE Request](https://make.wordpress.org/polyglots/2023/02/20/clpte-request-10/)
 - [PTE Request for Imageshop DAM Connector](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-imageshop-dam-connector/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Simple History – user activity log, audit tool]](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-simple-history-user-activity-log-audit-tool/)
 - [PTE Request for Deliverability](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-deliverability/)
 - [PTE Request for WP Hotel Booking](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-wp-hotel-booking/)
-- [PTE Request for DevtasksUp – ClickUp integration](https://make.wordpress.org/polyglots/2023/02/18/pte-request-for-devtasksup-clickup-integration/)
 <!-- POLYGLOTS:END -->
 
 ## Support
