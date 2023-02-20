@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress server resources developer](https://jobs.wordpress.net/job/wordpress-server-resources-developer/)
+- [WordPress designer and developer](https://jobs.wordpress.net/job/wordpress-designer-and-developer-4/)
+- [Sr. Software Developer &lpar;PHP &amp; WordPress&rpar; with 2 – 5 years of experience](https://jobs.wordpress.net/job/sr-software-developer-php-wordpress-with-2-5-years-of-experience/)
+- [Full Stack &lpar;LAMP/MERN&rpar; WordPress Engineer/Developer](https://jobs.wordpress.net/job/full-stack-lamp-mern-wordpress-engineer-developer/)
 - [Full stack WordPress and woocommerce developer](https://jobs.wordpress.net/job/full-stack-wordpress-and-woocommerce-developer/)
 - [Add support for subscriptions to WooCommerce and Memberpress Gateways](https://jobs.wordpress.net/job/add-support-for-subscriptions-to-woocommerce-and-memberpress-gateways/)
 - [Lead Web Developer](https://jobs.wordpress.net/job/lead-web-developer-7/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-7/)
 - [[ASTRA] Email Marketing Specialist](https://jobs.wordpress.net/job/astra-email-marketing-specialist/)
 - [[ASTRA] SEO &amp; Content Marketing Specialist](https://jobs.wordpress.net/job/astra-seo-content-marketing-specialist/)
-- [[ASTRA] Link Building Specialist](https://jobs.wordpress.net/job/astra-link-building-specialist/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-791/)
-- [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-13/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-790/)
 <!-- JOBS:END -->
 
 ## Central
