@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Upcoming #WPDiversity Events: March 2023](https://make.wordpress.org/community/2023/02/20/upcoming-wpdiversity-events-march-2023/)
 - [Meetup.com Accessibility Overlay February Update](https://make.wordpress.org/community/2023/02/17/meetup-com-accessibility-overlay-february-update/)
 - [Updates to the WordCamp Site Setup Handbook Page](https://make.wordpress.org/community/2023/02/17/updates-to-the-wordcamp-site-setup-handbook-page/)
 - [Meetup Organizer Newsletter: February 2023](https://make.wordpress.org/community/2023/02/15/meetup-organizer-newsletter-february-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [2023 Global Sponsors: Announcement](https://make.wordpress.org/community/2023/02/08/2023-global-sponsors-announcement/)
 - [Apply to Attend the 2023 Community Summit](https://make.wordpress.org/community/2023/02/08/apply-to-attend-the-2023-community-summit/)
 - [X-post: Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2023/02/06/xpost-proposal-creating-a-wordpress-contributor-mentorship-program/)
-- [Community Booth at WordCamp Asia 2023](https://make.wordpress.org/community/2023/02/06/community-booth-at-wordcamp-asia-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
