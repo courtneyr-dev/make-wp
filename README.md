@@ -423,6 +423,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Post-iNaturalist Data Refresh Status](https://make.wordpress.org/openverse/2023/02/21/post-inaturalist-data-refresh-status/)
 - [A week in Openverse: 2023-02-13 – 2023-02-20](https://make.wordpress.org/openverse/2023/02/20/last-week-openverse-2023-02-13-2023-02-20/)
 - [A week in Openverse: 2023-02-08 – 2023-02-15](https://make.wordpress.org/openverse/2023/02/15/last-week-openverse-2023-02-08-2023-02-15/)
 - [Openverse.org is live](https://make.wordpress.org/openverse/2023/02/08/openverse-org-is-live/)
@@ -432,7 +433,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Meeting Recap &lpar;31 January 2023&rpar;](https://make.wordpress.org/openverse/2023/02/01/community-meeting-recap-31-january-2023/)
 - [Openverse Monthly Priorities Meeting 2023-02-08](https://make.wordpress.org/openverse/2023/01/24/openverse-monthly-priorities-meeting-2023-02-08/)
 - [Preparing for iNaturalist](https://make.wordpress.org/openverse/2023/01/14/preparing-for-inaturalist/)
-- [Openverse switches to Photon for thumbnail generation](https://make.wordpress.org/openverse/2023/01/14/openverse-switches-to-photon-for-thumbnail-generation/)
 <!-- OPENVERSE:END -->
 
 ## Photos
