@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Intro to WordPress Accessible Color](https://learn.wordpress.org/?meeting=intro-to-wordpress-accessible-color)
+- [WordPress as a Paintbrush: Internet Art Then and Now](https://learn.wordpress.org/?meeting=wordpress-as-a-paintbrush-internet-art-then-and-now)
 - [Best design practices to create engagement](https://learn.wordpress.org/?meeting=best-design-practices-to-create-engagement)
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events AMER/EMEA](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-amer-emea)
 - [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api-2)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 1](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-1)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=27874)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-7)
-- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-6)
-- [Let’s code: WP REST API – custom routes and endpoints](https://learn.wordpress.org/?meeting=lets-code-wp-rest-api-custom-routes-and-endpoints)
 <!-- SLS:END -->
 
 ## Test
