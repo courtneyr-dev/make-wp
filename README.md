@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Simple History](https://make.wordpress.org/polyglots/2023/02/21/pte-request-for-simple-history/)
 - [HelpHub and DevDocs redesign request](https://make.wordpress.org/polyglots/2023/02/21/helphub-and-devdocs-redesign-request/)
 - [PTE Request for MediaPress By BuddyDev](https://make.wordpress.org/polyglots/2023/02/21/pte-request-for-mediapress-by-buddydev/)
 - [PTE Request for ShortPixel Image Optimizer](https://make.wordpress.org/polyglots/2023/02/21/pte-request-for-shortpixel-image-optimizer-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Imageshop DAM Connector](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-imageshop-dam-connector/)
 - [PTE Request for Contest Gallery](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-contest-gallery/)
 - [PTE Request for SAML Single…](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-saml-single/)
-- [PTE Request for Accessible External Text Links](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-accessible-external-text-links/)
 <!-- POLYGLOTS:END -->
 
 ## Support
