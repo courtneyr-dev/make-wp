@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Introduction to Templates &lpar;Block Theme&rpar;](https://learn.wordpress.org/?meeting=introduction-to-templates-block-theme)
 - [Customizing the Single Template and 404 Template](https://learn.wordpress.org/?meeting=customizing-the-single-template-and-404-template)
 - [Intro to WordPress Accessible Color](https://learn.wordpress.org/?meeting=intro-to-wordpress-accessible-color)
 - [WordPress as a Paintbrush: Internet Art Then and Now](https://learn.wordpress.org/?meeting=wordpress-as-a-paintbrush-internet-art-then-and-now)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-8)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-2)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 1](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-1)
-- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=27874)
 <!-- SLS:END -->
 
 ## Test
