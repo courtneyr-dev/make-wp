@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for myCred](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-mycred/)
 - [Agenda: Weekly Polyglots Chat – Feb. 22, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/22/agenda-weekly-polyglots-chat-feb-22-2023-0700-utc/)
 - [PTE Request for Simple History](https://make.wordpress.org/polyglots/2023/02/21/pte-request-for-simple-history/)
 - [HelpHub and DevDocs redesign request](https://make.wordpress.org/polyglots/2023/02/21/helphub-and-devdocs-redesign-request/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Components into tabs in the right sidebar](https://make.wordpress.org/polyglots/2023/02/20/components-into-tabs-in-the-right-sidebar/)
 - [CLPTE Request](https://make.wordpress.org/polyglots/2023/02/20/clpte-request-10/)
 - [PTE Request for Imageshop DAM Connector](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-imageshop-dam-connector/)
-- [PTE Request for Contest Gallery](https://make.wordpress.org/polyglots/2023/02/20/pte-request-for-contest-gallery/)
 <!-- POLYGLOTS:END -->
 
 ## Support
