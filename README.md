@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer &lpar;Contractor&rpar;](https://jobs.wordpress.net/job/wordpress-developer-contractor-2/)
 - [WordPress server resources developer](https://jobs.wordpress.net/job/wordpress-server-resources-developer/)
 - [WordPress designer and developer](https://jobs.wordpress.net/job/wordpress-designer-and-developer-4/)
 - [Sr. Software Developer &lpar;PHP &amp; WordPress&rpar; with 2 – 5 years of experience](https://jobs.wordpress.net/job/sr-software-developer-php-wordpress-with-2-5-years-of-experience/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lead Web Developer](https://jobs.wordpress.net/job/lead-web-developer-7/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-7/)
 - [[ASTRA] Email Marketing Specialist](https://jobs.wordpress.net/job/astra-email-marketing-specialist/)
-- [[ASTRA] SEO &amp; Content Marketing Specialist](https://jobs.wordpress.net/job/astra-seo-content-marketing-specialist/)
 <!-- JOBS:END -->
 
 ## Central
