@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Designing with the columns block](https://learn.wordpress.org/tutorial/designing-with-the-columns-block/)
 - [Using the WordPress REST API](https://learn.wordpress.org/tutorial/using-the-wordpress-rest-api/)
 - [Migrating your WordPress website to a different host and domain](https://learn.wordpress.org/tutorial/migrating-your-wordpress-website-to-a-different-host-and-domain/)
 - [Introduction to securely developing plugins](https://learn.wordpress.org/tutorial/introduction-to-securely-developing-plugins/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Beginners Guide to the WordPress Template Hierarchy](https://learn.wordpress.org/tutorial/a-beginners-guide-to-the-wordpress-template-hierarchy/)
 - [Tools: Import and Export](https://learn.wordpress.org/tutorial/tools-import-and-export/)
 - [Adding a Contact Form to Your Site](https://learn.wordpress.org/tutorial/adding-a-contact-form-to-your-site/)
-- [Managing Settings: Media](https://learn.wordpress.org/tutorial/managing-settings-media/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
