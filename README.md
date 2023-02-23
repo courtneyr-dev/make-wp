@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on February 22, 2023](https://make.wordpress.org/community/2023/02/23/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-february-22-2023/)
 - [Feature request: additional roles for WordCamp sites](https://make.wordpress.org/community/2023/02/21/feature-request-additional-roles-for-wordcamp-sites/)
 - [Upcoming #WPDiversity Events: March 2023](https://make.wordpress.org/community/2023/02/20/upcoming-wpdiversity-events-march-2023/)
 - [Meetup.com Accessibility Overlay February Update](https://make.wordpress.org/community/2023/02/17/meetup-com-accessibility-overlay-february-update/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Discussion: Refining the Mentor Program](https://make.wordpress.org/community/2023/02/13/discussion-refining-the-mentor-program/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on February 8, 2023](https://make.wordpress.org/community/2023/02/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-february-8-2023/)
 - [2023 Global Sponsors: Announcement](https://make.wordpress.org/community/2023/02/08/2023-global-sponsors-announcement/)
-- [Apply to Attend the 2023 Community Summit](https://make.wordpress.org/community/2023/02/08/apply-to-attend-the-2023-community-summit/)
 <!-- COMMUNITY:END -->
 
 ## Meta
