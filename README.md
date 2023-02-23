@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [A Deep Dive into WordPress Loops](https://wordpress.tv/2023/02/23/a-deep-dive-into-wordpress-loops/)
 - [Designing with the Columns Block](https://wordpress.tv/2023/02/22/designing-with-the-columns-block/)
 - [Ramón Navas: Cómo escoger el mejor hosting para tu sitio web](https://wordpress.tv/2023/02/19/ramon-navas-como-escoger-el-mejor-hosting-para-tu-sitio-web/)
 - [Celis Guevara: Aspectos legales de las páginas web](https://wordpress.tv/2023/02/19/celis-guevara-aspectos-legales-de-las-paginas-web/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [EP 12: Block Pattern : Create and Submit | Bangla](https://wordpress.tv/2023/02/10/ep-12-block-pattern-create-and-submit-bangla/)
 - [EP 11: Block Editor &lpar;Gutenberg&rpar; : Settings | Bangla](https://wordpress.tv/2023/02/10/ep-11-block-editor-gutenberg-settings-bangla/)
 - [EP 10: Block Editor &lpar;Gutenberg&rpar; : What and How | Bangla](https://wordpress.tv/2023/02/10/ep-10-block-editor-gutenberg-what-and-how-bangla/)
-- [Explore with Me: What’s New In Gutenberg?](https://wordpress.tv/2023/02/10/explore-with-me-whats-new-in-gutenberg/)
 <!-- WPTV:END -->
 
 ## Marketing
