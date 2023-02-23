@@ -306,7 +306,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to create a video tutorial about WordPress &lpar;using free computer software&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-video-tutorial-about-wordpress-using-free-computer-software)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-8)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-2)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 1](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-1)
+- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=27874)
 <!-- SLS:END -->
 
 ## Test
