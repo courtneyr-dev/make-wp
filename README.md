@@ -452,7 +452,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Updates
 <!-- UPDATES:START -->
 - [Test Team Update: 20 February 2023](https://make.wordpress.org/updates/2023/02/20/test-team-update-20-february-2023/)
-- [Support Team Meeting Updates for February 9th](https://make.wordpress.org/updates/2023/02/16/support-team-meeting-updates-for-february-9th-3/)
+- [Support Team Meeting Updates for February 16th](https://make.wordpress.org/updates/2023/02/16/support-team-meeting-updates-for-february-16th-2/)
 - [Support Team Meeting Updates for February 9th](https://make.wordpress.org/updates/2023/02/15/support-team-meeting-updates-for-february-9th-2/)
 - [Plugin Review Team: 13 February 2023](https://make.wordpress.org/updates/2023/02/15/plugin-review-team-13-february-2023/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/updates/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
