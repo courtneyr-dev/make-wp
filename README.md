@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Summary for February 23rd Support Meeting](https://make.wordpress.org/support/2023/02/summary-for-february-23rd-support-meeting/)
 - [Agenda for February 23rd Support Meeting](https://make.wordpress.org/support/2023/02/agenda-for-february-23rd-support-meeting-2/)
 - [Support ticket triage session – March 1st 2023 at 12:00 UTC](https://make.wordpress.org/support/2023/02/support-ticket-triage-session-march-1st-2023-at-1200-utc/)
 - [Summary for February 16th Support Meeting](https://make.wordpress.org/support/2023/02/summary-for-february-16th-support-meeting/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/support/2023/02/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/support/2023/02/xpost-community-booth-at-wordcamp-asia-2023/)
 - [X-post: What’s new on LearnWP in January 2023](https://make.wordpress.org/support/2023/02/xpost-whats-new-on-learnwp-in-january-2023/)
-- [Block Editor Live in Most Forums](https://make.wordpress.org/support/2023/02/block-editor-live-in-most-forums/)
 <!-- SUPPORT:END -->
 
 ## Documentation
