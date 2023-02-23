@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Software Tester &lpar;Experienced&rpar;](https://jobs.wordpress.net/job/software-tester-experienced/)
 - [WordPress Developer &lpar;Contractor&rpar;](https://jobs.wordpress.net/job/wordpress-developer-contractor-2/)
 - [WordPress server resources developer](https://jobs.wordpress.net/job/wordpress-server-resources-developer/)
 - [WordPress designer and developer](https://jobs.wordpress.net/job/wordpress-designer-and-developer-4/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Add support for subscriptions to WooCommerce and Memberpress Gateways](https://jobs.wordpress.net/job/add-support-for-subscriptions-to-woocommerce-and-memberpress-gateways/)
 - [Lead Web Developer](https://jobs.wordpress.net/job/lead-web-developer-7/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-7/)
-- [[ASTRA] Email Marketing Specialist](https://jobs.wordpress.net/job/astra-email-marketing-specialist/)
 <!-- JOBS:END -->
 
 ## Central
