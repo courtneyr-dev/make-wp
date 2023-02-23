@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Careers and Contributions in WordPress](https://wordpress.tv/2023/02/23/careers-and-contributions-in-wordpress/)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://wordpress.tv/2023/02/23/how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme/)
 - [A Deep Dive into WordPress Loops](https://wordpress.tv/2023/02/23/a-deep-dive-into-wordpress-loops/)
 - [Designing with the Columns Block](https://wordpress.tv/2023/02/22/designing-with-the-columns-block/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to create a video tutorial about WordPress &lpar;using free computer software&rpar;](https://wordpress.tv/2023/02/10/how-to-create-a-video-tutorial-about-wordpress-using-free-computer-software/)
 - [Let’s code: WP REST API – custom routes and endpoints](https://wordpress.tv/2023/02/10/lets-code-wp-rest-api-custom-routes-and-endpoints/)
 - [EP 12: Block Pattern : Create and Submit | Bangla](https://wordpress.tv/2023/02/10/ep-12-block-pattern-create-and-submit-bangla/)
-- [EP 11: Block Editor &lpar;Gutenberg&rpar; : Settings | Bangla](https://wordpress.tv/2023/02/10/ep-11-block-editor-gutenberg-settings-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
