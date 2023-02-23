@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Inpost Paczkomaty](https://make.wordpress.org/polyglots/2023/02/23/pte-request-for-inpost-paczkomaty/)
 - [PTE Request for Post to Google My Business](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-post-to-google-my-business/)
 - [PTE Request for Botiga](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-botiga/)
 - [PTE Request for 5 &lpar;five&rpar;…](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-5-five/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [HelpHub and DevDocs redesign request](https://make.wordpress.org/polyglots/2023/02/21/helphub-and-devdocs-redesign-request/)
 - [PTE Request for MediaPress By BuddyDev](https://make.wordpress.org/polyglots/2023/02/21/pte-request-for-mediapress-by-buddydev/)
 - [PTE Request for ShortPixel Image Optimizer](https://make.wordpress.org/polyglots/2023/02/21/pte-request-for-shortpixel-image-optimizer-2/)
-- [Sync translations between Dev and Stable projects](https://make.wordpress.org/polyglots/2023/02/20/sync-translations-between-dev-and-stable-projects/)
 <!-- POLYGLOTS:END -->
 
 ## Support
