@@ -199,6 +199,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [थीम चुनना और इंस्टॉल करना](https://learn.wordpress.org/lesson-plan/hi-choosing-and-installing-themes/)
+- [पेज बनाम। पदों](https://learn.wordpress.org/lesson-plan/hi-pages-vs-posts/)
 - [पुन: प्रयोज्य ब्लॉकों, ब्लॉक पैटर्न, टेम्पलेट्स, टेम्पलेट भागों के बीच अंतर](https://learn.wordpress.org/lesson-plan/hi-difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [साइट संपादक और टेम्प्लेट का परिचय](https://learn.wordpress.org/lesson-plan/hi-intro-to-the-site-editor-and-templates/)
 - [પૃષ્ઠો વિ. પોસ્ટ્સ](https://learn.wordpress.org/lesson-plan/gu-pages-vs-posts/)
@@ -222,8 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Workshop di Formazione degli Speaker](https://learn.wordpress.org/lesson-plan/workshop-di-formazione-degli-speaker/)
 - [Πώς να χρησιμοποιήσετε και να συνεισφέρετε στον κατάλογο φωτογραφιών του WordPress αλλά και στο Openverse](https://learn.wordpress.org/lesson-plan/%cf%80%cf%8e%cf%82-%ce%bd%ce%b1-%cf%87%cf%81%ce%b7%cf%83%ce%b9%ce%bc%ce%bf%cf%80%ce%bf%ce%b9%ce%ae%cf%83%ce%b5%cf%84%ce%b5-%ce%ba%ce%b1%ce%b9-%ce%bd%ce%b1-%cf%83%cf%85%ce%bd%ce%b5%ce%b9%cf%83%cf%86/)
 - [Submitting Block Patterns to the Directory](https://learn.wordpress.org/lesson-plan/submitting-block-patterns-to-the-directory/)
-- [Template Editor](https://learn.wordpress.org/lesson-plan/template-editor/)
-- [What Is W3 Total Cache](https://learn.wordpress.org/lesson-plan/what-is-w3-total-cache/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
