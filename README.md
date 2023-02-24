@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [How to add and remove a logo and site icon in a WordPress block theme](https://learn.wordpress.org/tutorial/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/)
 - [Designing with the columns block](https://learn.wordpress.org/tutorial/designing-with-the-columns-block/)
 - [Using the WordPress REST API](https://learn.wordpress.org/tutorial/using-the-wordpress-rest-api/)
 - [Migrating your WordPress website to a different host and domain](https://learn.wordpress.org/tutorial/migrating-your-wordpress-website-to-a-different-host-and-domain/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Block Template Parts in Classic Themes](https://learn.wordpress.org/tutorial/using-block-template-parts-in-classic-themes/)
 - [A Beginners Guide to the WordPress Template Hierarchy](https://learn.wordpress.org/tutorial/a-beginners-guide-to-the-wordpress-template-hierarchy/)
 - [Tools: Import and Export](https://learn.wordpress.org/tutorial/tools-import-and-export/)
-- [Adding a Contact Form to Your Site](https://learn.wordpress.org/tutorial/adding-a-contact-form-to-your-site/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
