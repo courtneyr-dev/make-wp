@@ -342,7 +342,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Koji Kuno: WordPress（再）入門 – 基礎知識・環境編](https://wordpress.tv/2023/02/24/koji-kuno-gifu-wordpress-meetup-54/)
 - [Help test WordPress – developer edition](https://wordpress.tv/2023/02/24/help-test-wordpress-developer-edition/)
 - [Защо WordPress &lpar;web&rpar; програмист е най-добрият старт за IT dev кариера?](https://wordpress.tv/2023/02/23/%d0%b7%d0%b0%d1%89%d0%be-wordpress-web-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%b8%d1%81%d1%82-%d0%b5-%d0%bd%d0%b0%d0%b9-%d0%b4%d0%be%d0%b1%d1%80%d0%b8%d1%8f%d1%82-%d1%81%d1%82%d0%b0%d1%80/)
-- [Careers and Contributions in WordPress](https://wordpress.tv/2023/02/23/careers-and-contributions-in-wordpress/)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://wordpress.tv/2023/02/23/how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme/)
 - [A Deep Dive into WordPress Loops](https://wordpress.tv/2023/02/23/a-deep-dive-into-wordpress-loops/)
 - [Designing with the Columns Block](https://wordpress.tv/2023/02/22/designing-with-the-columns-block/)
@@ -363,6 +362,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
 - [Developer hours: migrate a plugin to blocks](https://wordpress.tv/2023/02/15/developer-hours-migrate-a-plugin-to-blocks/)
 - [Hallway Hangout: Themer goodies coming to WordPress 6.2](https://wordpress.tv/2023/02/14/hallway-hangout-themer-goodies-coming-to-wordpress-6-2/)
+- [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://wordpress.tv/2023/02/10/create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86/)
 <!-- WPTV:END -->
 
 ## Marketing
