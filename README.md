@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: Preventing Common Security Vulnerabilities](https://learn.wordpress.org/?meeting=lets-code-preventing-common-security-vulnerabilities)
+- [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api-3)
 - [How to create a website on mobile &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-1)
 - [Introduction to Templates &lpar;Block Theme&rpar;](https://learn.wordpress.org/?meeting=introduction-to-templates-block-theme)
 - [Customizing the Single Template and 404 Template](https://learn.wordpress.org/?meeting=customizing-the-single-template-and-404-template)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [画像のSEO対策 〜WordPressでできること〜](https://learn.wordpress.org/?meeting=%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c)
 - [What is Learn WordPress?](https://learn.wordpress.org/?meeting=what-is-learn-wordpress)
 - [How to create a video tutorial about WordPress &lpar;using free computer software&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-video-tutorial-about-wordpress-using-free-computer-software)
-- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-8)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-2)
 <!-- SLS:END -->
 
 ## Test
