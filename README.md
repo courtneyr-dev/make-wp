@@ -507,6 +507,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety-3/)
+- [Senior WordPress Software Engineer &lpar;remote&rpar;](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-remote-2/)
+- [WP Developer – Sites &amp; Custom Themes – Nice To Have: UI/UX skills](https://jobs.wordpress.net/job/wp-developer-sites-custom-themes-nice-to-have-ui-ux-skills/)
 - [Software Tester &lpar;Experienced&rpar;](https://jobs.wordpress.net/job/software-tester-experienced/)
 - [WordPress Developer &lpar;Contractor&rpar;](https://jobs.wordpress.net/job/wordpress-developer-contractor-2/)
 - [WordPress server resources developer](https://jobs.wordpress.net/job/wordpress-server-resources-developer/)
@@ -514,9 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sr. Software Developer &lpar;PHP &amp; WordPress&rpar; with 2 – 5 years of experience](https://jobs.wordpress.net/job/sr-software-developer-php-wordpress-with-2-5-years-of-experience/)
 - [Full Stack &lpar;LAMP/MERN&rpar; WordPress Engineer/Developer](https://jobs.wordpress.net/job/full-stack-lamp-mern-wordpress-engineer-developer/)
 - [Full stack WordPress and woocommerce developer](https://jobs.wordpress.net/job/full-stack-wordpress-and-woocommerce-developer/)
-- [Add support for subscriptions to WooCommerce and Memberpress Gateways](https://jobs.wordpress.net/job/add-support-for-subscriptions-to-woocommerce-and-memberpress-gateways/)
-- [Lead Web Developer](https://jobs.wordpress.net/job/lead-web-developer-7/)
-- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-7/)
 <!-- JOBS:END -->
 
 ## Central
