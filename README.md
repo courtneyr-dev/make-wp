@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [Get your tickets for WordCamp Kerala 2023 on March 25th!](https://central.wordcamp.org/news/2023/02/get-your-tickets-for-wordcamp-kerala-2023-on-march-25th/)
 - [WooCommerce sponsors WordPress community events across the globe](https://central.wordcamp.org/news/2023/02/woocommerce-sponsors-wordpress-community-events-worldwide/)
 - [Bluehost supports WordPress community events worldwide](https://central.wordcamp.org/news/2023/02/bluehost-supports-wordpress-community-events-worldwide-3/)
 - [Thanks to Automattic for sponsoring community events worldwide](https://central.wordcamp.org/news/2023/02/thanks-to-automattic-for-sponsoring-community-events-worldwide/)
@@ -535,7 +536,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bluehost supports WordPress community events worldwide](https://central.wordcamp.org/news/2022/02/bluehost-supports-wordpress-community-events-worldwide-2/)
 - [Thanks to Jetpack for sponsoring community events worldwide](https://central.wordcamp.org/news/2022/02/thanks-to-jetpack-for-sponsoring-community-events-worldwide-2/)
 - [WordPress.com joins the WordPress global community sponsorship program in 2022](https://central.wordcamp.org/news/2022/02/wordpress-com-joins-the-wordpress-global-community-sponsorship-program-in-2022/)
-- [Nexcess joins the WordPress global community sponsorship program in 2022](https://central.wordcamp.org/news/2022/02/nexcess-joins-the-wordpress-global-community-sponsorship-program-in-2022/)
 <!-- Central:END -->
 
 ### WordCamp
