@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for MB Custom…](https://make.wordpress.org/polyglots/2023/02/26/pte-request-for-mb-custom/)
 - [PTE Request for Accessible External Text Links](https://make.wordpress.org/polyglots/2023/02/25/pte-request-for-accessible-external-text-links-2/)
 - [Hi I’ve translated a part…](https://make.wordpress.org/polyglots/2023/02/24/hi-ive-translated-a-part/)
 - [PTE Request for Inpost Paczkomaty](https://make.wordpress.org/polyglots/2023/02/23/pte-request-for-inpost-paczkomaty/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for myCred](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-mycred/)
 - [Agenda: Weekly Polyglots Chat – Feb. 22, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/02/22/agenda-weekly-polyglots-chat-feb-22-2023-0700-utc/)
 - [PTE Request for Simple History](https://make.wordpress.org/polyglots/2023/02/21/pte-request-for-simple-history/)
-- [HelpHub and DevDocs redesign request](https://make.wordpress.org/polyglots/2023/02/21/helphub-and-devdocs-redesign-request/)
 <!-- POLYGLOTS:END -->
 
 ## Support
