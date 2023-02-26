@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-5/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-6/)
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-6/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-4/)
+- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-6/)
+- [WordPress Web Site Need Updates &amp; Upgrades](https://jobs.wordpress.net/job/word-press-web-site-need-updates-upgrades/)
+- [WordPress Webmaster](https://jobs.wordpress.net/job/wordpress-webmaster/)
 - [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety-3/)
 - [Senior WordPress Software Engineer &lpar;remote&rpar;](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-remote-2/)
-- [WP Developer – Sites &amp; Custom Themes – Nice To Have: UI/UX skills](https://jobs.wordpress.net/job/wp-developer-sites-custom-themes-nice-to-have-ui-ux-skills/)
-- [Software Tester &lpar;Experienced&rpar;](https://jobs.wordpress.net/job/software-tester-experienced/)
-- [WordPress Developer &lpar;Contractor&rpar;](https://jobs.wordpress.net/job/wordpress-developer-contractor-2/)
-- [WordPress server resources developer](https://jobs.wordpress.net/job/wordpress-server-resources-developer/)
-- [WordPress designer and developer](https://jobs.wordpress.net/job/wordpress-designer-and-developer-4/)
-- [Sr. Software Developer &lpar;PHP &amp; WordPress&rpar; with 2 – 5 years of experience](https://jobs.wordpress.net/job/sr-software-developer-php-wordpress-with-2-5-years-of-experience/)
-- [Full Stack &lpar;LAMP/MERN&rpar; WordPress Engineer/Developer](https://jobs.wordpress.net/job/full-stack-lamp-mern-wordpress-engineer-developer/)
-- [Full stack WordPress and woocommerce developer](https://jobs.wordpress.net/job/full-stack-wordpress-and-woocommerce-developer/)
 <!-- JOBS:END -->
 
 ## Central
