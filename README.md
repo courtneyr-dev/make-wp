@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [டாஷ்போர்டு மேலோட்டம்](https://learn.wordpress.org/lesson-plan/ta-dashboard-overview/)
 - [மீண்டும் பயன்படுத்தக்கூடிய தொகுதிகள், பிளாக் பேட்டர்ன், டெம்ப்ளேட்கள், டெம்ப்ளேட் பாகங்களுக்கு இடையே உள்ள வேறுபாடு](https://learn.wordpress.org/lesson-plan/ta-difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [थीम चुनना और इंस्टॉल करना](https://learn.wordpress.org/lesson-plan/hi-choosing-and-installing-themes/)
 - [पेज बनाम। पदों](https://learn.wordpress.org/lesson-plan/hi-pages-vs-posts/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WebP images in WordPress](https://learn.wordpress.org/lesson-plan/webp-images-in-wordpress/)
 - [Υποβολή Μοτίβων μπλοκ &lpar;Block Patterns&rpar; στον κατάλογο.](https://learn.wordpress.org/lesson-plan/%cf%85%cf%80%ce%bf%ce%b2%ce%bf%ce%bb%ce%ae-%ce%bc%ce%bf%cf%84%ce%af%ce%b2%cf%89%ce%bd-%ce%bc%cf%80%ce%bb%ce%bf%ce%ba-block-patterns-%cf%83%cf%84%ce%bf%ce%bd-%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%ce%bf/)
 - [Workshop di Formazione degli Speaker](https://learn.wordpress.org/lesson-plan/workshop-di-formazione-degli-speaker/)
-- [Πώς να χρησιμοποιήσετε και να συνεισφέρετε στον κατάλογο φωτογραφιών του WordPress αλλά και στο Openverse](https://learn.wordpress.org/lesson-plan/%cf%80%cf%8e%cf%82-%ce%bd%ce%b1-%cf%87%cf%81%ce%b7%cf%83%ce%b9%ce%bc%ce%bf%cf%80%ce%bf%ce%b9%ce%ae%cf%83%ce%b5%cf%84%ce%b5-%ce%ba%ce%b1%ce%b9-%ce%bd%ce%b1-%cf%83%cf%85%ce%bd%ce%b5%ce%b9%cf%83%cf%86/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
