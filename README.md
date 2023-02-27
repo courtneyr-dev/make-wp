@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Suggested update to Events Code of Conduct](https://make.wordpress.org/community/2023/02/27/suggested-update-to-events-code-of-conduct/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on February 22, 2023](https://make.wordpress.org/community/2023/02/23/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-february-22-2023/)
 - [Feature request: additional roles for WordCamp sites](https://make.wordpress.org/community/2023/02/21/feature-request-additional-roles-for-wordcamp-sites/)
 - [Upcoming #WPDiversity Events: March 2023](https://make.wordpress.org/community/2023/02/20/upcoming-wpdiversity-events-march-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Asia 2023 Contributor Day](https://make.wordpress.org/community/2023/02/14/wordcamp-asia-2023-contributor-day/)
 - [Discussion: Refining the Mentor Program](https://make.wordpress.org/community/2023/02/13/discussion-refining-the-mentor-program/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on February 8, 2023](https://make.wordpress.org/community/2023/02/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-february-8-2023/)
-- [2023 Global Sponsors: Announcement](https://make.wordpress.org/community/2023/02/08/2023-global-sponsors-announcement/)
 <!-- COMMUNITY:END -->
 
 ## Meta
