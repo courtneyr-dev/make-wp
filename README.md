@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-independent-analytics/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/02/27/hi-dear-mentors-we-have-108/)
 - [Polyglots Outreach Effort: March 2023](https://make.wordpress.org/polyglots/2023/02/27/polyglots-outreach-effort-march-2023/)
 - [PTE Request for MB Custom…](https://make.wordpress.org/polyglots/2023/02/26/pte-request-for-mb-custom/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Post to Google My Business](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-post-to-google-my-business/)
 - [PTE Request for Botiga](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-botiga/)
 - [PTE Request for 5 &lpar;five&rpar;…](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-5-five/)
-- [PTE Request for myCred](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-mycred/)
 <!-- POLYGLOTS:END -->
 
 ## Support
