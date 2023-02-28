@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [L’heure de la sobriété &lpar;numérique&rpar; a sonné !](https://wordpress.tv/2023/02/28/lheure-de-la-sobriete-numerique-a-sonne/)
 - [Agence et Freelance WordPress : réalisez vos projets web en toute sérénité juridique](https://wordpress.tv/2023/02/28/agence-et-freelance-wordpress-realisez-vos-projets-web-en-toute-serenite-juridique/)
 - [Je n’aime pas écrire du CSS, depuis je thème mieux](https://wordpress.tv/2023/02/28/je-naime-pas-ecrire-du-css-depuis-je-theme-mieux/)
 - [How to add and remove a logo and site icon in a WordPress block theme](https://wordpress.tv/2023/02/24/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gérer un blog professionnel sur WordPress](https://wordpress.tv/2023/02/16/gerer-un-blog-professionnel-sur-wordpress/)
 - [Aditya Shah: WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
 - [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
-- [Developer hours: migrate a plugin to blocks](https://wordpress.tv/2023/02/15/developer-hours-migrate-a-plugin-to-blocks/)
 <!-- WPTV:END -->
 
 ## Marketing
