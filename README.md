@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Je suis un·e dev WordPress](https://wordpress.tv/2023/02/28/je-suis-un%c2%b7e-dev-wordpress/)
+- [Introduction au développement de blocs pour l’éditeur](https://wordpress.tv/2023/02/28/introduction-au-developpement-de-blocs-pour-lediteur/)
 - [L’heure de la sobriété &lpar;numérique&rpar; a sonné !](https://wordpress.tv/2023/02/28/lheure-de-la-sobriete-numerique-a-sonne/)
 - [Agence et Freelance WordPress : réalisez vos projets web en toute sérénité juridique](https://wordpress.tv/2023/02/28/agence-et-freelance-wordpress-realisez-vos-projets-web-en-toute-serenite-juridique/)
 - [Je n’aime pas écrire du CSS, depuis je thème mieux](https://wordpress.tv/2023/02/28/je-naime-pas-ecrire-du-css-depuis-je-theme-mieux/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Análise de Vulnerabilidades: Ferramentas para verificar a segurança do seu WordPress](https://wordpress.tv/2023/02/16/analise-de-vulnerabilidades-ferramentas-para-verificar-a-seguranca-do-seu-wordpress/)
 - [La courbe d’apprentissage d’un développeur, de WordPress classique à FSE](https://wordpress.tv/2023/02/16/la-courbe-dapprentissage-dun-developpeur-de-wordpress-classique-a-fse/)
 - [Gérer un blog professionnel sur WordPress](https://wordpress.tv/2023/02/16/gerer-un-blog-professionnel-sur-wordpress/)
-- [Aditya Shah: WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
-- [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
