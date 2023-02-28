@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: WordPress Hosting and WebP support](https://make.wordpress.org/core/2023/02/28/xpost-wordpress-hosting-and-webp-support/)
 - [Core Performance Team Roadmap Published](https://make.wordpress.org/core/2023/02/27/core-performance-team-roadmap-published/)
 - [Editor chat summary: Wednesday, 22nd February 2023](https://make.wordpress.org/core/2023/02/27/editor-chat-summary-wednesday-22nd-february-2023/)
 - [What’s new in Gutenberg 15.2? &lpar;22 February&rpar;](https://make.wordpress.org/core/2023/02/24/whats-new-in-gutenberg-15-2-22-february/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2 Beta 3](https://make.wordpress.org/core/2023/02/21/wordpress-6-2-beta-3/)
 - [6.2 Live Product Demo](https://make.wordpress.org/core/2023/02/21/6-2-live-product-demo/)
 - [Performance Chat Summary: 21 February 2023](https://make.wordpress.org/core/2023/02/21/performance-chat-summary-21-february-2023/)
-- [Performance Chat Agenda: 21 February 2023](https://make.wordpress.org/core/2023/02/21/performance-chat-agenda-21-february-2023/)
 <!-- CORE:END -->
 
 ## Design
