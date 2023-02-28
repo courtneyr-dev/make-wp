@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-code-snippets-2/)
+- [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-onoffice-for-wp-websites-3/)
 - [PTE Request for [Limit Login Attempts Reloaded]](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-limit-login-attempts-reloaded-4/)
 - [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-independent-analytics/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/02/27/hi-dear-mentors-we-have-108/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Accessible External Text Links](https://make.wordpress.org/polyglots/2023/02/25/pte-request-for-accessible-external-text-links-2/)
 - [Hi I’ve translated a part…](https://make.wordpress.org/polyglots/2023/02/24/hi-ive-translated-a-part/)
 - [PTE Request for Inpost Paczkomaty](https://make.wordpress.org/polyglots/2023/02/23/pte-request-for-inpost-paczkomaty/)
-- [PTE Request for Post to Google My Business](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-post-to-google-my-business/)
-- [PTE Request for Botiga](https://make.wordpress.org/polyglots/2023/02/22/pte-request-for-botiga/)
 <!-- POLYGLOTS:END -->
 
 ## Support
