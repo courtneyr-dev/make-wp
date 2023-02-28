@@ -338,6 +338,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Le SEO c’est super! Choisir ses outils et ses ressources pour répondre à sa clientèle](https://wordpress.tv/2023/02/28/le-seo-cest-super-choisir-ses-outils-et-ses-ressources-pour-repondre-a-sa-clientele/)
+- [John Robert-Nicoud: Diffuser un Podcast via WordPress](https://wordpress.tv/2023/02/28/john-robert-nicoud-diffuser-un-podcast-via-wordpress/)
+- [Agence WordPress 100% Elementor : retours d’expériences sur 4 projets Web](https://wordpress.tv/2023/02/28/agence-wordpress-100-elementor-retours-dexperiences-sur-4-projets-web/)
+- [Faire du marketing web et éthique, c’est possible](https://wordpress.tv/2023/02/28/faire-du-marketing-web-et-ethique-cest-possible/)
+- [Le SXO : Designer en fonction de la data utilisateur](https://wordpress.tv/2023/02/28/le-sxo-designer-en-fonction-de-la-data-utilisateur/)
+- [Retour d’expérience newsletter](https://wordpress.tv/2023/02/28/retour-dexperience-newsletter/)
 - [Aller plus loin avec Gutenberg – Meetup Montpellier](https://wordpress.tv/2023/02/28/aller-plus-loin-avec-gutenberg-meetup-montpellier/)
 - [Assurance qualité Web : prendre soin des utilisateurs, prévenir les risques](https://wordpress.tv/2023/02/28/assurance-qualite-web-prendre-soin-des-utilisateurs-prevenir-les-risques/)
 - [Puis-je me passer d’Elementor grâce à Gutenberg ?](https://wordpress.tv/2023/02/28/puis-je-me-passer-delementor-grace-a-gutenberg/)
@@ -357,12 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Deep Dive into WordPress Loops](https://wordpress.tv/2023/02/23/a-deep-dive-into-wordpress-loops/)
 - [Designing with the Columns Block](https://wordpress.tv/2023/02/22/designing-with-the-columns-block/)
 - [Ramón Navas: Cómo escoger el mejor hosting para tu sitio web](https://wordpress.tv/2023/02/19/ramon-navas-como-escoger-el-mejor-hosting-para-tu-sitio-web/)
-- [Celis Guevara: Aspectos legales de las páginas web](https://wordpress.tv/2023/02/19/celis-guevara-aspectos-legales-de-las-paginas-web/)
-- [Aura Brito, Roosevelt Gordones: Ask Me Anything &lpar;AMA&rpar; de WordPress](https://wordpress.tv/2023/02/19/aura-brito-roosevelt-gordones-ask-me-anything-ama-de-wordpress/)
-- [Aura Brito, Roosevelt Gordones: Primeros pasos para crear tu blog](https://wordpress.tv/2023/02/19/aura-brito-roosevelt-gordones-primeros-pasos-para-crear-tu-blog/)
-- [Aura Brito: Blogging como forma de Emprendimiento](https://wordpress.tv/2023/02/19/aura-brito-blogging-como-forma-de-emprendimiento/)
-- [Configura &lpar;de una vez&rpar; tu web con GA4 antes de que sea tarde](https://wordpress.tv/2023/02/19/configura-de-una-vez-tu-web-con-ga4-antes-de-que-sea-tarde/)
-- [Alexis Arnal: ¿Qué hago? Mi sitio tiene código malicioso](https://wordpress.tv/2023/02/18/que-hago-mi-sitio-tiene-codigo-malicioso/)
 <!-- WPTV:END -->
 
 ## Marketing
