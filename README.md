@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Agence et Freelance WordPress : réalisez vos projets web en toute sérénité juridique](https://wordpress.tv/2023/02/28/agence-et-freelance-wordpress-realisez-vos-projets-web-en-toute-serenite-juridique/)
 - [Je n’aime pas écrire du CSS, depuis je thème mieux](https://wordpress.tv/2023/02/28/je-naime-pas-ecrire-du-css-depuis-je-theme-mieux/)
 - [How to add and remove a logo and site icon in a WordPress block theme](https://wordpress.tv/2023/02/24/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/)
 - [Koji Kuno: WordPress（再）入門 – 基礎知識・環境編](https://wordpress.tv/2023/02/24/koji-kuno-gifu-wordpress-meetup-54/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Aditya Shah: WPCLI Unleashed](https://wordpress.tv/2023/02/16/aditya-shah-wpcli-unleashed/)
 - [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
 - [Developer hours: migrate a plugin to blocks](https://wordpress.tv/2023/02/15/developer-hours-migrate-a-plugin-to-blocks/)
-- [Hallway Hangout: Themer goodies coming to WordPress 6.2](https://wordpress.tv/2023/02/14/hallway-hangout-themer-goodies-coming-to-wordpress-6-2/)
 <!-- WPTV:END -->
 
 ## Marketing
