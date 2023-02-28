@@ -338,6 +338,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Puis-je me passer d’Elementor grâce à Gutenberg ?](https://wordpress.tv/2023/02/28/puis-je-me-passer-delementor-grace-a-gutenberg/)
+- [Comment le RGPD peut influer sur le périmètre technique d’un projet web ?](https://wordpress.tv/2023/02/28/comment-le-rgpd-peut-influer-sur-le-perimetre-technique-dun-projet-web/)
+- [La courbe d’apprentissage d’un développeur, de WordPress classique à FSE](https://wordpress.tv/2023/02/28/la-courbe-dapprentissage-dun-developpeur-de-wordpress-classique-a-fse-2/)
+- [Gutenberg : au delà de l’éditeur de texte](https://wordpress.tv/2023/02/28/gutenberg-au-dela-de-lediteur-de-texte/)
 - [Je suis un·e dev WordPress](https://wordpress.tv/2023/02/28/je-suis-un%c2%b7e-dev-wordpress/)
 - [Introduction au développement de blocs pour l’éditeur](https://wordpress.tv/2023/02/28/introduction-au-developpement-de-blocs-pour-lediteur/)
 - [L’heure de la sobriété &lpar;numérique&rpar; a sonné !](https://wordpress.tv/2023/02/28/lheure-de-la-sobriete-numerique-a-sonne/)
@@ -359,10 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alexis Arnal: ¿Qué hago? Mi sitio tiene código malicioso](https://wordpress.tv/2023/02/18/que-hago-mi-sitio-tiene-codigo-malicioso/)
 - [Let’s code: developer AMA](https://wordpress.tv/2023/02/18/lets-code-developer-ama/)
 - [Using the WordPress REST API](https://wordpress.tv/2023/02/17/using-the-wordpress-rest-api/)
-- [Sage Framework – O melhor do PHP em um único lugar](https://wordpress.tv/2023/02/16/sage-framework-o-melhor-do-php-em-um-unico-lugar/)
-- [Análise de Vulnerabilidades: Ferramentas para verificar a segurança do seu WordPress](https://wordpress.tv/2023/02/16/analise-de-vulnerabilidades-ferramentas-para-verificar-a-seguranca-do-seu-wordpress/)
-- [La courbe d’apprentissage d’un développeur, de WordPress classique à FSE](https://wordpress.tv/2023/02/16/la-courbe-dapprentissage-dun-developpeur-de-wordpress-classique-a-fse/)
-- [Gérer un blog professionnel sur WordPress](https://wordpress.tv/2023/02/16/gerer-un-blog-professionnel-sur-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
