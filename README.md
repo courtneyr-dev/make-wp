@@ -282,6 +282,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-10)
+- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-9)
+- [Hallway Hangout: Community Themes Initiative](https://learn.wordpress.org/?meeting=hallway-hangout-community-themes-initiative)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.1 and 15.2](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-1-and-15-2)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-2-2)
 - [Let’s code: Preventing Common Security Vulnerabilities](https://learn.wordpress.org/?meeting=lets-code-preventing-common-security-vulnerabilities)
@@ -304,9 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-2)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team)
-- [What is Learn WordPress? &lpar;Timezone 2&rpar;](https://learn.wordpress.org/?meeting=what-is-learn-wordpress-timezone-2)
-- [画像のSEO対策 〜WordPressでできること〜](https://learn.wordpress.org/?meeting=%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c-2)
-- [画像のSEO対策 〜WordPressでできること〜](https://learn.wordpress.org/?meeting=%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c)
 <!-- SLS:END -->
 
 ## Test
