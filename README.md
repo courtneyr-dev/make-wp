@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Je n’aime pas écrire du CSS, depuis je thème mieux](https://wordpress.tv/2023/02/28/je-naime-pas-ecrire-du-css-depuis-je-theme-mieux/)
 - [How to add and remove a logo and site icon in a WordPress block theme](https://wordpress.tv/2023/02/24/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/)
 - [Koji Kuno: WordPress（再）入門 – 基礎知識・環境編](https://wordpress.tv/2023/02/24/koji-kuno-gifu-wordpress-meetup-54/)
 - [Help test WordPress – developer edition](https://wordpress.tv/2023/02/24/help-test-wordpress-developer-edition/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is Learn WordPress?](https://wordpress.tv/2023/02/15/what-is-learn-wordpress/)
 - [Developer hours: migrate a plugin to blocks](https://wordpress.tv/2023/02/15/developer-hours-migrate-a-plugin-to-blocks/)
 - [Hallway Hangout: Themer goodies coming to WordPress 6.2](https://wordpress.tv/2023/02/14/hallway-hangout-themer-goodies-coming-to-wordpress-6-2/)
-- [Create Block Theme プラグインで自分のブロックテーマを作ろう！](https://wordpress.tv/2023/02/10/create-block-theme-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86/)
 <!-- WPTV:END -->
 
 ## Marketing
