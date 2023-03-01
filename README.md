@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Builder Basics: Block Styles vs. Block Variations](https://wordpress.tv/2023/03/01/builder-basics-block-styles-vs-block-variations/)
 - [Le SEO c’est super! Choisir ses outils et ses ressources pour répondre à sa clientèle](https://wordpress.tv/2023/02/28/le-seo-cest-super-choisir-ses-outils-et-ses-ressources-pour-repondre-a-sa-clientele/)
 - [John Robert-Nicoud: Diffuser un Podcast via WordPress](https://wordpress.tv/2023/02/28/john-robert-nicoud-diffuser-un-podcast-via-wordpress/)
 - [Agence WordPress 100% Elementor : retours d’expériences sur 4 projets Web](https://wordpress.tv/2023/02/28/agence-wordpress-100-elementor-retours-dexperiences-sur-4-projets-web/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://wordpress.tv/2023/02/23/how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme/)
 - [A Deep Dive into WordPress Loops](https://wordpress.tv/2023/02/23/a-deep-dive-into-wordpress-loops/)
 - [Designing with the Columns Block](https://wordpress.tv/2023/02/22/designing-with-the-columns-block/)
-- [Ramón Navas: Cómo escoger el mejor hosting para tu sitio web](https://wordpress.tv/2023/02/19/ramon-navas-como-escoger-el-mejor-hosting-para-tu-sitio-web/)
 <!-- WPTV:END -->
 
 ## Marketing
