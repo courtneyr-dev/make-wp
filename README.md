@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [People of WordPress: Hauwa Abashiya](https://wordpress.org/news/2023/02/people-of-wordpress-hauwa-abashiya/)
 - [WP Briefing: Episode 50: 3 Interesting Trends from WordCamp Asia](https://wordpress.org/news/2023/02/episode-50-3-interesting-trends-from-wordcamp-asia/)
 - [WP Briefing: Episode 49: Everything You Need to Know About the Community Summit!](https://wordpress.org/news/2023/02/episode-49-everything-you-need-to-know-about-the-community-summit/)
 - [WordPress 6.2 Beta 1](https://wordpress.org/news/2023/02/wordpress-6-2-beta-1/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Month in WordPress – December 2022](https://wordpress.org/news/2023/01/the-month-in-wordpress-december-2022/)
 - [WP Briefing: Episode 47: Letter from the Executive Director](https://wordpress.org/news/2023/01/episode-47-letter-from-the-executive-director/)
 - [Letter from WordPress’ Executive Director, 2022](https://wordpress.org/news/2023/01/letter-from-wordpress-executive-director-2022/)
-- [WordPress is Turning 20: Let’s Celebrate!](https://wordpress.org/news/2023/01/wordpress-is-turning-20-lets-celebrate/)
 <!-- NEWS:END -->
 
 ## Jobs
