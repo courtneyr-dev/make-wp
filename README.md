@@ -115,6 +115,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Overusing snapshots](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/overusing-snapshots/)
+- [Migration guide](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/migration/)
+- [End-to-End Testing](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/)
 - [CircularOptionPicker](https://developer.wordpress.org/block-editor/reference-guides/components/circular-option-picker/)
 - [NavigatorToParentButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-to-parent-button/)
 - [@wordpress/private-apis](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-private-apis/)
@@ -122,9 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Common Vulnerabilities](https://developer.wordpress.org/apis/security/common-vulnerabilities/)
 - [User Roles and Capabilities](https://developer.wordpress.org/apis/security/user-roles-and-capabilities/)
 - [Example](https://developer.wordpress.org/apis/security/example/)
-- [Nonces](https://developer.wordpress.org/apis/security/nonces/)
-- [Escaping Data](https://developer.wordpress.org/apis/security/escaping/)
-- [Validating Data](https://developer.wordpress.org/apis/security/data-validation/)
 <!-- DEVHUB:END -->
 
 ## Themes
