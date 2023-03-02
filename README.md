@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [ReactJS Lead](https://jobs.wordpress.net/job/reactjs-lead/)
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-792/)
+- [3+ yrs WP Developer – Sites &amp; Custom Themes – Nice To Have: UI/UX skills](https://jobs.wordpress.net/job/3-yrs-wp-developer-sites-custom-themes-nice-to-have-ui-ux-skills/)
+- [WordPress Site Builder](https://jobs.wordpress.net/job/wordpress-site-builder/)
 - [Front End Developer](https://jobs.wordpress.net/job/front-end-developer-47/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-5/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-6/)
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-6/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-4/)
-- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-6/)
-- [WordPress Web Site Need Updates &amp; Upgrades](https://jobs.wordpress.net/job/word-press-web-site-need-updates-upgrades/)
-- [WordPress Webmaster](https://jobs.wordpress.net/job/wordpress-webmaster/)
-- [World Safety Drive – Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-developers-for-driving-safety-3/)
 <!-- JOBS:END -->
 
 ## Central
