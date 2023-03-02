@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Organizing Diverse &amp; Inclusive WordPress Events AMER/EMEA](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-amer-emea)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-10)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-9)
 - [Hallway Hangout: Community Themes Initiative](https://learn.wordpress.org/?meeting=hallway-hangout-community-themes-initiative)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: Developer AMA – Ask Me Anything](https://learn.wordpress.org/?meeting=lets-code-developer-ama-ask-me-anything)
 - [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-2)
-- [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team)
 <!-- SLS:END -->
 
 ## Test
