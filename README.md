@@ -282,6 +282,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Live stream: Bring me your block development issues!](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-block-development-issues)
+- [Live stream: Reviewing developer-focused features in Gutenberg 15.3](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-3)
+- [Live stream: Wrapping up the OpenAI integrated block that generates images](https://learn.wordpress.org/?meeting=live-stream-wrapping-up-the-openai-integrated-block-that-generates-images)
 - [Organizing Diverse &amp; Inclusive WordPress Events AMER/EMEA](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-amer-emea)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-10)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-9)
@@ -304,9 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Designers &amp; Developers: Cats &amp; Dogs Living in Harmony](https://learn.wordpress.org/?meeting=designers-developers-cats-dogs-living-in-harmony)
 - [Training Team Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-contributor-day-online-session)
 - [Community Sharing: Media Plugins](https://learn.wordpress.org/?meeting=community-sharing-media-plugins)
-- [Let’s code: Developer AMA – Ask Me Anything](https://learn.wordpress.org/?meeting=lets-code-developer-ama-ask-me-anything)
-- [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api)
-- [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-2)
 <!-- SLS:END -->
 
 ## Test
