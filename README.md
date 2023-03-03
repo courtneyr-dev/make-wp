@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 1](https://wordpress.tv/2023/03/02/updating-a-blogs-design-informal-live-stream-part-1/)
 - [WordPress as a Paintbrush: Internet Art Then and Now](https://wordpress.tv/2023/03/01/wordpress-as-a-paintbrush-internet-art-then-and-now/)
 - [Builder Basics: Block Styles vs. Block Variations](https://wordpress.tv/2023/03/01/builder-basics-block-styles-vs-block-variations/)
 - [Le SEO c’est super! Choisir ses outils et ses ressources pour répondre à sa clientèle](https://wordpress.tv/2023/02/28/le-seo-cest-super-choisir-ses-outils-et-ses-ressources-pour-repondre-a-sa-clientele/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Help test WordPress – developer edition](https://wordpress.tv/2023/02/24/help-test-wordpress-developer-edition/)
 - [Защо WordPress &lpar;web&rpar; програмист е най-добрият старт за IT dev кариера?](https://wordpress.tv/2023/02/23/%d0%b7%d0%b0%d1%89%d0%be-wordpress-web-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%b8%d1%81%d1%82-%d0%b5-%d0%bd%d0%b0%d0%b9-%d0%b4%d0%be%d0%b1%d1%80%d0%b8%d1%8f%d1%82-%d1%81%d1%82%d0%b0%d1%80/)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://wordpress.tv/2023/02/23/how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme/)
-- [A Deep Dive into WordPress Loops](https://wordpress.tv/2023/02/23/a-deep-dive-into-wordpress-loops/)
 <!-- WPTV:END -->
 
 ## Marketing
