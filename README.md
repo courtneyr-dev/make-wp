@@ -59,7 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [ユーザー名 mehrazmorshed です。以下のプラグインの開発者なのですが、PTE 権限をもらえますか。](https://make.wordpress.org/polyglots/2023/03/03/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e5%90%8d-mehrazmorshed-%e3%81%a7%e3%81%99%e3%80%82%e4%bb%a5%e4%b8%8b%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%ae%e9%96%8b%e7%99%ba%e8%80%85/)
+- [PTE Request for Woocommerce](https://make.wordpress.org/polyglots/2023/03/03/pte-request-for-woocommerce-9/)
+- [I am writing to express…](https://make.wordpress.org/polyglots/2023/03/03/i-am-writing-to-express/)
+- [ユーザー名 mehrazmorshed です。以下のプラグインの開発者なのですが、PTE 権限をもらえますか。 https://ja.wordpress.org/plugins/tap-to-top/…](https://make.wordpress.org/polyglots/2023/03/03/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e5%90%8d-mehrazmorshed-%e3%81%a7%e3%81%99%e3%80%82%e4%bb%a5%e4%b8%8b%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%ae%e9%96%8b%e7%99%ba%e8%80%85/)
 - [Hello everyone!](https://make.wordpress.org/polyglots/2023/03/02/hello-everyone-7/)
 - [PTE Request for simple-cloudflare-turnstile](https://make.wordpress.org/polyglots/2023/03/02/pte-request-for-simple-cloudflare-turnstile-4/)
 - [CLPTE Request for WPForms Lite](https://make.wordpress.org/polyglots/2023/03/02/clpte-request-for-wpforms-lite/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-code-snippets-2/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-onoffice-for-wp-websites-3/)
 - [PTE Request for [Limit Login Attempts Reloaded]](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-limit-login-attempts-reloaded-4/)
-- [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-independent-analytics/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/02/27/hi-dear-mentors-we-have-108/)
 <!-- POLYGLOTS:END -->
 
 ## Support
