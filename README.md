@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Qué significa contribuir con la comunidad de WordPress](https://wordpress.tv/2023/03/03/que-significa-contribuir-con-la-comunidad-de-wordpress/)
+- [Cómo empiezo a contribuir en la comunidad de WordPress España](https://wordpress.tv/2023/03/03/como-empiezo-a-contribuir-en-la-comunidad-de-wordpress-espana/)
 - [Interacting with the WP REST API](https://wordpress.tv/2023/03/03/interacting-with-the-wp-rest-api/)
 - [Let’s code: preventing common security vulnerabilities](https://wordpress.tv/2023/03/03/lets-code-preventing-common-security-vulnerabilities/)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 1](https://wordpress.tv/2023/03/02/updating-a-blogs-design-informal-live-stream-part-1/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agence et Freelance WordPress : réalisez vos projets web en toute sérénité juridique](https://wordpress.tv/2023/02/28/agence-et-freelance-wordpress-realisez-vos-projets-web-en-toute-serenite-juridique/)
 - [Je n’aime pas écrire du CSS, depuis je thème mieux](https://wordpress.tv/2023/02/28/je-naime-pas-ecrire-du-css-depuis-je-theme-mieux/)
 - [How to add and remove a logo and site icon in a WordPress block theme](https://wordpress.tv/2023/02/24/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/)
-- [Koji Kuno: WordPress（再）入門 – 基礎知識・環境編](https://wordpress.tv/2023/02/24/koji-kuno-gifu-wordpress-meetup-54/)
-- [Help test WordPress – developer edition](https://wordpress.tv/2023/02/24/help-test-wordpress-developer-edition/)
 <!-- WPTV:END -->
 
 ## Marketing
