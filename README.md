@@ -186,7 +186,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Training
 <!-- TRAINING:START -->
 - [Training Team Goals for 2023](https://make.wordpress.org/training/2023/03/02/training-team-goals-for-2023/)
-- [Training Team Meeting Recap for February 28th, 2023](https://make.wordpress.org/training/2023/03/01/training-team-meeting-recap-for-february-28th-2023/)
+- [Training Team Meeting Recap for February 28, 2023](https://make.wordpress.org/training/2023/03/01/training-team-meeting-recap-for-february-28th-2023/)
 - [Meeting Agenda for February 28th, 2023](https://make.wordpress.org/training/2023/02/28/meeting-agenda-for-february-28th-2023/)
 - [X-post: Proposal: Modify the Events and News widget to show topic-based meetups worldwide](https://make.wordpress.org/training/2023/02/27/xpost-proposal-modify-the-events-and-news-widget-to-show-topic-based-meetups-worldwide/)
 - [February 2023 Faculty Meeting](https://make.wordpress.org/training/2023/02/17/february-2023-faculty-meeting/)
