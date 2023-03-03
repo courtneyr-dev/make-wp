@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Engineering Manager – Remote](https://jobs.wordpress.net/job/engineering-manager-remote-6/)
+- [Copywriter &lpar;French/English&rpar; – Remote](https://jobs.wordpress.net/job/copywriter-french-english-remote-2/)
+- [Content Writer – Remote](https://jobs.wordpress.net/job/content-writer-remote-3/)
+- [Email Marketing Specialist &lpar;remote&rpar;](https://jobs.wordpress.net/job/email-marketing-specialist-remote/)
+- [Business Partner / Project Managers](https://jobs.wordpress.net/job/business-partner-project-managers/)
 - [ReactJS Lead](https://jobs.wordpress.net/job/reactjs-lead/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-792/)
 - [3+ yrs WP Developer – Sites &amp; Custom Themes – Nice To Have: UI/UX skills](https://jobs.wordpress.net/job/3-yrs-wp-developer-sites-custom-themes-nice-to-have-ui-ux-skills/)
 - [WordPress Site Builder](https://jobs.wordpress.net/job/wordpress-site-builder/)
 - [Front End Developer](https://jobs.wordpress.net/job/front-end-developer-47/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-5/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-6/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-6/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-4/)
 <!-- JOBS:END -->
 
 ## Central
