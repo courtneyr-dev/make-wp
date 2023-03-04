@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Watch Party: 6.2 Product Demo](https://learn.wordpress.org/?meeting=watch-party-6-2-product-demo)
 - [Let’s code: Preventing CSRF Security Vulnerabilities](https://learn.wordpress.org/?meeting=lets-code-preventing-csrf-security-vulnerabilities)
 - [WP dev livestream: Developing WordPress user roles and capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-wordpress-user-roles-and-capabilities)
 - [Live stream: Bring me your block development issues!](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-block-development-issues)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Help test WordPress – developer edition](https://learn.wordpress.org/?meeting=help-test-wordpress-developer-edition)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme-2)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme)
-- [Designers &amp; Developers: Cats &amp; Dogs Living in Harmony](https://learn.wordpress.org/?meeting=designers-developers-cats-dogs-living-in-harmony)
 <!-- SLS:END -->
 
 ## Test
