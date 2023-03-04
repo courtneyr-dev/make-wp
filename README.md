@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.2 ready to be translated](https://make.wordpress.org/polyglots/2023/03/04/wordpress-6-2-ready-to-be-translated/)
 - [PTE Request for Woocommerce](https://make.wordpress.org/polyglots/2023/03/03/pte-request-for-woocommerce-9/)
 - [I am writing to express…](https://make.wordpress.org/polyglots/2023/03/03/i-am-writing-to-express/)
 - [ユーザー名 mehrazmorshed です。以下のプラグインの開発者なのですが、PTE 権限をもらえますか。 https://ja.wordpress.org/plugins/tap-to-top/…](https://make.wordpress.org/polyglots/2023/03/03/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e5%90%8d-mehrazmorshed-%e3%81%a7%e3%81%99%e3%80%82%e4%bb%a5%e4%b8%8b%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%ae%e9%96%8b%e7%99%ba%e8%80%85/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – March 1, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/01/agenda-weekly-polyglots-chat-march-1-2023-1300-utc/)
 - [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-code-snippets-2/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-onoffice-for-wp-websites-3/)
-- [PTE Request for [Limit Login Attempts Reloaded]](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-limit-login-attempts-reloaded-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
