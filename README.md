@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: Preventing CSRF Security Vulnerabilities](https://learn.wordpress.org/?meeting=lets-code-preventing-csrf-security-vulnerabilities)
+- [WP dev livestream: Developing WordPress user roles and capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-wordpress-user-roles-and-capabilities)
 - [Live stream: Bring me your block development issues!](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-block-development-issues)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.3](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-3)
 - [Live stream: Wrapping up the OpenAI integrated block that generates images](https://learn.wordpress.org/?meeting=live-stream-wrapping-up-the-openai-integrated-block-that-generates-images)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme-2)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme)
 - [Designers &amp; Developers: Cats &amp; Dogs Living in Harmony](https://learn.wordpress.org/?meeting=designers-developers-cats-dogs-living-in-harmony)
-- [Training Team Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-contributor-day-online-session)
-- [Community Sharing: Media Plugins](https://learn.wordpress.org/?meeting=community-sharing-media-plugins)
 <!-- SLS:END -->
 
 ## Test
