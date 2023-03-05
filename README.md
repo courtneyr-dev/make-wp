@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Conecta con APIs desde WordPress de forma sencilla](https://wordpress.tv/2023/03/05/conecta-con-apis-desde-wordpress-de-forma-sencilla/)
 - [Utilizando WordPress en la Consultoría](https://wordpress.tv/2023/03/05/utilizando-wordpress-en-la-consultoria/)
 - [6.2 Live Product Demo](https://wordpress.tv/2023/03/03/6-2-live-product-demo/)
 - [Qué significa contribuir con la comunidad de WordPress](https://wordpress.tv/2023/03/03/que-significa-contribuir-con-la-comunidad-de-wordpress/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Je suis un·e dev WordPress](https://wordpress.tv/2023/02/28/je-suis-un%c2%b7e-dev-wordpress/)
 - [Introduction au développement de blocs pour l’éditeur](https://wordpress.tv/2023/02/28/introduction-au-developpement-de-blocs-pour-lediteur/)
 - [L’heure de la sobriété &lpar;numérique&rpar; a sonné !](https://wordpress.tv/2023/02/28/lheure-de-la-sobriete-numerique-a-sonne/)
-- [Agence et Freelance WordPress : réalisez vos projets web en toute sérénité juridique](https://wordpress.tv/2023/02/28/agence-et-freelance-wordpress-realisez-vos-projets-web-en-toute-serenite-juridique/)
 <!-- WPTV:END -->
 
 ## Marketing
