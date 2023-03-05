@@ -507,6 +507,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Designer](https://jobs.wordpress.net/job/wordpress-designer-54/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-793/)
+- [Safety Developer – WordPress Maintenace – Cause Marketing Partner](https://jobs.wordpress.net/job/safety-developer-wordpress-maintenace-cause-marketing-partner/)
 - [Engineering Manager – Remote](https://jobs.wordpress.net/job/engineering-manager-remote-6/)
 - [Copywriter &lpar;French/English&rpar; – Remote](https://jobs.wordpress.net/job/copywriter-french-english-remote-2/)
 - [Content Writer – Remote](https://jobs.wordpress.net/job/content-writer-remote-3/)
@@ -514,9 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Business Partner / Project Managers](https://jobs.wordpress.net/job/business-partner-project-managers/)
 - [ReactJS Lead](https://jobs.wordpress.net/job/reactjs-lead/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-792/)
-- [3+ yrs WP Developer – Sites &amp; Custom Themes – Nice To Have: UI/UX skills](https://jobs.wordpress.net/job/3-yrs-wp-developer-sites-custom-themes-nice-to-have-ui-ux-skills/)
-- [WordPress Site Builder](https://jobs.wordpress.net/job/wordpress-site-builder/)
-- [Front End Developer](https://jobs.wordpress.net/job/front-end-developer-47/)
 <!-- JOBS:END -->
 
 ## Central
