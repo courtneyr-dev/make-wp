@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.2 RC1 postponed, additional Beta 5 added](https://make.wordpress.org/core/2023/03/06/wordpress-6-2-rc1-postponed-additional-beta-5-added/)
+- [Google Fonts are included locally in bundled themes](https://make.wordpress.org/core/2023/03/06/google-fonts-are-included-locally-in-bundled-themes/)
 - [get_page_by_title&lpar;&rpar; deprecated](https://make.wordpress.org/core/2023/03/06/get_page_by_title-deprecated/)
 - [Editor Chat Agenda: 8 March 2023](https://make.wordpress.org/core/2023/03/06/editor-chat-agenda-8-march-2023/)
 - [Editor Components updates in WordPress 6.2](https://make.wordpress.org/core/2023/03/03/editor-components-updates-in-wordpress-6-2/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Summary, March 1, 2023](https://make.wordpress.org/core/2023/03/01/dev-chat-summary-march-1-2023/)
 - [Dev Chat Summary, February 22, 2023](https://make.wordpress.org/core/2023/03/01/dev-chat-summary-february-22-2023/)
 - [WordPress 6.2 Beta 4](https://make.wordpress.org/core/2023/03/01/wordpress-6-2-beta-4/)
-- [Editor chat summary: Wednesday, 1st March 2023](https://make.wordpress.org/core/2023/03/01/editor-chat-summary-wednesday-1st-march-2023/)
-- [A Week in Core – February 27, 2023](https://make.wordpress.org/core/2023/03/01/a-week-in-core-february-27-2023/)
 <!-- CORE:END -->
 
 ## Design
