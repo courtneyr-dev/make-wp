@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Add new prop to ServerSideRender component](https://make.wordpress.org/core/2023/03/06/add-new-prop-to-serversiderender-component/)
+- [Custom CSS for global styles and per block](https://make.wordpress.org/core/2023/03/06/custom-css-for-global-styles-and-per-block/)
 - [Minimum height dimensions block support](https://make.wordpress.org/core/2023/03/06/minimum-height-dimensions-block-support/)
 - [WordPress 6.2 RC1 postponed, additional Beta 5 added](https://make.wordpress.org/core/2023/03/06/wordpress-6-2-rc1-postponed-additional-beta-5-added/)
 - [Google Fonts are included locally in bundled themes](https://make.wordpress.org/core/2023/03/06/google-fonts-are-included-locally-in-bundled-themes/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Components updates in WordPress 6.2](https://make.wordpress.org/core/2023/03/03/editor-components-updates-in-wordpress-6-2/)
 - [I18N Improvements in 6.2](https://make.wordpress.org/core/2023/03/03/i18n-improvements-in-6-2/)
 - [WordPress 6.2 Accessibility Improvements](https://make.wordpress.org/core/2023/03/02/wordpress-6-2-accessibility-improvements/)
-- [Dev Chat Summary, March 1, 2023](https://make.wordpress.org/core/2023/03/01/dev-chat-summary-march-1-2023/)
-- [Dev Chat Summary, February 22, 2023](https://make.wordpress.org/core/2023/03/01/dev-chat-summary-february-22-2023/)
 <!-- CORE:END -->
 
 ## Design
