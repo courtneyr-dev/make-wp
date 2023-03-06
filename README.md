@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Profile Builder…](https://make.wordpress.org/polyglots/2023/03/06/pte-request-for-profile-builder-2/)
+- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2023/03/06/pte-request-for-multiple-plugins-2/)
+- [Hi, I translated plugin Ultimate…](https://make.wordpress.org/polyglots/2023/03/06/hi-i-translated-plugin-ultimate/)
 - [WordPress 6.2 ready to be translated](https://make.wordpress.org/polyglots/2023/03/04/wordpress-6-2-ready-to-be-translated/)
 - [PTE Request for Woocommerce](https://make.wordpress.org/polyglots/2023/03/03/pte-request-for-woocommerce-9/)
 - [I am writing to express…](https://make.wordpress.org/polyglots/2023/03/03/i-am-writing-to-express/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello everyone!](https://make.wordpress.org/polyglots/2023/03/02/hello-everyone-7/)
 - [PTE Request for simple-cloudflare-turnstile](https://make.wordpress.org/polyglots/2023/03/02/pte-request-for-simple-cloudflare-turnstile-4/)
 - [CLPTE Request for WPForms Lite](https://make.wordpress.org/polyglots/2023/03/02/clpte-request-for-wpforms-lite/)
-- [Agenda: Weekly Polyglots Chat – March 1, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/01/agenda-weekly-polyglots-chat-march-1-2023-1300-utc/)
-- [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-code-snippets-2/)
-- [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/02/28/pte-request-for-onoffice-for-wp-websites-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
