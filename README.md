@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-17/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-23/)
+- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-22/)
+- [WordPress tech lead in a Danish company – The next career step](https://jobs.wordpress.net/job/wordpress-tech-lead-in-a-danish-company-the-next-career-step/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-53/)
 - [WordPress Designer](https://jobs.wordpress.net/job/wordpress-designer-54/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-793/)
 - [Safety Developer – WordPress Maintenace – Cause Marketing Partner](https://jobs.wordpress.net/job/safety-developer-wordpress-maintenace-cause-marketing-partner/)
 - [Engineering Manager – Remote](https://jobs.wordpress.net/job/engineering-manager-remote-6/)
 - [Copywriter &lpar;French/English&rpar; – Remote](https://jobs.wordpress.net/job/copywriter-french-english-remote-2/)
-- [Content Writer – Remote](https://jobs.wordpress.net/job/content-writer-remote-3/)
-- [Email Marketing Specialist &lpar;remote&rpar;](https://jobs.wordpress.net/job/email-marketing-specialist-remote/)
-- [Business Partner / Project Managers](https://jobs.wordpress.net/job/business-partner-project-managers/)
-- [ReactJS Lead](https://jobs.wordpress.net/job/reactjs-lead/)
 <!-- JOBS:END -->
 
 ## Central
