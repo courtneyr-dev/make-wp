@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-53/)
 - [WordPress Designer](https://jobs.wordpress.net/job/wordpress-designer-54/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-793/)
 - [Safety Developer – WordPress Maintenace – Cause Marketing Partner](https://jobs.wordpress.net/job/safety-developer-wordpress-maintenace-cause-marketing-partner/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Email Marketing Specialist &lpar;remote&rpar;](https://jobs.wordpress.net/job/email-marketing-specialist-remote/)
 - [Business Partner / Project Managers](https://jobs.wordpress.net/job/business-partner-project-managers/)
 - [ReactJS Lead](https://jobs.wordpress.net/job/reactjs-lead/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-792/)
 <!-- JOBS:END -->
 
 ## Central
