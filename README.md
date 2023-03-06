@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Minimum height dimensions block support](https://make.wordpress.org/core/2023/03/06/minimum-height-dimensions-block-support/)
 - [WordPress 6.2 RC1 postponed, additional Beta 5 added](https://make.wordpress.org/core/2023/03/06/wordpress-6-2-rc1-postponed-additional-beta-5-added/)
 - [Google Fonts are included locally in bundled themes](https://make.wordpress.org/core/2023/03/06/google-fonts-are-included-locally-in-bundled-themes/)
 - [get_page_by_title&lpar;&rpar; deprecated](https://make.wordpress.org/core/2023/03/06/get_page_by_title-deprecated/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2 Accessibility Improvements](https://make.wordpress.org/core/2023/03/02/wordpress-6-2-accessibility-improvements/)
 - [Dev Chat Summary, March 1, 2023](https://make.wordpress.org/core/2023/03/01/dev-chat-summary-march-1-2023/)
 - [Dev Chat Summary, February 22, 2023](https://make.wordpress.org/core/2023/03/01/dev-chat-summary-february-22-2023/)
-- [WordPress 6.2 Beta 4](https://make.wordpress.org/core/2023/03/01/wordpress-6-2-beta-4/)
 <!-- CORE:END -->
 
 ## Design
