@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Migrate a plugin to blocks &lpar;Americas&rpar;](https://wordpress.tv/2023/03/06/developer-hours-migrate-a-plugin-to-blocks-americas/)
 - [Conecta con APIs desde WordPress de forma sencilla](https://wordpress.tv/2023/03/05/conecta-con-apis-desde-wordpress-de-forma-sencilla/)
 - [Utilizando WordPress en la Consultoría](https://wordpress.tv/2023/03/05/utilizando-wordpress-en-la-consultoria/)
 - [6.2 Live Product Demo](https://wordpress.tv/2023/03/03/6-2-live-product-demo/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gutenberg : au delà de l’éditeur de texte](https://wordpress.tv/2023/02/28/gutenberg-au-dela-de-lediteur-de-texte/)
 - [Je suis un·e dev WordPress](https://wordpress.tv/2023/02/28/je-suis-un%c2%b7e-dev-wordpress/)
 - [Introduction au développement de blocs pour l’éditeur](https://wordpress.tv/2023/02/28/introduction-au-developpement-de-blocs-pour-lediteur/)
-- [L’heure de la sobriété &lpar;numérique&rpar; a sonné !](https://wordpress.tv/2023/02/28/lheure-de-la-sobriete-numerique-a-sonne/)
 <!-- WPTV:END -->
 
 ## Marketing
