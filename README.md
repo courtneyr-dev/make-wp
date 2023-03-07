@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Caching Demystified: A Guide for the Non-Techie](https://learn.wordpress.org/?meeting=caching-demystified-a-guide-for-the-non-techie)
 - [Watch Party: 6.2 Product Demo](https://learn.wordpress.org/?meeting=watch-party-6-2-product-demo)
 - [Let’s code: Preventing CSRF Security Vulnerabilities](https://learn.wordpress.org/?meeting=lets-code-preventing-csrf-security-vulnerabilities)
 - [WP dev livestream: Developing WordPress user roles and capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-wordpress-user-roles-and-capabilities)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api-2)
 - [Help test WordPress – developer edition](https://learn.wordpress.org/?meeting=help-test-wordpress-developer-edition)
 - [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme-2)
-- [How to Confidently Migrate from a Classic Theme to a Block Theme](https://learn.wordpress.org/?meeting=how-to-confidently-migrate-from-a-classic-theme-to-a-block-theme)
 <!-- SLS:END -->
 
 ## Test
