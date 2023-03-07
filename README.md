@@ -3,6 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Patterns API expanded to include template_types property](https://make.wordpress.org/core/2023/03/07/patterns-api-expanded-to-include-template_types-property/)
+- [WordPress 6.2 Beta 5](https://make.wordpress.org/core/2023/03/07/wordpress-6-2-beta-5/)
+- [Performance Chat Summary: 7 March 2023](https://make.wordpress.org/core/2023/03/07/performance-chat-summary-07-march-2023/)
 - [Introduction of Block Inspector Tabs](https://make.wordpress.org/core/2023/03/07/introduction-of-block-inspector-tabs/)
 - [Shadows in Global Styles with WordPress 6.2](https://make.wordpress.org/core/2023/03/07/shadows-in-global-styles-with-wordpress-6-2/)
 - [Introducing the HTML API in WordPress 6.2](https://make.wordpress.org/core/2023/03/07/introducing-the-html-api-in-wordpress-6-2/)
@@ -10,9 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing move_dir&lpar;&rpar; in WordPress 6.2](https://make.wordpress.org/core/2023/03/07/introducing-move_dir-in-wordpress-6-2/)
 - [Miscellaneous developer changes in WordPress 6.2](https://make.wordpress.org/core/2023/03/07/miscellaneous-developer-changes-in-wordpress-6-2/)
 - [Sticky position block support](https://make.wordpress.org/core/2023/03/07/sticky-position-block-support/)
-- [Upgrading to React 18 and common pitfalls of concurrent mode](https://make.wordpress.org/core/2023/03/07/upgrading-to-react-18-and-common-pitfalls-of-concurrent-mode/)
-- [Performance Chat Agenda: 7 March 2023](https://make.wordpress.org/core/2023/03/07/performance-chat-agenda-07-march-2023/)
-- [Add new prop to ServerSideRender component](https://make.wordpress.org/core/2023/03/06/add-new-prop-to-serversiderender-component/)
 <!-- CORE:END -->
 
 ## Design
