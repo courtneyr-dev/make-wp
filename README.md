@@ -395,6 +395,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [Hosting Team meeting agenda 2023-03-08](https://make.wordpress.org/hosting/2023/03/07/hosting-team-meeting-agenda-2023-03-08/)
+- [Hosting Team Reps 2023](https://make.wordpress.org/hosting/2023/03/07/hosting-team-reps-2023/)
 - [Hosting Team meeting agenda 2023-03-01](https://make.wordpress.org/hosting/2023/02/28/hosting-team-meeting-agenda-2023-03-01/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/hosting/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/hosting/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
@@ -403,8 +405,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Hosting Team 2022 recap](https://make.wordpress.org/hosting/2022/12/28/2022-recap/)
 - [Voting for Hosting Team Reps 2023](https://make.wordpress.org/hosting/2022/12/15/voting-for-hosting-team-reps-2023/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/hosting/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
-- [Nominations are in – Hosting Team Rep 2023](https://make.wordpress.org/hosting/2022/12/08/nominations-are-in-hosting-team-rep-2023/)
-- [Server Environment for WordPress 6.1](https://make.wordpress.org/hosting/2022/11/23/server-environment-for-wordpress-6-1/)
 <!-- HOSTING:END -->
 
 ## Tide
