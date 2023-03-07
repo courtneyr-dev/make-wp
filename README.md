@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 7 March 2023](https://make.wordpress.org/core/2023/03/07/performance-chat-agenda-07-march-2023/)
 - [Add new prop to ServerSideRender component](https://make.wordpress.org/core/2023/03/06/add-new-prop-to-serversiderender-component/)
 - [Custom CSS for global styles and per block](https://make.wordpress.org/core/2023/03/06/custom-css-for-global-styles-and-per-block/)
 - [Minimum height dimensions block support](https://make.wordpress.org/core/2023/03/06/minimum-height-dimensions-block-support/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: 8 March 2023](https://make.wordpress.org/core/2023/03/06/editor-chat-agenda-8-march-2023/)
 - [Editor Components updates in WordPress 6.2](https://make.wordpress.org/core/2023/03/03/editor-components-updates-in-wordpress-6-2/)
 - [I18N Improvements in 6.2](https://make.wordpress.org/core/2023/03/03/i18n-improvements-in-6-2/)
-- [WordPress 6.2 Accessibility Improvements](https://make.wordpress.org/core/2023/03/02/wordpress-6-2-accessibility-improvements/)
 <!-- CORE:END -->
 
 ## Design
