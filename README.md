@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Available Styles Options](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/styles-versions/)
 - [Overusing snapshots](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/overusing-snapshots/)
 - [Migration guide](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/migration/)
 - [End-to-End Testing](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Custom block styles](https://developer.wordpress.org/themes/advanced-topics/custom-block-styles/)
 - [Common Vulnerabilities](https://developer.wordpress.org/apis/security/common-vulnerabilities/)
 - [User Roles and Capabilities](https://developer.wordpress.org/apis/security/user-roles-and-capabilities/)
-- [Example](https://developer.wordpress.org/apis/security/example/)
 <!-- DEVHUB:END -->
 
 ## Themes
