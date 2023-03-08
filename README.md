@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Announcing New Handbook Pages on…](https://make.wordpress.org/community/2023/03/08/announcing-new-handbook-pages-on/)
 - [Upcoming #WPDiversity Events: March 2023](https://make.wordpress.org/community/2023/03/07/upcoming-wpdiversity-events-march-2023-2/)
 - [​​Community Team Meeting Agenda for 2 March 2023](https://make.wordpress.org/community/2023/03/01/community-team-meeting-agenda-for-2-march-2023/)
 - [X-post: What’s new on LearnWP in February 2023](https://make.wordpress.org/community/2023/03/01/xpost-whats-new-on-learnwp-in-february-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on February 22, 2023](https://make.wordpress.org/community/2023/02/23/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-february-22-2023/)
 - [Feature request: additional roles for WordCamp sites](https://make.wordpress.org/community/2023/02/21/feature-request-additional-roles-for-wordcamp-sites/)
 - [Upcoming #WPDiversity Events: March 2023](https://make.wordpress.org/community/2023/02/20/upcoming-wpdiversity-events-march-2023/)
-- [Meetup.com Accessibility Overlay February Update](https://make.wordpress.org/community/2023/02/17/meetup-com-accessibility-overlay-february-update/)
 <!-- COMMUNITY:END -->
 
 ## Meta
