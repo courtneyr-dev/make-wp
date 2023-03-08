@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Displaying testimonials on your website](https://wordpress.tv/2023/03/07/displaying-testimonials-on-your-website/)
 - [Automatizaciones para negocios que no se pueden automatizar](https://wordpress.tv/2023/03/07/automatizaciones-para-negocios-que-no-se-pueden-automatizar/)
 - [Developer Hours: Migrate a plugin to blocks &lpar;Americas&rpar;](https://wordpress.tv/2023/03/06/developer-hours-migrate-a-plugin-to-blocks-americas/)
 - [Conecta con APIs desde WordPress de forma sencilla](https://wordpress.tv/2023/03/05/conecta-con-apis-desde-wordpress-de-forma-sencilla/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Comment le RGPD peut influer sur le périmètre technique d’un projet web ?](https://wordpress.tv/2023/02/28/comment-le-rgpd-peut-influer-sur-le-perimetre-technique-dun-projet-web/)
 - [La courbe d’apprentissage d’un développeur, de WordPress classique à FSE](https://wordpress.tv/2023/02/28/la-courbe-dapprentissage-dun-developpeur-de-wordpress-classique-a-fse-2/)
 - [Gutenberg : au delà de l’éditeur de texte](https://wordpress.tv/2023/02/28/gutenberg-au-dela-de-lediteur-de-texte/)
-- [Je suis un·e dev WordPress](https://wordpress.tv/2023/02/28/je-suis-un%c2%b7e-dev-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
