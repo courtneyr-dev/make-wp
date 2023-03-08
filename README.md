@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – March. 8, 2023 &lpar;7:00 UTC&rpar;8](https://make.wordpress.org/polyglots/2023/03/08/agenda-weekly-polyglots-chat-march-8-2023-700-utc8/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/07/hi-dear-mentors-we-have-109/)
 - [PTE request for Hierarchy Product Category Drop Down](https://make.wordpress.org/polyglots/2023/03/07/pte-request-for-hierarchy-product-category-drop-down/)
 - [Updates to language support in Openverse](https://make.wordpress.org/polyglots/2023/03/06/updates-to-language-support-in-openverse/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, I translated plugin Ultimate…](https://make.wordpress.org/polyglots/2023/03/06/hi-i-translated-plugin-ultimate/)
 - [WordPress 6.2 ready to be translated](https://make.wordpress.org/polyglots/2023/03/04/wordpress-6-2-ready-to-be-translated/)
 - [PTE Request for Woocommerce](https://make.wordpress.org/polyglots/2023/03/03/pte-request-for-woocommerce-9/)
-- [I am writing to express…](https://make.wordpress.org/polyglots/2023/03/03/i-am-writing-to-express/)
 <!-- POLYGLOTS:END -->
 
 ## Support
