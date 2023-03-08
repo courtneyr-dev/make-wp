@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Introduction to WordPress Development: A proposed learning path](https://make.wordpress.org/plugins/2023/03/08/xpost-introduction-to-wordpress-development-a-proposed-learning-path/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/plugins/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/plugins/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Twitter API Changes](https://make.wordpress.org/plugins/2023/02/03/twitter-api-changes/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/plugins/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [X-post: Postponed to WP 6.2: Escaping Table and Field names with wpdb::prepare&lpar;&rpar;](https://make.wordpress.org/plugins/2022/10/31/xpost-postponed-to-wp-6-2-escaping-table-and-field-names-with-wpdbprepare/)
 - [Reminder about Final Notices](https://make.wordpress.org/plugins/2022/10/11/reminder-about-final-notices/)
-- [Reminder: We will check your website](https://make.wordpress.org/plugins/2022/09/27/reminder-we-will-check-your-website/)
 <!-- PLUGINS:END -->
 
 ## Community
