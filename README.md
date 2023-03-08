@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Introduction to WordPress Development: A proposed learning path](https://make.wordpress.org/core/2023/03/08/xpost-introduction-to-wordpress-development-a-proposed-learning-path/)
 - [Dev Chat Agenda, March 8, 2023](https://make.wordpress.org/core/2023/03/08/dev-chat-agenda-march-8-2023/)
 - [A Week in Core – March 6, 2023](https://make.wordpress.org/core/2023/03/08/a-week-in-core-march-6-2023/)
 - [Patterns API expanded to include template_types property](https://make.wordpress.org/core/2023/03/07/patterns-api-expanded-to-include-template_types-property/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Shadows in Global Styles with WordPress 6.2](https://make.wordpress.org/core/2023/03/07/shadows-in-global-styles-with-wordpress-6-2/)
 - [Introducing the HTML API in WordPress 6.2](https://make.wordpress.org/core/2023/03/07/introducing-the-html-api-in-wordpress-6-2/)
 - [Miscellaneous Editor changes in WordPress 6.2](https://make.wordpress.org/core/2023/03/07/miscellaneous-editor-changes-in-wordpress-6-2/)
-- [Introducing move_dir&lpar;&rpar; in WordPress 6.2](https://make.wordpress.org/core/2023/03/07/introducing-move_dir-in-wordpress-6-2/)
 <!-- CORE:END -->
 
 ## Design
