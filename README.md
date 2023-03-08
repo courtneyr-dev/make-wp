@@ -157,7 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
-- [Announcing New Handbook Pages on…](https://make.wordpress.org/community/2023/03/08/announcing-new-handbook-pages-on/)
+- [Running Funds Outside of WPCS](https://make.wordpress.org/community/2023/03/08/announcing-new-handbook-pages-on/)
 - [Upcoming #WPDiversity Events: March 2023](https://make.wordpress.org/community/2023/03/07/upcoming-wpdiversity-events-march-2023-2/)
 - [​​Community Team Meeting Agenda for 2 March 2023](https://make.wordpress.org/community/2023/03/01/community-team-meeting-agenda-for-2-march-2023/)
 - [X-post: What’s new on LearnWP in February 2023](https://make.wordpress.org/community/2023/03/01/xpost-whats-new-on-learnwp-in-february-2023/)
