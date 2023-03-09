@@ -159,7 +159,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- COMMUNITY:START -->
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on March 8, 2023](https://make.wordpress.org/community/2023/03/08/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-march-8-2023/)
 - [Running Funds Outside of WPCS](https://make.wordpress.org/community/2023/03/08/announcing-new-handbook-pages-on/)
-- [Upcoming #WPDiversity Events: March 2023](https://make.wordpress.org/community/2023/03/07/upcoming-wpdiversity-events-march-2023-2/)
+- [Calling all Meetup and WordCamp organizers: Join us on March 16, 2023](https://make.wordpress.org/community/2023/03/07/upcoming-wpdiversity-events-march-2023-2/)
 - [​​Community Team Meeting Agenda for 2 March 2023](https://make.wordpress.org/community/2023/03/01/community-team-meeting-agenda-for-2-march-2023/)
 - [X-post: What’s new on LearnWP in February 2023](https://make.wordpress.org/community/2023/03/01/xpost-whats-new-on-learnwp-in-february-2023/)
 - [WordCamp Mentors’ March check-in!](https://make.wordpress.org/community/2023/03/01/wordcamp-mentors-march-check-in/)
