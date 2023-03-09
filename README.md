@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Hallway Hangout: Community themes initiative](https://wordpress.tv/2023/03/09/hallway-hangout-community-themes-initiative/)
 - [Supera il blocco: WordPress Full Site Editing](https://wordpress.tv/2023/03/09/supera-il-blocco-wordpress-full-site-editing/)
 - [Siti WordPress statici](https://wordpress.tv/2023/03/09/siti-wordpress-statici/)
 - [Displaying testimonials on your website](https://wordpress.tv/2023/03/07/displaying-testimonials-on-your-website/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Aller plus loin avec Gutenberg – Meetup Montpellier](https://wordpress.tv/2023/02/28/aller-plus-loin-avec-gutenberg-meetup-montpellier/)
 - [Assurance qualité Web : prendre soin des utilisateurs, prévenir les risques](https://wordpress.tv/2023/02/28/assurance-qualite-web-prendre-soin-des-utilisateurs-prevenir-les-risques/)
 - [Puis-je me passer d’Elementor grâce à Gutenberg ?](https://wordpress.tv/2023/02/28/puis-je-me-passer-delementor-grace-a-gutenberg/)
-- [Comment le RGPD peut influer sur le périmètre technique d’un projet web ?](https://wordpress.tv/2023/02/28/comment-le-rgpd-peut-influer-sur-le-perimetre-technique-dun-projet-web/)
 <!-- WPTV:END -->
 
 ## Marketing
