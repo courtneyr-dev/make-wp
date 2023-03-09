@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Supera il blocco: WordPress Full Site Editing](https://wordpress.tv/2023/03/09/supera-il-blocco-wordpress-full-site-editing/)
+- [Siti WordPress statici](https://wordpress.tv/2023/03/09/siti-wordpress-statici/)
 - [Displaying testimonials on your website](https://wordpress.tv/2023/03/07/displaying-testimonials-on-your-website/)
 - [Automatizaciones para negocios que no se pueden automatizar](https://wordpress.tv/2023/03/07/automatizaciones-para-negocios-que-no-se-pueden-automatizar/)
 - [Developer Hours: Migrate a plugin to blocks &lpar;Americas&rpar;](https://wordpress.tv/2023/03/06/developer-hours-migrate-a-plugin-to-blocks-americas/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Assurance qualité Web : prendre soin des utilisateurs, prévenir les risques](https://wordpress.tv/2023/02/28/assurance-qualite-web-prendre-soin-des-utilisateurs-prevenir-les-risques/)
 - [Puis-je me passer d’Elementor grâce à Gutenberg ?](https://wordpress.tv/2023/02/28/puis-je-me-passer-delementor-grace-a-gutenberg/)
 - [Comment le RGPD peut influer sur le périmètre technique d’un projet web ?](https://wordpress.tv/2023/02/28/comment-le-rgpd-peut-influer-sur-le-perimetre-technique-dun-projet-web/)
-- [La courbe d’apprentissage d’un développeur, de WordPress classique à FSE](https://wordpress.tv/2023/02/28/la-courbe-dapprentissage-dun-developpeur-de-wordpress-classique-a-fse-2/)
-- [Gutenberg : au delà de l’éditeur de texte](https://wordpress.tv/2023/02/28/gutenberg-au-dela-de-lediteur-de-texte/)
 <!-- WPTV:END -->
 
 ## Marketing
