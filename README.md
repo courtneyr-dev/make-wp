@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [クラシックエディターからブロックエディターに移行するノウハウ](https://learn.wordpress.org/?meeting=%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ab)
 - [How to create a website on mobile &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-1-2)
 - [Caching Demystified: A Guide for the Non-Techie](https://learn.wordpress.org/?meeting=caching-demystified-a-guide-for-the-non-techie)
 - [Watch Party: 6.2 Product Demo](https://learn.wordpress.org/?meeting=watch-party-6-2-product-demo)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Best design practices to create engagement](https://learn.wordpress.org/?meeting=best-design-practices-to-create-engagement)
 - [How to Own Your Expertise &amp; Start Speaking at WordPress Events AMER/EMEA](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-amer-emea)
 - [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api-2)
-- [Help test WordPress – developer edition](https://learn.wordpress.org/?meeting=help-test-wordpress-developer-edition)
 <!-- SLS:END -->
 
 ## Test
