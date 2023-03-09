@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.2 Release Candidate 1](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-1/)
 - [Your WordPress 6.2 Preview](https://wordpress.org/news/2023/03/your-wordpress-6-2-preview/)
 - [The Month in WordPress – February 2023](https://wordpress.org/news/2023/03/the-month-in-wordpress-february-2023/)
 - [Let’s Party: Organize your WP20 Celebration!](https://wordpress.org/news/2023/03/lets-party-organize-your-wp20-celebration/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2 Beta 1](https://wordpress.org/news/2023/02/wordpress-6-2-beta-1/)
 - [The Month in WordPress – January 2023](https://wordpress.org/news/2023/02/the-month-in-wordpress-january-2023/)
 - [People of WordPress: Daniel Kossmann](https://wordpress.org/news/2023/01/people-of-wordpress-daniel-kossmann/)
-- [WP Briefing: Episode 48: What Does Concluding a Gutenberg Phase Really Mean?](https://wordpress.org/news/2023/01/episode-48-what-does-concluding-a-gutenberg-phase-really-mean/)
 <!-- NEWS:END -->
 
 ## Jobs
