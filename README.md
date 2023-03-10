@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for mosparo Integration](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-mosparo-integration/)
+- [PTE Request for helloadherents](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-helloadherents/)
+- [PTE Request for Panomity WP Cache](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-panomity-wp-cache/)
+- [PTE Request for ga-for-wp](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-ga-for-wp/)
+- [PTE Request for WSKLAD](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-wsklad/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/08/hi-dear-mentors-we-have-110/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/03/08/i-am-the-plugin-author-34/)
 - [Agenda: Weekly Polyglots Chat – March. 8, 2023 &lpar;7:00 UTC&rpar;8](https://make.wordpress.org/polyglots/2023/03/08/agenda-weekly-polyglots-chat-march-8-2023-700-utc8/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/07/hi-dear-mentors-we-have-109/)
 - [PTE request for Hierarchy Product Category Drop Down](https://make.wordpress.org/polyglots/2023/03/07/pte-request-for-hierarchy-product-category-drop-down/)
-- [Updates to language support in Openverse](https://make.wordpress.org/polyglots/2023/03/06/updates-to-language-support-in-openverse/)
-- [PTE Request for bonus-for-woo](https://make.wordpress.org/polyglots/2023/03/06/pte-request-for-bonus-for-woo-2/)
-- [PTE Request for Profile Builder…](https://make.wordpress.org/polyglots/2023/03/06/pte-request-for-profile-builder-2/)
-- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2023/03/06/pte-request-for-multiple-plugins-2/)
-- [Hi, I translated plugin Ultimate…](https://make.wordpress.org/polyglots/2023/03/06/hi-i-translated-plugin-ultimate/)
 <!-- POLYGLOTS:END -->
 
 ## Support
