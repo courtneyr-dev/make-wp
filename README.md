@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [6.2 Live Product Demo Q&amp;A](https://make.wordpress.org/core/2023/03/10/6-2-live-product-demo-qa/)
 - [Dev Chat Summary, March 8, 2023](https://make.wordpress.org/core/2023/03/10/dev-chat-summary-march-8-2023/)
 - [Dev Blog editorial group, March 2, 2023](https://make.wordpress.org/core/2023/03/10/dev-blog-editorial-group-march-2-2023/)
 - [WordPress 6.2 Release Candidate Phase](https://make.wordpress.org/core/2023/03/09/wordpress-6-2-release-candidate-phase/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Agenda, March 8, 2023](https://make.wordpress.org/core/2023/03/08/dev-chat-agenda-march-8-2023/)
 - [A Week in Core – March 6, 2023](https://make.wordpress.org/core/2023/03/08/a-week-in-core-march-6-2023/)
 - [Patterns API expanded to include template_types property](https://make.wordpress.org/core/2023/03/07/patterns-api-expanded-to-include-template_types-property/)
-- [WordPress 6.2 Beta 5](https://make.wordpress.org/core/2023/03/07/wordpress-6-2-beta-5/)
 <!-- CORE:END -->
 
 ## Design
