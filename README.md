@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [X-post: Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/project/2023/03/10/xpost-launching-the-contributor-working-group-call-for-volunteers/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/project/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/project/2023/02/06/proposal-creating-a-wordpress-contributor-mentorship-program/)
 - [Discussion: Ending the Eternal September](https://make.wordpress.org/project/2023/01/27/discussion-ending-the-eternal-september/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Journal Entry: WordCamp Asia 2020 Cancellation Debrief](https://make.wordpress.org/project/2022/12/22/journal-entry-wordcamp-asia-2020-cancellation-debrief/)
 - [Announcement: New WordPress Incident Response Team](https://make.wordpress.org/project/2022/12/21/announcement-new-wordpress-incident-response-team/)
 - [X-post: FSE Program: Seeking volunteers to use Replay.io for capturing bugs](https://make.wordpress.org/project/2022/12/07/xpost-fse-program-seeking-volunteers-to-use-replay-io-for-capturing-bugs/)
-- [Now we have a sustainability channel in Making WordPress Slack, what should we do?](https://make.wordpress.org/project/2022/11/01/sustainability-channel-what-should-we-do/)
 <!-- PROJECT:END -->
 
 ## Systems
