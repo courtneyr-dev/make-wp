@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to create a website on mobile &lpar;Part 1&rpar;](https://wordpress.tv/2023/03/09/how-to-create-a-website-on-mobile-part-1/)
 - [Intro to WordPress accessible color](https://wordpress.tv/2023/03/09/intro-to-wordpress-accessible-color/)
 - [Hallway Hangout: Community themes initiative](https://wordpress.tv/2023/03/09/hallway-hangout-community-themes-initiative/)
 - [Supera il blocco: WordPress Full Site Editing](https://wordpress.tv/2023/03/09/supera-il-blocco-wordpress-full-site-editing/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Le SXO : Designer en fonction de la data utilisateur](https://wordpress.tv/2023/02/28/le-sxo-designer-en-fonction-de-la-data-utilisateur/)
 - [Retour d’expérience newsletter](https://wordpress.tv/2023/02/28/retour-dexperience-newsletter/)
 - [Aller plus loin avec Gutenberg – Meetup Montpellier](https://wordpress.tv/2023/02/28/aller-plus-loin-avec-gutenberg-meetup-montpellier/)
-- [Assurance qualité Web : prendre soin des utilisateurs, prévenir les risques](https://wordpress.tv/2023/02/28/assurance-qualite-web-prendre-soin-des-utilisateurs-prevenir-les-risques/)
 <!-- WPTV:END -->
 
 ## Marketing
