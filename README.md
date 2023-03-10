@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Dev-squad update: Triage sessions planning](https://make.wordpress.org/training/2023/03/10/dev-squad-update-triage-sessions-planning/)
 - [Training Team Meeting Recap for March 7, 2023](https://make.wordpress.org/training/2023/03/10/training-team-meeting-recap-for-march-7-2023/)
 - [Introduction to WordPress Development: A proposed learning path](https://make.wordpress.org/training/2023/03/08/introduction-to-wordpress-development-a-proposed-learning-path/)
 - [Meeting Agenda for March 7th, 2023](https://make.wordpress.org/training/2023/03/06/meeting-agenda-for-march-7th-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Goals for 2023](https://make.wordpress.org/training/2023/03/02/training-team-goals-for-2023/)
 - [Training Team Meeting Recap for February 28, 2023](https://make.wordpress.org/training/2023/03/01/training-team-meeting-recap-for-february-28th-2023/)
 - [Meeting Agenda for February 28th, 2023](https://make.wordpress.org/training/2023/02/28/meeting-agenda-for-february-28th-2023/)
-- [X-post: Proposal: Modify the Events and News widget to show topic-based meetups worldwide](https://make.wordpress.org/training/2023/02/27/xpost-proposal-modify-the-events-and-news-widget-to-show-topic-based-meetups-worldwide/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
