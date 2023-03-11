@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: developing user roles and capabilities](https://learn.wordpress.org/?meeting=lets-code-developing-user-roles-and-capabilities)
+- [WP dev livestream: Developing WordPress user roles and capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-wordpress-user-roles-and-capabilities-2)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 3](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-3)
 - [クラシックエディターからブロックエディターに移行するノウハウ](https://learn.wordpress.org/?meeting=%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ab)
 - [How to create a website on mobile &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-1-2)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customizing the Single Template and 404 Template](https://learn.wordpress.org/?meeting=customizing-the-single-template-and-404-template)
 - [Intro to WordPress Accessible Color](https://learn.wordpress.org/?meeting=intro-to-wordpress-accessible-color)
 - [WordPress as a Paintbrush: Internet Art Then and Now](https://learn.wordpress.org/?meeting=wordpress-as-a-paintbrush-internet-art-then-and-now)
-- [Best design practices to create engagement](https://learn.wordpress.org/?meeting=best-design-practices-to-create-engagement)
-- [How to Own Your Expertise &amp; Start Speaking at WordPress Events AMER/EMEA](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-amer-emea)
 <!-- SLS:END -->
 
 ## Test
