@@ -338,6 +338,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Google Ads 2023. Cómo hemos cambiado](https://wordpress.tv/2023/03/12/google-ads-2023-como-hemos-cambiado/)
+- [¿WordPress lento? Averigua por qué](https://wordpress.tv/2023/03/12/wordpress-lento-averigua-por-que/)
+- [Accesibilidad en herramientas de diseño](https://wordpress.tv/2023/03/12/accesibilidad-en-herramientas-de-diseno/)
+- [Creando entradas y páginas con el editor de bloques en 2023](https://wordpress.tv/2023/03/12/creando-entradas-y-paginas-con-el-editor-de-bloques-en-2023/)
+- [Donde fueres, no hagas lo que vieres](https://wordpress.tv/2023/03/12/donde-fueres-no-hagas-lo-que-vieres/)
 - [El plugin de personalización: la última frontera](https://wordpress.tv/2023/03/12/el-plugin-de-personalizacion-la-ultima-frontera/)
 - [¿Cuánta pasta te va a costar de verdad tu web? Gastos reales y mínimos de una web](https://wordpress.tv/2023/03/12/cuanta-pasta-te-va-a-costar-de-verdad-tu-web-gastos-reales-y-minimos-de-una-web/)
 - [Emprender con WordPress para recorrer el mundo con dos peques](https://wordpress.tv/2023/03/12/emprender-con-wordpress-para-recorrer-el-mundo-con-dos-peques/)
@@ -358,11 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo se documenta la parte más técnica de WordPress](https://wordpress.tv/2023/03/12/como-se-documenta-la-parte-mas-tecnica-de-wordpress/)
 - [Aspira, espira… Yoga para recuperar tu sitio y tu reputación después de un hackeo](https://wordpress.tv/2023/03/12/aspira-espira-yoga-para-recuperar-tu-sitio-y-tu-reputacion-despues-de-un-hackeo/)
 - [¡No me da la vida! Cómo una web te puede ayudar a emprender y conciliar sin morir e](https://wordpress.tv/2023/03/12/no-me-da-la-vida-como-una-web-te-puede-ayudar-a-emprender-y-conciliar-sin-morir-e/)
-- [Planificación estratégica para proyectos con WordPress](https://wordpress.tv/2023/03/12/planificacion-estrategica-para-proyectos-con-wordpress/)
-- [Bienvenida WordCamp Chiclana 2023](https://wordpress.tv/2023/03/12/bienvenida-wordcamp-chiclana-2023/)
-- [10 años coordinando equipos de diseño y desarrollo y solo he aprendido esto](https://wordpress.tv/2023/03/12/10-anos-coordinando-equipos-de-diseno-y-desarrollo-y-solo-he-aprendido-esto/)
-- [Ya tienes un WordPress y ¿tienes un embudo &lpar;funnel&rpar; que convierta visitas en clientes?](https://wordpress.tv/2023/03/12/ya-tienes-un-wordpress-y-tienes-un-embudo-funnel-que-convierta-visitas-en-clientes/)
-- [Nuevos negocios: prototipado, validación y experimentos.](https://wordpress.tv/2023/03/12/nuevos-negocios-prototipado-validacion-y-experimentos/)
 <!-- WPTV:END -->
 
 ## Marketing
