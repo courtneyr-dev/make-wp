@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [REQUEST TO CREATE A LOCALE…](https://make.wordpress.org/polyglots/2023/03/11/request-to-create-a-locale/)
+- [PTE Request for Wappointment](https://make.wordpress.org/polyglots/2023/03/11/pte-request-for-wappointment-2/)
 - [PTE Request for mosparo Integration](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-mosparo-integration/)
 - [PTE Request for helloadherents](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-helloadherents/)
 - [PTE Request for Panomity WP Cache](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-panomity-wp-cache/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/08/hi-dear-mentors-we-have-110/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/03/08/i-am-the-plugin-author-34/)
 - [Agenda: Weekly Polyglots Chat – March. 8, 2023 &lpar;7:00 UTC&rpar;8](https://make.wordpress.org/polyglots/2023/03/08/agenda-weekly-polyglots-chat-march-8-2023-700-utc8/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/07/hi-dear-mentors-we-have-109/)
-- [PTE request for Hierarchy Product Category Drop Down](https://make.wordpress.org/polyglots/2023/03/07/pte-request-for-hierarchy-product-category-drop-down/)
 <!-- POLYGLOTS:END -->
 
 ## Support
