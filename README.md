@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nilo Vélez: Libertad de expresión y cerveza gratis](https://wordpress.tv/2023/03/12/nilo-velez-libertad-de-expresion-y-cerveza-gratis/)
+- [WooCommerce: Integraciones clave para maximizar tu rendimiento](https://wordpress.tv/2023/03/12/woocommerce-integraciones-clave-para-maximizar-tu-rendimiento/)
 - [画像のSEO対策 〜WordPressでできること〜](https://wordpress.tv/2023/03/11/%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c/)
 - [Let’s code: preventing CSRF security vulnerabilities](https://wordpress.tv/2023/03/10/lets-code-preventing-csrf-security-vulnerabilities/)
 - [How to create a website on mobile &lpar;Part 1&rpar;](https://wordpress.tv/2023/03/09/how-to-create-a-website-on-mobile-part-1/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Le SEO c’est super! Choisir ses outils et ses ressources pour répondre à sa clientèle](https://wordpress.tv/2023/02/28/le-seo-cest-super-choisir-ses-outils-et-ses-ressources-pour-repondre-a-sa-clientele/)
 - [John Robert-Nicoud: Diffuser un Podcast via WordPress](https://wordpress.tv/2023/02/28/john-robert-nicoud-diffuser-un-podcast-via-wordpress/)
 - [Agence WordPress 100% Elementor : retours d’expériences sur 4 projets Web](https://wordpress.tv/2023/02/28/agence-wordpress-100-elementor-retours-dexperiences-sur-4-projets-web/)
-- [Faire du marketing web et éthique, c’est possible](https://wordpress.tv/2023/02/28/faire-du-marketing-web-et-ethique-cest-possible/)
-- [Le SXO : Designer en fonction de la data utilisateur](https://wordpress.tv/2023/02/28/le-sxo-designer-en-fonction-de-la-data-utilisateur/)
 <!-- WPTV:END -->
 
 ## Marketing
