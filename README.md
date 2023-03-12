@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Saca todo el partido al inspector de Firefox y Chrome](https://wordpress.tv/2023/03/12/saca-todo-el-partido-al-inspector-de-firefox-y-chrome/)
 - [Apertura WordCamp Torrelodones](https://wordpress.tv/2023/03/12/apertura-wordcamp-torrelodones/)
 - [Google Ads 2023. Cómo hemos cambiado](https://wordpress.tv/2023/03/12/google-ads-2023-como-hemos-cambiado/)
 - [¿WordPress lento? Averigua por qué](https://wordpress.tv/2023/03/12/wordpress-lento-averigua-por-que/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Del cerdo, hasta los andares? Pues de un post con WordPress, también](https://wordpress.tv/2023/03/12/del-cerdo-hasta-los-andares-pues-de-un-post-con-wordpress-tambien/)
 - [Ocho razones para comenzar a usar Gutenberg en 2023](https://wordpress.tv/2023/03/12/ocho-razones-para-comenzar-a-usar-gutenberg-en-2023/)
 - [Cómo se documenta la parte más técnica de WordPress](https://wordpress.tv/2023/03/12/como-se-documenta-la-parte-mas-tecnica-de-wordpress/)
-- [Aspira, espira… Yoga para recuperar tu sitio y tu reputación después de un hackeo](https://wordpress.tv/2023/03/12/aspira-espira-yoga-para-recuperar-tu-sitio-y-tu-reputacion-despues-de-un-hackeo/)
 <!-- WPTV:END -->
 
 ## Marketing
