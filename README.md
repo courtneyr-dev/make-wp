@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Locale request for Andalûh](https://make.wordpress.org/polyglots/2023/03/12/locale-request-for-andaluh/)
 - [New locale: Valencià](https://make.wordpress.org/polyglots/2023/03/12/new-locale-valencia/)
 - [REQUEST TO CREATE A LOCALE…](https://make.wordpress.org/polyglots/2023/03/11/request-to-create-a-locale/)
 - [PTE Request for Wappointment](https://make.wordpress.org/polyglots/2023/03/11/pte-request-for-wappointment-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ga-for-wp](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-ga-for-wp/)
 - [PTE Request for WSKLAD](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-wsklad/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/08/hi-dear-mentors-we-have-110/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2023/03/08/i-am-the-plugin-author-34/)
 <!-- POLYGLOTS:END -->
 
 ## Support
