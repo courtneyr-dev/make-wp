@@ -338,6 +338,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ocho razones para comenzar a usar Gutenberg en 2023](https://wordpress.tv/2023/03/12/ocho-razones-para-comenzar-a-usar-gutenberg-en-2023/)
+- [Cómo se documenta la parte más técnica de WordPress](https://wordpress.tv/2023/03/12/como-se-documenta-la-parte-mas-tecnica-de-wordpress/)
+- [Aspira, espira… Yoga para recuperar tu sitio y tu reputación después de un hackeo](https://wordpress.tv/2023/03/12/aspira-espira-yoga-para-recuperar-tu-sitio-y-tu-reputacion-despues-de-un-hackeo/)
+- [¡No me da la vida! Cómo una web te puede ayudar a emprender y conciliar sin morir e](https://wordpress.tv/2023/03/12/no-me-da-la-vida-como-una-web-te-puede-ayudar-a-emprender-y-conciliar-sin-morir-e/)
+- [Planificación estratégica para proyectos con WordPress](https://wordpress.tv/2023/03/12/planificacion-estrategica-para-proyectos-con-wordpress/)
+- [Bienvenida WordCamp Chiclana 2023](https://wordpress.tv/2023/03/12/bienvenida-wordcamp-chiclana-2023/)
+- [10 años coordinando equipos de diseño y desarrollo y solo he aprendido esto](https://wordpress.tv/2023/03/12/10-anos-coordinando-equipos-de-diseno-y-desarrollo-y-solo-he-aprendido-esto/)
+- [Ya tienes un WordPress y ¿tienes un embudo &lpar;funnel&rpar; que convierta visitas en clientes?](https://wordpress.tv/2023/03/12/ya-tienes-un-wordpress-y-tienes-un-embudo-funnel-que-convierta-visitas-en-clientes/)
+- [Nuevos negocios: prototipado, validación y experimentos.](https://wordpress.tv/2023/03/12/nuevos-negocios-prototipado-validacion-y-experimentos/)
+- [Automatiza tu WordPress con AutomatorWP](https://wordpress.tv/2023/03/12/automatiza-tu-wordpress-con-automatorwp/)
+- [Cómo Merchant Center te ayuda a vender más con WP + WooCommerce](https://wordpress.tv/2023/03/12/como-merchant-center-te-ayuda-a-vender-mas-con-wp-woocommerce/)
+- [Desarrollo nocode de aplicaciones CRUD con WordPress. Cómo hacer aplicaciones de gestión sin informa](https://wordpress.tv/2023/03/12/desarrollo-nocode-de-aplicaciones-crud-con-wordpress-como-hacer-aplicaciones-de-gestion-sin-informa/)
+- [¡La mejor respuesta gana! Cómo impulsar tu SEO local a través de las preguntas frecuentes.](https://wordpress.tv/2023/03/12/la-mejor-respuesta-gana-como-impulsar-tu-seo-local-a-traves-de-las-preguntas-frecuentes/)
+- [Ahí hay una IA – Seo y contenidos en los tiempos de la Inteligencia Artificial](https://wordpress.tv/2023/03/12/ahi-hay-una-ia-seo-y-contenidos-en-los-tiempos-de-la-inteligencia-artificial/)
 - [Nilo Vélez: Libertad de expresión y cerveza gratis](https://wordpress.tv/2023/03/12/nilo-velez-libertad-de-expresion-y-cerveza-gratis/)
 - [WooCommerce: Integraciones clave para maximizar tu rendimiento](https://wordpress.tv/2023/03/12/woocommerce-integraciones-clave-para-maximizar-tu-rendimiento/)
 - [画像のSEO対策 〜WordPressでできること〜](https://wordpress.tv/2023/03/11/%e7%94%bb%e5%83%8f%e3%81%aeseo%e5%af%be%e7%ad%96-%e3%80%9cwordpress%e3%81%a7%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%80%9c/)
@@ -349,20 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Siti WordPress statici](https://wordpress.tv/2023/03/09/siti-wordpress-statici/)
 - [Displaying testimonials on your website](https://wordpress.tv/2023/03/07/displaying-testimonials-on-your-website/)
 - [Automatizaciones para negocios que no se pueden automatizar](https://wordpress.tv/2023/03/07/automatizaciones-para-negocios-que-no-se-pueden-automatizar/)
-- [Developer Hours: Migrate a plugin to blocks &lpar;Americas&rpar;](https://wordpress.tv/2023/03/06/developer-hours-migrate-a-plugin-to-blocks-americas/)
-- [Conecta con APIs desde WordPress de forma sencilla](https://wordpress.tv/2023/03/05/conecta-con-apis-desde-wordpress-de-forma-sencilla/)
-- [Utilizando WordPress en la Consultoría](https://wordpress.tv/2023/03/05/utilizando-wordpress-en-la-consultoria/)
-- [6.2 Live Product Demo](https://wordpress.tv/2023/03/03/6-2-live-product-demo/)
-- [Qué significa contribuir con la comunidad de WordPress](https://wordpress.tv/2023/03/03/que-significa-contribuir-con-la-comunidad-de-wordpress/)
-- [Cómo empiezo a contribuir en la comunidad de WordPress España](https://wordpress.tv/2023/03/03/como-empiezo-a-contribuir-en-la-comunidad-de-wordpress-espana/)
-- [Interacting with the WP REST API](https://wordpress.tv/2023/03/03/interacting-with-the-wp-rest-api/)
-- [Let’s code: preventing common security vulnerabilities](https://wordpress.tv/2023/03/03/lets-code-preventing-common-security-vulnerabilities/)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 1](https://wordpress.tv/2023/03/02/updating-a-blogs-design-informal-live-stream-part-1/)
-- [WordPress as a Paintbrush: Internet Art Then and Now](https://wordpress.tv/2023/03/01/wordpress-as-a-paintbrush-internet-art-then-and-now/)
-- [Builder Basics: Block Styles vs. Block Variations](https://wordpress.tv/2023/03/01/builder-basics-block-styles-vs-block-variations/)
-- [Le SEO c’est super! Choisir ses outils et ses ressources pour répondre à sa clientèle](https://wordpress.tv/2023/02/28/le-seo-cest-super-choisir-ses-outils-et-ses-ressources-pour-repondre-a-sa-clientele/)
-- [John Robert-Nicoud: Diffuser un Podcast via WordPress](https://wordpress.tv/2023/02/28/john-robert-nicoud-diffuser-un-podcast-via-wordpress/)
-- [Agence WordPress 100% Elementor : retours d’expériences sur 4 projets Web](https://wordpress.tv/2023/02/28/agence-wordpress-100-elementor-retours-dexperiences-sur-4-projets-web/)
 <!-- WPTV:END -->
 
 ## Marketing
