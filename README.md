@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Money Manager](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-money-manager-2/)
 - [Locale request for Andalûh](https://make.wordpress.org/polyglots/2023/03/12/locale-request-for-andaluh/)
 - [New locale: Valencià](https://make.wordpress.org/polyglots/2023/03/12/new-locale-valencia/)
 - [REQUEST TO CREATE A LOCALE…](https://make.wordpress.org/polyglots/2023/03/11/request-to-create-a-locale/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Panomity WP Cache](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-panomity-wp-cache/)
 - [PTE Request for ga-for-wp](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-ga-for-wp/)
 - [PTE Request for WSKLAD](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-wsklad/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/08/hi-dear-mentors-we-have-110/)
 <!-- POLYGLOTS:END -->
 
 ## Support
