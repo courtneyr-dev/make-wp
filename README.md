@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Combining Roles to Create a New Contributor Ladder](https://make.wordpress.org/community/2023/03/13/combining-roles-to-create-a-new-contributor-ladder/)
 - [Proposal: Updates to the Mentor Program](https://make.wordpress.org/community/2023/03/13/proposal-updates-to-the-mentor-program/)
 - [Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/community/2023/03/10/launching-the-contributor-working-group-call-for-volunteers/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on March 8, 2023](https://make.wordpress.org/community/2023/03/08/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-march-8-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on LearnWP in February 2023](https://make.wordpress.org/community/2023/03/01/xpost-whats-new-on-learnwp-in-february-2023/)
 - [WordCamp Mentors’ March check-in!](https://make.wordpress.org/community/2023/03/01/wordcamp-mentors-march-check-in/)
 - [Proposal: Modify the Events and News widget to show topic-based meetups worldwide](https://make.wordpress.org/community/2023/02/27/proposal-modify-the-events-and-news-widget-to-show-topic-based-meetups-worldwide/)
-- [Suggested update to Events Code of Conduct](https://make.wordpress.org/community/2023/02/27/suggested-update-to-events-code-of-conduct/)
 <!-- COMMUNITY:END -->
 
 ## Meta
