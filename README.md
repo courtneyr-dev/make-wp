@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Remove WP Admin Bar.](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-remove-wp-admin-bar/)
 - [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-booking-activities-6/)
 - [PTE Request for Money Manager](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-money-manager-2/)
 - [Locale request for Andalûh](https://make.wordpress.org/polyglots/2023/03/12/locale-request-for-andaluh/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for mosparo Integration](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-mosparo-integration/)
 - [PTE Request for helloadherents](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-helloadherents/)
 - [PTE Request for Panomity WP Cache](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-panomity-wp-cache/)
-- [PTE Request for ga-for-wp](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-ga-for-wp/)
 <!-- POLYGLOTS:END -->
 
 ## Support
