@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-14/)
 - [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org/)
 - [We Developer and Digital Marketing](https://jobs.wordpress.net/job/we-developer-and-digital-marketing/)
 - [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer-3/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Inpsyde] Senior Full Stack WordPress Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-wordpress-developer-m-f-d/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-17/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-23/)
-- [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-22/)
 <!-- JOBS:END -->
 
 ## Central
