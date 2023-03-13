@@ -338,8 +338,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introducción al nuevo sitio de Documentación](https://wordpress.tv/2023/03/13/introduccion-al-nuevo-sitio-de-documentacion/)
+- [Saca todo el partido al inspector de Firefox y Chrome](https://wordpress.tv/2023/03/13/saca-todo-el-partido-al-inspector-de-firefox-y-chrome/)
+- [Quiero una web ¿y ahora qué?](https://wordpress.tv/2023/03/13/quiero-una-web-y-ahora-que/)
+- [Personaliza la apariencia de tu web como un diseñador pro](https://wordpress.tv/2023/03/13/personaliza-la-apariencia-de-tu-web-como-un-disenador-pro/)
+- [Por qué un electricista gallego y un vendedor de juguetes alicantino acaban siendo voluntarios](https://wordpress.tv/2023/03/13/por-que-un-electricista-gallego-y-un-vendedor-de-juguetes-alicantino-acaban-siendo-voluntarios/)
 - [Cómo crear una Academia Online en WordPress y conseguir más de 200 alumnos a la semana](https://wordpress.tv/2023/03/13/como-crear-una-academia-online-en-wordpress-y-conseguir-mas-de-200-alumnos-a-la-semana/)
-- [Saca todo el partido al inspector de Firefox y Chrome](https://wordpress.tv/2023/03/12/saca-todo-el-partido-al-inspector-de-firefox-y-chrome/)
 - [Apertura WordCamp Torrelodones](https://wordpress.tv/2023/03/12/apertura-wordcamp-torrelodones/)
 - [Google Ads 2023. Cómo hemos cambiado](https://wordpress.tv/2023/03/12/google-ads-2023-como-hemos-cambiado/)
 - [¿WordPress lento? Averigua por qué](https://wordpress.tv/2023/03/12/wordpress-lento-averigua-por-que/)
@@ -359,10 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crear bloque de contenido &lpar;Query Loop Block&rpar; personalizado](https://wordpress.tv/2023/03/12/crear-bloque-de-contenido-query-loop-block-personalizado/)
 - [Configuraciones para promocionar nuestra tienda con WooCommerce](https://wordpress.tv/2023/03/12/configuraciones-para-promocionar-nuestra-tienda-con-woocommerce/)
 - [Mapas en tu WordPress: el software libre siempre gana.](https://wordpress.tv/2023/03/12/mapas-en-tu-wordpress-el-software-libre-siempre-gana/)
-- [Aprende a lidiar con el: «¿y si…?»](https://wordpress.tv/2023/03/12/aprende-a-lidiar-con-el-y-si/)
-- [El EEAT me come toda la marca](https://wordpress.tv/2023/03/12/el-eeat-me-come-toda-la-marca/)
-- [¿Del cerdo, hasta los andares? Pues de un post con WordPress, también](https://wordpress.tv/2023/03/12/del-cerdo-hasta-los-andares-pues-de-un-post-con-wordpress-tambien/)
-- [Ocho razones para comenzar a usar Gutenberg en 2023](https://wordpress.tv/2023/03/12/ocho-razones-para-comenzar-a-usar-gutenberg-en-2023/)
 <!-- WPTV:END -->
 
 ## Marketing
