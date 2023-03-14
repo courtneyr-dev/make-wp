@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I translated the Neve WordPress…](https://make.wordpress.org/polyglots/2023/03/14/i-translated-the-neve-wordpress/)
 - [I have suggested translations on…](https://make.wordpress.org/polyglots/2023/03/13/i-have-suggested-translations-on/)
 - [I have suggested translations for…](https://make.wordpress.org/polyglots/2023/03/13/i-have-suggested-translations-for/)
 - [PTE Request for Remove WP Admin Bar.](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-remove-wp-admin-bar/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New locale: Valencià](https://make.wordpress.org/polyglots/2023/03/12/new-locale-valencia/)
 - [REQUEST TO CREATE A LOCALE…](https://make.wordpress.org/polyglots/2023/03/11/request-to-create-a-locale/)
 - [PTE Request for Wappointment](https://make.wordpress.org/polyglots/2023/03/11/pte-request-for-wappointment-2/)
-- [PTE Request for mosparo Integration](https://make.wordpress.org/polyglots/2023/03/10/pte-request-for-mosparo-integration/)
 <!-- POLYGLOTS:END -->
 
 ## Support
