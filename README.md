@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.2 Release Candidate 2](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-2/)
 - [WP Briefing: Episode 51: Is Routine a Rut?](https://wordpress.org/news/2023/03/episode-51-is-routine-a-rut/)
 - [WordPress 6.2 Release Candidate 1](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-1/)
 - [Your WordPress 6.2 Preview](https://wordpress.org/news/2023/03/your-wordpress-6-2-preview/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 50: 3 Interesting Trends from WordCamp Asia](https://wordpress.org/news/2023/02/episode-50-3-interesting-trends-from-wordcamp-asia/)
 - [WP Briefing: Episode 49: Everything You Need to Know About the Community Summit!](https://wordpress.org/news/2023/02/episode-49-everything-you-need-to-know-about-the-community-summit/)
 - [WordPress 6.2 Beta 1](https://wordpress.org/news/2023/02/wordpress-6-2-beta-1/)
-- [The Month in WordPress – January 2023](https://wordpress.org/news/2023/02/the-month-in-wordpress-january-2023/)
 <!-- NEWS:END -->
 
 ## Jobs
