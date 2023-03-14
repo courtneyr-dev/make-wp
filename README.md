@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-794/)
 - [Senior Developer](https://jobs.wordpress.net/job/senior-developer-10/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-79/)
 - [Contract WordPress Plugin Developer for an online misinformation education game](https://jobs.wordpress.net/job/contract-wordpress-plugin-developer-for-an-online-misinformation-education-game/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [We Developer and Digital Marketing](https://jobs.wordpress.net/job/we-developer-and-digital-marketing/)
 - [Senior Plugin Developer](https://jobs.wordpress.net/job/senior-plugin-developer-3/)
 - [Contract Website Developer](https://jobs.wordpress.net/job/contract-website-developer/)
-- [WordPress Elementor Support](https://jobs.wordpress.net/job/word-press-elementor-support/)
 <!-- JOBS:END -->
 
 ## Central
