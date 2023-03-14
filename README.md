@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WooCommerce Blocks](https://make.wordpress.org/polyglots/2023/03/14/pte-request-for-woocommerce-blocks-8/)
 - [WordPress 6.2 Translation Status &lpar;March 14, 2023&rpar;](https://make.wordpress.org/polyglots/2023/03/14/wordpress-6-2-translation-status-march-14-2023/)
 - [Agenda: Weekly Polyglots Chat – March 15, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/14/agenda-weekly-polyglots-chat-march-15-2023-1300-utc/)
 - [I translated the Neve WordPress…](https://make.wordpress.org/polyglots/2023/03/14/i-translated-the-neve-wordpress/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-booking-activities-6/)
 - [PTE Request for Money Manager](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-money-manager-2/)
 - [Locale request for Andalûh](https://make.wordpress.org/polyglots/2023/03/12/locale-request-for-andaluh/)
-- [New locale: Valencià](https://make.wordpress.org/polyglots/2023/03/12/new-locale-valencia/)
 <!-- POLYGLOTS:END -->
 
 ## Support
