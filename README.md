@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Haz match con tus clientes](https://wordpress.tv/2023/03/15/haz-match-con-tus-clientes/)
+- [Negociación eficiente para profesionales de WordPress](https://wordpress.tv/2023/03/15/negociacion-eficiente-para-profesionales-de-wordpress/)
 - [Designers &amp; developers: Cats &amp; dogs living in harmony](https://wordpress.tv/2023/03/14/designers-developers-cats-dogs-living-in-harmony/)
 - [Block Patterns — vorbereitete Block-Kombination mit Beispielinhalten” &lpar;Update 2023&rpar;](https://wordpress.tv/2023/03/14/block-patterns-vorbereitete-block-kombination-mit-beispielinhalten-update-2023/)
 - [Introducción al nuevo sitio de Documentación](https://wordpress.tv/2023/03/13/introduccion-al-nuevo-sitio-de-documentacion/)
@@ -361,8 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Que la fiscalidad no te amargue](https://wordpress.tv/2023/03/12/que-la-fiscalidad-no-te-amargue/)
 - [Tu cerebro te traiciona: Los sesgos explotados por el marketing](https://wordpress.tv/2023/03/12/tu-cerebro-te-traiciona-los-sesgos-explotados-por-el-marketing/)
 - [Pesadilla en la cocina: Mejora tu guiso y el SEO con Search Console](https://wordpress.tv/2023/03/12/pesadilla-en-la-cocina-mejora-tu-guiso-y-el-seo-con-search-console/)
-- [Crea, vende y crece en WordPress sin miedo ni sustos](https://wordpress.tv/2023/03/12/crea-vende-y-crece-en-wordpress-sin-miedo-ni-sustos/)
-- [Crear bloque de contenido &lpar;Query Loop Block&rpar; personalizado](https://wordpress.tv/2023/03/12/crear-bloque-de-contenido-query-loop-block-personalizado/)
 <!-- WPTV:END -->
 
 ## Marketing
