@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Designers &amp; developers: Cats &amp; dogs living in harmony](https://wordpress.tv/2023/03/14/designers-developers-cats-dogs-living-in-harmony/)
 - [Block Patterns — vorbereitete Block-Kombination mit Beispielinhalten” &lpar;Update 2023&rpar;](https://wordpress.tv/2023/03/14/block-patterns-vorbereitete-block-kombination-mit-beispielinhalten-update-2023/)
 - [Introducción al nuevo sitio de Documentación](https://wordpress.tv/2023/03/13/introduccion-al-nuevo-sitio-de-documentacion/)
 - [Saca todo el partido al inspector de Firefox y Chrome](https://wordpress.tv/2023/03/13/saca-todo-el-partido-al-inspector-de-firefox-y-chrome/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pesadilla en la cocina: Mejora tu guiso y el SEO con Search Console](https://wordpress.tv/2023/03/12/pesadilla-en-la-cocina-mejora-tu-guiso-y-el-seo-con-search-console/)
 - [Crea, vende y crece en WordPress sin miedo ni sustos](https://wordpress.tv/2023/03/12/crea-vende-y-crece-en-wordpress-sin-miedo-ni-sustos/)
 - [Crear bloque de contenido &lpar;Query Loop Block&rpar; personalizado](https://wordpress.tv/2023/03/12/crear-bloque-de-contenido-query-loop-block-personalizado/)
-- [Configuraciones para promocionar nuestra tienda con WooCommerce](https://wordpress.tv/2023/03/12/configuraciones-para-promocionar-nuestra-tienda-con-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
