@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Pronamic Pay](https://make.wordpress.org/polyglots/2023/03/15/pte-request-for-pronamic-pay/)
 - [Polyglots Monthly Newsletter: March 2023](https://make.wordpress.org/polyglots/2023/03/15/polyglots-monthly-newsletter-march-2023/)
 - [PTE Request for WooCommerce Blocks](https://make.wordpress.org/polyglots/2023/03/14/pte-request-for-woocommerce-blocks-8/)
 - [WordPress 6.2 Translation Status &lpar;March 14, 2023&rpar;](https://make.wordpress.org/polyglots/2023/03/14/wordpress-6-2-translation-status-march-14-2023/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I have suggested translations for…](https://make.wordpress.org/polyglots/2023/03/13/i-have-suggested-translations-for/)
 - [PTE Request for Remove WP Admin Bar.](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-remove-wp-admin-bar/)
 - [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-booking-activities-6/)
-- [PTE Request for Money Manager](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-money-manager-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
