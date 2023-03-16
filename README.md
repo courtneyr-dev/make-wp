@@ -157,7 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
-- [Combining Roles to Create a New Contributor Ladder](https://make.wordpress.org/community/2023/03/13/combining-roles-to-create-a-new-contributor-ladder/)
+- [Proposal: Combining Roles to Create a New Contributor Ladder](https://make.wordpress.org/community/2023/03/13/combining-roles-to-create-a-new-contributor-ladder/)
 - [Proposal: Updates to the Mentor Program](https://make.wordpress.org/community/2023/03/13/proposal-updates-to-the-mentor-program/)
 - [Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/community/2023/03/10/launching-the-contributor-working-group-call-for-volunteers/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on March 8, 2023](https://make.wordpress.org/community/2023/03/08/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-march-8-2023/)
