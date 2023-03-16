@@ -87,6 +87,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team bi-weekly meeting March 21, 2023](https://make.wordpress.org/docs/2023/03/16/agenda-for-docs-team-bi-weekly-meeting-march-21-2023/)
+- [Summary for Docs Team meeting, March 7, 2023](https://make.wordpress.org/docs/2023/03/16/summary-for-docs-team-meeting-march-7-2023/)
 - [Agenda for Docs Team bi-weekly meeting March 7, 2023](https://make.wordpress.org/docs/2023/03/06/agenda-for-docs-team-bi-weekly-meeting-march-7-2023/)
 - [Summary for Docs Team meeting, February 21, 2023](https://make.wordpress.org/docs/2023/03/06/summary-for-docs-team-meeting-february-21-2023/)
 - [X-post: HelpHub and DevDocs redesign request](https://make.wordpress.org/docs/2023/02/21/xpost-helphub-and-devdocs-redesign-request/)
@@ -95,8 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/docs/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [Future plans for HelpHub](https://make.wordpress.org/docs/2023/02/07/future-plans-for-helphub/)
 - [Agenda for Docs Team bi-weekly meeting February 7, 2023](https://make.wordpress.org/docs/2023/02/07/agenda-for-docs-team-bi-weekly-meeting-february-7-2023/)
-- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/docs/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
-- [Onboarding session for GitHub-related roles](https://make.wordpress.org/docs/2023/02/03/onboarding-session-for-github-related-roles/)
 <!-- DOCS:END -->
 
 ### Support Articles
