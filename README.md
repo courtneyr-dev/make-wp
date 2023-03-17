@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [What kind of WordPress theme do I have: classic, block, or something else?](https://wordpress.tv/2023/03/17/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 - [Let’s code: developing WordPress user roles and capabilities](https://wordpress.tv/2023/03/17/lets-code-developing-wordpress-user-roles-and-capabilities/)
 - [WP REST API – custom fields, authentication, and API testing](https://wordpress.tv/2023/03/17/wp-rest-api-custom-fields-authentication-and-api-testing/)
 - [Customizing the Single Template and 404 Template](https://wordpress.tv/2023/03/16/customizing-the-single-template-and-404-template/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Cuánta pasta te va a costar de verdad tu web? Gastos reales y mínimos de una web](https://wordpress.tv/2023/03/12/cuanta-pasta-te-va-a-costar-de-verdad-tu-web-gastos-reales-y-minimos-de-una-web/)
 - [Emprender con WordPress para recorrer el mundo con dos peques](https://wordpress.tv/2023/03/12/emprender-con-wordpress-para-recorrer-el-mundo-con-dos-peques/)
 - [WordPress con SQLite](https://wordpress.tv/2023/03/12/wordpress-con-sqlite/)
-- [Experiencias dando el salto de WooCommerce a tienda física](https://wordpress.tv/2023/03/12/experiencias-dando-el-salto-de-woocommerce-a-tienda-fisica/)
 <!-- WPTV:END -->
 
 ## Marketing
