@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s code: developing WordPress user roles and capabilities](https://wordpress.tv/2023/03/17/lets-code-developing-wordpress-user-roles-and-capabilities/)
 - [WP REST API – custom fields, authentication, and API testing](https://wordpress.tv/2023/03/17/wp-rest-api-custom-fields-authentication-and-api-testing/)
 - [Customizing the Single Template and 404 Template](https://wordpress.tv/2023/03/16/customizing-the-single-template-and-404-template/)
 - [Best design practices to create engagement](https://wordpress.tv/2023/03/16/best-design-practices-to-create-engagement-2/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Emprender con WordPress para recorrer el mundo con dos peques](https://wordpress.tv/2023/03/12/emprender-con-wordpress-para-recorrer-el-mundo-con-dos-peques/)
 - [WordPress con SQLite](https://wordpress.tv/2023/03/12/wordpress-con-sqlite/)
 - [Experiencias dando el salto de WooCommerce a tienda física](https://wordpress.tv/2023/03/12/experiencias-dando-el-salto-de-woocommerce-a-tienda-fisica/)
-- [¿Es necesario un blog si tienes tienda online?](https://wordpress.tv/2023/03/12/es-necesario-un-blog-si-tienes-tienda-online/)
 <!-- WPTV:END -->
 
 ## Marketing
