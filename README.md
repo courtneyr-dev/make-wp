@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Best design practices to create engagement](https://wordpress.tv/2023/03/16/best-design-practices-to-create-engagement-2/)
 - [Haz match con tus clientes](https://wordpress.tv/2023/03/15/haz-match-con-tus-clientes/)
 - [Negociación eficiente para profesionales de WordPress](https://wordpress.tv/2023/03/15/negociacion-eficiente-para-profesionales-de-wordpress/)
 - [Designers &amp; developers: Cats &amp; dogs living in harmony](https://wordpress.tv/2023/03/14/designers-developers-cats-dogs-living-in-harmony/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Es necesario un blog si tienes tienda online?](https://wordpress.tv/2023/03/12/es-necesario-un-blog-si-tienes-tienda-online/)
 - [Que la fiscalidad no te amargue](https://wordpress.tv/2023/03/12/que-la-fiscalidad-no-te-amargue/)
 - [Tu cerebro te traiciona: Los sesgos explotados por el marketing](https://wordpress.tv/2023/03/12/tu-cerebro-te-traiciona-los-sesgos-explotados-por-el-marketing/)
-- [Pesadilla en la cocina: Mejora tu guiso y el SEO con Search Console](https://wordpress.tv/2023/03/12/pesadilla-en-la-cocina-mejora-tu-guiso-y-el-seo-con-search-console/)
 <!-- WPTV:END -->
 
 ## Marketing
