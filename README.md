@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Customizing the Single Template and 404 Template](https://wordpress.tv/2023/03/16/customizing-the-single-template-and-404-template/)
 - [Best design practices to create engagement](https://wordpress.tv/2023/03/16/best-design-practices-to-create-engagement-2/)
 - [Haz match con tus clientes](https://wordpress.tv/2023/03/15/haz-match-con-tus-clientes/)
 - [Negociación eficiente para profesionales de WordPress](https://wordpress.tv/2023/03/15/negociacion-eficiente-para-profesionales-de-wordpress/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Experiencias dando el salto de WooCommerce a tienda física](https://wordpress.tv/2023/03/12/experiencias-dando-el-salto-de-woocommerce-a-tienda-fisica/)
 - [¿Es necesario un blog si tienes tienda online?](https://wordpress.tv/2023/03/12/es-necesario-un-blog-si-tienes-tienda-online/)
 - [Que la fiscalidad no te amargue](https://wordpress.tv/2023/03/12/que-la-fiscalidad-no-te-amargue/)
-- [Tu cerebro te traiciona: Los sesgos explotados por el marketing](https://wordpress.tv/2023/03/12/tu-cerebro-te-traiciona-los-sesgos-explotados-por-el-marketing/)
 <!-- WPTV:END -->
 
 ## Marketing
