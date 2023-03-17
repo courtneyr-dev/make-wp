@@ -282,6 +282,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-11)
 - [Let’s code: custom content &amp; custom capabilities](https://learn.wordpress.org/?meeting=lets-code-custom-content-custom-capabilities)
 - [WP dev livestream: Custom content &amp; custom capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-custom-content-custom-capabilities)
 - [Build a blog with WordPress 6.2: A new release preview](https://learn.wordpress.org/?meeting=build-a-blog-with-wordpress-6-2-a-new-release-preview)
@@ -306,7 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: Preventing Common Security Vulnerabilities](https://learn.wordpress.org/?meeting=lets-code-preventing-common-security-vulnerabilities)
 - [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api-3)
 - [How to create a website on mobile &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-1)
-- [Introduction to Templates &lpar;Block Theme&rpar;](https://learn.wordpress.org/?meeting=introduction-to-templates-block-theme)
 <!-- SLS:END -->
 
 ## Test
