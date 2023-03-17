@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [What kind of WordPress theme do I have: classic, block, or something else?](https://learn.wordpress.org/tutorial/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 - [WP REST API – custom fields, authentication, and testing](https://learn.wordpress.org/tutorial/wp-rest-api-custom-fields-authentication-and-testing/)
 - [Displaying testimonials on your website](https://learn.wordpress.org/tutorial/displaying-testimonials-on-your-website/)
 - [Interacting with the WordPress REST API](https://learn.wordpress.org/tutorial/interacting-with-the-wordpress-rest-api/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Trabalhando com estilos globais](https://learn.wordpress.org/tutorial/trabalhando-com-estilos-globais/)
 - [Padding Versus Margin](https://learn.wordpress.org/tutorial/padding-versus-margin/)
 - [Block Spacing](https://learn.wordpress.org/tutorial/block-spacing/)
-- [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
