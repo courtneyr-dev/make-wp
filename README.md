@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Goals for 2023 : Next Step](https://make.wordpress.org/community/2023/03/17/community-team-goals-for-2023-next-step/)
 - [Proposal: Combining Roles to Create a New Contributor Ladder](https://make.wordpress.org/community/2023/03/13/combining-roles-to-create-a-new-contributor-ladder/)
 - [Proposal: Updates to the Mentor Program](https://make.wordpress.org/community/2023/03/13/proposal-updates-to-the-mentor-program/)
 - [Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/community/2023/03/10/launching-the-contributor-working-group-call-for-volunteers/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [​​Community Team Meeting Agenda for 2 March 2023](https://make.wordpress.org/community/2023/03/01/community-team-meeting-agenda-for-2-march-2023/)
 - [X-post: What’s new on LearnWP in February 2023](https://make.wordpress.org/community/2023/03/01/xpost-whats-new-on-learnwp-in-february-2023/)
 - [WordCamp Mentors’ March check-in!](https://make.wordpress.org/community/2023/03/01/wordcamp-mentors-march-check-in/)
-- [Proposal: Modify the Events and News widget to show topic-based meetups worldwide](https://make.wordpress.org/community/2023/02/27/proposal-modify-the-events-and-news-widget-to-show-topic-based-meetups-worldwide/)
 <!-- COMMUNITY:END -->
 
 ## Meta
