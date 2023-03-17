@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to update a video tutorial for Learn.WordPress.org](https://learn.wordpress.org/?meeting=how-to-update-a-video-tutorial-for-learn-wordpress-org)
+- [Build a blog with WordPress 6.2 &lpar;Released today!&rpar;](https://learn.wordpress.org/?meeting=build-a-blog-with-wordpress-6-2-released-today)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-11)
 - [Let’s code: custom content &amp; custom capabilities](https://learn.wordpress.org/?meeting=lets-code-custom-content-custom-capabilities)
 - [WP dev livestream: Custom content &amp; custom capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-custom-content-custom-capabilities)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.1 and 15.2](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-1-and-15-2)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-2-2)
 - [Let’s code: Preventing Common Security Vulnerabilities](https://learn.wordpress.org/?meeting=lets-code-preventing-common-security-vulnerabilities)
-- [WP dev livestream: Building a React app utilising the WP REST API](https://learn.wordpress.org/?meeting=wp-dev-livestream-building-a-react-app-utilising-the-wp-rest-api-3)
-- [How to create a website on mobile &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-1)
 <!-- SLS:END -->
 
 ## Test
