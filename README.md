@@ -338,6 +338,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Presentación de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/20/presentacion-de-wordcamp-torrelodones-2023/)
+- [Planifica, automatiza y disfruta de la familia](https://wordpress.tv/2023/03/20/planifica-automatiza-y-disfruta-de-la-familia/)
 - [What kind of WordPress theme do I have: classic, block, or something else?](https://wordpress.tv/2023/03/17/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 - [Let’s code: developing WordPress user roles and capabilities](https://wordpress.tv/2023/03/17/lets-code-developing-wordpress-user-roles-and-capabilities/)
 - [WP REST API – custom fields, authentication, and API testing](https://wordpress.tv/2023/03/17/wp-rest-api-custom-fields-authentication-and-api-testing/)
@@ -353,7 +355,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Personaliza la apariencia de tu web como un diseñador pro](https://wordpress.tv/2023/03/13/personaliza-la-apariencia-de-tu-web-como-un-disenador-pro/)
 - [Por qué un electricista gallego y un vendedor de juguetes alicantino acaban siendo voluntarios](https://wordpress.tv/2023/03/13/por-que-un-electricista-gallego-y-un-vendedor-de-juguetes-alicantino-acaban-siendo-voluntarios/)
 - [Cómo crear una Academia Online en WordPress y conseguir más de 200 alumnos a la semana](https://wordpress.tv/2023/03/13/como-crear-una-academia-online-en-wordpress-y-conseguir-mas-de-200-alumnos-a-la-semana/)
-- [Apertura WordCamp Torrelodones](https://wordpress.tv/2023/03/12/apertura-wordcamp-torrelodones/)
 - [Google Ads 2023. Cómo hemos cambiado](https://wordpress.tv/2023/03/12/google-ads-2023-como-hemos-cambiado/)
 - [¿WordPress lento? Averigua por qué](https://wordpress.tv/2023/03/12/wordpress-lento-averigua-por-que/)
 - [Accesibilidad en herramientas de diseño](https://wordpress.tv/2023/03/12/accesibilidad-en-herramientas-de-diseno/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [El plugin de personalización: la última frontera](https://wordpress.tv/2023/03/12/el-plugin-de-personalizacion-la-ultima-frontera/)
 - [¿Cuánta pasta te va a costar de verdad tu web? Gastos reales y mínimos de una web](https://wordpress.tv/2023/03/12/cuanta-pasta-te-va-a-costar-de-verdad-tu-web-gastos-reales-y-minimos-de-una-web/)
 - [Emprender con WordPress para recorrer el mundo con dos peques](https://wordpress.tv/2023/03/12/emprender-con-wordpress-para-recorrer-el-mundo-con-dos-peques/)
-- [WordPress con SQLite](https://wordpress.tv/2023/03/12/wordpress-con-sqlite/)
 <!-- WPTV:END -->
 
 ## Marketing
