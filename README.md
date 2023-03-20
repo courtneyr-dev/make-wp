@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ShareMe](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-shareme/)
 - [PTE Request for [Converter for…](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-converter-for/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/03/20/post-title-pte-request-for-60/)
 - [PTE Request for [SLUG TRANSLATER]](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-slug-translater/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polyglots Monthly Newsletter: March 2023](https://make.wordpress.org/polyglots/2023/03/15/polyglots-monthly-newsletter-march-2023/)
 - [PTE Request for WooCommerce Blocks](https://make.wordpress.org/polyglots/2023/03/14/pte-request-for-woocommerce-blocks-8/)
 - [WordPress 6.2 Translation Status &lpar;March 14, 2023&rpar;](https://make.wordpress.org/polyglots/2023/03/14/wordpress-6-2-translation-status-march-14-2023/)
-- [Agenda: Weekly Polyglots Chat – March 15, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/14/agenda-weekly-polyglots-chat-march-15-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
