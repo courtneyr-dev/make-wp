@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Haz una web y no la guerra](https://wordpress.tv/2023/03/20/haz-una-web-y-no-la-guerra/)
 - [Presentación de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/20/presentacion-de-wordcamp-torrelodones-2023/)
 - [Planifica, automatiza y disfruta de la familia](https://wordpress.tv/2023/03/20/planifica-automatiza-y-disfruta-de-la-familia/)
 - [What kind of WordPress theme do I have: classic, block, or something else?](https://wordpress.tv/2023/03/17/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Donde fueres, no hagas lo que vieres](https://wordpress.tv/2023/03/12/donde-fueres-no-hagas-lo-que-vieres/)
 - [El plugin de personalización: la última frontera](https://wordpress.tv/2023/03/12/el-plugin-de-personalizacion-la-ultima-frontera/)
 - [¿Cuánta pasta te va a costar de verdad tu web? Gastos reales y mínimos de una web](https://wordpress.tv/2023/03/12/cuanta-pasta-te-va-a-costar-de-verdad-tu-web-gastos-reales-y-minimos-de-una-web/)
-- [Emprender con WordPress para recorrer el mundo con dos peques](https://wordpress.tv/2023/03/12/emprender-con-wordpress-para-recorrer-el-mundo-con-dos-peques/)
 <!-- WPTV:END -->
 
 ## Marketing
