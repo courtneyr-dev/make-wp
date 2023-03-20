@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/03/20/post-title-pte-request-for-60/)
+- [PTE Request for [SLUG TRANSLATER]](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-slug-translater/)
+- [Eror translation in Easy Digital Download file](https://make.wordpress.org/polyglots/2023/03/20/eror-translation-in-easy-digital-download-file/)
+- [PTE Request for Formidable Forms](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-formidable-forms-2/)
 - [PTE Request for Pronamic Pay](https://make.wordpress.org/polyglots/2023/03/15/pte-request-for-pronamic-pay/)
 - [Polyglots Monthly Newsletter: March 2023](https://make.wordpress.org/polyglots/2023/03/15/polyglots-monthly-newsletter-march-2023/)
 - [PTE Request for WooCommerce Blocks](https://make.wordpress.org/polyglots/2023/03/14/pte-request-for-woocommerce-blocks-8/)
 - [WordPress 6.2 Translation Status &lpar;March 14, 2023&rpar;](https://make.wordpress.org/polyglots/2023/03/14/wordpress-6-2-translation-status-march-14-2023/)
 - [Agenda: Weekly Polyglots Chat – March 15, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/14/agenda-weekly-polyglots-chat-march-15-2023-1300-utc/)
 - [I translated the Neve WordPress…](https://make.wordpress.org/polyglots/2023/03/14/i-translated-the-neve-wordpress/)
-- [I have suggested translations on…](https://make.wordpress.org/polyglots/2023/03/13/i-have-suggested-translations-on/)
-- [I have suggested translations for…](https://make.wordpress.org/polyglots/2023/03/13/i-have-suggested-translations-for/)
-- [PTE Request for Remove WP Admin Bar.](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-remove-wp-admin-bar/)
-- [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2023/03/13/pte-request-for-booking-activities-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
