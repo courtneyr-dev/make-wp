@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP Page Speed Plugin Developer Required](https://jobs.wordpress.net/job/wp-page-speed-plugin-developer-required/)
+- [WordPress Page Designer](https://jobs.wordpress.net/job/wordpress-page-designer/)
+- [Css capabilities and WordPress](https://jobs.wordpress.net/job/css-capabilities-and-wordpress/)
+- [WordPress Developer for Level 2 Support](https://jobs.wordpress.net/job/wordpress-developer-for-level-2-support/)
 - [Front End Developer with Elementor Experience](https://jobs.wordpress.net/job/front-end-developer-with-elementor-experience/)
 - [UX Backend Lead](https://jobs.wordpress.net/job/ux-backend-lead/)
 - [WEB Developer and Digital Marketing](https://jobs.wordpress.net/job/web-developer-and-digital-marketing/)
 - [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-2/)
 - [WordPress Developer – Freelancers Needed](https://jobs.wordpress.net/job/wordpress-developer-freelancers-needed/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-794/)
-- [Senior Developer](https://jobs.wordpress.net/job/senior-developer-10/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-79/)
-- [Contract WordPress Plugin Developer for an online misinformation education game](https://jobs.wordpress.net/job/contract-wordpress-plugin-developer-for-an-online-misinformation-education-game/)
-- [WordPress Architect](https://jobs.wordpress.net/job/wordpress-architect/)
 <!-- JOBS:END -->
 
 ## Central
