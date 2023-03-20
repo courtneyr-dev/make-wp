@@ -282,6 +282,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to join the Training Team’s Welcome Committee](https://learn.wordpress.org/?meeting=how-to-join-the-training-teams-welcome-committee-2)
+- [How to join the Training Team’s Welcome Committee](https://learn.wordpress.org/?meeting=how-to-join-the-training-teams-welcome-committee)
 - [Block Themes and WordPress: Exploring WordPress 6.2](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-exploring-wordpress-6-2)
 - [How to update a video tutorial for Learn.WordPress.org](https://learn.wordpress.org/?meeting=how-to-update-a-video-tutorial-for-learn-wordpress-org)
 - [Build a blog with WordPress 6.2 &lpar;Released today!&rpar;](https://learn.wordpress.org/?meeting=build-a-blog-with-wordpress-6-2-released-today)
@@ -305,8 +307,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-10)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-9)
 - [Hallway Hangout: Community Themes Initiative](https://learn.wordpress.org/?meeting=hallway-hangout-community-themes-initiative)
-- [Live stream: Reviewing developer-focused features in Gutenberg 15.1 and 15.2](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-1-and-15-2)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-2-2)
 <!-- SLS:END -->
 
 ## Test
