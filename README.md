@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Dr. Flex](https://make.wordpress.org/polyglots/2023/03/21/pte-request-for-dr-flex/)
+- [PTE/GTE: Request for a translation review &lpar;KR&rpar;](https://make.wordpress.org/polyglots/2023/03/21/pte-gte-request-for-a-translation-review-kr/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/21/hi-dear-mentors-we-have-111/)
 - [New translation project: wp20.wordpress.net](https://make.wordpress.org/polyglots/2023/03/21/new-translation-project-wp20-wordpress-net/)
 - [PTE Request for ShareMe](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-shareme/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [SLUG TRANSLATER]](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-slug-translater/)
 - [Eror translation in Easy Digital Download file](https://make.wordpress.org/polyglots/2023/03/20/eror-translation-in-easy-digital-download-file/)
 - [PTE Request for Formidable Forms](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-formidable-forms-2/)
-- [PTE Request for Pronamic Pay](https://make.wordpress.org/polyglots/2023/03/15/pte-request-for-pronamic-pay/)
-- [Polyglots Monthly Newsletter: March 2023](https://make.wordpress.org/polyglots/2023/03/15/polyglots-monthly-newsletter-march-2023/)
 <!-- POLYGLOTS:END -->
 
 ## Support
