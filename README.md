@@ -507,16 +507,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-8/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-5/)
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-2/)
+- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-6/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-7/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-7/)
+- [Seeking a Node.js/Next.js Expert to Lead Remote Development Team 20-40 hours a week](https://jobs.wordpress.net/job/seeking-a-node-js-next-js-expert-to-lead-remote-development-team-20-40-hours-a-week/)
 - [WP Page Speed Plugin Developer Required](https://jobs.wordpress.net/job/wp-page-speed-plugin-developer-required/)
 - [WordPress Page Designer](https://jobs.wordpress.net/job/wordpress-page-designer/)
 - [Css capabilities and WordPress](https://jobs.wordpress.net/job/css-capabilities-and-wordpress/)
-- [WordPress Developer for Level 2 Support](https://jobs.wordpress.net/job/wordpress-developer-for-level-2-support/)
-- [Front End Developer with Elementor Experience](https://jobs.wordpress.net/job/front-end-developer-with-elementor-experience/)
-- [UX Backend Lead](https://jobs.wordpress.net/job/ux-backend-lead/)
-- [WEB Developer and Digital Marketing](https://jobs.wordpress.net/job/web-developer-and-digital-marketing/)
-- [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-2/)
-- [WordPress Developer – Freelancers Needed](https://jobs.wordpress.net/job/wordpress-developer-freelancers-needed/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-794/)
 <!-- JOBS:END -->
 
 ## Central
