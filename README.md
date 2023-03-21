@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’m the plugin author of…](https://make.wordpress.org/polyglots/2023/03/21/im-the-plugin-author-of-3/)
 - [PTE Request for Dr. Flex](https://make.wordpress.org/polyglots/2023/03/21/pte-request-for-dr-flex/)
 - [PTE/GTE: Request for a translation review &lpar;KR&rpar;](https://make.wordpress.org/polyglots/2023/03/21/pte-gte-request-for-a-translation-review-kr/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/21/hi-dear-mentors-we-have-111/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/03/20/post-title-pte-request-for-60/)
 - [PTE Request for [SLUG TRANSLATER]](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-slug-translater/)
 - [Eror translation in Easy Digital Download file](https://make.wordpress.org/polyglots/2023/03/20/eror-translation-in-easy-digital-download-file/)
-- [PTE Request for Formidable Forms](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-formidable-forms-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
