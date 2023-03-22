@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Diseña para WordPress con Penpot: el Figma libre y gratuito](https://wordpress.tv/2023/03/22/disena-para-wordpress-con-penpot-el-figma-libre-y-gratuito/)
 - [Intro to Temaplates &lpar;Block Theme&rpar;](https://wordpress.tv/2023/03/20/intro-to-temaplates-block-theme/)
 - [Haz una web y no la guerra](https://wordpress.tv/2023/03/20/haz-una-web-y-no-la-guerra/)
 - [Presentación de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/20/presentacion-de-wordcamp-torrelodones-2023/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accesibilidad en herramientas de diseño](https://wordpress.tv/2023/03/12/accesibilidad-en-herramientas-de-diseno/)
 - [Creando entradas y páginas con el editor de bloques en 2023](https://wordpress.tv/2023/03/12/creando-entradas-y-paginas-con-el-editor-de-bloques-en-2023/)
 - [Donde fueres, no hagas lo que vieres](https://wordpress.tv/2023/03/12/donde-fueres-no-hagas-lo-que-vieres/)
-- [El plugin de personalización: la última frontera](https://wordpress.tv/2023/03/12/el-plugin-de-personalizacion-la-ultima-frontera/)
 <!-- WPTV:END -->
 
 ## Marketing
