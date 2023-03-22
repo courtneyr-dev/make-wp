@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [سلام به مدیران محترم ورد پرس](https://make.wordpress.org/polyglots/2023/03/21/%d8%b3%d9%84%d8%a7%d9%85-%d8%a8%d9%87-%d9%85%d8%af%db%8c%d8%b1%d8%a7%d9%86-%d9%85%d8%ad%d8%aa%d8%b1%d9%85-%d9%88%d8%b1%d8%af-%d9%be%d8%b1%d8%b3/)
+- [Agenda: Weekly Polyglots Chat – March 22, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/21/agenda-weekly-polyglots-chat-march-22-2023-1300-utc/)
 - [I’m the plugin author of…](https://make.wordpress.org/polyglots/2023/03/21/im-the-plugin-author-of-3/)
 - [PTE Request for Dr. Flex](https://make.wordpress.org/polyglots/2023/03/21/pte-request-for-dr-flex/)
 - [PTE/GTE: Request for a translation review &lpar;KR&rpar;](https://make.wordpress.org/polyglots/2023/03/21/pte-gte-request-for-a-translation-review-kr/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ShareMe](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-shareme/)
 - [PTE Request for [Converter for…](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-converter-for/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/03/20/post-title-pte-request-for-60/)
-- [PTE Request for [SLUG TRANSLATER]](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-slug-translater/)
-- [Eror translation in Easy Digital Download file](https://make.wordpress.org/polyglots/2023/03/20/eror-translation-in-easy-digital-download-file/)
 <!-- POLYGLOTS:END -->
 
 ## Support
