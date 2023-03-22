@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Introducing the WordPress Developer Blog](https://wordpress.org/news/2023/03/introducing-the-wordpress-developer-blog/)
 - [WordPress 6.2 Release Candidate 3](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-3/)
 - [WordPress 6.2 Release Candidate 2](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-2/)
 - [WP Briefing: Episode 51: Is Routine a Rut?](https://wordpress.org/news/2023/03/episode-51-is-routine-a-rut/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s Party: Organize your WP20 Celebration!](https://wordpress.org/news/2023/03/lets-party-organize-your-wp20-celebration/)
 - [People of WordPress: Hauwa Abashiya](https://wordpress.org/news/2023/02/people-of-wordpress-hauwa-abashiya/)
 - [WP Briefing: Episode 50: 3 Interesting Trends from WordCamp Asia](https://wordpress.org/news/2023/02/episode-50-3-interesting-trends-from-wordcamp-asia/)
-- [WP Briefing: Episode 49: Everything You Need to Know About the Community Summit!](https://wordpress.org/news/2023/02/episode-49-everything-you-need-to-know-about-the-community-summit/)
 <!-- NEWS:END -->
 
 ## Jobs
