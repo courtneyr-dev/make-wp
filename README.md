@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Verowa Connect](https://make.wordpress.org/polyglots/2023/03/22/pte-request-for-verowa-connect/)
+- [Hi,](https://make.wordpress.org/polyglots/2023/03/22/hi-99/)
 - [سلام به مدیران محترم ورد پرس](https://make.wordpress.org/polyglots/2023/03/21/%d8%b3%d9%84%d8%a7%d9%85-%d8%a8%d9%87-%d9%85%d8%af%db%8c%d8%b1%d8%a7%d9%86-%d9%85%d8%ad%d8%aa%d8%b1%d9%85-%d9%88%d8%b1%d8%af-%d9%be%d8%b1%d8%b3/)
 - [Agenda: Weekly Polyglots Chat – March 22, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/21/agenda-weekly-polyglots-chat-march-22-2023-1300-utc/)
 - [I’m the plugin author of…](https://make.wordpress.org/polyglots/2023/03/21/im-the-plugin-author-of-3/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/21/hi-dear-mentors-we-have-111/)
 - [New translation project: wp20.wordpress.net](https://make.wordpress.org/polyglots/2023/03/21/new-translation-project-wp20-wordpress-net/)
 - [PTE Request for ShareMe](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-shareme/)
-- [PTE Request for [Converter for…](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-converter-for/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/03/20/post-title-pte-request-for-60/)
 <!-- POLYGLOTS:END -->
 
 ## Support
