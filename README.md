@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’d like to upload a…](https://make.wordpress.org/polyglots/2023/03/22/id-like-to-upload-a/)
 - [PTE Request for Verowa Connect](https://make.wordpress.org/polyglots/2023/03/22/pte-request-for-verowa-connect/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/03/22/hi-99/)
 - [سلام به مدیران محترم ورد پرس](https://make.wordpress.org/polyglots/2023/03/21/%d8%b3%d9%84%d8%a7%d9%85-%d8%a8%d9%87-%d9%85%d8%af%db%8c%d8%b1%d8%a7%d9%86-%d9%85%d8%ad%d8%aa%d8%b1%d9%85-%d9%88%d8%b1%d8%af-%d9%be%d8%b1%d8%b3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE/GTE: Request for a translation review &lpar;KR&rpar;](https://make.wordpress.org/polyglots/2023/03/21/pte-gte-request-for-a-translation-review-kr/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/21/hi-dear-mentors-we-have-111/)
 - [New translation project: wp20.wordpress.net](https://make.wordpress.org/polyglots/2023/03/21/new-translation-project-wp20-wordpress-net/)
-- [PTE Request for ShareMe](https://make.wordpress.org/polyglots/2023/03/20/pte-request-for-shareme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
