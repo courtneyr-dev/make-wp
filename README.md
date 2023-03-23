@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for YayMail, YayCurrency, YaySMTP](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-yaymail-yaycurrency-yaysmtp/)
+- [I am an employee of…](https://make.wordpress.org/polyglots/2023/03/23/i-am-an-employee-of/)
 - [I’d like to upload a…](https://make.wordpress.org/polyglots/2023/03/22/id-like-to-upload-a/)
 - [PTE Request for Verowa Connect](https://make.wordpress.org/polyglots/2023/03/22/pte-request-for-verowa-connect/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/03/22/hi-99/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’m the plugin author of…](https://make.wordpress.org/polyglots/2023/03/21/im-the-plugin-author-of-3/)
 - [PTE Request for Dr. Flex](https://make.wordpress.org/polyglots/2023/03/21/pte-request-for-dr-flex/)
 - [PTE/GTE: Request for a translation review &lpar;KR&rpar;](https://make.wordpress.org/polyglots/2023/03/21/pte-gte-request-for-a-translation-review-kr/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/21/hi-dear-mentors-we-have-111/)
-- [New translation project: wp20.wordpress.net](https://make.wordpress.org/polyglots/2023/03/21/new-translation-project-wp20-wordpress-net/)
 <!-- POLYGLOTS:END -->
 
 ## Support
