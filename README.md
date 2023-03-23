@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for The Events…](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-the-events-2/)
+- [PTE Request for Ultimate Member](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-ultimate-member-2/)
 - [PTE request for Awesome Motive localization team members](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-awesome-motive-localization-team-members/)
 - [PTE Request for YayMail, YayCurrency, YaySMTP](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-yaymail-yaycurrency-yaysmtp/)
 - [I am an employee of…](https://make.wordpress.org/polyglots/2023/03/23/i-am-an-employee-of/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2023/03/22/hi-99/)
 - [سلام به مدیران محترم ورد پرس](https://make.wordpress.org/polyglots/2023/03/21/%d8%b3%d9%84%d8%a7%d9%85-%d8%a8%d9%87-%d9%85%d8%af%db%8c%d8%b1%d8%a7%d9%86-%d9%85%d8%ad%d8%aa%d8%b1%d9%85-%d9%88%d8%b1%d8%af-%d9%be%d8%b1%d8%b3/)
 - [Agenda: Weekly Polyglots Chat – March 22, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/21/agenda-weekly-polyglots-chat-march-22-2023-1300-utc/)
-- [I’m the plugin author of…](https://make.wordpress.org/polyglots/2023/03/21/im-the-plugin-author-of-3/)
-- [PTE Request for Dr. Flex](https://make.wordpress.org/polyglots/2023/03/21/pte-request-for-dr-flex/)
 <!-- POLYGLOTS:END -->
 
 ## Support
