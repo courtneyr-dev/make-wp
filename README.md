@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of Contributor Working Group Inaugural Mentorship Chat on March 20, 2023](https://make.wordpress.org/community/2023/03/23/recap-of-contributor-working-group-inaugural-mentorship-chat-on-march-20-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on March 22, 2023](https://make.wordpress.org/community/2023/03/22/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-march-22-2023/)
 - [Meetup Organizer Newsletter: March 2023](https://make.wordpress.org/community/2023/03/21/meetup-organizer-newsletter-march-2023/)
 - [Community Team Goals for 2023 : Chat session](https://make.wordpress.org/community/2023/03/21/community-team-goals-for-2023-chat-session/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Updates to the Mentor Program](https://make.wordpress.org/community/2023/03/13/proposal-updates-to-the-mentor-program/)
 - [Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/community/2023/03/10/launching-the-contributor-working-group-call-for-volunteers/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on March 8, 2023](https://make.wordpress.org/community/2023/03/08/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-march-8-2023/)
-- [Running Funds Outside of WPCS](https://make.wordpress.org/community/2023/03/08/announcing-new-handbook-pages-on/)
 <!-- COMMUNITY:END -->
 
 ## Meta
