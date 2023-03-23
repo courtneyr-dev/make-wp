@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-80/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-8/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-5/)
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-2/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Seeking a Node.js/Next.js Expert to Lead Remote Development Team 20-40 hours a week](https://jobs.wordpress.net/job/seeking-a-node-js-next-js-expert-to-lead-remote-development-team-20-40-hours-a-week/)
 - [WP Page Speed Plugin Developer Required](https://jobs.wordpress.net/job/wp-page-speed-plugin-developer-required/)
 - [WordPress Page Designer](https://jobs.wordpress.net/job/wordpress-page-designer/)
-- [Css capabilities and WordPress](https://jobs.wordpress.net/job/css-capabilities-and-wordpress/)
 <!-- JOBS:END -->
 
 ## Central
