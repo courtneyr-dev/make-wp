@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://wordpress.tv/2023/03/23/updating-a-blogs-design-informal-live-stream-part-2/)
 - [Diseña para WordPress con Penpot: el Figma libre y gratuito](https://wordpress.tv/2023/03/22/disena-para-wordpress-con-penpot-el-figma-libre-y-gratuito/)
 - [Intro to Temaplates &lpar;Block Theme&rpar;](https://wordpress.tv/2023/03/20/intro-to-temaplates-block-theme/)
 - [Haz una web y no la guerra](https://wordpress.tv/2023/03/20/haz-una-web-y-no-la-guerra/)
@@ -362,7 +363,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿WordPress lento? Averigua por qué](https://wordpress.tv/2023/03/12/wordpress-lento-averigua-por-que/)
 - [Accesibilidad en herramientas de diseño](https://wordpress.tv/2023/03/12/accesibilidad-en-herramientas-de-diseno/)
 - [Creando entradas y páginas con el editor de bloques en 2023](https://wordpress.tv/2023/03/12/creando-entradas-y-paginas-con-el-editor-de-bloques-en-2023/)
-- [Donde fueres, no hagas lo que vieres](https://wordpress.tv/2023/03/12/donde-fueres-no-hagas-lo-que-vieres/)
 <!-- WPTV:END -->
 
 ## Marketing
