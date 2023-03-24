@@ -339,12 +339,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to Use Featured Images](https://wordpress.tv/2023/03/24/how-to-use-featured-images/)
 - [Clausura de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/24/clausura-de-wordcamp-torrelodones-2023/)
 - [Let’s code: custom content &amp; custom capabilities](https://wordpress.tv/2023/03/24/lets-code-custom-content-custom-capabilities/)
 - [WP REST API – modifying responses](https://wordpress.tv/2023/03/24/wp-rest-api-modifying-responses/)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://wordpress.tv/2023/03/23/updating-a-blogs-design-informal-live-stream-part-2/)
 - [Diseña para WordPress con Penpot: el Figma libre y gratuito](https://wordpress.tv/2023/03/22/disena-para-wordpress-con-penpot-el-figma-libre-y-gratuito/)
-- [Intro to Temaplates &lpar;Block Theme&rpar;](https://wordpress.tv/2023/03/20/intro-to-temaplates-block-theme/)
+- [Intro to Templates &lpar;Block Theme&rpar;](https://wordpress.tv/2023/03/20/intro-to-temaplates-block-theme/)
 - [Haz una web y no la guerra](https://wordpress.tv/2023/03/20/haz-una-web-y-no-la-guerra/)
 - [Presentación de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/20/presentacion-de-wordcamp-torrelodones-2023/)
 - [Planifica, automatiza y disfruta de la familia](https://wordpress.tv/2023/03/20/planifica-automatiza-y-disfruta-de-la-familia/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Personaliza la apariencia de tu web como un diseñador pro](https://wordpress.tv/2023/03/13/personaliza-la-apariencia-de-tu-web-como-un-disenador-pro/)
 - [Por qué un electricista gallego y un vendedor de juguetes alicantino acaban siendo voluntarios](https://wordpress.tv/2023/03/13/por-que-un-electricista-gallego-y-un-vendedor-de-juguetes-alicantino-acaban-siendo-voluntarios/)
 - [Cómo crear una Academia Online en WordPress y conseguir más de 200 alumnos a la semana](https://wordpress.tv/2023/03/13/como-crear-una-academia-online-en-wordpress-y-conseguir-mas-de-200-alumnos-a-la-semana/)
-- [Google Ads 2023. Cómo hemos cambiado](https://wordpress.tv/2023/03/12/google-ads-2023-como-hemos-cambiado/)
 <!-- WPTV:END -->
 
 ## Marketing
