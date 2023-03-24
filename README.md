@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Build a Blog with WordPress 6.2: A New Release Preview](https://wordpress.tv/2023/03/24/build-a-blog-with-wordpress-6-2-a-new-release-preview/)
 - [How to Use Featured Images](https://wordpress.tv/2023/03/24/how-to-use-featured-images/)
 - [Clausura de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/24/clausura-de-wordcamp-torrelodones-2023/)
 - [Let’s code: custom content &amp; custom capabilities](https://wordpress.tv/2023/03/24/lets-code-custom-content-custom-capabilities/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Quiero una web ¿y ahora qué?](https://wordpress.tv/2023/03/13/quiero-una-web-y-ahora-que/)
 - [Personaliza la apariencia de tu web como un diseñador pro](https://wordpress.tv/2023/03/13/personaliza-la-apariencia-de-tu-web-como-un-disenador-pro/)
 - [Por qué un electricista gallego y un vendedor de juguetes alicantino acaban siendo voluntarios](https://wordpress.tv/2023/03/13/por-que-un-electricista-gallego-y-un-vendedor-de-juguetes-alicantino-acaban-siendo-voluntarios/)
-- [Cómo crear una Academia Online en WordPress y conseguir más de 200 alumnos a la semana](https://wordpress.tv/2023/03/13/como-crear-una-academia-online-en-wordpress-y-conseguir-mas-de-200-alumnos-a-la-semana/)
 <!-- WPTV:END -->
 
 ## Marketing
