@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello!](https://make.wordpress.org/polyglots/2023/03/24/hello-72/)
+- [PTE request for Show modified…](https://make.wordpress.org/polyglots/2023/03/24/pte-request-for-show-modified/)
 - [PTE Request for The Events…](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-the-events-2/)
 - [PTE Request for Ultimate Member](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-ultimate-member-2/)
 - [PTE request for Awesome Motive localization team members](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-awesome-motive-localization-team-members/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’d like to upload a…](https://make.wordpress.org/polyglots/2023/03/22/id-like-to-upload-a/)
 - [PTE Request for Verowa Connect](https://make.wordpress.org/polyglots/2023/03/22/pte-request-for-verowa-connect/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/03/22/hi-99/)
-- [سلام به مدیران محترم ورد پرس](https://make.wordpress.org/polyglots/2023/03/21/%d8%b3%d9%84%d8%a7%d9%85-%d8%a8%d9%87-%d9%85%d8%af%db%8c%d8%b1%d8%a7%d9%86-%d9%85%d8%ad%d8%aa%d8%b1%d9%85-%d9%88%d8%b1%d8%af-%d9%be%d8%b1%d8%b3/)
-- [Agenda: Weekly Polyglots Chat – March 22, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/21/agenda-weekly-polyglots-chat-march-22-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
