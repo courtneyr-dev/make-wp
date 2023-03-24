@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Clausura de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/24/clausura-de-wordcamp-torrelodones-2023/)
 - [Let’s code: custom content &amp; custom capabilities](https://wordpress.tv/2023/03/24/lets-code-custom-content-custom-capabilities/)
 - [WP REST API – modifying responses](https://wordpress.tv/2023/03/24/wp-rest-api-modifying-responses/)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://wordpress.tv/2023/03/23/updating-a-blogs-design-informal-live-stream-part-2/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Por qué un electricista gallego y un vendedor de juguetes alicantino acaban siendo voluntarios](https://wordpress.tv/2023/03/13/por-que-un-electricista-gallego-y-un-vendedor-de-juguetes-alicantino-acaban-siendo-voluntarios/)
 - [Cómo crear una Academia Online en WordPress y conseguir más de 200 alumnos a la semana](https://wordpress.tv/2023/03/13/como-crear-una-academia-online-en-wordpress-y-conseguir-mas-de-200-alumnos-a-la-semana/)
 - [Google Ads 2023. Cómo hemos cambiado](https://wordpress.tv/2023/03/12/google-ads-2023-como-hemos-cambiado/)
-- [¿WordPress lento? Averigua por qué](https://wordpress.tv/2023/03/12/wordpress-lento-averigua-por-que/)
 <!-- WPTV:END -->
 
 ## Marketing
