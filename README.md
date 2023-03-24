@@ -6,13 +6,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Phase 3: Collaboration](https://make.wordpress.org/core/2023/03/24/phase-3-collaboration/)
 - [WordPress 6.2 Release Day Process](https://make.wordpress.org/core/2023/03/23/wordpress-6-2-release-day-process/)
 - [WordPress 6.2 Release Candidate 4](https://make.wordpress.org/core/2023/03/23/wordpress-6-2-release-candidate-4/)
+- [Dev chat Summary, March 22, 2023](https://make.wordpress.org/core/2023/03/23/dev-chat-summary-march-22-2023/)
 - [What’s new in Gutenberg 15.4 &lpar;22 March&rpar;](https://make.wordpress.org/core/2023/03/22/whats-new-in-gutenberg-15-4-22-march/)
 - [A Week in Core – March 20, 2023](https://make.wordpress.org/core/2023/03/21/a-week-in-core-march-20-2023/)
 - [Dev Chat Agenda, Wednesday March 22, 2023](https://make.wordpress.org/core/2023/03/21/dev-chat-agenda-wednesday-march-22-2023/)
 - [Performance Chat Summary: 21 March 2023](https://make.wordpress.org/core/2023/03/21/performance-chat-summary-21-march-2023/)
 - [Performance Chat Agenda: 21 March 2023](https://make.wordpress.org/core/2023/03/21/performance-chat-agenda-21-march-2023/)
 - [Editor Chat Agenda: March 22nd 2023](https://make.wordpress.org/core/2023/03/21/editor-chat-agenda-march-22nd-2023/)
-- [Editor chat summary: March 15th, 2023](https://make.wordpress.org/core/2023/03/19/editor-chat-summary-march-15-2023/)
 <!-- CORE:END -->
 
 ## Design
