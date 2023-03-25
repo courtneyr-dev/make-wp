@@ -508,6 +508,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Volunteer Developer for World  Driving Safety](https://jobs.wordpress.net/job/volunteer-developer-for-world-driving-safety/)
 - [Freelance WordPress / Full Stack Developer](https://jobs.wordpress.net/job/freelance-wordpress-full-stack-developer-2/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-80/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-8/)
@@ -517,7 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-7/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-7/)
 - [Seeking a Node.js/Next.js Expert to Lead Remote Development Team 20-40 hours a week](https://jobs.wordpress.net/job/seeking-a-node-js-next-js-expert-to-lead-remote-development-team-20-40-hours-a-week/)
-- [WP Page Speed Plugin Developer Required](https://jobs.wordpress.net/job/wp-page-speed-plugin-developer-required/)
 <!-- JOBS:END -->
 
 ## Central
