@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for SeatReg](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-seatreg-2/)
 - [PTE Request for AI Engine,…](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-ai-engine/)
 - [Hello!](https://make.wordpress.org/polyglots/2023/03/24/hello-72/)
 - [PTE request for Show modified…](https://make.wordpress.org/polyglots/2023/03/24/pte-request-for-show-modified/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for YayMail, YayCurrency, YaySMTP](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-yaymail-yaycurrency-yaysmtp/)
 - [I am an employee of…](https://make.wordpress.org/polyglots/2023/03/23/i-am-an-employee-of/)
 - [I’d like to upload a…](https://make.wordpress.org/polyglots/2023/03/22/id-like-to-upload-a/)
-- [PTE Request for Verowa Connect](https://make.wordpress.org/polyglots/2023/03/22/pte-request-for-verowa-connect/)
 <!-- POLYGLOTS:END -->
 
 ## Support
