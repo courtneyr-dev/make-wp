@@ -87,6 +87,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team bi-weekly meeting April 4, 2023](https://make.wordpress.org/docs/2023/03/26/agenda-for-docs-team-bi-weekly-meeting-april-4-2023/)
+- [Summary for Docs Team meeting, March 21, 2023](https://make.wordpress.org/docs/2023/03/26/summary-for-docs-team-meeting-march-21-2023/)
 - [Agenda for Docs Team bi-weekly meeting March 21, 2023](https://make.wordpress.org/docs/2023/03/16/agenda-for-docs-team-bi-weekly-meeting-march-21-2023/)
 - [Summary for Docs Team meeting, March 7, 2023](https://make.wordpress.org/docs/2023/03/16/summary-for-docs-team-meeting-march-7-2023/)
 - [Call for volunteers to help with 6.2 end user documentation](https://make.wordpress.org/docs/2023/03/15/call-for-volunteers-to-help-with-6-2-end-user-documentation/)
@@ -95,8 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: HelpHub and DevDocs redesign request](https://make.wordpress.org/docs/2023/02/21/xpost-helphub-and-devdocs-redesign-request/)
 - [Agenda for Docs Team bi-weekly meeting February 21, 2023](https://make.wordpress.org/docs/2023/02/10/agenda-for-docs-team-bi-weekly-meeting-february-21-2023/)
 - [Summary for Docs Team meeting, February 7, 2023](https://make.wordpress.org/docs/2023/02/10/summary-for-docs-team-meeting-february-7-2023/)
-- [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/docs/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
-- [Future plans for HelpHub](https://make.wordpress.org/docs/2023/02/07/future-plans-for-helphub/)
 <!-- DOCS:END -->
 
 ### Support Articles
