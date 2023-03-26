@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for GM Adaptive CSS Grid Columns](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-gm-adaptive-css-grid-columns/)
 - [PTE Request for “Senpai Software – Two-factor authentication &lpar;2FA&rpar; with a key file”](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-senpai-software-two-factor-authentication-2fa-with-a-key-file/)
 - [PTE Request for SeatReg](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-seatreg-2/)
 - [PTE Request for AI Engine,…](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-ai-engine/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Ultimate Member](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-ultimate-member-2/)
 - [PTE request for Awesome Motive localization team members](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-awesome-motive-localization-team-members/)
 - [PTE Request for YayMail, YayCurrency, YaySMTP](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-yaymail-yaycurrency-yaysmtp/)
-- [I am an employee of…](https://make.wordpress.org/polyglots/2023/03/23/i-am-an-employee-of/)
 <!-- POLYGLOTS:END -->
 
 ## Support
