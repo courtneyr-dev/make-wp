@@ -452,6 +452,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Documentation Team Update – March 27, 2023](https://make.wordpress.org/updates/2023/03/27/documentation-team-update-march-27-2023/)
+- [Core Performance Team Update: March 27, 2023](https://make.wordpress.org/updates/2023/03/27/core-performance-team-update-march-27-2023/)
 - [Mobile Team Update – March 25th](https://make.wordpress.org/updates/2023/03/25/mobile-team-update-march-25th/)
 - [Plugin Review Team Update: 20 March 2023](https://make.wordpress.org/updates/2023/03/22/plugin-review-team-update-20-march-2023/)
 - [Support Team Meeting Updates for March 16th](https://make.wordpress.org/updates/2023/03/16/support-team-meeting-updates-for-march-16th-2/)
@@ -460,8 +462,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Review Team: 13 March 2023](https://make.wordpress.org/updates/2023/03/13/plugin-review-team-13-march-2023/)
 - [Test Team Update: 13 March 2023](https://make.wordpress.org/updates/2023/03/13/test-team-update-13-march-2023/)
 - [Documentation Team Update – March 13, 2023](https://make.wordpress.org/updates/2023/03/13/documentation-team-update-march-13-2023/)
-- [X-post: Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/updates/2023/03/10/xpost-launching-the-contributor-working-group-call-for-volunteers/)
-- [Mobile Team Update – March 8th](https://make.wordpress.org/updates/2023/03/09/mobile-team-update-march-8th-2/)
 <!-- UPDATES:END -->
 
 ## Project
