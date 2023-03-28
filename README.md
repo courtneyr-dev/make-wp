@@ -312,6 +312,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Test Chat Summary: 28 March 2023](https://make.wordpress.org/test/2023/03/28/test-chat-summary-28-march-2023/)
 - [X-post: Call for Testing: Plugin Dependencies UX](https://make.wordpress.org/test/2023/03/28/xpost-call-for-testing-plugin-dependencies-ux/)
 - [Hallway Hangout: Let’s chat about All Things Layout](https://make.wordpress.org/test/2023/03/14/hallway-hangout-lets-chat-about-all-things-layout/)
 - [Test Chat Summary: 14 March 2023](https://make.wordpress.org/test/2023/03/14/test-chat-summary-14-march-2023/)
@@ -321,7 +322,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Let’s chat about using Replay.io in the FSE Outreach Program](https://make.wordpress.org/test/2023/02/21/hallway-hangout-lets-chat-about-using-replay-io-in-the-fse-outreach-program/)
 - [X-post: Test Team Update: 20 February 2023](https://make.wordpress.org/test/2023/02/20/xpost-test-team-update-20-february-2023/)
 - [FSE Program Find Your Style Summary](https://make.wordpress.org/test/2023/02/14/fse-program-find-your-style-summary/)
-- [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/test/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 <!-- TEST:END -->
 
 ## TV
