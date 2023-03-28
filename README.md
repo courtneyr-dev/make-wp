@@ -508,6 +508,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Guru](https://jobs.wordpress.net/job/wordpress-guru-12/)
+- [Creating a flexible system BPM](https://jobs.wordpress.net/job/creating-a-flexible-system-bpm/)
 - [Woocommerce shipping system](https://jobs.wordpress.net/job/woocommerce-shipping-system/)
 - [WordPress/WooCommerce Developer](https://jobs.wordpress.net/job/wordpress-woocommerce-developer-6/)
 - [WordPress/WooCommerce Plugin Support Technician](https://jobs.wordpress.net/job/wordpress-woocommerce-plugin-support-technician/)
@@ -516,8 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-80/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-8/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-5/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-2/)
-- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-6/)
 <!-- JOBS:END -->
 
 ## Central
