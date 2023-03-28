@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Introducing a new block editor handbook scrub](https://make.wordpress.org/core/2023/03/28/introducing-a-new-block-editor-handbook-scrub/)
 - [WordPress 6.2 release date updated: March 29, 2023](https://make.wordpress.org/core/2023/03/28/wordpress-6-2-release-date-updated-march-29-2023/)
 - [Performance Chat Summary: 28 March 2023](https://make.wordpress.org/core/2023/03/28/performance-chat-summary-28-march-2023/)
 - [Performance Chat Agenda: 28 March 2023](https://make.wordpress.org/core/2023/03/28/performance-chat-agenda-28-march-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2 Release Day Process](https://make.wordpress.org/core/2023/03/23/wordpress-6-2-release-day-process/)
 - [WordPress 6.2 Release Candidate 4](https://make.wordpress.org/core/2023/03/23/wordpress-6-2-release-candidate-4/)
 - [Dev chat Summary, March 22, 2023](https://make.wordpress.org/core/2023/03/23/dev-chat-summary-march-22-2023/)
-- [What’s new in Gutenberg 15.4 &lpar;22 March&rpar;](https://make.wordpress.org/core/2023/03/22/whats-new-in-gutenberg-15-4-22-march/)
 <!-- CORE:END -->
 
 ## Design
