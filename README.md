@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for BAKKBONE Florist Companion, BAKKBONE Billing at Registration, and Merchant Warrior PAY.Link for WooCommerce](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-bakkbone-florist-companion-bakkbone-billing-at-registration-and-merchant-warrior-pay-link-for-woocommerce/)
+- [PTE Request for Video Callout](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-video-callout/)
+- [PTE Request for stancer](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-stancer/)
+- [PTE Request for Enwikuna License Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-enwikuna-license-manager-for-woocommerce/)
 - [Hi, we created a plugin…](https://make.wordpress.org/polyglots/2023/03/27/hi-we-created-a-plugin/)
 - [PTE Request for GM Adaptive CSS Grid Columns](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-gm-adaptive-css-grid-columns/)
 - [PTE Request for “Senpai Software – Two-factor authentication &lpar;2FA&rpar; with a key file”](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-senpai-software-two-factor-authentication-2fa-with-a-key-file/)
 - [PTE Request for SeatReg](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-seatreg-2/)
 - [PTE Request for AI Engine,…](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-ai-engine/)
 - [Hello!](https://make.wordpress.org/polyglots/2023/03/24/hello-72/)
-- [PTE request for Show modified…](https://make.wordpress.org/polyglots/2023/03/24/pte-request-for-show-modified/)
-- [PTE Request for The Events…](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-the-events-2/)
-- [PTE Request for Ultimate Member](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-ultimate-member-2/)
-- [PTE request for Awesome Motive localization team members](https://make.wordpress.org/polyglots/2023/03/23/pte-request-for-awesome-motive-localization-team-members/)
 <!-- POLYGLOTS:END -->
 
 ## Support
