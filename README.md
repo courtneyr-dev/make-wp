@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Γνωριμία με την ομάδα Learn](https://learn.wordpress.org/?meeting=%ce%b3%ce%bd%cf%89%cf%81%ce%b9%ce%bc%ce%af%ce%b1-%ce%bc%ce%b5-%cf%84%ce%b7%ce%bd-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-learn)
 - [How do you Learn WordPress?](https://learn.wordpress.org/?meeting=how-do-you-learn-wordpress)
 - [Exploring some of the new 6.2 WordPress features](https://learn.wordpress.org/?meeting=exploring-some-of-the-new-6-2-wordpress-features)
 - [How to create a website on mobile &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-2)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live stream: Bring me your block development issues!](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-block-development-issues)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.3](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-3)
 - [Live stream: Wrapping up the OpenAI integrated block that generates images](https://learn.wordpress.org/?meeting=live-stream-wrapping-up-the-openai-integrated-block-that-generates-images)
-- [Organizing Diverse &amp; Inclusive WordPress Events AMER/EMEA](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-amer-emea)
 <!-- SLS:END -->
 
 ## Test
