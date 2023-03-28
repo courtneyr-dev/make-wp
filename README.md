@@ -511,13 +511,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Freelance WordPress Developer &lpar;with support specialism&rpar;](https://jobs.wordpress.net/job/freelance-wordpress-developer-with-support-specialism/)
 - [PHP Software Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/php-software-developer-wordpress/)
 - [Senior Plugin Developer for Accessibility Checker](https://jobs.wordpress.net/job/senior-plugin-developer-for-accessibility-checker/)
-- [WordPress Guru](https://jobs.wordpress.net/job/wordpress-guru-12/)
 - [Creating a flexible system BPM](https://jobs.wordpress.net/job/creating-a-flexible-system-bpm/)
 - [Woocommerce shipping system](https://jobs.wordpress.net/job/woocommerce-shipping-system/)
 - [WordPress/WooCommerce Developer](https://jobs.wordpress.net/job/wordpress-woocommerce-developer-6/)
 - [WordPress/WooCommerce Plugin Support Technician](https://jobs.wordpress.net/job/wordpress-woocommerce-plugin-support-technician/)
 - [Volunteer Developer for World  Driving Safety](https://jobs.wordpress.net/job/volunteer-developer-for-world-driving-safety/)
 - [Freelance WordPress / Full Stack Developer](https://jobs.wordpress.net/job/freelance-wordpress-full-stack-developer-2/)
+- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-80/)
 <!-- JOBS:END -->
 
 ## Central
