@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Available Styles Options](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/styles-versions/)
-- [Overusing snapshots](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/overusing-snapshots/)
-- [Migration guide](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/migration/)
-- [End-to-End Testing](https://developer.wordpress.org/block-editor/contributors/code/testing-overview/e2e/)
-- [CircularOptionPicker](https://developer.wordpress.org/block-editor/reference-guides/components/circular-option-picker/)
-- [NavigatorToParentButton](https://developer.wordpress.org/block-editor/reference-guides/components/navigator-to-parent-button/)
-- [@wordpress/private-apis](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-private-apis/)
-- [Custom block styles](https://developer.wordpress.org/themes/advanced-topics/custom-block-styles/)
-- [Common Vulnerabilities](https://developer.wordpress.org/apis/security/common-vulnerabilities/)
-- [User Roles and Capabilities](https://developer.wordpress.org/apis/security/user-roles-and-capabilities/)
+- [WP_Image_Editor_Imagick::set_imagick_time_limit&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_image_editor_imagick/set_imagick_time_limit/)
+- [WP_Theme_JSON_Resolver::recursively_iterate_json&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_theme_json_resolver/recursively_iterate_json/)
+- [wp_theme_has_theme_json&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_theme_has_theme_json/)
+- [wp_clean_theme_json_cache&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_clean_theme_json_cache/)
+- [WP_HTML_Tag_Processor::matches&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/matches/)
+- [wp_get_global_styles_custom_css&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_global_styles_custom_css/)
+- [WP_HTML_Tag_Processor::__toString&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/__tostring/)
+- [WP_HTML_Tag_Processor::remove_attribute&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/remove_attribute/)
+- [WP_HTML_Tag_Processor::is_tag_closer&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/is_tag_closer/)
+- [WP_HTML_Tag_Processor::get_tag&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/get_tag/)
 <!-- DEVHUB:END -->
 
 ## Themes
