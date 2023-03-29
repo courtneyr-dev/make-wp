@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for all in PLUGIN](https://make.wordpress.org/polyglots/2023/03/29/pte-request-for-all-in-plugin/)
+- [Adding ChatGPT and DeepL in the Translation Memory](https://make.wordpress.org/polyglots/2023/03/29/adding-chatgpt-and-deepl-in-the-translation-memory/)
 - [Agenda: Weekly Polyglots Chat – March 29, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/29/agenda-weekly-polyglots-chat-march-29-2023-1300-utc/)
 - [PTE Request for BAKKBONE Florist Companion, BAKKBONE Billing at Registration, and Merchant Warrior PAY.Link for WooCommerce](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-bakkbone-florist-companion-bakkbone-billing-at-registration-and-merchant-warrior-pay-link-for-woocommerce/)
 - [PTE Request for Video Callout](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-video-callout/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, we created a plugin…](https://make.wordpress.org/polyglots/2023/03/27/hi-we-created-a-plugin/)
 - [PTE Request for GM Adaptive CSS Grid Columns](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-gm-adaptive-css-grid-columns/)
 - [PTE Request for “Senpai Software – Two-factor authentication &lpar;2FA&rpar; with a key file”](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-senpai-software-two-factor-authentication-2fa-with-a-key-file/)
-- [PTE Request for SeatReg](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-seatreg-2/)
-- [PTE Request for AI Engine,…](https://make.wordpress.org/polyglots/2023/03/25/pte-request-for-ai-engine/)
 <!-- POLYGLOTS:END -->
 
 ## Support
