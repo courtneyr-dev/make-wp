@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to use the WordPress Stylebook with your block theme](https://wordpress.tv/2023/03/29/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
 - [Build a Blog with WordPress 6.2: A New Release Preview](https://wordpress.tv/2023/03/24/build-a-blog-with-wordpress-6-2-a-new-release-preview/)
 - [How to Use Featured Images](https://wordpress.tv/2023/03/24/how-to-use-featured-images/)
 - [Clausura de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/24/clausura-de-wordcamp-torrelodones-2023/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Saca todo el partido al inspector de Firefox y Chrome](https://wordpress.tv/2023/03/13/saca-todo-el-partido-al-inspector-de-firefox-y-chrome/)
 - [Quiero una web ¿y ahora qué?](https://wordpress.tv/2023/03/13/quiero-una-web-y-ahora-que/)
 - [Personaliza la apariencia de tu web como un diseñador pro](https://wordpress.tv/2023/03/13/personaliza-la-apariencia-de-tu-web-como-un-disenador-pro/)
-- [Por qué un electricista gallego y un vendedor de juguetes alicantino acaban siendo voluntarios](https://wordpress.tv/2023/03/13/por-que-un-electricista-gallego-y-un-vendedor-de-juguetes-alicantino-acaban-siendo-voluntarios/)
 <!-- WPTV:END -->
 
 ## Marketing
