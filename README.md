@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [WP_Image_Editor_Imagick::set_imagick_time_limit&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_image_editor_imagick/set_imagick_time_limit/)
-- [WP_Theme_JSON_Resolver::recursively_iterate_json&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_theme_json_resolver/recursively_iterate_json/)
-- [wp_theme_has_theme_json&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_theme_has_theme_json/)
-- [wp_clean_theme_json_cache&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_clean_theme_json_cache/)
-- [WP_HTML_Tag_Processor::matches&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/matches/)
-- [wp_get_global_styles_custom_css&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_global_styles_custom_css/)
-- [WP_HTML_Tag_Processor::__toString&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/__tostring/)
-- [WP_HTML_Tag_Processor::remove_attribute&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/remove_attribute/)
-- [WP_HTML_Tag_Processor::is_tag_closer&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/is_tag_closer/)
-- [WP_HTML_Tag_Processor::get_tag&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/get_tag/)
+- [_make_clickable_rel_attr&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_make_clickable_rel_attr/)
+- [comment_reply_to_unapproved_comment](https://developer.wordpress.org/reference/hooks/comment_reply_to_unapproved_comment/)
+- [WP_Term_Query::generate_cache_key&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_term_query/generate_cache_key/)
+- [wp_get_word_count_type&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_word_count_type/)
+- [switch_to_user_locale&lpar;&rpar;](https://developer.wordpress.org/reference/functions/switch_to_user_locale/)
+- [_wp_reset_invalid_menu_item_parent&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_reset_invalid_menu_item_parent/)
+- [pre_wp_load_alloptions](https://developer.wordpress.org/reference/hooks/pre_wp_load_alloptions/)
+- [_wp_block_theme_register_classic_sidebars&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_block_theme_register_classic_sidebars/)
+- [post_search_columns](https://developer.wordpress.org/reference/hooks/post_search_columns/)
+- [WP_Theme_JSON::remove_indirect_properties&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_theme_json/remove_indirect_properties/)
 <!-- DEVHUB:END -->
 
 ## Themes
