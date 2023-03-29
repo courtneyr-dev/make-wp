@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [How to use the WordPress Stylebook with your block theme](https://learn.wordpress.org/tutorial/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
 - [How to use featured images](https://learn.wordpress.org/tutorial/32894-2/)
 - [WordPress REST API – Modifying responses](https://learn.wordpress.org/tutorial/wordpress-rest-api-modifying-responses/)
 - [What kind of WordPress theme do I have: classic, block, or something else?](https://learn.wordpress.org/tutorial/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Key to Locking Blocks](https://learn.wordpress.org/tutorial/the-key-to-locking-blocks/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [Streamline your Block Theme development with Create Block Theme](https://learn.wordpress.org/tutorial/streamline-your-block-theme-development-with-create-block-theme/)
-- [Trabalhando com estilos globais](https://learn.wordpress.org/tutorial/trabalhando-com-estilos-globais/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
