@@ -549,12 +549,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Finland](https://central.wordcamp.org/wordcamps/wordcamp-finland-3/)
 - [WordCamp Torino](https://central.wordcamp.org/wordcamps/wordcamp-turin-italy-2/)
 - [WordCamp Vienna](https://central.wordcamp.org/wordcamps/wordcamp-vienna-4/)
+- [WordCamp Sofia, Bulgaria](https://central.wordcamp.org/wordcamps/wordcamp-sofia-2023/)
 - [WordCamp Kerala 2023](https://central.wordcamp.org/wordcamps/wordcamp-kerala-india/)
 - [WordCamp Chiclana](https://central.wordcamp.org/wordcamps/wordcamp-chiclana-2023/)
 - [WordCamp Apatin](https://central.wordcamp.org/wordcamps/wordcamp-apatin/)
 - [WordCamp Torrelodones 2023](https://central.wordcamp.org/wordcamps/wordcamp-torrelodones-madrid-spain/)
 - [WordCamp Lisboa](https://central.wordcamp.org/wordcamps/wordcamp-lisboa-5/)
-- [WordCamp Floripa 2022](https://central.wordcamp.org/wordcamps/wordcamp-floripa-santa-catarina-brasil/)
 - [WordCamp Bogotá, Colombia](https://central.wordcamp.org/wordcamps/wordcamp-bogota-colombia-2/)
 <!-- WordCamp:END -->
 
