@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Proposal: The Interactivity API – A better developer experience in building interactive blocks](https://make.wordpress.org/core/2023/03/30/proposal-the-interactivity-api-a-better-developer-experience-in-building-interactive-blocks/)
 - [Core Editor chat summary: 29th March 2023](https://make.wordpress.org/core/2023/03/30/core-editor-chat-summary-29th-march-2023/)
 - [March 29 Dev Chat is canceled in favor of WordPress 6.2 final release party](https://make.wordpress.org/core/2023/03/28/march-29-dev-chat-is-canceled-in-favor-of-wordpress-6-2-final-release-party/)
 - [Call for Testing: Plugin Dependencies UX](https://make.wordpress.org/core/2023/03/28/call-for-testing-plugin-dependencies-ux/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 28 March 2023](https://make.wordpress.org/core/2023/03/28/performance-chat-agenda-28-march-2023/)
 - [Editor chat summary: March 22nd, 2023](https://make.wordpress.org/core/2023/03/27/editor-chat-summary-march-22nd-2023/)
 - [Editor Chat Agenda: March 29th 2023](https://make.wordpress.org/core/2023/03/27/editor-chat-agenda-march-29th-2023/)
-- [Phase 3: Collaboration](https://make.wordpress.org/core/2023/03/24/phase-3-collaboration/)
 <!-- CORE:END -->
 
 ## Design
