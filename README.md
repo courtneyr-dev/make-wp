@@ -508,6 +508,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Content Marketer](https://jobs.wordpress.net/job/content-marketer/)
+- [SEO, Web Developer and Programmer](https://jobs.wordpress.net/job/seo-web-developer-and-programmer/)
+- [WordPress -Display nearby posts based on address](https://jobs.wordpress.net/job/wordpress-display-nearby-posts-based-on-address/)
 - [Freelance WordPress Developer &lpar;with support specialism&rpar;](https://jobs.wordpress.net/job/freelance-wordpress-developer-with-support-specialism/)
 - [PHP Software Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/php-software-developer-wordpress/)
 - [Senior Plugin Developer for Accessibility Checker](https://jobs.wordpress.net/job/senior-plugin-developer-for-accessibility-checker/)
@@ -515,9 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Woocommerce shipping system](https://jobs.wordpress.net/job/woocommerce-shipping-system/)
 - [WordPress/WooCommerce Developer](https://jobs.wordpress.net/job/wordpress-woocommerce-developer-6/)
 - [WordPress/WooCommerce Plugin Support Technician](https://jobs.wordpress.net/job/wordpress-woocommerce-plugin-support-technician/)
-- [Volunteer Developer for World  Driving Safety](https://jobs.wordpress.net/job/volunteer-developer-for-world-driving-safety/)
-- [Freelance WordPress / Full Stack Developer](https://jobs.wordpress.net/job/freelance-wordpress-full-stack-developer-2/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-80/)
 <!-- JOBS:END -->
 
 ## Central
