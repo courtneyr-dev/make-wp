@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/31/hi-dear-mentors-we-have-113/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/31/hi-dear-mentors-we-have-112/)
 - [PTE Request for Video Gallery for WooCommerce](https://make.wordpress.org/polyglots/2023/03/31/pte-request-for-video-gallery-for-woocommerce/)
 - [PTE Request for FusePond –…](https://make.wordpress.org/polyglots/2023/03/30/pte-request-for-fusepond/)
 - [PTE Request for Deliver via Shipos for WooCommerce](https://make.wordpress.org/polyglots/2023/03/30/pte-request-for-deliver-via-shipos-for-woocommerce/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – March 29, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/29/agenda-weekly-polyglots-chat-march-29-2023-1300-utc/)
 - [PTE Request for BAKKBONE Florist Companion, BAKKBONE Billing at Registration, and Merchant Warrior PAY.Link for WooCommerce](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-bakkbone-florist-companion-bakkbone-billing-at-registration-and-merchant-warrior-pay-link-for-woocommerce/)
 - [PTE Request for Video Callout](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-video-callout/)
-- [PTE Request for stancer](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-stancer/)
-- [PTE Request for Enwikuna License Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-enwikuna-license-manager-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
