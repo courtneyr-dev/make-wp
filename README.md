@@ -508,6 +508,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Website design + developer](https://jobs.wordpress.net/job/website-design-developer-2/)
 - [Content Marketer](https://jobs.wordpress.net/job/content-marketer/)
 - [SEO, Web Developer and Programmer](https://jobs.wordpress.net/job/seo-web-developer-and-programmer/)
 - [WordPress -Display nearby posts based on address](https://jobs.wordpress.net/job/wordpress-display-nearby-posts-based-on-address/)
@@ -517,7 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a flexible system BPM](https://jobs.wordpress.net/job/creating-a-flexible-system-bpm/)
 - [Woocommerce shipping system](https://jobs.wordpress.net/job/woocommerce-shipping-system/)
 - [WordPress/WooCommerce Developer](https://jobs.wordpress.net/job/wordpress-woocommerce-developer-6/)
-- [WordPress/WooCommerce Plugin Support Technician](https://jobs.wordpress.net/job/wordpress-woocommerce-plugin-support-technician/)
 <!-- JOBS:END -->
 
 ## Central
