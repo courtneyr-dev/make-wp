@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [WordPress REST API – custom routes &amp; endpoints](https://learn.wordpress.org/tutorial/wordpress-rest-api-custom-routes-endpoints/)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 - [How to use the WordPress Stylebook with your block theme](https://learn.wordpress.org/tutorial/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
 - [How to use featured images](https://learn.wordpress.org/tutorial/32894-2/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Theme Template Tour](https://learn.wordpress.org/tutorial/wordpress-theme-template-tour/)
 - [Manage your block theme fonts with Create Block Theme](https://learn.wordpress.org/tutorial/manage-your-block-theme-fonts-with-create-block-theme/)
 - [The Key to Locking Blocks](https://learn.wordpress.org/tutorial/the-key-to-locking-blocks/)
-- [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
