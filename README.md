@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress REST API – custom routes and endpoints](https://wordpress.tv/2023/03/31/wordpress-rest-api-custom-routes-and-endpoints/)
 - [Caching Demystified: A Guide for the Non-Techie](https://wordpress.tv/2023/03/29/caching-demystified-a-guide-for-the-non-techie/)
 - [Intro to the Site Editor and Template Editor](https://wordpress.tv/2023/03/29/intro-to-the-site-editor-and-template-editor-3/)
 - [How to use the WordPress Stylebook with your block theme](https://wordpress.tv/2023/03/29/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Designers &amp; developers: Cats &amp; dogs living in harmony](https://wordpress.tv/2023/03/14/designers-developers-cats-dogs-living-in-harmony/)
 - [Block Patterns — vorbereitete Block-Kombination mit Beispielinhalten” &lpar;Update 2023&rpar;](https://wordpress.tv/2023/03/14/block-patterns-vorbereitete-block-kombination-mit-beispielinhalten-update-2023/)
 - [Introducción al nuevo sitio de Documentación](https://wordpress.tv/2023/03/13/introduccion-al-nuevo-sitio-de-documentacion/)
-- [Saca todo el partido al inspector de Firefox y Chrome](https://wordpress.tv/2023/03/13/saca-todo-el-partido-al-inspector-de-firefox-y-chrome/)
 <!-- WPTV:END -->
 
 ## Marketing
