@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Video Gallery for WooCommerce](https://make.wordpress.org/polyglots/2023/03/31/pte-request-for-video-gallery-for-woocommerce/)
 - [PTE Request for FusePond –…](https://make.wordpress.org/polyglots/2023/03/30/pte-request-for-fusepond/)
 - [PTE Request for Deliver via Shipos for WooCommerce](https://make.wordpress.org/polyglots/2023/03/30/pte-request-for-deliver-via-shipos-for-woocommerce/)
 - [PTE Request for all in PLUGIN](https://make.wordpress.org/polyglots/2023/03/29/pte-request-for-all-in-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Video Callout](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-video-callout/)
 - [PTE Request for stancer](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-stancer/)
 - [PTE Request for Enwikuna License Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-enwikuna-license-manager-for-woocommerce/)
-- [Hi, we created a plugin…](https://make.wordpress.org/polyglots/2023/03/27/hi-we-created-a-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
