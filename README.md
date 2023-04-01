@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [クラシックエディターからブロックエディターに移行するノウハウ](https://wordpress.tv/2023/04/01/%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ab/)
 - [How do you Learn WordPress?](https://wordpress.tv/2023/03/31/how-do-you-learn-wordpress/)
 - [WordPress REST API – custom routes and endpoints](https://wordpress.tv/2023/03/31/wordpress-rest-api-custom-routes-and-endpoints/)
 - [Caching Demystified: A Guide for the Non-Techie](https://wordpress.tv/2023/03/29/caching-demystified-a-guide-for-the-non-techie/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Haz match con tus clientes](https://wordpress.tv/2023/03/15/haz-match-con-tus-clientes/)
 - [Negociación eficiente para profesionales de WordPress](https://wordpress.tv/2023/03/15/negociacion-eficiente-para-profesionales-de-wordpress/)
 - [Designers &amp; developers: Cats &amp; dogs living in harmony](https://wordpress.tv/2023/03/14/designers-developers-cats-dogs-living-in-harmony/)
-- [Block Patterns — vorbereitete Block-Kombination mit Beispielinhalten” &lpar;Update 2023&rpar;](https://wordpress.tv/2023/03/14/block-patterns-vorbereitete-block-kombination-mit-beispielinhalten-update-2023/)
 <!-- WPTV:END -->
 
 ## Marketing
