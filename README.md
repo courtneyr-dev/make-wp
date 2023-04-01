@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: What’s new on Learn WordPress in March 2023](https://make.wordpress.org/community/2023/04/01/xpost-whats-new-on-learn-wordpress-in-march-2023/)
 - [Community Team Goals for 2023 : 2nd Chat session](https://make.wordpress.org/community/2023/03/30/community-team-goals-for-2023-2nd-chat-session/)
 - [Recap of Contributor Working Group Inaugural Mentorship Chat on March 20, 2023](https://make.wordpress.org/community/2023/03/23/recap-of-contributor-working-group-inaugural-mentorship-chat-on-march-20-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on March 22, 2023](https://make.wordpress.org/community/2023/03/22/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-march-22-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Goals for 2023 : Next Step](https://make.wordpress.org/community/2023/03/17/community-team-goals-for-2023-next-step/)
 - [Proposal: Combining Roles to Create a New Contributor Ladder](https://make.wordpress.org/community/2023/03/13/combining-roles-to-create-a-new-contributor-ladder/)
 - [Proposal: Updates to the Mentor Program](https://make.wordpress.org/community/2023/03/13/proposal-updates-to-the-mentor-program/)
-- [Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/community/2023/03/10/launching-the-contributor-working-group-call-for-volunteers/)
 <!-- COMMUNITY:END -->
 
 ## Meta
