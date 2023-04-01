@@ -283,6 +283,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [A Guide to Open Source and WordPress &lpar;Timezone 2&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-timezone-2)
+- [A Guide to Open Source and WordPress](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.4](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-4)
 - [Γνωριμία με την ομάδα Learn](https://learn.wordpress.org/?meeting=%ce%b3%ce%bd%cf%89%cf%81%ce%b9%ce%bc%ce%af%ce%b1-%ce%bc%ce%b5-%cf%84%ce%b7%ce%bd-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-learn)
 - [How do you Learn WordPress?](https://learn.wordpress.org/?meeting=how-do-you-learn-wordpress)
@@ -306,8 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Watch Party: 6.2 Product Demo](https://learn.wordpress.org/?meeting=watch-party-6-2-product-demo)
 - [Let’s code: Preventing CSRF Security Vulnerabilities](https://learn.wordpress.org/?meeting=lets-code-preventing-csrf-security-vulnerabilities)
 - [WP dev livestream: Developing WordPress user roles and capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-wordpress-user-roles-and-capabilities)
-- [Live stream: Bring me your block development issues!](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-block-development-issues)
-- [Live stream: Reviewing developer-focused features in Gutenberg 15.3](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-3)
 <!-- SLS:END -->
 
 ## Test
