@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Zenzero Theme](https://make.wordpress.org/polyglots/2023/04/01/pte-request-for-zenzero-theme/)
+- [PTE Request for Divi Content…](https://make.wordpress.org/polyglots/2023/04/01/pte-request-for-divi-content/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/04/01/hi-100/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/31/hi-dear-mentors-we-have-113/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/31/hi-dear-mentors-we-have-112/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Deliver via Shipos for WooCommerce](https://make.wordpress.org/polyglots/2023/03/30/pte-request-for-deliver-via-shipos-for-woocommerce/)
 - [PTE Request for all in PLUGIN](https://make.wordpress.org/polyglots/2023/03/29/pte-request-for-all-in-plugin/)
 - [Adding ChatGPT and DeepL in the Translation Memory](https://make.wordpress.org/polyglots/2023/03/29/adding-chatgpt-and-deepl-in-the-translation-memory/)
-- [Agenda: Weekly Polyglots Chat – March 29, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/03/29/agenda-weekly-polyglots-chat-march-29-2023-1300-utc/)
-- [PTE Request for BAKKBONE Florist Companion, BAKKBONE Billing at Registration, and Merchant Warrior PAY.Link for WooCommerce](https://make.wordpress.org/polyglots/2023/03/28/pte-request-for-bakkbone-florist-companion-bakkbone-billing-at-registration-and-merchant-warrior-pay-link-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
