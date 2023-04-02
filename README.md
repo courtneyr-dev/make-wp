@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Add media and Openverse images to your content directly from the Inserter](https://learn.wordpress.org/tutorial/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [WordPress REST API – custom routes &amp; endpoints](https://learn.wordpress.org/tutorial/wordpress-rest-api-custom-routes-endpoints/)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 - [How to use the WordPress Stylebook with your block theme](https://learn.wordpress.org/tutorial/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Displaying the Comments block in Block Themes](https://learn.wordpress.org/tutorial/displaying-the-post-comments-block-in-block-themes/)
 - [WordPress Theme Template Tour](https://learn.wordpress.org/tutorial/wordpress-theme-template-tour/)
 - [Manage your block theme fonts with Create Block Theme](https://learn.wordpress.org/tutorial/manage-your-block-theme-fonts-with-create-block-theme/)
-- [The Key to Locking Blocks](https://learn.wordpress.org/tutorial/the-key-to-locking-blocks/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
