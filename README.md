@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Add media and Openverse images to your content directly from the Inserter](https://wordpress.tv/2023/04/02/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [How to update a video tutorial for learn.wordpress.org](https://wordpress.tv/2023/04/02/how-to-update-a-video-tutorial-for-learn-wordpress-org/)
 - [Γνωριμία με την ομάδα Training](https://wordpress.tv/2023/04/01/%ce%b3%ce%bd%cf%89%cf%81%ce%b9%ce%bc%ce%af%ce%b1-%ce%bc%ce%b5-%cf%84%ce%b7%ce%bd-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-training/)
 - [クラシックエディターからブロックエディターに移行するノウハウ](https://wordpress.tv/2023/04/01/%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ab/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP REST API – custom fields, authentication, and API testing](https://wordpress.tv/2023/03/17/wp-rest-api-custom-fields-authentication-and-api-testing/)
 - [Customizing the Single Template and 404 Template](https://wordpress.tv/2023/03/16/customizing-the-single-template-and-404-template/)
 - [Best design practices to create engagement](https://wordpress.tv/2023/03/16/best-design-practices-to-create-engagement-2/)
-- [Haz match con tus clientes](https://wordpress.tv/2023/03/15/haz-match-con-tus-clientes/)
 <!-- WPTV:END -->
 
 ## Marketing
