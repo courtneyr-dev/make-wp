@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [தீம்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/%e0%ae%a4%e0%af%80%e0%ae%ae%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%af%86%e0%ae%9f%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4/)
 - [Pagine vs. articoli](https://learn.wordpress.org/lesson-plan/pagine-vs-articoli/)
 - [Cosa fare quando non ti ricordi la password](https://learn.wordpress.org/lesson-plan/cosa-fare-quando-non-ti-ricordi-la-password/)
 - [டாஷ்போர்டு மேலோட்டம்](https://learn.wordpress.org/lesson-plan/ta-dashboard-overview/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Εισαγωγή στoυς πιο κοινούς τύπους πρόσθετων](https://learn.wordpress.org/lesson-plan/%ce%b5%ce%b9%cf%83%ce%b1%ce%b3%cf%89%ce%b3%ce%ae-%cf%83%cf%84o%cf%85%cf%82-%cf%80%ce%b9%ce%bf-%ce%ba%ce%bf%ce%b9%ce%bd%ce%bf%cf%8d%cf%82-%cf%84%cf%8d%cf%80%ce%bf%cf%85%cf%82-%cf%80%cf%81%ce%bf%cf%83/)
 - [Locking Blocks in the Full Site Editor](https://learn.wordpress.org/lesson-plan/locking-blocks-in-the-full-site-editor/)
 - [Create a Basic Child Theme for Block Themes](https://learn.wordpress.org/lesson-plan/create-a-basic-child-theme-for-block-themes/)
-- [WebP images in WordPress](https://learn.wordpress.org/lesson-plan/webp-images-in-wordpress/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
