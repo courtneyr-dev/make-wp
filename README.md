@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE Request for Jetpack plugins](https://make.wordpress.org/polyglots/2023/04/03/clpte-request-for-jetpack-plugins-2/)
 - [PTE Request for Zenzero Theme](https://make.wordpress.org/polyglots/2023/04/01/pte-request-for-zenzero-theme/)
 - [PTE Request for Divi Content…](https://make.wordpress.org/polyglots/2023/04/01/pte-request-for-divi-content/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/04/01/hi-100/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for FusePond –…](https://make.wordpress.org/polyglots/2023/03/30/pte-request-for-fusepond/)
 - [PTE Request for Deliver via Shipos for WooCommerce](https://make.wordpress.org/polyglots/2023/03/30/pte-request-for-deliver-via-shipos-for-woocommerce/)
 - [PTE Request for all in PLUGIN](https://make.wordpress.org/polyglots/2023/03/29/pte-request-for-all-in-plugin/)
-- [Adding ChatGPT and DeepL in the Translation Memory](https://make.wordpress.org/polyglots/2023/03/29/adding-chatgpt-and-deepl-in-the-translation-memory/)
 <!-- POLYGLOTS:END -->
 
 ## Support
