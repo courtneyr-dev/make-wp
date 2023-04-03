@@ -494,6 +494,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [The Month in WordPress – March 2023](https://wordpress.org/news/2023/04/the-month-in-wordpress-march-2023/)
 - [WordPress 6.2 “Dolphy”](https://wordpress.org/news/2023/03/dolphy/)
 - [WP Briefing: Episode 52: Workflows and Phase Three Visioning with Special Guest Héctor Prieto](https://wordpress.org/news/2023/03/episode-52-phase-three-with-hector-prieto/)
 - [Introducing the WordPress Developer Blog](https://wordpress.org/news/2023/03/introducing-the-wordpress-developer-blog/)
@@ -503,7 +504,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2 Release Candidate 1](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-1/)
 - [Your WordPress 6.2 Preview](https://wordpress.org/news/2023/03/your-wordpress-6-2-preview/)
 - [The Month in WordPress – February 2023](https://wordpress.org/news/2023/03/the-month-in-wordpress-february-2023/)
-- [Let’s Party: Organize your WP20 Celebration!](https://wordpress.org/news/2023/03/lets-party-organize-your-wp20-celebration/)
 <!-- NEWS:END -->
 
 ## Jobs
