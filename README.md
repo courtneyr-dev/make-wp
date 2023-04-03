@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Migrate a plugin to blocks &lpar;EMEA / Asia-Pacific&rpar;](https://wordpress.tv/2023/04/03/developer-hours-migrate-a-plugin-to-blocks-emea-asia-pacific/)
 - [Add media and Openverse images to your content directly from the Inserter](https://wordpress.tv/2023/04/02/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [How to update a video tutorial for learn.wordpress.org](https://wordpress.tv/2023/04/02/how-to-update-a-video-tutorial-for-learn-wordpress-org/)
 - [Γνωριμία με την ομάδα Training](https://wordpress.tv/2023/04/01/%ce%b3%ce%bd%cf%89%cf%81%ce%b9%ce%bc%ce%af%ce%b1-%ce%bc%ce%b5-%cf%84%ce%b7%ce%bd-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-training/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: developing WordPress user roles and capabilities](https://wordpress.tv/2023/03/17/lets-code-developing-wordpress-user-roles-and-capabilities/)
 - [WP REST API – custom fields, authentication, and API testing](https://wordpress.tv/2023/03/17/wp-rest-api-custom-fields-authentication-and-api-testing/)
 - [Customizing the Single Template and 404 Template](https://wordpress.tv/2023/03/16/customizing-the-single-template-and-404-template/)
-- [Best design practices to create engagement](https://wordpress.tv/2023/03/16/best-design-practices-to-create-engagement-2/)
 <!-- WPTV:END -->
 
 ## Marketing
