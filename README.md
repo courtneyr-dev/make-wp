@@ -283,6 +283,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team)
+- [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=33114)
+- [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-2-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 4](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-4)
 - [WP dev livestream: WordPress request lifecycle](https://learn.wordpress.org/?meeting=the-wordpress-request-lifecycle-2)
 - [The WordPress request lifecycle](https://learn.wordpress.org/?meeting=the-wordpress-request-lifecycle)
@@ -305,9 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: developing user roles and capabilities](https://learn.wordpress.org/?meeting=lets-code-developing-user-roles-and-capabilities)
 - [WP dev livestream: Developing WordPress user roles and capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-wordpress-user-roles-and-capabilities-2)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 3](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-3)
-- [クラシックエディターからブロックエディターに移行するノウハウ](https://learn.wordpress.org/?meeting=%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ab)
-- [How to create a website on mobile &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-1-2)
-- [Caching Demystified: A Guide for the Non-Techie](https://learn.wordpress.org/?meeting=caching-demystified-a-guide-for-the-non-techie)
 <!-- SLS:END -->
 
 ## Test
