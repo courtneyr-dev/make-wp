@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 4](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-4)
 - [WP dev livestream: WordPress request lifecycle](https://learn.wordpress.org/?meeting=the-wordpress-request-lifecycle-2)
 - [The WordPress request lifecycle](https://learn.wordpress.org/?meeting=the-wordpress-request-lifecycle)
 - [A Guide to Open Source and WordPress &lpar;Timezone 2&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-timezone-2)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [クラシックエディターからブロックエディターに移行するノウハウ](https://learn.wordpress.org/?meeting=%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ab)
 - [How to create a website on mobile &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-1-2)
 - [Caching Demystified: A Guide for the Non-Techie](https://learn.wordpress.org/?meeting=caching-demystified-a-guide-for-the-non-techie)
-- [Watch Party: 6.2 Product Demo](https://learn.wordpress.org/?meeting=watch-party-6-2-product-demo)
 <!-- SLS:END -->
 
 ## Test
