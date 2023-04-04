@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Two Weeks in Core – April 3, 2023](https://make.wordpress.org/core/2023/04/04/a-week-in-core-april-3-2023/)
 - [Editor Chat Agenda: April 5th, 2023](https://make.wordpress.org/core/2023/04/04/editor-chat-agenda-april-5th-2023/)
 - [Performance Chat Agenda: 4 April 2023](https://make.wordpress.org/core/2023/04/04/performance-chat-agenda-04-april-2023/)
 - [Preferred Languages: Help test the latest version](https://make.wordpress.org/core/2023/04/03/preferred-languages-help-test-the-latest-version/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for Testing: Plugin Dependencies UX](https://make.wordpress.org/core/2023/03/28/call-for-testing-plugin-dependencies-ux/)
 - [Introducing a new block editor handbook scrub](https://make.wordpress.org/core/2023/03/28/introducing-a-new-block-editor-handbook-scrub/)
 - [WordPress 6.2 release date updated: March 29, 2023](https://make.wordpress.org/core/2023/03/28/wordpress-6-2-release-date-updated-march-29-2023/)
-- [Performance Chat Summary: 28 March 2023](https://make.wordpress.org/core/2023/03/28/performance-chat-summary-28-march-2023/)
 <!-- CORE:END -->
 
 ## Design
