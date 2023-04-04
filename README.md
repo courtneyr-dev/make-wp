@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Manager for…](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-manager-for/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-powered-cache-2/)
 - [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-jetpack-5/)
 - [PTE Request for course-booking-platform](https://make.wordpress.org/polyglots/2023/04/03/pte-request-for-course-booking-platform/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2023/04/01/hi-100/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/31/hi-dear-mentors-we-have-113/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/31/hi-dear-mentors-we-have-112/)
-- [PTE Request for Video Gallery for WooCommerce](https://make.wordpress.org/polyglots/2023/03/31/pte-request-for-video-gallery-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
