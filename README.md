@@ -199,7 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
-- [தீம்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/%e0%ae%a4%e0%af%80%e0%ae%ae%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%af%86%e0%ae%9f%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4/)
+- [தீம்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/ta-choosing-and-installing-themes/)
 - [Pagine vs. articoli](https://learn.wordpress.org/lesson-plan/pagine-vs-articoli/)
 - [Cosa fare quando non ti ricordi la password](https://learn.wordpress.org/lesson-plan/cosa-fare-quando-non-ti-ricordi-la-password/)
 - [டாஷ்போர்டு மேலோட்டம்](https://learn.wordpress.org/lesson-plan/ta-dashboard-overview/)
