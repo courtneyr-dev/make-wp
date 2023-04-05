@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 15.5? &lpar;05 April&rpar;](https://make.wordpress.org/core/2023/04/05/whats-new-in-gutenberg-15-5-05-april/)
 - [Performance Chat Summary: 4 April 2023](https://make.wordpress.org/core/2023/04/05/performance-chat-summary-04-april-2023/)
 - [WordPress 6.2 Performance improvements for all themes](https://make.wordpress.org/core/2023/04/05/wordpress-6-2-performance-improvements-for-all-themes/)
 - [Two Weeks in Core – April 3, 2023](https://make.wordpress.org/core/2023/04/04/a-week-in-core-april-3-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: The Interactivity API – A better developer experience in building interactive blocks](https://make.wordpress.org/core/2023/03/30/proposal-the-interactivity-api-a-better-developer-experience-in-building-interactive-blocks/)
 - [Core Editor chat summary: 29th March 2023](https://make.wordpress.org/core/2023/03/30/core-editor-chat-summary-29th-march-2023/)
 - [March 29 Dev Chat is canceled in favor of WordPress 6.2 final release party](https://make.wordpress.org/core/2023/03/28/march-29-dev-chat-is-canceled-in-favor-of-wordpress-6-2-final-release-party/)
-- [Call for Testing: Plugin Dependencies UX](https://make.wordpress.org/core/2023/03/28/call-for-testing-plugin-dependencies-ux/)
 <!-- CORE:END -->
 
 ## Design
