@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 6 April, 2023](https://make.wordpress.org/community/2023/04/05/community-team-meeting-agenda-for-6-april-2023/)
 - [Community Team Training #7: Community Team Roles Overview &amp; Discussion](https://make.wordpress.org/community/2023/04/03/community-team-training-7-community-team-roles-overview-discussion/)
 - [WordCamp Mentors’ April check-in!](https://make.wordpress.org/community/2023/04/01/wordcamp-mentors-april-check-in/)
 - [X-post: What’s new on Learn WordPress in March 2023](https://make.wordpress.org/community/2023/04/01/xpost-whats-new-on-learn-wordpress-in-march-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: March 2023](https://make.wordpress.org/community/2023/03/21/meetup-organizer-newsletter-march-2023/)
 - [Community Team Goals for 2023 : Chat session](https://make.wordpress.org/community/2023/03/21/community-team-goals-for-2023-chat-session/)
 - [Contributor Working Group: Mentorship Kick-off chat Agenda | March 20th 12:00 UTC &lpar;EMEA&rpar; and 21:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/03/20/contributor-working-group-mentorship-kick-off-chat-agenda-march-20th-1200-utc-emea-and-2100-utc-amer/)
-- [Community Team Goals for 2023 : Next Step](https://make.wordpress.org/community/2023/03/17/community-team-goals-for-2023-next-step/)
 <!-- COMMUNITY:END -->
 
 ## Meta
