@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to create a website on mobile &lpar;Part 2&rpar;](https://wordpress.tv/2023/04/04/how-to-create-a-website-on-mobile-part-2/)
 - [Using Block Patterns](https://wordpress.tv/2023/04/03/using-block-patterns-3/)
 - [Developer Hours: Migrate a plugin to blocks &lpar;EMEA / Asia-Pacific&rpar;](https://wordpress.tv/2023/04/03/developer-hours-migrate-a-plugin-to-blocks-emea-asia-pacific/)
 - [Add media and Openverse images to your content directly from the Inserter](https://wordpress.tv/2023/04/02/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Planifica, automatiza y disfruta de la familia](https://wordpress.tv/2023/03/20/planifica-automatiza-y-disfruta-de-la-familia/)
 - [What kind of WordPress theme do I have: classic, block, or something else?](https://wordpress.tv/2023/03/17/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 - [Let’s code: developing WordPress user roles and capabilities](https://wordpress.tv/2023/03/17/lets-code-developing-wordpress-user-roles-and-capabilities/)
-- [WP REST API – custom fields, authentication, and API testing](https://wordpress.tv/2023/03/17/wp-rest-api-custom-fields-authentication-and-api-testing/)
 <!-- WPTV:END -->
 
 ## Marketing
