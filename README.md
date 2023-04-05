@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – April 05, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/05/agenda-weekly-polyglots-chat-april-05-2023-0700-utc/)
 - [PTE Request for Manager for…](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-manager-for/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-powered-cache-2/)
 - [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-jetpack-5/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Divi Content…](https://make.wordpress.org/polyglots/2023/04/01/pte-request-for-divi-content/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/04/01/hi-100/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/31/hi-dear-mentors-we-have-113/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/03/31/hi-dear-mentors-we-have-112/)
 <!-- POLYGLOTS:END -->
 
 ## Support
