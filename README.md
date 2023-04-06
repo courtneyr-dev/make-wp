@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Extending WordPress: common security vulnerabilities](https://wordpress.tv/2023/04/06/extending-wordpress-common-security-vulnerabilities/)
 - [How to create a website on mobile &lpar;Part 2&rpar;](https://wordpress.tv/2023/04/04/how-to-create-a-website-on-mobile-part-2/)
 - [Using Block Patterns](https://wordpress.tv/2023/04/03/using-block-patterns-3/)
 - [Developer Hours: Migrate a plugin to blocks &lpar;EMEA / Asia-Pacific&rpar;](https://wordpress.tv/2023/04/03/developer-hours-migrate-a-plugin-to-blocks-emea-asia-pacific/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Presentación de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/20/presentacion-de-wordcamp-torrelodones-2023/)
 - [Planifica, automatiza y disfruta de la familia](https://wordpress.tv/2023/03/20/planifica-automatiza-y-disfruta-de-la-familia/)
 - [What kind of WordPress theme do I have: classic, block, or something else?](https://wordpress.tv/2023/03/17/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
-- [Let’s code: developing WordPress user roles and capabilities](https://wordpress.tv/2023/03/17/lets-code-developing-wordpress-user-roles-and-capabilities/)
 <!-- WPTV:END -->
 
 ## Marketing
