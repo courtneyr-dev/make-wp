@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Community Sharing: Favorite Themes](https://learn.wordpress.org/?meeting=community-sharing-favorite-themes)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team)
 - [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=33114)
 - [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-2-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Build a blog with WordPress 6.2: A new release preview](https://learn.wordpress.org/?meeting=build-a-blog-with-wordpress-6-2-a-new-release-preview)
 - [Let’s code: developing user roles and capabilities](https://learn.wordpress.org/?meeting=lets-code-developing-user-roles-and-capabilities)
 - [WP dev livestream: Developing WordPress user roles and capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-wordpress-user-roles-and-capabilities-2)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 3](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-3)
 <!-- SLS:END -->
 
 ## Test
