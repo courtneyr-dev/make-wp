@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for conotoxia-payment-gateway](https://make.wordpress.org/polyglots/2023/04/06/pte-request-for-conotoxia-payment-gateway/)
+- [PTE Request for picu](https://make.wordpress.org/polyglots/2023/04/06/pte-request-for-picu-7/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/04/05/i-am-the-plugin-author-35/)
 - [Agenda: Weekly Polyglots Chat – April 05, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/05/agenda-weekly-polyglots-chat-april-05-2023-0700-utc/)
 - [PTE Request for Manager for…](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-manager-for/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for course-booking-platform](https://make.wordpress.org/polyglots/2023/04/03/pte-request-for-course-booking-platform/)
 - [CLPTE Request for Jetpack plugins](https://make.wordpress.org/polyglots/2023/04/03/clpte-request-for-jetpack-plugins-2/)
 - [PTE Request for Zenzero Theme](https://make.wordpress.org/polyglots/2023/04/01/pte-request-for-zenzero-theme/)
-- [PTE Request for Divi Content…](https://make.wordpress.org/polyglots/2023/04/01/pte-request-for-divi-content/)
-- [Hi,](https://make.wordpress.org/polyglots/2023/04/01/hi-100/)
 <!-- POLYGLOTS:END -->
 
 ## Support
