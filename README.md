@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/commands](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-commands/)
 - [_make_clickable_rel_attr&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_make_clickable_rel_attr/)
 - [comment_reply_to_unapproved_comment](https://developer.wordpress.org/reference/hooks/comment_reply_to_unapproved_comment/)
 - [WP_Term_Query::generate_cache_key&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_term_query/generate_cache_key/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [pre_wp_load_alloptions](https://developer.wordpress.org/reference/hooks/pre_wp_load_alloptions/)
 - [_wp_block_theme_register_classic_sidebars&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_block_theme_register_classic_sidebars/)
 - [post_search_columns](https://developer.wordpress.org/reference/hooks/post_search_columns/)
-- [WP_Theme_JSON::remove_indirect_properties&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_theme_json/remove_indirect_properties/)
 <!-- DEVHUB:END -->
 
 ## Themes
