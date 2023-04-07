@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [نبذة عن لوحة البيانات](https://learn.wordpress.org/lesson-plan/ar-dashboard-overview/)
 - [தீம்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/ta-choosing-and-installing-themes/)
 - [Pagine vs. articoli](https://learn.wordpress.org/lesson-plan/pagine-vs-articoli/)
 - [Cosa fare quando non ti ricordi la password](https://learn.wordpress.org/lesson-plan/cosa-fare-quando-non-ti-ricordi-la-password/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dashboard-Übersicht](https://learn.wordpress.org/lesson-plan/dashboard-uebersicht/)
 - [Εισαγωγή στoυς πιο κοινούς τύπους πρόσθετων](https://learn.wordpress.org/lesson-plan/%ce%b5%ce%b9%cf%83%ce%b1%ce%b3%cf%89%ce%b3%ce%ae-%cf%83%cf%84o%cf%85%cf%82-%cf%80%ce%b9%ce%bf-%ce%ba%ce%bf%ce%b9%ce%bd%ce%bf%cf%8d%cf%82-%cf%84%cf%8d%cf%80%ce%bf%cf%85%cf%82-%cf%80%cf%81%ce%bf%cf%83/)
 - [Locking Blocks in the Full Site Editor](https://learn.wordpress.org/lesson-plan/locking-blocks-in-the-full-site-editor/)
-- [Create a Basic Child Theme for Block Themes](https://learn.wordpress.org/lesson-plan/create-a-basic-child-theme-for-block-themes/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
