@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for gdpr-compliant-recaptcha-for-all-forms](https://make.wordpress.org/polyglots/2023/04/07/pte-request-for-gdpr-compliant-recaptcha-for-all-forms/)
 - [CLPTE Request for picu plugin](https://make.wordpress.org/polyglots/2023/04/06/clpte-request-for-picu-plugin/)
 - [PTE Request for User Activity Tracking and Log](https://make.wordpress.org/polyglots/2023/04/06/pte-request-for-user-activity-tracking-and-log/)
 - [PTE Request for conotoxia-payment-gateway](https://make.wordpress.org/polyglots/2023/04/06/pte-request-for-conotoxia-payment-gateway/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Manager for…](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-manager-for/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-powered-cache-2/)
 - [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-jetpack-5/)
-- [PTE Request for course-booking-platform](https://make.wordpress.org/polyglots/2023/04/03/pte-request-for-course-booking-platform/)
 <!-- POLYGLOTS:END -->
 
 ## Support
