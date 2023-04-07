@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [It’s Time to Plan Your WP20 Anniversary Celebration!!](https://make.wordpress.org/community/2023/04/07/its-time-to-plan-your-wp20-anniversary-celebration/)
 - [Personalised Coupon Codes for WordCamps](https://make.wordpress.org/community/2023/04/06/personalised-coupon-codes-for-wordcamps/)
 - [Community Team Meeting Agenda for 6 April, 2023](https://make.wordpress.org/community/2023/04/05/community-team-meeting-agenda-for-6-april-2023/)
 - [Community Team Training #7: Community Team Roles Overview &amp; Discussion](https://make.wordpress.org/community/2023/04/03/community-team-training-7-community-team-roles-overview-discussion/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of Contributor Working Group Inaugural Mentorship Chat on March 20, 2023](https://make.wordpress.org/community/2023/03/23/recap-of-contributor-working-group-inaugural-mentorship-chat-on-march-20-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on March 22, 2023](https://make.wordpress.org/community/2023/03/22/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-march-22-2023/)
 - [Meetup Organizer Newsletter: March 2023](https://make.wordpress.org/community/2023/03/21/meetup-organizer-newsletter-march-2023/)
-- [Community Team Goals for 2023 : Chat session](https://make.wordpress.org/community/2023/03/21/community-team-goals-for-2023-chat-session/)
 <!-- COMMUNITY:END -->
 
 ## Meta
