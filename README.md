@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Workshop: the WordPress request lifecycle](https://wordpress.tv/2023/04/07/workshop-the-wordpress-request-lifecycle/)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 3](https://wordpress.tv/2023/04/06/updating-a-blogs-design-informal-live-stream-part-3/)
 - [Extending WordPress: common security vulnerabilities](https://wordpress.tv/2023/04/06/extending-wordpress-common-security-vulnerabilities/)
 - [How to create a website on mobile &lpar;Part 2&rpar;](https://wordpress.tv/2023/04/04/how-to-create-a-website-on-mobile-part-2/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intro to Templates &lpar;Block Theme&rpar;](https://wordpress.tv/2023/03/20/intro-to-temaplates-block-theme/)
 - [Haz una web y no la guerra](https://wordpress.tv/2023/03/20/haz-una-web-y-no-la-guerra/)
 - [Presentación de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/20/presentacion-de-wordcamp-torrelodones-2023/)
-- [Planifica, automatiza y disfruta de la familia](https://wordpress.tv/2023/03/20/planifica-automatiza-y-disfruta-de-la-familia/)
 <!-- WPTV:END -->
 
 ## Marketing
