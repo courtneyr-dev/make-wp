@@ -508,6 +508,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Paid Membership Pro change level on expiration/cancellation](https://jobs.wordpress.net/job/paid-membership-pro-change-level-on-expiration-cancellation/)
 - [SEO, Web Developers, Programmer](https://jobs.wordpress.net/job/seo-web-developers-programmer/)
 - [Full Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-11/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-795/)
@@ -517,7 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-8/)
 - [Full Stack WordPress/WooCommerce Developer](https://jobs.wordpress.net/job/full-stack-wordpress-woocommerce-developer-2/)
 - [WP Project Manager](https://jobs.wordpress.net/job/wp-project-manager/)
-- [Website design + developer](https://jobs.wordpress.net/job/website-design-developer-2/)
 <!-- JOBS:END -->
 
 ## Central
