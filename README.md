@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s code: creating a WordPress multisite network](https://learn.wordpress.org/?meeting=lets-code-creating-a-wordpress-multisite-network)
 - [Community Sharing: Favorite Themes](https://learn.wordpress.org/?meeting=community-sharing-favorite-themes)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team)
 - [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=33114)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP dev livestream: Custom content &amp; custom capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-custom-content-custom-capabilities)
 - [Build a blog with WordPress 6.2: A new release preview](https://learn.wordpress.org/?meeting=build-a-blog-with-wordpress-6-2-a-new-release-preview)
 - [Let’s code: developing user roles and capabilities](https://learn.wordpress.org/?meeting=lets-code-developing-user-roles-and-capabilities)
-- [WP dev livestream: Developing WordPress user roles and capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-wordpress-user-roles-and-capabilities-2)
 <!-- SLS:END -->
 
 ## Test
