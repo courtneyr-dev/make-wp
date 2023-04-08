@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Proposal: Creating Learning Pathways for Learn WordPress](https://make.wordpress.org/polyglots/2023/04/08/xpost-proposal-creating-learning-pathways-for-learn-wordpress/)
 - [PTE Request for Spectra One…](https://make.wordpress.org/polyglots/2023/04/07/pte-request-for-spectra-one/)
 - [PTE Request for gdpr-compliant-recaptcha-for-all-forms](https://make.wordpress.org/polyglots/2023/04/07/pte-request-for-gdpr-compliant-recaptcha-for-all-forms/)
 - [CLPTE Request for picu plugin](https://make.wordpress.org/polyglots/2023/04/06/clpte-request-for-picu-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/04/05/i-am-the-plugin-author-35/)
 - [Agenda: Weekly Polyglots Chat – April 05, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/05/agenda-weekly-polyglots-chat-april-05-2023-0700-utc/)
 - [PTE Request for Manager for…](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-manager-for/)
-- [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2023/04/04/pte-request-for-powered-cache-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
