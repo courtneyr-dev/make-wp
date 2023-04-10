@@ -508,16 +508,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-7/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-9/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-8/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-6/)
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-3/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-796/)
 - [Paid Membership Pro change level on expiration/cancellation](https://jobs.wordpress.net/job/paid-membership-pro-change-level-on-expiration-cancellation/)
 - [SEO, Web Developers, Programmer](https://jobs.wordpress.net/job/seo-web-developers-programmer/)
 - [Full Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-11/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-795/)
-- [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-23/)
-- [WordPress Support Specialists](https://jobs.wordpress.net/job/wordpress-support-specialists/)
-- [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-3/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-8/)
-- [Full Stack WordPress/WooCommerce Developer](https://jobs.wordpress.net/job/full-stack-wordpress-woocommerce-developer-2/)
-- [WP Project Manager](https://jobs.wordpress.net/job/wp-project-manager/)
 <!-- JOBS:END -->
 
 ## Central
