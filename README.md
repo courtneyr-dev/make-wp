@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for D3 Register Menus, D3 Data Fields, D3 CPTs](https://make.wordpress.org/polyglots/2023/04/10/pte-request-for-d3-register-menus-d3-data-fields-d3-cpts/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/04/10/hi-dear-mentors-we-have-114/)
 - [PTE Request for “Ask Me Anything &lpar;Anonymously&rpar;”](https://make.wordpress.org/polyglots/2023/04/10/pte-request-for-ask-me-anything-anonymously/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/04/09/hi-101/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE Request for picu plugin](https://make.wordpress.org/polyglots/2023/04/06/clpte-request-for-picu-plugin/)
 - [PTE Request for User Activity Tracking and Log](https://make.wordpress.org/polyglots/2023/04/06/pte-request-for-user-activity-tracking-and-log/)
 - [PTE Request for conotoxia-payment-gateway](https://make.wordpress.org/polyglots/2023/04/06/pte-request-for-conotoxia-payment-gateway/)
-- [PTE Request for picu](https://make.wordpress.org/polyglots/2023/04/06/pte-request-for-picu-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
