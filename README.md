@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: WordPress.org Redesign Update](https://make.wordpress.org/design/2023/04/10/xpost-wordpress-org-redesign-update-2/)
 - [Why Jazz?](https://make.wordpress.org/design/2023/03/30/why-jazz/)
 - [Design Share: Mar 13–Mar 24](https://make.wordpress.org/design/2023/03/27/design-share-mar-13-mar-24/)
 - [Design Share: Feb 13–Mar 10](https://make.wordpress.org/design/2023/03/13/design-share-feb-13-mar-10/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share: Jan 16-Jan 27](https://make.wordpress.org/design/2023/01/30/design-share-jan-16-jan-27/)
 - [X-post: WordPress.org Redesign Recent Launches](https://make.wordpress.org/design/2023/01/26/xpost-wordpress-org-redesign-recent-launches/)
 - [A refresh of WordPress.org/themes](https://make.wordpress.org/design/2023/01/16/a-refresh-of-wordpress-org-themes/)
-- [Design Share: Jan 2-Jan 13](https://make.wordpress.org/design/2023/01/16/design-share-jan-2-jan-13/)
 <!-- DESIGN:END -->
 
 ## Mobile
