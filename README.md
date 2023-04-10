@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [WordPress.org Redesign Update](https://make.wordpress.org/meta/2023/04/10/wordpress-org-redesign-update-2/)
 - [Matrix chat Summary, April 6, 2023](https://make.wordpress.org/meta/2023/04/06/matrix-chat-summary-april-6-2023/)
 - [Agenda: Biweekly Matrix Chat – Thu, April 6, 2023 &lpar;10AM UTC&rpar;](https://make.wordpress.org/meta/2023/04/04/agenda-biweekly-matrix-chat-thu-april-6-2023-10am-utc/)
 - [Matrix chat Summary, March 23 2023](https://make.wordpress.org/meta/2023/03/27/matrix-chat-summary-march-23-2023/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/meta/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [WordPress.org Redesign Recent Launches](https://make.wordpress.org/meta/2023/01/26/wordpress-org-redesign-recent-launches/)
 - [A Meta subproject for evaluating Matrix](https://make.wordpress.org/meta/2023/01/25/a-meta-subproject-for-evaluating-matrix/)
-- [Two-Factor Auth progress for WordPress.org](https://make.wordpress.org/meta/2022/12/22/two-factor-auth-progress-for-wordpress-org/)
 <!-- META:END -->
 
 ## Training
