@@ -368,6 +368,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: WordPress.org Redesign Update](https://make.wordpress.org/marketing/2023/04/10/xpost-wordpress-org-redesign-update-2/)
 - [X-post: Proposal: Creating Learning Pathways for Learn WordPress](https://make.wordpress.org/marketing/2023/04/08/xpost-proposal-creating-learning-pathways-for-learn-wordpress/)
 - [Notes: Global Marketing Team meeting, 28 March 2023](https://make.wordpress.org/marketing/2023/04/04/notes-global-marketing-team-meeting-28-march-2023/)
 - [X-post: What’s new on Learn WordPress in March 2023](https://make.wordpress.org/marketing/2023/04/01/xpost-whats-new-on-learn-wordpress-in-march-2023/)
@@ -377,7 +378,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Notes: Global Marketing Team meeting, 28 February 2023](https://make.wordpress.org/marketing/2023/03/13/notes-global-marketing-team-meeting-28-february-2023/)
 - [X-post: Introduction to WordPress Development: A proposed learning path](https://make.wordpress.org/marketing/2023/03/08/xpost-introduction-to-wordpress-development-a-proposed-learning-path/)
 - [Notes: Global Marketing Team meeting, 21 February 2023](https://make.wordpress.org/marketing/2023/03/01/notes-global-marketing-team-meeting-21-february-2023/)
-- [X-post: What’s new on LearnWP in February 2023](https://make.wordpress.org/marketing/2023/03/01/xpost-whats-new-on-learnwp-in-february-2023/)
 <!-- MARKETING:END -->
 
 ## CLI
