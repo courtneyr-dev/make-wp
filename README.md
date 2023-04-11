@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat agenda, April 12, 2023](https://make.wordpress.org/core/2023/04/11/dev-chat-agenda-april-12-2023/)
 - [Performance Chat Summary: 11 April 2023](https://make.wordpress.org/core/2023/04/11/performance-chat-summary-11-april-2023/)
 - [Editor Chat Agenda: 12 April 2023](https://make.wordpress.org/core/2023/04/11/editor-chat-agenda-12-april-2023/)
 - [Performance Chat Agenda: 11 April 2023](https://make.wordpress.org/core/2023/04/11/performance-chat-agenda-11-april-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Preparing for the Next Women &amp; Nonbinary Release Squad](https://make.wordpress.org/core/2023/04/07/preparing-for-the-next-women-nonbinary-release-squad/)
 - [Dev Chat Summary, April 5, 2023](https://make.wordpress.org/core/2023/04/06/dev-chat-summary-april-5-2023/)
 - [What’s new in Gutenberg 15.5? &lpar;05 April&rpar;](https://make.wordpress.org/core/2023/04/05/whats-new-in-gutenberg-15-5-05-april/)
-- [Performance Chat Summary: 4 April 2023](https://make.wordpress.org/core/2023/04/05/performance-chat-summary-04-april-2023/)
 <!-- CORE:END -->
 
 ## Design
