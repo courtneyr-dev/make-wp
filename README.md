@@ -283,6 +283,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [A Beginner’s Guide to Setting Up a Basic Website: Website Design](https://learn.wordpress.org/?meeting=a-beginners-guide-to-setting-up-a-basic-website-website-design)
+- [A Beginner’s Guide to Setting Up a Basic Website: Content Planning](https://learn.wordpress.org/?meeting=a-beginners-guide-to-setting-up-a-basic-website-content-planning)
 - [Becoming a Better Developer](https://learn.wordpress.org/?meeting=becoming-a-better-developer)
 - [Building a page with only patterns](https://learn.wordpress.org/?meeting=building-a-page-with-only-patterns)
 - [Let’s code: creating a WordPress multisite network](https://learn.wordpress.org/?meeting=lets-code-creating-a-wordpress-multisite-network)
@@ -306,8 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to update a video tutorial for Learn.WordPress.org](https://learn.wordpress.org/?meeting=how-to-update-a-video-tutorial-for-learn-wordpress-org)
 - [Build a blog with WordPress 6.2 &lpar;Released today!&rpar;](https://learn.wordpress.org/?meeting=build-a-blog-with-wordpress-6-2-released-today)
 - [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-11)
-- [Let’s code: custom content &amp; custom capabilities](https://learn.wordpress.org/?meeting=lets-code-custom-content-custom-capabilities)
-- [WP dev livestream: Custom content &amp; custom capabilities](https://learn.wordpress.org/?meeting=wp-dev-livestream-custom-content-custom-capabilities)
 <!-- SLS:END -->
 
 ## Test
