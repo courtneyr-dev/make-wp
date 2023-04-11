@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Adding a sticky header or banner](https://learn.wordpress.org/tutorial/adding-a-sticky-header-or-banner/)
 - [Extending WordPress: common security vulnerabilities](https://learn.wordpress.org/tutorial/extending-wordpress-common-security-vulnerabilities/)
 - [Using Block Patterns](https://learn.wordpress.org/tutorial/using-block-patterns/)
 - [Add media and Openverse images to your content directly from the Inserter](https://learn.wordpress.org/tutorial/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tools: Site Health](https://learn.wordpress.org/tutorial/tools-site-health/)
 - [Introduction to theme.json](https://learn.wordpress.org/tutorial/introduction-to-theme-json/)
 - [Creating a Call To Action](https://learn.wordpress.org/tutorial/creating-a-call-to-action/)
-- [Displaying the Comments block in Block Themes](https://learn.wordpress.org/tutorial/displaying-the-post-comments-block-in-block-themes/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
