@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Panorom]](https://make.wordpress.org/polyglots/2023/04/11/pte-request-for-panorom/)
+- [PTE Request for WP Trip Summary](https://make.wordpress.org/polyglots/2023/04/11/pte-request-for-wp-trip-summary/)
 - [Polyglots outreach effort retrospective](https://make.wordpress.org/polyglots/2023/04/11/polyglots-outreach-effort-retrospective/)
 - [PTE Request for English Locales &lpar;AU, NZ &amp; ZA&rpar;](https://make.wordpress.org/polyglots/2023/04/11/pte-request-for-english-locales-au-nz-za/)
 - [PTE Request for D3 Register Menus, D3 Data Fields, D3 CPTs](https://make.wordpress.org/polyglots/2023/04/10/pte-request-for-d3-register-menus-d3-data-fields-d3-cpts/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2023/04/09/hi-101/)
 - [X-post: Proposal: Creating Learning Pathways for Learn WordPress](https://make.wordpress.org/polyglots/2023/04/08/xpost-proposal-creating-learning-pathways-for-learn-wordpress/)
 - [PTE Request for Spectra One…](https://make.wordpress.org/polyglots/2023/04/07/pte-request-for-spectra-one/)
-- [PTE Request for gdpr-compliant-recaptcha-for-all-forms](https://make.wordpress.org/polyglots/2023/04/07/pte-request-for-gdpr-compliant-recaptcha-for-all-forms/)
-- [CLPTE Request for picu plugin](https://make.wordpress.org/polyglots/2023/04/06/clpte-request-for-picu-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
