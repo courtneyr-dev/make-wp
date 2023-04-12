@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – April 12, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/12/agenda-weekly-polyglots-chat-april-12-2023-1300-utc/)
 - [PTE Request for [Panorom]](https://make.wordpress.org/polyglots/2023/04/11/pte-request-for-panorom/)
 - [PTE Request for WP Trip Summary](https://make.wordpress.org/polyglots/2023/04/11/pte-request-for-wp-trip-summary/)
 - [Polyglots outreach effort retrospective](https://make.wordpress.org/polyglots/2023/04/11/polyglots-outreach-effort-retrospective/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for “Ask Me Anything &lpar;Anonymously&rpar;”](https://make.wordpress.org/polyglots/2023/04/10/pte-request-for-ask-me-anything-anonymously/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/04/09/hi-101/)
 - [X-post: Proposal: Creating Learning Pathways for Learn WordPress](https://make.wordpress.org/polyglots/2023/04/08/xpost-proposal-creating-learning-pathways-for-learn-wordpress/)
-- [PTE Request for Spectra One…](https://make.wordpress.org/polyglots/2023/04/07/pte-request-for-spectra-one/)
 <!-- POLYGLOTS:END -->
 
 ## Support
