@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Selectors](https://developer.wordpress.org/block-editor/reference-guides/block-api/block-selectors/)
 - [@wordpress/commands](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-commands/)
 - [_make_clickable_rel_attr&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_make_clickable_rel_attr/)
 - [comment_reply_to_unapproved_comment](https://developer.wordpress.org/reference/hooks/comment_reply_to_unapproved_comment/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [_wp_reset_invalid_menu_item_parent&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_reset_invalid_menu_item_parent/)
 - [pre_wp_load_alloptions](https://developer.wordpress.org/reference/hooks/pre_wp_load_alloptions/)
 - [_wp_block_theme_register_classic_sidebars&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_block_theme_register_classic_sidebars/)
-- [post_search_columns](https://developer.wordpress.org/reference/hooks/post_search_columns/)
 <!-- DEVHUB:END -->
 
 ## Themes
