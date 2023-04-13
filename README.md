@@ -466,6 +466,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/project/2023/04/13/wordpress-at-20-in-print/)
 - [X-post: Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/project/2023/03/10/xpost-launching-the-contributor-working-group-call-for-volunteers/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/project/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/project/2023/02/06/proposal-creating-a-wordpress-contributor-mentorship-program/)
@@ -475,7 +476,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for Feedback: How can we Improve the Five for the Future Contributor Journey?](https://make.wordpress.org/project/2023/01/09/request-for-feedback-how-can-we-improve-the-five-for-the-future-contributor-journey/)
 - [Journal Entry: WordCamp Asia 2020 Cancellation Debrief](https://make.wordpress.org/project/2022/12/22/journal-entry-wordcamp-asia-2020-cancellation-debrief/)
 - [Announcement: New WordPress Incident Response Team](https://make.wordpress.org/project/2022/12/21/announcement-new-wordpress-incident-response-team/)
-- [X-post: FSE Program: Seeking volunteers to use Replay.io for capturing bugs](https://make.wordpress.org/project/2022/12/07/xpost-fse-program-seeking-volunteers-to-use-replay-io-for-capturing-bugs/)
 <!-- PROJECT:END -->
 
 ## Systems
