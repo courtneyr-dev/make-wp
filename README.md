@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [A Guide to Open Source and WordPress](https://wordpress.tv/2023/04/12/a-guide-to-open-source-and-wordpress/)
 - [Exploring some of the new 6.2 WordPress features](https://wordpress.tv/2023/04/12/exploring-some-of-the-new-6-2-wordpress-features/)
 - [Adding a sticky header or banner](https://wordpress.tv/2023/04/10/adding-a-sticky-header-or-banner/)
 - [Workshop: the WordPress request lifecycle](https://wordpress.tv/2023/04/07/workshop-the-wordpress-request-lifecycle/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP REST API – modifying responses](https://wordpress.tv/2023/03/24/wp-rest-api-modifying-responses/)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://wordpress.tv/2023/03/23/updating-a-blogs-design-informal-live-stream-part-2/)
 - [Diseña para WordPress con Penpot: el Figma libre y gratuito](https://wordpress.tv/2023/03/22/disena-para-wordpress-con-penpot-el-figma-libre-y-gratuito/)
-- [Intro to Templates &lpar;Block Theme&rpar;](https://wordpress.tv/2023/03/20/intro-to-temaplates-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
