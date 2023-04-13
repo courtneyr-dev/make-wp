@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [&lpar;Post Title&rpar; PTE Request for Frontier Post](https://make.wordpress.org/polyglots/2023/04/13/post-title-pte-request-for-frontier-post/)
 - [PTE Request for WP User Manager](https://make.wordpress.org/polyglots/2023/04/12/pte-request-for-wp-user-manager-2/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/04/12/hello-73/)
 - [Agenda: Weekly Polyglots Chat – April 12, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/12/agenda-weekly-polyglots-chat-april-12-2023-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for English Locales &lpar;AU, NZ &amp; ZA&rpar;](https://make.wordpress.org/polyglots/2023/04/11/pte-request-for-english-locales-au-nz-za/)
 - [PTE Request for D3 Register Menus, D3 Data Fields, D3 CPTs](https://make.wordpress.org/polyglots/2023/04/10/pte-request-for-d3-register-menus-d3-data-fields-d3-cpts/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/04/10/hi-dear-mentors-we-have-114/)
-- [PTE Request for “Ask Me Anything &lpar;Anonymously&rpar;”](https://make.wordpress.org/polyglots/2023/04/10/pte-request-for-ask-me-anything-anonymously/)
 <!-- POLYGLOTS:END -->
 
 ## Support
