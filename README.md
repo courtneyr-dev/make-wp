@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Idea: translate.wordpress.org tour](https://make.wordpress.org/polyglots/2023/04/13/idea-translate-wordpress-org-tour/)
 - [&lpar;Post Title&rpar; PTE Request for Frontier Post](https://make.wordpress.org/polyglots/2023/04/13/post-title-pte-request-for-frontier-post/)
 - [PTE Request for WP User Manager](https://make.wordpress.org/polyglots/2023/04/12/pte-request-for-wp-user-manager-2/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/04/12/hello-73/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polyglots outreach effort retrospective](https://make.wordpress.org/polyglots/2023/04/11/polyglots-outreach-effort-retrospective/)
 - [PTE Request for English Locales &lpar;AU, NZ &amp; ZA&rpar;](https://make.wordpress.org/polyglots/2023/04/11/pte-request-for-english-locales-au-nz-za/)
 - [PTE Request for D3 Register Menus, D3 Data Fields, D3 CPTs](https://make.wordpress.org/polyglots/2023/04/10/pte-request-for-d3-register-menus-d3-data-fields-d3-cpts/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/04/10/hi-dear-mentors-we-have-114/)
 <!-- POLYGLOTS:END -->
 
 ## Support
