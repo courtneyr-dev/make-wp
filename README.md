@@ -283,6 +283,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP dev livestream: WordPress multisite experiments](https://learn.wordpress.org/?meeting=wp-dev-livestream-wordpress-multisite-experiments)
+- [Let’s code: WordPress multisite mad science experiments!](https://learn.wordpress.org/?meeting=lets-code-wordpress-multisite-mad-science-experiments)
 - [A Beginner’s Guide to Setting Up a Basic Website: Website Design](https://learn.wordpress.org/?meeting=a-beginners-guide-to-setting-up-a-basic-website-website-design)
 - [A Beginner’s Guide to Setting Up a Basic Website: Content Planning](https://learn.wordpress.org/?meeting=a-beginners-guide-to-setting-up-a-basic-website-content-planning)
 - [Becoming a Better Developer](https://learn.wordpress.org/?meeting=becoming-a-better-developer)
@@ -306,8 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to join the Training Team’s Welcome Committee](https://learn.wordpress.org/?meeting=how-to-join-the-training-teams-welcome-committee)
 - [Block Themes and WordPress: Exploring WordPress 6.2](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-exploring-wordpress-6-2)
 - [How to update a video tutorial for Learn.WordPress.org](https://learn.wordpress.org/?meeting=how-to-update-a-video-tutorial-for-learn-wordpress-org)
-- [Build a blog with WordPress 6.2 &lpar;Released today!&rpar;](https://learn.wordpress.org/?meeting=build-a-blog-with-wordpress-6-2-released-today)
-- [Block Themes and WordPress: Live Stream](https://learn.wordpress.org/?meeting=block-themes-and-wordpress-live-stream-11)
 <!-- SLS:END -->
 
 ## Test
