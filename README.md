@@ -73,6 +73,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Private Forum Moderators Channel](https://make.wordpress.org/support/2023/04/private-forum-moderators-channel/)
+- [Request for input: Support Stats](https://make.wordpress.org/support/2023/04/request-for-input-support-stats/)
 - [X-post: Introducing the Advanced Administration handbook](https://make.wordpress.org/support/2023/04/xpost-introducing-the-advanced-administration-handbook/)
 - [Support ticket triage session – April 12th 2023 at 16:00 UTC](https://make.wordpress.org/support/2023/04/support-ticket-triage-session-april-12th-2023-at-1600-utc/)
 - [X-post: What’s new on Learn WordPress in March 2023](https://make.wordpress.org/support/2023/04/xpost-whats-new-on-learn-wordpress-in-march-2023/)
@@ -81,8 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for March 23rd Support Meeting](https://make.wordpress.org/support/2023/03/agenda-for-march-23rd-support-meeting-2/)
 - [Support ticket triage session – March 29th 2023 at 08:00 UTC](https://make.wordpress.org/support/2023/03/support-ticket-triage-session-march-29th-2023-at-0800-utc/)
 - [Summary for March 16th Support Meeting](https://make.wordpress.org/support/2023/03/summary-for-march-16th-support-meeting/)
-- [Agenda for March 16th Support Meeting](https://make.wordpress.org/support/2023/03/agenda-for-march-16th-support-meeting-2/)
-- [Summary for March 9th Support Meeting](https://make.wordpress.org/support/2023/03/summary-for-march-9th-support-meeting/)
 <!-- SUPPORT:END -->
 
 ## Documentation
