@@ -508,16 +508,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Migrate members from Ning to BuddyBoss and more!](https://jobs.wordpress.net/job/migrate-members-from-ning-to-buddyboss-and-more/)
+- [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-15/)
+- [WordPress Plugin Bookly and Google Console Revisions](https://jobs.wordpress.net/job/word-press-plugin-bookly-and-google-console-revisions/)
+- [Convert PHP-Fusion SQLdb to WordPress BuddyPress / bbPress SQLdb](https://jobs.wordpress.net/job/convert-php-fusion-sqldb-to-wordpress-buddypress-bbpress-sqldb/)
+- [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-32/)
+- [REMOTE LEAD WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/remote-lead-wordpress-developer/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-798/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-797/)
 - [Looking to migrate a small HTML site to WordPress](https://jobs.wordpress.net/job/looking-to-migrate-a-small-html-site-to-wordpress/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-7/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-9/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-8/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-6/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-3/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-796/)
-- [Paid Membership Pro change level on expiration/cancellation](https://jobs.wordpress.net/job/paid-membership-pro-change-level-on-expiration-cancellation/)
-- [SEO, Web Developers, Programmer](https://jobs.wordpress.net/job/seo-web-developers-programmer/)
 <!-- JOBS:END -->
 
 ## Central
