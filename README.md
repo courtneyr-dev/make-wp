@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using Template Parts](https://wordpress.tv/2023/04/14/using-template-parts/)
 - [Let’s code: creating a WordPress Multisite Network](https://wordpress.tv/2023/04/14/lets-code-creating-a-wordpress-multisite-network/)
 - [A Guide to Open Source and WordPress](https://wordpress.tv/2023/04/12/a-guide-to-open-source-and-wordpress/)
 - [Exploring some of the new 6.2 WordPress features](https://wordpress.tv/2023/04/12/exploring-some-of-the-new-6-2-wordpress-features/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Clausura de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/24/clausura-de-wordcamp-torrelodones-2023/)
 - [Let’s code: custom content &amp; custom capabilities](https://wordpress.tv/2023/03/24/lets-code-custom-content-custom-capabilities/)
 - [WP REST API – modifying responses](https://wordpress.tv/2023/03/24/wp-rest-api-modifying-responses/)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 2](https://wordpress.tv/2023/03/23/updating-a-blogs-design-informal-live-stream-part-2/)
 <!-- WPTV:END -->
 
 ## Marketing
