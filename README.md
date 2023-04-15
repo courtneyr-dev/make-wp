@@ -230,6 +230,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WORKSHOPS:START -->
 - [Using Template Parts](https://learn.wordpress.org/tutorial/using-template-parts/)
 - [Adding a sticky header or banner](https://learn.wordpress.org/tutorial/adding-a-sticky-header-or-banner/)
+- [Perbedaan Antara Blok yang Dapat Dipakai Ulang, Pola Blok, Template, dan Komponen Template](https://learn.wordpress.org/tutorial/id-the-difference-between-reusable-blocks-block-patterns-templates-amp-template-parts/)
 - [Extending WordPress: common security vulnerabilities](https://learn.wordpress.org/tutorial/extending-wordpress-common-security-vulnerabilities/)
 - [Using Block Patterns](https://learn.wordpress.org/tutorial/using-block-patterns/)
 - [Add media and Openverse images to your content directly from the Inserter](https://learn.wordpress.org/tutorial/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating Custom Fields](https://learn.wordpress.org/tutorial/creating-custom-fields/)
 - [Taking Advantage of Query Loops](https://learn.wordpress.org/tutorial/taking-advantage-of-query-loops/)
 - [Tools: Site Health](https://learn.wordpress.org/tutorial/tools-site-health/)
-- [Introduction to theme.json](https://learn.wordpress.org/tutorial/introduction-to-theme-json/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
