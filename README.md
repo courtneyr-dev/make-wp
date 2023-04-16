@@ -61,7 +61,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- POLYGLOTS:START -->
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/polyglots/2023/04/14/xpost-wordpress-at-20-in-print/)
 - [Idea: translate.wordpress.org tour](https://make.wordpress.org/polyglots/2023/04/13/idea-translate-wordpress-org-tour/)
-- [&lpar;Post Title&rpar; PTE Request for Frontier Post](https://make.wordpress.org/polyglots/2023/04/13/post-title-pte-request-for-frontier-post/)
+- [PTE Request for Frontier Post](https://make.wordpress.org/polyglots/2023/04/13/post-title-pte-request-for-frontier-post/)
 - [PTE Request for WP User Manager](https://make.wordpress.org/polyglots/2023/04/12/pte-request-for-wp-user-manager-2/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/04/12/hello-73/)
 - [Agenda: Weekly Polyglots Chat – April 12, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/12/agenda-weekly-polyglots-chat-april-12-2023-1300-utc/)
