@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mastodon, das Fediverse – und WordPress](https://wordpress.tv/2023/04/16/mastodon-das-fediverse-und-wordpress/)
 - [WooCommerce Shops mit Gutenberg umsetzen](https://wordpress.tv/2023/04/16/woocommerce-shops-mit-gutenberg-umsetzen/)
 - [How to join the Training Team’s Welcome Committee](https://wordpress.tv/2023/04/15/how-to-join-the-training-teams-welcome-committee/)
 - [Using Template Parts](https://wordpress.tv/2023/04/14/using-template-parts/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to use the WordPress Stylebook with your block theme](https://wordpress.tv/2023/03/29/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
 - [Build a Blog with WordPress 6.2: A New Release Preview](https://wordpress.tv/2023/03/24/build-a-blog-with-wordpress-6-2-a-new-release-preview/)
 - [How to Use Featured Images](https://wordpress.tv/2023/03/24/how-to-use-featured-images/)
-- [Clausura de WordCamp Torrelodones 2023](https://wordpress.tv/2023/03/24/clausura-de-wordcamp-torrelodones-2023/)
 <!-- WPTV:END -->
 
 ## Marketing
