@@ -312,6 +312,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [FSE Program Testing Call #21: Front Page Fun](https://make.wordpress.org/test/2023/04/17/fse-program-testing-call-21-front-page-fun/)
+- [X-post: Test Team Update: 17 April 2023](https://make.wordpress.org/test/2023/04/17/xpost-test-team-update-17-april-2023/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/test/2023/04/14/xpost-wordpress-at-20-in-print/)
 - [Test Chat Summary: 11 April 2023](https://make.wordpress.org/test/2023/04/11/test-chat-summary-11-april-2023/)
 - [X-post: Test Team Update: 10 April 2023](https://make.wordpress.org/test/2023/04/10/xpost-test-team-update-10-april-2023/)
@@ -320,8 +322,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [FSE Program Exploration: Build a block theme](https://make.wordpress.org/test/2023/03/29/fse-program-exploration-build-a-block-theme/)
 - [Test Chat Summary: 28 March 2023](https://make.wordpress.org/test/2023/03/28/test-chat-summary-28-march-2023/)
 - [X-post: Call for Testing: Plugin Dependencies UX](https://make.wordpress.org/test/2023/03/28/xpost-call-for-testing-plugin-dependencies-ux/)
-- [Hallway Hangout: Let’s chat about All Things Layout](https://make.wordpress.org/test/2023/03/14/hallway-hangout-lets-chat-about-all-things-layout/)
-- [Test Chat Summary: 14 March 2023](https://make.wordpress.org/test/2023/03/14/test-chat-summary-14-march-2023/)
 <!-- TEST:END -->
 
 ## TV
