@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/training/2023/04/17/xpost-wordpress-at-20-in-print/)
 - [Training Team Meeting Recap for April 4, 2023](https://make.wordpress.org/training/2023/04/11/training-team-meeting-recap-for-april-4-2023/)
 - [X-post: Introducing the Advanced Administration handbook](https://make.wordpress.org/training/2023/04/10/xpost-introducing-the-advanced-administration-handbook/)
 - [Meeting agenda for April 11, 2023](https://make.wordpress.org/training/2023/04/10/meeting-agenda-for-april-11-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on Learn WordPress in March 2023](https://make.wordpress.org/training/2023/04/01/xpost-whats-new-on-learn-wordpress-in-march-2023/)
 - [Introduction to WordPress Development syllabus](https://make.wordpress.org/training/2023/03/29/introduction-to-wordpress-development-syllabus/)
 - [Meeting agenda for March 28, 2023](https://make.wordpress.org/training/2023/03/27/meeting-agenda-for-march-28-2023/)
-- [Training Team Meeting Recap for March 21st](https://make.wordpress.org/training/2023/03/27/training-team-meeting-recap-for-march-21st/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
