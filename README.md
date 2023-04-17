@@ -339,6 +339,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mehr Erfolg und Erfüllung in deinem WordPress-Business](https://wordpress.tv/2023/04/17/mehr-erfolg-und-erfullung-in-deinem-wordpress-business/)
+- [WordPress SEO Fehler – Die du vielleicht noch nie beachtet hast](https://wordpress.tv/2023/04/17/wordpress-seo-fehler-die-du-vielleicht-noch-nie-beachtet-hast/)
+- [WordPress Login mit 2-Faktor absichern](https://wordpress.tv/2023/04/17/wordpress-login-mit-2-faktor-absichern/)
+- [WordPress Websites hacken](https://wordpress.tv/2023/04/17/wordpress-websites-hacken/)
+- [WordPress X AI – Wo sind die Grenzen?](https://wordpress.tv/2023/04/16/wordpress-x-ai-wo-sind-die-grenzen/)
 - [Mastodon, das Fediverse – und WordPress](https://wordpress.tv/2023/04/16/mastodon-das-fediverse-und-wordpress/)
 - [WooCommerce Shops mit Gutenberg umsetzen](https://wordpress.tv/2023/04/16/woocommerce-shops-mit-gutenberg-umsetzen/)
 - [How to join the Training Team’s Welcome Committee](https://wordpress.tv/2023/04/15/how-to-join-the-training-teams-welcome-committee/)
@@ -359,11 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [クラシックエディターからブロックエディターに移行するノウハウ](https://wordpress.tv/2023/04/01/%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ab/)
 - [How do you Learn WordPress?](https://wordpress.tv/2023/03/31/how-do-you-learn-wordpress/)
 - [WordPress REST API – custom routes and endpoints](https://wordpress.tv/2023/03/31/wordpress-rest-api-custom-routes-and-endpoints/)
-- [Caching Demystified: A Guide for the Non-Techie](https://wordpress.tv/2023/03/29/caching-demystified-a-guide-for-the-non-techie/)
-- [Intro to the Site Editor and Template Editor](https://wordpress.tv/2023/03/29/intro-to-the-site-editor-and-template-editor-3/)
-- [How to use the WordPress Stylebook with your block theme](https://wordpress.tv/2023/03/29/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
-- [Build a Blog with WordPress 6.2: A New Release Preview](https://wordpress.tv/2023/03/24/build-a-blog-with-wordpress-6-2-a-new-release-preview/)
-- [How to Use Featured Images](https://wordpress.tv/2023/03/24/how-to-use-featured-images/)
 <!-- WPTV:END -->
 
 ## Marketing
