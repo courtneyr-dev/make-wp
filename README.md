@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Chat Agenda: 19 April 2023](https://make.wordpress.org/core/2023/04/17/editor-chat-agenda-19-april-2023/)
+- [Experimental APIs in WordPress Core have largely been tamed](https://make.wordpress.org/core/2023/04/17/experimental-apis-in-wordpress-core-have-largely-been-tamed/)
 - [WordPress 6.3 Planning Proposal &amp; Call for Volunteers](https://make.wordpress.org/core/2023/04/14/wordpress-6-3-planning-proposal-call-for-volunteers/)
 - [WordPress 6.2 “Dolphy” Retrospective](https://make.wordpress.org/core/2023/04/14/wordpress-6-2-dolphy-retrospective/)
 - [Recap: WordPress 6.1 “Misha” Retrospective](https://make.wordpress.org/core/2023/04/14/recap-wordpress-6-1-misha-retrospective/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [In-Browser WordPress Tech Demos: WordPress Development with WordPress Playground](https://make.wordpress.org/core/2023/04/13/in-browser-wordpress-tech-demos-wordpress-development-with-wordpress-playground/)
 - [Editor chat summary: Wednesday, 12th April 2023](https://make.wordpress.org/core/2023/04/12/editor-chat-summary-wednesday-12th-april-2023/)
 - [Dev Blog editorial group, April 6, 2023](https://make.wordpress.org/core/2023/04/12/dev-blog-editorial-group-april-6-2023/)
-- [Dev Chat agenda, April 12, 2023](https://make.wordpress.org/core/2023/04/11/dev-chat-agenda-april-12-2023/)
-- [Performance Chat Summary: 11 April 2023](https://make.wordpress.org/core/2023/04/11/performance-chat-summary-11-april-2023/)
 <!-- CORE:END -->
 
 ## Design
