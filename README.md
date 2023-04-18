@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Creating a custom template with the WordPress site editor](https://learn.wordpress.org/tutorial/creating-a-custom-template-with-the-wordpress-site-editor/)
 - [Using Template Parts](https://learn.wordpress.org/tutorial/using-template-parts/)
 - [Adding a sticky header or banner](https://learn.wordpress.org/tutorial/adding-a-sticky-header-or-banner/)
 - [Perbedaan Antara Blok yang Dapat Dipakai Ulang, Pola Blok, Template, dan Komponen Template](https://learn.wordpress.org/tutorial/id-the-difference-between-reusable-blocks-block-patterns-templates-amp-template-parts/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to improve SEO rankings](https://learn.wordpress.org/tutorial/how-to-improve-seo-rankings/)
 - [Creating Custom Fields](https://learn.wordpress.org/tutorial/creating-custom-fields/)
 - [Taking Advantage of Query Loops](https://learn.wordpress.org/tutorial/taking-advantage-of-query-loops/)
-- [Tools: Site Health](https://learn.wordpress.org/tutorial/tools-site-health/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
