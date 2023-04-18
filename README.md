@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Introduction to the Interactivity API](https://wordpress.tv/2023/04/18/developer-hours-introduction-to-the-interactivity-api/)
 - [Creating a custom template with the WordPress site editor](https://wordpress.tv/2023/04/17/creating-a-custom-template-with-the-wordpress-site-editor/)
 - [Developer Hours: Interactivity API &lpar;APAC / EMEA&rpar;](https://wordpress.tv/2023/04/17/developer-hours-interactivity-api-apac-emea/)
 - [Website-Radar 2023: Zustand österreichischer Webseiten](https://wordpress.tv/2023/04/17/website-radar-2023-zustand-osterreichischer-webseiten/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Migrate a plugin to blocks &lpar;EMEA / Asia-Pacific&rpar;](https://wordpress.tv/2023/04/03/developer-hours-migrate-a-plugin-to-blocks-emea-asia-pacific/)
 - [Add media and Openverse images to your content directly from the Inserter](https://wordpress.tv/2023/04/02/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [How to update a video tutorial for learn.wordpress.org](https://wordpress.tv/2023/04/02/how-to-update-a-video-tutorial-for-learn-wordpress-org/)
-- [Γνωριμία με την ομάδα Training](https://wordpress.tv/2023/04/01/%ce%b3%ce%bd%cf%89%cf%81%ce%b9%ce%bc%ce%af%ce%b1-%ce%bc%ce%b5-%cf%84%ce%b7%ce%bd-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-training/)
 <!-- WPTV:END -->
 
 ## Marketing
