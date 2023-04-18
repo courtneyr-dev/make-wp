@@ -60,7 +60,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Polyglots
 <!-- POLYGLOTS:START -->
 - [PTE Request for: Twenty Twenty-Three,…](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-twenty-twenty-three/)
-- [PTE Request for Kadence, virtue, Pinnacle, Ascend themes](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-kadence-virtue-pinnacle-ascend-themes/)
+- [PTE Request for [Kadence, virtue, Pinnacle, Ascend] themes](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-kadence-virtue-pinnacle-ascend-themes/)
 - [PTE Request for Fashion Mart and Auto Parts Store](https://make.wordpress.org/polyglots/2023/04/17/pte-request-for-fashion-mart-and-auto-parts-store/)
 - [PTE Request for [CRM WordPress Plugin – RepairBuddy]](https://make.wordpress.org/polyglots/2023/04/16/pte-request-for-crm-wordpress-plugin-repairbuddy-2/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/polyglots/2023/04/14/xpost-wordpress-at-20-in-print/)
