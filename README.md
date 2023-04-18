@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat agenda, April 19, 2023](https://make.wordpress.org/core/2023/04/18/dev-chat-agenda-april-19-2023/)
+- [A Week in Core – April 17, 2023](https://make.wordpress.org/core/2023/04/18/a-week-in-core-april-10-2023-2/)
 - [Performance Chat Summary: 18 April 2023](https://make.wordpress.org/core/2023/04/18/performance-chat-summary-18-april-2023/)
 - [Performance Chat Agenda: 18 April 2023](https://make.wordpress.org/core/2023/04/18/performance-chat-agenda-18-april-2023/)
 - [Editor Chat Agenda: 19 April 2023](https://make.wordpress.org/core/2023/04/17/editor-chat-agenda-19-april-2023/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2 “Dolphy” Retrospective](https://make.wordpress.org/core/2023/04/14/wordpress-6-2-dolphy-retrospective/)
 - [Recap: WordPress 6.1 “Misha” Retrospective](https://make.wordpress.org/core/2023/04/14/recap-wordpress-6-1-misha-retrospective/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/core/2023/04/14/xpost-wordpress-at-20-in-print/)
-- [Dev Chat summary, April 12, 2023](https://make.wordpress.org/core/2023/04/14/dev-chat-summary-april-12-2023/)
-- [In-Browser WordPress Tech Demos: WordPress Development with WordPress Playground](https://make.wordpress.org/core/2023/04/13/in-browser-wordpress-tech-demos-wordpress-development-with-wordpress-playground/)
 <!-- CORE:END -->
 
 ## Design
