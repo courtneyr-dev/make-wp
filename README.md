@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for: Twenty Twenty-Three,…](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-twenty-twenty-three/)
 - [PTE Request for Kadence, virtue, Pinnacle, Ascend themes](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-kadence-virtue-pinnacle-ascend-themes/)
 - [PTE Request for Fashion Mart and Auto Parts Store](https://make.wordpress.org/polyglots/2023/04/17/pte-request-for-fashion-mart-and-auto-parts-store/)
 - [PTE Request for [CRM WordPress Plugin – RepairBuddy]](https://make.wordpress.org/polyglots/2023/04/16/pte-request-for-crm-wordpress-plugin-repairbuddy-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WP User Manager](https://make.wordpress.org/polyglots/2023/04/12/pte-request-for-wp-user-manager-2/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/04/12/hello-73/)
 - [Agenda: Weekly Polyglots Chat – April 12, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/12/agenda-weekly-polyglots-chat-april-12-2023-1300-utc/)
-- [PTE Request for [Panorom]](https://make.wordpress.org/polyglots/2023/04/11/pte-request-for-panorom/)
 <!-- POLYGLOTS:END -->
 
 ## Support
