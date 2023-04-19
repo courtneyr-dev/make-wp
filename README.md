@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 15.6? &lpar;19 April&rpar;](https://make.wordpress.org/core/2023/04/19/whats-new-in-gutenberg-15-6-19-april/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/core/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [Status update on the SQLite project](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
 - [Dev Chat agenda, April 19, 2023](https://make.wordpress.org/core/2023/04/18/dev-chat-agenda-april-19-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: 19 April 2023](https://make.wordpress.org/core/2023/04/17/editor-chat-agenda-19-april-2023/)
 - [Experimental APIs in WordPress Core have largely been tamed](https://make.wordpress.org/core/2023/04/17/experimental-apis-in-wordpress-core-have-largely-been-tamed/)
 - [WordPress 6.3 Planning Proposal &amp; Call for Volunteers](https://make.wordpress.org/core/2023/04/14/wordpress-6-3-planning-proposal-call-for-volunteers/)
-- [WordPress 6.2 “Dolphy” Retrospective](https://make.wordpress.org/core/2023/04/14/wordpress-6-2-dolphy-retrospective/)
 <!-- CORE:END -->
 
 ## Design
