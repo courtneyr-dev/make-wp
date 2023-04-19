@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/design/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/design/2023/04/13/xpost-wordpress-at-20-in-print/)
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/design/2023/04/10/xpost-wordpress-org-redesign-update-2/)
 - [Why Jazz?](https://make.wordpress.org/design/2023/03/30/why-jazz/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/design/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/design/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 - [Design Share: Jan 16-Jan 27](https://make.wordpress.org/design/2023/01/30/design-share-jan-16-jan-27/)
-- [X-post: WordPress.org Redesign Recent Launches](https://make.wordpress.org/design/2023/01/26/xpost-wordpress-org-redesign-recent-launches/)
 <!-- DESIGN:END -->
 
 ## Mobile
