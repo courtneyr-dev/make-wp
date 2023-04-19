@@ -31,6 +31,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Mobile
 <!-- MOBILE:START -->
+- [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/mobile/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [X-post: Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/mobile/2023/04/17/xpost-integrating-the-mobile-app-documentation-into-helphub/)
 - [Contribute to the Future of the WordPress App](https://make.wordpress.org/mobile/2023/04/11/contribute-to-the-future-of-the-wordpress-app/)
 - [New Mobile Support Forum](https://make.wordpress.org/mobile/2023/03/28/new-mobile-support-forum/)
@@ -40,7 +41,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for Testing: WordPress for Android 21.4](https://make.wordpress.org/mobile/2022/12/20/call-for-testing-wordpress-for-android-21-4/)
 - [Call for Testing: WordPress for iOS 21.4](https://make.wordpress.org/mobile/2022/12/19/call-for-testing-wordpress-for-ios-21-4/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/mobile/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
-- [Call for Testing: WordPress for Android 21.3](https://make.wordpress.org/mobile/2022/12/06/call-for-testing-wordpress-for-android-21-3/)
 <!-- MOBILE:END -->
 
 ## Accessibility
