@@ -438,6 +438,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/photos/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/photos/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/photos/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [The Road To 5000 Photos, A Retrospective](https://make.wordpress.org/photos/2022/11/17/the-road-to-5000-photos-a-retrospective/)
@@ -447,7 +448,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of team meeting, June 2](https://make.wordpress.org/photos/2022/06/17/recap-of-team-meeting-june-2/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/photos/2022/05/26/xpost-announcement-incident-response-training/)
 - [Recap of team meeting, May 6](https://make.wordpress.org/photos/2022/05/12/recap-of-team-meeting-may-6/)
-- [Recap of team meeting, April 1](https://make.wordpress.org/photos/2022/04/07/recap-of-team-meeting-april-1/)
 <!-- PHOTOS:END -->
 
 ## Updates
