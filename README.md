@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WP Translation Playground](https://make.wordpress.org/polyglots/2023/04/19/wp-translation-playground/)
 - [Agenda: Weekly Polyglots Chat – April. 19, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/19/agenda-weekly-polyglots-chat-april-19-2023-0700-utc/)
 - [PTE Request for PayPal Brazil…](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-paypal-brazil/)
 - [PTE Request for: Twenty Twenty-Three,…](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-twenty-twenty-three/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/polyglots/2023/04/14/xpost-wordpress-at-20-in-print/)
 - [Idea: translate.wordpress.org tour](https://make.wordpress.org/polyglots/2023/04/13/idea-translate-wordpress-org-tour/)
 - [PTE Request for Frontier Post](https://make.wordpress.org/polyglots/2023/04/13/post-title-pte-request-for-frontier-post/)
-- [PTE Request for WP User Manager](https://make.wordpress.org/polyglots/2023/04/12/pte-request-for-wp-user-manager-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
