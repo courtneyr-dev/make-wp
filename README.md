@@ -382,6 +382,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/cli/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [WP-CLI v2.8.0 release date](https://make.wordpress.org/cli/2023/04/05/wp-cli-v2-8-0-release-date/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/cli/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/cli/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
@@ -391,7 +392,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP-CLI v2.7.0 Release Notes](https://make.wordpress.org/cli/2022/10/11/wp-cli-v2-7-0-release-notes/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/cli/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/cli/2022/07/07/xpost-wcus2022-contributor-team-signup/)
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/cli/2022/05/26/xpost-announcement-incident-response-training/)
 <!-- CLI:END -->
 
 ## Hosting
