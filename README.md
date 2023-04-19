@@ -396,6 +396,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [Hosting Team meeting agenda 2023-04-19](https://make.wordpress.org/hosting/2023/04/19/hosting-team-meeting-agenda-2023-04-19/)
 - [Hosting Team meeting agenda 2023-04-12](https://make.wordpress.org/hosting/2023/04/11/hosting-team-meeting-agenda-2023-04-12/)
 - [Hosting Team meeting agenda 2023-04-05](https://make.wordpress.org/hosting/2023/04/05/hosting-team-meeting-agenda-2023-04-05/)
 - [Hosting Team meeting agenda 2023-03-22](https://make.wordpress.org/hosting/2023/03/21/hosting-team-meeting-agenda-2023-03-22/)
@@ -405,7 +406,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Team meeting agenda 2023-03-01](https://make.wordpress.org/hosting/2023/02/28/hosting-team-meeting-agenda-2023-03-01/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/hosting/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/hosting/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
-- [X-post: Proposal: [Experiment] Adopt Standardised Team-wide Project Management Tools – already utilised by other Make Teams for a Quarter.](https://make.wordpress.org/hosting/2023/01/22/xpost-proposal-adopt-github-for-team-projects/)
 <!-- HOSTING:END -->
 
 ## Tide
