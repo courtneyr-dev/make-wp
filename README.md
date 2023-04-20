@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [A Beginner’s Guide to Setting Up a Basic Website: Content Planning](https://wordpress.tv/2023/04/20/a-beginners-guide-to-setting-up-a-basic-website-content-planning/)
 - [Building a page with only patterns](https://wordpress.tv/2023/04/18/building-a-page-with-only-patterns/)
 - [Developer Hours: Introduction to the Interactivity API](https://wordpress.tv/2023/04/18/developer-hours-introduction-to-the-interactivity-api/)
 - [Creating a custom template with the WordPress site editor](https://wordpress.tv/2023/04/17/creating-a-custom-template-with-the-wordpress-site-editor/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to create a website on mobile &lpar;Part 2&rpar;](https://wordpress.tv/2023/04/04/how-to-create-a-website-on-mobile-part-2/)
 - [Using Block Patterns](https://wordpress.tv/2023/04/03/using-block-patterns-3/)
 - [Developer Hours: Migrate a plugin to blocks &lpar;EMEA / Asia-Pacific&rpar;](https://wordpress.tv/2023/04/03/developer-hours-migrate-a-plugin-to-blocks-emea-asia-pacific/)
-- [Add media and Openverse images to your content directly from the Inserter](https://wordpress.tv/2023/04/02/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 <!-- WPTV:END -->
 
 ## Marketing
