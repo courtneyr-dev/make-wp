@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Developing with user roles and capabilities](https://learn.wordpress.org/tutorial/developing-with-user-roles-and-capabilities/)
 - [Creating a custom template with the WordPress site editor](https://learn.wordpress.org/tutorial/creating-a-custom-template-with-the-wordpress-site-editor/)
 - [Using Template Parts](https://learn.wordpress.org/tutorial/using-template-parts/)
 - [Adding a sticky header or banner](https://learn.wordpress.org/tutorial/adding-a-sticky-header-or-banner/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using theme.json with classic themes](https://learn.wordpress.org/tutorial/using-theme-json-with-classic-themes/)
 - [How to improve SEO rankings](https://learn.wordpress.org/tutorial/how-to-improve-seo-rankings/)
 - [Creating Custom Fields](https://learn.wordpress.org/tutorial/creating-custom-fields/)
-- [Taking Advantage of Query Loops](https://learn.wordpress.org/tutorial/taking-advantage-of-query-loops/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
