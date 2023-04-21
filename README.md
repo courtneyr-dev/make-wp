@@ -339,6 +339,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developing with user roles and capabilities](https://wordpress.tv/2023/04/21/developing-with-user-roles-and-capabilities/)
+- [Let’s code: WordPress multisite experiments](https://wordpress.tv/2023/04/21/lets-code-wordpress-multisite-experiments/)
 - [A Beginner’s Guide to Setting Up a Basic Website: Website Design](https://wordpress.tv/2023/04/20/a-beginners-guide-to-setting-up-a-basic-website-website-design/)
 - [A Beginner’s Guide to Setting Up a Basic Website: Content Planning](https://wordpress.tv/2023/04/20/a-beginners-guide-to-setting-up-a-basic-website-content-planning/)
 - [Building a page with only patterns](https://wordpress.tv/2023/04/18/building-a-page-with-only-patterns/)
@@ -362,8 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Workshop: the WordPress request lifecycle](https://wordpress.tv/2023/04/07/workshop-the-wordpress-request-lifecycle/)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 3](https://wordpress.tv/2023/04/06/updating-a-blogs-design-informal-live-stream-part-3/)
 - [Extending WordPress: common security vulnerabilities](https://wordpress.tv/2023/04/06/extending-wordpress-common-security-vulnerabilities/)
-- [How to create a website on mobile &lpar;Part 2&rpar;](https://wordpress.tv/2023/04/04/how-to-create-a-website-on-mobile-part-2/)
-- [Using Block Patterns](https://wordpress.tv/2023/04/03/using-block-patterns-3/)
 <!-- WPTV:END -->
 
 ## Marketing
