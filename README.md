@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP dev livestream: developing for multisite](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-for-multisite)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress)
 - [Organizing Diverse &amp; Inclusive WordPress Events APAC](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-apac)
 - [How to add a blog/news page to a WordPress website](https://learn.wordpress.org/?meeting=how-to-add-a-blog-news-page-to-a-wordpress-website)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Γνωριμία με την ομάδα Learn](https://learn.wordpress.org/?meeting=%ce%b3%ce%bd%cf%89%cf%81%ce%b9%ce%bc%ce%af%ce%b1-%ce%bc%ce%b5-%cf%84%ce%b7%ce%bd-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-learn)
 - [How do you Learn WordPress?](https://learn.wordpress.org/?meeting=how-do-you-learn-wordpress)
 - [Exploring some of the new 6.2 WordPress features](https://learn.wordpress.org/?meeting=exploring-some-of-the-new-6-2-wordpress-features)
-- [How to create a website on mobile &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-2)
 <!-- SLS:END -->
 
 ## Test
