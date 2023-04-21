@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for GN Toggle and Accordion Animation Disabler](https://make.wordpress.org/polyglots/2023/04/21/pte-request-for-gn-toggle-and-accordion-animation-disabler/)
 - [VS Event List – French translation](https://make.wordpress.org/polyglots/2023/04/20/vs-event-list-french-translation/)
 - [WP Translation Playground](https://make.wordpress.org/polyglots/2023/04/19/wp-translation-playground/)
 - [Agenda: Weekly Polyglots Chat – April. 19, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/19/agenda-weekly-polyglots-chat-april-19-2023-0700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Fashion Mart and Auto Parts Store](https://make.wordpress.org/polyglots/2023/04/17/pte-request-for-fashion-mart-and-auto-parts-store/)
 - [PTE Request for [CRM WordPress Plugin – RepairBuddy]](https://make.wordpress.org/polyglots/2023/04/16/pte-request-for-crm-wordpress-plugin-repairbuddy-2/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/polyglots/2023/04/14/xpost-wordpress-at-20-in-print/)
-- [Idea: translate.wordpress.org tour](https://make.wordpress.org/polyglots/2023/04/13/idea-translate-wordpress-org-tour/)
 <!-- POLYGLOTS:END -->
 
 ## Support
