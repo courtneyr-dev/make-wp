@@ -283,6 +283,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress)
+- [Organizing Diverse &amp; Inclusive WordPress Events APAC](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-apac)
 - [How to add a blog/news page to a WordPress website](https://learn.wordpress.org/?meeting=how-to-add-a-blog-news-page-to-a-wordpress-website)
 - [How to set up a free WordPress test website](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website)
 - [WP dev livestream: WordPress multisite experiments](https://learn.wordpress.org/?meeting=wp-dev-livestream-wordpress-multisite-experiments)
@@ -306,8 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How do you Learn WordPress?](https://learn.wordpress.org/?meeting=how-do-you-learn-wordpress)
 - [Exploring some of the new 6.2 WordPress features](https://learn.wordpress.org/?meeting=exploring-some-of-the-new-6-2-wordpress-features)
 - [How to create a website on mobile &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=how-to-create-a-website-on-mobile-part-2)
-- [How to join the Training Team’s Welcome Committee](https://learn.wordpress.org/?meeting=how-to-join-the-training-teams-welcome-committee-2)
-- [How to join the Training Team’s Welcome Committee](https://learn.wordpress.org/?meeting=how-to-join-the-training-teams-welcome-committee)
 <!-- SLS:END -->
 
 ## Test
