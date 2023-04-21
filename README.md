@@ -508,6 +508,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-7/)
 - [WordPress Developer for Level 2 Support](https://jobs.wordpress.net/job/wordpress-developer-for-level-2-support-2/)
 - [WordPress Support – Website Maintenace](https://jobs.wordpress.net/job/wordpress-support-website-maintenace/)
 - [Migrate members from Ning to BuddyBoss and more!](https://jobs.wordpress.net/job/migrate-members-from-ning-to-buddyboss-and-more/)
@@ -517,7 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-32/)
 - [REMOTE LEAD WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/remote-lead-wordpress-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-798/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-797/)
 <!-- JOBS:END -->
 
 ## Central
