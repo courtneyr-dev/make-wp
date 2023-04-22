@@ -339,6 +339,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to set up a free WordPress test environment](https://wordpress.tv/2023/04/21/fhow-to-set-up-a-free-wordpress-test-environment/)
+- [How to add a blog or news page to a WordPress website](https://wordpress.tv/2023/04/21/how-to-add-a-blog-or-news-page-to-a-wordpress-website/)
 - [Developing with user roles and capabilities](https://wordpress.tv/2023/04/21/developing-with-user-roles-and-capabilities/)
 - [Let’s code: WordPress multisite experiments](https://wordpress.tv/2023/04/21/lets-code-wordpress-multisite-experiments/)
 - [A Beginner’s Guide to Setting Up a Basic Website: Website Design](https://wordpress.tv/2023/04/20/a-beginners-guide-to-setting-up-a-basic-website-website-design/)
@@ -362,8 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring some of the new 6.2 WordPress features](https://wordpress.tv/2023/04/12/exploring-some-of-the-new-6-2-wordpress-features/)
 - [Adding a sticky header or banner](https://wordpress.tv/2023/04/10/adding-a-sticky-header-or-banner/)
 - [Workshop: the WordPress request lifecycle](https://wordpress.tv/2023/04/07/workshop-the-wordpress-request-lifecycle/)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 3](https://wordpress.tv/2023/04/06/updating-a-blogs-design-informal-live-stream-part-3/)
-- [Extending WordPress: common security vulnerabilities](https://wordpress.tv/2023/04/06/extending-wordpress-common-security-vulnerabilities/)
 <!-- WPTV:END -->
 
 ## Marketing
