@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Force SSL &amp; HTTPS SSL Redirect](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-wp-force-ssl-https-ssl-redirect/)
 - [PTE Request for [Pasarela de pago para seQura]](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-pasarela-de-pago-para-sequra/)
 - [PTE Request for Bakes and Cakes Theme](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-bakes-and-cakes-theme/)
 - [PTE Request for Editorial](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-editorial/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for GN Toggle and Accordion Animation Disabler](https://make.wordpress.org/polyglots/2023/04/21/pte-request-for-gn-toggle-and-accordion-animation-disabler/)
 - [VS Event List – French translation](https://make.wordpress.org/polyglots/2023/04/20/vs-event-list-french-translation/)
 - [WP Translation Playground](https://make.wordpress.org/polyglots/2023/04/19/wp-translation-playground/)
-- [Agenda: Weekly Polyglots Chat – April. 19, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/19/agenda-weekly-polyglots-chat-april-19-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
