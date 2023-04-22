@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Pasarela de pago para seQura]](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-pasarela-de-pago-para-sequra/)
+- [PTE Request for Bakes and Cakes Theme](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-bakes-and-cakes-theme/)
+- [PTE Request for Editorial](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-editorial/)
 - [PTE Request for Block Editor Colors](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-block-editor-colors/)
 - [PTE Request for Fazaé WP…](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-fazae-wp/)
 - [PTE Request for payper](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-payper/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [VS Event List – French translation](https://make.wordpress.org/polyglots/2023/04/20/vs-event-list-french-translation/)
 - [WP Translation Playground](https://make.wordpress.org/polyglots/2023/04/19/wp-translation-playground/)
 - [Agenda: Weekly Polyglots Chat – April. 19, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/19/agenda-weekly-polyglots-chat-april-19-2023-0700-utc/)
-- [PTE Request for PayPal Brazil…](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-paypal-brazil/)
-- [PTE Request for: Twenty Twenty-Three,…](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-twenty-twenty-three/)
-- [PTE Request for [Kadence, virtue, Pinnacle, Ascend] themes](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-kadence-virtue-pinnacle-ascend-themes/)
 <!-- POLYGLOTS:END -->
 
 ## Support
