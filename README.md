@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Block Editor Colors](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-block-editor-colors/)
 - [PTE Request for Fazaé WP…](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-fazae-wp/)
 - [PTE Request for payper](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-payper/)
 - [PTE Request for GN Toggle and Accordion Animation Disabler](https://make.wordpress.org/polyglots/2023/04/21/pte-request-for-gn-toggle-and-accordion-animation-disabler/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for PayPal Brazil…](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-paypal-brazil/)
 - [PTE Request for: Twenty Twenty-Three,…](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-twenty-twenty-three/)
 - [PTE Request for [Kadence, virtue, Pinnacle, Ascend] themes](https://make.wordpress.org/polyglots/2023/04/18/pte-request-for-kadence-virtue-pinnacle-ascend-themes/)
-- [PTE Request for Fashion Mart and Auto Parts Store](https://make.wordpress.org/polyglots/2023/04/17/pte-request-for-fashion-mart-and-auto-parts-store/)
 <!-- POLYGLOTS:END -->
 
 ## Support
