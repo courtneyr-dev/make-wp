@@ -508,6 +508,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety-3/)
+- [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety-2/)
+- [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-7/)
 - [WordPress Developer for Level 2 Support](https://jobs.wordpress.net/job/wordpress-developer-for-level-2-support-2/)
 - [WordPress Support – Website Maintenace](https://jobs.wordpress.net/job/wordpress-support-website-maintenace/)
@@ -515,9 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-15/)
 - [WordPress Plugin Bookly and Google Console Revisions](https://jobs.wordpress.net/job/word-press-plugin-bookly-and-google-console-revisions/)
 - [Convert PHP-Fusion SQLdb to WordPress BuddyPress / bbPress SQLdb](https://jobs.wordpress.net/job/convert-php-fusion-sqldb-to-wordpress-buddypress-bbpress-sqldb/)
-- [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-32/)
-- [REMOTE LEAD WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/remote-lead-wordpress-developer/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-798/)
 <!-- JOBS:END -->
 
 ## Central
