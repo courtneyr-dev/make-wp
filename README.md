@@ -3,16 +3,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – April 24, 2023](https://make.wordpress.org/core/2023/04/24/a-week-in-core-april-24-2023/)
 - [Editor chat summary: Wednesday, 12th April 2023](https://make.wordpress.org/core/2023/04/20/editor-chat-summary-wednesday-19th-april-2023/)
 - [Dev Chat Summary, April 19, 2023](https://make.wordpress.org/core/2023/04/19/dev-chat-summary-april-19-2023/)
 - [What’s new in Gutenberg 15.6? &lpar;19 April&rpar;](https://make.wordpress.org/core/2023/04/19/whats-new-in-gutenberg-15-6-19-april/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/core/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [Status update on the SQLite project](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
 - [Dev Chat agenda, April 19, 2023](https://make.wordpress.org/core/2023/04/18/dev-chat-agenda-april-19-2023/)
-- [A Week in Core – April 17, 2023](https://make.wordpress.org/core/2023/04/18/a-week-in-core-april-10-2023-2/)
+- [A Week in Core – April 17, 2023](https://make.wordpress.org/core/2023/04/18/a-week-in-core-april-17-2023/)
 - [Performance Chat Summary: 18 April 2023](https://make.wordpress.org/core/2023/04/18/performance-chat-summary-18-april-2023/)
 - [Performance Chat Agenda: 18 April 2023](https://make.wordpress.org/core/2023/04/18/performance-chat-agenda-18-april-2023/)
-- [Editor Chat Agenda: 19 April 2023](https://make.wordpress.org/core/2023/04/17/editor-chat-agenda-19-april-2023/)
 <!-- CORE:END -->
 
 ## Design
