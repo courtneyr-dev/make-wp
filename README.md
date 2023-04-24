@@ -339,6 +339,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [« Le marketing… très peu pour moi ! »](https://wordpress.tv/2023/04/24/le-marketing-tres-peu-pour-moi/)
+- [Optimiser la web performance d’un site WordPress](https://wordpress.tv/2023/04/24/optimiser-la-web-performance-dun-site-wordpress/)
+- [La checklist indispensable pour booster le SEO de WordPress et WooCommerce](https://wordpress.tv/2023/04/24/la-checklist-indispensable-pour-booster-le-seo-de-wordpress-et-woocommerce/)
 - [How to set up a free WordPress test environment](https://wordpress.tv/2023/04/21/fhow-to-set-up-a-free-wordpress-test-environment/)
 - [How to add a blog or news page to a WordPress website](https://wordpress.tv/2023/04/21/how-to-add-a-blog-or-news-page-to-a-wordpress-website/)
 - [Developing with user roles and capabilities](https://wordpress.tv/2023/04/21/developing-with-user-roles-and-capabilities/)
@@ -361,9 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Template Parts](https://wordpress.tv/2023/04/14/using-template-parts/)
 - [Let’s code: creating a WordPress Multisite Network](https://wordpress.tv/2023/04/14/lets-code-creating-a-wordpress-multisite-network/)
 - [A Guide to Open Source and WordPress](https://wordpress.tv/2023/04/12/a-guide-to-open-source-and-wordpress/)
-- [Exploring some of the new 6.2 WordPress features](https://wordpress.tv/2023/04/12/exploring-some-of-the-new-6-2-wordpress-features/)
-- [Adding a sticky header or banner](https://wordpress.tv/2023/04/10/adding-a-sticky-header-or-banner/)
-- [Workshop: the WordPress request lifecycle](https://wordpress.tv/2023/04/07/workshop-the-wordpress-request-lifecycle/)
 <!-- WPTV:END -->
 
 ## Marketing
