@@ -508,6 +508,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-8/)
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety-3/)
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety-2/)
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety/)
@@ -517,7 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Migrate members from Ning to BuddyBoss and more!](https://jobs.wordpress.net/job/migrate-members-from-ning-to-buddyboss-and-more/)
 - [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-15/)
 - [WordPress Plugin Bookly and Google Console Revisions](https://jobs.wordpress.net/job/word-press-plugin-bookly-and-google-console-revisions/)
-- [Convert PHP-Fusion SQLdb to WordPress BuddyPress / bbPress SQLdb](https://jobs.wordpress.net/job/convert-php-fusion-sqldb-to-wordpress-buddypress-bbpress-sqldb/)
 <!-- JOBS:END -->
 
 ## Central
