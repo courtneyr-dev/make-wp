@@ -59,8 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE Request for Getwid – Gutenberg Blocks](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-getwid-gutenberg-blocks/)
-- [PTE Request for WP Force SSL &amp; HTTPS SSL Redirect](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-wp-force-ssl-https-ssl-redirect/)
+- [PTE Request for DB Robots.txt and DB Tagcloud for Woocommerce](https://make.wordpress.org/polyglots/2023/04/23/pte-request-for-db-robots-txt-and-db-tagcloud-for-woocommerce/)
+- [PTE Request for WP Force SSL &amp; HTTPS SSL Redirect + Getwid – Gutenberg Blocks](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-wp-force-ssl-https-ssl-redirect/)
 - [PTE Request for [Pasarela de pago para seQura]](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-pasarela-de-pago-para-sequra/)
 - [PTE Request for Bakes and Cakes Theme](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-bakes-and-cakes-theme/)
 - [PTE Request for Editorial](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-editorial/)
