@@ -186,7 +186,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Training
 <!-- TRAINING:START -->
 - [Meeting Recap for April 18th, 2023](https://make.wordpress.org/training/2023/04/18/meeting-recap-for-april-18th-2023/)
-- [Developments and Customizations for Training and Learn Website](https://make.wordpress.org/training/2023/04/18/developments-and-customizations-for-training-and-learn-website/)
+- [Project: Developments and Customizations for Training and Learn Website](https://make.wordpress.org/training/2023/04/18/developments-and-customizations-for-training-and-learn-website/)
 - [X-post: Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/training/2023/04/17/xpost-integrating-the-mobile-app-documentation-into-helphub/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/training/2023/04/17/xpost-wordpress-at-20-in-print/)
 - [Training Team Meeting Recap for April 4, 2023](https://make.wordpress.org/training/2023/04/11/training-team-meeting-recap-for-april-4-2023/)
