@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [વર્ડપ્રેસ ડેશબોર્ડને જાણવું](https://learn.wordpress.org/tutorial/gu-getting-to-know-the-wordpress-dashboard/)
 - [Developing with user roles and capabilities](https://learn.wordpress.org/tutorial/developing-with-user-roles-and-capabilities/)
 - [Creating a custom template with the WordPress site editor](https://learn.wordpress.org/tutorial/creating-a-custom-template-with-the-wordpress-site-editor/)
 - [Using Template Parts](https://learn.wordpress.org/tutorial/using-template-parts/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to securely developing plugins](https://learn.wordpress.org/tutorial/introduction-to-securely-developing-plugins/)
 - [Using theme.json with classic themes](https://learn.wordpress.org/tutorial/using-theme-json-with-classic-themes/)
 - [How to improve SEO rankings](https://learn.wordpress.org/tutorial/how-to-improve-seo-rankings/)
-- [Creating Custom Fields](https://learn.wordpress.org/tutorial/creating-custom-fields/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
