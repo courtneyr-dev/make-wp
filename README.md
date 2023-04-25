@@ -508,16 +508,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Multitalented Graphic Designer &amp; WordPress Website Designer / Developer for Full-Time Work Daily – Team Viewer](https://jobs.wordpress.net/job/multitalented-graphic-designer-wordpress-website-designer-developer-for-full-time-work-daily-team-viewer/)
+- [Mid-Level WordPress Developer](https://jobs.wordpress.net/job/mid-level-wordpress-developer-8/)
+- [Design and WordPress developer](https://jobs.wordpress.net/job/design-and-wordpress-developer/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-799/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-8/)
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety-3/)
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety-2/)
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-7/)
 - [WordPress Developer for Level 2 Support](https://jobs.wordpress.net/job/wordpress-developer-for-level-2-support-2/)
-- [WordPress Support – Website Maintenace](https://jobs.wordpress.net/job/wordpress-support-website-maintenace/)
-- [Migrate members from Ning to BuddyBoss and more!](https://jobs.wordpress.net/job/migrate-members-from-ning-to-buddyboss-and-more/)
-- [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-15/)
-- [WordPress Plugin Bookly and Google Console Revisions](https://jobs.wordpress.net/job/word-press-plugin-bookly-and-google-console-revisions/)
 <!-- JOBS:END -->
 
 ## Central
