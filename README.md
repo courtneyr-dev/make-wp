@@ -87,6 +87,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Monthly online Docs Team Contributor Day starts April 2023](https://make.wordpress.org/docs/2023/04/25/monthly-online-docs-team-contributor-day-starts-april-2023/)
+- [Summary for Docs Team meeting, April 18, 2023](https://make.wordpress.org/docs/2023/04/25/summary-for-docs-team-meeting-april-18-2023/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/docs/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/docs/2023/04/17/integrating-the-mobile-app-documentation-into-helphub/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/docs/2023/04/13/xpost-wordpress-at-20-in-print/)
@@ -95,8 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing the Advanced Administration handbook](https://make.wordpress.org/docs/2023/04/10/introducing-the-advanced-administration-handbook/)
 - [X-post: Introducing a new block editor handbook scrub](https://make.wordpress.org/docs/2023/03/28/xpost-introducing-a-new-block-editor-handbook-scrub/)
 - [Agenda for Docs Team bi-weekly meeting April 4, 2023](https://make.wordpress.org/docs/2023/03/26/agenda-for-docs-team-bi-weekly-meeting-april-4-2023/)
-- [Summary for Docs Team meeting, March 21, 2023](https://make.wordpress.org/docs/2023/03/26/summary-for-docs-team-meeting-march-21-2023/)
-- [Agenda for Docs Team bi-weekly meeting March 21, 2023](https://make.wordpress.org/docs/2023/03/16/agenda-for-docs-team-bi-weekly-meeting-march-21-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
