@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [The benefits of prioritizing and measuring performance in WordPress 6.2](https://make.wordpress.org/core/2023/04/25/the-benefits-of-prioritizing-and-measuring-performance-in-wordpress-6-2/)
 - [WP Feature Notifications: 2023 Status Update](https://make.wordpress.org/core/2023/04/25/wp-feature-notifications-2023-status-update/)
 - [Performance Chat Agenda: 25 April 2023](https://make.wordpress.org/core/2023/04/25/performance-chat-agenda-25-april-2023/)
 - [A Week in Core – April 24, 2023](https://make.wordpress.org/core/2023/04/24/a-week-in-core-april-24-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/core/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [Status update on the SQLite project](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
 - [Dev Chat agenda, April 19, 2023](https://make.wordpress.org/core/2023/04/18/dev-chat-agenda-april-19-2023/)
-- [A Week in Core – April 17, 2023](https://make.wordpress.org/core/2023/04/18/a-week-in-core-april-17-2023/)
 <!-- CORE:END -->
 
 ## Design
