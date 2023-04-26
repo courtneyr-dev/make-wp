@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Becoming a Better Developer](https://wordpress.tv/2023/04/26/becoming-a-better-developer/)
 - [Custom post types and capabilities](https://wordpress.tv/2023/04/26/custom-post-types-and-capabilities/)
 - [« Le marketing… très peu pour moi ! »](https://wordpress.tv/2023/04/24/le-marketing-tres-peu-pour-moi/)
 - [Optimiser la web performance d’un site WordPress](https://wordpress.tv/2023/04/24/optimiser-la-web-performance-dun-site-wordpress/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WooCommerce Shops mit Gutenberg umsetzen](https://wordpress.tv/2023/04/16/woocommerce-shops-mit-gutenberg-umsetzen/)
 - [How to join the Training Team’s Welcome Committee](https://wordpress.tv/2023/04/15/how-to-join-the-training-teams-welcome-committee/)
 - [Using Template Parts](https://wordpress.tv/2023/04/14/using-template-parts/)
-- [Let’s code: creating a WordPress Multisite Network](https://wordpress.tv/2023/04/14/lets-code-creating-a-wordpress-multisite-network/)
 <!-- WPTV:END -->
 
 ## Marketing
