@@ -283,6 +283,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Creating a custom template in the Site Editor](https://learn.wordpress.org/?meeting=creating-a-custom-template-in-the-site-editor)
+- [Building a page with only patterns](https://learn.wordpress.org/?meeting=building-a-page-with-only-patterns-2)
 - [Introduction to Block Themes: A Q&amp;A](https://learn.wordpress.org/?meeting=introduction-to-block-themes-a-qa)
 - [WP dev livestream: developing for multisite](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-for-multisite)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress)
@@ -306,8 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Guide to Open Source and WordPress &lpar;Timezone 2&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-timezone-2)
 - [A Guide to Open Source and WordPress](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress)
 - [Live stream: Reviewing developer-focused features in Gutenberg 15.4](https://learn.wordpress.org/?meeting=live-stream-reviewing-developer-focused-features-in-gutenberg-15-4)
-- [Γνωριμία με την ομάδα Learn](https://learn.wordpress.org/?meeting=%ce%b3%ce%bd%cf%89%cf%81%ce%b9%ce%bc%ce%af%ce%b1-%ce%bc%ce%b5-%cf%84%ce%b7%ce%bd-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-learn)
-- [How do you Learn WordPress?](https://learn.wordpress.org/?meeting=how-do-you-learn-wordpress)
 <!-- SLS:END -->
 
 ## Test
