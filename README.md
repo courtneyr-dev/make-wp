@@ -508,6 +508,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-26/)
+- [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-4/)
 - [Multitalented Graphic Designer &amp; WordPress Website Designer / Developer for Full-Time Work Daily – Team Viewer](https://jobs.wordpress.net/job/multitalented-graphic-designer-wordpress-website-designer-developer-for-full-time-work-daily-team-viewer/)
 - [Mid-Level WordPress Developer](https://jobs.wordpress.net/job/mid-level-wordpress-developer-8/)
 - [Design and WordPress developer](https://jobs.wordpress.net/job/design-and-wordpress-developer/)
@@ -516,8 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety-3/)
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety-2/)
 - [WordPress Maintenance for those that care about Driving Safety](https://jobs.wordpress.net/job/wordpress-maintenance-for-those-that-care-about-driving-safety/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-7/)
-- [WordPress Developer for Level 2 Support](https://jobs.wordpress.net/job/wordpress-developer-for-level-2-support-2/)
 <!-- JOBS:END -->
 
 ## Central
