@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – April 26, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/26/agenda-weekly-polyglots-chat-april-26-2023-1300-utc/)
 - [Waiting translations for CartBounty](https://make.wordpress.org/polyglots/2023/04/25/waiting-translations-for-cartbounty/)
 - [PTE Request for [TaxoPress is the WordPress Tag, Category, and Taxonomy Manager], [Wordfence Security – Firewall, Malware Scan, and Login Security], [WP-Optimize – Cache, Clean, Compress.]](https://make.wordpress.org/polyglots/2023/04/25/pte-request-for-taxopress-is-the-wordpress-tag-category-and-taxonomy-manager-wordfence-security-firewall-malware-scan-and-login-security-wp-optimize-cache-clean-compre/)
 - [Defining the Polyglots contributor ladder](https://make.wordpress.org/polyglots/2023/04/24/defining-the-polyglots-contributor-ladder/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Pasarela de pago para seQura]](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-pasarela-de-pago-para-sequra/)
 - [PTE Request for Bakes and Cakes Theme](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-bakes-and-cakes-theme/)
 - [PTE Request for Editorial](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-editorial/)
-- [PTE Request for Block Editor Colors](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-block-editor-colors/)
 <!-- POLYGLOTS:END -->
 
 ## Support
