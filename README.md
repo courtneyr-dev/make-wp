@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Selectors](https://developer.wordpress.org/block-editor/reference-guides/block-api/block-selectors/)
-- [@wordpress/commands](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-commands/)
-- [_make_clickable_rel_attr&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_make_clickable_rel_attr/)
-- [comment_reply_to_unapproved_comment](https://developer.wordpress.org/reference/hooks/comment_reply_to_unapproved_comment/)
-- [WP_Term_Query::generate_cache_key&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_term_query/generate_cache_key/)
-- [wp_get_word_count_type&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_word_count_type/)
-- [switch_to_user_locale&lpar;&rpar;](https://developer.wordpress.org/reference/functions/switch_to_user_locale/)
-- [_wp_reset_invalid_menu_item_parent&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_reset_invalid_menu_item_parent/)
-- [pre_wp_load_alloptions](https://developer.wordpress.org/reference/hooks/pre_wp_load_alloptions/)
-- [_wp_block_theme_register_classic_sidebars&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_block_theme_register_classic_sidebars/)
+- [widgets](https://developer.wordpress.org/rest-api/reference/widgets/)
+- [sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
+- [pattern-directory-items](https://developer.wordpress.org/rest-api/reference/pattern-directory-items/)
+- [nav_menus](https://developer.wordpress.org/rest-api/reference/nav_menus/)
+- [menu-locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
+- [nav_menu_items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
+- [nav_menu_item-revisions](https://developer.wordpress.org/rest-api/reference/nav_menu_item-revisions/)
+- [block-patterns](https://developer.wordpress.org/rest-api/reference/block-patterns/)
+- [block-pattern-categories](https://developer.wordpress.org/rest-api/reference/block-pattern-categories/)
+- [widget-types](https://developer.wordpress.org/rest-api/reference/widget-types/)
 <!-- DEVHUB:END -->
 
 ## Themes
