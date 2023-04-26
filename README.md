@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [New Handbook Page: Sharing External Events with Your Meetup](https://make.wordpress.org/community/2023/04/26/new-handbook-page-sharing-external-events-with-your-meetup/)
 - [Recap of Contributor Working Group’s Mentorship Chat on April 20, 2023](https://make.wordpress.org/community/2023/04/25/recap-of-contributor-working-groups-mentorship-chat-on-april-20-2023/)
 - [WCEU Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/04/25/wceu-contributor-day-what-should-we-work-on/)
 - [Meetup Organizer Newsletter: APRIL 2023](https://make.wordpress.org/community/2023/04/20/meetup-organizer-newsletter-april-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Updates to the Community Team Contributor Roles and Journey](https://make.wordpress.org/community/2023/04/12/updates-to-the-community-team-contributor-roles-and-journey/)
 - [It’s Time to Plan Your WP20 Anniversary Celebration!!](https://make.wordpress.org/community/2023/04/07/its-time-to-plan-your-wp20-anniversary-celebration/)
 - [Personalised Coupon Codes for WordCamps](https://make.wordpress.org/community/2023/04/06/personalised-coupon-codes-for-wordcamps/)
-- [Community Team Meeting Agenda for 6 April, 2023](https://make.wordpress.org/community/2023/04/05/community-team-meeting-agenda-for-6-april-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
