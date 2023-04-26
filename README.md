@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [widgets](https://developer.wordpress.org/rest-api/reference/widgets/)
-- [sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
-- [pattern-directory-items](https://developer.wordpress.org/rest-api/reference/pattern-directory-items/)
-- [nav_menus](https://developer.wordpress.org/rest-api/reference/nav_menus/)
-- [menu-locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
-- [nav_menu_items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
-- [nav_menu_item-revisions](https://developer.wordpress.org/rest-api/reference/nav_menu_item-revisions/)
-- [block-patterns](https://developer.wordpress.org/rest-api/reference/block-patterns/)
-- [block-pattern-categories](https://developer.wordpress.org/rest-api/reference/block-pattern-categories/)
-- [widget-types](https://developer.wordpress.org/rest-api/reference/widget-types/)
+- [Widgets](https://developer.wordpress.org/rest-api/reference/widgets/)
+- [Sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
+- [Pattern Directory Items](https://developer.wordpress.org/rest-api/reference/pattern-directory-items/)
+- [Nav_Menus](https://developer.wordpress.org/rest-api/reference/nav_menus/)
+- [Menu Locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
+- [Nav_Menu_Items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
+- [Nav_Menu_Item Revisions](https://developer.wordpress.org/rest-api/reference/nav_menu_item-revisions/)
+- [Block Patterns](https://developer.wordpress.org/rest-api/reference/block-patterns/)
+- [Block Pattern Categories](https://developer.wordpress.org/rest-api/reference/block-pattern-categories/)
+- [Widget Types](https://developer.wordpress.org/rest-api/reference/widget-types/)
 <!-- DEVHUB:END -->
 
 ## Themes
