@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Through the Terminal](https://wordpress.tv/2023/04/27/wordpress-through-the-terminal-3/)
 - [Velocizzare WordPress, possiamo farlo con Varnish Cache!](https://wordpress.tv/2023/04/27/velocizzare-wordpress-possiamo-farlo-con-varnish-cache/)
 - [Documento, quindi esisto](https://wordpress.tv/2023/04/27/documento-quindi-esisto/)
 - [Dai WordPress multisite ai multi network](https://wordpress.tv/2023/04/27/dai-wordpress-multisite-ai-multi-network/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress SEO Fehler – Die du vielleicht noch nie beachtet hast](https://wordpress.tv/2023/04/17/wordpress-seo-fehler-die-du-vielleicht-noch-nie-beachtet-hast/)
 - [WordPress Login mit 2-Faktor absichern](https://wordpress.tv/2023/04/17/wordpress-login-mit-2-faktor-absichern/)
 - [WordPress Websites hacken](https://wordpress.tv/2023/04/17/wordpress-websites-hacken/)
-- [WordPress X AI – Wo sind die Grenzen?](https://wordpress.tv/2023/04/16/wordpress-x-ai-wo-sind-die-grenzen/)
 <!-- WPTV:END -->
 
 ## Marketing
