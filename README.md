@@ -339,6 +339,19 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [5 provvedimenti del Garante e 3 errori comuni](https://wordpress.tv/2023/04/27/5-provvedimenti-del-garante-e-3-errori-comuni/)
+- [Lanciare e vendere prodotti digitali con WordPress](https://wordpress.tv/2023/04/27/lanciare-e-vendere-prodotti-digitali-con-wordpress/)
+- [Mi conviene essere etico-sostenibile sul lavoro? I vantaggi reali oltre le solite markette.](https://wordpress.tv/2023/04/27/mi-conviene-essere-etico-sostenibile-sul-lavoro-i-vantaggi-reali-oltre-le-solite-markette/)
+- [Come WordPress ha permesso di avere un impatto sul problema ambientale](https://wordpress.tv/2023/04/27/come-wordpress-ha-permesso-di-avere-un-impatto-sul-problema-ambientale/)
+- [Visione, intenzione, progetto: Design Culture Collective e la cultura della pratica progettuale](https://wordpress.tv/2023/04/27/visione-intenzione-progetto-design-culture-collective-e-la-cultura-della-pratica-progettuale/)
+- [IA e legalità tra immagini, testi e video](https://wordpress.tv/2023/04/27/ia-e-legalita-tra-immagini-testi-e-video/)
+- [Come aiutare un cliente al meglio, anche quando non hai tutte le risposte?](https://wordpress.tv/2023/04/27/come-aiutare-un-cliente-al-meglio-anche-quando-non-hai-tutte-le-risposte/)
+- [Tra informazione e fake news: il giornalismo indipendente nell’era di WordPress](https://wordpress.tv/2023/04/27/tra-informazione-e-fake-news-il-giornalismo-indipendente-nellera-di-wordpress/)
+- [Wendy e il CSS, lavorare con stile](https://wordpress.tv/2023/04/27/wendy-e-il-css-lavorare-con-stile/)
+- [Dimenticare le televendite e autopromuoversi serenamente](https://wordpress.tv/2023/04/27/dimenticare-le-televendite-e-autopromuoversi-serenamente/)
+- [La maternità mi ha resa una sviluppatrice migliore](https://wordpress.tv/2023/04/27/la-maternita-mi-ha-resa-una-sviluppatrice-migliore/)
+- [Abbracciare le nostre differenze: un viaggio verso un luogo di lavoro più colorato](https://wordpress.tv/2023/04/27/abbracciare-le-nostre-differenze-un-viaggio-verso-un-luogo-di-lavoro-piu-colorato/)
+- [Problemi di incompatibilità fra Google Analytics &lpar;e gli altri strumenti di analitica&rpar; e GDPR](https://wordpress.tv/2023/04/27/problemi-di-incompatibilita-fra-google-analytics-e-gli-altri-strumenti-di-analitica-e-gdpr/)
 - [Tipografia fluida accessibile nell’editor a blocchi](https://wordpress.tv/2023/04/27/tipografia-fluida-accessibile-nelleditor-a-blocchi/)
 - [Chi ha detto che WordPress non scala? Sfatiamo questo falso mito!](https://wordpress.tv/2023/04/27/chi-ha-detto-che-wordpress-non-scala-sfatiamo-questo-falso-mito/)
 - [Ottimizzare il sito dalla “testa”: tecniche pratiche per creare un sito WordPress che spacca](https://wordpress.tv/2023/04/27/ottimizzare-il-sito-dalla-testa-tecniche-pratiche-per-creare-un-sito-wordpress-che-spacca/)
@@ -351,19 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crawler killer: migliorare il mondo un robot alla volta](https://wordpress.tv/2023/04/27/crawler-killer-migliorare-il-mondo-un-robot-alla-volta/)
 - [Becoming a Better Developer](https://wordpress.tv/2023/04/26/becoming-a-better-developer/)
 - [Custom post types and capabilities](https://wordpress.tv/2023/04/26/custom-post-types-and-capabilities/)
-- [« Le marketing… très peu pour moi ! »](https://wordpress.tv/2023/04/24/le-marketing-tres-peu-pour-moi/)
-- [Optimiser la web performance d’un site WordPress](https://wordpress.tv/2023/04/24/optimiser-la-web-performance-dun-site-wordpress/)
-- [La checklist indispensable pour booster le SEO de WordPress et WooCommerce](https://wordpress.tv/2023/04/24/la-checklist-indispensable-pour-booster-le-seo-de-wordpress-et-woocommerce/)
-- [How to set up a free WordPress test environment](https://wordpress.tv/2023/04/21/fhow-to-set-up-a-free-wordpress-test-environment/)
-- [How to add a blog or news page to a WordPress website](https://wordpress.tv/2023/04/21/how-to-add-a-blog-or-news-page-to-a-wordpress-website/)
-- [Developing with user roles and capabilities](https://wordpress.tv/2023/04/21/developing-with-user-roles-and-capabilities/)
-- [Let’s code: WordPress multisite experiments](https://wordpress.tv/2023/04/21/lets-code-wordpress-multisite-experiments/)
-- [A Beginner’s Guide to Setting Up a Basic Website: Website Design](https://wordpress.tv/2023/04/20/a-beginners-guide-to-setting-up-a-basic-website-website-design/)
-- [A Beginner’s Guide to Setting Up a Basic Website: Content Planning](https://wordpress.tv/2023/04/20/a-beginners-guide-to-setting-up-a-basic-website-content-planning/)
-- [Building a page with only patterns](https://wordpress.tv/2023/04/18/building-a-page-with-only-patterns/)
-- [Developer Hours: Introduction to the Interactivity API](https://wordpress.tv/2023/04/18/developer-hours-introduction-to-the-interactivity-api/)
-- [Creating a custom template with the WordPress site editor](https://wordpress.tv/2023/04/17/creating-a-custom-template-with-the-wordpress-site-editor/)
-- [Developer Hours: Interactivity API &lpar;APAC / EMEA&rpar;](https://wordpress.tv/2023/04/17/developer-hours-interactivity-api-apac-emea/)
 <!-- WPTV:END -->
 
 ## Marketing
