@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for several plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-several-plugins-6/)
 - [PTE Request for: [WooCommerce, Visual…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-woocommerce-visual/)
 - [PTE Request for: [Gutenberg Blocks…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-gutenberg-blocks/)
 - [Agenda: Weekly Polyglots Chat – April 26, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/26/agenda-weekly-polyglots-chat-april-26-2023-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/04/24/pte-request-for-onoffice-for-wp-websites-4/)
 - [PTE Request for DB Robots.txt and DB Tagcloud for Woocommerce](https://make.wordpress.org/polyglots/2023/04/23/pte-request-for-db-robots-txt-and-db-tagcloud-for-woocommerce/)
 - [PTE Request for WP Force SSL &amp; HTTPS SSL Redirect + Getwid – Gutenberg Blocks](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-wp-force-ssl-https-ssl-redirect/)
-- [PTE Request for [Pasarela de pago para seQura]](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-pasarela-de-pago-para-sequra/)
 <!-- POLYGLOTS:END -->
 
 ## Support
