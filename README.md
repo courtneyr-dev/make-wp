@@ -59,16 +59,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for few plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-few-plugins/)
+- [PTE Request for…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-15/)
+- [Editor request – WPS Telegram Chat](https://make.wordpress.org/polyglots/2023/04/27/editor-request-wps-telegram-chat/)
 - [PTE Request for several plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-several-plugins-6/)
 - [PTE Request for: [WooCommerce, Visual…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-woocommerce-visual/)
-- [PTE Request for: [Gutenberg Blocks…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-gutenberg-blocks/)
 - [Agenda: Weekly Polyglots Chat – April 26, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/26/agenda-weekly-polyglots-chat-april-26-2023-1300-utc/)
 - [Waiting translations for CartBounty](https://make.wordpress.org/polyglots/2023/04/25/waiting-translations-for-cartbounty/)
 - [PTE Request for [TaxoPress is the WordPress Tag, Category, and Taxonomy Manager], [Wordfence Security – Firewall, Malware Scan, and Login Security], [WP-Optimize – Cache, Clean, Compress.]](https://make.wordpress.org/polyglots/2023/04/25/pte-request-for-taxopress-is-the-wordpress-tag-category-and-taxonomy-manager-wordfence-security-firewall-malware-scan-and-login-security-wp-optimize-cache-clean-compre/)
 - [Defining the Polyglots contributor ladder](https://make.wordpress.org/polyglots/2023/04/24/defining-the-polyglots-contributor-ladder/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/04/24/pte-request-for-onoffice-for-wp-websites-4/)
-- [PTE Request for DB Robots.txt and DB Tagcloud for Woocommerce](https://make.wordpress.org/polyglots/2023/04/23/pte-request-for-db-robots-txt-and-db-tagcloud-for-woocommerce/)
-- [PTE Request for WP Force SSL &amp; HTTPS SSL Redirect + Getwid – Gutenberg Blocks](https://make.wordpress.org/polyglots/2023/04/22/pte-request-for-wp-force-ssl-https-ssl-redirect/)
 <!-- POLYGLOTS:END -->
 
 ## Support
