@@ -339,6 +339,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Velocizzare WordPress, possiamo farlo con Varnish Cache!](https://wordpress.tv/2023/04/27/velocizzare-wordpress-possiamo-farlo-con-varnish-cache/)
+- [Documento, quindi esisto](https://wordpress.tv/2023/04/27/documento-quindi-esisto/)
+- [Dai WordPress multisite ai multi network](https://wordpress.tv/2023/04/27/dai-wordpress-multisite-ai-multi-network/)
+- [Crawler killer: migliorare il mondo un robot alla volta](https://wordpress.tv/2023/04/27/crawler-killer-migliorare-il-mondo-un-robot-alla-volta/)
 - [Becoming a Better Developer](https://wordpress.tv/2023/04/26/becoming-a-better-developer/)
 - [Custom post types and capabilities](https://wordpress.tv/2023/04/26/custom-post-types-and-capabilities/)
 - [« Le marketing… très peu pour moi ! »](https://wordpress.tv/2023/04/24/le-marketing-tres-peu-pour-moi/)
@@ -360,10 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Login mit 2-Faktor absichern](https://wordpress.tv/2023/04/17/wordpress-login-mit-2-faktor-absichern/)
 - [WordPress Websites hacken](https://wordpress.tv/2023/04/17/wordpress-websites-hacken/)
 - [WordPress X AI – Wo sind die Grenzen?](https://wordpress.tv/2023/04/16/wordpress-x-ai-wo-sind-die-grenzen/)
-- [Mastodon, das Fediverse – und WordPress](https://wordpress.tv/2023/04/16/mastodon-das-fediverse-und-wordpress/)
-- [WooCommerce Shops mit Gutenberg umsetzen](https://wordpress.tv/2023/04/16/woocommerce-shops-mit-gutenberg-umsetzen/)
-- [How to join the Training Team’s Welcome Committee](https://wordpress.tv/2023/04/15/how-to-join-the-training-teams-welcome-committee/)
-- [Using Template Parts](https://wordpress.tv/2023/04/14/using-template-parts/)
 <!-- WPTV:END -->
 
 ## Marketing
