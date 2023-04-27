@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Widgets](https://developer.wordpress.org/rest-api/reference/widgets/)
-- [Sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
+- [@wordpress/router](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-router/)
+- [Widget Types](https://developer.wordpress.org/rest-api/reference/widget-types/)
 - [Pattern Directory Items](https://developer.wordpress.org/rest-api/reference/pattern-directory-items/)
 - [Nav_Menus](https://developer.wordpress.org/rest-api/reference/nav_menus/)
-- [Menu Locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
 - [Nav_Menu_Items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
-- [Nav_Menu_Item Revisions](https://developer.wordpress.org/rest-api/reference/nav_menu_item-revisions/)
 - [Block Patterns](https://developer.wordpress.org/rest-api/reference/block-patterns/)
+- [Nav_Menu_Item Revisions](https://developer.wordpress.org/rest-api/reference/nav_menu_item-revisions/)
+- [Menu Locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
 - [Block Pattern Categories](https://developer.wordpress.org/rest-api/reference/block-pattern-categories/)
-- [Widget Types](https://developer.wordpress.org/rest-api/reference/widget-types/)
+- [Sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
 <!-- DEVHUB:END -->
 
 ## Themes
