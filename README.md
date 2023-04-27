@@ -339,6 +339,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tipografia fluida accessibile nell’editor a blocchi](https://wordpress.tv/2023/04/27/tipografia-fluida-accessibile-nelleditor-a-blocchi/)
+- [Chi ha detto che WordPress non scala? Sfatiamo questo falso mito!](https://wordpress.tv/2023/04/27/chi-ha-detto-che-wordpress-non-scala-sfatiamo-questo-falso-mito/)
+- [Ottimizzare il sito dalla “testa”: tecniche pratiche per creare un sito WordPress che spacca](https://wordpress.tv/2023/04/27/ottimizzare-il-sito-dalla-testa-tecniche-pratiche-per-creare-un-sito-wordpress-che-spacca/)
+- [Full site editing: Creare un tema da zero con supporto FSE e WordPress 6.2](https://wordpress.tv/2023/04/27/full-site-editing-creare-un-tema-da-zero-con-supporto-fse-e-wordpress-6-2/)
 - [Importing widget areas from a classic theme to a block theme](https://wordpress.tv/2023/04/27/importing-widget-areas-from-a-classic-theme-to-a-block-theme/)
 - [WordPress Through the Terminal](https://wordpress.tv/2023/04/27/wordpress-through-the-terminal-3/)
 - [Velocizzare WordPress, possiamo farlo con Varnish Cache!](https://wordpress.tv/2023/04/27/velocizzare-wordpress-possiamo-farlo-con-varnish-cache/)
@@ -360,10 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Introduction to the Interactivity API](https://wordpress.tv/2023/04/18/developer-hours-introduction-to-the-interactivity-api/)
 - [Creating a custom template with the WordPress site editor](https://wordpress.tv/2023/04/17/creating-a-custom-template-with-the-wordpress-site-editor/)
 - [Developer Hours: Interactivity API &lpar;APAC / EMEA&rpar;](https://wordpress.tv/2023/04/17/developer-hours-interactivity-api-apac-emea/)
-- [Website-Radar 2023: Zustand österreichischer Webseiten](https://wordpress.tv/2023/04/17/website-radar-2023-zustand-osterreichischer-webseiten/)
-- [Mehr Erfolg und Erfüllung in deinem WordPress-Business](https://wordpress.tv/2023/04/17/mehr-erfolg-und-erfullung-in-deinem-wordpress-business/)
-- [WordPress SEO Fehler – Die du vielleicht noch nie beachtet hast](https://wordpress.tv/2023/04/17/wordpress-seo-fehler-die-du-vielleicht-noch-nie-beachtet-hast/)
-- [WordPress Login mit 2-Faktor absichern](https://wordpress.tv/2023/04/17/wordpress-login-mit-2-faktor-absichern/)
 <!-- WPTV:END -->
 
 ## Marketing
