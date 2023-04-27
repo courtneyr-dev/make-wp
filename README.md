@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/core-commands](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-core-commands/)
 - [@wordpress/router](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-router/)
-- [Widget Types](https://developer.wordpress.org/rest-api/reference/widget-types/)
-- [Pattern Directory Items](https://developer.wordpress.org/rest-api/reference/pattern-directory-items/)
+- [Sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
 - [Nav_Menus](https://developer.wordpress.org/rest-api/reference/nav_menus/)
 - [Nav_Menu_Items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
-- [Block Patterns](https://developer.wordpress.org/rest-api/reference/block-patterns/)
 - [Nav_Menu_Item Revisions](https://developer.wordpress.org/rest-api/reference/nav_menu_item-revisions/)
-- [Menu Locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
 - [Block Pattern Categories](https://developer.wordpress.org/rest-api/reference/block-pattern-categories/)
-- [Sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
+- [Menu Locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
+- [Block Patterns](https://developer.wordpress.org/rest-api/reference/block-patterns/)
+- [Pattern Directory Items](https://developer.wordpress.org/rest-api/reference/pattern-directory-items/)
 <!-- DEVHUB:END -->
 
 ## Themes
