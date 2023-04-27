@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Importing widget areas from a classic theme to a block theme](https://wordpress.tv/2023/04/27/importing-widget-areas-from-a-classic-theme-to-a-block-theme/)
 - [WordPress Through the Terminal](https://wordpress.tv/2023/04/27/wordpress-through-the-terminal-3/)
 - [Velocizzare WordPress, possiamo farlo con Varnish Cache!](https://wordpress.tv/2023/04/27/velocizzare-wordpress-possiamo-farlo-con-varnish-cache/)
 - [Documento, quindi esisto](https://wordpress.tv/2023/04/27/documento-quindi-esisto/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mehr Erfolg und Erfüllung in deinem WordPress-Business](https://wordpress.tv/2023/04/17/mehr-erfolg-und-erfullung-in-deinem-wordpress-business/)
 - [WordPress SEO Fehler – Die du vielleicht noch nie beachtet hast](https://wordpress.tv/2023/04/17/wordpress-seo-fehler-die-du-vielleicht-noch-nie-beachtet-hast/)
 - [WordPress Login mit 2-Faktor absichern](https://wordpress.tv/2023/04/17/wordpress-login-mit-2-faktor-absichern/)
-- [WordPress Websites hacken](https://wordpress.tv/2023/04/17/wordpress-websites-hacken/)
 <!-- WPTV:END -->
 
 ## Marketing
