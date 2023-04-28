@@ -63,11 +63,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for few plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-few-plugins/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-15/)
 - [Editor request – WPS Telegram Chat](https://make.wordpress.org/polyglots/2023/04/27/editor-request-wps-telegram-chat/)
-- [PTE Request for several plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-several-plugins-6/)
+- [PTE Request for 13 plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-several-plugins-6/)
 - [PTE Request for: [WooCommerce, Visual…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-woocommerce-visual/)
 - [Agenda: Weekly Polyglots Chat – April 26, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/26/agenda-weekly-polyglots-chat-april-26-2023-1300-utc/)
 - [Waiting translations for CartBounty](https://make.wordpress.org/polyglots/2023/04/25/waiting-translations-for-cartbounty/)
-- [PTE Request for [TaxoPress is the WordPress Tag, Category, and Taxonomy Manager], [Wordfence Security – Firewall, Malware Scan, and Login Security], [WP-Optimize – Cache, Clean, Compress.]](https://make.wordpress.org/polyglots/2023/04/25/pte-request-for-taxopress-is-the-wordpress-tag-category-and-taxonomy-manager-wordfence-security-firewall-malware-scan-and-login-security-wp-optimize-cache-clean-compre/)
+- [Merged](https://make.wordpress.org/polyglots/2023/04/25/pte-request-for-taxopress-is-the-wordpress-tag-category-and-taxonomy-manager-wordfence-security-firewall-malware-scan-and-login-security-wp-optimize-cache-clean-compre/)
 - [Defining the Polyglots contributor ladder](https://make.wordpress.org/polyglots/2023/04/24/defining-the-polyglots-contributor-ladder/)
 <!-- POLYGLOTS:END -->
 
