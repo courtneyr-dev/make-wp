@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Rapid Website Recreation](https://wordpress.tv/2023/04/27/rapid-website-recreation/)
 - [5 provvedimenti del Garante e 3 errori comuni](https://wordpress.tv/2023/04/27/5-provvedimenti-del-garante-e-3-errori-comuni/)
 - [Lanciare e vendere prodotti digitali con WordPress](https://wordpress.tv/2023/04/27/lanciare-e-vendere-prodotti-digitali-con-wordpress/)
 - [Mi conviene essere etico-sostenibile sul lavoro? I vantaggi reali oltre le solite markette.](https://wordpress.tv/2023/04/27/mi-conviene-essere-etico-sostenibile-sul-lavoro-i-vantaggi-reali-oltre-le-solite-markette/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dai WordPress multisite ai multi network](https://wordpress.tv/2023/04/27/dai-wordpress-multisite-ai-multi-network/)
 - [Crawler killer: migliorare il mondo un robot alla volta](https://wordpress.tv/2023/04/27/crawler-killer-migliorare-il-mondo-un-robot-alla-volta/)
 - [Becoming a Better Developer](https://wordpress.tv/2023/04/26/becoming-a-better-developer/)
-- [Custom post types and capabilities](https://wordpress.tv/2023/04/26/custom-post-types-and-capabilities/)
 <!-- WPTV:END -->
 
 ## Marketing
