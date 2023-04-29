@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WordPress translations…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wordpress-translations/)
+- [PTE Request for WP User…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wp-user/)
 - [PTE Request for “Another simple image optimizer”](https://make.wordpress.org/polyglots/2023/04/28/pte-request-for-another-simple-image-optimizer/)
 - [Hi, I found an error…](https://make.wordpress.org/polyglots/2023/04/28/hi-i-found-an-error/)
 - [Themes to approval:](https://make.wordpress.org/polyglots/2023/04/28/themes-to-approval/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-15/)
 - [Editor request – WPS Telegram Chat](https://make.wordpress.org/polyglots/2023/04/27/editor-request-wps-telegram-chat/)
 - [PTE Request for 25 plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-several-plugins-6/)
-- [PTE Request for: [WooCommerce, Visual…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-woocommerce-visual/)
-- [Agenda: Weekly Polyglots Chat – April 26, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/04/26/agenda-weekly-polyglots-chat-april-26-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
