@@ -68,7 +68,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for few plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-few-plugins/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-15/)
 - [Editor request – WPS Telegram Chat](https://make.wordpress.org/polyglots/2023/04/27/editor-request-wps-telegram-chat/)
-- [PTE Request for 27 plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-several-plugins-6/)
+- [PTE Request for 28 plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-several-plugins-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
