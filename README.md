@@ -494,6 +494,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [People of WordPress: Monika Rao](https://wordpress.org/news/2023/04/people-of-wordpress-monika-rao/)
 - [WP Briefing: Episode 54: A Bill of Rights for the Open Web](https://wordpress.org/news/2023/04/episode-54-open-webs-bill-of-rights/)
 - [WP Briefing: Episode 53: A Look at WordPress 6.2 “Dolphy”](https://wordpress.org/news/2023/04/episode-53-a-look-at-wordpress-6-2-dolphy/)
 - [The Month in WordPress – March 2023](https://wordpress.org/news/2023/04/the-month-in-wordpress-march-2023/)
@@ -503,7 +504,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2 Release Candidate 3](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-3/)
 - [WordPress 6.2 Release Candidate 2](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-2/)
 - [WP Briefing: Episode 51: Is Routine a Rut?](https://wordpress.org/news/2023/03/episode-51-is-routine-a-rut/)
-- [WordPress 6.2 Release Candidate 1](https://wordpress.org/news/2023/03/wordpress-6-2-release-candidate-1/)
 <!-- NEWS:END -->
 
 ## Jobs
