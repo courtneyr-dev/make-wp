@@ -117,13 +117,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- DEVHUB:START -->
 - [@wordpress/core-commands](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-core-commands/)
 - [@wordpress/router](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-router/)
-- [Menu Locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
-- [Nav_Menus](https://developer.wordpress.org/rest-api/reference/nav_menus/)
-- [Widget Types](https://developer.wordpress.org/rest-api/reference/widget-types/)
 - [Sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
+- [Nav_Menus](https://developer.wordpress.org/rest-api/reference/nav_menus/)
+- [Nav_Menu_Items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
 - [Nav_Menu_Item Revisions](https://developer.wordpress.org/rest-api/reference/nav_menu_item-revisions/)
 - [Block Pattern Categories](https://developer.wordpress.org/rest-api/reference/block-pattern-categories/)
-- [Nav_Menu_Items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
+- [Menu Locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
+- [Block Patterns](https://developer.wordpress.org/rest-api/reference/block-patterns/)
 - [Pattern Directory Items](https://developer.wordpress.org/rest-api/reference/pattern-directory-items/)
 <!-- DEVHUB:END -->
 
