@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/05/01/ive-suggested-translations-for-this-28/)
 - [PTE Request for WordPress translations…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wordpress-translations/)
 - [PTE Request for WP User…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wp-user/)
 - [PTE Request for “Another simple image optimizer”](https://make.wordpress.org/polyglots/2023/04/28/pte-request-for-another-simple-image-optimizer/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for few plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-few-plugins/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-15/)
 - [Editor request – WPS Telegram Chat](https://make.wordpress.org/polyglots/2023/04/27/editor-request-wps-telegram-chat/)
-- [PTE Request for 28 plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-several-plugins-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
