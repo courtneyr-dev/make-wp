@@ -59,7 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [Hi there](https://make.wordpress.org/polyglots/2023/05/01/hi-there-9/)
+- [PTE Request for Advanced Custom…](https://make.wordpress.org/polyglots/2023/05/01/pte-request-for-advanced-custom-4/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/05/01/ive-suggested-translations-for-this-28/)
 - [PTE Request for WordPress translations…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wordpress-translations/)
 - [PTE Request for WP User…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wp-user/)
