@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Old errors in Friulian](https://make.wordpress.org/polyglots/2023/05/01/old-errors-in-friulian/)
+- [Plugin Translations – German &lpar;default&rpar;](https://make.wordpress.org/polyglots/2023/05/01/plugin-translations-german-default/)
 - [PTE Request for Advanced Custom…](https://make.wordpress.org/polyglots/2023/05/01/pte-request-for-advanced-custom-4/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/05/01/ive-suggested-translations-for-this-28/)
 - [PTE Request for WordPress translations…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wordpress-translations/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, I found an error…](https://make.wordpress.org/polyglots/2023/04/28/hi-i-found-an-error/)
 - [Themes to approval:](https://make.wordpress.org/polyglots/2023/04/28/themes-to-approval/)
 - [PTE Review Request for Business Directory Plugin](https://make.wordpress.org/polyglots/2023/04/27/pte-review-request-for-business-directory-plugin/)
-- [PTE Request for few plugins.](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-few-plugins/)
-- [PTE Request for…](https://make.wordpress.org/polyglots/2023/04/27/pte-request-for-15/)
 <!-- POLYGLOTS:END -->
 
 ## Support
