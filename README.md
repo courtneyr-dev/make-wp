@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/support/2023/05/xpost-whats-new-on-learn-wordpress-in-april-2023/)
 - [Summary for April 27th Support Meeting](https://make.wordpress.org/support/2023/04/summary-for-april-27th-support-meeting/)
 - [Summary for April 20th Support Meeting](https://make.wordpress.org/support/2023/04/summary-for-april-20th-support-meeting/)
 - [Agenda for April 27th Support Meeting](https://make.wordpress.org/support/2023/04/agenda-for-april-27th-support-meeting-2/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/support/2023/04/xpost-integrating-the-mobile-app-documentation-into-helphub/)
 - [Private Forum Moderators Channel](https://make.wordpress.org/support/2023/04/private-forum-moderators-channel/)
 - [Request for input: Support Stats](https://make.wordpress.org/support/2023/04/request-for-input-support-stats/)
-- [X-post: Introducing the Advanced Administration handbook](https://make.wordpress.org/support/2023/04/xpost-introducing-the-advanced-administration-handbook/)
 <!-- SUPPORT:END -->
 
 ## Documentation
