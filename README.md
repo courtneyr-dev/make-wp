@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Approval request for Waiting strings](https://make.wordpress.org/polyglots/2023/05/02/approval-request-for-waiting-strings/)
+- [PTE Request for CartBounty – Save and recover abandoned carts for WooCommerce](https://make.wordpress.org/polyglots/2023/05/02/pte-request-for-cartbounty-save-and-recover-abandoned-carts-for-woocommerce/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/05/02/pte-request-for-onoffice-for-wp-websites-5/)
 - [PTE Request for WP BrowserUpdate](https://make.wordpress.org/polyglots/2023/05/01/pte-request-for-wp-browserupdate-3/)
 - [Old errors in Friulian](https://make.wordpress.org/polyglots/2023/05/01/old-errors-in-friulian/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/05/01/ive-suggested-translations-for-this-28/)
 - [PTE Request for WordPress translations…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wordpress-translations/)
 - [PTE Request for WP User…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wp-user/)
-- [PTE Request for “Another simple image optimizer”](https://make.wordpress.org/polyglots/2023/04/28/pte-request-for-another-simple-image-optimizer/)
-- [Hi, I found an error…](https://make.wordpress.org/polyglots/2023/04/28/hi-i-found-an-error/)
 <!-- POLYGLOTS:END -->
 
 ## Support
