@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [2021-2022 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/community/2023/05/02/2021-2022-wordpress-meetup-survey-key-findings/)
 - [Report: #WPDiversity Inclusion and Diverse Speaker Workshops February and March 2023](https://make.wordpress.org/community/2023/05/02/report-wpdiversity-inclusion-and-diverse-speaker-workshops-february-and-march-2023/)
 - [WordCamp Mentors’ May check-in!](https://make.wordpress.org/community/2023/05/01/wordcamp-mentors-may-check-in/)
 - [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/community/2023/05/01/xpost-whats-new-on-learn-wordpress-in-april-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of Contributor Working Group’s Mentorship Chat on April 20, 2023](https://make.wordpress.org/community/2023/04/25/recap-of-contributor-working-groups-mentorship-chat-on-april-20-2023/)
 - [WCEU Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/04/25/wceu-contributor-day-what-should-we-work-on/)
 - [Meetup Organizer Newsletter: APRIL 2023](https://make.wordpress.org/community/2023/04/20/meetup-organizer-newsletter-april-2023/)
-- [Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/community/2023/04/19/cultivating-more-effective-contributing-on-contributor-days/)
 <!-- COMMUNITY:END -->
 
 ## Meta
