@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Live stream: Creating a block theme for developers. Part 2 | Gutenberg 15.7](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-2-gutenberg-15-7)
 - [Live stream: Creating a block theme for developers. Part 1](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-1)
 - [Bring me your issues: A New Hope | Gutenberg 15.6 features](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-issues-a-new-hope)
 - [Creating a custom template in the Site Editor](https://learn.wordpress.org/?meeting=creating-a-custom-template-in-the-site-editor)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 4](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-4)
 - [WP dev livestream: WordPress request lifecycle](https://learn.wordpress.org/?meeting=the-wordpress-request-lifecycle-2)
 - [The WordPress request lifecycle](https://learn.wordpress.org/?meeting=the-wordpress-request-lifecycle)
-- [A Guide to Open Source and WordPress &lpar;Timezone 2&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-timezone-2)
 <!-- SLS:END -->
 
 ## Test
