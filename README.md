@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Report: #WPDiversity Inclusion and Diverse Speaker Workshops February and March 2023](https://make.wordpress.org/community/2023/05/02/report-wpdiversity-inclusion-and-diverse-speaker-workshops-february-and-march-2023/)
 - [WordCamp Mentors’ May check-in!](https://make.wordpress.org/community/2023/05/01/wordcamp-mentors-may-check-in/)
 - [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/community/2023/05/01/xpost-whats-new-on-learn-wordpress-in-april-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on April 26, 2023](https://make.wordpress.org/community/2023/04/28/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-april-26-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCEU Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/04/25/wceu-contributor-day-what-should-we-work-on/)
 - [Meetup Organizer Newsletter: APRIL 2023](https://make.wordpress.org/community/2023/04/20/meetup-organizer-newsletter-april-2023/)
 - [Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/community/2023/04/19/cultivating-more-effective-contributing-on-contributor-days/)
-- [Contributor Working Group: Mentorship Chat Agenda | April 20th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/04/17/contributor-working-group-mentorship-chat-agenda-april-20th-0700-utc-apac-emea-and-1600-utc-amer/)
 <!-- COMMUNITY:END -->
 
 ## Meta
