@@ -316,7 +316,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 24 April 2023](https://make.wordpress.org/test/2023/04/24/xpost-test-team-update-24-april-2023/)
 - [Table Leads Needed for WCEU 2023 Contributor Day](https://make.wordpress.org/test/2023/04/24/table-leads-needed-for-wceu-2023-contributor-day/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/test/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
-- [FSE Program Testing Call #21: Front Page Fun](https://make.wordpress.org/test/2023/04/17/fse-program-testing-call-21-front-page-fun/)
+- [FSE Program Testing Call #22: Front Page Fun](https://make.wordpress.org/test/2023/04/17/fse-program-testing-call-21-front-page-fun/)
 - [X-post: Test Team Update: 17 April 2023](https://make.wordpress.org/test/2023/04/17/xpost-test-team-update-17-april-2023/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/test/2023/04/14/xpost-wordpress-at-20-in-print/)
 - [Test Chat Summary: 11 April 2023](https://make.wordpress.org/test/2023/04/11/test-chat-summary-11-april-2023/)
