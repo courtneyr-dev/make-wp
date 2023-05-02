@@ -508,7 +508,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Plugin developer](https://jobs.wordpress.net/job/plugin-developer-21/)
 - [Remote German IT Company Seeking Talented WordPress Developer &lpar;Frontend&rpar;](https://jobs.wordpress.net/job/remote-german-it-company-seeking-talented-wordpress-developer-frontend/)
 - [Senior Javascript Developer](https://jobs.wordpress.net/job/senior-javascript-developer-3/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-800/)
@@ -518,6 +517,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-4/)
 - [Multitalented Graphic Designer &amp; WordPress Website Designer / Developer for Full-Time Work Daily – Team Viewer](https://jobs.wordpress.net/job/multitalented-graphic-designer-wordpress-website-designer-developer-for-full-time-work-daily-team-viewer/)
 - [Mid-Level WordPress Developer](https://jobs.wordpress.net/job/mid-level-wordpress-developer-8/)
+- [Design and WordPress developer](https://jobs.wordpress.net/job/design-and-wordpress-developer/)
 <!-- JOBS:END -->
 
 ## Central
