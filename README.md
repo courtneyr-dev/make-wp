@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat agenda, May 3, 2023](https://make.wordpress.org/core/2023/05/02/dev-chat-agenda-may-03-2023/)
 - [Performance Chat Summary: 2 May 2023](https://make.wordpress.org/core/2023/05/02/performance-chat-summary-2-may-2023/)
 - [Let’s talk: WordPress Core &amp; Artificial Intelligence](https://make.wordpress.org/core/2023/05/02/lets-talk-wordpress-core-artificial-intelligence/)
 - [Proposal for enhancing LCP image performance with the fetchpriority attribute in WordPress core](https://make.wordpress.org/core/2023/05/02/proposal-for-enhancing-lcp-image-performance-with-fetchpriority/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Summary, April 26, 2023](https://make.wordpress.org/core/2023/04/27/dev-chat-summary-april-19-2023-2/)
 - [Editor chat summary: 26 April, 2023](https://make.wordpress.org/core/2023/04/26/editor-chat-summary-26-april-2023/)
 - [Editor Chat Agenda: 26 April 2023](https://make.wordpress.org/core/2023/04/26/editor-chat-agenda-26-april-2023/)
-- [Performance Chat Summary: 25 April 2023](https://make.wordpress.org/core/2023/04/25/performance-chat-summary-25-april-2023/)
 <!-- CORE:END -->
 
 ## Design
