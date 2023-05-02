@@ -285,7 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- SLS:START -->
 - [Live stream: Creating a block theme for developers. Part 2 | Gutenberg 15.7](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-2-gutenberg-15-7)
 - [Live stream: Creating a block theme for developers. Part 1](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-1)
-- [Bring me your issues: A New Hope | Gutenberg 15.6 features](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-issues-a-new-hope)
+- [Bring me your issues: A New Hope](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-issues-a-new-hope)
 - [Creating a custom template in the Site Editor](https://learn.wordpress.org/?meeting=creating-a-custom-template-in-the-site-editor)
 - [Building a page with only patterns](https://learn.wordpress.org/?meeting=building-a-page-with-only-patterns-2)
 - [Introduction to Block Themes: A Q&amp;A](https://learn.wordpress.org/?meeting=introduction-to-block-themes-a-qa)
