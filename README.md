@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Explorations for a notification form between documentation and Rosetta sites](https://make.wordpress.org/polyglots/2023/05/03/explorations-for-a-notification-form-between-documentation-and-rosetta-sites/)
 - [GTE Request for Gujarati Language…](https://make.wordpress.org/polyglots/2023/05/03/gte-request-for-gujarati-language/)
 - [Assign me to this plugin…](https://make.wordpress.org/polyglots/2023/05/03/assign-me-to-this-plugin/)
 - [PTE Request for Altis Accelerate](https://make.wordpress.org/polyglots/2023/05/03/pte-request-for-altis-accelerate/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for CartBounty – Save and recover abandoned carts for WooCommerce](https://make.wordpress.org/polyglots/2023/05/02/pte-request-for-cartbounty-save-and-recover-abandoned-carts-for-woocommerce/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/05/02/pte-request-for-onoffice-for-wp-websites-5/)
 - [PTE Request for WP BrowserUpdate](https://make.wordpress.org/polyglots/2023/05/01/pte-request-for-wp-browserupdate-3/)
-- [Old errors in Friulian](https://make.wordpress.org/polyglots/2023/05/01/old-errors-in-friulian/)
 <!-- POLYGLOTS:END -->
 
 ## Support
