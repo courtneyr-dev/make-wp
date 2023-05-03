@@ -157,6 +157,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 4 May, 2023](https://make.wordpress.org/community/2023/05/03/community-team-meeting-agenda-for-4-may-2023/)
+- [Announcing the 2023 Community Team Goals](https://make.wordpress.org/community/2023/05/03/announcing-the-2023-community-team-goals/)
 - [2021-2022 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/community/2023/05/02/2021-2022-wordpress-meetup-survey-key-findings/)
 - [Report: #WPDiversity Inclusion and Diverse Speaker Workshops February and March 2023](https://make.wordpress.org/community/2023/05/02/report-wpdiversity-inclusion-and-diverse-speaker-workshops-february-and-march-2023/)
 - [WordCamp Mentors’ May check-in!](https://make.wordpress.org/community/2023/05/01/wordcamp-mentors-may-check-in/)
@@ -165,8 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Report: #WPDiversity Diverse Speaker Workshops December 2022 and January 2023](https://make.wordpress.org/community/2023/04/27/report-wpdiversity-diverse-speaker-workshops-december-2022-and-january-2023/)
 - [New Handbook Page: Sharing External Events with Your Meetup](https://make.wordpress.org/community/2023/04/26/new-handbook-page-sharing-external-events-with-your-meetup/)
 - [Recap of Contributor Working Group’s Mentorship Chat on April 20, 2023](https://make.wordpress.org/community/2023/04/25/recap-of-contributor-working-groups-mentorship-chat-on-april-20-2023/)
-- [WCEU Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/04/25/wceu-contributor-day-what-should-we-work-on/)
-- [Meetup Organizer Newsletter: APRIL 2023](https://make.wordpress.org/community/2023/04/20/meetup-organizer-newsletter-april-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
