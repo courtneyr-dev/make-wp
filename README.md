@@ -516,8 +516,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-26/)
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-4/)
 - [Multitalented Graphic Designer &amp; WordPress Website Designer / Developer for Full-Time Work Daily – Team Viewer](https://jobs.wordpress.net/job/multitalented-graphic-designer-wordpress-website-designer-developer-for-full-time-work-daily-team-viewer/)
-- [Mid-Level WordPress Developer](https://jobs.wordpress.net/job/mid-level-wordpress-developer-8/)
 - [Design and WordPress developer](https://jobs.wordpress.net/job/design-and-wordpress-developer/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-799/)
 <!-- JOBS:END -->
 
 ## Central
