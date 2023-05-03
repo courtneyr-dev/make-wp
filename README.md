@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE Request for Korean Language &lpar;#ko-KR&rpar;](https://make.wordpress.org/polyglots/2023/05/03/gte-request-for-korean-language-ko-kr/)
 - [Approval request for Waiting strings](https://make.wordpress.org/polyglots/2023/05/02/approval-request-for-waiting-strings/)
 - [PTE Request for CartBounty – Save and recover abandoned carts for WooCommerce](https://make.wordpress.org/polyglots/2023/05/02/pte-request-for-cartbounty-save-and-recover-abandoned-carts-for-woocommerce/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/05/02/pte-request-for-onoffice-for-wp-websites-5/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Advanced Custom…](https://make.wordpress.org/polyglots/2023/05/01/pte-request-for-advanced-custom-4/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/05/01/ive-suggested-translations-for-this-28/)
 - [PTE Request for WordPress translations…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wordpress-translations/)
-- [PTE Request for WP User…](https://make.wordpress.org/polyglots/2023/04/29/pte-request-for-wp-user/)
 <!-- POLYGLOTS:END -->
 
 ## Support
