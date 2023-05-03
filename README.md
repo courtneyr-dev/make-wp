@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE Request for Gujarati Language…](https://make.wordpress.org/polyglots/2023/05/03/gte-request-for-gujarati-language/)
+- [Assign me to this plugin…](https://make.wordpress.org/polyglots/2023/05/03/assign-me-to-this-plugin/)
+- [PTE Request for Altis Accelerate](https://make.wordpress.org/polyglots/2023/05/03/pte-request-for-altis-accelerate/)
 - [Agenda: Weekly Polyglots Chat – May 03, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/03/agenda-weekly-polyglots-chat-may-03-2023-0700-utc/)
 - [GTE Request for Korean Language &lpar;#ko-KR&rpar;](https://make.wordpress.org/polyglots/2023/05/03/gte-request-for-korean-language-ko-kr/)
 - [Approval request for Waiting strings](https://make.wordpress.org/polyglots/2023/05/02/approval-request-for-waiting-strings/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/05/02/pte-request-for-onoffice-for-wp-websites-5/)
 - [PTE Request for WP BrowserUpdate](https://make.wordpress.org/polyglots/2023/05/01/pte-request-for-wp-browserupdate-3/)
 - [Old errors in Friulian](https://make.wordpress.org/polyglots/2023/05/01/old-errors-in-friulian/)
-- [Plugin Translations – German &lpar;default&rpar;](https://make.wordpress.org/polyglots/2023/05/01/plugin-translations-german-default/)
-- [PTE Request for Advanced Custom…](https://make.wordpress.org/polyglots/2023/05/01/pte-request-for-advanced-custom-4/)
-- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/05/01/ive-suggested-translations-for-this-28/)
 <!-- POLYGLOTS:END -->
 
 ## Support
