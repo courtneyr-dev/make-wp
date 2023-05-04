@@ -205,7 +205,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [نبذة عن لوحة البيانات](https://learn.wordpress.org/lesson-plan/ar-dashboard-overview/)
 - [தீம்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/ta-choosing-and-installing-themes/)
 - [தள எடிட்டர் மற்றும் டெம்ப்ளேட்களுக்கான அறிமுகம்](https://learn.wordpress.org/lesson-plan/ta-intro-to-the-site-editor-and-templates/)
-- [Pagine vs. articoli](https://learn.wordpress.org/lesson-plan/pagine-vs-articoli/)
+- [Pagine vs. articoli](https://learn.wordpress.org/lesson-plan/it-pages-versus-posts/)
 - [Cosa fare quando non ti ricordi la password](https://learn.wordpress.org/lesson-plan/cosa-fare-quando-non-ti-ricordi-la-password/)
 - [प्लगइन्स को चुनना और इंस्टॉल करना](https://learn.wordpress.org/lesson-plan/hi-choosing-and-installing-plugins/)
 - [டாஷ்போர்டு மேலோட்டம்](https://learn.wordpress.org/lesson-plan/ta-dashboard-overview/)
