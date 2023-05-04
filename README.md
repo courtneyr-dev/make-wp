@@ -199,7 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
-- [Scegliere e installare i plugin](https://learn.wordpress.org/lesson-plan/scegliere-e-installare-i-plugin/)
+- [Scegliere e installare i plugin](https://learn.wordpress.org/lesson-plan/it-choosing-and-installing-plugins/)
 - [செருகுநிரல்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/ta-choosing-and-installing-plugins/)
 - [பக்கங்கள் Vs. இடுகைகள்](https://learn.wordpress.org/lesson-plan/ta-pages-vs-posts/)
 - [نبذة عن لوحة البيانات](https://learn.wordpress.org/lesson-plan/ar-dashboard-overview/)
