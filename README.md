@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [[Series] Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-1-themes-fonts-styles)
 - [Online WordPress 20th Anniversary Celebration](https://learn.wordpress.org/?meeting=online-wordpress-20th-anniversary-celebration)
 - [Live stream: Creating a block theme for developers. Part 2 | Gutenberg 15.7](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-2-gutenberg-15-7)
 - [Live stream: Creating a block theme for developers. Part 1](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-1)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=33114)
 - [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-2-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 4](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-4)
-- [WP dev livestream: WordPress request lifecycle](https://learn.wordpress.org/?meeting=the-wordpress-request-lifecycle-2)
 <!-- SLS:END -->
 
 ## Test
