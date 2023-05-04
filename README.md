@@ -283,6 +283,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Create a four page WordPress website #4: Design templates](https://learn.wordpress.org/?meeting=create-a-four-page-wordpress-website-4-design-templates)
+- [[Series] Create a four page WordPress website #3: Creating effective pages](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-3-creating-effective-pages)
+- [[Series] Create a four page WordPress website #2: Headers &amp; footers](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-2-themes-fonts-styles)
 - [[Series] Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-1-themes-fonts-styles)
 - [Online WordPress 20th Anniversary Celebration](https://learn.wordpress.org/?meeting=online-wordpress-20th-anniversary-celebration)
 - [Live stream: Creating a block theme for developers. Part 2 | Gutenberg 15.7](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-2-gutenberg-15-7)
@@ -305,9 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: creating a WordPress multisite network](https://learn.wordpress.org/?meeting=lets-code-creating-a-wordpress-multisite-network)
 - [Community Sharing: Favorite Themes](https://learn.wordpress.org/?meeting=community-sharing-favorite-themes)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team)
-- [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=33114)
-- [WordPress 6.2 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-2-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 4](https://learn.wordpress.org/?meeting=updating-a-blogs-design-informal-live-stream-part-4)
 <!-- SLS:END -->
 
 ## Test
