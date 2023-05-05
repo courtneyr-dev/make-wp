@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [El uso correcto de los encabezados en las webs con WordPress](https://wordpress.tv/2023/05/05/el-uso-correcto-de-los-encabezados-en-las-webs-con-wordpress/)
 - [The WordPress request lifecycle](https://wordpress.tv/2023/05/05/the-wordpress-request-lifecycle/)
 - [Developing for multisite](https://wordpress.tv/2023/05/05/developing-for-multisite/)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 4](https://wordpress.tv/2023/05/04/updating-a-blogs-design-informal-live-stream-part-4/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ottimizzare il sito dalla “testa”: tecniche pratiche per creare un sito WordPress che spacca](https://wordpress.tv/2023/04/27/ottimizzare-il-sito-dalla-testa-tecniche-pratiche-per-creare-un-sito-wordpress-che-spacca/)
 - [Full site editing: Creare un tema da zero con supporto FSE e WordPress 6.2](https://wordpress.tv/2023/04/27/full-site-editing-creare-un-tema-da-zero-con-supporto-fse-e-wordpress-6-2/)
 - [Importing widget areas from a classic theme to a block theme](https://wordpress.tv/2023/04/27/importing-widget-areas-from-a-classic-theme-to-a-block-theme/)
-- [WordPress Through the Terminal](https://wordpress.tv/2023/04/27/wordpress-through-the-terminal-3/)
 <!-- WPTV:END -->
 
 ## Marketing
