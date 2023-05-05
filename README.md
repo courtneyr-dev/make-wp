@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 4](https://wordpress.tv/2023/05/04/updating-a-blogs-design-informal-live-stream-part-4/)
 - [Exploring category templates with block themes](https://wordpress.tv/2023/05/03/exploring-category-templates-with-block-themes/)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://wordpress.tv/2023/05/01/five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress/)
 - [Rapid Website Recreation](https://wordpress.tv/2023/04/27/rapid-website-recreation/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Through the Terminal](https://wordpress.tv/2023/04/27/wordpress-through-the-terminal-3/)
 - [Velocizzare WordPress, possiamo farlo con Varnish Cache!](https://wordpress.tv/2023/04/27/velocizzare-wordpress-possiamo-farlo-con-varnish-cache/)
 - [Documento, quindi esisto](https://wordpress.tv/2023/04/27/documento-quindi-esisto/)
-- [Dai WordPress multisite ai multi network](https://wordpress.tv/2023/04/27/dai-wordpress-multisite-ai-multi-network/)
 <!-- WPTV:END -->
 
 ## Marketing
