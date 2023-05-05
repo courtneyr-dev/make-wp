@@ -229,6 +229,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [Exploring category templates with block themes](https://learn.wordpress.org/tutorial/exploring-category-templates-with-block-themes/)
+- [The WordPress request lifecycle](https://learn.wordpress.org/tutorial/the-wordpress-request-lifecycle/)
 - [Rapid Website Recreation](https://learn.wordpress.org/tutorial/rapid-website-recreation/)
 - [Se familiariser avec le tableau de bord de WordPress](https://learn.wordpress.org/tutorial/fr-getting-to-know-the-wordpress-dashboard/)
 - [Importing widget areas from a classic theme to a block theme](https://learn.wordpress.org/tutorial/importing-widget-areas-from-a-classic-theme-to-a-block-theme/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Displaying testimonials on your website](https://learn.wordpress.org/tutorial/displaying-testimonials-on-your-website/)
 - [Interacting with the WordPress REST API](https://learn.wordpress.org/tutorial/interacting-with-the-wordpress-rest-api/)
 - [How to add and remove a logo and site icon in a WordPress block theme](https://learn.wordpress.org/tutorial/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/)
-- [Designing with the columns block](https://learn.wordpress.org/tutorial/designing-with-the-columns-block/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
