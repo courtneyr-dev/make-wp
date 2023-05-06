@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE Request for Persian Language](https://make.wordpress.org/polyglots/2023/05/06/gte-request-for-persian-language-2/)
 - [New locale request for Catalan Ebrenc.](https://make.wordpress.org/polyglots/2023/05/05/new-locale-request-for-catalan-ebrenc/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2023/05/05/hello-polyglots-301/)
 - [PTE Request for: [neve, astra,…](https://make.wordpress.org/polyglots/2023/05/05/pte-request-for-neve-astra/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Assign me to this plugin…](https://make.wordpress.org/polyglots/2023/05/03/assign-me-to-this-plugin/)
 - [PTE Request for Altis Accelerate](https://make.wordpress.org/polyglots/2023/05/03/pte-request-for-altis-accelerate/)
 - [Agenda: Weekly Polyglots Chat – May 03, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/03/agenda-weekly-polyglots-chat-may-03-2023-0700-utc/)
-- [GTE Request for Korean Language &lpar;#ko-KR&rpar;](https://make.wordpress.org/polyglots/2023/05/03/gte-request-for-korean-language-ko-kr/)
 <!-- POLYGLOTS:END -->
 
 ## Support
