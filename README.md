@@ -508,6 +508,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-9/)
+- [Draw om maps](https://jobs.wordpress.net/job/draw-om-maps/)
 - [Full Stack Engineer](https://jobs.wordpress.net/job/full-stack-engineer/)
 - [Software Engineering Technical Lead](https://jobs.wordpress.net/job/software-engineering-technical-lead/)
 - [Need Disqus Comments Working On Infinite Scroll](https://jobs.wordpress.net/job/need-disqus-comments-working-on-infinite-scroll/)
@@ -516,8 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remote German IT Company Seeking Talented WordPress Developer &lpar;Frontend&rpar;](https://jobs.wordpress.net/job/remote-german-it-company-seeking-talented-wordpress-developer-frontend/)
 - [Senior Javascript Developer](https://jobs.wordpress.net/job/senior-javascript-developer-3/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-800/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-81/)
-- [Full Stack WordPress Engineer](https://jobs.wordpress.net/job/full-stack-wordpress-engineer/)
 <!-- JOBS:END -->
 
 ## Central
