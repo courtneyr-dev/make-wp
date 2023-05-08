@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translate Live: Updates to the Translation Playground](https://make.wordpress.org/polyglots/2023/05/08/translate-live-updates-to-the-translation-playground/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/05/08/hi-dear-mentors-we-have-116/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/05/08/hi-dear-mentors-we-have-115/)
 - [PTE Request for Hashtags for WordPress](https://make.wordpress.org/polyglots/2023/05/07/pte-request-for-hashtags-for-wordpress/)
 - [PTE Request for AI-Content-Creator and other plugins.](https://make.wordpress.org/polyglots/2023/05/07/pte-request-for-ai-content-creator-and-other-plugins/)
 - [GTE Request for Persian Language](https://make.wordpress.org/polyglots/2023/05/06/gte-request-for-persian-language-2/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2023/05/05/hello-polyglots-301/)
 - [PTE Request for: [neve, astra,…](https://make.wordpress.org/polyglots/2023/05/05/pte-request-for-neve-astra/)
 - [GTE Request for Persian Language](https://make.wordpress.org/polyglots/2023/05/04/gte-request-for-persian-language/)
-- [Explorations for a notification form between documentation and Rosetta sites](https://make.wordpress.org/polyglots/2023/05/03/explorations-for-a-notification-form-between-documentation-and-rosetta-sites/)
-- [GTE Request for Gujarati Language…](https://make.wordpress.org/polyglots/2023/05/03/gte-request-for-gujarati-language/)
-- [Assign me to this plugin…](https://make.wordpress.org/polyglots/2023/05/03/assign-me-to-this-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
