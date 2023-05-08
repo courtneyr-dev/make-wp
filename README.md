@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s set up a new header and footer &lpar;block theme&rpar;](https://learn.wordpress.org/?meeting=lets-set-up-a-new-header-and-footer-block-theme)
 - [Testing plugins for PHP 8](https://learn.wordpress.org/?meeting=testing-plugins-for-php-8)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme)
 - [Create a four page WordPress website #4: Design templates](https://learn.wordpress.org/?meeting=create-a-four-page-wordpress-website-4-design-templates)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Beginner’s Guide to Setting Up a Basic Website: Content Planning](https://learn.wordpress.org/?meeting=a-beginners-guide-to-setting-up-a-basic-website-content-planning)
 - [Becoming a Better Developer](https://learn.wordpress.org/?meeting=becoming-a-better-developer)
 - [Building a page with only patterns](https://learn.wordpress.org/?meeting=building-a-page-with-only-patterns)
-- [Let’s code: creating a WordPress multisite network](https://learn.wordpress.org/?meeting=lets-code-creating-a-wordpress-multisite-network)
 <!-- SLS:END -->
 
 ## Test
