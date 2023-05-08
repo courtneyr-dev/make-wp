@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for May 09, 2023](https://make.wordpress.org/themes/2023/05/08/themes-team-meeting-agenda-for-may-09-2023/)
 - [Stacks: The first community theme](https://make.wordpress.org/themes/2023/05/04/stacks-the-first-community-theme/)
 - [Themes Team Meeting Notes – March 25, 2023](https://make.wordpress.org/themes/2023/04/26/themes-team-meeting-notes-march-25-2023/)
 - [Themes team meeting agenda for April 25, 2023](https://make.wordpress.org/themes/2023/04/24/themes-team-meeting-agenda-for-april-25-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/themes/2023/04/10/xpost-wordpress-org-redesign-update-2/)
 - [Themes team meeting agenda for April 11, 2023](https://make.wordpress.org/themes/2023/04/10/themes-team-meeting-agenda-for-april-11-2023/)
 - [Theme Handbook Overhaul Proposal](https://make.wordpress.org/themes/2023/04/04/theme-handbook-overhaul-proposal/)
-- [X-post: Themes team update April 04, 2023](https://make.wordpress.org/themes/2023/04/04/xpost-themes-team-update-april-04-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
