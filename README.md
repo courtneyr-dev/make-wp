@@ -339,6 +339,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Constructeurs de page et développement sur mesure : les bienfaits de l’approche hybride](https://wordpress.tv/2023/05/08/constructeurs-de-page-et-developpement-sur-mesure-les-bienfaits-de-lapproche-hybride/)
+- [Code source de WordPress : 20 ans de poésie ?](https://wordpress.tv/2023/05/08/code-source-de-wordpress-20-ans-de-poesie/)
 - [Creating a custom template in the site editor](https://wordpress.tv/2023/05/08/creating-a-custom-template-in-the-site-editor/)
 - [Plongez dans l’univers passionnant du design éthique sur le web !](https://wordpress.tv/2023/05/08/plongez-dans-lunivers-passionnant-du-design-ethique-sur-le-web/)
 - [El uso correcto de los encabezados en las webs con WordPress](https://wordpress.tv/2023/05/05/el-uso-correcto-de-los-encabezados-en-las-webs-con-wordpress/)
@@ -362,8 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Abbracciare le nostre differenze: un viaggio verso un luogo di lavoro più colorato](https://wordpress.tv/2023/04/27/abbracciare-le-nostre-differenze-un-viaggio-verso-un-luogo-di-lavoro-piu-colorato/)
 - [Problemi di incompatibilità fra Google Analytics &lpar;e gli altri strumenti di analitica&rpar; e GDPR](https://wordpress.tv/2023/04/27/problemi-di-incompatibilita-fra-google-analytics-e-gli-altri-strumenti-di-analitica-e-gdpr/)
 - [Tipografia fluida accessibile nell’editor a blocchi](https://wordpress.tv/2023/04/27/tipografia-fluida-accessibile-nelleditor-a-blocchi/)
-- [Chi ha detto che WordPress non scala? Sfatiamo questo falso mito!](https://wordpress.tv/2023/04/27/chi-ha-detto-che-wordpress-non-scala-sfatiamo-questo-falso-mito/)
-- [Ottimizzare il sito dalla “testa”: tecniche pratiche per creare un sito WordPress che spacca](https://wordpress.tv/2023/04/27/ottimizzare-il-sito-dalla-testa-tecniche-pratiche-per-creare-un-sito-wordpress-che-spacca/)
 <!-- WPTV:END -->
 
 ## Marketing
