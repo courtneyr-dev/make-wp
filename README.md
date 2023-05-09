@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Plongez dans l’univers passionnant du design éthique sur le web !](https://wordpress.tv/2023/05/08/plongez-dans-lunivers-passionnant-du-design-ethique-sur-le-web/)
 - [El uso correcto de los encabezados en las webs con WordPress](https://wordpress.tv/2023/05/05/el-uso-correcto-de-los-encabezados-en-las-webs-con-wordpress/)
 - [The WordPress request lifecycle](https://wordpress.tv/2023/05/05/the-wordpress-request-lifecycle/)
 - [Developing for multisite](https://wordpress.tv/2023/05/05/developing-for-multisite/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Chi ha detto che WordPress non scala? Sfatiamo questo falso mito!](https://wordpress.tv/2023/04/27/chi-ha-detto-che-wordpress-non-scala-sfatiamo-questo-falso-mito/)
 - [Ottimizzare il sito dalla “testa”: tecniche pratiche per creare un sito WordPress che spacca](https://wordpress.tv/2023/04/27/ottimizzare-il-sito-dalla-testa-tecniche-pratiche-per-creare-un-sito-wordpress-che-spacca/)
 - [Full site editing: Creare un tema da zero con supporto FSE e WordPress 6.2](https://wordpress.tv/2023/04/27/full-site-editing-creare-un-tema-da-zero-con-supporto-fse-e-wordpress-6-2/)
-- [Importing widget areas from a classic theme to a block theme](https://wordpress.tv/2023/04/27/importing-widget-areas-from-a-classic-theme-to-a-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
