@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://wordpress.tv/2023/05/09/create-a-four-page-wordpress-website-1-themes-fonts-styles/)
 - [Cómo podemos hacer el proyecto de WordPress más sostenible](https://wordpress.tv/2023/05/09/como-podemos-hacer-el-proyecto-de-wordpress-mas-sostenible/)
 - [Developer handoff](https://wordpress.tv/2023/05/09/developer-handoff/)
 - [Coneixes PHP? Doncs crea el teu propi plugin](https://wordpress.tv/2023/05/09/coneixes-php-doncs-crea-el-teu-propi-plugin/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crea la teva estratègia de continguts amb CHATGPT sense que Google et penalitzi](https://wordpress.tv/2023/05/09/crea-la-teva-estrategia-de-continguts-amb-chatgpt-sense-que-google-et-penalitzi/)
 - [Presentación de la WordCamp Barcelona 2023](https://wordpress.tv/2023/05/09/presentacion-de-la-wordcamp-barcelona-2023/)
 - [Agence et Freelance WordPress : il devient urgent de ne plus confondre vos obligations RGPD avec celles de vos clients !](https://wordpress.tv/2023/05/09/agence-et-freelance-wordpress-il-devient-urgent-de-ne-plus-confondre-vos-obligations-rgpd-avec-celles-de-vos-clients/)
-- [Concevoir une boutique WooCommerce &lpar;vraiment&rpar; sexy](https://wordpress.tv/2023/05/09/concevoir-une-boutique-woocommerce-vraiment-sexy/)
 <!-- WPTV:END -->
 
 ## Marketing
