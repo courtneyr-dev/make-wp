@@ -339,6 +339,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Agence et Freelance WordPress : il devient urgent de ne plus confondre vos obligations RGPD avec celles de vos clients !](https://wordpress.tv/2023/05/09/agence-et-freelance-wordpress-il-devient-urgent-de-ne-plus-confondre-vos-obligations-rgpd-avec-celles-de-vos-clients/)
+- [Concevoir une boutique WooCommerce &lpar;vraiment&rpar; sexy](https://wordpress.tv/2023/05/09/concevoir-une-boutique-woocommerce-vraiment-sexy/)
 - [Comment j’utilise l’IA dans mon quotidien avec WordPress](https://wordpress.tv/2023/05/08/comment-jutilise-lia-dans-mon-quotidien-avec-wordpress/)
 - [Constructeurs de page et développement sur mesure : les bienfaits de l’approche hybride](https://wordpress.tv/2023/05/08/constructeurs-de-page-et-developpement-sur-mesure-les-bienfaits-de-lapproche-hybride/)
 - [Code source de WordPress : 20 ans de poésie ?](https://wordpress.tv/2023/05/08/code-source-de-wordpress-20-ans-de-poesie/)
@@ -362,8 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Wendy e il CSS, lavorare con stile](https://wordpress.tv/2023/04/27/wendy-e-il-css-lavorare-con-stile/)
 - [Dimenticare le televendite e autopromuoversi serenamente](https://wordpress.tv/2023/04/27/dimenticare-le-televendite-e-autopromuoversi-serenamente/)
 - [La maternità mi ha resa una sviluppatrice migliore](https://wordpress.tv/2023/04/27/la-maternita-mi-ha-resa-una-sviluppatrice-migliore/)
-- [Abbracciare le nostre differenze: un viaggio verso un luogo di lavoro più colorato](https://wordpress.tv/2023/04/27/abbracciare-le-nostre-differenze-un-viaggio-verso-un-luogo-di-lavoro-piu-colorato/)
-- [Problemi di incompatibilità fra Google Analytics &lpar;e gli altri strumenti di analitica&rpar; e GDPR](https://wordpress.tv/2023/04/27/problemi-di-incompatibilita-fra-google-analytics-e-gli-altri-strumenti-di-analitica-e-gdpr/)
 <!-- WPTV:END -->
 
 ## Marketing
