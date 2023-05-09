@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap for May 2nd, 2023](https://make.wordpress.org/training/2023/05/09/training-team-meeting-recap-for-may-2nd-2023/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/training/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [Proposal: Creating GitHub project boards for SMEs and Translators](https://make.wordpress.org/training/2023/05/05/proposal-creating-github-project-boards-for-smes-and-translators/)
 - [Training Team Meeting Recap for April 25th 2023](https://make.wordpress.org/training/2023/05/04/training-team-meeting-recap-for-april-25th-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap: Content Localization Foundations Project](https://make.wordpress.org/training/2023/05/01/recap-content-localization-foundations-project/)
 - [Training Team Meeting Recap for April 11, 2023](https://make.wordpress.org/training/2023/04/29/training-team-meeting-recap-for-april-11-2023/)
 - [Meeting Recap for April 18th, 2023](https://make.wordpress.org/training/2023/04/18/meeting-recap-for-april-18th-2023/)
-- [Project: Developments and Customizations for Training and Learn Website](https://make.wordpress.org/training/2023/04/18/developments-and-customizations-for-training-and-learn-website/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
