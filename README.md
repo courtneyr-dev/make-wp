@@ -339,6 +339,18 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Google s’estima els gats? La realitat darrera del posicionament dels dominis .cat](https://wordpress.tv/2023/05/09/google-sestima-els-gats-la-realitat-darrera-del-posicionament-dels-dominis-cat/)
+- [En el codi, com a la cuina, s’ha de seguir la recepta](https://wordpress.tv/2023/05/09/en-el-codi-com-a-la-cuina-sha-de-seguir-la-recepta/)
+- [Exprimiendo al máximo los hooks &lpar;actions, filters&rpar; a partir de casos reales](https://wordpress.tv/2023/05/09/exprimiendo-al-maximo-los-hooks-actions-filters-a-partir-de-casos-reales/)
+- [Caballo de troya: vulnerabilidades en WordPress](https://wordpress.tv/2023/05/09/caballo-de-troya-vulnerabilidades-en-wordpress/)
+- [¿Por qué tengo que luchar por la diversidad en WordPress?](https://wordpress.tv/2023/05/09/por-que-tengo-que-luchar-por-la-diversidad-en-wordpress/)
+- [Crear opciones de configuración en WordPress con ACF](https://wordpress.tv/2023/05/09/crear-opciones-de-configuracion-en-wordpress-con-acf/)
+- [WordPress per a creació de projectes culturals](https://wordpress.tv/2023/05/09/wordpress-per-a-creacio-de-projectes-culturals/)
+- [A/B testing con WordPress](https://wordpress.tv/2023/05/09/a-b-testing-con-wordpress/)
+- [Com WordPress va ajudar a una ensinistradora sense coneixements a escalar](https://wordpress.tv/2023/05/09/com-wordpress-va-ajudar-a-una-ensinistradora-sense-coneixements-a-escalar/)
+- [Administra WordPress des de la línia d’ordres &lpar;CLI&rpar;](https://wordpress.tv/2023/05/09/administra-wordpress-des-de-la-linia-dordres-cli/)
+- [Crea desde cero la estrategia de transporte para tu tienda online](https://wordpress.tv/2023/05/09/crea-desde-cero-la-estrategia-de-transporte-para-tu-tienda-online/)
+- [Fes servir l’Editor de Lloc &lpar;FSE&rpar; per construir la teva web i oblida’t dels constructors](https://wordpress.tv/2023/05/09/fes-servir-leditor-de-lloc-fse-per-construir-la-teva-web-i-oblidat-dels-constructors/)
 - [L’editor de blocs: des del disseny a mida fins a l’entrega al client final](https://wordpress.tv/2023/05/09/leditor-de-blocs-des-del-disseny-a-mida-fins-a-lentrega-al-client-final/)
 - [Consells per crear una web multiidioma en WordPress](https://wordpress.tv/2023/05/09/consells-per-crear-una-web-multiidioma-en-wordpress/)
 - [Taller de gutenberg desde cero: déjate camelar con casos prácticos](https://wordpress.tv/2023/05/09/taller-de-gutenberg-desde-cero-dejate-camelar-con-casos-practicos/)
@@ -352,18 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Comment j’utilise l’IA dans mon quotidien avec WordPress](https://wordpress.tv/2023/05/08/comment-jutilise-lia-dans-mon-quotidien-avec-wordpress/)
 - [Constructeurs de page et développement sur mesure : les bienfaits de l’approche hybride](https://wordpress.tv/2023/05/08/constructeurs-de-page-et-developpement-sur-mesure-les-bienfaits-de-lapproche-hybride/)
 - [Code source de WordPress : 20 ans de poésie ?](https://wordpress.tv/2023/05/08/code-source-de-wordpress-20-ans-de-poesie/)
-- [Creating a custom template in the site editor](https://wordpress.tv/2023/05/08/creating-a-custom-template-in-the-site-editor/)
-- [Plongez dans l’univers passionnant du design éthique sur le web !](https://wordpress.tv/2023/05/08/plongez-dans-lunivers-passionnant-du-design-ethique-sur-le-web/)
-- [El uso correcto de los encabezados en las webs con WordPress](https://wordpress.tv/2023/05/05/el-uso-correcto-de-los-encabezados-en-las-webs-con-wordpress/)
-- [The WordPress request lifecycle](https://wordpress.tv/2023/05/05/the-wordpress-request-lifecycle/)
-- [Developing for multisite](https://wordpress.tv/2023/05/05/developing-for-multisite/)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 4](https://wordpress.tv/2023/05/04/updating-a-blogs-design-informal-live-stream-part-4/)
-- [Exploring category templates with block themes](https://wordpress.tv/2023/05/03/exploring-category-templates-with-block-themes/)
-- [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://wordpress.tv/2023/05/01/five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress/)
-- [Rapid Website Recreation](https://wordpress.tv/2023/04/27/rapid-website-recreation/)
-- [5 provvedimenti del Garante e 3 errori comuni](https://wordpress.tv/2023/04/27/5-provvedimenti-del-garante-e-3-errori-comuni/)
-- [Lanciare e vendere prodotti digitali con WordPress](https://wordpress.tv/2023/04/27/lanciare-e-vendere-prodotti-digitali-con-wordpress/)
-- [Mi conviene essere etico-sostenibile sul lavoro? I vantaggi reali oltre le solite markette.](https://wordpress.tv/2023/04/27/mi-conviene-essere-etico-sostenibile-sul-lavoro-i-vantaggi-reali-oltre-le-solite-markette/)
 <!-- WPTV:END -->
 
 ## Marketing
