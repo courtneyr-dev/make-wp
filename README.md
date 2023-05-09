@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Ajax Search Lite](https://make.wordpress.org/polyglots/2023/05/09/post-title-pte-request-for-ajax-search-lite/)
+- [Some updates at translate.wordpress.org](https://make.wordpress.org/polyglots/2023/05/09/some-updates-at-translate-wordpress-org/)
 - [PTE Request for SEOPress](https://make.wordpress.org/polyglots/2023/05/09/pte-request-for-seopress-3/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/polyglots/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [I have registered as per…](https://make.wordpress.org/polyglots/2023/05/08/i-have-registered-as-per/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/05/08/hi-dear-mentors-we-have-115/)
 - [PTE Request for Hashtags for WordPress](https://make.wordpress.org/polyglots/2023/05/07/pte-request-for-hashtags-for-wordpress/)
 - [PTE Request for AI-Content-Creator and other plugins.](https://make.wordpress.org/polyglots/2023/05/07/pte-request-for-ai-content-creator-and-other-plugins/)
-- [GTE Request for Persian Language](https://make.wordpress.org/polyglots/2023/05/06/gte-request-for-persian-language-2/)
-- [New locale request for Catalan Ebrenc.](https://make.wordpress.org/polyglots/2023/05/05/new-locale-request-for-catalan-ebrenc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
