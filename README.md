@@ -513,11 +513,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Draw om maps](https://jobs.wordpress.net/job/draw-om-maps/)
 - [Full Stack Engineer](https://jobs.wordpress.net/job/full-stack-engineer/)
 - [Software Engineering Technical Lead](https://jobs.wordpress.net/job/software-engineering-technical-lead/)
-- [Need Disqus Comments Working On Infinite Scroll](https://jobs.wordpress.net/job/need-disqus-comments-working-on-infinite-scroll/)
 - [Technical Trainer/Mentor](https://jobs.wordpress.net/job/technical-trainer-mentor/)
 - [Founding Fullstack Engineer](https://jobs.wordpress.net/job/founding-fullstack-engineer/)
 - [Remote German IT Company Seeking Talented WordPress Developer &lpar;Frontend&rpar;](https://jobs.wordpress.net/job/remote-german-it-company-seeking-talented-wordpress-developer-frontend/)
 - [Senior Javascript Developer](https://jobs.wordpress.net/job/senior-javascript-developer-3/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-800/)
 <!-- JOBS:END -->
 
 ## Central
