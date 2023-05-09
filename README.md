@@ -339,6 +339,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [L’editor de blocs: des del disseny a mida fins a l’entrega al client final](https://wordpress.tv/2023/05/09/leditor-de-blocs-des-del-disseny-a-mida-fins-a-lentrega-al-client-final/)
+- [Consells per crear una web multiidioma en WordPress](https://wordpress.tv/2023/05/09/consells-per-crear-una-web-multiidioma-en-wordpress/)
+- [Taller de gutenberg desde cero: déjate camelar con casos prácticos](https://wordpress.tv/2023/05/09/taller-de-gutenberg-desde-cero-dejate-camelar-con-casos-practicos/)
+- [WordPress des de zero: primeres passes](https://wordpress.tv/2023/05/09/wordpress-des-de-zero-primeres-passes/)
+- [Entén i millora la velocitat del teu web WordPress](https://wordpress.tv/2023/05/09/enten-i-millora-la-velocitat-del-teu-web-wordpress/)
+- [eCommerce per a “dummies”: Què munto?](https://wordpress.tv/2023/05/09/ecommerce-per-a-dummies-que-munto/)
+- [Crea la teva estratègia de continguts amb CHATGPT sense que Google et penalitzi](https://wordpress.tv/2023/05/09/crea-la-teva-estrategia-de-continguts-amb-chatgpt-sense-que-google-et-penalitzi/)
+- [Presentación de la WordCamp Barcelona 2023](https://wordpress.tv/2023/05/09/presentacion-de-la-wordcamp-barcelona-2023/)
 - [Agence et Freelance WordPress : il devient urgent de ne plus confondre vos obligations RGPD avec celles de vos clients !](https://wordpress.tv/2023/05/09/agence-et-freelance-wordpress-il-devient-urgent-de-ne-plus-confondre-vos-obligations-rgpd-avec-celles-de-vos-clients/)
 - [Concevoir une boutique WooCommerce &lpar;vraiment&rpar; sexy](https://wordpress.tv/2023/05/09/concevoir-une-boutique-woocommerce-vraiment-sexy/)
 - [Comment j’utilise l’IA dans mon quotidien avec WordPress](https://wordpress.tv/2023/05/08/comment-jutilise-lia-dans-mon-quotidien-avec-wordpress/)
@@ -356,14 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [5 provvedimenti del Garante e 3 errori comuni](https://wordpress.tv/2023/04/27/5-provvedimenti-del-garante-e-3-errori-comuni/)
 - [Lanciare e vendere prodotti digitali con WordPress](https://wordpress.tv/2023/04/27/lanciare-e-vendere-prodotti-digitali-con-wordpress/)
 - [Mi conviene essere etico-sostenibile sul lavoro? I vantaggi reali oltre le solite markette.](https://wordpress.tv/2023/04/27/mi-conviene-essere-etico-sostenibile-sul-lavoro-i-vantaggi-reali-oltre-le-solite-markette/)
-- [Come WordPress ha permesso di avere un impatto sul problema ambientale](https://wordpress.tv/2023/04/27/come-wordpress-ha-permesso-di-avere-un-impatto-sul-problema-ambientale/)
-- [Visione, intenzione, progetto: Design Culture Collective e la cultura della pratica progettuale](https://wordpress.tv/2023/04/27/visione-intenzione-progetto-design-culture-collective-e-la-cultura-della-pratica-progettuale/)
-- [IA e legalità tra immagini, testi e video](https://wordpress.tv/2023/04/27/ia-e-legalita-tra-immagini-testi-e-video/)
-- [Come aiutare un cliente al meglio, anche quando non hai tutte le risposte?](https://wordpress.tv/2023/04/27/come-aiutare-un-cliente-al-meglio-anche-quando-non-hai-tutte-le-risposte/)
-- [Tra informazione e fake news: il giornalismo indipendente nell’era di WordPress](https://wordpress.tv/2023/04/27/tra-informazione-e-fake-news-il-giornalismo-indipendente-nellera-di-wordpress/)
-- [Wendy e il CSS, lavorare con stile](https://wordpress.tv/2023/04/27/wendy-e-il-css-lavorare-con-stile/)
-- [Dimenticare le televendite e autopromuoversi serenamente](https://wordpress.tv/2023/04/27/dimenticare-le-televendite-e-autopromuoversi-serenamente/)
-- [La maternità mi ha resa una sviluppatrice migliore](https://wordpress.tv/2023/04/27/la-maternita-mi-ha-resa-una-sviluppatrice-migliore/)
 <!-- WPTV:END -->
 
 ## Marketing
