@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/design/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [Design Share: Apr 24–May 5](https://make.wordpress.org/design/2023/05/08/design-share-apr-24-may-5/)
 - [Design Share: Mar 27-Apr 21](https://make.wordpress.org/design/2023/04/24/design-share-mar-27-apr-21/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/design/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share: Mar 13–Mar 24](https://make.wordpress.org/design/2023/03/27/design-share-mar-13-mar-24/)
 - [Design Share: Feb 13–Mar 10](https://make.wordpress.org/design/2023/03/13/design-share-feb-13-mar-10/)
 - [Design Share: Jan 30-Feb 10](https://make.wordpress.org/design/2023/02/15/design-share-jan-30-feb-10/)
-- [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/design/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 <!-- DESIGN:END -->
 
 ## Mobile
