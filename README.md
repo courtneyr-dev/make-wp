@@ -283,6 +283,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [キャッシュについて知ろう！ ~ WordPress サイトの Cache 設定 ~](https://learn.wordpress.org/?meeting=%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e7%9f%a5%e3%82%8d%e3%81%86%ef%bc%81-wordpress-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae-cache-%e8%a8%ad%e5%ae%9a-2)
+- [キャッシュについて知ろう！ ~ WordPress サイトの Cache 設定 ~](https://learn.wordpress.org/?meeting=%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e7%9f%a5%e3%82%8d%e3%81%86%ef%bc%81-wordpress-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae-cache-%e8%a8%ad%e5%ae%9a)
 - [Let’s set up a new header and footer &lpar;block theme&rpar;](https://learn.wordpress.org/?meeting=lets-set-up-a-new-header-and-footer-block-theme)
 - [Testing plugins for PHP 8](https://learn.wordpress.org/?meeting=testing-plugins-for-php-8)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme)
@@ -306,8 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code: WordPress multisite mad science experiments!](https://learn.wordpress.org/?meeting=lets-code-wordpress-multisite-mad-science-experiments)
 - [A Beginner’s Guide to Setting Up a Basic Website: Website Design](https://learn.wordpress.org/?meeting=a-beginners-guide-to-setting-up-a-basic-website-website-design)
 - [A Beginner’s Guide to Setting Up a Basic Website: Content Planning](https://learn.wordpress.org/?meeting=a-beginners-guide-to-setting-up-a-basic-website-content-planning)
-- [Becoming a Better Developer](https://learn.wordpress.org/?meeting=becoming-a-better-developer)
-- [Building a page with only patterns](https://learn.wordpress.org/?meeting=building-a-page-with-only-patterns)
 <!-- SLS:END -->
 
 ## Test
