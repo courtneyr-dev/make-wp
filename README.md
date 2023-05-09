@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/training/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [Proposal: Creating GitHub project boards for SMEs and Translators](https://make.wordpress.org/training/2023/05/05/proposal-creating-github-project-boards-for-smes-and-translators/)
 - [Training Team Meeting Recap for April 25th 2023](https://make.wordpress.org/training/2023/05/04/training-team-meeting-recap-for-april-25th-2023/)
 - [X-post: Explorations for a notification form between documentation and Rosetta sites](https://make.wordpress.org/training/2023/05/04/xpost-explorations-for-a-notification-form-between-documentation-and-rosetta-sites/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap for April 11, 2023](https://make.wordpress.org/training/2023/04/29/training-team-meeting-recap-for-april-11-2023/)
 - [Meeting Recap for April 18th, 2023](https://make.wordpress.org/training/2023/04/18/meeting-recap-for-april-18th-2023/)
 - [Project: Developments and Customizations for Training and Learn Website](https://make.wordpress.org/training/2023/04/18/developments-and-customizations-for-training-and-learn-website/)
-- [X-post: Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/training/2023/04/17/xpost-integrating-the-mobile-app-documentation-into-helphub/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
