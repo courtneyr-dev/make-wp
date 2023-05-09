@@ -339,6 +339,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo podemos hacer el proyecto de WordPress más sostenible](https://wordpress.tv/2023/05/09/como-podemos-hacer-el-proyecto-de-wordpress-mas-sostenible/)
+- [Developer handoff](https://wordpress.tv/2023/05/09/developer-handoff/)
+- [Coneixes PHP? Doncs crea el teu propi plugin](https://wordpress.tv/2023/05/09/coneixes-php-doncs-crea-el-teu-propi-plugin/)
 - [Google s’estima els gats? La realitat darrera del posicionament dels dominis .cat](https://wordpress.tv/2023/05/09/google-sestima-els-gats-la-realitat-darrera-del-posicionament-dels-dominis-cat/)
 - [En el codi, com a la cuina, s’ha de seguir la recepta](https://wordpress.tv/2023/05/09/en-el-codi-com-a-la-cuina-sha-de-seguir-la-recepta/)
 - [Exprimiendo al máximo los hooks &lpar;actions, filters&rpar; a partir de casos reales](https://wordpress.tv/2023/05/09/exprimiendo-al-maximo-los-hooks-actions-filters-a-partir-de-casos-reales/)
@@ -361,9 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Presentación de la WordCamp Barcelona 2023](https://wordpress.tv/2023/05/09/presentacion-de-la-wordcamp-barcelona-2023/)
 - [Agence et Freelance WordPress : il devient urgent de ne plus confondre vos obligations RGPD avec celles de vos clients !](https://wordpress.tv/2023/05/09/agence-et-freelance-wordpress-il-devient-urgent-de-ne-plus-confondre-vos-obligations-rgpd-avec-celles-de-vos-clients/)
 - [Concevoir une boutique WooCommerce &lpar;vraiment&rpar; sexy](https://wordpress.tv/2023/05/09/concevoir-une-boutique-woocommerce-vraiment-sexy/)
-- [Comment j’utilise l’IA dans mon quotidien avec WordPress](https://wordpress.tv/2023/05/08/comment-jutilise-lia-dans-mon-quotidien-avec-wordpress/)
-- [Constructeurs de page et développement sur mesure : les bienfaits de l’approche hybride](https://wordpress.tv/2023/05/08/constructeurs-de-page-et-developpement-sur-mesure-les-bienfaits-de-lapproche-hybride/)
-- [Code source de WordPress : 20 ans de poésie ?](https://wordpress.tv/2023/05/08/code-source-de-wordpress-20-ans-de-poesie/)
 <!-- WPTV:END -->
 
 ## Marketing
