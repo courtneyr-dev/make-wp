@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request to be a Somali…](https://make.wordpress.org/polyglots/2023/05/09/request-to-be-a-somali-2/)
 - [PTE Request for Ajax Search Lite](https://make.wordpress.org/polyglots/2023/05/09/post-title-pte-request-for-ajax-search-lite/)
 - [Some updates at translate.wordpress.org](https://make.wordpress.org/polyglots/2023/05/09/some-updates-at-translate-wordpress-org/)
 - [PTE Request for SEOPress](https://make.wordpress.org/polyglots/2023/05/09/pte-request-for-seopress-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/05/08/hi-dear-mentors-we-have-116/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/05/08/hi-dear-mentors-we-have-115/)
 - [PTE Request for Hashtags for WordPress](https://make.wordpress.org/polyglots/2023/05/07/pte-request-for-hashtags-for-wordpress/)
-- [PTE Request for AI-Content-Creator and other plugins.](https://make.wordpress.org/polyglots/2023/05/07/pte-request-for-ai-content-creator-and-other-plugins/)
 <!-- POLYGLOTS:END -->
 
 ## Support
