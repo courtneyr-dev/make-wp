@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/docs/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [X-post: Explorations for a notification form between documentation and Rosetta sites](https://make.wordpress.org/docs/2023/05/03/xpost-explorations-for-a-notification-form-between-documentation-and-rosetta-sites/)
 - [Agenda for Docs Team bi-weekly meeting May 2, 2023](https://make.wordpress.org/docs/2023/05/02/agenda-for-docs-team-bi-weekly-meeting-may-2-2023/)
 - [Monthly online Docs Team Contributor Day starts April 2023](https://make.wordpress.org/docs/2023/04/25/monthly-online-docs-team-contributor-day-starts-april-2023/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/docs/2023/04/13/xpost-wordpress-at-20-in-print/)
 - [Summary for Docs Team meeting, April 4, 2023](https://make.wordpress.org/docs/2023/04/11/summary-for-docs-team-meeting-april-4-2023/)
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/docs/2023/04/10/xpost-wordpress-org-redesign-update-2/)
-- [Introducing the Advanced Administration handbook](https://make.wordpress.org/docs/2023/04/10/introducing-the-advanced-administration-handbook/)
 <!-- DOCS:END -->
 
 ### Support Articles
