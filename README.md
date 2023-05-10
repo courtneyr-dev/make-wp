@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Polyglots Monthly Newsletter: May 2023](https://make.wordpress.org/polyglots/2023/05/10/polyglots-monthly-newsletter-may-2023/)
 - [GTE Request for Tamil &lpar;ta_IN&rpar; Language](https://make.wordpress.org/polyglots/2023/05/09/gte-request-for-tamil-ta_in-language/)
 - [Agenda: Weekly Polyglots Chat – May 10, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/09/agenda-weekly-polyglots-chat-may-10-2023-1300-utc/)
 - [Request to be a Somali…](https://make.wordpress.org/polyglots/2023/05/09/request-to-be-a-somali-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/polyglots/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [I have registered as per…](https://make.wordpress.org/polyglots/2023/05/08/i-have-registered-as-per/)
 - [Translate Live: Updates to the Translation Playground](https://make.wordpress.org/polyglots/2023/05/08/translate-live-updates-to-the-translation-playground/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/05/08/hi-dear-mentors-we-have-116/)
 <!-- POLYGLOTS:END -->
 
 ## Support
