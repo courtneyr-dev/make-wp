@@ -368,6 +368,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Day 3: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/10/day-3-wp20-from-blogs-to-blocks/)
 - [Day 2: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/09/day-2-wp20-from-blogs-to-blocks/)
 - [Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/08/day-1-wp20-from-blogs-to-blocks/)
 - [FAQ for the #WP20 From Blogs to Blocks Campaign](https://make.wordpress.org/marketing/2023/05/08/faq-for-the-wp20-from-blogs-to-blocks-campaign/)
@@ -377,7 +378,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/marketing/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [Notes: Global Marketing Team meeting, 11 April 2023](https://make.wordpress.org/marketing/2023/04/18/notes-global-marketing-team-meeting-11-april-2023/)
 - [X-post: Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/marketing/2023/04/17/xpost-integrating-the-mobile-app-documentation-into-helphub/)
-- [Notes: Global Marketing Team meeting, 4 April 2023](https://make.wordpress.org/marketing/2023/04/11/notes-global-marketing-team-meeting-4-april-2023/)
 <!-- MARKETING:END -->
 
 ## CLI
