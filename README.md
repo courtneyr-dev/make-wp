@@ -339,6 +339,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tot el que la teva web necessita per complir amb la normativa](https://wordpress.tv/2023/05/10/tot-el-que-la-teva-web-necessita-per-complir-amb-la-normativa/)
+- [Secure the emails of your WordPress site with SPF, DKIM and DMARC](https://wordpress.tv/2023/05/10/secure-the-emails-of-your-wordpress-site-with-spf-dkim-and-dmarc/)
+- [Aprende qué es WordPress y cómo instalarlo](https://wordpress.tv/2023/05/10/aprende-que-es-wordpress-y-como-instalarlo/)
+- [Dando vida a tu nuevo proyecto WordPress](https://wordpress.tv/2023/05/10/dando-vida-a-tu-nuevo-proyecto-wordpress/)
+- [Fostering the WordPress of tomorrow, today](https://wordpress.tv/2023/05/10/fostering-the-wordpress-of-tomorrow-today/)
+- [Usabilitat web: bones pràctiques en WordPress](https://wordpress.tv/2023/05/10/usabilitat-web-bones-practiques-en-wordpress/)
 - [Gestió centralitzada: una alternativa a WordPress multisite?](https://wordpress.tv/2023/05/10/gestio-centralitzada-una-alternativa-a-wordpress-multisite/)
 - [Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://wordpress.tv/2023/05/09/create-a-four-page-wordpress-website-1-themes-fonts-styles/)
 - [Cómo podemos hacer el proyecto de WordPress más sostenible](https://wordpress.tv/2023/05/09/como-podemos-hacer-el-proyecto-de-wordpress-mas-sostenible/)
@@ -358,12 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fes servir l’Editor de Lloc &lpar;FSE&rpar; per construir la teva web i oblida’t dels constructors](https://wordpress.tv/2023/05/09/fes-servir-leditor-de-lloc-fse-per-construir-la-teva-web-i-oblidat-dels-constructors/)
 - [L’editor de blocs: des del disseny a mida fins a l’entrega al client final](https://wordpress.tv/2023/05/09/leditor-de-blocs-des-del-disseny-a-mida-fins-a-lentrega-al-client-final/)
 - [Consells per crear una web multiidioma en WordPress](https://wordpress.tv/2023/05/09/consells-per-crear-una-web-multiidioma-en-wordpress/)
-- [Taller de gutenberg desde cero: déjate camelar con casos prácticos](https://wordpress.tv/2023/05/09/taller-de-gutenberg-desde-cero-dejate-camelar-con-casos-practicos/)
-- [WordPress des de zero: primeres passes](https://wordpress.tv/2023/05/09/wordpress-des-de-zero-primeres-passes/)
-- [Entén i millora la velocitat del teu web WordPress](https://wordpress.tv/2023/05/09/enten-i-millora-la-velocitat-del-teu-web-wordpress/)
-- [eCommerce per a “dummies”: Què munto?](https://wordpress.tv/2023/05/09/ecommerce-per-a-dummies-que-munto/)
-- [Crea la teva estratègia de continguts amb CHATGPT sense que Google et penalitzi](https://wordpress.tv/2023/05/09/crea-la-teva-estrategia-de-continguts-amb-chatgpt-sense-que-google-et-penalitzi/)
-- [Presentación de la WordCamp Barcelona 2023](https://wordpress.tv/2023/05/09/presentacion-de-la-wordcamp-barcelona-2023/)
 <!-- WPTV:END -->
 
 ## Marketing
