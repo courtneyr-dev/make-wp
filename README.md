@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Kim Parsell Memorial Scholarship for WordCamp US 2023](https://make.wordpress.org/community/2023/05/10/kim-parsell-memorial-scholarship-for-wordcamp-us-2023/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/community/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [The Next Generation of WordCamps](https://make.wordpress.org/community/2023/05/08/the-next-generation-of-wordcamps/)
 - [Community Team Training #8: Boosting WordPress Meetup engagement with Meetup.com](https://make.wordpress.org/community/2023/05/03/community-team-training-8-boosting-wordpress-meetup-engagement-with-meetup-com/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Report: #WPDiversity Inclusion and Diverse Speaker Workshops February and March 2023](https://make.wordpress.org/community/2023/05/02/report-wpdiversity-inclusion-and-diverse-speaker-workshops-february-and-march-2023/)
 - [WordCamp Mentors’ May check-in!](https://make.wordpress.org/community/2023/05/01/wordcamp-mentors-may-check-in/)
 - [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/community/2023/05/01/xpost-whats-new-on-learn-wordpress-in-april-2023/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on April 26, 2023](https://make.wordpress.org/community/2023/04/28/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-april-26-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
