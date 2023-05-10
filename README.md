@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Requesting a Translation Review](https://make.wordpress.org/polyglots/2023/05/10/requesting-a-translation-review/)
+- [Hello,](https://make.wordpress.org/polyglots/2023/05/10/hello-74/)
 - [Please help us to confirm…](https://make.wordpress.org/polyglots/2023/05/10/please-help-us-to-confirm/)
 - [PTE Request for cookie-notice-lite](https://make.wordpress.org/polyglots/2023/05/10/pte-request-for-cookie-notice-lite/)
 - [Polyglots Monthly Newsletter: May 2023](https://make.wordpress.org/polyglots/2023/05/10/polyglots-monthly-newsletter-may-2023/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request to be a Somali…](https://make.wordpress.org/polyglots/2023/05/09/request-to-be-a-somali-2/)
 - [PTE Request for Ajax Search Lite](https://make.wordpress.org/polyglots/2023/05/09/post-title-pte-request-for-ajax-search-lite/)
 - [Some updates at translate.wordpress.org](https://make.wordpress.org/polyglots/2023/05/09/some-updates-at-translate-wordpress-org/)
-- [PTE Request for SEOPress](https://make.wordpress.org/polyglots/2023/05/09/pte-request-for-seopress-3/)
-- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/polyglots/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 <!-- POLYGLOTS:END -->
 
 ## Support
