@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Please help us to confirm…](https://make.wordpress.org/polyglots/2023/05/10/please-help-us-to-confirm/)
 - [PTE Request for cookie-notice-lite](https://make.wordpress.org/polyglots/2023/05/10/pte-request-for-cookie-notice-lite/)
 - [Polyglots Monthly Newsletter: May 2023](https://make.wordpress.org/polyglots/2023/05/10/polyglots-monthly-newsletter-may-2023/)
 - [GTE Request for Tamil &lpar;ta_IN&rpar; Language](https://make.wordpress.org/polyglots/2023/05/09/gte-request-for-tamil-ta_in-language/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Some updates at translate.wordpress.org](https://make.wordpress.org/polyglots/2023/05/09/some-updates-at-translate-wordpress-org/)
 - [PTE Request for SEOPress](https://make.wordpress.org/polyglots/2023/05/09/pte-request-for-seopress-3/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/polyglots/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
-- [I have registered as per…](https://make.wordpress.org/polyglots/2023/05/08/i-have-registered-as-per/)
 <!-- POLYGLOTS:END -->
 
 ## Support
