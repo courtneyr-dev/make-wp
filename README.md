@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress editor modes for streamlining content creation](https://wordpress.tv/2023/05/10/wordpress-editor-modes-for-streamlining-content-creation/)
 - [Tot el que la teva web necessita per complir amb la normativa](https://wordpress.tv/2023/05/10/tot-el-que-la-teva-web-necessita-per-complir-amb-la-normativa/)
 - [Secure the emails of your WordPress site with SPF, DKIM and DMARC](https://wordpress.tv/2023/05/10/secure-the-emails-of-your-wordpress-site-with-spf-dkim-and-dmarc/)
 - [Aprende qué es WordPress y cómo instalarlo](https://wordpress.tv/2023/05/10/aprende-que-es-wordpress-y-como-instalarlo/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crea desde cero la estrategia de transporte para tu tienda online](https://wordpress.tv/2023/05/09/crea-desde-cero-la-estrategia-de-transporte-para-tu-tienda-online/)
 - [Fes servir l’Editor de Lloc &lpar;FSE&rpar; per construir la teva web i oblida’t dels constructors](https://wordpress.tv/2023/05/09/fes-servir-leditor-de-lloc-fse-per-construir-la-teva-web-i-oblidat-dels-constructors/)
 - [L’editor de blocs: des del disseny a mida fins a l’entrega al client final](https://wordpress.tv/2023/05/09/leditor-de-blocs-des-del-disseny-a-mida-fins-a-lentrega-al-client-final/)
-- [Consells per crear una web multiidioma en WordPress](https://wordpress.tv/2023/05/09/consells-per-crear-una-web-multiidioma-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
