@@ -61,7 +61,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- POLYGLOTS:START -->
 - [PTE for GeneratePress Theme](https://make.wordpress.org/polyglots/2023/05/11/pte-for-generatepress-theme/)
 - [Requesting a Translation Review](https://make.wordpress.org/polyglots/2023/05/10/requesting-a-translation-review/)
-- [Hello,](https://make.wordpress.org/polyglots/2023/05/10/hello-74/)
+- [GTE Request for Gujarati Language](https://make.wordpress.org/polyglots/2023/05/10/hello-74/)
 - [Please help us to confirm…](https://make.wordpress.org/polyglots/2023/05/10/please-help-us-to-confirm/)
 - [PTE Request for cookie-notice-lite](https://make.wordpress.org/polyglots/2023/05/10/pte-request-for-cookie-notice-lite/)
 - [Polyglots Monthly Newsletter: May 2023](https://make.wordpress.org/polyglots/2023/05/10/polyglots-monthly-newsletter-may-2023/)
