@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [WordPress editor modes for streamlining content creation](https://learn.wordpress.org/tutorial/wordpress-editor-modes-for-streamlining-content-creation/)
 - [Exploring category templates with block themes](https://learn.wordpress.org/tutorial/exploring-category-templates-with-block-themes/)
 - [The WordPress request lifecycle](https://learn.wordpress.org/tutorial/the-wordpress-request-lifecycle/)
 - [Rapid Website Recreation](https://learn.wordpress.org/tutorial/rapid-website-recreation/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP REST API – custom fields, authentication, and testing](https://learn.wordpress.org/tutorial/wp-rest-api-custom-fields-authentication-and-testing/)
 - [Displaying testimonials on your website](https://learn.wordpress.org/tutorial/displaying-testimonials-on-your-website/)
 - [Interacting with the WordPress REST API](https://learn.wordpress.org/tutorial/interacting-with-the-wordpress-rest-api/)
-- [How to add and remove a logo and site icon in a WordPress block theme](https://learn.wordpress.org/tutorial/how-to-add-and-remove-a-logo-and-site-icon-in-a-wordpress-block-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
