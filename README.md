@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Blocksy and…](https://make.wordpress.org/polyglots/2023/05/12/pte-request-for-blocksy-and/)
 - [New translation memory &lpar;TM&rpar; tab in the right sidebar](https://make.wordpress.org/polyglots/2023/05/12/new-translation-memory-tm-tab-in-the-right-sidebar/)
 - [PTE Request for Easy Digital Downloads](https://make.wordpress.org/polyglots/2023/05/11/pte-request-for-easy-digital-downloads/)
 - [PTE for GeneratePress Theme](https://make.wordpress.org/polyglots/2023/05/11/pte-for-generatepress-theme/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for cookie-notice-lite](https://make.wordpress.org/polyglots/2023/05/10/pte-request-for-cookie-notice-lite/)
 - [Polyglots Monthly Newsletter: May 2023](https://make.wordpress.org/polyglots/2023/05/10/polyglots-monthly-newsletter-may-2023/)
 - [GTE Request for Tamil &lpar;ta_IN&rpar; Language](https://make.wordpress.org/polyglots/2023/05/09/gte-request-for-tamil-ta_in-language/)
-- [Agenda: Weekly Polyglots Chat – May 10, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/09/agenda-weekly-polyglots-chat-may-10-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
