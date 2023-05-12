@@ -508,6 +508,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Expert Website Designer &amp; WordPress Developer](https://jobs.wordpress.net/job/wordpress-expert-website-designer-wordpress-developer/)
+- [Junior Graphic Designer](https://jobs.wordpress.net/job/junior-graphic-designer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-801/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-27/)
 - [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-27/)
@@ -516,8 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Draw om maps](https://jobs.wordpress.net/job/draw-om-maps/)
 - [Full Stack Engineer](https://jobs.wordpress.net/job/full-stack-engineer/)
 - [Software Engineering Technical Lead](https://jobs.wordpress.net/job/software-engineering-technical-lead/)
-- [Technical Trainer/Mentor](https://jobs.wordpress.net/job/technical-trainer-mentor/)
-- [Founding Fullstack Engineer](https://jobs.wordpress.net/job/founding-fullstack-engineer/)
 <!-- JOBS:END -->
 
 ## Central
