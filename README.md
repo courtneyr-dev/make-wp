@@ -368,6 +368,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Day 6: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/13/day-6-wp20-from-blogs-to-blocks/)
 - [Day 5: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/12/day-5-wp20-from-blogs-to-blocks/)
 - [Day 4: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/11/day-4-wp20-from-blogs-to-blocks/)
 - [Day 3: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/10/day-3-wp20-from-blogs-to-blocks/)
@@ -377,7 +378,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [20 Days to Celebrate 20 Years of WordPress, From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/02/20-days-to-celebrate-20-years-of-wordpress-from-blogs-to-blocks/)
 - [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/marketing/2023/05/01/xpost-whats-new-on-learn-wordpress-in-april-2023/)
 - [Revitalizing the Showcase](https://make.wordpress.org/marketing/2023/04/19/showcase-submission-guidelines/)
-- [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/marketing/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 <!-- MARKETING:END -->
 
 ## CLI
