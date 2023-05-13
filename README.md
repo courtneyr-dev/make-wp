@@ -508,6 +508,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Web Developers for Driving Safety](https://jobs.wordpress.net/job/web-developers-for-driving-safety/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-10/)
 - [WordPress Expert Website Designer &amp; WordPress Developer](https://jobs.wordpress.net/job/wordpress-expert-website-designer-wordpress-developer/)
 - [Junior Graphic Designer](https://jobs.wordpress.net/job/junior-graphic-designer/)
@@ -517,7 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Safety Developer – Cause Marketing Partners -Web Maintenance](https://jobs.wordpress.net/job/safety-developer-cause-marketing-partners-web-maintenance/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-9/)
 - [Draw om maps](https://jobs.wordpress.net/job/draw-om-maps/)
-- [Full Stack Engineer](https://jobs.wordpress.net/job/full-stack-engineer/)
 <!-- JOBS:END -->
 
 ## Central
