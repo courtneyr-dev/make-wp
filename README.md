@@ -339,6 +339,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Niels de Blaauw – REST API HACKING – 6 JAAR LATER](https://wordpress.tv/2023/05/15/niels-de-blaauw-rest-api-hacking-6-jaar-later-2/)
+- [Veerle Verbert: LEARN CSS DEEPLY](https://wordpress.tv/2023/05/15/veerle-verbert-learn-css-deeply/)
+- [Mitchell Leber – DESIGN SYSTEMS, TOKENS, FOUNDATIONS, GUIDES, IDENTITIES, ATOMIC DESIGN…. SORRY WAT ZEG JE?](https://wordpress.tv/2023/05/15/mitchell-leber-design-systems-tokens-foundations-guides-identities-atomic-design-sorry-wat-zeg-je/)
+- [Floris P. Lof – OPTIMALISEER JE AJAX REQUESTS](https://wordpress.tv/2023/05/15/floris-p-lof-optimaliseer-je-ajax-requests/)
+- [Edwin de Kuiper – Complexe platformen met WordPress](https://wordpress.tv/2023/05/15/edwin-de-kuiper-complexe-platformen-met-wordpress/)
+- [Michał Strześniewski – Czy era WordPressa przemija Analiza narzędzi no low-code i jak ich rozwój wpłynie](https://wordpress.tv/2023/05/15/michal-strzesniewski-czy-era-wordpressa-przemija-analiza-narzedzi-no-low-code-i-jak-ich-rozwoj-wplynie/)
 - [Bien héberger WordPress, du plus simple et moins cher au plus complexe et puissant](https://wordpress.tv/2023/05/15/bien-heberger-wordpress-du-plus-simple-et-moins-cher-au-plus-complexe-et-puissant/)
 - [WordPress l’outil nocode au service de votre productivité](https://wordpress.tv/2023/05/15/wordpress-loutil-nocode-au-service-de-votre-productivite/)
 - [Que faire de plus quand on pense avoir déjà tout fait en SEO ?](https://wordpress.tv/2023/05/13/que-faire-de-plus-quand-on-pense-avoir-deja-tout-fait-en-seo/)
@@ -358,12 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [En el codi, com a la cuina, s’ha de seguir la recepta](https://wordpress.tv/2023/05/09/en-el-codi-com-a-la-cuina-sha-de-seguir-la-recepta/)
 - [Exprimiendo al máximo los hooks &lpar;actions, filters&rpar; a partir de casos reales](https://wordpress.tv/2023/05/09/exprimiendo-al-maximo-los-hooks-actions-filters-a-partir-de-casos-reales/)
 - [Caballo de troya: vulnerabilidades en WordPress](https://wordpress.tv/2023/05/09/caballo-de-troya-vulnerabilidades-en-wordpress/)
-- [¿Por qué tengo que luchar por la diversidad en WordPress?](https://wordpress.tv/2023/05/09/por-que-tengo-que-luchar-por-la-diversidad-en-wordpress/)
-- [Crear opciones de configuración en WordPress con ACF](https://wordpress.tv/2023/05/09/crear-opciones-de-configuracion-en-wordpress-con-acf/)
-- [WordPress per a creació de projectes culturals](https://wordpress.tv/2023/05/09/wordpress-per-a-creacio-de-projectes-culturals/)
-- [A/B testing con WordPress](https://wordpress.tv/2023/05/09/a-b-testing-con-wordpress/)
-- [Com WordPress va ajudar a una ensinistradora sense coneixements a escalar](https://wordpress.tv/2023/05/09/com-wordpress-va-ajudar-a-una-ensinistradora-sense-coneixements-a-escalar/)
-- [Administra WordPress des de la línia d’ordres &lpar;CLI&rpar;](https://wordpress.tv/2023/05/09/administra-wordpress-des-de-la-linia-dordres-cli/)
 <!-- WPTV:END -->
 
 ## Marketing
