@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Contributor Working Group: Mentorship Chat Agenda | May 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/05/15/contributor-working-group-mentorship-chat-agenda-may-18th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 10, 2023](https://make.wordpress.org/community/2023/05/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-10-2023/)
 - [Kim Parsell Memorial Scholarship for WordCamp US 2023](https://make.wordpress.org/community/2023/05/10/kim-parsell-memorial-scholarship-for-wordcamp-us-2023/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/community/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcing the 2023 Community Team Goals](https://make.wordpress.org/community/2023/05/03/announcing-the-2023-community-team-goals/)
 - [2021-2022 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/community/2023/05/02/2021-2022-wordpress-meetup-survey-key-findings/)
 - [Report: #WPDiversity Inclusion and Diverse Speaker Workshops February and March 2023](https://make.wordpress.org/community/2023/05/02/report-wpdiversity-inclusion-and-diverse-speaker-workshops-february-and-march-2023/)
-- [WordCamp Mentors’ May check-in!](https://make.wordpress.org/community/2023/05/01/wordcamp-mentors-may-check-in/)
 <!-- COMMUNITY:END -->
 
 ## Meta
