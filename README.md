@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-2)
 - [Working with Version Control](https://learn.wordpress.org/?meeting=working-with-version-control)
 - [How to translate content for Learn.WordPress.org](https://learn.wordpress.org/?meeting=how-to-translate-content-for-learn-wordpress-org)
 - [キャッシュについて知ろう！ ~ WordPress サイトの Cache 設定 ~](https://learn.wordpress.org/?meeting=%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e7%9f%a5%e3%82%8d%e3%81%86%ef%bc%81-wordpress-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae-cache-%e8%a8%ad%e5%ae%9a-2)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to add a blog/news page to a WordPress website](https://learn.wordpress.org/?meeting=how-to-add-a-blog-news-page-to-a-wordpress-website)
 - [How to set up a free WordPress test website](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website)
 - [WP dev livestream: WordPress multisite experiments](https://learn.wordpress.org/?meeting=wp-dev-livestream-wordpress-multisite-experiments)
-- [Let’s code: WordPress multisite mad science experiments!](https://learn.wordpress.org/?meeting=lets-code-wordpress-multisite-mad-science-experiments)
 <!-- SLS:END -->
 
 ## Test
