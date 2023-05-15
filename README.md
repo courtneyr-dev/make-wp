@@ -339,6 +339,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cierre y agradecimientos de la WordCamp Barcelona 2023](https://wordpress.tv/2023/05/15/cierre-y-agradecimientos-de-la-wordcamp-barcelona-2023/)
+- [Diseñar con el espacio](https://wordpress.tv/2023/05/15/disenar-con-el-espacio/)
+- [10 + 2 bàsics d’accessibilitat](https://wordpress.tv/2023/05/15/10-2-basics-daccessibilitat/)
 - [Niels de Blaauw – REST API HACKING – 6 JAAR LATER](https://wordpress.tv/2023/05/15/niels-de-blaauw-rest-api-hacking-6-jaar-later-2/)
 - [Veerle Verbert: LEARN CSS DEEPLY](https://wordpress.tv/2023/05/15/veerle-verbert-learn-css-deeply/)
 - [Mitchell Leber – DESIGN SYSTEMS, TOKENS, FOUNDATIONS, GUIDES, IDENTITIES, ATOMIC DESIGN…. SORRY WAT ZEG JE?](https://wordpress.tv/2023/05/15/mitchell-leber-design-systems-tokens-foundations-guides-identities-atomic-design-sorry-wat-zeg-je/)
@@ -361,9 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer handoff](https://wordpress.tv/2023/05/09/developer-handoff/)
 - [Coneixes PHP? Doncs crea el teu propi plugin](https://wordpress.tv/2023/05/09/coneixes-php-doncs-crea-el-teu-propi-plugin/)
 - [Google s’estima els gats? La realitat darrera del posicionament dels dominis .cat](https://wordpress.tv/2023/05/09/google-sestima-els-gats-la-realitat-darrera-del-posicionament-dels-dominis-cat/)
-- [En el codi, com a la cuina, s’ha de seguir la recepta](https://wordpress.tv/2023/05/09/en-el-codi-com-a-la-cuina-sha-de-seguir-la-recepta/)
-- [Exprimiendo al máximo los hooks &lpar;actions, filters&rpar; a partir de casos reales](https://wordpress.tv/2023/05/09/exprimiendo-al-maximo-los-hooks-actions-filters-a-partir-de-casos-reales/)
-- [Caballo de troya: vulnerabilidades en WordPress](https://wordpress.tv/2023/05/09/caballo-de-troya-vulnerabilidades-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
