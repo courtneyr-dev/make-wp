@@ -375,9 +375,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Day 3: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/10/day-3-wp20-from-blogs-to-blocks/)
 - [Day 2: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/09/day-2-wp20-from-blogs-to-blocks/)
 - [Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/08/day-1-wp20-from-blogs-to-blocks/)
+- [Notes: Global Marketing Team meeting, 2 May 2023](https://make.wordpress.org/marketing/2023/05/08/notes-global-marketing-team-meeting-2-may-2023/)
 - [FAQ for the #WP20 From Blogs to Blocks Campaign](https://make.wordpress.org/marketing/2023/05/08/faq-for-the-wp20-from-blogs-to-blocks-campaign/)
 - [20 Days to Celebrate 20 Years of WordPress, From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/02/20-days-to-celebrate-20-years-of-wordpress-from-blogs-to-blocks/)
-- [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/marketing/2023/05/01/xpost-whats-new-on-learn-wordpress-in-april-2023/)
 <!-- MARKETING:END -->
 
 ## CLI
