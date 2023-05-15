@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress l’outil nocode au service de votre productivité](https://wordpress.tv/2023/05/15/wordpress-loutil-nocode-au-service-de-votre-productivite/)
 - [Que faire de plus quand on pense avoir déjà tout fait en SEO ?](https://wordpress.tv/2023/05/13/que-faire-de-plus-quand-on-pense-avoir-deja-tout-fait-en-seo/)
 - [WordPress editor modes for streamlining content creation](https://wordpress.tv/2023/05/10/wordpress-editor-modes-for-streamlining-content-creation/)
 - [Tot el que la teva web necessita per complir amb la normativa](https://wordpress.tv/2023/05/10/tot-el-que-la-teva-web-necessita-per-complir-amb-la-normativa/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Com WordPress va ajudar a una ensinistradora sense coneixements a escalar](https://wordpress.tv/2023/05/09/com-wordpress-va-ajudar-a-una-ensinistradora-sense-coneixements-a-escalar/)
 - [Administra WordPress des de la línia d’ordres &lpar;CLI&rpar;](https://wordpress.tv/2023/05/09/administra-wordpress-des-de-la-linia-dordres-cli/)
 - [Crea desde cero la estrategia de transporte para tu tienda online](https://wordpress.tv/2023/05/09/crea-desde-cero-la-estrategia-de-transporte-para-tu-tienda-online/)
-- [Fes servir l’Editor de Lloc &lpar;FSE&rpar; per construir la teva web i oblida’t dels constructors](https://wordpress.tv/2023/05/09/fes-servir-leditor-de-lloc-fse-per-construir-la-teva-web-i-oblidat-dels-constructors/)
 <!-- WPTV:END -->
 
 ## Marketing
