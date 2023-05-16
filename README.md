@@ -396,6 +396,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [X-post: Proposal: Retiring Older Default Themes](https://make.wordpress.org/hosting/2023/05/16/xpost-proposal-retiring-older-default-themes/)
 - [Is WordPress compatible with PHP 8?](https://make.wordpress.org/hosting/2023/05/15/is-wordpress-compatible-with-php-8/)
 - [Hosting Team meeting agenda 2023-05-10](https://make.wordpress.org/hosting/2023/05/10/hosting-team-meeting-agenda-2023-05-10/)
 - [Hosting Team meeting agenda 2023-05-03](https://make.wordpress.org/hosting/2023/05/03/hosting-team-meeting-agenda-2023-05-03/)
@@ -405,7 +406,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Team meeting agenda 2023-04-19](https://make.wordpress.org/hosting/2023/04/19/hosting-team-meeting-agenda-2023-04-19/)
 - [Hosting Team meeting agenda 2023-04-12](https://make.wordpress.org/hosting/2023/04/11/hosting-team-meeting-agenda-2023-04-12/)
 - [Hosting Team meeting agenda 2023-04-05](https://make.wordpress.org/hosting/2023/04/05/hosting-team-meeting-agenda-2023-04-05/)
-- [Hosting Team meeting agenda 2023-03-22](https://make.wordpress.org/hosting/2023/03/21/hosting-team-meeting-agenda-2023-03-22/)
 <!-- HOSTING:END -->
 
 ## Tide
