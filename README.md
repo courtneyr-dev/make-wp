@@ -508,6 +508,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP Job Manager customitzation](https://jobs.wordpress.net/job/wp-job-manager-customitzation/)
+- [Senior PHP/WordPress Developer](https://jobs.wordpress.net/job/senior-php-wordpress-developer-5/)
 - [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-2/)
 - [Web Developers for Driving Safety](https://jobs.wordpress.net/job/web-developers-for-driving-safety/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-10/)
@@ -516,8 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-801/)
 - [Software Developer](https://jobs.wordpress.net/job/software-developer-27/)
 - [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-27/)
-- [Safety Developer – Cause Marketing Partners -Web Maintenance](https://jobs.wordpress.net/job/safety-developer-cause-marketing-partners-web-maintenance/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-9/)
 <!-- JOBS:END -->
 
 ## Central
