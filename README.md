@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Eco-concevoir un site. Oui mais comment ?](https://wordpress.tv/2023/05/16/eco-concevoir-un-site-oui-mais-comment/)
 - [Cierre y agradecimientos de la WordCamp Barcelona 2023](https://wordpress.tv/2023/05/15/cierre-y-agradecimientos-de-la-wordcamp-barcelona-2023/)
 - [Diseñar con el espacio](https://wordpress.tv/2023/05/15/disenar-con-el-espacio/)
 - [10 + 2 bàsics d’accessibilitat](https://wordpress.tv/2023/05/15/10-2-basics-daccessibilitat/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo podemos hacer el proyecto de WordPress más sostenible](https://wordpress.tv/2023/05/09/como-podemos-hacer-el-proyecto-de-wordpress-mas-sostenible/)
 - [Developer handoff](https://wordpress.tv/2023/05/09/developer-handoff/)
 - [Coneixes PHP? Doncs crea el teu propi plugin](https://wordpress.tv/2023/05/09/coneixes-php-doncs-crea-el-teu-propi-plugin/)
-- [Google s’estima els gats? La realitat darrera del posicionament dels dominis .cat](https://wordpress.tv/2023/05/09/google-sestima-els-gats-la-realitat-darrera-del-posicionament-dels-dominis-cat/)
 <!-- WPTV:END -->
 
 ## Marketing
