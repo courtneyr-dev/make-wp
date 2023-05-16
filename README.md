@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/05/16/ive-suggested-translations-for-this-29/)
+- [Requesting a Translation Review &lpar;Ukrainian&rpar;](https://make.wordpress.org/polyglots/2023/05/16/requesting-a-translation-review-ukrainian/)
 - [PTE Request for Divi Content…](https://make.wordpress.org/polyglots/2023/05/16/pte-request-for-divi-content-2/)
 - [PTE Request for geounit-maps](https://make.wordpress.org/polyglots/2023/05/15/post-title-pte-request-for-geounit-maps/)
 - [X-post: Proposal: Handbook for Local Teams](https://make.wordpress.org/polyglots/2023/05/15/xpost-proposal-handbook-for-local-teams/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Blocksy and…](https://make.wordpress.org/polyglots/2023/05/12/pte-request-for-blocksy-and/)
 - [New translation memory &lpar;TM&rpar; tab in the right sidebar](https://make.wordpress.org/polyglots/2023/05/12/new-translation-memory-tm-tab-in-the-right-sidebar/)
 - [PTE Request for Easy Digital Downloads](https://make.wordpress.org/polyglots/2023/05/11/pte-request-for-easy-digital-downloads/)
-- [PTE for GeneratePress Theme](https://make.wordpress.org/polyglots/2023/05/11/pte-for-generatepress-theme/)
-- [Requesting a Translation Review](https://make.wordpress.org/polyglots/2023/05/10/requesting-a-translation-review/)
 <!-- POLYGLOTS:END -->
 
 ## Support
