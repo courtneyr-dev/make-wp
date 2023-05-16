@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Create a four page WordPress website #2.5: Footers](https://learn.wordpress.org/?meeting=create-a-four-page-wordpress-website-2-5-footers)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-2)
 - [Working with Version Control](https://learn.wordpress.org/?meeting=working-with-version-control)
 - [How to translate content for Learn.WordPress.org](https://learn.wordpress.org/?meeting=how-to-translate-content-for-learn-wordpress-org)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Organizing Diverse &amp; Inclusive WordPress Events APAC](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-apac)
 - [How to add a blog/news page to a WordPress website](https://learn.wordpress.org/?meeting=how-to-add-a-blog-news-page-to-a-wordpress-website)
 - [How to set up a free WordPress test website](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website)
-- [WP dev livestream: WordPress multisite experiments](https://learn.wordpress.org/?meeting=wp-dev-livestream-wordpress-multisite-experiments)
 <!-- SLS:END -->
 
 ## Test
