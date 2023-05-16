@@ -87,6 +87,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team bi-weekly meeting May 16, 2023](https://make.wordpress.org/docs/2023/05/16/agenda-for-docs-team-bi-weekly-meeting-may-16-2023/)
+- [Summary for Docs Team meeting, May 2, 2023](https://make.wordpress.org/docs/2023/05/16/summary-for-docs-team-meeting-may-2-2023/)
 - [Proposal: Handbook for Local Teams](https://make.wordpress.org/docs/2023/05/15/proposal-handbook-for-local-teams/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/docs/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [X-post: Explorations for a notification form between documentation and Rosetta sites](https://make.wordpress.org/docs/2023/05/03/xpost-explorations-for-a-notification-form-between-documentation-and-rosetta-sites/)
@@ -95,8 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Docs Team meeting, April 18, 2023](https://make.wordpress.org/docs/2023/04/25/summary-for-docs-team-meeting-april-18-2023/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/docs/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/docs/2023/04/17/integrating-the-mobile-app-documentation-into-helphub/)
-- [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/docs/2023/04/13/xpost-wordpress-at-20-in-print/)
-- [Summary for Docs Team meeting, April 4, 2023](https://make.wordpress.org/docs/2023/04/11/summary-for-docs-team-meeting-april-4-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
