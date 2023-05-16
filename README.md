@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Proposal: Retiring Older Default Themes](https://make.wordpress.org/support/2023/05/xpost-proposal-retiring-older-default-themes/)
 - [Agenda for May 11th Support Meeting](https://make.wordpress.org/support/2023/05/agenda-for-may-11th-support-meeting-2/)
 - [Support ticket triage session – May 4th, 2023 at 08:00 UTC](https://make.wordpress.org/support/2023/05/support-ticket-triage-session-may-4th-2023-at-0800-utc/)
 - [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/support/2023/05/xpost-whats-new-on-learn-wordpress-in-april-2023/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support ticket triage session – April 26th 2023 at 08:00 UTC](https://make.wordpress.org/support/2023/04/support-ticket-triage-session-april-26th-2023-at-0800-utc/)
 - [Agenda for April 20th Support Meeting](https://make.wordpress.org/support/2023/04/agenda-for-april-20th-support-meeting-2/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/support/2023/04/xpost-cultivating-more-effective-contributing-on-contributor-days/)
-- [X-post: Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/support/2023/04/xpost-integrating-the-mobile-app-documentation-into-helphub/)
 <!-- SUPPORT:END -->
 
 ## Documentation
