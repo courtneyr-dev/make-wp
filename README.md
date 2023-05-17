@@ -508,6 +508,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Seeking Website Development Wizard &lpar;WordPress / Elementor&rpar;](https://jobs.wordpress.net/job/seeking-website-development-wizard-wordpress-elementor/)
 - [PHP Software Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/php-software-developer-wordpress-2/)
 - [WP Job Manager customitzation](https://jobs.wordpress.net/job/wp-job-manager-customitzation/)
 - [Senior PHP/WordPress Developer](https://jobs.wordpress.net/job/senior-php-wordpress-developer-5/)
@@ -517,7 +518,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Expert Website Designer &amp; WordPress Developer](https://jobs.wordpress.net/job/wordpress-expert-website-designer-wordpress-developer/)
 - [Junior Graphic Designer](https://jobs.wordpress.net/job/junior-graphic-designer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-801/)
-- [Software Developer](https://jobs.wordpress.net/job/software-developer-27/)
 <!-- JOBS:END -->
 
 ## Central
