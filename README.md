@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s create a header and footer &lpar;block themes&rpar;](https://wordpress.tv/2023/05/16/lets-create-a-header-and-footer-block-themes/)
 - [Create a four page WordPress website #2: Create your header](https://wordpress.tv/2023/05/16/create-a-four-page-wordpress-website-2-create-your-header/)
 - [Eco-concevoir un site. Oui mais comment ?](https://wordpress.tv/2023/05/16/eco-concevoir-un-site-oui-mais-comment/)
 - [Cierre y agradecimientos de la WordCamp Barcelona 2023](https://wordpress.tv/2023/05/15/cierre-y-agradecimientos-de-la-wordcamp-barcelona-2023/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gestió centralitzada: una alternativa a WordPress multisite?](https://wordpress.tv/2023/05/10/gestio-centralitzada-una-alternativa-a-wordpress-multisite/)
 - [Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://wordpress.tv/2023/05/09/create-a-four-page-wordpress-website-1-themes-fonts-styles/)
 - [Cómo podemos hacer el proyecto de WordPress más sostenible](https://wordpress.tv/2023/05/09/como-podemos-hacer-el-proyecto-de-wordpress-mas-sostenible/)
-- [Developer handoff](https://wordpress.tv/2023/05/09/developer-handoff/)
 <!-- WPTV:END -->
 
 ## Marketing
