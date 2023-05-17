@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/polyglots/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Translate Plugin name](https://make.wordpress.org/polyglots/2023/05/17/translate-plugin-name/)
 - [Agenda: Weekly Polyglots Chat – May 17, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/17/agenda-weekly-polyglots-chat-may-17-2023-0700-utc/)
 - [Hi all,](https://make.wordpress.org/polyglots/2023/05/16/hi-all-5/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for geounit-maps](https://make.wordpress.org/polyglots/2023/05/15/post-title-pte-request-for-geounit-maps/)
 - [X-post: Proposal: Handbook for Local Teams](https://make.wordpress.org/polyglots/2023/05/15/xpost-proposal-handbook-for-local-teams/)
 - [Bulk updates in the Translation Consistency](https://make.wordpress.org/polyglots/2023/05/15/bulk-updates-in-the-translation-consistency/)
-- [PTE Request for [Custom Card Link]](https://make.wordpress.org/polyglots/2023/05/14/pte-request-for-custom-card-link/)
 <!-- POLYGLOTS:END -->
 
 ## Support
