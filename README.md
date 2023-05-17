@@ -326,6 +326,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## TV
 <!-- TV:START -->
+- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/tv/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/tv/2023/04/18/xpost-wordpress-at-20-in-print/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/tv/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/tv/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
@@ -335,7 +336,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/tv/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tv/2022/05/26/xpost-announcement-incident-response-training/)
 - [X-post: Proposal: Refurbishing Camera Kits](https://make.wordpress.org/tv/2022/02/16/xpost-proposal-refurbishing-camera-kits/)
-- [Proposal: Auto-populate WordCamp video details using the WordCamp JSON API](https://make.wordpress.org/tv/2021/12/07/proposal-auto-populate-wordcamp-video-details-using-the-wordcamp-json-api/)
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
