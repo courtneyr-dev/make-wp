@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/themes/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Theme Handbook Overhaul: Phase 2 &lpar;Creating Content&rpar;](https://make.wordpress.org/themes/2023/05/17/theme-handbook-overhaul-phase-2-creating-content/)
 - [X-post: Proposal: Retiring Older Default Themes](https://make.wordpress.org/themes/2023/05/16/xpost-proposal-retiring-older-default-themes/)
 - [X-post: Themes team update May 09, 2023](https://make.wordpress.org/themes/2023/05/09/xpost-themes-team-update-may-09-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for April 25, 2023](https://make.wordpress.org/themes/2023/04/24/themes-team-meeting-agenda-for-april-25-2023/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/themes/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [X-post: Themes team update April 18, 2023](https://make.wordpress.org/themes/2023/04/18/xpost-themes-team-update-april-18-2023/)
-- [Themes Team Meeting Notes – April 11, 2023](https://make.wordpress.org/themes/2023/04/12/themes-team-meeting-notes-april-11-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
