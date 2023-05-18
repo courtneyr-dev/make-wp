@@ -339,6 +339,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mejora los resultados de tu WooCommerce gracias al WPO](https://wordpress.tv/2023/05/18/mejora-los-resultados-de-tu-woocommerce-gracias-al-wpo/)
+- [Colabora y contribuye a WordPress: Explorando las diferentes formas de involucrarse en la comunidad](https://wordpress.tv/2023/05/18/colabora-y-contribuye-a-wordpress-explorando-las-diferentes-formas-de-involucrarse-en-la-comunidad/)
 - [Apoyar a tu meetup local](https://wordpress.tv/2023/05/18/viviana-lopez-apoyar-a-tu-meetup-local/)
 - [Guide du détective pour le dépannage WordPress](https://wordpress.tv/2023/05/17/guide-du-detective-pour-le-depannage-wordpress/)
 - [Let’s create a header and footer &lpar;block themes&rpar;](https://wordpress.tv/2023/05/16/lets-create-a-header-and-footer-block-themes/)
@@ -362,8 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Aprende qué es WordPress y cómo instalarlo](https://wordpress.tv/2023/05/10/aprende-que-es-wordpress-y-como-instalarlo/)
 - [Dando vida a tu nuevo proyecto WordPress](https://wordpress.tv/2023/05/10/dando-vida-a-tu-nuevo-proyecto-wordpress/)
 - [Fostering the WordPress of tomorrow, today](https://wordpress.tv/2023/05/10/fostering-the-wordpress-of-tomorrow-today/)
-- [Usabilitat web: bones pràctiques en WordPress](https://wordpress.tv/2023/05/10/usabilitat-web-bones-practiques-en-wordpress/)
-- [Gestió centralitzada: una alternativa a WordPress multisite?](https://wordpress.tv/2023/05/10/gestio-centralitzada-una-alternativa-a-wordpress-multisite/)
 <!-- WPTV:END -->
 
 ## Marketing
