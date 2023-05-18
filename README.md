@@ -283,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Nesting blocks and advanced block layouts](https://learn.wordpress.org/?meeting=nesting-blocks-and-advanced-block-layouts)
 - [Developer Hours – WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-wordpress-playground-2)
 - [Developer Hours – WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-wordpress-playground)
 - [Create a four page WordPress website #2.5: Footers](https://learn.wordpress.org/?meeting=create-a-four-page-wordpress-website-2-5-footers)
@@ -307,7 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to Block Themes: A Q&amp;A](https://learn.wordpress.org/?meeting=introduction-to-block-themes-a-qa)
 - [WP dev livestream: developing for multisite](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-for-multisite)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress)
-- [Organizing Diverse &amp; Inclusive WordPress Events APAC](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-apac)
 <!-- SLS:END -->
 
 ## Test
