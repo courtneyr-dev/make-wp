@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Apoyar a tu meetup local](https://wordpress.tv/2023/05/18/viviana-lopez-apoyar-a-tu-meetup-local/)
 - [Guide du détective pour le dépannage WordPress](https://wordpress.tv/2023/05/17/guide-du-detective-pour-le-depannage-wordpress/)
 - [Let’s create a header and footer &lpar;block themes&rpar;](https://wordpress.tv/2023/05/16/lets-create-a-header-and-footer-block-themes/)
 - [Create a four page WordPress website #2: Create your header](https://wordpress.tv/2023/05/16/create-a-four-page-wordpress-website-2-create-your-header/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fostering the WordPress of tomorrow, today](https://wordpress.tv/2023/05/10/fostering-the-wordpress-of-tomorrow-today/)
 - [Usabilitat web: bones pràctiques en WordPress](https://wordpress.tv/2023/05/10/usabilitat-web-bones-practiques-en-wordpress/)
 - [Gestió centralitzada: una alternativa a WordPress multisite?](https://wordpress.tv/2023/05/10/gestio-centralitzada-una-alternativa-a-wordpress-multisite/)
-- [Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://wordpress.tv/2023/05/09/create-a-four-page-wordpress-website-1-themes-fonts-styles/)
 <!-- WPTV:END -->
 
 ## Marketing
