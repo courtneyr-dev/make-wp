@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello, I have translated some…](https://make.wordpress.org/polyglots/2023/05/18/hello-i-have-translated-some/)
 - [PTE Request for my plugin…](https://make.wordpress.org/polyglots/2023/05/18/pte-request-for-my-plugin-6/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/polyglots/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Translate Plugin name](https://make.wordpress.org/polyglots/2023/05/17/translate-plugin-name/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Requesting a Translation Review &lpar;Ukrainian&rpar;](https://make.wordpress.org/polyglots/2023/05/16/requesting-a-translation-review-ukrainian/)
 - [PTE Request for Divi Content…](https://make.wordpress.org/polyglots/2023/05/16/pte-request-for-divi-content-2/)
 - [PTE Request for geounit-maps](https://make.wordpress.org/polyglots/2023/05/15/post-title-pte-request-for-geounit-maps/)
-- [X-post: Proposal: Handbook for Local Teams](https://make.wordpress.org/polyglots/2023/05/15/xpost-proposal-handbook-for-local-teams/)
 <!-- POLYGLOTS:END -->
 
 ## Support
