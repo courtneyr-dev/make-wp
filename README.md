@@ -283,6 +283,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [The Creative Side of Blocks, Vol. 4](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-4)
+- [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress-3)
 - [Nesting blocks and advanced block layouts](https://learn.wordpress.org/?meeting=nesting-blocks-and-advanced-block-layouts)
 - [Developer Hours – WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-wordpress-playground-2)
 - [Developer Hours – WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-wordpress-playground)
@@ -306,8 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a custom template in the Site Editor](https://learn.wordpress.org/?meeting=creating-a-custom-template-in-the-site-editor)
 - [Building a page with only patterns](https://learn.wordpress.org/?meeting=building-a-page-with-only-patterns-2)
 - [Introduction to Block Themes: A Q&amp;A](https://learn.wordpress.org/?meeting=introduction-to-block-themes-a-qa)
-- [WP dev livestream: developing for multisite](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-for-multisite)
-- [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress)
 <!-- SLS:END -->
 
 ## Test
