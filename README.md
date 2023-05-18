@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Introduction to WordPress Multisite Networks](https://learn.wordpress.org/tutorial/introduction-to-wordpress-multisite-networks/)
 - [WordPress editor modes for streamlining content creation](https://learn.wordpress.org/tutorial/wordpress-editor-modes-for-streamlining-content-creation/)
 - [Exploring category templates with block themes](https://learn.wordpress.org/tutorial/exploring-category-templates-with-block-themes/)
 - [The WordPress request lifecycle](https://learn.wordpress.org/tutorial/the-wordpress-request-lifecycle/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What kind of WordPress theme do I have: classic, block, or something else?](https://learn.wordpress.org/tutorial/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 - [WP REST API – custom fields, authentication, and testing](https://learn.wordpress.org/tutorial/wp-rest-api-custom-fields-authentication-and-testing/)
 - [Displaying testimonials on your website](https://learn.wordpress.org/tutorial/displaying-testimonials-on-your-website/)
-- [Interacting with the WordPress REST API](https://learn.wordpress.org/tutorial/interacting-with-the-wordpress-rest-api/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
