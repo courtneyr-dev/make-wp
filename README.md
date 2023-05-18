@@ -157,6 +157,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: May 2023](https://make.wordpress.org/community/2023/05/18/meetup-organizer-newsletter-may-2023/)
+- [Announcement: Increasing Meetup Venue Support Funds](https://make.wordpress.org/community/2023/05/18/announcement-increasing-meetup-venue-support-funds/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/community/2023/05/18/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Contributor Working Group: Mentorship Chat Agenda | May 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/05/15/contributor-working-group-mentorship-chat-agenda-may-18th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 10, 2023](https://make.wordpress.org/community/2023/05/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-10-2023/)
@@ -165,8 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Next Generation of WordCamps](https://make.wordpress.org/community/2023/05/08/the-next-generation-of-wordcamps/)
 - [Community Team Training #8: Boosting WordPress Meetup engagement with Meetup.com](https://make.wordpress.org/community/2023/05/03/community-team-training-8-boosting-wordpress-meetup-engagement-with-meetup-com/)
 - [Community Team Meeting Agenda for 4 May, 2023](https://make.wordpress.org/community/2023/05/03/community-team-meeting-agenda-for-4-may-2023/)
-- [Announcing the 2023 Community Team Goals](https://make.wordpress.org/community/2023/05/03/announcing-the-2023-community-team-goals/)
-- [2021-2022 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/community/2023/05/02/2021-2022-wordpress-meetup-survey-key-findings/)
 <!-- COMMUNITY:END -->
 
 ## Meta
