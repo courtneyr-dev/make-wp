@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.3 Planning Roundup](https://make.wordpress.org/core/2023/05/18/wordpress-6-3-planning-roundup/)
 - [Roadmap to 6.3](https://make.wordpress.org/core/2023/05/18/roadmap-to-6-3/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/core/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Command Center: Request for feedback](https://make.wordpress.org/core/2023/05/17/command-center-request-for-feedback/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Retiring Older Default Themes](https://make.wordpress.org/core/2023/05/16/proposal-retiring-older-default-themes/)
 - [Performance Chat Agenda: 16 May 2023](https://make.wordpress.org/core/2023/05/16/performance-chat-agenda-16-may-2023/)
 - [Editor chat summary: May 10th, 2023](https://make.wordpress.org/core/2023/05/15/editor-chat-summary-may-10th-2023/)
-- [Dev Chat Summary, May 10, 2023](https://make.wordpress.org/core/2023/05/11/dev-chat-summary-may-10-2023/)
 <!-- CORE:END -->
 
 ## Design
