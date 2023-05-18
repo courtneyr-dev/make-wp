@@ -424,6 +424,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Catalog Postgres Exploration Effort](https://make.wordpress.org/openverse/2023/05/18/catalog-postgres-exploration-effort/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/openverse/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [A week in Openverse: 2023-05-08 – 2023-05-15](https://make.wordpress.org/openverse/2023/05/15/last-week-openverse-2023-05-08-2023-05-15/)
 - [A week in Openverse: 2023-05-01 – 2023-05-08](https://make.wordpress.org/openverse/2023/05/08/last-week-openverse-2023-05-01-2023-05-08/)
@@ -433,7 +434,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Openverse Monthly Priorities Meeting 2023-05-03](https://make.wordpress.org/openverse/2023/05/01/openverse-monthly-priorities-meeting-2023-05-03/)
 - [A week in Openverse: 2023-04-24 – 2023-05-01](https://make.wordpress.org/openverse/2023/05/01/last-week-openverse-2023-04-24-2023-05-01/)
 - [A week in Openverse: 2023-04-17 – 2023-04-24](https://make.wordpress.org/openverse/2023/04/24/last-week-openverse-2023-04-17-2023-04-24/)
-- [Community Meeting Recap &lpar;2023-04-18&rpar;](https://make.wordpress.org/openverse/2023/04/20/community-meeting-recap-2023-04-18/)
 <!-- OPENVERSE:END -->
 
 ## Photos
