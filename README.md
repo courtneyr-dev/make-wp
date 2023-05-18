@@ -283,6 +283,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours – WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-wordpress-playground-2)
+- [Developer Hours – WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-wordpress-playground)
 - [Create a four page WordPress website #2.5: Footers](https://learn.wordpress.org/?meeting=create-a-four-page-wordpress-website-2-5-footers)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-2)
 - [Working with Version Control](https://learn.wordpress.org/?meeting=working-with-version-control)
@@ -306,8 +308,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP dev livestream: developing for multisite](https://learn.wordpress.org/?meeting=wp-dev-livestream-developing-for-multisite)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress)
 - [Organizing Diverse &amp; Inclusive WordPress Events APAC](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-apac)
-- [How to add a blog/news page to a WordPress website](https://learn.wordpress.org/?meeting=how-to-add-a-blog-news-page-to-a-wordpress-website)
-- [How to set up a free WordPress test website](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website)
 <!-- SLS:END -->
 
 ## Test
