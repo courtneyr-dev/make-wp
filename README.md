@@ -257,6 +257,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
+- [Creating a 4-page business website](https://learn.wordpress.org/course/creating-a-4-page-business-website/)
 - [Converting a Shortcode to a Block](https://learn.wordpress.org/course/converting-a-shortcode-to-a-block/)
 - [Develop Your First Low-Code Block Theme](https://learn.wordpress.org/course/develop-your-first-low-code-block-theme/)
 - [A Developers Guide to Block Themes – Part 2](https://learn.wordpress.org/course/a-developers-guide-to-block-themes-part-2/)
