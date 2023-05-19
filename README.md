@@ -339,6 +339,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Testing plugins for PHP 8](https://wordpress.tv/2023/05/19/testing-plugins-for-php-8/)
 - [Introduction to WordPress Multisite Networks](https://wordpress.tv/2023/05/18/introduction-to-wordpress-multisite-networks/)
 - [Mejora los resultados de tu WooCommerce gracias al WPO](https://wordpress.tv/2023/05/18/mejora-los-resultados-de-tu-woocommerce-gracias-al-wpo/)
 - [Colabora y contribuye a WordPress: Explorando las diferentes formas de involucrarse en la comunidad](https://wordpress.tv/2023/05/18/colabora-y-contribuye-a-wordpress-explorando-las-diferentes-formas-de-involucrarse-en-la-comunidad/)
@@ -363,7 +364,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tot el que la teva web necessita per complir amb la normativa](https://wordpress.tv/2023/05/10/tot-el-que-la-teva-web-necessita-per-complir-amb-la-normativa/)
 - [Secure the emails of your WordPress site with SPF, DKIM and DMARC](https://wordpress.tv/2023/05/10/secure-the-emails-of-your-wordpress-site-with-spf-dkim-and-dmarc/)
 - [Aprende qué es WordPress y cómo instalarlo](https://wordpress.tv/2023/05/10/aprende-que-es-wordpress-y-como-instalarlo/)
-- [Dando vida a tu nuevo proyecto WordPress](https://wordpress.tv/2023/05/10/dando-vida-a-tu-nuevo-proyecto-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
