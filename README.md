@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for Translation Review](https://make.wordpress.org/polyglots/2023/05/19/request-for-translation-review/)
 - [PTE Request for “Ultimate Member integration – AcyMailing”](https://make.wordpress.org/polyglots/2023/05/19/pte-request-for-ultimate-member-integration-acymailing/)
 - [Hello, I have translated some…](https://make.wordpress.org/polyglots/2023/05/18/hello-i-have-translated-some/)
 - [PTE Request for my plugin…](https://make.wordpress.org/polyglots/2023/05/18/pte-request-for-my-plugin-6/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi all,](https://make.wordpress.org/polyglots/2023/05/16/hi-all-5/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/05/16/ive-suggested-translations-for-this-29/)
 - [Requesting a Translation Review &lpar;Ukrainian&rpar;](https://make.wordpress.org/polyglots/2023/05/16/requesting-a-translation-review-ukrainian/)
-- [PTE Request for Divi Content…](https://make.wordpress.org/polyglots/2023/05/16/pte-request-for-divi-content-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
