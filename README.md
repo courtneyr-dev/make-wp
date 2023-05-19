@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [SiteGround Joins the 2023 Global Sponsorship Program](https://make.wordpress.org/community/2023/05/19/siteground-joins-the-2023-global-sponsorship-program/)
 - [Meetup Organizer Newsletter: May 2023](https://make.wordpress.org/community/2023/05/18/meetup-organizer-newsletter-may-2023/)
 - [Announcement: Increasing Meetup Venue Support Funds](https://make.wordpress.org/community/2023/05/18/announcement-increasing-meetup-venue-support-funds/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/community/2023/05/18/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/community/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [The Next Generation of WordCamps](https://make.wordpress.org/community/2023/05/08/the-next-generation-of-wordcamps/)
 - [Community Team Training #8: Boosting WordPress Meetup engagement with Meetup.com](https://make.wordpress.org/community/2023/05/03/community-team-training-8-boosting-wordpress-meetup-engagement-with-meetup-com/)
-- [Community Team Meeting Agenda for 4 May, 2023](https://make.wordpress.org/community/2023/05/03/community-team-meeting-agenda-for-4-may-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
