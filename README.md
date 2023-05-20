@@ -284,6 +284,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Debugging in WordPress](https://learn.wordpress.org/?meeting=debugging-in-wordpress)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-2)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-3)
 - [The Creative Side of Blocks, Vol. 4](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-4)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live stream: Creating a block theme for developers. Part 1](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-1)
 - [Bring me your issues: A New Hope](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-issues-a-new-hope)
 - [Creating a custom template in the Site Editor](https://learn.wordpress.org/?meeting=creating-a-custom-template-in-the-site-editor)
-- [Building a page with only patterns](https://learn.wordpress.org/?meeting=building-a-page-with-only-patterns-2)
 <!-- SLS:END -->
 
 ## Test
