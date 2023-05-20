@@ -284,13 +284,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-2)
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-3)
 - [The Creative Side of Blocks, Vol. 4](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks-vol-4)
 - [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress-3)
 - [Nesting blocks and advanced block layouts](https://learn.wordpress.org/?meeting=nesting-blocks-and-advanced-block-layouts)
 - [Developer Hours – WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-wordpress-playground-2)
 - [Developer Hours – WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-wordpress-playground)
 - [Create a four page WordPress website #2.5: Footers](https://learn.wordpress.org/?meeting=create-a-four-page-wordpress-website-2-5-footers)
-- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-2)
 - [Working with Version Control](https://learn.wordpress.org/?meeting=working-with-version-control)
 - [How to translate content for Learn.WordPress.org](https://learn.wordpress.org/?meeting=how-to-translate-content-for-learn-wordpress-org)
 - [キャッシュについて知ろう！ ~ WordPress サイトの Cache 設定 ~](https://learn.wordpress.org/?meeting=%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e7%9f%a5%e3%82%8d%e3%81%86%ef%bc%81-wordpress-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae-cache-%e8%a8%ad%e5%ae%9a-2)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bring me your issues: A New Hope](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-issues-a-new-hope)
 - [Creating a custom template in the Site Editor](https://learn.wordpress.org/?meeting=creating-a-custom-template-in-the-site-editor)
 - [Building a page with only patterns](https://learn.wordpress.org/?meeting=building-a-page-with-only-patterns-2)
-- [Introduction to Block Themes: A Q&amp;A](https://learn.wordpress.org/?meeting=introduction-to-block-themes-a-qa)
 <!-- SLS:END -->
 
 ## Test
