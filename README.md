@@ -369,8 +369,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Day 13: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/20/day-13-wp20-from-blogs-to-blocks/)
 - [Day 12: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/19/day-12-wp20-from-blogs-to-blocks/)
-- [Day 13: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/19/day-13-wp20-from-blogs-to-blocks/)
 - [Day 11: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/18/day-11-wp20-from-blogs-to-blocks/)
 - [Day 10: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/17/day-10-wp20-from-blogs-to-blocks/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/marketing/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
