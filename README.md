@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mi experiencia trabajando en remoto en Automattic](https://wordpress.tv/2023/05/21/mi-experiencia-trabajando-en-remoto-en-automattic/)
 - [How to add a blog or news page to any WordPress website](https://wordpress.tv/2023/05/19/how-to-add-a-blog-or-news-page-to-any-wordpress-website/)
 - [Testing plugins for PHP 8](https://wordpress.tv/2023/05/19/testing-plugins-for-php-8/)
 - [Introduction to WordPress Multisite Networks](https://wordpress.tv/2023/05/18/introduction-to-wordpress-multisite-networks/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Que faire de plus quand on pense avoir déjà tout fait en SEO ?](https://wordpress.tv/2023/05/13/que-faire-de-plus-quand-on-pense-avoir-deja-tout-fait-en-seo/)
 - [WordPress editor modes for streamlining content creation](https://wordpress.tv/2023/05/10/wordpress-editor-modes-for-streamlining-content-creation/)
 - [Tot el que la teva web necessita per complir amb la normativa](https://wordpress.tv/2023/05/10/tot-el-que-la-teva-web-necessita-per-complir-amb-la-normativa/)
-- [Secure the emails of your WordPress site with SPF, DKIM and DMARC](https://wordpress.tv/2023/05/10/secure-the-emails-of-your-wordpress-site-with-spf-dkim-and-dmarc/)
 <!-- WPTV:END -->
 
 ## Marketing
