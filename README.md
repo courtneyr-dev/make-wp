@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo terminas montando una meetup de WordPress en Sierra Leona](https://wordpress.tv/2023/05/21/como-terminas-montando-una-meetup-de-wordpress-en-sierra-leona/)
 - [Mi experiencia trabajando en remoto en Automattic](https://wordpress.tv/2023/05/21/mi-experiencia-trabajando-en-remoto-en-automattic/)
 - [How to add a blog or news page to any WordPress website](https://wordpress.tv/2023/05/19/how-to-add-a-blog-or-news-page-to-any-wordpress-website/)
 - [Testing plugins for PHP 8](https://wordpress.tv/2023/05/19/testing-plugins-for-php-8/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress l’outil nocode au service de votre productivité](https://wordpress.tv/2023/05/15/wordpress-loutil-nocode-au-service-de-votre-productivite/)
 - [Que faire de plus quand on pense avoir déjà tout fait en SEO ?](https://wordpress.tv/2023/05/13/que-faire-de-plus-quand-on-pense-avoir-deja-tout-fait-en-seo/)
 - [WordPress editor modes for streamlining content creation](https://wordpress.tv/2023/05/10/wordpress-editor-modes-for-streamlining-content-creation/)
-- [Tot el que la teva web necessita per complir amb la normativa](https://wordpress.tv/2023/05/10/tot-el-que-la-teva-web-necessita-per-complir-amb-la-normativa/)
 <!-- WPTV:END -->
 
 ## Marketing
