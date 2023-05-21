@@ -62,7 +62,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I just dis a translation…](https://make.wordpress.org/polyglots/2023/05/20/i-just-dis-a-translation/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2023/05/19/pte-request-for-advanced-custom-fields-acf/)
 - [Request for Translation Review](https://make.wordpress.org/polyglots/2023/05/19/request-for-translation-review/)
-- [PTE Request for 5 plugins](https://make.wordpress.org/polyglots/2023/05/19/pte-request-for-ultimate-member-integration-acymailing/)
+- [PTE Request for 6 plugins](https://make.wordpress.org/polyglots/2023/05/19/pte-request-for-ultimate-member-integration-acymailing/)
 - [Hello, I have translated some…](https://make.wordpress.org/polyglots/2023/05/18/hello-i-have-translated-some/)
 - [PTE Request for my plugin…](https://make.wordpress.org/polyglots/2023/05/18/pte-request-for-my-plugin-6/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/polyglots/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
