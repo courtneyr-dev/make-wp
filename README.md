@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Validate translations for Kadence theme](https://make.wordpress.org/polyglots/2023/05/22/validate-translations-for-kadence-theme/)
 - [Hi team,](https://make.wordpress.org/polyglots/2023/05/21/hi-team-5/)
 - [I just dis a translation…](https://make.wordpress.org/polyglots/2023/05/20/i-just-dis-a-translation/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2023/05/19/pte-request-for-advanced-custom-fields-acf/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for my plugin…](https://make.wordpress.org/polyglots/2023/05/18/pte-request-for-my-plugin-6/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/polyglots/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Translate Plugin name](https://make.wordpress.org/polyglots/2023/05/17/translate-plugin-name/)
-- [Agenda: Weekly Polyglots Chat – May 17, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/17/agenda-weekly-polyglots-chat-may-17-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
