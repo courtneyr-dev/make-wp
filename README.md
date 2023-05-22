@@ -340,6 +340,19 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ben Dunkle: Are Child Themes Dead?](https://wordpress.tv/2023/05/22/ben-dunkle-are-child-themes-dead/)
+- [Courtney Robertson: The WordPress Training Team’s Journey Towards Creating Accessible and Engaging Educational Materials](https://wordpress.tv/2023/05/22/courtney-robertson-the-wordpress-training-teams-journey-towards-creating-accessible-and-engaging-educational-materials/)
+- [Marybeth Smith: How to Monetize Your WordPress Site Without Spamming it With Ads!](https://wordpress.tv/2023/05/22/marybeth-smith-how-to-monetize-your-wordpress-site-without-spamming-it-with-ads/)
+- [Maestro Stevens: Sell Smarter With Your HEADless Starter](https://wordpress.tv/2023/05/22/maestro-stevens-sell-smarter-with-your-headless-starter/)
+- [William D Jackson: The Metaverse and WordPress, Oh My Gosh Here Comes VR](https://wordpress.tv/2023/05/22/william-d-jackson-the-metaverse-and-wordpress-oh-my-gosh-here-comes-vr/)
+- [Micah Wood: Clue -A Detective’s Guide to Troubleshooting in WordPress](https://wordpress.tv/2023/05/22/micah-wood-clue-a-detectives-guide-to-troubleshooting-in-wordpress/)
+- [Jason Coleman: Transitioning from Consulting to Products](https://wordpress.tv/2023/05/22/jason-coleman-transitioning-from-consulting-to-products-3/)
+- [Aida Correa-Jackson: So, You’re Not a Writer- Blogging Even If You Think You Can’t Write 2.0](https://wordpress.tv/2023/05/22/aida-correa-jackson-so-youre-not-a-writer-blogging-even-if-you-think-you-cant-write-2-0/)
+- [Dave Lockie: GenerativeAI &amp; WordPress – buckle up, it’s going to be a wild ride](https://wordpress.tv/2023/05/22/dave-lockie-generativeai-wordpress-buckle-up-its-going-to-be-a-wild-ride/)
+- [Timothy Jacobs: Passkeys -The Future of Authentication](https://wordpress.tv/2023/05/22/passkeys-the-future-of-authentication/)
+- [Mujeebu rahman: WordPress Data Privacy](https://wordpress.tv/2023/05/22/mujeebu-rahman-wordpress-data-privacy/)
+- [Maestro Stevens: Safeguarding Your Website – Smart WordPress Security](https://wordpress.tv/2023/05/22/maestro-stevens-safeguarding-your-website-smart-wordpress-security/)
+- [Rashed Amin: How to Tranlate WordPress in Bangla.](https://wordpress.tv/2023/05/22/rashed-amin-how-to-tranlate-wordpress-in-bangla/)
 - [Mesa redonda: Por qué te tienes que enamorar de WordPress](https://wordpress.tv/2023/05/21/mesa-redonda-por-que-te-tienes-que-enamorar-de-wordpress/)
 - [Cómo terminas montando una meetup de WordPress en Sierra Leona](https://wordpress.tv/2023/05/21/como-terminas-montando-una-meetup-de-wordpress-en-sierra-leona/)
 - [Mi experiencia trabajando en remoto en Automattic](https://wordpress.tv/2023/05/21/mi-experiencia-trabajando-en-remoto-en-automattic/)
@@ -352,19 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Guide du détective pour le dépannage WordPress](https://wordpress.tv/2023/05/17/guide-du-detective-pour-le-depannage-wordpress/)
 - [Let’s create a header and footer &lpar;block themes&rpar;](https://wordpress.tv/2023/05/16/lets-create-a-header-and-footer-block-themes/)
 - [Create a four page WordPress website #2: Create your header](https://wordpress.tv/2023/05/16/create-a-four-page-wordpress-website-2-create-your-header/)
-- [Eco-concevoir un site. Oui mais comment ?](https://wordpress.tv/2023/05/16/eco-concevoir-un-site-oui-mais-comment/)
-- [Cierre y agradecimientos de la WordCamp Barcelona 2023](https://wordpress.tv/2023/05/15/cierre-y-agradecimientos-de-la-wordcamp-barcelona-2023/)
-- [Diseñar con el espacio](https://wordpress.tv/2023/05/15/disenar-con-el-espacio/)
-- [10 + 2 bàsics d’accessibilitat](https://wordpress.tv/2023/05/15/10-2-basics-daccessibilitat/)
-- [Niels de Blaauw – REST API HACKING – 6 JAAR LATER](https://wordpress.tv/2023/05/15/niels-de-blaauw-rest-api-hacking-6-jaar-later-2/)
-- [Veerle Verbert: LEARN CSS DEEPLY](https://wordpress.tv/2023/05/15/veerle-verbert-learn-css-deeply/)
-- [Mitchell Leber – DESIGN SYSTEMS, TOKENS, FOUNDATIONS, GUIDES, IDENTITIES, ATOMIC DESIGN…. SORRY WAT ZEG JE?](https://wordpress.tv/2023/05/15/mitchell-leber-design-systems-tokens-foundations-guides-identities-atomic-design-sorry-wat-zeg-je/)
-- [Floris P. Lof – OPTIMALISEER JE AJAX REQUESTS](https://wordpress.tv/2023/05/15/floris-p-lof-optimaliseer-je-ajax-requests/)
-- [Edwin de Kuiper – Complexe platformen met WordPress](https://wordpress.tv/2023/05/15/edwin-de-kuiper-complexe-platformen-met-wordpress/)
-- [Michał Strześniewski – Czy era WordPressa przemija Analiza narzędzi no low-code i jak ich rozwój wpłynie](https://wordpress.tv/2023/05/15/michal-strzesniewski-czy-era-wordpressa-przemija-analiza-narzedzi-no-low-code-i-jak-ich-rozwoj-wplynie/)
-- [Bien héberger WordPress, du plus simple et moins cher au plus complexe et puissant](https://wordpress.tv/2023/05/15/bien-heberger-wordpress-du-plus-simple-et-moins-cher-au-plus-complexe-et-puissant/)
-- [WordPress l’outil nocode au service de votre productivité](https://wordpress.tv/2023/05/15/wordpress-loutil-nocode-au-service-de-votre-productivite/)
-- [Que faire de plus quand on pense avoir déjà tout fait en SEO ?](https://wordpress.tv/2023/05/13/que-faire-de-plus-quand-on-pense-avoir-deja-tout-fait-en-seo/)
 <!-- WPTV:END -->
 
 ## Marketing
