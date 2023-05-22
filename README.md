@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day May 23, 2023](https://make.wordpress.org/docs/2023/05/22/online-monthly-docs-team-contributor-day-may-23-2023/)
 - [Summary for Docs Team meeting, May 16, 2023](https://make.wordpress.org/docs/2023/05/22/summary-for-docs-team-meeting-may-16-2023/)
 - [Really helpful guidelines who wants…](https://make.wordpress.org/docs/2023/05/22/really-helpful-guidelines-who-wants/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/docs/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/docs/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [X-post: Explorations for a notification form between documentation and Rosetta sites](https://make.wordpress.org/docs/2023/05/03/xpost-explorations-for-a-notification-form-between-documentation-and-rosetta-sites/)
 - [Agenda for Docs Team bi-weekly meeting May 2, 2023](https://make.wordpress.org/docs/2023/05/02/agenda-for-docs-team-bi-weekly-meeting-may-2-2023/)
-- [Monthly online Docs Team Contributor Day starts April 2023](https://make.wordpress.org/docs/2023/04/25/monthly-online-docs-team-contributor-day-starts-april-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
