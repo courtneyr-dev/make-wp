@@ -313,6 +313,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 22 May 2023](https://make.wordpress.org/test/2023/05/22/xpost-test-team-update-22-may-2023/)
 - [FSE Program Testing Call #23: Rapid Revamp](https://make.wordpress.org/test/2023/05/18/fse-program-testing-call-23-rapid-revamp/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/test/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Proposal: Retiring Older Default Themes](https://make.wordpress.org/test/2023/05/16/xpost-proposal-retiring-older-default-themes/)
@@ -322,7 +323,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Let’s chat about the Site Editor &amp; 6.3](https://make.wordpress.org/test/2023/05/11/hallway-hangout-lets-chat-about-the-site-editor-6-3/)
 - [FSE Program Build a Block Theme Summary](https://make.wordpress.org/test/2023/05/04/fse-program-build-a-block-theme-summary/)
 - [Test Chat Summary: 25 April 2023](https://make.wordpress.org/test/2023/04/25/test-chat-summary-25-april-2023/)
-- [X-post: Test Team Update: 24 April 2023](https://make.wordpress.org/test/2023/04/24/xpost-test-team-update-24-april-2023/)
 <!-- TEST:END -->
 
 ## TV
