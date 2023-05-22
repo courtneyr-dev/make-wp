@@ -517,8 +517,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PHP Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/php-developer-remote-3/)
 - [Head of WordPress](https://jobs.wordpress.net/job/head-of-wordpress/)
 - [Developer](https://jobs.wordpress.net/job/developer-69/)
-- [Confirmation email sent to person submitting registration form](https://jobs.wordpress.net/job/confirmation-email-sent-to-person-submitting-registration-form/)
 - [Website Refresh for our Rotary Club](https://jobs.wordpress.net/job/website-refresh-for-our-rotary-club/)
+- [WooCommerce – React.JS Developer](https://jobs.wordpress.net/job/woocommerce-react-js-developer/)
 <!-- JOBS:END -->
 
 ## Central
