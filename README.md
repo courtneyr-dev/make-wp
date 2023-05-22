@@ -509,6 +509,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-802/)
+- [WordPress WooCommerce Developer for Updating Plugins](https://jobs.wordpress.net/job/wordpress-woocommerce-developer-for-updating-plugins/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-11/)
 - [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-3/)
 - [FULL-TIME Mid level REMOTE WordPress Developer Wanted](https://jobs.wordpress.net/job/full-time-mid-level-remote-wordpress-developer-wanted/)
@@ -517,8 +519,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer](https://jobs.wordpress.net/job/developer-69/)
 - [Confirmation email sent to person submitting registration form](https://jobs.wordpress.net/job/confirmation-email-sent-to-person-submitting-registration-form/)
 - [Website Refresh for our Rotary Club](https://jobs.wordpress.net/job/website-refresh-for-our-rotary-club/)
-- [WooCommerce – React.JS Developer](https://jobs.wordpress.net/job/woocommerce-react-js-developer/)
-- [Seeking Website Development Wizard &lpar;WordPress / Elementor&rpar;](https://jobs.wordpress.net/job/seeking-website-development-wizard-wordpress-elementor/)
 <!-- JOBS:END -->
 
 ## Central
