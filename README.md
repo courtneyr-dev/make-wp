@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design Share: May 8—May 19](https://make.wordpress.org/design/2023/05/22/design-share-may-8-may-19/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/design/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/design/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [Design Share: Apr 24–May 5](https://make.wordpress.org/design/2023/05/08/design-share-apr-24-may-5/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress.org Redesign Update](https://make.wordpress.org/design/2023/04/10/xpost-wordpress-org-redesign-update-2/)
 - [Why Jazz?](https://make.wordpress.org/design/2023/03/30/why-jazz/)
 - [Design Share: Mar 13–Mar 24](https://make.wordpress.org/design/2023/03/27/design-share-mar-13-mar-24/)
-- [Design Share: Feb 13–Mar 10](https://make.wordpress.org/design/2023/03/13/design-share-feb-13-mar-10/)
 <!-- DESIGN:END -->
 
 ## Mobile
