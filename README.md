@@ -340,6 +340,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mejora la UX y la WPO de tu web con un plugin de fuentes variables](https://wordpress.tv/2023/05/22/mejora-la-ux-y-la-wpo-de-tu-web-con-un-plugin-de-fuentes-variables/)
+- [¿Sabes cuál es el límite más grande que tenemos?](https://wordpress.tv/2023/05/22/sabes-cual-es-el-limite-mas-grande-que-tenemos/)
 - [Ben Dunkle: Are Child Themes Dead?](https://wordpress.tv/2023/05/22/ben-dunkle-are-child-themes-dead/)
 - [Courtney Robertson: The WordPress Training Team’s Journey Towards Creating Accessible and Engaging Educational Materials](https://wordpress.tv/2023/05/22/courtney-robertson-the-wordpress-training-teams-journey-towards-creating-accessible-and-engaging-educational-materials/)
 - [Marybeth Smith: How to Monetize Your WordPress Site Without Spamming it With Ads!](https://wordpress.tv/2023/05/22/marybeth-smith-how-to-monetize-your-wordpress-site-without-spamming-it-with-ads/)
@@ -348,7 +350,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Micah Wood: Clue -A Detective’s Guide to Troubleshooting in WordPress](https://wordpress.tv/2023/05/22/micah-wood-clue-a-detectives-guide-to-troubleshooting-in-wordpress/)
 - [Jason Coleman: Transitioning from Consulting to Products](https://wordpress.tv/2023/05/22/jason-coleman-transitioning-from-consulting-to-products-3/)
 - [Aida Correa-Jackson: So, You’re Not a Writer- Blogging Even If You Think You Can’t Write 2.0](https://wordpress.tv/2023/05/22/aida-correa-jackson-so-youre-not-a-writer-blogging-even-if-you-think-you-cant-write-2-0/)
-- [Dave Lockie: GenerativeAI &amp; WordPress – buckle up, it’s going to be a wild ride](https://wordpress.tv/2023/05/22/dave-lockie-generativeai-wordpress-buckle-up-its-going-to-be-a-wild-ride/)
+- [GenerativeAI &amp; WordPress: buckle up, it’s going to be a wild ride](https://wordpress.tv/2023/05/22/dave-lockie-generativeai-wordpress-buckle-up-its-going-to-be-a-wild-ride/)
 - [Timothy Jacobs: Passkeys -The Future of Authentication](https://wordpress.tv/2023/05/22/passkeys-the-future-of-authentication/)
 - [Mujeebu rahman: WordPress Data Privacy](https://wordpress.tv/2023/05/22/mujeebu-rahman-wordpress-data-privacy/)
 - [Maestro Stevens: Safeguarding Your Website – Smart WordPress Security](https://wordpress.tv/2023/05/22/maestro-stevens-safeguarding-your-website-smart-wordpress-security/)
@@ -363,8 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Colabora y contribuye a WordPress: Explorando las diferentes formas de involucrarse en la comunidad](https://wordpress.tv/2023/05/18/colabora-y-contribuye-a-wordpress-explorando-las-diferentes-formas-de-involucrarse-en-la-comunidad/)
 - [Apoyar a tu meetup local](https://wordpress.tv/2023/05/18/viviana-lopez-apoyar-a-tu-meetup-local/)
 - [Guide du détective pour le dépannage WordPress](https://wordpress.tv/2023/05/17/guide-du-detective-pour-le-depannage-wordpress/)
-- [Let’s create a header and footer &lpar;block themes&rpar;](https://wordpress.tv/2023/05/16/lets-create-a-header-and-footer-block-themes/)
-- [Create a four page WordPress website #2: Create your header](https://wordpress.tv/2023/05/16/create-a-four-page-wordpress-website-2-create-your-header/)
 <!-- WPTV:END -->
 
 ## Marketing
