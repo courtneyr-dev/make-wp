@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Moderniser le développement WordPress](https://wordpress.tv/2023/05/23/moderniser-le-developpement-wordpress/)
 - [WordPress Through the Terminal](https://wordpress.tv/2023/05/22/wordpress-through-the-terminal-4/)
 - [Mejora la UX y la WPO de tu web con un plugin de fuentes variables](https://wordpress.tv/2023/05/22/mejora-la-ux-y-la-wpo-de-tu-web-con-un-plugin-de-fuentes-variables/)
 - [¿Sabes cuál es el límite más grande que tenemos?](https://wordpress.tv/2023/05/22/sabes-cual-es-el-limite-mas-grande-que-tenemos/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to WordPress Multisite Networks](https://wordpress.tv/2023/05/18/introduction-to-wordpress-multisite-networks/)
 - [Mejora los resultados de tu WooCommerce gracias al WPO](https://wordpress.tv/2023/05/18/mejora-los-resultados-de-tu-woocommerce-gracias-al-wpo/)
 - [Colabora y contribuye a WordPress: Explorando las diferentes formas de involucrarse en la comunidad](https://wordpress.tv/2023/05/18/colabora-y-contribuye-a-wordpress-explorando-las-diferentes-formas-de-involucrarse-en-la-comunidad/)
-- [Apoyar a tu meetup local](https://wordpress.tv/2023/05/18/viviana-lopez-apoyar-a-tu-meetup-local/)
 <!-- WPTV:END -->
 
 ## Marketing
