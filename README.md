@@ -340,6 +340,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress 6.2 のアップデート内容を見てみよう！](https://wordpress.tv/2023/05/23/wordpress-6-2-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
+- [Comment préparer son site pour l’avenir en termes de performance, de sécurité et de fonctionnalités](https://wordpress.tv/2023/05/23/comment-preparer-son-site-pour-lavenir-en-termes-de-performance-de-securite-et-de-fonctionnalites/)
 - [Moderniser le développement WordPress](https://wordpress.tv/2023/05/23/moderniser-le-developpement-wordpress/)
 - [WordPress Through the Terminal](https://wordpress.tv/2023/05/22/wordpress-through-the-terminal-4/)
 - [Mejora la UX y la WPO de tu web con un plugin de fuentes variables](https://wordpress.tv/2023/05/22/mejora-la-ux-y-la-wpo-de-tu-web-con-un-plugin-de-fuentes-variables/)
@@ -363,8 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to add a blog or news page to any WordPress website](https://wordpress.tv/2023/05/19/how-to-add-a-blog-or-news-page-to-any-wordpress-website/)
 - [Testing plugins for PHP 8](https://wordpress.tv/2023/05/19/testing-plugins-for-php-8/)
 - [Introduction to WordPress Multisite Networks](https://wordpress.tv/2023/05/18/introduction-to-wordpress-multisite-networks/)
-- [Mejora los resultados de tu WooCommerce gracias al WPO](https://wordpress.tv/2023/05/18/mejora-los-resultados-de-tu-woocommerce-gracias-al-wpo/)
-- [Colabora y contribuye a WordPress: Explorando las diferentes formas de involucrarse en la comunidad](https://wordpress.tv/2023/05/18/colabora-y-contribuye-a-wordpress-explorando-las-diferentes-formas-de-involucrarse-en-la-comunidad/)
 <!-- WPTV:END -->
 
 ## Marketing
