@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours – WordPress Playground &lpar;Americas&rpar;](https://wordpress.tv/2023/05/23/developer-hours-wordpress-playground-americas/)
 - [Como organizar o WCEU 2022 me tornou um melhor profissional WordPress](https://wordpress.tv/2023/05/23/como-organizar-o-wceu-2022-me-tornou-um-melhor-profissional-wordpress/)
 - [Using Social Media for Website SEO](https://wordpress.tv/2023/05/23/using-social-media-for-website-seo/)
 - [Creando sitios multilingües con WordPress](https://wordpress.tv/2023/05/23/creando-sitios-multilingues-con-wordpress/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Timothy Jacobs: Passkeys -The Future of Authentication](https://wordpress.tv/2023/05/22/passkeys-the-future-of-authentication/)
 - [Mujeebu rahman: WordPress Data Privacy](https://wordpress.tv/2023/05/22/mujeebu-rahman-wordpress-data-privacy/)
 - [Maestro Stevens: Safeguarding Your Website – Smart WordPress Security](https://wordpress.tv/2023/05/22/maestro-stevens-safeguarding-your-website-smart-wordpress-security/)
-- [Rashed Amin: How to Tranlate WordPress in Bangla.](https://wordpress.tv/2023/05/22/rashed-amin-how-to-tranlate-wordpress-in-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
