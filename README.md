@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Johannes, un UX kit pour designer avec Gutenberg](https://wordpress.tv/2023/05/23/johannes-un-ux-kit-pour-designer-avec-gutenberg/)
 - [WordPress 6.2 のアップデート内容を見てみよう！](https://wordpress.tv/2023/05/23/wordpress-6-2-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 - [Comment préparer son site pour l’avenir en termes de performance, de sécurité et de fonctionnalités](https://wordpress.tv/2023/05/23/comment-preparer-son-site-pour-lavenir-en-termes-de-performance-de-securite-et-de-fonctionnalites/)
 - [Moderniser le développement WordPress](https://wordpress.tv/2023/05/23/moderniser-le-developpement-wordpress/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mi experiencia trabajando en remoto en Automattic](https://wordpress.tv/2023/05/21/mi-experiencia-trabajando-en-remoto-en-automattic/)
 - [How to add a blog or news page to any WordPress website](https://wordpress.tv/2023/05/19/how-to-add-a-blog-or-news-page-to-any-wordpress-website/)
 - [Testing plugins for PHP 8](https://wordpress.tv/2023/05/19/testing-plugins-for-php-8/)
-- [Introduction to WordPress Multisite Networks](https://wordpress.tv/2023/05/18/introduction-to-wordpress-multisite-networks/)
 <!-- WPTV:END -->
 
 ## Marketing
