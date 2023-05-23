@@ -340,6 +340,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Como organizar o WCEU 2022 me tornou um melhor profissional WordPress](https://wordpress.tv/2023/05/23/como-organizar-o-wceu-2022-me-tornou-um-melhor-profissional-wordpress/)
+- [Using Social Media for Website SEO](https://wordpress.tv/2023/05/23/using-social-media-for-website-seo/)
 - [Creando sitios multilingües con WordPress](https://wordpress.tv/2023/05/23/creando-sitios-multilingues-con-wordpress/)
 - [Stepping Back To Move Forward](https://wordpress.tv/2023/05/23/stepping-back-to-move-forward/)
 - [Front-end Performance and WordPress](https://wordpress.tv/2023/05/23/front-end-performance-and-wordpress/)
@@ -363,8 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mujeebu rahman: WordPress Data Privacy](https://wordpress.tv/2023/05/22/mujeebu-rahman-wordpress-data-privacy/)
 - [Maestro Stevens: Safeguarding Your Website – Smart WordPress Security](https://wordpress.tv/2023/05/22/maestro-stevens-safeguarding-your-website-smart-wordpress-security/)
 - [Rashed Amin: How to Tranlate WordPress in Bangla.](https://wordpress.tv/2023/05/22/rashed-amin-how-to-tranlate-wordpress-in-bangla/)
-- [Mesa redonda: Por qué te tienes que enamorar de WordPress](https://wordpress.tv/2023/05/21/mesa-redonda-por-que-te-tienes-que-enamorar-de-wordpress/)
-- [Cómo terminas montando una meetup de WordPress en Sierra Leona](https://wordpress.tv/2023/05/21/como-terminas-montando-una-meetup-de-wordpress-en-sierra-leona/)
 <!-- WPTV:END -->
 
 ## Marketing
