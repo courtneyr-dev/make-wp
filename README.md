@@ -233,6 +233,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress editor modes for streamlining content creation](https://learn.wordpress.org/tutorial/wordpress-editor-modes-for-streamlining-content-creation/)
 - [Exploring category templates with block themes](https://learn.wordpress.org/tutorial/exploring-category-templates-with-block-themes/)
 - [The WordPress request lifecycle](https://learn.wordpress.org/tutorial/the-wordpress-request-lifecycle/)
+- [Choisir et installer une extension](https://learn.wordpress.org/tutorial/fr-searching-and-installing-a-plugin/)
 - [Rapid Website Recreation](https://learn.wordpress.org/tutorial/rapid-website-recreation/)
 - [Se familiariser avec le tableau de bord de WordPress](https://learn.wordpress.org/tutorial/fr-getting-to-know-the-wordpress-dashboard/)
 - [Importing widget areas from a classic theme to a block theme](https://learn.wordpress.org/tutorial/importing-widget-areas-from-a-classic-theme-to-a-block-theme/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to use featured images](https://learn.wordpress.org/tutorial/32894-2/)
 - [WordPress REST API – Modifying responses](https://learn.wordpress.org/tutorial/wordpress-rest-api-modifying-responses/)
 - [What kind of WordPress theme do I have: classic, block, or something else?](https://learn.wordpress.org/tutorial/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
-- [WP REST API – custom fields, authentication, and testing](https://learn.wordpress.org/tutorial/wp-rest-api-custom-fields-authentication-and-testing/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
