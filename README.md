@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 23 May 2023](https://make.wordpress.org/core/2023/05/23/performance-chat-summary-23-may-2023/)
 - [Performance Chat Agenda: 23 May 2023](https://make.wordpress.org/core/2023/05/23/performance-chat-agenda-23-may-2023/)
 - [Editor chat summary: May 17th, 2023](https://make.wordpress.org/core/2023/05/23/editor-chat-summary-may-17th-2023/)
 - [Core Editor Improvement: Smoother Site Editing](https://make.wordpress.org/core/2023/05/22/core-editor-improvement-smoother-site-editing/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.3 Planning Roundup](https://make.wordpress.org/core/2023/05/18/wordpress-6-3-planning-roundup/)
 - [Roadmap to 6.3](https://make.wordpress.org/core/2023/05/18/roadmap-to-6-3/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/core/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
-- [Command Center: Request for feedback](https://make.wordpress.org/core/2023/05/17/command-center-request-for-feedback/)
 <!-- CORE:END -->
 
 ## Design
