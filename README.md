@@ -340,6 +340,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Como trabalhar em Tecnologia sem Programar](https://wordpress.tv/2023/05/24/como-trabalhar-em-tecnologia-sem-programar/)
+- [O que há de novo em CSS?](https://wordpress.tv/2023/05/24/o-que-ha-de-novo-em-css/)
+- [WooCommerce no sólo es para tiendas](https://wordpress.tv/2023/05/24/woocommerce-no-solo-es-para-tiendas/)
+- [Optimiza el diseño de la página de producto de WooCommerce](https://wordpress.tv/2023/05/24/optimiza-el-diseno-de-la-pagina-de-producto-de-woocommerce/)
 - [Developer Hours – WordPress Playground &lpar;APAC/EMEA&rpar;](https://wordpress.tv/2023/05/24/developer-hours-wordpress-playground-apac-emea/)
 - [Building a page with only patterns](https://wordpress.tv/2023/05/23/building-a-page-with-only-patterns-2/)
 - [Developer Hours – WordPress Playground &lpar;Americas&rpar;](https://wordpress.tv/2023/05/23/developer-hours-wordpress-playground-americas/)
@@ -361,10 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Maestro Stevens: Sell Smarter With Your HEADless Starter](https://wordpress.tv/2023/05/22/maestro-stevens-sell-smarter-with-your-headless-starter/)
 - [William D Jackson: The Metaverse and WordPress, Oh My Gosh Here Comes VR](https://wordpress.tv/2023/05/22/william-d-jackson-the-metaverse-and-wordpress-oh-my-gosh-here-comes-vr/)
 - [Micah Wood: Clue -A Detective’s Guide to Troubleshooting in WordPress](https://wordpress.tv/2023/05/22/micah-wood-clue-a-detectives-guide-to-troubleshooting-in-wordpress/)
-- [Jason Coleman: Transitioning from Consulting to Products](https://wordpress.tv/2023/05/22/jason-coleman-transitioning-from-consulting-to-products-3/)
-- [Aida Correa-Jackson: So, You’re Not a Writer- Blogging Even If You Think You Can’t Write 2.0](https://wordpress.tv/2023/05/22/aida-correa-jackson-so-youre-not-a-writer-blogging-even-if-you-think-you-cant-write-2-0/)
-- [GenerativeAI &amp; WordPress: buckle up, it’s going to be a wild ride](https://wordpress.tv/2023/05/22/dave-lockie-generativeai-wordpress-buckle-up-its-going-to-be-a-wild-ride/)
-- [Timothy Jacobs: Passkeys -The Future of Authentication](https://wordpress.tv/2023/05/22/passkeys-the-future-of-authentication/)
 <!-- WPTV:END -->
 
 ## Marketing
