@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Building a page with only patterns](https://learn.wordpress.org/tutorial/building-a-page-with-only-patterns/)
 - [How to add a blog or news page to any WordPress website](https://learn.wordpress.org/tutorial/how-to-add-a-blog-or-news-page-to-any-wordpress-website/)
 - [Introduction to WordPress Multisite Networks](https://learn.wordpress.org/tutorial/introduction-to-wordpress-multisite-networks/)
 - [WordPress editor modes for streamlining content creation](https://learn.wordpress.org/tutorial/wordpress-editor-modes-for-streamlining-content-creation/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to use the WordPress Stylebook with your block theme](https://learn.wordpress.org/tutorial/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
 - [How to use featured images](https://learn.wordpress.org/tutorial/32894-2/)
 - [WordPress REST API – Modifying responses](https://learn.wordpress.org/tutorial/wordpress-rest-api-modifying-responses/)
-- [What kind of WordPress theme do I have: classic, block, or something else?](https://learn.wordpress.org/tutorial/what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
