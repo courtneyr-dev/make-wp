@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours – WordPress Playground &lpar;APAC/EMEA&rpar;](https://wordpress.tv/2023/05/24/developer-hours-wordpress-playground-apac-emea/)
 - [Building a page with only patterns](https://wordpress.tv/2023/05/23/building-a-page-with-only-patterns-2/)
 - [Developer Hours – WordPress Playground &lpar;Americas&rpar;](https://wordpress.tv/2023/05/23/developer-hours-wordpress-playground-americas/)
 - [Como organizar o WCEU 2022 me tornou um melhor profissional WordPress](https://wordpress.tv/2023/05/23/como-organizar-o-wceu-2022-me-tornou-um-melhor-profissional-wordpress/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Aida Correa-Jackson: So, You’re Not a Writer- Blogging Even If You Think You Can’t Write 2.0](https://wordpress.tv/2023/05/22/aida-correa-jackson-so-youre-not-a-writer-blogging-even-if-you-think-you-cant-write-2-0/)
 - [GenerativeAI &amp; WordPress: buckle up, it’s going to be a wild ride](https://wordpress.tv/2023/05/22/dave-lockie-generativeai-wordpress-buckle-up-its-going-to-be-a-wild-ride/)
 - [Timothy Jacobs: Passkeys -The Future of Authentication](https://wordpress.tv/2023/05/22/passkeys-the-future-of-authentication/)
-- [Mujeebu rahman: WordPress Data Privacy](https://wordpress.tv/2023/05/22/mujeebu-rahman-wordpress-data-privacy/)
 <!-- WPTV:END -->
 
 ## Marketing
