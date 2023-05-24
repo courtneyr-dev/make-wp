@@ -185,16 +185,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap for May 23rd, 2023](https://make.wordpress.org/training/2023/05/24/training-team-meeting-recap-for-may-23rd-2023/)
 - [Training Team Meeting Recap for May 16th, 2023](https://make.wordpress.org/training/2023/05/19/training-team-meeting-recap-for-may-16th-2023/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/training/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
+- [Training Team Meeting Recap for May 9, 2023](https://make.wordpress.org/training/2023/05/13/training-team-meeting-recap-for-may-9-2023/)
 - [Brainstorm – WordCamp Europe 2023 Contributor Day](https://make.wordpress.org/training/2023/05/09/brainstorm-wordcamp-europe-2023-contributor-day/)
 - [Training Team Meeting Recap for May 2nd, 2023](https://make.wordpress.org/training/2023/05/09/training-team-meeting-recap-for-may-2nd-2023/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/training/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [Proposal: Creating GitHub project boards for SMEs and Translators](https://make.wordpress.org/training/2023/05/05/proposal-creating-github-project-boards-for-smes-and-translators/)
 - [Training Team Meeting Recap for April 25th 2023](https://make.wordpress.org/training/2023/05/04/training-team-meeting-recap-for-april-25th-2023/)
 - [X-post: Explorations for a notification form between documentation and Rosetta sites](https://make.wordpress.org/training/2023/05/04/xpost-explorations-for-a-notification-form-between-documentation-and-rosetta-sites/)
-- [X-post: 2021-2022 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/training/2023/05/02/xpost-2021-2022-wordpress-meetup-survey-key-findings/)
-- [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/training/2023/05/01/xpost-whats-new-on-learn-wordpress-in-april-2023/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
