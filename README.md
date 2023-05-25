@@ -340,6 +340,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Test insted of guessing](https://wordpress.tv/2023/05/25/test-insted-of-guessing/)
+- [¿Problemas? El diseño al rescate](https://wordpress.tv/2023/05/25/problemas-el-diseno-al-rescate/)
 - [Working with Version Control](https://wordpress.tv/2023/05/24/working-with-version-control/)
 - [Como trabalhar em Tecnologia sem Programar](https://wordpress.tv/2023/05/24/como-trabalhar-em-tecnologia-sem-programar/)
 - [O que há de novo em CSS?](https://wordpress.tv/2023/05/24/o-que-ha-de-novo-em-css/)
@@ -363,8 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ben Dunkle: Are Child Themes Dead?](https://wordpress.tv/2023/05/22/ben-dunkle-are-child-themes-dead/)
 - [Courtney Robertson: The WordPress Training Team’s Journey Towards Creating Accessible and Engaging Educational Materials](https://wordpress.tv/2023/05/22/courtney-robertson-the-wordpress-training-teams-journey-towards-creating-accessible-and-engaging-educational-materials/)
 - [Marybeth Smith: How to Monetize Your WordPress Site Without Spamming it With Ads!](https://wordpress.tv/2023/05/22/marybeth-smith-how-to-monetize-your-wordpress-site-without-spamming-it-with-ads/)
-- [Maestro Stevens: Sell Smarter With Your HEADless Starter](https://wordpress.tv/2023/05/22/maestro-stevens-sell-smarter-with-your-headless-starter/)
-- [William D Jackson: The Metaverse and WordPress, Oh My Gosh Here Comes VR](https://wordpress.tv/2023/05/22/william-d-jackson-the-metaverse-and-wordpress-oh-my-gosh-here-comes-vr/)
 <!-- WPTV:END -->
 
 ## Marketing
