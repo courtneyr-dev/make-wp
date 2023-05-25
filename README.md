@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Working with Version Control](https://wordpress.tv/2023/05/24/working-with-version-control/)
 - [Como trabalhar em Tecnologia sem Programar](https://wordpress.tv/2023/05/24/como-trabalhar-em-tecnologia-sem-programar/)
 - [O que há de novo em CSS?](https://wordpress.tv/2023/05/24/o-que-ha-de-novo-em-css/)
 - [WooCommerce no sólo es para tiendas](https://wordpress.tv/2023/05/24/woocommerce-no-solo-es-para-tiendas/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Marybeth Smith: How to Monetize Your WordPress Site Without Spamming it With Ads!](https://wordpress.tv/2023/05/22/marybeth-smith-how-to-monetize-your-wordpress-site-without-spamming-it-with-ads/)
 - [Maestro Stevens: Sell Smarter With Your HEADless Starter](https://wordpress.tv/2023/05/22/maestro-stevens-sell-smarter-with-your-headless-starter/)
 - [William D Jackson: The Metaverse and WordPress, Oh My Gosh Here Comes VR](https://wordpress.tv/2023/05/22/william-d-jackson-the-metaverse-and-wordpress-oh-my-gosh-here-comes-vr/)
-- [Micah Wood: Clue -A Detective’s Guide to Troubleshooting in WordPress](https://wordpress.tv/2023/05/22/micah-wood-clue-a-detectives-guide-to-troubleshooting-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
