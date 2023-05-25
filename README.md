@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Clausura WordCamp Chiclana 2023](https://wordpress.tv/2023/05/25/clausura-wordcamp-chiclana-2023/)
 - [Test insted of guessing](https://wordpress.tv/2023/05/25/test-insted-of-guessing/)
 - [¿Problemas? El diseño al rescate](https://wordpress.tv/2023/05/25/problemas-el-diseno-al-rescate/)
 - [Working with Version Control](https://wordpress.tv/2023/05/24/working-with-version-control/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Sabes cuál es el límite más grande que tenemos?](https://wordpress.tv/2023/05/22/sabes-cual-es-el-limite-mas-grande-que-tenemos/)
 - [Ben Dunkle: Are Child Themes Dead?](https://wordpress.tv/2023/05/22/ben-dunkle-are-child-themes-dead/)
 - [Courtney Robertson: The WordPress Training Team’s Journey Towards Creating Accessible and Engaging Educational Materials](https://wordpress.tv/2023/05/22/courtney-robertson-the-wordpress-training-teams-journey-towards-creating-accessible-and-engaging-educational-materials/)
-- [Marybeth Smith: How to Monetize Your WordPress Site Without Spamming it With Ads!](https://wordpress.tv/2023/05/22/marybeth-smith-how-to-monetize-your-wordpress-site-without-spamming-it-with-ads/)
 <!-- WPTV:END -->
 
 ## Marketing
