@@ -340,6 +340,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Panel: Empowering Women and Minorities in Public Speaking](https://wordpress.tv/2023/05/26/panel-empowering-women-and-minorities-in-public-speaking/)
+- [Vision, intention, values: &lpar;re&rpar;defining the culture of the design practice](https://wordpress.tv/2023/05/26/vision-intention-values-redefining-the-culture-of-the-design-practice/)
 - [Blockworld – Survival Guide for a PHP developer](https://wordpress.tv/2023/05/26/blockworld-survival-guide-for-a-php-developer/)
 - [Hábitos saudáveis e preventivos para pessoas que trabalham sentadas](https://wordpress.tv/2023/05/26/habitos-saudaveis-e-preventivos-para-pessoas-que-trabalham-sentadas/)
 - [Seu WordPress não tem segurança e isso é culpa sua](https://wordpress.tv/2023/05/26/seu-wordpress-nao-tem-seguranca-e-isso-e-culpa-sua/)
@@ -363,8 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploiter les pleins potentiels du Design dans son projet WordPress](https://wordpress.tv/2023/05/25/exploiter-les-pleins-potentiels-du-design-dans-son-projet-wordpress/)
 - [Cookies et consentement : comment être en conformité ?](https://wordpress.tv/2023/05/25/cookies-et-consentement-comment-etre-en-conformite/)
 - [Hallway Hangout: Curating the editor and building block themes for clients](https://wordpress.tv/2023/05/25/hallway-hangout-curating-the-editor-and-building-block-themes-for-clients/)
-- [Clausura WordCamp Chiclana 2023](https://wordpress.tv/2023/05/25/clausura-wordcamp-chiclana-2023/)
-- [Test insted of guessing](https://wordpress.tv/2023/05/25/test-insted-of-guessing/)
 <!-- WPTV:END -->
 
 ## Marketing
