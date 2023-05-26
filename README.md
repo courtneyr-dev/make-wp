@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Debugging in WordPress](https://wordpress.tv/2023/05/26/debugging-in-wordpress/)
 - [L’importance de designer le process client](https://wordpress.tv/2023/05/25/limportance-de-designer-le-process-client/)
 - [Le pouvoir de l’obsession client : Comment l’adoption d’un état d’esprit centré sur le client peut transformer votre entreprise](https://wordpress.tv/2023/05/25/le-pouvoir-de-lobsession-client-comment-ladoption-dun-etat-desprit-centre-sur-le-client-peut-transformer-votre-entreprise/)
 - [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 5](https://wordpress.tv/2023/05/25/updating-a-blogs-design-informal-live-stream-part-5/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Front-end Performance and WordPress](https://wordpress.tv/2023/05/23/front-end-performance-and-wordpress/)
 - [Johannes, un UX kit pour designer avec Gutenberg](https://wordpress.tv/2023/05/23/johannes-un-ux-kit-pour-designer-avec-gutenberg/)
 - [WordPress 6.2 のアップデート内容を見てみよう！](https://wordpress.tv/2023/05/23/wordpress-6-2-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
-- [Comment préparer son site pour l’avenir en termes de performance, de sécurité et de fonctionnalités](https://wordpress.tv/2023/05/23/comment-preparer-son-site-pour-lavenir-en-termes-de-performance-de-securite-et-de-fonctionnalites/)
 <!-- WPTV:END -->
 
 ## Marketing
