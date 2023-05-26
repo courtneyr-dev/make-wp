@@ -340,6 +340,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to Create Compelling Social Media Content](https://wordpress.tv/2023/05/26/how-to-create-compelling-social-media-content/)
+- [Como evitar malware em sites WordPress e como limpar um site já comprometido](https://wordpress.tv/2023/05/26/como-evitar-malware-em-sites-wordpress-e-como-limpar-um-site-ja-comprometido/)
+- [Garantir conformidade com PHPCS: EditorConfig, GitLab CI/CD, GitHub Actions](https://wordpress.tv/2023/05/26/garantir-conformidade-com-phpcs-editorconfig-gitlab-ci-cd-github-actions/)
 - [Blockchain, Cryptocurrencies, Feediverse, Tokenization, Web3, DAOs, ICOs, dApps, NFTs, Smart Contrac](https://wordpress.tv/2023/05/26/blockchain-cryptocurrencies-feediverse-tokenization-web3-daos/)
 - [Cierre de la WordCamp Zaragoza 2023](https://wordpress.tv/2023/05/26/cierre-de-la-wordcamp-zaragoza-2023/)
 - [Programando un bloque Gutenberg de WordPress en React desde cero](https://wordpress.tv/2023/05/26/programando-un-bloque-gutenberg-de-wordpress-en-react-desde-cero/)
@@ -362,9 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Optimiza el diseño de la página de producto de WooCommerce](https://wordpress.tv/2023/05/24/optimiza-el-diseno-de-la-pagina-de-producto-de-woocommerce/)
 - [Developer Hours – WordPress Playground &lpar;APAC/EMEA&rpar;](https://wordpress.tv/2023/05/24/developer-hours-wordpress-playground-apac-emea/)
 - [Building a page with only patterns](https://wordpress.tv/2023/05/23/building-a-page-with-only-patterns-2/)
-- [Developer Hours – WordPress Playground &lpar;Americas&rpar;](https://wordpress.tv/2023/05/23/developer-hours-wordpress-playground-americas/)
-- [Como organizar o WCEU 2022 me tornou um melhor profissional WordPress](https://wordpress.tv/2023/05/23/como-organizar-o-wceu-2022-me-tornou-um-melhor-profissional-wordpress/)
-- [Using Social Media for Website SEO](https://wordpress.tv/2023/05/23/using-social-media-for-website-seo/)
 <!-- WPTV:END -->
 
 ## Marketing
