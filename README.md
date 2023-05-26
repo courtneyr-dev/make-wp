@@ -509,6 +509,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-12/)
 - [[WordLift] Setup screen for plugin](https://jobs.wordpress.net/job/wordlift-setup-screen-for-plugin/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-96/)
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-5/)
@@ -518,7 +519,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-11/)
 - [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-3/)
 - [FULL-TIME Mid level REMOTE WordPress Developer Wanted](https://jobs.wordpress.net/job/full-time-mid-level-remote-wordpress-developer-wanted/)
-- [PHP Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/php-developer-remote-3/)
 <!-- JOBS:END -->
 
 ## Central
