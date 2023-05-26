@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [XPlainer – WooCommerce Product FAQ]](https://make.wordpress.org/polyglots/2023/05/26/pte-request-for-xplainer-woocommerce-product-faq/)
 - [PTE Request for [Elementor Website Builder – More than Just a Page Builder]](https://make.wordpress.org/polyglots/2023/05/26/pte-request-for-elementor-website-builder-more-than-just-a-page-builder/)
 - [Waiting strings to review in AIOSEO project](https://make.wordpress.org/polyglots/2023/05/25/waiting-strings-to-review-in-aioseo-project/)
 - [PTE Request for Brizy plugin – pl_PL,](https://make.wordpress.org/polyglots/2023/05/25/pte-request-for-brizy-plugin-pl_pl/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Validate translations for Kadence theme](https://make.wordpress.org/polyglots/2023/05/22/validate-translations-for-kadence-theme/)
 - [Hi team,](https://make.wordpress.org/polyglots/2023/05/21/hi-team-5/)
 - [I just dis a translation…](https://make.wordpress.org/polyglots/2023/05/20/i-just-dis-a-translation/)
-- [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2023/05/19/pte-request-for-advanced-custom-fields-acf/)
 <!-- POLYGLOTS:END -->
 
 ## Support
