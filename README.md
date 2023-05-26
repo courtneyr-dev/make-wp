@@ -284,6 +284,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-4)
+- [WordPress Coding Standards](https://learn.wordpress.org/?meeting=wordpress-coding-standards)
 - [Custom CSS in the Site-Editing Era](https://learn.wordpress.org/?meeting=custom-css-in-the-site-editing-era)
 - [アップデートと脆弱性](https://learn.wordpress.org/?meeting=%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%a8%e8%84%86%e5%bc%b1%e6%80%a7)
 - [Debugging in WordPress](https://learn.wordpress.org/?meeting=debugging-in-wordpress)
@@ -307,8 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Series] Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-1-themes-fonts-styles)
 - [Online WordPress 20th Anniversary Celebration](https://learn.wordpress.org/?meeting=online-wordpress-20th-anniversary-celebration)
 - [Live stream: Creating a block theme for developers. Part 2 | Gutenberg 15.7](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-2-gutenberg-15-7)
-- [Live stream: Creating a block theme for developers. Part 1](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-1)
-- [Bring me your issues: A New Hope](https://learn.wordpress.org/?meeting=live-stream-bring-me-your-issues-a-new-hope)
 <!-- SLS:END -->
 
 ## Test
