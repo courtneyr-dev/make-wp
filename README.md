@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Summary: Curating the Editor and building block themes for clients](https://make.wordpress.org/themes/2023/05/26/summary-curating-the-editor-and-building-block-themes-for-clients/)
 - [Hallway Hangout: Curating the editor and building block themes for clients](https://make.wordpress.org/themes/2023/05/18/hallway-hangout-curating-the-editor-and-building-block-themes-for-clients/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/themes/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Theme Handbook Overhaul: Phase 2 &lpar;Creating Content&rpar;](https://make.wordpress.org/themes/2023/05/17/theme-handbook-overhaul-phase-2-creating-content/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Stacks: The first community theme](https://make.wordpress.org/themes/2023/05/04/stacks-the-first-community-theme/)
 - [Themes Team Meeting Notes – March 25, 2023](https://make.wordpress.org/themes/2023/04/26/themes-team-meeting-notes-march-25-2023/)
 - [Themes team meeting agenda for April 25, 2023](https://make.wordpress.org/themes/2023/04/24/themes-team-meeting-agenda-for-april-25-2023/)
-- [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/themes/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 <!-- THEMES:END -->
 
 ## Plugins
