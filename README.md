@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [બ્લોક થીમ માટે મૂળભૂત ચાઈલ્ડ થીમ બનાવો](https://learn.wordpress.org/lesson-plan/gu-create-a-basic-child-theme-for-block-themes/)
 - [Scegliere e installare i plugin](https://learn.wordpress.org/lesson-plan/it-choosing-and-installing-plugins/)
 - [Définir une page statique comme page d’accueil](https://learn.wordpress.org/lesson-plan/fr-setting-a-static-page-as-your-homepage/)
 - [செருகுநிரல்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/ta-choosing-and-installing-plugins/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ડેશબોર્ડ નિરીક્ષણ](https://learn.wordpress.org/lesson-plan/gu-dashboard-overview/)
 - [पाठ योजना कैसे बनाएं](https://learn.wordpress.org/lesson-plan/%e0%a4%aa%e0%a4%be%e0%a4%a0-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%88%e0%a4%b8%e0%a5%87-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%8f%e0%a4%82/)
 - [पाठ योजना कसरी बनाउने](https://learn.wordpress.org/lesson-plan/%e0%a4%aa%e0%a4%be%e0%a4%a0-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%b8%e0%a4%b0%e0%a5%80-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%89%e0%a4%a8%e0%a5%87/)
-- [Panduan membuat Rencana Pembelajaran](https://learn.wordpress.org/lesson-plan/panduan-membuat-rencana-pembelajaran/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
