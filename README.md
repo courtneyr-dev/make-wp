@@ -340,6 +340,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Blockworld – Survival Guide for a PHP developer](https://wordpress.tv/2023/05/26/blockworld-survival-guide-for-a-php-developer/)
+- [Hábitos saudáveis e preventivos para pessoas que trabalham sentadas](https://wordpress.tv/2023/05/26/habitos-saudaveis-e-preventivos-para-pessoas-que-trabalham-sentadas/)
+- [Seu WordPress não tem segurança e isso é culpa sua](https://wordpress.tv/2023/05/26/seu-wordpress-nao-tem-seguranca-e-isso-e-culpa-sua/)
+- [From PHP 5.3 to 8.2: what are you missing?](https://wordpress.tv/2023/05/26/from-php-5-3-to-8-2-what-are-you-missing/)
+- [WooCommerce: visão de negócio de um dono de uma loja online](https://wordpress.tv/2023/05/26/woocommerce-visao-de-negocio-de-um-dono-de-uma-loja-online/)
+- [Operador de Kubernetes para o WordPress](https://wordpress.tv/2023/05/26/operador-de-kubernetes-para-o-wordpress/)
+- [World of Frontcraft](https://wordpress.tv/2023/05/26/world-of-frontcraft/)
+- [Passar de projetos a produtos com o WordPress](https://wordpress.tv/2023/05/26/passar-de-projetos-a-produtos-com-o-wordpress/)
 - [How to Create Compelling Social Media Content](https://wordpress.tv/2023/05/26/how-to-create-compelling-social-media-content/)
 - [Como evitar malware em sites WordPress e como limpar um site já comprometido](https://wordpress.tv/2023/05/26/como-evitar-malware-em-sites-wordpress-e-como-limpar-um-site-ja-comprometido/)
 - [Garantir conformidade com PHPCS: EditorConfig, GitLab CI/CD, GitHub Actions](https://wordpress.tv/2023/05/26/garantir-conformidade-com-phpcs-editorconfig-gitlab-ci-cd-github-actions/)
@@ -357,14 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Curating the editor and building block themes for clients](https://wordpress.tv/2023/05/25/hallway-hangout-curating-the-editor-and-building-block-themes-for-clients/)
 - [Clausura WordCamp Chiclana 2023](https://wordpress.tv/2023/05/25/clausura-wordcamp-chiclana-2023/)
 - [Test insted of guessing](https://wordpress.tv/2023/05/25/test-insted-of-guessing/)
-- [¿Problemas? El diseño al rescate](https://wordpress.tv/2023/05/25/problemas-el-diseno-al-rescate/)
-- [Working with Version Control](https://wordpress.tv/2023/05/24/working-with-version-control/)
-- [Como trabalhar em Tecnologia sem Programar](https://wordpress.tv/2023/05/24/como-trabalhar-em-tecnologia-sem-programar/)
-- [O que há de novo em CSS?](https://wordpress.tv/2023/05/24/o-que-ha-de-novo-em-css/)
-- [WooCommerce no sólo es para tiendas](https://wordpress.tv/2023/05/24/woocommerce-no-solo-es-para-tiendas/)
-- [Optimiza el diseño de la página de producto de WooCommerce](https://wordpress.tv/2023/05/24/optimiza-el-diseno-de-la-pagina-de-producto-de-woocommerce/)
-- [Developer Hours – WordPress Playground &lpar;APAC/EMEA&rpar;](https://wordpress.tv/2023/05/24/developer-hours-wordpress-playground-apac-emea/)
-- [Building a page with only patterns](https://wordpress.tv/2023/05/23/building-a-page-with-only-patterns-2/)
 <!-- WPTV:END -->
 
 ## Marketing
