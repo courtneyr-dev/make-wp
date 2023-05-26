@@ -551,7 +551,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Paris](https://central.wordcamp.org/wordcamps/wordcamp-paris-8/)
 - [WordCamp Iloilo City, Iloilo, Philippines](https://central.wordcamp.org/wordcamps/wordcamp-iloilo-city/)
 - [WordCamp Sylhet, Bangladesh](https://central.wordcamp.org/wordcamps/wordcamp-sylhet-bangladesh/)
-- [WordCamp Gliwice, Poland](https://central.wordcamp.org/wordcamps/wordcamp-gliwice-poland/)
+- [WordCamp Denmark](https://central.wordcamp.org/wordcamps/wordcamp-denmark-4/)
 - [WordCamp Cartagena, España](https://central.wordcamp.org/wordcamps/wordcamp-cartagena-espana/)
 - [WordCamp Finland](https://central.wordcamp.org/wordcamps/wordcamp-finland-3/)
 - [WordCamp Sofia, Bulgaria](https://central.wordcamp.org/wordcamps/wordcamp-sofia-2023/)
