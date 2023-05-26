@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Notes of Community Team Discussion on May 25, 2023](https://make.wordpress.org/community/2023/05/26/notes-of-community-team-discussion-on-may-25-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 24, 2023](https://make.wordpress.org/community/2023/05/24/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-24-2023/)
 - [Idea generation: Next Gen WordCamps!](https://make.wordpress.org/community/2023/05/24/idea-generation-next-gen-wordcamps/)
 - [WordPress Community Team Discussion #9: The Next Generation of WordCamps](https://make.wordpress.org/community/2023/05/20/wordpress-community-team-discussion-9-the-next-generation-of-wordcamps/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcement: Increasing Meetup Venue Support Funds](https://make.wordpress.org/community/2023/05/18/announcement-increasing-meetup-venue-support-funds/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/community/2023/05/18/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Contributor Working Group: Mentorship Chat Agenda | May 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/05/15/contributor-working-group-mentorship-chat-agenda-may-18th-0700-utc-apac-emea-and-1600-utc-amer/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 10, 2023](https://make.wordpress.org/community/2023/05/11/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-10-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
