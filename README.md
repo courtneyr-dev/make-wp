@@ -340,6 +340,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Blockchain, Cryptocurrencies, Feediverse, Tokenization, Web3, DAOs, ICOs, dApps, NFTs, Smart Contrac](https://wordpress.tv/2023/05/26/blockchain-cryptocurrencies-feediverse-tokenization-web3-daos/)
+- [Cierre de la WordCamp Zaragoza 2023](https://wordpress.tv/2023/05/26/cierre-de-la-wordcamp-zaragoza-2023/)
 - [Programando un bloque Gutenberg de WordPress en React desde cero](https://wordpress.tv/2023/05/26/programando-un-bloque-gutenberg-de-wordpress-en-react-desde-cero/)
 - [Cómo torear a Google en SEO en 2023](https://wordpress.tv/2023/05/26/como-torear-a-google-en-seo-en-2023/)
 - [Google Analytics profesional para WordPress](https://wordpress.tv/2023/05/26/google-analytics-profesional-para-wordpress/)
@@ -363,8 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours – WordPress Playground &lpar;Americas&rpar;](https://wordpress.tv/2023/05/23/developer-hours-wordpress-playground-americas/)
 - [Como organizar o WCEU 2022 me tornou um melhor profissional WordPress](https://wordpress.tv/2023/05/23/como-organizar-o-wceu-2022-me-tornou-um-melhor-profissional-wordpress/)
 - [Using Social Media for Website SEO](https://wordpress.tv/2023/05/23/using-social-media-for-website-seo/)
-- [Creando sitios multilingües con WordPress](https://wordpress.tv/2023/05/23/creando-sitios-multilingues-con-wordpress/)
-- [Stepping Back To Move Forward](https://wordpress.tv/2023/05/23/stepping-back-to-move-forward/)
 <!-- WPTV:END -->
 
 ## Marketing
