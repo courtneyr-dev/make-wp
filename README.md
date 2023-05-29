@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Syrus I…](https://make.wordpress.org/polyglots/2023/05/29/pte-request-for-syrus-i/)
 - [PTE Request for 360notify](https://make.wordpress.org/polyglots/2023/05/28/pte-request-for-360notify/)
 - [PTE Request for Location Weather](https://make.wordpress.org/polyglots/2023/05/28/pte-request-for-location-weather/)
 - [PTE Request for [FiboSearch -…](https://make.wordpress.org/polyglots/2023/05/27/pte-request-for-fibosearch/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Brizy plugin – pl_PL,](https://make.wordpress.org/polyglots/2023/05/25/pte-request-for-brizy-plugin-pl_pl/)
 - [Polyglots Table: Contributor Day at WordCamp Sylhet 2023](https://make.wordpress.org/polyglots/2023/05/24/polyglots-table-contributor-day-at-wordcamp-sylhet-2023/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar; &amp; WooCommerce](https://make.wordpress.org/polyglots/2023/05/24/pte-request-for-advanced-custom-5/)
-- [Agenda: Weekly Polyglots Chat – May 24, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/23/agenda-weekly-polyglots-chat-may-24-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
