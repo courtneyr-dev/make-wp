@@ -119,12 +119,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [@wordpress/e2e-test-utils-playwright](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-e2e-test-utils-playwright/)
 - [@wordpress/core-commands](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-core-commands/)
 - [@wordpress/router](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-router/)
-- [Pattern Directory Items](https://developer.wordpress.org/rest-api/reference/pattern-directory-items/)
-- [Nav_Menu_Items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
-- [Block Pattern Categories](https://developer.wordpress.org/rest-api/reference/block-pattern-categories/)
-- [Sidebars](https://developer.wordpress.org/rest-api/reference/sidebars/)
-- [Widget Types](https://developer.wordpress.org/rest-api/reference/widget-types/)
 - [Nav_Menus](https://developer.wordpress.org/rest-api/reference/nav_menus/)
+- [Nav_Menu_Item Revisions](https://developer.wordpress.org/rest-api/reference/nav_menu_item-revisions/)
+- [Menu Locations](https://developer.wordpress.org/rest-api/reference/menu-locations/)
+- [Block Patterns](https://developer.wordpress.org/rest-api/reference/block-patterns/)
+- [Block Pattern Categories](https://developer.wordpress.org/rest-api/reference/block-pattern-categories/)
+- [Nav_Menu_Items](https://developer.wordpress.org/rest-api/reference/nav_menu_items/)
 <!-- DEVHUB:END -->
 
 ## Themes
