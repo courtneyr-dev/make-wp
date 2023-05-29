@@ -313,6 +313,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 29 May 2023](https://make.wordpress.org/test/2023/05/29/xpost-test-team-update-29-may-2023-2/)
+- [X-post: Test Team Update: 29 May 2023](https://make.wordpress.org/test/2023/05/29/xpost-test-team-update-29-may-2023/)
 - [Test Chat Summary: 23 May 2023](https://make.wordpress.org/test/2023/05/23/test-chat-summary-23-may-2023/)
 - [X-post: Test Team Update: 22 May 2023](https://make.wordpress.org/test/2023/05/22/xpost-test-team-update-22-may-2023/)
 - [FSE Program Testing Call #23: Rapid Revamp](https://make.wordpress.org/test/2023/05/18/fse-program-testing-call-23-rapid-revamp/)
@@ -321,8 +323,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 15 May 2023](https://make.wordpress.org/test/2023/05/15/xpost-test-team-update-15-may-2023/)
 - [Test Chat Summary: 9 May 2023](https://make.wordpress.org/test/2023/05/12/test-chat-summary-9-may-2023/)
 - [FSE Program Front Page Fun Summary](https://make.wordpress.org/test/2023/05/11/fse-program-front-page-fun-summary/)
-- [Hallway Hangout: Let’s chat about the Site Editor &amp; 6.3](https://make.wordpress.org/test/2023/05/11/hallway-hangout-lets-chat-about-the-site-editor-6-3/)
-- [FSE Program Build a Block Theme Summary](https://make.wordpress.org/test/2023/05/04/fse-program-build-a-block-theme-summary/)
 <!-- TEST:END -->
 
 ## TV
