@@ -550,13 +550,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Jinja 2023](https://central.wordcamp.org/wordcamps/wordcamp-jinja-2023/)
 - [WordCamp Paris](https://central.wordcamp.org/wordcamps/wordcamp-paris-8/)
 - [WordCamp Iloilo City, Iloilo, Philippines](https://central.wordcamp.org/wordcamps/wordcamp-iloilo-city/)
+- [WordCamp Pontevedra, Pontevedra, Spain](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-pontevedra-spain-2023/)
 - [WordCamp Sylhet, Bangladesh](https://central.wordcamp.org/wordcamps/wordcamp-sylhet-bangladesh/)
 - [WordCamp Denmark](https://central.wordcamp.org/wordcamps/wordcamp-denmark-4/)
 - [WordCamp Cartagena, España](https://central.wordcamp.org/wordcamps/wordcamp-cartagena-espana/)
 - [WordCamp Finland](https://central.wordcamp.org/wordcamps/wordcamp-finland-3/)
 - [WordCamp Sofia, Bulgaria](https://central.wordcamp.org/wordcamps/wordcamp-sofia-2023/)
 - [WordCamp Apatin](https://central.wordcamp.org/wordcamps/wordcamp-apatin/)
-- [WordCamp Bogotá, Colombia](https://central.wordcamp.org/wordcamps/wordcamp-bogota-colombia-2/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
