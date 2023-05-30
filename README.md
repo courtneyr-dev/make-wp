@@ -511,7 +511,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:START -->
 - [WordPress Sage Developer with Tailwind CSS experience needed](https://jobs.wordpress.net/job/wordpress-sage-developer-with-tailwind-css-experience-needed/)
 - [Looking For Website Designer](https://jobs.wordpress.net/job/looking-for-website-designer-2/)
-- [Senior WP Dev – ongoing gig](https://jobs.wordpress.net/job/senior-wp-dev-ongoing-gig/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-12/)
 - [[WordLift] Setup screen for plugin](https://jobs.wordpress.net/job/wordlift-setup-screen-for-plugin/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-96/)
@@ -519,6 +518,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developers for Driving Safety](https://jobs.wordpress.net/job/developers-for-driving-safety/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-802/)
 - [WordPress WooCommerce Developer for Updating Plugins](https://jobs.wordpress.net/job/wordpress-woocommerce-developer-for-updating-plugins/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-11/)
 <!-- JOBS:END -->
 
 ## Central
