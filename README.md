@@ -284,6 +284,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Nesting blocks and advanced block layouts](https://learn.wordpress.org/?meeting=nesting-blocks-and-advanced-block-layouts-2)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-4)
 - [WordPress Coding Standards](https://learn.wordpress.org/?meeting=wordpress-coding-standards)
 - [Custom CSS in the Site-Editing Era](https://learn.wordpress.org/?meeting=custom-css-in-the-site-editing-era)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Series] Create a four page WordPress website #2: Headers &amp; footers](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-2-themes-fonts-styles)
 - [[Series] Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-1-themes-fonts-styles)
 - [Online WordPress 20th Anniversary Celebration](https://learn.wordpress.org/?meeting=online-wordpress-20th-anniversary-celebration)
-- [Live stream: Creating a block theme for developers. Part 2 | Gutenberg 15.7](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-2-gutenberg-15-7)
 <!-- SLS:END -->
 
 ## Test
