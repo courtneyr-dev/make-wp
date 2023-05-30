@@ -340,6 +340,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Dominik Charasim: Let’s chat GPT](https://wordpress.tv/2023/05/30/dominik-charasim-lets-chat-gpt/)
+- [Przemysław Hernik: Jak szacować, by nie zwariować?](https://wordpress.tv/2023/05/30/przemyslaw-hernik-jak-szacowac-by-nie-zwariowac/)
+- [Mateusz Gbiorczyk: WebP vs AVIF – jak optymalizacja obrazków wpływa na szybkość strony internetowej?](https://wordpress.tv/2023/05/30/mateusz-gbiorczyk-webp-vs-avif-jak-optymalizacja-obrazkow-wplywa-na-szybkosc-strony-internetowej/)
+- [Tomasz Karwatka: Czego nauczyłem się w drodze od firmy usługowej do produktowej](https://wordpress.tv/2023/05/30/tomasz-karwatka-czego-nauczylem-sie-w-drodze-od-firmy-uslugowej-do-produktowej/)
+- [Krzysztof Dyszczyk: Gdzie jesteśmy, dokąd zmierzamy: życie w czasach AI](https://wordpress.tv/2023/05/30/krzysztof-dyszczyk-gdzie-jestesmy-dokad-zmierzamy-zycie-w-czasach-ai/)
+- [Ola Gościniak: Drabina produktów – jak rozplanować i wypromować swoje produkty cyfrowe!](https://wordpress.tv/2023/05/30/ola-gosciniak-drabina-produktow-jak-rozplanowac-i-wypromowac-swoje-produkty-cyfrowe/)
+- [Łukasz Wilczak: WordPress z WooCommerce sercem biznesu](https://wordpress.tv/2023/05/30/lukasz-wilczak-wordpress-z-woocommerce-sercem-biznesu/)
+- [Aleksander Misky: Model subskrypcyjny w biznesie – czym jest i jak go wdrożyć w WordPressie](https://wordpress.tv/2023/05/30/aleksander-misky-model-subskrypcyjny-w-biznesie-czym-jest-i-jak-go-wdrozyc-w-wordpressie/)
+- [Izabela Karkocha: Kończ dobrze, a nie szybko – jeden zadowolony klient to dwóch nowych klientów](https://wordpress.tv/2023/05/30/izabela-karkocha-koncz-dobrze-a-nie-szybko-jeden-zadowolony-klient-to-dwoch-nowych-klientow/)
+- [Adrian Kałamajski: Odkryj potencjał WordPressa: Jak w ciągu 28 dni stworzyć dochodowy biznes, sprzedając własne kursy](https://wordpress.tv/2023/05/30/adrian-kalamajski-odkryj-potencjal-wordpressa-jak-w-ciagu-28-dni-stworzyc-dochodowy-biznes-sprzedajac-wlasne-kursy/)
+- [Michał Kaźmierczak: Dwa lata z OKRami, czyli komu to potrzebne?](https://wordpress.tv/2023/05/30/michal-kazmierczak-dwa-lata-z-okrami-czyli-komu-to-potrzebne/)
 - [Tomasz Kołkiewicz: Biznes w barterze. Jak zwiększać popyt na swoje usługi, kiedy klienci tną koszty](https://wordpress.tv/2023/05/30/tomasz-kolkiewicz-biznes-w-barterze-jak-zwiekszac-popyt-na-swoje-uslugi-kiedy-klienci-tna-koszty/)
 - [Dariusz Pichalski: Od pracy na kasie do największego kanału o WordPressie w Polsce, strategia biznesowa w 5 krokach](https://wordpress.tv/2023/05/30/dariusz-pichalski-od-pracy-na-kasie-do-najwiekszego-kanalu-o-wordpressie-w-polsce-strategia-biznesowa-w-5-krokach/)
 - [Krzysiek Dróżdż: Tego się prosto nie odczaruje](https://wordpress.tv/2023/05/30/krzysiek-drozdz-tego-sie-prosto-nie-odczaruje/)
@@ -354,17 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Piotr Niewiadomski: WordPress Sandbox](https://wordpress.tv/2023/05/30/piotr-niewiadomski-wordpress-sandbox/)
 - [Maciej Kuchnik: Trudne migracje danych między WordPressami – jak do tego podejść, aby zrobić to dobrze?](https://wordpress.tv/2023/05/30/maciej-kuchnik-trudne-migracje-danych-miedzy-wordpressami-jak-do-tego-podejsc-aby-zrobic-to-dobrze/)
 - [Bartosz Nowak: Juniper – OpenSource boilerplate](https://wordpress.tv/2023/05/30/bartosz-nowak-juniper-opensource-boilerplate/)
-- [Mariusz Jałyński: Wpływ połączenia WordPressa z AI na SEO](https://wordpress.tv/2023/05/30/mariusz-jalynski-wplyw-polaczenia-wordpressa-z-ai-na-seo/)
-- [Sebastian Kurzynowski: Jakość kodu a zwrot z inwestycji](https://wordpress.tv/2023/05/30/sebastian-kurzynowski-jakosc-kodu-a-zwrot-z-inwestycji/)
-- [Evaluación de la accesibilidad. Cuando los test automáticos son insuficientes](https://wordpress.tv/2023/05/30/evaluacion-de-la-accesibilidad-cuando-los-test-automaticos-son-insuficientes/)
-- [Considerações iniciais](https://wordpress.tv/2023/05/30/consideracoes-iniciais/)
-- [Closing remarks](https://wordpress.tv/2023/05/30/closing-remarks-3/)
-- [20 Years. That’s a Lot of Community](https://wordpress.tv/2023/05/30/20-years-thats-a-lot-of-community/)
-- [La importancia de la marca personal para los profesionales](https://wordpress.tv/2023/05/30/la-importancia-de-la-marca-personal-para-los-profesionales/)
-- [Empowering Your Career Journey](https://wordpress.tv/2023/05/30/empowering-your-career-journey/)
-- [Nesting blocks and advanced block layouts](https://wordpress.tv/2023/05/29/nesting-blocks-and-advanced-block-layouts/)
-- [Lecciones que un diseñador puede aprender del fenómeno La casa de papel](https://wordpress.tv/2023/05/27/lecciones-que-un-disenador-puede-aprender-del-fenomeno-la-casa-de-papel/)
-- [Panel: Empowering Women and Minorities in Public Speaking](https://wordpress.tv/2023/05/26/panel-empowering-women-and-minorities-in-public-speaking/)
 <!-- WPTV:END -->
 
 ## Marketing
