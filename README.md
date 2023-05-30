@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Essential Addons for Elementor](https://make.wordpress.org/polyglots/2023/05/30/pte-request-for-essential-addons-for-elementor/)
+- [PTE Request for Elementor+User Switching](https://make.wordpress.org/polyglots/2023/05/30/pte-request-for-elementoruser-switching/)
 - [PTE Request for Syrus I…](https://make.wordpress.org/polyglots/2023/05/29/pte-request-for-syrus-i/)
 - [PTE Request for 360notify](https://make.wordpress.org/polyglots/2023/05/28/pte-request-for-360notify/)
 - [PTE Request for Location Weather](https://make.wordpress.org/polyglots/2023/05/28/pte-request-for-location-weather/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Elementor Website Builder – More than Just a Page Builder]](https://make.wordpress.org/polyglots/2023/05/26/pte-request-for-elementor-website-builder-more-than-just-a-page-builder/)
 - [Waiting strings to review in AIOSEO project](https://make.wordpress.org/polyglots/2023/05/25/waiting-strings-to-review-in-aioseo-project/)
 - [PTE Request for Brizy plugin – pl_PL,](https://make.wordpress.org/polyglots/2023/05/25/pte-request-for-brizy-plugin-pl_pl/)
-- [Polyglots Table: Contributor Day at WordCamp Sylhet 2023](https://make.wordpress.org/polyglots/2023/05/24/polyglots-table-contributor-day-at-wordcamp-sylhet-2023/)
-- [PTE Request for Advanced Custom Fields &lpar;ACF&rpar; &amp; WooCommerce](https://make.wordpress.org/polyglots/2023/05/24/pte-request-for-advanced-custom-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
