@@ -340,6 +340,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Albert Nogala: Czy WordPress umiera?](https://wordpress.tv/2023/05/30/albert-nogala-czy-wordpress-umiera/)
+- [Oskar Sajdak: Sky is not the limit – WordPress w chmurze to początek](https://wordpress.tv/2023/05/30/oskar-sajdak-sky-is-not-the-limit-wordpress-w-chmurze-to-poczatek/)
+- [Adam Zielinski: WordPress bez serwera – poznaj WordPress Playground i nowy paradygmat aplikacji](https://wordpress.tv/2023/05/30/adam-zielinski-wordpress-bez-serwera-poznaj-wordpress-playground-i-nowy-paradygmat-aplikacji/)
 - [Dominik Charasim: Let’s chat GPT](https://wordpress.tv/2023/05/30/dominik-charasim-lets-chat-gpt/)
 - [Przemysław Hernik: Jak szacować, by nie zwariować?](https://wordpress.tv/2023/05/30/przemyslaw-hernik-jak-szacowac-by-nie-zwariowac/)
 - [Mateusz Gbiorczyk: WebP vs AVIF – jak optymalizacja obrazków wpływa na szybkość strony internetowej?](https://wordpress.tv/2023/05/30/mateusz-gbiorczyk-webp-vs-avif-jak-optymalizacja-obrazkow-wplywa-na-szybkosc-strony-internetowej/)
@@ -362,9 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jakub Jóźwiak: Przeszukiwanie ogromnej bazy w mniej niż sekundę – wdrożenie Algolii w WordPressie](https://wordpress.tv/2023/05/30/jakub-jozwiak-przeszukiwanie-ogromnej-bazy-w-mniej-niz-sekunde-wdrozenie-algolii-w-wordpressie/)
 - [Adam Kanigowski: Astro i WordPress jako headless CMS – Case Study](https://wordpress.tv/2023/05/30/adam-kanigowski-astro-i-wordpress-jako-headless-cms-case-study/)
 - [Kamil Porembiński: Jak wysyłać maile z WordPressa, by nie wpadać w SPAM?](https://wordpress.tv/2023/05/30/kamil-porembinski-jak-wysylac-maile-z-wordpressa-by-nie-wpadac-w-spam/)
-- [Piotr Niewiadomski: WordPress Sandbox](https://wordpress.tv/2023/05/30/piotr-niewiadomski-wordpress-sandbox/)
-- [Maciej Kuchnik: Trudne migracje danych między WordPressami – jak do tego podejść, aby zrobić to dobrze?](https://wordpress.tv/2023/05/30/maciej-kuchnik-trudne-migracje-danych-miedzy-wordpressami-jak-do-tego-podejsc-aby-zrobic-to-dobrze/)
-- [Bartosz Nowak: Juniper – OpenSource boilerplate](https://wordpress.tv/2023/05/30/bartosz-nowak-juniper-opensource-boilerplate/)
 <!-- WPTV:END -->
 
 ## Marketing
