@@ -284,6 +284,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Using the row and stack blocks](https://learn.wordpress.org/?meeting=using-the-row-and-stack-blocks)
 - [Nesting blocks and advanced block layouts](https://learn.wordpress.org/?meeting=nesting-blocks-and-advanced-block-layouts-2)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-4)
 - [WordPress Coding Standards](https://learn.wordpress.org/?meeting=wordpress-coding-standards)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Series] Create a four page WordPress website #3: Creating effective pages](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-3-creating-effective-pages)
 - [[Series] Create a four page WordPress website #2: Headers &amp; footers](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-2-themes-fonts-styles)
 - [[Series] Create a four page WordPress website #1: Themes, fonts, &amp; styles](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-1-themes-fonts-styles)
-- [Online WordPress 20th Anniversary Celebration](https://learn.wordpress.org/?meeting=online-wordpress-20th-anniversary-celebration)
 <!-- SLS:END -->
 
 ## Test
