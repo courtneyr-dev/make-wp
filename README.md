@@ -340,6 +340,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Full Site Editing](https://wordpress.tv/2023/05/30/full-site-editing/)
+- [Automatiza tu WooCommerce y ahorra tiempo](https://wordpress.tv/2023/05/30/automatiza-tu-woocommerce-y-ahorra-tiempo/)
+- [20 Years. That’s a Lot of Community](https://wordpress.tv/2023/05/30/20-years-thats-a-lot-of-community/)
+- [La importancia de la marca personal para los profesionales](https://wordpress.tv/2023/05/30/la-importancia-de-la-marca-personal-para-los-profesionales/)
+- [Empowering Your Career Journey](https://wordpress.tv/2023/05/30/empowering-your-career-journey/)
 - [Nesting blocks and advanced block layouts](https://wordpress.tv/2023/05/29/nesting-blocks-and-advanced-block-layouts/)
 - [Lecciones que un diseñador puede aprender del fenómeno La casa de papel](https://wordpress.tv/2023/05/27/lecciones-que-un-disenador-puede-aprender-del-fenomeno-la-casa-de-papel/)
 - [Panel: Empowering Women and Minorities in Public Speaking](https://wordpress.tv/2023/05/26/panel-empowering-women-and-minorities-in-public-speaking/)
@@ -360,11 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Programando un bloque Gutenberg de WordPress en React desde cero](https://wordpress.tv/2023/05/26/programando-un-bloque-gutenberg-de-wordpress-en-react-desde-cero/)
 - [Cómo torear a Google en SEO en 2023](https://wordpress.tv/2023/05/26/como-torear-a-google-en-seo-en-2023/)
 - [Google Analytics profesional para WordPress](https://wordpress.tv/2023/05/26/google-analytics-profesional-para-wordpress/)
-- [Debugging in WordPress](https://wordpress.tv/2023/05/26/debugging-in-wordpress/)
-- [L’importance de designer le process client](https://wordpress.tv/2023/05/25/limportance-de-designer-le-process-client/)
-- [Le pouvoir de l’obsession client : Comment l’adoption d’un état d’esprit centré sur le client peut transformer votre entreprise](https://wordpress.tv/2023/05/25/le-pouvoir-de-lobsession-client-comment-ladoption-dun-etat-desprit-centre-sur-le-client-peut-transformer-votre-entreprise/)
-- [Updating a blog’s design &lpar;Informal live stream&rpar; – Part 5](https://wordpress.tv/2023/05/25/updating-a-blogs-design-informal-live-stream-part-5/)
-- [Exploiter les pleins potentiels du Design dans son projet WordPress](https://wordpress.tv/2023/05/25/exploiter-les-pleins-potentiels-du-design-dans-son-projet-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
