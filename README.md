@@ -340,6 +340,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mariusz Jałyński: Wpływ połączenia WordPressa z AI na SEO](https://wordpress.tv/2023/05/30/mariusz-jalynski-wplyw-polaczenia-wordpressa-z-ai-na-seo/)
+- [Sebastian Kurzynowski: Jakość kodu a zwrot z inwestycji](https://wordpress.tv/2023/05/30/sebastian-kurzynowski-jakosc-kodu-a-zwrot-z-inwestycji/)
+- [Evaluación de la accesibilidad. Cuando los test automáticos son insuficientes](https://wordpress.tv/2023/05/30/evaluacion-de-la-accesibilidad-cuando-los-test-automaticos-son-insuficientes/)
+- [Considerações iniciais](https://wordpress.tv/2023/05/30/consideracoes-iniciais/)
+- [Closing remarks](https://wordpress.tv/2023/05/30/closing-remarks-3/)
 - [Full Site Editing](https://wordpress.tv/2023/05/30/full-site-editing/)
 - [Automatiza tu WooCommerce y ahorra tiempo](https://wordpress.tv/2023/05/30/automatiza-tu-woocommerce-y-ahorra-tiempo/)
 - [20 Years. That’s a Lot of Community](https://wordpress.tv/2023/05/30/20-years-thats-a-lot-of-community/)
@@ -360,11 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Create Compelling Social Media Content](https://wordpress.tv/2023/05/26/how-to-create-compelling-social-media-content/)
 - [Como evitar malware em sites WordPress e como limpar um site já comprometido](https://wordpress.tv/2023/05/26/como-evitar-malware-em-sites-wordpress-e-como-limpar-um-site-ja-comprometido/)
 - [Garantir conformidade com PHPCS: EditorConfig, GitLab CI/CD, GitHub Actions](https://wordpress.tv/2023/05/26/garantir-conformidade-com-phpcs-editorconfig-gitlab-ci-cd-github-actions/)
-- [Blockchain, Cryptocurrencies, Feediverse, Tokenization, Web3, DAOs, ICOs, dApps, NFTs, Smart Contrac](https://wordpress.tv/2023/05/26/blockchain-cryptocurrencies-feediverse-tokenization-web3-daos/)
-- [Cierre de la WordCamp Zaragoza 2023](https://wordpress.tv/2023/05/26/cierre-de-la-wordcamp-zaragoza-2023/)
-- [Programando un bloque Gutenberg de WordPress en React desde cero](https://wordpress.tv/2023/05/26/programando-un-bloque-gutenberg-de-wordpress-en-react-desde-cero/)
-- [Cómo torear a Google en SEO en 2023](https://wordpress.tv/2023/05/26/como-torear-a-google-en-seo-en-2023/)
-- [Google Analytics profesional para WordPress](https://wordpress.tv/2023/05/26/google-analytics-profesional-para-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
