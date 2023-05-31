@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Managing a WordPress Multisite Network](https://wordpress.tv/2023/05/31/managing-a-wordpress-multisite-network/)
 - [The creative side of blocks, volume 4](https://wordpress.tv/2023/05/30/the-creative-side-of-blocks-volume-4/)
 - [Albert Nogala: Czy WordPress umiera?](https://wordpress.tv/2023/05/30/albert-nogala-czy-wordpress-umiera/)
 - [Oskar Sajdak: Sky is not the limit – WordPress w chmurze to początek](https://wordpress.tv/2023/05/30/oskar-sajdak-sky-is-not-the-limit-wordpress-w-chmurze-to-poczatek/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Aneta Rutkowska: Więcej wtyczek, WordPress &lpar;nie&rpar; wytrzyma. Niskie TTFB to nie tylko najszybsze serwery](https://wordpress.tv/2023/05/30/aneta-rutkowska-wiecej-wtyczek-wordpress-nie-wytrzyma-niskie-ttfb-to-nie-tylko-najszybsze-serwery/)
 - [Maciek Palmowski: Headless – czy to naprawdę ma sens?](https://wordpress.tv/2023/05/30/maciek-palmowski-headless-czy-to-naprawde-ma-sens/)
 - [Jakub Jóźwiak: Przeszukiwanie ogromnej bazy w mniej niż sekundę – wdrożenie Algolii w WordPressie](https://wordpress.tv/2023/05/30/jakub-jozwiak-przeszukiwanie-ogromnej-bazy-w-mniej-niz-sekunde-wdrozenie-algolii-w-wordpressie/)
-- [Adam Kanigowski: Astro i WordPress jako headless CMS – Case Study](https://wordpress.tv/2023/05/30/adam-kanigowski-astro-i-wordpress-jako-headless-cms-case-study/)
 <!-- WPTV:END -->
 
 ## Marketing
