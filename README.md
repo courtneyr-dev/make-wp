@@ -509,6 +509,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Junior Frontend Developer](https://jobs.wordpress.net/job/junior-frontend-developer-2/)
+- [Want thought partner &amp; experienced designer](https://jobs.wordpress.net/job/want-thought-partner-experienced-designer/)
 - [Full Stack WordPress Engineer/Developer](https://jobs.wordpress.net/job/full-stack-wordpress-engineer-developer/)
 - [WordPress Sage Developer with Tailwind CSS experience needed](https://jobs.wordpress.net/job/wordpress-sage-developer-with-tailwind-css-experience-needed/)
 - [Looking For Website Designer](https://jobs.wordpress.net/job/looking-for-website-designer-2/)
@@ -517,8 +519,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-96/)
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-5/)
 - [Developers for Driving Safety](https://jobs.wordpress.net/job/developers-for-driving-safety/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-802/)
-- [WordPress WooCommerce Developer for Updating Plugins](https://jobs.wordpress.net/job/wordpress-woocommerce-developer-for-updating-plugins/)
 <!-- JOBS:END -->
 
 ## Central
