@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Early Speaker and Volunteer Selection…](https://make.wordpress.org/community/2023/06/01/early-speaker-and-volunteer-selection/)
 - [WordCamp Mentors’ June check-in!](https://make.wordpress.org/community/2023/06/01/wordcamp-mentors-june-check-in/)
 - [Next Gen WordCamp Talking Points – Share Your Ideas for a New Event Format and Make It Happen!](https://make.wordpress.org/community/2023/06/01/next-gen-wordcamp-talking-points-share-your-ideas-for-a-new-event-format-and-make-it-happen/)
 - [Community Team Meeting Agenda for 1 June, 2023](https://make.wordpress.org/community/2023/05/31/community-team-meeting-agenda-for-1-june-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Community Team Discussion #9: The Next Generation of WordCamps](https://make.wordpress.org/community/2023/05/20/wordpress-community-team-discussion-9-the-next-generation-of-wordcamps/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on May 18, 2023](https://make.wordpress.org/community/2023/05/20/recap-of-the-contributor-working-groups-mentorship-chat-on-may-18-2023/)
 - [SiteGround Joins the 2023 Global Sponsorship Program](https://make.wordpress.org/community/2023/05/19/siteground-joins-the-2023-global-sponsorship-program/)
-- [Meetup Organizer Newsletter: May 2023](https://make.wordpress.org/community/2023/05/18/meetup-organizer-newsletter-may-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
