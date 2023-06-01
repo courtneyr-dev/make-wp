@@ -544,11 +544,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordCamp Nairobi, Kenya](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-kenya-3/)
 - [WordCamp San José, Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-6/)
+- [WordCamp Verona](https://central.wordcamp.org/wordcamps/wordcamp-verona-4/)
 - [WordCamp Omaha 2023](https://central.wordcamp.org/wordcamps/wordcamp-omaha-nebraska-usa/)
 - [WordCamp Biarritz, France](https://central.wordcamp.org/wordcamps/wordcamp-biarritz-france/)
 - [WordCamp Netherlands](https://central.wordcamp.org/wordcamps/wordcamp-netherlands-3/)
 - [WordCamp Jinja 2023](https://central.wordcamp.org/wordcamps/wordcamp-jinja-2023/)
-- [WordCamp Paris](https://central.wordcamp.org/wordcamps/wordcamp-paris-8/)
 - [WordCamp Iloilo City, Iloilo, Philippines](https://central.wordcamp.org/wordcamps/wordcamp-iloilo-city/)
 - [WordCamp Pontevedra, Pontevedra, Spain](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-pontevedra-spain-2023/)
 - [WordCamp Sylhet, Bangladesh](https://central.wordcamp.org/wordcamps/wordcamp-sylhet-bangladesh/)
