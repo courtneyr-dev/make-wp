@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to Make A Staging Site In WordPress](https://wordpress.tv/2023/05/31/how-to-make-a-staging-site-in-wordpress/)
 - [Managing a WordPress Multisite Network](https://wordpress.tv/2023/05/31/managing-a-wordpress-multisite-network/)
 - [The creative side of blocks, volume 4](https://wordpress.tv/2023/05/30/the-creative-side-of-blocks-volume-4/)
 - [Albert Nogala: Czy WordPress umiera?](https://wordpress.tv/2023/05/30/albert-nogala-czy-wordpress-umiera/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Magdalena Paciorek: Komponenty Gutenberga w akcji. Praktyczne przykłady rozbudowy edytora WordPressa](https://wordpress.tv/2023/05/30/magdalena-paciorek-komponenty-gutenberga-w-akcji-praktyczne-przyklady-rozbudowy-edytora-wordpressa/)
 - [Aneta Rutkowska: Więcej wtyczek, WordPress &lpar;nie&rpar; wytrzyma. Niskie TTFB to nie tylko najszybsze serwery](https://wordpress.tv/2023/05/30/aneta-rutkowska-wiecej-wtyczek-wordpress-nie-wytrzyma-niskie-ttfb-to-nie-tylko-najszybsze-serwery/)
 - [Maciek Palmowski: Headless – czy to naprawdę ma sens?](https://wordpress.tv/2023/05/30/maciek-palmowski-headless-czy-to-naprawde-ma-sens/)
-- [Jakub Jóźwiak: Przeszukiwanie ogromnej bazy w mniej niż sekundę – wdrożenie Algolii w WordPressie](https://wordpress.tv/2023/05/30/jakub-jozwiak-przeszukiwanie-ogromnej-bazy-w-mniej-niz-sekunde-wdrozenie-algolii-w-wordpressie/)
 <!-- WPTV:END -->
 
 ## Marketing
