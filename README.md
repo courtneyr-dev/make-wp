@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Next Gen WordCamp Talking Points – Share Your Ideas for a New Event Format and Make It Happen!](https://make.wordpress.org/community/2023/06/01/next-gen-wordcamp-talking-points-share-your-ideas-for-a-new-event-format-and-make-it-happen/)
 - [Community Team Meeting Agenda for 1 June, 2023](https://make.wordpress.org/community/2023/05/31/community-team-meeting-agenda-for-1-june-2023/)
 - [Notes of Community Team Discussion on May 25, 2023](https://make.wordpress.org/community/2023/05/26/notes-of-community-team-discussion-on-may-25-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 24, 2023](https://make.wordpress.org/community/2023/05/24/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-24-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SiteGround Joins the 2023 Global Sponsorship Program](https://make.wordpress.org/community/2023/05/19/siteground-joins-the-2023-global-sponsorship-program/)
 - [Meetup Organizer Newsletter: May 2023](https://make.wordpress.org/community/2023/05/18/meetup-organizer-newsletter-may-2023/)
 - [Announcement: Increasing Meetup Venue Support Funds](https://make.wordpress.org/community/2023/05/18/announcement-increasing-meetup-venue-support-funds/)
-- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/community/2023/05/18/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 <!-- COMMUNITY:END -->
 
 ## Meta
