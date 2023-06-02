@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Coding Standards](https://wordpress.tv/2023/06/02/wordpress-coding-standards/)
 - [How to switch from a classic to a block theme](https://wordpress.tv/2023/06/01/how-to-switch-from-a-classic-to-a-block-theme/)
 - [How to Make A Staging Site In WordPress](https://wordpress.tv/2023/05/31/how-to-make-a-staging-site-in-wordpress/)
 - [Managing a WordPress Multisite Network](https://wordpress.tv/2023/05/31/managing-a-wordpress-multisite-network/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dominik Kawula: Pozytywny biznes. Jak prowadzić własną firmę tak, by klienci chcieli wracać?](https://wordpress.tv/2023/05/30/dominik-kawula-pozytywny-biznes-jak-prowadzic-wlasna-firme-tak-aby-klienci-chcieli-do-ciebie-wracac-po-wiecej/)
 - [Marta Domasz: Jak osiągnąć sukces biznesowy poprzez inwestowanie w pracowników?](https://wordpress.tv/2023/05/30/marta-domasz-taniej-rozwijac-niz-zatrudniac-jak-osiagnac-sukces-biznesowy-poprzez-inwestowanie-w-pracownikow/)
 - [Magdalena Paciorek: Komponenty Gutenberga w akcji. Praktyczne przykłady rozbudowy edytora WordPressa](https://wordpress.tv/2023/05/30/magdalena-paciorek-komponenty-gutenberga-w-akcji-praktyczne-przyklady-rozbudowy-edytora-wordpressa/)
-- [Aneta Rutkowska: Niskie TTFB to nie tylko najszybsze serwery](https://wordpress.tv/2023/05/30/aneta-rutkowska-wiecej-wtyczek-wordpress-nie-wytrzyma-niskie-ttfb-to-nie-tylko-najszybsze-serwery/)
 <!-- WPTV:END -->
 
 ## Marketing
