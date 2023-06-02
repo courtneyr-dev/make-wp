@@ -284,6 +284,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [[Rescheduled Event] Create a four page WordPress website: Create effective pages](https://learn.wordpress.org/?meeting=rescheduled-event-create-a-four-page-wordpress-website-create-effective-pages)
 - [Live stream: Creating a block theme for developers. Part 3](https://learn.wordpress.org/?meeting=live-stream-creating-a-block-theme-for-developers-part-3)
 - [Training Team WordCamp EU Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-wordcamp-eu-contributor-day-online-session)
 - [Using the row and stack blocks](https://learn.wordpress.org/?meeting=using-the-row-and-stack-blocks)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Testing plugins for PHP 8](https://learn.wordpress.org/?meeting=testing-plugins-for-php-8)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme)
 - [Create a four page WordPress website #4: Design templates](https://learn.wordpress.org/?meeting=create-a-four-page-wordpress-website-4-design-templates)
-- [[Series] Create a four page WordPress website #3: Creating effective pages](https://learn.wordpress.org/?meeting=series-create-a-four-page-wordpress-website-3-creating-effective-pages)
 <!-- SLS:END -->
 
 ## Test
