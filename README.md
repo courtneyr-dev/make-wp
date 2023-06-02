@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “material-dashboard” Hello…](https://make.wordpress.org/polyglots/2023/06/02/pte-request-for-material-dashboard-hello/)
+- [PTE Request for [User Switching + Essential Addons for Elementor]](https://make.wordpress.org/polyglots/2023/06/02/pte-request-for-user-switching-essential-addons-for-elementor/)
 - [Can you please auto translate…](https://make.wordpress.org/polyglots/2023/06/02/can-you-please-auto-translate/)
 - [PTE Request for [Quiz And Survey Master]](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-quiz-and-survey-master-2/)
 - [PTE Request for WooCommerce Checkout…](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-woocommerce-checkout/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Essential Addons for Elementor](https://make.wordpress.org/polyglots/2023/05/30/pte-request-for-essential-addons-for-elementor/)
 - [PTE Request for Elementor+User Switching](https://make.wordpress.org/polyglots/2023/05/30/pte-request-for-elementoruser-switching/)
 - [PTE Request for Syrus I…](https://make.wordpress.org/polyglots/2023/05/29/pte-request-for-syrus-i/)
-- [PTE Request for 360notify](https://make.wordpress.org/polyglots/2023/05/28/pte-request-for-360notify/)
-- [PTE Request for Location Weather](https://make.wordpress.org/polyglots/2023/05/28/pte-request-for-location-weather/)
 <!-- POLYGLOTS:END -->
 
 ## Support
