@@ -157,7 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
-- [Early Speaker and Volunteer Selection…](https://make.wordpress.org/community/2023/06/01/early-speaker-and-volunteer-selection/)
+- [Early Speaker and Volunteer Selection and Improved Visa Support](https://make.wordpress.org/community/2023/06/01/early-speaker-and-volunteer-selection/)
 - [WordCamp Mentors’ June check-in!](https://make.wordpress.org/community/2023/06/01/wordcamp-mentors-june-check-in/)
 - [Next Gen WordCamp Talking Points – Share Your Ideas for a New Event Format and Make It Happen!](https://make.wordpress.org/community/2023/06/01/next-gen-wordcamp-talking-points-share-your-ideas-for-a-new-event-format-and-make-it-happen/)
 - [Community Team Meeting Agenda for 1 June, 2023](https://make.wordpress.org/community/2023/05/31/community-team-meeting-agenda-for-1-june-2023/)
