@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Meta at WCEU 2023 Contributor Day](https://make.wordpress.org/meta/2023/06/02/meta-at-wceu-2023-contributor-day/)
 - [Agenda: Biweekly Matrix Chat – Thu, June 1, 2023 &lpar;10AM UTC&rpar;](https://make.wordpress.org/meta/2023/05/31/agenda-biweekly-matrix-chat-thu-june-1-2023-10am-utc/)
 - [Two-Factor Auth available to test on WordPress.org](https://make.wordpress.org/meta/2023/05/31/two-factor-auth-available-to-test-on-wordpress-org/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/meta/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Biweekly Matrix Chat – Thu, May 4, 2023 &lpar;10AM UTC&rpar;](https://make.wordpress.org/meta/2023/05/03/agenda-biweekly-matrix-chat-thu-may-4-2023-10am-utc/)
 - [Matrix chat Summary – April 20, 2023](https://make.wordpress.org/meta/2023/04/20/matrix-chat-summary-april-20-2023/)
 - [Agenda: Biweekly Matrix Chat – Thu, April 20, 2023 &lpar;10AM UTC&rpar;](https://make.wordpress.org/meta/2023/04/19/agenda-biweekly-matrix-chat-thu-april-20-2023-10am-utc/)
-- [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/meta/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 <!-- META:END -->
 
 ## Training
