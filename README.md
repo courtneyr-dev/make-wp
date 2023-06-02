@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WCEU 2023 Contributor Day – Community Team topics/focus](https://make.wordpress.org/community/2023/06/02/wceu-2023-contributor-day-community-team-topics-focus/)
 - [Early Speaker and Volunteer Selection and Improved Visa Support](https://make.wordpress.org/community/2023/06/01/early-speaker-and-volunteer-selection/)
 - [WordCamp Mentors’ June check-in!](https://make.wordpress.org/community/2023/06/01/wordcamp-mentors-june-check-in/)
 - [Next Gen of WordPress Event Talking Points – Share Your Ideas for a New Event Format and Make It Happen!](https://make.wordpress.org/community/2023/06/01/next-gen-wordcamp-talking-points-share-your-ideas-for-a-new-event-format-and-make-it-happen/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Idea generation: Next Gen WordCamps!](https://make.wordpress.org/community/2023/05/24/idea-generation-next-gen-wordcamps/)
 - [WordPress Community Team Discussion #9: The Next Generation of WordCamps](https://make.wordpress.org/community/2023/05/20/wordpress-community-team-discussion-9-the-next-generation-of-wordcamps/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on May 18, 2023](https://make.wordpress.org/community/2023/05/20/recap-of-the-contributor-working-groups-mentorship-chat-on-may-18-2023/)
-- [SiteGround Joins the 2023 Global Sponsorship Program](https://make.wordpress.org/community/2023/05/19/siteground-joins-the-2023-global-sponsorship-program/)
 <!-- COMMUNITY:END -->
 
 ## Meta
