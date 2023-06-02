@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Can you please auto translate…](https://make.wordpress.org/polyglots/2023/06/02/can-you-please-auto-translate/)
 - [PTE Request for [Quiz And Survey Master]](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-quiz-and-survey-master-2/)
 - [PTE Request for WooCommerce Checkout…](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-woocommerce-checkout/)
 - [Improving Translation Suggestions [Other Languages]](https://make.wordpress.org/polyglots/2023/05/31/improving-translation-suggestions-other-languages/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Syrus I…](https://make.wordpress.org/polyglots/2023/05/29/pte-request-for-syrus-i/)
 - [PTE Request for 360notify](https://make.wordpress.org/polyglots/2023/05/28/pte-request-for-360notify/)
 - [PTE Request for Location Weather](https://make.wordpress.org/polyglots/2023/05/28/pte-request-for-location-weather/)
-- [PTE Request for [FiboSearch -…](https://make.wordpress.org/polyglots/2023/05/27/pte-request-for-fibosearch/)
 <!-- POLYGLOTS:END -->
 
 ## Support
