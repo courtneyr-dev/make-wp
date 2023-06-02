@@ -481,6 +481,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [MC access for ryelle](https://make.wordpress.org/systems/2023/06/01/mc-access-for-ryelle/)
 - [GitHub SSH host key update – SVN-Git sync](https://make.wordpress.org/systems/2023/03/28/github-ssh-host-key-update-svn-git-sync/)
 - [Upgrade TracWPCookies plugin](https://make.wordpress.org/systems/2023/03/09/upgrade-tracwpcookies-plugin/)
 - [429s &lpar;rate limiting&rpar; from translate.wordpress.org export translation routes](https://make.wordpress.org/systems/2023/02/14/429s-rate-limiting-from-translate-wordpress-org-export-translation-routes/)
@@ -490,7 +491,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Spam on mailing lists](https://make.wordpress.org/systems/2023/02/06/spam-on-mailing-lists/)
 - [MC Access for Peter Wilson](https://make.wordpress.org/systems/2023/01/13/mc-access-for-peter-wilson/)
 - [Enable HTTP redirect endpoint on pd.w.org](https://make.wordpress.org/systems/2023/01/12/enable-http-redirect-endpoint-on-pd-w-org/)
-- [Remove/Increase showcase rate limits](https://make.wordpress.org/systems/2022/12/21/remove-increase-showcase-rate-limits/)
 <!-- SYSTEMS:END -->
 
 ## News
