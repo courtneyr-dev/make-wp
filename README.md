@@ -509,6 +509,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-14/)
+- [Web Developers for Auto Safety – Cause Marketing Partners](https://jobs.wordpress.net/job/web-developers-for-auto-safety-cause-marketing-partners/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-13/)
 - [Junior Frontend Developer](https://jobs.wordpress.net/job/junior-frontend-developer-2/)
 - [Want thought partner &amp; experienced designer](https://jobs.wordpress.net/job/want-thought-partner-experienced-designer/)
@@ -517,8 +519,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Looking For Website Designer](https://jobs.wordpress.net/job/looking-for-website-designer-2/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-12/)
 - [[WordLift] Setup screen for plugin](https://jobs.wordpress.net/job/wordlift-setup-screen-for-plugin/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-96/)
-- [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-5/)
 <!-- JOBS:END -->
 
 ## Central
