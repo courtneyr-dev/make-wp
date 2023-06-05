@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-onoffice-for-wp-websites-6/)
 - [X-post: Come join the Training Team as a Translation Coordinator &lpar;Faculty role&rpar;](https://make.wordpress.org/polyglots/2023/06/05/xpost-come-join-the-training-team-as-a-translation-coordinator-faculty-role/)
 - [PTE Request for “material-dashboard” Hello…](https://make.wordpress.org/polyglots/2023/06/02/pte-request-for-material-dashboard-hello/)
 - [PTE Request for [User Switching + Essential Addons for Elementor]](https://make.wordpress.org/polyglots/2023/06/02/pte-request-for-user-switching-essential-addons-for-elementor/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improving Translation Suggestions [Other Languages]](https://make.wordpress.org/polyglots/2023/05/31/improving-translation-suggestions-other-languages/)
 - [Agenda: Weekly Polyglots Chat – May 31, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/31/agenda-weekly-polyglots-chat-may-31-2023-0700-utc/)
 - [PTE Request for Essential Addons for Elementor](https://make.wordpress.org/polyglots/2023/05/30/pte-request-for-essential-addons-for-elementor/)
-- [PTE Request for Elementor+User Switching](https://make.wordpress.org/polyglots/2023/05/30/pte-request-for-elementoruser-switching/)
 <!-- POLYGLOTS:END -->
 
 ## Support
