@@ -509,6 +509,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[ASTRA] Link Building Specialist](https://jobs.wordpress.net/job/astra-link-building-specialist-2/)
+- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-9/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-14/)
 - [Web Developers for Auto Safety – Cause Marketing Partners](https://jobs.wordpress.net/job/web-developers-for-auto-safety-cause-marketing-partners/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-13/)
@@ -517,8 +519,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Stack WordPress Engineer/Developer](https://jobs.wordpress.net/job/full-stack-wordpress-engineer-developer/)
 - [WordPress Sage Developer with Tailwind CSS experience needed](https://jobs.wordpress.net/job/wordpress-sage-developer-with-tailwind-css-experience-needed/)
 - [Looking For Website Designer](https://jobs.wordpress.net/job/looking-for-website-designer-2/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-12/)
-- [[WordLift] Setup screen for plugin](https://jobs.wordpress.net/job/wordlift-setup-screen-for-plugin/)
 <!-- JOBS:END -->
 
 ## Central
