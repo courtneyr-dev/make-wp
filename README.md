@@ -495,6 +495,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 57: The Power of WordPress Mentorship](https://wordpress.org/news/2023/06/episode-57-the-power-of-wordpress-mentorship/)
 - [People of WordPress: Stefano Cassone](https://wordpress.org/news/2023/05/people-of-wordpress-stefano-cassone/)
 - [Celebrating 20 Years of WordPress](https://wordpress.org/news/2023/05/celebrating-20-years-of-wordpress/)
 - [WP Briefing: Episode 56: What to Know About WordPress Playground](https://wordpress.org/news/2023/05/episode-56-what-to-know-about-wordpress-playground/)
@@ -504,7 +505,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [2022 Annual Survey Results &amp; Next Steps](https://wordpress.org/news/2023/05/2022-annual-survey-results-next-steps/)
 - [The Month in WordPress – April 2023](https://wordpress.org/news/2023/05/the-month-in-wordpress-april-2023/)
 - [People of WordPress: Monika Rao](https://wordpress.org/news/2023/04/people-of-wordpress-monika-rao/)
-- [WP Briefing: Episode 54: A Bill of Rights for the Open Web](https://wordpress.org/news/2023/04/episode-54-open-webs-bill-of-rights/)
 <!-- NEWS:END -->
 
 ## Jobs
