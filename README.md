@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-customer-reviews-for-woocommerce-23/)
 - [Removing Translation for [Panorom]](https://make.wordpress.org/polyglots/2023/06/05/removing-translation-for-panorom/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-onoffice-for-wp-websites-6/)
 - [X-post: Come join the Training Team as a Translation Coordinator &lpar;Faculty role&rpar;](https://make.wordpress.org/polyglots/2023/06/05/xpost-come-join-the-training-team-as-a-translation-coordinator-faculty-role/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Quiz And Survey Master]](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-quiz-and-survey-master-2/)
 - [PTE Request for WooCommerce Checkout…](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-woocommerce-checkout/)
 - [Improving Translation Suggestions [Other Languages]](https://make.wordpress.org/polyglots/2023/05/31/improving-translation-suggestions-other-languages/)
-- [Agenda: Weekly Polyglots Chat – May 31, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/05/31/agenda-weekly-polyglots-chat-may-31-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
