@@ -185,6 +185,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Come join the Training Team as a Translation Coordinator &lpar;Faculty role&rpar;](https://make.wordpress.org/training/2023/06/05/come-join-the-training-team-as-a-translation-coordinator-faculty-role/)
+- [Announcing GitHub updates for Subject Matter Experts and Content Translators](https://make.wordpress.org/training/2023/06/05/announcing-github-updates-for-subject-matter-experts-and-content-translators/)
 - [Recap and Next Steps: Training Team Onboarding](https://make.wordpress.org/training/2023/06/03/recap-and-next-steps-training-team-onboarding/)
 - [WordCamp Europe 2023 Contributor Day](https://make.wordpress.org/training/2023/06/02/wordcamp-europe-2023-contributor-day/)
 - [Analysis and results of the Individual Learner Survey](https://make.wordpress.org/training/2023/05/30/analysis-of-the-individual-learner-survey-results/)
@@ -193,8 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/training/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Training Team Meeting Recap for May 9, 2023](https://make.wordpress.org/training/2023/05/13/training-team-meeting-recap-for-may-9-2023/)
 - [Brainstorm – WordCamp Europe 2023 Contributor Day](https://make.wordpress.org/training/2023/05/09/brainstorm-wordcamp-europe-2023-contributor-day/)
-- [Training Team Meeting Recap for May 2nd, 2023](https://make.wordpress.org/training/2023/05/09/training-team-meeting-recap-for-may-2nd-2023/)
-- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/training/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
