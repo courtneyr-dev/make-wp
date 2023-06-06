@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [How to switch from a classic to a block theme](https://learn.wordpress.org/tutorial/how-to-switch-from-a-classic-to-a-block-theme/)
 - [Managing a WordPress Multisite Network](https://learn.wordpress.org/tutorial/managing-a-wordpress-multisite-network/)
 - [Building a page with only patterns](https://learn.wordpress.org/tutorial/building-a-page-with-only-patterns/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Add media and Openverse images to your content directly from the Inserter](https://learn.wordpress.org/tutorial/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [WordPress REST API – custom routes &amp; endpoints](https://learn.wordpress.org/tutorial/wordpress-rest-api-custom-routes-endpoints/)
 - [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
-- [How to use the WordPress Stylebook with your block theme](https://learn.wordpress.org/tutorial/how-to-use-the-wordpress-stylebook-with-your-block-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
