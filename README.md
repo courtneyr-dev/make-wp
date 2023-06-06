@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Experiment: Translation Review Assistance from ChatGPT](https://make.wordpress.org/polyglots/2023/06/06/experiment-translation-review-assistance-from-chatgpt/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-customer-reviews-for-woocommerce-23/)
 - [Removing Translation for [Panorom]](https://make.wordpress.org/polyglots/2023/06/05/removing-translation-for-panorom/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-onoffice-for-wp-websites-6/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Can you please auto translate…](https://make.wordpress.org/polyglots/2023/06/02/can-you-please-auto-translate/)
 - [PTE Request for [Quiz And Survey Master]](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-quiz-and-survey-master-2/)
 - [PTE Request for WooCommerce Checkout…](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-woocommerce-checkout/)
-- [Improving Translation Suggestions [Other Languages]](https://make.wordpress.org/polyglots/2023/05/31/improving-translation-suggestions-other-languages/)
 <!-- POLYGLOTS:END -->
 
 ## Support
