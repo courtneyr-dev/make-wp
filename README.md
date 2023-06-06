@@ -340,6 +340,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using Page Templates](https://wordpress.tv/2023/06/06/using-page-templates-2/)
+- [Create a four page WordPress website: Create effective pages](https://wordpress.tv/2023/06/06/create-a-four-page-wordpress-website-create-effective-pages/)
 - [WordPress Coding Standards](https://wordpress.tv/2023/06/02/wordpress-coding-standards/)
 - [How to switch from a classic to a block theme](https://wordpress.tv/2023/06/01/how-to-switch-from-a-classic-to-a-block-theme/)
 - [How to Make A Staging Site In WordPress](https://wordpress.tv/2023/05/31/how-to-make-a-staging-site-in-wordpress/)
@@ -363,8 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dariusz Pichalski: Od pracy na kasie do największego kanału o WordPressie w Polsce](https://wordpress.tv/2023/05/30/dariusz-pichalski-od-pracy-na-kasie-do-najwiekszego-kanalu-o-wordpressie-w-polsce-strategia-biznesowa-w-5-krokach/)
 - [Krzysiek Dróżdż: Tego się prosto nie odczaruje](https://wordpress.tv/2023/05/30/krzysiek-drozdz-tego-sie-prosto-nie-odczaruje/)
 - [Dominik Kawula: Pozytywny biznes. Jak prowadzić własną firmę tak, by klienci chcieli wracać?](https://wordpress.tv/2023/05/30/dominik-kawula-pozytywny-biznes-jak-prowadzic-wlasna-firme-tak-aby-klienci-chcieli-do-ciebie-wracac-po-wiecej/)
-- [Marta Domasz: Jak osiągnąć sukces biznesowy poprzez inwestowanie w pracowników?](https://wordpress.tv/2023/05/30/marta-domasz-taniej-rozwijac-niz-zatrudniac-jak-osiagnac-sukces-biznesowy-poprzez-inwestowanie-w-pracownikow/)
-- [Magdalena Paciorek: Komponenty Gutenberga w akcji. Praktyczne przykłady rozbudowy edytora WordPressa](https://wordpress.tv/2023/05/30/magdalena-paciorek-komponenty-gutenberga-w-akcji-praktyczne-przyklady-rozbudowy-edytora-wordpressa/)
 <!-- WPTV:END -->
 
 ## Marketing
