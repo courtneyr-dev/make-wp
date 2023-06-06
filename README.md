@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Themes team at WordCamp Europe 2023](https://make.wordpress.org/community/2023/06/06/xpost-themes-team-at-wordcamp-europe-2023/)
 - [WCEU 2023 Contributor Day – Community Team topics/focus](https://make.wordpress.org/community/2023/06/02/wceu-2023-contributor-day-community-team-topics-focus/)
 - [Early Speaker and Volunteer Selection and Improved Visa Support](https://make.wordpress.org/community/2023/06/01/early-speaker-and-volunteer-selection/)
 - [WordCamp Mentors’ June check-in!](https://make.wordpress.org/community/2023/06/01/wordcamp-mentors-june-check-in/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 24, 2023](https://make.wordpress.org/community/2023/05/24/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-24-2023/)
 - [Idea generation: Next Gen WordCamps!](https://make.wordpress.org/community/2023/05/24/idea-generation-next-gen-wordcamps/)
 - [WordPress Community Team Discussion #9: The Next Generation of WordCamps](https://make.wordpress.org/community/2023/05/20/wordpress-community-team-discussion-9-the-next-generation-of-wordcamps/)
-- [Recap of the Contributor Working Group’s Mentorship Chat on May 18, 2023](https://make.wordpress.org/community/2023/05/20/recap-of-the-contributor-working-groups-mentorship-chat-on-may-18-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
