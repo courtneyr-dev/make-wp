@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Chat Agenda: June 7th 2023](https://make.wordpress.org/core/2023/06/06/editor-chat-agenda-june-7th-2023/)
+- [Performance Chat Agenda: 6 June 2023](https://make.wordpress.org/core/2023/06/06/performance-chat-agenda-06-june-2023/)
 - [WordPress 6.4 Development Cycle](https://make.wordpress.org/core/2023/06/05/wordpress-6-4-development-cycle/)
 - [Dev Chat Summary, May 31, 2023](https://make.wordpress.org/core/2023/06/02/dev-chat-summary-may-31-2023/)
 - [Gutenberg 15.9.1 is now available](https://make.wordpress.org/core/2023/06/02/gutenberg-15-9-1-is-now-available/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor chat summary: 31 May, 2023](https://make.wordpress.org/core/2023/05/31/editor-chat-summary-31-may-2023/)
 - [What’s new in Gutenberg 15.9? &lpar;31 May&rpar;](https://make.wordpress.org/core/2023/05/31/whats-new-in-gutenberg-15-9-31-may/)
 - [Dev Chat agenda, May 31, 2022](https://make.wordpress.org/core/2023/05/31/dev-chat-agenda-may-31-2022/)
-- [Performance Chat Summary: 30 May 2023](https://make.wordpress.org/core/2023/05/30/performance-chat-summary-30-may-2023/)
-- [Editor Chat Agenda: 31st May 2023](https://make.wordpress.org/core/2023/05/30/editor-chat-agenda-31-may-2023/)
 <!-- CORE:END -->
 
 ## Design
