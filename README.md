@@ -157,6 +157,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [What happens when a WordCamp doesn’t provide a transparency report](https://make.wordpress.org/community/2023/06/06/what-happens-when-a-wordcamp-doesnt-provide-a-transparency-report/)
+- [Discussion: Next Generation Event Tooling](https://make.wordpress.org/community/2023/06/06/discussion-next-generation-event-tooling/)
 - [X-post: Themes team at WordCamp Europe 2023](https://make.wordpress.org/community/2023/06/06/xpost-themes-team-at-wordcamp-europe-2023/)
 - [WCEU 2023 Contributor Day – Community Team topics/focus](https://make.wordpress.org/community/2023/06/02/wceu-2023-contributor-day-community-team-topics-focus/)
 - [Early Speaker and Volunteer Selection and Improved Visa Support](https://make.wordpress.org/community/2023/06/01/early-speaker-and-volunteer-selection/)
@@ -165,8 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 1 June, 2023](https://make.wordpress.org/community/2023/05/31/community-team-meeting-agenda-for-1-june-2023/)
 - [Notes of Community Team Discussion on May 25, 2023](https://make.wordpress.org/community/2023/05/26/notes-of-community-team-discussion-on-may-25-2023/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 24, 2023](https://make.wordpress.org/community/2023/05/24/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-24-2023/)
-- [Idea generation: Next Gen WordCamps!](https://make.wordpress.org/community/2023/05/24/idea-generation-next-gen-wordcamps/)
-- [WordPress Community Team Discussion #9: The Next Generation of WordCamps](https://make.wordpress.org/community/2023/05/20/wordpress-community-team-discussion-9-the-next-generation-of-wordcamps/)
 <!-- COMMUNITY:END -->
 
 ## Meta
