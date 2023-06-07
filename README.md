@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Jetpack CRM](https://make.wordpress.org/polyglots/2023/06/07/pte-request-for-jetpack-crm-2/)
+- [PTE Request for Broken Link Checker by AIOSEO](https://make.wordpress.org/polyglots/2023/06/07/pte-request-for-broken-link-checker-by-aioseo/)
 - [Agenda: Weekly Polyglots Chat – June 07, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/07/agenda-weekly-polyglots-chat-june-07-2023-1300-utc/)
 - [Experiment: Translation Review Assistance from ChatGPT](https://make.wordpress.org/polyglots/2023/06/06/experiment-translation-review-assistance-from-chatgpt/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-customer-reviews-for-woocommerce-23/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Come join the Training Team as a Translation Coordinator &lpar;Faculty role&rpar;](https://make.wordpress.org/polyglots/2023/06/05/xpost-come-join-the-training-team-as-a-translation-coordinator-faculty-role/)
 - [PTE Request for “material-dashboard” Hello…](https://make.wordpress.org/polyglots/2023/06/02/pte-request-for-material-dashboard-hello/)
 - [PTE Request for [User Switching + Essential Addons for Elementor]](https://make.wordpress.org/polyglots/2023/06/02/pte-request-for-user-switching-essential-addons-for-elementor/)
-- [Can you please auto translate…](https://make.wordpress.org/polyglots/2023/06/02/can-you-please-auto-translate/)
-- [PTE Request for [Quiz And Survey Master]](https://make.wordpress.org/polyglots/2023/06/01/pte-request-for-quiz-and-survey-master-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
