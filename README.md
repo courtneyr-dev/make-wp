@@ -509,6 +509,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Transfer blog from Wix to WordPress &lpar;slightly new design as well&rpar;](https://jobs.wordpress.net/job/transfer-blog-from-wix-to-wordpress-slightly-new-design-as-well/)
 - [[ASTRA] Link Building Specialist](https://jobs.wordpress.net/job/astra-link-building-specialist-2/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-9/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-14/)
@@ -518,7 +519,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Want thought partner &amp; experienced designer](https://jobs.wordpress.net/job/want-thought-partner-experienced-designer/)
 - [Full Stack WordPress Engineer/Developer](https://jobs.wordpress.net/job/full-stack-wordpress-engineer-developer/)
 - [WordPress Sage Developer with Tailwind CSS experience needed](https://jobs.wordpress.net/job/wordpress-sage-developer-with-tailwind-css-experience-needed/)
-- [Looking For Website Designer](https://jobs.wordpress.net/job/looking-for-website-designer-2/)
 <!-- JOBS:END -->
 
 ## Central
