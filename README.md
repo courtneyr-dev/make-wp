@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Feature idea: Speaker profile block](https://make.wordpress.org/community/2023/06/08/feature-idea-speaker-profile-block/)
 - [Updates to the Community Team Mentor Program](https://make.wordpress.org/community/2023/06/06/updates-to-the-community-team-mentor-program/)
 - [What happens when a WordCamp doesn’t provide a transparency report](https://make.wordpress.org/community/2023/06/06/what-happens-when-a-wordcamp-doesnt-provide-a-transparency-report/)
 - [Discussion: Next Generation Event Tooling](https://make.wordpress.org/community/2023/06/06/discussion-next-generation-event-tooling/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Mentors’ June check-in!](https://make.wordpress.org/community/2023/06/01/wordcamp-mentors-june-check-in/)
 - [Next Gen of WordPress Event Talking Points – Share Your Ideas for a New Event Format and Make It Happen!](https://make.wordpress.org/community/2023/06/01/next-gen-wordcamp-talking-points-share-your-ideas-for-a-new-event-format-and-make-it-happen/)
 - [Community Team Meeting Agenda for 1 June, 2023](https://make.wordpress.org/community/2023/05/31/community-team-meeting-agenda-for-1-june-2023/)
-- [Notes of Community Team Discussion on May 25, 2023](https://make.wordpress.org/community/2023/05/26/notes-of-community-team-discussion-on-may-25-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
