@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hey, I would like to…](https://make.wordpress.org/polyglots/2023/06/08/hey-i-would-like-to-2/)
+- [I’d like to become a…](https://make.wordpress.org/polyglots/2023/06/08/id-like-to-become-a/)
+- [PTE Request for Gateway for Wise on WooCommerce](https://make.wordpress.org/polyglots/2023/06/08/pte-request-for-gateway-for-wise-on-woocommerce/)
 - [PTE Request for Jetpack CRM](https://make.wordpress.org/polyglots/2023/06/07/pte-request-for-jetpack-crm-2/)
 - [PTE Request for Broken Link Checker by AIOSEO](https://make.wordpress.org/polyglots/2023/06/07/pte-request-for-broken-link-checker-by-aioseo/)
 - [Agenda: Weekly Polyglots Chat – June 07, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/07/agenda-weekly-polyglots-chat-june-07-2023-1300-utc/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-customer-reviews-for-woocommerce-23/)
 - [Removing Translation for [Panorom]](https://make.wordpress.org/polyglots/2023/06/05/removing-translation-for-panorom/)
 - [PTE Request for onOffice for WP-Websites](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-onoffice-for-wp-websites-6/)
-- [X-post: Come join the Training Team as a Translation Coordinator &lpar;Faculty role&rpar;](https://make.wordpress.org/polyglots/2023/06/05/xpost-come-join-the-training-team-as-a-translation-coordinator-faculty-role/)
-- [PTE Request for “material-dashboard” Hello…](https://make.wordpress.org/polyglots/2023/06/02/pte-request-for-material-dashboard-hello/)
-- [PTE Request for [User Switching + Essential Addons for Elementor]](https://make.wordpress.org/polyglots/2023/06/02/pte-request-for-user-switching-essential-addons-for-elementor/)
 <!-- POLYGLOTS:END -->
 
 ## Support
