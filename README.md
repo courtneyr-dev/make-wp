@@ -284,6 +284,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Own Your Expertise &amp; Start Speaking at WordPress Events APAC](https://learn.wordpress.org/?meeting=how-to-own-your-expertise-start-speaking-at-wordpress-events-apac-2)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-5)
 - [New to WordPress? Getting to know the Dashboard](https://learn.wordpress.org/?meeting=new-to-wordpress-getting-to-know-the-dashboard)
 - [The Wide World of WordPress Events](https://learn.wordpress.org/?meeting=the-wide-world-of-wordpress-events-3)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Working with Version Control](https://learn.wordpress.org/?meeting=working-with-version-control)
 - [How to translate content for Learn.WordPress.org](https://learn.wordpress.org/?meeting=how-to-translate-content-for-learn-wordpress-org)
 - [キャッシュについて知ろう！ ~ WordPress サイトの Cache 設定 ~](https://learn.wordpress.org/?meeting=%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e7%9f%a5%e3%82%8d%e3%81%86%ef%bc%81-wordpress-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae-cache-%e8%a8%ad%e5%ae%9a-2)
-- [Let’s set up a new header and footer &lpar;block theme&rpar;](https://learn.wordpress.org/?meeting=lets-set-up-a-new-header-and-footer-block-theme)
 <!-- SLS:END -->
 
 ## Test
