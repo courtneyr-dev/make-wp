@@ -481,6 +481,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Redirect *.forums.wordpress.org](https://make.wordpress.org/systems/2023/06/08/redirect-forums-wordpress-org/)
 - [I currently have a wp.org…](https://make.wordpress.org/systems/2023/06/07/i-currently-have-a-wp-org/)
 - [MC access for ryelle](https://make.wordpress.org/systems/2023/06/01/mc-access-for-ryelle/)
 - [GitHub SSH host key update – SVN-Git sync](https://make.wordpress.org/systems/2023/03/28/github-ssh-host-key-update-svn-git-sync/)
@@ -490,7 +491,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Upgrade NodeJS/npm on the Build Server](https://make.wordpress.org/systems/2023/02/09/upgrade-nodejs-npm-on-the-build-server/)
 - [Update plugins.trac templates](https://make.wordpress.org/systems/2023/02/06/update-plugins-trac-templates/)
 - [Spam on mailing lists](https://make.wordpress.org/systems/2023/02/06/spam-on-mailing-lists/)
-- [MC Access for Peter Wilson](https://make.wordpress.org/systems/2023/01/13/mc-access-for-peter-wilson/)
 <!-- SYSTEMS:END -->
 
 ## News
