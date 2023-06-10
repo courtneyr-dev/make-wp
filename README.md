@@ -495,6 +495,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Twenty Years of WordPress at WCEU](https://wordpress.org/news/2023/06/twenty-years-of-wordpress-at-wceu/)
 - [The Month in WordPress – May 2023](https://wordpress.org/news/2023/06/the-month-in-wordpress-may-2023/)
 - [WP Briefing: Episode 57: The Power of WordPress Mentorship](https://wordpress.org/news/2023/06/episode-57-the-power-of-wordpress-mentorship/)
 - [People of WordPress: Stefano Cassone](https://wordpress.org/news/2023/05/people-of-wordpress-stefano-cassone/)
@@ -504,7 +505,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.2.1 Maintenance &amp; Security Release](https://wordpress.org/news/2023/05/wordpress-6-2-1-maintenance-security-release/)
 - [WP Briefing: Episode 55: Happy Anniversary, WordPress!](https://wordpress.org/news/2023/05/episode-55-happy-anniversary-wordpress/)
 - [2022 Annual Survey Results &amp; Next Steps](https://wordpress.org/news/2023/05/2022-annual-survey-results-next-steps/)
-- [The Month in WordPress – April 2023](https://wordpress.org/news/2023/05/the-month-in-wordpress-april-2023/)
 <!-- NEWS:END -->
 
 ## Jobs
