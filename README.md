@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for June 13, 2023](https://make.wordpress.org/themes/2023/06/12/themes-team-meeting-agenda-for-june-13-2023/)
 - [X-post: New curation filter in Pattern Directory](https://make.wordpress.org/themes/2023/06/09/xpost-new-curation-filter-in-pattern-directory/)
 - [Hallway Hangout: Let’s chat about WordPress 6.3 and block theming](https://make.wordpress.org/themes/2023/06/08/hallway-hangout-lets-chat-about-wordpress-6-3-and-block-theming/)
 - [Themes team at WordCamp Europe 2023](https://make.wordpress.org/themes/2023/06/06/themes-team-at-wordcamp-europe-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary: Curating the Editor and building block themes for clients](https://make.wordpress.org/themes/2023/05/26/summary-curating-the-editor-and-building-block-themes-for-clients/)
 - [Hallway Hangout: Curating the editor and building block themes for clients](https://make.wordpress.org/themes/2023/05/18/hallway-hangout-curating-the-editor-and-building-block-themes-for-clients/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/themes/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
-- [Theme Handbook Overhaul: Phase 2 &lpar;Creating Content&rpar;](https://make.wordpress.org/themes/2023/05/17/theme-handbook-overhaul-phase-2-creating-content/)
 <!-- THEMES:END -->
 
 ## Plugins
