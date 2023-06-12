@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/06/12/hi-dear-mentors-we-have-117/)
 - [PTE Request for [NanoSpace]](https://make.wordpress.org/polyglots/2023/06/12/pte-request-for-nanospace/)
 - [GTE Request for Marathi Language](https://make.wordpress.org/polyglots/2023/06/10/gte-request-for-marathi-language/)
 - [Hey, I would like to…](https://make.wordpress.org/polyglots/2023/06/08/hey-i-would-like-to-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Broken Link Checker by AIOSEO](https://make.wordpress.org/polyglots/2023/06/07/pte-request-for-broken-link-checker-by-aioseo/)
 - [Agenda: Weekly Polyglots Chat – June 07, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/07/agenda-weekly-polyglots-chat-june-07-2023-1300-utc/)
 - [Experiment: Translation Review Assistance from ChatGPT](https://make.wordpress.org/polyglots/2023/06/06/experiment-translation-review-assistance-from-chatgpt/)
-- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/06/05/pte-request-for-customer-reviews-for-woocommerce-23/)
 <!-- POLYGLOTS:END -->
 
 ## Support
