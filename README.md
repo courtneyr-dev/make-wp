@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for POS Entegratör; WordPress Ödeme Eklentisi](https://make.wordpress.org/polyglots/2023/06/13/pte-request-for-pos-entegrator-wordpress-odeme-eklentisi/)
+- [GTE Request for the Hindi Language](https://make.wordpress.org/polyglots/2023/06/13/gte-request-for-the-hindi-language/)
 - [I am the Theme Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-theme-developer/)
 - [I am the plugin Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-plugin-developer/)
 - [PTE Request for codoc](https://make.wordpress.org/polyglots/2023/06/12/pte-request-for-codoc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GTE Request for Marathi Language](https://make.wordpress.org/polyglots/2023/06/10/gte-request-for-marathi-language/)
 - [Hey, I would like to…](https://make.wordpress.org/polyglots/2023/06/08/hey-i-would-like-to-2/)
 - [I’d like to become a…](https://make.wordpress.org/polyglots/2023/06/08/id-like-to-become-a/)
-- [PTE Request for Gateway for Wise on WooCommerce](https://make.wordpress.org/polyglots/2023/06/08/pte-request-for-gateway-for-wise-on-woocommerce/)
-- [PTE Request for Jetpack CRM](https://make.wordpress.org/polyglots/2023/06/07/pte-request-for-jetpack-crm-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
