@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the Theme Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-theme-developer/)
+- [I am the plugin Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-plugin-developer/)
 - [PTE Request for codoc](https://make.wordpress.org/polyglots/2023/06/12/pte-request-for-codoc/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/06/12/hi-dear-mentors-we-have-117/)
 - [PTE Request for [NanoSpace]](https://make.wordpress.org/polyglots/2023/06/12/pte-request-for-nanospace/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’d like to become a…](https://make.wordpress.org/polyglots/2023/06/08/id-like-to-become-a/)
 - [PTE Request for Gateway for Wise on WooCommerce](https://make.wordpress.org/polyglots/2023/06/08/pte-request-for-gateway-for-wise-on-woocommerce/)
 - [PTE Request for Jetpack CRM](https://make.wordpress.org/polyglots/2023/06/07/pte-request-for-jetpack-crm-2/)
-- [PTE Request for Broken Link Checker by AIOSEO](https://make.wordpress.org/polyglots/2023/06/07/pte-request-for-broken-link-checker-by-aioseo/)
-- [Agenda: Weekly Polyglots Chat – June 07, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/07/agenda-weekly-polyglots-chat-june-07-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
