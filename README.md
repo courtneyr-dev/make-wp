@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [New Filter Controls: Discover “Commercial” and “Community” in the Theme and Plugin Directory](https://make.wordpress.org/meta/2023/06/13/new-filter-controls-discover-commercial-and-community-in-the-theme-and-plugin-directory/)
 - [Linking to Supporting Orgs](https://make.wordpress.org/meta/2023/06/11/linking-to-supporting-orgs/)
 - [New curation filter in Pattern Directory](https://make.wordpress.org/meta/2023/06/09/new-curation-filter-in-pattern-directory/)
 - [Matrix chat Summary – June 1, 2023](https://make.wordpress.org/meta/2023/06/02/matrix-chat-summary-june-1-2023/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/meta/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Proposal: Handbook for Local Teams](https://make.wordpress.org/meta/2023/05/15/xpost-proposal-handbook-for-local-teams/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/meta/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
-- [Matrix chat Summary – May 4, 2023](https://make.wordpress.org/meta/2023/05/04/matrix-chat-summary-may-4-2023/)
 <!-- META:END -->
 
 ## Training
