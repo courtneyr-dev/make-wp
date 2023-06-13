@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Polish translation for SportsPress – Sports Club &amp; League Manager](https://make.wordpress.org/polyglots/2023/06/13/polish-translation-for-sportspress-sports-club-league-manager/)
 - [PTE Request for POS Entegratör; WordPress Ödeme Eklentisi](https://make.wordpress.org/polyglots/2023/06/13/pte-request-for-pos-entegrator-wordpress-odeme-eklentisi/)
 - [GTE Request for the Hindi Language](https://make.wordpress.org/polyglots/2023/06/13/gte-request-for-the-hindi-language/)
 - [I am the Theme Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-theme-developer/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [NanoSpace]](https://make.wordpress.org/polyglots/2023/06/12/pte-request-for-nanospace/)
 - [GTE Request for Marathi Language](https://make.wordpress.org/polyglots/2023/06/10/gte-request-for-marathi-language/)
 - [Hey, I would like to…](https://make.wordpress.org/polyglots/2023/06/08/hey-i-would-like-to-2/)
-- [I’d like to become a…](https://make.wordpress.org/polyglots/2023/06/08/id-like-to-become-a/)
 <!-- POLYGLOTS:END -->
 
 ## Support
