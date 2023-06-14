@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Contributor Working Group: Mentorship Chat Agenda | June 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/06/14/contributor-working-group-mentorship-chat-agenda-june-15th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Community Team Training #10: Understanding GPL Compliance for WordCamp and Meetup](https://make.wordpress.org/community/2023/06/12/community-team-training-10-understanding-gpl-compliance-for-wordcamp-and-meetup/)
 - [Feature idea: Speaker profile block](https://make.wordpress.org/community/2023/06/08/feature-idea-speaker-profile-block/)
 - [Updates to the Community Team Mentor Program](https://make.wordpress.org/community/2023/06/06/updates-to-the-community-team-mentor-program/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCEU 2023 Contributor Day – Community Team topics/focus](https://make.wordpress.org/community/2023/06/02/wceu-2023-contributor-day-community-team-topics-focus/)
 - [Early Speaker and Volunteer Selection and Improved Visa Support](https://make.wordpress.org/community/2023/06/01/early-speaker-and-volunteer-selection/)
 - [WordCamp Mentors’ June check-in!](https://make.wordpress.org/community/2023/06/01/wordcamp-mentors-june-check-in/)
-- [Next Gen WordPress Event Talking Points – Share Your Ideas for a New Event Format and Make It Happen!](https://make.wordpress.org/community/2023/06/01/next-gen-wordcamp-talking-points-share-your-ideas-for-a-new-event-format-and-make-it-happen/)
 <!-- COMMUNITY:END -->
 
 ## Meta
