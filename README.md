@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Custom CSS in the Site-Editing era](https://wordpress.tv/2023/06/14/custom-css-in-the-site-editing-era/)
 - [Five for the Future: how can someone become a sponsored contributor, and how a company can donate an](https://wordpress.tv/2023/06/13/five-for-the-future-how-can-someone-become-a-sponsored-contributor-and-how-a-company-can-donate-an/)
 - [Using the row and stack blocks](https://wordpress.tv/2023/06/12/using-the-row-and-stack-blocks/)
 - [Наредба Н-18 с WooCommerce](https://wordpress.tv/2023/06/08/%d0%bd%d0%b0%d1%80%d0%b5%d0%b4%d0%b1%d0%b0-%d0%bd-18-%d1%81-woocommerce/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tomasz Karwatka: Czego nauczyłem się w drodze od firmy usługowej do produktowej](https://wordpress.tv/2023/05/30/tomasz-karwatka-czego-nauczylem-sie-w-drodze-od-firmy-uslugowej-do-produktowej/)
 - [Krzysztof Dyszczyk: Gdzie jesteśmy, dokąd zmierzamy: życie w czasach AI](https://wordpress.tv/2023/05/30/krzysztof-dyszczyk-gdzie-jestesmy-dokad-zmierzamy-zycie-w-czasach-ai/)
 - [Ola Gościniak: Drabina produktów – jak rozplanować i wypromować swoje produkty cyfrowe!](https://wordpress.tv/2023/05/30/ola-gosciniak-drabina-produktow-jak-rozplanowac-i-wypromowac-swoje-produkty-cyfrowe/)
-- [Łukasz Wilczak: WordPress z WooCommerce sercem biznesu](https://wordpress.tv/2023/05/30/lukasz-wilczak-wordpress-z-woocommerce-sercem-biznesu/)
 <!-- WPTV:END -->
 
 ## Marketing
