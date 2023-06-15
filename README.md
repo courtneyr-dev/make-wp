@@ -511,7 +511,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:START -->
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-16/)
 - [Full-time WordPress Developer Wanted](https://jobs.wordpress.net/job/full-time-wordpress-developer-wanted/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-97/)
 - [PHP Software Developer &lpar;WordPress&rpar; at Updraft WP Software Ltd](https://jobs.wordpress.net/job/php-software-developer-wordpress-at-updraft-wp-software-ltd/)
 - [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-28/)
 - [Community Manager &lpar;Part-time, Remote&rpar;](https://jobs.wordpress.net/job/community-manager-part-time-remote/)
@@ -519,6 +518,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[DigitalTextile] Partner Full Stack Developer](https://jobs.wordpress.net/job/digitaltextile-partner-full-stack-developer/)
 - [Transfer blog from Wix to WordPress &lpar;slightly new design as well&rpar;](https://jobs.wordpress.net/job/transfer-blog-from-wix-to-wordpress-slightly-new-design-as-well/)
 - [[ASTRA] Link Building Specialist](https://jobs.wordpress.net/job/astra-link-building-specialist-2/)
+- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-9/)
 <!-- JOBS:END -->
 
 ## Central
