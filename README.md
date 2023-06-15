@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Advanced Multisite Management](https://wordpress.tv/2023/06/15/advanced-multisite-management/)
 - [Custom CSS in the Site-Editing era](https://wordpress.tv/2023/06/14/custom-css-in-the-site-editing-era/)
 - [Five for the Future: how someone can become a sponsored contributor, and how a company can sponsor a contributor](https://wordpress.tv/2023/06/13/five-for-the-future-how-can-someone-become-a-sponsored-contributor-and-how-a-company-can-donate-an/)
 - [Using the row and stack blocks](https://wordpress.tv/2023/06/12/using-the-row-and-stack-blocks/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mateusz Gbiorczyk: WebP vs AVIF – jak optymalizacja obrazków wpływa na szybkość strony internetowej?](https://wordpress.tv/2023/05/30/mateusz-gbiorczyk-webp-vs-avif-jak-optymalizacja-obrazkow-wplywa-na-szybkosc-strony-internetowej/)
 - [Tomasz Karwatka: Czego nauczyłem się w drodze od firmy usługowej do produktowej](https://wordpress.tv/2023/05/30/tomasz-karwatka-czego-nauczylem-sie-w-drodze-od-firmy-uslugowej-do-produktowej/)
 - [Krzysztof Dyszczyk: Gdzie jesteśmy, dokąd zmierzamy: życie w czasach AI](https://wordpress.tv/2023/05/30/krzysztof-dyszczyk-gdzie-jestesmy-dokad-zmierzamy-zycie-w-czasach-ai/)
-- [Ola Gościniak: Drabina produktów – jak rozplanować i wypromować swoje produkty cyfrowe!](https://wordpress.tv/2023/05/30/ola-gosciniak-drabina-produktow-jak-rozplanowac-i-wypromowac-swoje-produkty-cyfrowe/)
 <!-- WPTV:END -->
 
 ## Marketing
