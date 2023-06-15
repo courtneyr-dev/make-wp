@@ -276,7 +276,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
 - [Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
 - [Basic Principles of Conflict Resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)
-- [WordCamp Mentor Training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
+- [Community Team Event Mentor Training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
 - [WordPress Meetup Organizer Training](https://learn.wordpress.org/course/wordpress-meetup-organizer-training/)
 - [Incident Response Team Training](https://learn.wordpress.org/course/incident-response-team-training/)
 - [Polyglots Contributor Training](https://learn.wordpress.org/course/polyglots-contributor-training/)
