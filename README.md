@@ -341,7 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Custom CSS in the Site-Editing era](https://wordpress.tv/2023/06/14/custom-css-in-the-site-editing-era/)
-- [Five for the Future: how can someone become a sponsored contributor, and how a company can donate an](https://wordpress.tv/2023/06/13/five-for-the-future-how-can-someone-become-a-sponsored-contributor-and-how-a-company-can-donate-an/)
+- [Five for the Future: how someone can become a sponsored contributor, and how a company can sponsor a contributor](https://wordpress.tv/2023/06/13/five-for-the-future-how-can-someone-become-a-sponsored-contributor-and-how-a-company-can-donate-an/)
 - [Using the row and stack blocks](https://wordpress.tv/2023/06/12/using-the-row-and-stack-blocks/)
 - [Наредба Н-18 с WooCommerce](https://wordpress.tv/2023/06/08/%d0%bd%d0%b0%d1%80%d0%b5%d0%b4%d0%b1%d0%b0-%d0%bd-18-%d1%81-woocommerce/)
 - [Как да си изберем правилната WordPress тема в 3 стъпки](https://wordpress.tv/2023/06/08/%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d1%81%d0%b8-%d0%b8%d0%b7%d0%b1%d0%b5%d1%80%d0%b5%d0%bc-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%bd%d0%b0%d1%82%d0%b0-wordpress-%d1%82%d0%b5%d0%bc%d0%b0-%d0%b2-3-%d1%81/)
