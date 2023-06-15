@@ -481,6 +481,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [events.wordpress.org served by wordcamp.org](https://make.wordpress.org/systems/2023/06/15/events-wordpress-org-served-by-wordcamp-org/)
 - [Redirect *.forums.wordpress.org](https://make.wordpress.org/systems/2023/06/08/redirect-forums-wordpress-org/)
 - [I currently have a wp.org…](https://make.wordpress.org/systems/2023/06/07/i-currently-have-a-wp-org/)
 - [MC access for ryelle](https://make.wordpress.org/systems/2023/06/01/mc-access-for-ryelle/)
@@ -490,7 +491,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Load-balancers on IP Abuse database](https://make.wordpress.org/systems/2023/02/13/load-balancers-on-ip-abuse-database/)
 - [Upgrade NodeJS/npm on the Build Server](https://make.wordpress.org/systems/2023/02/09/upgrade-nodejs-npm-on-the-build-server/)
 - [Update plugins.trac templates](https://make.wordpress.org/systems/2023/02/06/update-plugins-trac-templates/)
-- [Spam on mailing lists](https://make.wordpress.org/systems/2023/02/06/spam-on-mailing-lists/)
 <!-- SYSTEMS:END -->
 
 ## News
