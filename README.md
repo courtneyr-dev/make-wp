@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Advanced Multisite Management](https://learn.wordpress.org/tutorial/advanced-multisite-management/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [How to switch from a classic to a block theme](https://learn.wordpress.org/tutorial/how-to-switch-from-a-classic-to-a-block-theme/)
 - [Managing a WordPress Multisite Network](https://learn.wordpress.org/tutorial/managing-a-wordpress-multisite-network/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Block Patterns](https://learn.wordpress.org/tutorial/using-block-patterns/)
 - [Add media and Openverse images to your content directly from the Inserter](https://learn.wordpress.org/tutorial/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [WordPress REST API – custom routes &amp; endpoints](https://learn.wordpress.org/tutorial/wordpress-rest-api-custom-routes-endpoints/)
-- [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
