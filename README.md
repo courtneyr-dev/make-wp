@@ -327,6 +327,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## TV
 <!-- TV:START -->
+- [Enhancing Slide Management for Video Publications](https://make.wordpress.org/tv/2023/06/15/enhancing-slide-management-for-video-publications/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/tv/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/tv/2023/04/18/xpost-wordpress-at-20-in-print/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/tv/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
@@ -336,7 +337,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/tv/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/tv/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tv/2022/05/26/xpost-announcement-incident-response-training/)
-- [X-post: Proposal: Refurbishing Camera Kits](https://make.wordpress.org/tv/2022/02/16/xpost-proposal-refurbishing-camera-kits/)
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
