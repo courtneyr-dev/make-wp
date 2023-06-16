@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Celebrating the Completion of the Meetup Reactivation Project](https://make.wordpress.org/community/2023/06/16/celebrating-the-completion-of-the-meetup-reactivation-project/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 14, 2023](https://make.wordpress.org/community/2023/06/16/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-14-2023/)
 - [Calling all APAC speakers – new or experienced! Join us on July 2, 2023](https://make.wordpress.org/community/2023/06/15/calling-all-apac-speakers-new-or-experienced-join-us-on-july-2-2023/)
 - [Contributor Working Group: Mentorship Chat Agenda | June 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/06/14/contributor-working-group-mentorship-chat-agenda-june-15th-0700-utc-apac-emea-and-1600-utc-amer/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What happens when a WordCamp doesn’t provide a transparency report](https://make.wordpress.org/community/2023/06/06/what-happens-when-a-wordcamp-doesnt-provide-a-transparency-report/)
 - [Discussion: Next Generation Event Tooling](https://make.wordpress.org/community/2023/06/06/discussion-next-generation-event-tooling/)
 - [X-post: Themes team at WordCamp Europe 2023](https://make.wordpress.org/community/2023/06/06/xpost-themes-team-at-wordcamp-europe-2023/)
-- [WCEU 2023 Contributor Day – Community Team topics/focus](https://make.wordpress.org/community/2023/06/02/wceu-2023-contributor-day-community-team-topics-focus/)
 <!-- COMMUNITY:END -->
 
 ## Meta
