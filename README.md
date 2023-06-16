@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [maintenance release generate](https://developer.wordpress.org/cli/commands/maintenance/release/generate/)
-- [doctor list](https://developer.wordpress.org/cli/commands/doctor/list/)
 - [cache supports](https://developer.wordpress.org/cli/commands/cache/supports/)
-- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
+- [super-cache](https://developer.wordpress.org/cli/commands/super-cache/)
+- [maintenance](https://developer.wordpress.org/cli/commands/maintenance/)
 - [google-sitemap](https://developer.wordpress.org/cli/commands/google-sitemap/)
 - [maintenance contrib-list](https://developer.wordpress.org/cli/commands/maintenance/contrib-list/)
 - [doctor](https://developer.wordpress.org/cli/commands/doctor/)
-- [maintenance](https://developer.wordpress.org/cli/commands/maintenance/)
-- [doctor check](https://developer.wordpress.org/cli/commands/doctor/check/)
 - [google-sitemap rebuild](https://developer.wordpress.org/cli/commands/google-sitemap/rebuild/)
+- [doctor list](https://developer.wordpress.org/cli/commands/doctor/list/)
+- [doctor check](https://developer.wordpress.org/cli/commands/doctor/check/)
+- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
 <!-- DEVHUB:END -->
 
 ## Themes
