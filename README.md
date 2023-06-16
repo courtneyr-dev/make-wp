@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE request](https://make.wordpress.org/polyglots/2023/06/16/clpte-request-11/)
+- [PTE Request for Real Cookie Banner and Real Media Library](https://make.wordpress.org/polyglots/2023/06/16/pte-request-for-real-cookie-banner-and-real-media-library/)
 - [PTE Request for Uncanny Automator…](https://make.wordpress.org/polyglots/2023/06/15/pte-request-for-uncanny-automator/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/06/15/hello-75/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/06/15/pte-request-for-several-projects-2/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for POS Entegratör; WordPress Ödeme Eklentisi](https://make.wordpress.org/polyglots/2023/06/13/pte-request-for-pos-entegrator-wordpress-odeme-eklentisi/)
 - [GTE Request for the Hindi Language](https://make.wordpress.org/polyglots/2023/06/13/gte-request-for-the-hindi-language/)
 - [I am the Theme Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-theme-developer/)
-- [I am the plugin Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-plugin-developer/)
-- [PTE Request for codoc](https://make.wordpress.org/polyglots/2023/06/12/pte-request-for-codoc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
