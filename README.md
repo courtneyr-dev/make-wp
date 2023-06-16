@@ -556,7 +556,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Denmark](https://central.wordcamp.org/wordcamps/wordcamp-denmark-4/)
 - [WordCamp Cartagena, España](https://central.wordcamp.org/wordcamps/wordcamp-cartagena-espana/)
 - [WordCamp Sofia, Bulgaria](https://central.wordcamp.org/wordcamps/wordcamp-sofia-2023/)
-- [WordCamp Apatin](https://central.wordcamp.org/wordcamps/wordcamp-apatin/)
+- [WordCamp Madrid](https://central.wordcamp.org/wordcamps/wordcamp-madrid-4/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
