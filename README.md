@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Uncanny Automator…](https://make.wordpress.org/polyglots/2023/06/15/pte-request-for-uncanny-automator/)
+- [Hello,](https://make.wordpress.org/polyglots/2023/06/15/hello-75/)
+- [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/06/15/pte-request-for-several-projects-2/)
 - [Agenda: Weekly Polyglots Chat – June 14, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/14/agenda-weekly-polyglots-chat-june-14-2023-0700-utc/)
 - [Polish translation for SportsPress – Sports Club &amp; League Manager](https://make.wordpress.org/polyglots/2023/06/13/polish-translation-for-sportspress-sports-club-league-manager/)
 - [PTE Request for POS Entegratör; WordPress Ödeme Eklentisi](https://make.wordpress.org/polyglots/2023/06/13/pte-request-for-pos-entegrator-wordpress-odeme-eklentisi/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the Theme Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-theme-developer/)
 - [I am the plugin Developer…](https://make.wordpress.org/polyglots/2023/06/13/i-am-the-plugin-developer/)
 - [PTE Request for codoc](https://make.wordpress.org/polyglots/2023/06/12/pte-request-for-codoc/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/06/12/hi-dear-mentors-we-have-117/)
-- [PTE Request for [NanoSpace]](https://make.wordpress.org/polyglots/2023/06/12/pte-request-for-nanospace/)
-- [GTE Request for Marathi Language](https://make.wordpress.org/polyglots/2023/06/10/gte-request-for-marathi-language/)
 <!-- POLYGLOTS:END -->
 
 ## Support
