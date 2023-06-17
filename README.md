@@ -509,6 +509,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer for Woocommerce Website](https://jobs.wordpress.net/job/wordpress-developer-for-woocommerce-website/)
+- [WordPress/WooCommerce Plugin Developer](https://jobs.wordpress.net/job/wordpress-woocommerce-plugin-developer-4/)
+- [Junior Web Developer – Marketing](https://jobs.wordpress.net/job/junior-web-developer-marketing/)
 - [Digital Strategist](https://jobs.wordpress.net/job/digital-strategist/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-803/)
 - [Senior WordPress Software Engineer](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-2/)
@@ -516,9 +519,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-16/)
 - [Full-time WordPress Developer Wanted](https://jobs.wordpress.net/job/full-time-wordpress-developer-wanted/)
 - [PHP Software Developer &lpar;WordPress&rpar; at Updraft WP Software Ltd](https://jobs.wordpress.net/job/php-software-developer-wordpress-at-updraft-wp-software-ltd/)
-- [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-28/)
-- [Community Manager &lpar;Part-time, Remote&rpar;](https://jobs.wordpress.net/job/community-manager-part-time-remote/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-15/)
 <!-- JOBS:END -->
 
 ## Central
