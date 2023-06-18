@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for several projects](https://make.wordpress.org/polyglots/2023/06/18/pte-request-for-several-projects-3/)
+- [Hi there!](https://make.wordpress.org/polyglots/2023/06/18/hi-there-9/)
 - [GTE Request for the Vietnamese Language](https://make.wordpress.org/polyglots/2023/06/18/gte-request-for-the-vietnamese-language/)
 - [PTE Request for Meta Projects](https://make.wordpress.org/polyglots/2023/06/18/pte-request-for-meta-projects/)
 - [Hi ployglots team,](https://make.wordpress.org/polyglots/2023/06/16/hi-ployglots-team/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Uncanny Automator…](https://make.wordpress.org/polyglots/2023/06/15/pte-request-for-uncanny-automator/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/06/15/hello-75/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/06/15/pte-request-for-several-projects-2/)
-- [Agenda: Weekly Polyglots Chat – June 14, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/14/agenda-weekly-polyglots-chat-june-14-2023-0700-utc/)
-- [Polish translation for SportsPress – Sports Club &amp; League Manager](https://make.wordpress.org/polyglots/2023/06/13/polish-translation-for-sportspress-sports-club-league-manager/)
 <!-- POLYGLOTS:END -->
 
 ## Support
