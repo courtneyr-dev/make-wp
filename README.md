@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE Request for the Vietnamese Language](https://make.wordpress.org/polyglots/2023/06/18/gte-request-for-the-vietnamese-language/)
 - [PTE Request for Meta Projects](https://make.wordpress.org/polyglots/2023/06/18/pte-request-for-meta-projects/)
 - [Hi ployglots team,](https://make.wordpress.org/polyglots/2023/06/16/hi-ployglots-team/)
 - [CLPTE request](https://make.wordpress.org/polyglots/2023/06/16/clpte-request-11/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/06/15/pte-request-for-several-projects-2/)
 - [Agenda: Weekly Polyglots Chat – June 14, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/14/agenda-weekly-polyglots-chat-june-14-2023-0700-utc/)
 - [Polish translation for SportsPress – Sports Club &amp; League Manager](https://make.wordpress.org/polyglots/2023/06/13/polish-translation-for-sportspress-sports-club-league-manager/)
-- [PTE Request for POS Entegratör; WordPress Ödeme Eklentisi](https://make.wordpress.org/polyglots/2023/06/13/pte-request-for-pos-entegrator-wordpress-odeme-eklentisi/)
 <!-- POLYGLOTS:END -->
 
 ## Support
