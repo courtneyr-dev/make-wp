@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Brainstorm &amp; Table Lead – WordCamp US 2023 Contributor Day](https://make.wordpress.org/training/2023/06/19/brainstorm-table-lead-wordcamp-us-2023-contributor-day/)
 - [Training Team Meeting Recap – 6 June, 2023](https://make.wordpress.org/training/2023/06/12/training-team-meeting-recap-6-june-2023/)
 - [Learners can now submit feedback when completing a course](https://make.wordpress.org/training/2023/06/09/learners-can-now-submit-feedback-when-completing-a-course/)
 - [WordCamp Europe Contributor Day 2023 Recap](https://make.wordpress.org/training/2023/06/08/wordcamp-europe-contributor-day-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcing GitHub updates for Subject Matter Experts and Content Translators](https://make.wordpress.org/training/2023/06/05/announcing-github-updates-for-subject-matter-experts-and-content-translators/)
 - [Recap and Next Steps: Training Team Onboarding](https://make.wordpress.org/training/2023/06/03/recap-and-next-steps-training-team-onboarding/)
 - [WordCamp Europe 2023 Contributor Day](https://make.wordpress.org/training/2023/06/02/wordcamp-europe-2023-contributor-day/)
-- [Analysis and results of the Individual Learner Survey](https://make.wordpress.org/training/2023/05/30/analysis-of-the-individual-learner-survey-results/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
