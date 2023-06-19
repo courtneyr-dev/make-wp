@@ -61,7 +61,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- POLYGLOTS:START -->
 - [PTE request for several projects](https://make.wordpress.org/polyglots/2023/06/18/pte-request-for-several-projects-3/)
 - [Hi there!](https://make.wordpress.org/polyglots/2023/06/18/hi-there-9/)
-- [GTE Request for the Vietnamese Language](https://make.wordpress.org/polyglots/2023/06/18/gte-request-for-the-vietnamese-language/)
+- [PTE Request for the Vietnamese Language](https://make.wordpress.org/polyglots/2023/06/18/gte-request-for-the-vietnamese-language/)
 - [PTE Request for Meta Projects](https://make.wordpress.org/polyglots/2023/06/18/pte-request-for-meta-projects/)
 - [Hi ployglots team,](https://make.wordpress.org/polyglots/2023/06/16/hi-ployglots-team/)
 - [CLPTE request](https://make.wordpress.org/polyglots/2023/06/16/clpte-request-11/)
