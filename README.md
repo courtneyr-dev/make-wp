@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The WordPress developer quiz](https://wordpress.tv/2023/06/19/the-wordpress-developer-quiz/)
 - [Using headings for Accessibility and SEO](https://wordpress.tv/2023/06/15/using-headings-for-accessibility-and-seo/)
 - [Hallway Hangout: Let’s chat about WordPress 6.3 and block theming](https://wordpress.tv/2023/06/15/hallway-hangout-lets-chat-about-wordpress-6-3-and-block-theming/)
 - [Advanced Multisite Management](https://wordpress.tv/2023/06/15/advanced-multisite-management/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adam Zielinski: WordPress bez serwera – poznaj WordPress Playground i nowy paradygmat aplikacji](https://wordpress.tv/2023/05/30/adam-zielinski-wordpress-bez-serwera-poznaj-wordpress-playground-i-nowy-paradygmat-aplikacji/)
 - [Dominik Charasim: Let’s chat GPT](https://wordpress.tv/2023/05/30/dominik-charasim-lets-chat-gpt/)
 - [Przemysław Hernik: Jak szacować, by nie zwariować?](https://wordpress.tv/2023/05/30/przemyslaw-hernik-jak-szacowac-by-nie-zwariowac/)
-- [Mateusz Gbiorczyk: WebP vs AVIF – jak optymalizacja obrazków wpływa na szybkość strony internetowej?](https://wordpress.tv/2023/05/30/mateusz-gbiorczyk-webp-vs-avif-jak-optymalizacja-obrazkow-wplywa-na-szybkosc-strony-internetowej/)
 <!-- WPTV:END -->
 
 ## Marketing
