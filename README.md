@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Filter Everything — Product Filter &amp; WordPress Filter](https://make.wordpress.org/polyglots/2023/06/19/pte-request-for-filter-everything-product-filter-wordpress-filter/)
+- [Polish translation of the Essential Real Estate](https://make.wordpress.org/polyglots/2023/06/19/polish-translation-of-the-essential-real-estate/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/06/19/hi-dear-mentors-we-have-118/)
 - [PTE request for several projects](https://make.wordpress.org/polyglots/2023/06/18/pte-request-for-several-projects-3/)
 - [Hi there!](https://make.wordpress.org/polyglots/2023/06/18/hi-there-9/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi ployglots team,](https://make.wordpress.org/polyglots/2023/06/16/hi-ployglots-team/)
 - [CLPTE request](https://make.wordpress.org/polyglots/2023/06/16/clpte-request-11/)
 - [PTE Request for Real Cookie Banner and Real Media Library](https://make.wordpress.org/polyglots/2023/06/16/pte-request-for-real-cookie-banner-and-real-media-library/)
-- [PTE Request for Uncanny Automator…](https://make.wordpress.org/polyglots/2023/06/15/pte-request-for-uncanny-automator/)
-- [Hello,](https://make.wordpress.org/polyglots/2023/06/15/hello-75/)
 <!-- POLYGLOTS:END -->
 
 ## Support
