@@ -313,6 +313,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 19 June 2023](https://make.wordpress.org/test/2023/06/19/xpost-test-team-update-19-june-2023/)
 - [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/test/2023/06/15/xpost-triaging-open-issues-on-trac-for-make-teams/)
 - [X-post: Test Team Update: 12 June 2023](https://make.wordpress.org/test/2023/06/12/xpost-test-team-update-12-june-2023/)
 - [FSE Program Rapid Revamp Summary](https://make.wordpress.org/test/2023/06/10/fse-program-rapid-revamp-summary/)
@@ -322,7 +323,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 29 May 2023](https://make.wordpress.org/test/2023/05/29/xpost-test-team-update-29-may-2023/)
 - [Test Chat Summary: 23 May 2023](https://make.wordpress.org/test/2023/05/23/test-chat-summary-23-may-2023/)
 - [X-post: Test Team Update: 22 May 2023](https://make.wordpress.org/test/2023/05/22/xpost-test-team-update-22-may-2023/)
-- [FSE Program Testing Call #23: Rapid Revamp](https://make.wordpress.org/test/2023/05/18/fse-program-testing-call-23-rapid-revamp/)
 <!-- TEST:END -->
 
 ## TV
