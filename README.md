@@ -340,6 +340,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WPPhotos Moderator Training](https://wordpress.tv/2023/06/19/wpphotos-moderator-training/)
+- [REST API de WordPress ¿Conoces sus ventajas?](https://wordpress.tv/2023/06/19/rest-api-de-wordpress-conoces-sus-ventajas/)
+- [Empezar con un WooCommerce Mínimo Viable](https://wordpress.tv/2023/06/19/empezar-con-un-woocommerce-minimo-viable/)
+- [Cómo crear un tema de bloques desde cero](https://wordpress.tv/2023/06/19/como-crear-un-tema-de-bloques-desde-cero/)
 - [The WordPress developer quiz](https://wordpress.tv/2023/06/19/the-wordpress-developer-quiz/)
 - [Using headings for Accessibility and SEO](https://wordpress.tv/2023/06/15/using-headings-for-accessibility-and-seo/)
 - [Hallway Hangout: Let’s chat about WordPress 6.3 and block theming](https://wordpress.tv/2023/06/15/hallway-hangout-lets-chat-about-wordpress-6-3-and-block-theming/)
@@ -361,10 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Managing a WordPress Multisite Network](https://wordpress.tv/2023/05/31/managing-a-wordpress-multisite-network/)
 - [The creative side of blocks, volume 4](https://wordpress.tv/2023/05/30/the-creative-side-of-blocks-volume-4/)
 - [Albert Nogala: Czy WordPress umiera?](https://wordpress.tv/2023/05/30/albert-nogala-czy-wordpress-umiera/)
-- [Oskar Sajdak: Sky is not the limit – WordPress w chmurze to początek](https://wordpress.tv/2023/05/30/oskar-sajdak-sky-is-not-the-limit-wordpress-w-chmurze-to-poczatek/)
-- [Adam Zielinski: WordPress bez serwera – poznaj WordPress Playground i nowy paradygmat aplikacji](https://wordpress.tv/2023/05/30/adam-zielinski-wordpress-bez-serwera-poznaj-wordpress-playground-i-nowy-paradygmat-aplikacji/)
-- [Dominik Charasim: Let’s chat GPT](https://wordpress.tv/2023/05/30/dominik-charasim-lets-chat-gpt/)
-- [Przemysław Hernik: Jak szacować, by nie zwariować?](https://wordpress.tv/2023/05/30/przemyslaw-hernik-jak-szacowac-by-nie-zwariowac/)
 <!-- WPTV:END -->
 
 ## Marketing
