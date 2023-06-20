@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for younitedpay-payment-gateway](https://make.wordpress.org/polyglots/2023/06/20/pte-request-for-younitedpay-payment-gateway/)
 - [PTE Request for 4 plugins](https://make.wordpress.org/polyglots/2023/06/20/pte-request-for-4-plugins/)
 - [PTE Request for Filter Everything — Product Filter &amp; WordPress Filter](https://make.wordpress.org/polyglots/2023/06/19/pte-request-for-filter-everything-product-filter-wordpress-filter/)
 - [Polish translation of the Essential Real Estate](https://make.wordpress.org/polyglots/2023/06/19/polish-translation-of-the-essential-real-estate/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for the Vietnamese Language](https://make.wordpress.org/polyglots/2023/06/18/gte-request-for-the-vietnamese-language/)
 - [PTE Request for Meta Projects](https://make.wordpress.org/polyglots/2023/06/18/pte-request-for-meta-projects/)
 - [Hi ployglots team,](https://make.wordpress.org/polyglots/2023/06/16/hi-ployglots-team/)
-- [CLPTE request](https://make.wordpress.org/polyglots/2023/06/16/clpte-request-11/)
 <!-- POLYGLOTS:END -->
 
 ## Support
