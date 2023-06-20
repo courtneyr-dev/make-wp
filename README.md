@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – June 19, 2023](https://make.wordpress.org/core/2023/06/20/a-week-in-core-june-19-2023/)
+- [Performance Chat Summary: 20 June 2023](https://make.wordpress.org/core/2023/06/20/performance-chat-summary-20-june-2023/)
 - [Proposal: Criteria for Removing “Beta Support” from Each PHP 8+ Version](https://make.wordpress.org/core/2023/06/20/proposal-criteria-for-removing-beta-support-from-each-php-8-version/)
 - [Performance Chat Agenda: 20 June 2023](https://make.wordpress.org/core/2023/06/20/performance-chat-agenda-20-june-2023/)
 - [Editor Chat Agenda: June 21st 2023](https://make.wordpress.org/core/2023/06/19/editor-chat-agenda-june-21st-2023/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in Gutenberg 16.0? &lpar;14 June&rpar;](https://make.wordpress.org/core/2023/06/14/whats-new-in-gutenberg-16-0-14-june/)
 - [A Week in Core – June 12, 2023](https://make.wordpress.org/core/2023/06/13/a-week-in-core-june-12-2023/)
 - [Dev Chat Agenda, June 14, 2023](https://make.wordpress.org/core/2023/06/13/dev-chat-agenda-june-14-2023/)
-- [Performance Chat Summary: 13 June 2023](https://make.wordpress.org/core/2023/06/13/performance-chat-summary-13-june-2023/)
-- [Performance Chat Agenda: 13 June 2023](https://make.wordpress.org/core/2023/06/13/performance-chat-agenda-13-june-2023/)
 <!-- CORE:END -->
 
 ## Design
