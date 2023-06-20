@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to translate content for Learn.WordPress.org](https://wordpress.tv/2023/06/20/how-to-translate-content-for-learn-wordpress-org/)
 - [Using the block editor: Tips and shortcuts for efficiency](https://wordpress.tv/2023/06/19/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
 - [WPPhotos Moderator Training](https://wordpress.tv/2023/06/19/wpphotos-moderator-training/)
 - [REST API de WordPress ¿Conoces sus ventajas?](https://wordpress.tv/2023/06/19/rest-api-de-wordpress-conoces-sus-ventajas/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to switch from a classic to a block theme](https://wordpress.tv/2023/06/01/how-to-switch-from-a-classic-to-a-block-theme/)
 - [How to Make A Staging Site In WordPress](https://wordpress.tv/2023/05/31/how-to-make-a-staging-site-in-wordpress/)
 - [Managing a WordPress Multisite Network](https://wordpress.tv/2023/05/31/managing-a-wordpress-multisite-network/)
-- [The creative side of blocks, volume 4](https://wordpress.tv/2023/05/30/the-creative-side-of-blocks-volume-4/)
 <!-- WPTV:END -->
 
 ## Marketing
