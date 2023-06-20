@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using the block editor: Tips and shortcuts for efficiency](https://learn.wordpress.org/tutorial/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
 - [How to use headings for accessibility and SEO](https://learn.wordpress.org/tutorial/using-headings-for-accessibility-and-seo/)
 - [Advanced Multisite Management](https://learn.wordpress.org/tutorial/advanced-multisite-management/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Perbedaan Antara Blok yang Dapat Dipakai Ulang, Pola Blok, Template, dan Komponen Template](https://learn.wordpress.org/tutorial/id-the-difference-between-reusable-blocks-block-patterns-templates-amp-template-parts/)
 - [Extending WordPress: common security vulnerabilities](https://learn.wordpress.org/tutorial/extending-wordpress-common-security-vulnerabilities/)
 - [Using Block Patterns](https://learn.wordpress.org/tutorial/using-block-patterns/)
-- [Add media and Openverse images to your content directly from the Inserter](https://learn.wordpress.org/tutorial/add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
