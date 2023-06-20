@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the block editor: Tips and shortcuts for efficiency](https://wordpress.tv/2023/06/19/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
 - [WPPhotos Moderator Training](https://wordpress.tv/2023/06/19/wpphotos-moderator-training/)
 - [REST API de WordPress ¿Conoces sus ventajas?](https://wordpress.tv/2023/06/19/rest-api-de-wordpress-conoces-sus-ventajas/)
 - [Empezar con un WooCommerce Mínimo Viable](https://wordpress.tv/2023/06/19/empezar-con-un-woocommerce-minimo-viable/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Make A Staging Site In WordPress](https://wordpress.tv/2023/05/31/how-to-make-a-staging-site-in-wordpress/)
 - [Managing a WordPress Multisite Network](https://wordpress.tv/2023/05/31/managing-a-wordpress-multisite-network/)
 - [The creative side of blocks, volume 4](https://wordpress.tv/2023/05/30/the-creative-side-of-blocks-volume-4/)
-- [Albert Nogala: Czy WordPress umiera?](https://wordpress.tv/2023/05/30/albert-nogala-czy-wordpress-umiera/)
 <!-- WPTV:END -->
 
 ## Marketing
