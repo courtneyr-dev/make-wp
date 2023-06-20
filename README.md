@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Make Team Dashboards](https://make.wordpress.org/meta/2023/06/20/make-team-dashboards/)
 - [Triaging open issues on Trac for Make Teams](https://make.wordpress.org/meta/2023/06/15/triaging-open-issues-on-trac-for-make-teams/)
 - [New Filter Controls: Discover “Commercial” and “Community” in the Theme and Plugin Directory](https://make.wordpress.org/meta/2023/06/13/new-filter-controls-discover-commercial-and-community-in-the-theme-and-plugin-directory/)
 - [Linking to Supporting Orgs](https://make.wordpress.org/meta/2023/06/11/linking-to-supporting-orgs/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Biweekly Matrix Chat – Thu, June 1, 2023 &lpar;10AM UTC&rpar;](https://make.wordpress.org/meta/2023/05/31/agenda-biweekly-matrix-chat-thu-june-1-2023-10am-utc/)
 - [Two-Factor Auth available to test on WordPress.org](https://make.wordpress.org/meta/2023/05/31/two-factor-auth-available-to-test-on-wordpress-org/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/meta/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
-- [X-post: Proposal: Handbook for Local Teams](https://make.wordpress.org/meta/2023/05/15/xpost-proposal-handbook-for-local-teams/)
 <!-- META:END -->
 
 ## Training
