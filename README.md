@@ -467,6 +467,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [X-post: Make Team Dashboards](https://make.wordpress.org/project/2023/06/20/xpost-make-team-dashboards/)
 - [Proposal: establishment of a formal WordPress Sustainability Team](https://make.wordpress.org/project/2023/05/30/proposal-establishment-of-a-formal-wordpress-sustainability-team/)
 - [WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/project/2023/05/17/wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Revitalizing the Showcase](https://make.wordpress.org/project/2023/04/19/showcase-content-moderation/)
@@ -476,7 +477,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/project/2023/02/06/proposal-creating-a-wordpress-contributor-mentorship-program/)
 - [Discussion: Ending the Eternal September](https://make.wordpress.org/project/2023/01/27/discussion-ending-the-eternal-september/)
 - [Big Picture Goals 2023](https://make.wordpress.org/project/2023/01/18/big-picture-goals-2023/)
-- [2022 State of the Word Q&amp;A](https://make.wordpress.org/project/2023/01/13/sotw22qa/)
 <!-- PROJECT:END -->
 
 ## Systems
