@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Agenda for June 22nd Support Meeting](https://make.wordpress.org/support/2023/06/agenda-for-june-22nd-support-meeting-2/)
 - [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/support/2023/06/xpost-triaging-open-issues-on-trac-for-make-teams/)
 - [Summary for June 1st Support Team Meeting](https://make.wordpress.org/support/2023/06/summary-for-june-1st-support-team-meeting/)
 - [Agenda for June 1st Support Meeting](https://make.wordpress.org/support/2023/06/agenda-for-june-1st-support-meeting-2/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: Retiring Older Default Themes](https://make.wordpress.org/support/2023/05/xpost-proposal-retiring-older-default-themes/)
 - [Agenda for May 11th Support Meeting](https://make.wordpress.org/support/2023/05/agenda-for-may-11th-support-meeting-2/)
 - [Support ticket triage session – May 4th, 2023 at 08:00 UTC](https://make.wordpress.org/support/2023/05/support-ticket-triage-session-may-4th-2023-at-0800-utc/)
-- [X-post: What’s new on Learn WordPress in April 2023](https://make.wordpress.org/support/2023/05/xpost-whats-new-on-learn-wordpress-in-april-2023/)
 <!-- SUPPORT:END -->
 
 ## Documentation
