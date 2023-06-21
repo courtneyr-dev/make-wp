@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WCEU 2023 Community Table Recap](https://make.wordpress.org/community/2023/06/21/wceu-2023-community-table-recap/)
 - [Next Generation of WordPress Events: Updates](https://make.wordpress.org/community/2023/06/19/next-generation-of-wordpress-events-updates/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on June 15, 2023](https://make.wordpress.org/community/2023/06/17/recap-of-the-contributor-working-groups-mentorship-chat-on-june-15-2023/)
 - [Celebrating the Completion of the Meetup Reactivation Project](https://make.wordpress.org/community/2023/06/16/celebrating-the-completion-of-the-meetup-reactivation-project/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Training #10: Understanding GPL Compliance for WordCamp and Meetup](https://make.wordpress.org/community/2023/06/12/community-team-training-10-understanding-gpl-compliance-for-wordcamp-and-meetup/)
 - [Feature idea: Speaker profile block](https://make.wordpress.org/community/2023/06/08/feature-idea-speaker-profile-block/)
 - [Updates to the Community Team Mentor Program](https://make.wordpress.org/community/2023/06/06/updates-to-the-community-team-mentor-program/)
-- [What happens when a WordCamp doesn’t provide a transparency report](https://make.wordpress.org/community/2023/06/06/what-happens-when-a-wordcamp-doesnt-provide-a-transparency-report/)
 <!-- COMMUNITY:END -->
 
 ## Meta
