@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: June 2023](https://make.wordpress.org/community/2023/06/21/meetup-organizer-newsletter-june-2023/)
 - [WCEU 2023 Community Table Recap](https://make.wordpress.org/community/2023/06/21/wceu-2023-community-table-recap/)
 - [Next Generation of WordPress Events: Updates](https://make.wordpress.org/community/2023/06/19/next-generation-of-wordpress-events-updates/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on June 15, 2023](https://make.wordpress.org/community/2023/06/17/recap-of-the-contributor-working-groups-mentorship-chat-on-june-15-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contributor Working Group: Mentorship Chat Agenda | June 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/06/14/contributor-working-group-mentorship-chat-agenda-june-15th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Community Team Training #10: Understanding GPL Compliance for WordCamp and Meetup](https://make.wordpress.org/community/2023/06/12/community-team-training-10-understanding-gpl-compliance-for-wordcamp-and-meetup/)
 - [Feature idea: Speaker profile block](https://make.wordpress.org/community/2023/06/08/feature-idea-speaker-profile-block/)
-- [Updates to the Community Team Mentor Program](https://make.wordpress.org/community/2023/06/06/updates-to-the-community-team-mentor-program/)
 <!-- COMMUNITY:END -->
 
 ## Meta
