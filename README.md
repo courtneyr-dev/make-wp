@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [CBD CALCULATOR]](https://make.wordpress.org/polyglots/2023/06/22/pte-request-for-cbd-calculator/)
+- [Hello, can you approve French and German…](https://make.wordpress.org/polyglots/2023/06/22/hello-can-you-approve-french-and-german/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/06/21/hello-76/)
 - [Improvements to the Translation Review Assistance from ChatGPT Experiment](https://make.wordpress.org/polyglots/2023/06/21/improvements-to-the-translation-review-assistance-from-chatgpt-experiment/)
 - [CLPTE request for SeedProd project](https://make.wordpress.org/polyglots/2023/06/21/clpte-request-for-seedprod-project/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for younitedpay-payment-gateway](https://make.wordpress.org/polyglots/2023/06/20/pte-request-for-younitedpay-payment-gateway/)
 - [PTE Request for 4 plugins](https://make.wordpress.org/polyglots/2023/06/20/pte-request-for-4-plugins/)
 - [PTE Request for Filter Everything — Product Filter &amp; WordPress Filter](https://make.wordpress.org/polyglots/2023/06/19/pte-request-for-filter-everything-product-filter-wordpress-filter/)
-- [Polish translation of the Essential Real Estate](https://make.wordpress.org/polyglots/2023/06/19/polish-translation-of-the-essential-real-estate/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/06/19/hi-dear-mentors-we-have-118/)
 <!-- POLYGLOTS:END -->
 
 ## Support
