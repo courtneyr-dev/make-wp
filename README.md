@@ -340,6 +340,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Create a four page WordPress website: Explore Plugins + Contact Forms](https://wordpress.tv/2023/06/22/create-a-four-page-wordpress-website-explore-plugins-contact-forms/)
 - [WordPress and the IndieWeb](https://wordpress.tv/2023/06/22/wordpress-and-the-indieweb/)
 - [Gestaltungsprinzipien für eine Webseite](https://wordpress.tv/2023/06/21/gestaltungsprinzipien-fuer-eine-webseite/)
 - [How to translate content for Learn.WordPress.org](https://wordpress.tv/2023/06/20/how-to-translate-content-for-learn-wordpress-org/)
@@ -364,7 +365,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Page Templates](https://wordpress.tv/2023/06/06/using-page-templates-2/)
 - [Create a four page WordPress website: Create effective pages](https://wordpress.tv/2023/06/06/create-a-four-page-wordpress-website-create-effective-pages/)
 - [WordPress Coding Standards](https://wordpress.tv/2023/06/02/wordpress-coding-standards/)
-- [How to switch from a classic to a block theme](https://wordpress.tv/2023/06/01/how-to-switch-from-a-classic-to-a-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
