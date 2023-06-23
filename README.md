@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/training/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Training Team Meeting Recap – 20th June 2023](https://make.wordpress.org/training/2023/06/22/training-team-meeting-recap-20th-june-2023/)
 - [Proposal: New Contributor Guide Program](https://make.wordpress.org/training/2023/06/20/proposal-new-contributor-guide-program/)
 - [Training Team Meeting Recap – 13th June 2023](https://make.wordpress.org/training/2023/06/19/training-team-meeting-recap-13th-june-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Europe Contributor Day 2023 Recap](https://make.wordpress.org/training/2023/06/08/wordcamp-europe-contributor-day-2023/)
 - [Information Sources for 6.3](https://make.wordpress.org/training/2023/06/07/information-sources-for-6-3/)
 - [Training Team Meeting Recap – 30 May, 2023](https://make.wordpress.org/training/2023/06/05/training-team-meeting-recap-30-may-2023/)
-- [Come join the Training Team as a Translation Coordinator &lpar;Faculty role&rpar;](https://make.wordpress.org/training/2023/06/05/come-join-the-training-team-as-a-translation-coordinator-faculty-role/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
