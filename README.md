@@ -468,6 +468,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/project/2023/06/23/launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [X-post: Make Team Dashboards](https://make.wordpress.org/project/2023/06/20/xpost-make-team-dashboards/)
 - [Proposal: establishment of a formal WordPress Sustainability Team](https://make.wordpress.org/project/2023/05/30/proposal-establishment-of-a-formal-wordpress-sustainability-team/)
 - [WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/project/2023/05/17/wordpress-contributor-mentorship-program-pilot-program-proposal/)
@@ -477,7 +478,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/project/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [Proposal: Creating a WordPress Contributor Mentorship Program](https://make.wordpress.org/project/2023/02/06/proposal-creating-a-wordpress-contributor-mentorship-program/)
 - [Discussion: Ending the Eternal September](https://make.wordpress.org/project/2023/01/27/discussion-ending-the-eternal-september/)
-- [Big Picture Goals 2023](https://make.wordpress.org/project/2023/01/18/big-picture-goals-2023/)
 <!-- PROJECT:END -->
 
 ## Systems
