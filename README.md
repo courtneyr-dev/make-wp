@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Dear WordPress Polygot Team,](https://make.wordpress.org/polyglots/2023/06/23/dear-wordpress-polygot-team/)
+- [PTE Request for several Woocommerce Plugin](https://make.wordpress.org/polyglots/2023/06/23/pte-request-for-several-woocommerce-plugin/)
 - [PTE Request for [CBD CALCULATOR]](https://make.wordpress.org/polyglots/2023/06/22/pte-request-for-cbd-calculator/)
 - [Hello, can you approve French and German…](https://make.wordpress.org/polyglots/2023/06/22/hello-can-you-approve-french-and-german/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/06/21/hello-76/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – June 21, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/21/agenda-weekly-polyglots-chat-june-21-2023-1300-utc/)
 - [TE Request for commonsbooking](https://make.wordpress.org/polyglots/2023/06/20/te-request-for-commonsbooking/)
 - [PTE Request for younitedpay-payment-gateway](https://make.wordpress.org/polyglots/2023/06/20/pte-request-for-younitedpay-payment-gateway/)
-- [PTE Request for 4 plugins](https://make.wordpress.org/polyglots/2023/06/20/pte-request-for-4-plugins/)
-- [PTE Request for Filter Everything — Product Filter &amp; WordPress Filter](https://make.wordpress.org/polyglots/2023/06/19/pte-request-for-filter-everything-product-filter-wordpress-filter/)
 <!-- POLYGLOTS:END -->
 
 ## Support
