@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Descubre el potencial de Figma &amp; Elementor](https://wordpress.tv/2023/06/23/descubre-el-potencial-de-figma-elementor/)
 - [The WordPress Database](https://wordpress.tv/2023/06/23/the-wordpress-database/)
 - [アップデートと脆弱性](https://wordpress.tv/2023/06/23/%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%a8%e8%84%86%e5%bc%b1%e6%80%a7/)
 - [Create a four page WordPress website: Explore Plugins + Contact Forms](https://wordpress.tv/2023/06/22/create-a-four-page-wordpress-website-explore-plugins-contact-forms/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ChatGPT – приятел или враг на WordPress разработчика?](https://wordpress.tv/2023/06/08/chatgpt-%d0%bf%d1%80%d0%b8%d1%8f%d1%82%d0%b5%d0%bb-%d0%b8%d0%bb%d0%b8-%d0%b2%d1%80%d0%b0%d0%b3-%d0%bd%d0%b0-wordpress-%d1%80%d0%b0%d0%b7%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%87%d0%b8%d0%ba%d0%b0/)
 - [Брандът “Ти” – практически съвети за фрийлансъри и малки екипи](https://wordpress.tv/2023/06/08/%d0%b1%d1%80%d0%b0%d0%bd%d0%b4%d1%8a%d1%82-%d1%82%d0%b8-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d1%81%d1%8a%d0%b2%d0%b5%d1%82%d0%b8-%d0%b7%d0%b0-%d1%84/)
 - [Как да планираме изграждането на WordPress сайт, отговарящ на бизнес целите ни?](https://wordpress.tv/2023/06/08/%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bc%d0%b5-%d0%b8%d0%b7%d0%b3%d1%80%d0%b0%d0%b6%d0%b4%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-wordpress-%d1%81%d0%b0/)
-- [Using Page Templates](https://wordpress.tv/2023/06/06/using-page-templates-2/)
 <!-- WPTV:END -->
 
 ## Marketing
