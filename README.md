@@ -454,6 +454,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/updates/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Themes team update June 20, 2023](https://make.wordpress.org/updates/2023/06/20/themes-team-update-june-20-2023/)
 - [Test Team Update: 19 June 2023](https://make.wordpress.org/updates/2023/06/19/test-team-update-19-june-2023/)
 - [Documentation Team Update – June 19, 2023](https://make.wordpress.org/updates/2023/06/19/documentation-team-update-june-19-2023/)
@@ -463,7 +464,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team update June 6, 2023](https://make.wordpress.org/updates/2023/06/06/themes-team-update-june-6-2023/)
 - [Test Team Update: 5 June 2023](https://make.wordpress.org/updates/2023/06/05/test-team-update-5-june-2023/)
 - [Support Team Meeting Updates for June 1st](https://make.wordpress.org/updates/2023/06/02/support-team-meeting-updates-for-june-1st-2/)
-- [What’s new on Learn WordPress in May 2023](https://make.wordpress.org/updates/2023/06/02/whats-new-on-learn-wordpress-in-may-2023/)
 <!-- UPDATES:END -->
 
 ## Project
