@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day June 27, 2023](https://make.wordpress.org/docs/2023/06/23/online-monthly-docs-team-contributor-day-june-27-2023/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/docs/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Summary for Docs Team meeting, June 20, 2023](https://make.wordpress.org/docs/2023/06/23/summary-for-docs-team-meeting-june-20-2023/)
 - [Agenda for Docs Team bi-weekly meeting June 20, 2023](https://make.wordpress.org/docs/2023/06/19/agenda-for-docs-team-bi-weekly-meeting-june-20-2023/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for Docs Team bi-weekly meeting May 16, 2023](https://make.wordpress.org/docs/2023/05/16/agenda-for-docs-team-bi-weekly-meeting-may-16-2023/)
 - [Summary for Docs Team meeting, May 2, 2023](https://make.wordpress.org/docs/2023/05/16/summary-for-docs-team-meeting-may-2-2023/)
 - [Proposal: Handbook for Local Teams](https://make.wordpress.org/docs/2023/05/15/proposal-handbook-for-local-teams/)
-- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/docs/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 <!-- DOCS:END -->
 
 ### Support Articles
