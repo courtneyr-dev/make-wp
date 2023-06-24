@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE Request for Cookiebot CMP by Usercentrics](https://make.wordpress.org/polyglots/2023/06/24/clpte-request-for-cookiebot-cmp-by-usercentrics/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/polyglots/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Dear WordPress Polygot Team,](https://make.wordpress.org/polyglots/2023/06/23/dear-wordpress-polygot-team/)
 - [PTE Request for several Woocommerce Plugin](https://make.wordpress.org/polyglots/2023/06/23/pte-request-for-several-woocommerce-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improvements to the Translation Review Assistance from ChatGPT Experiment](https://make.wordpress.org/polyglots/2023/06/21/improvements-to-the-translation-review-assistance-from-chatgpt-experiment/)
 - [CLPTE request for SeedProd project](https://make.wordpress.org/polyglots/2023/06/21/clpte-request-for-seedprod-project/)
 - [Agenda: Weekly Polyglots Chat – June 21, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/21/agenda-weekly-polyglots-chat-june-21-2023-1300-utc/)
-- [TE Request for commonsbooking](https://make.wordpress.org/polyglots/2023/06/20/te-request-for-commonsbooking/)
 <!-- POLYGLOTS:END -->
 
 ## Support
