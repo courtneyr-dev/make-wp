@@ -232,6 +232,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the block editor: Tips and shortcuts for efficiency](https://learn.wordpress.org/tutorial/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
 - [How to use headings for accessibility and SEO](https://learn.wordpress.org/tutorial/using-headings-for-accessibility-and-seo/)
 - [Advanced Multisite Management](https://learn.wordpress.org/tutorial/advanced-multisite-management/)
+- [Différences entre blocs réutilisables, compositions de blocs, modèles et éléments de modèle](https://learn.wordpress.org/tutorial/fr-the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [How to switch from a classic to a block theme](https://learn.wordpress.org/tutorial/how-to-switch-from-a-classic-to-a-block-theme/)
 - [Managing a WordPress Multisite Network](https://learn.wordpress.org/tutorial/managing-a-wordpress-multisite-network/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Template Parts](https://learn.wordpress.org/tutorial/using-template-parts/)
 - [Adding a sticky header or banner](https://learn.wordpress.org/tutorial/adding-a-sticky-header-or-banner/)
 - [Perbedaan Antara Blok yang Dapat Dipakai Ulang, Pola Blok, Template, dan Komponen Template](https://learn.wordpress.org/tutorial/id-the-difference-between-reusable-blocks-block-patterns-templates-amp-template-parts/)
-- [Extending WordPress: common security vulnerabilities](https://learn.wordpress.org/tutorial/extending-wordpress-common-security-vulnerabilities/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
