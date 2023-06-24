@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WP Feature Notifications: Request for Feedback on Admin Notices](https://make.wordpress.org/core/2023/06/24/wp-feature-notifications-request-for-feedback-on-admin-notices/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/core/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Editor chat summary: June 21st, 2023](https://make.wordpress.org/core/2023/06/22/editor-chat-summary-june-21st-2023/)
 - [WP Feature Notifications Meeting Notes: 2023-06-14](https://make.wordpress.org/core/2023/06/21/wp-feature-notifications-meeting-notes-2023-06-14/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Criteria for Removing “Beta Support” from Each PHP 8+ Version](https://make.wordpress.org/core/2023/06/20/proposal-criteria-for-removing-beta-support-from-each-php-8-version/)
 - [Performance Chat Agenda: 20 June 2023](https://make.wordpress.org/core/2023/06/20/performance-chat-agenda-20-june-2023/)
 - [Editor Chat Agenda: June 21st 2023](https://make.wordpress.org/core/2023/06/19/editor-chat-agenda-june-21st-2023/)
-- [Editor Chat Summary: 14 June 2023](https://make.wordpress.org/core/2023/06/16/editor-chat-agenda-june-14-2023/)
 <!-- CORE:END -->
 
 ## Design
