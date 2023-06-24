@@ -510,6 +510,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Web Developers for Auto Safety – Cause Marketing Partners](https://jobs.wordpress.net/job/web-developers-for-auto-safety-cause-marketing-partners-2/)
 - [WordPress Plugins Support Manager](https://jobs.wordpress.net/job/wordpress-plugins-support-manager/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-804/)
 - [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-16/)
@@ -519,7 +520,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Junior Web Developer – Marketing](https://jobs.wordpress.net/job/junior-web-developer-marketing/)
 - [Digital Strategist](https://jobs.wordpress.net/job/digital-strategist/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-803/)
-- [Senior WordPress Software Engineer](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-2/)
 <!-- JOBS:END -->
 
 ## Central
