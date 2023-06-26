@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Zotpress](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-zotpress/)
+- [Hello, the plugin “wordfence” is…](https://make.wordpress.org/polyglots/2023/06/26/hello-the-plugin-wordfence-is/)
+- [PTE Request for WP-Strava](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wp-strava-2/)
 - [PTE Request for WMS with Pulpo WMS](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wms-with-pulpo-wms/)
 - [PTE Request for WooSwipe WooCommerce Gallery](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wooswipe-woocommerce-gallery/)
 - [PTE Request for Admin Tour](https://make.wordpress.org/polyglots/2023/06/25/pte-request-for-admin-tour/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/polyglots/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Dear WordPress Polygot Team,](https://make.wordpress.org/polyglots/2023/06/23/dear-wordpress-polygot-team/)
 - [PTE Request for several Woocommerce Plugin](https://make.wordpress.org/polyglots/2023/06/23/pte-request-for-several-woocommerce-plugin/)
-- [PTE Request for [CBD CALCULATOR]](https://make.wordpress.org/polyglots/2023/06/22/pte-request-for-cbd-calculator/)
-- [Hello, can you approve French and German…](https://make.wordpress.org/polyglots/2023/06/22/hello-can-you-approve-french-and-german/)
-- [Hello,](https://make.wordpress.org/polyglots/2023/06/21/hello-76/)
 <!-- POLYGLOTS:END -->
 
 ## Support
