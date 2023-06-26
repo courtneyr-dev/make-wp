@@ -510,6 +510,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Junior WordPress Developer](https://jobs.wordpress.net/job/junior-wordpress-developer-21/)
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-9/)
+- [Custom Code &lpar;Pore Clogger Checker&rpar;](https://jobs.wordpress.net/job/custom-code-pore-clogger-checker/)
 - [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-29/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-9/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-6/)
@@ -517,9 +520,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Developers for Auto Safety – Cause Marketing Partners](https://jobs.wordpress.net/job/web-developers-for-auto-safety-cause-marketing-partners-2/)
 - [WordPress Plugins Support Manager](https://jobs.wordpress.net/job/wordpress-plugins-support-manager/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-804/)
-- [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-16/)
-- [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer/)
-- [ASF – Driving Safety Marketing and Fundraising Partners](https://jobs.wordpress.net/job/asf-driving-safety-marketing-and-fundraising-partners/)
 <!-- JOBS:END -->
 
 ## Central
