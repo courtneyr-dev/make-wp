@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for June 27, 2023](https://make.wordpress.org/themes/2023/06/26/themes-team-meeting-agenda-for-june-27-2023/)
 - [X-post: Themes team update June 20, 2023](https://make.wordpress.org/themes/2023/06/20/xpost-themes-team-update-june-20-2023/)
 - [Summary: Let’s chat about WordPress 6.3 and block theming](https://make.wordpress.org/themes/2023/06/16/summary-lets-chat-about-wordpress-6-3-and-block-theming/)
 - [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/themes/2023/06/15/xpost-triaging-open-issues-on-trac-for-make-teams/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for June 13, 2023](https://make.wordpress.org/themes/2023/06/12/themes-team-meeting-agenda-for-june-13-2023/)
 - [X-post: New curation filter in Pattern Directory](https://make.wordpress.org/themes/2023/06/09/xpost-new-curation-filter-in-pattern-directory/)
 - [Hallway Hangout: Let’s chat about WordPress 6.3 and block theming](https://make.wordpress.org/themes/2023/06/08/hallway-hangout-lets-chat-about-wordpress-6-3-and-block-theming/)
-- [Themes team at WordCamp Europe 2023](https://make.wordpress.org/themes/2023/06/06/themes-team-at-wordcamp-europe-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
