@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WMS with Pulpo WMS](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wms-with-pulpo-wms/)
+- [PTE Request for WooSwipe WooCommerce Gallery](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wooswipe-woocommerce-gallery/)
 - [PTE Request for Admin Tour](https://make.wordpress.org/polyglots/2023/06/25/pte-request-for-admin-tour/)
 - [CLPTE Request for Cookiebot CMP by Usercentrics](https://make.wordpress.org/polyglots/2023/06/24/clpte-request-for-cookiebot-cmp-by-usercentrics/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/polyglots/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [CBD CALCULATOR]](https://make.wordpress.org/polyglots/2023/06/22/pte-request-for-cbd-calculator/)
 - [Hello, can you approve French and German…](https://make.wordpress.org/polyglots/2023/06/22/hello-can-you-approve-french-and-german/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/06/21/hello-76/)
-- [Improvements to the Translation Review Assistance from ChatGPT Experiment](https://make.wordpress.org/polyglots/2023/06/21/improvements-to-the-translation-review-assistance-from-chatgpt-experiment/)
-- [CLPTE request for SeedProd project](https://make.wordpress.org/polyglots/2023/06/21/clpte-request-for-seedprod-project/)
 <!-- POLYGLOTS:END -->
 
 ## Support
