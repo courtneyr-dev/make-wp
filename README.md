@@ -510,6 +510,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-29/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-9/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-6/)
 - [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-5/)
@@ -519,7 +520,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-16/)
 - [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer/)
 - [ASF – Driving Safety Marketing and Fundraising Partners](https://jobs.wordpress.net/job/asf-driving-safety-marketing-and-fundraising-partners/)
-- [WordPress Developer for Woocommerce Website](https://jobs.wordpress.net/job/wordpress-developer-for-woocommerce-website/)
 <!-- JOBS:END -->
 
 ## Central
