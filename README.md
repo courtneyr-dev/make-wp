@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/plugins/2023/06/26/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/plugins/2023/06/15/xpost-triaging-open-issues-on-trac-for-make-teams/)
 - [X-post: New Filter Controls: Discover “Commercial” and “Community” in the Theme and Plugin Directory](https://make.wordpress.org/plugins/2023/06/13/xpost-new-filter-controls-discover-commercial-and-community-in-the-theme-and-plugin-directory/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/plugins/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Advance Notice of Retirement](https://make.wordpress.org/plugins/2023/03/10/advance-notice-of-retirement/)
 - [X-post: Introduction to WordPress Development: A proposed learning path](https://make.wordpress.org/plugins/2023/03/08/xpost-introduction-to-wordpress-development-a-proposed-learning-path/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/plugins/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
-- [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/plugins/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
 <!-- PLUGINS:END -->
 
 ## Community
