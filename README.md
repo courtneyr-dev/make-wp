@@ -370,6 +370,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: Proposal: Let’s actively promote the Learn WordPress platform in Learn WordPress content](https://make.wordpress.org/marketing/2023/06/26/xpost-proposal-lets-actively-promote-the-learn-wordpress-platform-in-learn-wordpress-content/)
 - [X-post: Proposal: establishment of a formal WordPress Sustainability Team](https://make.wordpress.org/marketing/2023/05/31/xpost-proposal-establishment-of-a-formal-wordpress-sustainability-team/)
 - [Day 20: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/27/day-20-wp20-from-blogs-to-blocks/)
 - [Day 19: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/26/day-19-wp20-from-blogs-to-blocks/)
@@ -379,7 +380,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Day 15: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/22/day-15-wp20-from-blogs-to-blocks/)
 - [Day 14: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/21/day-14-wp20-from-blogs-to-blocks/)
 - [Day 13: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/20/day-13-wp20-from-blogs-to-blocks/)
-- [Day 12: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/19/day-12-wp20-from-blogs-to-blocks/)
 <!-- MARKETING:END -->
 
 ## CLI
