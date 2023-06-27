@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [How to start using WordPress Playground](https://learn.wordpress.org/tutorial/how-to-start-using-wordpress-playground/)
 - [WPPhotos Moderator Training](https://learn.wordpress.org/tutorial/wpphotos-moderator-training/)
 - [Using the block editor: Tips and shortcuts for efficiency](https://learn.wordpress.org/tutorial/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
 - [How to use headings for accessibility and SEO](https://learn.wordpress.org/tutorial/using-headings-for-accessibility-and-seo/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a custom template with the WordPress site editor](https://learn.wordpress.org/tutorial/creating-a-custom-template-with-the-wordpress-site-editor/)
 - [Using Template Parts](https://learn.wordpress.org/tutorial/using-template-parts/)
 - [Adding a sticky header or banner](https://learn.wordpress.org/tutorial/adding-a-sticky-header-or-banner/)
-- [Perbedaan Antara Blok yang Dapat Dipakai Ulang, Pola Blok, Template, dan Komponen Template](https://learn.wordpress.org/tutorial/id-the-difference-between-reusable-blocks-block-patterns-templates-amp-template-parts/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
