@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Flip Box Block](https://make.wordpress.org/polyglots/2023/06/27/pte-request-for-flip-box-block/)
 - [PTE Request for Zotpress](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-zotpress/)
 - [Hello, the plugin “wordfence” is…](https://make.wordpress.org/polyglots/2023/06/26/hello-the-plugin-wordfence-is/)
 - [PTE Request for WP-Strava](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wp-strava-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE Request for Cookiebot CMP by Usercentrics](https://make.wordpress.org/polyglots/2023/06/24/clpte-request-for-cookiebot-cmp-by-usercentrics/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/polyglots/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Dear WordPress Polygot Team,](https://make.wordpress.org/polyglots/2023/06/23/dear-wordpress-polygot-team/)
-- [PTE Request for several Woocommerce Plugin](https://make.wordpress.org/polyglots/2023/06/23/pte-request-for-several-woocommerce-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
