@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to start using WordPress Playground](https://wordpress.tv/2023/06/26/how-to-start-using-wordpress-playground/)
 - [Creating a culture of customer satisfaction: how it leads to word-of-mouth promotion](https://wordpress.tv/2023/06/24/creating-a-culture-of-customer-satisfaction-how-it-leads-to-word-of-mouth-promotion/)
 - [Descubre el potencial de Figma &amp; Elementor](https://wordpress.tv/2023/06/23/descubre-el-potencial-de-figma-elementor/)
 - [The WordPress Database](https://wordpress.tv/2023/06/23/the-wordpress-database/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Как да си изберем правилната WordPress тема в 3 стъпки](https://wordpress.tv/2023/06/08/%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d1%81%d0%b8-%d0%b8%d0%b7%d0%b1%d0%b5%d1%80%d0%b5%d0%bc-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%bd%d0%b0%d1%82%d0%b0-wordpress-%d1%82%d0%b5%d0%bc%d0%b0-%d0%b2-3-%d1%81/)
 - [Предимствата на създаването на custom WooCommerce теми!](https://wordpress.tv/2023/06/08/%d0%bf%d1%80%d0%b5%d0%b4%d0%b8%d0%bc%d1%81%d1%82%d0%b2%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-custom-woocommerce-%d1%82%d0%b5/)
 - [ChatGPT – приятел или враг на WordPress разработчика?](https://wordpress.tv/2023/06/08/chatgpt-%d0%bf%d1%80%d0%b8%d1%8f%d1%82%d0%b5%d0%bb-%d0%b8%d0%bb%d0%b8-%d0%b2%d1%80%d0%b0%d0%b3-%d0%bd%d0%b0-wordpress-%d1%80%d0%b0%d0%b7%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%87%d0%b8%d0%ba%d0%b0/)
-- [Брандът “Ти” – практически съвети за фрийлансъри и малки екипи](https://wordpress.tv/2023/06/08/%d0%b1%d1%80%d0%b0%d0%bd%d0%b4%d1%8a%d1%82-%d1%82%d0%b8-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d1%81%d1%8a%d0%b2%d0%b5%d1%82%d0%b8-%d0%b7%d0%b0-%d1%84/)
 <!-- WPTV:END -->
 
 ## Marketing
