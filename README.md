@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat agenda, June 28, 2023](https://make.wordpress.org/core/2023/06/27/dev-chat-agenda-june-28-2023/)
 - [WordPress 6.3 Beta 1 postponed](https://make.wordpress.org/core/2023/06/27/wordpress-6-3-beta-1-postponed/)
 - [Performance Chat Summary: 27 June 2023](https://make.wordpress.org/core/2023/06/27/performance-chat-summary-27-june-2023/)
 - [Performance Chat Agenda: 27 June 2023](https://make.wordpress.org/core/2023/06/27/performance-chat-agenda-27-june-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/core/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Editor chat summary: June 21st, 2023](https://make.wordpress.org/core/2023/06/22/editor-chat-summary-june-21st-2023/)
 - [WP Feature Notifications Meeting Notes: 2023-06-14](https://make.wordpress.org/core/2023/06/21/wp-feature-notifications-meeting-notes-2023-06-14/)
-- [Dev Chat agenda, June 21, 2023](https://make.wordpress.org/core/2023/06/21/dev-chat-agenda-june-21-2023/)
 <!-- CORE:END -->
 
 ## Design
