@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – June 28, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/28/agenda-weekly-polyglots-chat-june-28-2023-0700-utc/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/06/27/hi-dear-mentors-we-have-119/)
 - [PTE Request for Flip Box Block](https://make.wordpress.org/polyglots/2023/06/27/pte-request-for-flip-box-block/)
 - [PTE Request for Zotpress](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-zotpress/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WooSwipe WooCommerce Gallery](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wooswipe-woocommerce-gallery/)
 - [PTE Request for Admin Tour](https://make.wordpress.org/polyglots/2023/06/25/pte-request-for-admin-tour/)
 - [CLPTE Request for Cookiebot CMP by Usercentrics](https://make.wordpress.org/polyglots/2023/06/24/clpte-request-for-cookiebot-cmp-by-usercentrics/)
-- [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/polyglots/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 <!-- POLYGLOTS:END -->
 
 ## Support
