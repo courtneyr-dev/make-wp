@@ -544,19 +544,19 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### WordCamp
 <!-- WordCamp:START -->
 - [WordCamp Nairobi, Kenya](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-kenya-3/)
-- [WordCamp San José, Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-6/)
 - [WordCamp Verona](https://central.wordcamp.org/wordcamps/wordcamp-verona-4/)
 - [WordCamp Malaysia](https://central.wordcamp.org/wordcamps/wordcamp-malaysia/)
 - [WordCamp Kathmandu 2023](https://central.wordcamp.org/wordcamps/wordcamp-kathmandu-2023/)
 - [WordCamp Masaka 2023](https://central.wordcamp.org/wordcamps/wordcamp-masaka-2/)
 - [WordCamp Biarritz, France](https://central.wordcamp.org/wordcamps/wordcamp-biarritz-france/)
+- [WordCamp Asia 2024](https://central.wordcamp.org/wordcamps/wordcamp-asia-2024/)
 - [WordCamp Kampala](https://central.wordcamp.org/wordcamps/wordcamp-kampala-7/)
-- [WordCamp Netherlands](https://central.wordcamp.org/wordcamps/wordcamp-netherlands-3/)
 - [WordCamp Tokyo 2023](https://central.wordcamp.org/wordcamps/wordcamp-tokyo-2023/)
 - [WordCamp Pontevedra, Pontevedra, Spain](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-pontevedra-spain-2023/)
 - [WordCamp Denmark](https://central.wordcamp.org/wordcamps/wordcamp-denmark-4/)
 - [WordCamp Germany](https://central.wordcamp.org/wordcamps/wordcamp-germany/)
 - [WordCamp Leipzig, Germany](https://central.wordcamp.org/wordcamps/wordcamp-leipzig-germany-2023/)
+- [WordCamp Bengaluru, Karnataka, India](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-karnataka-india/)
 - [WordCamp Madrid](https://central.wordcamp.org/wordcamps/wordcamp-madrid-4/)
 <!-- WordCamp:END -->
 
