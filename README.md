@@ -562,6 +562,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## WordPress Foundation
 <!-- WPFoundation:START -->
+- [2023 Kim Parsell Memorial Scholarship Recipient: Yumi Nishioka &lpar;mimi&rpar;](https://wordpressfoundation.org/news/2023/2023-kim-parsell-memorial-scholarship-recipient-mimi/)
 - [Kim Parsell Memorial Scholarship for WordCamp US 2023](https://wordpressfoundation.org/news/2023/kim-parsell-memorial-scholarship-for-wordcamp-us-2023/)
 - [2022 Kim Parsell Memorial Scholarship Recipients: Margherita Pelonara, Simona Simionato, and Pooja Derashri](https://wordpressfoundation.org/news/2022/2022-kim-parsell-memorial-scholarship-recipients-margherita-pelonara-simona-simionato-and-pooja-derashri/)
 - [The Kim Parsell Memorial Scholarship Returns for WordCamp US 2022](https://wordpressfoundation.org/news/2022/the-kim-parsell-memorial-scholarship-returns-for-wordcamp-us-2022/)
@@ -571,5 +572,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Give Back to Open Source this Giving Tuesday](https://wordpressfoundation.org/news/2021/give-back-to-open-source-this-giving-tuesday/)
 - [The WordPress Foundation publishes its 2020 financials](https://wordpressfoundation.org/news/2021/the-wordpress-foundation-publishes-its-2020-financials/)
 - [Announcement: In-person do_action hackathons are back!](https://wordpressfoundation.org/news/2021/announcement-in-person-do_action-hackathons-are-back/)
-- [do_action Karnataka 2021: A report](https://wordpressfoundation.org/news/2021/do_action-karnataka-2021-a-report/)
 <!-- WPFoundation:END -->
