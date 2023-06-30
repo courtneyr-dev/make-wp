@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Exploring Editor Extensibility](https://wordpress.tv/2023/06/30/developer-hours-exploring-editor-extensibility/)
 - [Developing for multisite](https://wordpress.tv/2023/06/30/developing-for-multisite-2/)
 - [Custom tables in WordPress](https://wordpress.tv/2023/06/30/custom-tables-in-wordpress/)
 - [Exploring global styles and the stylebook &lpar;Site Editor&rpar;](https://wordpress.tv/2023/06/28/exploring-global-styles-and-the-stylebook-site-editor/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Advanced Multisite Management](https://wordpress.tv/2023/06/15/advanced-multisite-management/)
 - [Custom CSS in the Site-Editing era](https://wordpress.tv/2023/06/14/custom-css-in-the-site-editing-era/)
 - [Five for the Future: how someone can become a sponsored contributor, and how a company can sponsor a contributor](https://wordpress.tv/2023/06/13/five-for-the-future-how-can-someone-become-a-sponsored-contributor-and-how-a-company-can-donate-an/)
-- [Using the row and stack blocks](https://wordpress.tv/2023/06/12/using-the-row-and-stack-blocks/)
 <!-- WPTV:END -->
 
 ## Marketing
