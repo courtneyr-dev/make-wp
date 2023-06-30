@@ -524,6 +524,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [WordCamp Finland: back to Tampere with educational, insightful and thought-provoking talks](https://central.wordcamp.org/news/2023/06/wordcamp-finland-back-to-tampere-with-educational-insightful-and-thought-provoking-talks/)
 - [SiteGround joins the WordPress global community sponsorship program in 2023](https://central.wordcamp.org/news/2023/05/siteground-joins-the-wordpress-global-community-sponsorship-program-in-2023/)
 - [WordCamp Jinja 2023: Empowering the Future Generation of WordPress Users in Africa](https://central.wordcamp.org/news/2023/04/wordcamp-jinja-2023-empowering-the-future-generation-of-wordpress-users-in-africa/)
 - [WordCamp Buffalo 2023](https://central.wordcamp.org/news/2023/03/wordcamp-buffalo-2023/)
@@ -538,7 +539,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The First In-Person WordCamp in India is Looking for Speakers!](https://central.wordcamp.org/news/2022/09/the-first-in-person-wordcamp-in-india-is-looking-for-speakers/)
 - [WordCamp Jinja: Diverse Speaker Sessions, Web Design Hackathon, Teachers Workshop and Fun at the Nile Source!](https://central.wordcamp.org/news/2022/07/wordcamp-jinja-diverse-speaker-sessions-web-design-hackathon-teachers-workshop-and-fun-at-the-nile-source/)
 - [WordCamp Europe 2022 is just around the corner](https://central.wordcamp.org/news/2022/05/wordcamp-europe-2022-is-just-around-the-corner/)
-- [Join the European WordPress Community in Porto, Portugal!](https://central.wordcamp.org/news/2022/05/join-the-european-wordpress-community-in-porto-portugal/)
 <!-- Central:END -->
 
 ### WordCamp
