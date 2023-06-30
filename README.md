@@ -510,6 +510,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Customize a theme so its appeance is simailar to existing site.](https://jobs.wordpress.net/job/customize-a-theme-so-its-appeance-is-simailar-to-existing-site/)
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-7/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-10/)
 - [[rtCamp] Lead React Engineer](https://jobs.wordpress.net/job/rtcamp-lead-react-engineer-2/)
 - [[rtCamp] Lead WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-lead-wordpress-engineer/)
 - [Full-Time WP Developer](https://jobs.wordpress.net/job/full-time-wp-developer-4/)
@@ -517,9 +520,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-30/)
 - [Junior WordPress Developer](https://jobs.wordpress.net/job/junior-wordpress-developer-21/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-9/)
-- [Custom Code &lpar;Pore Clogger Checker&rpar;](https://jobs.wordpress.net/job/custom-code-pore-clogger-checker/)
-- [Full-Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-29/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-9/)
 <!-- JOBS:END -->
 
 ## Central
