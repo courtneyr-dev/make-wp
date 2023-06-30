@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [6.3 Release Parties Schedule and hosts](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)
 - [Hallway Hangout: Performance Improvements for WordPress 6.3](https://make.wordpress.org/core/2023/06/29/hallway-hangout-performance-improvements-for-wordpress-6-3/)
 - [What’s new in Gutenberg 16.1? &lpar;29 June&rpar;](https://make.wordpress.org/core/2023/06/29/whats-new-in-gutenberg-16-1-29-june/)
 - [Dev Chat agenda, June 28, 2023](https://make.wordpress.org/core/2023/06/27/dev-chat-agenda-june-28-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 27 June 2023](https://make.wordpress.org/core/2023/06/27/performance-chat-agenda-27-june-2023/)
 - [A Week in Core – June 26, 2023](https://make.wordpress.org/core/2023/06/27/a-week-in-core-june-26-2023/)
 - [Editor Chat Agenda: June 28th, 2023](https://make.wordpress.org/core/2023/06/26/editor-chat-agenda-june-28th-2023/)
-- [WP Feature Notifications: Request for Feedback on Admin Notices](https://make.wordpress.org/core/2023/06/24/wp-feature-notifications-request-for-feedback-on-admin-notices/)
 <!-- CORE:END -->
 
 ## Design
