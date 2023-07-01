@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [キャッシュについて知ろう！ ~ WordPress サイトの Cache 設定 ~](https://wordpress.tv/2023/06/30/%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e7%9f%a5%e3%82%8d%e3%81%86%ef%bc%81-wordpress-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae-cache-%e8%a8%ad%e5%ae%9a/)
 - [Developer Hours: Exploring Editor Extensibility](https://wordpress.tv/2023/06/30/developer-hours-exploring-editor-extensibility/)
 - [Developing for multisite](https://wordpress.tv/2023/06/30/developing-for-multisite-2/)
 - [Custom tables in WordPress](https://wordpress.tv/2023/06/30/custom-tables-in-wordpress/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Let’s chat about WordPress 6.3 and block theming](https://wordpress.tv/2023/06/15/hallway-hangout-lets-chat-about-wordpress-6-3-and-block-theming/)
 - [Advanced Multisite Management](https://wordpress.tv/2023/06/15/advanced-multisite-management/)
 - [Custom CSS in the Site-Editing era](https://wordpress.tv/2023/06/14/custom-css-in-the-site-editing-era/)
-- [Five for the Future: how someone can become a sponsored contributor, and how a company can sponsor a contributor](https://wordpress.tv/2023/06/13/five-for-the-future-how-can-someone-become-a-sponsored-contributor-and-how-a-company-can-donate-an/)
 <!-- WPTV:END -->
 
 ## Marketing
