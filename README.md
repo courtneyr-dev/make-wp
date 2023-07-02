@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Qué es el equipo de traducciones y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-traducciones-y-como-colaborar-con-el/)
 - [Qué es el equipo de WordPressTV y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-wordpresstv-y-como-colaborar-con-el/)
 - [Presentación e introducción a la comunidad de WordPress](https://wordpress.tv/2023/07/02/presentacion-e-introduccion-a-la-comunidad-de-wordpress/)
 - [キャッシュについて知ろう！ ~ WordPress サイトの Cache 設定 ~](https://wordpress.tv/2023/06/30/%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e7%9f%a5%e3%82%8d%e3%81%86%ef%bc%81-wordpress-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae-cache-%e8%a8%ad%e5%ae%9a/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo crear un tema de bloques desde cero](https://wordpress.tv/2023/06/19/como-crear-un-tema-de-bloques-desde-cero/)
 - [The WordPress developer quiz](https://wordpress.tv/2023/06/19/the-wordpress-developer-quiz/)
 - [Using headings for Accessibility and SEO](https://wordpress.tv/2023/06/15/using-headings-for-accessibility-and-seo/)
-- [Hallway Hangout: Let’s chat about WordPress 6.3 and block theming](https://wordpress.tv/2023/06/15/hallway-hangout-lets-chat-about-wordpress-6-3-and-block-theming/)
 <!-- WPTV:END -->
 
 ## Marketing
