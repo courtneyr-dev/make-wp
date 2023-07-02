@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2023/07/02/ive-suggested-translations-for-this-30/)
 - [There are a few untranslated…](https://make.wordpress.org/polyglots/2023/06/30/there-are-a-few-untranslated/)
 - [PTE Request for HubSpot – CRM, Email Marketing, Live Chat, Forms &amp; Analytics](https://make.wordpress.org/polyglots/2023/06/30/pte-request-for-hubspot-crm-email-marketing-live-chat-forms-analytics/)
 - [Polyglots Monthly Newsletter: June 2023](https://make.wordpress.org/polyglots/2023/06/28/polyglots-monthly-newsletter-june-2023/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Zotpress](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-zotpress/)
 - [Hello, the plugin “wordfence” is…](https://make.wordpress.org/polyglots/2023/06/26/hello-the-plugin-wordfence-is/)
 - [PTE Request for WP-Strava](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wp-strava-2/)
-- [PTE Request for WMS with Pulpo WMS](https://make.wordpress.org/polyglots/2023/06/26/pte-request-for-wms-with-pulpo-wms/)
 <!-- POLYGLOTS:END -->
 
 ## Support
