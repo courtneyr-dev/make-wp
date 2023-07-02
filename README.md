@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Qué es el equipo de soporte y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-soporte-y-como-colaborar-con-el/)
 - [Qué es el equipo de traducciones y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-traducciones-y-como-colaborar-con-el/)
 - [Qué es el equipo de WordPressTV y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-wordpresstv-y-como-colaborar-con-el/)
 - [Presentación e introducción a la comunidad de WordPress](https://wordpress.tv/2023/07/02/presentacion-e-introduccion-a-la-comunidad-de-wordpress/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Empezar con un WooCommerce Mínimo Viable](https://wordpress.tv/2023/06/19/empezar-con-un-woocommerce-minimo-viable/)
 - [Cómo crear un tema de bloques desde cero](https://wordpress.tv/2023/06/19/como-crear-un-tema-de-bloques-desde-cero/)
 - [The WordPress developer quiz](https://wordpress.tv/2023/06/19/the-wordpress-developer-quiz/)
-- [Using headings for Accessibility and SEO](https://wordpress.tv/2023/06/15/using-headings-for-accessibility-and-seo/)
 <!-- WPTV:END -->
 
 ## Marketing
