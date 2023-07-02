@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Builder Basics: Goodbye Reusable Blocks—Hello Synced Patterns &lpar;and more&rpar;](https://learn.wordpress.org/?meeting=builder-basics-goodbye-reusable-blocks-hello-synced-patterns-and-more)
 - [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team-2)
 - [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team)
 - [Contributing to the WordPress Training Team](https://learn.wordpress.org/?meeting=contributing-to-the-wordpress-training-team)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring global styles and the stylebook &lpar;Site Editor&rpar;](https://learn.wordpress.org/?meeting=exploring-global-styles-and-the-stylebook-site-editor)
 - [The WordPress database](https://learn.wordpress.org/?meeting=the-wordpress-database)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-6)
-- [Create a four page WordPress website: Explore Plugins + Contact Forms](https://learn.wordpress.org/?meeting=create-a-four-page-wordpress-website-explore-plugins-contact-forms)
 <!-- SLS:END -->
 
 ## Test
