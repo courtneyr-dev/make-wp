@@ -285,6 +285,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Live stream: Using custom SlotFill to extend a codebase](https://learn.wordpress.org/?meeting=live-stream-using-custom-slotfill-to-extend-a-codebase)
+- [Live stream: Reviewing Gutenberg 16.2 features](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-16-2-features)
+- [Live stream: Exploring the existing SlotFills for extending Gutenberg](https://learn.wordpress.org/?meeting=live-stream-exploring-the-existing-slotfills-for-extending-gutenberg)
+- [Live stream: Reviewing Gutenberg Features 15.7 – 16.1](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-features-15-7-16-1)
 - [Builder Basics: Goodbye Reusable Blocks—Hello Synced Patterns &lpar;and more&rpar;](https://learn.wordpress.org/?meeting=builder-basics-goodbye-reusable-blocks-hello-synced-patterns-and-more)
 - [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team-2)
 - [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team)
@@ -306,10 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to set up a free WordPress test website &lpar;and explore code!&rpar;](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website-and-explore-code)
 - [Demystifying The Navigation Block](https://learn.wordpress.org/?meeting=demystifying-the-navigation-block)
 - [Organizing Diverse &amp; Inclusive WordPress Events](https://learn.wordpress.org/?meeting=organizing-diverse-inclusive-wordpress-events-wpdiversity)
-- [The 7 Habits of Highly Accessible Web Content](https://learn.wordpress.org/?meeting=the-7-habits-of-highly-accessible-web-content)
-- [Exploring global styles and the stylebook &lpar;Site Editor&rpar;](https://learn.wordpress.org/?meeting=exploring-global-styles-and-the-stylebook-site-editor)
-- [The WordPress database](https://learn.wordpress.org/?meeting=the-wordpress-database)
-- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-6)
 <!-- SLS:END -->
 
 ## Test
