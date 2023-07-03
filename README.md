@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Incident Report: Recent Cancelation of a WordCamp](https://make.wordpress.org/community/2023/07/03/incident-report-recent-cancelation-of-a-wordcamp/)
 - [WordCamp Mentors’ July check-in!](https://make.wordpress.org/community/2023/07/03/wordcamp-mentors-july-check-in/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 28, 2023](https://make.wordpress.org/community/2023/06/29/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-28-2023/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/community/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Next Generation of WordPress Events: Updates](https://make.wordpress.org/community/2023/06/19/next-generation-of-wordpress-events-updates/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on June 15, 2023](https://make.wordpress.org/community/2023/06/17/recap-of-the-contributor-working-groups-mentorship-chat-on-june-15-2023/)
 - [Celebrating the Completion of the Meetup Reactivation Project](https://make.wordpress.org/community/2023/06/16/celebrating-the-completion-of-the-meetup-reactivation-project/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 14, 2023](https://make.wordpress.org/community/2023/06/16/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-14-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
