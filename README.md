@@ -482,6 +482,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [MC Access for Naoko Takano](https://make.wordpress.org/systems/2023/07/03/mc-access-for-naoko-takano/)
 - [events.wordpress.org served by wordcamp.org](https://make.wordpress.org/systems/2023/06/15/events-wordpress-org-served-by-wordcamp-org/)
 - [Redirect *.forums.wordpress.org](https://make.wordpress.org/systems/2023/06/08/redirect-forums-wordpress-org/)
 - [I currently have a wp.org…](https://make.wordpress.org/systems/2023/06/07/i-currently-have-a-wp-org/)
@@ -491,7 +492,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [429s &lpar;rate limiting&rpar; from translate.wordpress.org export translation routes](https://make.wordpress.org/systems/2023/02/14/429s-rate-limiting-from-translate-wordpress-org-export-translation-routes/)
 - [Load-balancers on IP Abuse database](https://make.wordpress.org/systems/2023/02/13/load-balancers-on-ip-abuse-database/)
 - [Upgrade NodeJS/npm on the Build Server](https://make.wordpress.org/systems/2023/02/09/upgrade-nodejs-npm-on-the-build-server/)
-- [Update plugins.trac templates](https://make.wordpress.org/systems/2023/02/06/update-plugins-trac-templates/)
 <!-- SYSTEMS:END -->
 
 ## News
