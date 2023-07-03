@@ -496,6 +496,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.3 Beta 3](https://wordpress.org/news/2023/07/wordpress-6-3-beta-3/)
 - [WP Briefing: Episode 59: A Polyglot’s WordPress](https://wordpress.org/news/2023/07/episode-59-a-polyglots-wordpress/)
 - [People of WordPress: Allison Dye](https://wordpress.org/news/2023/06/people-of-wordpress-allison-dye/)
 - [WordPress 6.3 Beta 2](https://wordpress.org/news/2023/06/wordpress-6-3-beta-2/)
@@ -505,7 +506,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 57: The Power of WordPress Mentorship](https://wordpress.org/news/2023/06/episode-57-the-power-of-wordpress-mentorship/)
 - [People of WordPress: Stefano Cassone](https://wordpress.org/news/2023/05/people-of-wordpress-stefano-cassone/)
 - [Celebrating 20 Years of WordPress](https://wordpress.org/news/2023/05/celebrating-20-years-of-wordpress/)
-- [WP Briefing: Episode 56: What to Know About WordPress Playground](https://wordpress.org/news/2023/05/episode-56-what-to-know-about-wordpress-playground/)
 <!-- NEWS:END -->
 
 ## Jobs
