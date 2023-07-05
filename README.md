@@ -116,15 +116,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Developer Articles
 <!-- DEVHUB:START -->
 - [@wordpress/interactivity](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity/)
-- [maintenance](https://developer.wordpress.org/cli/commands/maintenance/)
-- [google-sitemap](https://developer.wordpress.org/cli/commands/google-sitemap/)
-- [doctor](https://developer.wordpress.org/cli/commands/doctor/)
-- [google-sitemap rebuild](https://developer.wordpress.org/cli/commands/google-sitemap/rebuild/)
-- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
 - [doctor list](https://developer.wordpress.org/cli/commands/doctor/list/)
-- [doctor check](https://developer.wordpress.org/cli/commands/doctor/check/)
 - [cache supports](https://developer.wordpress.org/cli/commands/cache/supports/)
-- [super-cache](https://developer.wordpress.org/cli/commands/super-cache/)
+- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
+- [google-sitemap](https://developer.wordpress.org/cli/commands/google-sitemap/)
+- [maintenance contrib-list](https://developer.wordpress.org/cli/commands/maintenance/contrib-list/)
+- [doctor](https://developer.wordpress.org/cli/commands/doctor/)
+- [maintenance](https://developer.wordpress.org/cli/commands/maintenance/)
+- [doctor check](https://developer.wordpress.org/cli/commands/doctor/check/)
+- [google-sitemap rebuild](https://developer.wordpress.org/cli/commands/google-sitemap/rebuild/)
 <!-- DEVHUB:END -->
 
 ## Themes
