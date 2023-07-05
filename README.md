@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello, i am the author…](https://make.wordpress.org/polyglots/2023/07/05/hello-i-am-the-author-4/)
 - [Hey Polyglots,](https://make.wordpress.org/polyglots/2023/07/03/hey-polyglots-9/)
 - [PTE Request for [Glossary]](https://make.wordpress.org/polyglots/2023/07/03/pte-request-for-glossary/)
 - [PTE Request for All-In-One Security…](https://make.wordpress.org/polyglots/2023/07/03/pte-request-for-all-in-one-security/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for HubSpot – CRM, Email Marketing, Live Chat, Forms &amp; Analytics](https://make.wordpress.org/polyglots/2023/06/30/pte-request-for-hubspot-crm-email-marketing-live-chat-forms-analytics/)
 - [Polyglots Monthly Newsletter: June 2023](https://make.wordpress.org/polyglots/2023/06/28/polyglots-monthly-newsletter-june-2023/)
 - [Agenda: Weekly Polyglots Chat – June 28, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/28/agenda-weekly-polyglots-chat-june-28-2023-0700-utc/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/06/27/hi-dear-mentors-we-have-119/)
 <!-- POLYGLOTS:END -->
 
 ## Support
