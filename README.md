@@ -157,6 +157,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 6 July, 2023](https://make.wordpress.org/community/2023/07/05/community-team-meeting-agenda-for-6-july-2023/)
+- [WCUS 2023 Contributor Day: Help Needed!](https://make.wordpress.org/community/2023/07/05/wcus-2023-contributor-day-help-needed/)
+- [WCUS 2023 Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/07/05/wcus-2023-contributor-day-what-should-we-work-on/)
 - [Incident Report: Recent Cancelation of a WordCamp](https://make.wordpress.org/community/2023/07/03/incident-report-recent-cancelation-of-a-wordcamp/)
 - [WordCamp Mentors’ July check-in!](https://make.wordpress.org/community/2023/07/03/wordcamp-mentors-july-check-in/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 28, 2023](https://make.wordpress.org/community/2023/06/29/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-28-2023/)
@@ -164,9 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Attention WordPress event organizers: This important workshop on July 20, 2023 is for you!](https://make.wordpress.org/community/2023/06/22/attention-wordpress-event-organizers-this-important-workshop-on-july-20-2023-is-for-you/)
 - [Meetup Organizer Newsletter: June 2023](https://make.wordpress.org/community/2023/06/21/meetup-organizer-newsletter-june-2023/)
 - [WCEU 2023 Community Table Recap](https://make.wordpress.org/community/2023/06/21/wceu-2023-community-table-recap/)
-- [Next Generation of WordPress Events: Updates](https://make.wordpress.org/community/2023/06/19/next-generation-of-wordpress-events-updates/)
-- [Recap of the Contributor Working Group’s Mentorship Chat on June 15, 2023](https://make.wordpress.org/community/2023/06/17/recap-of-the-contributor-working-groups-mentorship-chat-on-june-15-2023/)
-- [Celebrating the Completion of the Meetup Reactivation Project](https://make.wordpress.org/community/2023/06/16/celebrating-the-completion-of-the-meetup-reactivation-project/)
 <!-- COMMUNITY:END -->
 
 ## Meta
