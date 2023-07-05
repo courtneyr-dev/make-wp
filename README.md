@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hey Polyglots,](https://make.wordpress.org/polyglots/2023/07/05/hey-polyglots-10/)
+- [PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/07/05/pte-request-for-squad-modules-for-divi-builder/)
+- [Agenda: Weekly Polyglots Chat – July 5, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/05/agenda-weekly-polyglots-chat-july-5-2023-1300-utc/)
 - [Hello, i am the author…](https://make.wordpress.org/polyglots/2023/07/05/hello-i-am-the-author-4/)
 - [Hey Polyglots,](https://make.wordpress.org/polyglots/2023/07/03/hey-polyglots-9/)
 - [PTE Request for [Glossary]](https://make.wordpress.org/polyglots/2023/07/03/pte-request-for-glossary/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2023/07/03/hi-polyglots-109/)
 - [I’m Krupa Nanda, a translation…](https://make.wordpress.org/polyglots/2023/07/03/im-krupa-nanda-a-translation/)
 - [PTE Request for [this plugins]](https://make.wordpress.org/polyglots/2023/07/02/ive-suggested-translations-for-this-30/)
-- [PTE Request for HubSpot – CRM, Email Marketing, Live Chat, Forms &amp; Analytics](https://make.wordpress.org/polyglots/2023/06/30/pte-request-for-hubspot-crm-email-marketing-live-chat-forms-analytics/)
-- [Polyglots Monthly Newsletter: June 2023](https://make.wordpress.org/polyglots/2023/06/28/polyglots-monthly-newsletter-june-2023/)
-- [Agenda: Weekly Polyglots Chat – June 28, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/06/28/agenda-weekly-polyglots-chat-june-28-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
