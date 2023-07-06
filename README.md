@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP-CLI for PHP developers](https://learn.wordpress.org/?meeting=wp-cli-for-php-developers)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-3)
 - [Live stream: Using custom SlotFill to extend a codebase](https://learn.wordpress.org/?meeting=live-stream-using-custom-slotfill-to-extend-a-codebase)
 - [Live stream: Reviewing Gutenberg 16.2 features](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-16-2-features)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How can Chat GPT help WordPress developers and designers?](https://learn.wordpress.org/?meeting=how-can-chat-gpt-help-wordpress-developers-and-designers)
 - [How to set up a free WordPress test website &lpar;and explore code!&rpar;](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website-and-explore-code-2)
 - [How to set up a free WordPress test website &lpar;and explore code!&rpar;](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website-and-explore-code)
-- [Demystifying The Navigation Block](https://learn.wordpress.org/?meeting=demystifying-the-navigation-block)
 <!-- SLS:END -->
 
 ## Test
