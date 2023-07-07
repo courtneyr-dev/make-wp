@@ -543,7 +543,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
-- [WordCamp Nairobi, Kenya](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-kenya-3/)
+- [WordCamp Rochester, NY](https://central.wordcamp.org/wordcamps/wordcamp-rochester-ny/)
 - [WordCamp Verona](https://central.wordcamp.org/wordcamps/wordcamp-verona-4/)
 - [WordCamp Malaysia](https://central.wordcamp.org/wordcamps/wordcamp-malaysia/)
 - [WordCamp Kathmandu 2023](https://central.wordcamp.org/wordcamps/wordcamp-kathmandu-2023/)
