@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Debugging in WordPress](https://learn.wordpress.org/tutorial/debugging-in-wordpress/)
 - [Designing with row and stack blocks](https://learn.wordpress.org/tutorial/designing-with-row-and-stack-blocks/)
 - [Developing for Multisite](https://learn.wordpress.org/tutorial/developing-for-multisite/)
 - [How to start using WordPress Playground](https://learn.wordpress.org/tutorial/how-to-start-using-wordpress-playground/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Custom post types and capabilities](https://learn.wordpress.org/tutorial/custom-post-types-and-capabilities/)
 - [વર્ડપ્રેસ ડેશબોર્ડને જાણવું](https://learn.wordpress.org/tutorial/gu-getting-to-know-the-wordpress-dashboard/)
 - [Developing with user roles and capabilities](https://learn.wordpress.org/tutorial/developing-with-user-roles-and-capabilities/)
-- [Creating a custom template with the WordPress site editor](https://learn.wordpress.org/tutorial/creating-a-custom-template-with-the-wordpress-site-editor/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
