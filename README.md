@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Media Library](https://make.wordpress.org/core/2023/07/07/media-library/)
 - [Dev Chat Summary: July 5, 2023](https://make.wordpress.org/core/2023/07/05/dev-chat-summary-july-5-2023/)
 - [Dropping support for PHP 5](https://make.wordpress.org/core/2023/07/05/dropping-support-for-php-5/)
 - [Editor chat summary: July 5th, 2023](https://make.wordpress.org/core/2023/07/05/editor-chat-summary-july-5th-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 4 July 2023](https://make.wordpress.org/core/2023/07/04/performance-chat-agenda-04-july-2023/)
 - [Workflows](https://make.wordpress.org/core/2023/07/04/workflows/)
 - [Editor Chat Agenda: July 5th, 2023](https://make.wordpress.org/core/2023/07/04/editor-chat-agenda-july-5th-2023/)
-- [Real-Time Collaboration](https://make.wordpress.org/core/2023/07/03/real-time-collaboration/)
 <!-- CORE:END -->
 
 ## Design
