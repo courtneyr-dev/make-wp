@@ -524,6 +524,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [WordCamp Rochester is Back!](https://central.wordcamp.org/news/2023/07/wordcamp-rochester-is-back/)
 - [WordCamp San José 2023: Looking For Speakers And Sponsors!](https://central.wordcamp.org/news/2023/07/wordcamp-san-jose-2023-looking-for-speakers-and-sponsors/)
 - [WordCamp Finland: back to Tampere with educational, insightful and thought-provoking talks](https://central.wordcamp.org/news/2023/06/wordcamp-finland-back-to-tampere-with-educational-insightful-and-thought-provoking-talks/)
 - [SiteGround joins the WordPress global community sponsorship program in 2023](https://central.wordcamp.org/news/2023/05/siteground-joins-the-wordpress-global-community-sponsorship-program-in-2023/)
@@ -538,7 +539,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Thanks to Weglot for supporting the global WordPress community](https://central.wordcamp.org/news/2023/02/weglot-supports-the-global-wordpress-community/)
 - [WordCamp Entebbe: First Wordcamp to happen in Africa in 2023 is on!](https://central.wordcamp.org/news/2023/01/wordcamp-entebbe-first-wordcamp-to-happen-in-africa-in-2023-is-on/)
 - [The First In-Person WordCamp in India is Looking for Speakers!](https://central.wordcamp.org/news/2022/09/the-first-in-person-wordcamp-in-india-is-looking-for-speakers/)
-- [WordCamp Jinja: Diverse Speaker Sessions, Web Design Hackathon, Teachers Workshop and Fun at the Nile Source!](https://central.wordcamp.org/news/2022/07/wordcamp-jinja-diverse-speaker-sessions-web-design-hackathon-teachers-workshop-and-fun-at-the-nile-source/)
 <!-- Central:END -->
 
 ### WordCamp
