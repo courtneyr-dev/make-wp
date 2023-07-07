@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Categories vs. Tags: What’s the difference?](https://learn.wordpress.org/tutorial/categories-vs-tags-whats-the-difference/)
 - [Debugging in WordPress](https://learn.wordpress.org/tutorial/debugging-in-wordpress/)
 - [Designing with row and stack blocks](https://learn.wordpress.org/tutorial/designing-with-row-and-stack-blocks/)
 - [Developing for Multisite](https://learn.wordpress.org/tutorial/developing-for-multisite/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Importing widget areas from a classic theme to a block theme](https://learn.wordpress.org/tutorial/importing-widget-areas-from-a-classic-theme-to-a-block-theme/)
 - [Custom post types and capabilities](https://learn.wordpress.org/tutorial/custom-post-types-and-capabilities/)
 - [વર્ડપ્રેસ ડેશબોર્ડને જાણવું](https://learn.wordpress.org/tutorial/gu-getting-to-know-the-wordpress-dashboard/)
-- [Developing with user roles and capabilities](https://learn.wordpress.org/tutorial/developing-with-user-roles-and-capabilities/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
