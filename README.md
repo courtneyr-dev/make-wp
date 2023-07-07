@@ -341,6 +341,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Common WordPress APIs: Dashboard Widgets](https://wordpress.tv/2023/07/07/common-wordpress-apis-dashboard-widgets/)
+- [Debugging in WordPress](https://wordpress.tv/2023/07/07/jonathan-bossenger-debugging-in-wordpress-tutorial/)
 - [Designing with row and stack blocks](https://wordpress.tv/2023/07/03/designing-with-row-and-stack-blocks/)
 - [Qué es el equipo de soporte y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-soporte-y-como-colaborar-con-el/)
 - [Qué es el equipo de traducciones y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-traducciones-y-como-colaborar-con-el/)
@@ -364,8 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the block editor: Tips and shortcuts for efficiency](https://wordpress.tv/2023/06/19/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
 - [WPPhotos Moderator Training](https://wordpress.tv/2023/06/19/wpphotos-moderator-training/)
 - [REST API de WordPress ¿Conoces sus ventajas?](https://wordpress.tv/2023/06/19/rest-api-de-wordpress-conoces-sus-ventajas/)
-- [Empezar con un WooCommerce Mínimo Viable](https://wordpress.tv/2023/06/19/empezar-con-un-woocommerce-minimo-viable/)
-- [Cómo crear un tema de bloques desde cero](https://wordpress.tv/2023/06/19/como-crear-un-tema-de-bloques-desde-cero/)
 <!-- WPTV:END -->
 
 ## Marketing
