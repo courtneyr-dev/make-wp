@@ -285,6 +285,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Blogging with WordPress: Basics](https://learn.wordpress.org/?meeting=blogging-with-wordpress-basics-2)
+- [Blogging with WordPress: Basics](https://learn.wordpress.org/?meeting=blogging-with-wordpress-basics)
+- [Overcoming Writer’s Block: Planning a Blog’s Content](https://learn.wordpress.org/?meeting=overcoming-writers-block-planning-a-blogs-content-2)
+- [Overcoming Writer’s Block: Planning a Blog’s Content](https://learn.wordpress.org/?meeting=overcoming-writers-block-planning-a-blogs-content)
 - [WP-CLI for PHP developers](https://learn.wordpress.org/?meeting=wp-cli-for-php-developers)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-3)
 - [Live stream: Using custom SlotFill to extend a codebase](https://learn.wordpress.org/?meeting=live-stream-using-custom-slotfill-to-extend-a-codebase)
@@ -306,10 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Custom tables in WordPress](https://learn.wordpress.org/?meeting=custom-tables-in-wordpress)
 - [Developer Hours: Exploring Editor Extensibility](https://learn.wordpress.org/?meeting=developer-hours-exploring-editor-extensibility)
 - [Hallway Hangout: Let’s chat about WordPress 6.3 and block theming](https://learn.wordpress.org/?meeting=hallway-hangout-lets-chat-about-wordpress-6-3-and-block-theming)
-- [The WordPress developer Quiz](https://learn.wordpress.org/?meeting=the-wordpress-developer-quiz)
-- [How can Chat GPT help WordPress developers and designers?](https://learn.wordpress.org/?meeting=how-can-chat-gpt-help-wordpress-developers-and-designers)
-- [How to set up a free WordPress test website &lpar;and explore code!&rpar;](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website-and-explore-code-2)
-- [How to set up a free WordPress test website &lpar;and explore code!&rpar;](https://learn.wordpress.org/?meeting=how-to-set-up-a-free-wordpress-test-website-and-explore-code)
 <!-- SLS:END -->
 
 ## Test
