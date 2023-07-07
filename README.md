@@ -341,6 +341,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Categories vs. Tags: What’s the difference?](https://wordpress.tv/2023/07/07/categories-vs-tags-whats-the-difference/)
+- [Contributing to the WordPress Training Team](https://wordpress.tv/2023/07/07/contributing-to-the-wordpress-training-team/)
 - [Common WordPress APIs: Dashboard Widgets](https://wordpress.tv/2023/07/07/common-wordpress-apis-dashboard-widgets/)
 - [Debugging in WordPress](https://wordpress.tv/2023/07/07/jonathan-bossenger-debugging-in-wordpress-tutorial/)
 - [Designing with row and stack blocks](https://wordpress.tv/2023/07/03/designing-with-row-and-stack-blocks/)
@@ -364,8 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gestaltungsprinzipien für eine Webseite](https://wordpress.tv/2023/06/21/gestaltungsprinzipien-fuer-eine-webseite/)
 - [How to translate content for Learn.WordPress.org](https://wordpress.tv/2023/06/20/how-to-translate-content-for-learn-wordpress-org/)
 - [Using the block editor: Tips and shortcuts for efficiency](https://wordpress.tv/2023/06/19/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
-- [WPPhotos Moderator Training](https://wordpress.tv/2023/06/19/wpphotos-moderator-training/)
-- [REST API de WordPress ¿Conoces sus ventajas?](https://wordpress.tv/2023/06/19/rest-api-de-wordpress-conoces-sus-ventajas/)
 <!-- WPTV:END -->
 
 ## Marketing
