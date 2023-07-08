@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Classified Listing – Classified ads &amp; Business Directory Plugin](https://make.wordpress.org/polyglots/2023/07/07/pte-request-for-classified-listing-classified-ads-business-directory-plugin/)
 - [PTE Request for Custom PHP…](https://make.wordpress.org/polyglots/2023/07/06/pte-request-for-custom-php/)
 - [PTE Request for Classic Widgets](https://make.wordpress.org/polyglots/2023/07/06/pte-request-for-classic-widgets-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/07/05/hi-dear-mentors-we-have-120/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, i am the author…](https://make.wordpress.org/polyglots/2023/07/05/hello-i-am-the-author-4/)
 - [Hey Polyglots,](https://make.wordpress.org/polyglots/2023/07/03/hey-polyglots-9/)
 - [PTE Request for [Glossary]](https://make.wordpress.org/polyglots/2023/07/03/pte-request-for-glossary/)
-- [PTE Request for All-In-One Security…](https://make.wordpress.org/polyglots/2023/07/03/pte-request-for-all-in-one-security/)
 <!-- POLYGLOTS:END -->
 
 ## Support
