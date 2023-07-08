@@ -285,6 +285,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Common WordPress APIs: Responsive Images](https://learn.wordpress.org/?meeting=common-wordpress-apis-responsive-images)
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-9)
 - [A Guide to Open Source and WordPress](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-2)
 - [Blogging with WordPress: Basics](https://learn.wordpress.org/?meeting=blogging-with-wordpress-basics-2)
 - [Blogging with WordPress: Basics](https://learn.wordpress.org/?meeting=blogging-with-wordpress-basics)
@@ -308,8 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tips and shortcuts for using the block editor &amp; streamlining content creation](https://learn.wordpress.org/?meeting=tips-and-shortcuts-for-using-the-block-editor-streamlining-content-creation)
 - [Using the row and stack blocks &lpar;APAC&rpar;](https://learn.wordpress.org/?meeting=using-the-row-and-stack-blocks-apac)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-7)
-- [Custom tables in WordPress](https://learn.wordpress.org/?meeting=custom-tables-in-wordpress)
-- [Developer Hours: Exploring Editor Extensibility](https://learn.wordpress.org/?meeting=developer-hours-exploring-editor-extensibility)
 <!-- SLS:END -->
 
 ## Test
