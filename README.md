@@ -59,8 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Gossip](https://make.wordpress.org/polyglots/2023/07/09/pte-request-for-gossip/)
 - [PTE Request for [XPlainer – WooCommerce Product FAQ]](https://make.wordpress.org/polyglots/2023/07/08/pte-request-for-xplainer-woocommerce-product-faq-2/)
-- [CLPTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/07/08/clpte-request-for-squad-modules-for-divi-builder/)
+- [CL-PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/07/08/clpte-request-for-squad-modules-for-divi-builder/)
 - [PTE Request for Classified Listing – Classified ads &amp; Business Directory Plugin](https://make.wordpress.org/polyglots/2023/07/07/pte-request-for-classified-listing-classified-ads-business-directory-plugin/)
 - [PTE Request for Custom PHP…](https://make.wordpress.org/polyglots/2023/07/06/pte-request-for-custom-php/)
 - [PTE Request for Classic Widgets](https://make.wordpress.org/polyglots/2023/07/06/pte-request-for-classic-widgets-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hey Polyglots,](https://make.wordpress.org/polyglots/2023/07/05/hey-polyglots-10/)
 - [PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/07/05/pte-request-for-squad-modules-for-divi-builder/)
 - [Agenda: Weekly Polyglots Chat – July 5, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/05/agenda-weekly-polyglots-chat-july-5-2023-1300-utc/)
-- [Hello, i am the author…](https://make.wordpress.org/polyglots/2023/07/05/hello-i-am-the-author-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
