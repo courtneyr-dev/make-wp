@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for July 11, 2023](https://make.wordpress.org/themes/2023/07/10/themes-team-meeting-agenda-for-july-11-2023/)
 - [Themes Team Meeting Notes – June 27, 2023](https://make.wordpress.org/themes/2023/06/28/themes-team-meeting-notes-june-27-2023/)
 - [Themes team meeting agenda for June 27, 2023](https://make.wordpress.org/themes/2023/06/26/themes-team-meeting-agenda-for-june-27-2023/)
 - [X-post: Themes team update June 20, 2023](https://make.wordpress.org/themes/2023/06/20/xpost-themes-team-update-june-20-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Themes team update June 13, 2023](https://make.wordpress.org/themes/2023/06/13/xpost-themes-team-update-june-13-2023/)
 - [X-post: New Filter Controls: Discover “Commercial” and “Community” in the Theme and Plugin Directory](https://make.wordpress.org/themes/2023/06/13/xpost-new-filter-controls-discover-commercial-and-community-in-the-theme-and-plugin-directory/)
 - [Themes team meeting agenda for June 13, 2023](https://make.wordpress.org/themes/2023/06/12/themes-team-meeting-agenda-for-june-13-2023/)
-- [X-post: New curation filter in Pattern Directory](https://make.wordpress.org/themes/2023/06/09/xpost-new-curation-filter-in-pattern-directory/)
 <!-- THEMES:END -->
 
 ## Plugins
