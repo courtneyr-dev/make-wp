@@ -512,7 +512,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:START -->
 - [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-17/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-12/)
-- [WordPress Developer Needed: Theme and Plug-in Customizations](https://jobs.wordpress.net/job/wordpress-developer-needed-theme-and-plug-in-customizations/)
 - [Remote WordPress Full Stack Developer](https://jobs.wordpress.net/job/remote-wordpress-full-stack-developer/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-11/)
 - [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-3/)
@@ -520,6 +519,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-10/)
 - [[rtCamp] Lead React Engineer](https://jobs.wordpress.net/job/rtcamp-lead-react-engineer-2/)
 - [[rtCamp] Lead WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-lead-wordpress-engineer/)
+- [Full-Time WP Developer](https://jobs.wordpress.net/job/full-time-wp-developer-4/)
 <!-- JOBS:END -->
 
 ## Central
