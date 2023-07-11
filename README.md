@@ -510,16 +510,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-805/)
+- [WordPress Designer/Developer](https://jobs.wordpress.net/job/wordpress-designer-developer-9/)
+- [WordPress Full-Stack Deeveloper](https://jobs.wordpress.net/job/wordpress-full-stack-deeveloper/)
+- [WordPress Theme Development](https://jobs.wordpress.net/job/wordpress-theme-development-12/)
+- [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-6/)
 - [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-17/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-12/)
 - [Remote WordPress Full Stack Developer](https://jobs.wordpress.net/job/remote-wordpress-full-stack-developer/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-11/)
 - [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-3/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-7/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-10/)
-- [[rtCamp] Lead React Engineer](https://jobs.wordpress.net/job/rtcamp-lead-react-engineer-2/)
-- [[rtCamp] Lead WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-lead-wordpress-engineer/)
-- [Full-Time WP Developer](https://jobs.wordpress.net/job/full-time-wp-developer-4/)
 <!-- JOBS:END -->
 
 ## Central
