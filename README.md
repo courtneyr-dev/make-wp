@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [7 Tips to improve website security](https://wordpress.tv/2023/07/11/7-tips-to-improve-website-security/)
 - [Errores más comunes al desarrollar un Plugin](https://wordpress.tv/2023/07/08/errores-mas-comunes-al-desarrollar-un-plugin/)
 - [Categories vs. Tags: What’s the difference?](https://wordpress.tv/2023/07/07/categories-vs-tags-whats-the-difference/)
 - [Contributing to the WordPress Training Team](https://wordpress.tv/2023/07/07/contributing-to-the-wordpress-training-team/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Create a four page WordPress website: Explore Plugins + Contact Forms](https://wordpress.tv/2023/06/22/create-a-four-page-wordpress-website-explore-plugins-contact-forms/)
 - [WordPress and the IndieWeb](https://wordpress.tv/2023/06/22/wordpress-and-the-indieweb/)
 - [Gestaltungsprinzipien für eine Webseite](https://wordpress.tv/2023/06/21/gestaltungsprinzipien-fuer-eine-webseite/)
-- [How to translate content for Learn.WordPress.org](https://wordpress.tv/2023/06/20/how-to-translate-content-for-learn-wordpress-org/)
 <!-- WPTV:END -->
 
 ## Marketing
