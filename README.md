@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for MojUredFiscalization Hello,…](https://make.wordpress.org/polyglots/2023/07/11/pte-request-for-mojuredfiscalization-hello/)
 - [PTE Request for Gossip](https://make.wordpress.org/polyglots/2023/07/09/pte-request-for-gossip/)
 - [PTE Request for [XPlainer – WooCommerce Product FAQ]](https://make.wordpress.org/polyglots/2023/07/08/pte-request-for-xplainer-woocommerce-product-faq-2/)
 - [CL-PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/07/08/clpte-request-for-squad-modules-for-divi-builder/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/07/05/hi-dear-mentors-we-have-120/)
 - [Hey Polyglots,](https://make.wordpress.org/polyglots/2023/07/05/hey-polyglots-10/)
 - [PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/07/05/pte-request-for-squad-modules-for-divi-builder/)
-- [Agenda: Weekly Polyglots Chat – July 5, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/05/agenda-weekly-polyglots-chat-july-5-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
