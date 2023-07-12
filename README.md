@@ -510,7 +510,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Customer Care Specialist – Remote](https://jobs.wordpress.net/job/customer-care-specialist-remote-2/)
 - [WordPress Developer – Site Speed Optimization Project](https://jobs.wordpress.net/job/wordpress-developer-site-speed-optimization-project/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-805/)
 - [WordPress Designer/Developer](https://jobs.wordpress.net/job/wordpress-designer-developer-9/)
@@ -520,6 +519,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customer Support Specialist](https://jobs.wordpress.net/job/customer-support-specialist-17/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-12/)
 - [Remote WordPress Full Stack Developer](https://jobs.wordpress.net/job/remote-wordpress-full-stack-developer/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-11/)
 <!-- JOBS:END -->
 
 ## Central
