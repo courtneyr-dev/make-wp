@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Summary of the Q2 Community Team Role Updates](https://make.wordpress.org/community/2023/07/12/summary-of-the-q2-community-team-role-updates/)
 - [Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/community/2023/07/12/announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [Community Team Meeting Agenda for 6 July, 2023](https://make.wordpress.org/community/2023/07/05/community-team-meeting-agenda-for-6-july-2023/)
 - [WCUS 2023 Contributor Day: Help Needed!](https://make.wordpress.org/community/2023/07/05/wcus-2023-contributor-day-help-needed/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 28, 2023](https://make.wordpress.org/community/2023/06/29/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-28-2023/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/community/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Attention WordPress event organizers: This important workshop on July 20, 2023 is for you!](https://make.wordpress.org/community/2023/06/22/attention-wordpress-event-organizers-this-important-workshop-on-july-20-2023-is-for-you/)
-- [Meetup Organizer Newsletter: June 2023](https://make.wordpress.org/community/2023/06/21/meetup-organizer-newsletter-june-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
