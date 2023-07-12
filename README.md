@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Hello Elementor Theme, Astra Theme, ACF Plugin](https://make.wordpress.org/polyglots/2023/07/12/pte-request-for-hello-elementor-theme-astra-theme-acf-plugin/)
 - [Agenda: Weekly Polyglots Chat – July 12, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/12/agenda-weekly-polyglots-chat-july-12-2023-0700-utc/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/polyglots/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [PTE Request for MojUredFiscalization Hello,…](https://make.wordpress.org/polyglots/2023/07/11/pte-request-for-mojuredfiscalization-hello/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Classified Listing – Classified ads &amp; Business Directory Plugin](https://make.wordpress.org/polyglots/2023/07/07/pte-request-for-classified-listing-classified-ads-business-directory-plugin/)
 - [PTE Request for Custom PHP…](https://make.wordpress.org/polyglots/2023/07/06/pte-request-for-custom-php/)
 - [PTE Request for Classic Widgets](https://make.wordpress.org/polyglots/2023/07/06/pte-request-for-classic-widgets-2/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/07/05/hi-dear-mentors-we-have-120/)
 <!-- POLYGLOTS:END -->
 
 ## Support
