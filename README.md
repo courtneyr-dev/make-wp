@@ -440,6 +440,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/photos/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/photos/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/photos/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/photos/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
@@ -449,7 +450,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Road To 5000 Photos, A Retrospective](https://make.wordpress.org/photos/2022/11/17/the-road-to-5000-photos-a-retrospective/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/photos/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
 - [WordPress World Photography Day Challenge 2022](https://make.wordpress.org/photos/2022/08/18/wordpress-world-photography-day-challenge-2022/)
-- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/photos/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- PHOTOS:END -->
 
 ## Updates
