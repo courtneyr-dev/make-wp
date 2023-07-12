@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/support/2023/07/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [WP Contributor Mentorship Program: Support team edition](https://make.wordpress.org/support/2023/06/wp-contributor-mentorship-program-support-team-edition/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/support/2023/06/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Agenda for June 22nd Support Meeting](https://make.wordpress.org/support/2023/06/agenda-for-june-22nd-support-meeting-2/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Suggested stance on the use of AI-tooling](https://make.wordpress.org/support/2023/05/suggested-stance-on-the-use-of-ai-tooling/)
 - [Agenda for May 18th Support Meeting](https://make.wordpress.org/support/2023/05/agenda-for-may-18th-support-meeting-2/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/support/2023/05/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
-- [X-post: Proposal: Retiring Older Default Themes](https://make.wordpress.org/support/2023/05/xpost-proposal-retiring-older-default-themes/)
 <!-- SUPPORT:END -->
 
 ## Documentation
