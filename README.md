@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Core Editor Improvement: Advancing the power of Patterns](https://make.wordpress.org/core/2023/07/13/core-editor-improvement-advancing-the-power-of-patterns/)
 - [Image performance enhancements in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/image-performance-enhancements-in-wordpress-6-3/)
 - [Real-time Collaboration: architecture](https://make.wordpress.org/core/2023/07/13/real-time-collaboration-architecture/)
 - [Improvements to the metadata API in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/improvements-to-the-metadata-api-in-wordpress-6-3/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat agenda, July 12, 2023](https://make.wordpress.org/core/2023/07/12/dev-chat-agenda-july-12-2023/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/core/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [New in 6.3: Rollback for failed manual plugin and theme updates](https://make.wordpress.org/core/2023/07/11/new-in-6-3-rollback-for-failed-manual-plugin-and-theme-updates/)
-- [Performance Chat Summary: 11 July 2023](https://make.wordpress.org/core/2023/07/11/performance-chat-summary-11-july-2023/)
 <!-- CORE:END -->
 
 ## Design
