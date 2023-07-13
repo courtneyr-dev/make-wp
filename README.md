@@ -11,8 +11,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Admin Design](https://make.wordpress.org/core/2023/07/12/admin-design/)
 - [Dev Chat agenda, July 12, 2023](https://make.wordpress.org/core/2023/07/12/dev-chat-agenda-july-12-2023/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/core/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
+- [New in 6.3: Rollback for failed manual plugin and theme updates](https://make.wordpress.org/core/2023/07/11/new-in-6-3-rollback-for-failed-manual-plugin-and-theme-updates/)
 - [Performance Chat Summary: 11 July 2023](https://make.wordpress.org/core/2023/07/11/performance-chat-summary-11-july-2023/)
-- [Performance Chat Agenda: 11 July 2023](https://make.wordpress.org/core/2023/07/11/performance-chat-agenda-11-july-2023/)
 <!-- CORE:END -->
 
 ## Design
