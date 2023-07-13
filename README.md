@@ -60,7 +60,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Polyglots
 <!-- POLYGLOTS:START -->
 - [PTE Request for Role Based Hide Adminbar Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-role-based-hide-adminbar-plugin/)
-- [PTE Request for rapidmail: Newsletter &amp; E-Mail Marketing for WooCommerce Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-rapidmail-newsletter-e-mail-marketing-for-woocommerce-plugin/)
+- [Translations review request for rapidmail: Newsletter &amp; E-Mail Marketing for WooCommerce Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-rapidmail-newsletter-e-mail-marketing-for-woocommerce-plugin/)
 - [PTE Request for Hello Elementor Theme, Astra Theme, ACF Plugin](https://make.wordpress.org/polyglots/2023/07/12/pte-request-for-hello-elementor-theme-astra-theme-acf-plugin/)
 - [Agenda: Weekly Polyglots Chat – July 12, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/12/agenda-weekly-polyglots-chat-july-12-2023-0700-utc/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/polyglots/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
