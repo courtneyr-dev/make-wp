@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Improvements to the metadata API in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/improvements-to-the-metadata-api-in-wordpress-6-3/)
 - [Dev Chat Summary: July 12, 2023](https://make.wordpress.org/core/2023/07/12/dev-chat-summary-july-12-2023-2/)
 - [Developer Blog Editorial Meeting – 06 July 2023](https://make.wordpress.org/core/2023/07/12/developer-blog-editorial-meeting-06-june-2023/)
 - [Admin Design](https://make.wordpress.org/core/2023/07/12/admin-design/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 11 July 2023](https://make.wordpress.org/core/2023/07/11/performance-chat-agenda-11-july-2023/)
 - [A Week in Core – July 10, 2023](https://make.wordpress.org/core/2023/07/11/a-week-in-core-july-10-2023/)
 - [Block Library](https://make.wordpress.org/core/2023/07/10/block-library/)
-- [Editor Chat Agenda: 12 July 2023](https://make.wordpress.org/core/2023/07/10/editor-chat-agenda-12-july-2023/)
 <!-- CORE:END -->
 
 ## Design
