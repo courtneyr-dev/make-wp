@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [वर्डप्रेस रिपॉजिटरी में थीम अपलोड करें](https://learn.wordpress.org/lesson-plan/hi-upload-a-theme-to-the-wordpress-repository/)
 - [ការជ្រើសរើស និងការដំឡើងរូបរាងវេបសាយ](https://learn.wordpress.org/lesson-plan/kh-choosing-and-installing-themes/)
 - [ទិដ្ឋភាពទូទៅនៃផ្ទាំងព័ត៌មាន](https://learn.wordpress.org/lesson-plan/kh-dashboard-overview/)
 - [બ્લોક થીમ માટે મૂળભૂત ચાઈલ્ડ થીમ બનાવો](https://learn.wordpress.org/lesson-plan/gu-create-a-basic-child-theme-for-block-themes/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pengenalan Dasbor WordPress](https://learn.wordpress.org/lesson-plan/id-dashboard-overview/)
 - [डैशबोर्ड अवलोकन](https://learn.wordpress.org/lesson-plan/hi-dashboard-overview/)
 - [પ્લગઇન્સ પસંદ કરી રહ્યા છીએ અને સ્થાપિત કરી રહ્યા છીએ](https://learn.wordpress.org/lesson-plan/gu-choosing-and-installing-plugins/)
-- [ડેશબોર્ડ નિરીક્ષણ](https://learn.wordpress.org/lesson-plan/gu-dashboard-overview/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
