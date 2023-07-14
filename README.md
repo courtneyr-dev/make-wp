@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Configuring development mode in 6.3](https://make.wordpress.org/core/2023/07/14/configuring-development-mode-in-6-3/)
 - [Layout updates in the editor for WordPress 6.3](https://make.wordpress.org/core/2023/07/14/layout-updates-in-the-editor-for-wordpress-6-3/)
 - [WP_Query used internally in get_pages&lpar;&rpar;](https://make.wordpress.org/core/2023/07/14/wp_query-used-internally-in-get_pages/)
 - [Improved Caching for Database Queries in WP_User_Query](https://make.wordpress.org/core/2023/07/14/improved-caching-for-database-queries-in-wp_user_query/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Image performance enhancements in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/image-performance-enhancements-in-wordpress-6-3/)
 - [Real-time Collaboration: architecture](https://make.wordpress.org/core/2023/07/13/real-time-collaboration-architecture/)
 - [Improvements to the metadata API in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/improvements-to-the-metadata-api-in-wordpress-6-3/)
-- [Dev Chat Summary: July 12, 2023](https://make.wordpress.org/core/2023/07/12/dev-chat-summary-july-12-2023-2/)
 <!-- CORE:END -->
 
 ## Design
