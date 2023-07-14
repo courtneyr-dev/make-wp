@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/create-block-interactive-template](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block-interactive-template/)
 - [@wordpress/interactivity](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity/)
-- [maintenance](https://developer.wordpress.org/cli/commands/maintenance/)
 - [google-sitemap](https://developer.wordpress.org/cli/commands/google-sitemap/)
 - [doctor](https://developer.wordpress.org/cli/commands/doctor/)
-- [google-sitemap rebuild](https://developer.wordpress.org/cli/commands/google-sitemap/rebuild/)
-- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
 - [doctor list](https://developer.wordpress.org/cli/commands/doctor/list/)
+- [super-cache](https://developer.wordpress.org/cli/commands/super-cache/)
 - [doctor check](https://developer.wordpress.org/cli/commands/doctor/check/)
 - [cache supports](https://developer.wordpress.org/cli/commands/cache/supports/)
-- [super-cache](https://developer.wordpress.org/cli/commands/super-cache/)
+- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
+- [maintenance](https://developer.wordpress.org/cli/commands/maintenance/)
 <!-- DEVHUB:END -->
 
 ## Themes
