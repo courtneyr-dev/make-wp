@@ -496,6 +496,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Designed with WordPress](https://wordpress.org/news/2023/07/designed-with-wordpress/)
 - [WordPress 6.3 Beta 4](https://wordpress.org/news/2023/07/wordpress-6-3-beta-4/)
 - [6.3 Live Product Demo](https://wordpress.org/news/2023/07/6-3-live-product-demo/)
 - [WordPress 6.3 Beta 3](https://wordpress.org/news/2023/07/wordpress-6-3-beta-3/)
@@ -505,7 +506,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 58: A New Wave for WordPress Events](https://wordpress.org/news/2023/06/episode-58-a-new-wave-for-wordpress-events/)
 - [Twenty Years of WordPress at WCEU](https://wordpress.org/news/2023/06/twenty-years-of-wordpress-at-wceu/)
 - [The Month in WordPress – May 2023](https://wordpress.org/news/2023/06/the-month-in-wordpress-may-2023/)
-- [WP Briefing: Episode 57: The Power of WordPress Mentorship](https://wordpress.org/news/2023/06/episode-57-the-power-of-wordpress-mentorship/)
 <!-- NEWS:END -->
 
 ## Jobs
