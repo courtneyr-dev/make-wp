@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 16.2? &lpar;12 July&rpar;](https://make.wordpress.org/core/2023/07/14/whats-new-in-gutenberg-16-2-12-july/)
 - [Configuring development mode in 6.3](https://make.wordpress.org/core/2023/07/14/configuring-development-mode-in-6-3/)
 - [Layout updates in the editor for WordPress 6.3](https://make.wordpress.org/core/2023/07/14/layout-updates-in-the-editor-for-wordpress-6-3/)
 - [WP_Query used internally in get_pages&lpar;&rpar;](https://make.wordpress.org/core/2023/07/14/wp_query-used-internally-in-get_pages/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Editor Improvement: Advancing the power of Patterns](https://make.wordpress.org/core/2023/07/13/core-editor-improvement-advancing-the-power-of-patterns/)
 - [Image performance enhancements in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/image-performance-enhancements-in-wordpress-6-3/)
 - [Real-time Collaboration: architecture](https://make.wordpress.org/core/2023/07/13/real-time-collaboration-architecture/)
-- [Improvements to the metadata API in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/improvements-to-the-metadata-api-in-wordpress-6-3/)
 <!-- CORE:END -->
 
 ## Design
