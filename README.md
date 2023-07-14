@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [I18N Improvements in 6.3](https://make.wordpress.org/core/2023/07/14/i18n-improvements-in-6-3/)
 - [Registering scripts with `async` and `defer` attributes in WordPress 6.3](https://make.wordpress.org/core/2023/07/14/registering-scripts-with-async-and-defer-attributes-in-wordpress-6-3/)
 - [Core Editor Improvement: Advancing the power of Patterns](https://make.wordpress.org/core/2023/07/13/core-editor-improvement-advancing-the-power-of-patterns/)
 - [Image performance enhancements in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/image-performance-enhancements-in-wordpress-6-3/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Blog Editorial Meeting – 06 July 2023](https://make.wordpress.org/core/2023/07/12/developer-blog-editorial-meeting-06-june-2023/)
 - [Admin Design](https://make.wordpress.org/core/2023/07/12/admin-design/)
 - [Dev Chat agenda, July 12, 2023](https://make.wordpress.org/core/2023/07/12/dev-chat-agenda-july-12-2023/)
-- [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/core/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 <!-- CORE:END -->
 
 ## Design
