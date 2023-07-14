@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WP-CLI for PHP developers](https://wordpress.tv/2023/07/13/wp-cli-for-php-developers/)
 - [Demystifying The Navigation Block: How to set up your site’s navigation now and in the future](https://wordpress.tv/2023/07/12/demystifying-the-navigation-block-how-to-set-up-your-sites-navigation-now-and-in-the-future/)
 - [Tips and shortcuts for using the block editor &amp; streamlining content creation](https://wordpress.tv/2023/07/11/tips-and-shortcuts-for-using-the-block-editor-streamlining-content-creation/)
 - [7 Tips to improve website security](https://wordpress.tv/2023/07/11/7-tips-to-improve-website-security/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Descubre el potencial de Figma &amp; Elementor](https://wordpress.tv/2023/06/23/descubre-el-potencial-de-figma-elementor/)
 - [The WordPress Database](https://wordpress.tv/2023/06/23/the-wordpress-database/)
 - [アップデートと脆弱性](https://wordpress.tv/2023/06/23/%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%a8%e8%84%86%e5%bc%b1%e6%80%a7/)
-- [Create a four page WordPress website: Explore Plugins + Contact Forms](https://wordpress.tv/2023/06/22/create-a-four-page-wordpress-website-explore-plugins-contact-forms/)
 <!-- WPTV:END -->
 
 ## Marketing
