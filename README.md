@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Common WordPress APIs: Responsive Images](https://wordpress.tv/2023/07/14/common-wordpress-apis-responsive-images/)
 - [How to vet content topic ideas for the WordPress Training Team](https://wordpress.tv/2023/07/13/how-to-vet-content-topic-ideas-for-the-wordpress-training-team/)
 - [WP-CLI for PHP developers](https://wordpress.tv/2023/07/13/wp-cli-for-php-developers/)
 - [Demystifying The Navigation Block: How to set up your site’s navigation now and in the future](https://wordpress.tv/2023/07/12/demystifying-the-navigation-block-how-to-set-up-your-sites-navigation-now-and-in-the-future/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to start using WordPress Playground](https://wordpress.tv/2023/06/26/how-to-start-using-wordpress-playground/)
 - [Creating a culture of customer satisfaction: how it leads to word-of-mouth promotion](https://wordpress.tv/2023/06/24/creating-a-culture-of-customer-satisfaction-how-it-leads-to-word-of-mouth-promotion/)
 - [Descubre el potencial de Figma &amp; Elementor](https://wordpress.tv/2023/06/23/descubre-el-potencial-de-figma-elementor/)
-- [The WordPress Database](https://wordpress.tv/2023/06/23/the-wordpress-database/)
 <!-- WPTV:END -->
 
 ## Marketing
