@@ -200,6 +200,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
 - [वर्डप्रेस रिपॉजिटरी में थीम अपलोड करें](https://learn.wordpress.org/lesson-plan/hi-upload-a-theme-to-the-wordpress-repository/)
+- [સંપૂર્ણ સાઇટ સંપાદકમાં બ્લોકોને તાળું કરવું](https://learn.wordpress.org/lesson-plan/gu-locking-blocks-in-the-full-site-editor/)
 - [ការជ្រើសរើស និងការដំឡើងរូបរាងវេបសាយ](https://learn.wordpress.org/lesson-plan/kh-choosing-and-installing-themes/)
 - [ទិដ្ឋភាពទូទៅនៃផ្ទាំងព័ត៌មាន](https://learn.wordpress.org/lesson-plan/kh-dashboard-overview/)
 - [બ્લોક થીમ માટે મૂળભૂત ચાઈલ્ડ થીમ બનાવો](https://learn.wordpress.org/lesson-plan/gu-create-a-basic-child-theme-for-block-themes/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ફરીથી વાપરી શકાય તેવા બ્લોક્સ, બ્લોકના પેટર્ન, ટેમ્પલેટ્સ, ટેમ્પલેટના ભાગો વચ્ચેનો તફાવત](https://learn.wordpress.org/lesson-plan/gu-difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [Pengenalan Dasbor WordPress](https://learn.wordpress.org/lesson-plan/id-dashboard-overview/)
 - [डैशबोर्ड अवलोकन](https://learn.wordpress.org/lesson-plan/hi-dashboard-overview/)
-- [પ્લગઇન્સ પસંદ કરી રહ્યા છીએ અને સ્થાપિત કરી રહ્યા છીએ](https://learn.wordpress.org/lesson-plan/gu-choosing-and-installing-plugins/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
