@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Polish translation for Limit Login Attempts Reloaded](https://make.wordpress.org/polyglots/2023/07/16/polish-translation-for-limit-login-attempts-reloaded/)
 - [PTE Request for Role Based Hide Adminbar Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-role-based-hide-adminbar-plugin/)
 - [Translations review request for rapidmail: Newsletter &amp; E-Mail Marketing for WooCommerce Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-rapidmail-newsletter-e-mail-marketing-for-woocommerce-plugin/)
 - [PTE Request for Hello Elementor Theme, Astra Theme, ACF Plugin](https://make.wordpress.org/polyglots/2023/07/12/pte-request-for-hello-elementor-theme-astra-theme-acf-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Gossip](https://make.wordpress.org/polyglots/2023/07/09/pte-request-for-gossip/)
 - [PTE Request for [XPlainer – WooCommerce Product FAQ]](https://make.wordpress.org/polyglots/2023/07/08/pte-request-for-xplainer-woocommerce-product-faq-2/)
 - [CL-PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/07/08/clpte-request-for-squad-modules-for-divi-builder/)
-- [PTE Request for Classified Listing – Classified ads &amp; Business Directory Plugin](https://make.wordpress.org/polyglots/2023/07/07/pte-request-for-classified-listing-classified-ads-business-directory-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
