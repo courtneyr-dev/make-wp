@@ -45,6 +45,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: July 21, 2023](https://make.wordpress.org/accessibility/2023/07/17/accessibility-team-meeting-agenda-july-21-2023/)
+- [Accessibility Team Meeting Notes: July 7, 2023](https://make.wordpress.org/accessibility/2023/07/17/accessibility-team-meeting-notes-july-7-2023/)
 - [Accessibility Team Meeting Agenda: July 7, 2023](https://make.wordpress.org/accessibility/2023/07/07/accessibility-team-meeting-agenda-july-7-2023/)
 - [Accessibility Team Meeting Notes: June 16, 2023](https://make.wordpress.org/accessibility/2023/06/16/accessibility-team-meeting-notes-june-16-2023/)
 - [Accessibility Team Meeting Agenda: June 16, 2023](https://make.wordpress.org/accessibility/2023/06/15/accessibility-team-meeting-agenda-june-16-2023/)
@@ -53,8 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: June 2, 2023](https://make.wordpress.org/accessibility/2023/05/31/accessibility-team-meeting-agenda-june-2-2023/)
 - [Accessibility Team Meeting Notes: May 19, 2023](https://make.wordpress.org/accessibility/2023/05/22/accessibility-team-meeting-notes-may-19-2023/)
 - [Accessibility Team Meeting Agenda: May 19, 2023](https://make.wordpress.org/accessibility/2023/05/18/accessibility-team-meeting-agenda-may-19-2023/)
-- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/accessibility/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
-- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/accessibility/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
