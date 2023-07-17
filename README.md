@@ -510,6 +510,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-806/)
 - [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-23/)
 - [[rtCamp] Lead WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-lead-wordpress-engineer-4/)
 - [[rtCamp] Lead React Engineer](https://jobs.wordpress.net/job/rtcamp-lead-react-engineer-4/)
@@ -519,7 +520,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress ecommerce programmer](https://jobs.wordpress.net/job/wordpress-ecommerce-programmer/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-13/)
 - [Community Manager &lpar;Part-time, Remote&rpar;](https://jobs.wordpress.net/job/community-manager-part-time-remote-2/)
-- [Senior Staff WordPress Engineer &lpar;Remote AMER, EMEA&rpar;](https://jobs.wordpress.net/job/senior-staff-wordpress-engineer-remote-amer-emea/)
 <!-- JOBS:END -->
 
 ## Central
