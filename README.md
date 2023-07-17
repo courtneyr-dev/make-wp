@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Social Icons block: Applied colors now dynamically update based on theme.json and Global Styles](https://make.wordpress.org/core/2023/07/17/social-icons-block-applied-colors-now-dynamically-update-based-on-theme-json-and-global-styles/)
 - [Introducing the Block Selectors API](https://make.wordpress.org/core/2023/07/17/introducing-the-block-selectors-api/)
 - [Editor chat summary: 12 July, 2023](https://make.wordpress.org/core/2023/07/14/editor-chat-summary-12-july-2023/)
 - [What’s new in Gutenberg 16.2? &lpar;12 July&rpar;](https://make.wordpress.org/core/2023/07/14/whats-new-in-gutenberg-16-2-12-july/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improved Caching for Database Queries in WP_User_Query](https://make.wordpress.org/core/2023/07/14/improved-caching-for-database-queries-in-wp_user_query/)
 - [I18N Improvements in 6.3](https://make.wordpress.org/core/2023/07/14/i18n-improvements-in-6-3/)
 - [Registering scripts with `async` and `defer` attributes in WordPress 6.3](https://make.wordpress.org/core/2023/07/14/registering-scripts-with-async-and-defer-attributes-in-wordpress-6-3/)
-- [Core Editor Improvement: Advancing the power of Patterns](https://make.wordpress.org/core/2023/07/13/core-editor-improvement-advancing-the-power-of-patterns/)
 <!-- CORE:END -->
 
 ## Design
