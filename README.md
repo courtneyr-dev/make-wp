@@ -440,6 +440,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/photos/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/photos/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/photos/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/photos/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
@@ -449,7 +450,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/photos/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [The Road To 5000 Photos, A Retrospective](https://make.wordpress.org/photos/2022/11/17/the-road-to-5000-photos-a-retrospective/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/photos/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
-- [WordPress World Photography Day Challenge 2022](https://make.wordpress.org/photos/2022/08/18/wordpress-world-photography-day-challenge-2022/)
 <!-- PHOTOS:END -->
 
 ## Updates
