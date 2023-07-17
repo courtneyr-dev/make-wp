@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 11th July 2023](https://make.wordpress.org/training/2023/07/17/training-team-meeting-recap-11th-july-2023/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/training/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [Training Team 2023 Half Year Review](https://make.wordpress.org/training/2023/07/10/training-team-2023-half-year-review/)
 - [Next steps for GitHub updates](https://make.wordpress.org/training/2023/07/08/next-steps-for-github-updates/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Expertise needed: Learn how to vet content topic ideas for the Training Team](https://make.wordpress.org/training/2023/07/04/expertise-needed-learn-how-to-vet-content-topic-ideas-for-the-training-team/)
 - [Training Team Meeting Recap for June 27th, 2023](https://make.wordpress.org/training/2023/07/03/training-team-meeting-recap-for-june-27th-2023/)
 - [Proposal: Let’s actively promote the Learn WordPress platform in Learn WordPress content](https://make.wordpress.org/training/2023/06/24/proposal-lets-actively-promote-the-learn-wordpress-platform-in-learn-wordpress-content/)
-- [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/training/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
