@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/polyglots/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [Polish translation for Limit Login Attempts Reloaded](https://make.wordpress.org/polyglots/2023/07/16/polish-translation-for-limit-login-attempts-reloaded/)
 - [PTE Request for Role Based Hide Adminbar Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-role-based-hide-adminbar-plugin/)
 - [Translations review request for rapidmail: Newsletter &amp; E-Mail Marketing for WooCommerce Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-rapidmail-newsletter-e-mail-marketing-for-woocommerce-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for MojUredFiscalization Hello,…](https://make.wordpress.org/polyglots/2023/07/11/pte-request-for-mojuredfiscalization-hello/)
 - [PTE Request for Gossip](https://make.wordpress.org/polyglots/2023/07/09/pte-request-for-gossip/)
 - [PTE Request for [XPlainer – WooCommerce Product FAQ]](https://make.wordpress.org/polyglots/2023/07/08/pte-request-for-xplainer-woocommerce-product-faq-2/)
-- [CL-PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/07/08/clpte-request-for-squad-modules-for-divi-builder/)
 <!-- POLYGLOTS:END -->
 
 ## Support
