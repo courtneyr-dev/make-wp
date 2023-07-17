@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Scegliere e installare un tema](https://learn.wordpress.org/tutorial/it-choosing-and-installing-a-theme/)
 - [7 Tips to improve website security](https://learn.wordpress.org/tutorial/7-tips-to-improve-website-security/)
 - [Categories vs. Tags: What’s the difference?](https://learn.wordpress.org/tutorial/categories-vs-tags-whats-the-difference/)
 - [Debugging in WordPress](https://learn.wordpress.org/tutorial/debugging-in-wordpress/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rapid Website Recreation](https://learn.wordpress.org/tutorial/rapid-website-recreation/)
 - [Se familiariser avec le tableau de bord de WordPress](https://learn.wordpress.org/tutorial/fr-getting-to-know-the-wordpress-dashboard/)
 - [Importing widget areas from a classic theme to a block theme](https://learn.wordpress.org/tutorial/importing-widget-areas-from-a-classic-theme-to-a-block-theme/)
-- [Custom post types and capabilities](https://learn.wordpress.org/tutorial/custom-post-types-and-capabilities/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
