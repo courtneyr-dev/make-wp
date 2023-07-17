@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Introducing the Block Selectors API](https://make.wordpress.org/core/2023/07/17/introducing-the-block-selectors-api/)
 - [Editor chat summary: 12 July, 2023](https://make.wordpress.org/core/2023/07/14/editor-chat-summary-12-july-2023/)
 - [What’s new in Gutenberg 16.2? &lpar;12 July&rpar;](https://make.wordpress.org/core/2023/07/14/whats-new-in-gutenberg-16-2-12-july/)
 - [Configuring development mode in 6.3](https://make.wordpress.org/core/2023/07/14/configuring-development-mode-in-6-3/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I18N Improvements in 6.3](https://make.wordpress.org/core/2023/07/14/i18n-improvements-in-6-3/)
 - [Registering scripts with `async` and `defer` attributes in WordPress 6.3](https://make.wordpress.org/core/2023/07/14/registering-scripts-with-async-and-defer-attributes-in-wordpress-6-3/)
 - [Core Editor Improvement: Advancing the power of Patterns](https://make.wordpress.org/core/2023/07/13/core-editor-improvement-advancing-the-power-of-patterns/)
-- [Image performance enhancements in WordPress 6.3](https://make.wordpress.org/core/2023/07/13/image-performance-enhancements-in-wordpress-6-3/)
 <!-- CORE:END -->
 
 ## Design
