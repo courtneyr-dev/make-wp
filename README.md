@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/core/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [Introducing the WordPress Command Palette API](https://make.wordpress.org/core/2023/07/17/introducing-the-wordpress-command-palette-api/)
 - [Improvements to the Cache API in WordPress 6.3](https://make.wordpress.org/core/2023/07/17/improvements-to-the-cache-api-in-wordpress-6-3/)
 - [Social Icons block: Applied colors now dynamically update based on theme.json and Global Styles](https://make.wordpress.org/core/2023/07/17/social-icons-block-applied-colors-now-dynamically-update-based-on-theme-json-and-global-styles/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Configuring development mode in 6.3](https://make.wordpress.org/core/2023/07/14/configuring-development-mode-in-6-3/)
 - [Layout updates in the editor for WordPress 6.3](https://make.wordpress.org/core/2023/07/14/layout-updates-in-the-editor-for-wordpress-6-3/)
 - [WP_Query used internally in get_pages&lpar;&rpar;](https://make.wordpress.org/core/2023/07/14/wp_query-used-internally-in-get_pages/)
-- [Improved Caching for Database Queries in WP_User_Query](https://make.wordpress.org/core/2023/07/14/improved-caching-for-database-queries-in-wp_user_query/)
 <!-- CORE:END -->
 
 ## Design
