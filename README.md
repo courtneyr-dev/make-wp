@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Improvements to the Cache API in WordPress 6.3](https://make.wordpress.org/core/2023/07/17/improvements-to-the-cache-api-in-wordpress-6-3/)
 - [Social Icons block: Applied colors now dynamically update based on theme.json and Global Styles](https://make.wordpress.org/core/2023/07/17/social-icons-block-applied-colors-now-dynamically-update-based-on-theme-json-and-global-styles/)
 - [Introducing the Block Selectors API](https://make.wordpress.org/core/2023/07/17/introducing-the-block-selectors-api/)
 - [Editor chat summary: 12 July, 2023](https://make.wordpress.org/core/2023/07/14/editor-chat-summary-12-july-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP_Query used internally in get_pages&lpar;&rpar;](https://make.wordpress.org/core/2023/07/14/wp_query-used-internally-in-get_pages/)
 - [Improved Caching for Database Queries in WP_User_Query](https://make.wordpress.org/core/2023/07/14/improved-caching-for-database-queries-in-wp_user_query/)
 - [I18N Improvements in 6.3](https://make.wordpress.org/core/2023/07/14/i18n-improvements-in-6-3/)
-- [Registering scripts with `async` and `defer` attributes in WordPress 6.3](https://make.wordpress.org/core/2023/07/14/registering-scripts-with-async-and-defer-attributes-in-wordpress-6-3/)
 <!-- CORE:END -->
 
 ## Design
