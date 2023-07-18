@@ -496,6 +496,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.3 Release Candidate 1](https://wordpress.org/news/2023/07/wordpress-6-3-release-candidate-1/)
 - [WP Briefing: Episode 60: Sneak a Peek at WordPress 6.3 with Special Guest Mike Schroder](https://wordpress.org/news/2023/07/episode-60-sneak-a-peek-at-wordpress-6-3-with-special-guest-mike-schroder/)
 - [Designed with WordPress](https://wordpress.org/news/2023/07/designed-with-wordpress/)
 - [WordPress 6.3 Beta 4](https://wordpress.org/news/2023/07/wordpress-6-3-beta-4/)
@@ -505,7 +506,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [People of WordPress: Allison Dye](https://wordpress.org/news/2023/06/people-of-wordpress-allison-dye/)
 - [WordPress 6.3 Beta 2](https://wordpress.org/news/2023/06/wordpress-6-3-beta-2/)
 - [WP Briefing: Episode 58: A New Wave for WordPress Events](https://wordpress.org/news/2023/06/episode-58-a-new-wave-for-wordpress-events/)
-- [Twenty Years of WordPress at WCEU](https://wordpress.org/news/2023/06/twenty-years-of-wordpress-at-wceu/)
 <!-- NEWS:END -->
 
 ## Jobs
