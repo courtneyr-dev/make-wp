@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.3 Field Guide](https://make.wordpress.org/core/2023/07/18/wordpress-6-3-field-guide/)
 - [Miscellaneous developer changes in WordPress 6.3](https://make.wordpress.org/core/2023/07/18/miscellaneous-developer-changes-in-wordpress-6-3/)
 - [Performance Chat Agenda: 18 July 2023](https://make.wordpress.org/core/2023/07/18/performance-chat-agenda-18-july-2023/)
 - [Bundled themes dropping Internet Explorer scripts and styles](https://make.wordpress.org/core/2023/07/18/bundled-themes-dropping-internet-explorer-scripts-and-styles/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improvements to the Cache API in WordPress 6.3](https://make.wordpress.org/core/2023/07/17/improvements-to-the-cache-api-in-wordpress-6-3/)
 - [Social Icons block: Applied colors now dynamically update based on theme.json and Global Styles](https://make.wordpress.org/core/2023/07/17/social-icons-block-applied-colors-now-dynamically-update-based-on-theme-json-and-global-styles/)
 - [Introducing the Block Selectors API](https://make.wordpress.org/core/2023/07/17/introducing-the-block-selectors-api/)
-- [Editor chat summary: 12 July, 2023](https://make.wordpress.org/core/2023/07/14/editor-chat-summary-12-july-2023/)
 <!-- CORE:END -->
 
 ## Design
