@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello,](https://make.wordpress.org/polyglots/2023/07/18/hello-77/)
+- [PTE Request for Ultimate WordPress Auction Plugin](https://make.wordpress.org/polyglots/2023/07/18/pte-request-for-ultimate-wordpress-auction-plugin/)
 - [PTE Request for Role Based Hide Adminbar Plugin](https://make.wordpress.org/polyglots/2023/07/17/pte-request-for-role-based-hide-adminbar-plugin-2/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/polyglots/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [Polish translation for Limit Login Attempts Reloaded](https://make.wordpress.org/polyglots/2023/07/16/polish-translation-for-limit-login-attempts-reloaded/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Hello Elementor Theme, Astra Theme, ACF Plugin](https://make.wordpress.org/polyglots/2023/07/12/pte-request-for-hello-elementor-theme-astra-theme-acf-plugin/)
 - [Agenda: Weekly Polyglots Chat – July 12, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/12/agenda-weekly-polyglots-chat-july-12-2023-0700-utc/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/polyglots/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
-- [PTE Request for MojUredFiscalization Hello,…](https://make.wordpress.org/polyglots/2023/07/11/pte-request-for-mojuredfiscalization-hello/)
-- [PTE Request for Gossip](https://make.wordpress.org/polyglots/2023/07/09/pte-request-for-gossip/)
 <!-- POLYGLOTS:END -->
 
 ## Support
