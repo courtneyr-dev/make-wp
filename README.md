@@ -371,6 +371,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Marketing
 <!-- MARKETING:START -->
 - [X-post: Proposal: Let’s actively promote the Learn WordPress platform in Learn WordPress content](https://make.wordpress.org/marketing/2023/06/26/xpost-proposal-lets-actively-promote-the-learn-wordpress-platform-in-learn-wordpress-content/)
+- [Notes: Global Marketing Team meeting, 20 June 2023](https://make.wordpress.org/marketing/2023/06/26/notes-global-marketing-team-meeting-20-june-2023/)
 - [Notes: Global Marketing Team meeting, 13 June 2023](https://make.wordpress.org/marketing/2023/06/19/notes-global-marketing-team-meeting-13-june-2023/)
 - [Notes: Global Marketing Team meeting, 06 June 2023](https://make.wordpress.org/marketing/2023/06/12/notes-global-marketing-team-meeting-06-june-2023/)
 - [Notes: Global Marketing Team meeting, 30 May 2023](https://make.wordpress.org/marketing/2023/06/05/notes-global-marketing-team-meeting-30-may-2023/)
@@ -379,7 +380,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Day 20: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/27/day-20-wp20-from-blogs-to-blocks/)
 - [Day 19: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/26/day-19-wp20-from-blogs-to-blocks/)
 - [Day 18: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/25/day-18-wp20-from-blogs-to-blocks/)
-- [Day 17: #WP20 From Blogs to Blocks](https://make.wordpress.org/marketing/2023/05/24/day-17-wp20-from-blogs-to-blocks/)
 <!-- MARKETING:END -->
 
 ## CLI
