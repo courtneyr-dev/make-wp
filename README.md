@@ -199,7 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
-- [Présentation du tableau de bord](https://learn.wordpress.org/lesson-plan/presentation-du-tableau-de-bord/)
+- [Présentation du tableau de bord](https://learn.wordpress.org/lesson-plan/fr-dashboard-overview/)
 - [वर्डप्रेस रिपॉजिटरी में थीम अपलोड करें](https://learn.wordpress.org/lesson-plan/hi-upload-a-theme-to-the-wordpress-repository/)
 - [સંપૂર્ણ સાઇટ સંપાદકમાં બ્લોકોને તાળું કરવું](https://learn.wordpress.org/lesson-plan/gu-locking-blocks-in-the-full-site-editor/)
 - [ការជ្រើសរើស និងការដំឡើងរូបរាងវេបសាយ](https://learn.wordpress.org/lesson-plan/kh-choosing-and-installing-themes/)
