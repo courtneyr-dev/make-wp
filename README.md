@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – July 17, 2023](https://make.wordpress.org/core/2023/07/18/a-week-in-core-july-17-2023/)
 - [Performance Chat Summary: 11 July 2023](https://make.wordpress.org/core/2023/07/18/performance-chat-summary-18-july-2023/)
 - [WordPress 6.4: What’s on your wishlist?](https://make.wordpress.org/core/2023/07/18/wordpress-6-4-whats-on-your-wishlist/)
 - [WordPress 6.3 Field Guide](https://make.wordpress.org/core/2023/07/18/wordpress-6-3-field-guide/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Miscellaneous Editor changes in WordPress 6.3](https://make.wordpress.org/core/2023/07/18/miscellaneous-editor-changes-in-wordpress-6-3/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/core/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [Introducing the WordPress Command Palette API](https://make.wordpress.org/core/2023/07/17/introducing-the-wordpress-command-palette-api/)
-- [Improvements to the Cache API in WordPress 6.3](https://make.wordpress.org/core/2023/07/17/improvements-to-the-cache-api-in-wordpress-6-3/)
 <!-- CORE:END -->
 
 ## Design
