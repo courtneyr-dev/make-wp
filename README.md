@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Meta WordPress.org: Gujarati](https://make.wordpress.org/polyglots/2023/07/19/pte-request-for-meta-wordpress-org-gujarati/)
+- [Hi i want to upload many language translations](https://make.wordpress.org/polyglots/2023/07/19/hi-i-want-to-upload-many-language-translations/)
 - [Weekly Polyglots Chat – July 19, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/19/weekly-polyglots-chat-july-19-2023-1300-utc/)
 - [WordPress 6.3 ready to be translated](https://make.wordpress.org/polyglots/2023/07/18/wordpress-6-3-ready-to-be-translated/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/07/18/hello-77/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/polyglots/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [Polish translation for Limit Login Attempts Reloaded](https://make.wordpress.org/polyglots/2023/07/16/polish-translation-for-limit-login-attempts-reloaded/)
 - [PTE Request for Role Based Hide Adminbar Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-role-based-hide-adminbar-plugin/)
-- [Translations review request for rapidmail: Newsletter &amp; E-Mail Marketing for WooCommerce Plugin](https://make.wordpress.org/polyglots/2023/07/13/pte-request-for-rapidmail-newsletter-e-mail-marketing-for-woocommerce-plugin/)
-- [PTE Request for Hello Elementor Theme, Astra Theme, ACF Plugin](https://make.wordpress.org/polyglots/2023/07/12/pte-request-for-hello-elementor-theme-astra-theme-acf-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
