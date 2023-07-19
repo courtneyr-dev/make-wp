@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.3 Release Candidate Phase](https://make.wordpress.org/core/2023/07/19/wordpress-6-2-release-candidate-phase-2/)
 - [Editor Chat Agenda: July 19th, 2023](https://make.wordpress.org/core/2023/07/19/editor-chat-agenda-july-19th-2023/)
 - [A Week in Core – July 17, 2023](https://make.wordpress.org/core/2023/07/18/a-week-in-core-july-17-2023/)
 - [Dev Chat agenda, July 19, 2023](https://make.wordpress.org/core/2023/07/18/dev-chat-agenda-july-19-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Miscellaneous developer changes in WordPress 6.3](https://make.wordpress.org/core/2023/07/18/miscellaneous-developer-changes-in-wordpress-6-3/)
 - [Performance Chat Agenda: 18 July 2023](https://make.wordpress.org/core/2023/07/18/performance-chat-agenda-18-july-2023/)
 - [Bundled themes dropping Internet Explorer scripts and styles](https://make.wordpress.org/core/2023/07/18/bundled-themes-dropping-internet-explorer-scripts-and-styles/)
-- [Miscellaneous Editor changes in WordPress 6.3](https://make.wordpress.org/core/2023/07/18/miscellaneous-editor-changes-in-wordpress-6-3/)
 <!-- CORE:END -->
 
 ## Design
