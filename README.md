@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Chat Agenda: July 19th, 2023](https://make.wordpress.org/core/2023/07/19/editor-chat-agenda-july-19th-2023/)
 - [A Week in Core – July 17, 2023](https://make.wordpress.org/core/2023/07/18/a-week-in-core-july-17-2023/)
 - [Dev Chat agenda, July 19, 2023](https://make.wordpress.org/core/2023/07/18/dev-chat-agenda-july-19-2023/)
 - [Performance Chat Summary: 11 July 2023](https://make.wordpress.org/core/2023/07/18/performance-chat-summary-18-july-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 18 July 2023](https://make.wordpress.org/core/2023/07/18/performance-chat-agenda-18-july-2023/)
 - [Bundled themes dropping Internet Explorer scripts and styles](https://make.wordpress.org/core/2023/07/18/bundled-themes-dropping-internet-explorer-scripts-and-styles/)
 - [Miscellaneous Editor changes in WordPress 6.3](https://make.wordpress.org/core/2023/07/18/miscellaneous-editor-changes-in-wordpress-6-3/)
-- [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/core/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 <!-- CORE:END -->
 
 ## Design
