@@ -117,14 +117,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- DEVHUB:START -->
 - [@wordpress/create-block-interactive-template](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block-interactive-template/)
 - [@wordpress/interactivity](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity/)
-- [google-sitemap](https://developer.wordpress.org/cli/commands/google-sitemap/)
-- [doctor](https://developer.wordpress.org/cli/commands/doctor/)
-- [doctor list](https://developer.wordpress.org/cli/commands/doctor/list/)
-- [super-cache](https://developer.wordpress.org/cli/commands/super-cache/)
 - [doctor check](https://developer.wordpress.org/cli/commands/doctor/check/)
-- [cache supports](https://developer.wordpress.org/cli/commands/cache/supports/)
-- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
 - [maintenance](https://developer.wordpress.org/cli/commands/maintenance/)
+- [doctor](https://developer.wordpress.org/cli/commands/doctor/)
+- [google-sitemap rebuild](https://developer.wordpress.org/cli/commands/google-sitemap/rebuild/)
+- [google-sitemap](https://developer.wordpress.org/cli/commands/google-sitemap/)
+- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
+- [cache supports](https://developer.wordpress.org/cli/commands/cache/supports/)
+- [doctor list](https://developer.wordpress.org/cli/commands/doctor/list/)
 <!-- DEVHUB:END -->
 
 ## Themes
