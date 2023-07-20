@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Regex Textfield: Gravityforms Add-on](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-regex-textfield-gravityforms-add-on/)
 - [PTE Request for TEXTY plugin](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-texty-plugin/)
 - [PTE Request for Meta WordPress.org: Gujarati](https://make.wordpress.org/polyglots/2023/07/19/pte-request-for-meta-wordpress-org-gujarati/)
 - [Hi i want to upload many language translations](https://make.wordpress.org/polyglots/2023/07/19/hi-i-want-to-upload-many-language-translations/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Ultimate WordPress Auction Plugin](https://make.wordpress.org/polyglots/2023/07/18/pte-request-for-ultimate-wordpress-auction-plugin/)
 - [PTE Request for Role Based Hide Adminbar Plugin](https://make.wordpress.org/polyglots/2023/07/17/pte-request-for-role-based-hide-adminbar-plugin-2/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/polyglots/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
-- [Polish translation for Limit Login Attempts Reloaded](https://make.wordpress.org/polyglots/2023/07/16/polish-translation-for-limit-login-attempts-reloaded/)
 <!-- POLYGLOTS:END -->
 
 ## Support
