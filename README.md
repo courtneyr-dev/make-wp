@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Matrix chat Summary – July 20, 2023](https://make.wordpress.org/meta/2023/07/20/matrix-chat-summary-july-20-2023/)
 - [Make Team Dashboards](https://make.wordpress.org/meta/2023/06/20/make-team-dashboards/)
 - [Triaging open issues on Trac for Make Teams](https://make.wordpress.org/meta/2023/06/15/triaging-open-issues-on-trac-for-make-teams/)
 - [New Filter Controls: Discover “Commercial” and “Community” in the Theme and Plugin Directory](https://make.wordpress.org/meta/2023/06/13/new-filter-controls-discover-commercial-and-community-in-the-theme-and-plugin-directory/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meta at WCEU 2023 Contributor Day](https://make.wordpress.org/meta/2023/06/02/meta-at-wceu-2023-contributor-day/)
 - [Agenda: Biweekly Matrix Chat – Thu, June 1, 2023 &lpar;10AM UTC&rpar;](https://make.wordpress.org/meta/2023/05/31/agenda-biweekly-matrix-chat-thu-june-1-2023-10am-utc/)
 - [Two-Factor Auth available to test on WordPress.org](https://make.wordpress.org/meta/2023/05/31/two-factor-auth-available-to-test-on-wordpress-org/)
-- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/meta/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 <!-- META:END -->
 
 ## Training
