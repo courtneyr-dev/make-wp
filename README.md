@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello,](https://make.wordpress.org/polyglots/2023/07/21/hello-78/)
 - [PTE Request for the Pixel Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-the-pixel-manager-for-woocommerce/)
 - [PTE Request for Regex Textfield: Gravityforms Add-on](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-regex-textfield-gravityforms-add-on/)
 - [PTE Request for TEXTY plugin](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-texty-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.3 ready to be translated](https://make.wordpress.org/polyglots/2023/07/18/wordpress-6-3-ready-to-be-translated/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/07/18/hello-77/)
 - [PTE Request for Ultimate WordPress Auction Plugin](https://make.wordpress.org/polyglots/2023/07/18/pte-request-for-ultimate-wordpress-auction-plugin/)
-- [PTE Request for Role Based Hide Adminbar Plugin](https://make.wordpress.org/polyglots/2023/07/17/pte-request-for-role-based-hide-adminbar-plugin-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
