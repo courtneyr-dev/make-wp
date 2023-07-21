@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: JULY 2023](https://make.wordpress.org/community/2023/07/21/meetup-organizer-newsletter-july-2023/)
 - [Q3: Community Team Process and Documentation Updates](https://make.wordpress.org/community/2023/07/20/q3-community-team-process-and-documentation-updates/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 12, 2023](https://make.wordpress.org/community/2023/07/13/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-12-2023/)
 - [New handbook page for WordCamp Organizers: WordCamp Speaker Selection &lpar;for content AND diversity&rpar;](https://make.wordpress.org/community/2023/07/13/new-handbook-page-for-wordcamp-organizers-wordcamp-speaker-selection-for-content-and-diversity/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCUS 2023 Contributor Day: Help Needed!](https://make.wordpress.org/community/2023/07/05/wcus-2023-contributor-day-help-needed/)
 - [WCUS 2023 Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/07/05/wcus-2023-contributor-day-what-should-we-work-on/)
 - [Incident Report: Recent Cancelation of a WordCamp](https://make.wordpress.org/community/2023/07/03/incident-report-recent-cancelation-of-a-wordcamp/)
-- [WordCamp Mentors’ July check-in!](https://make.wordpress.org/community/2023/07/03/wordcamp-mentors-july-check-in/)
 <!-- COMMUNITY:END -->
 
 ## Meta
