@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Text To Speech TTS plugin](https://make.wordpress.org/polyglots/2023/07/21/pte-request-for-text-to-speech-tts-plugin/)
+- [Hello, so far I have…](https://make.wordpress.org/polyglots/2023/07/21/hello-so-far-i-have/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/07/21/hello-78/)
 - [PTE Request for the Pixel Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-the-pixel-manager-for-woocommerce/)
 - [PTE Request for Regex Textfield: Gravityforms Add-on](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-regex-textfield-gravityforms-add-on/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi i want to upload many language translations](https://make.wordpress.org/polyglots/2023/07/19/hi-i-want-to-upload-many-language-translations/)
 - [Weekly Polyglots Chat – July 19, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/19/weekly-polyglots-chat-july-19-2023-1300-utc/)
 - [WordPress 6.3 ready to be translated](https://make.wordpress.org/polyglots/2023/07/18/wordpress-6-3-ready-to-be-translated/)
-- [Hello,](https://make.wordpress.org/polyglots/2023/07/18/hello-77/)
-- [PTE Request for Ultimate WordPress Auction Plugin](https://make.wordpress.org/polyglots/2023/07/18/pte-request-for-ultimate-wordpress-auction-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
