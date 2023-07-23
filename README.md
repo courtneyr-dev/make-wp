@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for GenerateBlocks](https://make.wordpress.org/polyglots/2023/07/23/pte-request-for-generateblocks/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/07/22/hello-79/)
 - [PTE Request for Text To Speech TTS plugin](https://make.wordpress.org/polyglots/2023/07/21/pte-request-for-text-to-speech-tts-plugin/)
 - [Hello, so far I have…](https://make.wordpress.org/polyglots/2023/07/21/hello-so-far-i-have/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for TEXTY plugin](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-texty-plugin/)
 - [PTE Request for Meta WordPress.org: Gujarati](https://make.wordpress.org/polyglots/2023/07/19/pte-request-for-meta-wordpress-org-gujarati/)
 - [Hi i want to upload many language translations](https://make.wordpress.org/polyglots/2023/07/19/hi-i-want-to-upload-many-language-translations/)
-- [Weekly Polyglots Chat – July 19, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/19/weekly-polyglots-chat-july-19-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
