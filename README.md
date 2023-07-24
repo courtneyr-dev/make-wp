@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Amanda Noronha Araujo: O SEO da próxima década e o que esperar do futuro – O fim é o começo](https://wordpress.tv/2023/07/24/amanda-noronha-araujo-o-seo-da-proxima-decada-e-o-que-esperar-do-futuro-o-fim-e-o-comeco/)
 - [David Arty: Como ganhar dinheiro e viver de Marketing Digital utilizando o WordPress?](https://wordpress.tv/2023/07/24/david-arty-como-ganhar-dinheiro-e-viver-de-marketing-digital-utilizando-o-wordpress/)
 - [Allyson Souza: Crie blocos com JavaScript e React](https://wordpress.tv/2023/07/24/allyson-souza-crie-blocos-com-javascript-e-react/)
 - [Eliane Quadro: Seu site limita o acesso dos usuários? Como boas práticas ajudam na usabilidade e acessibilidade](https://wordpress.tv/2023/07/24/eliane-quadro-seu-site-limita-o-acesso-dos-usuarios-como-boas-praticas-ajudam-na-usabilidade-e-acessibilidade/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Categories vs. Tags: What’s the difference?](https://wordpress.tv/2023/07/07/categories-vs-tags-whats-the-difference/)
 - [Contributing to the WordPress Training Team](https://wordpress.tv/2023/07/07/contributing-to-the-wordpress-training-team/)
 - [Common WordPress APIs: Dashboard Widgets](https://wordpress.tv/2023/07/07/common-wordpress-apis-dashboard-widgets/)
-- [Debugging in WordPress](https://wordpress.tv/2023/07/07/jonathan-bossenger-debugging-in-wordpress-tutorial/)
 <!-- WPTV:END -->
 
 ## Marketing
