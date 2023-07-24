@@ -341,6 +341,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [David Arty: Como ganhar dinheiro e viver de Marketing Digital utilizando o WordPress?](https://wordpress.tv/2023/07/24/david-arty-como-ganhar-dinheiro-e-viver-de-marketing-digital-utilizando-o-wordpress/)
+- [Allyson Souza: Crie blocos com JavaScript e React](https://wordpress.tv/2023/07/24/allyson-souza-crie-blocos-com-javascript-e-react/)
+- [Eliane Quadro: Seu site limita o acesso dos usuários? Como boas práticas ajudam na usabilidade e acessibilidade](https://wordpress.tv/2023/07/24/eliane-quadro-seu-site-limita-o-acesso-dos-usuarios-como-boas-praticas-ajudam-na-usabilidade-e-acessibilidade/)
+- [Luciane Costa: Pare de escrever para o robô, conteúdo que encanta e converte](https://wordpress.tv/2023/07/24/luciane-costa-pare-de-escrever-para-o-robo-conteudo-que-encanta-e-converte/)
 - [Jan Tichý :Nové příležitosti a výzvy s Google Analytics](https://wordpress.tv/2023/07/24/jan-tichy-nove-prilezitosti-a-vyzvy-s-google-analytics/)
 - [Barbora Nováková :Poznejte svou cílovku. No jo, ale jak?](https://wordpress.tv/2023/07/24/barbora-novakova-poznejte-svou-cilovku-no-jo-ale-jak/)
 - [Michal Janata: Michal Janata: Jak na překlady WordPressu](https://wordpress.tv/2023/07/24/michal-janata-michal-janata-jak-na-preklady-wordpressu/)
@@ -362,10 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contributing to the WordPress Training Team](https://wordpress.tv/2023/07/07/contributing-to-the-wordpress-training-team/)
 - [Common WordPress APIs: Dashboard Widgets](https://wordpress.tv/2023/07/07/common-wordpress-apis-dashboard-widgets/)
 - [Debugging in WordPress](https://wordpress.tv/2023/07/07/jonathan-bossenger-debugging-in-wordpress-tutorial/)
-- [Designing with row and stack blocks](https://wordpress.tv/2023/07/03/designing-with-row-and-stack-blocks/)
-- [Qué es el equipo de soporte y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-soporte-y-como-colaborar-con-el/)
-- [Qué es el equipo de traducciones y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-traducciones-y-como-colaborar-con-el/)
-- [Qué es el equipo de WordPressTV y cómo colaborar con él](https://wordpress.tv/2023/07/02/que-es-el-equipo-de-wordpresstv-y-como-colaborar-con-el/)
 <!-- WPTV:END -->
 
 ## Marketing
