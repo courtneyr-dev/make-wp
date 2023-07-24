@@ -454,6 +454,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Documentation Team Update – July 24, 2023](https://make.wordpress.org/updates/2023/07/24/documentation-team-update-july-24-2023/)
 - [Plugin Review Team: 24 Jul 2023](https://make.wordpress.org/updates/2023/07/24/plugin-review-team-24-jul-2023/)
 - [Themes team update July 18, 2023](https://make.wordpress.org/updates/2023/07/18/themes-team-update-july-18-2023/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/updates/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
@@ -463,7 +464,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/updates/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [Themes team update July 12, 2023](https://make.wordpress.org/updates/2023/07/12/themes-team-update-july-12-2023/)
 - [Test Team Update: 10 July 2023](https://make.wordpress.org/updates/2023/07/10/test-team-update-10-july-2023/)
-- [Plugin Review Team: 09 Jul 2023](https://make.wordpress.org/updates/2023/07/10/plugin-review-team-09-jul-2023/)
 <!-- UPDATES:END -->
 
 ## Project
