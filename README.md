@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/community/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 - [Meetup Organizer Newsletter: JULY 2023](https://make.wordpress.org/community/2023/07/21/meetup-organizer-newsletter-july-2023/)
 - [Q3: Community Team Process and Documentation Updates](https://make.wordpress.org/community/2023/07/20/q3-community-team-process-and-documentation-updates/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 12, 2023](https://make.wordpress.org/community/2023/07/13/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-12-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 6 July, 2023](https://make.wordpress.org/community/2023/07/05/community-team-meeting-agenda-for-6-july-2023/)
 - [WCUS 2023 Contributor Day: Help Needed!](https://make.wordpress.org/community/2023/07/05/wcus-2023-contributor-day-help-needed/)
 - [WCUS 2023 Contributor Day: What should we work on?](https://make.wordpress.org/community/2023/07/05/wcus-2023-contributor-day-what-should-we-work-on/)
-- [Incident Report: Recent Cancelation of a WordCamp](https://make.wordpress.org/community/2023/07/03/incident-report-recent-cancelation-of-a-wordcamp/)
 <!-- COMMUNITY:END -->
 
 ## Meta
