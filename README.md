@@ -60,7 +60,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Polyglots
 <!-- POLYGLOTS:START -->
 - [I suggested several translations for…](https://make.wordpress.org/polyglots/2023/07/24/i-suggested-several-translations-for/)
-- [Hello,](https://make.wordpress.org/polyglots/2023/07/24/hello-80/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar; &amp; WooCommerce](https://make.wordpress.org/polyglots/2023/07/24/pte-request-for-advanced-custom-fields-acf-woocommerce/)
 - [PTE Request for – &lpar;All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic&rpar;](https://make.wordpress.org/polyglots/2023/07/24/pte-request-for-all-in-one-seo-best-wordpress-seo-plugin-easily-improve-seo-rankings-increase-traffic/)
 - [GTE Request for Gujarati Language](https://make.wordpress.org/polyglots/2023/07/24/gte-request-for-gujarati-language-2/)
@@ -69,6 +68,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello,](https://make.wordpress.org/polyglots/2023/07/22/hello-79/)
 - [PTE Request for Text To Speech TTS plugin](https://make.wordpress.org/polyglots/2023/07/21/pte-request-for-text-to-speech-tts-plugin/)
 - [Hello, so far I have…](https://make.wordpress.org/polyglots/2023/07/21/hello-so-far-i-have/)
+- [Hello,](https://make.wordpress.org/polyglots/2023/07/21/hello-78/)
 <!-- POLYGLOTS:END -->
 
 ## Support
