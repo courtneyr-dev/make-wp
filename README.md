@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE Request for Gujarati Language](https://make.wordpress.org/polyglots/2023/07/24/gte-request-for-gujarati-language-2/)
 - [PTE Request for Elementor](https://make.wordpress.org/polyglots/2023/07/23/pte-request-for-elementor/)
 - [PTE Request for GenerateBlocks](https://make.wordpress.org/polyglots/2023/07/23/pte-request-for-generateblocks/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/07/22/hello-79/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for the Pixel Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-the-pixel-manager-for-woocommerce/)
 - [PTE Request for Regex Textfield: Gravityforms Add-on](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-regex-textfield-gravityforms-add-on/)
 - [PTE Request for TEXTY plugin](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-texty-plugin/)
-- [PTE Request for Meta WordPress.org: Gujarati](https://make.wordpress.org/polyglots/2023/07/19/pte-request-for-meta-wordpress-org-gujarati/)
 <!-- POLYGLOTS:END -->
 
 ## Support
