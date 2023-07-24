@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Custom Fields &lpar;ACF&rpar; &amp; WooCommerce](https://make.wordpress.org/polyglots/2023/07/24/pte-request-for-advanced-custom-fields-acf-woocommerce/)
 - [PTE Request for – &lpar;All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic&rpar;](https://make.wordpress.org/polyglots/2023/07/24/pte-request-for-all-in-one-seo-best-wordpress-seo-plugin-easily-improve-seo-rankings-increase-traffic/)
 - [GTE Request for Gujarati Language](https://make.wordpress.org/polyglots/2023/07/24/gte-request-for-gujarati-language-2/)
 - [PTE Request for Elementor](https://make.wordpress.org/polyglots/2023/07/23/pte-request-for-elementor/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, so far I have…](https://make.wordpress.org/polyglots/2023/07/21/hello-so-far-i-have/)
 - [Hello,](https://make.wordpress.org/polyglots/2023/07/21/hello-78/)
 - [PTE Request for the Pixel Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-the-pixel-manager-for-woocommerce/)
-- [PTE Request for Regex Textfield: Gravityforms Add-on](https://make.wordpress.org/polyglots/2023/07/20/pte-request-for-regex-textfield-gravityforms-add-on/)
 <!-- POLYGLOTS:END -->
 
 ## Support
