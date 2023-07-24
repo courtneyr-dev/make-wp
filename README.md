@@ -551,7 +551,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Masaka 2023](https://central.wordcamp.org/wordcamps/wordcamp-masaka-2/)
 - [WordCamp Asia 2024](https://central.wordcamp.org/wordcamps/wordcamp-asia-2024/)
 - [WordCamp Tokyo 2023](https://central.wordcamp.org/wordcamps/wordcamp-tokyo-2023/)
-- [WordCamp Bhopal, Madhya Pradesh, India](https://central.wordcamp.org/wordcamps/wordcamp-bhopal-madhya-pradesh-india-4/)
+- [WordCamp Bhopal 2023](https://central.wordcamp.org/wordcamps/wordcamp-bhopal-madhya-pradesh-india-4/)
 - [WordCamp Vancouver, British Columbia, Canada](https://central.wordcamp.org/wordcamps/wordcamp-vancouver-british-columbia-canada-2/)
 - [WordCamp Atlanta 2023](https://central.wordcamp.org/wordcamps/wordcamp-atlanta-2023/)
 - [WordCamp Germany](https://central.wordcamp.org/wordcamps/wordcamp-germany/)
