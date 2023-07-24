@@ -314,6 +314,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 24 July 2023](https://make.wordpress.org/test/2023/07/24/xpost-test-team-update-24-july-2023/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/test/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/test/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: Test Team Update: 10 July 2023](https://make.wordpress.org/test/2023/07/10/xpost-test-team-update-10-july-2023/)
@@ -323,7 +324,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 26 June 2023](https://make.wordpress.org/test/2023/06/26/xpost-test-team-update-26-june-2023/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/test/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [X-post: Test Team Update: 19 June 2023](https://make.wordpress.org/test/2023/06/19/xpost-test-team-update-19-june-2023/)
-- [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/test/2023/06/15/xpost-triaging-open-issues-on-trac-for-make-teams/)
 <!-- TEST:END -->
 
 ## TV
