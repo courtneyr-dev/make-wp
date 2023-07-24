@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/docs/2023/07/24/online-monthly-docs-team-contributor-day-july-25-2023/)
 - [Call for volunteers to help with 6.3 end-user documentation](https://make.wordpress.org/docs/2023/07/18/call-for-volunteers-to-help-with-6-3-end-user-documentation/)
 - [Agenda for Docs Team bi-weekly meeting July 18, 2023](https://make.wordpress.org/docs/2023/07/18/agenda-for-docs-team-bi-weekly-meeting-july-18-2023/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/docs/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for Docs Team bi-weekly meeting July 4, 2023](https://make.wordpress.org/docs/2023/07/04/agenda-for-docs-team-bi-weekly-meeting-july-4-2023/)
 - [X-post: Proposal: Let’s actively promote the Learn WordPress platform in Learn WordPress content](https://make.wordpress.org/docs/2023/06/26/xpost-proposal-lets-actively-promote-the-learn-wordpress-platform-in-learn-wordpress-content/)
 - [Online monthly Docs Team Contributor Day June 27, 2023](https://make.wordpress.org/docs/2023/06/23/online-monthly-docs-team-contributor-day-june-27-2023/)
-- [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/docs/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 <!-- DOCS:END -->
 
 ### Support Articles
