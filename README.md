@@ -512,7 +512,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:START -->
 - [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-4/)
 - [Plug-in development](https://jobs.wordpress.net/job/plug-in-development-2/)
-- [Senior WordPress Engineer](https://jobs.wordpress.net/job/senior-wordpress-engineer-17/)
 - [[Astra] R &amp; D Specialist – WordPress](https://jobs.wordpress.net/job/astra-r-d-specialist-wordpress/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-17/)
 - [Web Developers for Auto Safety – Cause Marketing Partners](https://jobs.wordpress.net/job/web-developers-for-auto-safety-cause-marketing-partners-3/)
@@ -520,6 +519,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] WordPress Trainer](https://jobs.wordpress.net/job/rtcamp-wordpress-trainer-23/)
 - [[rtCamp] Lead WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-lead-wordpress-engineer-4/)
 - [[rtCamp] Lead React Engineer](https://jobs.wordpress.net/job/rtcamp-lead-react-engineer-4/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-54/)
 <!-- JOBS:END -->
 
 ## Central
