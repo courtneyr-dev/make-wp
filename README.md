@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Tackling team challenges together](https://make.wordpress.org/plugins/2023/07/24/tackling-team-challenges-together/)
 - [Plugin Review Team Update: The next phase begins](https://make.wordpress.org/plugins/2023/06/29/plugin-review-team-update-the-next-phase-begins/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/plugins/2023/06/26/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/plugins/2023/06/15/xpost-triaging-open-issues-on-trac-for-make-teams/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/plugins/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [Use of Code Generators Must Remain GPL Compatible](https://make.wordpress.org/plugins/2023/03/21/use-of-code-generators-must-remain-gpl-compatible/)
 - [Advance Notice of Retirement](https://make.wordpress.org/plugins/2023/03/10/advance-notice-of-retirement/)
-- [X-post: Introduction to WordPress Development: A proposed learning path](https://make.wordpress.org/plugins/2023/03/08/xpost-introduction-to-wordpress-development-a-proposed-learning-path/)
 <!-- PLUGINS:END -->
 
 ## Community
