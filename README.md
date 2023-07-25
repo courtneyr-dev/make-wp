@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Call for Volunteers to help with 6.3 Learn WordPress updates](https://make.wordpress.org/training/2023/07/25/call-for-volunteers-to-help-with-6-3-learn-wordpress-updates/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/training/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/training/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [Training Team Meeting Recap – 11th July 2023](https://make.wordpress.org/training/2023/07/17/training-team-meeting-recap-11th-july-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcement: Updates to team meeting times](https://make.wordpress.org/training/2023/07/08/announcement-updates-to-team-meeting-times/)
 - [Project Thread: Learning Pathways on Learn WordPress](https://make.wordpress.org/training/2023/07/07/project-thread-learning-pathways-on-learn-wordpress/)
 - [Training Team Meeting Recap – 4th July 2023](https://make.wordpress.org/training/2023/07/06/training-team-meeting-recap-4th-july-2023/)
-- [Expertise needed: Learn how to vet content topic ideas for the Training Team](https://make.wordpress.org/training/2023/07/04/expertise-needed-learn-how-to-vet-content-topic-ideas-for-the-training-team/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
