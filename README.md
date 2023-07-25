@@ -524,6 +524,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [WordCamp Masaka 2023: Celebrating Inclusion, Diversity, and Innovation with WordPress in Uganda’s Pearl of Africa!](https://central.wordcamp.org/news/2023/07/wordcamp-masaka-2023-celebrating-inclusion-diversity-and-innovation-with-wordpress-in-ugandas-pearl-of-africa/)
 - [WordCamp Dhaka 2023 Has Been Cancelled](https://central.wordcamp.org/news/2023/07/wordcamp-dhaka-2023-has-been-cancelled/)
 - [WordCamp Rochester is Back!](https://central.wordcamp.org/news/2023/07/wordcamp-rochester-is-back/)
 - [WordCamp San José 2023: Looking For Speakers And Sponsors!](https://central.wordcamp.org/news/2023/07/wordcamp-san-jose-2023-looking-for-speakers-and-sponsors/)
@@ -538,7 +539,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Thanks to Automattic for sponsoring community events worldwide](https://central.wordcamp.org/news/2023/02/thanks-to-automattic-for-sponsoring-community-events-worldwide/)
 - [GoDaddy joins the WordPress global community sponsorship program in 2023](https://central.wordcamp.org/news/2023/02/godaddy-joins-the-wordpress-global-community-sponsorship-program-in-2023/)
 - [Thanks to Weglot for supporting the global WordPress community](https://central.wordcamp.org/news/2023/02/weglot-supports-the-global-wordpress-community/)
-- [WordCamp Entebbe: First Wordcamp to happen in Africa in 2023 is on!](https://central.wordcamp.org/news/2023/01/wordcamp-entebbe-first-wordcamp-to-happen-in-africa-in-2023-is-on/)
 <!-- Central:END -->
 
 ### WordCamp
