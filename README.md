@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Testing WordPress 6.3 – Developer edition](https://learn.wordpress.org/?meeting=testing-wordpress-6-3-developer-edition)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-3)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-2)
 - [Mentorship Program: Introduction to the WordPress Open Source Project](https://learn.wordpress.org/?meeting=mentorship-program-introduction-to-the-wordpress-open-source-project)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team-2)
 - [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team)
 - [Contributing to the WordPress Training Team](https://learn.wordpress.org/?meeting=contributing-to-the-wordpress-training-team)
-- [Common WordPress APIs: Dashboard Widgets](https://learn.wordpress.org/?meeting=common-wordpress-apis-dashboard-widgets)
 <!-- SLS:END -->
 
 ## Test
