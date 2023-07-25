@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mentorship Program: Introduction to the WordPress Open Source Project](https://wordpress.tv/2023/07/25/mentorship-program-introduction-to-the-wordpress-open-source-project/)
 - [Amanda Noronha Araujo: O SEO da próxima década e o que esperar do futuro – O fim é o começo](https://wordpress.tv/2023/07/24/amanda-noronha-araujo-o-seo-da-proxima-decada-e-o-que-esperar-do-futuro-o-fim-e-o-comeco/)
 - [David Arty: Como ganhar dinheiro e viver de Marketing Digital utilizando o WordPress?](https://wordpress.tv/2023/07/24/david-arty-como-ganhar-dinheiro-e-viver-de-marketing-digital-utilizando-o-wordpress/)
 - [Allyson Souza: Crie blocos com JavaScript e React](https://wordpress.tv/2023/07/24/allyson-souza-crie-blocos-com-javascript-e-react/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Errores más comunes al desarrollar un Plugin](https://wordpress.tv/2023/07/08/errores-mas-comunes-al-desarrollar-un-plugin/)
 - [Categories vs. Tags: What’s the difference?](https://wordpress.tv/2023/07/07/categories-vs-tags-whats-the-difference/)
 - [Contributing to the WordPress Training Team](https://wordpress.tv/2023/07/07/contributing-to-the-wordpress-training-team/)
-- [Common WordPress APIs: Dashboard Widgets](https://wordpress.tv/2023/07/07/common-wordpress-apis-dashboard-widgets/)
 <!-- WPTV:END -->
 
 ## Marketing
