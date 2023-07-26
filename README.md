@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Proposal: Next Generation Event URL](https://make.wordpress.org/community/2023/07/26/proposal-next-generation-event-url/)
 - [Can You Help the Week of WCUS 2023?](https://make.wordpress.org/community/2023/07/25/wcus-2023-call-for-help/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/community/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 - [Meetup Organizer Newsletter: JULY 2023](https://make.wordpress.org/community/2023/07/21/meetup-organizer-newsletter-july-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of the Q2 Community Team Role Updates](https://make.wordpress.org/community/2023/07/12/summary-of-the-q2-community-team-role-updates/)
 - [Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/community/2023/07/12/announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [Community Team Meeting Agenda for 6 July, 2023](https://make.wordpress.org/community/2023/07/05/community-team-meeting-agenda-for-6-july-2023/)
-- [WCUS 2023 Contributor Day: Help Needed!](https://make.wordpress.org/community/2023/07/05/wcus-2023-contributor-day-help-needed/)
 <!-- COMMUNITY:END -->
 
 ## Meta
