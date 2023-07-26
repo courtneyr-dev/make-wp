@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Onboarding to Test Team](https://learn.wordpress.org/?meeting=onboarding-to-test-team)
 - [Testing WordPress 6.3 – Developer edition](https://learn.wordpress.org/?meeting=testing-wordpress-6-3-developer-edition)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-3)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-2)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Goodbye Reusable Blocks—Hello Synced Patterns &lpar;and more&rpar;](https://learn.wordpress.org/?meeting=builder-basics-goodbye-reusable-blocks-hello-synced-patterns-and-more)
 - [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team-2)
 - [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team)
-- [Contributing to the WordPress Training Team](https://learn.wordpress.org/?meeting=contributing-to-the-wordpress-training-team)
 <!-- SLS:END -->
 
 ## Test
