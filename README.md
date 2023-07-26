@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Developer Hours – Styling Blocks &lpar;July 2023&rpar;](https://wordpress.tv/2023/07/26/wordpress-developer-hours-styling-blocks-july-2023/)
 - [企業によるWordPress コントリビュート成功事例: スキルアップとグローバル参加の機会](https://wordpress.tv/2023/07/26/fiveforthefuturejapanmeetup-2023-07-18/)
 - [Mentorship Program: Introduction to the WordPress Open Source Project](https://wordpress.tv/2023/07/25/mentorship-program-introduction-to-the-wordpress-open-source-project/)
 - [Amanda Noronha Araujo: O SEO da próxima década e o que esperar do futuro – O fim é o começo](https://wordpress.tv/2023/07/24/amanda-noronha-araujo-o-seo-da-proxima-decada-e-o-que-esperar-do-futuro-o-fim-e-o-comeco/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tips and shortcuts for using the block editor &amp; streamlining content creation](https://wordpress.tv/2023/07/11/tips-and-shortcuts-for-using-the-block-editor-streamlining-content-creation/)
 - [7 Tips to improve website security](https://wordpress.tv/2023/07/11/7-tips-to-improve-website-security/)
 - [Errores más comunes al desarrollar un Plugin](https://wordpress.tv/2023/07/08/errores-mas-comunes-al-desarrollar-un-plugin/)
-- [Categories vs. Tags: What’s the difference?](https://wordpress.tv/2023/07/07/categories-vs-tags-whats-the-difference/)
 <!-- WPTV:END -->
 
 ## Marketing
