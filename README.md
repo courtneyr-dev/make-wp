@@ -510,6 +510,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Freelance project](https://jobs.wordpress.net/job/freelance-project/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-807/)
 - [Designer](https://jobs.wordpress.net/job/designer-13/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-18/)
@@ -519,7 +520,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] R &amp; D Specialist – WordPress](https://jobs.wordpress.net/job/astra-r-d-specialist-wordpress/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-17/)
 - [Web Developers for Auto Safety – Cause Marketing Partners](https://jobs.wordpress.net/job/web-developers-for-auto-safety-cause-marketing-partners-3/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-806/)
 <!-- JOBS:END -->
 
 ## Central
