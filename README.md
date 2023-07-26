@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Custom Fields &lpar;ACF&rpar; &amp; WooCommerce](https://make.wordpress.org/polyglots/2023/07/26/pte-request-for-advanced-custom-fields-acf-woocommerce-2/)
 - [Agenda: Weekly Polyglots Chat – July 26, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/26/agenda-weekly-polyglots-chat-july-26-2023-0700-utc/)
 - [PTE Request for WordPress 6.3.x](https://make.wordpress.org/polyglots/2023/07/26/pte-request-for-wordpress-6-3-x/)
 - [PTE Request for CRM WordPress Plugin – RepairBuddy](https://make.wordpress.org/polyglots/2023/07/25/pte-request-for-crm-wordpress-plugin-repairbuddy-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2023/07/25/pte-request-for-woocommerce-10/)
 - [GTE Request for Occitan Language](https://make.wordpress.org/polyglots/2023/07/25/gte-request-for-occitan-language/)
 - [PTE Request for WordPress 6.2.x](https://make.wordpress.org/polyglots/2023/07/25/pte-request-for-wordpress-6-2-x/)
-- [I suggested several translations for…](https://make.wordpress.org/polyglots/2023/07/24/i-suggested-several-translations-for/)
 <!-- POLYGLOTS:END -->
 
 ## Support
