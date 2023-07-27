@@ -285,6 +285,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [APAC: Exploring some of the new 6.3 WordPress features](https://learn.wordpress.org/?meeting=apac-exploring-some-of-the-new-6-3-wordpress-features)
+- [Exploring some of the new 6.3 WordPress features](https://learn.wordpress.org/?meeting=exploring-some-of-the-new-6-3-wordpress-features)
 - [Onboarding to Test Team](https://learn.wordpress.org/?meeting=onboarding-to-test-team)
 - [Testing WordPress 6.3 – Developer edition](https://learn.wordpress.org/?meeting=testing-wordpress-6-3-developer-edition)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-3)
@@ -308,8 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live stream: Exploring the existing SlotFills for extending Gutenberg](https://learn.wordpress.org/?meeting=live-stream-exploring-the-existing-slotfills-for-extending-gutenberg)
 - [Live stream: Reviewing Gutenberg Features 15.7 – 16.1](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-features-15-7-16-1)
 - [Builder Basics: Goodbye Reusable Blocks—Hello Synced Patterns &lpar;and more&rpar;](https://learn.wordpress.org/?meeting=builder-basics-goodbye-reusable-blocks-hello-synced-patterns-and-more)
-- [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team-2)
-- [How to vet content topic ideas for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-vet-content-topic-ideas-for-the-wordpress-training-team)
 <!-- SLS:END -->
 
 ## Test
