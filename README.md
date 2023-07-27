@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [WP Contributor Mentorship Program: Support Team Onboarding Meeting](https://make.wordpress.org/support/2023/07/wp-contributor-mentorship-program-support-team-onboarding-meeting/)
 - [Agenda for July 27th Support Meeting](https://make.wordpress.org/support/2023/07/agenda-for-july-27th-support-meeting-2/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/support/2023/07/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/support/2023/07/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for June 22nd Support Meeting](https://make.wordpress.org/support/2023/06/agenda-for-june-22nd-support-meeting-2/)
 - [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/support/2023/06/xpost-triaging-open-issues-on-trac-for-make-teams/)
 - [Summary for June 1st Support Team Meeting](https://make.wordpress.org/support/2023/06/summary-for-june-1st-support-team-meeting/)
-- [Agenda for June 1st Support Meeting](https://make.wordpress.org/support/2023/06/agenda-for-june-1st-support-meeting-2/)
 <!-- SUPPORT:END -->
 
 ## Documentation
