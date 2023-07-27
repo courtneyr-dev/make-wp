@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Improving website performance with caching](https://wordpress.tv/2023/07/26/improving-website-performance-with-caching/)
 - [Micah Wood: WordPress database optimization and maintenance](https://wordpress.tv/2023/07/26/micah-wood-wordpress-database-optimization-and-maintenance/)
 - [WordPress Developer Hours – Styling Blocks &lpar;July 2023&rpar;](https://wordpress.tv/2023/07/26/wordpress-developer-hours-styling-blocks-july-2023/)
 - [企業によるWordPress コントリビュート成功事例: スキルアップとグローバル参加の機会](https://wordpress.tv/2023/07/26/fiveforthefuturejapanmeetup-2023-07-18/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP-CLI for PHP developers](https://wordpress.tv/2023/07/13/wp-cli-for-php-developers/)
 - [Demystifying The Navigation Block: How to set up your site’s navigation now and in the future](https://wordpress.tv/2023/07/12/demystifying-the-navigation-block-how-to-set-up-your-sites-navigation-now-and-in-the-future/)
 - [Tips and shortcuts for using the block editor &amp; streamlining content creation](https://wordpress.tv/2023/07/11/tips-and-shortcuts-for-using-the-block-editor-streamlining-content-creation/)
-- [7 Tips to improve website security](https://wordpress.tv/2023/07/11/7-tips-to-improve-website-security/)
 <!-- WPTV:END -->
 
 ## Marketing
