@@ -341,6 +341,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Canto diñeiro vas seguir perdendo por non montares unha tenda online?](https://wordpress.tv/2023/07/27/canto-dineiro-vas-seguir-perdendo-por-non-montares-unha-tenda-online/)
+- [How DevOps Principles are Transforming IT Operations and Business Agility](https://wordpress.tv/2023/07/27/how-devops-principles-are-transforming-it-operations-and-business-agility/)
+- [From Fresh Grad to Professional: A Guide to Choosing Between Freelance and Employment in IT](https://wordpress.tv/2023/07/27/from-fresh-grad-to-professional-a-guide-to-choosing-between-freelance-and-employment-in-it/)
+- [Crea tu página web sin plugins con el theme Twenty Twenty-Three](https://wordpress.tv/2023/07/27/crea-tu-pagina-web-sin-plugins-con-el-theme-twenty-twenty-three/)
 - [Improving website performance with caching](https://wordpress.tv/2023/07/26/improving-website-performance-with-caching/)
 - [Micah Wood: WordPress database optimization and maintenance](https://wordpress.tv/2023/07/26/micah-wood-wordpress-database-optimization-and-maintenance/)
 - [WordPress Developer Hours – Styling Blocks &lpar;July 2023&rpar;](https://wordpress.tv/2023/07/26/wordpress-developer-hours-styling-blocks-july-2023/)
@@ -362,10 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Installing Node.js and npm for local WordPress development](https://wordpress.tv/2023/07/22/installing-node-js-and-npm-for-local-wordpress-development/)
 - [Builder Basics: Goodbye Reusable Blocks—Hello Synced Patterns &lpar;and more&rpar;](https://wordpress.tv/2023/07/18/builder-basics-goodbye-reusable-blocks-hello-synced-patterns-and-more/)
 - [Common WordPress APIs: Responsive Images](https://wordpress.tv/2023/07/14/common-wordpress-apis-responsive-images/)
-- [How to vet content topic ideas for the WordPress Training Team](https://wordpress.tv/2023/07/13/how-to-vet-content-topic-ideas-for-the-wordpress-training-team/)
-- [WP-CLI for PHP developers](https://wordpress.tv/2023/07/13/wp-cli-for-php-developers/)
-- [Demystifying The Navigation Block: How to set up your site’s navigation now and in the future](https://wordpress.tv/2023/07/12/demystifying-the-navigation-block-how-to-set-up-your-sites-navigation-now-and-in-the-future/)
-- [Tips and shortcuts for using the block editor &amp; streamlining content creation](https://wordpress.tv/2023/07/11/tips-and-shortcuts-for-using-the-block-editor-streamlining-content-creation/)
 <!-- WPTV:END -->
 
 ## Marketing
