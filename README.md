@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Improving website performance with caching](https://learn.wordpress.org/tutorial/improving-website-performance-with-caching/)
 - [Installing Node.js and npm for local WordPress development](https://learn.wordpress.org/tutorial/installing-node-js-and-npm-for-local-wordpress-development/)
 - [Scegliere e installare un tema](https://learn.wordpress.org/tutorial/it-choosing-and-installing-a-theme/)
 - [7 Tips to improve website security](https://learn.wordpress.org/tutorial/7-tips-to-improve-website-security/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The WordPress request lifecycle](https://learn.wordpress.org/tutorial/the-wordpress-request-lifecycle/)
 - [Choisir et installer une extension](https://learn.wordpress.org/tutorial/fr-searching-and-installing-a-plugin/)
 - [Rapid Website Recreation](https://learn.wordpress.org/tutorial/rapid-website-recreation/)
-- [Se familiariser avec le tableau de bord de WordPress](https://learn.wordpress.org/tutorial/fr-getting-to-know-the-wordpress-dashboard/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
