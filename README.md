@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Power of Localization in WordPress Product Marketing](https://wordpress.tv/2023/07/28/the-power-of-localization-in-wordpress-product-marketing/)
 - [Overcoming Writer’s Block: Planning a Blog’s Content](https://wordpress.tv/2023/07/28/overcoming-writers-block-planning-a-blogs-content/)
 - [Testing WordPress 6.3 – Developer Edition](https://wordpress.tv/2023/07/28/testing-wordpress-6-3-developer-edition/)
 - [Canto diñeiro vas seguir perdendo por non montares unha tenda online?](https://wordpress.tv/2023/07/27/canto-dineiro-vas-seguir-perdendo-por-non-montares-unha-tenda-online/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Roman Kabelka: WordPress a přístupnost](https://wordpress.tv/2023/07/24/roman-kabelka-wordpress-a-pristupnost/)
 - [Honza Bartoš : Facebook Ads](https://wordpress.tv/2023/07/24/honza-bartos-facebook-ads/)
 - [Marek Čevelíček: Easy-pízy uživatelské testování](https://wordpress.tv/2023/07/24/marek-cevelicek-easy-pizy-uzivatelske-testovani/)
-- [Installing Node.js and npm for local WordPress development](https://wordpress.tv/2023/07/22/installing-node-js-and-npm-for-local-wordpress-development/)
 <!-- WPTV:END -->
 
 ## Marketing
