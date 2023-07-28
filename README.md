@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Overcoming Writer’s Block: Planning a Blog’s Content](https://wordpress.tv/2023/07/28/overcoming-writers-block-planning-a-blogs-content/)
 - [Testing WordPress 6.3 – Developer Edition](https://wordpress.tv/2023/07/28/testing-wordpress-6-3-developer-edition/)
 - [Canto diñeiro vas seguir perdendo por non montares unha tenda online?](https://wordpress.tv/2023/07/27/canto-dineiro-vas-seguir-perdendo-por-non-montares-unha-tenda-online/)
 - [How DevOps Principles are Transforming IT Operations and Business Agility](https://wordpress.tv/2023/07/27/how-devops-principles-are-transforming-it-operations-and-business-agility/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Honza Bartoš : Facebook Ads](https://wordpress.tv/2023/07/24/honza-bartos-facebook-ads/)
 - [Marek Čevelíček: Easy-pízy uživatelské testování](https://wordpress.tv/2023/07/24/marek-cevelicek-easy-pizy-uzivatelske-testovani/)
 - [Installing Node.js and npm for local WordPress development](https://wordpress.tv/2023/07/22/installing-node-js-and-npm-for-local-wordpress-development/)
-- [Builder Basics: Goodbye Reusable Blocks—Hello Synced Patterns &lpar;and more&rpar;](https://wordpress.tv/2023/07/18/builder-basics-goodbye-reusable-blocks-hello-synced-patterns-and-more/)
 <!-- WPTV:END -->
 
 ## Marketing
