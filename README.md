@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-10)
 - [APAC: Exploring some of the new 6.3 WordPress features](https://learn.wordpress.org/?meeting=apac-exploring-some-of-the-new-6-3-wordpress-features)
 - [Exploring some of the new 6.3 WordPress features](https://learn.wordpress.org/?meeting=exploring-some-of-the-new-6-3-wordpress-features)
 - [Onboarding to Test Team](https://learn.wordpress.org/?meeting=onboarding-to-test-team)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live stream: Reviewing Gutenberg 16.2 features](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-16-2-features)
 - [Live stream: Exploring the existing SlotFills for extending Gutenberg](https://learn.wordpress.org/?meeting=live-stream-exploring-the-existing-slotfills-for-extending-gutenberg)
 - [Live stream: Reviewing Gutenberg Features 15.7 – 16.1](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-features-15-7-16-1)
-- [Builder Basics: Goodbye Reusable Blocks—Hello Synced Patterns &lpar;and more&rpar;](https://learn.wordpress.org/?meeting=builder-basics-goodbye-reusable-blocks-hello-synced-patterns-and-more)
 <!-- SLS:END -->
 
 ## Test
