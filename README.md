@@ -496,6 +496,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [People of WordPress: Ihtisham Zahoor](https://wordpress.org/news/2023/07/people-of-wordpress-ihtisham-zahoor/)
 - [Synced Patterns: The Evolution of Reusable Blocks](https://wordpress.org/news/2023/07/synced-patterns-the-evolution-of-reusable-blocks/)
 - [WordPress 6.3 Release Candidate 2](https://wordpress.org/news/2023/07/wordpress-6-3-release-candidate-2/)
 - [WordPress 6.3 Live Product Demo – Highlights &amp; Recording](https://wordpress.org/news/2023/07/wordpress-6-3-live-product-demo-highlights-recording/)
@@ -505,7 +506,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.3 Beta 4](https://wordpress.org/news/2023/07/wordpress-6-3-beta-4/)
 - [6.3 Live Product Demo](https://wordpress.org/news/2023/07/6-3-live-product-demo/)
 - [WordPress 6.3 Beta 3](https://wordpress.org/news/2023/07/wordpress-6-3-beta-3/)
-- [WP Briefing: Episode 59: A Polyglot’s WordPress](https://wordpress.org/news/2023/07/episode-59-a-polyglots-wordpress/)
 <!-- NEWS:END -->
 
 ## Jobs
