@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Can you please give me…](https://make.wordpress.org/polyglots/2023/07/31/can-you-please-give-me/)
 - [WP Contributor Mentorship Program: Live Polyglots introduction Aug 2 at 10:00 am UTC](https://make.wordpress.org/polyglots/2023/07/31/wp-contributor-mentorship-program-live-polyglots-introduction-aug-2-at-1000-am-utc/)
 - [PTE Request for kalamatino](https://make.wordpress.org/polyglots/2023/07/30/pte-request-for-kalamatino/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/07/27/hi-102/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WordPress 6.3.x](https://make.wordpress.org/polyglots/2023/07/26/pte-request-for-wordpress-6-3-x/)
 - [PTE Request for CRM WordPress Plugin – RepairBuddy](https://make.wordpress.org/polyglots/2023/07/25/pte-request-for-crm-wordpress-plugin-repairbuddy-3/)
 - [PTE Request for WordPress 6.2.x](https://make.wordpress.org/polyglots/2023/07/25/pte-request-for-wordpress-6-2-x-2/)
-- [PTE Request for All in One SEO](https://make.wordpress.org/polyglots/2023/07/25/pte-request-for-all-in-one-seo/)
 <!-- POLYGLOTS:END -->
 
 ## Support
