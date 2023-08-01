@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/docs/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Agenda for Docs Team bi-weekly meeting August 1, 2023](https://make.wordpress.org/docs/2023/08/01/agenda-for-docs-team-bi-weekly-meeting-august-1-2023/)
 - [Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/docs/2023/07/24/online-monthly-docs-team-contributor-day-july-25-2023/)
 - [Call for volunteers to help with 6.3 end-user documentation](https://make.wordpress.org/docs/2023/07/18/call-for-volunteers-to-help-with-6-3-end-user-documentation/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Docs Team Meeting, Jul 04, 2023](https://make.wordpress.org/docs/2023/07/06/summary-for-docs-team-meeting-jul-04-2023/)
 - [X-post: What’s new on Learn WordPress in June 2023](https://make.wordpress.org/docs/2023/07/06/xpost-whats-new-on-learn-wordpress-in-june-2023/)
 - [Agenda for Docs Team bi-weekly meeting July 4, 2023](https://make.wordpress.org/docs/2023/07/04/agenda-for-docs-team-bi-weekly-meeting-july-4-2023/)
-- [X-post: Proposal: Let’s actively promote the Learn WordPress platform in Learn WordPress content](https://make.wordpress.org/docs/2023/06/26/xpost-proposal-lets-actively-promote-the-learn-wordpress-platform-in-learn-wordpress-content/)
 <!-- DOCS:END -->
 
 ### Support Articles
