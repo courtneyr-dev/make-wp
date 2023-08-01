@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/support/2023/08/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Summary for July 27th Support Meeting](https://make.wordpress.org/support/2023/07/summary-for-july-27th-support-meeting/)
 - [WP Contributor Mentorship Program: Support Team Onboarding Meeting](https://make.wordpress.org/support/2023/07/wp-contributor-mentorship-program-support-team-onboarding-meeting/)
 - [Agenda for July 27th Support Meeting](https://make.wordpress.org/support/2023/07/agenda-for-july-27th-support-meeting-2/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Contributor Mentorship Program: Support team edition](https://make.wordpress.org/support/2023/06/wp-contributor-mentorship-program-support-team-edition/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/support/2023/06/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [Agenda for June 22nd Support Meeting](https://make.wordpress.org/support/2023/06/agenda-for-june-22nd-support-meeting-2/)
-- [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/support/2023/06/xpost-triaging-open-issues-on-trac-for-make-teams/)
 <!-- SUPPORT:END -->
 
 ## Documentation
