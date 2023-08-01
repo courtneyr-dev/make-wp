@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordCamp Mentors’ August check-in!](https://make.wordpress.org/community/2023/08/01/wordcamp-mentors-august-check-in/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/community/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Proposal: Next Generation Event URL](https://make.wordpress.org/community/2023/07/26/proposal-next-generation-event-url/)
 - [Can You Help the Week of WCUS 2023?](https://make.wordpress.org/community/2023/07/25/wcus-2023-call-for-help/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 12, 2023](https://make.wordpress.org/community/2023/07/13/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-12-2023/)
 - [New handbook page for WordCamp Organizers: WordCamp Speaker Selection &lpar;for content AND diversity&rpar;](https://make.wordpress.org/community/2023/07/13/new-handbook-page-for-wordcamp-organizers-wordcamp-speaker-selection-for-content-and-diversity/)
 - [Summary of the Q2 Community Team Role Updates](https://make.wordpress.org/community/2023/07/12/summary-of-the-q2-community-team-role-updates/)
-- [Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/community/2023/07/12/announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 <!-- COMMUNITY:END -->
 
 ## Meta
