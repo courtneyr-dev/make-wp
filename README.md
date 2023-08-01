@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi … my questions from…](https://make.wordpress.org/polyglots/2023/08/01/hi-my-questions-from/)
 - [Hi, i want be a…](https://make.wordpress.org/polyglots/2023/07/31/hi-i-want-be-a/)
 - [Can you please give me…](https://make.wordpress.org/polyglots/2023/07/31/can-you-please-give-me/)
 - [WP Contributor Mentorship Program: Live Polyglots introduction Aug 2 at 10:00 am UTC](https://make.wordpress.org/polyglots/2023/07/31/wp-contributor-mentorship-program-live-polyglots-introduction-aug-2-at-1000-am-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar; &amp; WooCommerce](https://make.wordpress.org/polyglots/2023/07/26/pte-request-for-advanced-custom-fields-acf-woocommerce-2/)
 - [Agenda: Weekly Polyglots Chat – July 26, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/26/agenda-weekly-polyglots-chat-july-26-2023-0700-utc/)
 - [PTE Request for WordPress 6.3.x](https://make.wordpress.org/polyglots/2023/07/26/pte-request-for-wordpress-6-3-x/)
-- [PTE Request for CRM WordPress Plugin – RepairBuddy](https://make.wordpress.org/polyglots/2023/07/25/pte-request-for-crm-wordpress-plugin-repairbuddy-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
