@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Contributing to the WordPress Community Team: Events and Roles](https://learn.wordpress.org/?meeting=contributing-to-the-wordpress-community-team-events-and-roles)
 - [Hallway Hangout: Extending blocks with custom design tools](https://learn.wordpress.org/?meeting=hallway-hangout-extending-blocks-with-custom-design-tools)
 - [How to start contributing to the WordPress Core](https://learn.wordpress.org/?meeting=how-to-start-contributing-to-the-wordpress-core)
 - [Common WordPress APIs: Internationalization](https://learn.wordpress.org/?meeting=common-wordpress-apis-internationalization)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Overcoming Writer’s Block: Planning a Blog’s Content](https://learn.wordpress.org/?meeting=overcoming-writers-block-planning-a-blogs-content)
 - [WP-CLI for PHP developers](https://learn.wordpress.org/?meeting=wp-cli-for-php-developers)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-3)
-- [Live stream: Using custom SlotFill to extend a codebase](https://learn.wordpress.org/?meeting=live-stream-using-custom-slotfill-to-extend-a-codebase)
 <!-- SLS:END -->
 
 ## Test
