@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 3 August, 2023](https://make.wordpress.org/community/2023/08/02/community-team-meeting-agenda-for-3-august-2023/)
 - [Recap: Inaugural NextGen Pilot Events](https://make.wordpress.org/community/2023/08/02/recap-inaugural-nextgen-pilot-events/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 26, 2023](https://make.wordpress.org/community/2023/08/01/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-26-2023/)
 - [WordCamp Mentors’ August check-in!](https://make.wordpress.org/community/2023/08/01/wordcamp-mentors-august-check-in/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/community/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 - [Meetup Organizer Newsletter: JULY 2023](https://make.wordpress.org/community/2023/07/21/meetup-organizer-newsletter-july-2023/)
 - [Q3: Community Team Process and Documentation Updates](https://make.wordpress.org/community/2023/07/20/q3-community-team-process-and-documentation-updates/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 12, 2023](https://make.wordpress.org/community/2023/07/13/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-12-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
