@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – August 2, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/02/agenda-weekly-polyglots-chat-august-2-2023-1300-utc/)
 - [PTE Request for EasyBackendStyle I…](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-easybackendstyle-i/)
 - [PTE Request for SecureFusion Security Plugin](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-securefusion-security-plugin/)
 - [Hi, i want be a…](https://make.wordpress.org/polyglots/2023/07/31/hi-i-want-be-a/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2023/07/27/hi-102/)
 - [PTE Request for Paid Memberships Pro – Restrict Member Access to Content, Courses, Communities – Free or Paid Subscriptions](https://make.wordpress.org/polyglots/2023/07/27/pte-request-for-paid-memberships-pro-restrict-member-access-to-content-courses-communities-free-or-paid-subscriptions/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar; &amp; WooCommerce](https://make.wordpress.org/polyglots/2023/07/26/pte-request-for-advanced-custom-fields-acf-woocommerce-2/)
-- [Agenda: Weekly Polyglots Chat – July 26, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/07/26/agenda-weekly-polyglots-chat-july-26-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
