@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Filter Everything — Product Filter &amp; WordPress Filter](https://make.wordpress.org/polyglots/2023/08/02/pte-request-for-filter-everything-product-filter-wordpress-filter-2/)
+- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/02/cross-locale-project-translation-editor-request-4/)
 - [Agenda: Weekly Polyglots Chat – August 2, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/02/agenda-weekly-polyglots-chat-august-2-2023-1300-utc/)
 - [PTE Request for EasyBackendStyle I…](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-easybackendstyle-i/)
 - [PTE Request for SecureFusion Security Plugin](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-securefusion-security-plugin/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Contributor Mentorship Program: Live Polyglots introduction Aug 2 at 10:00 am UTC](https://make.wordpress.org/polyglots/2023/07/31/wp-contributor-mentorship-program-live-polyglots-introduction-aug-2-at-1000-am-utc/)
 - [PTE Request for kalamatino](https://make.wordpress.org/polyglots/2023/07/30/pte-request-for-kalamatino/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/07/27/hi-102/)
-- [PTE Request for Paid Memberships Pro – Restrict Member Access to Content, Courses, Communities – Free or Paid Subscriptions](https://make.wordpress.org/polyglots/2023/07/27/pte-request-for-paid-memberships-pro-restrict-member-access-to-content-courses-communities-free-or-paid-subscriptions/)
-- [PTE Request for Advanced Custom Fields &lpar;ACF&rpar; &amp; WooCommerce](https://make.wordpress.org/polyglots/2023/07/26/pte-request-for-advanced-custom-fields-acf-woocommerce-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
