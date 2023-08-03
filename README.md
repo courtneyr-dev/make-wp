@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [フルサイト編集で実際にサイトを作ってみよう！](https://learn.wordpress.org/?meeting=%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%a7%e5%ae%9f%e9%9a%9b%e3%81%ab%e3%82%b5%e3%82%a4%e3%83%88%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
 - [Contributing to the WordPress Community Team: Events and Roles](https://learn.wordpress.org/?meeting=contributing-to-the-wordpress-community-team-events-and-roles)
 - [Hallway Hangout: Extending blocks with custom design tools](https://learn.wordpress.org/?meeting=hallway-hangout-extending-blocks-with-custom-design-tools)
 - [How to start contributing to the WordPress Core](https://learn.wordpress.org/?meeting=how-to-start-contributing-to-the-wordpress-core)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Overcoming Writer’s Block: Planning a Blog’s Content](https://learn.wordpress.org/?meeting=overcoming-writers-block-planning-a-blogs-content-2)
 - [Overcoming Writer’s Block: Planning a Blog’s Content](https://learn.wordpress.org/?meeting=overcoming-writers-block-planning-a-blogs-content)
 - [WP-CLI for PHP developers](https://learn.wordpress.org/?meeting=wp-cli-for-php-developers)
-- [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-3)
 <!-- SLS:END -->
 
 ## Test
