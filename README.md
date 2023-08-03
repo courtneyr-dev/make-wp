@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Introducing the Training Team Guide Program!](https://make.wordpress.org/training/2023/08/03/introducing-the-training-team-guide-program/)
 - [Announcing the first Learn WordPress Course Cohort.](https://make.wordpress.org/training/2023/08/02/announcing-the-first-learn-wordpress-course-cohort/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/training/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Training Team Meeting Recap – 25th July 2023](https://make.wordpress.org/training/2023/07/26/training-team-meeting-recap-25th-july-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 11th July 2023](https://make.wordpress.org/training/2023/07/17/training-team-meeting-recap-11th-july-2023/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/training/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [Training Team 2023 Half Year Review](https://make.wordpress.org/training/2023/07/10/training-team-2023-half-year-review/)
-- [Next steps for GitHub updates](https://make.wordpress.org/training/2023/07/08/next-steps-for-github-updates/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
