@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Super Page Cache for Cloudflare](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-super-page-cache-for-cloudflare/)
 - [PTE Request for Two Plugins and Four Themes](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-two-plugins-and-four-themes/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/03/cross-locale-project-translation-editor-request-5/)
 - [PTE Request for Three Plugins &lpar;en_AU and en_NZ&rpar;](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-three-plugins-en_au-and-en_nz/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/02/cross-locale-project-translation-editor-request-4/)
 - [Agenda: Weekly Polyglots Chat – August 2, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/02/agenda-weekly-polyglots-chat-august-2-2023-1300-utc/)
 - [PTE Request for EasyBackendStyle I…](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-easybackendstyle-i/)
-- [PTE Request for SecureFusion Security Plugin](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-securefusion-security-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
