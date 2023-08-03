@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Three Plugins &lpar;en_AU and en_NZ&rpar;](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-three-plugins-en_au-and-en_nz/)
 - [Adding error checks at translate.wordpress.org](https://make.wordpress.org/polyglots/2023/08/02/adding-error-checks-at-translate-wordpress-org/)
 - [PTE Request for Core &lpar;de_AT&rpar;](https://make.wordpress.org/polyglots/2023/08/02/pte-request-for-core-de_at/)
 - [PTE Request for Filter Everything — Product Filter &amp; WordPress Filter](https://make.wordpress.org/polyglots/2023/08/02/pte-request-for-filter-everything-product-filter-wordpress-filter-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for SecureFusion Security Plugin](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-securefusion-security-plugin/)
 - [Hi, i want be a…](https://make.wordpress.org/polyglots/2023/07/31/hi-i-want-be-a/)
 - [Can you please give me…](https://make.wordpress.org/polyglots/2023/07/31/can-you-please-give-me/)
-- [WP Contributor Mentorship Program: Live Polyglots introduction Aug 2 at 10:00 am UTC](https://make.wordpress.org/polyglots/2023/07/31/wp-contributor-mentorship-program-live-polyglots-introduction-aug-2-at-1000-am-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
