@@ -510,6 +510,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-5/)
+- [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-2/)
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-4/)
 - [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-808/)
@@ -518,8 +520,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-16/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/word-press-plugin-developer-2/)
 - [Developer/Intern](https://jobs.wordpress.net/job/developer-intern/)
-- [Experienced WordPress developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-14/)
-- [WordPress Developer](https://jobs.wordpress.net/job/word-press-developer-21/)
 <!-- JOBS:END -->
 
 ## Central
