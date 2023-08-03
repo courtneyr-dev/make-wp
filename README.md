@@ -482,6 +482,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Email Forward for forum-moderation](https://make.wordpress.org/systems/2023/08/03/email-forward-for-forum-moderation/)
 - [Email forward for Memorials.](https://make.wordpress.org/systems/2023/07/27/email-forward-for-memorials/)
 - [MC Access for Naoko Takano](https://make.wordpress.org/systems/2023/07/03/mc-access-for-naoko-takano/)
 - [events.wordpress.org served by wordcamp.org](https://make.wordpress.org/systems/2023/06/15/events-wordpress-org-served-by-wordcamp-org/)
@@ -491,7 +492,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GitHub SSH host key update – SVN-Git sync](https://make.wordpress.org/systems/2023/03/28/github-ssh-host-key-update-svn-git-sync/)
 - [Upgrade TracWPCookies plugin](https://make.wordpress.org/systems/2023/03/09/upgrade-tracwpcookies-plugin/)
 - [429s &lpar;rate limiting&rpar; from translate.wordpress.org export translation routes](https://make.wordpress.org/systems/2023/02/14/429s-rate-limiting-from-translate-wordpress-org-export-translation-routes/)
-- [Load-balancers on IP Abuse database](https://make.wordpress.org/systems/2023/02/13/load-balancers-on-ip-abuse-database/)
 <!-- SYSTEMS:END -->
 
 ## News
