@@ -272,7 +272,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting Started With WordPress: Get Set Up](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
 - [How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
 - [WordCamp Organizer Training](https://learn.wordpress.org/course/wordcamp-organizer-training/)
-- [WordPress Community Deputy Training](https://learn.wordpress.org/course/wordpress-community-deputy-training/)
+- [WordPress Community Team Program Supporter Training](https://learn.wordpress.org/course/wordpress-community-deputy-training/)
 - [Open Source Basics and WordPress](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)
 - [Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
 - [Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
