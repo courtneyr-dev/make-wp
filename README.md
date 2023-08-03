@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Two Plugins and Four Themes](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-two-plugins-and-four-themes/)
+- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/03/cross-locale-project-translation-editor-request-5/)
 - [PTE Request for Three Plugins &lpar;en_AU and en_NZ&rpar;](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-three-plugins-en_au-and-en_nz/)
 - [Adding error checks at translate.wordpress.org](https://make.wordpress.org/polyglots/2023/08/02/adding-error-checks-at-translate-wordpress-org/)
 - [PTE Request for Core &lpar;de_AT&rpar;](https://make.wordpress.org/polyglots/2023/08/02/pte-request-for-core-de_at/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – August 2, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/02/agenda-weekly-polyglots-chat-august-2-2023-1300-utc/)
 - [PTE Request for EasyBackendStyle I…](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-easybackendstyle-i/)
 - [PTE Request for SecureFusion Security Plugin](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-securefusion-security-plugin/)
-- [Hi, i want be a…](https://make.wordpress.org/polyglots/2023/07/31/hi-i-want-be-a/)
-- [Can you please give me…](https://make.wordpress.org/polyglots/2023/07/31/can-you-please-give-me/)
 <!-- POLYGLOTS:END -->
 
 ## Support
