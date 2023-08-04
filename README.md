@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Blogging with WordPress: Basics](https://wordpress.tv/2023/08/04/blogging-with-wordpress-basics/)
 - [Common WordPress APIs: Internationalization](https://wordpress.tv/2023/08/04/common-wordpress-apis-internationalization/)
 - [How to add tables to your site](https://wordpress.tv/2023/08/02/how-to-add-tables-to-your-site/)
 - [Jenni McKinnon, Milana Cap: WordPress Documentation Team Onboarding July 2023](https://wordpress.tv/2023/08/01/jenni-mckinnon-milana-cap-wordpress-documentation-team-onboarding-july-2023/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Barbora Nováková :Poznejte svou cílovku. No jo, ale jak?](https://wordpress.tv/2023/07/24/barbora-novakova-poznejte-svou-cilovku-no-jo-ale-jak/)
 - [Michal Janata: Michal Janata: Jak na překlady WordPressu](https://wordpress.tv/2023/07/24/michal-janata-michal-janata-jak-na-preklady-wordpressu/)
 - [Katka Pavlíčková: Instagram shopping – nahradí Instagram klasické e-shopy?](https://wordpress.tv/2023/07/24/katka-pavlickova-instagram-shopping-nahradi-instagram-klasicke-e-shopy/)
-- [Martin Rajnoch : Jak weby &lpar;ne&rpar;dělat](https://wordpress.tv/2023/07/24/martin-rajnoch-jak-weby-nedelat/)
 <!-- WPTV:END -->
 
 ## Marketing
