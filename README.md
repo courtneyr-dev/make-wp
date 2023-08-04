@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary for Docs Team meeting, August 1, 2023](https://make.wordpress.org/docs/2023/08/04/summary-for-docs-team-meeting-august-1-2023/)
 - [Summary for Docs Team meeting, Jul 18, 2023](https://make.wordpress.org/docs/2023/08/01/summary-for-docs-team-meeting-jul-18-2023/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/docs/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Agenda for Docs Team bi-weekly meeting August 1, 2023](https://make.wordpress.org/docs/2023/08/01/agenda-for-docs-team-bi-weekly-meeting-august-1-2023/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/docs/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/docs/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [Summary for Docs Team Meeting, Jul 04, 2023](https://make.wordpress.org/docs/2023/07/06/summary-for-docs-team-meeting-jul-04-2023/)
-- [X-post: What’s new on Learn WordPress in June 2023](https://make.wordpress.org/docs/2023/07/06/xpost-whats-new-on-learn-wordpress-in-june-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
