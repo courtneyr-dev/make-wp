@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [WCUS Contributor Day: Tutorials Workshop &lpar;In-Person &amp; Remote&rpar;](https://make.wordpress.org/training/2023/08/04/wcus-contributor-day-tutorials-workshop-in-person-remote/)
 - [Training Team Meeting Recap – 1st August 2023](https://make.wordpress.org/training/2023/08/03/training-team-meeting-recap-1st-august-2023/)
 - [Introducing the Training Team Guide Program!](https://make.wordpress.org/training/2023/08/03/introducing-the-training-team-guide-program/)
 - [Announcing the first Learn WordPress Course Cohort.](https://make.wordpress.org/training/2023/08/02/announcing-the-first-learn-wordpress-course-cohort/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/training/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/training/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [Training Team Meeting Recap – 11th July 2023](https://make.wordpress.org/training/2023/07/17/training-team-meeting-recap-11th-july-2023/)
-- [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/training/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
