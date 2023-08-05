@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Link Verification for Mastodon](https://make.wordpress.org/polyglots/2023/08/05/pte-request-for-link-verification/)
 - [PTE Request for Super Page Cache for Cloudflare](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-super-page-cache-for-cloudflare/)
 - [PTE Request for Two Plugins and Four Themes](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-two-plugins-and-four-themes/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/03/cross-locale-project-translation-editor-request-5/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Filter Everything — Product Filter &amp; WordPress Filter](https://make.wordpress.org/polyglots/2023/08/02/pte-request-for-filter-everything-product-filter-wordpress-filter-2/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/02/cross-locale-project-translation-editor-request-4/)
 - [Agenda: Weekly Polyglots Chat – August 2, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/02/agenda-weekly-polyglots-chat-august-2-2023-1300-utc/)
-- [PTE Request for EasyBackendStyle I…](https://make.wordpress.org/polyglots/2023/08/01/pte-request-for-easybackendstyle-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
