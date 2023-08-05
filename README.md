@@ -497,7 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## News
 <!-- NEWS:START -->
 - [Concerns over the European Union’s Cyber Resilience Act &lpar;CRA&rpar;](https://wordpress.org/news/2023/08/concerns-over-the-european-unions-cyber-resilience-act-cra/)
-- [WordPress 6.3 RC3](https://wordpress.org/news/2023/08/wordpress-6-3-rc3/)
+- [WordPress 6.3 Release Candidate 3](https://wordpress.org/news/2023/08/wordpress-6-3-rc3/)
 - [People of WordPress: Ihtisham Zahoor](https://wordpress.org/news/2023/07/people-of-wordpress-ihtisham-zahoor/)
 - [Synced Patterns: The Evolution of Reusable Blocks](https://wordpress.org/news/2023/07/synced-patterns-the-evolution-of-reusable-blocks/)
 - [WordPress 6.3 Release Candidate 2](https://wordpress.org/news/2023/07/wordpress-6-3-release-candidate-2/)
