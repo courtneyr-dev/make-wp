@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/08/06/pte-request-for-several-projects-4/)
+- [Português de Portugal](https://make.wordpress.org/polyglots/2023/08/06/portugues-de-portugal/)
 - [PTE Request for WP Adminify plugin](https://make.wordpress.org/polyglots/2023/08/05/pte-request-for-wp-adminify-plugin/)
 - [PTE Request for Link Verification for Mastodon](https://make.wordpress.org/polyglots/2023/08/05/pte-request-for-link-verification/)
 - [PTE Request for Super Page Cache for Cloudflare](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-super-page-cache-for-cloudflare/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Three Plugins &lpar;en_AU and en_NZ&rpar;](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-three-plugins-en_au-and-en_nz/)
 - [Adding error checks at translate.wordpress.org](https://make.wordpress.org/polyglots/2023/08/02/adding-error-checks-at-translate-wordpress-org/)
 - [PTE Request for Core &lpar;de_AT&rpar;](https://make.wordpress.org/polyglots/2023/08/02/pte-request-for-core-de_at/)
-- [PTE Request for Filter Everything — Product Filter &amp; WordPress Filter](https://make.wordpress.org/polyglots/2023/08/02/pte-request-for-filter-everything-product-filter-wordpress-filter-2/)
-- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/02/cross-locale-project-translation-editor-request-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
