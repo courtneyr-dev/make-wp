@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tor-Björn Fjellner: Introduction to WordPress Polyglots Team](https://wordpress.tv/2023/08/07/tor-bjorn-fjellner-introduction-to-wordpress-polyglots-team/)
 - [Olga Gleckler: Contributor Mentorship: How to start contributing to the WordPress Core](https://wordpress.tv/2023/08/04/olga-gleckler-contributor-mentorship-how-to-start-contributing-to-the-wordpress-core/)
 - [Blogging with WordPress: Basics](https://wordpress.tv/2023/08/04/blogging-with-wordpress-basics/)
 - [Common WordPress APIs: Internationalization](https://wordpress.tv/2023/08/04/common-wordpress-apis-internationalization/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Luciane Costa: Pare de escrever para o robô, conteúdo que encanta e converte](https://wordpress.tv/2023/07/24/luciane-costa-pare-de-escrever-para-o-robo-conteudo-que-encanta-e-converte/)
 - [Jan Tichý :Nové příležitosti a výzvy s Google Analytics](https://wordpress.tv/2023/07/24/jan-tichy-nove-prilezitosti-a-vyzvy-s-google-analytics/)
 - [Barbora Nováková :Poznejte svou cílovku. No jo, ale jak?](https://wordpress.tv/2023/07/24/barbora-novakova-poznejte-svou-cilovku-no-jo-ale-jak/)
-- [Michal Janata: Michal Janata: Jak na překlady WordPressu](https://wordpress.tv/2023/07/24/michal-janata-michal-janata-jak-na-preklady-wordpressu/)
 <!-- WPTV:END -->
 
 ## Marketing
