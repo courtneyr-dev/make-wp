@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Two Themes &lpar;#bn_BD&rpar;](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-gutenwp-theme/)
 - [PTE Request for ThumbPress plugin](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-thumbpress-plugin/)
 - [PTE Request for Duplica plugin](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-duplica-plugin/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/08/06/pte-request-for-several-projects-4/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Super Page Cache for Cloudflare](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-super-page-cache-for-cloudflare/)
 - [PTE Request for Two Plugins and Four Themes](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-two-plugins-and-four-themes/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/03/cross-locale-project-translation-editor-request-5/)
-- [PTE Request for Three Plugins &lpar;en_AU and en_NZ&rpar;](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-three-plugins-en_au-and-en_nz/)
 <!-- POLYGLOTS:END -->
 
 ## Support
