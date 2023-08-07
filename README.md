@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WordPress 6.3 release Watch party](https://learn.wordpress.org/?meeting=wordpress-6-3-release-watch-party)
 - [Training Team Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-contributor-day-online-session-2)
 - [Common WordPress APIs: Global Variables](https://learn.wordpress.org/?meeting=common-wordpress-apis-global-variables)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-11)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-9)
 - [A Guide to Open Source and WordPress](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-2)
 - [Blogging with WordPress: Basics](https://learn.wordpress.org/?meeting=blogging-with-wordpress-basics-2)
-- [Blogging with WordPress: Basics](https://learn.wordpress.org/?meeting=blogging-with-wordpress-basics)
 <!-- SLS:END -->
 
 ## Test
