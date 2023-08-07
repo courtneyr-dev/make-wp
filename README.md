@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Duplica plugin](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-duplica-plugin/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/08/06/pte-request-for-several-projects-4/)
 - [Português de Portugal](https://make.wordpress.org/polyglots/2023/08/06/portugues-de-portugal/)
 - [PTE Request for WP Adminify plugin](https://make.wordpress.org/polyglots/2023/08/05/pte-request-for-wp-adminify-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/03/cross-locale-project-translation-editor-request-5/)
 - [PTE Request for Three Plugins &lpar;en_AU and en_NZ&rpar;](https://make.wordpress.org/polyglots/2023/08/03/pte-request-for-three-plugins-en_au-and-en_nz/)
 - [Adding error checks at translate.wordpress.org](https://make.wordpress.org/polyglots/2023/08/02/adding-error-checks-at-translate-wordpress-org/)
-- [PTE Request for Core &lpar;de_AT&rpar;](https://make.wordpress.org/polyglots/2023/08/02/pte-request-for-core-de_at/)
 <!-- POLYGLOTS:END -->
 
 ## Support
