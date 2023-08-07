@@ -192,9 +192,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/training/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Training Team Meeting Recap – 25th July 2023](https://make.wordpress.org/training/2023/07/26/training-team-meeting-recap-25th-july-2023/)
 - [Call for Volunteers to help with 6.3 Learn WordPress updates](https://make.wordpress.org/training/2023/07/25/call-for-volunteers-to-help-with-6-3-learn-wordpress-updates/)
+- [WordCamp US 2023 Contributor Day](https://make.wordpress.org/training/2023/07/25/wordcamp-us-2023-contributor-day/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/training/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/training/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
-- [Training Team Meeting Recap – 11th July 2023](https://make.wordpress.org/training/2023/07/17/training-team-meeting-recap-11th-july-2023/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
