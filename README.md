@@ -3,6 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.3 performance improvements](https://make.wordpress.org/core/2023/08/07/wordpress-6-3-performance-improvements/)
+- [WordPress 6.3 Release Candidate 4 &lpar;RC4&rpar; Now Available for Testing](https://make.wordpress.org/core/2023/08/07/wordpress-6-3-release-candidate-4-rc4-now-available-for-testing/)
+- [Editor chat summary: August 2nd, 2023](https://make.wordpress.org/core/2023/08/07/editor-chat-summary-august-2nd-2023/)
 - [Performance Chat Agenda: 8 August 2023](https://make.wordpress.org/core/2023/08/07/performance-chat-agenda-8-august-2023/)
 - [Dev Chat Summary, August 2, 2023](https://make.wordpress.org/core/2023/08/05/dev-chat-summary-august-2-2023/)
 - [Dev Chat agenda, August 2, 2023](https://make.wordpress.org/core/2023/08/01/dev-chat-agenda-august-1-2023/)
@@ -10,9 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 1 August 2023](https://make.wordpress.org/core/2023/08/01/performance-chat-summary-25-july-2023-2/)
 - [WordPress 6.3 Release Day Process](https://make.wordpress.org/core/2023/08/01/wordpress-6-3-release-day-process/)
 - [A Week in Core – July 31, 2023](https://make.wordpress.org/core/2023/08/01/a-week-in-core-july-31-2023/)
-- [Performance Chat Agenda: 1 August 2023](https://make.wordpress.org/core/2023/08/01/performance-chat-agenda-25-july-2023-2/)
-- [Proposal: improve the editor tech workflow for major releases](https://make.wordpress.org/core/2023/08/01/proposal-improve-the-editor-tech-workflow-for-major-releases/)
-- [Editor Chat Agenda: August 2nd 2023](https://make.wordpress.org/core/2023/07/31/editor-chat-agenda-august-2nd-2023/)
 <!-- CORE:END -->
 
 ## Design
