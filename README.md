@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [_filter_block_content_callback&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_filter_block_content_callback/)
+- [sanitize_locale_name](https://developer.wordpress.org/reference/hooks/sanitize_locale_name/)
+- [sanitize_locale_name&lpar;&rpar;](https://developer.wordpress.org/reference/functions/sanitize_locale_name/)
 - [@wordpress/create-block-interactive-template](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block-interactive-template/)
 - [@wordpress/interactivity](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity/)
 - [google-sitemap](https://developer.wordpress.org/cli/commands/google-sitemap/)
 - [doctor](https://developer.wordpress.org/cli/commands/doctor/)
-- [doctor list](https://developer.wordpress.org/cli/commands/doctor/list/)
 - [super-cache](https://developer.wordpress.org/cli/commands/super-cache/)
-- [doctor check](https://developer.wordpress.org/cli/commands/doctor/check/)
 - [cache supports](https://developer.wordpress.org/cli/commands/cache/supports/)
 - [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
-- [maintenance](https://developer.wordpress.org/cli/commands/maintenance/)
 <!-- DEVHUB:END -->
 
 ## Themes
