@@ -285,6 +285,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-6)
+- [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-5)
 - [WordPress 6.3 release Watch party](https://learn.wordpress.org/?meeting=wordpress-6-3-release-watch-party)
 - [Training Team Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-contributor-day-online-session-2)
 - [Common WordPress APIs: Global Variables](https://learn.wordpress.org/?meeting=common-wordpress-apis-global-variables)
@@ -302,8 +304,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-3)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-2)
 - [Mentorship Program: Introduction to the WordPress Open Source Project](https://learn.wordpress.org/?meeting=mentorship-program-introduction-to-the-wordpress-open-source-project)
-- [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-4)
-- [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-3)
 - [Testing WordPress 6.3](https://learn.wordpress.org/?meeting=testing-wordpress-6-3)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-4)
 - [Common WordPress APIs: Responsive Images](https://learn.wordpress.org/?meeting=common-wordpress-apis-responsive-images)
