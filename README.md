@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello,](https://make.wordpress.org/polyglots/2023/08/08/hello-80/)
 - [PTE Request for NewsMag](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-newsmag/)
 - [PTE request for Openverse](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-openverse-3/)
 - [PTE Request for Newsmatic Themes](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-newsmatic-themes/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/08/06/pte-request-for-several-projects-4/)
 - [Português de Portugal](https://make.wordpress.org/polyglots/2023/08/06/portugues-de-portugal/)
 - [PTE Request for WP Adminify plugin](https://make.wordpress.org/polyglots/2023/08/05/pte-request-for-wp-adminify-plugin/)
-- [PTE Request for Link Verification for Mastodon](https://make.wordpress.org/polyglots/2023/08/05/pte-request-for-link-verification/)
 <!-- POLYGLOTS:END -->
 
 ## Support
