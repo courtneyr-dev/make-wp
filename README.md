@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Exploring WordPress 6.3](https://wordpress.tv/2023/08/08/exploring-wordpress-6-3/)
 - [How to use the spacer block](https://wordpress.tv/2023/08/07/how-to-use-the-spacer-block/)
 - [Contributing to the WordPress Community Team](https://wordpress.tv/2023/08/07/contributing-to-the-wordpress-community-team/)
 - [Tor-Björn Fjellner: Introduction to WordPress Polyglots Team](https://wordpress.tv/2023/08/07/tor-bjorn-fjellner-introduction-to-wordpress-polyglots-team/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [David Arty: Como ganhar dinheiro e viver de Marketing Digital utilizando o WordPress?](https://wordpress.tv/2023/07/24/david-arty-como-ganhar-dinheiro-e-viver-de-marketing-digital-utilizando-o-wordpress/)
 - [Allyson Souza: Crie blocos com JavaScript e React](https://wordpress.tv/2023/07/24/allyson-souza-crie-blocos-com-javascript-e-react/)
 - [Eliane Quadro: Seu site limita o acesso dos usuários? Como boas práticas ajudam na usabilidade e acessibilidade](https://wordpress.tv/2023/07/24/eliane-quadro-seu-site-limita-o-acesso-dos-usuarios-como-boas-praticas-ajudam-na-usabilidade-e-acessibilidade/)
-- [Luciane Costa: Pare de escrever para o robô, conteúdo que encanta e converte](https://wordpress.tv/2023/07/24/luciane-costa-pare-de-escrever-para-o-robo-conteudo-que-encanta-e-converte/)
 <!-- WPTV:END -->
 
 ## Marketing
