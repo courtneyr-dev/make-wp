@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [_filter_block_content_callback&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_filter_block_content_callback/)
-- [sanitize_locale_name](https://developer.wordpress.org/reference/hooks/sanitize_locale_name/)
-- [sanitize_locale_name&lpar;&rpar;](https://developer.wordpress.org/reference/functions/sanitize_locale_name/)
-- [@wordpress/create-block-interactive-template](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block-interactive-template/)
-- [@wordpress/interactivity](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity/)
-- [google-sitemap](https://developer.wordpress.org/cli/commands/google-sitemap/)
-- [doctor](https://developer.wordpress.org/cli/commands/doctor/)
-- [super-cache](https://developer.wordpress.org/cli/commands/super-cache/)
-- [cache supports](https://developer.wordpress.org/cli/commands/cache/supports/)
-- [cache flush-group](https://developer.wordpress.org/cli/commands/cache/flush-group/)
+- [block_core_navigation_submenu_build_css_colors&lpar;&rpar;](https://developer.wordpress.org/reference/functions/block_core_navigation_submenu_build_css_colors/)
+- [wp_render_duotone_support&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_render_duotone_support/)
+- [wp_register_duotone_support&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_register_duotone_support/)
+- [wp_get_duotone_filter_property&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_duotone_filter_property/)
+- [wp_get_duotone_filter_id&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_duotone_filter_id/)
+- [wp_get_duotone_filter_svg&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_duotone_filter_svg/)
+- [wp_tinycolor_string_to_rgb&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_tinycolor_string_to_rgb/)
+- [wp_tinycolor_hsl_to_rgb&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_tinycolor_hsl_to_rgb/)
+- [wp_tinycolor_rgb_to_rgb&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_tinycolor_rgb_to_rgb/)
+- [wp_tinycolor_bound01&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_tinycolor_bound01/)
 <!-- DEVHUB:END -->
 
 ## Themes
