@@ -341,7 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [How to use the spacer block](https://wordpress.tv/2023/08/07/laura-adamonis-how-to-use-the-spacer-block/)
+- [How to use the spacer block](https://wordpress.tv/2023/08/07/how-to-use-the-spacer-block/)
 - [Contributing to the WordPress Community Team](https://wordpress.tv/2023/08/07/contributing-to-the-wordpress-community-team/)
 - [Tor-Björn Fjellner: Introduction to WordPress Polyglots Team](https://wordpress.tv/2023/08/07/tor-bjorn-fjellner-introduction-to-wordpress-polyglots-team/)
 - [Olga Gleckler: Contributor Mentorship: How to start contributing to the WordPress Core](https://wordpress.tv/2023/08/04/olga-gleckler-contributor-mentorship-how-to-start-contributing-to-the-wordpress-core/)
