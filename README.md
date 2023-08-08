@@ -496,6 +496,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.3 “Lionel”](https://wordpress.org/news/2023/08/lionel/)
 - [Concerns over the European Union’s Cyber Resilience Act &lpar;CRA&rpar;](https://wordpress.org/news/2023/08/concerns-over-the-european-unions-cyber-resilience-act-cra/)
 - [WordPress 6.3 Release Candidate 3](https://wordpress.org/news/2023/08/wordpress-6-3-rc3/)
 - [People of WordPress: Ihtisham Zahoor](https://wordpress.org/news/2023/07/people-of-wordpress-ihtisham-zahoor/)
@@ -505,7 +506,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.3 Release Candidate 1](https://wordpress.org/news/2023/07/wordpress-6-3-release-candidate-1/)
 - [WP Briefing: Episode 60: Sneak a Peek at WordPress 6.3 with Special Guest Mike Schroder](https://wordpress.org/news/2023/07/episode-60-sneak-a-peek-at-wordpress-6-3-with-special-guest-mike-schroder/)
 - [Designed with WordPress](https://wordpress.org/news/2023/07/designed-with-wordpress/)
-- [WordPress 6.3 Beta 4](https://wordpress.org/news/2023/07/wordpress-6-3-beta-4/)
 <!-- NEWS:END -->
 
 ## Jobs
