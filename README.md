@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Summary for August 3rd Support Meeting](https://make.wordpress.org/support/2023/08/summary-for-august-3rd-support-meeting/)
 - [Agenda for August 3rd Support Meeting](https://make.wordpress.org/support/2023/08/agenda-for-august-3rd-support-meeting-2/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/support/2023/08/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Summary for July 27th Support Meeting](https://make.wordpress.org/support/2023/07/summary-for-july-27th-support-meeting/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/support/2023/07/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/support/2023/07/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [WP Contributor Mentorship Program: Support team edition](https://make.wordpress.org/support/2023/06/wp-contributor-mentorship-program-support-team-edition/)
-- [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/support/2023/06/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 <!-- SUPPORT:END -->
 
 ## Documentation
