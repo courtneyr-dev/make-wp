@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Adding some meta buttons always visible](https://make.wordpress.org/polyglots/2023/08/09/adding-some-meta-buttons-always-visible/)
 - [New WordPress.org Theme for your Rosetta Site](https://make.wordpress.org/polyglots/2023/08/09/new-wordpress-org-theme-for-your-rosetta-site/)
 - [Agenda: Weekly Polyglots Chat – August 09, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/09/agenda-weekly-polyglots-chat-august-09-2023-0700-utc/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;, Contact Form 7, Gutenberg  plugins](https://make.wordpress.org/polyglots/2023/08/08/pte-request-for-advanced-custom-fields-acf-contact-form-7-gutenberg-plugins/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Newsmatic Themes](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-newsmatic-themes/)
 - [PTE Request for Duplica plugin](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-duplica-plugin/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/08/06/pte-request-for-several-projects-4/)
-- [Português de Portugal](https://make.wordpress.org/polyglots/2023/08/06/portugues-de-portugal/)
 <!-- POLYGLOTS:END -->
 
 ## Support
