@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Organizations Supporting WordPress.org](https://make.wordpress.org/meta/2023/08/09/organizations-supporting-wordpress-org/)
 - [Matrix chat Summary – August 3, 2023](https://make.wordpress.org/meta/2023/08/03/matrix-chat-summary-august/)
 - [Matrix chat Summary – July 20, 2023](https://make.wordpress.org/meta/2023/07/20/matrix-chat-summary-july-20-2023/)
 - [Make Team Dashboards](https://make.wordpress.org/meta/2023/06/20/make-team-dashboards/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New curation filter in Pattern Directory](https://make.wordpress.org/meta/2023/06/09/new-curation-filter-in-pattern-directory/)
 - [Matrix chat Summary – June 1, 2023](https://make.wordpress.org/meta/2023/06/02/matrix-chat-summary-june-1-2023/)
 - [Meta at WCEU 2023 Contributor Day](https://make.wordpress.org/meta/2023/06/02/meta-at-wceu-2023-contributor-day/)
-- [Agenda: Biweekly Matrix Chat – Thu, June 1, 2023 &lpar;10AM UTC&rpar;](https://make.wordpress.org/meta/2023/05/31/agenda-biweekly-matrix-chat-thu-june-1-2023-10am-utc/)
 <!-- META:END -->
 
 ## Training
