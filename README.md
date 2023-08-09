@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 9, 2023](https://make.wordpress.org/community/2023/08/09/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-9-2023/)
 - [New GitHub Feature Request: Separating access to the Meetup and WordCamp trackers](https://make.wordpress.org/community/2023/08/02/new-github-feature-request-separating-access-to-the-meetup-and-wordcamp-trackers/)
 - [Community Team Meeting Agenda for 3 August, 2023](https://make.wordpress.org/community/2023/08/02/community-team-meeting-agenda-for-3-august-2023/)
 - [Recap: Inaugural NextGen Pilot Events](https://make.wordpress.org/community/2023/08/02/recap-inaugural-nextgen-pilot-events/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Next Generation Event URL](https://make.wordpress.org/community/2023/07/26/proposal-next-generation-event-url/)
 - [Can You Help the Week of WCUS 2023?](https://make.wordpress.org/community/2023/07/25/wcus-2023-call-for-help/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/community/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
-- [Meetup Organizer Newsletter: JULY 2023](https://make.wordpress.org/community/2023/07/21/meetup-organizer-newsletter-july-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
