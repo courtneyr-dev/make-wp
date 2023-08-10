@@ -341,6 +341,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Zena Poudel: Machine Learning and WordPress](https://wordpress.tv/2023/08/10/zena-poudel-machine-learning-and-wordpress/)
+- [Tanaz Masaba: How To Avoid Burnout When Working With WordPress](https://wordpress.tv/2023/08/10/tanaz-masaba-how-to-avoid-burnout-when-working-with-wordpress/)
+- [Sunita Rai: How Success Gaps Help You Build a Robust Content Strategy?](https://wordpress.tv/2023/08/10/sunita-rai-how-success-gaps-help-you-build-a-robust-content-strategy/)
+- [Shristi Shrestha: Leveraging Design Thinking to Elevate User Experience on WordPress Websites](https://wordpress.tv/2023/08/10/shristi-shrestha-leveraging-design-thinking-to-elevate-user-experience-on-wordpress-websites/)
 - [Rayhan Arif: How to Get Started With Content Marketing in WordPress](https://wordpress.tv/2023/08/10/rayhan-arif-how-to-get-started-with-content-marketing-in-wordpress/)
 - [Raushan Jaiswal: WordPress Marketing – 4 Easy &amp; Effective Marketing Channels To Promote WordPress Products](https://wordpress.tv/2023/08/10/raushan-jaiswal-wordpress-marketing-4-easy-effective-marketing-channels-to-promote-wordpress-products/)
 - [Rahul D Sarker: Isn’t SEO dead?](https://wordpress.tv/2023/08/10/rahul-d-sarker-isnt-seo-dead/)
@@ -362,10 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Power of Localization in WordPress Product Marketing](https://wordpress.tv/2023/07/28/the-power-of-localization-in-wordpress-product-marketing/)
 - [Overcoming Writer’s Block: Planning a Blog’s Content](https://wordpress.tv/2023/07/28/overcoming-writers-block-planning-a-blogs-content/)
 - [Testing WordPress 6.3 – Developer Edition](https://wordpress.tv/2023/07/28/testing-wordpress-6-3-developer-edition/)
-- [Canto diñeiro vas seguir perdendo por non montares unha tenda online?](https://wordpress.tv/2023/07/27/canto-dineiro-vas-seguir-perdendo-por-non-montares-unha-tenda-online/)
-- [How DevOps Principles are Transforming IT Operations and Business Agility](https://wordpress.tv/2023/07/27/how-devops-principles-are-transforming-it-operations-and-business-agility/)
-- [From Fresh Grad to Professional: A Guide to Choosing Between Freelance and Employment in IT](https://wordpress.tv/2023/07/27/from-fresh-grad-to-professional-a-guide-to-choosing-between-freelance-and-employment-in-it/)
-- [Crea tu página web sin plugins con el theme Twenty Twenty-Three](https://wordpress.tv/2023/07/27/crea-tu-pagina-web-sin-plugins-con-el-theme-twenty-twenty-three/)
 <!-- WPTV:END -->
 
 ## Marketing
