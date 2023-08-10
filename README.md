@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Please, add a feature: “Auto-copy…](https://make.wordpress.org/polyglots/2023/08/10/please-add-a-feature-auto-copy/)
 - [PTE Request for Ricerca – advanced search](https://make.wordpress.org/polyglots/2023/08/09/pte-request-for-ricerca-advanced-search/)
 - [Hi, I have done German…](https://make.wordpress.org/polyglots/2023/08/09/hi-i-have-done-german/)
 - [Adding some meta buttons always visible](https://make.wordpress.org/polyglots/2023/08/09/adding-some-meta-buttons-always-visible/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Converter for Media](https://make.wordpress.org/polyglots/2023/08/08/hello-80/)
 - [PTE Request for NewsMag](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-newsmag/)
 - [PTE request for Openverse](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-openverse-3/)
-- [PTE Request for Newsmatic Themes](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-newsmatic-themes/)
 <!-- POLYGLOTS:END -->
 
 ## Support
