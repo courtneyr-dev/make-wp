@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Topher DeRosia: WordPress Photos Team Photographer Onboarding](https://wordpress.tv/2023/08/09/topher-derosia-wordpress-photos-team-photographer-onboarding/)
 - [Ahmed Kabir Chaion – WordPress 6.1 Core Contribution Stories](https://wordpress.tv/2023/08/08/ahmed-kabir-chaion-wordpress-6-1-core-contribution-stories/)
 - [Exploring WordPress 6.3](https://wordpress.tv/2023/08/08/exploring-wordpress-6-3/)
 - [How to use the spacer block](https://wordpress.tv/2023/08/07/how-to-use-the-spacer-block/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mentorship Program: Introduction to the WordPress Open Source Project](https://wordpress.tv/2023/07/25/mentorship-program-introduction-to-the-wordpress-open-source-project/)
 - [Amanda Noronha Araujo: O SEO da próxima década e o que esperar do futuro – O fim é o começo](https://wordpress.tv/2023/07/24/amanda-noronha-araujo-o-seo-da-proxima-decada-e-o-que-esperar-do-futuro-o-fim-e-o-comeco/)
 - [David Arty: Como ganhar dinheiro e viver de Marketing Digital utilizando o WordPress?](https://wordpress.tv/2023/07/24/david-arty-como-ganhar-dinheiro-e-viver-de-marketing-digital-utilizando-o-wordpress/)
-- [Allyson Souza: Crie blocos com JavaScript e React](https://wordpress.tv/2023/07/24/allyson-souza-crie-blocos-com-javascript-e-react/)
 <!-- WPTV:END -->
 
 ## Marketing
