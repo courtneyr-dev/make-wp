@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Website auditing and conversion optimization](https://learn.wordpress.org/?meeting=website-auditing-and-conversion-optimization)
 - [WordPress database optimization and maintenance](https://learn.wordpress.org/?meeting=wordpress-database-optimization-and-maintenance)
 - [Creating a contact page](https://learn.wordpress.org/?meeting=creating-a-contact-page)
 - [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-6)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Testing WordPress 6.3](https://learn.wordpress.org/?meeting=testing-wordpress-6-3)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-4)
 - [Common WordPress APIs: Responsive Images](https://learn.wordpress.org/?meeting=common-wordpress-apis-responsive-images)
-- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-9)
 <!-- SLS:END -->
 
 ## Test
