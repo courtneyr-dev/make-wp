@@ -553,7 +553,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Tokyo 2023](https://central.wordcamp.org/wordcamps/wordcamp-tokyo-2023/)
 - [WordCamp Bhopal 2023](https://central.wordcamp.org/wordcamps/wordcamp-bhopal-madhya-pradesh-india-4/)
 - [WordCamp Vancouver, British Columbia, Canada](https://central.wordcamp.org/wordcamps/wordcamp-vancouver-british-columbia-canada-2/)
-- [WordCamp Taiwan](https://central.wordcamp.org/wordcamps/wordcamp-taiwan-2/)
+- [WordCamp Taiwan 2023](https://central.wordcamp.org/wordcamps/wordcamp-taiwan-2023/)
 - [WordCamp Atlanta 2023](https://central.wordcamp.org/wordcamps/wordcamp-atlanta-2023/)
 - [WordCamp Germany](https://central.wordcamp.org/wordcamps/wordcamp-germany/)
 - [WordCamp Bengaluru, Karnataka, India](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-karnataka-india/)
