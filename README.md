@@ -341,6 +341,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Rayhan Arif: How to Get Started With Content Marketing in WordPress](https://wordpress.tv/2023/08/10/rayhan-arif-how-to-get-started-with-content-marketing-in-wordpress/)
+- [Raushan Jaiswal: WordPress Marketing – 4 Easy &amp; Effective Marketing Channels To Promote WordPress Products](https://wordpress.tv/2023/08/10/raushan-jaiswal-wordpress-marketing-4-easy-effective-marketing-channels-to-promote-wordpress-products/)
+- [Rahul D Sarker: Isn’t SEO dead?](https://wordpress.tv/2023/08/10/rahul-d-sarker-isnt-seo-dead/)
+- [Nabin Jaiswal: Skills You Need as a Customer Support Representative](https://wordpress.tv/2023/08/10/nabin-jaiswal-skills-you-need-as-a-customer-support-representative/)
+- [Anup Adhikari: RDFs in WordPress for Knowledge Representation of Blog Articles](https://wordpress.tv/2023/08/10/anup-adhikari-rdfs-in-wordpress-for-knowledge-representation-of-blog-articles/)
+- [Eeda Rijal: The evolution of UI/UX In WordPress](https://wordpress.tv/2023/08/10/eeda-rijal-the-evolution-of-ui-ux-in-wordpress/)
 - [Exploring some of the new 6.3 WordPress features](https://wordpress.tv/2023/08/09/exploring-some-of-the-new-6-3-wordpress-features/)
 - [Topher DeRosia: WordPress Photos Team Photographer Onboarding](https://wordpress.tv/2023/08/09/topher-derosia-wordpress-photos-team-photographer-onboarding/)
 - [Ahmed Kabir Chaion – WordPress 6.1 Core Contribution Stories](https://wordpress.tv/2023/08/08/ahmed-kabir-chaion-wordpress-6-1-core-contribution-stories/)
@@ -360,12 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How DevOps Principles are Transforming IT Operations and Business Agility](https://wordpress.tv/2023/07/27/how-devops-principles-are-transforming-it-operations-and-business-agility/)
 - [From Fresh Grad to Professional: A Guide to Choosing Between Freelance and Employment in IT](https://wordpress.tv/2023/07/27/from-fresh-grad-to-professional-a-guide-to-choosing-between-freelance-and-employment-in-it/)
 - [Crea tu página web sin plugins con el theme Twenty Twenty-Three](https://wordpress.tv/2023/07/27/crea-tu-pagina-web-sin-plugins-con-el-theme-twenty-twenty-three/)
-- [Improving website performance with caching](https://wordpress.tv/2023/07/26/improving-website-performance-with-caching/)
-- [Micah Wood: WordPress database optimization and maintenance](https://wordpress.tv/2023/07/26/micah-wood-wordpress-database-optimization-and-maintenance/)
-- [WordPress Developer Hours – Styling Blocks &lpar;July 2023&rpar;](https://wordpress.tv/2023/07/26/wordpress-developer-hours-styling-blocks-july-2023/)
-- [企業によるWordPress コントリビュート成功事例: スキルアップとグローバル参加の機会](https://wordpress.tv/2023/07/26/fiveforthefuturejapanmeetup-2023-07-18/)
-- [Mentorship Program: Introduction to the WordPress Open Source Project](https://wordpress.tv/2023/07/25/mentorship-program-introduction-to-the-wordpress-open-source-project/)
-- [Amanda Noronha Araujo: O SEO da próxima década e o que esperar do futuro – O fim é o começo](https://wordpress.tv/2023/07/24/amanda-noronha-araujo-o-seo-da-proxima-decada-e-o-que-esperar-do-futuro-o-fim-e-o-comeco/)
 <!-- WPTV:END -->
 
 ## Marketing
