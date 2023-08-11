@@ -341,6 +341,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Testing plugins for PHP version compatibility](https://wordpress.tv/2023/08/11/testing-plugins-for-php-version-compatibility/)
+- [CBWJ #1 キックオフ / Meetup イベントの成功 &amp; 持続のためのヒント](https://wordpress.tv/2023/08/11/community-building-workshop-japan-001/)
 - [How to validate content feedback for the WordPress Training Team](https://wordpress.tv/2023/08/10/how-to-validate-content-feedback-for-the-wordpress-training-team/)
 - [Zena Poudel: Machine Learning and WordPress](https://wordpress.tv/2023/08/10/zena-poudel-machine-learning-and-wordpress/)
 - [Tanaz Masaba: How To Avoid Burnout When Working With WordPress](https://wordpress.tv/2023/08/10/tanaz-masaba-how-to-avoid-burnout-when-working-with-wordpress/)
@@ -364,8 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Common WordPress APIs: Internationalization](https://wordpress.tv/2023/08/04/common-wordpress-apis-internationalization/)
 - [How to add tables to your site](https://wordpress.tv/2023/08/02/how-to-add-tables-to-your-site/)
 - [Jenni McKinnon, Milana Cap: WordPress Documentation Team Onboarding July 2023](https://wordpress.tv/2023/08/01/jenni-mckinnon-milana-cap-wordpress-documentation-team-onboarding-july-2023/)
-- [The Power of Localization in WordPress Product Marketing](https://wordpress.tv/2023/07/28/the-power-of-localization-in-wordpress-product-marketing/)
-- [Overcoming Writer’s Block: Planning a Blog’s Content](https://wordpress.tv/2023/07/28/overcoming-writers-block-planning-a-blogs-content/)
 <!-- WPTV:END -->
 
 ## Marketing
