@@ -285,6 +285,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [What’s new for developers? &lpar;August 2023&rpar;](https://learn.wordpress.org/?meeting=whats-new-for-developers-august-2023)
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-12)
 - [Training Team Contributor Hour](https://learn.wordpress.org/?meeting=training-team-contributor-hour)
 - [Website auditing and conversion optimization](https://learn.wordpress.org/?meeting=website-auditing-and-conversion-optimization)
 - [WordPress database optimization and maintenance](https://learn.wordpress.org/?meeting=wordpress-database-optimization-and-maintenance)
@@ -308,8 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-3)
 - [How to validate content feedback for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-validate-content-feedback-for-the-wordpress-training-team-2)
 - [Mentorship Program: Introduction to the WordPress Open Source Project](https://learn.wordpress.org/?meeting=mentorship-program-introduction-to-the-wordpress-open-source-project)
-- [Testing WordPress 6.3](https://learn.wordpress.org/?meeting=testing-wordpress-6-3)
-- [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-4)
 <!-- SLS:END -->
 
 ## Test
