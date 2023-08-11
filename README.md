@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/core/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [What’s new in Gutenberg 16.4? &lpar;9 August&rpar;](https://make.wordpress.org/core/2023/08/10/whats-new-in-gutenberg-16-4-9-august/)
 - [Updating WordPress to use more modern versions of Node.js/npm](https://make.wordpress.org/core/2023/08/09/updating-wordpress-to-use-more-modern-versions-of-node-js-npm/)
 - [Dev Chat agenda, August 9, 2023](https://make.wordpress.org/core/2023/08/09/dev-chat-agenda-august-9-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.3 Release Candidate 4 &lpar;RC4&rpar; Now Available for Testing](https://make.wordpress.org/core/2023/08/07/wordpress-6-3-release-candidate-4-rc4-now-available-for-testing/)
 - [Editor chat summary: August 2nd, 2023](https://make.wordpress.org/core/2023/08/07/editor-chat-summary-august-2nd-2023/)
 - [Performance Chat Agenda: 8 August 2023](https://make.wordpress.org/core/2023/08/07/performance-chat-agenda-8-august-2023/)
-- [Dev Chat Summary, August 2, 2023](https://make.wordpress.org/core/2023/08/05/dev-chat-summary-august-2-2023/)
 <!-- CORE:END -->
 
 ## Design
