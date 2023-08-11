@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/polyglots/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [PTE Request for User Switching Plugin](https://make.wordpress.org/polyglots/2023/08/11/pte-request-for-user-switching-plugin/)
 - [Please, add a feature: “Auto-copy…](https://make.wordpress.org/polyglots/2023/08/10/please-add-a-feature-auto-copy/)
 - [PTE Request for Ricerca – advanced search](https://make.wordpress.org/polyglots/2023/08/09/pte-request-for-ricerca-advanced-search/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – August 09, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/09/agenda-weekly-polyglots-chat-august-09-2023-0700-utc/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;, Contact Form 7, Gutenberg  plugins](https://make.wordpress.org/polyglots/2023/08/08/pte-request-for-advanced-custom-fields-acf-contact-form-7-gutenberg-plugins/)
 - [PTE Request for Converter for Media](https://make.wordpress.org/polyglots/2023/08/08/hello-80/)
-- [PTE Request for NewsMag](https://make.wordpress.org/polyglots/2023/08/07/pte-request-for-newsmag/)
 <!-- POLYGLOTS:END -->
 
 ## Support
