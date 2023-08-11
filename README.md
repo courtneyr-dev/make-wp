@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Common WordPress APIs: Global Variables](https://wordpress.tv/2023/08/11/common-wordpress-apis-global-variables/)
 - [Testing plugins for PHP version compatibility](https://wordpress.tv/2023/08/11/testing-plugins-for-php-version-compatibility/)
 - [CBWJ #1 キックオフ / Meetup イベントの成功 &amp; 持続のためのヒント](https://wordpress.tv/2023/08/11/community-building-workshop-japan-001/)
 - [How to validate content feedback for the WordPress Training Team](https://wordpress.tv/2023/08/10/how-to-validate-content-feedback-for-the-wordpress-training-team/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Blogging with WordPress: Basics](https://wordpress.tv/2023/08/04/blogging-with-wordpress-basics/)
 - [Common WordPress APIs: Internationalization](https://wordpress.tv/2023/08/04/common-wordpress-apis-internationalization/)
 - [How to add tables to your site](https://wordpress.tv/2023/08/02/how-to-add-tables-to-your-site/)
-- [Jenni McKinnon, Milana Cap: WordPress Documentation Team Onboarding July 2023](https://wordpress.tv/2023/08/01/jenni-mckinnon-milana-cap-wordpress-documentation-team-onboarding-july-2023/)
 <!-- WPTV:END -->
 
 ## Marketing
