@@ -285,6 +285,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Training Team Contributor Hour](https://learn.wordpress.org/?meeting=training-team-contributor-hour)
 - [Website auditing and conversion optimization](https://learn.wordpress.org/?meeting=website-auditing-and-conversion-optimization)
 - [WordPress database optimization and maintenance](https://learn.wordpress.org/?meeting=wordpress-database-optimization-and-maintenance)
 - [Creating a contact page](https://learn.wordpress.org/?meeting=creating-a-contact-page)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mentorship Program: Introduction to the WordPress Open Source Project](https://learn.wordpress.org/?meeting=mentorship-program-introduction-to-the-wordpress-open-source-project)
 - [Testing WordPress 6.3](https://learn.wordpress.org/?meeting=testing-wordpress-6-3)
 - [Come join the WordPress Training Team!](https://learn.wordpress.org/?meeting=come-join-the-wordpress-training-team-4)
-- [Common WordPress APIs: Responsive Images](https://learn.wordpress.org/?meeting=common-wordpress-apis-responsive-images)
 <!-- SLS:END -->
 
 ## Test
