@@ -157,6 +157,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Blue Note: The second community theme is released](https://make.wordpress.org/community/2023/08/11/xpost-blue-note-the-second-community-theme-is-released/)
+- [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/community/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 9, 2023](https://make.wordpress.org/community/2023/08/09/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-9-2023/)
 - [New GitHub Feature Request: Separating access to the Meetup and WordCamp trackers](https://make.wordpress.org/community/2023/08/02/new-github-feature-request-separating-access-to-the-meetup-and-wordcamp-trackers/)
 - [Community Team Meeting Agenda for 3 August, 2023](https://make.wordpress.org/community/2023/08/02/community-team-meeting-agenda-for-3-august-2023/)
@@ -165,8 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Mentors’ August check-in!](https://make.wordpress.org/community/2023/08/01/wordcamp-mentors-august-check-in/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/community/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Proposal: Next Generation Event URL](https://make.wordpress.org/community/2023/07/26/proposal-next-generation-event-url/)
-- [Can You Help the Week of WCUS 2023?](https://make.wordpress.org/community/2023/07/25/wcus-2023-call-for-help/)
-- [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/community/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
