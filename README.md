@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/training/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [WCUS Contributor Day: Tutorials Workshop &lpar;In-Person &amp; Remote&rpar;](https://make.wordpress.org/training/2023/08/04/wcus-contributor-day-tutorials-workshop-in-person-remote/)
 - [Training Team Meeting Recap – 1st August 2023](https://make.wordpress.org/training/2023/08/03/training-team-meeting-recap-1st-august-2023/)
 - [Introducing the Training Team Guide Program!](https://make.wordpress.org/training/2023/08/03/introducing-the-training-team-guide-program/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for Volunteers to help with 6.3 Learn WordPress updates](https://make.wordpress.org/training/2023/07/25/call-for-volunteers-to-help-with-6-3-learn-wordpress-updates/)
 - [WordCamp US 2023 Contributor Day](https://make.wordpress.org/training/2023/07/25/wordcamp-us-2023-contributor-day/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/training/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
-- [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/training/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
