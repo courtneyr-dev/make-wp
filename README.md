@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Introducing WordPress.org/Blocks](https://make.wordpress.org/meta/2023/08/11/introducing-wordpress-org-blocks/)
 - [Organizations Supporting WordPress.org](https://make.wordpress.org/meta/2023/08/09/organizations-supporting-wordpress-org/)
 - [Matrix chat Summary – August 3, 2023](https://make.wordpress.org/meta/2023/08/03/matrix-chat-summary-august/)
 - [Matrix chat Summary – July 20, 2023](https://make.wordpress.org/meta/2023/07/20/matrix-chat-summary-july-20-2023/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Linking to Supporting Orgs](https://make.wordpress.org/meta/2023/06/11/linking-to-supporting-orgs/)
 - [New curation filter in Pattern Directory](https://make.wordpress.org/meta/2023/06/09/new-curation-filter-in-pattern-directory/)
 - [Matrix chat Summary – June 1, 2023](https://make.wordpress.org/meta/2023/06/02/matrix-chat-summary-june-1-2023/)
-- [Meta at WCEU 2023 Contributor Day](https://make.wordpress.org/meta/2023/06/02/meta-at-wceu-2023-contributor-day/)
 <!-- META:END -->
 
 ## Training
