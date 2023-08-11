@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Blue Note: The second community theme is released](https://make.wordpress.org/themes/2023/08/11/blue-note-the-second-community-theme-is-released/)
 - [Themes Team Meeting Notes – August 08, 2023](https://make.wordpress.org/themes/2023/08/10/themes-team-meeting-notes-august-08-2023/)
 - [X-post: Themes team update August 08, 2023](https://make.wordpress.org/themes/2023/08/08/xpost-themes-team-update-august-08-2023/)
 - [Themes team meeting agenda for August 08, 2023](https://make.wordpress.org/themes/2023/08/07/themes-team-meeting-agenda-for-august-08-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes Team Meeting Notes – July 11, 2023](https://make.wordpress.org/themes/2023/07/13/themes-team-meeting-notes-july-11-2023/)
 - [Themes team meeting agenda for July 11, 2023](https://make.wordpress.org/themes/2023/07/10/themes-team-meeting-agenda-for-july-11-2023/)
 - [Themes Team Meeting Notes – June 27, 2023](https://make.wordpress.org/themes/2023/06/28/themes-team-meeting-notes-june-27-2023/)
-- [Themes team meeting agenda for June 27, 2023](https://make.wordpress.org/themes/2023/06/26/themes-team-meeting-agenda-for-june-27-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
