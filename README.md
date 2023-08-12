@@ -171,7 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
-- [Introducing WordPress.org/Blocks](https://make.wordpress.org/meta/2023/08/11/introducing-wordpress-org-blocks/)
+- [Introducing WordPress.org/blocks](https://make.wordpress.org/meta/2023/08/11/introducing-wordpress-org-blocks/)
 - [Organizations Supporting WordPress.org](https://make.wordpress.org/meta/2023/08/09/organizations-supporting-wordpress-org/)
 - [Matrix chat Summary – August 3, 2023](https://make.wordpress.org/meta/2023/08/03/matrix-chat-summary-august/)
 - [Matrix chat Summary – July 20, 2023](https://make.wordpress.org/meta/2023/07/20/matrix-chat-summary-july-20-2023/)
