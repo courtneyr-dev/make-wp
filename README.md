@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear translators,](https://make.wordpress.org/polyglots/2023/08/13/hi-dear-translators/)
 - [There is a wrong translation…](https://make.wordpress.org/polyglots/2023/08/13/there-is-a-wrong-translation/)
 - [PTE Request for Gutenberg plugins,…](https://make.wordpress.org/polyglots/2023/08/13/pte-request-for-gutenberg-plugins/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/polyglots/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, I have done German…](https://make.wordpress.org/polyglots/2023/08/09/hi-i-have-done-german/)
 - [Adding some meta buttons always visible](https://make.wordpress.org/polyglots/2023/08/09/adding-some-meta-buttons-always-visible/)
 - [New WordPress.org Theme for your Rosetta Site](https://make.wordpress.org/polyglots/2023/08/09/new-wordpress-org-theme-for-your-rosetta-site/)
-- [Agenda: Weekly Polyglots Chat – August 09, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/09/agenda-weekly-polyglots-chat-august-09-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
