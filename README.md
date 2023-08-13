@@ -510,16 +510,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-17/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-21/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-14/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-6/)
-- [Theme customize](https://jobs.wordpress.net/job/theme-customize/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-204/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-5/)
-- [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-2/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-4/)
-- [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-4/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-18/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-22/)
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-7/)
+- [WordPress Developer *API, Building Themes, Plugin Development, E-Commerce](https://jobs.wordpress.net/job/wordpress-developer-api-building-themes-plugin-development-e-commerce/)
+- [WordPress/PHP Developer](https://jobs.wordpress.net/job/wordpress-php-developer-24/)
+- [[Astra] Technical Writer](https://jobs.wordpress.net/job/astra-technical-writer/)
+- [Senior WordPress Software Engineer](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-3/)
+- [Virtual Assistant – Support Operations](https://jobs.wordpress.net/job/virtual-assistant-support-operations/)
+- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-82/)
+- [Driving Safety Cause Marketing PARTNERS](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners/)
 <!-- JOBS:END -->
 
 ## Central
