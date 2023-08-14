@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Jill Binder, Birgit Olzem: Contributor Mentorship: A Primer for DEIB at WordPress Events &lpar;#WPDiversity&rpar;](https://wordpress.tv/2023/08/13/jill-binder-birgit-olzem-contributor-mentorship-a-primer-for-deib-at-wordpress-events-wpdiversity/)
 - [Common WordPress APIs: Global Variables](https://wordpress.tv/2023/08/11/common-wordpress-apis-global-variables/)
 - [Testing plugins for PHP version compatibility](https://wordpress.tv/2023/08/11/testing-plugins-for-php-version-compatibility/)
 - [CBWJ #1 キックオフ / Meetup イベントの成功 &amp; 持続のためのヒント](https://wordpress.tv/2023/08/11/community-building-workshop-japan-001/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Olga Gleckler: Contributor Mentorship: How to start contributing to the WordPress Core](https://wordpress.tv/2023/08/04/olga-gleckler-contributor-mentorship-how-to-start-contributing-to-the-wordpress-core/)
 - [Blogging with WordPress: Basics](https://wordpress.tv/2023/08/04/blogging-with-wordpress-basics/)
 - [Common WordPress APIs: Internationalization](https://wordpress.tv/2023/08/04/common-wordpress-apis-internationalization/)
-- [How to add tables to your site](https://wordpress.tv/2023/08/02/how-to-add-tables-to-your-site/)
 <!-- WPTV:END -->
 
 ## Marketing
