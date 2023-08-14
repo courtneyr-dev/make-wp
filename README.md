@@ -454,6 +454,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Documentation Team Update – August 14, 2023](https://make.wordpress.org/updates/2023/08/14/documentation-team-update-august-14-2023/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/updates/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [Mobile Team Update – August 8th](https://make.wordpress.org/updates/2023/08/08/mobile-team-update-august-8th/)
 - [Themes team update August 08, 2023](https://make.wordpress.org/updates/2023/08/08/themes-team-update-august-08-2023/)
@@ -463,7 +464,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Performance Team Update: July 2023](https://make.wordpress.org/updates/2023/08/01/core-performance-team-update-july-2023/)
 - [What’s new on Learn WordPress in July 2023](https://make.wordpress.org/updates/2023/08/01/whats-new-on-learn-wordpress-in-july-2023/)
 - [Themes team update August 01, 2023](https://make.wordpress.org/updates/2023/08/01/themes-team-update-august-01-2023/)
-- [Test Team Update: 31 July 2023](https://make.wordpress.org/updates/2023/07/31/test-team-update-31-july-2023/)
 <!-- UPDATES:END -->
 
 ## Project
