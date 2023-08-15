@@ -510,6 +510,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Need a new WP theme](https://jobs.wordpress.net/job/need-a-new-wp-theme/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-18/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-22/)
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-7/)
@@ -519,7 +520,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior WordPress Software Engineer](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-3/)
 - [Virtual Assistant – Support Operations](https://jobs.wordpress.net/job/virtual-assistant-support-operations/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-82/)
-- [Driving Safety Cause Marketing PARTNERS](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners/)
 <!-- JOBS:END -->
 
 ## Central
