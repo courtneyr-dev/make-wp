@@ -341,6 +341,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Embedding media and third-party content on your website](https://wordpress.tv/2023/08/15/embedding-media-and-third-party-content-on-your-website/)
 - [Crear contenido para youtube con IA](https://wordpress.tv/2023/08/15/crear-contenido-para-youtube-con-ia/)
 - [Migrando a Analytics 4 como si no hubiera un mañana](https://wordpress.tv/2023/08/15/migrando-a-analytics-4-como-si-no-hubiera-un-manana/)
 - [Ordenar contenidos en una web](https://wordpress.tv/2023/08/15/ordenar-contenidos-en-una-web/)
@@ -365,7 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Anup Adhikari: RDFs in WordPress for Knowledge Representation of Blog Articles](https://wordpress.tv/2023/08/10/anup-adhikari-rdfs-in-wordpress-for-knowledge-representation-of-blog-articles/)
 - [Eeda Rijal: The evolution of UI/UX In WordPress](https://wordpress.tv/2023/08/10/eeda-rijal-the-evolution-of-ui-ux-in-wordpress/)
 - [Exploring some of the new 6.3 WordPress features](https://wordpress.tv/2023/08/09/exploring-some-of-the-new-6-3-wordpress-features/)
-- [Topher DeRosia: WordPress Photos Team Photographer Onboarding](https://wordpress.tv/2023/08/09/topher-derosia-wordpress-photos-team-photographer-onboarding/)
 <!-- WPTV:END -->
 
 ## Marketing
