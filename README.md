@@ -370,6 +370,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/marketing/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/marketing/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/marketing/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
 - [Notes: Global Marketing Team meeting, 4 July 2023](https://make.wordpress.org/marketing/2023/07/10/notes-global-marketing-team-meeting-4-july-2023/)
@@ -379,7 +380,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Notes: Global Marketing Team meeting, 13 June 2023](https://make.wordpress.org/marketing/2023/06/19/notes-global-marketing-team-meeting-13-june-2023/)
 - [Notes: Global Marketing Team meeting, 06 June 2023](https://make.wordpress.org/marketing/2023/06/12/notes-global-marketing-team-meeting-06-june-2023/)
 - [Notes: Global Marketing Team meeting, 30 May 2023](https://make.wordpress.org/marketing/2023/06/05/notes-global-marketing-team-meeting-30-may-2023/)
-- [X-post: Proposal: establishment of a formal WordPress Sustainability Team](https://make.wordpress.org/marketing/2023/05/31/xpost-proposal-establishment-of-a-formal-wordpress-sustainability-team/)
 <!-- MARKETING:END -->
 
 ## CLI
