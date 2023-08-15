@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/training/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [Training Team Meeting Recap – 8th August 2023](https://make.wordpress.org/training/2023/08/14/training-team-meeting-recap-8th-august-2023/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/training/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [WCUS Contributor Day: Tutorials Workshop &lpar;In-Person &amp; Remote&rpar;](https://make.wordpress.org/training/2023/08/04/wcus-contributor-day-tutorials-workshop-in-person-remote/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/training/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Training Team Meeting Recap – 25th July 2023](https://make.wordpress.org/training/2023/07/26/training-team-meeting-recap-25th-july-2023/)
 - [Call for Volunteers to help with 6.3 Learn WordPress updates](https://make.wordpress.org/training/2023/07/25/call-for-volunteers-to-help-with-6-3-learn-wordpress-updates/)
-- [WordCamp US 2023 Contributor Day](https://make.wordpress.org/training/2023/07/25/wordcamp-us-2023-contributor-day/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
