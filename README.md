@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/polyglots/2023/08/15/discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [PTE Request for RD Order Modifier for WooCommerce](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-rd-order-modifier-for-woocommerce/)
 - [PTE Request for WC Affiliate plugin](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-wc-affiliate-plugin/)
 - [PTE Request for IP2Location Redirection](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-ip2location-redirection/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Gutenberg plugins,…](https://make.wordpress.org/polyglots/2023/08/13/pte-request-for-gutenberg-plugins/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/polyglots/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [PTE Request for User Switching Plugin](https://make.wordpress.org/polyglots/2023/08/11/pte-request-for-user-switching-plugin/)
-- [Please, add a feature: “Auto-copy…](https://make.wordpress.org/polyglots/2023/08/10/please-add-a-feature-auto-copy/)
 <!-- POLYGLOTS:END -->
 
 ## Support
