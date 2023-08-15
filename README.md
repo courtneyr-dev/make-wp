@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for RD Order Modifier for WooCommerce](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-rd-order-modifier-for-woocommerce/)
+- [PTE Request for WC Affiliate plugin](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-wc-affiliate-plugin/)
 - [PTE Request for IP2Location Redirection](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-ip2location-redirection/)
 - [PTE request for JustTables](https://make.wordpress.org/polyglots/2023/08/14/pte-request-for-justtables/)
 - [Hi dear translators,](https://make.wordpress.org/polyglots/2023/08/13/hi-dear-translators/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/polyglots/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [PTE Request for User Switching Plugin](https://make.wordpress.org/polyglots/2023/08/11/pte-request-for-user-switching-plugin/)
 - [Please, add a feature: “Auto-copy…](https://make.wordpress.org/polyglots/2023/08/10/please-add-a-feature-auto-copy/)
-- [PTE Request for Ricerca – advanced search](https://make.wordpress.org/polyglots/2023/08/09/pte-request-for-ricerca-advanced-search/)
-- [Hi, I have done German…](https://make.wordpress.org/polyglots/2023/08/09/hi-i-have-done-german/)
 <!-- POLYGLOTS:END -->
 
 ## Support
