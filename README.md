@@ -341,6 +341,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Crear contenido para youtube con IA](https://wordpress.tv/2023/08/15/crear-contenido-para-youtube-con-ia/)
+- [Migrando a Analytics 4 como si no hubiera un mañana](https://wordpress.tv/2023/08/15/migrando-a-analytics-4-como-si-no-hubiera-un-manana/)
+- [Ordenar contenidos en una web](https://wordpress.tv/2023/08/15/ordenar-contenidos-en-una-web/)
+- [Los 10 + 1 errores más importantes que se cometen al trabajar con WordPress](https://wordpress.tv/2023/08/15/los-10-1-errores-mas-importantes-que-se-cometen-al-trabajar-con-wordpress/)
+- [Ahora los sitios también hablan: Cómo integrar un podcast en tu web](https://wordpress.tv/2023/08/15/ahora-los-sitios-tambien-hablan-como-integrar-un-podcast-en-tu-web/)
+- [WordPress: Modelos de negocio](https://wordpress.tv/2023/08/15/wordpress-modelos-de-negocio/)
+- [Bienvenida de la WordCamp Cartagena 2023](https://wordpress.tv/2023/08/15/bienvenida-de-la-wordcamp-cartagena-2023/)
 - [Jill Binder: Diversity in WordPress: Why and what is it in your part of the world?](https://wordpress.tv/2023/08/13/jill-binder-diversity-in-wordpress-why-and-what-is-it-in-your-part-of-the-world/)
 - [Jill Binder, Birgit Olzem: Contributor Mentorship: A Primer for DEIB at WordPress Events &lpar;#WPDiversity&rpar;](https://wordpress.tv/2023/08/13/jill-binder-birgit-olzem-contributor-mentorship-a-primer-for-deib-at-wordpress-events-wpdiversity/)
 - [Common WordPress APIs: Global Variables](https://wordpress.tv/2023/08/11/common-wordpress-apis-global-variables/)
@@ -359,13 +366,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Eeda Rijal: The evolution of UI/UX In WordPress](https://wordpress.tv/2023/08/10/eeda-rijal-the-evolution-of-ui-ux-in-wordpress/)
 - [Exploring some of the new 6.3 WordPress features](https://wordpress.tv/2023/08/09/exploring-some-of-the-new-6-3-wordpress-features/)
 - [Topher DeRosia: WordPress Photos Team Photographer Onboarding](https://wordpress.tv/2023/08/09/topher-derosia-wordpress-photos-team-photographer-onboarding/)
-- [Ahmed Kabir Chaion – WordPress 6.1 Core Contribution Stories](https://wordpress.tv/2023/08/08/ahmed-kabir-chaion-wordpress-6-1-core-contribution-stories/)
-- [Exploring WordPress 6.3](https://wordpress.tv/2023/08/08/exploring-wordpress-6-3/)
-- [How to use the spacer block](https://wordpress.tv/2023/08/07/how-to-use-the-spacer-block/)
-- [Isotta Peira: Contributing to the WordPress Community Team](https://wordpress.tv/2023/08/07/contributing-to-the-wordpress-community-team/)
-- [Tor-Björn Fjellner: Introduction to WordPress Polyglots Team](https://wordpress.tv/2023/08/07/tor-bjorn-fjellner-introduction-to-wordpress-polyglots-team/)
-- [Olga Gleckler: Contributor Mentorship: How to start contributing to the WordPress Core](https://wordpress.tv/2023/08/04/olga-gleckler-contributor-mentorship-how-to-start-contributing-to-the-wordpress-core/)
-- [Blogging with WordPress: Basics](https://wordpress.tv/2023/08/04/blogging-with-wordpress-basics/)
 <!-- WPTV:END -->
 
 ## Marketing
