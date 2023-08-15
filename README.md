@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for IP2Location Redirection](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-ip2location-redirection/)
 - [PTE request for JustTables](https://make.wordpress.org/polyglots/2023/08/14/pte-request-for-justtables/)
 - [Hi dear translators,](https://make.wordpress.org/polyglots/2023/08/13/hi-dear-translators/)
 - [There is a wrong translation…](https://make.wordpress.org/polyglots/2023/08/13/there-is-a-wrong-translation/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Please, add a feature: “Auto-copy…](https://make.wordpress.org/polyglots/2023/08/10/please-add-a-feature-auto-copy/)
 - [PTE Request for Ricerca – advanced search](https://make.wordpress.org/polyglots/2023/08/09/pte-request-for-ricerca-advanced-search/)
 - [Hi, I have done German…](https://make.wordpress.org/polyglots/2023/08/09/hi-i-have-done-german/)
-- [Adding some meta buttons always visible](https://make.wordpress.org/polyglots/2023/08/09/adding-some-meta-buttons-always-visible/)
 <!-- POLYGLOTS:END -->
 
 ## Support
