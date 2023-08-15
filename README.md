@@ -314,6 +314,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Test Team at WCUS 2023](https://make.wordpress.org/test/2023/08/15/test-team-at-wcus-2023/)
 - [X-post: Test Team Update: 14 August 2023](https://make.wordpress.org/test/2023/08/14/xpost-test-team-update-14-august-2023/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/test/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [FSE Program Testing Call #25: Let’s start from the beginning](https://make.wordpress.org/test/2023/08/09/fse-program-testing-call-25-lets-start-from-the-beginning/)
@@ -323,7 +324,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/test/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/test/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: Test Team Update: 10 July 2023](https://make.wordpress.org/test/2023/07/10/xpost-test-team-update-10-july-2023/)
-- [FSE Program Momery Makeover Summary](https://make.wordpress.org/test/2023/07/04/fse-program-momery-makeover-summary/)
 <!-- TEST:END -->
 
 ## TV
