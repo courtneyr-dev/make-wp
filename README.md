@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Embedding media and third-party content on your website](https://learn.wordpress.org/tutorial/embedding-media-and-third-party-content-on-your-website/)
 - [Testing your plugins for PHP version compatibility](https://learn.wordpress.org/tutorial/testing-your-plugins-for-php-version-compatibility/)
 - [Exploring WordPress 6.3](https://learn.wordpress.org/tutorial/exploring-wordpress-6-3/)
 - [How to use the spacer block](https://learn.wordpress.org/tutorial/how-to-use-the-spacer-block/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building a page with only patterns](https://learn.wordpress.org/tutorial/building-a-page-with-only-patterns/)
 - [How to add a blog or news page to any WordPress website](https://learn.wordpress.org/tutorial/how-to-add-a-blog-or-news-page-to-any-wordpress-website/)
 - [Introduction to WordPress Multisite Networks](https://learn.wordpress.org/tutorial/introduction-to-wordpress-multisite-networks/)
-- [WordPress editor modes for streamlining content creation](https://learn.wordpress.org/tutorial/wordpress-editor-modes-for-streamlining-content-creation/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
