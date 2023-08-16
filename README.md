@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Desarrolla tu propio marketplace y codéate con Jeff Bezos](https://wordpress.tv/2023/08/16/desarrolla-tu-propio-marketplace-y-codeate-con-jeff-bezos/)
+- [Comunicación auténtica, emocional y efectiva para ganar visiblidad y valentía](https://wordpress.tv/2023/08/16/comunicacion-autentica-emocional-y-efectiva-para-ganar-visiblidad-y-valentia/)
+- [Por qué mi desarrollo web tiene que ser accesible](https://wordpress.tv/2023/08/16/marta-torre-por-que-mi-desarrollo-web-tiene-que-ser-accesible/)
+- [¡Rápido, seguro, sencillo! Bizum on line](https://wordpress.tv/2023/08/16/rapido-seguro-sencillo-bizum-on-line/)
 - [Embedding media and third-party content on your website](https://wordpress.tv/2023/08/15/embedding-media-and-third-party-content-on-your-website/)
 - [Crear contenido para youtube con IA](https://wordpress.tv/2023/08/15/crear-contenido-para-youtube-con-ia/)
 - [Migrando a Analytics 4 como si no hubiera un mañana](https://wordpress.tv/2023/08/15/migrando-a-analytics-4-como-si-no-hubiera-un-manana/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rayhan Arif: How to Get Started With Content Marketing in WordPress](https://wordpress.tv/2023/08/10/rayhan-arif-how-to-get-started-with-content-marketing-in-wordpress/)
 - [Raushan Jaiswal: WordPress Marketing – 4 Easy &amp; Effective Marketing Channels To Promote WordPress Products](https://wordpress.tv/2023/08/10/raushan-jaiswal-wordpress-marketing-4-easy-effective-marketing-channels-to-promote-wordpress-products/)
 - [Rahul D Sarker: Isn’t SEO dead?](https://wordpress.tv/2023/08/10/rahul-d-sarker-isnt-seo-dead/)
-- [Nabin Jaiswal: Skills You Need as a Customer Support Representative](https://wordpress.tv/2023/08/10/nabin-jaiswal-skills-you-need-as-a-customer-support-representative/)
-- [Anup Adhikari: RDFs in WordPress for Knowledge Representation of Blog Articles](https://wordpress.tv/2023/08/10/anup-adhikari-rdfs-in-wordpress-for-knowledge-representation-of-blog-articles/)
-- [Eeda Rijal: The evolution of UI/UX In WordPress](https://wordpress.tv/2023/08/10/eeda-rijal-the-evolution-of-ui-ux-in-wordpress/)
-- [Exploring some of the new 6.3 WordPress features](https://wordpress.tv/2023/08/09/exploring-some-of-the-new-6-3-wordpress-features/)
 <!-- WPTV:END -->
 
 ## Marketing
