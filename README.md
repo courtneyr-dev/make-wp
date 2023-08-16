@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Orderable and Kadence Theme](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-orderable-and-kadence-theme/)
 - [CLPTE role in WP Mail SMTP project](https://make.wordpress.org/polyglots/2023/08/16/clpte-role-in-wp-mail-smtp-project/)
 - [PTE Request for FileBird](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-filebird/)
 - [AquaGates Payments for WooCommerce の PTE リクエスト](https://make.wordpress.org/polyglots/2023/08/16/aquagates-payments-for-woocommerce-%e3%81%ae-pte-%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/polyglots/2023/08/15/discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [PTE Request for RD Order Modifier for WooCommerce](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-rd-order-modifier-for-woocommerce/)
 - [PTE Request for WC Affiliate plugin](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-wc-affiliate-plugin/)
-- [PTE Request for IP2Location Redirection](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-ip2location-redirection/)
 <!-- POLYGLOTS:END -->
 
 ## Support
