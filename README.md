@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Machete, cortando WordPress por lo sano](https://wordpress.tv/2023/08/16/machete-cortando-wordpress-por-lo-sano/)
 - [Desarrolla tu propio marketplace y codéate con Jeff Bezos](https://wordpress.tv/2023/08/16/desarrolla-tu-propio-marketplace-y-codeate-con-jeff-bezos/)
 - [Comunicación auténtica, emocional y efectiva para ganar visiblidad y valentía](https://wordpress.tv/2023/08/16/comunicacion-autentica-emocional-y-efectiva-para-ganar-visiblidad-y-valentia/)
 - [Por qué mi desarrollo web tiene que ser accesible](https://wordpress.tv/2023/08/16/marta-torre-por-que-mi-desarrollo-web-tiene-que-ser-accesible/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Shristi Shrestha: Leveraging Design Thinking to Elevate User Experience on WordPress Websites](https://wordpress.tv/2023/08/10/shristi-shrestha-leveraging-design-thinking-to-elevate-user-experience-on-wordpress-websites/)
 - [Rayhan Arif: How to Get Started With Content Marketing in WordPress](https://wordpress.tv/2023/08/10/rayhan-arif-how-to-get-started-with-content-marketing-in-wordpress/)
 - [Raushan Jaiswal: WordPress Marketing – 4 Easy &amp; Effective Marketing Channels To Promote WordPress Products](https://wordpress.tv/2023/08/10/raushan-jaiswal-wordpress-marketing-4-easy-effective-marketing-channels-to-promote-wordpress-products/)
-- [Rahul D Sarker: Isn’t SEO dead?](https://wordpress.tv/2023/08/10/rahul-d-sarker-isnt-seo-dead/)
 <!-- WPTV:END -->
 
 ## Marketing
