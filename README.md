@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Elementor and…](https://make.wordpress.org/polyglots/2023/08/17/pte-request-for-elementor-and/)
 - [PTE Request for Orderable and Kadence Theme](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-orderable-and-kadence-theme/)
 - [CLPTE role in WP Mail SMTP project](https://make.wordpress.org/polyglots/2023/08/16/clpte-role-in-wp-mail-smtp-project/)
 - [PTE Request for FileBird](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-filebird/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for FraudLabs Pro…](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-fraudlabs-pro/)
 - [Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/polyglots/2023/08/15/discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [PTE Request for RD Order Modifier for WooCommerce](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-rd-order-modifier-for-woocommerce/)
-- [PTE Request for WC Affiliate plugin](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-wc-affiliate-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
