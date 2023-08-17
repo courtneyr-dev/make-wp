@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Hallway Hangout: Let’s explore the power of block variations](https://make.wordpress.org/core/2023/08/17/hallway-hangout-lets-explore-the-power-of-block-variations/)
 - [Two Weeks in Core – August 14, 2023](https://make.wordpress.org/core/2023/08/16/a-week-in-core-august-14-2023/)
 - [Dev Chat agenda, August 16, 2023](https://make.wordpress.org/core/2023/08/15/dev-chat-agenda-august-16-2023/)
 - [Performance Chat Summary: 15 August 2023](https://make.wordpress.org/core/2023/08/15/performance-chat-summary-15-august-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor chat summary: 9 August, 2023](https://make.wordpress.org/core/2023/08/11/editor-chat-summary-9-august-2023/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/core/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [What’s new in Gutenberg 16.4? &lpar;9 August&rpar;](https://make.wordpress.org/core/2023/08/10/whats-new-in-gutenberg-16-4-9-august/)
-- [Updating WordPress to use more modern versions of Node.js/npm](https://make.wordpress.org/core/2023/08/09/updating-wordpress-to-use-more-modern-versions-of-node-js-npm/)
 <!-- CORE:END -->
 
 ## Design
