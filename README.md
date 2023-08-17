@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Matrix chat Summary – August…](https://make.wordpress.org/meta/2023/08/17/matrix-chat-summary-august-2/)
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/meta/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [Introducing WordPress.org/blocks](https://make.wordpress.org/meta/2023/08/11/introducing-wordpress-org-blocks/)
 - [Organizations Supporting WordPress.org](https://make.wordpress.org/meta/2023/08/09/organizations-supporting-wordpress-org/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Triaging open issues on Trac for Make Teams](https://make.wordpress.org/meta/2023/06/15/triaging-open-issues-on-trac-for-make-teams/)
 - [New Filter Controls: Discover “Commercial” and “Community” in the Theme and Plugin Directory](https://make.wordpress.org/meta/2023/06/13/new-filter-controls-discover-commercial-and-community-in-the-theme-and-plugin-directory/)
 - [Linking to Supporting Orgs](https://make.wordpress.org/meta/2023/06/11/linking-to-supporting-orgs/)
-- [New curation filter in Pattern Directory](https://make.wordpress.org/meta/2023/06/09/new-curation-filter-in-pattern-directory/)
 <!-- META:END -->
 
 ## Training
