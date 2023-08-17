@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-809/)
+- [Extension of two Code snippets &lpar;CSS and Javascript&rpar; for Elementor Loop Grid + CPT](https://jobs.wordpress.net/job/extension-of-two-code-snippets-css-and-javascript-for-elementor-loop-grid-cpt/)
 - [Need a new WP theme](https://jobs.wordpress.net/job/need-a-new-wp-theme/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-18/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-22/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress/PHP Developer](https://jobs.wordpress.net/job/wordpress-php-developer-24/)
 - [[Astra] Technical Writer](https://jobs.wordpress.net/job/astra-technical-writer/)
 - [Senior WordPress Software Engineer](https://jobs.wordpress.net/job/senior-wordpress-software-engineer-3/)
-- [Virtual Assistant – Support Operations](https://jobs.wordpress.net/job/virtual-assistant-support-operations/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-82/)
 <!-- JOBS:END -->
 
 ## Central
