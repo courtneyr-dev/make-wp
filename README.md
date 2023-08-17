@@ -427,6 +427,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Cultivating Collaborative Pathways with Statens Museum for Kunst &lpar;SMK&rpar;](https://make.wordpress.org/openverse/2023/08/17/cultivating-collaborative-pathways-with-statens-museum-for-kunst-smk/)
 - [A week in Openverse: 2023-08-07 – 2023-08-14](https://make.wordpress.org/openverse/2023/08/14/last-week-openverse-2023-08-07-2023-08-14/)
 - [A week in Openverse: 2023-07-31 – 2023-08-07](https://make.wordpress.org/openverse/2023/08/07/last-week-openverse-2023-07-31-2023-08-07/)
 - [A week in Openverse: 2023-07-24 – 2023-07-31](https://make.wordpress.org/openverse/2023/07/31/last-week-openverse-2023-07-24-2023-07-31/)
@@ -436,7 +437,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Meeting Recap &lpar;2023-07-18&rpar;](https://make.wordpress.org/openverse/2023/07/18/community-meeting-recap-2023-07-18/)
 - [A week in Openverse: 2023-07-10 – 2023-07-17](https://make.wordpress.org/openverse/2023/07/17/last-week-openverse-2023-07-10-2023-07-17/)
 - [Community Meeting Recap &lpar;2023-07-11&rpar;](https://make.wordpress.org/openverse/2023/07/12/community-meeting-recap-2023-07-11/)
-- [A week in Openverse: 2023-07-03 – 2023-07-10](https://make.wordpress.org/openverse/2023/07/10/last-week-openverse-2023-07-03-2023-07-10/)
 <!-- OPENVERSE:END -->
 
 ## Photos
