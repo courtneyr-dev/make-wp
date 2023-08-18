@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for HubSpot and Advanced Coupons Plugins](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-hubspot-and-advanced-coupons-plugins/)
+- [I wan…](https://make.wordpress.org/polyglots/2023/08/18/i-wan/)
 - [PTE Request for Elementor and…](https://make.wordpress.org/polyglots/2023/08/17/pte-request-for-elementor-and/)
 - [PTE Request for Orderable and Kadence Theme](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-orderable-and-kadence-theme/)
 - [CLPTE role in WP Mail SMTP project](https://make.wordpress.org/polyglots/2023/08/16/clpte-role-in-wp-mail-smtp-project/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, can I ask you…](https://make.wordpress.org/polyglots/2023/08/16/hello-can-i-ask-you/)
 - [Agenda: Weekly Polyglots Chat – August 16, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/16/agenda-weekly-polyglots-chat-august-16-2023-1300-utc/)
 - [PTE Request for FraudLabs Pro…](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-fraudlabs-pro/)
-- [Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/polyglots/2023/08/15/discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
-- [PTE Request for RD Order Modifier for WooCommerce](https://make.wordpress.org/polyglots/2023/08/15/pte-request-for-rd-order-modifier-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
