@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for the Gutenberg plugin.](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-the-gutenberg-plugin/)
 - [PTE Request for Spectra One Theme](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-spectra-one-theme/)
 - [PTE Request for HubSpot and Advanced Coupons Plugins](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-hubspot-and-advanced-coupons-plugins/)
 - [I wan…](https://make.wordpress.org/polyglots/2023/08/18/i-wan/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for FileBird](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-filebird/)
 - [AquaGates Payments for WooCommerce の PTE リクエスト](https://make.wordpress.org/polyglots/2023/08/16/aquagates-payments-for-woocommerce-%e3%81%ae-pte-%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88/)
 - [Hello, can I ask you…](https://make.wordpress.org/polyglots/2023/08/16/hello-can-i-ask-you/)
-- [Agenda: Weekly Polyglots Chat – August 16, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/16/agenda-weekly-polyglots-chat-august-16-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
