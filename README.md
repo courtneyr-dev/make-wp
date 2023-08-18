@@ -17,7 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
-- [Design Specific Triage Schedule for 6.4 Release](https://make.wordpress.org/design/2023/08/18/design-specific-triage-schedule-for-6-4-release/)
+- [Bringing Back the Weekly Design Triage](https://make.wordpress.org/design/2023/08/18/design-specific-triage/)
 - [Design Share: Jul 31-Aug 11](https://make.wordpress.org/design/2023/08/14/design-share-jul-31-aug-11/)
 - [Admin Design Kickoff](https://make.wordpress.org/design/2023/08/10/admin-design-kickoff/)
 - [Design Share: Jul 3-Jul 28](https://make.wordpress.org/design/2023/07/31/design-share-jul-3-jul-28/)
