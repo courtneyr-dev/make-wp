@@ -553,12 +553,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Tegal, Jawa Tengah, Indonesia](https://central.wordcamp.org/wordcamps/wordcamp-tegal-jawa-tengah-indonesia/)
 - [WordCamp Asia 2024](https://central.wordcamp.org/wordcamps/wordcamp-asia-2024/)
 - [WordCamp Sevilla, Spain](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-2023/)
-- [WordCamp Tokyo 2023](https://central.wordcamp.org/wordcamps/wordcamp-tokyo-2023/)
 - [WordCamp Bhopal 2023](https://central.wordcamp.org/wordcamps/wordcamp-bhopal-madhya-pradesh-india-4/)
 - [WordCamp Vancouver, British Columbia, Canada](https://central.wordcamp.org/wordcamps/wordcamp-vancouver-british-columbia-canada-2/)
 - [WordCamp Taiwan 2023](https://central.wordcamp.org/wordcamps/wordcamp-taiwan-2023/)
 - [WordCamp Atlanta 2023](https://central.wordcamp.org/wordcamps/wordcamp-atlanta-2023/)
 - [WordCamp Bengaluru, Karnataka, India](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-karnataka-india/)
+- [WordCamp Mumbai 2023](https://central.wordcamp.org/wordcamps/wordcamp-mumbai-2023/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
