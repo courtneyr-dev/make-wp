@@ -286,6 +286,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata)
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=41489)
 - [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team-2)
 - [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team)
 - [Hallway Hangout: Let’s explore the power of block variations](https://learn.wordpress.org/?meeting=hallway-hangout-lets-explore-the-power-of-block-variations)
@@ -309,8 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contributing to the WordPress Community Team: Events and Roles](https://learn.wordpress.org/?meeting=contributing-to-the-wordpress-community-team-events-and-roles)
 - [Hallway Hangout: Extending blocks with custom design tools](https://learn.wordpress.org/?meeting=hallway-hangout-extending-blocks-with-custom-design-tools)
 - [How to start contributing to the WordPress Core](https://learn.wordpress.org/?meeting=how-to-start-contributing-to-the-wordpress-core)
-- [Common WordPress APIs: Internationalization](https://learn.wordpress.org/?meeting=common-wordpress-apis-internationalization)
-- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-10)
 <!-- SLS:END -->
 
 ## Test
