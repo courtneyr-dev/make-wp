@@ -512,7 +512,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [Full Time WordPress PHP Developer](https://jobs.wordpress.net/job/full-time-wordpress-php-developer/)
-- [10 year Biodiversity NGO  website update](https://jobs.wordpress.net/job/10-year-biodiversity-ngo-website-update/)
 - [PHP Software Developer](https://jobs.wordpress.net/job/php-software-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-809/)
 - [Extension of two Code snippets &lpar;CSS and Javascript&rpar; for Elementor Loop Grid + CPT](https://jobs.wordpress.net/job/extension-of-two-code-snippets-css-and-javascript-for-elementor-loop-grid-cpt/)
@@ -521,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-22/)
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-7/)
 - [WordPress Developer *API, Building Themes, Plugin Development, E-Commerce](https://jobs.wordpress.net/job/wordpress-developer-api-building-themes-plugin-development-e-commerce/)
+- [WordPress/PHP Developer](https://jobs.wordpress.net/job/wordpress-php-developer-24/)
 <!-- JOBS:END -->
 
 ## Central
