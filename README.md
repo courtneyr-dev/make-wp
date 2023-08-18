@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Google Analytics 4 GA4 ¿Se acaba el mundo el 1 de julio?](https://wordpress.tv/2023/08/18/google-analytics-4-ga4-se-acaba-el-mundo-el-1-de-julio/)
 - [What is the Domain Name System?](https://wordpress.tv/2023/08/17/what-is-the-domain-name-system-2/)
 - [Hallway Hangout: Extending blocks with custom design tools](https://wordpress.tv/2023/08/17/hallway-hangout-extending-blocks-with-custom-design-tools/)
 - [Contributing to Learn WordPress with code – part 1](https://wordpress.tv/2023/08/17/contributing-to-learn-wordpress-with-code-part-1/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to validate content feedback for the WordPress Training Team](https://wordpress.tv/2023/08/10/how-to-validate-content-feedback-for-the-wordpress-training-team/)
 - [Zena Poudel: Machine Learning and WordPress](https://wordpress.tv/2023/08/10/zena-poudel-machine-learning-and-wordpress/)
 - [Tanaz Masaba: How To Avoid Burnout When Working With WordPress](https://wordpress.tv/2023/08/10/tanaz-masaba-how-to-avoid-burnout-when-working-with-wordpress/)
-- [Sunita Rai: How Success Gaps Help You Build a Robust Content Strategy?](https://wordpress.tv/2023/08/10/sunita-rai-how-success-gaps-help-you-build-a-robust-content-strategy/)
 <!-- WPTV:END -->
 
 ## Marketing
