@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Website auditing and conversion optimization](https://wordpress.tv/2023/08/19/website-auditing-and-conversion-optimization-2/)
 - [Google Analytics 4 GA4 ¿Se acaba el mundo el 1 de julio?](https://wordpress.tv/2023/08/18/google-analytics-4-ga4-se-acaba-el-mundo-el-1-de-julio/)
 - [What is the Domain Name System?](https://wordpress.tv/2023/08/17/what-is-the-domain-name-system-2/)
 - [Hallway Hangout: Extending blocks with custom design tools](https://wordpress.tv/2023/08/17/hallway-hangout-extending-blocks-with-custom-design-tools/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CBWJ #1 キックオフ / Meetup イベントの成功 &amp; 持続のためのヒント](https://wordpress.tv/2023/08/11/community-building-workshop-japan-001/)
 - [How to validate content feedback for the WordPress Training Team](https://wordpress.tv/2023/08/10/how-to-validate-content-feedback-for-the-wordpress-training-team/)
 - [Zena Poudel: Machine Learning and WordPress](https://wordpress.tv/2023/08/10/zena-poudel-machine-learning-and-wordpress/)
-- [Tanaz Masaba: How To Avoid Burnout When Working With WordPress](https://wordpress.tv/2023/08/10/tanaz-masaba-how-to-avoid-burnout-when-working-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
