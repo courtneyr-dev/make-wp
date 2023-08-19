@@ -342,6 +342,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mesa redonda sobre IA](https://wordpress.tv/2023/08/19/mesa-redonda-sobre-ia/)
+- [Elementor y acessibilidad ¿enemigos?](https://wordpress.tv/2023/08/19/elementor-y-acessibilidad-enemigos/)
+- [Mejores estrategias para vender en marketplaces](https://wordpress.tv/2023/08/19/mejores-estrategias-para-vender-en-marketplaces/)
+- [Cuando tú vas, yo vuelvo de allí](https://wordpress.tv/2023/08/19/cuando-tu-vas-yo-vuelvo-de-alli/)
+- [De woo a wow: Aprendizaje de mis tiendas favoritas](https://wordpress.tv/2023/08/19/de-woo-a-wow-aprendizaje-de-mis-tiendas-favoritas/)
+- [Metodología profesional para hacer un keyword research](https://wordpress.tv/2023/08/19/metodologia-profesional-para-hacer-un-keyword-research/)
+- [Aristóteles, WordPress y tú ¡y a vender mucho!](https://wordpress.tv/2023/08/19/aristoteles-wordpress-y-tu-y-a-vender-mucho/)
+- [Funciones avanzadas con WordPress y Elementor](https://wordpress.tv/2023/08/19/funciones-avanzadas-con-wordpress-y-elementor/)
+- [Delega tu WordPress en un asistente virtual](https://wordpress.tv/2023/08/19/delega-tu-wordpress-en-un-asistente-virtual/)
+- [Taller sobre gestión de los servidores en SEO](https://wordpress.tv/2023/08/19/taller-sobre-gestion-de-los-servidores-en-seo/)
+- [2FA is coming… login de WordPress a este lado del muro](https://wordpress.tv/2023/08/19/2fa-is-coming-login-de-wordpress-a-este-lado-del-muro/)
 - [Website auditing and conversion optimization](https://wordpress.tv/2023/08/19/website-auditing-and-conversion-optimization-2/)
 - [Google Analytics 4 GA4 ¿Se acaba el mundo el 1 de julio?](https://wordpress.tv/2023/08/18/google-analytics-4-ga4-se-acaba-el-mundo-el-1-de-julio/)
 - [What is the Domain Name System?](https://wordpress.tv/2023/08/17/what-is-the-domain-name-system-2/)
@@ -356,17 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crear contenido para youtube con IA](https://wordpress.tv/2023/08/15/crear-contenido-para-youtube-con-ia/)
 - [Migrando a Analytics 4 como si no hubiera un mañana](https://wordpress.tv/2023/08/15/migrando-a-analytics-4-como-si-no-hubiera-un-manana/)
 - [Ordenar contenidos en una web](https://wordpress.tv/2023/08/15/ordenar-contenidos-en-una-web/)
-- [Los 10 + 1 errores más importantes que se cometen al trabajar con WordPress](https://wordpress.tv/2023/08/15/los-10-1-errores-mas-importantes-que-se-cometen-al-trabajar-con-wordpress/)
-- [Ahora los sitios también hablan: Cómo integrar un podcast en tu web](https://wordpress.tv/2023/08/15/ahora-los-sitios-tambien-hablan-como-integrar-un-podcast-en-tu-web/)
-- [WordPress: Modelos de negocio](https://wordpress.tv/2023/08/15/wordpress-modelos-de-negocio/)
-- [Bienvenida de la WordCamp Cartagena 2023](https://wordpress.tv/2023/08/15/bienvenida-de-la-wordcamp-cartagena-2023/)
-- [Jill Binder: Diversity in WordPress: Why and what is it in your part of the world?](https://wordpress.tv/2023/08/13/jill-binder-diversity-in-wordpress-why-and-what-is-it-in-your-part-of-the-world/)
-- [Jill Binder, Birgit Olzem: Contributor Mentorship: A Primer for DEIB at WordPress Events &lpar;#WPDiversity&rpar;](https://wordpress.tv/2023/08/13/jill-binder-birgit-olzem-contributor-mentorship-a-primer-for-deib-at-wordpress-events-wpdiversity/)
-- [Common WordPress APIs: Global Variables](https://wordpress.tv/2023/08/11/common-wordpress-apis-global-variables/)
-- [Testing plugins for PHP version compatibility](https://wordpress.tv/2023/08/11/testing-plugins-for-php-version-compatibility/)
-- [CBWJ #1 キックオフ / Meetup イベントの成功 &amp; 持続のためのヒント](https://wordpress.tv/2023/08/11/community-building-workshop-japan-001/)
-- [How to validate content feedback for the WordPress Training Team](https://wordpress.tv/2023/08/10/how-to-validate-content-feedback-for-the-wordpress-training-team/)
-- [Zena Poudel: Machine Learning and WordPress](https://wordpress.tv/2023/08/10/zena-poudel-machine-learning-and-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
