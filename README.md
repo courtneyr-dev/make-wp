@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Three Plugins](https://make.wordpress.org/polyglots/2023/08/20/pte-request-for-three-plugins/)
 - [PTE Request for the ProfileGrid…](https://make.wordpress.org/polyglots/2023/08/19/pte-request-for-the-profilegrid/)
 - [PTE Request for the Quiz Maker plugin.](https://make.wordpress.org/polyglots/2023/08/19/pte-request-for-the-quiz-maker-plugin/)
 - [PTE Request for the Gutenberg plugin.](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-the-gutenberg-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Elementor and…](https://make.wordpress.org/polyglots/2023/08/17/pte-request-for-elementor-and/)
 - [PTE Request for Orderable and Kadence Theme](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-orderable-and-kadence-theme/)
 - [CLPTE role in WP Mail SMTP project](https://make.wordpress.org/polyglots/2023/08/16/clpte-role-in-wp-mail-smtp-project/)
-- [PTE Request for FileBird](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-filebird/)
 <!-- POLYGLOTS:END -->
 
 ## Support
