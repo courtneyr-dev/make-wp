@@ -511,7 +511,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Google Specialist &lpar;Console, Merchants, Product free listing&rpar;](https://jobs.wordpress.net/job/google-specialist-console-merchants-product-free-listing/)
 - [Full Time WordPress PHP Developer](https://jobs.wordpress.net/job/full-time-wordpress-php-developer/)
 - [PHP Software Developer](https://jobs.wordpress.net/job/php-software-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-809/)
@@ -521,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-22/)
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-7/)
 - [WordPress Developer *API, Building Themes, Plugin Development, E-Commerce](https://jobs.wordpress.net/job/wordpress-developer-api-building-themes-plugin-development-e-commerce/)
+- [WordPress/PHP Developer](https://jobs.wordpress.net/job/wordpress-php-developer-24/)
 <!-- JOBS:END -->
 
 ## Central
