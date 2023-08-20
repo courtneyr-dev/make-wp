@@ -518,9 +518,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Time WordPress PHP Developer](https://jobs.wordpress.net/job/full-time-wordpress-php-developer/)
 - [PHP Software Developer](https://jobs.wordpress.net/job/php-software-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-809/)
-- [Extension of two Code snippets &lpar;CSS and Javascript&rpar; for Elementor Loop Grid + CPT](https://jobs.wordpress.net/job/extension-of-two-code-snippets-css-and-javascript-for-elementor-loop-grid-cpt/)
 - [Need a new WP theme](https://jobs.wordpress.net/job/need-a-new-wp-theme/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-18/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-22/)
 <!-- JOBS:END -->
 
 ## Central
