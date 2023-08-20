@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-8/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-23/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-16/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-19/)
 - [Full Time WordPress PHP Developer](https://jobs.wordpress.net/job/full-time-wordpress-php-developer/)
 - [PHP Software Developer](https://jobs.wordpress.net/job/php-software-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-809/)
 - [Extension of two Code snippets &lpar;CSS and Javascript&rpar; for Elementor Loop Grid + CPT](https://jobs.wordpress.net/job/extension-of-two-code-snippets-css-and-javascript-for-elementor-loop-grid-cpt/)
 - [Need a new WP theme](https://jobs.wordpress.net/job/need-a-new-wp-theme/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-18/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-22/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-7/)
-- [WordPress Developer *API, Building Themes, Plugin Development, E-Commerce](https://jobs.wordpress.net/job/wordpress-developer-api-building-themes-plugin-development-e-commerce/)
-- [WordPress/PHP Developer](https://jobs.wordpress.net/job/wordpress-php-developer-24/)
 <!-- JOBS:END -->
 
 ## Central
