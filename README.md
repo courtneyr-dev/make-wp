@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Hallway Hangout: Improving accessibility in the Site Editor](https://make.wordpress.org/core/2023/08/21/hallway-hangout-improving-accessibility-in-the-site-editor/)
 - [Editor chat summary: August 16th, 2023](https://make.wordpress.org/core/2023/08/21/editor-chat-summary-august-16th-2023/)
 - [WordPressCS 3.0.0 is now available](https://make.wordpress.org/core/2023/08/21/wordpresscs-3-0-0-is-now-available/)
 - [Progress Report: HTML API](https://make.wordpress.org/core/2023/08/19/progress-report-html-api/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bug Scrub Schedule for WordPress 6.4](https://make.wordpress.org/core/2023/08/17/bug-scrub-schedule-for-wordpress-6-4/)
 - [Hallway Hangout: Let’s explore the power of block variations](https://make.wordpress.org/core/2023/08/17/hallway-hangout-lets-explore-the-power-of-block-variations/)
 - [Two Weeks in Core – August 14, 2023](https://make.wordpress.org/core/2023/08/16/a-week-in-core-august-14-2023/)
-- [Dev Chat agenda, August 16, 2023](https://make.wordpress.org/core/2023/08/15/dev-chat-agenda-august-16-2023/)
 <!-- CORE:END -->
 
 ## Design
