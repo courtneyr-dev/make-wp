@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Force Authentification Before Checkout for WooCommerce](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-force-authentification-before-checkout-for-woocommerce/)
 - [PTE Request for Visitor Analytics IO](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-visitor-analytics-io/)
 - [PTE Request for Three Plugins](https://make.wordpress.org/polyglots/2023/08/20/pte-request-for-three-plugins/)
 - [PTE Request for the ProfileGrid…](https://make.wordpress.org/polyglots/2023/08/19/pte-request-for-the-profilegrid/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for HubSpot and Advanced Coupons Plugins](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-hubspot-and-advanced-coupons-plugins/)
 - [I wan…](https://make.wordpress.org/polyglots/2023/08/18/i-wan/)
 - [PTE Request for Elementor and…](https://make.wordpress.org/polyglots/2023/08/17/pte-request-for-elementor-and/)
-- [PTE Request for Orderable and Kadence Theme](https://make.wordpress.org/polyglots/2023/08/16/pte-request-for-orderable-and-kadence-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
