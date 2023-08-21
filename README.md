@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPressCS 3.0.0 is now available](https://make.wordpress.org/core/2023/08/21/wordpresscs-3-0-0-is-now-available/)
 - [Progress Report: HTML API](https://make.wordpress.org/core/2023/08/19/progress-report-html-api/)
 - [Developer Hours: Introduction to the HTML API](https://make.wordpress.org/core/2023/08/18/developer-hours-introduction-to-the-html-api/)
 - [Developer Blog editorial meeting summary: August 2, 2023](https://make.wordpress.org/core/2023/08/18/developer-blog-editorial-meeting-summary-august-2-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Two Weeks in Core – August 14, 2023](https://make.wordpress.org/core/2023/08/16/a-week-in-core-august-14-2023/)
 - [Dev Chat agenda, August 16, 2023](https://make.wordpress.org/core/2023/08/15/dev-chat-agenda-august-16-2023/)
 - [Performance Chat Summary: 15 August 2023](https://make.wordpress.org/core/2023/08/15/performance-chat-summary-15-august-2023/)
-- [Status update on the Interactivity API](https://make.wordpress.org/core/2023/08/15/status-update-on-the-interactivity-api/)
 <!-- CORE:END -->
 
 ## Design
