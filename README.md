@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day August 29, 2023](https://make.wordpress.org/docs/2023/08/21/online-monthly-docs-team-contributor-day-august-29-2023/)
 - [Summary for Docs Team Meeting &lpar;15-Aug-2023&rpar;](https://make.wordpress.org/docs/2023/08/17/summary-for-docs-team-meeting-15-aug-2023/)
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/docs/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [Agenda for Docs Team bi-weekly meeting August 15, 2023](https://make.wordpress.org/docs/2023/08/15/agenda-for-docs-team-bi-weekly-meeting-august-15-2023/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/docs/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 - [Agenda for Docs Team bi-weekly meeting August 1, 2023](https://make.wordpress.org/docs/2023/08/01/agenda-for-docs-team-bi-weekly-meeting-august-1-2023/)
 - [Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/docs/2023/07/24/online-monthly-docs-team-contributor-day-july-25-2023/)
-- [Call for volunteers to help with 6.3 end-user documentation](https://make.wordpress.org/docs/2023/07/18/call-for-volunteers-to-help-with-6-3-end-user-documentation/)
 <!-- DOCS:END -->
 
 ### Support Articles
