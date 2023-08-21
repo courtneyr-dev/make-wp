@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: August 2023](https://make.wordpress.org/community/2023/08/21/meetup-organizer-newsletter-august-2023/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on August 18, 2023](https://make.wordpress.org/community/2023/08/21/recap-of-the-contributor-working-groups-mentorship-chat-on-august-18-2023/)
 - [Contributor Working Group: Mentorship Chat Agenda | August 17th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/08/16/contributor-working-group-mentorship-chat-agenda-august-17th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/community/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 9, 2023](https://make.wordpress.org/community/2023/08/09/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-9-2023/)
 - [New GitHub Feature Request: Separating access to the Meetup and WordCamp trackers](https://make.wordpress.org/community/2023/08/02/new-github-feature-request-separating-access-to-the-meetup-and-wordcamp-trackers/)
 - [Community Team Meeting Agenda for 3 August, 2023](https://make.wordpress.org/community/2023/08/02/community-team-meeting-agenda-for-3-august-2023/)
-- [Recap: Inaugural NextGen Pilot Events](https://make.wordpress.org/community/2023/08/02/recap-inaugural-nextgen-pilot-events/)
 <!-- COMMUNITY:END -->
 
 ## Meta
