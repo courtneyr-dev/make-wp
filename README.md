@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2023/08/21/i-am-the-plugin-author-36/)
+- [PTE Request for the Advanced Custom Fields plugin.](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-the-advanced-custom-fields-plugin/)
 - [PTE Request for Force Authentification Before Checkout for WooCommerce](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-force-authentification-before-checkout-for-woocommerce/)
 - [PTE Request for Visitor Analytics IO](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-visitor-analytics-io/)
 - [PTE Request for Three Plugins](https://make.wordpress.org/polyglots/2023/08/20/pte-request-for-three-plugins/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for the Gutenberg plugin.](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-the-gutenberg-plugin/)
 - [PTE Request for Spectra One Theme](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-spectra-one-theme/)
 - [PTE Request for HubSpot and Advanced Coupons Plugins](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-hubspot-and-advanced-coupons-plugins/)
-- [I wan…](https://make.wordpress.org/polyglots/2023/08/18/i-wan/)
-- [PTE Request for Elementor and…](https://make.wordpress.org/polyglots/2023/08/17/pte-request-for-elementor-and/)
 <!-- POLYGLOTS:END -->
 
 ## Support
