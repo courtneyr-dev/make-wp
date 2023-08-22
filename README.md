@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/22/cross-locale-project-translation-editor-request-6/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/08/21/i-am-the-plugin-author-36/)
 - [PTE Request for the Advanced Custom Fields plugin.](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-the-advanced-custom-fields-plugin/)
 - [PTE Request for Force Authentification Before Checkout for WooCommerce](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-force-authentification-before-checkout-for-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for the Quiz Maker plugin.](https://make.wordpress.org/polyglots/2023/08/19/pte-request-for-the-quiz-maker-plugin/)
 - [PTE Request for the Gutenberg plugin.](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-the-gutenberg-plugin/)
 - [PTE Request for Spectra One Theme](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-spectra-one-theme/)
-- [PTE Request for HubSpot and Advanced Coupons Plugins](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-hubspot-and-advanced-coupons-plugins/)
 <!-- POLYGLOTS:END -->
 
 ## Support
