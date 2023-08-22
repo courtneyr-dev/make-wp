@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Preparing for Contributor Day at WCUS 2023](https://make.wordpress.org/core/2023/08/22/preparing-for-contributor-day-at-wcus-2023/)
 - [Editor Chat Agenda: August 23rd, 2023](https://make.wordpress.org/core/2023/08/22/editor-chat-agenda-august-23rd-2023/)
 - [Hallway Hangout: Improving accessibility in the Site Editor](https://make.wordpress.org/core/2023/08/21/hallway-hangout-improving-accessibility-in-the-site-editor/)
 - [Editor chat summary: August 16th, 2023](https://make.wordpress.org/core/2023/08/21/editor-chat-summary-august-16th-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Blog editorial meeting summary: August 2, 2023](https://make.wordpress.org/core/2023/08/18/developer-blog-editorial-meeting-summary-august-2-2023/)
 - [Dev Chat Summary, August 16, 2023](https://make.wordpress.org/core/2023/08/17/dev-chat-summary-august-16-2023/)
 - [Bug Scrub Schedule for WordPress 6.4](https://make.wordpress.org/core/2023/08/17/bug-scrub-schedule-for-wordpress-6-4/)
-- [Hallway Hangout: Let’s explore the power of block variations](https://make.wordpress.org/core/2023/08/17/hallway-hangout-lets-explore-the-power-of-block-variations/)
 <!-- CORE:END -->
 
 ## Design
