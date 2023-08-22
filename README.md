@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Roadmap to 6.4](https://make.wordpress.org/core/2023/08/22/roadmap-to-6-4/)
+- [X-post: Community Summit Discussion Notes: Aligning processes and contributions between WordPress Core and Gutenberg](https://make.wordpress.org/core/2023/08/22/xpost-community-summit-discussion-notes-aligning-processes-and-contributions-between-wordpress-core-and-gutenberg/)
 - [X-post: Community Summit Discussion Notes: Accessibility in the WordPress Project](https://make.wordpress.org/core/2023/08/22/xpost-community-summit-discussion-notes-accessibility-in-the-wordpress-project/)
 - [Preparing for Contributor Day at WCUS 2023](https://make.wordpress.org/core/2023/08/22/preparing-for-contributor-day-at-wcus-2023/)
 - [Editor Chat Agenda: August 23rd, 2023](https://make.wordpress.org/core/2023/08/22/editor-chat-agenda-august-23rd-2023/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPressCS 3.0.0 is now available](https://make.wordpress.org/core/2023/08/21/wordpresscs-3-0-0-is-now-available/)
 - [Progress Report: HTML API](https://make.wordpress.org/core/2023/08/19/progress-report-html-api/)
 - [Developer Hours: Introduction to the HTML API](https://make.wordpress.org/core/2023/08/18/developer-hours-introduction-to-the-html-api/)
-- [Developer Blog editorial meeting summary: August 2, 2023](https://make.wordpress.org/core/2023/08/18/developer-blog-editorial-meeting-summary-august-2-2023/)
-- [Dev Chat Summary, August 16, 2023](https://make.wordpress.org/core/2023/08/17/dev-chat-summary-august-16-2023/)
 <!-- CORE:END -->
 
 ## Design
