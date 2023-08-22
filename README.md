@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [What’s new for developers? &lpar;August 2023&rpar;](https://wordpress.tv/2023/08/22/whats-new-for-developers-august-2023/)
 - [Trabajando en Comunidad: WordPress desde dentro](https://wordpress.tv/2023/08/19/trabajando-en-comunidad-wordpress-desde-dentro/)
 - [Metadatos en WordPress](https://wordpress.tv/2023/08/19/metadatos-en-wordpress/)
 - [Plugins que siempre has querido conocer para WP Multisite y BuddyPress](https://wordpress.tv/2023/08/19/plugins-que-siempre-has-querido-conocer-para-wp-multisite-y-buddypress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Metodología profesional para hacer un keyword research](https://wordpress.tv/2023/08/19/metodologia-profesional-para-hacer-un-keyword-research/)
 - [Aristóteles, WordPress y tú ¡y a vender mucho!](https://wordpress.tv/2023/08/19/aristoteles-wordpress-y-tu-y-a-vender-mucho/)
 - [Funciones avanzadas con WordPress y Elementor](https://wordpress.tv/2023/08/19/funciones-avanzadas-con-wordpress-y-elementor/)
-- [Delega tu WordPress en un asistente virtual](https://wordpress.tv/2023/08/19/delega-tu-wordpress-en-un-asistente-virtual/)
 <!-- WPTV:END -->
 
 ## Marketing
