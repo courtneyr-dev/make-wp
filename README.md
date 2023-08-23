@@ -512,7 +512,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-15/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-55/)
 - [Plugin/Theme Customization](https://jobs.wordpress.net/job/plugin-theme-customization-2/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-810/)
 - [To make my current site a better design](https://jobs.wordpress.net/job/to-make-my-current-site-a-better-design/)
@@ -521,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-16/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-19/)
 - [Full Time WordPress PHP Developer](https://jobs.wordpress.net/job/full-time-wordpress-php-developer/)
+- [PHP Software Developer](https://jobs.wordpress.net/job/php-software-developer/)
 <!-- JOBS:END -->
 
 ## Central
