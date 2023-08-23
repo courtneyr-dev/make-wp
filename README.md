@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat- August 23, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/23/agenda-weekly-polyglots-chat-august-23-2023-0700-utc/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/22/cross-locale-project-translation-editor-request-6/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/08/21/i-am-the-plugin-author-36/)
 - [PTE Request for the Advanced Custom Fields plugin.](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-the-advanced-custom-fields-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for the ProfileGrid…](https://make.wordpress.org/polyglots/2023/08/19/pte-request-for-the-profilegrid/)
 - [PTE Request for the Quiz Maker plugin.](https://make.wordpress.org/polyglots/2023/08/19/pte-request-for-the-quiz-maker-plugin/)
 - [PTE Request for the Gutenberg plugin.](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-the-gutenberg-plugin/)
-- [PTE Request for Spectra One Theme](https://make.wordpress.org/polyglots/2023/08/18/pte-request-for-spectra-one-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
