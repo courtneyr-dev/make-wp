@@ -342,6 +342,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Conociendo a Dolly. De la ñapa al plugin.](https://wordpress.tv/2023/08/23/conociendo-a-dolly-de-la-napa-al-plugin/)
+- [11 cosas &lpar;y media&rpar; que hubiera querido saber sobre programación y WordPress cuando comencé](https://wordpress.tv/2023/08/23/11-cosas-y-media-que-hubiera-querido-saber-sobre-programacion-y-wordpress-cuando-comence/)
+- [Buenas prácticas para extender proyectos con WordPress](https://wordpress.tv/2023/08/23/buenas-practicas-para-extender-proyectos-con-wordpress/)
+- [Los mejores trucos para escribir tu página de venta](https://wordpress.tv/2023/08/23/los-mejores-trucos-para-escribir-tu-pagina-de-venta/)
+- [Crea Schemas SEO sin plugins](https://wordpress.tv/2023/08/23/crea-schemas-seo-sin-plugins/)
 - [What’s new for developers? &lpar;August 2023&rpar;](https://wordpress.tv/2023/08/22/whats-new-for-developers-august-2023/)
 - [Trabajando en Comunidad: WordPress desde dentro](https://wordpress.tv/2023/08/19/trabajando-en-comunidad-wordpress-desde-dentro/)
 - [Metadatos en WordPress](https://wordpress.tv/2023/08/19/metadatos-en-wordpress/)
@@ -362,11 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mesa redonda sobre IA](https://wordpress.tv/2023/08/19/mesa-redonda-sobre-ia/)
 - [Elementor y acessibilidad ¿enemigos?](https://wordpress.tv/2023/08/19/elementor-y-acessibilidad-enemigos/)
 - [Mejores estrategias para vender en marketplaces](https://wordpress.tv/2023/08/19/mejores-estrategias-para-vender-en-marketplaces/)
-- [Cuando tú vas, yo vuelvo de allí](https://wordpress.tv/2023/08/19/cuando-tu-vas-yo-vuelvo-de-alli/)
-- [De woo a wow: Aprendizaje de mis tiendas favoritas](https://wordpress.tv/2023/08/19/de-woo-a-wow-aprendizaje-de-mis-tiendas-favoritas/)
-- [Metodología profesional para hacer un keyword research](https://wordpress.tv/2023/08/19/metodologia-profesional-para-hacer-un-keyword-research/)
-- [Aristóteles, WordPress y tú ¡y a vender mucho!](https://wordpress.tv/2023/08/19/aristoteles-wordpress-y-tu-y-a-vender-mucho/)
-- [Funciones avanzadas con WordPress y Elementor](https://wordpress.tv/2023/08/19/funciones-avanzadas-con-wordpress-y-elementor/)
 <!-- WPTV:END -->
 
 ## Marketing
