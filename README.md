@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for: Captcha/Honeypot &lpar;CF7,…](https://make.wordpress.org/polyglots/2023/08/23/pte-request-for-captcha-honeypot-cf7/)
 - [PTE Request for three plugin…](https://make.wordpress.org/polyglots/2023/08/23/pte-request-for-three-plugin/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/08/23/hi-dear-mentors-we-have-121/)
 - [Agenda: Weekly Polyglots Chat- August 23, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/23/agenda-weekly-polyglots-chat-august-23-2023-0700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Force Authentification Before Checkout for WooCommerce](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-force-authentification-before-checkout-for-woocommerce/)
 - [PTE Request for Visitor Analytics IO](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-visitor-analytics-io/)
 - [PTE Request for Three Plugins](https://make.wordpress.org/polyglots/2023/08/20/pte-request-for-three-plugins/)
-- [PTE Request for the ProfileGrid…](https://make.wordpress.org/polyglots/2023/08/19/pte-request-for-the-profilegrid/)
 <!-- POLYGLOTS:END -->
 
 ## Support
