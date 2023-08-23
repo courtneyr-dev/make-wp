@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Diseñar para WordPress paso a paso](https://wordpress.tv/2023/08/23/disenar-para-wordpress-paso-a-paso/)
 - [Conociendo a Dolly. De la ñapa al plugin.](https://wordpress.tv/2023/08/23/conociendo-a-dolly-de-la-napa-al-plugin/)
 - [11 cosas &lpar;y media&rpar; que hubiera querido saber sobre programación y WordPress cuando comencé](https://wordpress.tv/2023/08/23/11-cosas-y-media-que-hubiera-querido-saber-sobre-programacion-y-wordpress-cuando-comence/)
 - [Buenas prácticas para extender proyectos con WordPress](https://wordpress.tv/2023/08/23/buenas-practicas-para-extender-proyectos-con-wordpress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Todo el mundo puede con WordPress](https://wordpress.tv/2023/08/19/todo-el-mundo-puede-con-wordpress/)
 - [Mesa redonda sobre IA](https://wordpress.tv/2023/08/19/mesa-redonda-sobre-ia/)
 - [Elementor y acessibilidad ¿enemigos?](https://wordpress.tv/2023/08/19/elementor-y-acessibilidad-enemigos/)
-- [Mejores estrategias para vender en marketplaces](https://wordpress.tv/2023/08/19/mejores-estrategias-para-vender-en-marketplaces/)
 <!-- WPTV:END -->
 
 ## Marketing
