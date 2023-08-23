@@ -3,6 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Community Summit Discussion Notes: Unifying development tooling for contribution](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-unifying-development-tooling-for-contribution/)
+- [X-post: Community Summit Discussion Notes: What is the criteria for delaying the upgrade of foundational tech, and what triggers reconsideration?](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-what-is-the-criteria-for-delaying-the-upgrade-of-foundational-tech-and-what-triggers-reconsideration/)
+- [X-post: Community Summit Discussion Notes: Addressing backwards compatibility in Gutenberg](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-addressing-backwards-compatibility-in-gutenberg/)
 - [WordPress 6.3.1 RC1 is now available](https://make.wordpress.org/core/2023/08/23/wordpress-6-3-1-rc1-is-now-available/)
 - [A Week in Core – August 21, 2023](https://make.wordpress.org/core/2023/08/23/a-week-in-core-august-21-2023/)
 - [What’s new in Gutenberg 16.5? &lpar;23 August&rpar;](https://make.wordpress.org/core/2023/08/23/whats-new-in-gutenberg-16-5-23-august/)
@@ -10,9 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat agenda, August 23, 2023](https://make.wordpress.org/core/2023/08/23/dev-chat-agenda-august-23-2023/)
 - [Roadmap to 6.4](https://make.wordpress.org/core/2023/08/22/roadmap-to-6-4/)
 - [X-post: Community Summit Discussion Notes: Aligning processes and contributions between WordPress Core and Gutenberg](https://make.wordpress.org/core/2023/08/22/xpost-community-summit-discussion-notes-aligning-processes-and-contributions-between-wordpress-core-and-gutenberg/)
-- [X-post: Community Summit Discussion Notes: Accessibility in the WordPress Project](https://make.wordpress.org/core/2023/08/22/xpost-community-summit-discussion-notes-accessibility-in-the-wordpress-project/)
-- [Preparing for Contributor Day at WCUS 2023](https://make.wordpress.org/core/2023/08/22/preparing-for-contributor-day-at-wcus-2023/)
-- [Editor Chat Agenda: August 23rd, 2023](https://make.wordpress.org/core/2023/08/22/editor-chat-agenda-august-23rd-2023/)
 <!-- CORE:END -->
 
 ## Design
