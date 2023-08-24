@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE role in WCD Subscriptions](https://make.wordpress.org/polyglots/2023/08/24/clpte-role-in-wcd-subscriptions/)
 - [PTE Request for Meta/ WordPress.org/ Bengali &lpar;Bangladesh&rpar; /বাংলা](https://make.wordpress.org/polyglots/2023/08/24/pte-request-for-meta-wordpress-org-bengali-bangladesh-%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be/)
 - [PTE Request for Elementor plugin](https://make.wordpress.org/polyglots/2023/08/24/pte-request-for-elementor-plugin/)
 - [Hi, from Asia-Pacific here specifically…](https://make.wordpress.org/polyglots/2023/08/24/hi-from-asia-pacific-here-specifically/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat- August 23, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/23/agenda-weekly-polyglots-chat-august-23-2023-0700-utc/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/22/cross-locale-project-translation-editor-request-6/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/08/21/i-am-the-plugin-author-36/)
-- [PTE Request for the Advanced Custom Fields plugin.](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-the-advanced-custom-fields-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
