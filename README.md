@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Meta/ WordPress.org/ Bengali &lpar;Bangladesh&rpar; /বাংলা](https://make.wordpress.org/polyglots/2023/08/24/pte-request-for-meta-wordpress-org-bengali-bangladesh-%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be/)
 - [PTE Request for Elementor plugin](https://make.wordpress.org/polyglots/2023/08/24/pte-request-for-elementor-plugin/)
 - [Hi, from Asia-Pacific here specifically…](https://make.wordpress.org/polyglots/2023/08/24/hi-from-asia-pacific-here-specifically/)
 - [PTE Request for: Captcha/Honeypot &lpar;CF7,…](https://make.wordpress.org/polyglots/2023/08/23/pte-request-for-captcha-honeypot-cf7/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/22/cross-locale-project-translation-editor-request-6/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/08/21/i-am-the-plugin-author-36/)
 - [PTE Request for the Advanced Custom Fields plugin.](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-the-advanced-custom-fields-plugin/)
-- [PTE Request for Force Authentification Before Checkout for WooCommerce](https://make.wordpress.org/polyglots/2023/08/21/pte-request-for-force-authentification-before-checkout-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
