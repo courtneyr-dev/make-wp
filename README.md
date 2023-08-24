@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Fields API Progress Summary: WCUS Contributor Day 2023](https://make.wordpress.org/core/2023/08/24/fields-api-progress-summary-wcus-contributor-day-2023/)
 - [Introducing Twenty Twenty-Four](https://make.wordpress.org/core/2023/08/24/introducing-twenty-twenty-four/)
 - [X-post: Community Summit Discussion Notes: Ad hoc session on iterating on the Field Guide](https://make.wordpress.org/core/2023/08/24/xpost-community-summit-discussion-notes-ad-hoc-session-on-iterating-on-the-field-guide/)
 - [X-post: Community Summit Discussion Notes: Unifying development tooling for contribution](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-unifying-development-tooling-for-contribution/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Week in Core – August 21, 2023](https://make.wordpress.org/core/2023/08/23/a-week-in-core-august-21-2023/)
 - [What’s new in Gutenberg 16.5? &lpar;23 August&rpar;](https://make.wordpress.org/core/2023/08/23/whats-new-in-gutenberg-16-5-23-august/)
 - [What’s new for Navigation in WordPress 6.2 and 6.3](https://make.wordpress.org/core/2023/08/23/whats-new-for-navigation-in-wordpress-6-2-and-6-3/)
-- [Dev Chat agenda, August 23, 2023](https://make.wordpress.org/core/2023/08/23/dev-chat-agenda-august-23-2023/)
 <!-- CORE:END -->
 
 ## Design
