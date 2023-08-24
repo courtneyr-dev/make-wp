@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Contributing to Learn WordPress with code – part 2](https://wordpress.tv/2023/08/24/jonathan-bossenger-contributing-to-learn-wordpress-with-code-part-2/)
 - [How to create a tutorial for learn.wordpress.org](https://wordpress.tv/2023/08/23/how-to-create-a-tutorial-for-learn-wordpress-org/)
 - [Diseñar para WordPress paso a paso](https://wordpress.tv/2023/08/23/disenar-para-wordpress-paso-a-paso/)
 - [Conociendo a Dolly. De la ñapa al plugin.](https://wordpress.tv/2023/08/23/conociendo-a-dolly-de-la-napa-al-plugin/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress saved my life](https://wordpress.tv/2023/08/19/wordpress-saved-my-life/)
 - [Restaurant50, 5 claves de producto gracias a WordPress](https://wordpress.tv/2023/08/19/restaurant50-5-claves-de-producto-gracias-a-wordpress/)
 - [Todo el mundo puede con WordPress](https://wordpress.tv/2023/08/19/todo-el-mundo-puede-con-wordpress/)
-- [Mesa redonda sobre IA](https://wordpress.tv/2023/08/19/mesa-redonda-sobre-ia/)
 <!-- WPTV:END -->
 
 ## Marketing
