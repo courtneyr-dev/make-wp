@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request: Japanese language in WP Mail SMTP](https://make.wordpress.org/polyglots/2023/08/25/pte-request-japanese-language-in-wp-mail-smtp/)
 - [PTE Request for one user avatar](https://make.wordpress.org/polyglots/2023/08/25/pte-request-for-one-user-avatar/)
 - [CLPTE role in WCD Subscriptions](https://make.wordpress.org/polyglots/2023/08/24/clpte-role-in-wcd-subscriptions/)
 - [PTE Request for Meta/ WordPress.org/ Bengali &lpar;Bangladesh&rpar; /বাংলা](https://make.wordpress.org/polyglots/2023/08/24/pte-request-for-meta-wordpress-org-bengali-bangladesh-%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for three plugin…](https://make.wordpress.org/polyglots/2023/08/23/pte-request-for-three-plugin/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/08/23/hi-dear-mentors-we-have-121/)
 - [Agenda: Weekly Polyglots Chat- August 23, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/23/agenda-weekly-polyglots-chat-august-23-2023-0700-utc/)
-- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2023/08/22/cross-locale-project-translation-editor-request-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
