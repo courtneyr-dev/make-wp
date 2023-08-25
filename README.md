@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Proposal for updated support guidelines](https://make.wordpress.org/support/2023/08/proposal-for-updated-support-guidelines/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/support/2023/08/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [Agenda for August 10th Support Meeting](https://make.wordpress.org/support/2023/08/agenda-for-august-10th-support-meeting-2/)
 - [Summary for August 3rd Support Meeting](https://make.wordpress.org/support/2023/08/summary-for-august-3rd-support-meeting/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Contributor Mentorship Program: Support Team Onboarding Meeting](https://make.wordpress.org/support/2023/07/wp-contributor-mentorship-program-support-team-onboarding-meeting/)
 - [Agenda for July 27th Support Meeting](https://make.wordpress.org/support/2023/07/agenda-for-july-27th-support-meeting-2/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/support/2023/07/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
-- [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/support/2023/07/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 <!-- SUPPORT:END -->
 
 ## Documentation
