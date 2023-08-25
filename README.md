@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Social Media &amp; Communication Specialist &lpar;Fully Remote&rpar;](https://jobs.wordpress.net/job/social-media-communication-specialist-fully-remote/)
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-9/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-20/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-17/)
 - [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-811/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-56/)
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-15/)
 - [Plugin/Theme Customization](https://jobs.wordpress.net/job/plugin-theme-customization-2/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-810/)
-- [To make my current site a better design](https://jobs.wordpress.net/job/to-make-my-current-site-a-better-design/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-8/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-23/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-16/)
 <!-- JOBS:END -->
 
 ## Central
