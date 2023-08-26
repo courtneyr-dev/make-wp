@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for WCD…](https://make.wordpress.org/polyglots/2023/08/26/ive-suggested-translations-for-wcd/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/08/26/pte-request-for-customer-reviews-for-woocommerce-24/)
 - [PTE Request for Two Plugins](https://make.wordpress.org/polyglots/2023/08/25/pte-request-for-two-plugins-3/)
 - [PTE request: Japanese language in WP Mail SMTP](https://make.wordpress.org/polyglots/2023/08/25/pte-request-japanese-language-in-wp-mail-smtp/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Elementor plugin](https://make.wordpress.org/polyglots/2023/08/24/pte-request-for-elementor-plugin/)
 - [Hi, from Asia-Pacific here specifically…](https://make.wordpress.org/polyglots/2023/08/24/hi-from-asia-pacific-here-specifically/)
 - [PTE Request for: Captcha/Honeypot &lpar;CF7,…](https://make.wordpress.org/polyglots/2023/08/23/pte-request-for-captcha-honeypot-cf7/)
-- [PTE Request for three plugin…](https://make.wordpress.org/polyglots/2023/08/23/pte-request-for-three-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
