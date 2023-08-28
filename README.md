@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [flex-guten]](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-flex-guten/)
 - [[FluentCRM + supportcandy] の PTE リクエスト](https://make.wordpress.org/polyglots/2023/08/28/fluentcrm-supportcandy-%e3%81%ae-pte-%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88/)
 - [I’ve suggested translations for WCD…](https://make.wordpress.org/polyglots/2023/08/26/ive-suggested-translations-for-wcd/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/08/26/pte-request-for-customer-reviews-for-woocommerce-24/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE role in WCD Subscriptions](https://make.wordpress.org/polyglots/2023/08/24/clpte-role-in-wcd-subscriptions/)
 - [PTE Request for Meta/ WordPress.org/ Bengali &lpar;Bangladesh&rpar; /বাংলা](https://make.wordpress.org/polyglots/2023/08/24/pte-request-for-meta-wordpress-org-bengali-bangladesh-%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be/)
 - [PTE Request for Elementor plugin](https://make.wordpress.org/polyglots/2023/08/24/pte-request-for-elementor-plugin/)
-- [Hi, from Asia-Pacific here specifically…](https://make.wordpress.org/polyglots/2023/08/24/hi-from-asia-pacific-here-specifically/)
 <!-- POLYGLOTS:END -->
 
 ## Support
