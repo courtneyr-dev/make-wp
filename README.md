@@ -286,6 +286,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata-2)
+- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-13)
 - [APAC: Using the navigation block](https://learn.wordpress.org/?meeting=apac-using-the-navigation-block)
 - [Using the navigation block](https://learn.wordpress.org/?meeting=using-the-navigation-block-3)
 - [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata)
@@ -309,8 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-contributor-day-online-session-2)
 - [Common WordPress APIs: Global Variables](https://learn.wordpress.org/?meeting=common-wordpress-apis-global-variables)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-11)
-- [フルサイト編集で実際にサイトを作ってみよう！](https://learn.wordpress.org/?meeting=%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%a7%e5%ae%9f%e9%9a%9b%e3%81%ab%e3%82%b5%e3%82%a4%e3%83%88%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
-- [Contributing to the WordPress Community Team: Events and Roles](https://learn.wordpress.org/?meeting=contributing-to-the-wordpress-community-team-events-and-roles)
 <!-- SLS:END -->
 
 ## Test
