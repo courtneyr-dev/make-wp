@@ -547,7 +547,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Gdynia, Poland](https://central.wordcamp.org/wordcamps/wordcamp-gdynia-poland/)
 - [WordCamp Wrocław](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-2/)
 - [WordCamp Whitley Bay](https://central.wordcamp.org/wordcamps/wordcamp-whitley-bay/)
-- [WordCamp Nepal](https://central.wordcamp.org/wordcamps/wordcamp-nepal-6/)
+- [WordCamp Nepal 2024](https://central.wordcamp.org/wordcamps/wordcamp-nepal-6/)
 - [WordCamp Montreal, Quebec, Canada](https://central.wordcamp.org/wordcamps/wordcamp-montreal-quebec-canada/)
 - [WordCamp Valencia, España.](https://central.wordcamp.org/wordcamps/wordcamp-valencia-espana/)
 - [WordCamp Rochester, NY](https://central.wordcamp.org/wordcamps/wordcamp-rochester-ny/)
