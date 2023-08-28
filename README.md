@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Live WordPress 100% Bloc 27 juillet 2023](https://wordpress.tv/2023/08/28/live-wordpress-100-bloc-27-juillet-2023/)
 - [Common WordPress APIs: Dashboard Widgets](https://wordpress.tv/2023/08/25/common-wordpress-apis-dashboard-widgets-2/)
 - [Contributing to Learn WordPress with code – part 2](https://wordpress.tv/2023/08/24/jonathan-bossenger-contributing-to-learn-wordpress-with-code-part-2/)
 - [How to create a tutorial for learn.wordpress.org](https://wordpress.tv/2023/08/23/how-to-create-a-tutorial-for-learn-wordpress-org/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Cómo afectan los nuevos algoritmos de Google a WordPress?](https://wordpress.tv/2023/08/19/como-afectan-los-nuevos-algoritmos-de-google-a-wordpress/)
 - [Ventajas e inconvenientes de multisite](https://wordpress.tv/2023/08/19/ventajas-e-inconvenientes-de-multisite/)
 - [WordPress saved my life](https://wordpress.tv/2023/08/19/wordpress-saved-my-life/)
-- [Restaurant50, 5 claves de producto gracias a WordPress](https://wordpress.tv/2023/08/19/restaurant50-5-claves-de-producto-gracias-a-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
