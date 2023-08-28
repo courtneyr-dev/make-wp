@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WordPress 6.3.x – Development](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-wordpress-6-3-x-development/)
 - [PTE Request for Invoice123](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-invoice123/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/08/28/i-am-the-plugin-author-37/)
 - [PTE Request for Joinchat](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-joinchat/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/08/26/pte-request-for-customer-reviews-for-woocommerce-24/)
 - [PTE Request for Two Plugins](https://make.wordpress.org/polyglots/2023/08/25/pte-request-for-two-plugins-3/)
 - [PTE request: Japanese language in WP Mail SMTP](https://make.wordpress.org/polyglots/2023/08/25/pte-request-japanese-language-in-wp-mail-smtp/)
-- [PTE Request for one user avatar](https://make.wordpress.org/polyglots/2023/08/25/pte-request-for-one-user-avatar/)
 <!-- POLYGLOTS:END -->
 
 ## Support
