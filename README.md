@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [6.4 Release Parties Schedule and Hosts](https://make.wordpress.org/core/2023/08/29/6-3-release-parties-schedule-and-hosts-2/)
 - [Performance Chat Agenda: 29 August 2023](https://make.wordpress.org/core/2023/08/29/performance-chat-agenda-29-august-2023/)
 - [Editor Chat Agenda: August 30th, 2023](https://make.wordpress.org/core/2023/08/28/editor-chat-agenda-august-30th-2023/)
 - [X-post: Community Summit Discussion Notes: Improving maintenance of older default themes](https://make.wordpress.org/core/2023/08/26/xpost-community-summit-discussion-notes-improving-maintenance-of-older-default-themes/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit Discussion Notes: Unifying development tooling for contribution](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-unifying-development-tooling-for-contribution/)
 - [X-post: Community Summit Discussion Notes: What is the criteria for delaying the upgrade of foundational tech, and what triggers reconsideration?](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-what-is-the-criteria-for-delaying-the-upgrade-of-foundational-tech-and-what-triggers-reconsideration/)
 - [X-post: Community Summit Discussion Notes: Addressing backwards compatibility in Gutenberg](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-addressing-backwards-compatibility-in-gutenberg/)
-- [WordPress 6.3.1 RC1 is now available](https://make.wordpress.org/core/2023/08/23/wordpress-6-3-1-rc1-is-now-available/)
 <!-- CORE:END -->
 
 ## Design
