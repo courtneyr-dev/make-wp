@@ -548,6 +548,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Wrocław](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-2/)
 - [WordCamp Whitley Bay](https://central.wordcamp.org/wordcamps/wordcamp-whitley-bay/)
 - [WordCamp Nepal 2024](https://central.wordcamp.org/wordcamps/wordcamp-nepal-6/)
+- [WordCamp Manila, Philippines](https://central.wordcamp.org/wordcamps/wordcamp-manila-philippines-2023/)
 - [WordCamp Montreal, Quebec, Canada](https://central.wordcamp.org/wordcamps/wordcamp-montreal-quebec-canada/)
 - [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-4/)
 - [WordCamp Valencia, España.](https://central.wordcamp.org/wordcamps/wordcamp-valencia-espana/)
@@ -557,7 +558,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Bhopal 2023](https://central.wordcamp.org/wordcamps/wordcamp-bhopal-madhya-pradesh-india-4/)
 - [WordCamp Vancouver, British Columbia, Canada](https://central.wordcamp.org/wordcamps/wordcamp-vancouver-british-columbia-canada-2/)
 - [WordCamp Taiwan 2023](https://central.wordcamp.org/wordcamps/wordcamp-taiwan-2023/)
-- [WordCamp Atlanta 2023](https://central.wordcamp.org/wordcamps/wordcamp-atlanta-2023/)
 - [WordCamp Mumbai 2023](https://central.wordcamp.org/wordcamps/wordcamp-mumbai-2023/)
 <!-- WordCamp:END -->
 
