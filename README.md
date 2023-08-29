@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 29 August 2023](https://make.wordpress.org/core/2023/08/29/performance-chat-summary-29-august-2023/)
 - [6.4 Release Parties Schedule and Hosts](https://make.wordpress.org/core/2023/08/29/6-3-release-parties-schedule-and-hosts-2/)
 - [Performance Chat Agenda: 29 August 2023](https://make.wordpress.org/core/2023/08/29/performance-chat-agenda-29-august-2023/)
 - [Editor Chat Agenda: August 30th, 2023](https://make.wordpress.org/core/2023/08/28/editor-chat-agenda-august-30th-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit Discussion Notes: Ad hoc session on iterating on the Field Guide](https://make.wordpress.org/core/2023/08/24/xpost-community-summit-discussion-notes-ad-hoc-session-on-iterating-on-the-field-guide/)
 - [X-post: Community Summit Discussion Notes: Unifying development tooling for contribution](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-unifying-development-tooling-for-contribution/)
 - [X-post: Community Summit Discussion Notes: What is the criteria for delaying the upgrade of foundational tech, and what triggers reconsideration?](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-what-is-the-criteria-for-delaying-the-upgrade-of-foundational-tech-and-what-triggers-reconsideration/)
-- [X-post: Community Summit Discussion Notes: Addressing backwards compatibility in Gutenberg](https://make.wordpress.org/core/2023/08/23/xpost-community-summit-discussion-notes-addressing-backwards-compatibility-in-gutenberg/)
 <!-- CORE:END -->
 
 ## Design
