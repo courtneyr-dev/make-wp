@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Community Summit Discussion Notes: PHP version support](https://make.wordpress.org/core/2023/08/30/xpost-community-summit-discussion-notes-php-version-support/)
 - [Dev Chat agenda, August 30, 2023](https://make.wordpress.org/core/2023/08/30/dev-chat-agenda-august-30-2023/)
 - [Default Theme Chat Agenda: August 30th, 2023](https://make.wordpress.org/core/2023/08/29/default-theme-chat-agenda-august-30th-2023/)
 - [Performance Chat Summary: 29 August 2023](https://make.wordpress.org/core/2023/08/29/performance-chat-summary-29-august-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit Discussion Notes: Improving maintenance of older default themes](https://make.wordpress.org/core/2023/08/26/xpost-community-summit-discussion-notes-improving-maintenance-of-older-default-themes/)
 - [Fields API Progress Summary: WCUS Contributor Day 2023](https://make.wordpress.org/core/2023/08/24/fields-api-progress-summary-wcus-contributor-day-2023/)
 - [Introducing Twenty Twenty-Four](https://make.wordpress.org/core/2023/08/24/introducing-twenty-twenty-four/)
-- [X-post: Community Summit Discussion Notes: Ad hoc session on iterating on the Field Guide](https://make.wordpress.org/core/2023/08/24/xpost-community-summit-discussion-notes-ad-hoc-session-on-iterating-on-the-field-guide/)
 <!-- CORE:END -->
 
 ## Design
