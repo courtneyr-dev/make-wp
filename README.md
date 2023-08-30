@@ -5,7 +5,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- CORE:START -->
 - [Default Theme Chat Agenda: August 30th, 2023](https://make.wordpress.org/core/2023/08/29/default-theme-chat-agenda-august-30th-2023/)
 - [Performance Chat Summary: 29 August 2023](https://make.wordpress.org/core/2023/08/29/performance-chat-summary-29-august-2023/)
-- [6.4 Release Parties Schedule and Hosts](https://make.wordpress.org/core/2023/08/29/6-3-release-parties-schedule-and-hosts-2/)
+- [6.4 Release Parties Schedule and Hosts](https://make.wordpress.org/core/2023/08/29/6-4-release-parties-schedule-and-hosts/)
 - [Performance Chat Agenda: 29 August 2023](https://make.wordpress.org/core/2023/08/29/performance-chat-agenda-29-august-2023/)
 - [Editor Chat Agenda: August 30th, 2023](https://make.wordpress.org/core/2023/08/28/editor-chat-agenda-august-30th-2023/)
 - [X-post: Community Summit Discussion Notes: Improving maintenance of older default themes](https://make.wordpress.org/core/2023/08/26/xpost-community-summit-discussion-notes-improving-maintenance-of-older-default-themes/)
