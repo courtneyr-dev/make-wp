@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Default Theme chat summary: August 30th, 2023](https://make.wordpress.org/themes/2023/08/30/xpost-default-theme-chat-summary-august-30th-2023/)
 - [X-post: Default Theme Chat Agenda: August 30th, 2023](https://make.wordpress.org/themes/2023/08/29/xpost-default-theme-chat-agenda-august-30th-2023/)
 - [X-post: Community Summit Discussion Notes: Improving maintenance of older default themes](https://make.wordpress.org/themes/2023/08/26/xpost-community-summit-discussion-notes-improving-maintenance-of-older-default-themes/)
 - [X-post: Introducing Twenty Twenty-Four](https://make.wordpress.org/themes/2023/08/24/xpost-introducing-twenty-twenty-four/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes Team Meeting Notes – August 08, 2023](https://make.wordpress.org/themes/2023/08/10/themes-team-meeting-notes-august-08-2023/)
 - [X-post: Themes team update August 08, 2023](https://make.wordpress.org/themes/2023/08/08/xpost-themes-team-update-august-08-2023/)
 - [Themes team meeting agenda for August 08, 2023](https://make.wordpress.org/themes/2023/08/07/themes-team-meeting-agenda-for-august-08-2023/)
-- [Hallway Hangout: Extending blocks with custom design tools](https://make.wordpress.org/themes/2023/07/31/hallway-hangout-extending-blocks-with-custom-design-tools/)
 <!-- THEMES:END -->
 
 ## Plugins
