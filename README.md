@@ -118,12 +118,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Enqueueing assets in the Editor](https://developer.wordpress.org/block-editor/how-to-guides/enqueueing-assets-in-the-editor/)
 - [@wordpress/patterns](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-patterns/)
 - [@wordpress/sync](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-sync/)
-- [wp_cache_set_users_last_changed&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_cache_set_users_last_changed/)
 - [wp_is_password_reset_allowed_for_user&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_is_password_reset_allowed_for_user/)
+- [wp_cache_set_users_last_changed&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_cache_set_users_last_changed/)
 - [wp_update_user](https://developer.wordpress.org/reference/hooks/wp_update_user/)
 - [wp_cache_set_last_changed](https://developer.wordpress.org/reference/hooks/wp_cache_set_last_changed/)
-- [wp_cache_set_last_changed&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_cache_set_last_changed/)
 - [cron_memory_limit](https://developer.wordpress.org/reference/hooks/cron_memory_limit/)
+- [wp_cache_set_last_changed&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_cache_set_last_changed/)
 - [_validate_cache_id&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_validate_cache_id/)
 <!-- DEVHUB:END -->
 
