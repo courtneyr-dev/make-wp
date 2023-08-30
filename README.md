@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2023/08/30/pte-request-for-social-media-share-buttons-popup-pop-up-social-sharing-icons-2/)
 - [Agenda: Weekly Polyglots Chat- August 30, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/30/agenda-weekly-polyglots-chat-august-30-2023-1300-utc/)
 - [I’ve already translations for this…](https://make.wordpress.org/polyglots/2023/08/29/ive-already-translations-for-this/)
 - [PTE Request for WordPress 6.3.x – Development / WooCommerce](https://make.wordpress.org/polyglots/2023/08/29/pte-request-for-wordpress-6-3-x-development-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Joinchat](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-joinchat/)
 - [PTE Request for [flex-guten]](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-flex-guten/)
 - [[FluentCRM + supportcandy] の PTE リクエスト](https://make.wordpress.org/polyglots/2023/08/28/fluentcrm-supportcandy-%e3%81%ae-pte-%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88/)
-- [I’ve suggested translations for WCD…](https://make.wordpress.org/polyglots/2023/08/26/ive-suggested-translations-for-wcd/)
 <!-- POLYGLOTS:END -->
 
 ## Support
