@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [The NextGen Event Project: Your Ideas, Your WordPress Community!](https://make.wordpress.org/community/2023/08/30/the-nextgen-event-project-your-ideas-your-wordpress-community/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 23, 2023](https://make.wordpress.org/community/2023/08/23/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-23-2023/)
 - [Call for ideas: new features for our NexGen WP events central page](https://make.wordpress.org/community/2023/08/23/call-for-ideas-new-features-for-our-nexgen-wp-events-central-page/)
 - [Meetup Organizer Newsletter: August 2023](https://make.wordpress.org/community/2023/08/21/meetup-organizer-newsletter-august-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCUS 2023: Community Team event at Contributor Day](https://make.wordpress.org/community/2023/08/14/wcus-2023-community-team-event-at-contributor-day/)
 - [X-post: Blue Note: The second community theme is released](https://make.wordpress.org/community/2023/08/11/xpost-blue-note-the-second-community-theme-is-released/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/community/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 9, 2023](https://make.wordpress.org/community/2023/08/09/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-9-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
