@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Introduction to the HTML API](https://wordpress.tv/2023/08/31/developer-hours-introduction-to-the-html-api/)
 - [Basic Principles of Software Architecture](https://wordpress.tv/2023/08/30/basic-principles-of-software-architecture/)
 - [Live WordPress 100% Bloc 27 juillet 2023](https://wordpress.tv/2023/08/28/live-wordpress-100-bloc-27-juillet-2023/)
 - [Common WordPress APIs: Dashboard Widgets](https://wordpress.tv/2023/08/25/common-wordpress-apis-dashboard-widgets-2/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Vigilar la experiencia de usuario](https://wordpress.tv/2023/08/19/vigilar-la-experiencia-de-usuario/)
 - [WordPress como framework; mucho más que un CMS](https://wordpress.tv/2023/08/19/wordpress-como-framework-mucho-mas-que-un-cms/)
 - [¿Cómo afectan los nuevos algoritmos de Google a WordPress?](https://wordpress.tv/2023/08/19/como-afectan-los-nuevos-algoritmos-de-google-a-wordpress/)
-- [Ventajas e inconvenientes de multisite](https://wordpress.tv/2023/08/19/ventajas-e-inconvenientes-de-multisite/)
 <!-- WPTV:END -->
 
 ## Marketing
