@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [A link to OpenAI and DeepL config from the TM](https://make.wordpress.org/polyglots/2023/08/31/a-link-to-openai-and-deepl-config-from-the-tm/)
 - [PTE Request for One Theme and Other](https://make.wordpress.org/polyglots/2023/08/31/pte-request-for-one-theme-and-other/)
 - [PTE Request for Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2023/08/30/pte-request-for-social-media-share-buttons-popup-pop-up-social-sharing-icons-2/)
 - [Agenda: Weekly Polyglots Chat- August 30, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/30/agenda-weekly-polyglots-chat-august-30-2023-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Invoice123](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-invoice123/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/08/28/i-am-the-plugin-author-37/)
 - [PTE Request for Joinchat](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-joinchat/)
-- [PTE Request for [flex-guten]](https://make.wordpress.org/polyglots/2023/08/28/pte-request-for-flex-guten/)
 <!-- POLYGLOTS:END -->
 
 ## Support
