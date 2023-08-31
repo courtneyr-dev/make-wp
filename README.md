@@ -516,11 +516,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-18/)
 - [[rtCamp] Lead React Engineer](https://jobs.wordpress.net/job/rtcamp-lead-react-engineer-5/)
 - [[rtCamp] Lead WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-lead-wordpress-engineer-5/)
-- [[rtCamp] Senior React Engineer](https://jobs.wordpress.net/job/rtcamp-senior-react-engineer-26/)
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-7/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-812/)
 - [[ASTRA] SEO Executive](https://jobs.wordpress.net/job/astra-seo-executive-2/)
 - [[ASTRA] SEO Lead](https://jobs.wordpress.net/job/astra-seo-lead/)
+- [WordPress Themes Technical Support Agent](https://jobs.wordpress.net/job/wordpress-themes-technical-support-agent/)
 <!-- JOBS:END -->
 
 ## Central
