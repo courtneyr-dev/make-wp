@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-10/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-21/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-18/)
+- [[rtCamp] Lead React Engineer](https://jobs.wordpress.net/job/rtcamp-lead-react-engineer-5/)
+- [[rtCamp] Lead WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-lead-wordpress-engineer-5/)
+- [[rtCamp] Senior React Engineer](https://jobs.wordpress.net/job/rtcamp-senior-react-engineer-26/)
+- [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-7/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-812/)
 - [[ASTRA] SEO Executive](https://jobs.wordpress.net/job/astra-seo-executive-2/)
 - [[ASTRA] SEO Lead](https://jobs.wordpress.net/job/astra-seo-lead/)
-- [WordPress Themes Technical Support Agent](https://jobs.wordpress.net/job/wordpress-themes-technical-support-agent/)
-- [Social Media &amp; Communication Specialist &lpar;Fully Remote&rpar;](https://jobs.wordpress.net/job/social-media-communication-specialist-fully-remote/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-9/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-20/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-17/)
-- [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role-4/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-811/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-56/)
 <!-- JOBS:END -->
 
 ## Central
