@@ -315,6 +315,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Test Chat Summary: 29 August 2023](https://make.wordpress.org/test/2023/08/31/test-chat-summary-29-august-2023/)
 - [FSE Program Let’s Start From The Beginning Summary](https://make.wordpress.org/test/2023/08/29/fse-program-lets-start-from-the-beginning-summary/)
 - [X-post: Test Team Update: 28 August 2023](https://make.wordpress.org/test/2023/08/28/xpost-test-team-update-28-august-2023/)
 - [X-post: Test Team Update: 21 August 2023](https://make.wordpress.org/test/2023/08/22/xpost-test-team-update-21-august-2023/)
@@ -324,7 +325,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 14 August 2023](https://make.wordpress.org/test/2023/08/14/xpost-test-team-update-14-august-2023/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/test/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [FSE Program Testing Call #25: Let’s start from the beginning](https://make.wordpress.org/test/2023/08/09/fse-program-testing-call-25-lets-start-from-the-beginning/)
-- [X-post: Test Team Update: 7 August 2023](https://make.wordpress.org/test/2023/08/07/xpost-test-team-update-7-august-2023/)
 <!-- TEST:END -->
 
 ## TV
