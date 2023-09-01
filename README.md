@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Enwikuna License Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/09/01/post-title-pte-request-for-plugin_name-4/)
 - [PTE Request for SumUp Payment Gateway For WooCommerce](https://make.wordpress.org/polyglots/2023/09/01/pte-request-for-sumup-payment-gateway-for-woocommerce/)
 - [PTE Request for Infocob CRM Products](https://make.wordpress.org/polyglots/2023/09/01/pte-request-for-infocob-crm-products-3/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/08/31/hi-dear-mentors-we-have-122/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2023/08/30/pte-request-for-social-media-share-buttons-popup-pop-up-social-sharing-icons-2/)
 - [Agenda: Weekly Polyglots Chat- August 30, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/30/agenda-weekly-polyglots-chat-august-30-2023-1300-utc/)
 - [I’ve already translations for this…](https://make.wordpress.org/polyglots/2023/08/29/ive-already-translations-for-this/)
-- [PTE Request for WordPress 6.3.x – Development / WooCommerce](https://make.wordpress.org/polyglots/2023/08/29/pte-request-for-wordpress-6-3-x-development-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
