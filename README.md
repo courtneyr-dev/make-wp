@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress/Elementor Specialist](https://jobs.wordpress.net/job/wordpress-elementor-specialist/)
+- [Software Developer – WordPress](https://jobs.wordpress.net/job/software-developer-wordpress/)
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-10/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-21/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-18/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Inpsyde] Sr. Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-sr-full-stack-developer-7/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-812/)
 - [[ASTRA] SEO Executive](https://jobs.wordpress.net/job/astra-seo-executive-2/)
-- [[ASTRA] SEO Lead](https://jobs.wordpress.net/job/astra-seo-lead/)
-- [WordPress Themes Technical Support Agent](https://jobs.wordpress.net/job/wordpress-themes-technical-support-agent/)
 <!-- JOBS:END -->
 
 ## Central
