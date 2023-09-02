@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Kadence Theme]](https://make.wordpress.org/polyglots/2023/09/02/pte-request-for-kadence-theme-5/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/09/02/i-am-the-plugin-author-38/)
 - [PTE Request for Enwikuna License Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/09/01/post-title-pte-request-for-plugin_name-4/)
 - [PTE Request for SumUp Payment Gateway For WooCommerce](https://make.wordpress.org/polyglots/2023/09/01/pte-request-for-sumup-payment-gateway-for-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A link to OpenAI and DeepL config from the TM](https://make.wordpress.org/polyglots/2023/08/31/a-link-to-openai-and-deepl-config-from-the-tm/)
 - [PTE Request for One Theme and Other](https://make.wordpress.org/polyglots/2023/08/31/pte-request-for-one-theme-and-other/)
 - [PTE Request for Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons](https://make.wordpress.org/polyglots/2023/08/30/pte-request-for-social-media-share-buttons-popup-pop-up-social-sharing-icons-2/)
-- [Agenda: Weekly Polyglots Chat- August 30, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/08/30/agenda-weekly-polyglots-chat-august-30-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
