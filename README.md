@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for storefront-ecommerce theme](https://make.wordpress.org/polyglots/2023/09/03/pte-request-for-storefront-ecommerce-theme/)
 - [Request for PTE](https://make.wordpress.org/polyglots/2023/09/03/request-for-pte/)
 - [PTE Request for [Kadence Theme]](https://make.wordpress.org/polyglots/2023/09/02/pte-request-for-kadence-theme-5/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/09/02/i-am-the-plugin-author-38/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/08/31/hi-dear-mentors-we-have-122/)
 - [PTE Request for Three Plugins](https://make.wordpress.org/polyglots/2023/08/31/pte-request-for-three-plugins-2/)
 - [A link to OpenAI and DeepL config from the TM](https://make.wordpress.org/polyglots/2023/08/31/a-link-to-openai-and-deepl-config-from-the-tm/)
-- [PTE Request for One Theme and Other](https://make.wordpress.org/polyglots/2023/08/31/pte-request-for-one-theme-and-other/)
 <!-- POLYGLOTS:END -->
 
 ## Support
