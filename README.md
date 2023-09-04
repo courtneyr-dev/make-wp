@@ -427,6 +427,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [A week in Openverse: 2023-08-28 – 2023-09-04](https://make.wordpress.org/openverse/2023/09/04/last-week-openverse-2023-08-28-2023-09-04/)
 - [X-post: Community Summit Discussion Notes: Handling Trust &amp; Safety &lpar;“T&amp;S”&rpar; in the WordPress ecosystem: content moderation and sensitive content](https://make.wordpress.org/openverse/2023/08/29/xpost-community-summit-discussion-notes-handling-trust-safety-ts-in-the-wordpress-ecosystem-content-moderation-and-sensitive-content/)
 - [Community Meeting Recap &lpar;2023-08-29&rpar;](https://make.wordpress.org/openverse/2023/08/29/community-meeting-recap-2023-08-29/)
 - [Openverse Monthly Priorities Meeting 2023-09-06](https://make.wordpress.org/openverse/2023/08/28/openverse-monthly-priorities-meeting-2023-09-06/)
@@ -436,7 +437,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cultivating Collaborative Pathways with Statens Museum for Kunst &lpar;SMK&rpar;](https://make.wordpress.org/openverse/2023/08/17/cultivating-collaborative-pathways-with-statens-museum-for-kunst-smk/)
 - [A week in Openverse: 2023-08-07 – 2023-08-14](https://make.wordpress.org/openverse/2023/08/14/last-week-openverse-2023-08-07-2023-08-14/)
 - [A week in Openverse: 2023-07-31 – 2023-08-07](https://make.wordpress.org/openverse/2023/08/07/last-week-openverse-2023-07-31-2023-08-07/)
-- [A week in Openverse: 2023-07-24 – 2023-07-31](https://make.wordpress.org/openverse/2023/07/31/last-week-openverse-2023-07-24-2023-07-31/)
 <!-- OPENVERSE:END -->
 
 ## Photos
