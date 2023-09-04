@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Improving Translation Suggestions from Other Languages](https://make.wordpress.org/polyglots/2023/09/04/improving-translation-suggestions-from-other-languages/)
 - [I’ve already translated for this…](https://make.wordpress.org/polyglots/2023/09/04/ive-already-translated-for-this/)
 - [PTE request for storefront-ecommerce theme](https://make.wordpress.org/polyglots/2023/09/03/pte-request-for-storefront-ecommerce-theme/)
 - [Request for PTE](https://make.wordpress.org/polyglots/2023/09/03/request-for-pte/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for SumUp Payment Gateway For WooCommerce](https://make.wordpress.org/polyglots/2023/09/01/pte-request-for-sumup-payment-gateway-for-woocommerce/)
 - [PTE Request for Infocob CRM Products](https://make.wordpress.org/polyglots/2023/09/01/pte-request-for-infocob-crm-products-3/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/08/31/hi-dear-mentors-we-have-122/)
-- [PTE Request for Three Plugins](https://make.wordpress.org/polyglots/2023/08/31/pte-request-for-three-plugins-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
