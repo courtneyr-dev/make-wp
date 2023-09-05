@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Full-Stack WordPress / WooCommerce Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-woocommerce-developer/)
+- [Senior WordPress Multi-Talent Developer with strong React.js, Theme.json &amp; Gutenberg experience](https://jobs.wordpress.net/job/senior-wordpress-multi-talent-developer-with-strong-react-js-theme-json-gutenberg-experience/)
 - [Web designer for personal blog &lpar;creative-academic sector&rpar;](https://jobs.wordpress.net/job/web-designer-for-personal-blog-creative-academic-sector/)
 - [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-6/)
 - [Customer Support Agent for WordPress Themes | Romania](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes-romania/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-10/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-21/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-18/)
-- [[rtCamp] Lead React Engineer](https://jobs.wordpress.net/job/rtcamp-lead-react-engineer-5/)
-- [[rtCamp] Lead WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-lead-wordpress-engineer-5/)
 <!-- JOBS:END -->
 
 ## Central
