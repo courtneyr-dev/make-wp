@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Call for Testing: Performant Translations](https://make.wordpress.org/polyglots/2023/09/05/xpost-call-for-testing-performant-translations/)
 - [PTE Request for PublishPress](https://make.wordpress.org/polyglots/2023/09/04/pte-request-for-publishpress/)
 - [Improving Translation Suggestions from Other Languages](https://make.wordpress.org/polyglots/2023/09/04/improving-translation-suggestions-from-other-languages/)
 - [I’ve already translated for this…](https://make.wordpress.org/polyglots/2023/09/04/ive-already-translated-for-this/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/09/02/i-am-the-plugin-author-38/)
 - [PTE Request for Enwikuna License Manager for WooCommerce](https://make.wordpress.org/polyglots/2023/09/01/post-title-pte-request-for-plugin_name-4/)
 - [PTE Request for SumUp Payment Gateway For WooCommerce](https://make.wordpress.org/polyglots/2023/09/01/pte-request-for-sumup-payment-gateway-for-woocommerce/)
-- [PTE Request for Infocob CRM Products](https://make.wordpress.org/polyglots/2023/09/01/pte-request-for-infocob-crm-products-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
