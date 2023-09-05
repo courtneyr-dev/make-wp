@@ -229,6 +229,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [Intro to the Site Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
+- [વર્ડપ્રેસ પ્લેગ્રાઉન્ડનો ઉપયોગ કેવી રીતે શરૂ કરવો](https://learn.wordpress.org/tutorial/gu-how-to-start-using-wordpress-playground/)
 - [Common APIs – Dashboard Widgets](https://learn.wordpress.org/tutorial/common-apis-dashboard-widgets/)
 - [How to create a video tutorial for learn.wordpress.org](https://learn.wordpress.org/tutorial/how-to-create-a-video-tutorial-for-learn-wordpress-org/)
 - [Embedding media and third-party content on your website](https://learn.wordpress.org/tutorial/embedding-media-and-third-party-content-on-your-website/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Différences entre blocs réutilisables, compositions de blocs, modèles et éléments de modèle](https://learn.wordpress.org/tutorial/fr-the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [How to switch from a classic to a block theme](https://learn.wordpress.org/tutorial/how-to-switch-from-a-classic-to-a-block-theme/)
-- [Managing a WordPress Multisite Network](https://learn.wordpress.org/tutorial/managing-a-wordpress-multisite-network/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
