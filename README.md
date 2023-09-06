@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [ASTRA]](https://make.wordpress.org/polyglots/2023/09/06/pte-request-for-astra/)
 - [GTE request for Catalan &lpar;#ca&rpar;](https://make.wordpress.org/polyglots/2023/09/06/gte-request-for-catalan-ca/)
 - [Agenda: Weekly Polyglots Chat- September 06, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/06/agenda-weekly-polyglots-chat-september-06-2023-0700-utc/)
 - [CLPTE request for Smash Balloon projects](https://make.wordpress.org/polyglots/2023/09/05/clpte-request-for-smash-balloon-projects/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve already translated for this…](https://make.wordpress.org/polyglots/2023/09/04/ive-already-translated-for-this/)
 - [PTE request for storefront-ecommerce theme](https://make.wordpress.org/polyglots/2023/09/03/pte-request-for-storefront-ecommerce-theme/)
 - [Request for PTE](https://make.wordpress.org/polyglots/2023/09/03/request-for-pte/)
-- [PTE Request for [Kadence Theme]](https://make.wordpress.org/polyglots/2023/09/02/pte-request-for-kadence-theme-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
