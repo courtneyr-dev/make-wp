@@ -371,6 +371,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: Community Summit Discussion Notes: Can WordPress become the household name it deserves to be?](https://make.wordpress.org/marketing/2023/09/06/xpost-community-summit-discussion-notes-can-wordpress-become-the-household-name-it-deserves-to-be/)
 - [WordCamp US 2023 Contributor Day](https://make.wordpress.org/marketing/2023/08/24/wordcamp-us-2023-contributor-day/)
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/marketing/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/marketing/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
@@ -380,7 +381,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: Let’s actively promote the Learn WordPress platform in Learn WordPress content](https://make.wordpress.org/marketing/2023/06/26/xpost-proposal-lets-actively-promote-the-learn-wordpress-platform-in-learn-wordpress-content/)
 - [Notes: Global Marketing Team meeting, 20 June 2023](https://make.wordpress.org/marketing/2023/06/26/notes-global-marketing-team-meeting-20-june-2023/)
 - [Notes: Global Marketing Team meeting, 13 June 2023](https://make.wordpress.org/marketing/2023/06/19/notes-global-marketing-team-meeting-13-june-2023/)
-- [Notes: Global Marketing Team meeting, 06 June 2023](https://make.wordpress.org/marketing/2023/06/12/notes-global-marketing-team-meeting-06-june-2023/)
 <!-- MARKETING:END -->
 
 ## CLI
