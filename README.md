@@ -469,6 +469,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Proposal: Documentation translation / localization](https://make.wordpress.org/project/2023/09/06/documentation-translation-localization/)
 - [The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/project/2023/08/11/the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/project/2023/07/13/proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/project/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
@@ -478,7 +479,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/project/2023/05/17/wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Revitalizing the Showcase](https://make.wordpress.org/project/2023/04/19/showcase-content-moderation/)
 - [Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/project/2023/04/13/wordpress-at-20-in-print/)
-- [X-post: Launching the Contributor Working Group: Call for Volunteers](https://make.wordpress.org/project/2023/03/10/xpost-launching-the-contributor-working-group-call-for-volunteers/)
 <!-- PROJECT:END -->
 
 ## Systems
