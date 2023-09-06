@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I suggested some strings for…](https://make.wordpress.org/polyglots/2023/09/06/i-suggested-some-strings-for/)
+- [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/polyglots/2023/09/06/xpost-documentation-translation-localization/)
 - [PTE Request for [ASTRA]](https://make.wordpress.org/polyglots/2023/09/06/pte-request-for-astra/)
 - [GTE request for Catalan &lpar;#ca&rpar;](https://make.wordpress.org/polyglots/2023/09/06/gte-request-for-catalan-ca/)
 - [Agenda: Weekly Polyglots Chat- September 06, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/06/agenda-weekly-polyglots-chat-september-06-2023-0700-utc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for PublishPress](https://make.wordpress.org/polyglots/2023/09/04/pte-request-for-publishpress/)
 - [Improving Translation Suggestions from Other Languages](https://make.wordpress.org/polyglots/2023/09/04/improving-translation-suggestions-from-other-languages/)
 - [I’ve already translated for this…](https://make.wordpress.org/polyglots/2023/09/04/ive-already-translated-for-this/)
-- [PTE request for storefront-ecommerce theme](https://make.wordpress.org/polyglots/2023/09/03/pte-request-for-storefront-ecommerce-theme/)
-- [Request for PTE](https://make.wordpress.org/polyglots/2023/09/03/request-for-pte/)
 <!-- POLYGLOTS:END -->
 
 ## Support
