@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Multisite and Modern JS Specialist](https://jobs.wordpress.net/job/wordpress-multisite-and-modern-js-specialist/)
+- [WordPress expert for upgrading a very old WP that doesn’t work](https://jobs.wordpress.net/job/wordpress-expert-for-upgrading-a-very-old-wp-that-doesnt-work/)
+- [WordPress developer – develop personal blog website](https://jobs.wordpress.net/job/word-press-developer-develop-personal-blog-website/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-8/)
 - [Senior Full-Stack WordPress / WooCommerce Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-woocommerce-developer/)
 - [Senior WordPress Multi-Talent Developer with strong React.js, Theme.json &amp; Gutenberg experience](https://jobs.wordpress.net/job/senior-wordpress-multi-talent-developer-with-strong-react-js-theme-json-gutenberg-experience/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-6/)
 - [Customer Support Agent for WordPress Themes | Romania](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes-romania/)
 - [WordPress/Elementor Specialist](https://jobs.wordpress.net/job/wordpress-elementor-specialist/)
-- [Software Developer – WordPress](https://jobs.wordpress.net/job/software-developer-wordpress/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-10/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-21/)
 <!-- JOBS:END -->
 
 ## Central
