@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-3)
 - [Speaker Workshop for Indian Women in the WordPress Community Part 2](https://learn.wordpress.org/?meeting=speaker-workshop-for-indian-women-in-the-wordpress-community-part-2)
 - [Speaker Workshop for Indian Women in the WordPress Community Part 1](https://learn.wordpress.org/?meeting=speaker-workshop-for-indian-women-in-the-wordpress-community-part-1)
 - [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata-2)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-6)
 - [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-5)
 - [WordPress 6.3 release Watch party](https://learn.wordpress.org/?meeting=wordpress-6-3-release-watch-party)
-- [Training Team Contributor Day Online Session](https://learn.wordpress.org/?meeting=training-team-contributor-day-online-session-2)
 <!-- SLS:END -->
 
 ## Test
