@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Plugin Developer](https://jobs.wordpress.net/job/word-press-plugin-developer-3/)
 - [WordPress Multisite and Modern JS Specialist](https://jobs.wordpress.net/job/wordpress-multisite-and-modern-js-specialist/)
 - [WordPress expert for upgrading a very old WP that doesn’t work](https://jobs.wordpress.net/job/wordpress-expert-for-upgrading-a-very-old-wp-that-doesnt-work/)
 - [WordPress developer – develop personal blog website](https://jobs.wordpress.net/job/word-press-developer-develop-personal-blog-website/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web designer for personal blog &lpar;creative-academic sector&rpar;](https://jobs.wordpress.net/job/web-designer-for-personal-blog-creative-academic-sector/)
 - [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-6/)
 - [Customer Support Agent for WordPress Themes | Romania](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes-romania/)
-- [WordPress/Elementor Specialist](https://jobs.wordpress.net/job/wordpress-elementor-specialist/)
 <!-- JOBS:END -->
 
 ## Central
