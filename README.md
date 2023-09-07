@@ -199,7 +199,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
-- [स्पीकर वर्कशॉप](https://learn.wordpress.org/lesson-plan/hi-speaker-training-workshop/)
 - [લો-કોડ બ્લોક પેટર્ન કેવી રીતે બનાવવી](https://learn.wordpress.org/lesson-plan/gu-how-to-build-low-code-block-patterns/)
 - [વર્ડપ્રેસ રીપોઝીટરીમાં થીમ અપલોડ કરો](https://learn.wordpress.org/lesson-plan/gu-upload-a-theme-to-the-wordpress-repository/)
 - [Présentation du tableau de bord](https://learn.wordpress.org/lesson-plan/fr-dashboard-overview/)
@@ -224,6 +223,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [पेज बनाम। पदों](https://learn.wordpress.org/lesson-plan/hi-pages-vs-posts/)
 - [पुन: प्रयोज्य ब्लॉकों, ब्लॉक पैटर्न, टेम्पलेट्स, टेम्पलेट भागों के बीच अंतर](https://learn.wordpress.org/lesson-plan/hi-difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [साइट संपादक और टेम्प्लेट का परिचय](https://learn.wordpress.org/lesson-plan/hi-intro-to-the-site-editor-and-templates/)
+- [પૃષ્ઠો વિ. પોસ્ટ્સ](https://learn.wordpress.org/lesson-plan/gu-pages-vs-posts/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
