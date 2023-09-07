@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Resource and Handbook Updates in Q3](https://make.wordpress.org/community/2023/09/07/resource-and-handbook-updates-in-q3/)
 - [Community Team Meeting Agenda for 7 September, 2023](https://make.wordpress.org/community/2023/09/06/community-team-meeting-agenda-for-7-september-2023/)
 - [WordCamp Mentors’ September check-in!](https://make.wordpress.org/community/2023/09/01/wordcamp-mentors-september-check-in/)
 - [The NextGen Event Project: Your Ideas, Your WordPress Community!](https://make.wordpress.org/community/2023/08/30/the-nextgen-event-project-your-ideas-your-wordpress-community/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Contributor Working Group’s Mentorship Chat on August 18, 2023](https://make.wordpress.org/community/2023/08/21/recap-of-the-contributor-working-groups-mentorship-chat-on-august-18-2023/)
 - [Contributor Working Group: Mentorship Chat Agenda | August 17th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/08/16/contributor-working-group-mentorship-chat-agenda-august-17th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/community/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
-- [WCUS 2023: Community Team event at Contributor Day](https://make.wordpress.org/community/2023/08/14/wcus-2023-community-team-event-at-contributor-day/)
 <!-- COMMUNITY:END -->
 
 ## Meta
