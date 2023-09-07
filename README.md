@@ -342,7 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Using the Site Editor](https://wordpress.tv/2023/09/04/using-the-site-editor/)
+- [Intro to the Site Editor](https://wordpress.tv/2023/09/04/using-the-site-editor/)
 - [Contribuir al equipo de Comunidad: eventos y roles](https://wordpress.tv/2023/09/04/contribuir-al-equipo-de-comunidad-eventos-y-roles/)
 - [WordPress 6.3 のアップデート内容を見てみよう！](https://wordpress.tv/2023/09/01/wordpress-6-3-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 - [Common WordPress APIs: Metadata API](https://wordpress.tv/2023/09/01/common-wordpress-apis-metadata-api/)
