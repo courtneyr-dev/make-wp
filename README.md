@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The one sentence secret to marketing, influence and getting a yes](https://wordpress.tv/2023/09/07/the-one-sentence-secret-to-marketing-influence-and-getting-a-yes/)
+- [How Neuroscience Can Make You a Better Writer](https://wordpress.tv/2023/09/07/how-neuroscience-can-make-you-a-better-writer/)
+- [Starting your WordPress blog – the first 6 months](https://wordpress.tv/2023/09/07/starting-your-wordpress-blog-the-first-6-months/)
 - [Scheduling Posts and Pages](https://wordpress.tv/2023/09/07/scheduling-posts-and-pages/)
 - [Intro to the Site Editor](https://wordpress.tv/2023/09/04/using-the-site-editor/)
 - [Contribuir al equipo de Comunidad: eventos y roles](https://wordpress.tv/2023/09/04/contribuir-al-equipo-de-comunidad-eventos-y-roles/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Metadatos en WordPress](https://wordpress.tv/2023/08/19/metadatos-en-wordpress/)
 - [Plugins que siempre has querido conocer para WP Multisite y BuddyPress](https://wordpress.tv/2023/08/19/plugins-que-siempre-has-querido-conocer-para-wp-multisite-y-buddypress/)
 - [WordPress Multilingual &lpar;enfocado al comercio electronico&rpar;](https://wordpress.tv/2023/08/19/wordpress-multilingual-enfocado-al-comercio-electronico/)
-- [Modelos de negocio basados en WordPress](https://wordpress.tv/2023/08/19/modelos-de-negocio-basados-en-wordpress/)
-- [Conoce WordPress y sácale el máximo rendimiento a tu Pyme](https://wordpress.tv/2023/08/19/conoce-wordpress-y-sacale-el-maximo-rendimiento-a-tu-pyme/)
-- [Joomla y WordPress: comunidades hermanas, objetivos comunes](https://wordpress.tv/2023/08/19/joomla-y-wordpress-comunidades-hermanas-objetivos-comunes/)
 <!-- WPTV:END -->
 
 ## Marketing
