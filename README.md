@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Formidable Forms Expert](https://jobs.wordpress.net/job/formidable-forms-expert/)
+- [Frontend WordPress Developer](https://jobs.wordpress.net/job/frontend-wordpress-developer-3/)
+- [Lead WordPress Engineer  | Remote &lpar;Latam&rpar; |  A new challenge awaits!](https://jobs.wordpress.net/job/lead-wordpress-engineer-remote-latam-a-new-challenge-awaits/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/word-press-plugin-developer-3/)
 - [WordPress Multisite and Modern JS Specialist](https://jobs.wordpress.net/job/wordpress-multisite-and-modern-js-specialist/)
 - [WordPress expert for upgrading a very old WP that doesn’t work](https://jobs.wordpress.net/job/wordpress-expert-for-upgrading-a-very-old-wp-that-doesnt-work/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-8/)
 - [Senior Full-Stack WordPress / WooCommerce Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-woocommerce-developer/)
 - [Senior WordPress Multi-Talent Developer with strong React.js, Theme.json &amp; Gutenberg experience](https://jobs.wordpress.net/job/senior-wordpress-multi-talent-developer-with-strong-react-js-theme-json-gutenberg-experience/)
-- [Web designer for personal blog &lpar;creative-academic sector&rpar;](https://jobs.wordpress.net/job/web-designer-for-personal-blog-creative-academic-sector/)
-- [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-6/)
-- [Customer Support Agent for WordPress Themes | Romania](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes-romania/)
 <!-- JOBS:END -->
 
 ## Central
