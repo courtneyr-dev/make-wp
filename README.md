@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Auto Amazon Links.](https://make.wordpress.org/polyglots/2023/09/08/pte-request-for-auto-amazon-links/)
+- [Hi! I’m attending the Contributor…](https://make.wordpress.org/polyglots/2023/09/08/hi-im-attending-the-contributor/)
+- [Dear WordPress Translation Team,](https://make.wordpress.org/polyglots/2023/09/08/dear-wordpress-translation-team/)
 - [PTE Request for My Plugins](https://make.wordpress.org/polyglots/2023/09/08/pte-request-for-my-plugins-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/09/07/hi-dear-mentors-we-have-123/)
 - [PTE Request for Two Themes](https://make.wordpress.org/polyglots/2023/09/07/pte-request-for-two-themes-2/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I suggested some strings for…](https://make.wordpress.org/polyglots/2023/09/06/i-suggested-some-strings-for/)
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/polyglots/2023/09/06/xpost-documentation-translation-localization/)
 - [PTE Request for [ASTRA]](https://make.wordpress.org/polyglots/2023/09/06/pte-request-for-astra/)
-- [GTE request for Catalan &lpar;#ca&rpar;](https://make.wordpress.org/polyglots/2023/09/06/gte-request-for-catalan-ca/)
-- [Agenda: Weekly Polyglots Chat- September 06, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/06/agenda-weekly-polyglots-chat-september-06-2023-0700-utc/)
-- [CLPTE request for Smash Balloon projects](https://make.wordpress.org/polyglots/2023/09/05/clpte-request-for-smash-balloon-projects/)
 <!-- POLYGLOTS:END -->
 
 ## Support
