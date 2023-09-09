@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-813/)
+- [Migration tool creation from one theme to another theme](https://jobs.wordpress.net/job/migration-tool-creation-from-one-theme-to-another-theme/)
+- [[Astra] R &amp; D Specialist – WordPress](https://jobs.wordpress.net/job/astra-r-d-specialist-wordpress-2/)
 - [Formidable Forms Expert](https://jobs.wordpress.net/job/formidable-forms-expert/)
 - [Frontend WordPress Developer](https://jobs.wordpress.net/job/frontend-wordpress-developer-3/)
 - [Lead WordPress Engineer  | Remote &lpar;Latam&rpar; |  A new challenge awaits!](https://jobs.wordpress.net/job/lead-wordpress-engineer-remote-latam-a-new-challenge-awaits/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Multisite and Modern JS Specialist](https://jobs.wordpress.net/job/wordpress-multisite-and-modern-js-specialist/)
 - [WordPress expert for upgrading a very old WP that doesn’t work](https://jobs.wordpress.net/job/wordpress-expert-for-upgrading-a-very-old-wp-that-doesnt-work/)
 - [WordPress developer – develop personal blog website](https://jobs.wordpress.net/job/word-press-developer-develop-personal-blog-website/)
-- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-8/)
-- [Senior Full-Stack WordPress / WooCommerce Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-woocommerce-developer/)
-- [Senior WordPress Multi-Talent Developer with strong React.js, Theme.json &amp; Gutenberg experience](https://jobs.wordpress.net/job/senior-wordpress-multi-talent-developer-with-strong-react-js-theme-json-gutenberg-experience/)
 <!-- JOBS:END -->
 
 ## Central
