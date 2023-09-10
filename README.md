@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Future of Support: Why 3 Tiers Saves Customers’ Tears](https://wordpress.tv/2023/09/10/the-future-of-support-why-3-tiers-saves-customers-tears/)
+- [You’re optimizing the wrong things](https://wordpress.tv/2023/09/10/youre-optimizing-the-wrong-things/)
+- [The Ultimate Newsroom QA: how to manage your editorial workflow like a boss](https://wordpress.tv/2023/09/10/the-ultimate-newsroom-qa-how-to-manage-your-editorial-workflow-like-a-boss-2/)
+- [Success stories of HeroPress](https://wordpress.tv/2023/09/10/success-stories-of-heropress/)
+- [Leading with Cultural Intelligence – strategies for breaking the invisible boundaries of global busi](https://wordpress.tv/2023/09/10/leading-with-cultural-intelligence-strategies-for-breaking-the-invisible-boundaries-of-global-busi/)
+- [Writing for Your Audience: Learning the Art of User Intent Content](https://wordpress.tv/2023/09/10/writing-for-your-audience-learning-the-art-of-user-intent-content/)
 - [The one sentence secret to marketing, influence and getting a yes](https://wordpress.tv/2023/09/07/the-one-sentence-secret-to-marketing-influence-and-getting-a-yes/)
 - [How Neuroscience Can Make You a Better Writer](https://wordpress.tv/2023/09/07/how-neuroscience-can-make-you-a-better-writer/)
 - [Starting your WordPress blog – the first 6 months](https://wordpress.tv/2023/09/07/starting-your-wordpress-blog-the-first-6-months/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [11 cosas &lpar;y media&rpar; que hubiera querido saber sobre programación y WordPress cuando comencé](https://wordpress.tv/2023/08/23/11-cosas-y-media-que-hubiera-querido-saber-sobre-programacion-y-wordpress-cuando-comence/)
 - [Buenas prácticas para extender proyectos con WordPress](https://wordpress.tv/2023/08/23/buenas-practicas-para-extender-proyectos-con-wordpress/)
 - [Los mejores trucos para escribir tu página de venta](https://wordpress.tv/2023/08/23/los-mejores-trucos-para-escribir-tu-pagina-de-venta/)
-- [Crea Schemas SEO sin plugins](https://wordpress.tv/2023/08/23/crea-schemas-seo-sin-plugins/)
-- [What’s new for developers? &lpar;August 2023&rpar;](https://wordpress.tv/2023/08/22/whats-new-for-developers-august-2023/)
-- [Trabajando en Comunidad: WordPress desde dentro](https://wordpress.tv/2023/08/19/trabajando-en-comunidad-wordpress-desde-dentro/)
-- [Metadatos en WordPress](https://wordpress.tv/2023/08/19/metadatos-en-wordpress/)
-- [Plugins que siempre has querido conocer para WP Multisite y BuddyPress](https://wordpress.tv/2023/08/19/plugins-que-siempre-has-querido-conocer-para-wp-multisite-y-buddypress/)
-- [WordPress Multilingual &lpar;enfocado al comercio electronico&rpar;](https://wordpress.tv/2023/08/19/wordpress-multilingual-enfocado-al-comercio-electronico/)
 <!-- WPTV:END -->
 
 ## Marketing
