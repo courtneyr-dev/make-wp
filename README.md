@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Complex Shipping Logic with Shipping Tables – Enter Once and Use Many Times](https://jobs.wordpress.net/job/complex-shipping-logic-with-shipping-tables-enter-once-and-use-many-times/)
 - [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-813/)
 - [Migration tool creation from one theme to another theme](https://jobs.wordpress.net/job/migration-tool-creation-from-one-theme-to-another-theme/)
 - [[Astra] R &amp; D Specialist – WordPress](https://jobs.wordpress.net/job/astra-r-d-specialist-wordpress-2/)
-- [Formidable Forms Expert](https://jobs.wordpress.net/job/formidable-forms-expert/)
 <!-- JOBS:END -->
 
 ## Central
