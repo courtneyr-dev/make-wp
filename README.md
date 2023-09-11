@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx/)
+- [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html/)
+- [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing/)
 - [Junior / Senior WordPress Developer](https://jobs.wordpress.net/job/junior-senior-wordpress-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-813/)
 - [Migration tool creation from one theme to another theme](https://jobs.wordpress.net/job/migration-tool-creation-from-one-theme-to-another-theme/)
 - [[Astra] R &amp; D Specialist – WordPress](https://jobs.wordpress.net/job/astra-r-d-specialist-wordpress-2/)
 - [Formidable Forms Expert](https://jobs.wordpress.net/job/formidable-forms-expert/)
-- [Frontend WordPress Developer](https://jobs.wordpress.net/job/frontend-wordpress-developer-3/)
-- [Lead WordPress Engineer  | Remote &lpar;Latam&rpar; |  A new challenge awaits!](https://jobs.wordpress.net/job/lead-wordpress-engineer-remote-latam-a-new-challenge-awaits/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/word-press-plugin-developer-3/)
-- [WordPress Multisite and Modern JS Specialist](https://jobs.wordpress.net/job/wordpress-multisite-and-modern-js-specialist/)
-- [WordPress expert for upgrading a very old WP that doesn’t work](https://jobs.wordpress.net/job/wordpress-expert-for-upgrading-a-very-old-wp-that-doesnt-work/)
 <!-- JOBS:END -->
 
 ## Central
