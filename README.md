@@ -232,6 +232,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intro to the Site Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 - [વર્ડપ્રેસ પ્લેગ્રાઉન્ડનો ઉપયોગ કેવી રીતે શરૂ કરવો](https://learn.wordpress.org/tutorial/gu-how-to-start-using-wordpress-playground/)
 - [Common APIs – Dashboard Widgets](https://learn.wordpress.org/tutorial/common-apis-dashboard-widgets/)
+- [Entradas vs. Páginas: ¿En qué se diferencian?](https://learn.wordpress.org/tutorial/es-posts-vs-pages-whats-the-difference/)
 - [How to create a video tutorial for learn.wordpress.org](https://learn.wordpress.org/tutorial/how-to-create-a-video-tutorial-for-learn-wordpress-org/)
 - [Embedding media and third-party content on your website](https://learn.wordpress.org/tutorial/embedding-media-and-third-party-content-on-your-website/)
 - [Testing your plugins for PHP version compatibility](https://learn.wordpress.org/tutorial/testing-your-plugins-for-php-version-compatibility/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to use headings for accessibility and SEO](https://learn.wordpress.org/tutorial/using-headings-for-accessibility-and-seo/)
 - [Advanced Multisite Management](https://learn.wordpress.org/tutorial/advanced-multisite-management/)
 - [Différences entre blocs réutilisables, compositions de blocs, modèles et éléments de modèle](https://learn.wordpress.org/tutorial/fr-the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
-- [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
