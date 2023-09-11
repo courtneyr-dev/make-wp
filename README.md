@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 5th September 2023](https://make.wordpress.org/training/2023/09/11/training-team-meeting-recap-5th-september-2023/)
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/training/2023/09/06/xpost-documentation-translation-localization/)
 - [WordCamp US 2023 Contributor Day Recap](https://make.wordpress.org/training/2023/09/05/wordcamp-us-2023-contributor-day-recap/)
 - [Let’s share our notes from the Community Summit](https://make.wordpress.org/training/2023/09/05/lets-share-our-notes-from-the-community-summit/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/training/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [Training Team Meeting Recap – 8th August 2023](https://make.wordpress.org/training/2023/08/14/training-team-meeting-recap-8th-august-2023/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/training/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
-- [WCUS Contributor Day: Tutorials Workshop &lpar;In-Person &amp; Remote&rpar;](https://make.wordpress.org/training/2023/08/04/wcus-contributor-day-tutorials-workshop-in-person-remote/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
