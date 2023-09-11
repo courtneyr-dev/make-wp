@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [The Month in WordPress – August 2023](https://wordpress.org/news/2023/09/the-month-in-wordpress-august-2023/)
 - [WP Briefing: Episode 61: Community, Summit, all at  Washington D.C.](https://wordpress.org/news/2023/09/episode-61-community-summit-all-at-washington-d-c/)
 - [WordPress 6.3.1 Maintenance Release](https://wordpress.org/news/2023/08/wordpress-6-3-1-maintenance-release/)
 - [The Future of WordPress &amp; What’s Next for Gutenberg](https://wordpress.org/news/2023/08/the-future-of-wordpress-whats-next-for-gutenberg/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.3 Release Candidate 3](https://wordpress.org/news/2023/08/wordpress-6-3-rc3/)
 - [People of WordPress: Ihtisham Zahoor](https://wordpress.org/news/2023/07/people-of-wordpress-ihtisham-zahoor/)
 - [Synced Patterns: The Evolution of Reusable Blocks](https://wordpress.org/news/2023/07/synced-patterns-the-evolution-of-reusable-blocks/)
-- [WordPress 6.3 Release Candidate 2](https://wordpress.org/news/2023/07/wordpress-6-3-release-candidate-2/)
 <!-- NEWS:END -->
 
 ## Jobs
