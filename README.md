@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to contribute to WordPress by just being helpful](https://wordpress.tv/2023/09/11/how-to-contribute-to-wordpress-by-just-being-helpful/)
 - [AMA – Ask Matt Anything](https://wordpress.tv/2023/09/10/ama-ask-matt-anything/)
 - [Understanding Your Customer: Turning Empathy and Data into Solutions and Growth](https://wordpress.tv/2023/09/10/understanding-your-customer-turning-empathy-and-data-into-solutions-and-growth/)
 - [Optimizing Core Web Vitals for your WordPress website](https://wordpress.tv/2023/09/10/optimizing-core-web-vitals-for-your-wordpress-website/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ten Minutes on Five for the Future: A commitment to WordPress and the Open Web](https://wordpress.tv/2023/09/10/ten-minutes-on-five-for-the-future-a-commitment-to-wordpress-and-the-open-web/)
 - [Building WordPress Communities in Your Country](https://wordpress.tv/2023/09/10/building-wordpress-communities-in-your-country/)
 - [Successfully Marrying Open Source and Large MarTech Stacks](https://wordpress.tv/2023/09/10/successfully-marrying-open-source-and-large-martech-stacks/)
-- [The Secret Life of Fonts](https://wordpress.tv/2023/09/10/the-secret-life-of-fonts/)
 <!-- WPTV:END -->
 
 ## Marketing
