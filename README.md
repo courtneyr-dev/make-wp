@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Core Editor Improvement: Commanding the Command Palette](https://make.wordpress.org/core/2023/09/12/core-editor-improvement-commanding-the-command-palette/)
 - [Editor Chat Summary: 06 September 2023](https://make.wordpress.org/core/2023/09/09/editor-chat-summary-06-september-2023/)
 - [Evolving the FSE Outreach Program](https://make.wordpress.org/core/2023/09/07/evolving-the-fse-outreach-program/)
 - [Default Theme chat summary: September 6, 2023](https://make.wordpress.org/core/2023/09/06/default-theme-chat-summary-august-30th-2023-2/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Default Theme Chat Agenda: September 6th, 2023](https://make.wordpress.org/core/2023/09/05/default-theme-chat-agenda-september-6th-2023/)
 - [Performance Chat Summary: 5 September 2023](https://make.wordpress.org/core/2023/09/05/performance-chat-summary-05-september-2023/)
 - [Performance Chat Agenda: 5 September 2023](https://make.wordpress.org/core/2023/09/05/performance-chat-agenda-05-september-2023/)
-- [Call for Testing: Performant Translations](https://make.wordpress.org/core/2023/09/05/call-for-testing-performant-translations/)
 <!-- CORE:END -->
 
 ## Design
