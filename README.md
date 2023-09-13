@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Accessibility office hours](https://make.wordpress.org/design/2023/09/13/xpost-accessibility-office-hours/)
 - [Design Share: Aug 28-Sep8](https://make.wordpress.org/design/2023/09/11/design-share-aug-28-sep8/)
 - [Design Share: Aug 14-Aug 25](https://make.wordpress.org/design/2023/08/28/design-share-aug-14-aug-25/)
 - [Bringing Back the Weekly Design Triage](https://make.wordpress.org/design/2023/08/18/design-specific-triage/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share: Jun 19–Jun 30](https://make.wordpress.org/design/2023/07/03/design-share-jun-19-jun-30/)
 - [Design Share: Jun 5–Jun 16](https://make.wordpress.org/design/2023/06/19/design-share-jun-5-jun-16/)
 - [Design Share: May 22–Jun 2](https://make.wordpress.org/design/2023/06/06/design-share-may-22-jun-2/)
-- [WordPress 6.3 design kickoff](https://make.wordpress.org/design/2023/05/25/wordpress-6-3-design-kickoff/)
 <!-- DESIGN:END -->
 
 ## Mobile
