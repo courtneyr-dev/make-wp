@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Creating your own custom synced or non-synced patterns](https://learn.wordpress.org/tutorial/creating-your-own-custom-synced-or-non-synced-patterns/)
 - [Scheduling posts and pages](https://learn.wordpress.org/tutorial/scheduling-posts-and-pages/)
 - [Intro to the Site Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 - [વર્ડપ્રેસ પ્લેગ્રાઉન્ડનો ઉપયોગ કેવી રીતે શરૂ કરવો](https://learn.wordpress.org/tutorial/gu-how-to-start-using-wordpress-playground/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the block editor: Tips and shortcuts for efficiency](https://learn.wordpress.org/tutorial/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
 - [How to use headings for accessibility and SEO](https://learn.wordpress.org/tutorial/using-headings-for-accessibility-and-seo/)
 - [Advanced Multisite Management](https://learn.wordpress.org/tutorial/advanced-multisite-management/)
-- [Différences entre blocs réutilisables, compositions de blocs, modèles et éléments de modèle](https://learn.wordpress.org/tutorial/fr-the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
