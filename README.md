@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ElementsKit Elementor…](https://make.wordpress.org/polyglots/2023/09/13/pte-request-for-elementskit-elementor/)
 - [Agenda: Weekly Polyglots Chat – September 13, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/13/agenda-weekly-polyglots-chat-september-13-2023-1300-utc/)
 - [PTE Request for ConvertKit –…](https://make.wordpress.org/polyglots/2023/09/12/pte-request-for-convertkit/)
 - [PTE Request for Responsive Blocks…](https://make.wordpress.org/polyglots/2023/09/11/pte-request-for-responsive-blocks/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Contact Form…](https://make.wordpress.org/polyglots/2023/09/08/pte-request-for-contact-form-3/)
 - [PTE Request for Auto Amazon Links.](https://make.wordpress.org/polyglots/2023/09/08/pte-request-for-auto-amazon-links/)
 - [Hi! I’m attending the Contributor…](https://make.wordpress.org/polyglots/2023/09/08/hi-im-attending-the-contributor/)
-- [Dear WordPress Translation Team,](https://make.wordpress.org/polyglots/2023/09/08/dear-wordpress-translation-team/)
 <!-- POLYGLOTS:END -->
 
 ## Support
