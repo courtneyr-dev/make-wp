@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://wordpress.tv/2023/09/12/how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team/)
 - [Using the navigation block](https://wordpress.tv/2023/09/12/using-the-navigation-block-3/)
 - [How to contribute to WordPress by just being helpful](https://wordpress.tv/2023/09/11/how-to-contribute-to-wordpress-by-just-being-helpful/)
 - [AMA – Ask Matt Anything](https://wordpress.tv/2023/09/10/ama-ask-matt-anything/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hiring Fresh Graduates to WordPress Content Marketing Jobs – Opportunities, Challenges, and a Way](https://wordpress.tv/2023/09/10/hiring-fresh-graduates-to-wordpress-content-marketing-jobs-opportunities-challenges-and-a-way/)
 - [Case Study: A #nocode Contributor Journey on the WordPress Gutenberg GitHub Repo](https://wordpress.tv/2023/09/10/case-study-a-nocode-contributor-journey-on-the-wordpress-gutenberg-github-repo/)
 - [Ten Minutes on Five for the Future: A commitment to WordPress and the Open Web](https://wordpress.tv/2023/09/10/ten-minutes-on-five-for-the-future-a-commitment-to-wordpress-and-the-open-web/)
-- [Building WordPress Communities in Your Country](https://wordpress.tv/2023/09/10/building-wordpress-communities-in-your-country/)
 <!-- WPTV:END -->
 
 ## Marketing
