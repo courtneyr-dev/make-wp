@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Loco Translate](https://make.wordpress.org/polyglots/2023/09/14/pte-request-for-loco-translate-4/)
 - [Hi, I suggested French &lpar;fr_FR&rpar;…](https://make.wordpress.org/polyglots/2023/09/13/hi-i-suggested-french-fr_fr/)
 - [PTE Request for ElementsKit Elementor…](https://make.wordpress.org/polyglots/2023/09/13/pte-request-for-elementskit-elementor/)
 - [Agenda: Weekly Polyglots Chat – September 13, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/13/agenda-weekly-polyglots-chat-september-13-2023-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2023/09/09/pte-request-for-two-plugins-4/)
 - [PTE Request for Björk Theme](https://make.wordpress.org/polyglots/2023/09/09/pte-request-for-bjork-theme/)
 - [PTE Request for Contact Form…](https://make.wordpress.org/polyglots/2023/09/08/pte-request-for-contact-form-3/)
-- [PTE Request for Auto Amazon Links.](https://make.wordpress.org/polyglots/2023/09/08/pte-request-for-auto-amazon-links/)
 <!-- POLYGLOTS:END -->
 
 ## Support
