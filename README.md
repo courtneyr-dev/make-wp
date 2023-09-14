@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Openverse Wins the 2023 OEG Open Infrastructure Award](https://wordpress.org/news/2023/09/openverse-wins-the-2023-oeg-open-infrastructure-award/)
 - [The Month in WordPress – August 2023](https://wordpress.org/news/2023/09/the-month-in-wordpress-august-2023/)
 - [WP Briefing: Episode 61: Community, Summit, all at  Washington D.C.](https://wordpress.org/news/2023/09/episode-61-community-summit-all-at-washington-d-c/)
 - [WordPress 6.3.1 Maintenance Release](https://wordpress.org/news/2023/08/wordpress-6-3-1-maintenance-release/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Concerns over the European Union’s Cyber Resilience Act &lpar;CRA&rpar;](https://wordpress.org/news/2023/08/concerns-over-the-european-unions-cyber-resilience-act-cra/)
 - [WordPress 6.3 Release Candidate 3](https://wordpress.org/news/2023/08/wordpress-6-3-rc3/)
 - [People of WordPress: Ihtisham Zahoor](https://wordpress.org/news/2023/07/people-of-wordpress-ihtisham-zahoor/)
-- [Synced Patterns: The Evolution of Reusable Blocks](https://wordpress.org/news/2023/07/synced-patterns-the-evolution-of-reusable-blocks/)
 <!-- NEWS:END -->
 
 ## Jobs
