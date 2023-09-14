@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Hallway Hangout: Let’s explore the power of block variations](https://wordpress.tv/2023/09/14/hallway-hangout-lets-explore-the-power-of-block-variations/)
 - [The WordPress database](https://wordpress.tv/2023/09/14/the-wordpress-database-2/)
 - [Common WordPress APIs: HTTP Request API](https://wordpress.tv/2023/09/14/common-wordpress-apis-http-request-api/)
 - [Creating your own custom synced or non-synced patterns](https://wordpress.tv/2023/09/12/creating-your-own-custom-synced-or-non-synced-patterns/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Automating QA through Visual Regression Testing](https://wordpress.tv/2023/09/10/automating-qa-through-visual-regression-testing/)
 - [How you can contribute Localized content to the Learn WordPress site](https://wordpress.tv/2023/09/10/how-you-can-contribute-localized-content-to-the-learn-wordpress-site/)
 - [Career Detour: From the Medical Field to WordPress](https://wordpress.tv/2023/09/10/career-detour-from-the-medical-field-to-wordpress/)
-- [Non-Technical Career Options in the WordPress Market](https://wordpress.tv/2023/09/10/non-technical-career-options-in-the-wordpress-market/)
 <!-- WPTV:END -->
 
 ## Marketing
