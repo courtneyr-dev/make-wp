@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The WordPress database](https://wordpress.tv/2023/09/14/the-wordpress-database-2/)
 - [Common WordPress APIs: HTTP Request API](https://wordpress.tv/2023/09/14/common-wordpress-apis-http-request-api/)
 - [Creating your own custom synced or non-synced patterns](https://wordpress.tv/2023/09/12/creating-your-own-custom-synced-or-non-synced-patterns/)
 - [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://wordpress.tv/2023/09/12/how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How you can contribute Localized content to the Learn WordPress site](https://wordpress.tv/2023/09/10/how-you-can-contribute-localized-content-to-the-learn-wordpress-site/)
 - [Career Detour: From the Medical Field to WordPress](https://wordpress.tv/2023/09/10/career-detour-from-the-medical-field-to-wordpress/)
 - [Non-Technical Career Options in the WordPress Market](https://wordpress.tv/2023/09/10/non-technical-career-options-in-the-wordpress-market/)
-- [Hiring Fresh Graduates to WordPress Content Marketing Jobs – Opportunities, Challenges, and a Way](https://wordpress.tv/2023/09/10/hiring-fresh-graduates-to-wordpress-content-marketing-jobs-opportunities-challenges-and-a-way/)
 <!-- WPTV:END -->
 
 ## Marketing
