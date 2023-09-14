@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Hallway Hangout: Let’s chat about improving accessibility in the Site Editor](https://make.wordpress.org/core/2023/09/14/xpost-hallway-hangout-lets-chat-about-improving-accessibility-in-the-site-editor/)
 - [Fields API Chat Summary: September 13th, 2023](https://make.wordpress.org/core/2023/09/14/fields-api-progress-summary-wcus-contributor-day-2023-2/)
 - [X-post: Accessibility office hours](https://make.wordpress.org/core/2023/09/13/xpost-accessibility-office-hours/)
 - [Default Theme Chat Agenda: September 13th, 2023](https://make.wordpress.org/core/2023/09/12/default-theme-chat-agenda-september-13th-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: September 13th 2023](https://make.wordpress.org/core/2023/09/12/editor-chat-agenda-september-13th-2023/)
 - [Performance Chat Agenda: 12 September 2023](https://make.wordpress.org/core/2023/09/12/performance-chat-agenda-12-september-2023/)
 - [Core Editor Improvement: Commanding the Command Palette](https://make.wordpress.org/core/2023/09/12/core-editor-improvement-commanding-the-command-palette/)
-- [Editor Chat Summary: 06 September 2023](https://make.wordpress.org/core/2023/09/09/editor-chat-summary-06-september-2023/)
 <!-- CORE:END -->
 
 ## Design
