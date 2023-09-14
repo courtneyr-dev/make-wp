@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Common WordPress APIs – HTTP Request API](https://learn.wordpress.org/?meeting=common-wordpress-apis-http-request-api)
 - [APAC: Creating custom patterns: synced or non-synced](https://learn.wordpress.org/?meeting=apac-creating-custom-patterns-synced-or-non-synced)
 - [Creating custom patterns: synced or non-synced](https://learn.wordpress.org/?meeting=creating-custom-patterns-synced-or-non-synced)
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account-4)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new for developers? &lpar;August 2023&rpar;](https://learn.wordpress.org/?meeting=whats-new-for-developers-august-2023)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-12)
 - [Training Team Contributor Hour](https://learn.wordpress.org/?meeting=training-team-contributor-hour)
-- [Website auditing and conversion optimization](https://learn.wordpress.org/?meeting=website-auditing-and-conversion-optimization)
 <!-- SLS:END -->
 
 ## Test
