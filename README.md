@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-814/)
+- [Help with Travel Blog](https://jobs.wordpress.net/job/help-with-travel-blog/)
+- [Website design](https://jobs.wordpress.net/job/website-design-14/)
 - [Lead WordPress Engineer | Remote &lpar;Latam &amp; Canada&rpar; | A new challenge awaits!](https://jobs.wordpress.net/job/lead-wordpress-engineer-remote-latam-canada-a-new-challenge-awaits/)
 - [Frontend WordPress Developer Wanted](https://jobs.wordpress.net/job/frontend-wordpress-developer-wanted/)
 - [Update WP website to latest PHP &amp; WordPress](https://jobs.wordpress.net/job/update-wp-website-to-latest-php-wordpress/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html/)
-- [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing/)
-- [Junior / Senior WordPress Developer](https://jobs.wordpress.net/job/junior-senior-wordpress-developer/)
 <!-- JOBS:END -->
 
 ## Central
