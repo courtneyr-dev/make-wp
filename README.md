@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Theme Handbook Overhaul: Phase 3 &lpar;Publishing Content&rpar;](https://make.wordpress.org/themes/2023/09/15/theme-handbook-overhaul-phase-3-publishing-content/)
 - [X-post: Hallway Hangout: What’s new for developers in WordPress 6.4](https://make.wordpress.org/themes/2023/09/14/xpost-hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
 - [Themes Team Meeting Notes – September 12, 2023](https://make.wordpress.org/themes/2023/09/13/themes-team-meeting-notes-september-12-2023/)
 - [X-post: Default Theme Chat Agenda: September 13th, 2023](https://make.wordpress.org/themes/2023/09/12/xpost-default-theme-chat-agenda-september-13th-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Default Theme chat summary: August 30th, 2023](https://make.wordpress.org/themes/2023/08/30/xpost-default-theme-chat-summary-august-30th-2023/)
 - [X-post: Default Theme Chat Agenda: August 30th, 2023](https://make.wordpress.org/themes/2023/08/29/xpost-default-theme-chat-agenda-august-30th-2023/)
 - [X-post: Community Summit Discussion Notes: Improving maintenance of older default themes](https://make.wordpress.org/themes/2023/08/26/xpost-community-summit-discussion-notes-improving-maintenance-of-older-default-themes/)
-- [X-post: Introducing Twenty Twenty-Four](https://make.wordpress.org/themes/2023/08/24/xpost-introducing-twenty-twenty-four/)
 <!-- THEMES:END -->
 
 ## Plugins
