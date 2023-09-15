@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE requests in several plugins](https://make.wordpress.org/polyglots/2023/09/15/pte-requests-in-several-plugins/)
 - [PTE Request for Drag &amp; Drop Menu Items](https://make.wordpress.org/polyglots/2023/09/14/pte-request-for-drag-drop-menu-items/)
 - [PTE Request for Loco Translate](https://make.wordpress.org/polyglots/2023/09/14/pte-request-for-loco-translate-4/)
 - [Hi, I suggested French &lpar;fr_FR&rpar;…](https://make.wordpress.org/polyglots/2023/09/13/hi-i-suggested-french-fr_fr/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Responsive Blocks…](https://make.wordpress.org/polyglots/2023/09/11/pte-request-for-responsive-blocks/)
 - [PTE Request for BuddyPress. I’ve…](https://make.wordpress.org/polyglots/2023/09/11/pte-request-for-buddypress-ive-2/)
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2023/09/09/pte-request-for-two-plugins-4/)
-- [PTE Request for Björk Theme](https://make.wordpress.org/polyglots/2023/09/09/pte-request-for-bjork-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
