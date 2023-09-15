@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Web site developer](https://jobs.wordpress.net/job/web-site-developer-2/)
+- [Complete Website Redevelopment](https://jobs.wordpress.net/job/complete-website-redevelopment/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-814/)
 - [Help with Travel Blog](https://jobs.wordpress.net/job/help-with-travel-blog/)
 - [Website design](https://jobs.wordpress.net/job/website-design-14/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Update WP website to latest PHP &amp; WordPress](https://jobs.wordpress.net/job/update-wp-website-to-latest-php-wordpress/)
 - [Complex Shipping Logic with Shipping Tables – Enter Once and Use Many Times](https://jobs.wordpress.net/job/complex-shipping-logic-with-shipping-tables-enter-once-and-use-many-times/)
 - [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx/)
-- [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html/)
 <!-- JOBS:END -->
 
 ## Central
