@@ -342,12 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://wordpress.tv/2023/09/16/how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team/)
 - [Getting Started with a WordPress.org Account](https://wordpress.tv/2023/09/14/getting-started-with-a-wordpress-org-account-2/)
 - [Hallway Hangout: Let’s explore the power of block variations](https://wordpress.tv/2023/09/14/hallway-hangout-lets-explore-the-power-of-block-variations/)
 - [The WordPress database](https://wordpress.tv/2023/09/14/the-wordpress-database-2/)
 - [Common WordPress APIs: HTTP Request API](https://wordpress.tv/2023/09/14/common-wordpress-apis-http-request-api/)
 - [Creating your own custom synced or non-synced patterns](https://wordpress.tv/2023/09/12/creating-your-own-custom-synced-or-non-synced-patterns/)
-- [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://wordpress.tv/2023/09/12/how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team/)
 - [Using the navigation block](https://wordpress.tv/2023/09/12/using-the-navigation-block-3/)
 - [How to contribute to WordPress by just being helpful](https://wordpress.tv/2023/09/11/how-to-contribute-to-wordpress-by-just-being-helpful/)
 - [AMA – Ask Matt Anything](https://wordpress.tv/2023/09/10/ama-ask-matt-anything/)
