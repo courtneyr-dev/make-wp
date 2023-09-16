@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Remote SEO Consultant](https://jobs.wordpress.net/job/remote-seo-consultant/)
+- [Marketing Copywriter &lpar;remote&rpar;](https://jobs.wordpress.net/job/marketing-copywriter-remote-2/)
 - [Web site developer](https://jobs.wordpress.net/job/web-site-developer-2/)
 - [Complete Website Redevelopment](https://jobs.wordpress.net/job/complete-website-redevelopment/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-814/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lead WordPress Engineer | Remote &lpar;Latam &amp; Canada&rpar; | A new challenge awaits!](https://jobs.wordpress.net/job/lead-wordpress-engineer-remote-latam-canada-a-new-challenge-awaits/)
 - [Frontend WordPress Developer Wanted](https://jobs.wordpress.net/job/frontend-wordpress-developer-wanted/)
 - [Update WP website to latest PHP &amp; WordPress](https://jobs.wordpress.net/job/update-wp-website-to-latest-php-wordpress/)
-- [Complex Shipping Logic with Shipping Tables – Enter Once and Use Many Times](https://jobs.wordpress.net/job/complex-shipping-logic-with-shipping-tables-enter-once-and-use-many-times/)
-- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx/)
 <!-- JOBS:END -->
 
 ## Central
