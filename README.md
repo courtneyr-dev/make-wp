@@ -342,6 +342,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nora Ferreirós: Contidos e marca: como manter a coherencia visual](https://wordpress.tv/2023/09/17/nora-ferreiros-contidos-e-marca-como-manter-a-coherencia-visual/)
+- [Viviana Otero: Optimización SEO y testing: pasos imprescindibles antes de lanzar tu sitio web](https://wordpress.tv/2023/09/17/viviana-otero-optimizacion-seo-y-testing-pasos-imprescindibles-antes-de-lanzar-tu-sitio-web/)
+- [Yolanda Pazos: Pierde el miedo a la cámara y crea tu primer contenido en vídeo](https://wordpress.tv/2023/09/17/yolanda-pazos-pierde-el-miedo-a-la-camara-y-crea-tu-primer-contenido-en-video/)
+- [Xabier Martínez Rolán: Se Berners Lee tivese que deseñar a web en 2023, non o faría de todos os xeitos](https://wordpress.tv/2023/09/17/xabier-martinez-rolan-se-berners-lee-tivese-que-desenar-a-web-en-2023-non-o-faria-de-todos-os-xeitos/)
+- [Fernando López: Estudio de caso real: Cómo un negocio local alcanzó las primeras posiciones SEO en 5 meses](https://wordpress.tv/2023/09/17/fernando-lopez-estudio-de-caso-real-como-un-negocio-local-alcanzo-las-primeras-posiciones-seo-en-5-meses/)
+- [Jorge González: Block Protocol – facendo bloques para todos](https://wordpress.tv/2023/09/17/jorge-gonzalez-block-protocol-facendo-bloques-para-todos/)
+- [Ana Cirujano: Lorem ipsum dolor sit amet](https://wordpress.tv/2023/09/17/ana-cirujano-lorem-ipsum-dolor-sit-amet/)
 - [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://wordpress.tv/2023/09/16/how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team/)
 - [Getting Started with a WordPress.org Account](https://wordpress.tv/2023/09/14/getting-started-with-a-wordpress-org-account-2/)
 - [Hallway Hangout: Let’s explore the power of block variations](https://wordpress.tv/2023/09/14/hallway-hangout-lets-explore-the-power-of-block-variations/)
@@ -360,13 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Stepping Back To Move Forward](https://wordpress.tv/2023/09/10/stepping-back-to-move-forward-2/)
 - [How the Psychological imbalance among the commoners during the Pandemic has radically forced to chan](https://wordpress.tv/2023/09/10/how-the-psychological-imbalance-among-the-commoners-during-the-pandemic-has-radically-forced-to-chan/)
 - [Layout, Layout, Layout](https://wordpress.tv/2023/09/10/layout-layout-layout/)
-- [Colour is an opinion](https://wordpress.tv/2023/09/10/colour-is-an-opinion/)
-- [How can theme developers monetize in the era of Block Themes?](https://wordpress.tv/2023/09/10/how-can-theme-developers-monetize-in-the-era-of-block-themes/)
-- [Is learning React necessary for Block development?](https://wordpress.tv/2023/09/10/is-learning-react-necessary-for-block-development/)
-- [Mastering in Theme.json](https://wordpress.tv/2023/09/10/mastering-in-theme-json/)
-- [Why you don’t need Progressive Web App for WordPress](https://wordpress.tv/2023/09/10/why-you-dont-need-progressive-web-app-for-wordpress/)
-- [Automating QA through Visual Regression Testing](https://wordpress.tv/2023/09/10/automating-qa-through-visual-regression-testing/)
-- [How you can contribute Localized content to the Learn WordPress site](https://wordpress.tv/2023/09/10/how-you-can-contribute-localized-content-to-the-learn-wordpress-site/)
 <!-- WPTV:END -->
 
 ## Marketing
