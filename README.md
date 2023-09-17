@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Customer Reviews](https://make.wordpress.org/polyglots/2023/09/17/pte-request-for-customer-reviews-2/)
+- [Hi,](https://make.wordpress.org/polyglots/2023/09/17/hi-103/)
 - [PTE requests in several plugins](https://make.wordpress.org/polyglots/2023/09/15/pte-requests-in-several-plugins/)
 - [PTE Request for Drag &amp; Drop Menu Items](https://make.wordpress.org/polyglots/2023/09/14/pte-request-for-drag-drop-menu-items/)
 - [PTE Request for Loco Translate](https://make.wordpress.org/polyglots/2023/09/14/pte-request-for-loco-translate-4/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – September 13, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/13/agenda-weekly-polyglots-chat-september-13-2023-1300-utc/)
 - [PTE Request for ConvertKit –…](https://make.wordpress.org/polyglots/2023/09/12/pte-request-for-convertkit/)
 - [PTE Request for Responsive Blocks…](https://make.wordpress.org/polyglots/2023/09/11/pte-request-for-responsive-blocks/)
-- [PTE Request for BuddyPress. I’ve…](https://make.wordpress.org/polyglots/2023/09/11/pte-request-for-buddypress-ive-2/)
-- [PTE Request for two plugins](https://make.wordpress.org/polyglots/2023/09/09/pte-request-for-two-plugins-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
