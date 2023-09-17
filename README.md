@@ -342,6 +342,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Lidia Marbán: Equipo multidisciplinar con más de 20 años de experiencia en el sector…](https://wordpress.tv/2023/09/17/lidia-marban-equipo-multidisciplinar-con-mas-de-20-anos-de-experiencia-en-el-sector/)
+- [David Cuesta: Cómo aplicar el SEO on page a tus contenidos para que resulten ÚTILES](https://wordpress.tv/2023/09/17/david-cuesta-como-aplicar-el-seo-on-page-a-tus-contenidos-para-que-resulten-utiles/)
+- [Brenda Alonso: Elimina tus bloqueos a la hora de generar contenido con herramientas de Inteligencia artificial](https://wordpress.tv/2023/09/17/brenda-alonso-elimina-tus-bloqueos-a-la-hora-de-generar-contenido-con-herramientas-de-inteligencia-artificial/)
+- [Flavia Bernárdez Rodríguez: Batch images generator. Una línea en una hoja de cálculo, muchas gráfica](https://wordpress.tv/2023/09/17/flavia-bernardez-rodriguez-batch-images-generator-una-linea-en-una-hoja-de-calculo-muchas-grafica/)
+- [Leo Menéndez: 5 podcast para potenciar tus contenidos](https://wordpress.tv/2023/09/17/leo-menendez-5-podcast-para-potenciar-tus-contenidos/)
+- [Estela Rueda: La documentación de WordPress, es solo para los WordPressers y no para los clientes, o sí?](https://wordpress.tv/2023/09/17/estela-rueda-la-documentacion-de-wordpress-es-solo-para-los-wordpressers-y-no-para-los-clientes-o-si/)
+- [Vicent Sanchis Jurado: Cómo subtitular y traducir vídeos en lenguas cooficiales](https://wordpress.tv/2023/09/17/vicent-sanchis-jurado-como-subtitular-y-traducir-videos-en-lenguas-cooficiales/)
 - [Nando Pappalardo: ¿Cómo multiplicar tus ventas por 10 utilizando la paradoja de la elección?](https://wordpress.tv/2023/09/17/nando-pappalardo-como-multiplicar-tus-ventas-por-10-utilizando-la-paradoja-de-la-eleccion/)
 - [Núria Ramoneda: Crear contenidos semánticos: la importancia de marcar el contenido adecuadamente](https://wordpress.tv/2023/09/17/nuria-ramoneda-crear-contenidos-semanticos-la-importancia-de-marcar-el-contenido-adecuadamente/)
 - [Manolo Rodríguez: Cómo distribuir nuestro contenido en más de 15 plataformas y llegar a más de 100.000 pers. sin pagar](https://wordpress.tv/2023/09/17/manolo-rodriguez-como-distribuir-nuestro-contenido-en-mas-de-15-plataformas-y-llegar-a-mas-de-100-000-pers-sin-pagar/)
@@ -360,13 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jorge González: Block Protocol – facendo bloques para todos](https://wordpress.tv/2023/09/17/jorge-gonzalez-block-protocol-facendo-bloques-para-todos/)
 - [Ana Cirujano: Lorem ipsum dolor sit amet](https://wordpress.tv/2023/09/17/ana-cirujano-lorem-ipsum-dolor-sit-amet/)
 - [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://wordpress.tv/2023/09/16/how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team/)
-- [Getting Started with a WordPress.org Account](https://wordpress.tv/2023/09/14/getting-started-with-a-wordpress-org-account-2/)
-- [Hallway Hangout: Let’s explore the power of block variations](https://wordpress.tv/2023/09/14/hallway-hangout-lets-explore-the-power-of-block-variations/)
-- [The WordPress database](https://wordpress.tv/2023/09/14/the-wordpress-database-2/)
-- [Common WordPress APIs: HTTP Request API](https://wordpress.tv/2023/09/14/common-wordpress-apis-http-request-api/)
-- [Creating your own custom synced or non-synced patterns](https://wordpress.tv/2023/09/12/creating-your-own-custom-synced-or-non-synced-patterns/)
-- [Using the navigation block](https://wordpress.tv/2023/09/12/using-the-navigation-block-3/)
-- [How to contribute to WordPress by just being helpful](https://wordpress.tv/2023/09/11/how-to-contribute-to-wordpress-by-just-being-helpful/)
 <!-- WPTV:END -->
 
 ## Marketing
