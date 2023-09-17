@@ -342,6 +342,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nando Pappalardo: ¿Cómo multiplicar tus ventas por 10 utilizando la paradoja de la elección?](https://wordpress.tv/2023/09/17/nando-pappalardo-como-multiplicar-tus-ventas-por-10-utilizando-la-paradoja-de-la-eleccion/)
+- [Núria Ramoneda: Crear contenidos semánticos: la importancia de marcar el contenido adecuadamente](https://wordpress.tv/2023/09/17/nuria-ramoneda-crear-contenidos-semanticos-la-importancia-de-marcar-el-contenido-adecuadamente/)
+- [Manolo Rodríguez: Cómo distribuir nuestro contenido en más de 15 plataformas y llegar a más de 100.000 pers. sin pagar](https://wordpress.tv/2023/09/17/manolo-rodriguez-como-distribuir-nuestro-contenido-en-mas-de-15-plataformas-y-llegar-a-mas-de-100-000-pers-sin-pagar/)
+- [Pablo Moratinos: Cómo vivir de tus contenidos online. Solo la &lpar;mi&rpar; verdad](https://wordpress.tv/2023/09/17/pablo-moratinos-como-vivir-de-tus-contenidos-online-solo-la-mi-verdad/)
+- [Nahuai Badiola: Hazle la vida más fácil al creador de contenidos](https://wordpress.tv/2023/09/17/nahuai-badiola-hazle-la-vida-mas-facil-al-creador-de-contenidos/)
+- [Fernando Tellado: Las IAs son tu cuñado digital](https://wordpress.tv/2023/09/17/fernando-tellado-las-ias-son-tu-cunado-digital/)
+- [André Maneiro: Contido estruturado: bloques e rendimiento](https://wordpress.tv/2023/09/17/andre-maneiro-contido-estruturado-bloques-e-rendimiento/)
+- [Fernando Puente: Protege a tu rey. Defiende tu contenido de amenazas, scraping, IA o malos actores](https://wordpress.tv/2023/09/17/fernando-puente-protege-a-tu-rey-defiende-tu-contenido-de-amenazas-scraping-ia-o-malos-actores/)
+- [Paula Carmona: WordPress, el corazón de tu estrategia de Social Media](https://wordpress.tv/2023/09/17/paula-carmona-wordpress-el-corazon-de-tu-estrategia-de-social-media/)
+- [Jaime Gármar: Microcontenidos: Cómo impactar con mensajes breves en un mundo de distracciones](https://wordpress.tv/2023/09/17/jaime-garmar-microcontenidos-como-impactar-con-mensajes-breves-en-un-mundo-de-distracciones/)
 - [Nora Ferreirós: Contidos e marca: como manter a coherencia visual](https://wordpress.tv/2023/09/17/nora-ferreiros-contidos-e-marca-como-manter-a-coherencia-visual/)
 - [Viviana Otero: Optimización SEO y testing: pasos imprescindibles antes de lanzar tu sitio web](https://wordpress.tv/2023/09/17/viviana-otero-optimizacion-seo-y-testing-pasos-imprescindibles-antes-de-lanzar-tu-sitio-web/)
 - [Yolanda Pazos: Pierde el miedo a la cámara y crea tu primer contenido en vídeo](https://wordpress.tv/2023/09/17/yolanda-pazos-pierde-el-miedo-a-la-camara-y-crea-tu-primer-contenido-en-video/)
@@ -357,16 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating your own custom synced or non-synced patterns](https://wordpress.tv/2023/09/12/creating-your-own-custom-synced-or-non-synced-patterns/)
 - [Using the navigation block](https://wordpress.tv/2023/09/12/using-the-navigation-block-3/)
 - [How to contribute to WordPress by just being helpful](https://wordpress.tv/2023/09/11/how-to-contribute-to-wordpress-by-just-being-helpful/)
-- [AMA – Ask Matt Anything](https://wordpress.tv/2023/09/10/ama-ask-matt-anything/)
-- [Understanding Your Customer: Turning Empathy and Data into Solutions and Growth](https://wordpress.tv/2023/09/10/understanding-your-customer-turning-empathy-and-data-into-solutions-and-growth/)
-- [Optimizing Core Web Vitals for your WordPress website](https://wordpress.tv/2023/09/10/optimizing-core-web-vitals-for-your-wordpress-website/)
-- [Business Models in the WordPress Ecosystem](https://wordpress.tv/2023/09/10/business-models-in-the-wordpress-ecosystem/)
-- [Going from Projects to Products with WordPress](https://wordpress.tv/2023/09/10/going-from-projects-to-products-with-wordpress/)
-- [Look for the Good](https://wordpress.tv/2023/09/10/look-for-the-good/)
-- [The Power Of Empathy](https://wordpress.tv/2023/09/10/the-power-of-empathy/)
-- [Stepping Back To Move Forward](https://wordpress.tv/2023/09/10/stepping-back-to-move-forward-2/)
-- [How the Psychological imbalance among the commoners during the Pandemic has radically forced to chan](https://wordpress.tv/2023/09/10/how-the-psychological-imbalance-among-the-commoners-during-the-pandemic-has-radically-forced-to-chan/)
-- [Layout, Layout, Layout](https://wordpress.tv/2023/09/10/layout-layout-layout/)
 <!-- WPTV:END -->
 
 ## Marketing
