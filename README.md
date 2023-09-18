@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Eva García Gallego: Cómo mejorar la experiencia de usuario para convertir en un ecommerce](https://wordpress.tv/2023/09/18/eva-garcia-gallego-como-mejorar-la-experiencia-de-usuario-para-convertir-en-un-ecommerce/)
 - [Marta Torre: Cómo hace una desarrolladora mindungui para que le hagan caso creando contenido](https://wordpress.tv/2023/09/18/marta-torre-como-hace-una-desarrolladora-mindungui-para-que-le-hagan-caso-creando-contenido/)
 - [Maylén García: Diseño: ¡El ingrediente secreto para hacer de tu contenido un éxito!](https://wordpress.tv/2023/09/18/maylen-garcia-diseno-el-ingrediente-secreto-para-hacer-de-tu-contenido-un-exito/)
 - [Lidia Marbán: Equipo multidisciplinar con más de 20 años de experiencia en el sector…](https://wordpress.tv/2023/09/17/lidia-marban-equipo-multidisciplinar-con-mas-de-20-anos-de-experiencia-en-el-sector/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Yolanda Pazos: Pierde el miedo a la cámara y crea tu primer contenido en vídeo](https://wordpress.tv/2023/09/17/yolanda-pazos-pierde-el-miedo-a-la-camara-y-crea-tu-primer-contenido-en-video/)
 - [Xabier Martínez Rolán: Se Berners Lee tivese que deseñar a web en 2023, non o faría de todos os xeitos](https://wordpress.tv/2023/09/17/xabier-martinez-rolan-se-berners-lee-tivese-que-desenar-a-web-en-2023-non-o-faria-de-todos-os-xeitos/)
 - [Fernando López: Estudio de caso real: Cómo un negocio local alcanzó las primeras posiciones SEO en 5 meses](https://wordpress.tv/2023/09/17/fernando-lopez-estudio-de-caso-real-como-un-negocio-local-alcanzo-las-primeras-posiciones-seo-en-5-meses/)
-- [Jorge González: Block Protocol – facendo bloques para todos](https://wordpress.tv/2023/09/17/jorge-gonzalez-block-protocol-facendo-bloques-para-todos/)
 <!-- WPTV:END -->
 
 ## Marketing
