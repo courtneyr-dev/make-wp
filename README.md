@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Marta Torre: Cómo hace una desarrolladora mindungui para que le hagan caso creando contenido](https://wordpress.tv/2023/09/18/marta-torre-como-hace-una-desarrolladora-mindungui-para-que-le-hagan-caso-creando-contenido/)
+- [Maylén García: Diseño: ¡El ingrediente secreto para hacer de tu contenido un éxito!](https://wordpress.tv/2023/09/18/maylen-garcia-diseno-el-ingrediente-secreto-para-hacer-de-tu-contenido-un-exito/)
 - [Lidia Marbán: Equipo multidisciplinar con más de 20 años de experiencia en el sector…](https://wordpress.tv/2023/09/17/lidia-marban-equipo-multidisciplinar-con-mas-de-20-anos-de-experiencia-en-el-sector/)
 - [David Cuesta: Cómo aplicar el SEO on page a tus contenidos para que resulten ÚTILES](https://wordpress.tv/2023/09/17/david-cuesta-como-aplicar-el-seo-on-page-a-tus-contenidos-para-que-resulten-utiles/)
 - [Brenda Alonso: Elimina tus bloqueos a la hora de generar contenido con herramientas de Inteligencia artificial](https://wordpress.tv/2023/09/17/brenda-alonso-elimina-tus-bloqueos-a-la-hora-de-generar-contenido-con-herramientas-de-inteligencia-artificial/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Xabier Martínez Rolán: Se Berners Lee tivese que deseñar a web en 2023, non o faría de todos os xeitos](https://wordpress.tv/2023/09/17/xabier-martinez-rolan-se-berners-lee-tivese-que-desenar-a-web-en-2023-non-o-faria-de-todos-os-xeitos/)
 - [Fernando López: Estudio de caso real: Cómo un negocio local alcanzó las primeras posiciones SEO en 5 meses](https://wordpress.tv/2023/09/17/fernando-lopez-estudio-de-caso-real-como-un-negocio-local-alcanzo-las-primeras-posiciones-seo-en-5-meses/)
 - [Jorge González: Block Protocol – facendo bloques para todos](https://wordpress.tv/2023/09/17/jorge-gonzalez-block-protocol-facendo-bloques-para-todos/)
-- [Ana Cirujano: Lorem ipsum dolor sit amet](https://wordpress.tv/2023/09/17/ana-cirujano-lorem-ipsum-dolor-sit-amet/)
-- [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://wordpress.tv/2023/09/16/how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team/)
 <!-- WPTV:END -->
 
 ## Marketing
