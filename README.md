@@ -115,7 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Node.js development tools](https://developer.wordpress.org/block-editor/getting-started/devenv/nodejs-development-tools/)
+- [Node.js development environment](https://developer.wordpress.org/block-editor/getting-started/devenv/nodejs-development-environment/)
 - [Get started with wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-env/)
 - [Get started with wp-now](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-now/)
 - [@wordpress/undo-manager](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-undo-manager/)
