@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Wajari Velásquez: Cierre WordCamp Pontevedra 2023](https://wordpress.tv/2023/09/18/wajari-velasquez-cierre-wordcamp-pontevedra-2023/)
 - [Wajari Velásquez: Apertura WordCamp Pontevedra 2023](https://wordpress.tv/2023/09/18/wajari-velasquez-apertura-wordcamp-pontevedra-2023/)
 - [Eneko Garrido: La comunidad que dio un empujoncito a mi vida](https://wordpress.tv/2023/09/18/eneko-garrido-la-comunidad-que-dio-un-empujoncito-a-mi-vida/)
 - [Álvaro Gómez: Lost, Hirō Onoda y el Equipo de Plugins](https://wordpress.tv/2023/09/18/alvaro-gomez-lost-hiro-onoda-y-el-equipo-de-plugins/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Paula Carmona: WordPress, el corazón de tu estrategia de Social Media](https://wordpress.tv/2023/09/17/paula-carmona-wordpress-el-corazon-de-tu-estrategia-de-social-media/)
 - [Jaime Gármar: Microcontenidos: Cómo impactar con mensajes breves en un mundo de distracciones](https://wordpress.tv/2023/09/17/jaime-garmar-microcontenidos-como-impactar-con-mensajes-breves-en-un-mundo-de-distracciones/)
 - [Nora Ferreirós: Contidos e marca: como manter a coherencia visual](https://wordpress.tv/2023/09/17/nora-ferreiros-contidos-e-marca-como-manter-a-coherencia-visual/)
-- [Viviana Otero: Optimización SEO y testing: pasos imprescindibles antes de lanzar tu sitio web](https://wordpress.tv/2023/09/17/viviana-otero-optimizacion-seo-y-testing-pasos-imprescindibles-antes-de-lanzar-tu-sitio-web/)
 <!-- WPTV:END -->
 
 ## Marketing
