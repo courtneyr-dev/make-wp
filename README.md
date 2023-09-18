@@ -87,7 +87,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
-- [Agenda for Docs Team Biweekly Meeting &lpar;September 19, 2023&rpar;](https://make.wordpress.org/docs/2023/09/18/agenda-for-docs-team-biweekly-meeting-september-19-2023/)
 - [Summary of Docs Team Biweekly Meeting &lpar;September 05, 2023&rpar;](https://make.wordpress.org/docs/2023/09/06/summary-of-docs-team-biweekly-meeting-september-05-2023/)
 - [X-post: Community Summit Discussion Notes: Ad hoc session on iterating on the Field Guide](https://make.wordpress.org/docs/2023/09/06/xpost-community-summit-discussion-notes-ad-hoc-session-on-iterating-on-the-field-guide/)
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/docs/2023/09/06/xpost-documentation-translation-localization/)
@@ -97,6 +96,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Docs Team Meeting &lpar;15-Aug-2023&rpar;](https://make.wordpress.org/docs/2023/08/17/summary-for-docs-team-meeting-15-aug-2023/)
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/docs/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [Agenda for Docs Team bi-weekly meeting August 15, 2023](https://make.wordpress.org/docs/2023/08/15/agenda-for-docs-team-bi-weekly-meeting-august-15-2023/)
+- [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/docs/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 <!-- DOCS:END -->
 
 ### Support Articles
