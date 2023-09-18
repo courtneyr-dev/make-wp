@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 62: Enterprise Clients and the Business of WordPress](https://wordpress.org/news/2023/09/episode-62-enterprise-clients-and-the-business-of-wordpress/)
 - [Openverse Wins the 2023 OEG Open Infrastructure Award](https://wordpress.org/news/2023/09/openverse-wins-the-2023-oeg-open-infrastructure-award/)
 - [The Month in WordPress – August 2023](https://wordpress.org/news/2023/09/the-month-in-wordpress-august-2023/)
 - [WP Briefing: Episode 61: Community, Summit, all at  Washington D.C.](https://wordpress.org/news/2023/09/episode-61-community-summit-all-at-washington-d-c/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.3 “Lionel”](https://wordpress.org/news/2023/08/lionel/)
 - [Concerns over the European Union’s Cyber Resilience Act &lpar;CRA&rpar;](https://wordpress.org/news/2023/08/concerns-over-the-european-unions-cyber-resilience-act-cra/)
 - [WordPress 6.3 Release Candidate 3](https://wordpress.org/news/2023/08/wordpress-6-3-rc3/)
-- [People of WordPress: Ihtisham Zahoor](https://wordpress.org/news/2023/07/people-of-wordpress-ihtisham-zahoor/)
 <!-- NEWS:END -->
 
 ## Jobs
