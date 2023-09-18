@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Node.js development tools](https://developer.wordpress.org/block-editor/getting-started/devenv/nodejs-development-tools/)
+- [Get started with wp-now](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-now/)
+- [Get started with wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-env/)
 - [@wordpress/undo-manager](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-undo-manager/)
 - [The Commands Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-commands/)
 - [Theme security issues](https://developer.wordpress.org/themes/theme-security/theme-security-issues/)
 - [Enqueueing assets in the Editor](https://developer.wordpress.org/block-editor/how-to-guides/enqueueing-assets-in-the-editor/)
 - [@wordpress/patterns](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-patterns/)
 - [@wordpress/sync](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-sync/)
-- [wp_is_password_reset_allowed_for_user&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_is_password_reset_allowed_for_user/)
 - [wp_cache_set_users_last_changed&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_cache_set_users_last_changed/)
-- [wp_update_user](https://developer.wordpress.org/reference/hooks/wp_update_user/)
-- [wp_cache_set_last_changed](https://developer.wordpress.org/reference/hooks/wp_cache_set_last_changed/)
 <!-- DEVHUB:END -->
 
 ## Themes
