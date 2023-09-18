@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Wajari Velásquez: Apertura WordCamp Pontevedra 2023](https://wordpress.tv/2023/09/18/wajari-velasquez-apertura-wordcamp-pontevedra-2023/)
+- [Eneko Garrido: La comunidad que dio un empujoncito a mi vida](https://wordpress.tv/2023/09/18/eneko-garrido-la-comunidad-que-dio-un-empujoncito-a-mi-vida/)
+- [Álvaro Gómez: Lost, Hirō Onoda y el Equipo de Plugins](https://wordpress.tv/2023/09/18/alvaro-gomez-lost-hiro-onoda-y-el-equipo-de-plugins/)
 - [Eva García Gallego: Cómo mejorar la experiencia de usuario para convertir en un ecommerce](https://wordpress.tv/2023/09/18/eva-garcia-gallego-como-mejorar-la-experiencia-de-usuario-para-convertir-en-un-ecommerce/)
 - [Marta Torre: Cómo hace una desarrolladora mindungui para que le hagan caso creando contenido](https://wordpress.tv/2023/09/18/marta-torre-como-hace-una-desarrolladora-mindungui-para-que-le-hagan-caso-creando-contenido/)
 - [Maylén García: Diseño: ¡El ingrediente secreto para hacer de tu contenido un éxito!](https://wordpress.tv/2023/09/18/maylen-garcia-diseno-el-ingrediente-secreto-para-hacer-de-tu-contenido-un-exito/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jaime Gármar: Microcontenidos: Cómo impactar con mensajes breves en un mundo de distracciones](https://wordpress.tv/2023/09/17/jaime-garmar-microcontenidos-como-impactar-con-mensajes-breves-en-un-mundo-de-distracciones/)
 - [Nora Ferreirós: Contidos e marca: como manter a coherencia visual](https://wordpress.tv/2023/09/17/nora-ferreiros-contidos-e-marca-como-manter-a-coherencia-visual/)
 - [Viviana Otero: Optimización SEO y testing: pasos imprescindibles antes de lanzar tu sitio web](https://wordpress.tv/2023/09/17/viviana-otero-optimizacion-seo-y-testing-pasos-imprescindibles-antes-de-lanzar-tu-sitio-web/)
-- [Yolanda Pazos: Pierde el miedo a la cámara y crea tu primer contenido en vídeo](https://wordpress.tv/2023/09/17/yolanda-pazos-pierde-el-miedo-a-la-camara-y-crea-tu-primer-contenido-en-video/)
-- [Xabier Martínez Rolán: Se Berners Lee tivese que deseñar a web en 2023, non o faría de todos os xeitos](https://wordpress.tv/2023/09/17/xabier-martinez-rolan-se-berners-lee-tivese-que-desenar-a-web-en-2023-non-o-faria-de-todos-os-xeitos/)
-- [Fernando López: Estudio de caso real: Cómo un negocio local alcanzó las primeras posiciones SEO en 5 meses](https://wordpress.tv/2023/09/17/fernando-lopez-estudio-de-caso-real-como-un-negocio-local-alcanzo-las-primeras-posiciones-seo-en-5-meses/)
 <!-- WPTV:END -->
 
 ## Marketing
