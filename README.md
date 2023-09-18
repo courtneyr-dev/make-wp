@@ -519,8 +519,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remote SEO Consultant](https://jobs.wordpress.net/job/remote-seo-consultant/)
 - [Marketing Copywriter &lpar;remote&rpar;](https://jobs.wordpress.net/job/marketing-copywriter-remote-2/)
 - [Web site developer](https://jobs.wordpress.net/job/web-site-developer-2/)
-- [Complete Website Redevelopment](https://jobs.wordpress.net/job/complete-website-redevelopment/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-814/)
+- [Website design](https://jobs.wordpress.net/job/website-design-14/)
 <!-- JOBS:END -->
 
 ## Central
