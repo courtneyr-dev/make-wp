@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hola amigos de habla hispana,…](https://make.wordpress.org/polyglots/2023/09/19/hola-amigos-de-habla-hispana/)
 - [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-contact-form-7-2/)
 - [I’ve suggested Spanish translations for…](https://make.wordpress.org/polyglots/2023/09/19/ive-suggested-spanish-translations-for-2/)
 - [Proposal: pre-translating strings in projects](https://make.wordpress.org/polyglots/2023/09/18/proposal-pre-translating-strings-in-projects/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2023/09/17/hi-103/)
 - [PTE requests in several plugins](https://make.wordpress.org/polyglots/2023/09/15/pte-requests-in-several-plugins/)
 - [PTE Request for Drag &amp; Drop Menu Items](https://make.wordpress.org/polyglots/2023/09/14/pte-request-for-drag-drop-menu-items/)
-- [PTE Request for Loco Translate](https://make.wordpress.org/polyglots/2023/09/14/pte-request-for-loco-translate-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
