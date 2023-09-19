@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for CRM WordPress Plugin – RepairBuddy](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-crm-wordpress-plugin-repairbuddy-4/)
 - [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-my-calendar-2/)
 - [Hola amigos de habla hispana,…](https://make.wordpress.org/polyglots/2023/09/19/hola-amigos-de-habla-hispana/)
 - [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-contact-form-7-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2023/09/17/hi-104/)
 - [PTE Request for Customer Reviews](https://make.wordpress.org/polyglots/2023/09/17/pte-request-for-customer-reviews-2/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/09/17/hi-103/)
-- [PTE requests in several plugins](https://make.wordpress.org/polyglots/2023/09/15/pte-requests-in-several-plugins/)
 <!-- POLYGLOTS:END -->
 
 ## Support
