@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using Block Patterns](https://learn.wordpress.org/tutorial/using-block-patterns/)
 - [The WordPress Database](https://learn.wordpress.org/tutorial/the-wordpress-database/)
 - [Creating your own custom synced or non-synced patterns](https://learn.wordpress.org/tutorial/creating-your-own-custom-synced-or-non-synced-patterns/)
 - [Scheduling posts and pages](https://learn.wordpress.org/tutorial/scheduling-posts-and-pages/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to start using WordPress Playground](https://learn.wordpress.org/tutorial/how-to-start-using-wordpress-playground/)
 - [WPPhotos Moderator Training](https://learn.wordpress.org/tutorial/wpphotos-moderator-training/)
 - [Using the block editor: Tips and shortcuts for efficiency](https://learn.wordpress.org/tutorial/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
-- [How to use headings for accessibility and SEO](https://learn.wordpress.org/tutorial/using-headings-for-accessibility-and-seo/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
