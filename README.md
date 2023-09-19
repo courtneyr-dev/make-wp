@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Update: Turning the Tide](https://make.wordpress.org/plugins/2023/09/19/update-turning-the-tide/)
 - [X-post: WordPressCS 3.0.0 is now available](https://make.wordpress.org/plugins/2023/08/21/xpost-wordpresscs-3-0-0-is-now-available/)
 - [Tackling team challenges together](https://make.wordpress.org/plugins/2023/07/24/tackling-team-challenges-together/)
 - [Plugin Review Team Update: The next phase begins](https://make.wordpress.org/plugins/2023/06/29/plugin-review-team-update-the-next-phase-begins/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/plugins/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Plugin Review Team Update](https://make.wordpress.org/plugins/2023/05/17/plugin-review-team-update/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/plugins/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
-- [Use of Code Generators Must Remain GPL Compatible](https://make.wordpress.org/plugins/2023/03/21/use-of-code-generators-must-remain-gpl-compatible/)
 <!-- PLUGINS:END -->
 
 ## Community
