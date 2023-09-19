@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Contributor Working Group: Mentorship Chat Agenda | September 21st 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/09/19/contributor-working-group-mentorship-chat-agenda-september-21st-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Report: #WPDiversity Inclusion and Diverse Speaker Workshops July to August 2023](https://make.wordpress.org/community/2023/09/13/report-wpdiversity-inclusion-and-diverse-speaker-workshops-july-to-august-2023/)
 - [Report: #WPDiversity Inclusion Workshops April to June 2023](https://make.wordpress.org/community/2023/09/11/report-wpdiversity-inclusion-workshops-april-to-june-2023/)
 - [Resource and Handbook Updates in Q3](https://make.wordpress.org/community/2023/09/07/resource-and-handbook-updates-in-q3/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 23, 2023](https://make.wordpress.org/community/2023/08/23/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-23-2023/)
 - [Call for ideas: new features for our NexGen WP events central page](https://make.wordpress.org/community/2023/08/23/call-for-ideas-new-features-for-our-nexgen-wp-events-central-page/)
 - [Meetup Organizer Newsletter: August 2023](https://make.wordpress.org/community/2023/08/21/meetup-organizer-newsletter-august-2023/)
-- [Recap of the Contributor Working Group’s Mentorship Chat on August 18, 2023](https://make.wordpress.org/community/2023/08/21/recap-of-the-contributor-working-groups-mentorship-chat-on-august-18-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
