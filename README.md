@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo gané mi primer millón gracias a WordPress](https://wordpress.tv/2023/09/19/como-gane-mi-primer-millon-gracias-a-wordpress/)
 - [Using block patterns](https://wordpress.tv/2023/09/18/using-block-patterns-4/)
 - [Wajari Velásquez: Cierre WordCamp Pontevedra 2023](https://wordpress.tv/2023/09/18/wajari-velasquez-cierre-wordcamp-pontevedra-2023/)
 - [Wajari Velásquez: Apertura WordCamp Pontevedra 2023](https://wordpress.tv/2023/09/18/wajari-velasquez-apertura-wordcamp-pontevedra-2023/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [André Maneiro: Contido estruturado: bloques e rendimiento](https://wordpress.tv/2023/09/17/andre-maneiro-contido-estruturado-bloques-e-rendimiento/)
 - [Fernando Puente: Protege a tu rey. Defiende tu contenido de amenazas, scraping, IA o malos actores](https://wordpress.tv/2023/09/17/fernando-puente-protege-a-tu-rey-defiende-tu-contenido-de-amenazas-scraping-ia-o-malos-actores/)
 - [Paula Carmona: WordPress, el corazón de tu estrategia de Social Media](https://wordpress.tv/2023/09/17/paula-carmona-wordpress-el-corazon-de-tu-estrategia-de-social-media/)
-- [Jaime Gármar: Microcontenidos: Cómo impactar con mensajes breves en un mundo de distracciones](https://wordpress.tv/2023/09/17/jaime-garmar-microcontenidos-como-impactar-con-mensajes-breves-en-un-mundo-de-distracciones/)
 <!-- WPTV:END -->
 
 ## Marketing
