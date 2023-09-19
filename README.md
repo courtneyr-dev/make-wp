@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 12th September 2023](https://make.wordpress.org/training/2023/09/19/training-team-meeting-recap-12th-september-2023/)
 - [X-post: Accessibility office hours](https://make.wordpress.org/training/2023/09/14/xpost-accessibility-office-hours/)
 - [Training Team Meeting Recap – 5th September 2023](https://make.wordpress.org/training/2023/09/11/training-team-meeting-recap-5th-september-2023/)
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/training/2023/09/06/xpost-documentation-translation-localization/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Looking for feedback: Learning pathway outlines](https://make.wordpress.org/training/2023/08/24/looking-for-feedback-learning-pathway-outlines/)
 - [Training Team Meeting Recap – 15th August 2023](https://make.wordpress.org/training/2023/08/22/training-team-meeting-recap-15th-august-2023/)
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/training/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
-- [Training Team Meeting Recap – 8th August 2023](https://make.wordpress.org/training/2023/08/14/training-team-meeting-recap-8th-august-2023/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
