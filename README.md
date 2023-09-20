@@ -342,7 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Markus Winter: Der WordPress Navigations Block](https://wordpress.tv/2023/09/20/markus-winter-der-wordpress-navigations-block/)
+- [Wozu Design?](https://wordpress.tv/2023/09/20/wozu-design/)
+- [Der WordPress Navigations Block](https://wordpress.tv/2023/09/20/markus-winter-der-wordpress-navigations-block/)
 - [WordPress in 2025](https://wordpress.tv/2023/09/20/wordpress-in-2025/)
 - [SEO WooCommerce let’s get that traffic, a use case](https://wordpress.tv/2023/09/20/seo-woocommerce-lets-get-that-traffic-a-use-case/)
 - [WooCommerce, but faster!](https://wordpress.tv/2023/09/20/woocommerce-but-faster/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Marta Torre: Cómo hace una desarrolladora mindungui para que le hagan caso creando contenido](https://wordpress.tv/2023/09/18/marta-torre-como-hace-una-desarrolladora-mindungui-para-que-le-hagan-caso-creando-contenido/)
 - [Maylén García: Diseño: ¡El ingrediente secreto para hacer de tu contenido un éxito!](https://wordpress.tv/2023/09/18/maylen-garcia-diseno-el-ingrediente-secreto-para-hacer-de-tu-contenido-un-exito/)
 - [Lidia Marbán: Equipo multidisciplinar con más de 20 años de experiencia en el sector…](https://wordpress.tv/2023/09/17/lidia-marban-equipo-multidisciplinar-con-mas-de-20-anos-de-experiencia-en-el-sector/)
-- [David Cuesta: Cómo aplicar el SEO on page a tus contenidos para que resulten ÚTILES](https://wordpress.tv/2023/09/17/david-cuesta-como-aplicar-el-seo-on-page-a-tus-contenidos-para-que-resulten-utiles/)
 <!-- WPTV:END -->
 
 ## Marketing
