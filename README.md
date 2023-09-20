@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress in 2025](https://wordpress.tv/2023/09/20/wordpress-in-2025/)
+- [SEO WooCommerce let’s get that traffic, a use case](https://wordpress.tv/2023/09/20/seo-woocommerce-lets-get-that-traffic-a-use-case/)
+- [WooCommerce, but faster!](https://wordpress.tv/2023/09/20/woocommerce-but-faster/)
+- [How to automate your maintenance with Playwright](https://wordpress.tv/2023/09/20/how-to-automate-your-maintenance-with-playwright/)
+- [WordPress as Framework for REST-APIs, the secret Weapon](https://wordpress.tv/2023/09/20/wordpress-as-framework-for-rest-apis-the-secret-weapon/)
+- [Round 1! FIGHT! – Or how to survive against a malicious hacker](https://wordpress.tv/2023/09/20/round-1-fight-or-how-to-survive-against-a-malicious-hacker/)
 - [Intégrer votre site WordPress à l’écosystème client](https://wordpress.tv/2023/09/20/integrer-votre-site-wordpress-a-lecosysteme-client/)
 - [WordPress &amp; Design – Et si on arrêtait de tout compliquer ?](https://wordpress.tv/2023/09/20/wordpress-design-et-si-on-arretait-de-tout-compliquer/)
 - [Comment créer un site eCommerce optimisé pour la vente](https://wordpress.tv/2023/09/20/comment-creer-un-site-ecommerce-optimise-pour-la-vente/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lidia Marbán: Equipo multidisciplinar con más de 20 años de experiencia en el sector…](https://wordpress.tv/2023/09/17/lidia-marban-equipo-multidisciplinar-con-mas-de-20-anos-de-experiencia-en-el-sector/)
 - [David Cuesta: Cómo aplicar el SEO on page a tus contenidos para que resulten ÚTILES](https://wordpress.tv/2023/09/17/david-cuesta-como-aplicar-el-seo-on-page-a-tus-contenidos-para-que-resulten-utiles/)
 - [Brenda Alonso: Elimina tus bloqueos a la hora de generar contenido con herramientas de Inteligencia artificial](https://wordpress.tv/2023/09/17/brenda-alonso-elimina-tus-bloqueos-a-la-hora-de-generar-contenido-con-herramientas-de-inteligencia-artificial/)
-- [Flavia Bernárdez Rodríguez: Batch images generator. Una línea en una hoja de cálculo, muchas gráfica](https://wordpress.tv/2023/09/17/flavia-bernardez-rodriguez-batch-images-generator-una-linea-en-una-hoja-de-calculo-muchas-grafica/)
-- [Leo Menéndez: 5 podcast para potenciar tus contenidos](https://wordpress.tv/2023/09/17/leo-menendez-5-podcast-para-potenciar-tus-contenidos/)
-- [Estela Rueda: La documentación de WordPress, es solo para los WordPressers y no para los clientes, o sí?](https://wordpress.tv/2023/09/17/estela-rueda-la-documentacion-de-wordpress-es-solo-para-los-wordpressers-y-no-para-los-clientes-o-si/)
-- [Vicent Sanchis Jurado: Cómo subtitular y traducir vídeos en lenguas cooficiales](https://wordpress.tv/2023/09/17/vicent-sanchis-jurado-como-subtitular-y-traducir-videos-en-lenguas-cooficiales/)
-- [Nando Pappalardo: ¿Cómo multiplicar tus ventas por 10 utilizando la paradoja de la elección?](https://wordpress.tv/2023/09/17/nando-pappalardo-como-multiplicar-tus-ventas-por-10-utilizando-la-paradoja-de-la-eleccion/)
-- [Núria Ramoneda: Crear contenidos semánticos: la importancia de marcar el contenido adecuadamente](https://wordpress.tv/2023/09/17/nuria-ramoneda-crear-contenidos-semanticos-la-importancia-de-marcar-el-contenido-adecuadamente/)
 <!-- WPTV:END -->
 
 ## Marketing
