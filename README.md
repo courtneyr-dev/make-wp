@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Unlocking the Power of Digital Insights](https://wordpress.tv/2023/09/20/unlocking-the-power-of-digital-insights/)
+- [WordPress, Wapuus and Web3](https://wordpress.tv/2023/09/20/wordpress-wapuus-and-web3/)
+- [The new Swiss law on data protection &lpar;2023&rpar;: Its impact on websites](https://wordpress.tv/2023/09/20/the-new-swiss-law-on-data-protection-2023-its-impact-on-websites/)
+- [Nurturing your customers](https://wordpress.tv/2023/09/20/nurturing-your-customers/)
 - [Cómo gané mi primer millón gracias a WordPress](https://wordpress.tv/2023/09/19/como-gane-mi-primer-millon-gracias-a-wordpress/)
 - [Using block patterns](https://wordpress.tv/2023/09/18/using-block-patterns-4/)
 - [Wajari Velásquez: Cierre WordCamp Pontevedra 2023](https://wordpress.tv/2023/09/18/wajari-velasquez-cierre-wordcamp-pontevedra-2023/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Manolo Rodríguez: Cómo distribuir nuestro contenido en más de 15 plataformas y llegar a más de 100.000 pers. sin pagar](https://wordpress.tv/2023/09/17/manolo-rodriguez-como-distribuir-nuestro-contenido-en-mas-de-15-plataformas-y-llegar-a-mas-de-100-000-pers-sin-pagar/)
 - [Pablo Moratinos: Cómo vivir de tus contenidos online. Solo la &lpar;mi&rpar; verdad](https://wordpress.tv/2023/09/17/pablo-moratinos-como-vivir-de-tus-contenidos-online-solo-la-mi-verdad/)
 - [Nahuai Badiola: Hazle la vida más fácil al creador de contenidos](https://wordpress.tv/2023/09/17/nahuai-badiola-hazle-la-vida-mas-facil-al-creador-de-contenidos/)
-- [Fernando Tellado: Las IAs son tu cuñado digital](https://wordpress.tv/2023/09/17/fernando-tellado-las-ias-son-tu-cunado-digital/)
-- [André Maneiro: Contido estruturado: bloques e rendimiento](https://wordpress.tv/2023/09/17/andre-maneiro-contido-estruturado-bloques-e-rendimiento/)
-- [Fernando Puente: Protege a tu rey. Defiende tu contenido de amenazas, scraping, IA o malos actores](https://wordpress.tv/2023/09/17/fernando-puente-protege-a-tu-rey-defiende-tu-contenido-de-amenazas-scraping-ia-o-malos-actores/)
-- [Paula Carmona: WordPress, el corazón de tu estrategia de Social Media](https://wordpress.tv/2023/09/17/paula-carmona-wordpress-el-corazon-de-tu-estrategia-de-social-media/)
 <!-- WPTV:END -->
 
 ## Marketing
