@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Attention WordPress women in India and those who support you: This important workshop this weekend is for you!](https://make.wordpress.org/community/2023/09/20/attention-wordpress-women-in-india-and-your-event-organizers-this-important-workshop-this-weekend-is-for-you/)
 - [From Japan to Rome: Recent and Upcoming Next Generation WordPress Events](https://make.wordpress.org/community/2023/09/19/from-japan-to-rome-recent-and-upcoming-next-generation-wordpress-events/)
 - [Contributor Working Group: Mentorship Chat Agenda | September 21st 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/09/19/contributor-working-group-mentorship-chat-agenda-september-21st-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Report: #WPDiversity Inclusion and Diverse Speaker Workshops July to August 2023](https://make.wordpress.org/community/2023/09/13/report-wpdiversity-inclusion-and-diverse-speaker-workshops-july-to-august-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Mentors’ September check-in!](https://make.wordpress.org/community/2023/09/01/wordcamp-mentors-september-check-in/)
 - [The NextGen Event Project: Your Ideas, Your WordPress Community!](https://make.wordpress.org/community/2023/08/30/the-nextgen-event-project-your-ideas-your-wordpress-community/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on August 23, 2023](https://make.wordpress.org/community/2023/08/23/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-august-23-2023/)
-- [Call for ideas: new features for our NexGen WP events central page](https://make.wordpress.org/community/2023/08/23/call-for-ideas-new-features-for-our-nexgen-wp-events-central-page/)
 <!-- COMMUNITY:END -->
 
 ## Meta
