@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Intégrer votre site WordPress à l’écosystème client](https://wordpress.tv/2023/09/20/integrer-votre-site-wordpress-a-lecosysteme-client/)
 - [WordPress &amp; Design – Et si on arrêtait de tout compliquer ?](https://wordpress.tv/2023/09/20/wordpress-design-et-si-on-arretait-de-tout-compliquer/)
 - [Comment créer un site eCommerce optimisé pour la vente](https://wordpress.tv/2023/09/20/comment-creer-un-site-ecommerce-optimise-pour-la-vente/)
 - [Unlocking the Power of Digital Insights](https://wordpress.tv/2023/09/20/unlocking-the-power-of-digital-insights/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Vicent Sanchis Jurado: Cómo subtitular y traducir vídeos en lenguas cooficiales](https://wordpress.tv/2023/09/17/vicent-sanchis-jurado-como-subtitular-y-traducir-videos-en-lenguas-cooficiales/)
 - [Nando Pappalardo: ¿Cómo multiplicar tus ventas por 10 utilizando la paradoja de la elección?](https://wordpress.tv/2023/09/17/nando-pappalardo-como-multiplicar-tus-ventas-por-10-utilizando-la-paradoja-de-la-eleccion/)
 - [Núria Ramoneda: Crear contenidos semánticos: la importancia de marcar el contenido adecuadamente](https://wordpress.tv/2023/09/17/nuria-ramoneda-crear-contenidos-semanticos-la-importancia-de-marcar-el-contenido-adecuadamente/)
-- [Manolo Rodríguez: Cómo distribuir nuestro contenido en más de 15 plataformas y llegar a más de 100.000 pers. sin pagar](https://wordpress.tv/2023/09/17/manolo-rodriguez-como-distribuir-nuestro-contenido-en-mas-de-15-plataformas-y-llegar-a-mas-de-100-000-pers-sin-pagar/)
 <!-- WPTV:END -->
 
 ## Marketing
