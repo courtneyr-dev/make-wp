@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Speedoptimierung](https://wordpress.tv/2023/09/20/wordpress-speedoptimierung/)
 - [Wozu Design?](https://wordpress.tv/2023/09/20/wozu-design/)
 - [Der WordPress Navigations Block](https://wordpress.tv/2023/09/20/markus-winter-der-wordpress-navigations-block/)
 - [WordPress in 2025](https://wordpress.tv/2023/09/20/wordpress-in-2025/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Eva García Gallego: Cómo mejorar la experiencia de usuario para convertir en un ecommerce](https://wordpress.tv/2023/09/18/eva-garcia-gallego-como-mejorar-la-experiencia-de-usuario-para-convertir-en-un-ecommerce/)
 - [Marta Torre: Cómo hace una desarrolladora mindungui para que le hagan caso creando contenido](https://wordpress.tv/2023/09/18/marta-torre-como-hace-una-desarrolladora-mindungui-para-que-le-hagan-caso-creando-contenido/)
 - [Maylén García: Diseño: ¡El ingrediente secreto para hacer de tu contenido un éxito!](https://wordpress.tv/2023/09/18/maylen-garcia-diseno-el-ingrediente-secreto-para-hacer-de-tu-contenido-un-exito/)
-- [Lidia Marbán: Equipo multidisciplinar con más de 20 años de experiencia en el sector…](https://wordpress.tv/2023/09/17/lidia-marban-equipo-multidisciplinar-con-mas-de-20-anos-de-experiencia-en-el-sector/)
 <!-- WPTV:END -->
 
 ## Marketing
