@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [SEO Cómo pasar de ignorado a imprescindible](https://wordpress.tv/2023/09/21/seo-como-pasar-de-ignorado-a-imprescindible/)
+- [SEO para Ecommerce: Deja que Google sea tu vendedor estrella](https://wordpress.tv/2023/09/21/seo-para-ecommerce-deja-que-google-sea-tu-vendedor-estrella/)
 - [WordPress Speedoptimierung](https://wordpress.tv/2023/09/20/wordpress-speedoptimierung/)
 - [Wozu Design?](https://wordpress.tv/2023/09/20/wozu-design/)
 - [Der WordPress Navigations Block](https://wordpress.tv/2023/09/20/markus-winter-der-wordpress-navigations-block/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Eneko Garrido: La comunidad que dio un empujoncito a mi vida](https://wordpress.tv/2023/09/18/eneko-garrido-la-comunidad-que-dio-un-empujoncito-a-mi-vida/)
 - [Álvaro Gómez: Lost, Hirō Onoda y el Equipo de Plugins](https://wordpress.tv/2023/09/18/alvaro-gomez-lost-hiro-onoda-y-el-equipo-de-plugins/)
 - [Eva García Gallego: Cómo mejorar la experiencia de usuario para convertir en un ecommerce](https://wordpress.tv/2023/09/18/eva-garcia-gallego-como-mejorar-la-experiencia-de-usuario-para-convertir-en-un-ecommerce/)
-- [Marta Torre: Cómo hace una desarrolladora mindungui para que le hagan caso creando contenido](https://wordpress.tv/2023/09/18/marta-torre-como-hace-una-desarrolladora-mindungui-para-que-le-hagan-caso-creando-contenido/)
-- [Maylén García: Diseño: ¡El ingrediente secreto para hacer de tu contenido un éxito!](https://wordpress.tv/2023/09/18/maylen-garcia-diseno-el-ingrediente-secreto-para-hacer-de-tu-contenido-un-exito/)
 <!-- WPTV:END -->
 
 ## Marketing
