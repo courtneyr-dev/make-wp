@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/plugins/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Update: Turning the Tide](https://make.wordpress.org/plugins/2023/09/19/update-turning-the-tide/)
 - [X-post: WordPressCS 3.0.0 is now available](https://make.wordpress.org/plugins/2023/08/21/xpost-wordpresscs-3-0-0-is-now-available/)
 - [Tackling team challenges together](https://make.wordpress.org/plugins/2023/07/24/tackling-team-challenges-together/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: New Filter Controls: Discover “Commercial” and “Community” in the Theme and Plugin Directory](https://make.wordpress.org/plugins/2023/06/13/xpost-new-filter-controls-discover-commercial-and-community-in-the-theme-and-plugin-directory/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/plugins/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [Plugin Review Team Update](https://make.wordpress.org/plugins/2023/05/17/plugin-review-team-update/)
-- [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/plugins/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 <!-- PLUGINS:END -->
 
 ## Community
