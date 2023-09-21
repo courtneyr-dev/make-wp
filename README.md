@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/polyglots/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [PTE Request for Zino WordPress theme](https://make.wordpress.org/polyglots/2023/09/21/pte-request-for-zino-wordpress-theme/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-several-projects-5/)
 - [PTE Request for Redis Object Cache](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-redis-object-cache/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-my-calendar-2/)
 - [Hola amigos de habla hispana,…](https://make.wordpress.org/polyglots/2023/09/19/hola-amigos-de-habla-hispana/)
 - [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-contact-form-7-2/)
-- [I’ve suggested Spanish translations for…](https://make.wordpress.org/polyglots/2023/09/19/ive-suggested-spanish-translations-for-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
