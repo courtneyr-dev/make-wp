@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/themes/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: Default Theme Chat Agenda: September 20th, 2023](https://make.wordpress.org/themes/2023/09/20/xpost-default-theme-chat-agenda-september-20th-2023/)
 - [Theme Handbook Overhaul: Phase 3 &lpar;Publishing Content&rpar;](https://make.wordpress.org/themes/2023/09/15/theme-handbook-overhaul-phase-3-publishing-content/)
 - [X-post: Hallway Hangout: What’s new for developers in WordPress 6.4](https://make.wordpress.org/themes/2023/09/14/xpost-hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Themes team update September 5, 2023](https://make.wordpress.org/themes/2023/09/05/xpost-themes-team-update-september-5-2023/)
 - [X-post: Test Team Reps: Call for Nominations](https://make.wordpress.org/themes/2023/08/31/xpost-test-team-reps-call-for-nominations-3/)
 - [X-post: Default Theme chat summary: August 30th, 2023](https://make.wordpress.org/themes/2023/08/30/xpost-default-theme-chat-summary-august-30th-2023/)
-- [X-post: Default Theme Chat Agenda: August 30th, 2023](https://make.wordpress.org/themes/2023/08/29/xpost-default-theme-chat-agenda-august-30th-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
