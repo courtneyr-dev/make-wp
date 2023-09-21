@@ -342,6 +342,18 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Afshana Diya, Ahmed Kabir Chaion, Fahim Murshed, Ganga Kafle, Sunita Rai: Panel: WordPress Contributions: Make Global Impact From Here &amp; Leave Your Mark](https://wordpress.tv/2023/09/21/afshana-diya-ahmed-kabir-chaion-fahim-murshed-ganga-kafle-sunita-rai-panel-wordpress-contributions-make-global-impact-from-here-leave-your-mark/)
+- [Masiur Rahman Siddiki: The Art of WordPress Plugin Development: Common Mistakes to Avoid](https://wordpress.tv/2023/09/21/masiur-rahman-siddiki-the-art-of-wordpress-plugin-development-common-mistakes-to-avoid/)
+- [Hasin Hayder: Themes and Plugins – Building Modern Admin Panels with Modern JS Frameworks](https://wordpress.tv/2023/09/21/hasin-hayder-themes-and-plugins-building-modern-admin-panels-with-modern-js-frameworks/)
+- [Surendra Shrestha: Mastering Developer Tools](https://wordpress.tv/2023/09/21/surendra-shrestha-mastering-developer-tools/)
+- [Laxman Bhattarai: Your Next Website in WordPress](https://wordpress.tv/2023/09/21/laxman-bhattarai-your-next-website-in-wordpress/)
+- [Alina Kakshapati: Why should you hire mothers back into the workforce](https://wordpress.tv/2023/09/21/alina-kakshapati-why-should-you-hire-mothers-back-into-the-workforce/)
+- [Les 6 façons de faire un site](https://wordpress.tv/2023/09/21/les-6-facons-de-faire-un-site/)
+- [Est-ce que mon site est de qualité?](https://wordpress.tv/2023/09/21/est-ce-que-mon-site-est-de-qualite/)
+- [Gutenberg : rétrospective et prospective de la montée en compétence d’une agence &lpar;et de ses clients&rpar;](https://wordpress.tv/2023/09/21/gutenberg-retrospective-et-prospective-de-la-montee-en-competence-dune-agence-et-de-ses-clients/)
+- [L’aventure de la migration et de l’unification de 8 &lpar;gros&rpar; sites vers un seul site WordPress](https://wordpress.tv/2023/09/21/laventure-de-la-migration-et-de-lunification-de-8-gros-sites-vers-un-seul-site-wordpress/)
+- [En tant qu’agence WordPress, comment prendre le virage écologique sans perdre ses clients et sans Gr](https://wordpress.tv/2023/09/21/en-tant-quagence-wordpress-comment-prendre-le-virage-ecologique-sans-perdre-ses-clients-et-sans-gr/)
+- [Découvrez les extensions «pros» que vous pourriez aussi utiliser](https://wordpress.tv/2023/09/21/decouvrez-les-extensions-pros-que-vous-pourriez-aussi-utiliser/)
 - [SEO Cómo pasar de ignorado a imprescindible](https://wordpress.tv/2023/09/21/seo-como-pasar-de-ignorado-a-imprescindible/)
 - [SEO para Ecommerce: Deja que Google sea tu vendedor estrella](https://wordpress.tv/2023/09/21/seo-para-ecommerce-deja-que-google-sea-tu-vendedor-estrella/)
 - [WordPress Speedoptimierung](https://wordpress.tv/2023/09/20/wordpress-speedoptimierung/)
@@ -355,18 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Round 1! FIGHT! – Or how to survive against a malicious hacker](https://wordpress.tv/2023/09/20/round-1-fight-or-how-to-survive-against-a-malicious-hacker/)
 - [Intégrer votre site WordPress à l’écosystème client](https://wordpress.tv/2023/09/20/integrer-votre-site-wordpress-a-lecosysteme-client/)
 - [WordPress &amp; Design – Et si on arrêtait de tout compliquer ?](https://wordpress.tv/2023/09/20/wordpress-design-et-si-on-arretait-de-tout-compliquer/)
-- [Comment créer un site eCommerce optimisé pour la vente](https://wordpress.tv/2023/09/20/comment-creer-un-site-ecommerce-optimise-pour-la-vente/)
-- [Unlocking the Power of Digital Insights](https://wordpress.tv/2023/09/20/unlocking-the-power-of-digital-insights/)
-- [WordPress, Wapuus and Web3](https://wordpress.tv/2023/09/20/wordpress-wapuus-and-web3/)
-- [The new Swiss law on data protection &lpar;2023&rpar;: Its impact on websites](https://wordpress.tv/2023/09/20/the-new-swiss-law-on-data-protection-2023-its-impact-on-websites/)
-- [Nurturing your customers](https://wordpress.tv/2023/09/20/nurturing-your-customers/)
-- [Cómo gané mi primer millón gracias a WordPress](https://wordpress.tv/2023/09/19/como-gane-mi-primer-millon-gracias-a-wordpress/)
-- [Using block patterns](https://wordpress.tv/2023/09/18/using-block-patterns-4/)
-- [Wajari Velásquez: Cierre WordCamp Pontevedra 2023](https://wordpress.tv/2023/09/18/wajari-velasquez-cierre-wordcamp-pontevedra-2023/)
-- [Wajari Velásquez: Apertura WordCamp Pontevedra 2023](https://wordpress.tv/2023/09/18/wajari-velasquez-apertura-wordcamp-pontevedra-2023/)
-- [Eneko Garrido: La comunidad que dio un empujoncito a mi vida](https://wordpress.tv/2023/09/18/eneko-garrido-la-comunidad-que-dio-un-empujoncito-a-mi-vida/)
-- [Álvaro Gómez: Lost, Hirō Onoda y el Equipo de Plugins](https://wordpress.tv/2023/09/18/alvaro-gomez-lost-hiro-onoda-y-el-equipo-de-plugins/)
-- [Eva García Gallego: Cómo mejorar la experiencia de usuario para convertir en un ecommerce](https://wordpress.tv/2023/09/18/eva-garcia-gallego-como-mejorar-la-experiencia-de-usuario-para-convertir-en-un-ecommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
