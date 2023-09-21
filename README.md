@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Personalización del Admin de WordPress](https://wordpress.tv/2023/09/21/personalizacion-del-admin-de-wordpress/)
+- [Pilares de WordPress y presentación web Meetup Igualada](https://wordpress.tv/2023/09/21/pilares-de-wordpress-y-presentacion-web-meetup-igualada/)
 - [Afshana Diya, Ahmed Kabir Chaion, Fahim Murshed, Ganga Kafle, Sunita Rai: Panel: WordPress Contributions: Make Global Impact From Here &amp; Leave Your Mark](https://wordpress.tv/2023/09/21/afshana-diya-ahmed-kabir-chaion-fahim-murshed-ganga-kafle-sunita-rai-panel-wordpress-contributions-make-global-impact-from-here-leave-your-mark/)
 - [Masiur Rahman Siddiki: The Art of WordPress Plugin Development: Common Mistakes to Avoid](https://wordpress.tv/2023/09/21/masiur-rahman-siddiki-the-art-of-wordpress-plugin-development-common-mistakes-to-avoid/)
 - [Hasin Hayder: Themes and Plugins – Building Modern Admin Panels with Modern JS Frameworks](https://wordpress.tv/2023/09/21/hasin-hayder-themes-and-plugins-building-modern-admin-panels-with-modern-js-frameworks/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to automate your maintenance with Playwright](https://wordpress.tv/2023/09/20/how-to-automate-your-maintenance-with-playwright/)
 - [WordPress as Framework for REST-APIs, the secret Weapon](https://wordpress.tv/2023/09/20/wordpress-as-framework-for-rest-apis-the-secret-weapon/)
 - [Round 1! FIGHT! – Or how to survive against a malicious hacker](https://wordpress.tv/2023/09/20/round-1-fight-or-how-to-survive-against-a-malicious-hacker/)
-- [Intégrer votre site WordPress à l’écosystème client](https://wordpress.tv/2023/09/20/integrer-votre-site-wordpress-a-lecosysteme-client/)
-- [WordPress &amp; Design – Et si on arrêtait de tout compliquer ?](https://wordpress.tv/2023/09/20/wordpress-design-et-si-on-arretait-de-tout-compliquer/)
 <!-- WPTV:END -->
 
 ## Marketing
