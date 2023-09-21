@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/core/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Seeking proposals for Interop 2024](https://make.wordpress.org/core/2023/09/20/seeking-proposals-for-interop-2024/)
 - [Default Theme Chat Agenda: September 20th, 2023](https://make.wordpress.org/core/2023/09/20/default-theme-chat-agenda-september-20th-2023/)
 - [Dev Chat agenda, September 20, 2023](https://make.wordpress.org/core/2023/09/20/dev-chat-agenda-september-13-2023-2/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Performance Improvements for WordPress 6.4](https://make.wordpress.org/core/2023/09/18/hallway-hangout-performance-improvements-for-wordpress-6-4/)
 - [Editor Chat Agenda: September 20th 2023](https://make.wordpress.org/core/2023/09/18/editor-chat-agenda-september-20th-2023/)
 - [Core Editor chat summary: 13th September 2023](https://make.wordpress.org/core/2023/09/18/core-editor-chat-summary-13th-september-2023/)
-- [X-post: Community Summit Discussion Notes: Increasing contributor recognition and celebration](https://make.wordpress.org/core/2023/09/15/xpost-community-summit-discussion-notes-increasing-contributor-recognition-and-celebration/)
 <!-- CORE:END -->
 
 ## Design
