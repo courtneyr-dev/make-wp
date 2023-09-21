@@ -441,6 +441,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/photos/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [August Photo Directory Update](https://make.wordpress.org/photos/2023/08/28/august-photo-directory-update/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/photos/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/photos/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
@@ -450,7 +451,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/photos/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/photos/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/photos/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
-- [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/photos/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 <!-- PHOTOS:END -->
 
 ## Updates
