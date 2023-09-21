@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Zino WordPress theme](https://make.wordpress.org/polyglots/2023/09/21/pte-request-for-zino-wordpress-theme/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-several-projects-5/)
 - [PTE Request for Redis Object Cache](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-redis-object-cache/)
 - [Previewing patterns during translation](https://make.wordpress.org/polyglots/2023/09/20/previewing-patterns-during-translation/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hola amigos de habla hispana,…](https://make.wordpress.org/polyglots/2023/09/19/hola-amigos-de-habla-hispana/)
 - [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-contact-form-7-2/)
 - [I’ve suggested Spanish translations for…](https://make.wordpress.org/polyglots/2023/09/19/ive-suggested-spanish-translations-for-2/)
-- [Proposal: pre-translating strings in projects](https://make.wordpress.org/polyglots/2023/09/18/proposal-pre-translating-strings-in-projects/)
 <!-- POLYGLOTS:END -->
 
 ## Support
