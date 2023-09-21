@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Meeting Recap for September 20, 2023](https://make.wordpress.org/meta/2023/09/21/meeting-recap-for-september-20-2023/)
 - [Meeting Agenda for September 20, 2023](https://make.wordpress.org/meta/2023/09/20/meeting-agenda-for-september-20-2023/)
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/meta/2023/09/06/xpost-documentation-translation-localization/)
 - [Introducing the WordPress.org GitHub Invite tool](https://make.wordpress.org/meta/2023/08/23/introducing-the-wordpress-org-github-invite-tool/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Organizations Supporting WordPress.org](https://make.wordpress.org/meta/2023/08/09/organizations-supporting-wordpress-org/)
 - [Matrix chat Summary – August 3, 2023](https://make.wordpress.org/meta/2023/08/03/matrix-chat-summary-august/)
 - [Matrix chat Summary – July 20, 2023](https://make.wordpress.org/meta/2023/07/20/matrix-chat-summary-july-20-2023/)
-- [Make Team Dashboards](https://make.wordpress.org/meta/2023/06/20/make-team-dashboards/)
 <!-- META:END -->
 
 ## Training
