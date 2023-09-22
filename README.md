@@ -544,8 +544,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [Community Building Workshop Japan](https://central.wordcamp.org/wordcamps/community-building-workshop-japan/)
 - [Rome Community Day 2023](https://central.wordcamp.org/wordcamps/wordcamp-rome-2/)
-- [WordCamp Gdynia, Poland](https://central.wordcamp.org/wordcamps/wordcamp-gdynia-poland/)
 - [WordCamp Wrocław](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-2/)
 - [WordCamp Whitley Bay](https://central.wordcamp.org/wordcamps/wordcamp-whitley-bay/)
 - [WordCamp Nepal 2024](https://central.wordcamp.org/wordcamps/wordcamp-nepal-6/)
