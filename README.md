@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress Kadence Türkçe Dil Paketi &lpar;Turkish Language Pack&rpar;](https://make.wordpress.org/polyglots/2023/09/22/wordpress-kadence-turkce-dil-paketi-turkish-language-pack/)
+- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/09/22/pte-request-for-customer-reviews-for-woocommerce-25/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/polyglots/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [PTE Request for Zino WordPress theme](https://make.wordpress.org/polyglots/2023/09/21/pte-request-for-zino-wordpress-theme/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-several-projects-5/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat- September 20, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/20/agenda-weekly-polyglots-chat-september-20-2023-0700-utc/)
 - [PTE Request for CRM WordPress Plugin – RepairBuddy](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-crm-wordpress-plugin-repairbuddy-4/)
 - [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-my-calendar-2/)
-- [Hola amigos de habla hispana,…](https://make.wordpress.org/polyglots/2023/09/19/hola-amigos-de-habla-hispana/)
-- [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-contact-form-7-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
