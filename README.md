@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day September 26, 2023](https://make.wordpress.org/docs/2023/09/22/online-monthly-docs-team-contributor-day-september-26-2023/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/docs/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;September 19, 2023&rpar;](https://make.wordpress.org/docs/2023/09/18/agenda-for-docs-team-biweekly-meeting-september-19-2023/)
 - [Summary of Docs Team Biweekly Meeting &lpar;September 05, 2023&rpar;](https://make.wordpress.org/docs/2023/09/06/summary-of-docs-team-biweekly-meeting-september-05-2023/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for Docs Team Biweekly Meeting &lpar;05-Sep-2023&rpar;](https://make.wordpress.org/docs/2023/09/01/agenda-for-docs-team-bi-weekly-meeting-05-sep-2023/)
 - [Online monthly Docs Team Contributor Day August 29, 2023](https://make.wordpress.org/docs/2023/08/21/online-monthly-docs-team-contributor-day-august-29-2023/)
 - [Summary for Docs Team Meeting &lpar;15-Aug-2023&rpar;](https://make.wordpress.org/docs/2023/08/17/summary-for-docs-team-meeting-15-aug-2023/)
-- [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/docs/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 <!-- DOCS:END -->
 
 ### Support Articles
