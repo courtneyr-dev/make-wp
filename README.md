@@ -48,7 +48,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/accessibility/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: Hallway Hangout: Let’s chat about improving accessibility in the Site Editor](https://make.wordpress.org/accessibility/2023/09/14/xpost-hallway-hangout-lets-chat-about-improving-accessibility-in-the-site-editor/)
 - [Accessibility Team Meeting Agenda: September 15, 2023](https://make.wordpress.org/accessibility/2023/09/13/accessibility-team-meeting-agenda-september-15-2023/)
-- [Accessibility office hours](https://make.wordpress.org/accessibility/2023/09/13/accessibility-office-hours/)
+- [Accessibility Office Hours](https://make.wordpress.org/accessibility/2023/09/13/accessibility-office-hours/)
 - [Accessibility Team Meeting Agenda: September 1, 2023](https://make.wordpress.org/accessibility/2023/08/30/accessibility-team-meeting-agenda-september-1-2023/)
 - [WCUS 2023 Contributor Day Summary](https://make.wordpress.org/accessibility/2023/08/28/wcus-2023-contributor-day-summary/)
 - [X-post: Community Summit Discussion Notes: Accessibility in the WordPress Project](https://make.wordpress.org/accessibility/2023/08/22/xpost-community-summit-discussion-notes-accessibility-in-the-wordpress-project/)
