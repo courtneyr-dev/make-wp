@@ -342,13 +342,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Los contenidos generados por IA posicionan &lpar;lamentablemente&rpar; y ¡en esta charla os explico por qué!](https://wordpress.tv/2023/09/22/los-contenidos-generados-por-ia-posicionan-lamentablemente-y-en-esta-charla-os-explico-por-que/)
 - [Common APIs – Options](https://wordpress.tv/2023/09/22/common-apis-options/)
 - [Community Building Workshop Japan #2 100%GPL と商標を学ぼう ! クイズ大会 + Q&amp;A](https://wordpress.tv/2023/09/22/community-building-workshop-japan-september/)
 - [Personalización del Admin de WordPress](https://wordpress.tv/2023/09/21/personalizacion-del-admin-de-wordpress/)
 - [Pilares de WordPress y presentación web Meetup Igualada](https://wordpress.tv/2023/09/21/pilares-de-wordpress-y-presentacion-web-meetup-igualada/)
-- [Afshana Diya, Ahmed Kabir Chaion, Fahim Murshed, Ganga Kafle, Sunita Rai: Panel: WordPress Contributions: Make Global Impact From Here &amp; Leave Your Mark](https://wordpress.tv/2023/09/21/afshana-diya-ahmed-kabir-chaion-fahim-murshed-ganga-kafle-sunita-rai-panel-wordpress-contributions-make-global-impact-from-here-leave-your-mark/)
-- [Masiur Rahman Siddiki: The Art of WordPress Plugin Development: Common Mistakes to Avoid](https://wordpress.tv/2023/09/21/masiur-rahman-siddiki-the-art-of-wordpress-plugin-development-common-mistakes-to-avoid/)
-- [Hasin Hayder: Themes and Plugins – Building Modern Admin Panels with Modern JS Frameworks](https://wordpress.tv/2023/09/21/hasin-hayder-themes-and-plugins-building-modern-admin-panels-with-modern-js-frameworks/)
+- [Panel: WordPress Contributions: Make Global Impact From Here &amp; Leave Your Mark](https://wordpress.tv/2023/09/21/panel-wordpress-contributions-make-global-impact-from-here-leave-your-mark/)
+- [The Art of WordPress Plugin Development: Common Mistakes to Avoid](https://wordpress.tv/2023/09/21/the-art-of-wordpress-plugin-development-common-mistakes-to-avoid/)
+- [Themes and Plugins – Building Modern Admin Panels with Modern JS Frameworks](https://wordpress.tv/2023/09/21/themes-and-plugins-building-modern-admin-panels-with-modern-js-frameworks/)
 - [Surendra Shrestha: Mastering Developer Tools](https://wordpress.tv/2023/09/21/surendra-shrestha-mastering-developer-tools/)
 - [Laxman Bhattarai: Your Next Website in WordPress](https://wordpress.tv/2023/09/21/laxman-bhattarai-your-next-website-in-wordpress/)
 - [Alina Kakshapati: Why should you hire mothers back into the workforce](https://wordpress.tv/2023/09/21/alina-kakshapati-why-should-you-hire-mothers-back-into-the-workforce/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress in 2025](https://wordpress.tv/2023/09/20/wordpress-in-2025/)
 - [SEO WooCommerce let’s get that traffic, a use case](https://wordpress.tv/2023/09/20/seo-woocommerce-lets-get-that-traffic-a-use-case/)
 - [WooCommerce, but faster!](https://wordpress.tv/2023/09/20/woocommerce-but-faster/)
-- [How to automate your maintenance with Playwright](https://wordpress.tv/2023/09/20/how-to-automate-your-maintenance-with-playwright/)
 <!-- WPTV:END -->
 
 ## Marketing
