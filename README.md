@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Common APIs – Options](https://wordpress.tv/2023/09/22/common-apis-options/)
 - [Community Building Workshop Japan #2 100%GPL と商標を学ぼう ! クイズ大会 + Q&amp;A](https://wordpress.tv/2023/09/22/community-building-workshop-japan-september/)
 - [Personalización del Admin de WordPress](https://wordpress.tv/2023/09/21/personalizacion-del-admin-de-wordpress/)
 - [Pilares de WordPress y presentación web Meetup Igualada](https://wordpress.tv/2023/09/21/pilares-de-wordpress-y-presentacion-web-meetup-igualada/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO WooCommerce let’s get that traffic, a use case](https://wordpress.tv/2023/09/20/seo-woocommerce-lets-get-that-traffic-a-use-case/)
 - [WooCommerce, but faster!](https://wordpress.tv/2023/09/20/woocommerce-but-faster/)
 - [How to automate your maintenance with Playwright](https://wordpress.tv/2023/09/20/how-to-automate-your-maintenance-with-playwright/)
-- [WordPress as Framework for REST-APIs, the secret Weapon](https://wordpress.tv/2023/09/20/wordpress-as-framework-for-rest-apis-the-secret-weapon/)
 <!-- WPTV:END -->
 
 ## Marketing
