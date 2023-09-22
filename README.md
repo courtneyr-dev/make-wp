@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: September 2023](https://make.wordpress.org/community/2023/09/22/meetup-organizer-newsletter-september-2023/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on September 21, 2023](https://make.wordpress.org/community/2023/09/22/recap-of-the-contributor-working-groups-mentorship-chat-on-september-21-2023/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/community/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Attention WordPress women in India and those who support you: This important workshop this weekend is for you!](https://make.wordpress.org/community/2023/09/20/attention-wordpress-women-in-india-and-your-event-organizers-this-important-workshop-this-weekend-is-for-you/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Report: #WPDiversity Inclusion Workshops April to June 2023](https://make.wordpress.org/community/2023/09/11/report-wpdiversity-inclusion-workshops-april-to-june-2023/)
 - [Resource and Handbook Updates in Q3](https://make.wordpress.org/community/2023/09/07/resource-and-handbook-updates-in-q3/)
 - [Community Team Meeting Agenda for 7 September, 2023](https://make.wordpress.org/community/2023/09/06/community-team-meeting-agenda-for-7-september-2023/)
-- [WordCamp Mentors’ September check-in!](https://make.wordpress.org/community/2023/09/01/wordcamp-mentors-september-check-in/)
 <!-- COMMUNITY:END -->
 
 ## Meta
