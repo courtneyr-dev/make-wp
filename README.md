@@ -228,6 +228,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [একটি থিম নির্বাচন এবং ইনস্টল করা](https://learn.wordpress.org/tutorial/bn-choosing-and-installing-theme/)
+- [পেইজ বনাম পোস্টঃ পার্থক্য কি?](https://learn.wordpress.org/tutorial/bn-posts-vs-pages-whats-the-difference/)
 - [Using Block Patterns](https://learn.wordpress.org/tutorial/using-block-patterns/)
 - [The WordPress Database](https://learn.wordpress.org/tutorial/the-wordpress-database/)
 - [Creating your own custom synced or non-synced patterns](https://learn.wordpress.org/tutorial/creating-your-own-custom-synced-or-non-synced-patterns/)
@@ -251,8 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Designing with row and stack blocks](https://learn.wordpress.org/tutorial/designing-with-row-and-stack-blocks/)
 - [Developing for Multisite](https://learn.wordpress.org/tutorial/developing-for-multisite/)
 - [How to start using WordPress Playground](https://learn.wordpress.org/tutorial/how-to-start-using-wordpress-playground/)
-- [WPPhotos Moderator Training](https://learn.wordpress.org/tutorial/wpphotos-moderator-training/)
-- [Using the block editor: Tips and shortcuts for efficiency](https://learn.wordpress.org/tutorial/using-the-block-editor-tips-and-shortcuts-for-efficiency/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
