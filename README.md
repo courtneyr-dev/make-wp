@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Building a home page](https://learn.wordpress.org/?meeting=building-a-home-page)
 - [GPL in the WordPress Training Team’s Vetting Processes](https://learn.wordpress.org/?meeting=gpl-in-the-wordpress-training-teams-vetting-processes-2)
 - [GPL in the WordPress Training Team’s Vetting Processes](https://learn.wordpress.org/?meeting=gpl-in-the-wordpress-training-teams-vetting-processes)
 - [Common APIs – Options](https://learn.wordpress.org/?meeting=common-apis-options)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Let’s explore the power of block variations](https://learn.wordpress.org/?meeting=hallway-hangout-lets-explore-the-power-of-block-variations)
 - [Contributing to the Learn WordPress platform – part 2](https://learn.wordpress.org/?meeting=contributing-to-the-learn-wordpress-platform-part-2)
 - [WordPress 6.3 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-3-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
-- [The Wide World of WordPress Events](https://learn.wordpress.org/?meeting=https-www-meetup-com-learn-wordpress-online-workshops-events-295453051)
 <!-- SLS:END -->
 
 ## Test
