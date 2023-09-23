@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Hallway Hangout: What’s new for developers in WordPress 6.4](https://make.wordpress.org/training/2023/09/23/xpost-hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
 - [Proposal: Updating the Contributor Ladder to a five-path model](https://make.wordpress.org/training/2023/09/21/proposal-updating-the-contributor-ladder-to-a-five-path-model/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/training/2023/09/06/xpost-documentation-translation-localization/)
 - [WordCamp US 2023 Contributor Day Recap](https://make.wordpress.org/training/2023/09/05/wordcamp-us-2023-contributor-day-recap/)
 - [Let’s share our notes from the Community Summit](https://make.wordpress.org/training/2023/09/05/lets-share-our-notes-from-the-community-summit/)
-- [Information Sources for WordPress 6.4](https://make.wordpress.org/training/2023/08/24/information-sources-for-wordpress-6-4/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
