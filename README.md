@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Empowering Careers and Community: My WordCamp Hopper Journey](https://wordpress.tv/2023/09/23/empowering-careers-and-community-my-wordcamp-hopper-journey/)
 - [Why WordPress Community Event Matters: Introducing NextGen Event Project](https://wordpress.tv/2023/09/23/why-wordpress-community-event-matters-introducing-nextgen-event-project/)
 - [Créate manuales para ser más productivo](https://wordpress.tv/2023/09/23/create-manuales-para-ser-mas-productivo/)
 - [The Good Faith Rules &amp; A Sustainable Meetup Chapter By Rajshahi WordPress Community](https://wordpress.tv/2023/09/22/the-good-faith-rules-a-sustainable-meetup-chapter-by-rajshahi-wordpress-community/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO para Ecommerce: Deja que Google sea tu vendedor estrella](https://wordpress.tv/2023/09/21/seo-para-ecommerce-deja-que-google-sea-tu-vendedor-estrella/)
 - [WordPress Speedoptimierung](https://wordpress.tv/2023/09/20/wordpress-speedoptimierung/)
 - [Wozu Design?](https://wordpress.tv/2023/09/20/wozu-design/)
-- [Der WordPress Navigations Block](https://wordpress.tv/2023/09/20/markus-winter-der-wordpress-navigations-block/)
 <!-- WPTV:END -->
 
 ## Marketing
