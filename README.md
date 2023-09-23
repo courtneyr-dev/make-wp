@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Custom post types en WordPress](https://wordpress.tv/2023/09/23/custom-post-types-en-wordpress/)
 - [Empowering Careers and Community: My WordCamp Hopper Journey](https://wordpress.tv/2023/09/23/empowering-careers-and-community-my-wordcamp-hopper-journey/)
 - [Why WordPress Community Event Matters: Introducing NextGen Event Project](https://wordpress.tv/2023/09/23/why-wordpress-community-event-matters-introducing-nextgen-event-project/)
 - [Créate manuales para ser más productivo](https://wordpress.tv/2023/09/23/create-manuales-para-ser-mas-productivo/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO Cómo pasar de ignorado a imprescindible](https://wordpress.tv/2023/09/21/seo-como-pasar-de-ignorado-a-imprescindible/)
 - [SEO para Ecommerce: Deja que Google sea tu vendedor estrella](https://wordpress.tv/2023/09/21/seo-para-ecommerce-deja-que-google-sea-tu-vendedor-estrella/)
 - [WordPress Speedoptimierung](https://wordpress.tv/2023/09/20/wordpress-speedoptimierung/)
-- [Wozu Design?](https://wordpress.tv/2023/09/20/wozu-design/)
 <!-- WPTV:END -->
 
 ## Marketing
