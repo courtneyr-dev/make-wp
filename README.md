@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Good Faith Rules &amp; A Sustainable Meetup Chapter By Rajshahi WordPress Community](https://wordpress.tv/2023/09/22/the-good-faith-rules-a-sustainable-meetup-chapter-by-rajshahi-wordpress-community/)
 - [Los contenidos generados por IA posicionan &lpar;lamentablemente&rpar; y ¡en esta charla os explico por qué!](https://wordpress.tv/2023/09/22/los-contenidos-generados-por-ia-posicionan-lamentablemente-y-en-esta-charla-os-explico-por-que/)
 - [Common APIs – Options](https://wordpress.tv/2023/09/22/common-apis-options/)
 - [Community Building Workshop Japan #2 100%GPL と商標を学ぼう ! クイズ大会 + Q&amp;A](https://wordpress.tv/2023/09/22/community-building-workshop-japan-september/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Der WordPress Navigations Block](https://wordpress.tv/2023/09/20/markus-winter-der-wordpress-navigations-block/)
 - [WordPress in 2025](https://wordpress.tv/2023/09/20/wordpress-in-2025/)
 - [SEO WooCommerce let’s get that traffic, a use case](https://wordpress.tv/2023/09/20/seo-woocommerce-lets-get-that-traffic-a-use-case/)
-- [WooCommerce, but faster!](https://wordpress.tv/2023/09/20/woocommerce-but-faster/)
 <!-- WPTV:END -->
 
 ## Marketing
