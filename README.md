@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for CatFolders Document Gallery](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-catfolders-document-gallery/)
 - [WordPress Kadence Türkçe Dil Paketi &lpar;Turkish Language Pack&rpar;](https://make.wordpress.org/polyglots/2023/09/22/wordpress-kadence-turkce-dil-paketi-turkish-language-pack/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/09/22/pte-request-for-customer-reviews-for-woocommerce-25/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/polyglots/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Previewing patterns during translation](https://make.wordpress.org/polyglots/2023/09/20/previewing-patterns-during-translation/)
 - [Agenda: Weekly Polyglots Chat- September 20, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/20/agenda-weekly-polyglots-chat-september-20-2023-0700-utc/)
 - [PTE Request for CRM WordPress Plugin – RepairBuddy](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-crm-wordpress-plugin-repairbuddy-4/)
-- [PTE Request for My Calendar](https://make.wordpress.org/polyglots/2023/09/19/pte-request-for-my-calendar-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
