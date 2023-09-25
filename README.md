@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: End-user docs repo – workflows and settings](https://make.wordpress.org/training/2023/09/25/xpost-end-user-docs-repo-workflows-and-settings/)
 - [X-post: Hallway Hangout: What’s new for developers in WordPress 6.4](https://make.wordpress.org/training/2023/09/23/xpost-hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 5th September 2023](https://make.wordpress.org/training/2023/09/11/training-team-meeting-recap-5th-september-2023/)
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/training/2023/09/06/xpost-documentation-translation-localization/)
 - [WordCamp US 2023 Contributor Day Recap](https://make.wordpress.org/training/2023/09/05/wordcamp-us-2023-contributor-day-recap/)
-- [Let’s share our notes from the Community Summit](https://make.wordpress.org/training/2023/09/05/lets-share-our-notes-from-the-community-summit/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
