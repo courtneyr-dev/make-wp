@@ -257,7 +257,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
-- [WordPress Community Team Supporter Basics](https://learn.wordpress.org/course/wordpress-community-team-supporter-basics/)
+- [Community Team Supporter Basics](https://learn.wordpress.org/course/wordpress-community-team-supporter-basics/)
 - [Introduction to developing with the WordPress REST API](https://learn.wordpress.org/course/developing-with-the-wordpress-rest-api/)
 - [Creating a 4-page business website](https://learn.wordpress.org/course/creating-a-4-page-business-website/)
 - [Converting a Shortcode to a Block](https://learn.wordpress.org/course/converting-a-shortcode-to-a-block/)
