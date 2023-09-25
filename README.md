@@ -17,16 +17,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design Share: Sep 11-Sep 22](https://make.wordpress.org/design/2023/09/25/design-share-sep-11-sep-22/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/design/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: Accessibility office hours](https://make.wordpress.org/design/2023/09/13/xpost-accessibility-office-hours/)
-- [Design Share: Aug 28-Sep8](https://make.wordpress.org/design/2023/09/11/design-share-aug-28-sep8/)
+- [Design Share: Aug 28-Sep 8](https://make.wordpress.org/design/2023/09/11/design-share-aug-28-sep8/)
 - [Design Share: Aug 14-Aug 25](https://make.wordpress.org/design/2023/08/28/design-share-aug-14-aug-25/)
 - [Bringing Back the Weekly Design Triage](https://make.wordpress.org/design/2023/08/18/design-specific-triage/)
 - [Design Share: Jul 31-Aug 11](https://make.wordpress.org/design/2023/08/14/design-share-jul-31-aug-11/)
 - [Admin Design Kickoff](https://make.wordpress.org/design/2023/08/10/admin-design-kickoff/)
 - [Design Share: Jul 3-Jul 28](https://make.wordpress.org/design/2023/07/31/design-share-jul-3-jul-28/)
 - [Design Share: Jun 19–Jun 30](https://make.wordpress.org/design/2023/07/03/design-share-jun-19-jun-30/)
-- [Design Share: Jun 5–Jun 16](https://make.wordpress.org/design/2023/06/19/design-share-jun-5-jun-16/)
 <!-- DESIGN:END -->
 
 ## Mobile
