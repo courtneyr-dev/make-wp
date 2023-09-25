@@ -517,10 +517,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-3/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-3/)
 - [Biomass Trader](https://jobs.wordpress.net/job/biomass-trader/)
-- [Full-stack developer on WP](https://jobs.wordpress.net/job/full-stack-developer-on-wp/)
 - [Full Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-12/)
 - [Senior Developer](https://jobs.wordpress.net/job/senior-developer-11/)
 - [PHP WordPress Developer &lpar;Junior/mid-level&rpar;](https://jobs.wordpress.net/job/php-wordpress-developer-junior-mid-level/)
+- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-2/)
 <!-- JOBS:END -->
 
 ## Central
