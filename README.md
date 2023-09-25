@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Prayer II](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-wp-prayer-ii-2/)
 - [X-post: End-user docs repo – workflows and settings](https://make.wordpress.org/polyglots/2023/09/25/xpost-end-user-docs-repo-workflows-and-settings/)
 - [PTE Request for CatFolders Document Gallery](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-catfolders-document-gallery/)
 - [WordPress Kadence Türkçe Dil Paketi &lpar;Turkish Language Pack&rpar;](https://make.wordpress.org/polyglots/2023/09/22/wordpress-kadence-turkce-dil-paketi-turkish-language-pack/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-several-projects-5/)
 - [PTE Request for Redis Object Cache](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-redis-object-cache/)
 - [Previewing patterns during translation](https://make.wordpress.org/polyglots/2023/09/20/previewing-patterns-during-translation/)
-- [Agenda: Weekly Polyglots Chat- September 20, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/09/20/agenda-weekly-polyglots-chat-september-20-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
