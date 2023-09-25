@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Common APIs – Settings](https://learn.wordpress.org/?meeting=common-apis-settings)
 - [Developer Hours: Building better blocks with the ‘create-block’ package](https://learn.wordpress.org/?meeting=developer-hours-building-better-blocks-with-the-create-block-package)
 - [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress-4)
 - [APAC: Building a home page](https://learn.wordpress.org/?meeting=apac-building-a-home-page)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=41489)
 - [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team-2)
-- [How to facilitate or co-host an Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-or-co-host-an-online-workshop-for-the-wordpress-training-team)
 <!-- SLS:END -->
 
 ## Test
