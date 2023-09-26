@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Graceful Blog](https://make.wordpress.org/polyglots/2023/09/26/pte-request-for-graceful-blog/)
+- [PTE Request for Payment Gateway…](https://make.wordpress.org/polyglots/2023/09/26/pte-request-for-payment-gateway/)
 - [PTE Request for WP Prayer II](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-wp-prayer-ii-2/)
 - [X-post: End-user docs repo – workflows and settings](https://make.wordpress.org/polyglots/2023/09/25/xpost-end-user-docs-repo-workflows-and-settings/)
 - [PTE Request for CatFolders Document Gallery](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-catfolders-document-gallery/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/polyglots/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [PTE Request for Zino WordPress theme](https://make.wordpress.org/polyglots/2023/09/21/pte-request-for-zino-wordpress-theme/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-several-projects-5/)
-- [PTE Request for Redis Object Cache](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-redis-object-cache/)
-- [Previewing patterns during translation](https://make.wordpress.org/polyglots/2023/09/20/previewing-patterns-during-translation/)
 <!-- POLYGLOTS:END -->
 
 ## Support
