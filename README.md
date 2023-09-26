@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Gutenberg Engineer](https://jobs.wordpress.net/job/rtcamp-gutenberg-engineer-15/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-58/)
+- [Install and Layout WordPress Plugin:  Bookings / Course Registration Plugin Installation](https://jobs.wordpress.net/job/install-and-layout-wordpress-plugin-bookings-course-registration-plugin-installation/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-10/)
 - [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-3/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-3/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-3/)
 - [Biomass Trader](https://jobs.wordpress.net/job/biomass-trader/)
 - [Full Stack Web Developer](https://jobs.wordpress.net/job/full-stack-web-developer-12/)
-- [Senior Developer](https://jobs.wordpress.net/job/senior-developer-11/)
-- [PHP WordPress Developer &lpar;Junior/mid-level&rpar;](https://jobs.wordpress.net/job/php-wordpress-developer-junior-mid-level/)
-- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-2/)
 <!-- JOBS:END -->
 
 ## Central
