@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Help Influence the Future of WordPress by Taking the 2023 Annual Survey Today](https://wordpress.org/news/2023/09/help-influence-the-future-of-wordpress-by-taking-the-2023-annual-survey-today/)
 - [WordPress 6.4 Beta 1](https://wordpress.org/news/2023/09/wordpress-6-4-beta-1/)
 - [WP Briefing: Episode 62: Enterprise Clients and the Business of WordPress](https://wordpress.org/news/2023/09/episode-62-enterprise-clients-and-the-business-of-wordpress/)
 - [Openverse Wins the 2023 OEG Open Infrastructure Award](https://wordpress.org/news/2023/09/openverse-wins-the-2023-oeg-open-infrastructure-award/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Future of WordPress &amp; What’s Next for Gutenberg](https://wordpress.org/news/2023/08/the-future-of-wordpress-whats-next-for-gutenberg/)
 - [WP20 – A Heartfelt Thanks](https://wordpress.org/news/2023/08/wp20-a-heartfelt-thanks/)
 - [WordPress 6.3 “Lionel”](https://wordpress.org/news/2023/08/lionel/)
-- [Concerns over the European Union’s Cyber Resilience Act &lpar;CRA&rpar;](https://wordpress.org/news/2023/08/concerns-over-the-european-unions-cyber-resilience-act-cra/)
 <!-- NEWS:END -->
 
 ## Jobs
