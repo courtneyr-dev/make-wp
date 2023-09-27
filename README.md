@@ -286,6 +286,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team-2)
+- [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress-2)
 - [Common APIs – Settings](https://learn.wordpress.org/?meeting=common-apis-settings)
 - [Developer Hours: Building better blocks with the ‘create-block’ package](https://learn.wordpress.org/?meeting=developer-hours-building-better-blocks-with-the-create-block-package)
@@ -309,8 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-13)
 - [APAC: Using the navigation block](https://learn.wordpress.org/?meeting=apac-using-the-navigation-block)
 - [Using the navigation block](https://learn.wordpress.org/?meeting=using-the-navigation-block-3)
-- [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata)
-- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=41489)
 <!-- SLS:END -->
 
 ## Test
