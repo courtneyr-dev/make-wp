@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for MC4WP: Mailchimp for WordPress](https://make.wordpress.org/polyglots/2023/09/27/pte-request-for-mc4wp-mailchimp-for-wordpress/)
 - [PTE Request for Graceful Blog](https://make.wordpress.org/polyglots/2023/09/26/pte-request-for-graceful-blog/)
 - [PTE Request for Payment Gateway…](https://make.wordpress.org/polyglots/2023/09/26/pte-request-for-payment-gateway/)
 - [PTE Request for WP Prayer II](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-wp-prayer-ii-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/09/22/pte-request-for-customer-reviews-for-woocommerce-25/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/polyglots/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [PTE Request for Zino WordPress theme](https://make.wordpress.org/polyglots/2023/09/21/pte-request-for-zino-wordpress-theme/)
-- [PTE Request for several projects](https://make.wordpress.org/polyglots/2023/09/20/pte-request-for-several-projects-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
