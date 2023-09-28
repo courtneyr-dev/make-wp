@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Building better blocks with the create-block package](https://wordpress.tv/2023/09/27/developer-hours-building-better-blocks-with-the-create-block-package/)
 - [GPL in the WordPress Training Team’s Vetting Processes](https://wordpress.tv/2023/09/25/gpl-in-the-wordpress-training-teams-vetting-processes/)
 - [Custom post types en WordPress](https://wordpress.tv/2023/09/23/custom-post-types-en-wordpress/)
 - [Empowering Careers and Community: My WordCamp Hopper Journey](https://wordpress.tv/2023/09/23/empowering-careers-and-community-my-wordcamp-hopper-journey/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [En tant qu’agence WordPress, comment prendre le virage écologique sans perdre ses clients et sans Gr](https://wordpress.tv/2023/09/21/en-tant-quagence-wordpress-comment-prendre-le-virage-ecologique-sans-perdre-ses-clients-et-sans-gr/)
 - [Découvrez les extensions «pros» que vous pourriez aussi utiliser](https://wordpress.tv/2023/09/21/decouvrez-les-extensions-pros-que-vous-pourriez-aussi-utiliser/)
 - [SEO Cómo pasar de ignorado a imprescindible](https://wordpress.tv/2023/09/21/seo-como-pasar-de-ignorado-a-imprescindible/)
-- [SEO para Ecommerce: Deja que Google sea tu vendedor estrella](https://wordpress.tv/2023/09/21/seo-para-ecommerce-deja-que-google-sea-tu-vendedor-estrella/)
 <!-- WPTV:END -->
 
 ## Marketing
