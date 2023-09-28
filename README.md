@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sulaiman Misri: Turn your WordPress site into Mobile Application](https://wordpress.tv/2023/09/28/sulaiman-misri-turn-your-wordpress-site-into-mobile-application/)
+- [Laura Kuimba Yu: Empowering Women in Digital Spaces: Reflections on WordPress](https://wordpress.tv/2023/09/28/laura-kuimba-yu-empowering-women-in-digital-spaces-reflections-on-wordpress/)
+- [Gan Eng Chin: Building An Awesome Company Culture with WordPress](https://wordpress.tv/2023/09/28/gan-eng-chin-building-an-awesome-company-culture-with-wordpress/)
+- [Amirul Nordin: Memahami dan Cara Membetulkan isu “Keyword Cannibalization” untuk SEO](https://wordpress.tv/2023/09/28/amirul-nordin-memahami-dan-cara-membetulkan-isu-keyword-cannibalization-untuk-seo/)
 - [Developer Hours: Building better blocks with the create-block package](https://wordpress.tv/2023/09/27/developer-hours-building-better-blocks-with-the-create-block-package/)
 - [GPL in the WordPress Training Team’s Vetting Processes](https://wordpress.tv/2023/09/25/gpl-in-the-wordpress-training-teams-vetting-processes/)
 - [Custom post types en WordPress](https://wordpress.tv/2023/09/23/custom-post-types-en-wordpress/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Les 6 façons de faire un site](https://wordpress.tv/2023/09/21/les-6-facons-de-faire-un-site/)
 - [Est-ce que mon site est de qualité?](https://wordpress.tv/2023/09/21/est-ce-que-mon-site-est-de-qualite/)
 - [Gutenberg : rétrospective et prospective de la montée en compétence d’une agence &lpar;et de ses clients&rpar;](https://wordpress.tv/2023/09/21/gutenberg-retrospective-et-prospective-de-la-montee-en-competence-dune-agence-et-de-ses-clients/)
-- [L’aventure de la migration et de l’unification de 8 &lpar;gros&rpar; sites vers un seul site WordPress](https://wordpress.tv/2023/09/21/laventure-de-la-migration-et-de-lunification-de-8-gros-sites-vers-un-seul-site-wordpress/)
-- [En tant qu’agence WordPress, comment prendre le virage écologique sans perdre ses clients et sans Gr](https://wordpress.tv/2023/09/21/en-tant-quagence-wordpress-comment-prendre-le-virage-ecologique-sans-perdre-ses-clients-et-sans-gr/)
-- [Découvrez les extensions «pros» que vous pourriez aussi utiliser](https://wordpress.tv/2023/09/21/decouvrez-les-extensions-pros-que-vous-pourriez-aussi-utiliser/)
-- [SEO Cómo pasar de ignorado a imprescindible](https://wordpress.tv/2023/09/21/seo-como-pasar-de-ignorado-a-imprescindible/)
 <!-- WPTV:END -->
 
 ## Marketing
