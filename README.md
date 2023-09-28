@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Global Settings and Styles &lpar;theme.json&rpar;](https://developer.wordpress.org/themes/global-settings-and-styles/)
 - [Node.js development environment](https://developer.wordpress.org/block-editor/getting-started/devenv/nodejs-development-environment/)
 - [Get started with wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-env/)
 - [Get started with wp-now](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-now/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Enqueueing assets in the Editor](https://developer.wordpress.org/block-editor/how-to-guides/enqueueing-assets-in-the-editor/)
 - [@wordpress/patterns](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-patterns/)
 - [@wordpress/sync](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-sync/)
-- [wp_cache_set_users_last_changed&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_cache_set_users_last_changed/)
 <!-- DEVHUB:END -->
 
 ## Themes
