@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for YASR Plugin](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-yasr-plugin/)
+- [PTE Request for Scroll To Top Button](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-scroll-to-top-button/)
 - [PTE Request for Cache Enabler](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-cache-enabler/)
 - [PTE Request for Shopeo Theme](https://make.wordpress.org/polyglots/2023/09/27/pte-request-for-shopeo-theme/)
 - [PTE Request for MC4WP: Mailchimp for WordPress](https://make.wordpress.org/polyglots/2023/09/27/pte-request-for-mc4wp-mailchimp-for-wordpress/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WP Prayer II](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-wp-prayer-ii-2/)
 - [X-post: End-user docs repo – workflows and settings](https://make.wordpress.org/polyglots/2023/09/25/xpost-end-user-docs-repo-workflows-and-settings/)
 - [PTE Request for CatFolders Document Gallery](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-catfolders-document-gallery/)
-- [WordPress Kadence Türkçe Dil Paketi &lpar;Turkish Language Pack&rpar;](https://make.wordpress.org/polyglots/2023/09/22/wordpress-kadence-turkce-dil-paketi-turkish-language-pack/)
-- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2023/09/22/pte-request-for-customer-reviews-for-woocommerce-25/)
 <!-- POLYGLOTS:END -->
 
 ## Support
