@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Proposed 2024 Global Community Sponsorship Program](https://make.wordpress.org/community/2023/09/28/proposed-2024-global-community-sponsorship-program/)
 - [Meetup Organizer Newsletter: September 2023](https://make.wordpress.org/community/2023/09/22/meetup-organizer-newsletter-september-2023/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on September 21, 2023](https://make.wordpress.org/community/2023/09/22/recap-of-the-contributor-working-groups-mentorship-chat-on-september-21-2023/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/community/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Report: #WPDiversity Inclusion and Diverse Speaker Workshops July to August 2023](https://make.wordpress.org/community/2023/09/13/report-wpdiversity-inclusion-and-diverse-speaker-workshops-july-to-august-2023/)
 - [Report: #WPDiversity Inclusion Workshops April to June 2023](https://make.wordpress.org/community/2023/09/11/report-wpdiversity-inclusion-workshops-april-to-june-2023/)
 - [Resource and Handbook Updates in Q3](https://make.wordpress.org/community/2023/09/07/resource-and-handbook-updates-in-q3/)
-- [Community Team Meeting Agenda for 7 September, 2023](https://make.wordpress.org/community/2023/09/06/community-team-meeting-agenda-for-7-september-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
