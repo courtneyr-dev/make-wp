@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Common WordPress APIs: Settings API](https://wordpress.tv/2023/09/29/common-wordpress-apis-settings-api/)
 - [Sulaiman Misri: Turn your WordPress site into Mobile Application](https://wordpress.tv/2023/09/28/sulaiman-misri-turn-your-wordpress-site-into-mobile-application/)
 - [Laura Kuimba Yu: Empowering Women in Digital Spaces: Reflections on WordPress](https://wordpress.tv/2023/09/28/laura-kuimba-yu-empowering-women-in-digital-spaces-reflections-on-wordpress/)
 - [Gan Eng Chin: Building An Awesome Company Culture with WordPress](https://wordpress.tv/2023/09/28/gan-eng-chin-building-an-awesome-company-culture-with-wordpress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alina Kakshapati: Why should you hire mothers back into the workforce](https://wordpress.tv/2023/09/21/alina-kakshapati-why-should-you-hire-mothers-back-into-the-workforce/)
 - [Les 6 façons de faire un site](https://wordpress.tv/2023/09/21/les-6-facons-de-faire-un-site/)
 - [Est-ce que mon site est de qualité?](https://wordpress.tv/2023/09/21/est-ce-que-mon-site-est-de-qualite/)
-- [Gutenberg : rétrospective et prospective de la montée en compétence d’une agence &lpar;et de ses clients&rpar;](https://wordpress.tv/2023/09/21/gutenberg-retrospective-et-prospective-de-la-montee-en-competence-dune-agence-et-de-ses-clients/)
 <!-- WPTV:END -->
 
 ## Marketing
