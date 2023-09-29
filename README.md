@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2023/09/29/pte-request-for-buddypress-3/)
 - [PTE Request for YASR Plugin](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-yasr-plugin/)
 - [PTE Request for Scroll To Top Button](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-scroll-to-top-button/)
 - [PTE Request for Cache Enabler](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-cache-enabler/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Payment Gateway…](https://make.wordpress.org/polyglots/2023/09/26/pte-request-for-payment-gateway/)
 - [PTE Request for WP Prayer II](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-wp-prayer-ii-2/)
 - [X-post: End-user docs repo – workflows and settings](https://make.wordpress.org/polyglots/2023/09/25/xpost-end-user-docs-repo-workflows-and-settings/)
-- [PTE Request for CatFolders Document Gallery](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-catfolders-document-gallery/)
 <!-- POLYGLOTS:END -->
 
 ## Support
