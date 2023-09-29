@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Announcement: Sunsetting Tagregator plugin on WordCamp.org websites](https://make.wordpress.org/community/2023/09/29/announcement-sunsetting-tagregator-plugin-on-wordcamp-org-websites/)
 - [Community Team Engagement Program Supporter Survey 2023](https://make.wordpress.org/community/2023/09/28/community-team-engagement-program-supporter-survey-2023/)
 - [Proposed 2024 Global Community Sponsorship Program](https://make.wordpress.org/community/2023/09/28/proposed-2024-global-community-sponsorship-program/)
 - [Meetup Organizer Newsletter: September 2023](https://make.wordpress.org/community/2023/09/22/meetup-organizer-newsletter-september-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Japan to Rome: Recent and Upcoming Next Generation WordPress Events](https://make.wordpress.org/community/2023/09/19/from-japan-to-rome-recent-and-upcoming-next-generation-wordpress-events/)
 - [Contributor Working Group: Mentorship Chat Agenda | September 21st 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/09/19/contributor-working-group-mentorship-chat-agenda-september-21st-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Report: #WPDiversity Inclusion and Diverse Speaker Workshops July to August 2023](https://make.wordpress.org/community/2023/09/13/report-wpdiversity-inclusion-and-diverse-speaker-workshops-july-to-august-2023/)
-- [Report: #WPDiversity Inclusion Workshops April to June 2023](https://make.wordpress.org/community/2023/09/11/report-wpdiversity-inclusion-workshops-april-to-june-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
