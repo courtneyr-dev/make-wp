@@ -342,6 +342,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Content creation with the help of AI](https://wordpress.tv/2023/09/29/content-creation-with-the-help-of-ai/)
+- [The art of the code review](https://wordpress.tv/2023/09/29/the-art-of-the-code-review/)
+- [Tomorrow’s generation’s perspective on WordPress](https://wordpress.tv/2023/09/29/tomorrows-generations-perspective-on-wordpress/)
+- [Static WordPress – a quick introduction to running a static WordPress website](https://wordpress.tv/2023/09/29/static-wordpress-a-quick-introduction-to-running-a-static-wordpress-website/)
+- [How can any website benefit from WordPress’s editing experience thanks to Gutenberg?](https://wordpress.tv/2023/09/29/how-can-any-website-benefit-from-wordpresss-editing-experience-thanks-to-gutenberg/)
+- [State of WordPress security – insights from 2022](https://wordpress.tv/2023/09/29/state-of-wordpress-security-insights-from-2022/)
+- [Innovating inclusion: harnessing AI for accessibility](https://wordpress.tv/2023/09/29/innovating-inclusion-harnessing-ai-for-accessibility/)
+- [Don’t sell WordPress like it’s 2016: the evolving landscape of WordPress marketing](https://wordpress.tv/2023/09/29/dont-sell-wordpress-like-its-2016-the-evolving-landscape-of-wordpress-marketing/)
+- [WordPress performance: community perspectives](https://wordpress.tv/2023/09/29/wordpress-performance-community-perspectives/)
 - [Common APIs – Responsive Images](https://wordpress.tv/2023/09/29/jonathan-bossenger-common-apis-responsive-images/)
 - [Common WordPress APIs: Settings API](https://wordpress.tv/2023/09/29/common-wordpress-apis-settings-api/)
 - [Sulaiman Misri: Turn your WordPress site into Mobile Application](https://wordpress.tv/2023/09/28/sulaiman-misri-turn-your-wordpress-site-into-mobile-application/)
@@ -358,15 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Los contenidos generados por IA posicionan &lpar;lamentablemente&rpar; y ¡en esta charla os explico por qué!](https://wordpress.tv/2023/09/22/los-contenidos-generados-por-ia-posicionan-lamentablemente-y-en-esta-charla-os-explico-por-que/)
 - [Common APIs – Options](https://wordpress.tv/2023/09/22/common-apis-options/)
 - [Community Building Workshop Japan #2 100%GPL と商標を学ぼう ! クイズ大会 + Q&amp;A](https://wordpress.tv/2023/09/22/community-building-workshop-japan-september/)
-- [Personalización del Admin de WordPress](https://wordpress.tv/2023/09/21/personalizacion-del-admin-de-wordpress/)
-- [Pilares de WordPress y presentación web Meetup Igualada](https://wordpress.tv/2023/09/21/pilares-de-wordpress-y-presentacion-web-meetup-igualada/)
-- [Panel: WordPress Contributions: Make Global Impact From Here &amp; Leave Your Mark](https://wordpress.tv/2023/09/21/panel-wordpress-contributions-make-global-impact-from-here-leave-your-mark/)
-- [The Art of WordPress Plugin Development: Common Mistakes to Avoid](https://wordpress.tv/2023/09/21/the-art-of-wordpress-plugin-development-common-mistakes-to-avoid/)
-- [Themes and Plugins – Building Modern Admin Panels with Modern JS Frameworks](https://wordpress.tv/2023/09/21/themes-and-plugins-building-modern-admin-panels-with-modern-js-frameworks/)
-- [Surendra Shrestha: Mastering Developer Tools](https://wordpress.tv/2023/09/21/surendra-shrestha-mastering-developer-tools/)
-- [Laxman Bhattarai: Your Next Website in WordPress](https://wordpress.tv/2023/09/21/laxman-bhattarai-your-next-website-in-wordpress/)
-- [Alina Kakshapati: Why should you hire mothers back into the workforce](https://wordpress.tv/2023/09/21/alina-kakshapati-why-should-you-hire-mothers-back-into-the-workforce/)
-- [Les 6 façons de faire un site](https://wordpress.tv/2023/09/21/les-6-facons-de-faire-un-site/)
 <!-- WPTV:END -->
 
 ## Marketing
