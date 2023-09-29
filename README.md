@@ -483,6 +483,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [MC Access for Héctor Prieto](https://make.wordpress.org/systems/2023/09/29/mc-access-for-hector-prieto/)
 - [Help Scout DKIM update](https://make.wordpress.org/systems/2023/09/20/help-scout-dkim-update/)
 - [Email for events.wordpress.org](https://make.wordpress.org/systems/2023/08/16/email-for-events-wordpress-org/)
 - [Email Forward for forum-moderation](https://make.wordpress.org/systems/2023/08/03/email-forward-for-forum-moderation/)
@@ -492,7 +493,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Redirect *.forums.wordpress.org](https://make.wordpress.org/systems/2023/06/08/redirect-forums-wordpress-org/)
 - [I currently have a wp.org…](https://make.wordpress.org/systems/2023/06/07/i-currently-have-a-wp-org/)
 - [MC access for ryelle](https://make.wordpress.org/systems/2023/06/01/mc-access-for-ryelle/)
-- [GitHub SSH host key update – SVN-Git sync](https://make.wordpress.org/systems/2023/03/28/github-ssh-host-key-update-svn-git-sync/)
 <!-- SYSTEMS:END -->
 
 ## News
