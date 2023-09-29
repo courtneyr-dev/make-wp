@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Common APIs – Responsive Images](https://wordpress.tv/2023/09/29/jonathan-bossenger-common-apis-responsive-images/)
 - [Common WordPress APIs: Settings API](https://wordpress.tv/2023/09/29/common-wordpress-apis-settings-api/)
 - [Sulaiman Misri: Turn your WordPress site into Mobile Application](https://wordpress.tv/2023/09/28/sulaiman-misri-turn-your-wordpress-site-into-mobile-application/)
 - [Laura Kuimba Yu: Empowering Women in Digital Spaces: Reflections on WordPress](https://wordpress.tv/2023/09/28/laura-kuimba-yu-empowering-women-in-digital-spaces-reflections-on-wordpress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Laxman Bhattarai: Your Next Website in WordPress](https://wordpress.tv/2023/09/21/laxman-bhattarai-your-next-website-in-wordpress/)
 - [Alina Kakshapati: Why should you hire mothers back into the workforce](https://wordpress.tv/2023/09/21/alina-kakshapati-why-should-you-hire-mothers-back-into-the-workforce/)
 - [Les 6 façons de faire un site](https://wordpress.tv/2023/09/21/les-6-facons-de-faire-un-site/)
-- [Est-ce que mon site est de qualité?](https://wordpress.tv/2023/09/21/est-ce-que-mon-site-est-de-qualite/)
 <!-- WPTV:END -->
 
 ## Marketing
