@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Simple Newsletter Plugin – Noptin.](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-simple-newsletter-plugin-noptin/)
 - [PTE Request for Post Carousel Divi](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-post-carousel-divi/)
 - [PTE Request for The Plus Addons for Elementor](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-the-plus-addons-for-elementor/)
 - [PTE Request for SeatReg I…](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-seatreg-i/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Cache Enabler](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-cache-enabler/)
 - [PTE Request for Shopeo Theme](https://make.wordpress.org/polyglots/2023/09/27/pte-request-for-shopeo-theme/)
 - [PTE Request for MC4WP: Mailchimp for WordPress](https://make.wordpress.org/polyglots/2023/09/27/pte-request-for-mc4wp-mailchimp-for-wordpress/)
-- [PTE Request for Graceful Blog](https://make.wordpress.org/polyglots/2023/09/26/pte-request-for-graceful-blog/)
 <!-- POLYGLOTS:END -->
 
 ## Support
