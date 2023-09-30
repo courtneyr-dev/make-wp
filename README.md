@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Post Carousel Divi](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-post-carousel-divi/)
+- [PTE Request for The Plus Addons for Elementor](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-the-plus-addons-for-elementor/)
+- [PTE Request for SeatReg I…](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-seatreg-i/)
 - [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2023/09/29/pte-request-for-buddypress-3/)
 - [PTE Request for YASR Plugin](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-yasr-plugin/)
 - [PTE Request for Scroll To Top Button](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-scroll-to-top-button/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Shopeo Theme](https://make.wordpress.org/polyglots/2023/09/27/pte-request-for-shopeo-theme/)
 - [PTE Request for MC4WP: Mailchimp for WordPress](https://make.wordpress.org/polyglots/2023/09/27/pte-request-for-mc4wp-mailchimp-for-wordpress/)
 - [PTE Request for Graceful Blog](https://make.wordpress.org/polyglots/2023/09/26/pte-request-for-graceful-blog/)
-- [PTE Request for Payment Gateway…](https://make.wordpress.org/polyglots/2023/09/26/pte-request-for-payment-gateway/)
-- [PTE Request for WP Prayer II](https://make.wordpress.org/polyglots/2023/09/25/pte-request-for-wp-prayer-ii-2/)
-- [X-post: End-user docs repo – workflows and settings](https://make.wordpress.org/polyglots/2023/09/25/xpost-end-user-docs-repo-workflows-and-settings/)
 <!-- POLYGLOTS:END -->
 
 ## Support
