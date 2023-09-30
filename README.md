@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [PHP compatibility testing with PHPCompatibilityWP](https://learn.wordpress.org/?meeting=php-compatibility-testing-with-phpcompatibilitywp)
 - [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team-2)
 - [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress-2)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata-2)
 - [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-13)
 - [APAC: Using the navigation block](https://learn.wordpress.org/?meeting=apac-using-the-navigation-block)
-- [Using the navigation block](https://learn.wordpress.org/?meeting=using-the-navigation-block-3)
 <!-- SLS:END -->
 
 ## Test
