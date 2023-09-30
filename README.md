@@ -342,6 +342,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Don’t let indirect taxes stop you from selling online!](https://wordpress.tv/2023/09/30/dont-let-indirect-taxes-stop-you-from-selling-online/)
+- [Creating MRR for WP agency owners. A critical look at current and future business models](https://wordpress.tv/2023/09/30/creating-mrr-for-wp-agency-owners-a-critical-look-at-current-and-future-business-models/)
+- [The freelancers’ guide to client onboarding](https://wordpress.tv/2023/09/30/the-freelancers-guide-to-client-onboarding/)
+- [WordPress extended: build unique websites on top of WP](https://wordpress.tv/2023/09/30/wordpress-extended-build-unique-websites-on-top-of-wp/)
+- [The brand of You](https://wordpress.tv/2023/09/30/the-brand-of-you/)
+- [Where did we come from?](https://wordpress.tv/2023/09/30/where-did-we-come-from/)
+- [10 things that all WordPress plugin developers should avoid](https://wordpress.tv/2023/09/30/10-things-that-all-wordpress-plugin-developers-should-avoid/)
+- [You say you support women in tech](https://wordpress.tv/2023/09/30/you-say-you-support-women-in-tech/)
+- [Women and non-binary folx of WordPress](https://wordpress.tv/2023/09/30/women-and-non-binary-folx-of-wordpress/)
+- [Growing product businesses through partnership](https://wordpress.tv/2023/09/30/growing-product-businesses-through-partnership/)
+- [Should you raise capital for your WordPress business?](https://wordpress.tv/2023/09/30/should-you-raise-capital-for-your-wordpress-business/)
 - [How to ask for web design feedback](https://wordpress.tv/2023/09/30/how-to-ask-for-web-design-feedback/)
 - [Building high-performance headless WordPress systems – main challenges and solutions](https://wordpress.tv/2023/09/30/building-high-performance-headless-wordpress-systems-main-challenges-and-solutions/)
 - [Test instead of guessing – generate more leads through growth hacking](https://wordpress.tv/2023/09/30/test-instead-of-guessing-generate-more-leads-through-growth-hacking/)
@@ -356,17 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress performance: community perspectives](https://wordpress.tv/2023/09/29/wordpress-performance-community-perspectives/)
 - [Common APIs – Responsive Images](https://wordpress.tv/2023/09/29/jonathan-bossenger-common-apis-responsive-images/)
 - [Common WordPress APIs: Settings API](https://wordpress.tv/2023/09/29/common-wordpress-apis-settings-api/)
-- [Sulaiman Misri: Turn your WordPress site into Mobile Application](https://wordpress.tv/2023/09/28/sulaiman-misri-turn-your-wordpress-site-into-mobile-application/)
-- [Laura Kuimba Yu: Empowering Women in Digital Spaces: Reflections on WordPress](https://wordpress.tv/2023/09/28/laura-kuimba-yu-empowering-women-in-digital-spaces-reflections-on-wordpress/)
-- [Gan Eng Chin: Building An Awesome Company Culture with WordPress](https://wordpress.tv/2023/09/28/gan-eng-chin-building-an-awesome-company-culture-with-wordpress/)
-- [Amirul Nordin: Memahami dan Cara Membetulkan isu “Keyword Cannibalization” untuk SEO](https://wordpress.tv/2023/09/28/amirul-nordin-memahami-dan-cara-membetulkan-isu-keyword-cannibalization-untuk-seo/)
-- [Developer Hours: Building better blocks with the create-block package](https://wordpress.tv/2023/09/27/developer-hours-building-better-blocks-with-the-create-block-package/)
-- [GPL in the WordPress Training Team’s Vetting Processes](https://wordpress.tv/2023/09/25/gpl-in-the-wordpress-training-teams-vetting-processes/)
-- [Custom post types en WordPress](https://wordpress.tv/2023/09/23/custom-post-types-en-wordpress/)
-- [Empowering Careers and Community: My WordCamp Hopper Journey](https://wordpress.tv/2023/09/23/empowering-careers-and-community-my-wordcamp-hopper-journey/)
-- [Why WordPress Community Event Matters: Introducing NextGen Event Project](https://wordpress.tv/2023/09/23/why-wordpress-community-event-matters-introducing-nextgen-event-project/)
-- [Créate manuales para ser más productivo](https://wordpress.tv/2023/09/23/create-manuales-para-ser-mas-productivo/)
-- [The Good Faith Rules &amp; A Sustainable Meetup Chapter By Rajshahi WordPress Community](https://wordpress.tv/2023/09/22/the-good-faith-rules-a-sustainable-meetup-chapter-by-rajshahi-wordpress-community/)
 <!-- WPTV:END -->
 
 ## Marketing
