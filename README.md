@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to ask for web design feedback](https://wordpress.tv/2023/09/30/how-to-ask-for-web-design-feedback/)
+- [Building high-performance headless WordPress systems – main challenges and solutions](https://wordpress.tv/2023/09/30/building-high-performance-headless-wordpress-systems-main-challenges-and-solutions/)
+- [Test instead of guessing – generate more leads through growth hacking](https://wordpress.tv/2023/09/30/test-instead-of-guessing-generate-more-leads-through-growth-hacking/)
 - [Content creation with the help of AI](https://wordpress.tv/2023/09/29/content-creation-with-the-help-of-ai/)
 - [The art of the code review](https://wordpress.tv/2023/09/29/the-art-of-the-code-review/)
 - [Tomorrow’s generation’s perspective on WordPress](https://wordpress.tv/2023/09/29/tomorrows-generations-perspective-on-wordpress/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Why WordPress Community Event Matters: Introducing NextGen Event Project](https://wordpress.tv/2023/09/23/why-wordpress-community-event-matters-introducing-nextgen-event-project/)
 - [Créate manuales para ser más productivo](https://wordpress.tv/2023/09/23/create-manuales-para-ser-mas-productivo/)
 - [The Good Faith Rules &amp; A Sustainable Meetup Chapter By Rajshahi WordPress Community](https://wordpress.tv/2023/09/22/the-good-faith-rules-a-sustainable-meetup-chapter-by-rajshahi-wordpress-community/)
-- [Los contenidos generados por IA posicionan &lpar;lamentablemente&rpar; y ¡en esta charla os explico por qué!](https://wordpress.tv/2023/09/22/los-contenidos-generados-por-ia-posicionan-lamentablemente-y-en-esta-charla-os-explico-por-que/)
-- [Common APIs – Options](https://wordpress.tv/2023/09/22/common-apis-options/)
-- [Community Building Workshop Japan #2 100%GPL と商標を学ぼう ! クイズ大会 + Q&amp;A](https://wordpress.tv/2023/09/22/community-building-workshop-japan-september/)
 <!-- WPTV:END -->
 
 ## Marketing
