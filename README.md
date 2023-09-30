@@ -342,6 +342,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Learn how to create Gutenberg blocks from scratch](https://wordpress.tv/2023/09/30/learn-how-to-create-gutenberg-blocks-from-scratch/)
+- [From shortcode to block](https://wordpress.tv/2023/09/30/from-shortcode-to-block/)
+- [Fresh off the block: transform WordPress with templates](https://wordpress.tv/2023/09/30/fresh-off-the-block-transform-wordpress-with-templates/)
+- [Developing WordPress blocks using plain JavaScript](https://wordpress.tv/2023/09/30/developing-wordpress-blocks-using-plain-javascript/)
+- [Typographic readability in theme design &amp; development](https://wordpress.tv/2023/09/30/typographic-readability-in-theme-design-development/)
+- [WordPress and hooks: understanding and using them](https://wordpress.tv/2023/09/30/wordpress-and-hooks-understanding-and-using-them/)
+- [WP-CLI for PHP developers](https://wordpress.tv/2023/09/30/wp-cli-for-php-developers-2/)
+- [How I learnt to stop worrying &amp; love our AI rulers](https://wordpress.tv/2023/09/30/how-i-learnt-to-stop-worrying-love-our-ai-rulers/)
+- [International appeal: making your themes and plugins translatable](https://wordpress.tv/2023/09/30/international-appeal-making-your-themes-and-plugins-translatable/)
 - [Take your WordPress website to another level using AI translation](https://wordpress.tv/2023/09/30/take-your-wordpress-website-to-another-level-using-ai-translation/)
 - [AI in WordPress](https://wordpress.tv/2023/09/30/ai-in-wordpress/)
 - [Primer Meetup Online 2020](https://wordpress.tv/2023/09/30/primer-meetup-online-2020/)
@@ -358,15 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Growing product businesses through partnership](https://wordpress.tv/2023/09/30/growing-product-businesses-through-partnership/)
 - [Should you raise capital for your WordPress business?](https://wordpress.tv/2023/09/30/should-you-raise-capital-for-your-wordpress-business/)
 - [How to ask for web design feedback](https://wordpress.tv/2023/09/30/how-to-ask-for-web-design-feedback/)
-- [Building high-performance headless WordPress systems – main challenges and solutions](https://wordpress.tv/2023/09/30/building-high-performance-headless-wordpress-systems-main-challenges-and-solutions/)
-- [Test instead of guessing – generate more leads through growth hacking](https://wordpress.tv/2023/09/30/test-instead-of-guessing-generate-more-leads-through-growth-hacking/)
-- [Content creation with the help of AI](https://wordpress.tv/2023/09/29/content-creation-with-the-help-of-ai/)
-- [The art of the code review](https://wordpress.tv/2023/09/29/the-art-of-the-code-review/)
-- [Tomorrow’s generation’s perspective on WordPress](https://wordpress.tv/2023/09/29/tomorrows-generations-perspective-on-wordpress/)
-- [Static WordPress – a quick introduction to running a static WordPress website](https://wordpress.tv/2023/09/29/static-wordpress-a-quick-introduction-to-running-a-static-wordpress-website/)
-- [How can any website benefit from WordPress’s editing experience thanks to Gutenberg?](https://wordpress.tv/2023/09/29/how-can-any-website-benefit-from-wordpresss-editing-experience-thanks-to-gutenberg/)
-- [State of WordPress security – insights from 2022](https://wordpress.tv/2023/09/29/state-of-wordpress-security-insights-from-2022/)
-- [Innovating inclusion: harnessing AI for accessibility](https://wordpress.tv/2023/09/29/innovating-inclusion-harnessing-ai-for-accessibility/)
 <!-- WPTV:END -->
 
 ## Marketing
