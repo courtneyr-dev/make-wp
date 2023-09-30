@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Take your WordPress website to another level using AI translation](https://wordpress.tv/2023/09/30/take-your-wordpress-website-to-another-level-using-ai-translation/)
+- [AI in WordPress](https://wordpress.tv/2023/09/30/ai-in-wordpress/)
 - [Primer Meetup Online 2020](https://wordpress.tv/2023/09/30/primer-meetup-online-2020/)
 - [Tips para crear Landing Pages](https://wordpress.tv/2023/09/30/tips-para-crear-landing-pages/)
 - [Don’t let indirect taxes stop you from selling online!](https://wordpress.tv/2023/09/30/dont-let-indirect-taxes-stop-you-from-selling-online/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How can any website benefit from WordPress’s editing experience thanks to Gutenberg?](https://wordpress.tv/2023/09/29/how-can-any-website-benefit-from-wordpresss-editing-experience-thanks-to-gutenberg/)
 - [State of WordPress security – insights from 2022](https://wordpress.tv/2023/09/29/state-of-wordpress-security-insights-from-2022/)
 - [Innovating inclusion: harnessing AI for accessibility](https://wordpress.tv/2023/09/29/innovating-inclusion-harnessing-ai-for-accessibility/)
-- [Don’t sell WordPress like it’s 2016: the evolving landscape of WordPress marketing](https://wordpress.tv/2023/09/29/dont-sell-wordpress-like-its-2016-the-evolving-landscape-of-wordpress-marketing/)
-- [WordPress performance: community perspectives](https://wordpress.tv/2023/09/29/wordpress-performance-community-perspectives/)
 <!-- WPTV:END -->
 
 ## Marketing
