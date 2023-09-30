@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Primer Meetup Online 2020](https://wordpress.tv/2023/09/30/primer-meetup-online-2020/)
+- [Tips para crear Landing Pages](https://wordpress.tv/2023/09/30/tips-para-crear-landing-pages/)
 - [Don’t let indirect taxes stop you from selling online!](https://wordpress.tv/2023/09/30/dont-let-indirect-taxes-stop-you-from-selling-online/)
 - [Creating MRR for WP agency owners. A critical look at current and future business models](https://wordpress.tv/2023/09/30/creating-mrr-for-wp-agency-owners-a-critical-look-at-current-and-future-business-models/)
 - [The freelancers’ guide to client onboarding](https://wordpress.tv/2023/09/30/the-freelancers-guide-to-client-onboarding/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Innovating inclusion: harnessing AI for accessibility](https://wordpress.tv/2023/09/29/innovating-inclusion-harnessing-ai-for-accessibility/)
 - [Don’t sell WordPress like it’s 2016: the evolving landscape of WordPress marketing](https://wordpress.tv/2023/09/29/dont-sell-wordpress-like-its-2016-the-evolving-landscape-of-wordpress-marketing/)
 - [WordPress performance: community perspectives](https://wordpress.tv/2023/09/29/wordpress-performance-community-perspectives/)
-- [Common APIs – Responsive Images](https://wordpress.tv/2023/09/29/jonathan-bossenger-common-apis-responsive-images/)
-- [Common WordPress APIs: Settings API](https://wordpress.tv/2023/09/29/common-wordpress-apis-settings-api/)
 <!-- WPTV:END -->
 
 ## Marketing
