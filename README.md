@@ -342,6 +342,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Leading with cultural intelligence – strategies for breaking the invisible boundaries of global business](https://wordpress.tv/2023/10/01/leading-with-cultural-intelligence-strategies-for-breaking-the-invisible-boundaries-of-global-business/)
+- [Contributing to WordPress without knowing “how to code”](https://wordpress.tv/2023/10/01/contributing-to-wordpress-without-knowing-how-to-code/)
+- [Enterprise WordPress delivery – How some of the leading agencies deliver WordPress to enterprise globally](https://wordpress.tv/2023/10/01/enterprise-wordpress-delivery-how-some-leading-agencies-deliver-wordpress-to-enterprise-globally/)
+- [Enable truly global use of your code – avoid the typical i18n pitfalls](https://wordpress.tv/2023/10/01/enable-truly-global-use-of-your-code-avoid-the-typical-i18n-pitfalls/)
+- [Using low vision as my tool to help me teach WordPress](https://wordpress.tv/2023/10/01/using-low-vision-as-my-tool-to-help-me-teach-wordpress/)
+- [Help! My site has been hit by an algorithm update](https://wordpress.tv/2023/10/01/help-my-site-has-been-hit-by-an-algorithm-update/)
+- [Variations on a theme: 20 years of WordPress](https://wordpress.tv/2023/10/01/variations-on-a-theme-20-years-of-wordpress/)
 - [Accessibility meets style: a design revolution](https://wordpress.tv/2023/10/01/accessibility-meets-style-a-design-revolution/)
 - [What is new in CSS?](https://wordpress.tv/2023/10/01/what-is-new-in-css/)
 - [WCEU Globals: future of WCEU](https://wordpress.tv/2023/10/01/wceu-globals-future-of-wceu/)
@@ -360,13 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Take your WordPress website to another level using AI translation](https://wordpress.tv/2023/09/30/take-your-wordpress-website-to-another-level-using-ai-translation/)
 - [AI in WordPress](https://wordpress.tv/2023/09/30/ai-in-wordpress/)
 - [Primer Meetup Online 2020](https://wordpress.tv/2023/09/30/primer-meetup-online-2020/)
-- [Tips para crear Landing Pages](https://wordpress.tv/2023/09/30/tips-para-crear-landing-pages/)
-- [Don’t let indirect taxes stop you from selling online!](https://wordpress.tv/2023/09/30/dont-let-indirect-taxes-stop-you-from-selling-online/)
-- [Creating MRR for WP agency owners. A critical look at current and future business models](https://wordpress.tv/2023/09/30/creating-mrr-for-wp-agency-owners-a-critical-look-at-current-and-future-business-models/)
-- [The freelancers’ guide to client onboarding](https://wordpress.tv/2023/09/30/the-freelancers-guide-to-client-onboarding/)
-- [WordPress extended: build unique websites on top of WP](https://wordpress.tv/2023/09/30/wordpress-extended-build-unique-websites-on-top-of-wp/)
-- [The brand of You](https://wordpress.tv/2023/09/30/the-brand-of-you/)
-- [Where did we come from?](https://wordpress.tv/2023/09/30/where-did-we-come-from/)
 <!-- WPTV:END -->
 
 ## Marketing
