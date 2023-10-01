@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to think of building a plugin business in the Block world?](https://wordpress.tv/2023/10/01/how-to-think-of-building-a-plugin-business-in-the-block-world/)
 - [Leading with cultural intelligence – strategies for breaking the invisible boundaries of global business](https://wordpress.tv/2023/10/01/leading-with-cultural-intelligence-strategies-for-breaking-the-invisible-boundaries-of-global-business/)
 - [Contributing to WordPress without knowing “how to code”](https://wordpress.tv/2023/10/01/contributing-to-wordpress-without-knowing-how-to-code/)
 - [Enterprise WordPress delivery – How some of the leading agencies deliver WordPress to enterprise globally](https://wordpress.tv/2023/10/01/enterprise-wordpress-delivery-how-some-leading-agencies-deliver-wordpress-to-enterprise-globally/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [International appeal: making your themes and plugins translatable](https://wordpress.tv/2023/09/30/international-appeal-making-your-themes-and-plugins-translatable/)
 - [Take your WordPress website to another level using AI translation](https://wordpress.tv/2023/09/30/take-your-wordpress-website-to-another-level-using-ai-translation/)
 - [AI in WordPress](https://wordpress.tv/2023/09/30/ai-in-wordpress/)
-- [Primer Meetup Online 2020](https://wordpress.tv/2023/09/30/primer-meetup-online-2020/)
 <!-- WPTV:END -->
 
 ## Marketing
