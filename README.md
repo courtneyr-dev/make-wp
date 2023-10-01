@@ -342,6 +342,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress 6.1 Core Contribution Stories | Episode 2](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-2/)
+- [WordPress 6.1 Core Contribution Stories | Episode 1](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-1/)
+- [Stop blocking my thread](https://wordpress.tv/2023/10/01/stop-blocking-my-thread/)
+- [Building interactive blocks: a step-by-step workshop](https://wordpress.tv/2023/10/01/building-interactive-blocks-a-step-by-step-workshop/)
+- [How the site editor can transform your ecommerce experience](https://wordpress.tv/2023/10/01/how-the-site-editor-can-transform-your-ecommerce-experience/)
+- [Let’s make WordPress &amp; its community sustainable today](https://wordpress.tv/2023/10/01/lets-make-wordpress-its-community-sustainable-today/)
+- [Automating WordPress with no code](https://wordpress.tv/2023/10/01/automating-wordpress-with-no-code/)
+- [Create a theme using the site editor – without coding!](https://wordpress.tv/2023/10/01/create-a-theme-using-the-site-editor-without-coding/)
+- [Complex data visualisations &amp; the accessibility phenomena](https://wordpress.tv/2023/10/01/complex-data-visualisations-the-accessibility-phenomena/)
+- [How collaboration among shoppers in Gen Z and Alpha will change social proof](https://wordpress.tv/2023/10/01/how-collaboration-among-shoppers-in-gen-z-and-alpha-will-change-social-proof/)
+- [Checkout or checkmate: the lasting effects of eCommerce customer experience](https://wordpress.tv/2023/10/01/checkout-or-checkmate-the-lasting-effects-of-ecommerce-customer-experience/)
+- [The future of work is open](https://wordpress.tv/2023/10/01/the-future-of-work-is-open/)
+- [How to build immersive experiences for the metaverse with WordPress](https://wordpress.tv/2023/10/01/how-to-build-immersive-experiences-for-the-metaverse-with-wordpress/)
+- [Digital sustainability: the benefits for business and the environment](https://wordpress.tv/2023/10/01/digital-sustainability-the-benefits-for-business-and-the-environment/)
 - [How to think of building a plugin business in the Block world?](https://wordpress.tv/2023/10/01/how-to-think-of-building-a-plugin-business-in-the-block-world/)
 - [Leading with cultural intelligence – strategies for breaking the invisible boundaries of global business](https://wordpress.tv/2023/10/01/leading-with-cultural-intelligence-strategies-for-breaking-the-invisible-boundaries-of-global-business/)
 - [Contributing to WordPress without knowing “how to code”](https://wordpress.tv/2023/10/01/contributing-to-wordpress-without-knowing-how-to-code/)
@@ -353,20 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility meets style: a design revolution](https://wordpress.tv/2023/10/01/accessibility-meets-style-a-design-revolution/)
 - [What is new in CSS?](https://wordpress.tv/2023/10/01/what-is-new-in-css/)
 - [WCEU Globals: future of WCEU](https://wordpress.tv/2023/10/01/wceu-globals-future-of-wceu/)
-- [15 ways user experience impacts business success](https://wordpress.tv/2023/10/01/15-ways-user-experience-impacts-business-success/)
-- [Gutenberg collaborative editing experience](https://wordpress.tv/2023/10/01/gutenberg-collaborative-editing-experience/)
-- [The blind guy who beat the developer at his own game](https://wordpress.tv/2023/10/01/the-blind-guy-who-beat-the-developer-at-his-own-game/)
-- [Learn how to create Gutenberg blocks from scratch](https://wordpress.tv/2023/09/30/learn-how-to-create-gutenberg-blocks-from-scratch/)
-- [From shortcode to block](https://wordpress.tv/2023/09/30/from-shortcode-to-block/)
-- [Fresh off the block: transform WordPress with templates](https://wordpress.tv/2023/09/30/fresh-off-the-block-transform-wordpress-with-templates/)
-- [Developing WordPress blocks using plain JavaScript](https://wordpress.tv/2023/09/30/developing-wordpress-blocks-using-plain-javascript/)
-- [Typographic readability in theme design &amp; development](https://wordpress.tv/2023/09/30/typographic-readability-in-theme-design-development/)
-- [WordPress and hooks: understanding and using them](https://wordpress.tv/2023/09/30/wordpress-and-hooks-understanding-and-using-them/)
-- [WP-CLI for PHP developers](https://wordpress.tv/2023/09/30/wp-cli-for-php-developers-2/)
-- [How I learnt to stop worrying &amp; love our AI rulers](https://wordpress.tv/2023/09/30/how-i-learnt-to-stop-worrying-love-our-ai-rulers/)
-- [International appeal: making your themes and plugins translatable](https://wordpress.tv/2023/09/30/international-appeal-making-your-themes-and-plugins-translatable/)
-- [Take your WordPress website to another level using AI translation](https://wordpress.tv/2023/09/30/take-your-wordpress-website-to-another-level-using-ai-translation/)
-- [AI in WordPress](https://wordpress.tv/2023/09/30/ai-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
