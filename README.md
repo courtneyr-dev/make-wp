@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress 6.1 Core Contribution Stories | Episode 4](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-4/)
+- [WordPress 6.1 Core Contribution Stories | Episode 3](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-3/)
 - [WordPress 6.1 Core Contribution Stories | Episode 2](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-2/)
 - [WordPress 6.1 Core Contribution Stories | Episode 1](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-1/)
 - [Stop blocking my thread](https://wordpress.tv/2023/10/01/stop-blocking-my-thread/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Help! My site has been hit by an algorithm update](https://wordpress.tv/2023/10/01/help-my-site-has-been-hit-by-an-algorithm-update/)
 - [Variations on a theme: 20 years of WordPress](https://wordpress.tv/2023/10/01/variations-on-a-theme-20-years-of-wordpress/)
 - [Accessibility meets style: a design revolution](https://wordpress.tv/2023/10/01/accessibility-meets-style-a-design-revolution/)
-- [What is new in CSS?](https://wordpress.tv/2023/10/01/what-is-new-in-css/)
-- [WCEU Globals: future of WCEU](https://wordpress.tv/2023/10/01/wceu-globals-future-of-wceu/)
 <!-- WPTV:END -->
 
 ## Marketing
