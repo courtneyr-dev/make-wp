@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Why WordPress Community Event Matters: Introducing NextGen Event Project](https://wordpress.tv/2023/10/01/why-wordpress-community-event-matters-introducing-nextgen-event-project/)
 - [WordPress: A journey to remember](https://wordpress.tv/2023/10/01/wordpress-a-journey-to-remember/)
 - [From Pixels to Platforms: Navigating the UI/UX Design to WordPress Development Expedition](https://wordpress.tv/2023/10/01/from-pixels-to-platforms-navigating-the-ui-ux-design-to-wordpress-development-expedition/)
 - [What is Headless WordPress and why should you use it?](https://wordpress.tv/2023/10/01/what-is-headless-wordpress-and-why-should-you-use-it/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Complex data visualisations &amp; the accessibility phenomena](https://wordpress.tv/2023/10/01/complex-data-visualisations-the-accessibility-phenomena/)
 - [How collaboration among shoppers in Gen Z and Alpha will change social proof](https://wordpress.tv/2023/10/01/how-collaboration-among-shoppers-in-gen-z-and-alpha-will-change-social-proof/)
 - [Checkout or checkmate: the lasting effects of eCommerce customer experience](https://wordpress.tv/2023/10/01/checkout-or-checkmate-the-lasting-effects-of-ecommerce-customer-experience/)
-- [The future of work is open](https://wordpress.tv/2023/10/01/the-future-of-work-is-open/)
 <!-- WPTV:END -->
 
 ## Marketing
