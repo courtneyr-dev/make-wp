@@ -342,6 +342,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress: A journey to remember](https://wordpress.tv/2023/10/01/wordpress-a-journey-to-remember/)
+- [From Pixels to Platforms: Navigating the UI/UX Design to WordPress Development Expedition](https://wordpress.tv/2023/10/01/from-pixels-to-platforms-navigating-the-ui-ux-design-to-wordpress-development-expedition/)
+- [What is Headless WordPress and why should you use it?](https://wordpress.tv/2023/10/01/what-is-headless-wordpress-and-why-should-you-use-it/)
+- [Everyone Can Design!](https://wordpress.tv/2023/10/01/everyone-can-design/)
+- [The social way to build your next WordPress plugin business](https://wordpress.tv/2023/10/01/the-social-way-to-build-your-next-wordpress-plugin-business/)
+- [Dominate Google Search With These 10 Technical SEO Wins](https://wordpress.tv/2023/10/01/dominate-google-search-with-these-10-technical-seo-wins/)
+- [15 things &lpar;you didn’t know&rpar; you can do with GraphQL in WordPress](https://wordpress.tv/2023/10/01/15-things-you-didnt-know-you-can-do-with-graphql-in-wordpress/)
+- [WP Passkey: Passwordless Authentication on WordPress](https://wordpress.tv/2023/10/01/wp-passkey-passwordless-authentication-on-wordpress/)
+- [Faktor yang Perlu Dipertimbangkan Semasa Memilih Hosting untuk WooCommerce Website](https://wordpress.tv/2023/10/01/faktor-yang-perlu-dipertimbangkan-semasa-memilih-hosting-untuk-woocommerce-website/)
+- [Taking WordPress to Infinity and Beyond with ChatGPT API](https://wordpress.tv/2023/10/01/taking-wordpress-to-infinity-and-beyond-with-chatgpt-api/)
+- [I’ve been Hacked! How can I recover my WordPress site?](https://wordpress.tv/2023/10/01/ive-been-hacked-how-can-i-recover-my-wordpress-site/)
 - [WordPress 6.1 Core Contribution Stories | Episode 4](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-4/)
 - [WordPress 6.1 Core Contribution Stories | Episode 3](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-3/)
 - [WordPress 6.1 Core Contribution Stories | Episode 2](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-2/)
@@ -356,17 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How collaboration among shoppers in Gen Z and Alpha will change social proof](https://wordpress.tv/2023/10/01/how-collaboration-among-shoppers-in-gen-z-and-alpha-will-change-social-proof/)
 - [Checkout or checkmate: the lasting effects of eCommerce customer experience](https://wordpress.tv/2023/10/01/checkout-or-checkmate-the-lasting-effects-of-ecommerce-customer-experience/)
 - [The future of work is open](https://wordpress.tv/2023/10/01/the-future-of-work-is-open/)
-- [How to build immersive experiences for the metaverse with WordPress](https://wordpress.tv/2023/10/01/how-to-build-immersive-experiences-for-the-metaverse-with-wordpress/)
-- [Digital sustainability: the benefits for business and the environment](https://wordpress.tv/2023/10/01/digital-sustainability-the-benefits-for-business-and-the-environment/)
-- [How to think of building a plugin business in the Block world?](https://wordpress.tv/2023/10/01/how-to-think-of-building-a-plugin-business-in-the-block-world/)
-- [Leading with cultural intelligence – strategies for breaking the invisible boundaries of global business](https://wordpress.tv/2023/10/01/leading-with-cultural-intelligence-strategies-for-breaking-the-invisible-boundaries-of-global-business/)
-- [Contributing to WordPress without knowing “how to code”](https://wordpress.tv/2023/10/01/contributing-to-wordpress-without-knowing-how-to-code/)
-- [Enterprise WordPress delivery – How some of the leading agencies deliver WordPress to enterprise globally](https://wordpress.tv/2023/10/01/enterprise-wordpress-delivery-how-some-leading-agencies-deliver-wordpress-to-enterprise-globally/)
-- [Enable truly global use of your code – avoid the typical i18n pitfalls](https://wordpress.tv/2023/10/01/enable-truly-global-use-of-your-code-avoid-the-typical-i18n-pitfalls/)
-- [Using low vision as my tool to help me teach WordPress](https://wordpress.tv/2023/10/01/using-low-vision-as-my-tool-to-help-me-teach-wordpress/)
-- [Help! My site has been hit by an algorithm update](https://wordpress.tv/2023/10/01/help-my-site-has-been-hit-by-an-algorithm-update/)
-- [Variations on a theme: 20 years of WordPress](https://wordpress.tv/2023/10/01/variations-on-a-theme-20-years-of-wordpress/)
-- [Accessibility meets style: a design revolution](https://wordpress.tv/2023/10/01/accessibility-meets-style-a-design-revolution/)
 <!-- WPTV:END -->
 
 ## Marketing
