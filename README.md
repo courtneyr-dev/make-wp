@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Harnessing the Power of GraphQL in WordPress](https://wordpress.tv/2023/10/01/harnessing-the-power-of-graphql-in-wordpress/)
+- [WordPress Deployment with CI/CD](https://wordpress.tv/2023/10/01/wordpress-deployment-with-ci-cd/)
+- [Thinking the React Way for WordPress Developers](https://wordpress.tv/2023/10/01/thinking-the-react-way-for-wordpress-developers/)
 - [Why WordPress Community Event Matters: Introducing NextGen Event Project](https://wordpress.tv/2023/10/01/why-wordpress-community-event-matters-introducing-nextgen-event-project/)
 - [WordPress: A journey to remember](https://wordpress.tv/2023/10/01/wordpress-a-journey-to-remember/)
 - [From Pixels to Platforms: Navigating the UI/UX Design to WordPress Development Expedition](https://wordpress.tv/2023/10/01/from-pixels-to-platforms-navigating-the-ui-ux-design-to-wordpress-development-expedition/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s make WordPress &amp; its community sustainable today](https://wordpress.tv/2023/10/01/lets-make-wordpress-its-community-sustainable-today/)
 - [Automating WordPress with no code](https://wordpress.tv/2023/10/01/automating-wordpress-with-no-code/)
 - [Create a theme using the site editor – without coding!](https://wordpress.tv/2023/10/01/create-a-theme-using-the-site-editor-without-coding/)
-- [Complex data visualisations &amp; the accessibility phenomena](https://wordpress.tv/2023/10/01/complex-data-visualisations-the-accessibility-phenomena/)
-- [How collaboration among shoppers in Gen Z and Alpha will change social proof](https://wordpress.tv/2023/10/01/how-collaboration-among-shoppers-in-gen-z-and-alpha-will-change-social-proof/)
-- [Checkout or checkmate: the lasting effects of eCommerce customer experience](https://wordpress.tv/2023/10/01/checkout-or-checkmate-the-lasting-effects-of-ecommerce-customer-experience/)
 <!-- WPTV:END -->
 
 ## Marketing
