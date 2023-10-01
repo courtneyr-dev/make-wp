@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Accessibility meets style: a design revolution](https://wordpress.tv/2023/10/01/accessibility-meets-style-a-design-revolution/)
+- [What is new in CSS?](https://wordpress.tv/2023/10/01/what-is-new-in-css/)
+- [WCEU Globals: future of WCEU](https://wordpress.tv/2023/10/01/wceu-globals-future-of-wceu/)
+- [15 ways user experience impacts business success](https://wordpress.tv/2023/10/01/15-ways-user-experience-impacts-business-success/)
+- [Gutenberg collaborative editing experience](https://wordpress.tv/2023/10/01/gutenberg-collaborative-editing-experience/)
+- [The blind guy who beat the developer at his own game](https://wordpress.tv/2023/10/01/the-blind-guy-who-beat-the-developer-at-his-own-game/)
 - [Learn how to create Gutenberg blocks from scratch](https://wordpress.tv/2023/09/30/learn-how-to-create-gutenberg-blocks-from-scratch/)
 - [From shortcode to block](https://wordpress.tv/2023/09/30/from-shortcode-to-block/)
 - [Fresh off the block: transform WordPress with templates](https://wordpress.tv/2023/09/30/fresh-off-the-block-transform-wordpress-with-templates/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress extended: build unique websites on top of WP](https://wordpress.tv/2023/09/30/wordpress-extended-build-unique-websites-on-top-of-wp/)
 - [The brand of You](https://wordpress.tv/2023/09/30/the-brand-of-you/)
 - [Where did we come from?](https://wordpress.tv/2023/09/30/where-did-we-come-from/)
-- [10 things that all WordPress plugin developers should avoid](https://wordpress.tv/2023/09/30/10-things-that-all-wordpress-plugin-developers-should-avoid/)
-- [You say you support women in tech](https://wordpress.tv/2023/09/30/you-say-you-support-women-in-tech/)
-- [Women and non-binary folx of WordPress](https://wordpress.tv/2023/09/30/women-and-non-binary-folx-of-wordpress/)
-- [Growing product businesses through partnership](https://wordpress.tv/2023/09/30/growing-product-businesses-through-partnership/)
-- [Should you raise capital for your WordPress business?](https://wordpress.tv/2023/09/30/should-you-raise-capital-for-your-wordpress-business/)
-- [How to ask for web design feedback](https://wordpress.tv/2023/09/30/how-to-ask-for-web-design-feedback/)
 <!-- WPTV:END -->
 
 ## Marketing
