@@ -342,10 +342,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Harnessing the Power of GraphQL in WordPress](https://wordpress.tv/2023/10/01/harnessing-the-power-of-graphql-in-wordpress/)
-- [WordPress Deployment with CI/CD](https://wordpress.tv/2023/10/01/wordpress-deployment-with-ci-cd/)
-- [Thinking the React Way for WordPress Developers](https://wordpress.tv/2023/10/01/thinking-the-react-way-for-wordpress-developers/)
-- [Why WordPress Community Event Matters: Introducing NextGen Event Project](https://wordpress.tv/2023/10/01/why-wordpress-community-event-matters-introducing-nextgen-event-project/)
 - [WordPress: A journey to remember](https://wordpress.tv/2023/10/01/wordpress-a-journey-to-remember/)
 - [From Pixels to Platforms: Navigating the UI/UX Design to WordPress Development Expedition](https://wordpress.tv/2023/10/01/from-pixels-to-platforms-navigating-the-ui-ux-design-to-wordpress-development-expedition/)
 - [What is Headless WordPress and why should you use it?](https://wordpress.tv/2023/10/01/what-is-headless-wordpress-and-why-should-you-use-it/)
@@ -357,16 +353,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Faktor yang Perlu Dipertimbangkan Semasa Memilih Hosting untuk WooCommerce Website](https://wordpress.tv/2023/10/01/faktor-yang-perlu-dipertimbangkan-semasa-memilih-hosting-untuk-woocommerce-website/)
 - [Taking WordPress to Infinity and Beyond with ChatGPT API](https://wordpress.tv/2023/10/01/taking-wordpress-to-infinity-and-beyond-with-chatgpt-api/)
 - [I’ve been Hacked! How can I recover my WordPress site?](https://wordpress.tv/2023/10/01/ive-been-hacked-how-can-i-recover-my-wordpress-site/)
-- [WordPress 6.1 Core Contribution Stories | Episode 4](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-4/)
-- [WordPress 6.1 Core Contribution Stories | Episode 3](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-3/)
-- [WordPress 6.1 Core Contribution Stories | Episode 2](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-2/)
-- [WordPress 6.1 Core Contribution Stories | Episode 1](https://wordpress.tv/2023/10/01/wordpress-6-1-core-contribution-stories-episode-1/)
 - [Stop blocking my thread](https://wordpress.tv/2023/10/01/stop-blocking-my-thread/)
 - [Building interactive blocks: a step-by-step workshop](https://wordpress.tv/2023/10/01/building-interactive-blocks-a-step-by-step-workshop/)
 - [How the site editor can transform your ecommerce experience](https://wordpress.tv/2023/10/01/how-the-site-editor-can-transform-your-ecommerce-experience/)
 - [Let’s make WordPress &amp; its community sustainable today](https://wordpress.tv/2023/10/01/lets-make-wordpress-its-community-sustainable-today/)
 - [Automating WordPress with no code](https://wordpress.tv/2023/10/01/automating-wordpress-with-no-code/)
 - [Create a theme using the site editor – without coding!](https://wordpress.tv/2023/10/01/create-a-theme-using-the-site-editor-without-coding/)
+- [Complex data visualisations &amp; the accessibility phenomena](https://wordpress.tv/2023/10/01/complex-data-visualisations-the-accessibility-phenomena/)
+- [How collaboration among shoppers in Gen Z and Alpha will change social proof](https://wordpress.tv/2023/10/01/how-collaboration-among-shoppers-in-gen-z-and-alpha-will-change-social-proof/)
+- [Checkout or checkmate: the lasting effects of eCommerce customer experience](https://wordpress.tv/2023/10/01/checkout-or-checkmate-the-lasting-effects-of-ecommerce-customer-experience/)
+- [The future of work is open](https://wordpress.tv/2023/10/01/the-future-of-work-is-open/)
+- [How to build immersive experiences for the metaverse with WordPress](https://wordpress.tv/2023/10/01/how-to-build-immersive-experiences-for-the-metaverse-with-wordpress/)
+- [Digital sustainability: the benefits for business and the environment](https://wordpress.tv/2023/10/01/digital-sustainability-the-benefits-for-business-and-the-environment/)
+- [How to think of building a plugin business in the Block world?](https://wordpress.tv/2023/10/01/how-to-think-of-building-a-plugin-business-in-the-block-world/)
+- [Leading with cultural intelligence – strategies for breaking the invisible boundaries of global business](https://wordpress.tv/2023/10/01/leading-with-cultural-intelligence-strategies-for-breaking-the-invisible-boundaries-of-global-business/)
 <!-- WPTV:END -->
 
 ## Marketing
