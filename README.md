@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team Biweekly Meeting &lpar;October 3, 2023&rpar;](https://make.wordpress.org/docs/2023/10/02/agenda-for-docs-team-biweekly-meeting-october-3-2023/)
 - [End-user docs repo – workflows and settings](https://make.wordpress.org/docs/2023/09/25/end-user-docs-repo-workflows-and-settings/)
 - [Online monthly Docs Team Contributor Day September 26, 2023](https://make.wordpress.org/docs/2023/09/22/online-monthly-docs-team-contributor-day-september-26-2023/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/docs/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/docs/2023/09/06/xpost-documentation-translation-localization/)
 - [X-post: What’s new on Learn WordPress in August 2023](https://make.wordpress.org/docs/2023/09/02/xpost-whats-new-on-learn-wordpress-in-august-2023/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;05-Sep-2023&rpar;](https://make.wordpress.org/docs/2023/09/01/agenda-for-docs-team-bi-weekly-meeting-05-sep-2023/)
-- [Online monthly Docs Team Contributor Day August 29, 2023](https://make.wordpress.org/docs/2023/08/21/online-monthly-docs-team-contributor-day-august-29-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
