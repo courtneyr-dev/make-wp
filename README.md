@@ -346,7 +346,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Pixels to Platforms: Navigating the UI/UX Design to WordPress Development Expedition](https://wordpress.tv/2023/10/01/from-pixels-to-platforms-navigating-the-ui-ux-design-to-wordpress-development-expedition/)
 - [What is Headless WordPress and why should you use it?](https://wordpress.tv/2023/10/01/what-is-headless-wordpress-and-why-should-you-use-it/)
 - [Everyone Can Design!](https://wordpress.tv/2023/10/01/everyone-can-design/)
-- [The social way to build your next WordPress plugin business](https://wordpress.tv/2023/10/01/the-social-way-to-build-your-next-wordpress-plugin-business/)
 - [Dominate Google Search With These 10 Technical SEO Wins](https://wordpress.tv/2023/10/01/dominate-google-search-with-these-10-technical-seo-wins/)
 - [15 things &lpar;you didn’t know&rpar; you can do with GraphQL in WordPress](https://wordpress.tv/2023/10/01/15-things-you-didnt-know-you-can-do-with-graphql-in-wordpress/)
 - [WP Passkey: Passwordless Authentication on WordPress](https://wordpress.tv/2023/10/01/wp-passkey-passwordless-authentication-on-wordpress/)
@@ -367,6 +366,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Digital sustainability: the benefits for business and the environment](https://wordpress.tv/2023/10/01/digital-sustainability-the-benefits-for-business-and-the-environment/)
 - [How to think of building a plugin business in the Block world?](https://wordpress.tv/2023/10/01/how-to-think-of-building-a-plugin-business-in-the-block-world/)
 - [Leading with cultural intelligence – strategies for breaking the invisible boundaries of global business](https://wordpress.tv/2023/10/01/leading-with-cultural-intelligence-strategies-for-breaking-the-invisible-boundaries-of-global-business/)
+- [Contributing to WordPress without knowing “how to code”](https://wordpress.tv/2023/10/01/contributing-to-wordpress-without-knowing-how-to-code/)
 <!-- WPTV:END -->
 
 ## Marketing
