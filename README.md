@@ -427,6 +427,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [A week in Openverse: 2023-09-25 – 2023-10-02](https://make.wordpress.org/openverse/2023/10/02/last-week-openverse-2023-09-25-2023-10-02/)
 - [Openverse Monthly Priorities Meeting 2023-10-04](https://make.wordpress.org/openverse/2023/09/28/openverse-monthly-priorities-meeting-2023-10-04/)
 - [Community Meeting Recap &lpar;2023-09-26&rpar;](https://make.wordpress.org/openverse/2023/09/26/community-meeting-recap-2023-09-26/)
 - [A week in Openverse: 2023-09-18 – 2023-09-25](https://make.wordpress.org/openverse/2023/09/25/last-week-openverse-2023-09-18-2023-09-25/)
@@ -436,7 +437,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Openverse wins Open Infrastructure award from OE Global](https://make.wordpress.org/openverse/2023/09/13/openverse-wins-open-infrastructure-award-from-oe-global/)
 - [Community Meeting Recap &lpar;2023-09-12&rpar;](https://make.wordpress.org/openverse/2023/09/12/community-meeting-recap-2023-09-12/)
 - [A week in Openverse: 2023-09-04 – 2023-09-11](https://make.wordpress.org/openverse/2023/09/11/last-week-openverse-2023-09-04-2023-09-11/)
-- [A week in Openverse: 2023-08-28 – 2023-09-04](https://make.wordpress.org/openverse/2023/09/04/last-week-openverse-2023-08-28-2023-09-04/)
 <!-- OPENVERSE:END -->
 
 ## Photos
