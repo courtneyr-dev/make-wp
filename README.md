@@ -515,12 +515,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-4/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-4/)
 - [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-7/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-205/)
 - [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-3/)
 - [[rtCamp] Gutenberg Engineer](https://jobs.wordpress.net/job/rtcamp-gutenberg-engineer-15/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-58/)
 - [Install and Layout WordPress Plugin:  Bookings / Course Registration Plugin Installation](https://jobs.wordpress.net/job/install-and-layout-wordpress-plugin-bookings-course-registration-plugin-installation/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-10/)
+- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-3/)
 <!-- JOBS:END -->
 
 ## Central
