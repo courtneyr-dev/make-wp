@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 63: A WordPress 6.4 Sneak Peek](https://wordpress.org/news/2023/10/episode-63-a-wordpress-6-4-sneak-peek/)
 - [Help Influence the Future of WordPress by Taking the 2023 Annual Survey Today](https://wordpress.org/news/2023/09/help-influence-the-future-of-wordpress-by-taking-the-2023-annual-survey-today/)
 - [WordPress 6.4 Beta 1](https://wordpress.org/news/2023/09/wordpress-6-4-beta-1/)
 - [WP Briefing: Episode 62: Enterprise Clients and the Business of WordPress](https://wordpress.org/news/2023/09/episode-62-enterprise-clients-and-the-business-of-wordpress/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.3.1 Maintenance Release](https://wordpress.org/news/2023/08/wordpress-6-3-1-maintenance-release/)
 - [The Future of WordPress &amp; What’s Next for Gutenberg](https://wordpress.org/news/2023/08/the-future-of-wordpress-whats-next-for-gutenberg/)
 - [WP20 – A Heartfelt Thanks](https://wordpress.org/news/2023/08/wp20-a-heartfelt-thanks/)
-- [WordPress 6.3 “Lionel”](https://wordpress.org/news/2023/08/lionel/)
 <!-- NEWS:END -->
 
 ## Jobs
