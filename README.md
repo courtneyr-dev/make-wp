@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [For the Community: WordPress Diversity #WPDiversity Resources](https://make.wordpress.org/community/2023/10/03/for-the-community-wordpress-diversity-wpdiversity-resources/)
 - [WordCamp Mentors’ October check-in!](https://make.wordpress.org/community/2023/10/02/wordcamp-mentors-october-check-in-2/)
 - [Announcement: Sunsetting Tagregator plugin on WordCamp.org websites](https://make.wordpress.org/community/2023/09/29/announcement-sunsetting-tagregator-plugin-on-wordcamp-org-websites/)
 - [Community Team Engagement Program Supporter Survey 2023](https://make.wordpress.org/community/2023/09/28/community-team-engagement-program-supporter-survey-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/community/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Attention WordPress women in India and those who support you: This important workshop this weekend is for you!](https://make.wordpress.org/community/2023/09/20/attention-wordpress-women-in-india-and-your-event-organizers-this-important-workshop-this-weekend-is-for-you/)
 - [From Japan to Rome: Recent and Upcoming Next Generation WordPress Events](https://make.wordpress.org/community/2023/09/19/from-japan-to-rome-recent-and-upcoming-next-generation-wordpress-events/)
-- [Contributor Working Group: Mentorship Chat Agenda | September 21st 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/09/19/contributor-working-group-mentorship-chat-agenda-september-21st-0700-utc-apac-emea-and-1600-utc-amer/)
 <!-- COMMUNITY:END -->
 
 ## Meta
