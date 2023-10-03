@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Learn how to create Gutenberg blocks from scratch](https://wordpress.tv/2023/10/03/learn-how-to-create-gutenberg-blocks-from-scratch/)
+- [Code techniques for handling dynamic data in the new&lpar;ish&rpar; world of blocks](https://wordpress.tv/2023/10/03/code-techniques-for-handling-dynamic-data-in-the-newish-world-of-blocks/)
+- [Build a “not at home” shipping extension in the WooCommerce checkout block](https://wordpress.tv/2023/10/03/build-a-not-at-home-shipping-extension-in-the-woocommerce-checkout-block/)
 - [Using page templates](https://wordpress.tv/2023/10/02/using-page-templates-3/)
 - [From mailman to WordPress engineer](https://wordpress.tv/2023/10/02/keynote-from-mailman-to-wordpress-engineer/)
 - [I Just Got This WordPress And Don’t Know How To Use It!](https://wordpress.tv/2023/10/02/i-just-got-this-wordpress-and-dont-know-how-to-use-it-2/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [15 things &lpar;you didn’t know&rpar; you can do with GraphQL in WordPress](https://wordpress.tv/2023/10/01/15-things-you-didnt-know-you-can-do-with-graphql-in-wordpress/)
 - [WP Passkey: Passwordless Authentication on WordPress](https://wordpress.tv/2023/10/01/wp-passkey-passwordless-authentication-on-wordpress/)
 - [Faktor yang Perlu Dipertimbangkan Semasa Memilih Hosting untuk WooCommerce Website](https://wordpress.tv/2023/10/01/faktor-yang-perlu-dipertimbangkan-semasa-memilih-hosting-untuk-woocommerce-website/)
-- [Taking WordPress to Infinity and Beyond with ChatGPT API](https://wordpress.tv/2023/10/01/taking-wordpress-to-infinity-and-beyond-with-chatgpt-api/)
-- [I’ve been Hacked! How can I recover my WordPress site?](https://wordpress.tv/2023/10/01/ive-been-hacked-how-can-i-recover-my-wordpress-site/)
-- [Stop blocking my thread](https://wordpress.tv/2023/10/01/stop-blocking-my-thread/)
 <!-- WPTV:END -->
 
 ## Marketing
