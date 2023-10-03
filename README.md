@@ -441,6 +441,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [September Photo Directory Update](https://make.wordpress.org/photos/2023/10/03/september-photo-directory-update/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/photos/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [August Photo Directory Update](https://make.wordpress.org/photos/2023/08/28/august-photo-directory-update/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/photos/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
@@ -450,7 +451,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/photos/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/photos/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/photos/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
-- [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/photos/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 <!-- PHOTOS:END -->
 
 ## Updates
