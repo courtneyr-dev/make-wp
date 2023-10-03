@@ -343,7 +343,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Using page templates](https://wordpress.tv/2023/10/02/using-page-templates-3/)
-- [Keynote: From mailman to WordPress engineer](https://wordpress.tv/2023/10/02/keynote-from-mailman-to-wordpress-engineer/)
+- [From mailman to WordPress engineer](https://wordpress.tv/2023/10/02/keynote-from-mailman-to-wordpress-engineer/)
 - [I Just Got This WordPress And Don’t Know How To Use It!](https://wordpress.tv/2023/10/02/i-just-got-this-wordpress-and-dont-know-how-to-use-it-2/)
 - [Building a Generous Business](https://wordpress.tv/2023/10/02/building-a-generous-business/)
 - [So You Want to Launch a Podcast…](https://wordpress.tv/2023/10/02/so-you-want-to-launch-a-podcast/)
