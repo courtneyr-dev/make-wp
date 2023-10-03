@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [Common APIs – Responsive Images](https://learn.wordpress.org/tutorial/common-apis-responsive-images/)
 - [একটি থিম নির্বাচন এবং ইনস্টল করা](https://learn.wordpress.org/tutorial/bn-choosing-and-installing-theme/)
 - [পেইজ বনাম পোস্টঃ পার্থক্য কি?](https://learn.wordpress.org/tutorial/bn-posts-vs-pages-whats-the-difference/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [7 Tips to improve website security](https://learn.wordpress.org/tutorial/7-tips-to-improve-website-security/)
 - [Categories vs. Tags: What’s the difference?](https://learn.wordpress.org/tutorial/categories-vs-tags-whats-the-difference/)
 - [Debugging in WordPress](https://learn.wordpress.org/tutorial/debugging-in-wordpress/)
-- [Designing with row and stack blocks](https://learn.wordpress.org/tutorial/designing-with-row-and-stack-blocks/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
