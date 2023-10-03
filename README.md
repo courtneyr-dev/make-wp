@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Default Theme Chat Agenda: October 4, 2023](https://make.wordpress.org/core/2023/10/03/default-theme-chat-agenda-october-4-2023/)
 - [Performance Chat Summary: 3 October 2023](https://make.wordpress.org/core/2023/10/03/performance-chat-summary-03-october-2023/)
 - [Performance Chat Agenda: 3 October 2023](https://make.wordpress.org/core/2023/10/03/performance-chat-agenda-03-october-2023/)
 - [Editor Chat Agenda: 04 October 2023](https://make.wordpress.org/core/2023/10/02/editor-chat-agenda-04-october-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Summary, September 27, 2023](https://make.wordpress.org/core/2023/09/28/dev-chat-summary-september-27-2023/)
 - [What’s new in Gutenberg 16.7? &lpar;27 September&rpar;](https://make.wordpress.org/core/2023/09/28/whats-new-in-gutenberg-16-7-27-september/)
 - [Dev Chat agenda, September 27, 2023](https://make.wordpress.org/core/2023/09/27/dev-chat-agenda-september-27-2023-2/)
-- [Performance Chat Summary: 26 September 2023](https://make.wordpress.org/core/2023/09/26/performance-chat-summary-26-september-2023/)
 <!-- CORE:END -->
 
 ## Design
