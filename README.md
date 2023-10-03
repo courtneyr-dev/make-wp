@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using page templates](https://wordpress.tv/2023/10/02/using-page-templates-3/)
 - [Keynote: From mailman to WordPress engineer](https://wordpress.tv/2023/10/02/keynote-from-mailman-to-wordpress-engineer/)
 - [I Just Got This WordPress And Don’t Know How To Use It!](https://wordpress.tv/2023/10/02/i-just-got-this-wordpress-and-dont-know-how-to-use-it-2/)
 - [Building a Generous Business](https://wordpress.tv/2023/10/02/building-a-generous-business/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Taking WordPress to Infinity and Beyond with ChatGPT API](https://wordpress.tv/2023/10/01/taking-wordpress-to-infinity-and-beyond-with-chatgpt-api/)
 - [I’ve been Hacked! How can I recover my WordPress site?](https://wordpress.tv/2023/10/01/ive-been-hacked-how-can-i-recover-my-wordpress-site/)
 - [Stop blocking my thread](https://wordpress.tv/2023/10/01/stop-blocking-my-thread/)
-- [Building interactive blocks: a step-by-step workshop](https://wordpress.tv/2023/10/01/building-interactive-blocks-a-step-by-step-workshop/)
 <!-- WPTV:END -->
 
 ## Marketing
