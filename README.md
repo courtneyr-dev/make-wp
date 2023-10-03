@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Default Theme Chat Agenda: October 4, 2023](https://make.wordpress.org/themes/2023/10/03/xpost-default-theme-chat-agenda-october-4-2023/)
 - [Themes Team Meeting Notes – September 26, 2023](https://make.wordpress.org/themes/2023/09/27/themes-team-meeting-notes-september-26-2023/)
 - [X-post: Themes team update September 26, 2023](https://make.wordpress.org/themes/2023/09/26/xpost-themes-team-update-september-26-2023/)
 - [Themes team meeting agenda for September 26, 2023](https://make.wordpress.org/themes/2023/09/25/themes-team-meeting-agenda-for-september-26-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Hallway Hangout: What’s new for developers in WordPress 6.4](https://make.wordpress.org/themes/2023/09/14/xpost-hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
 - [Themes Team Meeting Notes – September 12, 2023](https://make.wordpress.org/themes/2023/09/13/themes-team-meeting-notes-september-12-2023/)
 - [X-post: Default Theme Chat Agenda: September 13th, 2023](https://make.wordpress.org/themes/2023/09/12/xpost-default-theme-chat-agenda-september-13th-2023/)
-- [Themes team meeting agenda for September 12, 2023](https://make.wordpress.org/themes/2023/09/11/themes-team-meeting-agenda-for-september-12-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
