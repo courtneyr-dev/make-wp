@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Charity Begins at Home, Why Communities are Stronger Together](https://wordpress.tv/2023/10/04/charity-begins-at-home-why-communities-are-stronger-together/)
+- [Your Sales Page Sucks: Tips to Improve It](https://wordpress.tv/2023/10/04/your-sales-page-sucks-tips-to-improve-it/)
+- [Supercharging Your WordPress Journey with Artificial Intelligence](https://wordpress.tv/2023/10/04/supercharging-your-wordpress-journey-with-artificial-intelligence/)
+- [How close are we to “no-code”?](https://wordpress.tv/2023/10/04/how-close-are-we-to-no-code/)
+- [Using AI to Speed up your WordPress Builds](https://wordpress.tv/2023/10/04/using-ai-to-speed-up-your-wordpress-builds/)
+- [Page Builders: The Good, The Bad, and The Ugly.](https://wordpress.tv/2023/10/04/page-builders-the-good-the-bad-and-the-ugly/)
 - [Exploring WordPress 6.4 Upcoming Features](https://wordpress.tv/2023/10/04/exploring-wordpress-6-4-upcoming-features/)
 - [Steps to become a WordPress Developer](https://wordpress.tv/2023/10/04/steps-to-become-a-wordpress-developer/)
 - [Unlocking the Power of Customer Insights: Navigating the Path from Feedback to Innovation in the WordPress Landscape](https://wordpress.tv/2023/10/04/unlocking-the-power-of-customer-insights-navigating-the-path-from-feedback-to-innovation-in-the-wordpress-landscape/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I Just Got This WordPress And Don’t Know How To Use It!](https://wordpress.tv/2023/10/02/i-just-got-this-wordpress-and-dont-know-how-to-use-it-2/)
 - [Building a Generous Business](https://wordpress.tv/2023/10/02/building-a-generous-business/)
 - [So You Want to Launch a Podcast…](https://wordpress.tv/2023/10/02/so-you-want-to-launch-a-podcast/)
-- [Build Your Online Presence: 5 Brainstorming Exercises To Develop Your Content Strategy](https://wordpress.tv/2023/10/02/build-your-online-presence-5-brainstorming-exercises-to-develop-your-content-strategy/)
-- [From Classroom to Community: Empowering Business Students and Small Business Owners with WordPress t](https://wordpress.tv/2023/10/02/from-classroom-to-community-empowering-business-students-and-small-business-owners-with-wordpress-t/)
-- [Empowering Afghan Women Through Coding: Challenges and Opportunities](https://wordpress.tv/2023/10/02/empowering-afghan-women-through-coding-challenges-and-opportunities/)
-- [Things Well-Meaning WordPress Developers Do That Hurts SEO in 2023](https://wordpress.tv/2023/10/02/things-well-meaning-wordpress-developers-do-that-hurts-seo-in-2023/)
-- [Introduction to Web Accessibility](https://wordpress.tv/2023/10/02/introduction-to-web-accessibility/)
-- [Using AI to Speed up your WordPress Development](https://wordpress.tv/2023/10/02/using-ai-to-speed-up-your-wordpress-development/)
 <!-- WPTV:END -->
 
 ## Marketing
