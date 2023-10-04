@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 5 October, 2023](https://make.wordpress.org/community/2023/10/04/community-team-meeting-agenda-for-5-october-2023/)
 - [For the Community: WordPress Diversity #WPDiversity Resources](https://make.wordpress.org/community/2023/10/03/for-the-community-wordpress-diversity-wpdiversity-resources/)
 - [WordCamp Mentors’ October check-in!](https://make.wordpress.org/community/2023/10/02/wordcamp-mentors-october-check-in-2/)
 - [Announcement: Sunsetting Tagregator plugin on WordCamp.org websites](https://make.wordpress.org/community/2023/09/29/announcement-sunsetting-tagregator-plugin-on-wordcamp-org-websites/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Contributor Working Group’s Mentorship Chat on September 21, 2023](https://make.wordpress.org/community/2023/09/22/recap-of-the-contributor-working-groups-mentorship-chat-on-september-21-2023/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/community/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Attention WordPress women in India and those who support you: This important workshop this weekend is for you!](https://make.wordpress.org/community/2023/09/20/attention-wordpress-women-in-india-and-your-event-organizers-this-important-workshop-this-weekend-is-for-you/)
-- [From Japan to Rome: Recent and Upcoming Next Generation WordPress Events](https://make.wordpress.org/community/2023/09/19/from-japan-to-rome-recent-and-upcoming-next-generation-wordpress-events/)
 <!-- COMMUNITY:END -->
 
 ## Meta
