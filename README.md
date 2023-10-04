@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Building a home page](https://wordpress.tv/2023/10/03/building-a-home-page/)
 - [Learn how to create Gutenberg blocks from scratch](https://wordpress.tv/2023/10/03/learn-how-to-create-gutenberg-blocks-from-scratch/)
 - [Code techniques for handling dynamic data in the new&lpar;ish&rpar; world of blocks](https://wordpress.tv/2023/10/03/code-techniques-for-handling-dynamic-data-in-the-newish-world-of-blocks/)
 - [Build a “not at home” shipping extension in the WooCommerce checkout block](https://wordpress.tv/2023/10/03/build-a-not-at-home-shipping-extension-in-the-woocommerce-checkout-block/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dominate Google Search With These 10 Technical SEO Wins](https://wordpress.tv/2023/10/01/dominate-google-search-with-these-10-technical-seo-wins/)
 - [15 things &lpar;you didn’t know&rpar; you can do with GraphQL in WordPress](https://wordpress.tv/2023/10/01/15-things-you-didnt-know-you-can-do-with-graphql-in-wordpress/)
 - [WP Passkey: Passwordless Authentication on WordPress](https://wordpress.tv/2023/10/01/wp-passkey-passwordless-authentication-on-wordpress/)
-- [Faktor yang Perlu Dipertimbangkan Semasa Memilih Hosting untuk WooCommerce Website](https://wordpress.tv/2023/10/01/faktor-yang-perlu-dipertimbangkan-semasa-memilih-hosting-untuk-woocommerce-website/)
 <!-- WPTV:END -->
 
 ## Marketing
