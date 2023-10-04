@@ -375,12 +375,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit Discussion Notes: Can WordPress become the household name it deserves to be?](https://make.wordpress.org/marketing/2023/09/06/xpost-community-summit-discussion-notes-can-wordpress-become-the-household-name-it-deserves-to-be/)
 - [WordCamp US 2023 Contributor Day](https://make.wordpress.org/marketing/2023/08/24/wordcamp-us-2023-contributor-day/)
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/marketing/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
+- [Notes: Global Marketing Team meeting, 8 August 2023](https://make.wordpress.org/marketing/2023/08/14/notes-global-marketing-team-meeting-8-august-2023/)
+- [Notes: Global Marketing Team meeting, 1 August 2023](https://make.wordpress.org/marketing/2023/08/07/notes-global-marketing-team-meeting-1-august-2023/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/marketing/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
+- [Notes: Global Marketing Team meeting, 25 July 2023](https://make.wordpress.org/marketing/2023/07/31/notes-global-marketing-team-meeting-25-july-2023/)
+- [Notes: Global Marketing Team meeting, 18 July 2023](https://make.wordpress.org/marketing/2023/07/24/notes-global-marketing-team-meeting-18-july-2023/)
 - [X-post: Online monthly Docs Team Contributor Day July 25, 2023](https://make.wordpress.org/marketing/2023/07/24/xpost-online-monthly-docs-team-contributor-day-july-25-2023/)
-- [Notes: Global Marketing Team meeting, 4 July 2023](https://make.wordpress.org/marketing/2023/07/10/notes-global-marketing-team-meeting-4-july-2023/)
-- [Notes: Global Marketing Team meeting, 27 June 2023](https://make.wordpress.org/marketing/2023/07/03/notes-global-marketing-team-meeting-27-june-2023/)
-- [X-post: Proposal: Let’s actively promote the Learn WordPress platform in Learn WordPress content](https://make.wordpress.org/marketing/2023/06/26/xpost-proposal-lets-actively-promote-the-learn-wordpress-platform-in-learn-wordpress-content/)
-- [Notes: Global Marketing Team meeting, 20 June 2023](https://make.wordpress.org/marketing/2023/06/26/notes-global-marketing-team-meeting-20-june-2023/)
 <!-- MARKETING:END -->
 
 ## CLI
