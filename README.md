@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Number’s Don’t Lie: Using Analytics to Improve your Checkout Process](https://wordpress.tv/2023/10/04/numbers-dont-lie-using-analytics-to-improve-your-checkout-process/)
+- [Bytes and Minds: Navigating Mental Health in the Tech World](https://wordpress.tv/2023/10/04/bytes-and-minds-navigating-mental-health-in-the-tech-world/)
 - [Charity Begins at Home, Why Communities are Stronger Together](https://wordpress.tv/2023/10/04/charity-begins-at-home-why-communities-are-stronger-together/)
 - [Your Sales Page Sucks: Tips to Improve It](https://wordpress.tv/2023/10/04/your-sales-page-sucks-tips-to-improve-it/)
 - [Supercharging Your WordPress Journey with Artificial Intelligence](https://wordpress.tv/2023/10/04/supercharging-your-wordpress-journey-with-artificial-intelligence/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using page templates](https://wordpress.tv/2023/10/02/using-page-templates-3/)
 - [From mailman to WordPress engineer](https://wordpress.tv/2023/10/02/keynote-from-mailman-to-wordpress-engineer/)
 - [I Just Got This WordPress And Don’t Know How To Use It!](https://wordpress.tv/2023/10/02/i-just-got-this-wordpress-and-dont-know-how-to-use-it-2/)
-- [Building a Generous Business](https://wordpress.tv/2023/10/02/building-a-generous-business/)
-- [So You Want to Launch a Podcast…](https://wordpress.tv/2023/10/02/so-you-want-to-launch-a-podcast/)
 <!-- WPTV:END -->
 
 ## Marketing
