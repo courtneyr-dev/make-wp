@@ -342,6 +342,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Exploring WordPress 6.4 Upcoming Features](https://wordpress.tv/2023/10/04/exploring-wordpress-6-4-upcoming-features/)
+- [Steps to become a WordPress Developer](https://wordpress.tv/2023/10/04/steps-to-become-a-wordpress-developer/)
+- [Unlocking the Power of Customer Insights: Navigating the Path from Feedback to Innovation in the WordPress Landscape](https://wordpress.tv/2023/10/04/unlocking-the-power-of-customer-insights-navigating-the-path-from-feedback-to-innovation-in-the-wordpress-landscape/)
+- [An Easy Update for Old Content](https://wordpress.tv/2023/10/04/an-easy-update-for-old-content/)
+- [Freelancing isn’t for everyone – Panel](https://wordpress.tv/2023/10/04/freelancing-isnt-for-everyone-panel/)
+- [Start Your Own Newsletter Today!](https://wordpress.tv/2023/10/04/start-your-own-newsletter-today/)
+- [Mental Wellbeing in the Remote WordPress Space: Strategies from Personal Experience](https://wordpress.tv/2023/10/04/mental-wellbeing-in-the-remote-wordpress-space-strategies-from-personal-experience/)
+- [Open Source: The Community &lpar;a panel discussion&rpar;](https://wordpress.tv/2023/10/04/open-source-the-community-a-panel-discussion/)
 - [What is Domain Name System – WordPress Delhi NCR Community Online Meetup](https://wordpress.tv/2023/10/03/what-is-domain-name-system-wordpress-delhi-ncr-community-online-meetup/)
 - [フルサイト編集で実際にサイトを作ってみよう！](https://wordpress.tv/2023/10/03/%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%a7%e5%ae%9f%e9%9a%9b%e3%81%ab%e3%82%b5%e3%82%a4%e3%83%88%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 - [Building a home page](https://wordpress.tv/2023/10/03/building-a-home-page/)
@@ -359,14 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Things Well-Meaning WordPress Developers Do That Hurts SEO in 2023](https://wordpress.tv/2023/10/02/things-well-meaning-wordpress-developers-do-that-hurts-seo-in-2023/)
 - [Introduction to Web Accessibility](https://wordpress.tv/2023/10/02/introduction-to-web-accessibility/)
 - [Using AI to Speed up your WordPress Development](https://wordpress.tv/2023/10/02/using-ai-to-speed-up-your-wordpress-development/)
-- [Fun with the WordPress REST API](https://wordpress.tv/2023/10/02/fun-with-the-wordpress-rest-api/)
-- [“Now What?”: Context Switching Strategies](https://wordpress.tv/2023/10/02/now-what-context-switching-strategies/)
-- [We Are They: Fostering Belonging as a WordPress Contributor](https://wordpress.tv/2023/10/02/we-are-they-fostering-belonging-as-a-wordpress-contributor/)
-- [WordPress: A journey to remember](https://wordpress.tv/2023/10/01/wordpress-a-journey-to-remember/)
-- [From Pixels to Platforms: Navigating the UI/UX Design to WordPress Development Expedition](https://wordpress.tv/2023/10/01/from-pixels-to-platforms-navigating-the-ui-ux-design-to-wordpress-development-expedition/)
-- [What is Headless WordPress and why should you use it?](https://wordpress.tv/2023/10/01/what-is-headless-wordpress-and-why-should-you-use-it/)
-- [Everyone Can Design!](https://wordpress.tv/2023/10/01/everyone-can-design/)
-- [Dominate Google Search With These 10 Technical SEO Wins](https://wordpress.tv/2023/10/01/dominate-google-search-with-these-10-technical-seo-wins/)
 <!-- WPTV:END -->
 
 ## Marketing
