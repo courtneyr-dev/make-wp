@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Start using conversion optimization](https://wordpress.tv/2023/10/04/start-using-conversion-optimization/)
+- [Performance Awareness and Optimization](https://wordpress.tv/2023/10/04/performance-awareness-and-optimization/)
+- [Stop measuring the wrong marketing outcomes](https://wordpress.tv/2023/10/04/stop-measuring-the-wrong-marketing-outcomes/)
 - [Number’s Don’t Lie: Using Analytics to Improve your Checkout Process](https://wordpress.tv/2023/10/04/numbers-dont-lie-using-analytics-to-improve-your-checkout-process/)
 - [Bytes and Minds: Navigating Mental Health in the Tech World](https://wordpress.tv/2023/10/04/bytes-and-minds-navigating-mental-health-in-the-tech-world/)
 - [Charity Begins at Home, Why Communities are Stronger Together](https://wordpress.tv/2023/10/04/charity-begins-at-home-why-communities-are-stronger-together/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Learn how to create Gutenberg blocks from scratch](https://wordpress.tv/2023/10/03/learn-how-to-create-gutenberg-blocks-from-scratch/)
 - [Code techniques for handling dynamic data in the new&lpar;ish&rpar; world of blocks](https://wordpress.tv/2023/10/03/code-techniques-for-handling-dynamic-data-in-the-newish-world-of-blocks/)
 - [Build a “not at home” shipping extension in the WooCommerce checkout block](https://wordpress.tv/2023/10/03/build-a-not-at-home-shipping-extension-in-the-woocommerce-checkout-block/)
-- [Using page templates](https://wordpress.tv/2023/10/02/using-page-templates-3/)
-- [From mailman to WordPress engineer](https://wordpress.tv/2023/10/02/keynote-from-mailman-to-wordpress-engineer/)
-- [I Just Got This WordPress And Don’t Know How To Use It!](https://wordpress.tv/2023/10/02/i-just-got-this-wordpress-and-dont-know-how-to-use-it-2/)
 <!-- WPTV:END -->
 
 ## Marketing
