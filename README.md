@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Wordress Developer](https://jobs.wordpress.net/job/wordress-developer/)
+- [Full-time WordPress Developer and website manager &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/full-time-wordpress-developer-and-website-manager-php-mysql-css-html/)
+- [Senior Web Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/senior-web-developer-wordpress/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-4/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-4/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-4/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-3/)
 - [[rtCamp] Gutenberg Engineer](https://jobs.wordpress.net/job/rtcamp-gutenberg-engineer-15/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-58/)
-- [Install and Layout WordPress Plugin:  Bookings / Course Registration Plugin Installation](https://jobs.wordpress.net/job/install-and-layout-wordpress-plugin-bookings-course-registration-plugin-installation/)
-- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-10/)
-- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-3/)
 <!-- JOBS:END -->
 
 ## Central
