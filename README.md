@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Learning Pathway outlines](https://make.wordpress.org/training/2023/10/04/learning-pathway-outlines/)
 - [Discussion: Defining Active and Engaged Faculty](https://make.wordpress.org/training/2023/09/28/discussion-defining-active-and-engaged-faculty/)
 - [Looking for feedback: Updates to GitHub issue templates and labels](https://make.wordpress.org/training/2023/09/27/looking-for-feedback-updates-to-github-issue-templates-and-labels/)
 - [Training Team Meeting Recap – 19th September 2023](https://make.wordpress.org/training/2023/09/26/training-team-meeting-recap-19th-september-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
 - [Proposal: Updating the Contributor Ladder to a five-path model](https://make.wordpress.org/training/2023/09/21/proposal-updating-the-contributor-ladder-to-a-five-path-model/)
-- [Training Team Meeting Recap – 12th September 2023](https://make.wordpress.org/training/2023/09/19/training-team-meeting-recap-12th-september-2023/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
