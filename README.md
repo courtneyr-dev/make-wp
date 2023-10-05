@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request to add Main Balochi](https://make.wordpress.org/polyglots/2023/10/05/request-to-add-main-balochi/)
+- [I suggested Indonesia &lpar;id_ID&rpar; translation…](https://make.wordpress.org/polyglots/2023/10/05/i-suggested-indonesia-id_id-translation/)
 - [PTE Request for 4 plugins](https://make.wordpress.org/polyglots/2023/10/04/pte-request-for-4-plugins-2/)
 - [Agenda: Weekly Polyglots Chat- October 04, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/04/agenda-weekly-polyglots-chat-october-04-2023-0700-utc/)
 - [PTE Request for WPC Product…](https://make.wordpress.org/polyglots/2023/10/02/pte-request-for-wpc-product/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Post Carousel Divi](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-post-carousel-divi/)
 - [PTE Request for The Plus Addons for Elementor](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-the-plus-addons-for-elementor/)
 - [PTE Request for SeatReg I…](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-seatreg-i/)
-- [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2023/09/29/pte-request-for-buddypress-3/)
-- [PTE Request for YASR Plugin](https://make.wordpress.org/polyglots/2023/09/28/pte-request-for-yasr-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
