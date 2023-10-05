@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Looking for a #gu translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2023/10/05/looking-for-a-gu-translation-reviewer-for-learn-wordpress-content/)
 - [Request to add Main Balochi](https://make.wordpress.org/polyglots/2023/10/05/request-to-add-main-balochi/)
 - [I suggested Indonesia &lpar;id_ID&rpar; translation…](https://make.wordpress.org/polyglots/2023/10/05/i-suggested-indonesia-id_id-translation/)
 - [PTE Request for 4 plugins](https://make.wordpress.org/polyglots/2023/10/04/pte-request-for-4-plugins-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Simple Newsletter Plugin – Noptin.](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-simple-newsletter-plugin-noptin/)
 - [PTE Request for Post Carousel Divi](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-post-carousel-divi/)
 - [PTE Request for The Plus Addons for Elementor](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-the-plus-addons-for-elementor/)
-- [PTE Request for SeatReg I…](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-seatreg-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
