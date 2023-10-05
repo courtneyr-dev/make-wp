@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://wordpress.tv/2023/10/04/five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress-2/)
 - [Start using conversion optimization](https://wordpress.tv/2023/10/04/start-using-conversion-optimization/)
 - [Performance Awareness and Optimization](https://wordpress.tv/2023/10/04/performance-awareness-and-optimization/)
 - [Stop measuring the wrong marketing outcomes](https://wordpress.tv/2023/10/04/stop-measuring-the-wrong-marketing-outcomes/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building a home page](https://wordpress.tv/2023/10/03/building-a-home-page/)
 - [Learn how to create Gutenberg blocks from scratch](https://wordpress.tv/2023/10/03/learn-how-to-create-gutenberg-blocks-from-scratch/)
 - [Code techniques for handling dynamic data in the new&lpar;ish&rpar; world of blocks](https://wordpress.tv/2023/10/03/code-techniques-for-handling-dynamic-data-in-the-newish-world-of-blocks/)
-- [Build a “not at home” shipping extension in the WooCommerce checkout block](https://wordpress.tv/2023/10/03/build-a-not-at-home-shipping-extension-in-the-woocommerce-checkout-block/)
 <!-- WPTV:END -->
 
 ## Marketing
