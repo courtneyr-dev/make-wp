@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [PHP compatibility testing with PHPCompatibilityWP](https://wordpress.tv/2023/10/06/php-compatibility-testing-with-phpcompatibilitywp/)
+- [SEO Magic: Tricks for Top Rankings](https://wordpress.tv/2023/10/06/seo-magic-tricks-for-top-rankings/)
+- [Unlocking User Insights with GA4, Search Console, &amp; Clarity](https://wordpress.tv/2023/10/06/unlocking-user-insights-with-ga4-search-console-clarity/)
 - [React Elastic Search integratie voor een optimale zoekervaring](https://wordpress.tv/2023/10/06/react-elastic-search-integratie-voor-een-optimale-zoekervaring/)
 - [In 5 stappen naar een customer success strategie die jouw bedrijf laat floreren](https://wordpress.tv/2023/10/06/in-5-stappen-naar-een-customer-success-strategie-die-jouw-bedrijf-laat-floreren/)
 - [Zo blijft WordPress geschikt voor Nieuwsredacties](https://wordpress.tv/2023/10/06/zo-blijft-wordpress-geschikt-voor-nieuwsredacties/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bytes and Minds: Navigating Mental Health in the Tech World](https://wordpress.tv/2023/10/04/bytes-and-minds-navigating-mental-health-in-the-tech-world/)
 - [Charity Begins at Home, Why Communities are Stronger Together](https://wordpress.tv/2023/10/04/charity-begins-at-home-why-communities-are-stronger-together/)
 - [Your Sales Page Sucks: Tips to Improve It](https://wordpress.tv/2023/10/04/your-sales-page-sucks-tips-to-improve-it/)
-- [Supercharging Your WordPress Journey with Artificial Intelligence](https://wordpress.tv/2023/10/04/supercharging-your-wordpress-journey-with-artificial-intelligence/)
-- [How close are we to “no-code”?](https://wordpress.tv/2023/10/04/how-close-are-we-to-no-code/)
-- [Using AI to Speed up your WordPress Builds](https://wordpress.tv/2023/10/04/using-ai-to-speed-up-your-wordpress-builds/)
 <!-- WPTV:END -->
 
 ## Marketing
