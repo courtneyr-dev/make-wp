@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cross culture: taking your shop abroad](https://wordpress.tv/2023/10/06/cross-culture-taking-your-shop-abroad/)
+- [CBWJ #3 「WP20週チャレンジ」で、もっと WordPress に関わってみよう！](https://wordpress.tv/2023/10/06/community-building-workshop-japan-003/)
 - [PHP compatibility testing with PHPCompatibilityWP](https://wordpress.tv/2023/10/06/php-compatibility-testing-with-phpcompatibilitywp/)
 - [SEO Magic: Tricks for Top Rankings](https://wordpress.tv/2023/10/06/seo-magic-tricks-for-top-rankings/)
 - [Unlocking User Insights with GA4, Search Console, &amp; Clarity](https://wordpress.tv/2023/10/06/unlocking-user-insights-with-ga4-search-console-clarity/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Stop measuring the wrong marketing outcomes](https://wordpress.tv/2023/10/04/stop-measuring-the-wrong-marketing-outcomes/)
 - [Number’s Don’t Lie: Using Analytics to Improve your Checkout Process](https://wordpress.tv/2023/10/04/numbers-dont-lie-using-analytics-to-improve-your-checkout-process/)
 - [Bytes and Minds: Navigating Mental Health in the Tech World](https://wordpress.tv/2023/10/04/bytes-and-minds-navigating-mental-health-in-the-tech-world/)
-- [Charity Begins at Home, Why Communities are Stronger Together](https://wordpress.tv/2023/10/04/charity-begins-at-home-why-communities-are-stronger-together/)
-- [Your Sales Page Sucks: Tips to Improve It](https://wordpress.tv/2023/10/04/your-sales-page-sucks-tips-to-improve-it/)
 <!-- WPTV:END -->
 
 ## Marketing
