@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WooCommerce performance &lpar;how to make it sing and also how to measure if the hosting is up for it&rpar;](https://wordpress.tv/2023/10/06/woocommerce-performance-how-to-make-it-sing-and-also-how-to-measure-if-the-hosting-is-up-for-it/)
+- [Your Code Can Be Poetry Too](https://wordpress.tv/2023/10/06/your-code-can-be-poetry-too/)
+- [The Power Of The WordPress Community Favorite session: The Power Of The WordPress Community](https://wordpress.tv/2023/10/06/the-power-of-the-wordpress-community-favorite-session-the-power-of-the-wordpress-community/)
+- [Scale and the Art of Building Products](https://wordpress.tv/2023/10/06/scale-and-the-art-of-building-products/)
+- [Jessica Lyschik: PERFORMANCE 101](https://wordpress.tv/2023/10/06/jessica-lyschik-performance-101/)
+- [Milana Cap: WORDPRESS THROUGH THE TERMINAL](https://wordpress.tv/2023/10/06/milana-cap-wordpress-through-the-terminal-2/)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://wordpress.tv/2023/10/04/five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress-2/)
 - [Start using conversion optimization](https://wordpress.tv/2023/10/04/start-using-conversion-optimization/)
 - [Performance Awareness and Optimization](https://wordpress.tv/2023/10/04/performance-awareness-and-optimization/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Freelancing isn’t for everyone – Panel](https://wordpress.tv/2023/10/04/freelancing-isnt-for-everyone-panel/)
 - [Start Your Own Newsletter Today!](https://wordpress.tv/2023/10/04/start-your-own-newsletter-today/)
 - [Mental Wellbeing in the Remote WordPress Space: Strategies from Personal Experience](https://wordpress.tv/2023/10/04/mental-wellbeing-in-the-remote-wordpress-space-strategies-from-personal-experience/)
-- [Open Source: The Community &lpar;a panel discussion&rpar;](https://wordpress.tv/2023/10/04/open-source-the-community-a-panel-discussion/)
-- [What is Domain Name System – WordPress Delhi NCR Community Online Meetup](https://wordpress.tv/2023/10/03/what-is-domain-name-system-wordpress-delhi-ncr-community-online-meetup/)
-- [フルサイト編集で実際にサイトを作ってみよう！](https://wordpress.tv/2023/10/03/%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%83%88%e7%b7%a8%e9%9b%86%e3%81%a7%e5%ae%9f%e9%9a%9b%e3%81%ab%e3%82%b5%e3%82%a4%e3%83%88%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
-- [Building a home page](https://wordpress.tv/2023/10/03/building-a-home-page/)
-- [Learn how to create Gutenberg blocks from scratch](https://wordpress.tv/2023/10/03/learn-how-to-create-gutenberg-blocks-from-scratch/)
-- [Code techniques for handling dynamic data in the new&lpar;ish&rpar; world of blocks](https://wordpress.tv/2023/10/03/code-techniques-for-handling-dynamic-data-in-the-newish-world-of-blocks/)
 <!-- WPTV:END -->
 
 ## Marketing
