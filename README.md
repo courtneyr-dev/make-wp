@@ -342,6 +342,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [React Elastic Search integratie voor een optimale zoekervaring](https://wordpress.tv/2023/10/06/react-elastic-search-integratie-voor-een-optimale-zoekervaring/)
+- [In 5 stappen naar een customer success strategie die jouw bedrijf laat floreren](https://wordpress.tv/2023/10/06/in-5-stappen-naar-een-customer-success-strategie-die-jouw-bedrijf-laat-floreren/)
+- [Zo blijft WordPress geschikt voor Nieuwsredacties](https://wordpress.tv/2023/10/06/zo-blijft-wordpress-geschikt-voor-nieuwsredacties/)
+- [Hoe bouw je een schaalbare en stabiele business met WordPress plugins?](https://wordpress.tv/2023/10/06/hoe-bouw-je-een-schaalbare-en-stabiele-business-met-wordpress-plugins/)
+- [Maatwerk Gutenberg magie](https://wordpress.tv/2023/10/06/maatwerk-gutenberg-magie/)
+- [De 6 stappen om succesvolle web-business te bouwen](https://wordpress.tv/2023/10/06/de-6-stappen-om-succesvolle-web-business-te-bouwen/)
+- [Verzendmethodes in WooCommerce](https://wordpress.tv/2023/10/06/verzendmethodes-in-woocommerce/)
+- [Grote imports, kleine imports, doe ze in je WordPress machine](https://wordpress.tv/2023/10/06/grote-imports-kleine-imports-doe-ze-in-je-wordpress-machine/)
 - [WooCommerce performance &lpar;how to make it sing and also how to measure if the hosting is up for it&rpar;](https://wordpress.tv/2023/10/06/woocommerce-performance-how-to-make-it-sing-and-also-how-to-measure-if-the-hosting-is-up-for-it/)
 - [Your Code Can Be Poetry Too](https://wordpress.tv/2023/10/06/your-code-can-be-poetry-too/)
 - [The Power Of The WordPress Community Favorite session: The Power Of The WordPress Community](https://wordpress.tv/2023/10/06/the-power-of-the-wordpress-community-favorite-session-the-power-of-the-wordpress-community/)
@@ -359,14 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Supercharging Your WordPress Journey with Artificial Intelligence](https://wordpress.tv/2023/10/04/supercharging-your-wordpress-journey-with-artificial-intelligence/)
 - [How close are we to “no-code”?](https://wordpress.tv/2023/10/04/how-close-are-we-to-no-code/)
 - [Using AI to Speed up your WordPress Builds](https://wordpress.tv/2023/10/04/using-ai-to-speed-up-your-wordpress-builds/)
-- [Page Builders: The Good, The Bad, and The Ugly.](https://wordpress.tv/2023/10/04/page-builders-the-good-the-bad-and-the-ugly/)
-- [Exploring WordPress 6.4 Upcoming Features](https://wordpress.tv/2023/10/04/exploring-wordpress-6-4-upcoming-features/)
-- [Steps to become a WordPress Developer](https://wordpress.tv/2023/10/04/steps-to-become-a-wordpress-developer/)
-- [Unlocking the Power of Customer Insights: Navigating the Path from Feedback to Innovation in the WordPress Landscape](https://wordpress.tv/2023/10/04/unlocking-the-power-of-customer-insights-navigating-the-path-from-feedback-to-innovation-in-the-wordpress-landscape/)
-- [An Easy Update for Old Content](https://wordpress.tv/2023/10/04/an-easy-update-for-old-content/)
-- [Freelancing isn’t for everyone – Panel](https://wordpress.tv/2023/10/04/freelancing-isnt-for-everyone-panel/)
-- [Start Your Own Newsletter Today!](https://wordpress.tv/2023/10/04/start-your-own-newsletter-today/)
-- [Mental Wellbeing in the Remote WordPress Space: Strategies from Personal Experience](https://wordpress.tv/2023/10/04/mental-wellbeing-in-the-remote-wordpress-space-strategies-from-personal-experience/)
 <!-- WPTV:END -->
 
 ## Marketing
