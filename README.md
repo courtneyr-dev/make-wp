@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello…](https://make.wordpress.org/polyglots/2023/10/06/hello-81/)
 - [PTE Request for Enable CORS](https://make.wordpress.org/polyglots/2023/10/06/pte-request-for-enable-cors/)
 - [PTE Request for PowerPack Addons for Elementor](https://make.wordpress.org/polyglots/2023/10/05/pte-request-for-powerpack-addons-for-elementor/)
 - [Looking for a #gu translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2023/10/05/looking-for-a-gu-translation-reviewer-for-learn-wordpress-content/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat- October 04, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/04/agenda-weekly-polyglots-chat-october-04-2023-0700-utc/)
 - [PTE Request for WPC Product…](https://make.wordpress.org/polyglots/2023/10/02/pte-request-for-wpc-product/)
 - [PTE Request for SEO Plugin by Squirrly SEO](https://make.wordpress.org/polyglots/2023/10/01/pte-request-for-seo-plugin-by-squirrly-seo-2/)
-- [PTE Request for Simple Newsletter Plugin – Noptin.](https://make.wordpress.org/polyglots/2023/09/30/pte-request-for-simple-newsletter-plugin-noptin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
