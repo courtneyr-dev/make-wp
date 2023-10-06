@@ -286,6 +286,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [APAC: Using the Query Loop block and Category templates](https://learn.wordpress.org/?meeting=apac-using-the-query-loop-block-and-category-templates)
+- [Using the Query Loop block and Category templates](https://learn.wordpress.org/?meeting=using-the-query-loop-block-and-category-templates)
 - [PHP compatibility testing with PHPCompatibilityWP](https://learn.wordpress.org/?meeting=php-compatibility-testing-with-phpcompatibilitywp)
 - [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team-2)
 - [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team)
@@ -309,8 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Speaker Workshop for Indian Women in the WordPress Community Part 2](https://learn.wordpress.org/?meeting=speaker-workshop-for-indian-women-in-the-wordpress-community-part-2)
 - [Speaker Workshop for Indian Women in the WordPress Community Part 1](https://learn.wordpress.org/?meeting=speaker-workshop-for-indian-women-in-the-wordpress-community-part-1)
 - [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata-2)
-- [WP dev livestream: Sendig block theme](https://learn.wordpress.org/?meeting=wp-dev-livestream-sendig-block-theme-13)
-- [APAC: Using the navigation block](https://learn.wordpress.org/?meeting=apac-using-the-navigation-block)
 <!-- SLS:END -->
 
 ## Test
