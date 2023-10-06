@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Automating WordPress Development with CircleCI: A Guide to Continuous Integration and Deployment](https://wordpress.tv/2023/10/06/automating-wordpress-development-with-circleci-a-guide-to-continuous-integration-and-deployment/)
+- [Empowering the Next Generation of Tech Leaders](https://wordpress.tv/2023/10/06/empowering-the-next-generation-of-tech-leaders/)
+- [ChatGPT As A Superpower For Content Creators](https://wordpress.tv/2023/10/06/chatgpt-as-a-superpower-for-content-creators/)
 - [Cross culture: taking your shop abroad](https://wordpress.tv/2023/10/06/cross-culture-taking-your-shop-abroad/)
 - [CBWJ #3 「WP20週チャレンジ」で、もっと WordPress に関わってみよう！](https://wordpress.tv/2023/10/06/community-building-workshop-japan-003/)
 - [PHP compatibility testing with PHPCompatibilityWP](https://wordpress.tv/2023/10/06/php-compatibility-testing-with-phpcompatibilitywp/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://wordpress.tv/2023/10/04/five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress-2/)
 - [Start using conversion optimization](https://wordpress.tv/2023/10/04/start-using-conversion-optimization/)
 - [Performance Awareness and Optimization](https://wordpress.tv/2023/10/04/performance-awareness-and-optimization/)
-- [Stop measuring the wrong marketing outcomes](https://wordpress.tv/2023/10/04/stop-measuring-the-wrong-marketing-outcomes/)
-- [Number’s Don’t Lie: Using Analytics to Improve your Checkout Process](https://wordpress.tv/2023/10/04/numbers-dont-lie-using-analytics-to-improve-your-checkout-process/)
-- [Bytes and Minds: Navigating Mental Health in the Tech World](https://wordpress.tv/2023/10/04/bytes-and-minds-navigating-mental-health-in-the-tech-world/)
 <!-- WPTV:END -->
 
 ## Marketing
