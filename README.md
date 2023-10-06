@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [NextGen WordPress Events: Discover the Future of WordPress Gatherings](https://make.wordpress.org/community/2023/10/06/nextgen-events/)
 - [Community Team Meeting Agenda for 5 October, 2023](https://make.wordpress.org/community/2023/10/04/community-team-meeting-agenda-for-5-october-2023/)
 - [For the Community: WordPress Diversity #WPDiversity Resources](https://make.wordpress.org/community/2023/10/03/for-the-community-wordpress-diversity-wpdiversity-resources/)
 - [WordCamp Mentors’ October check-in!](https://make.wordpress.org/community/2023/10/02/wordcamp-mentors-october-check-in-2/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: September 2023](https://make.wordpress.org/community/2023/09/22/meetup-organizer-newsletter-september-2023/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on September 21, 2023](https://make.wordpress.org/community/2023/09/22/recap-of-the-contributor-working-groups-mentorship-chat-on-september-21-2023/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/community/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
-- [Attention WordPress women in India and those who support you: This important workshop this weekend is for you!](https://make.wordpress.org/community/2023/09/20/attention-wordpress-women-in-india-and-your-event-organizers-this-important-workshop-this-weekend-is-for-you/)
 <!-- COMMUNITY:END -->
 
 ## Meta
