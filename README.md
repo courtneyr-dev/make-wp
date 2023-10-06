@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Take part in Hacktoberfest 2023 by contributing to the Training Team](https://make.wordpress.org/training/2023/10/06/take-part-in-hacktoberfest-2023-by-contributing-to-the-training-team/)
 - [X-post: Looking for a #gu translation reviewer for Learn WordPress content](https://make.wordpress.org/training/2023/10/05/xpost-looking-for-a-gu-translation-reviewer-for-learn-wordpress-content/)
 - [Learning Pathway outlines](https://make.wordpress.org/training/2023/10/04/learning-pathway-outlines/)
 - [Discussion: Defining Active and Engaged Faculty](https://make.wordpress.org/training/2023/09/28/discussion-defining-active-and-engaged-faculty/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: End-user docs repo – workflows and settings](https://make.wordpress.org/training/2023/09/25/xpost-end-user-docs-repo-workflows-and-settings/)
 - [X-post: Hallway Hangout: What’s new for developers in WordPress 6.4](https://make.wordpress.org/training/2023/09/23/xpost-hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
-- [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
