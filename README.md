@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [The WordPress Create Block tool](https://learn.wordpress.org/?meeting=the-wordpress-create-block-tool)
 - [APAC: Using the Query Loop block and Category templates](https://learn.wordpress.org/?meeting=apac-using-the-query-loop-block-and-category-templates)
 - [Using the Query Loop block and Category templates](https://learn.wordpress.org/?meeting=using-the-query-loop-block-and-category-templates)
 - [PHP compatibility testing with PHPCompatibilityWP](https://learn.wordpress.org/?meeting=php-compatibility-testing-with-phpcompatibilitywp)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-3)
 - [Speaker Workshop for Indian Women in the WordPress Community Part 2](https://learn.wordpress.org/?meeting=speaker-workshop-for-indian-women-in-the-wordpress-community-part-2)
 - [Speaker Workshop for Indian Women in the WordPress Community Part 1](https://learn.wordpress.org/?meeting=speaker-workshop-for-indian-women-in-the-wordpress-community-part-1)
-- [Common WordPress APIs: Metadata](https://learn.wordpress.org/?meeting=common-wordpress-apis-metadata-2)
 <!-- SLS:END -->
 
 ## Test
