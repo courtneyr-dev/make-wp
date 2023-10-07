@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [#WPDiversity Resources Walk-Through](https://wordpress.tv/2023/10/07/wpdiversity-resources-walk-through/)
 - [Supercharging Your WordPress Development with Bedrock](https://wordpress.tv/2023/10/07/supercharging-your-wordpress-development-with-bedrock/)
 - [WCIloilo 2023 KidsCamp Part 1: Unleashing the Magic of Coding](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-1-unleashing-the-magic-of-coding/)
 - [WCIloilo 2023 KidsCamp Part 2: Unleashing the Magic of Design](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-2-unleashing-the-magic-of-design/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Grote imports, kleine imports, doe ze in je WordPress machine](https://wordpress.tv/2023/10/06/grote-imports-kleine-imports-doe-ze-in-je-wordpress-machine/)
 - [WooCommerce performance &lpar;how to make it sing and also how to measure if the hosting is up for it&rpar;](https://wordpress.tv/2023/10/06/woocommerce-performance-how-to-make-it-sing-and-also-how-to-measure-if-the-hosting-is-up-for-it/)
 - [Your Code Can Be Poetry Too](https://wordpress.tv/2023/10/06/your-code-can-be-poetry-too/)
-- [The Power Of The WordPress Community Favorite session: The Power Of The WordPress Community](https://wordpress.tv/2023/10/06/the-power-of-the-wordpress-community-favorite-session-the-power-of-the-wordpress-community/)
 <!-- WPTV:END -->
 
 ## Marketing
