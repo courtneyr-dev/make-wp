@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Supercharging Your WordPress Development with Bedrock](https://wordpress.tv/2023/10/07/supercharging-your-wordpress-development-with-bedrock/)
+- [WCIloilo 2023 KidsCamp Part 1: Unleashing the Magic of Coding](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-1-unleashing-the-magic-of-coding/)
+- [WCIloilo 2023 KidsCamp Part 2: Unleashing the Magic of Design](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-2-unleashing-the-magic-of-design/)
+- [Connecting to Source: How To Grow Tech Based Movements That Fulfill And Matter](https://wordpress.tv/2023/10/07/connecting-to-source-how-to-grow-tech-based-movements-that-fulfill-and-matter/)
+- [WordPress is the way; Paving the Way for Future Generation of WordPress Users](https://wordpress.tv/2023/10/07/wordpress-is-the-way-paving-the-way-for-future-generation-of-wordpress-users/)
+- [Building with the new Block Editor](https://wordpress.tv/2023/10/07/building-with-the-new-block-editor/)
 - [Automating WordPress Development with CircleCI: A Guide to Continuous Integration and Deployment](https://wordpress.tv/2023/10/06/automating-wordpress-development-with-circleci-a-guide-to-continuous-integration-and-deployment/)
 - [Empowering the Next Generation of Tech Leaders](https://wordpress.tv/2023/10/06/empowering-the-next-generation-of-tech-leaders/)
 - [ChatGPT As A Superpower For Content Creators](https://wordpress.tv/2023/10/06/chatgpt-as-a-superpower-for-content-creators/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WooCommerce performance &lpar;how to make it sing and also how to measure if the hosting is up for it&rpar;](https://wordpress.tv/2023/10/06/woocommerce-performance-how-to-make-it-sing-and-also-how-to-measure-if-the-hosting-is-up-for-it/)
 - [Your Code Can Be Poetry Too](https://wordpress.tv/2023/10/06/your-code-can-be-poetry-too/)
 - [The Power Of The WordPress Community Favorite session: The Power Of The WordPress Community](https://wordpress.tv/2023/10/06/the-power-of-the-wordpress-community-favorite-session-the-power-of-the-wordpress-community/)
-- [Scale and the Art of Building Products](https://wordpress.tv/2023/10/06/scale-and-the-art-of-building-products/)
-- [Jessica Lyschik: PERFORMANCE 101](https://wordpress.tv/2023/10/06/jessica-lyschik-performance-101/)
-- [Milana Cap: WORDPRESS THROUGH THE TERMINAL](https://wordpress.tv/2023/10/06/milana-cap-wordpress-through-the-terminal-2/)
-- [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://wordpress.tv/2023/10/04/five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress-2/)
-- [Start using conversion optimization](https://wordpress.tv/2023/10/04/start-using-conversion-optimization/)
-- [Performance Awareness and Optimization](https://wordpress.tv/2023/10/04/performance-awareness-and-optimization/)
 <!-- WPTV:END -->
 
 ## Marketing
