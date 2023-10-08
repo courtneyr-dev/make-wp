@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for simple-membership](https://make.wordpress.org/polyglots/2023/10/08/pte-request-for-simple-membership-5/)
 - [PTE R…](https://make.wordpress.org/polyglots/2023/10/08/pte-r-7/)
 - [Hello…](https://make.wordpress.org/polyglots/2023/10/06/hello-81/)
 - [PTE Request for Enable CORS](https://make.wordpress.org/polyglots/2023/10/06/pte-request-for-enable-cors/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I suggested Indonesia &lpar;id_ID&rpar; translation…](https://make.wordpress.org/polyglots/2023/10/05/i-suggested-indonesia-id_id-translation/)
 - [PTE Request for 4 plugins](https://make.wordpress.org/polyglots/2023/10/04/pte-request-for-4-plugins-2/)
 - [Agenda: Weekly Polyglots Chat- October 04, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/04/agenda-weekly-polyglots-chat-october-04-2023-0700-utc/)
-- [PTE Request for WPC Product…](https://make.wordpress.org/polyglots/2023/10/02/pte-request-for-wpc-product/)
 <!-- POLYGLOTS:END -->
 
 ## Support
