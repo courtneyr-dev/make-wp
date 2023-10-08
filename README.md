@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress（再）入門 – 基本設定編](https://wordpress.tv/2023/10/08/wordpress%ef%bc%88%e5%86%8d%ef%bc%89%e5%85%a5%e9%96%80-%e5%9f%ba%e6%9c%ac%e8%a8%ad%e5%ae%9a%e7%b7%a8/)
 - [#WPDiversity Resources Walk-Through](https://wordpress.tv/2023/10/07/wpdiversity-resources-walk-through/)
 - [Supercharging Your WordPress Development with Bedrock](https://wordpress.tv/2023/10/07/supercharging-your-wordpress-development-with-bedrock/)
 - [WCIloilo 2023 KidsCamp Part 1: Unleashing the Magic of Coding](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-1-unleashing-the-magic-of-coding/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [De 6 stappen om succesvolle web-business te bouwen](https://wordpress.tv/2023/10/06/de-6-stappen-om-succesvolle-web-business-te-bouwen/)
 - [Verzendmethodes in WooCommerce](https://wordpress.tv/2023/10/06/verzendmethodes-in-woocommerce/)
 - [Grote imports, kleine imports, doe ze in je WordPress machine](https://wordpress.tv/2023/10/06/grote-imports-kleine-imports-doe-ze-in-je-wordpress-machine/)
-- [WooCommerce performance &lpar;how to make it sing and also how to measure if the hosting is up for it&rpar;](https://wordpress.tv/2023/10/06/woocommerce-performance-how-to-make-it-sing-and-also-how-to-measure-if-the-hosting-is-up-for-it/)
 <!-- WPTV:END -->
 
 ## Marketing
