@@ -350,15 +350,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Connecting to Source: How To Grow Tech Based Movements That Fulfill And Matter](https://wordpress.tv/2023/10/07/connecting-to-source-how-to-grow-tech-based-movements-that-fulfill-and-matter/)
 - [WordPress is the way; Paving the Way for Future Generation of WordPress Users](https://wordpress.tv/2023/10/07/wordpress-is-the-way-paving-the-way-for-future-generation-of-wordpress-users/)
 - [Building with the new Block Editor](https://wordpress.tv/2023/10/07/building-with-the-new-block-editor/)
-- [State of WordPress security – insights from 2022](https://wordpress.tv/2023/10/07/state-of-wordpress-security-insights-from-2022/)
 - [Automating WordPress Development with CircleCI: A Guide to Continuous Integration and Deployment](https://wordpress.tv/2023/10/06/automating-wordpress-development-with-circleci-a-guide-to-continuous-integration-and-deployment/)
 - [Empowering the Next Generation of Tech Leaders](https://wordpress.tv/2023/10/06/empowering-the-next-generation-of-tech-leaders/)
 - [ChatGPT As A Superpower For Content Creators](https://wordpress.tv/2023/10/06/chatgpt-as-a-superpower-for-content-creators/)
 - [Cross culture: taking your shop abroad](https://wordpress.tv/2023/10/06/cross-culture-taking-your-shop-abroad/)
 - [CBWJ #3 「WP20週チャレンジ」で、もっと WordPress に関わってみよう！](https://wordpress.tv/2023/10/06/community-building-workshop-japan-003/)
 - [PHP compatibility testing with PHPCompatibilityWP](https://wordpress.tv/2023/10/06/php-compatibility-testing-with-phpcompatibilitywp/)
-- [SEO Magic: Tricks for Top Rankings](https://wordpress.tv/2023/10/06/seo-magic-tricks-for-top-rankings/)
-- [Unlocking User Insights with GA4, Search Console, &amp; Clarity](https://wordpress.tv/2023/10/06/unlocking-user-insights-with-ga4-search-console-clarity/)
 - [React Elastic Search integratie voor een optimale zoekervaring](https://wordpress.tv/2023/10/06/react-elastic-search-integratie-voor-een-optimale-zoekervaring/)
 - [In 5 stappen naar een customer success strategie die jouw bedrijf laat floreren](https://wordpress.tv/2023/10/06/in-5-stappen-naar-een-customer-success-strategie-die-jouw-bedrijf-laat-floreren/)
 - [Zo blijft WordPress geschikt voor Nieuwsredacties](https://wordpress.tv/2023/10/06/zo-blijft-wordpress-geschikt-voor-nieuwsredacties/)
@@ -367,6 +364,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [De 6 stappen om succesvolle web-business te bouwen](https://wordpress.tv/2023/10/06/de-6-stappen-om-succesvolle-web-business-te-bouwen/)
 - [Verzendmethodes in WooCommerce](https://wordpress.tv/2023/10/06/verzendmethodes-in-woocommerce/)
 - [Grote imports, kleine imports, doe ze in je WordPress machine](https://wordpress.tv/2023/10/06/grote-imports-kleine-imports-doe-ze-in-je-wordpress-machine/)
+- [WooCommerce performance &lpar;how to make it sing and also how to measure if the hosting is up for it&rpar;](https://wordpress.tv/2023/10/06/woocommerce-performance-how-to-make-it-sing-and-also-how-to-measure-if-the-hosting-is-up-for-it/)
+- [Your Code Can Be Poetry Too](https://wordpress.tv/2023/10/06/your-code-can-be-poetry-too/)
+- [The Power Of The WordPress Community Favorite session: The Power Of The WordPress Community](https://wordpress.tv/2023/10/06/the-power-of-the-wordpress-community-favorite-session-the-power-of-the-wordpress-community/)
 <!-- WPTV:END -->
 
 ## Marketing
