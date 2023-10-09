@@ -364,9 +364,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [De 6 stappen om succesvolle web-business te bouwen](https://wordpress.tv/2023/10/06/de-6-stappen-om-succesvolle-web-business-te-bouwen/)
 - [Verzendmethodes in WooCommerce](https://wordpress.tv/2023/10/06/verzendmethodes-in-woocommerce/)
 - [Grote imports, kleine imports, doe ze in je WordPress machine](https://wordpress.tv/2023/10/06/grote-imports-kleine-imports-doe-ze-in-je-wordpress-machine/)
-- [WooCommerce performance &lpar;how to make it sing and also how to measure if the hosting is up for it&rpar;](https://wordpress.tv/2023/10/06/woocommerce-performance-how-to-make-it-sing-and-also-how-to-measure-if-the-hosting-is-up-for-it/)
 - [Your Code Can Be Poetry Too](https://wordpress.tv/2023/10/06/your-code-can-be-poetry-too/)
 - [The Power Of The WordPress Community Favorite session: The Power Of The WordPress Community](https://wordpress.tv/2023/10/06/the-power-of-the-wordpress-community-favorite-session-the-power-of-the-wordpress-community/)
+- [Scale and the Art of Building Products](https://wordpress.tv/2023/10/06/scale-and-the-art-of-building-products/)
 <!-- WPTV:END -->
 
 ## Marketing
