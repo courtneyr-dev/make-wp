@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [What’s New In WordPress 6.4?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-4)
 - [Five for the Future: How to succeed by making ongoing contributions &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-replay)
 - [The WordPress Create Block tool](https://learn.wordpress.org/?meeting=the-wordpress-create-block-tool)
 - [APAC: Using the Query Loop block and Category templates](https://learn.wordpress.org/?meeting=apac-using-the-query-loop-block-and-category-templates)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account-3)
 - [How to contribute to WordPress by just being helpful](https://learn.wordpress.org/?meeting=how-to-contribute-to-wordpress-by-just-being-helpful)
 - [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-3)
-- [Speaker Workshop for Indian Women in the WordPress Community Part 2](https://learn.wordpress.org/?meeting=speaker-workshop-for-indian-women-in-the-wordpress-community-part-2)
 <!-- SLS:END -->
 
 ## Test
