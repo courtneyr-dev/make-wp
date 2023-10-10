@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Customer Reviews](https://make.wordpress.org/polyglots/2023/10/10/pte-request-for-customer-reviews-3/)
 - [PTE Request for Gutena Testimonial Slider](https://make.wordpress.org/polyglots/2023/10/10/pte-request-for-gutena-testimonial-slider/)
 - [CLPTE Request for ActivityPub Please…](https://make.wordpress.org/polyglots/2023/10/10/clpte-request-for-activitypub-please/)
 - [PTE Request for simple-membership](https://make.wordpress.org/polyglots/2023/10/08/pte-request-for-simple-membership-5/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for PowerPack Addons for Elementor](https://make.wordpress.org/polyglots/2023/10/05/pte-request-for-powerpack-addons-for-elementor/)
 - [Looking for a #gu translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2023/10/05/looking-for-a-gu-translation-reviewer-for-learn-wordpress-content/)
 - [Request to add Main Balochi](https://make.wordpress.org/polyglots/2023/10/05/request-to-add-main-balochi/)
-- [I suggested Indonesia &lpar;id_ID&rpar; translation…](https://make.wordpress.org/polyglots/2023/10/05/i-suggested-indonesia-id_id-translation/)
 <!-- POLYGLOTS:END -->
 
 ## Support
