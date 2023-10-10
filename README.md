@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Settings](https://developer.wordpress.org/themes/global-settings-and-styles/settings/)
 - [Tabs](https://developer.wordpress.org/block-editor/reference-guides/components/tabs/)
 - [Global Settings and Styles &lpar;theme.json&rpar;](https://developer.wordpress.org/themes/global-settings-and-styles/)
 - [Node.js development environment](https://developer.wordpress.org/block-editor/getting-started/devenv/nodejs-development-environment/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Commands Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-commands/)
 - [Theme security issues](https://developer.wordpress.org/themes/theme-security/theme-security-issues/)
 - [Enqueueing assets in the Editor](https://developer.wordpress.org/block-editor/how-to-guides/enqueueing-assets-in-the-editor/)
-- [@wordpress/patterns](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-patterns/)
 <!-- DEVHUB:END -->
 
 ## Themes
