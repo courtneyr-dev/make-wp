@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the author of…](https://make.wordpress.org/polyglots/2023/10/10/i-am-the-author-of-7/)
 - [PTE Request for Pay by paynow.pl](https://make.wordpress.org/polyglots/2023/10/10/pte-request-for-pay-by-paynow-pl/)
 - [Ideas for Locales with Huge Review Queues](https://make.wordpress.org/polyglots/2023/10/10/ideas-for-locales-with-huge-review-queues/)
 - [PTE Request for The Ultimate…](https://make.wordpress.org/polyglots/2023/10/10/pte-request-for-the-ultimate/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for simple-membership](https://make.wordpress.org/polyglots/2023/10/08/pte-request-for-simple-membership-5/)
 - [PTE R…](https://make.wordpress.org/polyglots/2023/10/08/pte-r-7/)
 - [Hello…](https://make.wordpress.org/polyglots/2023/10/06/hello-81/)
-- [PTE Request for Enable CORS](https://make.wordpress.org/polyglots/2023/10/06/pte-request-for-enable-cors/)
 <!-- POLYGLOTS:END -->
 
 ## Support
