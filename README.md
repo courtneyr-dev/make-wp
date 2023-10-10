@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Gutenbergにコードでコントリビュートするための環境づくり &lpar;Creating an environment for contributing code to Gutenberg&rpar;](https://learn.wordpress.org/?meeting=gutenberg%e3%81%ab%e3%82%b3%e3%83%bc%e3%83%89%e3%81%a7%e3%82%b3%e3%83%b3%e3%83%88%e3%83%aa%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae%e7%92%b0%e5%a2%83%e3%81%a5)
 - [What’s New In WordPress 6.4?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-4)
 - [Five for the Future: How to succeed by making ongoing contributions &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-replay)
 - [The WordPress Create Block tool](https://learn.wordpress.org/?meeting=the-wordpress-create-block-tool)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account-4)
 - [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account-3)
 - [How to contribute to WordPress by just being helpful](https://learn.wordpress.org/?meeting=how-to-contribute-to-wordpress-by-just-being-helpful)
-- [What is the Domain Name System?](https://learn.wordpress.org/?meeting=what-is-the-domain-name-system-3)
 <!-- SLS:END -->
 
 ## Test
