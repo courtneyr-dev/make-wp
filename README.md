@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Gutena Testimonial Slider](https://make.wordpress.org/polyglots/2023/10/10/pte-request-for-gutena-testimonial-slider/)
+- [CLPTE Request for ActivityPub Please…](https://make.wordpress.org/polyglots/2023/10/10/clpte-request-for-activitypub-please/)
 - [PTE Request for simple-membership](https://make.wordpress.org/polyglots/2023/10/08/pte-request-for-simple-membership-5/)
 - [PTE R…](https://make.wordpress.org/polyglots/2023/10/08/pte-r-7/)
 - [Hello…](https://make.wordpress.org/polyglots/2023/10/06/hello-81/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Looking for a #gu translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2023/10/05/looking-for-a-gu-translation-reviewer-for-learn-wordpress-content/)
 - [Request to add Main Balochi](https://make.wordpress.org/polyglots/2023/10/05/request-to-add-main-balochi/)
 - [I suggested Indonesia &lpar;id_ID&rpar; translation…](https://make.wordpress.org/polyglots/2023/10/05/i-suggested-indonesia-id_id-translation/)
-- [PTE Request for 4 plugins](https://make.wordpress.org/polyglots/2023/10/04/pte-request-for-4-plugins-2/)
-- [Agenda: Weekly Polyglots Chat- October 04, 2023 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/04/agenda-weekly-polyglots-chat-october-04-2023-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
