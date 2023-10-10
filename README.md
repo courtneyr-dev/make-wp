@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design Share: Sep 25-Oct 6](https://make.wordpress.org/design/2023/10/10/11610/)
 - [X-post: Hallway Hangout: Working session on consolidating various navigation modes](https://make.wordpress.org/design/2023/10/02/xpost-hallway-hangout-improving-accessibility-in-the-site-editor-2/)
 - [Design Share: Sep 11-Sep 22](https://make.wordpress.org/design/2023/09/25/design-share-sep-11-sep-22/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/design/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bringing Back the Weekly Design Triage](https://make.wordpress.org/design/2023/08/18/design-specific-triage/)
 - [Design Share: Jul 31-Aug 11](https://make.wordpress.org/design/2023/08/14/design-share-jul-31-aug-11/)
 - [Admin Design Kickoff](https://make.wordpress.org/design/2023/08/10/admin-design-kickoff/)
-- [Design Share: Jul 3-Jul 28](https://make.wordpress.org/design/2023/07/31/design-share-jul-3-jul-28/)
 <!-- DESIGN:END -->
 
 ## Mobile
