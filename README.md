@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [フルサイト編集で実際にサイトを作ってみよう！](https://wordpress.tv/2023/10/10/lets-create-a-website-using-full-site-editing/)
 - [Choosing and installing a theme](https://wordpress.tv/2023/10/09/choosing-and-installing-a-theme-2/)
 - [WordPress（再）入門 – 基本設定編](https://wordpress.tv/2023/10/08/wordpress%ef%bc%88%e5%86%8d%ef%bc%89%e5%85%a5%e9%96%80-%e5%9f%ba%e6%9c%ac%e8%a8%ad%e5%ae%9a%e7%b7%a8/)
 - [#WPDiversity Resources Walk-Through](https://wordpress.tv/2023/10/07/wpdiversity-resources-walk-through/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Verzendmethodes in WooCommerce](https://wordpress.tv/2023/10/06/verzendmethodes-in-woocommerce/)
 - [Grote imports, kleine imports, doe ze in je WordPress machine](https://wordpress.tv/2023/10/06/grote-imports-kleine-imports-doe-ze-in-je-wordpress-machine/)
 - [Your Code Can Be Poetry Too](https://wordpress.tv/2023/10/06/your-code-can-be-poetry-too/)
-- [The Power Of The WordPress Community Favorite session: The Power Of The WordPress Community](https://wordpress.tv/2023/10/06/the-power-of-the-wordpress-community-favorite-session-the-power-of-the-wordpress-community/)
 <!-- WPTV:END -->
 
 ## Marketing
