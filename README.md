@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Writer Specialized in WordPress FSE Themes and Block Plugins](https://jobs.wordpress.net/job/writer-specialized-in-wordpress-fse-themes-and-block-plugins/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-5/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-5/)
+- [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-5/)
+- [Project – convert existing website compatible with WordPress](https://jobs.wordpress.net/job/project-convert-existing-website-compatible-with-wordpress/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-815/)
+- [WordPress webdesigner](https://jobs.wordpress.net/job/wordpress-webdesigner/)
+- [Jr. WordPress Developer](https://jobs.wordpress.net/job/jr-wordpress-developer-8/)
 - [Wordress Developer](https://jobs.wordpress.net/job/wordress-developer/)
 - [Senior Web Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/senior-web-developer-wordpress/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-4/)
-- [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-4/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-4/)
-- [Conversion Copywriter](https://jobs.wordpress.net/job/conversion-copywriter-7/)
-- [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-3/)
-- [[rtCamp] Gutenberg Engineer](https://jobs.wordpress.net/job/rtcamp-gutenberg-engineer-15/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-58/)
-- [Install and Layout WordPress Plugin:  Bookings / Course Registration Plugin Installation](https://jobs.wordpress.net/job/install-and-layout-wordpress-plugin-bookings-course-registration-plugin-installation/)
 <!-- JOBS:END -->
 
 ## Central
