@@ -120,11 +120,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Global Settings and Styles &lpar;theme.json&rpar;](https://developer.wordpress.org/themes/global-settings-and-styles/)
 - [Node.js development environment](https://developer.wordpress.org/block-editor/getting-started/devenv/nodejs-development-environment/)
 - [Get started with wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-env/)
-- [Get started with wp-now](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-now/)
 - [@wordpress/undo-manager](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-undo-manager/)
 - [The Commands Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-commands/)
 - [Theme security issues](https://developer.wordpress.org/themes/theme-security/theme-security-issues/)
 - [Enqueueing assets in the Editor](https://developer.wordpress.org/block-editor/how-to-guides/enqueueing-assets-in-the-editor/)
+- [@wordpress/patterns](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-patterns/)
 <!-- DEVHUB:END -->
 
 ## Themes
