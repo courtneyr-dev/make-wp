@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat- October 11, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/11/agenda-weekly-polyglots-chat-october-11-2023-1300-utc/)
 - [PTE Request for the CookieYes | GDPR Cookie Consent &amp; Compliance Notice &lpar;CCPA Ready&rpar; Plugin](https://make.wordpress.org/polyglots/2023/10/11/pte-request-for-the-cookieyes-gdpr-cookie-consent-compliance-notice-ccpa-ready-plugin/)
 - [Hi there 👋](https://make.wordpress.org/polyglots/2023/10/11/hi-there-%f0%9f%91%8b/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2023/10/10/i-am-the-author-of-7/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews](https://make.wordpress.org/polyglots/2023/10/10/pte-request-for-customer-reviews-3/)
 - [PTE Request for Gutena Testimonial Slider](https://make.wordpress.org/polyglots/2023/10/10/pte-request-for-gutena-testimonial-slider/)
 - [CLPTE Request for ActivityPub Please…](https://make.wordpress.org/polyglots/2023/10/10/clpte-request-for-activitypub-please/)
-- [PTE Request for simple-membership](https://make.wordpress.org/polyglots/2023/10/08/pte-request-for-simple-membership-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
