@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Webpage design, WordPress](https://jobs.wordpress.net/job/webpage-design-wordpress/)
+- [Full-time WordPress Developer for FrontPage Guardian](https://jobs.wordpress.net/job/full-time-wordpress-developer-for-frontpage-guardian/)
 - [Writer Specialized in WordPress FSE Themes and Block Plugins](https://jobs.wordpress.net/job/writer-specialized-in-wordpress-fse-themes-and-block-plugins/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-5/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-5/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-815/)
 - [WordPress webdesigner](https://jobs.wordpress.net/job/wordpress-webdesigner/)
 - [Jr. WordPress Developer](https://jobs.wordpress.net/job/jr-wordpress-developer-8/)
-- [Wordress Developer](https://jobs.wordpress.net/job/wordress-developer/)
-- [Senior Web Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/senior-web-developer-wordpress/)
 <!-- JOBS:END -->
 
 ## Central
