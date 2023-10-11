@@ -555,9 +555,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Montreal, Quebec, Canada](https://central.wordcamp.org/wordcamps/wordcamp-montreal-quebec-canada/)
 - [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-4/)
 - [WordCamp Valencia, España.](https://central.wordcamp.org/wordcamps/wordcamp-valencia-espana/)
+- [WordCamp Islamabad, Federal Govt, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-federal-govt-pakistan/)
 - [WordCamp Ahmedabad, Gujarat, India](https://central.wordcamp.org/wordcamps/wordcamp-ahmedabad-gujarat-india-3/)
 - [WordCamp Sevilla, Spain](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-2023/)
-- [WordCamp Taiwan 2023](https://central.wordcamp.org/wordcamps/wordcamp-taiwan-2023/)
 - [WordCamp Mumbai 2023](https://central.wordcamp.org/wordcamps/wordcamp-mumbai-2023/)
 <!-- WordCamp:END -->
 
