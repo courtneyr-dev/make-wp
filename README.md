@@ -371,6 +371,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: Revitalizing the WordPress Showcase](https://make.wordpress.org/marketing/2023/10/11/xpost-revitalizing-the-wordpress-showcase/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/marketing/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: Community Summit Discussion Notes: Can WordPress become the household name it deserves to be?](https://make.wordpress.org/marketing/2023/09/06/xpost-community-summit-discussion-notes-can-wordpress-become-the-household-name-it-deserves-to-be/)
 - [Notes: Global Marketing Team meeting, 22 August 2023](https://make.wordpress.org/marketing/2023/08/28/notes-global-marketing-team-meeting-22-august-2023/)
@@ -380,7 +381,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Notes: Global Marketing Team meeting, 8 August 2023](https://make.wordpress.org/marketing/2023/08/14/notes-global-marketing-team-meeting-8-august-2023/)
 - [Notes: Global Marketing Team meeting, 1 August 2023](https://make.wordpress.org/marketing/2023/08/07/notes-global-marketing-team-meeting-1-august-2023/)
 - [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/marketing/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
-- [Notes: Global Marketing Team meeting, 25 July 2023](https://make.wordpress.org/marketing/2023/07/31/notes-global-marketing-team-meeting-25-july-2023/)
 <!-- MARKETING:END -->
 
 ## CLI
