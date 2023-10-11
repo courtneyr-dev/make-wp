@@ -171,6 +171,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Revitalizing the WordPress Showcase](https://make.wordpress.org/meta/2023/10/11/revitalizing-the-wordpress-showcase/)
+- [Updates to global header and footer navigation](https://make.wordpress.org/meta/2023/10/11/updates-to-global-header-and-footer-navigation/)
 - [Meeting Agenda for October 4, 2023](https://make.wordpress.org/meta/2023/10/03/meeting-agenda-for-october-4-2023/)
 - [Set up Two-Factor authentication WordPress.org](https://make.wordpress.org/meta/2023/09/26/set-up-two-factor-authentication-wordpress-org/)
 - [X-post: Request for Feedback: Make/Team Dashboards](https://make.wordpress.org/meta/2023/09/25/xpost-request-for-feedback-make-team-dashboards/)
@@ -179,8 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meeting Agenda for September 20, 2023](https://make.wordpress.org/meta/2023/09/20/meeting-agenda-for-september-20-2023/)
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/meta/2023/09/06/xpost-documentation-translation-localization/)
 - [Introducing the WordPress.org GitHub Invite tool](https://make.wordpress.org/meta/2023/08/23/introducing-the-wordpress-org-github-invite-tool/)
-- [Matrix chat Summary – August…](https://make.wordpress.org/meta/2023/08/17/matrix-chat-summary-august-2/)
-- [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/meta/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 <!-- META:END -->
 
 ## Training
