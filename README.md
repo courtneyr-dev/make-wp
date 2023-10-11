@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Report: Diverse Speaker Workshop September 2023](https://make.wordpress.org/community/2023/10/11/report-diverse-speaker-workshop-september-2023/)
 - [NextGen WordPress Events: Discover the Future of WordPress Gatherings](https://make.wordpress.org/community/2023/10/06/nextgen-events/)
 - [Community Team Meeting Agenda for 5 October, 2023](https://make.wordpress.org/community/2023/10/04/community-team-meeting-agenda-for-5-october-2023/)
 - [For the Community: WordPress Diversity #WPDiversity Resources](https://make.wordpress.org/community/2023/10/03/for-the-community-wordpress-diversity-wpdiversity-resources/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposed 2024 Global Community Sponsorship Program](https://make.wordpress.org/community/2023/09/28/proposed-2024-global-community-sponsorship-program/)
 - [Meetup Organizer Newsletter: September 2023](https://make.wordpress.org/community/2023/09/22/meetup-organizer-newsletter-september-2023/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on September 21, 2023](https://make.wordpress.org/community/2023/09/22/recap-of-the-contributor-working-groups-mentorship-chat-on-september-21-2023/)
-- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/community/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 <!-- COMMUNITY:END -->
 
 ## Meta
