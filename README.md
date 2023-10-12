@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [আপনার নিজস্ব সিঙ্কড এবং নন-সিঙ্কড কাস্টম প্যাটার্ন তৈরি করুন](https://learn.wordpress.org/tutorial/bn-creating-your-own-custom-synced-or-non-synced-patterns/)
 - [ওয়ার্ডপ্রেস ড্যাশবোর্ড সম্পর্কে জানুন](https://learn.wordpress.org/tutorial/bn-getting-to-know-the-wordpress-dashboard/)
 - [Choosing and installing a theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improving website performance with caching](https://learn.wordpress.org/tutorial/improving-website-performance-with-caching/)
 - [Installing Node.js and npm for local WordPress development](https://learn.wordpress.org/tutorial/installing-node-js-and-npm-for-local-wordpress-development/)
 - [Scegliere e installare un tema](https://learn.wordpress.org/tutorial/it-choosing-and-installing-a-theme/)
-- [7 Tips to improve website security](https://learn.wordpress.org/tutorial/7-tips-to-improve-website-security/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
