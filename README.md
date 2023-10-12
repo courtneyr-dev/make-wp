@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Support Team update – October 12th](https://make.wordpress.org/updates/2023/10/12/support-team-update-october-12th-2/)
 - [Themes team update October 10, 2023](https://make.wordpress.org/updates/2023/10/10/themes-team-update-october-10-2023/)
 - [Test Team Update: 9 October 2023](https://make.wordpress.org/updates/2023/10/09/test-team-update-9-october-2023/)
 - [Plugin Review Team: 9 October 2023](https://make.wordpress.org/updates/2023/10/09/plugin-review-team-9-october-2023/)
@@ -464,7 +465,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Review Team: 2 October 2023](https://make.wordpress.org/updates/2023/10/02/plugin-review-team-2-october-2023/)
 - [Test Team Update: 2 October 2023](https://make.wordpress.org/updates/2023/10/02/test-team-update-2-october-2023/)
 - [Documentation Team Update – October 2, 2023](https://make.wordpress.org/updates/2023/10/02/documentation-team-update-october-2-2023/)
-- [What’s new on Learn WordPress in September 2023](https://make.wordpress.org/updates/2023/10/02/whats-new-on-learn-wordpress-in-september-2023/)
 <!-- UPDATES:END -->
 
 ## Project
