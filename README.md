@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Hallway Hangout: What’s new for developers in WordPress 6.4](https://wordpress.tv/2023/10/12/hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
 - [WordPress bez instalacji, komputera, i internetu: Poznaj WordPress Playground.](https://wordpress.tv/2023/10/12/wordpress-bez-instalacji-komputera-i-internetu-poznaj-wordpress-playground/)
 - [Żuczki, Misie i kaizen](https://wordpress.tv/2023/10/12/zuczki-misie-i-kaizen/)
 - [Tworzenie natywnych bloków do Gutenberga](https://wordpress.tv/2023/10/12/tworzenie-natywnych-blokow-do-gutenberga/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCIloilo 2023 KidsCamp Part 1: Unleashing the Magic of Coding](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-1-unleashing-the-magic-of-coding/)
 - [WCIloilo 2023 KidsCamp Part 2: Unleashing the Magic of Design](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-2-unleashing-the-magic-of-design/)
 - [Connecting to Source: How To Grow Tech Based Movements That Fulfill And Matter](https://wordpress.tv/2023/10/07/connecting-to-source-how-to-grow-tech-based-movements-that-fulfill-and-matter/)
-- [WordPress is the way; Paving the Way for Future Generation of WordPress Users](https://wordpress.tv/2023/10/07/wordpress-is-the-way-paving-the-way-for-future-generation-of-wordpress-users/)
 <!-- WPTV:END -->
 
 ## Marketing
