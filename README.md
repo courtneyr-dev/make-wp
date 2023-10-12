@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.3.2 – Maintenance and Security release](https://wordpress.org/news/2023/10/wordpress-6-3-2-maintenance-and-security-release/)
 - [WordPress 6.4 Beta 3](https://wordpress.org/news/2023/10/wordpress-6-4-beta-3/)
 - [WordPress 6.4 Beta 2](https://wordpress.org/news/2023/10/wordpress-6-4-beta-2/)
 - [WP Briefing: Episode 63: A WordPress 6.4 Sneak Peek](https://wordpress.org/news/2023/10/episode-63-a-wordpress-6-4-sneak-peek/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Openverse Wins the 2023 OEG Open Infrastructure Award](https://wordpress.org/news/2023/09/openverse-wins-the-2023-oeg-open-infrastructure-award/)
 - [The Month in WordPress – August 2023](https://wordpress.org/news/2023/09/the-month-in-wordpress-august-2023/)
 - [WP Briefing: Episode 61: Community, Summit, all at  Washington D.C.](https://wordpress.org/news/2023/09/episode-61-community-summit-all-at-washington-d-c/)
-- [WordPress 6.3.1 Maintenance Release](https://wordpress.org/news/2023/08/wordpress-6-3-1-maintenance-release/)
 <!-- NEWS:END -->
 
 ## Jobs
