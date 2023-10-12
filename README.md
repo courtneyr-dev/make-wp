@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [ওয়ার্ডপ্রেস ড্যাশবোর্ড সম্পর্কে জানুন](https://learn.wordpress.org/tutorial/bn-getting-to-know-the-wordpress-dashboard/)
 - [Choosing and installing a theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [Common APIs – Responsive Images](https://learn.wordpress.org/tutorial/common-apis-responsive-images/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Installing Node.js and npm for local WordPress development](https://learn.wordpress.org/tutorial/installing-node-js-and-npm-for-local-wordpress-development/)
 - [Scegliere e installare un tema](https://learn.wordpress.org/tutorial/it-choosing-and-installing-a-theme/)
 - [7 Tips to improve website security](https://learn.wordpress.org/tutorial/7-tips-to-improve-website-security/)
-- [Categories vs. Tags: What’s the difference?](https://learn.wordpress.org/tutorial/categories-vs-tags-whats-the-difference/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
