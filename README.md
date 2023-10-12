@@ -185,8 +185,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 3rd October 2023](https://make.wordpress.org/training/2023/10/12/training-team-meeting-recap-3rd-october-2023/)
 - [Training Team Meeting Recap – 26th September 2023](https://make.wordpress.org/training/2023/10/12/training-team-meeting-recap-26th-september-2023/)
-- [Training Team Meeting Recap – 3rd October 2023](https://make.wordpress.org/training/2023/10/11/training-team-meeting-recap-3rd-october-2023/)
 - [Take part in Hacktoberfest 2023 by contributing to the Training Team](https://make.wordpress.org/training/2023/10/06/take-part-in-hacktoberfest-2023-by-contributing-to-the-training-team/)
 - [X-post: Looking for a #gu translation reviewer for Learn WordPress content](https://make.wordpress.org/training/2023/10/05/xpost-looking-for-a-gu-translation-reviewer-for-learn-wordpress-content/)
 - [Learning Pathway outlines](https://make.wordpress.org/training/2023/10/04/learning-pathway-outlines/)
