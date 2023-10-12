@@ -342,6 +342,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress bez instalacji, komputera, i internetu: Poznaj WordPress Playground.](https://wordpress.tv/2023/10/12/wordpress-bez-instalacji-komputera-i-internetu-poznaj-wordpress-playground/)
+- [Żuczki, Misie i kaizen](https://wordpress.tv/2023/10/12/zuczki-misie-i-kaizen/)
+- [Tworzenie natywnych bloków do Gutenberga](https://wordpress.tv/2023/10/12/tworzenie-natywnych-blokow-do-gutenberga/)
+- [Optymalizacja obrazków w WordPressie](https://wordpress.tv/2023/10/12/optymalizacja-obrazkow-w-wordpressie/)
+- [Przejdź na zieloną stronę mocy – optymalizacja WordPressa z wykorzystaniem technicznego SEO](https://wordpress.tv/2023/10/12/przejdz-na-zielona-strone-mocy-optymalizacja-wordpressa-z-wykorzystaniem-technicznego-seo/)
+- [Jak minimalizować ilość błędów w projektach zespołowych](https://wordpress.tv/2023/10/12/jak-minimalizowac-ilosc-bledow-w-projektach-zespolowych/)
+- [OOP hook cares](https://wordpress.tv/2023/10/12/oop-hook-cares/)
+- [Niech GPT pisze i publikuje za Ciebie](https://wordpress.tv/2023/10/12/niech-gpt-pisze-i-publikuje-za-ciebie/)
+- [Mamy Twoje dane i co nam zrobisz”, czyli o powierzeniu danych w hostingu](https://wordpress.tv/2023/10/12/mamy-twoje-dane-i-co-nam-zrobisz-czyli-o-powierzeniu-danych-w-hostingu/)
+- [WooCommerce w połączeniu z FSE – case study](https://wordpress.tv/2023/10/12/woocommerce-w-polaczeniu-z-fse-case-study/)
+- [Headless – czy to naprawdę ma sens?](https://wordpress.tv/2023/10/12/headless-czy-to-naprawde-ma-sens/)
+- [Jak przyspieszyć WP_Query nawet 100 razy podejmując proste decyzje projektowe?](https://wordpress.tv/2023/10/12/jak-przyspieszyc-wp_query-nawet-100-razy-podejmujac-proste-decyzje-projektowe/)
+- [Till infinity and beyond – cache’owanie bez daty ważności](https://wordpress.tv/2023/10/12/till-infinity-and-beyond-cacheowanie-bez-daty-waznosci/)
+- [Optymalizacja. A komu to potrzebne?](https://wordpress.tv/2023/10/12/optymalizacja-a-komu-to-potrzebne/)
 - [Od optymalizacji do aplikacji](https://wordpress.tv/2023/10/12/od-optymalizacji-do-aplikacji/)
 - [Hosting współdzielony, a dedykowany? Kiedy potrzebują ochrony?](https://wordpress.tv/2023/10/12/hosting-wspoldzielony-a-dedykowany-kiedy-potrzebuja-ochrony/)
 - [フルサイト編集で実際にサイトを作ってみよう！](https://wordpress.tv/2023/10/10/lets-create-a-website-using-full-site-editing/)
@@ -353,20 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCIloilo 2023 KidsCamp Part 2: Unleashing the Magic of Design](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-2-unleashing-the-magic-of-design/)
 - [Connecting to Source: How To Grow Tech Based Movements That Fulfill And Matter](https://wordpress.tv/2023/10/07/connecting-to-source-how-to-grow-tech-based-movements-that-fulfill-and-matter/)
 - [WordPress is the way; Paving the Way for Future Generation of WordPress Users](https://wordpress.tv/2023/10/07/wordpress-is-the-way-paving-the-way-for-future-generation-of-wordpress-users/)
-- [Building with the new Block Editor](https://wordpress.tv/2023/10/07/building-with-the-new-block-editor/)
-- [Automating WordPress Development with CircleCI: A Guide to Continuous Integration and Deployment](https://wordpress.tv/2023/10/06/automating-wordpress-development-with-circleci-a-guide-to-continuous-integration-and-deployment/)
-- [Empowering the Next Generation of Tech Leaders](https://wordpress.tv/2023/10/06/empowering-the-next-generation-of-tech-leaders/)
-- [ChatGPT As A Superpower For Content Creators](https://wordpress.tv/2023/10/06/chatgpt-as-a-superpower-for-content-creators/)
-- [Cross culture: taking your shop abroad](https://wordpress.tv/2023/10/06/cross-culture-taking-your-shop-abroad/)
-- [CBWJ #3 「WP20週チャレンジ」で、もっと WordPress に関わってみよう！](https://wordpress.tv/2023/10/06/community-building-workshop-japan-003/)
-- [PHP compatibility testing with PHPCompatibilityWP](https://wordpress.tv/2023/10/06/php-compatibility-testing-with-phpcompatibilitywp/)
-- [React Elastic Search integratie voor een optimale zoekervaring](https://wordpress.tv/2023/10/06/react-elastic-search-integratie-voor-een-optimale-zoekervaring/)
-- [In 5 stappen naar een customer success strategie die jouw bedrijf laat floreren](https://wordpress.tv/2023/10/06/in-5-stappen-naar-een-customer-success-strategie-die-jouw-bedrijf-laat-floreren/)
-- [Zo blijft WordPress geschikt voor Nieuwsredacties](https://wordpress.tv/2023/10/06/zo-blijft-wordpress-geschikt-voor-nieuwsredacties/)
-- [Hoe bouw je een schaalbare en stabiele business met WordPress plugins?](https://wordpress.tv/2023/10/06/hoe-bouw-je-een-schaalbare-en-stabiele-business-met-wordpress-plugins/)
-- [Maatwerk Gutenberg magie](https://wordpress.tv/2023/10/06/maatwerk-gutenberg-magie/)
-- [De 6 stappen om succesvolle web-business te bouwen](https://wordpress.tv/2023/10/06/de-6-stappen-om-succesvolle-web-business-te-bouwen/)
-- [Verzendmethodes in WooCommerce](https://wordpress.tv/2023/10/06/verzendmethodes-in-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
