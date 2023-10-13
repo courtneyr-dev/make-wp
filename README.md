@@ -342,6 +342,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [What is Kuala Lumpur WordPress Meetup?](https://wordpress.tv/2023/10/13/what-is-kuala-lumpur-wordpress-meetup/)
+- [Securing Website Jobs with Rtist Platforms](https://wordpress.tv/2023/10/13/securing-website-jobs-with-rtist-platforms/)
+- [Introducing the world of WordPress Travel](https://wordpress.tv/2023/10/13/introducing-the-world-of-wordpress-travel/)
+- [WordPress in numbers](https://wordpress.tv/2023/10/13/wordpress-in-numbers/)
+- [Community Architecture Innovations](https://wordpress.tv/2023/10/13/community-architecture-innovations/)
+- [Breaking team communication silo with WordPress](https://wordpress.tv/2023/10/13/breaking-team-communication-silo-with-wordpress/)
+- [My journey with WordPress](https://wordpress.tv/2023/10/13/my-journey-with-wordpress/)
+- [AMA session](https://wordpress.tv/2023/10/13/ama-session/)
 - [The WordPress Create Block tool](https://wordpress.tv/2023/10/13/the-wordpress-create-block-tool/)
 - [Hallway Hangout: What’s new for developers in WordPress 6.4](https://wordpress.tv/2023/10/12/hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
 - [WordPress bez instalacji, komputera, i internetu: Poznaj WordPress Playground.](https://wordpress.tv/2023/10/12/wordpress-bez-instalacji-komputera-i-internetu-poznaj-wordpress-playground/)
@@ -359,14 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Till infinity and beyond – cache’owanie bez daty ważności](https://wordpress.tv/2023/10/12/till-infinity-and-beyond-cacheowanie-bez-daty-waznosci/)
 - [Optymalizacja. A komu to potrzebne?](https://wordpress.tv/2023/10/12/optymalizacja-a-komu-to-potrzebne/)
 - [Od optymalizacji do aplikacji](https://wordpress.tv/2023/10/12/od-optymalizacji-do-aplikacji/)
-- [Hosting współdzielony, a dedykowany? Kiedy potrzebują ochrony?](https://wordpress.tv/2023/10/12/hosting-wspoldzielony-a-dedykowany-kiedy-potrzebuja-ochrony/)
-- [フルサイト編集で実際にサイトを作ってみよう！](https://wordpress.tv/2023/10/10/lets-create-a-website-using-full-site-editing/)
-- [Choosing and installing a theme](https://wordpress.tv/2023/10/09/choosing-and-installing-a-theme-2/)
-- [WordPress（再）入門 – 基本設定編](https://wordpress.tv/2023/10/08/wordpress%ef%bc%88%e5%86%8d%ef%bc%89%e5%85%a5%e9%96%80-%e5%9f%ba%e6%9c%ac%e8%a8%ad%e5%ae%9a%e7%b7%a8/)
-- [#WPDiversity Resources Walk-Through](https://wordpress.tv/2023/10/07/wpdiversity-resources-walk-through/)
-- [Supercharging Your WordPress Development with Bedrock](https://wordpress.tv/2023/10/07/supercharging-your-wordpress-development-with-bedrock/)
-- [WCIloilo 2023 KidsCamp Part 1: Unleashing the Magic of Coding](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-1-unleashing-the-magic-of-coding/)
-- [WCIloilo 2023 KidsCamp Part 2: Unleashing the Magic of Design](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-2-unleashing-the-magic-of-design/)
 <!-- WPTV:END -->
 
 ## Marketing
