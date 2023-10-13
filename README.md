@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Project Update: The Guide Program’s First Month](https://make.wordpress.org/training/2023/10/13/project-update-the-guide-programs-first-month/)
 - [Training Team Meeting Recap – 10th October 2023](https://make.wordpress.org/training/2023/10/13/training-team-meeting-recap-10th-october-2023/)
 - [Training Team Meeting Recap – 3rd October 2023](https://make.wordpress.org/training/2023/10/12/training-team-meeting-recap-3rd-october-2023/)
 - [Training Team Meeting Recap – 26th September 2023](https://make.wordpress.org/training/2023/10/12/training-team-meeting-recap-26th-september-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Discussion: Defining Active and Engaged Faculty](https://make.wordpress.org/training/2023/09/28/discussion-defining-active-and-engaged-faculty/)
 - [Looking for feedback: Updates to GitHub issue templates and labels](https://make.wordpress.org/training/2023/09/27/looking-for-feedback-updates-to-github-issue-templates-and-labels/)
 - [Training Team Meeting Recap – 19th September 2023](https://make.wordpress.org/training/2023/09/26/training-team-meeting-recap-19th-september-2023/)
-- [Looking for Feedback: Learn Website Information Architecture](https://make.wordpress.org/training/2023/09/26/looking-for-feedback-learn-website-information-architecture/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
