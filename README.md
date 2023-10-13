@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary of Docs Team Biweekly Meeting &lpar;October 3, 2023&rpar;](https://make.wordpress.org/docs/2023/10/13/summary-of-docs-team-biweekly-meeting-october-3-2023/)
 - [Summary of Docs Team Biweekly Meeting &lpar;September 19, 2023&rpar;](https://make.wordpress.org/docs/2023/10/03/summary-of-docs-team-biweekly-meeting-september-19-2023/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;October 3, 2023&rpar;](https://make.wordpress.org/docs/2023/10/02/agenda-for-docs-team-biweekly-meeting-october-3-2023/)
 - [End-user docs repo – workflows and settings](https://make.wordpress.org/docs/2023/09/25/end-user-docs-repo-workflows-and-settings/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of Docs Team Biweekly Meeting &lpar;September 05, 2023&rpar;](https://make.wordpress.org/docs/2023/09/06/summary-of-docs-team-biweekly-meeting-september-05-2023/)
 - [X-post: Community Summit Discussion Notes: Ad hoc session on iterating on the Field Guide](https://make.wordpress.org/docs/2023/09/06/xpost-community-summit-discussion-notes-ad-hoc-session-on-iterating-on-the-field-guide/)
 - [X-post: Proposal: Documentation translation / localization](https://make.wordpress.org/docs/2023/09/06/xpost-documentation-translation-localization/)
-- [X-post: What’s new on Learn WordPress in August 2023](https://make.wordpress.org/docs/2023/09/02/xpost-whats-new-on-learn-wordpress-in-august-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
