@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The WordPress Create Block tool](https://wordpress.tv/2023/10/13/the-wordpress-create-block-tool/)
 - [Hallway Hangout: What’s new for developers in WordPress 6.4](https://wordpress.tv/2023/10/12/hallway-hangout-whats-new-for-developers-in-wordpress-6-4/)
 - [WordPress bez instalacji, komputera, i internetu: Poznaj WordPress Playground.](https://wordpress.tv/2023/10/12/wordpress-bez-instalacji-komputera-i-internetu-poznaj-wordpress-playground/)
 - [Żuczki, Misie i kaizen](https://wordpress.tv/2023/10/12/zuczki-misie-i-kaizen/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Supercharging Your WordPress Development with Bedrock](https://wordpress.tv/2023/10/07/supercharging-your-wordpress-development-with-bedrock/)
 - [WCIloilo 2023 KidsCamp Part 1: Unleashing the Magic of Coding](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-1-unleashing-the-magic-of-coding/)
 - [WCIloilo 2023 KidsCamp Part 2: Unleashing the Magic of Design](https://wordpress.tv/2023/10/07/wciloilo-2023-kidscamp-part-2-unleashing-the-magic-of-design/)
-- [Connecting to Source: How To Grow Tech Based Movements That Fulfill And Matter](https://wordpress.tv/2023/10/07/connecting-to-source-how-to-grow-tech-based-movements-that-fulfill-and-matter/)
 <!-- WPTV:END -->
 
 ## Marketing
