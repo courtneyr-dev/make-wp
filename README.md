@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [For All Userkind: NASA Web Modernization and WordPress](https://wordpress.tv/2023/10/13/for-all-userkind-nasa-web-modernization-and-wordpress/)
+- [Custom Database Tables](https://wordpress.tv/2023/10/13/custom-database-tables/)
 - [What is Kuala Lumpur WordPress Meetup?](https://wordpress.tv/2023/10/13/what-is-kuala-lumpur-wordpress-meetup/)
 - [Securing Website Jobs with Rtist Platforms](https://wordpress.tv/2023/10/13/securing-website-jobs-with-rtist-platforms/)
 - [Introducing the world of WordPress Travel](https://wordpress.tv/2023/10/13/introducing-the-world-of-wordpress-travel/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Headless – czy to naprawdę ma sens?](https://wordpress.tv/2023/10/12/headless-czy-to-naprawde-ma-sens/)
 - [Jak przyspieszyć WP_Query nawet 100 razy podejmując proste decyzje projektowe?](https://wordpress.tv/2023/10/12/jak-przyspieszyc-wp_query-nawet-100-razy-podejmujac-proste-decyzje-projektowe/)
 - [Till infinity and beyond – cache’owanie bez daty ważności](https://wordpress.tv/2023/10/12/till-infinity-and-beyond-cacheowanie-bez-daty-waznosci/)
-- [Optymalizacja. A komu to potrzebne?](https://wordpress.tv/2023/10/12/optymalizacja-a-komu-to-potrzebne/)
-- [Od optymalizacji do aplikacji](https://wordpress.tv/2023/10/12/od-optymalizacji-do-aplikacji/)
 <!-- WPTV:END -->
 
 ## Marketing
