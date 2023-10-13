@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [NSN Website](https://jobs.wordpress.net/job/nsn-website/)
 - [Webpage design, WordPress](https://jobs.wordpress.net/job/webpage-design-wordpress/)
 - [Full-time WordPress Developer for FrontPage Guardian](https://jobs.wordpress.net/job/full-time-wordpress-developer-for-frontpage-guardian/)
 - [Writer Specialized in WordPress FSE Themes and Block Plugins](https://jobs.wordpress.net/job/writer-specialized-in-wordpress-fse-themes-and-block-plugins/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Project – convert existing website compatible with WordPress](https://jobs.wordpress.net/job/project-convert-existing-website-compatible-with-wordpress/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-815/)
 - [WordPress webdesigner](https://jobs.wordpress.net/job/wordpress-webdesigner/)
-- [Jr. WordPress Developer](https://jobs.wordpress.net/job/jr-wordpress-developer-8/)
 <!-- JOBS:END -->
 
 ## Central
