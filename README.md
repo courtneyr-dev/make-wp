@@ -3,16 +3,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Components updates in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/editor-components-updates-in-wordpress-6-4/)
 - [New `registerInserterMediaCategory` API](https://make.wordpress.org/core/2023/10/16/new-registerinsertermediacategory-api/)
 - [WordPress core is now using Playwright for all browser-based tests](https://make.wordpress.org/core/2023/10/16/wordpress-core-is-now-using-playwright-for-all-browser-based-tests/)
+- [Introducing Block Hooks for dynamic blocks](https://make.wordpress.org/core/2023/10/15/introducing-block-hooks-for-dynamic-blocks/)
 - [WordPress 6.4 Beta 4](https://make.wordpress.org/core/2023/10/12/wordpress-6-4-beta-4/)
 - [Editor chat summary: October 11th, 2023](https://make.wordpress.org/core/2023/10/12/editor-chat-summary-october-11th-2023/)
 - [Dev Chat summary, October 11, 2023](https://make.wordpress.org/core/2023/10/11/dev-chat-summary-october-11-2023/)
 - [What’s new in Gutenberg 16.8 &lpar;11 October&rpar;](https://make.wordpress.org/core/2023/10/11/whats-new-in-gutenberg-16-8-11-october/)
 - [Dev Chat agenda, October 11, 2023](https://make.wordpress.org/core/2023/10/11/dev-chat-agenda-october-4-2023-2/)
 - [Four Weeks in Core – October 9, 2023](https://make.wordpress.org/core/2023/10/10/a-week-in-core-october-9-2023/)
-- [Editor Chat Agenda: 10 October 2023](https://make.wordpress.org/core/2023/10/10/editor-chat-agenda-10-october-2023/)
-- [Performance Chat Summary: 10 October 2023](https://make.wordpress.org/core/2023/10/10/performance-chat-summary-10-october-2023/)
 <!-- CORE:END -->
 
 ## Design
