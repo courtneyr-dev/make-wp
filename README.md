@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Contributor Working Group: Mentorship Chat Agenda | October 19th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/10/16/contributor-working-group-mentorship-chat-agenda-october-19th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [2024 Community Team Reps Nominations and Proposal for Reps Structure](https://make.wordpress.org/community/2023/10/13/2024-community-team-reps-nominations-and-proposal-for-reps-structure/)
 - [Report: Diverse Speaker Workshop September 2023](https://make.wordpress.org/community/2023/10/11/report-diverse-speaker-workshop-september-2023/)
 - [NextGen WordPress Events: Discover the Future of WordPress Gatherings](https://make.wordpress.org/community/2023/10/06/nextgen-events/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcement: Sunsetting Tagregator plugin on WordCamp.org websites](https://make.wordpress.org/community/2023/09/29/announcement-sunsetting-tagregator-plugin-on-wordcamp-org-websites/)
 - [Community Team Engagement Program Supporter Survey 2023](https://make.wordpress.org/community/2023/09/28/community-team-engagement-program-supporter-survey-2023/)
 - [Proposed 2024 Global Community Sponsorship Program](https://make.wordpress.org/community/2023/09/28/proposed-2024-global-community-sponsorship-program/)
-- [Meetup Organizer Newsletter: September 2023](https://make.wordpress.org/community/2023/09/22/meetup-organizer-newsletter-september-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
