@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [New support guidelines](https://make.wordpress.org/support/2023/10/new-support-guidelines/)
 - [Summary for October 12th Support Team meeting](https://make.wordpress.org/support/2023/10/summary-for-october-12th-support-team-meeting/)
 - [Agenda for October 12th Support Meeting](https://make.wordpress.org/support/2023/10/agenda-for-october-12th-support-meeting-2/)
 - [Agenda for September 28th Support Meeting](https://make.wordpress.org/support/2023/09/agenda-for-september-28th-support-meeting-2/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for September 7th Support Meeting](https://make.wordpress.org/support/2023/09/agenda-for-september-7th-support-meeting-3/)
 - [X-post: Community Summit Discussion Notes: Handling Trust &amp; Safety &lpar;“T&amp;S”&rpar; in the WordPress ecosystem: content moderation and sensitive content](https://make.wordpress.org/support/2023/08/xpost-community-summit-discussion-notes-handling-trust-safety-ts-in-the-wordpress-ecosystem-content-moderation-and-sensitive-content/)
 - [Proposal for updated support guidelines](https://make.wordpress.org/support/2023/08/proposal-for-updated-support-guidelines/)
-- [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/support/2023/08/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 <!-- SUPPORT:END -->
 
 ## Documentation
