@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Introducing admin notice functions in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/introducing-admin-notice-functions-in-wordpress-6-4/)
 - [Editor Components updates in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/editor-components-updates-in-wordpress-6-4/)
 - [New `registerInserterMediaCategory` API](https://make.wordpress.org/core/2023/10/16/new-registerinsertermediacategory-api/)
 - [WordPress core is now using Playwright for all browser-based tests](https://make.wordpress.org/core/2023/10/16/wordpress-core-is-now-using-playwright-for-all-browser-based-tests/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat summary, October 11, 2023](https://make.wordpress.org/core/2023/10/11/dev-chat-summary-october-11-2023/)
 - [What’s new in Gutenberg 16.8 &lpar;11 October&rpar;](https://make.wordpress.org/core/2023/10/11/whats-new-in-gutenberg-16-8-11-october/)
 - [Dev Chat agenda, October 11, 2023](https://make.wordpress.org/core/2023/10/11/dev-chat-agenda-october-4-2023-2/)
-- [Four Weeks in Core – October 9, 2023](https://make.wordpress.org/core/2023/10/10/a-week-in-core-october-9-2023/)
 <!-- CORE:END -->
 
 ## Design
