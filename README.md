@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [New `registerInserterMediaCategory` API](https://make.wordpress.org/core/2023/10/16/new-registerinsertermediacategory-api/)
 - [WordPress core is now using Playwright for all browser-based tests](https://make.wordpress.org/core/2023/10/16/wordpress-core-is-now-using-playwright-for-all-browser-based-tests/)
 - [WordPress 6.4 Beta 4](https://make.wordpress.org/core/2023/10/12/wordpress-6-4-beta-4/)
 - [Editor chat summary: October 11th, 2023](https://make.wordpress.org/core/2023/10/12/editor-chat-summary-october-11th-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Four Weeks in Core – October 9, 2023](https://make.wordpress.org/core/2023/10/10/a-week-in-core-october-9-2023/)
 - [Editor Chat Agenda: 10 October 2023](https://make.wordpress.org/core/2023/10/10/editor-chat-agenda-10-october-2023/)
 - [Performance Chat Summary: 10 October 2023](https://make.wordpress.org/core/2023/10/10/performance-chat-summary-10-october-2023/)
-- [Performance Chat Agenda: 10 October 2023](https://make.wordpress.org/core/2023/10/10/performance-chat-agenda-10-october-2023/)
 <!-- CORE:END -->
 
 ## Design
