@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Get started with create-block](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-create-block/)
 - [Styles Reference](https://developer.wordpress.org/themes/global-settings-and-styles/styles/styles-reference/)
 - [Using Presets](https://developer.wordpress.org/themes/global-settings-and-styles/styles/using-presets/)
 - [Applying Styles](https://developer.wordpress.org/themes/global-settings-and-styles/styles/applying-styles/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Typography](https://developer.wordpress.org/themes/global-settings-and-styles/settings/typography/)
 - [Spacing](https://developer.wordpress.org/themes/global-settings-and-styles/settings/spacing/)
 - [Shadow](https://developer.wordpress.org/themes/global-settings-and-styles/settings/shadow/)
-- [Position](https://developer.wordpress.org/themes/global-settings-and-styles/settings/position/)
 <!-- DEVHUB:END -->
 
 ## Themes
