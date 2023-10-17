@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 17 October 2023](https://make.wordpress.org/core/2023/10/17/performance-chat-agenda-17-october-2023/)
+- [Editor Chat Agenda: Wednesday, 18 October 2023](https://make.wordpress.org/core/2023/10/17/editor-chat-agenda-wednesday-18-october-2023/)
 - [Script loading changes in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/script-loading-changes-in-wordpress-6-4/)
 - [Changes to attachment pages](https://make.wordpress.org/core/2023/10/16/changes-to-attachment-pages/)
 - [Introducing admin notice functions in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/introducing-admin-notice-functions-in-wordpress-6-4/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress core is now using Playwright for all browser-based tests](https://make.wordpress.org/core/2023/10/16/wordpress-core-is-now-using-playwright-for-all-browser-based-tests/)
 - [Introducing Block Hooks for dynamic blocks](https://make.wordpress.org/core/2023/10/15/introducing-block-hooks-for-dynamic-blocks/)
 - [WordPress 6.4 Beta 4](https://make.wordpress.org/core/2023/10/12/wordpress-6-4-beta-4/)
-- [Editor chat summary: October 11th, 2023](https://make.wordpress.org/core/2023/10/12/editor-chat-summary-october-11th-2023/)
-- [Dev Chat summary, October 11, 2023](https://make.wordpress.org/core/2023/10/11/dev-chat-summary-october-11-2023/)
 <!-- CORE:END -->
 
 ## Design
