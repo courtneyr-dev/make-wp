@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.4 Release Candidate Phase](https://make.wordpress.org/core/2023/10/17/wordpress-6-4-release-candidate-phase/)
+- [HTML markup improvements to the Login and Registration page](https://make.wordpress.org/core/2023/10/17/html-markup-improvements-to-the-login-and-registration-page/)
 - [Replacing hard-coded style tags with wp_add_inline_style&lpar;&rpar;](https://make.wordpress.org/core/2023/10/17/replacing-hard-coded-style-tags-with-wp_add_inline_style/)
 - [Improvements to Object Caching in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/improvements-to-object-caching-in-wordpress-6-4/)
 - [Improvements to Template Loading in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/improvements-to-template-loading-in-wordpress-6-4/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 17 October 2023](https://make.wordpress.org/core/2023/10/17/performance-chat-agenda-17-october-2023/)
 - [Editor Chat Agenda: Wednesday, 18 October 2023](https://make.wordpress.org/core/2023/10/17/editor-chat-agenda-wednesday-18-october-2023/)
 - [Script loading changes in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/script-loading-changes-in-wordpress-6-4/)
-- [Changes to attachment pages](https://make.wordpress.org/core/2023/10/16/changes-to-attachment-pages/)
-- [Introducing admin notice functions in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/introducing-admin-notice-functions-in-wordpress-6-4/)
 <!-- CORE:END -->
 
 ## Design
