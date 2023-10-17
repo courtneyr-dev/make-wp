@@ -6,7 +6,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Script loading changes in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/script-loading-changes-in-wordpress-6-4/)
 - [Changes to attachment pages](https://make.wordpress.org/core/2023/10/16/changes-to-attachment-pages/)
 - [Introducing admin notice functions in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/introducing-admin-notice-functions-in-wordpress-6-4/)
-- [Editor Components updates in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/editor-components-updates-in-wordpress-6-4/)
+- [Updates to user-interface components in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/editor-components-updates-in-wordpress-6-4/)
 - [New `registerInserterMediaCategory` API](https://make.wordpress.org/core/2023/10/16/new-registerinsertermediacategory-api/)
 - [WordPress core is now using Playwright for all browser-based tests](https://make.wordpress.org/core/2023/10/16/wordpress-core-is-now-using-playwright-for-all-browser-based-tests/)
 - [Introducing Block Hooks for dynamic blocks](https://make.wordpress.org/core/2023/10/15/introducing-block-hooks-for-dynamic-blocks/)
