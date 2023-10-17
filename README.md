@@ -3,16 +3,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Replacing hard-coded style tags with wp_add_inline_style&lpar;&rpar;](https://make.wordpress.org/core/2023/10/17/replacing-hard-coded-style-tags-with-wp_add_inline_style/)
+- [Improvements to Object Caching in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/improvements-to-object-caching-in-wordpress-6-4/)
+- [Improvements to Template Loading in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/improvements-to-template-loading-in-wordpress-6-4/)
+- [Performance Chat Summary: 17 October 2023](https://make.wordpress.org/core/2023/10/17/performance-chat-summary-17-october-2023/)
 - [Miscellaneous Editor changes in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/miscellaneous-editor-changes-in-wordpress-6-4/)
 - [Performance Chat Agenda: 17 October 2023](https://make.wordpress.org/core/2023/10/17/performance-chat-agenda-17-october-2023/)
 - [Editor Chat Agenda: Wednesday, 18 October 2023](https://make.wordpress.org/core/2023/10/17/editor-chat-agenda-wednesday-18-october-2023/)
 - [Script loading changes in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/script-loading-changes-in-wordpress-6-4/)
 - [Changes to attachment pages](https://make.wordpress.org/core/2023/10/16/changes-to-attachment-pages/)
 - [Introducing admin notice functions in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/introducing-admin-notice-functions-in-wordpress-6-4/)
-- [Updates to user-interface components in WordPress 6.4](https://make.wordpress.org/core/2023/10/16/editor-components-updates-in-wordpress-6-4/)
-- [New `registerInserterMediaCategory` API](https://make.wordpress.org/core/2023/10/16/new-registerinsertermediacategory-api/)
-- [WordPress core is now using Playwright for all browser-based tests](https://make.wordpress.org/core/2023/10/16/wordpress-core-is-now-using-playwright-for-all-browser-based-tests/)
-- [Introducing Block Hooks for dynamic blocks](https://make.wordpress.org/core/2023/10/15/introducing-block-hooks-for-dynamic-blocks/)
 <!-- CORE:END -->
 
 ## Design
