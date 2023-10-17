@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Styles](https://developer.wordpress.org/themes/global-settings-and-styles/styles/)
-- [Settings](https://developer.wordpress.org/themes/global-settings-and-styles/settings/)
-- [Tabs](https://developer.wordpress.org/block-editor/reference-guides/components/tabs/)
-- [Global Settings and Styles &lpar;theme.json&rpar;](https://developer.wordpress.org/themes/global-settings-and-styles/)
-- [Node.js development environment](https://developer.wordpress.org/block-editor/getting-started/devenv/nodejs-development-environment/)
-- [Get started with wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-env/)
-- [@wordpress/undo-manager](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-undo-manager/)
-- [The Commands Data](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-commands/)
-- [Theme security issues](https://developer.wordpress.org/themes/theme-security/theme-security-issues/)
-- [Enqueueing assets in the Editor](https://developer.wordpress.org/block-editor/how-to-guides/enqueueing-assets-in-the-editor/)
+- [Styles Reference](https://developer.wordpress.org/themes/global-settings-and-styles/styles/styles-reference/)
+- [Using Presets](https://developer.wordpress.org/themes/global-settings-and-styles/styles/using-presets/)
+- [Applying Styles](https://developer.wordpress.org/themes/global-settings-and-styles/styles/applying-styles/)
+- [Settings Reference](https://developer.wordpress.org/themes/global-settings-and-styles/settings/settings-reference/)
+- [Blocks](https://developer.wordpress.org/themes/global-settings-and-styles/settings/blocks/)
+- [Use Root Padding Aware Alignments](https://developer.wordpress.org/themes/global-settings-and-styles/settings/use-root-padding-aware-alignments/)
+- [Typography](https://developer.wordpress.org/themes/global-settings-and-styles/settings/typography/)
+- [Spacing](https://developer.wordpress.org/themes/global-settings-and-styles/settings/spacing/)
+- [Shadow](https://developer.wordpress.org/themes/global-settings-and-styles/settings/shadow/)
+- [Position](https://developer.wordpress.org/themes/global-settings-and-styles/settings/position/)
 <!-- DEVHUB:END -->
 
 ## Themes
