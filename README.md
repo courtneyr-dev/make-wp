@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat- October 18, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/18/51526/)
 - [PTE Request for Meta](https://make.wordpress.org/polyglots/2023/10/18/pte-request-for-meta/)
 - [PTE Request for Several Themes](https://make.wordpress.org/polyglots/2023/10/17/pte-request-for-several-themes/)
 - [PTE Request for Translate Multilingual sites – TranslatePress](https://make.wordpress.org/polyglots/2023/10/16/pte-request-for-translate-multilingual-sites-translatepress/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Paid Membership](https://make.wordpress.org/polyglots/2023/10/13/pte-request-for-paid-membership/)
 - [WordPress 6.3.2 has been released….](https://make.wordpress.org/polyglots/2023/10/12/wordpress-6-3-2-has-been-released/)
 - [PTE Request for smsfly](https://make.wordpress.org/polyglots/2023/10/11/pte-request-for-smsfly/)
-- [Agenda: Weekly Polyglots Chat- October 11, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/11/agenda-weekly-polyglots-chat-october-11-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
