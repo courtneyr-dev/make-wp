@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Applying duotone filters to change color effects](https://wordpress.tv/2023/10/17/applying-duotone-filters-to-change-color-effects-2/)
 - [Utsav Singh Rathour: Work, Life, and WordPress](https://wordpress.tv/2023/10/16/utsav-singh-rathour-work-life-and-wordpress/)
 - [Josepha Haden Chomphosy on the future of WordPress](https://wordpress.tv/2023/10/13/josepha-haden-chomphosy-on-the-future-of-wordpress/)
 - [Gutenberg: Next with Matt Mullenweg](https://wordpress.tv/2023/10/13/gutenberg-next-with-matt-mullenweg/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recipe for Accessibility: Limiting Ingredients for faster design](https://wordpress.tv/2023/10/13/recipe-for-accessibility-limiting-ingredients-for-faster-design/)
 - [Empowering Creativity: Building a Welcoming WordPress Community for Beginners and Creatives](https://wordpress.tv/2023/10/13/empowering-creativity-building-a-welcoming-wordpress-community-for-beginners-and-creatives/)
 - [Core Web Vitals 2023: User Experience and Performance Evolved.](https://wordpress.tv/2023/10/13/core-web-vitals-2023-user-experience-and-performance-evolved/)
-- [The enterprise approach to WordPress Security](https://wordpress.tv/2023/10/13/the-enterprise-approach-to-wordpress-security/)
 <!-- WPTV:END -->
 
 ## Marketing
