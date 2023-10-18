@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Community Team Training #11: Using the Translate Live tool](https://make.wordpress.org/polyglots/2023/10/18/xpost-community-team-training-11-using-the-translate-live-tool/)
 - [PTE Request for Paid Membership](https://make.wordpress.org/polyglots/2023/10/18/pte-request-for-paid-membership-2/)
 - [WordPress 6.4 ready to be translated](https://make.wordpress.org/polyglots/2023/10/18/wordpress-6-4-ready-to-be-translated/)
 - [Agenda: Weekly Polyglots Chat- October 18, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/18/51526/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Qi Blocks](https://make.wordpress.org/polyglots/2023/10/15/pte-request-for-qi-blocks/)
 - [Hello Translation Team,](https://make.wordpress.org/polyglots/2023/10/15/hello-translation-team/)
 - [PTE Request for Storefront](https://make.wordpress.org/polyglots/2023/10/15/pte-request-for-storefront/)
-- [PTE Request for Paid Membership](https://make.wordpress.org/polyglots/2023/10/13/pte-request-for-paid-membership/)
 <!-- POLYGLOTS:END -->
 
 ## Support
