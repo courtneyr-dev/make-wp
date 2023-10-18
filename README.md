@@ -385,6 +385,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [Save the date! WP-CLI Hack Day on Friday, November 10th](https://make.wordpress.org/cli/2023/10/18/save-the-date-wp-cli-hack-day-on-friday-november-10th/)
 - [WP-CLI v2.9.0 release date: October 25th](https://make.wordpress.org/cli/2023/10/12/wp-cli-v2-9-0-release-date-october-25th/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/cli/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [WP-CLI v2.8.1 Release Notes](https://make.wordpress.org/cli/2023/06/05/wp-cli-v2-8-1-release-notes/)
@@ -394,7 +395,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP-CLI v2.8.0 release date](https://make.wordpress.org/cli/2023/04/05/wp-cli-v2-8-0-release-date/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/cli/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/cli/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
-- [Good issues for new and existing contributors](https://make.wordpress.org/cli/2023/01/11/good-issues-for-new-and-existing-contributors-2/)
 <!-- CLI:END -->
 
 ## Hosting
