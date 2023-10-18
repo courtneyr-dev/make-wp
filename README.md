@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Training #11: Using the Translate Live tool](https://make.wordpress.org/community/2023/10/18/community-team-training-11-using-the-translate-live-tool/)
 - [Next-Gen Events: Technical Check-in](https://make.wordpress.org/community/2023/10/16/next-gen-events-technical-check-in/)
 - [Contributor Working Group: Mentorship Chat Agenda | October 19th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/10/16/contributor-working-group-mentorship-chat-agenda-october-19th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [2024 Community Team Reps Nominations and Proposal for Reps Structure](https://make.wordpress.org/community/2023/10/13/2024-community-team-reps-nominations-and-proposal-for-reps-structure/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [For the Community: WordPress Diversity #WPDiversity Resources](https://make.wordpress.org/community/2023/10/03/for-the-community-wordpress-diversity-wpdiversity-resources/)
 - [WordCamp Mentors’ October check-in!](https://make.wordpress.org/community/2023/10/02/wordcamp-mentors-october-check-in-2/)
 - [Announcement: Sunsetting Tagregator plugin on WordCamp.org websites](https://make.wordpress.org/community/2023/09/29/announcement-sunsetting-tagregator-plugin-on-wordcamp-org-websites/)
-- [Community Team Engagement Program Supporter Survey 2023](https://make.wordpress.org/community/2023/09/28/community-team-engagement-program-supporter-survey-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
