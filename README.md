@@ -286,6 +286,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [A Guide to Open Source and WordPress &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-replay)
+- [A Guide to Open Source and WordPress](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-3)
 - [WP dev livestream: WordPress 6.4](https://learn.wordpress.org/?meeting=wp-dev-livestream-wordpress-6-4)
 - [WordPress 6.4 improvements – Developer edition](https://learn.wordpress.org/?meeting=wordpress-6-4-improvements-developer-edition)
 - [Gutenbergにコードでコントリビュートするための環境づくり &lpar;Creating an environment for contributing code to Gutenberg&rpar;](https://learn.wordpress.org/?meeting=gutenberg%e3%81%ab%e3%82%b3%e3%83%bc%e3%83%89%e3%81%a7%e3%82%b3%e3%83%b3%e3%83%88%e3%83%aa%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae%e7%92%b0%e5%a2%83%e3%81%a5)
@@ -309,8 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: What’s new for developers in WordPress 6.4](https://learn.wordpress.org/?meeting=hallway-hangout-whats-new-for-developers-in-wordpress-6-4)
 - [Common WordPress APIs – HTTP Request API](https://learn.wordpress.org/?meeting=common-wordpress-apis-http-request-api)
 - [APAC: Creating custom patterns: synced or non-synced](https://learn.wordpress.org/?meeting=apac-creating-custom-patterns-synced-or-non-synced)
-- [Creating custom patterns: synced or non-synced](https://learn.wordpress.org/?meeting=creating-custom-patterns-synced-or-non-synced)
-- [Getting Started with a WordPress.org Account](https://learn.wordpress.org/?meeting=getting-started-with-a-wordpress-org-account-4)
 <!-- SLS:END -->
 
 ## Test
