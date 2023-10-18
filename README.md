@@ -371,6 +371,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Discussion about the WordPress Annual Survey with Josepha Haden Chomphosy](https://make.wordpress.org/marketing/2023/10/18/discussion-about-the-wordpress-annual-survey-with-josepha-haden-chomphosy/)
 - [X-post: Revitalizing the WordPress Showcase](https://make.wordpress.org/marketing/2023/10/11/xpost-revitalizing-the-wordpress-showcase/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/marketing/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: Community Summit Discussion Notes: Can WordPress become the household name it deserves to be?](https://make.wordpress.org/marketing/2023/09/06/xpost-community-summit-discussion-notes-can-wordpress-become-the-household-name-it-deserves-to-be/)
@@ -380,7 +381,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Discussion for a proposal for WP.org content translation and localization](https://make.wordpress.org/marketing/2023/08/15/xpost-discussion-for-a-proposal-for-wp-org-content-translation-and-localization/)
 - [Notes: Global Marketing Team meeting, 8 August 2023](https://make.wordpress.org/marketing/2023/08/14/notes-global-marketing-team-meeting-8-august-2023/)
 - [Notes: Global Marketing Team meeting, 1 August 2023](https://make.wordpress.org/marketing/2023/08/07/notes-global-marketing-team-meeting-1-august-2023/)
-- [X-post: What’s new on Learn WordPress in July 2023](https://make.wordpress.org/marketing/2023/08/01/xpost-whats-new-on-learn-wordpress-in-july-2023/)
 <!-- MARKETING:END -->
 
 ## CLI
