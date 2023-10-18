@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Applying duotone filters to change color effects](https://learn.wordpress.org/tutorial/applying-duotone-filters-to-change-color-effects/)
 - [Custom Database Tables](https://learn.wordpress.org/tutorial/custom-database-tables/)
 - [আপনার নিজস্ব সিঙ্কড এবং নন-সিঙ্কড কাস্টম প্যাটার্ন তৈরি করুন](https://learn.wordpress.org/tutorial/bn-creating-your-own-custom-synced-or-non-synced-patterns/)
 - [ওয়ার্ডপ্রেস ড্যাশবোর্ড সম্পর্কে জানুন](https://learn.wordpress.org/tutorial/bn-getting-to-know-the-wordpress-dashboard/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to use the spacer block](https://learn.wordpress.org/tutorial/how-to-use-the-spacer-block/)
 - [How to add tables to your site](https://learn.wordpress.org/tutorial/how-to-add-tables-to-your-site/)
 - [Improving website performance with caching](https://learn.wordpress.org/tutorial/improving-website-performance-with-caching/)
-- [Installing Node.js and npm for local WordPress development](https://learn.wordpress.org/tutorial/installing-node-js-and-npm-for-local-wordpress-development/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
