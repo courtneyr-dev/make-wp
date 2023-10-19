@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat Summary, October 18, 2023](https://make.wordpress.org/core/2023/10/18/dev-chat-summary-october-18-2023/)
 - [Image loading optimization enhancements in 6.4](https://make.wordpress.org/core/2023/10/18/image-loading-optimization-enhancements-in-6-4/)
 - [New option functions in 6.4](https://make.wordpress.org/core/2023/10/17/new-option-functions-in-6-4/)
 - [WordPress 6.4 Release Candidate Phase](https://make.wordpress.org/core/2023/10/17/wordpress-6-4-release-candidate-phase/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improvements to Template Loading in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/improvements-to-template-loading-in-wordpress-6-4/)
 - [Performance Chat Summary: 17 October 2023](https://make.wordpress.org/core/2023/10/17/performance-chat-summary-17-october-2023/)
 - [Miscellaneous Editor changes in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/miscellaneous-editor-changes-in-wordpress-6-4/)
-- [Performance Chat Agenda: 17 October 2023](https://make.wordpress.org/core/2023/10/17/performance-chat-agenda-17-october-2023/)
 <!-- CORE:END -->
 
 ## Design
