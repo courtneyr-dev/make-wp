@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request in two projects – French &lpar;France&rpar;](https://make.wordpress.org/polyglots/2023/10/19/pte-request-in-two-projects-french/)
 - [PTE Request for Backup Migration, Duplicate Posts, Ultimate Social Media, MyPopUps and Redirection](https://make.wordpress.org/polyglots/2023/10/19/pte-request-for-backup-migration-duplicate-posts-ultimate-social-media-mypopups-and-redirection/)
 - [PTE Request for WISDM Reports For LearnDash](https://make.wordpress.org/polyglots/2023/10/19/pte-request-for-wisdm-reports-for-learndash/)
 - [X-post: Community Team Training #11: Using the Translate Live tool](https://make.wordpress.org/polyglots/2023/10/18/xpost-community-team-training-11-using-the-translate-live-tool/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Meta](https://make.wordpress.org/polyglots/2023/10/18/pte-request-for-meta/)
 - [PTE Request for Several Themes](https://make.wordpress.org/polyglots/2023/10/17/pte-request-for-several-themes/)
 - [PTE Request for Translate Multilingual sites – TranslatePress](https://make.wordpress.org/polyglots/2023/10/16/pte-request-for-translate-multilingual-sites-translatepress/)
-- [PTE Request for Qi Blocks](https://make.wordpress.org/polyglots/2023/10/15/pte-request-for-qi-blocks/)
 <!-- POLYGLOTS:END -->
 
 ## Support
