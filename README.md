@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Florie van Hummel: Failing forward – lessons learned in change management](https://wordpress.tv/2023/10/20/florie-van-hummel-failing-forward-lessons-learned-in-change-management/)
+- [Manja Neumann: WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart und Checkout.](https://wordpress.tv/2023/10/20/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart-und-checkout/)
+- [Thomas Rose: Ein-Klick-Entwicklungsumgebung mit GitHub Codespaces](https://wordpress.tv/2023/10/20/thomas-rose-ein-klick-entwicklungsumgebung-mit-github-codespaces/)
+- [Frank Staude: State of TV – Vortragsaufzeichnung, aktueller Stand und Ausblick](https://wordpress.tv/2023/10/20/frank-staude-state-of-tv-vortragsaufzeichnung-aktueller-stand-und-ausblick/)
 - [Using the query loop block and the category template](https://wordpress.tv/2023/10/17/using-the-query-loop-block-and-the-category-template/)
 - [Applying duotone filters to change color effects](https://wordpress.tv/2023/10/17/applying-duotone-filters-to-change-color-effects-2/)
 - [Utsav Singh Rathour: Work, Life, and WordPress](https://wordpress.tv/2023/10/16/utsav-singh-rathour-work-life-and-wordpress/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Accessibility is an Inside Job](https://wordpress.tv/2023/10/13/web-accessibility-is-an-inside-job/)
 - [Building a thoughtful block editing experience](https://wordpress.tv/2023/10/13/building-a-thoughtful-block-editing-experience/)
 - [Crafting Seamless Experiences: Leveraging Single Page Applications for WordPress Integrations](https://wordpress.tv/2023/10/13/crafting-seamless-experiences-leveraging-single-page-applications-for-wordpress-integrations/)
-- [All the President’s Websites](https://wordpress.tv/2023/10/13/all-the-presidents-websites/)
-- [So, You Pledged to Contribute to WordPress: What Next?](https://wordpress.tv/2023/10/13/so-you-pledged-to-contribute-to-wordpress-what-next/)
-- [Recipe for Accessibility: Limiting Ingredients for faster design](https://wordpress.tv/2023/10/13/recipe-for-accessibility-limiting-ingredients-for-faster-design/)
-- [Empowering Creativity: Building a Welcoming WordPress Community for Beginners and Creatives](https://wordpress.tv/2023/10/13/empowering-creativity-building-a-welcoming-wordpress-community-for-beginners-and-creatives/)
 <!-- WPTV:END -->
 
 ## Marketing
