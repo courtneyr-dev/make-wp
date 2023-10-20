@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Maja Benke: Digitale Barrierefreiheit fürs Kognitive Spektrum](https://wordpress.tv/2023/10/20/maja-benke-digitale-barrierefreiheit-furs-kognitive-spektrum/)
+- [Erfolgreich Scheitern – Fehler, die man als WP-Freelancer unbedingt gemacht haben sollte …](https://wordpress.tv/2023/10/20/erfolgreich-scheitern-fehler-die-man-als-wp-freelancer-unbedingt-gemacht-haben-sollte/)
 - [Florie van Hummel: Failing forward – lessons learned in change management](https://wordpress.tv/2023/10/20/florie-van-hummel-failing-forward-lessons-learned-in-change-management/)
 - [Manja Neumann: WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart und Checkout.](https://wordpress.tv/2023/10/20/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart-und-checkout/)
 - [Thomas Rose: Ein-Klick-Entwicklungsumgebung mit GitHub Codespaces](https://wordpress.tv/2023/10/20/thomas-rose-ein-klick-entwicklungsumgebung-mit-github-codespaces/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using a GitHub Action to ensure your plugins are GPL compatible](https://wordpress.tv/2023/10/13/using-a-github-action-to-ensure-your-plugins-are-gpl-compatible/)
 - [Modeling the better version of yourself – the work / life tightrope of a woman in tech leadership](https://wordpress.tv/2023/10/13/modeling-the-better-version-of-yourself-the-work-life-tightrope-of-a-woman-in-tech-leadership/)
 - [Web Accessibility is an Inside Job](https://wordpress.tv/2023/10/13/web-accessibility-is-an-inside-job/)
-- [Building a thoughtful block editing experience](https://wordpress.tv/2023/10/13/building-a-thoughtful-block-editing-experience/)
-- [Crafting Seamless Experiences: Leveraging Single Page Applications for WordPress Integrations](https://wordpress.tv/2023/10/13/crafting-seamless-experiences-leveraging-single-page-applications-for-wordpress-integrations/)
 <!-- WPTV:END -->
 
 ## Marketing
