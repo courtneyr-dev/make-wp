@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [વેબસાઇટ સુરક્ષા સુધારવા માટે 7 ટિપ્સ](https://learn.wordpress.org/tutorial/gu-7-tips-to-improve-website-security/)
 - [Applying duotone filters to change color effects](https://learn.wordpress.org/tutorial/applying-duotone-filters-to-change-color-effects/)
 - [Custom Database Tables](https://learn.wordpress.org/tutorial/custom-database-tables/)
 - [আপনার নিজস্ব সিঙ্কড এবং নন-সিঙ্কড কাস্টম প্যাটার্ন তৈরি করুন](https://learn.wordpress.org/tutorial/bn-creating-your-own-custom-synced-or-non-synced-patterns/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring WordPress 6.3](https://learn.wordpress.org/tutorial/exploring-wordpress-6-3/)
 - [How to use the spacer block](https://learn.wordpress.org/tutorial/how-to-use-the-spacer-block/)
 - [How to add tables to your site](https://learn.wordpress.org/tutorial/how-to-add-tables-to-your-site/)
-- [Improving website performance with caching](https://learn.wordpress.org/tutorial/improving-website-performance-with-caching/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
