@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sandra Kurze: So machst du aus deinem WP Plugin/Theme ein verkaufbares Produkt](https://wordpress.tv/2023/10/20/sandra-kurze-so-machst-du-aus-deinem-wp-plugin-theme-ein-verkaufbares-produkt/)
 - [Mario Wolf: Headless into the future of WordPress](https://wordpress.tv/2023/10/20/mario-wolf-headless-into-the-future-of-wordpress/)
 - [Steffen Dressler: Scaling WooCommerce – How to build a fast store with millions of products and orders](https://wordpress.tv/2023/10/20/steffen-dressler-scaling-woocommerce-how-to-build-a-fast-store-with-millions-of-products-and-orders/)
 - [WordPress 6.4 improvements – developer edition](https://wordpress.tv/2023/10/20/wordpress-6-4-improvements-developer-edition/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [BlackPress: Amplifying Black Professionals in WordPress](https://wordpress.tv/2023/10/13/blackpress-amplifying-black-professionals-in-wordpress/)
 - [From Mess to Success: The Ultimate Guide to Mastering Information Architecture in WordPress](https://wordpress.tv/2023/10/13/from-mess-to-success-the-ultimate-guide-to-mastering-information-architecture-in-wordpress/)
 - [Accessibility Without Compromising Creativity](https://wordpress.tv/2023/10/13/accessibility-without-compromising-creativity/)
-- [The Independent Theme Developer’s Field Guide to Modern WordPress](https://wordpress.tv/2023/10/13/the-independent-theme-developers-field-guide-to-modern-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
