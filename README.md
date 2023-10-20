@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mario Wolf: Headless into the future of WordPress](https://wordpress.tv/2023/10/20/mario-wolf-headless-into-the-future-of-wordpress/)
+- [Steffen Dressler: Scaling WooCommerce – How to build a fast store with millions of products and orders](https://wordpress.tv/2023/10/20/steffen-dressler-scaling-woocommerce-how-to-build-a-fast-store-with-millions-of-products-and-orders/)
+- [WordPress 6.4 improvements – developer edition](https://wordpress.tv/2023/10/20/wordpress-6-4-improvements-developer-edition/)
+- [Yvonne Dickopf: Wozu Design?](https://wordpress.tv/2023/10/20/yvonne-dickopf-wozu-design/)
+- [Marta Torre: WordPress and diversity: Can we be more diverse?](https://wordpress.tv/2023/10/20/marta-torre-wordpress-and-diversity-can-we-be-more-diverse/)
+- [Earl Cruz: AI-generated content in SEO: balancing automation with authenticity](https://wordpress.tv/2023/10/20/earl-cruz-ai-generated-content-in-seo-balancing-automation-with-authenticity/)
 - [Javier Guembe: WPLeaks? Fast guide to preventing data leaks in WordPress](https://wordpress.tv/2023/10/20/javier-guembe-wpleaks-fast-guide-to-preventing-data-leaks-in-wordpress/)
 - [Maja Benke: Digitale Barrierefreiheit fürs Kognitive Spektrum](https://wordpress.tv/2023/10/20/maja-benke-digitale-barrierefreiheit-furs-kognitive-spektrum/)
 - [Erfolgreich Scheitern – Fehler, die man als WP-Freelancer unbedingt gemacht haben sollte …](https://wordpress.tv/2023/10/20/erfolgreich-scheitern-fehler-die-man-als-wp-freelancer-unbedingt-gemacht-haben-sollte/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Mess to Success: The Ultimate Guide to Mastering Information Architecture in WordPress](https://wordpress.tv/2023/10/13/from-mess-to-success-the-ultimate-guide-to-mastering-information-architecture-in-wordpress/)
 - [Accessibility Without Compromising Creativity](https://wordpress.tv/2023/10/13/accessibility-without-compromising-creativity/)
 - [The Independent Theme Developer’s Field Guide to Modern WordPress](https://wordpress.tv/2023/10/13/the-independent-theme-developers-field-guide-to-modern-wordpress/)
-- [Anatomy of an Accessible Navigation Menu](https://wordpress.tv/2023/10/13/anatomy-of-an-accessible-navigation-menu/)
-- [Tell the Story You Want To Tell](https://wordpress.tv/2023/10/13/tell-the-story-you-want-to-tell/)
-- [Making Large Language Models work for you](https://wordpress.tv/2023/10/13/making-large-language-models-work-for-you/)
-- [Rising from Rejection: How WordPress Helped Me Reenter Society Again](https://wordpress.tv/2023/10/13/rising-from-rejection-how-wordpress-helped-me-reenter-society-again/)
-- [Using a GitHub Action to ensure your plugins are GPL compatible](https://wordpress.tv/2023/10/13/using-a-github-action-to-ensure-your-plugins-are-gpl-compatible/)
-- [Modeling the better version of yourself – the work / life tightrope of a woman in tech leadership](https://wordpress.tv/2023/10/13/modeling-the-better-version-of-yourself-the-work-life-tightrope-of-a-woman-in-tech-leadership/)
 <!-- WPTV:END -->
 
 ## Marketing
