@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Javier Guembe: WPLeaks? Fast guide to preventing data leaks in WordPress](https://wordpress.tv/2023/10/20/javier-guembe-wpleaks-fast-guide-to-preventing-data-leaks-in-wordpress/)
 - [Maja Benke: Digitale Barrierefreiheit fürs Kognitive Spektrum](https://wordpress.tv/2023/10/20/maja-benke-digitale-barrierefreiheit-furs-kognitive-spektrum/)
 - [Erfolgreich Scheitern – Fehler, die man als WP-Freelancer unbedingt gemacht haben sollte …](https://wordpress.tv/2023/10/20/erfolgreich-scheitern-fehler-die-man-als-wp-freelancer-unbedingt-gemacht-haben-sollte/)
 - [Florie van Hummel: Failing forward – lessons learned in change management](https://wordpress.tv/2023/10/20/florie-van-hummel-failing-forward-lessons-learned-in-change-management/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rising from Rejection: How WordPress Helped Me Reenter Society Again](https://wordpress.tv/2023/10/13/rising-from-rejection-how-wordpress-helped-me-reenter-society-again/)
 - [Using a GitHub Action to ensure your plugins are GPL compatible](https://wordpress.tv/2023/10/13/using-a-github-action-to-ensure-your-plugins-are-gpl-compatible/)
 - [Modeling the better version of yourself – the work / life tightrope of a woman in tech leadership](https://wordpress.tv/2023/10/13/modeling-the-better-version-of-yourself-the-work-life-tightrope-of-a-woman-in-tech-leadership/)
-- [Web Accessibility is an Inside Job](https://wordpress.tv/2023/10/13/web-accessibility-is-an-inside-job/)
 <!-- WPTV:END -->
 
 ## Marketing
