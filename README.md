@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: October 2023](https://make.wordpress.org/community/2023/10/20/meetup-organizer-newsletter-october-2023/)
 - [Events of the Month – September](https://make.wordpress.org/community/2023/10/18/events-of-the-month-september/)
 - [Community Team Training #11: Using the Translate Live tool](https://make.wordpress.org/community/2023/10/18/community-team-training-11-using-the-translate-live-tool/)
 - [Next-Gen Events: Technical Check-in](https://make.wordpress.org/community/2023/10/16/next-gen-events-technical-check-in/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [NextGen WordPress Events: Discover the Future of WordPress Gatherings](https://make.wordpress.org/community/2023/10/06/nextgen-events/)
 - [Community Team Meeting Agenda for 5 October, 2023](https://make.wordpress.org/community/2023/10/04/community-team-meeting-agenda-for-5-october-2023/)
 - [For the Community: WordPress Diversity #WPDiversity Resources](https://make.wordpress.org/community/2023/10/03/for-the-community-wordpress-diversity-wpdiversity-resources/)
-- [WordCamp Mentors’ October check-in!](https://make.wordpress.org/community/2023/10/02/wordcamp-mentors-october-check-in-2/)
 <!-- COMMUNITY:END -->
 
 ## Meta
