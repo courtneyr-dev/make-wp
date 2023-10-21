@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Growth Marketing For Startups](https://wordpress.tv/2023/10/21/growth-marketing-for-startups/)
+- [Start Teaching Online Without Technical Skills and Limited Budget](https://wordpress.tv/2023/10/21/start-teaching-online-without-technical-skills-and-limited-budget/)
 - [Sandra Kurze: So machst du aus deinem WP Plugin/Theme ein verkaufbares Produkt](https://wordpress.tv/2023/10/20/sandra-kurze-so-machst-du-aus-deinem-wp-plugin-theme-ein-verkaufbares-produkt/)
 - [Mario Wolf: Headless into the future of WordPress](https://wordpress.tv/2023/10/20/mario-wolf-headless-into-the-future-of-wordpress/)
 - [Steffen Dressler: Scaling WooCommerce – How to build a fast store with millions of products and orders](https://wordpress.tv/2023/10/20/steffen-dressler-scaling-woocommerce-how-to-build-a-fast-store-with-millions-of-products-and-orders/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Learn WordPress: A Resource for You and Your Community](https://wordpress.tv/2023/10/13/learn-wordpress-a-resource-for-you-and-your-community/)
 - [WordPress Playground, Present and Future Applications](https://wordpress.tv/2023/10/13/wordpress-playground-present-and-future-applications/)
 - [BlackPress: Amplifying Black Professionals in WordPress](https://wordpress.tv/2023/10/13/blackpress-amplifying-black-professionals-in-wordpress/)
-- [From Mess to Success: The Ultimate Guide to Mastering Information Architecture in WordPress](https://wordpress.tv/2023/10/13/from-mess-to-success-the-ultimate-guide-to-mastering-information-architecture-in-wordpress/)
-- [Accessibility Without Compromising Creativity](https://wordpress.tv/2023/10/13/accessibility-without-compromising-creativity/)
 <!-- WPTV:END -->
 
 ## Marketing
