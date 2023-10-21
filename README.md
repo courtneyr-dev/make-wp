@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Getting your designer ready for Gutenberg](https://wordpress.tv/2023/10/21/getting-your-designer-ready-for-gutenberg-2/)
+- [Sustainability in WordPress: balancing the cost of contribution, business Involvement, and the futur](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
+- [How To Go Jamstack with WordPress?](https://wordpress.tv/2023/10/21/how-to-go-jamstack-with-wordpress/)
 - [Growth Marketing For Startups](https://wordpress.tv/2023/10/21/growth-marketing-for-startups/)
 - [Start Teaching Online Without Technical Skills and Limited Budget](https://wordpress.tv/2023/10/21/start-teaching-online-without-technical-skills-and-limited-budget/)
 - [Sandra Kurze: So machst du aus deinem WP Plugin/Theme ein verkaufbares Produkt](https://wordpress.tv/2023/10/20/sandra-kurze-so-machst-du-aus-deinem-wp-plugin-theme-ein-verkaufbares-produkt/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Josepha Haden Chomphosy on the future of WordPress](https://wordpress.tv/2023/10/13/josepha-haden-chomphosy-on-the-future-of-wordpress/)
 - [Gutenberg: Next with Matt Mullenweg](https://wordpress.tv/2023/10/13/gutenberg-next-with-matt-mullenweg/)
 - [From Comfort Zone to Cutting Edge: Embracing Lean Principles in Front-End Projects](https://wordpress.tv/2023/10/13/from-comfort-zone-to-cutting-edge-embracing-lean-principles-in-front-end-projects/)
-- [Learn WordPress: A Resource for You and Your Community](https://wordpress.tv/2023/10/13/learn-wordpress-a-resource-for-you-and-your-community/)
-- [WordPress Playground, Present and Future Applications](https://wordpress.tv/2023/10/13/wordpress-playground-present-and-future-applications/)
-- [BlackPress: Amplifying Black Professionals in WordPress](https://wordpress.tv/2023/10/13/blackpress-amplifying-black-professionals-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
