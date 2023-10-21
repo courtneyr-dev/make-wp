@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary of Docs Team meeting October 17, 2023](https://make.wordpress.org/docs/2023/10/21/summary-of-docs-team-meeting-october-17-2023/)
 - [Online monthly Docs Team Contributor Day October 24, 2023](https://make.wordpress.org/docs/2023/10/19/online-monthly-docs-team-contributor-day-october-24-2023/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;October 17, 2023&rpar;](https://make.wordpress.org/docs/2023/10/16/agenda-for-docs-team-biweekly-meeting-october-17-2023/)
 - [Summary of Docs Team Biweekly Meeting &lpar;October 3, 2023&rpar;](https://make.wordpress.org/docs/2023/10/13/summary-of-docs-team-biweekly-meeting-october-3-2023/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Online monthly Docs Team Contributor Day September 26, 2023](https://make.wordpress.org/docs/2023/09/22/online-monthly-docs-team-contributor-day-september-26-2023/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/docs/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;September 19, 2023&rpar;](https://make.wordpress.org/docs/2023/09/18/agenda-for-docs-team-biweekly-meeting-september-19-2023/)
-- [Summary of Docs Team Biweekly Meeting &lpar;September 05, 2023&rpar;](https://make.wordpress.org/docs/2023/09/06/summary-of-docs-team-biweekly-meeting-september-05-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
