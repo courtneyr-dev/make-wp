@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Fabian Kägy: Extending the Block Editor in 2023](https://wordpress.tv/2023/10/21/fabian-kaegy-extending-the-block-editor-in-2023/)
+- [Angelo Cali, Simon Kraft: WordPress-Login-Security](https://wordpress.tv/2023/10/21/angelo-cali-simon-kraft-wordpress-login-security/)
+- [Humberto Gregorio: Expedition UI: Eine Entdeckungsreise durch die 12 goldenen Design-Regeln](https://wordpress.tv/2023/10/21/humberto-gregorio-expedition-ui-eine-entdeckungsreise-durch-die-12-goldenen-design-regeln/)
+- [Floris Leurink: WordPress for education: experiences with multisite as a portfolio learning platform](https://wordpress.tv/2023/10/21/floris-leurink-wordpress-for-education-experiences-with-multisite-as-a-portfolio-learning-platform/)
+- [Pieter Daalder: Another first framework. Let’s talk about performance!](https://wordpress.tv/2023/10/21/pieter-daalder-another-first-framework-lets-talk-about-performance/)
+- [Tabea Braun: Empowering women through code: unleashing the power of diversity in tech](https://wordpress.tv/2023/10/21/tabea-braun-empowering-women-through-code-unleashing-the-power-of-diversity-in-tech/)
 - [Getting your designer ready for Gutenberg](https://wordpress.tv/2023/10/21/getting-your-designer-ready-for-gutenberg-2/)
 - [Sustainability in WordPress: balancing the cost of contribution, business Involvement, and the futur](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
 - [How To Go Jamstack with WordPress?](https://wordpress.tv/2023/10/21/how-to-go-jamstack-with-wordpress/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Manja Neumann: WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart und Checkout.](https://wordpress.tv/2023/10/20/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart-und-checkout/)
 - [Thomas Rose: Ein-Klick-Entwicklungsumgebung mit GitHub Codespaces](https://wordpress.tv/2023/10/20/thomas-rose-ein-klick-entwicklungsumgebung-mit-github-codespaces/)
 - [Frank Staude: State of TV – Vortragsaufzeichnung, aktueller Stand und Ausblick](https://wordpress.tv/2023/10/20/frank-staude-state-of-tv-vortragsaufzeichnung-aktueller-stand-und-ausblick/)
-- [Using the query loop block and the category template](https://wordpress.tv/2023/10/17/using-the-query-loop-block-and-the-category-template/)
-- [Applying duotone filters to change color effects](https://wordpress.tv/2023/10/17/applying-duotone-filters-to-change-color-effects-2/)
-- [Utsav Singh Rathour: Work, Life, and WordPress](https://wordpress.tv/2023/10/16/utsav-singh-rathour-work-life-and-wordpress/)
-- [Josepha Haden Chomphosy on the future of WordPress](https://wordpress.tv/2023/10/13/josepha-haden-chomphosy-on-the-future-of-wordpress/)
-- [Gutenberg: Next with Matt Mullenweg](https://wordpress.tv/2023/10/13/gutenberg-next-with-matt-mullenweg/)
-- [From Comfort Zone to Cutting Edge: Embracing Lean Principles in Front-End Projects](https://wordpress.tv/2023/10/13/from-comfort-zone-to-cutting-edge-embracing-lean-principles-in-front-end-projects/)
 <!-- WPTV:END -->
 
 ## Marketing
