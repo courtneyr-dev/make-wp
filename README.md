@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Web QA Developer](https://jobs.wordpress.net/job/web-qa-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-818/)
 - [Business Support / Finance admin](https://jobs.wordpress.net/job/business-support-finance-admin/)
 - [WordPress Designer](https://jobs.wordpress.net/job/wordpress-designer-55/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-816/)
 - [NSN Website](https://jobs.wordpress.net/job/nsn-website/)
 - [Webpage design, WordPress](https://jobs.wordpress.net/job/webpage-design-wordpress/)
-- [Full-time WordPress Developer for FrontPage Guardian](https://jobs.wordpress.net/job/full-time-wordpress-developer-for-frontpage-guardian/)
 <!-- JOBS:END -->
 
 ## Central
