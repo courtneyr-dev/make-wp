@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Google Tag Manager: What You Need to Know?](https://wordpress.tv/2023/10/21/google-tag-manager-what-you-need-to-know/)
+- [Content Production – Be diverse, be smart](https://wordpress.tv/2023/10/21/content-production-be-diverse-be-smart/)
 - [Fabian Kägy: Extending the Block Editor in 2023](https://wordpress.tv/2023/10/21/fabian-kaegy-extending-the-block-editor-in-2023/)
 - [Angelo Cali, Simon Kraft: WordPress-Login-Security](https://wordpress.tv/2023/10/21/angelo-cali-simon-kraft-wordpress-login-security/)
 - [Humberto Gregorio: Expedition UI: Eine Entdeckungsreise durch die 12 goldenen Design-Regeln](https://wordpress.tv/2023/10/21/humberto-gregorio-expedition-ui-eine-entdeckungsreise-durch-die-12-goldenen-design-regeln/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Erfolgreich Scheitern – Fehler, die man als WP-Freelancer unbedingt gemacht haben sollte …](https://wordpress.tv/2023/10/20/erfolgreich-scheitern-fehler-die-man-als-wp-freelancer-unbedingt-gemacht-haben-sollte/)
 - [Florie van Hummel: Failing forward – lessons learned in change management](https://wordpress.tv/2023/10/20/florie-van-hummel-failing-forward-lessons-learned-in-change-management/)
 - [Manja Neumann: WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart und Checkout.](https://wordpress.tv/2023/10/20/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart-und-checkout/)
-- [Thomas Rose: Ein-Klick-Entwicklungsumgebung mit GitHub Codespaces](https://wordpress.tv/2023/10/20/thomas-rose-ein-klick-entwicklungsumgebung-mit-github-codespaces/)
-- [Frank Staude: State of TV – Vortragsaufzeichnung, aktueller Stand und Ausblick](https://wordpress.tv/2023/10/20/frank-staude-state-of-tv-vortragsaufzeichnung-aktueller-stand-und-ausblick/)
 <!-- WPTV:END -->
 
 ## Marketing
