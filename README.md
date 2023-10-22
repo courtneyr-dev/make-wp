@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tidy Up Your Code](https://wordpress.tv/2023/10/21/tidy-up-your-code/)
+- [Importance of being a part of a Community](https://wordpress.tv/2023/10/21/importance-of-being-a-part-of-a-community/)
+- [[Marathi] The Farming Analogy For Blogging/Vlogging Success](https://wordpress.tv/2023/10/21/marathi-the-farming-analogy-for-blogging-vlogging-success/)
 - [Google Tag Manager: What You Need to Know?](https://wordpress.tv/2023/10/21/google-tag-manager-what-you-need-to-know/)
 - [Content Production – Be diverse, be smart](https://wordpress.tv/2023/10/21/content-production-be-diverse-be-smart/)
 - [Fabian Kägy: Extending the Block Editor in 2023](https://wordpress.tv/2023/10/21/fabian-kaegy-extending-the-block-editor-in-2023/)
@@ -351,7 +354,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pieter Daalder: Another first framework. Let’s talk about performance!](https://wordpress.tv/2023/10/21/pieter-daalder-another-first-framework-lets-talk-about-performance/)
 - [Tabea Braun: Empowering women through code: unleashing the power of diversity in tech](https://wordpress.tv/2023/10/21/tabea-braun-empowering-women-through-code-unleashing-the-power-of-diversity-in-tech/)
 - [Getting your designer ready for Gutenberg](https://wordpress.tv/2023/10/21/getting-your-designer-ready-for-gutenberg-2/)
-- [Sustainability in WordPress: balancing the cost of contribution, business Involvement, and the futur](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
+- [Sustainability in WordPress: balancing the cost of contribution, business Involvement, and the future](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
 - [How To Go Jamstack with WordPress?](https://wordpress.tv/2023/10/21/how-to-go-jamstack-with-wordpress/)
 - [Growth Marketing For Startups](https://wordpress.tv/2023/10/21/growth-marketing-for-startups/)
 - [Start Teaching Online Without Technical Skills and Limited Budget](https://wordpress.tv/2023/10/21/start-teaching-online-without-technical-skills-and-limited-budget/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Earl Cruz: AI-generated content in SEO: balancing automation with authenticity](https://wordpress.tv/2023/10/20/earl-cruz-ai-generated-content-in-seo-balancing-automation-with-authenticity/)
 - [Javier Guembe: WPLeaks? Fast guide to preventing data leaks in WordPress](https://wordpress.tv/2023/10/20/javier-guembe-wpleaks-fast-guide-to-preventing-data-leaks-in-wordpress/)
 - [Maja Benke: Digitale Barrierefreiheit fürs Kognitive Spektrum](https://wordpress.tv/2023/10/20/maja-benke-digitale-barrierefreiheit-furs-kognitive-spektrum/)
-- [Erfolgreich Scheitern – Fehler, die man als WP-Freelancer unbedingt gemacht haben sollte …](https://wordpress.tv/2023/10/20/erfolgreich-scheitern-fehler-die-man-als-wp-freelancer-unbedingt-gemacht-haben-sollte/)
-- [Florie van Hummel: Failing forward – lessons learned in change management](https://wordpress.tv/2023/10/20/florie-van-hummel-failing-forward-lessons-learned-in-change-management/)
-- [Manja Neumann: WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart und Checkout.](https://wordpress.tv/2023/10/20/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart-und-checkout/)
 <!-- WPTV:END -->
 
 ## Marketing
