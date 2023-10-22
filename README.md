@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Justin Joe Kostka: #CSS:has&lpar; .evolved &rpar;](https://wordpress.tv/2023/10/21/justin-joe-kostka-csshas-evolved/)
+- [Gerd Zimmerman: SEO-Tools für kleine Budgets](https://wordpress.tv/2023/10/21/gerd-zimmerman-seo-tools-fuer-kleine-budgets/)
+- [Elisa Sophia Foltyn: Feel the Magic – wie man durch intelligente Verknüpfung und dynamische Inhalte interessante Webseiten erstellt](https://wordpress.tv/2023/10/21/elisa-sophia-foltyn-feel-the-magic-wie-man-durch-intelligente-verknuepfung-und-dynamische-inhalte-interessante-webseiten-erstellt/)
 - [Tidy Up Your Code](https://wordpress.tv/2023/10/21/tidy-up-your-code/)
 - [Importance of being a part of a Community](https://wordpress.tv/2023/10/21/importance-of-being-a-part-of-a-community/)
 - [[Marathi] The Farming Analogy For Blogging/Vlogging Success](https://wordpress.tv/2023/10/21/marathi-the-farming-analogy-for-blogging-vlogging-success/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.4 improvements – developer edition](https://wordpress.tv/2023/10/20/wordpress-6-4-improvements-developer-edition/)
 - [Yvonne Dickopf: Wozu Design?](https://wordpress.tv/2023/10/20/yvonne-dickopf-wozu-design/)
 - [Marta Torre: WordPress and diversity: Can we be more diverse?](https://wordpress.tv/2023/10/20/marta-torre-wordpress-and-diversity-can-we-be-more-diverse/)
-- [Earl Cruz: AI-generated content in SEO: balancing automation with authenticity](https://wordpress.tv/2023/10/20/earl-cruz-ai-generated-content-in-seo-balancing-automation-with-authenticity/)
-- [Javier Guembe: WPLeaks? Fast guide to preventing data leaks in WordPress](https://wordpress.tv/2023/10/20/javier-guembe-wpleaks-fast-guide-to-preventing-data-leaks-in-wordpress/)
-- [Maja Benke: Digitale Barrierefreiheit fürs Kognitive Spektrum](https://wordpress.tv/2023/10/20/maja-benke-digitale-barrierefreiheit-furs-kognitive-spektrum/)
 <!-- WPTV:END -->
 
 ## Marketing
