@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Manja Neumann: WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart](https://wordpress.tv/2023/10/22/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart/)
 - [Customizing the Block Editor for client projects](https://wordpress.tv/2023/10/22/birgit-pauli-haack-customizing-the-block-editor-for-client-projects/)
 - [Tammie Lister: Exploring the power of generative styling](https://wordpress.tv/2023/10/22/tammie-lister-exploring-the-power-of-generative-styling/)
 - [Anne-Mieke Bovelett: How to counter arguments from developers, designers, and managers against accessibility](https://wordpress.tv/2023/10/22/anne-mieke-bovelett-how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sustainability in WordPress: balancing the cost of contribution, business Involvement, and the future](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
 - [How To Go Jamstack with WordPress?](https://wordpress.tv/2023/10/21/how-to-go-jamstack-with-wordpress/)
 - [Growth Marketing For Startups](https://wordpress.tv/2023/10/21/growth-marketing-for-startups/)
-- [Start Teaching Online Without Technical Skills and Limited Budget](https://wordpress.tv/2023/10/21/start-teaching-online-without-technical-skills-and-limited-budget/)
 <!-- WPTV:END -->
 
 ## Marketing
