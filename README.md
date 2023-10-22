@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Pay by…](https://make.wordpress.org/polyglots/2023/10/22/pte-request-for-pay-by/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-several-plugins-7/)
 - [PTE Request for multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-multiple-plugins-3/)
 - [PTE Request for Two Plugins](https://make.wordpress.org/polyglots/2023/10/20/pte-request-for-two-plugins-5/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WISDM Reports For LearnDash](https://make.wordpress.org/polyglots/2023/10/19/pte-request-for-wisdm-reports-for-learndash/)
 - [X-post: Community Team Training #11: Using the Translate Live tool](https://make.wordpress.org/polyglots/2023/10/18/xpost-community-team-training-11-using-the-translate-live-tool/)
 - [PTE Request for Paid Membership](https://make.wordpress.org/polyglots/2023/10/18/pte-request-for-paid-membership-2/)
-- [WordPress 6.4 ready to be translated](https://make.wordpress.org/polyglots/2023/10/18/wordpress-6-4-ready-to-be-translated/)
 <!-- POLYGLOTS:END -->
 
 ## Support
