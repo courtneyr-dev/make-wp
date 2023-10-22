@@ -342,7 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Birgit Pauli-Haack: Customizing the Block Editor for client projects](https://wordpress.tv/2023/10/22/birgit-pauli-haack-customizing-the-block-editor-for-client-projects/)
+- [Customizing the Block Editor for client projects](https://wordpress.tv/2023/10/22/birgit-pauli-haack-customizing-the-block-editor-for-client-projects/)
 - [Tammie Lister: Exploring the power of generative styling](https://wordpress.tv/2023/10/22/tammie-lister-exploring-the-power-of-generative-styling/)
 - [Anne-Mieke Bovelett: How to counter arguments from developers, designers, and managers against accessibility](https://wordpress.tv/2023/10/22/anne-mieke-bovelett-how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/)
 - [Marcus Burk: WordPress empowering enterprises: unlocking growth and opportunities / how to sell WordPress to enterprise](https://wordpress.tv/2023/10/22/marcus-burk-wordpress-empowering-enterprises-unlocking-growth-and-opportunities-how-to-sell-wordpress-to-enterprise/)
