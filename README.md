@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Anne-Mieke Bovelett: How to counter arguments from developers, designers, and managers against accessibility](https://wordpress.tv/2023/10/22/anne-mieke-bovelett-how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/)
+- [Marcus Burk: WordPress empowering enterprises: unlocking growth and opportunities / how to sell WordPress to enterprise](https://wordpress.tv/2023/10/22/marcus-burk-wordpress-empowering-enterprises-unlocking-growth-and-opportunities-how-to-sell-wordpress-to-enterprise/)
+- [Matthias Kittsteiner: Eigener Plugin-Shop – Herausforderungen und Lösungen](https://wordpress.tv/2023/10/22/matthias-kittsteiner-eigener-plugin-shop-herausforderungen-und-loesungen/)
+- [Matthias Pfefferle, Alex Kirk: Friends with ActivityPub – Deine nachhaltige Identität im Web](https://wordpress.tv/2023/10/22/matthias-pfefferle-alex-kirk-friends-with-activitypub-deine-nachhaltige-identitaet-im-web/)
 - [Justin Joe Kostka: #CSS:has&lpar; .evolved &rpar;](https://wordpress.tv/2023/10/21/justin-joe-kostka-csshas-evolved/)
 - [Gerd Zimmerman: SEO-Tools für kleine Budgets](https://wordpress.tv/2023/10/21/gerd-zimmerman-seo-tools-fuer-kleine-budgets/)
 - [Elisa Sophia Foltyn: Feel the Magic – wie man durch intelligente Verknüpfung und dynamische Inhalte interessante Webseiten erstellt](https://wordpress.tv/2023/10/21/elisa-sophia-foltyn-feel-the-magic-wie-man-durch-intelligente-verknuepfung-und-dynamische-inhalte-interessante-webseiten-erstellt/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Start Teaching Online Without Technical Skills and Limited Budget](https://wordpress.tv/2023/10/21/start-teaching-online-without-technical-skills-and-limited-budget/)
 - [Sandra Kurze: So machst du aus deinem WP Plugin/Theme ein verkaufbares Produkt](https://wordpress.tv/2023/10/20/sandra-kurze-so-machst-du-aus-deinem-wp-plugin-theme-ein-verkaufbares-produkt/)
 - [Mario Wolf: Headless into the future of WordPress](https://wordpress.tv/2023/10/20/mario-wolf-headless-into-the-future-of-wordpress/)
-- [Steffen Dressler: Scaling WooCommerce – How to build a fast store with millions of products and orders](https://wordpress.tv/2023/10/20/steffen-dressler-scaling-woocommerce-how-to-build-a-fast-store-with-millions-of-products-and-orders/)
-- [WordPress 6.4 improvements – developer edition](https://wordpress.tv/2023/10/20/wordpress-6-4-improvements-developer-edition/)
-- [Yvonne Dickopf: Wozu Design?](https://wordpress.tv/2023/10/20/yvonne-dickopf-wozu-design/)
-- [Marta Torre: WordPress and diversity: Can we be more diverse?](https://wordpress.tv/2023/10/20/marta-torre-wordpress-and-diversity-can-we-be-more-diverse/)
 <!-- WPTV:END -->
 
 ## Marketing
