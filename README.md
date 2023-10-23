@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.4 Field Guide](https://make.wordpress.org/core/2023/10/23/wordpress-6-4-field-guide/)
 - [Summary and Insights of Phase 3 related conversations](https://make.wordpress.org/core/2023/10/23/summary-and-insights-of-phase-3-related-conversations/)
 - [Updates to the HTML API in 6.4](https://make.wordpress.org/core/2023/10/21/updates-to-the-html-api-in-6-4/)
 - [Dev Chat Summary, October 18, 2023](https://make.wordpress.org/core/2023/10/18/dev-chat-summary-october-18-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [HTML markup improvements to the Login and Registration page](https://make.wordpress.org/core/2023/10/17/html-markup-improvements-to-the-login-and-registration-page/)
 - [Replacing hard-coded style tags with wp_add_inline_style&lpar;&rpar;](https://make.wordpress.org/core/2023/10/17/replacing-hard-coded-style-tags-with-wp_add_inline_style/)
 - [Improvements to Object Caching in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/improvements-to-object-caching-in-wordpress-6-4/)
-- [Improvements to Template Loading in WordPress 6.4](https://make.wordpress.org/core/2023/10/17/improvements-to-template-loading-in-wordpress-6-4/)
 <!-- CORE:END -->
 
 ## Design
