@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Flexible Refund and Return Order for WooCommerce](https://make.wordpress.org/polyglots/2023/10/23/pte-request-for-flexible-refund-and-return-order-for-woocommerce/)
 - [PTE Request for Pay by…](https://make.wordpress.org/polyglots/2023/10/22/pte-request-for-pay-by/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-several-plugins-7/)
 - [PTE Request for multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-multiple-plugins-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Backup Migration, Duplicate Posts, Ultimate Social Media, MyPopUps and Redirection](https://make.wordpress.org/polyglots/2023/10/19/pte-request-for-backup-migration-duplicate-posts-ultimate-social-media-mypopups-and-redirection/)
 - [PTE Request for WISDM Reports For LearnDash](https://make.wordpress.org/polyglots/2023/10/19/pte-request-for-wisdm-reports-for-learndash/)
 - [X-post: Community Team Training #11: Using the Translate Live tool](https://make.wordpress.org/polyglots/2023/10/18/xpost-community-team-training-11-using-the-translate-live-tool/)
-- [PTE Request for Paid Membership](https://make.wordpress.org/polyglots/2023/10/18/pte-request-for-paid-membership-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
