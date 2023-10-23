@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cracking the Code: Women’s Journeys in Tech Careers](https://wordpress.tv/2023/10/23/cracking-the-code-womens-journeys-in-tech-careers/)
 - [WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart](https://wordpress.tv/2023/10/22/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart/)
 - [Customizing the Block Editor for client projects](https://wordpress.tv/2023/10/22/birgit-pauli-haack-customizing-the-block-editor-for-client-projects/)
 - [Exploring the power of generative styling](https://wordpress.tv/2023/10/22/tammie-lister-exploring-the-power-of-generative-styling/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting your designer ready for Gutenberg](https://wordpress.tv/2023/10/21/getting-your-designer-ready-for-gutenberg-2/)
 - [Sustainability in WordPress – balancing the cost of contribution, business Involvement, and the future](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
 - [How To Go Jamstack with WordPress?](https://wordpress.tv/2023/10/21/how-to-go-jamstack-with-wordpress/)
-- [Growth Marketing For Startups](https://wordpress.tv/2023/10/21/growth-marketing-for-startups/)
 <!-- WPTV:END -->
 
 ## Marketing
