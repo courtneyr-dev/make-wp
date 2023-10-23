@@ -343,7 +343,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Manja Neumann: WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart](https://wordpress.tv/2023/10/22/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart/)
-- [Customizing the Block Editor for client projects](https://wordpress.tv/2023/10/22/birgit-pauli-haack-customizing-the-block-editor-for-client-projects/)
+- [Birgit Pauli-Haack: Customizing the Block Editor for client projects](https://wordpress.tv/2023/10/22/birgit-pauli-haack-customizing-the-block-editor-for-client-projects/)
 - [Tammie Lister: Exploring the power of generative styling](https://wordpress.tv/2023/10/22/tammie-lister-exploring-the-power-of-generative-styling/)
 - [Anne-Mieke Bovelett: How to counter arguments from developers, designers, and managers against accessibility](https://wordpress.tv/2023/10/22/anne-mieke-bovelett-how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/)
 - [Marcus Burk: WordPress empowering enterprises: unlocking growth and opportunities / how to sell WordPress to enterprise](https://wordpress.tv/2023/10/22/marcus-burk-wordpress-empowering-enterprises-unlocking-growth-and-opportunities-how-to-sell-wordpress-to-enterprise/)
@@ -364,7 +364,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pieter Daalder: Another first framework. Let’s talk about performance!](https://wordpress.tv/2023/10/21/pieter-daalder-another-first-framework-lets-talk-about-performance/)
 - [Tabea Braun: Empowering women through code: unleashing the power of diversity in tech](https://wordpress.tv/2023/10/21/tabea-braun-empowering-women-through-code-unleashing-the-power-of-diversity-in-tech/)
 - [Getting your designer ready for Gutenberg](https://wordpress.tv/2023/10/21/getting-your-designer-ready-for-gutenberg-2/)
-- [Sustainability in WordPress: balancing the cost of contribution, business Involvement, and the future](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
+- [Carole Olinger: Sustainability in WordPress – balancing the cost of contribution, business Involvement, and the future](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
 - [How To Go Jamstack with WordPress?](https://wordpress.tv/2023/10/21/how-to-go-jamstack-with-wordpress/)
 - [Growth Marketing For Startups](https://wordpress.tv/2023/10/21/growth-marketing-for-startups/)
 <!-- WPTV:END -->
