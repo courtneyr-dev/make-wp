@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/10/24/post-title-pte-request-for-61/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2023/10/24/pte-request-for-powered-cache-3/)
 - [# Korean LOCALE NOTICE](https://make.wordpress.org/polyglots/2023/10/24/korean-locale-notice/)
 - [PTE Request for Flexible Refund and Return Order for WooCommerce](https://make.wordpress.org/polyglots/2023/10/23/pte-request-for-flexible-refund-and-return-order-for-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Two Plugins](https://make.wordpress.org/polyglots/2023/10/20/pte-request-for-two-plugins-5/)
 - [PTE Request for Integrate nekorekten.com for WooCommerce](https://make.wordpress.org/polyglots/2023/10/20/pte-request-for-integrate-nekorekten-com-for-woocommerce/)
 - [PTE request in two projects – French &lpar;France&rpar;](https://make.wordpress.org/polyglots/2023/10/19/pte-request-in-two-projects-french/)
-- [PTE Request for Backup Migration, Duplicate Posts, Ultimate Social Media, MyPopUps and Redirection](https://make.wordpress.org/polyglots/2023/10/19/pte-request-for-backup-migration-duplicate-posts-ultimate-social-media-mypopups-and-redirection/)
 <!-- POLYGLOTS:END -->
 
 ## Support
