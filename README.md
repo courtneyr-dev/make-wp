@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Small Project](https://jobs.wordpress.net/job/small-project/)
+- [WordPress FSE Theme Developer](https://jobs.wordpress.net/job/wordpress-fse-theme-developer/)
+- [Senior WordPress Developer &lpar;LifterLMS&rpar;](https://jobs.wordpress.net/job/senior-wordpress-developer-lifterlms/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-6/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-6/)
 - [WordPress website support](https://jobs.wordpress.net/job/wordpress-website-support/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-818/)
 - [Business Support / Finance admin](https://jobs.wordpress.net/job/business-support-finance-admin/)
 - [WordPress Designer](https://jobs.wordpress.net/job/wordpress-designer-55/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-817/)
-- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote/)
-- [Need to fix a PHP error](https://jobs.wordpress.net/job/need-to-fix-a-php-error/)
 <!-- JOBS:END -->
 
 ## Central
