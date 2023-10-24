@@ -357,16 +357,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo afecta la Ley de Ciberresiliencia a WordPress](https://wordpress.tv/2023/10/24/como-afecta-la-ley-de-ciberresiliencia-a-wordpress/)
 - [PsychoGrowth: Cinco sesgos cognitivos que cambiarán el diseño de tu web](https://wordpress.tv/2023/10/24/psychogrowth-cinco-sesgos-cognitivos-que-cambiaran-el-diseno-de-tu-web/)
 - [De la cárcel a tu Web. Lecciones que aprendí entre rejas para aplicar a tu Web](https://wordpress.tv/2023/10/24/de-la-carcel-a-tu-web-lecciones-que-aprendi-entre-rejas-para-aplicar-a-tu-web/)
+- [Modern WordPress Development](https://wordpress.tv/2023/10/23/modern-wordpress-development/)
+- [Make It Real: Use AI To Successfully Deliver An Authentic Content Creation Process](https://wordpress.tv/2023/10/23/make-it-real-use-ai-to-successfully-deliver-an-authentic-content-creation-process/)
+- [The Headless Block Editor](https://wordpress.tv/2023/10/23/the-headless-block-editor/)
+- [Powering a Global Membership eCommerce Platform with Multisite, or Why Multisite Isn’t Dead](https://wordpress.tv/2023/10/23/powering-a-global-membership-ecommerce-platform-with-multisite-or-why-multisite-isnt-dead/)
+- [One File To Rule Them All, and With Composer, Install Them](https://wordpress.tv/2023/10/23/one-file-to-rule-them-all-and-with-composer-install-them/)
+- [Ford Foundation: Audio Described Video Plugin](https://wordpress.tv/2023/10/23/ford-foundation-audio-described-video-plugin/)
+- [Hands on with NASA’s new digital platform](https://wordpress.tv/2023/10/23/hands-on-with-nasas-new-digital-platform/)
 - [Cracking the Code: Women’s Journeys in Tech Careers](https://wordpress.tv/2023/10/23/cracking-the-code-womens-journeys-in-tech-careers/)
 - [WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart](https://wordpress.tv/2023/10/22/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart/)
 - [Customizing the Block Editor for client projects](https://wordpress.tv/2023/10/22/birgit-pauli-haack-customizing-the-block-editor-for-client-projects/)
-- [Exploring the power of generative styling](https://wordpress.tv/2023/10/22/tammie-lister-exploring-the-power-of-generative-styling/)
-- [How to counter arguments from developers, designers, and managers against accessibility](https://wordpress.tv/2023/10/22/anne-mieke-bovelett-how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/)
-- [WordPress empowering enterprises: unlocking growth and opportunities / how to sell WordPress to enterprise](https://wordpress.tv/2023/10/22/marcus-burk-wordpress-empowering-enterprises-unlocking-growth-and-opportunities-how-to-sell-wordpress-to-enterprise/)
-- [Eigener Plugin-Shop – Herausforderungen und Lösungen](https://wordpress.tv/2023/10/22/matthias-kittsteiner-eigener-plugin-shop-herausforderungen-und-loesungen/)
-- [Friends with ActivityPub – Deine nachhaltige Identität im Web](https://wordpress.tv/2023/10/22/matthias-pfefferle-alex-kirk-friends-with-activitypub-deine-nachhaltige-identitaet-im-web/)
-- [#CSS:has&lpar; .evolved &rpar;](https://wordpress.tv/2023/10/21/justin-joe-kostka-csshas-evolved/)
-- [SEO-Tools für kleine Budgets](https://wordpress.tv/2023/10/21/gerd-zimmerman-seo-tools-fuer-kleine-budgets/)
 <!-- WPTV:END -->
 
 ## Marketing
