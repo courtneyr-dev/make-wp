@@ -342,6 +342,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Charla de apertura](https://wordpress.tv/2023/10/24/charla-de-apertura/)
+- [Tu primer rato con WordPress: en qué puedes convertir tu blog usando plugins](https://wordpress.tv/2023/10/24/tu-primer-rato-con-wordpress-en-que-puedes-convertir-tu-blog-usando-plugins/)
+- [Teo aprende a vender desde su página web](https://wordpress.tv/2023/10/24/teo-aprende-a-vender-desde-su-pagina-web/)
+- [Breve introducción técnica a Magento](https://wordpress.tv/2023/10/24/breve-introduccion-tecnica-a-magento/)
+- [¿Para quién creas tu web?](https://wordpress.tv/2023/10/24/para-quien-creas-tu-web/)
+- [9 tipos de CPTs para vitaminar tu contenido en WordPress](https://wordpress.tv/2023/10/24/9-tipos-de-cpts-para-vitaminar-tu-contenido-en-wordpress/)
+- [Herramientas útiles para desarrolladores WordPress](https://wordpress.tv/2023/10/24/herramientas-utiles-para-desarrolladores-wordpress/)
+- [Qué es y para que sirve la carga condicional](https://wordpress.tv/2023/10/24/que-es-y-para-que-sirve-la-carga-condicional/)
+- [Publica tus vídeos en WordPress totalmente gratis tanto públicos como privados](https://wordpress.tv/2023/10/24/publica-tus-videos-en-wordpress-totalmente-gratis-tanto-publicos-como-privados/)
+- [Churras con merinas, peras con manzanas y Bodoni con Lobster](https://wordpress.tv/2023/10/24/churras-con-merinas-peras-con-manzanas-y-bodoni-con-lobster/)
+- [Web Mínimamente Accesible](https://wordpress.tv/2023/10/24/web-minimamente-accesible/)
+- [Más allá del «más allá»: Plan de contingencia para autónomos.](https://wordpress.tv/2023/10/24/mas-alla-del-mas-alla-plan-de-contingencia-para-autonomos/)
+- [Cómo afecta la Ley de Ciberresiliencia a WordPress](https://wordpress.tv/2023/10/24/como-afecta-la-ley-de-ciberresiliencia-a-wordpress/)
+- [PsychoGrowth: Cinco sesgos cognitivos que cambiarán el diseño de tu web](https://wordpress.tv/2023/10/24/psychogrowth-cinco-sesgos-cognitivos-que-cambiaran-el-diseno-de-tu-web/)
+- [De la cárcel a tu Web. Lecciones que aprendí entre rejas para aplicar a tu Web](https://wordpress.tv/2023/10/24/de-la-carcel-a-tu-web-lecciones-que-aprendi-entre-rejas-para-aplicar-a-tu-web/)
 - [Cracking the Code: Women’s Journeys in Tech Careers](https://wordpress.tv/2023/10/23/cracking-the-code-womens-journeys-in-tech-careers/)
 - [WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart](https://wordpress.tv/2023/10/22/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart/)
 - [Customizing the Block Editor for client projects](https://wordpress.tv/2023/10/22/birgit-pauli-haack-customizing-the-block-editor-for-client-projects/)
@@ -352,21 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Friends with ActivityPub – Deine nachhaltige Identität im Web](https://wordpress.tv/2023/10/22/matthias-pfefferle-alex-kirk-friends-with-activitypub-deine-nachhaltige-identitaet-im-web/)
 - [#CSS:has&lpar; .evolved &rpar;](https://wordpress.tv/2023/10/21/justin-joe-kostka-csshas-evolved/)
 - [SEO-Tools für kleine Budgets](https://wordpress.tv/2023/10/21/gerd-zimmerman-seo-tools-fuer-kleine-budgets/)
-- [Feel the Magic – wie man durch intelligente Verknüpfung und dynamische Inhalte interessante Webseiten erstellt](https://wordpress.tv/2023/10/21/elisa-sophia-foltyn-feel-the-magic-wie-man-durch-intelligente-verknuepfung-und-dynamische-inhalte-interessante-webseiten-erstellt/)
-- [Tidy Up Your Code](https://wordpress.tv/2023/10/21/tidy-up-your-code/)
-- [Importance of being a part of a Community](https://wordpress.tv/2023/10/21/importance-of-being-a-part-of-a-community/)
-- [The Farming Analogy For Blogging/Vlogging Success](https://wordpress.tv/2023/10/21/marathi-the-farming-analogy-for-blogging-vlogging-success/)
-- [Google Tag Manager: What You Need to Know?](https://wordpress.tv/2023/10/21/google-tag-manager-what-you-need-to-know/)
-- [Content Production – Be diverse, be smart](https://wordpress.tv/2023/10/21/content-production-be-diverse-be-smart/)
-- [Extending the Block Editor in 2023](https://wordpress.tv/2023/10/21/fabian-kaegy-extending-the-block-editor-in-2023/)
-- [WordPress-Login-Security](https://wordpress.tv/2023/10/21/angelo-cali-simon-kraft-wordpress-login-security/)
-- [Eine Entdeckungsreise durch die 12 goldenen Design-Regeln](https://wordpress.tv/2023/10/21/humberto-gregorio-expedition-ui-eine-entdeckungsreise-durch-die-12-goldenen-design-regeln/)
-- [WordPress for education: experiences with multisite as a portfolio learning platform](https://wordpress.tv/2023/10/21/floris-leurink-wordpress-for-education-experiences-with-multisite-as-a-portfolio-learning-platform/)
-- [Another first framework. Let’s talk about performance!](https://wordpress.tv/2023/10/21/pieter-daalder-another-first-framework-lets-talk-about-performance/)
-- [Empowering women through code: unleashing the power of diversity in tech](https://wordpress.tv/2023/10/21/tabea-braun-empowering-women-through-code-unleashing-the-power-of-diversity-in-tech/)
-- [Getting your designer ready for Gutenberg](https://wordpress.tv/2023/10/21/getting-your-designer-ready-for-gutenberg-2/)
-- [Sustainability in WordPress – balancing the cost of contribution, business Involvement, and the future](https://wordpress.tv/2023/10/21/sustainability-in-wordpress-balancing-the-cost-of-contribution-business-involvement-and-the-futur/)
-- [How To Go Jamstack with WordPress?](https://wordpress.tv/2023/10/21/how-to-go-jamstack-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
