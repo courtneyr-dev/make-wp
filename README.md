@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Exploring the Twenty Twenty-Four Theme](https://learn.wordpress.org/?meeting=exploring-the-twenty-twenty-four-theme)
 - [A Guide to Open Source and WordPress &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-replay)
 - [A Guide to Open Source and WordPress](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-3)
 - [WP dev livestream: WordPress 6.4](https://learn.wordpress.org/?meeting=wp-dev-livestream-wordpress-6-4)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Common APIs – Options](https://learn.wordpress.org/?meeting=common-apis-options)
 - [Hallway Hangout: What’s new for developers in WordPress 6.4](https://learn.wordpress.org/?meeting=hallway-hangout-whats-new-for-developers-in-wordpress-6-4)
 - [Common WordPress APIs – HTTP Request API](https://learn.wordpress.org/?meeting=common-wordpress-apis-http-request-api)
-- [APAC: Creating custom patterns: synced or non-synced](https://learn.wordpress.org/?meeting=apac-creating-custom-patterns-synced-or-non-synced)
 <!-- SLS:END -->
 
 ## Test
