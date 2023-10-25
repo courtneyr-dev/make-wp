@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [DropdownMenuV2Ariakit](https://developer.wordpress.org/block-editor/reference-guides/components/dropdown-menu-v2-ariakit/)
 - [Get started with wp-scripts](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-scripts/)
 - [Get started with create-block](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-create-block/)
 - [Styles Reference](https://developer.wordpress.org/themes/global-settings-and-styles/styles/styles-reference/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Blocks](https://developer.wordpress.org/themes/global-settings-and-styles/settings/blocks/)
 - [Use Root Padding Aware Alignments](https://developer.wordpress.org/themes/global-settings-and-styles/settings/use-root-padding-aware-alignments/)
 - [Typography](https://developer.wordpress.org/themes/global-settings-and-styles/settings/typography/)
-- [Spacing](https://developer.wordpress.org/themes/global-settings-and-styles/settings/spacing/)
 <!-- DEVHUB:END -->
 
 ## Themes
