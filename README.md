@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [State of TV – Vortragsaufzeichnung, aktueller Stand und Ausblick](https://wordpress.tv/2023/10/25/state-of-tv-vortragsaufzeichnung-aktueller-stand-und-ausblick/)
 - [Presentació MeetUp WordPress Catalunya Rural](https://wordpress.tv/2023/10/24/presentacio-meetup-wordpress-catalunya-rural/)
 - [Charla de apertura](https://wordpress.tv/2023/10/24/charla-de-apertura/)
 - [Tu primer rato con WordPress: en qué puedes convertir tu blog usando plugins](https://wordpress.tv/2023/10/24/tu-primer-rato-con-wordpress-en-que-puedes-convertir-tu-blog-usando-plugins/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ford Foundation: Audio Described Video Plugin](https://wordpress.tv/2023/10/23/ford-foundation-audio-described-video-plugin/)
 - [Hands on with NASA’s new digital platform](https://wordpress.tv/2023/10/23/hands-on-with-nasas-new-digital-platform/)
 - [Cracking the Code: Women’s Journeys in Tech Careers](https://wordpress.tv/2023/10/23/cracking-the-code-womens-journeys-in-tech-careers/)
-- [WooCommerce Blocks – Ein aktueller Blick auf die neuen Blöcke für Produktseiten, Cart](https://wordpress.tv/2023/10/22/manja-neumann-woocommerce-blocks-ein-aktueller-blick-auf-die-neuen-blocke-fur-produktseiten-cart/)
 <!-- WPTV:END -->
 
 ## Marketing
