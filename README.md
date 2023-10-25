@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for Element Pack Elementor Addons](https://make.wordpress.org/polyglots/2023/10/25/pte-request-for-element-pack-elementor-addons/)
+- [Agenda: Weekly Polyglots Chat – October 25, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/25/agenda-weekly-polyglots-chat-october-25-2023-1300-utc/)
 - [Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/10/24/post-title-pte-request-for-61/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2023/10/24/pte-request-for-powered-cache-3/)
 - [# Korean LOCALE NOTICE](https://make.wordpress.org/polyglots/2023/10/24/korean-locale-notice/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-several-plugins-7/)
 - [PTE Request for multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-multiple-plugins-3/)
 - [PTE Request for Two Plugins](https://make.wordpress.org/polyglots/2023/10/20/pte-request-for-two-plugins-5/)
-- [PTE Request for Integrate nekorekten.com for WooCommerce](https://make.wordpress.org/polyglots/2023/10/20/pte-request-for-integrate-nekorekten-com-for-woocommerce/)
-- [PTE request in two projects – French &lpar;France&rpar;](https://make.wordpress.org/polyglots/2023/10/19/pte-request-in-two-projects-french/)
 <!-- POLYGLOTS:END -->
 
 ## Support
