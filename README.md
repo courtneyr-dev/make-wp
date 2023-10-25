@@ -249,10 +249,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Entradas vs. Páginas: ¿En qué se diferencian?](https://learn.wordpress.org/tutorial/es-posts-vs-pages-whats-the-difference/)
 - [How to create a video tutorial for learn.wordpress.org](https://learn.wordpress.org/tutorial/how-to-create-a-video-tutorial-for-learn-wordpress-org/)
 - [Embedding media and third-party content on your website](https://learn.wordpress.org/tutorial/embedding-media-and-third-party-content-on-your-website/)
-- [Testing your plugins for PHP version compatibility](https://learn.wordpress.org/tutorial/testing-your-plugins-for-php-version-compatibility/)
 - [Exploring WordPress 6.3](https://learn.wordpress.org/tutorial/exploring-wordpress-6-3/)
 - [How to use the spacer block](https://learn.wordpress.org/tutorial/how-to-use-the-spacer-block/)
 - [How to add tables to your site](https://learn.wordpress.org/tutorial/how-to-add-tables-to-your-site/)
+- [Improving website performance with caching](https://learn.wordpress.org/tutorial/improving-website-performance-with-caching/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
