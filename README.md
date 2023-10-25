@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role-5/)
+- [Open Positions](https://jobs.wordpress.net/job/open-positions/)
 - [Elementor Expert](https://jobs.wordpress.net/job/elementor-expert/)
 - [Small Project](https://jobs.wordpress.net/job/small-project/)
 - [WordPress FSE Theme Developer](https://jobs.wordpress.net/job/wordpress-fse-theme-developer/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-6/)
 - [WordPress website support](https://jobs.wordpress.net/job/wordpress-website-support/)
 - [Web QA Developer](https://jobs.wordpress.net/job/web-qa-developer/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-818/)
-- [Business Support / Finance admin](https://jobs.wordpress.net/job/business-support-finance-admin/)
 <!-- JOBS:END -->
 
 ## Central
