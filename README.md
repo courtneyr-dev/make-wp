@@ -519,8 +519,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior WordPress Developer &lpar;LifterLMS&rpar;](https://jobs.wordpress.net/job/senior-wordpress-developer-lifterlms/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-6/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-6/)
-- [WordPress website support](https://jobs.wordpress.net/job/wordpress-website-support/)
 - [Web QA Developer](https://jobs.wordpress.net/job/web-qa-developer/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-818/)
 <!-- JOBS:END -->
 
 ## Central
