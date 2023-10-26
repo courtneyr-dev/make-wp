@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Wonder Cache](https://make.wordpress.org/polyglots/2023/10/26/pte-request-for-wonder-cache/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/10/26/hi-dear-mentors-we-have-124/)
 - [PTE Request for Bootstrap Coach theme](https://make.wordpress.org/polyglots/2023/10/25/pte-request-for-bootstrap-coach-theme/)
 - [PTE request for Element Pack Elementor Addons](https://make.wordpress.org/polyglots/2023/10/25/pte-request-for-element-pack-elementor-addons/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [# Korean LOCALE NOTICE](https://make.wordpress.org/polyglots/2023/10/24/korean-locale-notice/)
 - [PTE Request for Flexible Refund and Return Order for WooCommerce](https://make.wordpress.org/polyglots/2023/10/23/pte-request-for-flexible-refund-and-return-order-for-woocommerce/)
 - [PTE Request for Pay by…](https://make.wordpress.org/polyglots/2023/10/22/pte-request-for-pay-by/)
-- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-several-plugins-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
