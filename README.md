@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/10/26/hi-dear-mentors-we-have-124/)
 - [PTE Request for Bootstrap Coach theme](https://make.wordpress.org/polyglots/2023/10/25/pte-request-for-bootstrap-coach-theme/)
 - [PTE request for Element Pack Elementor Addons](https://make.wordpress.org/polyglots/2023/10/25/pte-request-for-element-pack-elementor-addons/)
 - [Agenda: Weekly Polyglots Chat – October 25, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/10/25/agenda-weekly-polyglots-chat-october-25-2023-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Flexible Refund and Return Order for WooCommerce](https://make.wordpress.org/polyglots/2023/10/23/pte-request-for-flexible-refund-and-return-order-for-woocommerce/)
 - [PTE Request for Pay by…](https://make.wordpress.org/polyglots/2023/10/22/pte-request-for-pay-by/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-several-plugins-7/)
-- [PTE Request for multiple Plugins](https://make.wordpress.org/polyglots/2023/10/21/pte-request-for-multiple-plugins-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
