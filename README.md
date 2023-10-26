@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Template Parts](https://developer.wordpress.org/themes/global-settings-and-styles/template-parts/)
+- [Custom Templates](https://developer.wordpress.org/themes/global-settings-and-styles/custom-templates/)
+- [Template Parts](https://developer.wordpress.org/themes/templates/template-parts/)
+- [Template Hierarchy](https://developer.wordpress.org/themes/templates/template-hierarchy/)
+- [Templates](https://developer.wordpress.org/themes/templates/templates/)
+- [Introduction to Templates](https://developer.wordpress.org/themes/templates/introduction-to-templates/)
 - [Templates](https://developer.wordpress.org/themes/templates/)
 - [DropdownMenuV2Ariakit](https://developer.wordpress.org/block-editor/reference-guides/components/dropdown-menu-v2-ariakit/)
 - [Get started with wp-scripts](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-scripts/)
 - [Get started with create-block](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-create-block/)
-- [Styles Reference](https://developer.wordpress.org/themes/global-settings-and-styles/styles/styles-reference/)
-- [Using Presets](https://developer.wordpress.org/themes/global-settings-and-styles/styles/using-presets/)
-- [Applying Styles](https://developer.wordpress.org/themes/global-settings-and-styles/styles/applying-styles/)
-- [Settings Reference](https://developer.wordpress.org/themes/global-settings-and-styles/settings/settings-reference/)
-- [Blocks](https://developer.wordpress.org/themes/global-settings-and-styles/settings/blocks/)
-- [Use Root Padding Aware Alignments](https://developer.wordpress.org/themes/global-settings-and-styles/settings/use-root-padding-aware-alignments/)
 <!-- DEVHUB:END -->
 
 ## Themes
