@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Common APIs – Internationalization](https://wordpress.tv/2023/10/27/common-apis-internationalization/)
 - [Gutenbergにコードでコントリビュートするための環境作成](https://wordpress.tv/2023/10/26/creating-an-environment-to-start-contributing-to-gutenberg-with-code/)
 - [State of TV – Vortragsaufzeichnung, aktueller Stand und Ausblick](https://wordpress.tv/2023/10/25/state-of-tv-vortragsaufzeichnung-aktueller-stand-und-ausblick/)
 - [Presentació MeetUp WordPress Catalunya Rural](https://wordpress.tv/2023/10/24/presentacio-meetup-wordpress-catalunya-rural/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Powering a Global Membership eCommerce Platform with Multisite, or Why Multisite Isn’t Dead](https://wordpress.tv/2023/10/23/powering-a-global-membership-ecommerce-platform-with-multisite-or-why-multisite-isnt-dead/)
 - [One File To Rule Them All, and With Composer, Install Them](https://wordpress.tv/2023/10/23/one-file-to-rule-them-all-and-with-composer-install-them/)
 - [Ford Foundation: Audio Described Video Plugin](https://wordpress.tv/2023/10/23/ford-foundation-audio-described-video-plugin/)
-- [Hands on with NASA’s new digital platform](https://wordpress.tv/2023/10/23/hands-on-with-nasas-new-digital-platform/)
 <!-- WPTV:END -->
 
 ## Marketing
