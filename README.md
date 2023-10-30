@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Plugin updates to SVN issues](https://make.wordpress.org/plugins/2023/10/30/plugin-updates-to-svn-issues/)
 - [X-post: Team Coordination for Plugin Directory Updates](https://make.wordpress.org/plugins/2023/10/20/xpost-team-coordination-for-plugin-directory-updates/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/plugins/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Update: Turning the Tide](https://make.wordpress.org/plugins/2023/09/19/update-turning-the-tide/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/plugins/2023/06/26/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [X-post: Triaging open issues on Trac for Make Teams](https://make.wordpress.org/plugins/2023/06/15/xpost-triaging-open-issues-on-trac-for-make-teams/)
 - [X-post: New Filter Controls: Discover “Commercial” and “Community” in the Theme and Plugin Directory](https://make.wordpress.org/plugins/2023/06/13/xpost-new-filter-controls-discover-commercial-and-community-in-the-theme-and-plugin-directory/)
-- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/plugins/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 <!-- PLUGINS:END -->
 
 ## Community
