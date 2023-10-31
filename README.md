@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 31 October 2023](https://make.wordpress.org/core/2023/10/31/performance-chat-agenda-31-october-2023/)
 - [Call for 6.4.x Release Managers](https://make.wordpress.org/core/2023/10/30/call-for-6-4-x-release-managers/)
 - [WordPress 6.4 RC3 postponed](https://make.wordpress.org/core/2023/10/30/wordpress-6-4-rc3-postponed/)
 - [What’s new in Gutenberg 16.9? &lpar;25 October&rpar;](https://make.wordpress.org/core/2023/10/25/whats-new-in-gutenberg-16-9-25-october-2/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Framework for storing revisions of Post Meta in 6.4](https://make.wordpress.org/core/2023/10/24/framework-for-storing-revisions-of-post-meta-in-6-4/)
 - [WordPress 6.4 Field Guide](https://make.wordpress.org/core/2023/10/23/wordpress-6-4-field-guide/)
 - [Summary and Insights of Phase 3 related conversations](https://make.wordpress.org/core/2023/10/23/summary-and-insights-of-phase-3-related-conversations/)
-- [Updates to the HTML API in 6.4](https://make.wordpress.org/core/2023/10/21/updates-to-the-html-api-in-6-4/)
 <!-- CORE:END -->
 
 ## Design
