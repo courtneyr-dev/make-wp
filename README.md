@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Fluent Forms Plugin](https://make.wordpress.org/polyglots/2023/10/31/pte-request-for-fluent-forms-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/10/31/hi-106/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2023/10/31/pte-request-for-powered-cache-4/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/10/30/hi-105/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Wonder Cache](https://make.wordpress.org/polyglots/2023/10/26/pte-request-for-wonder-cache/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/10/26/hi-dear-mentors-we-have-124/)
 - [PTE Request for Bootstrap Coach theme](https://make.wordpress.org/polyglots/2023/10/25/pte-request-for-bootstrap-coach-theme/)
-- [PTE request for Element Pack Elementor Addons](https://make.wordpress.org/polyglots/2023/10/25/pte-request-for-element-pack-elementor-addons/)
 <!-- POLYGLOTS:END -->
 
 ## Support
