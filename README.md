@@ -514,13 +514,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-819/)
 - [PHP/WP Developer](https://jobs.wordpress.net/job/php-wp-developer-5/)
 - [Advanced WordPress Developer](https://jobs.wordpress.net/job/advanced-wordpress-developer-6/)
-- [WordPress site design to match existing site](https://jobs.wordpress.net/job/wordpress-site-design-to-match-existing-site/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-24/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-7/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-7/)
 - [SEO](https://jobs.wordpress.net/job/seo-9/)
 - [Full-time WordPress Developer Wanted](https://jobs.wordpress.net/job/full-time-wordpress-developer-wanted-2/)
 - [WP Web Developer Support Role](https://jobs.wordpress.net/job/wp-web-developer-support-role-5/)
+- [Open Positions](https://jobs.wordpress.net/job/open-positions/)
 <!-- JOBS:END -->
 
 ## Central
