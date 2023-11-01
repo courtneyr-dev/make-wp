@@ -483,6 +483,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [wp-cli.org email addresses](https://make.wordpress.org/systems/2023/11/01/wp-cli-org-email-addresses/)
 - [Email deliverability for wordcamp.org addresses](https://make.wordpress.org/systems/2023/10/11/email-deliverability-for-wordcamp-org-addresses/)
 - [MC Access for Héctor Prieto](https://make.wordpress.org/systems/2023/09/29/mc-access-for-hector-prieto/)
 - [Help Scout DKIM update](https://make.wordpress.org/systems/2023/09/20/help-scout-dkim-update/)
@@ -492,7 +493,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [MC Access for Naoko Takano](https://make.wordpress.org/systems/2023/07/03/mc-access-for-naoko-takano/)
 - [events.wordpress.org served by wordcamp.org](https://make.wordpress.org/systems/2023/06/15/events-wordpress-org-served-by-wordcamp-org/)
 - [Redirect *.forums.wordpress.org](https://make.wordpress.org/systems/2023/06/08/redirect-forums-wordpress-org/)
-- [I currently have a wp.org…](https://make.wordpress.org/systems/2023/06/07/i-currently-have-a-wp-org/)
 <!-- SYSTEMS:END -->
 
 ## News
