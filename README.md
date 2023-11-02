@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
 - [Features](https://developer.wordpress.org/themes/features/)
 - [Template Parts](https://developer.wordpress.org/themes/global-settings-and-styles/template-parts/)
 - [Custom Templates](https://developer.wordpress.org/themes/global-settings-and-styles/custom-templates/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to Templates](https://developer.wordpress.org/themes/templates/introduction-to-templates/)
 - [Templates](https://developer.wordpress.org/themes/templates/)
 - [DropdownMenuV2Ariakit](https://developer.wordpress.org/block-editor/reference-guides/components/dropdown-menu-v2-ariakit/)
-- [Get started with wp-scripts](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-scripts/)
 <!-- DEVHUB:END -->
 
 ## Themes
