@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [What’s New In WordPress 6.4?](https://wordpress.tv/2023/11/02/whats-new-in-wordpress-6-4/)
+- [Developer Hours: Exploring the Twenty Twenty-Four Theme](https://wordpress.tv/2023/11/02/justin-tadlock-nick-diego-maggie-cabrera-jessica-lyschik-developer-hours-exploring-the-twenty-twenty-four-theme/)
 - [Common APIs – Internationalization](https://wordpress.tv/2023/10/27/common-apis-internationalization/)
 - [Gutenbergにコードでコントリビュートするための環境作成](https://wordpress.tv/2023/10/26/creating-an-environment-to-start-contributing-to-gutenberg-with-code/)
 - [State of TV – Vortragsaufzeichnung, aktueller Stand und Ausblick](https://wordpress.tv/2023/10/25/state-of-tv-vortragsaufzeichnung-aktueller-stand-und-ausblick/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Make It Real: Use AI To Successfully Deliver An Authentic Content Creation Process](https://wordpress.tv/2023/10/23/make-it-real-use-ai-to-successfully-deliver-an-authentic-content-creation-process/)
 - [The Headless Block Editor](https://wordpress.tv/2023/10/23/the-headless-block-editor/)
 - [Powering a Global Membership eCommerce Platform with Multisite, or Why Multisite Isn’t Dead](https://wordpress.tv/2023/10/23/powering-a-global-membership-ecommerce-platform-with-multisite-or-why-multisite-isnt-dead/)
-- [One File To Rule Them All, and With Composer, Install Them](https://wordpress.tv/2023/10/23/one-file-to-rule-them-all-and-with-composer-install-them/)
-- [Ford Foundation: Audio Described Video Plugin](https://wordpress.tv/2023/10/23/ford-foundation-audio-described-video-plugin/)
 <!-- WPTV:END -->
 
 ## Marketing
