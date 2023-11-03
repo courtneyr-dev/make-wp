@@ -343,7 +343,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [What’s New In WordPress 6.4?](https://wordpress.tv/2023/11/02/whats-new-in-wordpress-6-4/)
-- [Developer Hours: Exploring the Twenty Twenty-Four Theme](https://wordpress.tv/2023/11/02/justin-tadlock-nick-diego-maggie-cabrera-jessica-lyschik-developer-hours-exploring-the-twenty-twenty-four-theme/)
+- [Developer Hours: Exploring the Twenty Twenty-Four Theme](https://wordpress.tv/2023/11/02/developer-hours-exploring-the-twenty-twenty-four-theme/)
 - [Common APIs – Internationalization](https://wordpress.tv/2023/10/27/common-apis-internationalization/)
 - [Gutenbergにコードでコントリビュートするための環境作成](https://wordpress.tv/2023/10/26/creating-an-environment-to-start-contributing-to-gutenberg-with-code/)
 - [State of TV – Vortragsaufzeichnung, aktueller Stand und Ausblick](https://wordpress.tv/2023/10/25/state-of-tv-vortragsaufzeichnung-aktueller-stand-und-ausblick/)
