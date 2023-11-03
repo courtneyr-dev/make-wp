@@ -549,7 +549,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Building Workshop Japan](https://central.wordcamp.org/wordcamps/community-building-workshop-japan/)
 - [Rome Community Day 2023](https://central.wordcamp.org/wordcamps/wordcamp-rome-2/)
 - [WordCamp Hong Kong](https://central.wordcamp.org/wordcamps/wordcamp-hong-kong-2/)
-- [WordCamp Wrocław](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-2/)
+- [WordCamp Torrelodones 2024](https://central.wordcamp.org/wordcamps/wordcamp-torrelodones/)
 - [WordCamp Lahore, Punjab, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-lahore-punjab/)
 - [WordCamp Skopje](https://central.wordcamp.org/wordcamps/wordcamp-skopje-2/)
 - [WordCamp Manila, Philippines](https://central.wordcamp.org/wordcamps/wordcamp-manila-philippines-2023/)
