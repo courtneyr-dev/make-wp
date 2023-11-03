@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Apply to become GTE #zh_cn…](https://make.wordpress.org/polyglots/2023/11/03/apply-to-become-gte-zh_cn/)
 - [Hey. Hey,](https://make.wordpress.org/polyglots/2023/11/02/hey-hey/)
 - [Agenda: Weekly Polyglots Chat- November 01, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/01/agenda-weekly-polyglots-chat-november-01-2023-700-utc/)
 - [PTE Request for Fluent Forms Plugin](https://make.wordpress.org/polyglots/2023/10/31/pte-request-for-fluent-forms-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ideas for Customize Other Languages and Other Locales](https://make.wordpress.org/polyglots/2023/10/29/ideas-for-customize-other-languages-and-other-locales/)
 - [PTE Request for AltText.ai Plugin](https://make.wordpress.org/polyglots/2023/10/28/pte-request-for-alttext-ai-plugin/)
 - [PTE Request for Bootstrap Coach theme](https://make.wordpress.org/polyglots/2023/10/27/pte-request-for-bootstrap-coach-theme-2/)
-- [PTE Request for Wonder Cache](https://make.wordpress.org/polyglots/2023/10/26/pte-request-for-wonder-cache/)
 <!-- POLYGLOTS:END -->
 
 ## Support
