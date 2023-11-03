@@ -286,6 +286,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: Modern WordPress development with the wp-scripts package](https://learn.wordpress.org/?meeting=developer-hours-modern-wordpress-development-with-the-wp-scripts-package)
+- [Developer Hours: How to extend core WordPress blocks](https://learn.wordpress.org/?meeting=developer-hours-how-to-extend-core-wordpress-blocks)
 - [今こそ知りたいブロックエディターの使い方入門 &lpar;English: Introduction to how to use the block editor that you want to know now&rpar;](https://learn.wordpress.org/?meeting=%e4%bb%8a%e3%81%93%e3%81%9d%e7%9f%a5%e3%82%8a%e3%81%9f%e3%81%84%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9%e5%85%a5%e9%96%80)
 - [Exploring the Twenty Twenty-Four Theme](https://learn.wordpress.org/?meeting=exploring-the-twenty-twenty-four-theme)
 - [A Guide to Open Source and WordPress &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-replay)
@@ -309,8 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building a home page](https://learn.wordpress.org/?meeting=building-a-home-page)
 - [GPL in the WordPress Training Team’s Vetting Processes](https://learn.wordpress.org/?meeting=gpl-in-the-wordpress-training-teams-vetting-processes-2)
 - [GPL in the WordPress Training Team’s Vetting Processes](https://learn.wordpress.org/?meeting=gpl-in-the-wordpress-training-teams-vetting-processes)
-- [Common APIs – Options](https://learn.wordpress.org/?meeting=common-apis-options)
-- [Hallway Hangout: What’s new for developers in WordPress 6.4](https://learn.wordpress.org/?meeting=hallway-hangout-whats-new-for-developers-in-wordpress-6-4)
 <!-- SLS:END -->
 
 ## Test
