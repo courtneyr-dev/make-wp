@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Multipotencial o disperso? Da igual, reinvéntate](https://wordpress.tv/2023/11/05/multipotencial-o-disperso-da-igual-reinventate/)
 - [What’s new in WordPress 6.4?](https://wordpress.tv/2023/11/02/whats-new-in-wordpress-6-4/)
 - [Developer Hours: Exploring the Twenty Twenty-Four Theme](https://wordpress.tv/2023/11/02/developer-hours-exploring-the-twenty-twenty-four-theme/)
 - [Common APIs – Internationalization](https://wordpress.tv/2023/10/27/common-apis-internationalization/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Modern WordPress Development](https://wordpress.tv/2023/10/23/modern-wordpress-development/)
 - [Make It Real: Use AI To Successfully Deliver An Authentic Content Creation Process](https://wordpress.tv/2023/10/23/make-it-real-use-ai-to-successfully-deliver-an-authentic-content-creation-process/)
 - [The Headless Block Editor](https://wordpress.tv/2023/10/23/the-headless-block-editor/)
-- [Powering a Global Membership eCommerce Platform with Multisite, or Why Multisite Isn’t Dead](https://wordpress.tv/2023/10/23/powering-a-global-membership-ecommerce-platform-with-multisite-or-why-multisite-isnt-dead/)
 <!-- WPTV:END -->
 
 ## Marketing
