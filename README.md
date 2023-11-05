@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [La importancia de los custom post types](https://wordpress.tv/2023/11/05/la-importancia-de-los-custom-post-types/)
+- [Caralladas con Google: Buenas prácticas de SEO y WordPress](https://wordpress.tv/2023/11/05/caralladas-con-google-buenas-practicas-de-seo-y-wordpress/)
+- [Cómo crear un embudo &lpar;FUNNEL&rpar; de ventas con WordPress](https://wordpress.tv/2023/11/05/como-crear-un-embudo-funnel-de-ventas-con-wordpress/)
+- [¿Cómo conseguir que acepten tu presupuesto?](https://wordpress.tv/2023/11/05/como-conseguir-que-acepten-tu-presupuesto/)
+- [La IA como tu colaborador creativo: Rompiendo mitos](https://wordpress.tv/2023/11/05/la-ia-como-tu-colaborador-creativo-rompiendo-mitos/)
+- [Llevando WordPress al mundo rural](https://wordpress.tv/2023/11/05/llevando-wordpress-al-mundo-rural/)
 - [Mesa debate «Inteligencia artificial – Stranger Things»](https://wordpress.tv/2023/11/05/mesa-debate-inteligencia-artificial-stranger-things/)
 - [¿Plugin o desarrollo a medida?: Elige tu propia aventura WordPress](https://wordpress.tv/2023/11/05/plugin-o-desarrollo-a-medida-elige-tu-propia-aventura-wordpress/)
 - [¿Por qué son importantes los eventos de comunidad?](https://wordpress.tv/2023/11/05/por-que-son-importantes-los-eventos-de-comunidad/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Para ti, que huyes del código](https://wordpress.tv/2023/11/05/para-ti-que-huyes-del-codigo/)
 - [Crea tu archivo de distribución de tu plugin con WP-CLI](https://wordpress.tv/2023/11/05/crea-tu-archivo-de-distribucion-de-tu-plugin-con-wp-cli/)
 - [Usa la IA para potenciar tu eCommerce](https://wordpress.tv/2023/11/05/usa-la-ia-para-potenciar-tu-ecommerce/)
-- [Proyecto de mentorías WordPress](https://wordpress.tv/2023/11/05/proyecto-de-mentorias-wordpress/)
-- [El futuro del SEO &lpar;si la IA nos deja&rpar;](https://wordpress.tv/2023/11/05/el-futuro-del-seo-si-la-ia-nos-deja/)
-- [WordPress y Telegram: Una story de amor](https://wordpress.tv/2023/11/05/wordpress-y-telegram-una-story-de-amor/)
-- [Resacón en Nueva York: de una cena en Granada al State of the Word](https://wordpress.tv/2023/11/05/resacon-en-nueva-york-de-una-cena-en-granada-al-state-of-the-word/)
-- [Yo no pago impuestos](https://wordpress.tv/2023/11/05/yo-no-pago-impuestos/)
-- [Contraste: aprende a hacer bien lo que la mayoría hace mal](https://wordpress.tv/2023/11/05/contraste-aprende-a-hacer-bien-lo-que-la-mayoria-hace-mal/)
 <!-- WPTV:END -->
 
 ## Marketing
