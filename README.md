@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Por qué son importantes los eventos de comunidad?](https://wordpress.tv/2023/11/05/por-que-son-importantes-los-eventos-de-comunidad/)
 - [Cómo CAPTAR a través de WhatsApp sin generar rechazo &lpar;con ayuda de ChatGPT&rpar;](https://wordpress.tv/2023/11/05/como-captar-a-traves-de-whatsapp-sin-generar-rechazo-con-ayuda-de-chatgpt/)
 - [Estándares de programación WordPress](https://wordpress.tv/2023/11/05/estandares-de-programacion-wordpress/)
 - [Error 404: 10 fallos que pueden cargarse la usabilidad de tu web](https://wordpress.tv/2023/11/05/error-404-10-fallos-que-pueden-cargarse-la-usabilidad-de-tu-web/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contraste: aprende a hacer bien lo que la mayoría hace mal](https://wordpress.tv/2023/11/05/contraste-aprende-a-hacer-bien-lo-que-la-mayoria-hace-mal/)
 - [La IA nuestra de cada día](https://wordpress.tv/2023/11/05/la-ia-nuestra-de-cada-dia/)
 - [¿Multipotencial o disperso? Da igual, reinvéntate](https://wordpress.tv/2023/11/05/multipotencial-o-disperso-da-igual-reinventate/)
-- [What’s new in WordPress 6.4?](https://wordpress.tv/2023/11/02/whats-new-in-wordpress-6-4/)
 <!-- WPTV:END -->
 
 ## Marketing
