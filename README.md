@@ -342,6 +342,18 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Presente y futuro de la industria del hosting. Qué te conviene saber y qué no para tu proyecto](https://wordpress.tv/2023/11/05/presente-y-futuro-de-la-industria-del-hosting-que-te-conviene-saber-y-que-no-para-tu-proyecto/)
+- [KameHameHa! O cómo defenderse de un atacante malicioso nivel Freezer](https://wordpress.tv/2023/11/05/kamehameha-o-como-defenderse-de-un-atacante-malicioso-nivel-freezer/)
+- [Para ti, que huyes del código](https://wordpress.tv/2023/11/05/para-ti-que-huyes-del-codigo/)
+- [Crea tu archivo de distribución de tu plugin con WP-CLI](https://wordpress.tv/2023/11/05/crea-tu-archivo-de-distribucion-de-tu-plugin-con-wp-cli/)
+- [Usa la IA para potenciar tu eCommerce](https://wordpress.tv/2023/11/05/usa-la-ia-para-potenciar-tu-ecommerce/)
+- [Proyecto de mentorías WordPress](https://wordpress.tv/2023/11/05/proyecto-de-mentorias-wordpress/)
+- [El futuro del SEO &lpar;si la IA nos deja&rpar;](https://wordpress.tv/2023/11/05/el-futuro-del-seo-si-la-ia-nos-deja/)
+- [WordPress y Telegram: Una story de amor](https://wordpress.tv/2023/11/05/wordpress-y-telegram-una-story-de-amor/)
+- [Resacón en Nueva York: de una cena en Granada al State of the Word](https://wordpress.tv/2023/11/05/resacon-en-nueva-york-de-una-cena-en-granada-al-state-of-the-word/)
+- [Yo no pago impuestos](https://wordpress.tv/2023/11/05/yo-no-pago-impuestos/)
+- [Contraste: aprende a hacer bien lo que la mayoría hace mal](https://wordpress.tv/2023/11/05/contraste-aprende-a-hacer-bien-lo-que-la-mayoria-hace-mal/)
+- [La IA nuestra de cada día](https://wordpress.tv/2023/11/05/la-ia-nuestra-de-cada-dia/)
 - [¿Multipotencial o disperso? Da igual, reinvéntate](https://wordpress.tv/2023/11/05/multipotencial-o-disperso-da-igual-reinventate/)
 - [What’s new in WordPress 6.4?](https://wordpress.tv/2023/11/02/whats-new-in-wordpress-6-4/)
 - [Developer Hours: Exploring the Twenty Twenty-Four Theme](https://wordpress.tv/2023/11/02/developer-hours-exploring-the-twenty-twenty-four-theme/)
@@ -355,18 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Breve introducción técnica a Magento](https://wordpress.tv/2023/10/24/breve-introduccion-tecnica-a-magento/)
 - [¿Para quién creas tu web?](https://wordpress.tv/2023/10/24/para-quien-creas-tu-web/)
 - [9 tipos de CPTs para vitaminar tu contenido en WordPress](https://wordpress.tv/2023/10/24/9-tipos-de-cpts-para-vitaminar-tu-contenido-en-wordpress/)
-- [Herramientas útiles para desarrolladores WordPress](https://wordpress.tv/2023/10/24/herramientas-utiles-para-desarrolladores-wordpress/)
-- [Qué es y para que sirve la carga condicional](https://wordpress.tv/2023/10/24/que-es-y-para-que-sirve-la-carga-condicional/)
-- [Publica tus vídeos en WordPress totalmente gratis tanto públicos como privados](https://wordpress.tv/2023/10/24/publica-tus-videos-en-wordpress-totalmente-gratis-tanto-publicos-como-privados/)
-- [Churras con merinas, peras con manzanas y Bodoni con Lobster](https://wordpress.tv/2023/10/24/churras-con-merinas-peras-con-manzanas-y-bodoni-con-lobster/)
-- [Web Mínimamente Accesible](https://wordpress.tv/2023/10/24/web-minimamente-accesible/)
-- [Más allá del «más allá»: Plan de contingencia para autónomos.](https://wordpress.tv/2023/10/24/mas-alla-del-mas-alla-plan-de-contingencia-para-autonomos/)
-- [Cómo afecta la Ley de Ciberresiliencia a WordPress](https://wordpress.tv/2023/10/24/como-afecta-la-ley-de-ciberresiliencia-a-wordpress/)
-- [PsychoGrowth: Cinco sesgos cognitivos que cambiarán el diseño de tu web](https://wordpress.tv/2023/10/24/psychogrowth-cinco-sesgos-cognitivos-que-cambiaran-el-diseno-de-tu-web/)
-- [De la cárcel a tu Web. Lecciones que aprendí entre rejas para aplicar a tu Web](https://wordpress.tv/2023/10/24/de-la-carcel-a-tu-web-lecciones-que-aprendi-entre-rejas-para-aplicar-a-tu-web/)
-- [Modern WordPress Development](https://wordpress.tv/2023/10/23/modern-wordpress-development/)
-- [Make It Real: Use AI To Successfully Deliver An Authentic Content Creation Process](https://wordpress.tv/2023/10/23/make-it-real-use-ai-to-successfully-deliver-an-authentic-content-creation-process/)
-- [The Headless Block Editor](https://wordpress.tv/2023/10/23/the-headless-block-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
