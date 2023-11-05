@@ -342,6 +342,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo CAPTAR a través de WhatsApp sin generar rechazo &lpar;con ayuda de ChatGPT&rpar;](https://wordpress.tv/2023/11/05/como-captar-a-traves-de-whatsapp-sin-generar-rechazo-con-ayuda-de-chatgpt/)
+- [Estándares de programación WordPress](https://wordpress.tv/2023/11/05/estandares-de-programacion-wordpress/)
+- [Error 404: 10 fallos que pueden cargarse la usabilidad de tu web](https://wordpress.tv/2023/11/05/error-404-10-fallos-que-pueden-cargarse-la-usabilidad-de-tu-web/)
+- [El camino del desarrollador WordPress](https://wordpress.tv/2023/11/05/el-camino-del-desarrollador-wordpress/)
+- [La guerrera que quería lanzar su ansiado producto](https://wordpress.tv/2023/11/05/la-guerrera-que-queria-lanzar-su-ansiado-producto/)
+- [Carga condicional de estilos y scripts](https://wordpress.tv/2023/11/05/carga-condicional-de-estilos-y-scripts/)
+- [Despedida y cierre del día](https://wordpress.tv/2023/11/05/despedida-y-cierre-del-dia/)
+- [¿Te preocupa el rendimiento de tu web? No deberías estar haciendo esto …](https://wordpress.tv/2023/11/05/te-preocupa-el-rendimiento-de-tu-web-no-deberias-estar-haciendo-esto/)
+- [La combinación perfecta entre categorías, tags y contenidos](https://wordpress.tv/2023/11/05/la-combinacion-perfecta-entre-categorias-tags-y-contenidos/)
+- [Vender solo en tu tienda online NO es suficiente](https://wordpress.tv/2023/11/05/vender-solo-en-tu-tienda-online-no-es-suficiente/)
+- [Esta no es la charla de seguridad que quieres oír](https://wordpress.tv/2023/11/05/esta-no-es-la-charla-de-seguridad-que-quieres-oir/)
 - [Presente y futuro de la industria del hosting. Qué te conviene saber y qué no para tu proyecto](https://wordpress.tv/2023/11/05/presente-y-futuro-de-la-industria-del-hosting-que-te-conviene-saber-y-que-no-para-tu-proyecto/)
 - [KameHameHa! O cómo defenderse de un atacante malicioso nivel Freezer](https://wordpress.tv/2023/11/05/kamehameha-o-como-defenderse-de-un-atacante-malicioso-nivel-freezer/)
 - [Para ti, que huyes del código](https://wordpress.tv/2023/11/05/para-ti-que-huyes-del-codigo/)
@@ -356,17 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [La IA nuestra de cada día](https://wordpress.tv/2023/11/05/la-ia-nuestra-de-cada-dia/)
 - [¿Multipotencial o disperso? Da igual, reinvéntate](https://wordpress.tv/2023/11/05/multipotencial-o-disperso-da-igual-reinventate/)
 - [What’s new in WordPress 6.4?](https://wordpress.tv/2023/11/02/whats-new-in-wordpress-6-4/)
-- [Developer Hours: Exploring the Twenty Twenty-Four Theme](https://wordpress.tv/2023/11/02/developer-hours-exploring-the-twenty-twenty-four-theme/)
-- [Common APIs – Internationalization](https://wordpress.tv/2023/10/27/common-apis-internationalization/)
-- [Gutenbergにコードでコントリビュートするための環境作成](https://wordpress.tv/2023/10/26/creating-an-environment-to-start-contributing-to-gutenberg-with-code/)
-- [State of TV – Vortragsaufzeichnung, aktueller Stand und Ausblick](https://wordpress.tv/2023/10/25/state-of-tv-vortragsaufzeichnung-aktueller-stand-und-ausblick/)
-- [Presentació MeetUp WordPress Catalunya Rural](https://wordpress.tv/2023/10/24/presentacio-meetup-wordpress-catalunya-rural/)
-- [Charla de apertura](https://wordpress.tv/2023/10/24/charla-de-apertura/)
-- [Tu primer rato con WordPress: en qué puedes convertir tu blog usando plugins](https://wordpress.tv/2023/10/24/tu-primer-rato-con-wordpress-en-que-puedes-convertir-tu-blog-usando-plugins/)
-- [Teo aprende a vender desde su página web](https://wordpress.tv/2023/10/24/teo-aprende-a-vender-desde-su-pagina-web/)
-- [Breve introducción técnica a Magento](https://wordpress.tv/2023/10/24/breve-introduccion-tecnica-a-magento/)
-- [¿Para quién creas tu web?](https://wordpress.tv/2023/10/24/para-quien-creas-tu-web/)
-- [9 tipos de CPTs para vitaminar tu contenido en WordPress](https://wordpress.tv/2023/10/24/9-tipos-de-cpts-para-vitaminar-tu-contenido-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
