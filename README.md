@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mesa debate «Inteligencia artificial – Stranger Things»](https://wordpress.tv/2023/11/05/mesa-debate-inteligencia-artificial-stranger-things/)
+- [¿Plugin o desarrollo a medida?: Elige tu propia aventura WordPress](https://wordpress.tv/2023/11/05/plugin-o-desarrollo-a-medida-elige-tu-propia-aventura-wordpress/)
 - [¿Por qué son importantes los eventos de comunidad?](https://wordpress.tv/2023/11/05/por-que-son-importantes-los-eventos-de-comunidad/)
 - [Cómo CAPTAR a través de WhatsApp sin generar rechazo &lpar;con ayuda de ChatGPT&rpar;](https://wordpress.tv/2023/11/05/como-captar-a-traves-de-whatsapp-sin-generar-rechazo-con-ayuda-de-chatgpt/)
 - [Estándares de programación WordPress](https://wordpress.tv/2023/11/05/estandares-de-programacion-wordpress/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Resacón en Nueva York: de una cena en Granada al State of the Word](https://wordpress.tv/2023/11/05/resacon-en-nueva-york-de-una-cena-en-granada-al-state-of-the-word/)
 - [Yo no pago impuestos](https://wordpress.tv/2023/11/05/yo-no-pago-impuestos/)
 - [Contraste: aprende a hacer bien lo que la mayoría hace mal](https://wordpress.tv/2023/11/05/contraste-aprende-a-hacer-bien-lo-que-la-mayoria-hace-mal/)
-- [La IA nuestra de cada día](https://wordpress.tv/2023/11/05/la-ia-nuestra-de-cada-dia/)
-- [¿Multipotencial o disperso? Da igual, reinvéntate](https://wordpress.tv/2023/11/05/multipotencial-o-disperso-da-igual-reinventate/)
 <!-- WPTV:END -->
 
 ## Marketing
