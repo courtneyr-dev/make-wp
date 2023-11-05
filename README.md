@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Diseñar local e impactar global: anotaciones para encontrar tu propia valía en mercad](https://wordpress.tv/2023/11/05/disenar-local-e-impactar-global-anotaciones-para-encontrar-tu-propia-valia-en-mercad/)
 - [¿Cómo crear un plan de ventas y marketing para tus servicios de Desarrollo?](https://wordpress.tv/2023/11/05/como-crear-un-plan-de-ventas-y-marketing-para-tus-servicios-de-desarrollo/)
 - [Desafiando Estereotipos: ¿Cómo convertí las críticas en combustible para el éxito?](https://wordpress.tv/2023/11/05/desafiando-estereotipos-como-converti-las-criticas-en-combustible-para-el-exito/)
 - [La importancia de los custom post types](https://wordpress.tv/2023/11/05/la-importancia-de-los-custom-post-types/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Esta no es la charla de seguridad que quieres oír](https://wordpress.tv/2023/11/05/esta-no-es-la-charla-de-seguridad-que-quieres-oir/)
 - [Presente y futuro de la industria del hosting. Qué te conviene saber y qué no para tu proyecto](https://wordpress.tv/2023/11/05/presente-y-futuro-de-la-industria-del-hosting-que-te-conviene-saber-y-que-no-para-tu-proyecto/)
 - [KameHameHa! O cómo defenderse de un atacante malicioso nivel Freezer](https://wordpress.tv/2023/11/05/kamehameha-o-como-defenderse-de-un-atacante-malicioso-nivel-freezer/)
-- [Para ti, que huyes del código](https://wordpress.tv/2023/11/05/para-ti-que-huyes-del-codigo/)
 <!-- WPTV:END -->
 
 ## Marketing
