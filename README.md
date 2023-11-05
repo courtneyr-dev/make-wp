@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Cómo crear un plan de ventas y marketing para tus servicios de Desarrollo?](https://wordpress.tv/2023/11/05/como-crear-un-plan-de-ventas-y-marketing-para-tus-servicios-de-desarrollo/)
+- [Desafiando Estereotipos: ¿Cómo convertí las críticas en combustible para el éxito?](https://wordpress.tv/2023/11/05/desafiando-estereotipos-como-converti-las-criticas-en-combustible-para-el-exito/)
 - [La importancia de los custom post types](https://wordpress.tv/2023/11/05/la-importancia-de-los-custom-post-types/)
 - [Caralladas con Google: Buenas prácticas de SEO y WordPress](https://wordpress.tv/2023/11/05/caralladas-con-google-buenas-practicas-de-seo-y-wordpress/)
 - [Cómo crear un embudo &lpar;FUNNEL&rpar; de ventas con WordPress](https://wordpress.tv/2023/11/05/como-crear-un-embudo-funnel-de-ventas-con-wordpress/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Presente y futuro de la industria del hosting. Qué te conviene saber y qué no para tu proyecto](https://wordpress.tv/2023/11/05/presente-y-futuro-de-la-industria-del-hosting-que-te-conviene-saber-y-que-no-para-tu-proyecto/)
 - [KameHameHa! O cómo defenderse de un atacante malicioso nivel Freezer](https://wordpress.tv/2023/11/05/kamehameha-o-como-defenderse-de-un-atacante-malicioso-nivel-freezer/)
 - [Para ti, que huyes del código](https://wordpress.tv/2023/11/05/para-ti-que-huyes-del-codigo/)
-- [Crea tu archivo de distribución de tu plugin con WP-CLI](https://wordpress.tv/2023/11/05/crea-tu-archivo-de-distribucion-de-tu-plugin-con-wp-cli/)
-- [Usa la IA para potenciar tu eCommerce](https://wordpress.tv/2023/11/05/usa-la-ia-para-potenciar-tu-ecommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
