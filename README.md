@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Spreadsheet no es una shit. Sácale partido a tus hojas de cálculo de Google.](https://wordpress.tv/2023/11/06/spreadsheet-no-es-una-shit-sacale-partido-a-tus-hojas-de-calculo-de-google/)
+- [WordPress y los eventos de nueva generación: conseguir crecimiento personal mientras cultivamos comu](https://wordpress.tv/2023/11/06/wordpress-y-los-eventos-de-nueva-generacion-conseguir-crecimiento-personal-mientras-cultivamos-comu/)
+- [Construye tu carrera profesional con el Editor de Sitios de WordPress](https://wordpress.tv/2023/11/06/construye-tu-carrera-profesional-con-el-editor-de-sitios-de-wordpress/)
 - [Diseñar local e impactar global: anotaciones para encontrar tu propia valía en mercad](https://wordpress.tv/2023/11/05/disenar-local-e-impactar-global-anotaciones-para-encontrar-tu-propia-valia-en-mercad/)
 - [¿Cómo crear un plan de ventas y marketing para tus servicios de Desarrollo?](https://wordpress.tv/2023/11/05/como-crear-un-plan-de-ventas-y-marketing-para-tus-servicios-de-desarrollo/)
 - [Desafiando Estereotipos: ¿Cómo convertí las críticas en combustible para el éxito?](https://wordpress.tv/2023/11/05/desafiando-estereotipos-como-converti-las-criticas-en-combustible-para-el-exito/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Te preocupa el rendimiento de tu web? No deberías estar haciendo esto …](https://wordpress.tv/2023/11/05/te-preocupa-el-rendimiento-de-tu-web-no-deberias-estar-haciendo-esto/)
 - [La combinación perfecta entre categorías, tags y contenidos](https://wordpress.tv/2023/11/05/la-combinacion-perfecta-entre-categorias-tags-y-contenidos/)
 - [Vender solo en tu tienda online NO es suficiente](https://wordpress.tv/2023/11/05/vender-solo-en-tu-tienda-online-no-es-suficiente/)
-- [Esta no es la charla de seguridad que quieres oír](https://wordpress.tv/2023/11/05/esta-no-es-la-charla-de-seguridad-que-quieres-oir/)
-- [Presente y futuro de la industria del hosting. Qué te conviene saber y qué no para tu proyecto](https://wordpress.tv/2023/11/05/presente-y-futuro-de-la-industria-del-hosting-que-te-conviene-saber-y-que-no-para-tu-proyecto/)
-- [KameHameHa! O cómo defenderse de un atacante malicioso nivel Freezer](https://wordpress.tv/2023/11/05/kamehameha-o-como-defenderse-de-un-atacante-malicioso-nivel-freezer/)
 <!-- WPTV:END -->
 
 ## Marketing
