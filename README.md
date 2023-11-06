@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Proposal: 2024 Major Release Timing](https://make.wordpress.org/core/2023/11/06/proposal-2024-major-release-timing/)
+- [WordPress 6.4 Release Candidate 4](https://make.wordpress.org/core/2023/11/06/wordpress-6-4-release-candidate-4/)
 - [WordPress 6.4 Accessibility Improvements](https://make.wordpress.org/core/2023/11/03/wordpress-6-4-accessibility-improvements/)
 - [Dev Chat Summary, November 1, 2023](https://make.wordpress.org/core/2023/11/03/dev-chat-summary-november-1-2023/)
 - [Dev Chat Summary, October 25, 2023](https://make.wordpress.org/core/2023/11/02/dev-chat-summary-october-25-2023/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: Wednesday, November 1st, 2023](https://make.wordpress.org/core/2023/11/01/editor-chat-agenda-wednesday-1-november-2023/)
 - [Performance Chat Summary: 31 October 2023](https://make.wordpress.org/core/2023/10/31/performance-chat-summary-31-october-2023/)
 - [Performance Chat Agenda: 31 October 2023](https://make.wordpress.org/core/2023/10/31/performance-chat-agenda-31-october-2023/)
-- [Call for 6.4.x Release Managers](https://make.wordpress.org/core/2023/10/30/call-for-6-4-x-release-managers/)
-- [WordPress 6.4 RC3 postponed](https://make.wordpress.org/core/2023/10/30/wordpress-6-4-rc3-postponed/)
 <!-- CORE:END -->
 
 ## Design
