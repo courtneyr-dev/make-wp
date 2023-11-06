@@ -315,6 +315,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 6 November 2023](https://make.wordpress.org/test/2023/11/06/xpost-test-team-update-6-november-2023/)
 - [X-post: Test Team Update: 30 October 2023](https://make.wordpress.org/test/2023/10/30/xpost-test-team-update-30-october-2023/)
 - [X-post: Test Team Update: 16 October 2023](https://make.wordpress.org/test/2023/10/17/xpost-test-team-update-16-october-2023/)
 - [Introducing: Test Team Reps for 2023-2024](https://make.wordpress.org/test/2023/10/16/introducing-test-team-reps-for-2023-2024/)
@@ -324,7 +325,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Help Test the Font Library](https://make.wordpress.org/test/2023/10/03/help-test-the-font-library/)
 - [X-post: Test Team Update: 2 October 2023](https://make.wordpress.org/test/2023/10/02/xpost-test-team-update-2-october-2023/)
 - [Test Team Reps: Submit Your Votes](https://make.wordpress.org/test/2023/09/27/test-team-reps-submit-your-votes/)
-- [Help Test WordPress 6.4](https://make.wordpress.org/test/2023/09/26/help-test-wordpress-6-4/)
 <!-- TEST:END -->
 
 ## TV
