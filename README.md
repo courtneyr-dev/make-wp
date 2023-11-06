@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Block Patterns](https://developer.wordpress.org/themes/features/block-patterns/)
 - [Core Concepts](https://developer.wordpress.org/themes/core-concepts/)
 - [config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
 - [Features](https://developer.wordpress.org/themes/features/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Template Hierarchy](https://developer.wordpress.org/themes/templates/template-hierarchy/)
 - [Templates](https://developer.wordpress.org/themes/templates/templates/)
 - [Introduction to Templates](https://developer.wordpress.org/themes/templates/introduction-to-templates/)
-- [Templates](https://developer.wordpress.org/themes/templates/)
 <!-- DEVHUB:END -->
 
 ## Themes
