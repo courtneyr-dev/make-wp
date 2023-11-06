@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Convierta su sitio WordPress en una app con FlutterFlow](https://wordpress.tv/2023/11/06/convierta-su-sitio-wordpress-en-una-app-con-flutterflow/)
+- [Actitudes Excepcionales de un@ Ingeniero en el área de Quality Assurance: 6 características valiosas](https://wordpress.tv/2023/11/06/actitudes-excepcionales-de-un-ingeniero-en-el-area-de-quality-assurance-6-caracteristicas-valiosas/)
+- [¿Qué es el SXO? Descubre cómo unir SEO y UX](https://wordpress.tv/2023/11/06/que-es-el-sxo-descubre-como-unir-seo-y-ux/)
+- [Sobresaliendo en el mundo digital: 7 acciones para potenciar tu marca con el marketing de influencer](https://wordpress.tv/2023/11/06/sobresaliendo-en-el-mundo-digital-7-acciones-para-potenciar-tu-marca-con-el-marketing-de-influencer/)
 - [Spreadsheet no es una shit. Sácale partido a tus hojas de cálculo de Google.](https://wordpress.tv/2023/11/06/spreadsheet-no-es-una-shit-sacale-partido-a-tus-hojas-de-calculo-de-google/)
 - [WordPress y los eventos de nueva generación: conseguir crecimiento personal mientras cultivamos comu](https://wordpress.tv/2023/11/06/wordpress-y-los-eventos-de-nueva-generacion-conseguir-crecimiento-personal-mientras-cultivamos-comu/)
 - [Construye tu carrera profesional con el Editor de Sitios de WordPress](https://wordpress.tv/2023/11/06/construye-tu-carrera-profesional-con-el-editor-de-sitios-de-wordpress/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [El camino del desarrollador WordPress](https://wordpress.tv/2023/11/05/el-camino-del-desarrollador-wordpress/)
 - [La guerrera que quería lanzar su ansiado producto](https://wordpress.tv/2023/11/05/la-guerrera-que-queria-lanzar-su-ansiado-producto/)
 - [Carga condicional de estilos y scripts](https://wordpress.tv/2023/11/05/carga-condicional-de-estilos-y-scripts/)
-- [Despedida y cierre del día](https://wordpress.tv/2023/11/05/despedida-y-cierre-del-dia/)
-- [¿Te preocupa el rendimiento de tu web? No deberías estar haciendo esto …](https://wordpress.tv/2023/11/05/te-preocupa-el-rendimiento-de-tu-web-no-deberias-estar-haciendo-esto/)
-- [La combinación perfecta entre categorías, tags y contenidos](https://wordpress.tv/2023/11/05/la-combinacion-perfecta-entre-categorias-tags-y-contenidos/)
-- [Vender solo en tu tienda online NO es suficiente](https://wordpress.tv/2023/11/05/vender-solo-en-tu-tienda-online-no-es-suficiente/)
 <!-- WPTV:END -->
 
 ## Marketing
