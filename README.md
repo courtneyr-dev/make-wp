@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Live WordPress 100% Bloc 28 septembre 2023](https://wordpress.tv/2023/11/06/live-wordpress-100-bloc-28-septembre-2023/)
+- [Introducción al blogging con WordPress y ChatGPT](https://wordpress.tv/2023/11/06/introduccion-al-blogging-con-wordpress-y-chatgpt/)
 - [Convierta su sitio WordPress en una app con FlutterFlow](https://wordpress.tv/2023/11/06/convierta-su-sitio-wordpress-en-una-app-con-flutterflow/)
 - [Actitudes Excepcionales de un@ Ingeniero en el área de Quality Assurance: 6 características valiosas](https://wordpress.tv/2023/11/06/actitudes-excepcionales-de-un-ingeniero-en-el-area-de-quality-assurance-6-caracteristicas-valiosas/)
 - [¿Qué es el SXO? Descubre cómo unir SEO y UX](https://wordpress.tv/2023/11/06/que-es-el-sxo-descubre-como-unir-seo-y-ux/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Estándares de programación WordPress](https://wordpress.tv/2023/11/05/estandares-de-programacion-wordpress/)
 - [Error 404: 10 fallos que pueden cargarse la usabilidad de tu web](https://wordpress.tv/2023/11/05/error-404-10-fallos-que-pueden-cargarse-la-usabilidad-de-tu-web/)
 - [El camino del desarrollador WordPress](https://wordpress.tv/2023/11/05/el-camino-del-desarrollador-wordpress/)
-- [La guerrera que quería lanzar su ansiado producto](https://wordpress.tv/2023/11/05/la-guerrera-que-queria-lanzar-su-ansiado-producto/)
-- [Carga condicional de estilos y scripts](https://wordpress.tv/2023/11/05/carga-condicional-de-estilos-y-scripts/)
 <!-- WPTV:END -->
 
 ## Marketing
