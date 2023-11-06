@@ -115,6 +115,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Block Variations](https://developer.wordpress.org/themes/features/block-variations/)
+- [Block Style Variations](https://developer.wordpress.org/themes/features/block-style-variations/)
+- [Block Stylesheets](https://developer.wordpress.org/themes/features/block-stylesheets/)
 - [Block Patterns](https://developer.wordpress.org/themes/features/block-patterns/)
 - [Core Concepts](https://developer.wordpress.org/themes/core-concepts/)
 - [config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
@@ -122,9 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Template Parts](https://developer.wordpress.org/themes/global-settings-and-styles/template-parts/)
 - [Custom Templates](https://developer.wordpress.org/themes/global-settings-and-styles/custom-templates/)
 - [Template Parts](https://developer.wordpress.org/themes/templates/template-parts/)
-- [Template Hierarchy](https://developer.wordpress.org/themes/templates/template-hierarchy/)
-- [Templates](https://developer.wordpress.org/themes/templates/templates/)
-- [Introduction to Templates](https://developer.wordpress.org/themes/templates/introduction-to-templates/)
 <!-- DEVHUB:END -->
 
 ## Themes
