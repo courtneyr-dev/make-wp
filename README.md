@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [SEO 101: Join The Ranks Of The Best](https://wordpress.tv/2023/11/06/seo-101-join-the-ranks-of-the-best/)
+- [Conceptos básicos de SEO y su importancia para el éxito en línea](https://wordpress.tv/2023/11/06/conceptos-basicos-de-seo-y-su-importancia-para-el-exito-en-linea/)
+- [¿Cómo un podcast puede aumentar tu tráfico web y generar leads?](https://wordpress.tv/2023/11/06/como-un-podcast-puede-aumentar-tu-trafico-web-y-generar-leads/)
 - [Comunicación consciente e intencional](https://wordpress.tv/2023/11/06/comunicacion-consciente-e-intencional/)
 - [Live WordPress 100% Bloc 28 septembre 2023](https://wordpress.tv/2023/11/06/live-wordpress-100-bloc-28-septembre-2023/)
 - [Introducción al blogging con WordPress y ChatGPT](https://wordpress.tv/2023/11/06/introduccion-al-blogging-con-wordpress-y-chatgpt/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mesa debate «Inteligencia artificial – Stranger Things»](https://wordpress.tv/2023/11/05/mesa-debate-inteligencia-artificial-stranger-things/)
 - [¿Plugin o desarrollo a medida?: Elige tu propia aventura WordPress](https://wordpress.tv/2023/11/05/plugin-o-desarrollo-a-medida-elige-tu-propia-aventura-wordpress/)
 - [¿Por qué son importantes los eventos de comunidad?](https://wordpress.tv/2023/11/05/por-que-son-importantes-los-eventos-de-comunidad/)
-- [Cómo CAPTAR a través de WhatsApp sin generar rechazo &lpar;con ayuda de ChatGPT&rpar;](https://wordpress.tv/2023/11/05/como-captar-a-traves-de-whatsapp-sin-generar-rechazo-con-ayuda-de-chatgpt/)
-- [Estándares de programación WordPress](https://wordpress.tv/2023/11/05/estandares-de-programacion-wordpress/)
-- [Error 404: 10 fallos que pueden cargarse la usabilidad de tu web](https://wordpress.tv/2023/11/05/error-404-10-fallos-que-pueden-cargarse-la-usabilidad-de-tu-web/)
 <!-- WPTV:END -->
 
 ## Marketing
