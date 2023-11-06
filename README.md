@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello, is possible translate our plugin, please?](https://make.wordpress.org/polyglots/2023/11/06/hello-is-possible-translate-our-plugin-please/)
 - [HI! I’ve just done the…](https://make.wordpress.org/polyglots/2023/11/06/hi-ive-just-done-the/)
 - [PTE Request for XO Event Calendar](https://make.wordpress.org/polyglots/2023/11/04/pte-request-for-xo-event-calendar/)
 - [PTE Request for Magic Login](https://make.wordpress.org/polyglots/2023/11/03/pte-request-for-magic-login/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Fluent Forms Plugin](https://make.wordpress.org/polyglots/2023/10/31/pte-request-for-fluent-forms-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/10/31/hi-106/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2023/10/31/pte-request-for-powered-cache-4/)
-- [Hi,](https://make.wordpress.org/polyglots/2023/10/30/hi-105/)
 <!-- POLYGLOTS:END -->
 
 ## Support
