@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Working faster with the command palette](https://wordpress.tv/2023/11/06/working-faster-with-the-command-palette/)
 - [SEO 101: Join The Ranks Of The Best](https://wordpress.tv/2023/11/06/seo-101-join-the-ranks-of-the-best/)
 - [Conceptos básicos de SEO y su importancia para el éxito en línea](https://wordpress.tv/2023/11/06/conceptos-basicos-de-seo-y-su-importancia-para-el-exito-en-linea/)
 - [¿Cómo un podcast puede aumentar tu tráfico web y generar leads?](https://wordpress.tv/2023/11/06/como-un-podcast-puede-aumentar-tu-trafico-web-y-generar-leads/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Llevando WordPress al mundo rural](https://wordpress.tv/2023/11/05/llevando-wordpress-al-mundo-rural/)
 - [Mesa debate «Inteligencia artificial – Stranger Things»](https://wordpress.tv/2023/11/05/mesa-debate-inteligencia-artificial-stranger-things/)
 - [¿Plugin o desarrollo a medida?: Elige tu propia aventura WordPress](https://wordpress.tv/2023/11/05/plugin-o-desarrollo-a-medida-elige-tu-propia-aventura-wordpress/)
-- [¿Por qué son importantes los eventos de comunidad?](https://wordpress.tv/2023/11/05/por-que-son-importantes-los-eventos-de-comunidad/)
 <!-- WPTV:END -->
 
 ## Marketing
