@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Introducing the twenty twenty-four theme](https://learn.wordpress.org/tutorial/introducing-the-twenty-twenty-four-theme/)
 - [Working faster with the command palette](https://learn.wordpress.org/tutorial/working-faster-with-the-command-palette/)
 - [Common APIs – Internationalization](https://learn.wordpress.org/tutorial/common-apis-internationalization/)
 - [વેબસાઇટ સુરક્ષા સુધારવા માટે 7 ટિપ્સ](https://learn.wordpress.org/tutorial/gu-7-tips-to-improve-website-security/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to create a video tutorial for learn.wordpress.org](https://learn.wordpress.org/tutorial/how-to-create-a-video-tutorial-for-learn-wordpress-org/)
 - [Embedding media and third-party content on your website](https://learn.wordpress.org/tutorial/embedding-media-and-third-party-content-on-your-website/)
 - [Testing your plugins for PHP version compatibility](https://learn.wordpress.org/tutorial/testing-your-plugins-for-php-version-compatibility/)
-- [Exploring WordPress 6.3](https://learn.wordpress.org/tutorial/exploring-wordpress-6-3/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
