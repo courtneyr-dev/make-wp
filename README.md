@@ -548,6 +548,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Udaipur, Rajasthan, India](https://central.wordcamp.org/wordcamps/wordcamp-udaipur-rajasthan-india-4/)
 - [Community Building Workshop Japan](https://central.wordcamp.org/wordcamps/community-building-workshop-japan/)
 - [Rome Community Day 2023](https://central.wordcamp.org/wordcamps/wordcamp-rome-2/)
+- [WordPress Web Challenge](https://central.wordcamp.org/wordcamps/wordcamp-jakarta-3/)
 - [WordCamp Hong Kong](https://central.wordcamp.org/wordcamps/wordcamp-hong-kong-2/)
 - [WordCamp Torrelodones 2024](https://central.wordcamp.org/wordcamps/wordcamp-torrelodones/)
 - [WordCamp Lahore, Punjab, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-lahore-punjab/)
@@ -558,7 +559,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Islamabad, Federal Govt, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-federal-govt-pakistan/)
 - [WordCamp Kansai 2024](https://central.wordcamp.org/wordcamps/wordcamp-kansai-2024/)
 - [WordCamp Ahmedabad, Gujarat, India](https://central.wordcamp.org/wordcamps/wordcamp-ahmedabad-gujarat-india-3/)
-- [WordCamp Mumbai 2023](https://central.wordcamp.org/wordcamps/wordcamp-mumbai-2023/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
