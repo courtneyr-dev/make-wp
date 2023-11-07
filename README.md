@@ -286,6 +286,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Live stream: Block Developer Cookbook: Block Deprecations](https://learn.wordpress.org/?meeting=live-stream-block-developer-cookbook-block-deprecations)
+- [Live stream: Reviewing Gutenberg 17.1](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-17-1)
+- [Live stream: Reviewing Gutenberg 17.0](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-17-0)
 - [Live stream: Block Developer Cookbook: E2E tests with Playwright](https://learn.wordpress.org/?meeting=live-stream-block-developer-cookbook-e2e-tests-with-playwright)
 - [Developer Hours: Modern WordPress development with the wp-scripts package](https://learn.wordpress.org/?meeting=developer-hours-modern-wordpress-development-with-the-wp-scripts-package)
 - [Developer Hours: How to extend core WordPress blocks](https://learn.wordpress.org/?meeting=developer-hours-how-to-extend-core-wordpress-blocks)
@@ -308,9 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Common APIs – Settings](https://learn.wordpress.org/?meeting=common-apis-settings)
 - [Developer Hours: Building better blocks with the ‘create-block’ package](https://learn.wordpress.org/?meeting=developer-hours-building-better-blocks-with-the-create-block-package)
 - [A Brief History of WordPress](https://learn.wordpress.org/?meeting=a-brief-history-of-wordpress-4)
-- [APAC: Building a home page](https://learn.wordpress.org/?meeting=apac-building-a-home-page)
-- [Building a home page](https://learn.wordpress.org/?meeting=building-a-home-page)
-- [GPL in the WordPress Training Team’s Vetting Processes](https://learn.wordpress.org/?meeting=gpl-in-the-wordpress-training-teams-vetting-processes-2)
 <!-- SLS:END -->
 
 ## Test
