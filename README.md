@@ -399,6 +399,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [Nominations for Hosting Team Reps 2024](https://make.wordpress.org/hosting/2023/11/01/nominations-for-hosting-team-reps-2024/)
 - [Hosting Team meeting agenda 2023-11-01](https://make.wordpress.org/hosting/2023/10/31/hosting-team-meeting-agenda-2023-11-01/)
 - [Hosting Team meeting agenda 2023-10-11](https://make.wordpress.org/hosting/2023/10/11/hosting-team-meeting-agenda-2023-10-11/)
 - [WordPress 6.3 PHP Compatibility](https://make.wordpress.org/hosting/2023/10/11/wordpress-6-3-php-compatibility/)
@@ -408,7 +409,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit Discussion Notes: PHP version support](https://make.wordpress.org/hosting/2023/09/03/xpost-community-summit-discussion-notes-php-version-support/)
 - [Hosting Team Meeting Agenda 8-16-2023](https://make.wordpress.org/hosting/2023/08/16/hosting-team-meeting-agenda-8-16-2023/)
 - [Hosting Team meeting agenda 2023-08-02](https://make.wordpress.org/hosting/2023/08/02/hosting-team-meeting-agenda-2023-08-02/)
-- [Hosting Team meeting agenda 2023-07-26](https://make.wordpress.org/hosting/2023/07/26/hosting-team-meeting-agenda-2023-07-26/)
 <!-- HOSTING:END -->
 
 ## Tide
