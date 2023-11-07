@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Exploring WordPress 6.4](https://wordpress.tv/2023/11/06/exploring-wordpress-6-4/)
 - [Introducing the twenty twenty-four theme](https://wordpress.tv/2023/11/06/introducing-the-twenty-twenty-four-theme/)
 - [Working faster with the command palette](https://wordpress.tv/2023/11/06/working-faster-with-the-command-palette/)
 - [SEO 101: Join The Ranks Of The Best](https://wordpress.tv/2023/11/06/seo-101-join-the-ranks-of-the-best/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Cómo conseguir que acepten tu presupuesto?](https://wordpress.tv/2023/11/05/como-conseguir-que-acepten-tu-presupuesto/)
 - [La IA como tu colaborador creativo: Rompiendo mitos](https://wordpress.tv/2023/11/05/la-ia-como-tu-colaborador-creativo-rompiendo-mitos/)
 - [Llevando WordPress al mundo rural](https://wordpress.tv/2023/11/05/llevando-wordpress-al-mundo-rural/)
-- [Mesa debate «Inteligencia artificial – Stranger Things»](https://wordpress.tv/2023/11/05/mesa-debate-inteligencia-artificial-stranger-things/)
 <!-- WPTV:END -->
 
 ## Marketing
