@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [CBWJ #4 多様な登壇者を増やすには：取り組みの紹介とディスカッション](https://wordpress.tv/2023/11/07/community-building-workshop-japan-004/)
 - [Exploring WordPress 6.4](https://wordpress.tv/2023/11/06/exploring-wordpress-6-4/)
 - [Introducing the twenty twenty-four theme](https://wordpress.tv/2023/11/06/introducing-the-twenty-twenty-four-theme/)
 - [Working faster with the command palette](https://wordpress.tv/2023/11/06/working-faster-with-the-command-palette/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo crear un embudo &lpar;FUNNEL&rpar; de ventas con WordPress](https://wordpress.tv/2023/11/05/como-crear-un-embudo-funnel-de-ventas-con-wordpress/)
 - [¿Cómo conseguir que acepten tu presupuesto?](https://wordpress.tv/2023/11/05/como-conseguir-que-acepten-tu-presupuesto/)
 - [La IA como tu colaborador creativo: Rompiendo mitos](https://wordpress.tv/2023/11/05/la-ia-como-tu-colaborador-creativo-rompiendo-mitos/)
-- [Llevando WordPress al mundo rural](https://wordpress.tv/2023/11/05/llevando-wordpress-al-mundo-rural/)
 <!-- WPTV:END -->
 
 ## Marketing
