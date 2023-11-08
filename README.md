@@ -342,6 +342,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress はどこから来たのか WordPress は何者か WordPress はどこへ行くのか](https://wordpress.tv/2023/11/07/where-did-wordpress-come-from-what-is-wordpress-where-is-wordpress-heading/)
+- [これからの WordPress テーマとの付き合い方](https://wordpress.tv/2023/11/07/how-to-deal-with-wordpress-themes-in-the-future/)
+- [私たちが WordPress を使い続けられる理由](https://wordpress.tv/2023/11/07/why-are-we-able-to-continue-to-use-wordpress/)
+- [環境変化の激しい WordPress のメンテナンスをどう考えるか](https://wordpress.tv/2023/11/07/how-to-maintain-wordpress-in-a-rapidly-changing-environment/)
+- [これからのテーマ・プラグイン販売を考える](https://wordpress.tv/2023/11/07/thinking-about-future-of-theme-and-plugin-sales/)
+- [大規模言語モデルではじめる自動化 ー LLM は WordPress 制作・運用をどう変えるのか？](https://wordpress.tv/2023/11/07/automation-starting-with-a-large-language-model/)
+- [WordPress コアや Gutenberg では今何が開発されているか](https://wordpress.tv/2023/11/07/what-i-being-recently-developed-in-wordpress-core-and-gutenberg/)
 - [CBWJ #4 多様な登壇者を増やすには：取り組みの紹介とディスカッション](https://wordpress.tv/2023/11/07/community-building-workshop-japan-004/)
 - [Exploring WordPress 6.4](https://wordpress.tv/2023/11/06/exploring-wordpress-6-4/)
 - [Introducing the twenty twenty-four theme](https://wordpress.tv/2023/11/06/introducing-the-twenty-twenty-four-theme/)
@@ -360,13 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress y los eventos de nueva generación: conseguir crecimiento personal mientras cultivamos comu](https://wordpress.tv/2023/11/06/wordpress-y-los-eventos-de-nueva-generacion-conseguir-crecimiento-personal-mientras-cultivamos-comu/)
 - [Construye tu carrera profesional con el Editor de Sitios de WordPress](https://wordpress.tv/2023/11/06/construye-tu-carrera-profesional-con-el-editor-de-sitios-de-wordpress/)
 - [Diseñar local e impactar global: anotaciones para encontrar tu propia valía en mercad](https://wordpress.tv/2023/11/05/disenar-local-e-impactar-global-anotaciones-para-encontrar-tu-propia-valia-en-mercad/)
-- [¿Cómo crear un plan de ventas y marketing para tus servicios de Desarrollo?](https://wordpress.tv/2023/11/05/como-crear-un-plan-de-ventas-y-marketing-para-tus-servicios-de-desarrollo/)
-- [Desafiando Estereotipos: ¿Cómo convertí las críticas en combustible para el éxito?](https://wordpress.tv/2023/11/05/desafiando-estereotipos-como-converti-las-criticas-en-combustible-para-el-exito/)
-- [La importancia de los custom post types](https://wordpress.tv/2023/11/05/la-importancia-de-los-custom-post-types/)
-- [Caralladas con Google: Buenas prácticas de SEO y WordPress](https://wordpress.tv/2023/11/05/caralladas-con-google-buenas-practicas-de-seo-y-wordpress/)
-- [Cómo crear un embudo &lpar;FUNNEL&rpar; de ventas con WordPress](https://wordpress.tv/2023/11/05/como-crear-un-embudo-funnel-de-ventas-con-wordpress/)
-- [¿Cómo conseguir que acepten tu presupuesto?](https://wordpress.tv/2023/11/05/como-conseguir-que-acepten-tu-presupuesto/)
-- [La IA como tu colaborador creativo: Rompiendo mitos](https://wordpress.tv/2023/11/05/la-ia-como-tu-colaborador-creativo-rompiendo-mitos/)
 <!-- WPTV:END -->
 
 ## Marketing
