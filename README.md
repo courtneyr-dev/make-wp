@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested Portuguese translations for…](https://make.wordpress.org/polyglots/2023/11/08/ive-suggested-portuguese-translations-for/)
 - [PTE Request for Taza](https://make.wordpress.org/polyglots/2023/11/08/pte-request-for-taza/)
 - [Hello Polyglots, I’d like to…](https://make.wordpress.org/polyglots/2023/11/07/hello-polyglots-id-like-to-2/)
 - [Hello, is possible translate our plugin, please?](https://make.wordpress.org/polyglots/2023/11/06/hello-is-possible-translate-our-plugin-please/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Apply to become GTE #zh_cn…](https://make.wordpress.org/polyglots/2023/11/03/apply-to-become-gte-zh_cn/)
 - [Hey. Hey,](https://make.wordpress.org/polyglots/2023/11/02/hey-hey/)
 - [Agenda: Weekly Polyglots Chat- November 01, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/01/agenda-weekly-polyglots-chat-november-01-2023-700-utc/)
-- [PTE Request for Fluent Forms Plugin](https://make.wordpress.org/polyglots/2023/10/31/pte-request-for-fluent-forms-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
