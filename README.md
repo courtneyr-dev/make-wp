@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat- November 8, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/08/agenda-weekly-polyglots-chat-november-8-2023-1300-utc/)
 - [I’ve suggested Portuguese translations for…](https://make.wordpress.org/polyglots/2023/11/08/ive-suggested-portuguese-translations-for/)
 - [PTE Request for Taza](https://make.wordpress.org/polyglots/2023/11/08/pte-request-for-taza/)
 - [Hello Polyglots, I’d like to…](https://make.wordpress.org/polyglots/2023/11/07/hello-polyglots-id-like-to-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Magic Login](https://make.wordpress.org/polyglots/2023/11/03/pte-request-for-magic-login/)
 - [Apply to become GTE #zh_cn…](https://make.wordpress.org/polyglots/2023/11/03/apply-to-become-gte-zh_cn/)
 - [Hey. Hey,](https://make.wordpress.org/polyglots/2023/11/02/hey-hey/)
-- [Agenda: Weekly Polyglots Chat- November 01, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/01/agenda-weekly-polyglots-chat-november-01-2023-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
