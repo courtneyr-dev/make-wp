@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [_wp_footnotes_kses_init&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_footnotes_kses_init/)
-- [_wp_footnotes_force_filtered_html_on_import_filter&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_footnotes_force_filtered_html_on_import_filter/)
-- [_wp_footnotes_remove_filters&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_footnotes_remove_filters/)
-- [_wp_footnotes_kses_init_filters&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_footnotes_kses_init_filters/)
-- [_wp_filter_post_meta_footnotes&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_filter_post_meta_footnotes/)
-- [traverse_and_serialize_blocks&lpar;&rpar;](https://developer.wordpress.org/reference/functions/traverse_and_serialize_blocks/)
-- [traverse_and_serialize_block&lpar;&rpar;](https://developer.wordpress.org/reference/functions/traverse_and_serialize_block/)
-- [make_after_block_visitor&lpar;&rpar;](https://developer.wordpress.org/reference/functions/make_after_block_visitor/)
-- [hooked_block_types](https://developer.wordpress.org/reference/hooks/hooked_block_types/)
-- [make_before_block_visitor&lpar;&rpar;](https://developer.wordpress.org/reference/functions/make_before_block_visitor/)
+- [wp_print_font_faces&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_print_font_faces/)
+- [wp_admin_notice_args](https://developer.wordpress.org/reference/hooks/wp_admin_notice_args/)
+- [wp_admin_notice_markup](https://developer.wordpress.org/reference/hooks/wp_admin_notice_markup/)
+- [wp_admin_notice&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_admin_notice/)
+- [wp_admin_notice](https://developer.wordpress.org/reference/hooks/wp_admin_notice/)
+- [wp_get_admin_notice&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_admin_notice/)
+- [wp_unique_prefixed_id&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_unique_prefixed_id/)
+- [wp_trigger_error&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_trigger_error/)
+- [wp_trigger_error_run](https://developer.wordpress.org/reference/hooks/wp_trigger_error_run/)
+- [deprecated_class_trigger_error](https://developer.wordpress.org/reference/hooks/deprecated_class_trigger_error/)
 <!-- DEVHUB:END -->
 
 ## Themes
