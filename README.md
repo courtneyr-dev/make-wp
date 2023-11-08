@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Block Variations](https://developer.wordpress.org/themes/features/block-variations/)
-- [Block Style Variations](https://developer.wordpress.org/themes/features/block-style-variations/)
-- [Block Stylesheets](https://developer.wordpress.org/themes/features/block-stylesheets/)
-- [Block Patterns](https://developer.wordpress.org/themes/features/block-patterns/)
-- [Core Concepts](https://developer.wordpress.org/themes/core-concepts/)
-- [config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
-- [Features](https://developer.wordpress.org/themes/features/)
-- [Template Parts](https://developer.wordpress.org/themes/global-settings-and-styles/template-parts/)
-- [Custom Templates](https://developer.wordpress.org/themes/global-settings-and-styles/custom-templates/)
-- [Template Parts](https://developer.wordpress.org/themes/templates/template-parts/)
+- [_wp_footnotes_kses_init&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_footnotes_kses_init/)
+- [_wp_footnotes_force_filtered_html_on_import_filter&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_footnotes_force_filtered_html_on_import_filter/)
+- [_wp_footnotes_remove_filters&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_footnotes_remove_filters/)
+- [_wp_footnotes_kses_init_filters&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_footnotes_kses_init_filters/)
+- [_wp_filter_post_meta_footnotes&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_filter_post_meta_footnotes/)
+- [traverse_and_serialize_blocks&lpar;&rpar;](https://developer.wordpress.org/reference/functions/traverse_and_serialize_blocks/)
+- [traverse_and_serialize_block&lpar;&rpar;](https://developer.wordpress.org/reference/functions/traverse_and_serialize_block/)
+- [make_after_block_visitor&lpar;&rpar;](https://developer.wordpress.org/reference/functions/make_after_block_visitor/)
+- [hooked_block_types](https://developer.wordpress.org/reference/hooks/hooked_block_types/)
+- [make_before_block_visitor&lpar;&rpar;](https://developer.wordpress.org/reference/functions/make_before_block_visitor/)
 <!-- DEVHUB:END -->
 
 ## Themes
