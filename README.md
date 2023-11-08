@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Merging Performant Translations into Core](https://make.wordpress.org/core/2023/11/08/merging-performant-translations-into-core/)
+- [Dev Chat agenda, November 8, 2023](https://make.wordpress.org/core/2023/11/08/dev-chat-agenda-november-8-2023/)
 - [Performance Chat Summary: 7 November 2023](https://make.wordpress.org/core/2023/11/07/performance-chat-summary-07-november-2023/)
 - [Proposal: cancel core editor chat](https://make.wordpress.org/core/2023/11/07/proposal-cancel-core-editor-chat/)
 - [Performance Chat Agenda: 7 November 2023](https://make.wordpress.org/core/2023/11/07/performance-chat-agenda-07-november-2023/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.4 Release Candidate 4](https://make.wordpress.org/core/2023/11/06/wordpress-6-4-release-candidate-4/)
 - [WordPress 6.4 Accessibility Improvements](https://make.wordpress.org/core/2023/11/03/wordpress-6-4-accessibility-improvements/)
 - [Dev Chat Summary, November 1, 2023](https://make.wordpress.org/core/2023/11/03/dev-chat-summary-november-1-2023/)
-- [Dev Chat Summary, October 25, 2023](https://make.wordpress.org/core/2023/11/02/dev-chat-summary-october-25-2023/)
-- [Hallway Hangout: Issues Triage Extending Gutenberg](https://make.wordpress.org/core/2023/11/02/hallway-hangout-issues-triage-extending-gutenberg/)
 <!-- CORE:END -->
 
 ## Design
