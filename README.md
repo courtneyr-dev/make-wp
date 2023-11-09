@@ -59,7 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/11/09/hi-dear-mentors-we-have-126/)
+- [PTE Request for IA Salt Regeneration](https://make.wordpress.org/polyglots/2023/11/09/pte-request-for-ia-salt-regeneration/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/11/09/hi-dear-mentors-we-have-125/)
 - [PTE Request for Notifadz by…](https://make.wordpress.org/polyglots/2023/11/08/pte-request-for-notifadz-by/)
 - [Agenda: Weekly Polyglots Chat- November 8, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/08/agenda-weekly-polyglots-chat-november-8-2023-1300-utc/)
