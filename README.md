@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.4.1 Maintenance Release](https://wordpress.org/news/2023/11/wordpress-6-4-1-maintenance-release/)
 - [WordPress 6.4 “Shirley”](https://wordpress.org/news/2023/11/shirley/)
 - [WordPress 6.4 Release Candidate 3](https://wordpress.org/news/2023/11/wordpress-6-4-release-candidate-3/)
 - [WP Briefing: Episode 65: Little Sun Success](https://wordpress.org/news/2023/10/episode-65-little-sun-success/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A New WordPress Showcase](https://wordpress.org/news/2023/10/a-new-wordpress-showcase/)
 - [WordPress 6.4 Release Candidate 1](https://wordpress.org/news/2023/10/wordpress-6-4-release-candidate-1/)
 - [WP Briefing: Episode 64: Patterns in WordPress](https://wordpress.org/news/2023/10/episode-64-patterns-in-wordpress/)
-- [WordPress 6.3.2 – Maintenance and Security release](https://wordpress.org/news/2023/10/wordpress-6-3-2-maintenance-and-security-release/)
 <!-- NEWS:END -->
 
 ## Jobs
