@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Crea tu primer bloque de Gutenberg desde cero](https://wordpress.tv/2023/11/09/crea-tu-primer-bloque-de-gutenberg-desde-cero/)
+- [De la idea al lanzamiento: Configurar páginas de landing, thank you y registro efectivas en WordPress](https://wordpress.tv/2023/11/09/de-la-idea-al-lanzamiento-como-configurar-paginas-de-landing-thank-you-y-registro-efectivas-en-wor/)
+- [Automatizar procesos de diseño con WordPress / WooCommerce](https://wordpress.tv/2023/11/09/automatizar-procesos-de-diseno-con-wordpress-woocommerce/)
+- [Configuración avanzada del plugin de facturación «PDF Invoices &amp; Packing Slips for WooCommerce»](https://wordpress.tv/2023/11/09/configuracion-avanzada-del-plugin-de-facturacion-pdf-invoices-packing-slips-for-woocommerce/)
+- [¿Creamos una academia online en directo?](https://wordpress.tv/2023/11/09/creamos-una-academia-online-en-directo/)
+- [Herramientas de desarrollo del navegador: un viaje al interior de tu web](https://wordpress.tv/2023/11/09/herramientas-de-desarrollo-del-navegador-un-viaje-al-interior-de-tu-web/)
 - [WordPress はどこから来たのか WordPress は何者か WordPress はどこへ行くのか](https://wordpress.tv/2023/11/07/where-did-wordpress-come-from-what-is-wordpress-where-is-wordpress-heading/)
 - [これからの WordPress テーマとの付き合い方](https://wordpress.tv/2023/11/07/how-to-deal-with-wordpress-themes-in-the-future/)
 - [私たちが WordPress を使い続けられる理由](https://wordpress.tv/2023/11/07/why-are-we-able-to-continue-to-use-wordpress/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducción al blogging con WordPress y ChatGPT](https://wordpress.tv/2023/11/06/introduccion-al-blogging-con-wordpress-y-chatgpt/)
 - [Convierta su sitio WordPress en una app con FlutterFlow](https://wordpress.tv/2023/11/06/convierta-su-sitio-wordpress-en-una-app-con-flutterflow/)
 - [Actitudes Excepcionales de un@ Ingeniero en el área de Quality Assurance: 6 características valiosas](https://wordpress.tv/2023/11/06/actitudes-excepcionales-de-un-ingeniero-en-el-area-de-quality-assurance-6-caracteristicas-valiosas/)
-- [¿Qué es el SXO? Descubre cómo unir SEO y UX](https://wordpress.tv/2023/11/06/que-es-el-sxo-descubre-como-unir-seo-y-ux/)
-- [Sobresaliendo en el mundo digital: 7 acciones para potenciar tu marca con el marketing de influencer](https://wordpress.tv/2023/11/06/sobresaliendo-en-el-mundo-digital-7-acciones-para-potenciar-tu-marca-con-el-marketing-de-influencer/)
-- [Spreadsheet no es una shit. Sácale partido a tus hojas de cálculo de Google.](https://wordpress.tv/2023/11/06/spreadsheet-no-es-una-shit-sacale-partido-a-tus-hojas-de-calculo-de-google/)
-- [WordPress y los eventos de nueva generación: conseguir crecimiento personal mientras cultivamos comu](https://wordpress.tv/2023/11/06/wordpress-y-los-eventos-de-nueva-generacion-conseguir-crecimiento-personal-mientras-cultivamos-comu/)
-- [Construye tu carrera profesional con el Editor de Sitios de WordPress](https://wordpress.tv/2023/11/06/construye-tu-carrera-profesional-con-el-editor-de-sitios-de-wordpress/)
-- [Diseñar local e impactar global: anotaciones para encontrar tu propia valía en mercad](https://wordpress.tv/2023/11/05/disenar-local-e-impactar-global-anotaciones-para-encontrar-tu-propia-valia-en-mercad/)
 <!-- WPTV:END -->
 
 ## Marketing
