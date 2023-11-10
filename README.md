@@ -116,15 +116,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Developer Articles
 <!-- DEVHUB:START -->
 - [wp_print_font_faces&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_print_font_faces/)
-- [wp_admin_notice_args](https://developer.wordpress.org/reference/hooks/wp_admin_notice_args/)
-- [wp_admin_notice_markup](https://developer.wordpress.org/reference/hooks/wp_admin_notice_markup/)
 - [wp_admin_notice&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_admin_notice/)
 - [wp_admin_notice](https://developer.wordpress.org/reference/hooks/wp_admin_notice/)
+- [wp_admin_notice_markup](https://developer.wordpress.org/reference/hooks/wp_admin_notice_markup/)
+- [wp_admin_notice_args](https://developer.wordpress.org/reference/hooks/wp_admin_notice_args/)
 - [wp_get_admin_notice&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_admin_notice/)
 - [wp_unique_prefixed_id&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_unique_prefixed_id/)
 - [wp_trigger_error&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_trigger_error/)
 - [wp_trigger_error_run](https://developer.wordpress.org/reference/hooks/wp_trigger_error_run/)
-- [deprecated_class_trigger_error](https://developer.wordpress.org/reference/hooks/deprecated_class_trigger_error/)
+- [deprecated_class_run](https://developer.wordpress.org/reference/hooks/deprecated_class_run/)
 <!-- DEVHUB:END -->
 
 ## Themes
