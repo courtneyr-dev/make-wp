@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [New WordPress Developer APIs: The HTML API](https://learn.wordpress.org/?meeting=new-wordpress-developer-apis-the-html-api)
 - [WordPress 6.4 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-4-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
 - [Live stream: Block Developer Cookbook: Block Deprecations](https://learn.wordpress.org/?meeting=live-stream-block-developer-cookbook-block-deprecations)
 - [Live stream: Reviewing Gutenberg 17.1](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-17-1)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team)
 - [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress-2)
 - [Common APIs – Settings](https://learn.wordpress.org/?meeting=common-apis-settings)
-- [Developer Hours: Building better blocks with the ‘create-block’ package](https://learn.wordpress.org/?meeting=developer-hours-building-better-blocks-with-the-create-block-package)
 <!-- SLS:END -->
 
 ## Test
