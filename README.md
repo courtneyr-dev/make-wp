@@ -385,6 +385,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [Twenty-One Merged PRs for WP-CLI Hack Day 2023](https://make.wordpress.org/cli/2023/11/11/twenty-one-merged-prs-for-wp-cli-hack-day-2023/)
 - [WP-CLI v2.9.0 Release Notes](https://make.wordpress.org/cli/2023/10/25/wp-cli-v2-9-0-release-notes/)
 - [Save the date! WP-CLI Hack Day on Friday, November 10th](https://make.wordpress.org/cli/2023/10/18/save-the-date-wp-cli-hack-day-on-friday-november-10th/)
 - [WP-CLI v2.9.0 release date: October 25th](https://make.wordpress.org/cli/2023/10/12/wp-cli-v2-9-0-release-date-october-25th/)
@@ -394,7 +395,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/cli/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/cli/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [WP-CLI v2.8.0 release date](https://make.wordpress.org/cli/2023/04/05/wp-cli-v2-8-0-release-date/)
-- [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/cli/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 <!-- CLI:END -->
 
 ## Hosting
