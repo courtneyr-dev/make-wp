@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [The Month in WordPress – October 2023](https://wordpress.org/news/2023/11/the-month-in-wordpress-october-2023/)
 - [WordPress 6.4.1 Maintenance Release](https://wordpress.org/news/2023/11/wordpress-6-4-1-maintenance-release/)
 - [WordPress 6.4 “Shirley”](https://wordpress.org/news/2023/11/shirley/)
 - [WordPress 6.4 Release Candidate 3](https://wordpress.org/news/2023/11/wordpress-6-4-release-candidate-3/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [State of the Word 2023 – Save the Date](https://wordpress.org/news/2023/10/state-of-the-word-2023/)
 - [A New WordPress Showcase](https://wordpress.org/news/2023/10/a-new-wordpress-showcase/)
 - [WordPress 6.4 Release Candidate 1](https://wordpress.org/news/2023/10/wordpress-6-4-release-candidate-1/)
-- [WP Briefing: Episode 64: Patterns in WordPress](https://wordpress.org/news/2023/10/episode-64-patterns-in-wordpress/)
 <!-- NEWS:END -->
 
 ## Jobs
