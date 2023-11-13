@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Las decisiones que tuve que tomar como desarrolladora y clienta de mi propio proyecto](https://wordpress.tv/2023/11/13/las-decisiones-que-tuve-que-tomar-como-desarrolladora-y-clienta-de-mi-propio-proyecto/)
+- [Gestionar un marketplace con WooCommerce + Airtable &lpar;Caso Práctico&rpar;](https://wordpress.tv/2023/11/13/gestionar-un-marketplace-con-woocommerce-airtable-caso-practico/)
+- [CSS defensivo para contenido agresivo](https://wordpress.tv/2023/11/13/css-defensivo-para-contenido-agresivo/)
+- [Metodologías ágiles en la gestión de proyectos &lpar;scrum&rpar;](https://wordpress.tv/2023/11/13/metodologias-agiles-en-la-gestion-de-proyectos-scrum/)
+- [DFIR: La realidad de la informática forense](https://wordpress.tv/2023/11/13/dfir-la-realidad-de-la-informatica-forense/)
+- [WordPressINT](https://wordpress.tv/2023/11/13/wordpressint/)
 - [«Legal Fit»: cómo poner en forma tu web y Maximizar tu Éxito Online](https://wordpress.tv/2023/11/13/legal-fit-como-poner-en-forma-tu-web-y-maximizar-tu-exito-online/)
 - [Herramientas para gestionar una tienda online en WooCommerce](https://wordpress.tv/2023/11/13/herramientas-para-gestionar-una-tienda-online-en-woocommerce/)
 - [¿Por qué las páginas webs japonesas son tan diferentes?](https://wordpress.tv/2023/11/13/por-que-las-paginas-webs-japonesas-son-tan-diferentes/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress コアや Gutenberg では今何が開発されているか](https://wordpress.tv/2023/11/07/what-i-being-recently-developed-in-wordpress-core-and-gutenberg/)
 - [CBWJ #4 多様な登壇者を増やすには：取り組みの紹介とディスカッション](https://wordpress.tv/2023/11/07/community-building-workshop-japan-004/)
 - [Exploring WordPress 6.4](https://wordpress.tv/2023/11/06/exploring-wordpress-6-4/)
-- [Introducing the twenty twenty-four theme](https://wordpress.tv/2023/11/06/introducing-the-twenty-twenty-four-theme/)
-- [Working faster with the command palette](https://wordpress.tv/2023/11/06/working-faster-with-the-command-palette/)
-- [SEO 101: Join The Ranks Of The Best](https://wordpress.tv/2023/11/06/seo-101-join-the-ranks-of-the-best/)
-- [Conceptos básicos de SEO y su importancia para el éxito en línea](https://wordpress.tv/2023/11/06/conceptos-basicos-de-seo-y-su-importancia-para-el-exito-en-linea/)
-- [¿Cómo un podcast puede aumentar tu tráfico web y generar leads?](https://wordpress.tv/2023/11/06/como-un-podcast-puede-aumentar-tu-trafico-web-y-generar-leads/)
-- [Comunicación consciente e intencional](https://wordpress.tv/2023/11/06/comunicacion-consciente-e-intencional/)
 <!-- WPTV:END -->
 
 ## Marketing
