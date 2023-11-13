@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Los secretos para hacer del mantenimiento web tu mejor negocio](https://wordpress.tv/2023/11/13/los-secretos-para-hacer-del-mantenimiento-web-tu-mejor-negocio/)
 - [Crea tu primer bloque de Gutenberg desde cero](https://wordpress.tv/2023/11/09/crea-tu-primer-bloque-de-gutenberg-desde-cero/)
 - [De la idea al lanzamiento: Configurar páginas de landing, thank you y registro efectivas en WordPress](https://wordpress.tv/2023/11/09/de-la-idea-al-lanzamiento-como-configurar-paginas-de-landing-thank-you-y-registro-efectivas-en-wor/)
 - [Automatizar procesos de diseño con WordPress / WooCommerce](https://wordpress.tv/2023/11/09/automatizar-procesos-de-diseno-con-wordpress-woocommerce/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live WordPress 100% Bloc 28 septembre 2023](https://wordpress.tv/2023/11/06/live-wordpress-100-bloc-28-septembre-2023/)
 - [Introducción al blogging con WordPress y ChatGPT](https://wordpress.tv/2023/11/06/introduccion-al-blogging-con-wordpress-y-chatgpt/)
 - [Convierta su sitio WordPress en una app con FlutterFlow](https://wordpress.tv/2023/11/06/convierta-su-sitio-wordpress-en-una-app-con-flutterflow/)
-- [Actitudes Excepcionales de un@ Ingeniero en el área de Quality Assurance: 6 características valiosas](https://wordpress.tv/2023/11/06/actitudes-excepcionales-de-un-ingeniero-en-el-area-de-quality-assurance-6-caracteristicas-valiosas/)
 <!-- WPTV:END -->
 
 ## Marketing
