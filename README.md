@@ -342,6 +342,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2023/11/13/bienvenida-a-la-wordcamp-valencia-2/)
+- [Factores críticos para mejorar el SEO de tu WordPress y superar a la competencia](https://wordpress.tv/2023/11/13/factores-criticos-para-mejorar-el-seo-de-tu-wordpress-y-superar-a-la-competencia/)
+- [¿Conoces la fórmula perfecta para construir tu marca personal?](https://wordpress.tv/2023/11/13/conoces-la-formula-perfecta-para-construir-tu-marca-personal/)
+- [SEO local, así recomienda Google los negocios de la zona](https://wordpress.tv/2023/11/13/seo-local-asi-recomienda-google-los-negocios-de-la-zona/)
+- [Cierre de la WordCamp Valencia 2023 – Agradecimientos](https://wordpress.tv/2023/11/13/cierre-de-la-wordcamp-valencia-2023-agradecimientos/)
 - [Arrêtez d’écrire du PHP, passez au Full Site Editing !](https://wordpress.tv/2023/11/13/arretez-decrire-du-php-passez-au-full-site-editing/)
 - [Como hacer SEO sin gastarte un p*to euro](https://wordpress.tv/2023/11/13/como-hacer-seo-sin-gastarte-un-pto-euro/)
 - [WordPress en Docker. Instalación, configuración y mantenimiento,… pero fácil](https://wordpress.tv/2023/11/13/wordpress-en-docker-instalacion-configuracion-y-mantenimiento-pero-facil/)
@@ -362,11 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crea tu primer bloque de Gutenberg desde cero](https://wordpress.tv/2023/11/09/crea-tu-primer-bloque-de-gutenberg-desde-cero/)
 - [De la idea al lanzamiento: Configurar páginas de landing, thank you y registro efectivas en WordPress](https://wordpress.tv/2023/11/09/de-la-idea-al-lanzamiento-como-configurar-paginas-de-landing-thank-you-y-registro-efectivas-en-wor/)
 - [Automatizar procesos de diseño con WordPress / WooCommerce](https://wordpress.tv/2023/11/09/automatizar-procesos-de-diseno-con-wordpress-woocommerce/)
-- [Configuración avanzada del plugin de facturación «PDF Invoices &amp; Packing Slips for WooCommerce»](https://wordpress.tv/2023/11/09/configuracion-avanzada-del-plugin-de-facturacion-pdf-invoices-packing-slips-for-woocommerce/)
-- [¿Creamos una academia online en directo?](https://wordpress.tv/2023/11/09/creamos-una-academia-online-en-directo/)
-- [Herramientas de desarrollo del navegador: un viaje al interior de tu web](https://wordpress.tv/2023/11/09/herramientas-de-desarrollo-del-navegador-un-viaje-al-interior-de-tu-web/)
-- [WordPress はどこから来たのか WordPress は何者か WordPress はどこへ行くのか](https://wordpress.tv/2023/11/07/where-did-wordpress-come-from-what-is-wordpress-where-is-wordpress-heading/)
-- [これからの WordPress テーマとの付き合い方](https://wordpress.tv/2023/11/07/how-to-deal-with-wordpress-themes-in-the-future/)
 <!-- WPTV:END -->
 
 ## Marketing
