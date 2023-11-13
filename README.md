@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2023/11/13/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once/)
+- [Demystifying Decoupled WordPress With Next.js](https://wordpress.tv/2023/11/13/demystifying-decoupled-wordpress-with-next-js/)
+- [Exploring block themes](https://wordpress.tv/2023/11/13/exploring-block-themes/)
+- [Tailwind CSS for WordPress Developers](https://wordpress.tv/2023/11/13/tailwind-css-for-wordpress-developers/)
+- [Accessible Websites Benefit Everyone](https://wordpress.tv/2023/11/13/accessible-websites-benefit-everyone/)
+- [Snippets To Boost Your WooCommerce Website](https://wordpress.tv/2023/11/13/snippets-to-boost-your-woocommerce-website/)
 - [Extending WordPress using the SlotFill system](https://wordpress.tv/2023/11/13/extending-wordpress-using-the-slotfill-system/)
 - [Breaking Language Barriers with Multilingual Sites](https://wordpress.tv/2023/11/13/breaking-language-barriers-with-multilingual-sites/)
 - [The Power of Visual Storytelling in Web Design](https://wordpress.tv/2023/11/13/the-power-of-visual-storytelling-in-web-design/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO local, así recomienda Google los negocios de la zona](https://wordpress.tv/2023/11/13/seo-local-asi-recomienda-google-los-negocios-de-la-zona/)
 - [Cierre de la WordCamp Valencia 2023 – Agradecimientos](https://wordpress.tv/2023/11/13/cierre-de-la-wordcamp-valencia-2023-agradecimientos/)
 - [Arrêtez d’écrire du PHP, passez au Full Site Editing !](https://wordpress.tv/2023/11/13/arretez-decrire-du-php-passez-au-full-site-editing/)
-- [Como hacer SEO sin gastarte un p*to euro](https://wordpress.tv/2023/11/13/como-hacer-seo-sin-gastarte-un-pto-euro/)
-- [WordPress en Docker. Instalación, configuración y mantenimiento,… pero fácil](https://wordpress.tv/2023/11/13/wordpress-en-docker-instalacion-configuracion-y-mantenimiento-pero-facil/)
-- [Cómo optimizar el contenido de tu WordPress para las estrategias de generación de leads de B2B](https://wordpress.tv/2023/11/13/como-optimizar-el-contenido-de-tu-wordpress-para-las-estrategias-de-generacion-de-leads-de-b2b/)
-- [Mesa redonda sobre IA](https://wordpress.tv/2023/11/13/mesa-redonda-sobre-ia-2/)
-- [¿Por qué hacer tu diseño en Figma antes de pasarlo a WordPress?](https://wordpress.tv/2023/11/13/por-que-hacer-tu-diseno-en-figma-antes-de-pasarlo-a-wordpress/)
-- [Yes, you can! Campañas en Meta ads de poco presupuesto para no-Media buyers](https://wordpress.tv/2023/11/13/yes-you-can-campanas-en-meta-ads-de-poco-presupuesto-para-no-media-buyers/)
 <!-- WPTV:END -->
 
 ## Marketing
