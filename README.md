@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Como hacer SEO sin gastarte un p*to euro](https://wordpress.tv/2023/11/13/como-hacer-seo-sin-gastarte-un-pto-euro/)
+- [WordPress en Docker. Instalación, configuración y mantenimiento,… pero fácil](https://wordpress.tv/2023/11/13/wordpress-en-docker-instalacion-configuracion-y-mantenimiento-pero-facil/)
+- [Cómo optimizar el contenido de tu WordPress para las estrategias de generación de leads de B2B](https://wordpress.tv/2023/11/13/como-optimizar-el-contenido-de-tu-wordpress-para-las-estrategias-de-generacion-de-leads-de-b2b/)
+- [Mesa redonda sobre IA](https://wordpress.tv/2023/11/13/mesa-redonda-sobre-ia-2/)
+- [¿Por qué hacer tu diseño en Figma antes de pasarlo a WordPress?](https://wordpress.tv/2023/11/13/por-que-hacer-tu-diseno-en-figma-antes-de-pasarlo-a-wordpress/)
+- [Yes, you can! Campañas en Meta ads de poco presupuesto para no-Media buyers](https://wordpress.tv/2023/11/13/yes-you-can-campanas-en-meta-ads-de-poco-presupuesto-para-no-media-buyers/)
 - [Las decisiones que tuve que tomar como desarrolladora y clienta de mi propio proyecto](https://wordpress.tv/2023/11/13/las-decisiones-que-tuve-que-tomar-como-desarrolladora-y-clienta-de-mi-propio-proyecto/)
 - [Gestionar un marketplace con WooCommerce + Airtable &lpar;Caso Práctico&rpar;](https://wordpress.tv/2023/11/13/gestionar-un-marketplace-con-woocommerce-airtable-caso-practico/)
 - [CSS defensivo para contenido agresivo](https://wordpress.tv/2023/11/13/css-defensivo-para-contenido-agresivo/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress はどこから来たのか WordPress は何者か WordPress はどこへ行くのか](https://wordpress.tv/2023/11/07/where-did-wordpress-come-from-what-is-wordpress-where-is-wordpress-heading/)
 - [これからの WordPress テーマとの付き合い方](https://wordpress.tv/2023/11/07/how-to-deal-with-wordpress-themes-in-the-future/)
 - [私たちが WordPress を使い続けられる理由](https://wordpress.tv/2023/11/07/why-are-we-able-to-continue-to-use-wordpress/)
-- [環境変化の激しい WordPress のメンテナンスをどう考えるか](https://wordpress.tv/2023/11/07/how-to-maintain-wordpress-in-a-rapidly-changing-environment/)
-- [これからのテーマ・プラグイン販売を考える](https://wordpress.tv/2023/11/07/thinking-about-future-of-theme-and-plugin-sales/)
-- [大規模言語モデルではじめる自動化 ー LLM は WordPress 制作・運用をどう変えるのか？](https://wordpress.tv/2023/11/07/automation-starting-with-a-large-language-model/)
-- [WordPress コアや Gutenberg では今何が開発されているか](https://wordpress.tv/2023/11/07/what-i-being-recently-developed-in-wordpress-core-and-gutenberg/)
-- [CBWJ #4 多様な登壇者を増やすには：取り組みの紹介とディスカッション](https://wordpress.tv/2023/11/07/community-building-workshop-japan-004/)
-- [Exploring WordPress 6.4](https://wordpress.tv/2023/11/06/exploring-wordpress-6-4/)
 <!-- WPTV:END -->
 
 ## Marketing
