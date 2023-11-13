@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [«Legal Fit»: cómo poner en forma tu web y Maximizar tu Éxito Online](https://wordpress.tv/2023/11/13/legal-fit-como-poner-en-forma-tu-web-y-maximizar-tu-exito-online/)
+- [Herramientas para gestionar una tienda online en WooCommerce](https://wordpress.tv/2023/11/13/herramientas-para-gestionar-una-tienda-online-en-woocommerce/)
+- [¿Por qué las páginas webs japonesas son tan diferentes?](https://wordpress.tv/2023/11/13/por-que-las-paginas-webs-japonesas-son-tan-diferentes/)
 - [Los secretos para hacer del mantenimiento web tu mejor negocio](https://wordpress.tv/2023/11/13/los-secretos-para-hacer-del-mantenimiento-web-tu-mejor-negocio/)
 - [Crea tu primer bloque de Gutenberg desde cero](https://wordpress.tv/2023/11/09/crea-tu-primer-bloque-de-gutenberg-desde-cero/)
 - [De la idea al lanzamiento: Configurar páginas de landing, thank you y registro efectivas en WordPress](https://wordpress.tv/2023/11/09/de-la-idea-al-lanzamiento-como-configurar-paginas-de-landing-thank-you-y-registro-efectivas-en-wor/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Conceptos básicos de SEO y su importancia para el éxito en línea](https://wordpress.tv/2023/11/06/conceptos-basicos-de-seo-y-su-importancia-para-el-exito-en-linea/)
 - [¿Cómo un podcast puede aumentar tu tráfico web y generar leads?](https://wordpress.tv/2023/11/06/como-un-podcast-puede-aumentar-tu-trafico-web-y-generar-leads/)
 - [Comunicación consciente e intencional](https://wordpress.tv/2023/11/06/comunicacion-consciente-e-intencional/)
-- [Live WordPress 100% Bloc 28 septembre 2023](https://wordpress.tv/2023/11/06/live-wordpress-100-bloc-28-septembre-2023/)
-- [Introducción al blogging con WordPress y ChatGPT](https://wordpress.tv/2023/11/06/introduccion-al-blogging-con-wordpress-y-chatgpt/)
-- [Convierta su sitio WordPress en una app con FlutterFlow](https://wordpress.tv/2023/11/06/convierta-su-sitio-wordpress-en-una-app-con-flutterflow/)
 <!-- WPTV:END -->
 
 ## Marketing
