@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Arrêtez d’écrire du PHP, passez au Full Site Editing !](https://wordpress.tv/2023/11/13/arretez-decrire-du-php-passez-au-full-site-editing/)
 - [Como hacer SEO sin gastarte un p*to euro](https://wordpress.tv/2023/11/13/como-hacer-seo-sin-gastarte-un-pto-euro/)
 - [WordPress en Docker. Instalación, configuración y mantenimiento,… pero fácil](https://wordpress.tv/2023/11/13/wordpress-en-docker-instalacion-configuracion-y-mantenimiento-pero-facil/)
 - [Cómo optimizar el contenido de tu WordPress para las estrategias de generación de leads de B2B](https://wordpress.tv/2023/11/13/como-optimizar-el-contenido-de-tu-wordpress-para-las-estrategias-de-generacion-de-leads-de-b2b/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Herramientas de desarrollo del navegador: un viaje al interior de tu web](https://wordpress.tv/2023/11/09/herramientas-de-desarrollo-del-navegador-un-viaje-al-interior-de-tu-web/)
 - [WordPress はどこから来たのか WordPress は何者か WordPress はどこへ行くのか](https://wordpress.tv/2023/11/07/where-did-wordpress-come-from-what-is-wordpress-where-is-wordpress-heading/)
 - [これからの WordPress テーマとの付き合い方](https://wordpress.tv/2023/11/07/how-to-deal-with-wordpress-themes-in-the-future/)
-- [私たちが WordPress を使い続けられる理由](https://wordpress.tv/2023/11/07/why-are-we-able-to-continue-to-use-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
