@@ -553,7 +553,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Torrelodones 2024](https://central.wordcamp.org/wordcamps/wordcamp-torrelodones/)
 - [WordCamp Lahore, Punjab, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-lahore-punjab/)
 - [WordCamp Skopje](https://central.wordcamp.org/wordcamps/wordcamp-skopje-2/)
-- [WordCamp Manila, Philippines](https://central.wordcamp.org/wordcamps/wordcamp-manila-philippines-2023/)
+- [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-8/)
 - [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-4/)
 - [WordCamp Islamabad, Federal Govt, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-federal-govt-pakistan/)
 - [WordCamp Kansai 2024](https://central.wordcamp.org/wordcamps/wordcamp-kansai-2024/)
