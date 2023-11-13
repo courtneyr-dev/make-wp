@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Main query loop handling for block themes in 6.4](https://make.wordpress.org/core/2023/11/13/main-query-loop-handling-for-block-themes-in-6-4/)
 - [An update to the core commit message format](https://make.wordpress.org/core/2023/11/10/an-update-to-the-core-commit-message-format/)
 - [What’s new in Gutenberg 17.0? &lpar;9 November&rpar;](https://make.wordpress.org/core/2023/11/10/whats-new-in-gutenberg-17-0-9-november/)
 - [WordPress 6.4.1 Rapid Maintenance Release: Technical Details and Timeline](https://make.wordpress.org/core/2023/11/10/wordpress-6-4-1-rapid-maintenance-release-technical-details-and-timeline/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 7 November 2023](https://make.wordpress.org/core/2023/11/07/performance-chat-summary-07-november-2023/)
 - [Proposal: cancel core editor chat](https://make.wordpress.org/core/2023/11/07/proposal-cancel-core-editor-chat/)
 - [Performance Chat Agenda: 7 November 2023](https://make.wordpress.org/core/2023/11/07/performance-chat-agenda-07-november-2023/)
-- [WordPress 6.4 Release Day Process](https://make.wordpress.org/core/2023/11/07/wordpress-6-4-release-day-process/)
 <!-- CORE:END -->
 
 ## Design
