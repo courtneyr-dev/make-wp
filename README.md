@@ -342,6 +342,19 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Extending WordPress using the SlotFill system](https://wordpress.tv/2023/11/13/extending-wordpress-using-the-slotfill-system/)
+- [Breaking Language Barriers with Multilingual Sites](https://wordpress.tv/2023/11/13/breaking-language-barriers-with-multilingual-sites/)
+- [The Power of Visual Storytelling in Web Design](https://wordpress.tv/2023/11/13/the-power-of-visual-storytelling-in-web-design/)
+- [Grow Your Freelance Business Through Better Client Selection: Better Relationships &amp; More Profit](https://wordpress.tv/2023/11/13/grow-your-freelance-business-through-better-client-selection-better-relationships-more-profit/)
+- [Generative AI in Content Marketing: Risks, Opportunities, and Endless Creativity](https://wordpress.tv/2023/11/13/generative-ai-in-content-marketing-risks-opportunities-and-endless-creativity/)
+- [Harnessing the Power of ChatGPT-4.0 for WordPress Publishing](https://wordpress.tv/2023/11/13/harnessing-the-power-of-chatgpt-4-0-for-wordpress-publishing/)
+- [10 Quick Tips for Content Creation](https://wordpress.tv/2023/11/13/10-quick-tips-for-content-creation/)
+- [Unlocking the Potential: Taking Your Business from Startup to Multi-Million with WordPress &amp; WooCommerce](https://wordpress.tv/2023/11/13/unlocking-the-potential-taking-your-business-from-startup-to-multi-million-with-wordpress-woocommerce/)
+- [Where will your website be in 20 years? How to save WordPress websites for long periods of time](https://wordpress.tv/2023/11/13/where-will-your-website-be-in-20-years-how-to-save-wordpress-websites-for-long-periods-of-time/)
+- [How To Prime Your WordPress Website To Sell: Profitable Exit Strategies For Creators](https://wordpress.tv/2023/11/13/how-to-prime-your-wordpress-website-to-sell-profitable-exit-strategies-for-creators/)
+- [Success Story: Building, Growing and Sustaining WordPress Community in Nepal](https://wordpress.tv/2023/11/13/success-story-building-growing-and-sustaining-wordpress-community-in-nepal/)
+- [How to Turn Your WordPress Blog into a Book](https://wordpress.tv/2023/11/13/how-to-turn-your-wordpress-blog-into-a-book/)
+- [It’s About Time](https://wordpress.tv/2023/11/13/its-about-time/)
 - [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2023/11/13/bienvenida-a-la-wordcamp-valencia-2/)
 - [Factores críticos para mejorar el SEO de tu WordPress y superar a la competencia](https://wordpress.tv/2023/11/13/factores-criticos-para-mejorar-el-seo-de-tu-wordpress-y-superar-a-la-competencia/)
 - [¿Conoces la fórmula perfecta para construir tu marca personal?](https://wordpress.tv/2023/11/13/conoces-la-formula-perfecta-para-construir-tu-marca-personal/)
@@ -354,19 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mesa redonda sobre IA](https://wordpress.tv/2023/11/13/mesa-redonda-sobre-ia-2/)
 - [¿Por qué hacer tu diseño en Figma antes de pasarlo a WordPress?](https://wordpress.tv/2023/11/13/por-que-hacer-tu-diseno-en-figma-antes-de-pasarlo-a-wordpress/)
 - [Yes, you can! Campañas en Meta ads de poco presupuesto para no-Media buyers](https://wordpress.tv/2023/11/13/yes-you-can-campanas-en-meta-ads-de-poco-presupuesto-para-no-media-buyers/)
-- [Las decisiones que tuve que tomar como desarrolladora y clienta de mi propio proyecto](https://wordpress.tv/2023/11/13/las-decisiones-que-tuve-que-tomar-como-desarrolladora-y-clienta-de-mi-propio-proyecto/)
-- [Gestionar un marketplace con WooCommerce + Airtable &lpar;Caso Práctico&rpar;](https://wordpress.tv/2023/11/13/gestionar-un-marketplace-con-woocommerce-airtable-caso-practico/)
-- [CSS defensivo para contenido agresivo](https://wordpress.tv/2023/11/13/css-defensivo-para-contenido-agresivo/)
-- [Metodologías ágiles en la gestión de proyectos &lpar;scrum&rpar;](https://wordpress.tv/2023/11/13/metodologias-agiles-en-la-gestion-de-proyectos-scrum/)
-- [DFIR: La realidad de la informática forense](https://wordpress.tv/2023/11/13/dfir-la-realidad-de-la-informatica-forense/)
-- [WordPressINT](https://wordpress.tv/2023/11/13/wordpressint/)
-- [«Legal Fit»: cómo poner en forma tu web y Maximizar tu Éxito Online](https://wordpress.tv/2023/11/13/legal-fit-como-poner-en-forma-tu-web-y-maximizar-tu-exito-online/)
-- [Herramientas para gestionar una tienda online en WooCommerce](https://wordpress.tv/2023/11/13/herramientas-para-gestionar-una-tienda-online-en-woocommerce/)
-- [¿Por qué las páginas webs japonesas son tan diferentes?](https://wordpress.tv/2023/11/13/por-que-las-paginas-webs-japonesas-son-tan-diferentes/)
-- [Los secretos para hacer del mantenimiento web tu mejor negocio](https://wordpress.tv/2023/11/13/los-secretos-para-hacer-del-mantenimiento-web-tu-mejor-negocio/)
-- [Crea tu primer bloque de Gutenberg desde cero](https://wordpress.tv/2023/11/09/crea-tu-primer-bloque-de-gutenberg-desde-cero/)
-- [De la idea al lanzamiento: Configurar páginas de landing, thank you y registro efectivas en WordPress](https://wordpress.tv/2023/11/09/de-la-idea-al-lanzamiento-como-configurar-paginas-de-landing-thank-you-y-registro-efectivas-en-wor/)
-- [Automatizar procesos de diseño con WordPress / WooCommerce](https://wordpress.tv/2023/11/09/automatizar-procesos-de-diseno-con-wordpress-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
