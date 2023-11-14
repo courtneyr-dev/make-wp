@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [How to create a menu with the navigation block](https://learn.wordpress.org/tutorial/how-to-create-a-menu-with-the-navigation-block-2/)
 - [Exploring WordPress 6.4](https://learn.wordpress.org/tutorial/exploring-wordpress-6-4/)
 - [Introducing the twenty twenty-four theme](https://learn.wordpress.org/tutorial/introducing-the-twenty-twenty-four-theme/)
 - [Working faster with the command palette](https://learn.wordpress.org/tutorial/working-faster-with-the-command-palette/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Conociendo el panel de control de WordPress](https://learn.wordpress.org/tutorial/es-getting-to-know-the-wordpress-dashboard/)
 - [Entradas vs. Páginas: ¿En qué se diferencian?](https://learn.wordpress.org/tutorial/es-posts-vs-pages-whats-the-difference/)
 - [How to create a video tutorial for learn.wordpress.org](https://learn.wordpress.org/tutorial/how-to-create-a-video-tutorial-for-learn-wordpress-org/)
-- [Embedding media and third-party content on your website](https://learn.wordpress.org/tutorial/embedding-media-and-third-party-content-on-your-website/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
