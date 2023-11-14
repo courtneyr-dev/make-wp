@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Events of the Month – October](https://make.wordpress.org/community/2023/11/14/events-of-the-month-october/)
 - [Contributor Working Group: Mentorship Chat Agenda | November 16th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/11/14/contributor-working-group-mentorship-chat-agenda-november-16th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [X-post: Call for volunteers to help with 6.4 end-user documentation](https://make.wordpress.org/community/2023/11/14/xpost-call-for-volunteers-to-help-with-6-4-end-user-documentation/)
 - [Calling all WordPress Meetup Organizers around the world!](https://make.wordpress.org/community/2023/11/06/calling-all-wordpress-meetup-organizers-around-the-world/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: October 2023](https://make.wordpress.org/community/2023/10/20/meetup-organizer-newsletter-october-2023/)
 - [Events of the Month – September](https://make.wordpress.org/community/2023/10/18/events-of-the-month-september/)
 - [Community Team Training #11: Using the Translate Live tool](https://make.wordpress.org/community/2023/10/18/community-team-training-11-using-the-translate-live-tool/)
-- [Next-Gen Events: Technical Check-in](https://make.wordpress.org/community/2023/10/16/next-gen-events-technical-check-in/)
 <!-- COMMUNITY:END -->
 
 ## Meta
