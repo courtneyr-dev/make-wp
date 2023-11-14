@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Séance de remise en form&lpar;s&rpar; : soigner le recueil d’informations dans son site WordPress](https://wordpress.tv/2023/11/14/seance-de-remise-en-forms-soigner-le-recueil-dinformations-dans-son-site-wordpress/)
+- [Retour d’expérience : WooCommerce.com](https://wordpress.tv/2023/11/14/retour-dexperience-woocommerce-com/)
+- [Le nombre de plugins idéal !](https://wordpress.tv/2023/11/14/le-nombre-de-plugins-ideal/)
 - [Un voyage au cœur du cache](https://wordpress.tv/2023/11/14/un-voyage-au-coeur-du-cache/)
 - [The Documentation team GitHub roles onboarding](https://wordpress.tv/2023/11/14/the-documentation-team-github-roles-onboarding/)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2023/11/13/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [It’s About Time](https://wordpress.tv/2023/11/13/its-about-time/)
 - [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2023/11/13/bienvenida-a-la-wordcamp-valencia-2/)
 - [Factores críticos para mejorar el SEO de tu WordPress y superar a la competencia](https://wordpress.tv/2023/11/13/factores-criticos-para-mejorar-el-seo-de-tu-wordpress-y-superar-a-la-competencia/)
-- [¿Conoces la fórmula perfecta para construir tu marca personal?](https://wordpress.tv/2023/11/13/conoces-la-formula-perfecta-para-construir-tu-marca-personal/)
-- [SEO local, así recomienda Google los negocios de la zona](https://wordpress.tv/2023/11/13/seo-local-asi-recomienda-google-los-negocios-de-la-zona/)
-- [Cierre de la WordCamp Valencia 2023 – Agradecimientos](https://wordpress.tv/2023/11/13/cierre-de-la-wordcamp-valencia-2023-agradecimientos/)
 <!-- WPTV:END -->
 
 ## Marketing
