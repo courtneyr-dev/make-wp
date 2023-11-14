@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Presentación WordCamp Madrid 2023](https://wordpress.tv/2023/11/14/presentacion-wordcamp-madrid-2023/)
 - [Table ronde sur l’avenir de WordPress](https://wordpress.tv/2023/11/14/table-ronde-sur-lavenir-de-wordpress/)
 - [Un site qui génère plus de leads ou clients ? Pensez #AvantPendantAprès !](https://wordpress.tv/2023/11/14/un-site-qui-genere-plus-de-leads-ou-clients-pensez-avantpendantapres/)
 - [L’éco-conception, s’y mettre ou attendre le déluge ?](https://wordpress.tv/2023/11/14/leco-conception-sy-mettre-ou-attendre-le-deluge/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [10 Quick Tips for Content Creation](https://wordpress.tv/2023/11/13/10-quick-tips-for-content-creation/)
 - [Unlocking the Potential: Taking Your Business from Startup to Multi-Million with WordPress &amp; WooCommerce](https://wordpress.tv/2023/11/13/unlocking-the-potential-taking-your-business-from-startup-to-multi-million-with-wordpress-woocommerce/)
 - [Where will your website be in 20 years? How to save WordPress websites for long periods of time](https://wordpress.tv/2023/11/13/where-will-your-website-be-in-20-years-how-to-save-wordpress-websites-for-long-periods-of-time/)
-- [How To Prime Your WordPress Website To Sell: Profitable Exit Strategies For Creators](https://wordpress.tv/2023/11/13/how-to-prime-your-wordpress-website-to-sell-profitable-exit-strategies-for-creators/)
 <!-- WPTV:END -->
 
 ## Marketing
