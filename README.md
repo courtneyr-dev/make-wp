@@ -517,10 +517,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Optimize](https://jobs.wordpress.net/job/wordpress-optimize/)
 - [Freelance WordPress developer](https://jobs.wordpress.net/job/freelance-wordpress-developer-56/)
 - [Customer Support Agent for WordPress Themes](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes/)
-- [PHP / CSS Small Jobs](https://jobs.wordpress.net/job/php-css-small-jobs/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-821/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-9/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-9/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-26/)
 <!-- JOBS:END -->
 
 ## Central
