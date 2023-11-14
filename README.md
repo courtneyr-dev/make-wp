@@ -361,12 +361,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Where will your website be in 20 years? How to save WordPress websites for long periods of time](https://wordpress.tv/2023/11/13/where-will-your-website-be-in-20-years-how-to-save-wordpress-websites-for-long-periods-of-time/)
 - [How To Prime Your WordPress Website To Sell: Profitable Exit Strategies For Creators](https://wordpress.tv/2023/11/13/how-to-prime-your-wordpress-website-to-sell-profitable-exit-strategies-for-creators/)
 - [Success Story: Building, Growing and Sustaining WordPress Community in Nepal](https://wordpress.tv/2023/11/13/success-story-building-growing-and-sustaining-wordpress-community-in-nepal/)
-- [How to Turn Your WordPress Blog into a Book](https://wordpress.tv/2023/11/13/how-to-turn-your-wordpress-blog-into-a-book/)
 - [It’s About Time](https://wordpress.tv/2023/11/13/its-about-time/)
 - [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2023/11/13/bienvenida-a-la-wordcamp-valencia-2/)
 - [Factores críticos para mejorar el SEO de tu WordPress y superar a la competencia](https://wordpress.tv/2023/11/13/factores-criticos-para-mejorar-el-seo-de-tu-wordpress-y-superar-a-la-competencia/)
 - [¿Conoces la fórmula perfecta para construir tu marca personal?](https://wordpress.tv/2023/11/13/conoces-la-formula-perfecta-para-construir-tu-marca-personal/)
 - [SEO local, así recomienda Google los negocios de la zona](https://wordpress.tv/2023/11/13/seo-local-asi-recomienda-google-los-negocios-de-la-zona/)
+- [Cierre de la WordCamp Valencia 2023 – Agradecimientos](https://wordpress.tv/2023/11/13/cierre-de-la-wordcamp-valencia-2023-agradecimientos/)
 <!-- WPTV:END -->
 
 ## Marketing
