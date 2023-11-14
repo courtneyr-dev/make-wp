@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Documentation team GitHub roles onboarding](https://wordpress.tv/2023/11/14/the-documentation-team-github-roles-onboarding/)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2023/11/13/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once/)
 - [Demystifying Decoupled WordPress With Next.js](https://wordpress.tv/2023/11/13/demystifying-decoupled-wordpress-with-next-js/)
 - [Exploring block themes](https://wordpress.tv/2023/11/13/exploring-block-themes/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Conoces la fórmula perfecta para construir tu marca personal?](https://wordpress.tv/2023/11/13/conoces-la-formula-perfecta-para-construir-tu-marca-personal/)
 - [SEO local, así recomienda Google los negocios de la zona](https://wordpress.tv/2023/11/13/seo-local-asi-recomienda-google-los-negocios-de-la-zona/)
 - [Cierre de la WordCamp Valencia 2023 – Agradecimientos](https://wordpress.tv/2023/11/13/cierre-de-la-wordcamp-valencia-2023-agradecimientos/)
-- [Arrêtez d’écrire du PHP, passez au Full Site Editing !](https://wordpress.tv/2023/11/13/arretez-decrire-du-php-passez-au-full-site-editing/)
 <!-- WPTV:END -->
 
 ## Marketing
