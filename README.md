@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Table ronde sur l’avenir de WordPress](https://wordpress.tv/2023/11/14/table-ronde-sur-lavenir-de-wordpress/)
+- [Un site qui génère plus de leads ou clients ? Pensez #AvantPendantAprès !](https://wordpress.tv/2023/11/14/un-site-qui-genere-plus-de-leads-ou-clients-pensez-avantpendantapres/)
+- [L’éco-conception, s’y mettre ou attendre le déluge ?](https://wordpress.tv/2023/11/14/leco-conception-sy-mettre-ou-attendre-le-deluge/)
 - [De l’idée à la réussite : Comment mener l’aventure entrepreneuriale de ta vie](https://wordpress.tv/2023/11/14/de-lidee-a-la-reussite-comment-mener-laventure-entrepreneuriale-de-ta-vie/)
 - [Séance de remise en form&lpar;s&rpar; : soigner le recueil d’informations dans son site WordPress](https://wordpress.tv/2023/11/14/seance-de-remise-en-forms-soigner-le-recueil-dinformations-dans-son-site-wordpress/)
 - [Retour d’expérience : WooCommerce.com](https://wordpress.tv/2023/11/14/retour-dexperience-woocommerce-com/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Unlocking the Potential: Taking Your Business from Startup to Multi-Million with WordPress &amp; WooCommerce](https://wordpress.tv/2023/11/13/unlocking-the-potential-taking-your-business-from-startup-to-multi-million-with-wordpress-woocommerce/)
 - [Where will your website be in 20 years? How to save WordPress websites for long periods of time](https://wordpress.tv/2023/11/13/where-will-your-website-be-in-20-years-how-to-save-wordpress-websites-for-long-periods-of-time/)
 - [How To Prime Your WordPress Website To Sell: Profitable Exit Strategies For Creators](https://wordpress.tv/2023/11/13/how-to-prime-your-wordpress-website-to-sell-profitable-exit-strategies-for-creators/)
-- [Success Story: Building, Growing and Sustaining WordPress Community in Nepal](https://wordpress.tv/2023/11/13/success-story-building-growing-and-sustaining-wordpress-community-in-nepal/)
-- [It’s About Time](https://wordpress.tv/2023/11/13/its-about-time/)
-- [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2023/11/13/bienvenida-a-la-wordcamp-valencia-2/)
 <!-- WPTV:END -->
 
 ## Marketing
