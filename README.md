@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [De l’idée à la réussite : Comment mener l’aventure entrepreneuriale de ta vie](https://wordpress.tv/2023/11/14/de-lidee-a-la-reussite-comment-mener-laventure-entrepreneuriale-de-ta-vie/)
 - [Séance de remise en form&lpar;s&rpar; : soigner le recueil d’informations dans son site WordPress](https://wordpress.tv/2023/11/14/seance-de-remise-en-forms-soigner-le-recueil-dinformations-dans-son-site-wordpress/)
 - [Retour d’expérience : WooCommerce.com](https://wordpress.tv/2023/11/14/retour-dexperience-woocommerce-com/)
 - [Le nombre de plugins idéal !](https://wordpress.tv/2023/11/14/le-nombre-de-plugins-ideal/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Success Story: Building, Growing and Sustaining WordPress Community in Nepal](https://wordpress.tv/2023/11/13/success-story-building-growing-and-sustaining-wordpress-community-in-nepal/)
 - [It’s About Time](https://wordpress.tv/2023/11/13/its-about-time/)
 - [Bienvenida a la WordCamp Valencia](https://wordpress.tv/2023/11/13/bienvenida-a-la-wordcamp-valencia-2/)
-- [Factores críticos para mejorar el SEO de tu WordPress y superar a la competencia](https://wordpress.tv/2023/11/13/factores-criticos-para-mejorar-el-seo-de-tu-wordpress-y-superar-a-la-competencia/)
 <!-- WPTV:END -->
 
 ## Marketing
