@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Twenty Twenty Four](https://make.wordpress.org/polyglots/2023/11/14/pte-request-for-twenty-twenty-four/)
 - [Hey,](https://make.wordpress.org/polyglots/2023/11/13/hey-4/)
 - [Dear Persian editors,](https://make.wordpress.org/polyglots/2023/11/12/dear-persian-editors/)
 - [PTE Request for mosparo Integration](https://make.wordpress.org/polyglots/2023/11/12/pte-request-for-mosparo-integration-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I dlike to add translation forCF7](https://make.wordpress.org/polyglots/2023/11/10/i-dlike-to-add-translation-forcf7/)
 - [Hello dear friends,](https://make.wordpress.org/polyglots/2023/11/10/hello-dear-friends/)
 - [PTE Request for IA Salt Regeneration](https://make.wordpress.org/polyglots/2023/11/09/pte-request-for-ia-salt-regeneration/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/11/09/hi-dear-mentors-we-have-125/)
 <!-- POLYGLOTS:END -->
 
 ## Support
