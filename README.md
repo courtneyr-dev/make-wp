@@ -349,7 +349,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Table ronde sur l’avenir de WordPress](https://wordpress.tv/2023/11/14/table-ronde-sur-lavenir-de-wordpress/)
 - [Un site qui génère plus de leads ou clients ? Pensez #AvantPendantAprès !](https://wordpress.tv/2023/11/14/un-site-qui-genere-plus-de-leads-ou-clients-pensez-avantpendantapres/)
 - [L’éco-conception, s’y mettre ou attendre le déluge ?](https://wordpress.tv/2023/11/14/leco-conception-sy-mettre-ou-attendre-le-deluge/)
-- [De l’idée à la réussite : Comment mener l’aventure entrepreneuriale de ta vie](https://wordpress.tv/2023/11/14/de-lidee-a-la-reussite-comment-mener-laventure-entrepreneuriale-de-ta-vie/)
 - [Séance de remise en form&lpar;s&rpar; : soigner le recueil d’informations dans son site WordPress](https://wordpress.tv/2023/11/14/seance-de-remise-en-forms-soigner-le-recueil-dinformations-dans-son-site-wordpress/)
 - [Retour d’expérience : WooCommerce.com](https://wordpress.tv/2023/11/14/retour-dexperience-woocommerce-com/)
 - [Le nombre de plugins idéal !](https://wordpress.tv/2023/11/14/le-nombre-de-plugins-ideal/)
@@ -367,6 +366,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Grow Your Freelance Business Through Better Client Selection: Better Relationships &amp; More Profit](https://wordpress.tv/2023/11/13/grow-your-freelance-business-through-better-client-selection-better-relationships-more-profit/)
 - [Generative AI in Content Marketing: Risks, Opportunities, and Endless Creativity](https://wordpress.tv/2023/11/13/generative-ai-in-content-marketing-risks-opportunities-and-endless-creativity/)
 - [Harnessing the Power of ChatGPT-4.0 for WordPress Publishing](https://wordpress.tv/2023/11/13/harnessing-the-power-of-chatgpt-4-0-for-wordpress-publishing/)
+- [10 Quick Tips for Content Creation](https://wordpress.tv/2023/11/13/10-quick-tips-for-content-creation/)
 <!-- WPTV:END -->
 
 ## Marketing
