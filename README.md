@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Multisite? Pourquoi pas!](https://wordpress.tv/2023/11/14/multisite-pourquoi-pas/)
+- [Environnement de développement WordPress moderne et productif](https://wordpress.tv/2023/11/14/environnement-de-developpement-wordpress-moderne-et-productif/)
 - [How to create a menu with the navigation block](https://wordpress.tv/2023/11/14/how-to-create-a-menu-with-the-navigation-block-2/)
 - [Presentación WordCamp Madrid 2023](https://wordpress.tv/2023/11/14/presentacion-wordcamp-madrid-2023/)
 - [Table ronde sur l’avenir de WordPress](https://wordpress.tv/2023/11/14/table-ronde-sur-lavenir-de-wordpress/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Grow Your Freelance Business Through Better Client Selection: Better Relationships &amp; More Profit](https://wordpress.tv/2023/11/13/grow-your-freelance-business-through-better-client-selection-better-relationships-more-profit/)
 - [Generative AI in Content Marketing: Risks, Opportunities, and Endless Creativity](https://wordpress.tv/2023/11/13/generative-ai-in-content-marketing-risks-opportunities-and-endless-creativity/)
 - [Harnessing the Power of ChatGPT-4.0 for WordPress Publishing](https://wordpress.tv/2023/11/13/harnessing-the-power-of-chatgpt-4-0-for-wordpress-publishing/)
-- [10 Quick Tips for Content Creation](https://wordpress.tv/2023/11/13/10-quick-tips-for-content-creation/)
-- [Unlocking the Potential: Taking Your Business from Startup to Multi-Million with WordPress &amp; WooCommerce](https://wordpress.tv/2023/11/13/unlocking-the-potential-taking-your-business-from-startup-to-multi-million-with-wordpress-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
