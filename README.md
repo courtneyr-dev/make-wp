@@ -359,6 +359,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Table ronde sur l’avenir de WordPress](https://wordpress.tv/2023/11/14/table-ronde-sur-lavenir-de-wordpress/)
 - [Un site qui génère plus de leads ou clients ? Pensez #AvantPendantAprès !](https://wordpress.tv/2023/11/14/un-site-qui-genere-plus-de-leads-ou-clients-pensez-avantpendantapres/)
 - [L’éco-conception, s’y mettre ou attendre le déluge ?](https://wordpress.tv/2023/11/14/leco-conception-sy-mettre-ou-attendre-le-deluge/)
+- [De l’idée à la réussite : Comment mener l’aventure entrepreneuriale de ta vie](https://wordpress.tv/2023/11/14/de-lidee-a-la-reussite-comment-mener-laventure-entrepreneuriale-de-ta-vie/)
 - [Séance de remise en form&lpar;s&rpar; : soigner le recueil d’informations dans son site WordPress](https://wordpress.tv/2023/11/14/seance-de-remise-en-forms-soigner-le-recueil-dinformations-dans-son-site-wordpress/)
 - [Retour d’expérience : WooCommerce.com](https://wordpress.tv/2023/11/14/retour-dexperience-woocommerce-com/)
 - [Le nombre de plugins idéal !](https://wordpress.tv/2023/11/14/le-nombre-de-plugins-ideal/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Documentation team GitHub roles onboarding](https://wordpress.tv/2023/11/14/the-documentation-team-github-roles-onboarding/)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2023/11/13/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once/)
 - [Demystifying Decoupled WordPress With Next.js](https://wordpress.tv/2023/11/13/demystifying-decoupled-wordpress-with-next-js/)
-- [Exploring block themes](https://wordpress.tv/2023/11/13/exploring-block-themes/)
 <!-- WPTV:END -->
 
 ## Marketing
