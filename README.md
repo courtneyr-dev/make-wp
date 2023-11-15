@@ -514,13 +514,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-5/)
 - [Web Support](https://jobs.wordpress.net/job/web-support-2/)
 - [UK Annual Tide Calendar](https://jobs.wordpress.net/job/uk-annual-tide-calendar/)
-- [WordPress Optimize](https://jobs.wordpress.net/job/wordpress-optimize/)
 - [Freelance WordPress developer](https://jobs.wordpress.net/job/freelance-wordpress-developer-56/)
 - [Customer Support Agent for WordPress Themes](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-821/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-9/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-9/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-26/)
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-2/)
 <!-- JOBS:END -->
 
 ## Central
