@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Hallway Hangout: Recap of working session on consolidating navigation modes](https://make.wordpress.org/core/2023/11/15/hallway-hangout-recap-of-working-session-on-consolidating-navigation-modes/)
 - [WordPress 6.4 Retrospective](https://make.wordpress.org/core/2023/11/15/wordpress-6-4-retrospective/)
 - [Performance Chat Summary: 14 November 2023](https://make.wordpress.org/core/2023/11/14/performance-chat-summary-14-november-2023/)
 - [Dev Chat agenda, November 15, 2023](https://make.wordpress.org/core/2023/11/14/dev-chat-agenda-november-15-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.4 Performance Improvements](https://make.wordpress.org/core/2023/11/13/wordpress-6-4-performance-improvements/)
 - [Main query loop handling for block themes in 6.4](https://make.wordpress.org/core/2023/11/13/main-query-loop-handling-for-block-themes-in-6-4/)
 - [An update to the core commit message format](https://make.wordpress.org/core/2023/11/10/an-update-to-the-core-commit-message-format/)
-- [What’s new in Gutenberg 17.0? &lpar;9 November&rpar;](https://make.wordpress.org/core/2023/11/10/whats-new-in-gutenberg-17-0-9-november/)
 <!-- CORE:END -->
 
 ## Design
