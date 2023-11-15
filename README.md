@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat- November 15, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/15/agenda-weekly-polyglots-chat-november-15-2023-700-utc/)
 - [Graceful classic blog](https://make.wordpress.org/polyglots/2023/11/14/graceful-classic-blog/)
 - [I made some translations in…](https://make.wordpress.org/polyglots/2023/11/14/i-made-some-translations-in/)
 - [Request for CLPTE](https://make.wordpress.org/polyglots/2023/11/14/request-for-clpte/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dear Persian editors,](https://make.wordpress.org/polyglots/2023/11/12/dear-persian-editors/)
 - [PTE Request for mosparo Integration](https://make.wordpress.org/polyglots/2023/11/12/pte-request-for-mosparo-integration-2/)
 - [PTE Request for SMNTCS Simple Events Widget](https://make.wordpress.org/polyglots/2023/11/12/pte-request-for-smntcs-simple-events-widget/)
-- [PTE Request for [Tutor LMS – eLearning and online course solution]](https://make.wordpress.org/polyglots/2023/11/11/pte-request-for-tutor-lms-elearning-and-online-course-solution-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
