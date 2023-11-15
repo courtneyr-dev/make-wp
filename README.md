@@ -342,6 +342,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Onboarding Clients Does Not Have to Take a Miracle to get All the Things](https://wordpress.tv/2023/11/15/onboarding-clients-does-not-have-to-take-a-miracle-to-get-all-the-things/)
+- [Do You Struggle with Closing Sales? Are You Tired of Losing Deals to Your Competition?](https://wordpress.tv/2023/11/15/do-you-struggle-with-closing-sales-are-you-tired-of-losing-deals-to-your-competition/)
+- [Leveraging Social Media to Build Your Agency](https://wordpress.tv/2023/11/15/leveraging-social-media-to-build-your-agency/)
+- [The power of leaning into the WordPress block editor](https://wordpress.tv/2023/11/15/the-power-of-leaning-into-the-wordpress-block-editor/)
+- [The Impact of AI on SEO Content](https://wordpress.tv/2023/11/15/the-impact-of-ai-on-seo-content/)
+- [You’re Leaving Money on the Table: Transactional Emails In WordPress](https://wordpress.tv/2023/11/15/transaction-emails-youre-leaving-money-on-the-table/)
+- [WordPress in Education](https://wordpress.tv/2023/11/15/wordpress-in-education/)
+- [Finding Your UX Voice](https://wordpress.tv/2023/11/15/dan-maccarone-finding-your-ux-voice/)
+- [Death to Slide Decks: Why Your Next Presentation Needs to be a Webpage](https://wordpress.tv/2023/11/15/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage/)
+- [How Large Organizations Make the Most of WordPress](https://wordpress.tv/2023/11/15/how-large-organizations-make-the-most-of-wordpress/)
 - [Multisite? Pourquoi pas!](https://wordpress.tv/2023/11/14/multisite-pourquoi-pas/)
 - [Environnement de développement WordPress moderne et productif](https://wordpress.tv/2023/11/14/environnement-de-developpement-wordpress-moderne-et-productif/)
 - [How to create a menu with the navigation block](https://wordpress.tv/2023/11/14/how-to-create-a-menu-with-the-navigation-block-2/)
@@ -357,16 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2023/11/13/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once/)
 - [Demystifying Decoupled WordPress With Next.js](https://wordpress.tv/2023/11/13/demystifying-decoupled-wordpress-with-next-js/)
 - [Exploring block themes](https://wordpress.tv/2023/11/13/exploring-block-themes/)
-- [Tailwind CSS for WordPress Developers](https://wordpress.tv/2023/11/13/tailwind-css-for-wordpress-developers/)
-- [Accessible Websites Benefit Everyone](https://wordpress.tv/2023/11/13/accessible-websites-benefit-everyone/)
-- [Snippets To Boost Your WooCommerce Website](https://wordpress.tv/2023/11/13/snippets-to-boost-your-woocommerce-website/)
-- [Extending WordPress using the SlotFill system](https://wordpress.tv/2023/11/13/extending-wordpress-using-the-slotfill-system/)
-- [Breaking Language Barriers with Multilingual Sites](https://wordpress.tv/2023/11/13/breaking-language-barriers-with-multilingual-sites/)
-- [The Power of Visual Storytelling in Web Design](https://wordpress.tv/2023/11/13/the-power-of-visual-storytelling-in-web-design/)
-- [Grow Your Freelance Business Through Better Client Selection: Better Relationships &amp; More Profit](https://wordpress.tv/2023/11/13/grow-your-freelance-business-through-better-client-selection-better-relationships-more-profit/)
-- [Generative AI in Content Marketing: Risks, Opportunities, and Endless Creativity](https://wordpress.tv/2023/11/13/generative-ai-in-content-marketing-risks-opportunities-and-endless-creativity/)
-- [Harnessing the Power of ChatGPT-4.0 for WordPress Publishing](https://wordpress.tv/2023/11/13/harnessing-the-power-of-chatgpt-4-0-for-wordpress-publishing/)
-- [10 Quick Tips for Content Creation](https://wordpress.tv/2023/11/13/10-quick-tips-for-content-creation/)
 <!-- WPTV:END -->
 
 ## Marketing
