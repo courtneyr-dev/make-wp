@@ -349,7 +349,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Impact of AI on SEO Content](https://wordpress.tv/2023/11/15/the-impact-of-ai-on-seo-content/)
 - [You’re Leaving Money on the Table: Transactional Emails In WordPress](https://wordpress.tv/2023/11/15/transaction-emails-youre-leaving-money-on-the-table/)
 - [WordPress in Education](https://wordpress.tv/2023/11/15/wordpress-in-education/)
-- [Finding Your UX Voice](https://wordpress.tv/2023/11/15/dan-maccarone-finding-your-ux-voice/)
 - [Death to Slide Decks: Why Your Next Presentation Needs to be a Webpage](https://wordpress.tv/2023/11/15/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage/)
 - [How Large Organizations Make the Most of WordPress](https://wordpress.tv/2023/11/15/how-large-organizations-make-the-most-of-wordpress/)
 - [Multisite? Pourquoi pas!](https://wordpress.tv/2023/11/14/multisite-pourquoi-pas/)
@@ -367,6 +366,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Documentation team GitHub roles onboarding](https://wordpress.tv/2023/11/14/the-documentation-team-github-roles-onboarding/)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2023/11/13/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once/)
 - [Demystifying Decoupled WordPress With Next.js](https://wordpress.tv/2023/11/13/demystifying-decoupled-wordpress-with-next-js/)
+- [Exploring block themes](https://wordpress.tv/2023/11/13/exploring-block-themes/)
 <!-- WPTV:END -->
 
 ## Marketing
