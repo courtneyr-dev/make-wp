@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress real estate upgrade](https://jobs.wordpress.net/job/wordpress-real-estate-upgrade/)
+- [Website Maintenance](https://jobs.wordpress.net/job/website-maintenance-3/)
+- [Wordoress developer](https://jobs.wordpress.net/job/wordoress-developer/)
+- [hello, we looking for a expert in wprocket, perfmatters, JS, CSS optimisation on WordPress, with experience, for a job please](https://jobs.wordpress.net/job/hello-we-looking-for-a-expert-in-wprocket-perfmatters-js-css-optimisation-on-wordpress-with-experience-for-a-job-please/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-822/)
 - [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-5/)
 - [Web Support](https://jobs.wordpress.net/job/web-support-2/)
 - [UK Annual Tide Calendar](https://jobs.wordpress.net/job/uk-annual-tide-calendar/)
 - [Freelance WordPress developer](https://jobs.wordpress.net/job/freelance-wordpress-developer-56/)
 - [Customer Support Agent for WordPress Themes](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-821/)
-- [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-9/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-9/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-26/)
 <!-- JOBS:END -->
 
 ## Central
