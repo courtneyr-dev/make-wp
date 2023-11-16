@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tips de diseño web para no diseñadores](https://wordpress.tv/2023/11/16/tips-de-diseno-web-para-no-disenadores/)
 - [Sécurisation de site WordPress](https://wordpress.tv/2023/11/15/securisation-de-site-wordpress/)
 - [Onboarding Clients Does Not Have to Take a Miracle to get All the Things](https://wordpress.tv/2023/11/15/onboarding-clients-does-not-have-to-take-a-miracle-to-get-all-the-things/)
 - [Do You Struggle with Closing Sales? Are You Tired of Losing Deals to Your Competition?](https://wordpress.tv/2023/11/15/do-you-struggle-with-closing-sales-are-you-tired-of-losing-deals-to-your-competition/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Un voyage au cœur du cache](https://wordpress.tv/2023/11/14/un-voyage-au-coeur-du-cache/)
 - [The Documentation team GitHub roles onboarding](https://wordpress.tv/2023/11/14/the-documentation-team-github-roles-onboarding/)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2023/11/13/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once/)
-- [Demystifying Decoupled WordPress With Next.js](https://wordpress.tv/2023/11/13/demystifying-decoupled-wordpress-with-next-js/)
 <!-- WPTV:END -->
 
 ## Marketing
