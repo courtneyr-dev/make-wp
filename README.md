@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Patterns Hey…](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-patterns-hey/)
+- [PTE Request for Dokan](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-dokan-2/)
 - [PTE Request for supervisor](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-supervisor/)
 - [PTE Request for PDF Invoices…](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-pdf-invoices/)
 - [Hello! I am Stefan Gagner,…](https://make.wordpress.org/polyglots/2023/11/16/hello-i-am-stefan-gagner/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat- November 15, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/15/agenda-weekly-polyglots-chat-november-15-2023-700-utc/)
 - [Graceful classic blog](https://make.wordpress.org/polyglots/2023/11/14/graceful-classic-blog/)
 - [I made some translations in…](https://make.wordpress.org/polyglots/2023/11/14/i-made-some-translations-in/)
-- [Request for CLPTE](https://make.wordpress.org/polyglots/2023/11/14/request-for-clpte/)
-- [Hello,](https://make.wordpress.org/polyglots/2023/11/14/hello-82/)
 <!-- POLYGLOTS:END -->
 
 ## Support
