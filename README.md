@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Ascendoor News &lpar;Beautiful and new theme&rpar;](https://make.wordpress.org/polyglots/2023/11/16/ascendoor-news-very-beautiful-and-new-theme/)
 - [PTE Request for Patterns Hey…](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-patterns-hey/)
 - [PTE Request for Dokan](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-dokan-2/)
 - [PTE Request for supervisor](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-supervisor/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PL translation approval for Ecomail](https://make.wordpress.org/polyglots/2023/11/15/pl-translation-approval-for-ecomail/)
 - [Agenda: Weekly Polyglots Chat- November 15, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/15/agenda-weekly-polyglots-chat-november-15-2023-700-utc/)
 - [Graceful classic blog](https://make.wordpress.org/polyglots/2023/11/14/graceful-classic-blog/)
-- [I made some translations in…](https://make.wordpress.org/polyglots/2023/11/14/i-made-some-translations-in/)
 <!-- POLYGLOTS:END -->
 
 ## Support
