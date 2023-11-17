@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Bangladeshi Payment Gateways – Make Payment Using QR Code](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-bangladeshi-payment-gateways-make-payment-using-qr-code/)
 - [Ascendoor News &lpar;Beautiful and new theme&rpar;](https://make.wordpress.org/polyglots/2023/11/16/ascendoor-news-very-beautiful-and-new-theme/)
 - [PTE Request for Patterns Hey…](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-patterns-hey/)
 - [PTE Request for Dokan](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-dokan-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Campaigndot](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-campaigndot/)
 - [PL translation approval for Ecomail](https://make.wordpress.org/polyglots/2023/11/15/pl-translation-approval-for-ecomail/)
 - [Agenda: Weekly Polyglots Chat- November 15, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/15/agenda-weekly-polyglots-chat-november-15-2023-700-utc/)
-- [Graceful classic blog](https://make.wordpress.org/polyglots/2023/11/14/graceful-classic-blog/)
 <!-- POLYGLOTS:END -->
 
 ## Support
