@@ -518,9 +518,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-822/)
 - [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-5/)
 - [Web Support](https://jobs.wordpress.net/job/web-support-2/)
-- [UK Annual Tide Calendar](https://jobs.wordpress.net/job/uk-annual-tide-calendar/)
 - [Freelance WordPress developer](https://jobs.wordpress.net/job/freelance-wordpress-developer-56/)
 - [Customer Support Agent for WordPress Themes](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-821/)
 <!-- JOBS:END -->
 
 ## Central
