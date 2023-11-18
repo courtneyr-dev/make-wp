@@ -342,6 +342,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Don’t Break the Internet: No Code End-to-End Testing](https://wordpress.tv/2023/11/18/dont-break-the-internet-no-code-end-to-end-testing/)
+- [What You Need to Know About the Reorganized Guidelines for Google Business Profiles &lpar;GBP&rpar;](https://wordpress.tv/2023/11/18/what-you-need-to-know-about-the-reorganized-guidelines-for-google-business-profiles-gbp/)
+- [Systems = Success](https://wordpress.tv/2023/11/18/systems-success/)
+- [Benefits, not features: How to speak human about your product](https://wordpress.tv/2023/11/18/benefits-not-features-how-to-speak-human-about-your-product/)
+- [WordPress and The IndieWeb](https://wordpress.tv/2023/11/18/wordpress-and-the-indieweb-2/)
+- [How to Break the Internet: Lessons from the Support Desk](https://wordpress.tv/2023/11/18/how-to-break-the-internet-lessons-from-the-support-desk/)
+- [Transitioning With WordPress: How to Create Welcoming Communities in WordPress](https://wordpress.tv/2023/11/18/transitioning-with-wordpress-how-to-create-welcoming-communities-in-wordpress/)
 - [Freelancer to MicroAgency: The Journey We’re On](https://wordpress.tv/2023/11/18/freelancer-to-microagency-the-journey-were-on/)
 - [Managing &amp; Supporting 450+ Sites – A Solopreneur Journey](https://wordpress.tv/2023/11/18/managing-supporting-450-sites-a-solopreneur-journey/)
 - [Growing in WordPress through Partnerships](https://wordpress.tv/2023/11/18/growing-in-wordpress-through-partnerships/)
@@ -360,13 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How Large Organizations Make the Most of WordPress](https://wordpress.tv/2023/11/15/how-large-organizations-make-the-most-of-wordpress/)
 - [Multisite? Pourquoi pas!](https://wordpress.tv/2023/11/14/multisite-pourquoi-pas/)
 - [Environnement de développement WordPress moderne et productif](https://wordpress.tv/2023/11/14/environnement-de-developpement-wordpress-moderne-et-productif/)
-- [How to create a menu with the navigation block](https://wordpress.tv/2023/11/14/how-to-create-a-menu-with-the-navigation-block-2/)
-- [Presentación WordCamp Madrid 2023](https://wordpress.tv/2023/11/14/presentacion-wordcamp-madrid-2023/)
-- [Table ronde sur l’avenir de WordPress](https://wordpress.tv/2023/11/14/table-ronde-sur-lavenir-de-wordpress/)
-- [Un site qui génère plus de leads ou clients ? Pensez #AvantPendantAprès !](https://wordpress.tv/2023/11/14/un-site-qui-genere-plus-de-leads-ou-clients-pensez-avantpendantapres/)
-- [L’éco-conception, s’y mettre ou attendre le déluge ?](https://wordpress.tv/2023/11/14/leco-conception-sy-mettre-ou-attendre-le-deluge/)
-- [De l’idée à la réussite : Comment mener l’aventure entrepreneuriale de ta vie](https://wordpress.tv/2023/11/14/de-lidee-a-la-reussite-comment-mener-laventure-entrepreneuriale-de-ta-vie/)
-- [Séance de remise en form&lpar;s&rpar; : soigner le recueil d’informations dans son site WordPress](https://wordpress.tv/2023/11/14/seance-de-remise-en-forms-soigner-le-recueil-dinformations-dans-son-site-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
