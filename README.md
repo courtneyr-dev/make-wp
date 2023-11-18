@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Freelancer to MicroAgency: The Journey We’re On](https://wordpress.tv/2023/11/18/freelancer-to-microagency-the-journey-were-on/)
+- [Managing &amp; Supporting 450+ Sites – A Solopreneur Journey](https://wordpress.tv/2023/11/18/managing-supporting-450-sites-a-solopreneur-journey/)
+- [Growing in WordPress through Partnerships](https://wordpress.tv/2023/11/18/growing-in-wordpress-through-partnerships/)
 - [New WordPress Developer APIs: The HTML API](https://wordpress.tv/2023/11/18/new-wordpress-developer-apis-the-html-api/)
 - [WordPress 6.4 のアップデート内容を見てみよう！](https://wordpress.tv/2023/11/18/wordpress-6-4-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 - [Tips de diseño web para no diseñadores](https://wordpress.tv/2023/11/16/tips-de-diseno-web-para-no-disenadores/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [L’éco-conception, s’y mettre ou attendre le déluge ?](https://wordpress.tv/2023/11/14/leco-conception-sy-mettre-ou-attendre-le-deluge/)
 - [De l’idée à la réussite : Comment mener l’aventure entrepreneuriale de ta vie](https://wordpress.tv/2023/11/14/de-lidee-a-la-reussite-comment-mener-laventure-entrepreneuriale-de-ta-vie/)
 - [Séance de remise en form&lpar;s&rpar; : soigner le recueil d’informations dans son site WordPress](https://wordpress.tv/2023/11/14/seance-de-remise-en-forms-soigner-le-recueil-dinformations-dans-son-site-wordpress/)
-- [Retour d’expérience : WooCommerce.com](https://wordpress.tv/2023/11/14/retour-dexperience-woocommerce-com/)
-- [Le nombre de plugins idéal !](https://wordpress.tv/2023/11/14/le-nombre-de-plugins-ideal/)
-- [Un voyage au cœur du cache](https://wordpress.tv/2023/11/14/un-voyage-au-coeur-du-cache/)
 <!-- WPTV:END -->
 
 ## Marketing
