@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [New WordPress Developer APIs: The HTML API](https://wordpress.tv/2023/11/18/new-wordpress-developer-apis-the-html-api/)
+- [WordPress 6.4 のアップデート内容を見てみよう！](https://wordpress.tv/2023/11/18/wordpress-6-4-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 - [Tips de diseño web para no diseñadores](https://wordpress.tv/2023/11/16/tips-de-diseno-web-para-no-disenadores/)
 - [Sécurisation de site WordPress](https://wordpress.tv/2023/11/15/securisation-de-site-wordpress/)
 - [Onboarding Clients Does Not Have to Take a Miracle to get All the Things](https://wordpress.tv/2023/11/15/onboarding-clients-does-not-have-to-take-a-miracle-to-get-all-the-things/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Retour d’expérience : WooCommerce.com](https://wordpress.tv/2023/11/14/retour-dexperience-woocommerce-com/)
 - [Le nombre de plugins idéal !](https://wordpress.tv/2023/11/14/le-nombre-de-plugins-ideal/)
 - [Un voyage au cœur du cache](https://wordpress.tv/2023/11/14/un-voyage-au-coeur-du-cache/)
-- [The Documentation team GitHub roles onboarding](https://wordpress.tv/2023/11/14/the-documentation-team-github-roles-onboarding/)
-- [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2023/11/13/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once/)
 <!-- WPTV:END -->
 
 ## Marketing
