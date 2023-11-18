@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2023/11/18/pte-request-for-advanced-custom-fields-acf-2/)
+- [PTE Request for PayFeez](https://make.wordpress.org/polyglots/2023/11/18/pte-request-for-payfeez/)
 - [PTE Request for Tourfic Hey…](https://make.wordpress.org/polyglots/2023/11/17/pte-request-for-tourfic-hey/)
 - [PTE Request for DynamicBlocks I…](https://make.wordpress.org/polyglots/2023/11/17/pte-request-for-dynamicblocks-i/)
 - [PTE Request for Bangladeshi Payment Gateways – Make Payment Using QR Code](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-bangladeshi-payment-gateways-make-payment-using-qr-code/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Dokan](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-dokan-2/)
 - [PTE Request for supervisor](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-supervisor/)
 - [PTE Request for PDF Invoices…](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-pdf-invoices/)
-- [Hello! I am Stefan Gagner,…](https://make.wordpress.org/polyglots/2023/11/16/hello-i-am-stefan-gagner/)
-- [PTE Request for Campaigndot](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-campaigndot/)
 <!-- POLYGLOTS:END -->
 
 ## Support
