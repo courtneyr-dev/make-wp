@@ -117,10 +117,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- DEVHUB:START -->
 - [Quick Start Guide](https://developer.wordpress.org/block-editor/getting-started/quick-start-guide/)
 - [wp_print_font_faces&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_print_font_faces/)
-- [wp_admin_notice](https://developer.wordpress.org/reference/hooks/wp_admin_notice/)
-- [wp_admin_notice_markup](https://developer.wordpress.org/reference/hooks/wp_admin_notice_markup/)
-- [wp_admin_notice_args](https://developer.wordpress.org/reference/hooks/wp_admin_notice_args/)
 - [wp_admin_notice&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_admin_notice/)
+- [wp_admin_notice](https://developer.wordpress.org/reference/hooks/wp_admin_notice/)
+- [wp_admin_notice_args](https://developer.wordpress.org/reference/hooks/wp_admin_notice_args/)
+- [wp_admin_notice_markup](https://developer.wordpress.org/reference/hooks/wp_admin_notice_markup/)
 - [wp_get_admin_notice&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_admin_notice/)
 - [wp_unique_prefixed_id&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_unique_prefixed_id/)
 - [wp_trigger_error&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_trigger_error/)
