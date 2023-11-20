@@ -544,6 +544,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordPress School Day](https://central.wordcamp.org/wordcamps/wordpress-school-day/)
 - [Kolkata CareerCamp](https://central.wordcamp.org/wordcamps/kolkata-careercamp/)
 - [WordPress in Education Technology Showcase](https://central.wordcamp.org/wordcamps/wordpress-in-education-technology-showcase/)
 - [WordCamp Udaipur, Rajasthan, India](https://central.wordcamp.org/wordcamps/wordcamp-udaipur-rajasthan-india-4/)
@@ -553,7 +554,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Hong Kong](https://central.wordcamp.org/wordcamps/wordcamp-hong-kong-2/)
 - [WordCamp Torrelodones 2024](https://central.wordcamp.org/wordcamps/wordcamp-torrelodones/)
 - [WordCamp Lahore, Punjab, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-lahore-punjab/)
-- [WordCamp Skopje](https://central.wordcamp.org/wordcamps/wordcamp-skopje-2/)
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-8/)
 - [WordCamp Islamabad, Federal Govt, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-federal-govt-pakistan/)
 - [WordCamp Kansai 2024](https://central.wordcamp.org/wordcamps/wordcamp-kansai-2024/)
