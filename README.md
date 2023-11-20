@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Nominations Call for the themes team representatives: 2024 Edition](https://make.wordpress.org/themes/2023/11/20/nominations-call-for-the-themes-team-representatives-2024-edition/)
 - [Discussion: How to handle custom settings screens in block themes](https://make.wordpress.org/themes/2023/10/17/discussion-how-to-handle-custom-settings-screens-in-block-themes/)
 - [X-post: Revitalizing the WordPress Showcase](https://make.wordpress.org/themes/2023/10/12/xpost-revitalizing-the-wordpress-showcase/)
 - [Themes Team Meeting Notes – October 10, 2023](https://make.wordpress.org/themes/2023/10/11/themes-team-meeting-notes-october-10-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Themes team update September 26, 2023](https://make.wordpress.org/themes/2023/09/26/xpost-themes-team-update-september-26-2023/)
 - [Themes team meeting agenda for September 26, 2023](https://make.wordpress.org/themes/2023/09/25/themes-team-meeting-agenda-for-september-26-2023/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/themes/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
-- [X-post: Default Theme Chat Agenda: September 20th, 2023](https://make.wordpress.org/themes/2023/09/20/xpost-default-theme-chat-agenda-september-20th-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
