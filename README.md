@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Custom…](https://make.wordpress.org/polyglots/2023/11/20/pte-request-for-advanced-custom-6/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2023/11/18/pte-request-for-advanced-custom-fields-acf-2/)
 - [PTE Request for PayFeez](https://make.wordpress.org/polyglots/2023/11/18/pte-request-for-payfeez/)
 - [PTE Request for Tourfic Hey…](https://make.wordpress.org/polyglots/2023/11/17/pte-request-for-tourfic-hey/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Patterns Hey…](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-patterns-hey/)
 - [PTE Request for Dokan](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-dokan-2/)
 - [PTE Request for supervisor](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-supervisor/)
-- [PTE Request for PDF Invoices…](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-pdf-invoices/)
 <!-- POLYGLOTS:END -->
 
 ## Support
