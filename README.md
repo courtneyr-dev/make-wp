@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 14th November 2023](https://make.wordpress.org/training/2023/11/20/training-team-meeting-recap-14th-november-2023/)
 - [What’s next for Dev-Squad?](https://make.wordpress.org/training/2023/11/20/whats-next-for-dev-squad/)
 - [Training Team 2023 Year-End Review](https://make.wordpress.org/training/2023/11/20/training-team-2023-year-end-review/)
 - [Vote for Training Team Rep 2024](https://make.wordpress.org/training/2023/11/17/vote-for-training-team-rep-2024/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 7th November 2023](https://make.wordpress.org/training/2023/11/11/training-team-meeting-recap-7th-november-2023/)
 - [Training Team Meeting Recap – 31th October 2023](https://make.wordpress.org/training/2023/11/05/training-team-meeting-recap-31th-october-2023/)
 - [X-post: What’s new on Learn WordPress in October 2023](https://make.wordpress.org/training/2023/10/31/xpost-whats-new-on-learn-wordpress-in-october-2023/)
-- [Training Team Meeting Recap – 24th October 2023](https://make.wordpress.org/training/2023/10/30/training-team-meeting-recap-24th-october-2023/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
