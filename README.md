@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [CAGADAS que haces en WORDPRESS por las que nadie te ha REGAÑADO](https://wordpress.tv/2023/11/20/cagadas-que-haces-en-wordpress-por-las-que-nadie-te-ha-reganado/)
 - [Don’t Break the Internet: No Code End-to-End Testing](https://wordpress.tv/2023/11/18/dont-break-the-internet-no-code-end-to-end-testing/)
 - [What You Need to Know About the Reorganized Guidelines for Google Business Profiles &lpar;GBP&rpar;](https://wordpress.tv/2023/11/18/what-you-need-to-know-about-the-reorganized-guidelines-for-google-business-profiles-gbp/)
 - [Systems = Success](https://wordpress.tv/2023/11/18/systems-success/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Death to Slide Decks: Why Your Next Presentation Needs to be a Webpage](https://wordpress.tv/2023/11/15/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage/)
 - [How Large Organizations Make the Most of WordPress](https://wordpress.tv/2023/11/15/how-large-organizations-make-the-most-of-wordpress/)
 - [Multisite? Pourquoi pas!](https://wordpress.tv/2023/11/14/multisite-pourquoi-pas/)
-- [Environnement de développement WordPress moderne et productif](https://wordpress.tv/2023/11/14/environnement-de-developpement-wordpress-moderne-et-productif/)
 <!-- WPTV:END -->
 
 ## Marketing
