@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Exploring WordPress 6.4 &lpar;beta 4&rpar; Upcoming and Pending Features](https://wordpress.tv/2023/11/20/exploring-wordpress-6-4-beta-4-upcoming-and-pending-features/)
+- [A Thru-Hike of the WordPress API](https://wordpress.tv/2023/11/20/a-thru-hike-of-the-wordpress-api/)
+- [Decoupled WordPress: Enterprise Performance](https://wordpress.tv/2023/11/20/decoupled-wordpress-enterprise-performance/)
+- [From Vulnerable to Viable: Enhancing Your WordPress Security Posture](https://wordpress.tv/2023/11/20/from-vulnerable-to-viable-enhancing-your-wordpress-security-posture-2/)
 - [CAGADAS que haces en WORDPRESS por las que nadie te ha REGAÑADO](https://wordpress.tv/2023/11/20/cagadas-que-haces-en-wordpress-por-las-que-nadie-te-ha-reganado/)
 - [Don’t Break the Internet: No Code End-to-End Testing](https://wordpress.tv/2023/11/18/dont-break-the-internet-no-code-end-to-end-testing/)
 - [What You Need to Know About the Reorganized Guidelines for Google Business Profiles &lpar;GBP&rpar;](https://wordpress.tv/2023/11/18/what-you-need-to-know-about-the-reorganized-guidelines-for-google-business-profiles-gbp/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The power of leaning into the WordPress block editor](https://wordpress.tv/2023/11/15/the-power-of-leaning-into-the-wordpress-block-editor/)
 - [The Impact of AI on SEO Content](https://wordpress.tv/2023/11/15/the-impact-of-ai-on-seo-content/)
 - [You’re Leaving Money on the Table: Transactional Emails In WordPress](https://wordpress.tv/2023/11/15/transaction-emails-youre-leaving-money-on-the-table/)
-- [WordPress in Education](https://wordpress.tv/2023/11/15/wordpress-in-education/)
-- [Death to Slide Decks: Why Your Next Presentation Needs to be a Webpage](https://wordpress.tv/2023/11/15/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage/)
-- [How Large Organizations Make the Most of WordPress](https://wordpress.tv/2023/11/15/how-large-organizations-make-the-most-of-wordpress/)
-- [Multisite? Pourquoi pas!](https://wordpress.tv/2023/11/14/multisite-pourquoi-pas/)
 <!-- WPTV:END -->
 
 ## Marketing
