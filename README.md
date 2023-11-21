@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Quick Start Guide](https://developer.wordpress.org/block-editor/getting-started/quick-start-guide/)
-- [wp_print_font_faces&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_print_font_faces/)
-- [wp_admin_notice](https://developer.wordpress.org/reference/hooks/wp_admin_notice/)
-- [wp_admin_notice_markup](https://developer.wordpress.org/reference/hooks/wp_admin_notice_markup/)
-- [wp_admin_notice_args](https://developer.wordpress.org/reference/hooks/wp_admin_notice_args/)
-- [wp_admin_notice&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_admin_notice/)
-- [wp_get_admin_notice&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_admin_notice/)
-- [wp_unique_prefixed_id&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_unique_prefixed_id/)
-- [wp_trigger_error&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_trigger_error/)
-- [wp_trigger_error_run](https://developer.wordpress.org/reference/hooks/wp_trigger_error_run/)
+- [Global Settings and Styles](https://developer.wordpress.org/themes/core-concepts/global-settings-and-styles/)
+- [Including Assets](https://developer.wordpress.org/themes/core-concepts/including-assets/)
+- [Custom Functionality &lpar;functions.php&rpar;](https://developer.wordpress.org/themes/core-concepts/custom-functionality/)
+- [Templates](https://developer.wordpress.org/themes/core-concepts/templates/)
+- [Main Stylesheet &lpar;style.css&rpar;](https://developer.wordpress.org/themes/core-concepts/main-stylesheet/)
+- [Theme Structure](https://developer.wordpress.org/themes/core-concepts/theme-structure/)
+- [Quick-Start Guide](https://developer.wordpress.org/themes/getting-started/quick-start-guide/)
+- [Tools and Setup](https://developer.wordpress.org/themes/getting-started/tools-and-setup/)
+- [Reading This Handbook](https://developer.wordpress.org/themes/getting-started/reading-this-handbook/)
+- [Who Is This Handbook For?](https://developer.wordpress.org/themes/getting-started/who-is-this-handbook-for/)
 <!-- DEVHUB:END -->
 
 ## Themes
