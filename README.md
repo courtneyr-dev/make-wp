@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 21 November 2023](https://make.wordpress.org/core/2023/11/21/performance-chat-summary-21-november-2023/)
 - [Exploration to support Modules and Import Maps](https://make.wordpress.org/core/2023/11/21/exploration-to-support-modules-and-import-maps/)
 - [Performance Chat Agenda: 21 November 2023](https://make.wordpress.org/core/2023/11/21/performance-chat-agenda-21-november-2023/)
 - [Dev Chat Summary, November 15, 2023](https://make.wordpress.org/core/2023/11/17/dev-chat-summary-november-15-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 14 November 2023](https://make.wordpress.org/core/2023/11/14/performance-chat-summary-14-november-2023/)
 - [Dev Chat agenda, November 15, 2023](https://make.wordpress.org/core/2023/11/14/dev-chat-agenda-november-15-2023/)
 - [Bug scrub schedule for WordPress 6.5](https://make.wordpress.org/core/2023/11/14/bug-scrub-schedule-for-wordpress-6-5/)
-- [X-post: Call for volunteers to help with 6.4 end-user documentation](https://make.wordpress.org/core/2023/11/14/xpost-call-for-volunteers-to-help-with-6-4-end-user-documentation/)
 <!-- CORE:END -->
 
 ## Design
