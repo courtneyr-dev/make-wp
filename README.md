@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Experienced WordPress Developer for Performance Optimization and Stress Testing](https://jobs.wordpress.net/job/experienced-wordpress-developer-for-performance-optimization-and-stress-testing/)
 - [web developer](https://jobs.wordpress.net/job/web-developer-207/)
 - [WordPress real estate upgrade](https://jobs.wordpress.net/job/wordpress-real-estate-upgrade/)
 - [Wordoress developer](https://jobs.wordpress.net/job/wordoress-developer/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Freelance WordPress developer](https://jobs.wordpress.net/job/freelance-wordpress-developer-56/)
 - [Customer Support Agent for WordPress Themes](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-821/)
-- [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-9/)
 <!-- JOBS:END -->
 
 ## Central
