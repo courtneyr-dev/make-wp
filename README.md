@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Recreating TechCrunch.com in 30 minutes](https://wordpress.tv/2023/11/21/recreating-techcrunch-com-in-30-minutes/)
 - [The Creation Of Small Business Websites In WordPress – My Process](https://wordpress.tv/2023/11/21/the-creation-of-small-business-websites-in-wordpress-my-process/)
 - [Getting started with the E2E Playwright test utils for WordPress today &lpar;2023&rpar;](https://wordpress.tv/2023/11/21/getting-started-with-the-e2e-playwright-test-utils-for-wordpress-today-2023/)
 - [A Comprehensive Guide to Accessibility for Backend Engineers](https://wordpress.tv/2023/11/21/a-comprehensive-guide-to-accessibility-for-backend-engineers/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress and The IndieWeb](https://wordpress.tv/2023/11/18/wordpress-and-the-indieweb-2/)
 - [How to Break the Internet: Lessons from the Support Desk](https://wordpress.tv/2023/11/18/how-to-break-the-internet-lessons-from-the-support-desk/)
 - [Transitioning With WordPress: How to Create Welcoming Communities in WordPress](https://wordpress.tv/2023/11/18/transitioning-with-wordpress-how-to-create-welcoming-communities-in-wordpress/)
-- [Freelancer to MicroAgency: The Journey We’re On](https://wordpress.tv/2023/11/18/freelancer-to-microagency-the-journey-were-on/)
 <!-- WPTV:END -->
 
 ## Marketing
