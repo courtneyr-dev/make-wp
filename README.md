@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [The Story of the Custom Post Type Lost in a World of Pages](https://learn.wordpress.org/?meeting=the-story-of-the-custom-post-type-lost-in-a-world-of-pages)
 - [Exploring some of the new features of WordPress 6.4](https://learn.wordpress.org/?meeting=exploring-some-of-the-new-features-of-wordpress-6-4)
 - [New WordPress Developer APIs: The HTML API](https://learn.wordpress.org/?meeting=new-wordpress-developer-apis-the-html-api)
 - [WordPress 6.4 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-4-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PHP compatibility testing with PHPCompatibilityWP](https://learn.wordpress.org/?meeting=php-compatibility-testing-with-phpcompatibilitywp)
 - [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team-2)
 - [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team)
-- [Five for the Future: How to succeed by making ongoing contributions to WordPress](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-to-wordpress-2)
 <!-- SLS:END -->
 
 ## Test
