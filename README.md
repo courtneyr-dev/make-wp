@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo crear tu primer plugin](https://wordpress.tv/2023/11/21/como-crear-tu-primer-plugin/)
+- [Build Your Career with the WordPress Site Editor](https://wordpress.tv/2023/11/21/build-your-career-with-the-wordpress-site-editor/)
 - [Exploring WordPress 6.4 &lpar;beta 4&rpar; Upcoming and Pending Features](https://wordpress.tv/2023/11/20/exploring-wordpress-6-4-beta-4-upcoming-and-pending-features/)
 - [A Thru-Hike of the WordPress API](https://wordpress.tv/2023/11/20/a-thru-hike-of-the-wordpress-api/)
 - [Decoupled WordPress: Enterprise Performance](https://wordpress.tv/2023/11/20/decoupled-wordpress-enterprise-performance/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Do You Struggle with Closing Sales? Are You Tired of Losing Deals to Your Competition?](https://wordpress.tv/2023/11/15/do-you-struggle-with-closing-sales-are-you-tired-of-losing-deals-to-your-competition/)
 - [Leveraging Social Media to Build Your Agency](https://wordpress.tv/2023/11/15/leveraging-social-media-to-build-your-agency/)
 - [The power of leaning into the WordPress block editor](https://wordpress.tv/2023/11/15/the-power-of-leaning-into-the-wordpress-block-editor/)
-- [The Impact of AI on SEO Content](https://wordpress.tv/2023/11/15/the-impact-of-ai-on-seo-content/)
-- [You’re Leaving Money on the Table: Transactional Emails In WordPress](https://wordpress.tv/2023/11/15/transaction-emails-youre-leaving-money-on-the-table/)
 <!-- WPTV:END -->
 
 ## Marketing
