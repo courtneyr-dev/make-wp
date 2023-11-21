@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Registro de marcas y patentes](https://wordpress.tv/2023/11/21/registro-de-marcas-y-patentes/)
 - [How to Automate Your WordPress Workflows With InstaWP](https://wordpress.tv/2023/11/21/how-to-automate-your-wordpress-workflows-with-instawp/)
 - [Creating an Intuitive WooCommerce Checkout Experience](https://wordpress.tv/2023/11/21/creating-an-intuitive-woocommerce-checkout-experience/)
 - [From Passion to Profit: Navigating the Journey of Launching a Digital Agency](https://wordpress.tv/2023/11/21/from-passion-to-profit-navigating-the-journey-of-launching-a-digital-agency/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CAGADAS que haces en WORDPRESS por las que nadie te ha REGAÑADO](https://wordpress.tv/2023/11/20/cagadas-que-haces-en-wordpress-por-las-que-nadie-te-ha-reganado/)
 - [Don’t Break the Internet: No Code End-to-End Testing](https://wordpress.tv/2023/11/18/dont-break-the-internet-no-code-end-to-end-testing/)
 - [What You Need to Know About the Reorganized Guidelines for Google Business Profiles &lpar;GBP&rpar;](https://wordpress.tv/2023/11/18/what-you-need-to-know-about-the-reorganized-guidelines-for-google-business-profiles-gbp/)
-- [Systems = Success](https://wordpress.tv/2023/11/18/systems-success/)
 <!-- WPTV:END -->
 
 ## Marketing
