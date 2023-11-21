@@ -342,6 +342,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Creation Of Small Business Websites In WordPress – My Process](https://wordpress.tv/2023/11/21/the-creation-of-small-business-websites-in-wordpress-my-process/)
+- [Getting started with the E2E Playwright test utils for WordPress today &lpar;2023&rpar;](https://wordpress.tv/2023/11/21/getting-started-with-the-e2e-playwright-test-utils-for-wordpress-today-2023/)
+- [A Comprehensive Guide to Accessibility for Backend Engineers](https://wordpress.tv/2023/11/21/a-comprehensive-guide-to-accessibility-for-backend-engineers/)
+- [WordPress Playground: The Famous « 5 Second » Install](https://wordpress.tv/2023/11/21/wordpress-playground-the-famous-5-second-install/)
+- [The three things all web professionals need to know about privacy](https://wordpress.tv/2023/11/21/the-three-things-all-web-professionals-need-to-know-about-privacy/)
+- [HELP! I made my dream WordPress site, but I have no traffic. What gives?](https://wordpress.tv/2023/11/21/help-i-made-my-dream-wordpress-site-but-i-have-no-traffic-what-gives/)
+- [Old WP REST API, New Tricks](https://wordpress.tv/2023/11/21/old-wp-rest-api-new-tricks/)
+- [Choose the PERFECT audience for offering websites as a service to build monthly recurring revenue](https://wordpress.tv/2023/11/21/choose-the-perfect-audience-for-offering-websites-as-a-service-to-build-monthly-recurring-revenue/)
+- [Markdown in Minutes](https://wordpress.tv/2023/11/21/markdown-in-minutes/)
+- [How to Focus on Customer Success to Grow Your Business.](https://wordpress.tv/2023/11/21/how-to-focus-on-customer-success-to-grow-your-business/)
 - [Cómo crear tu primer plugin](https://wordpress.tv/2023/11/21/como-crear-tu-primer-plugin/)
 - [Build Your Career with the WordPress Site Editor](https://wordpress.tv/2023/11/21/build-your-career-with-the-wordpress-site-editor/)
 - [Exploring WordPress 6.4 &lpar;beta 4&rpar; Upcoming and Pending Features](https://wordpress.tv/2023/11/20/exploring-wordpress-6-4-beta-4-upcoming-and-pending-features/)
@@ -357,16 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Break the Internet: Lessons from the Support Desk](https://wordpress.tv/2023/11/18/how-to-break-the-internet-lessons-from-the-support-desk/)
 - [Transitioning With WordPress: How to Create Welcoming Communities in WordPress](https://wordpress.tv/2023/11/18/transitioning-with-wordpress-how-to-create-welcoming-communities-in-wordpress/)
 - [Freelancer to MicroAgency: The Journey We’re On](https://wordpress.tv/2023/11/18/freelancer-to-microagency-the-journey-were-on/)
-- [Managing &amp; Supporting 450+ Sites – A Solopreneur Journey](https://wordpress.tv/2023/11/18/managing-supporting-450-sites-a-solopreneur-journey/)
-- [Growing in WordPress through Partnerships](https://wordpress.tv/2023/11/18/growing-in-wordpress-through-partnerships/)
-- [New WordPress Developer APIs: The HTML API](https://wordpress.tv/2023/11/18/new-wordpress-developer-apis-the-html-api/)
-- [WordPress 6.4 のアップデート内容を見てみよう！](https://wordpress.tv/2023/11/18/wordpress-6-4-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
-- [Tips de diseño web para no diseñadores](https://wordpress.tv/2023/11/16/tips-de-diseno-web-para-no-disenadores/)
-- [Sécurisation de site WordPress](https://wordpress.tv/2023/11/15/securisation-de-site-wordpress/)
-- [Onboarding Clients Does Not Have to Take a Miracle to get All the Things](https://wordpress.tv/2023/11/15/onboarding-clients-does-not-have-to-take-a-miracle-to-get-all-the-things/)
-- [Do You Struggle with Closing Sales? Are You Tired of Losing Deals to Your Competition?](https://wordpress.tv/2023/11/15/do-you-struggle-with-closing-sales-are-you-tired-of-losing-deals-to-your-competition/)
-- [Leveraging Social Media to Build Your Agency](https://wordpress.tv/2023/11/15/leveraging-social-media-to-build-your-agency/)
-- [The power of leaning into the WordPress block editor](https://wordpress.tv/2023/11/15/the-power-of-leaning-into-the-wordpress-block-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
