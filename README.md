@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request in project Reviews Feed &lpar;fr_FR&rpar;](https://make.wordpress.org/polyglots/2023/11/21/pte-request-in-project-reviews-feed-fr_fr/)
 - [PTE Request for Twenty Twenty- Four](https://make.wordpress.org/polyglots/2023/11/21/pte-request-for-twenty-twenty-four-2/)
 - [Translating and localizing documentation for the Spanish language](https://make.wordpress.org/polyglots/2023/11/20/translating-and-localizing-documentation-for-the-spanish-language/)
 - [PTE Request for Openverse.org](https://make.wordpress.org/polyglots/2023/11/20/pte-request-for-openverse-org/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Tourfic Hey…](https://make.wordpress.org/polyglots/2023/11/17/pte-request-for-tourfic-hey/)
 - [PTE Request for DynamicBlocks I…](https://make.wordpress.org/polyglots/2023/11/17/pte-request-for-dynamicblocks-i/)
 - [PTE Request for Bangladeshi Payment Gateways – Make Payment Using QR Code](https://make.wordpress.org/polyglots/2023/11/16/pte-request-for-bangladeshi-payment-gateways-make-payment-using-qr-code/)
-- [Ascendoor News &lpar;Beautiful and new theme&rpar;](https://make.wordpress.org/polyglots/2023/11/16/ascendoor-news-very-beautiful-and-new-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
