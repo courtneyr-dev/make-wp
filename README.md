@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Plugin Directory: Preview button revisited](https://make.wordpress.org/meta/2023/11/22/plugin-directory-preview-button-revisited/)
 - [Agenda for November 15, 2023](https://make.wordpress.org/meta/2023/11/15/agenda-for-november-15-2023/)
 - [Meeting Agenda for November 1, 2023](https://make.wordpress.org/meta/2023/10/31/meeting-agenda-for-november-1-2023/)
 - [Team Coordination for Plugin Directory Updates](https://make.wordpress.org/meta/2023/10/20/team-coordination-for-plugin-directory-updates/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Updates to global header and footer navigation](https://make.wordpress.org/meta/2023/10/11/updates-to-global-header-and-footer-navigation/)
 - [Meeting Recap for October 4, 2023](https://make.wordpress.org/meta/2023/10/05/meeting-recap-for-october-4-2023/)
 - [Meeting Agenda for October 4, 2023](https://make.wordpress.org/meta/2023/10/03/meeting-agenda-for-october-4-2023/)
-- [Set up Two-Factor authentication WordPress.org](https://make.wordpress.org/meta/2023/09/26/set-up-two-factor-authentication-wordpress-org/)
 <!-- META:END -->
 
 ## Training
