@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/docs/2023/11/22/xpost-redesigning-developer-resources-and-a-call-for-testing/)
 - [Agenda for Docs Team meeting November 21, 2023](https://make.wordpress.org/docs/2023/11/20/agenda-for-docs-team-meeting-november-21-2023/)
 - [Summary for Docs Team Meeting &lpar;7-Nov-2023&rpar;](https://make.wordpress.org/docs/2023/11/14/summary-for-docs-team-meeting-7-nov-2023/)
 - [Summary for Docs Team Meeting &lpar;31-Oct-2023&rpar;](https://make.wordpress.org/docs/2023/11/07/summary-for-docs-team-meeting-31-oct-2023/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for volunteers to help with 6.4 end-user documentation](https://make.wordpress.org/docs/2023/10/25/call-for-volunteers-to-help-with-6-4-end-user-documentation/)
 - [Summary of Docs Team meeting October 17, 2023](https://make.wordpress.org/docs/2023/10/21/summary-of-docs-team-meeting-october-17-2023/)
 - [Online monthly Docs Team Contributor Day October 24, 2023](https://make.wordpress.org/docs/2023/10/19/online-monthly-docs-team-contributor-day-october-24-2023/)
-- [Agenda for Docs Team Biweekly Meeting &lpar;October 17, 2023&rpar;](https://make.wordpress.org/docs/2023/10/16/agenda-for-docs-team-biweekly-meeting-october-17-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
