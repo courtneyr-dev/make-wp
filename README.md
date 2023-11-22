@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Beyond Code: Creating Value through Outstanding Customer Experiences](https://wordpress.tv/2023/11/22/beyond-code-creating-value-through-outstanding-customer-experiences/)
 - [Registro de marcas y patentes](https://wordpress.tv/2023/11/21/registro-de-marcas-y-patentes/)
 - [How to Automate Your WordPress Workflows With InstaWP](https://wordpress.tv/2023/11/21/how-to-automate-your-wordpress-workflows-with-instawp/)
 - [Creating an Intuitive WooCommerce Checkout Experience](https://wordpress.tv/2023/11/21/creating-an-intuitive-woocommerce-checkout-experience/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Vulnerable to Viable: Enhancing Your WordPress Security Posture](https://wordpress.tv/2023/11/20/from-vulnerable-to-viable-enhancing-your-wordpress-security-posture-2/)
 - [CAGADAS que haces en WORDPRESS por las que nadie te ha REGAÑADO](https://wordpress.tv/2023/11/20/cagadas-que-haces-en-wordpress-por-las-que-nadie-te-ha-reganado/)
 - [Don’t Break the Internet: No Code End-to-End Testing](https://wordpress.tv/2023/11/18/dont-break-the-internet-no-code-end-to-end-testing/)
-- [What You Need to Know About the Reorganized Guidelines for Google Business Profiles &lpar;GBP&rpar;](https://wordpress.tv/2023/11/18/what-you-need-to-know-about-the-reorganized-guidelines-for-google-business-profiles-gbp/)
 <!-- WPTV:END -->
 
 ## Marketing
