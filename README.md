@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Image Gallery Block](https://make.wordpress.org/polyglots/2023/11/22/pte-request-for-image-gallery-block/)
 - [Hello, Polyglots.](https://make.wordpress.org/polyglots/2023/11/21/hello-polyglots-302/)
 - [PTE request in project Reviews Feed &lpar;fr_FR&rpar;](https://make.wordpress.org/polyglots/2023/11/21/pte-request-in-project-reviews-feed-fr_fr/)
 - [PTE Request for Twenty Twenty- Four](https://make.wordpress.org/polyglots/2023/11/21/pte-request-for-twenty-twenty-four-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2023/11/18/pte-request-for-advanced-custom-fields-acf-2/)
 - [PTE Request for PayFeez](https://make.wordpress.org/polyglots/2023/11/18/pte-request-for-payfeez/)
 - [PTE Request for Tourfic Hey…](https://make.wordpress.org/polyglots/2023/11/17/pte-request-for-tourfic-hey/)
-- [PTE Request for DynamicBlocks I…](https://make.wordpress.org/polyglots/2023/11/17/pte-request-for-dynamicblocks-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
