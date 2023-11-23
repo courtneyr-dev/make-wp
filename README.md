@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [CustomSelectControlV2](https://developer.wordpress.org/block-editor/reference-guides/components/custom-select-control-v2/)
 - [Global Settings and Styles](https://developer.wordpress.org/themes/core-concepts/global-settings-and-styles/)
 - [Including Assets](https://developer.wordpress.org/themes/core-concepts/including-assets/)
 - [Custom Functionality &lpar;functions.php&rpar;](https://developer.wordpress.org/themes/core-concepts/custom-functionality/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Quick-Start Guide](https://developer.wordpress.org/themes/getting-started/quick-start-guide/)
 - [Tools and Setup](https://developer.wordpress.org/themes/getting-started/tools-and-setup/)
 - [Reading This Handbook](https://developer.wordpress.org/themes/getting-started/reading-this-handbook/)
-- [Who Is This Handbook For?](https://developer.wordpress.org/themes/getting-started/who-is-this-handbook-for/)
 <!-- DEVHUB:END -->
 
 ## Themes
