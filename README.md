@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-10/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-823/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-10/)
+- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-6/)
+- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-27/)
+- [Content Checker](https://jobs.wordpress.net/job/content-checker/)
 - [WordPress Industry Content Writer](https://jobs.wordpress.net/job/wordpress-industry-content-writer/)
 - [Experienced WordPress Developer for Performance Optimization and Stress Testing](https://jobs.wordpress.net/job/experienced-wordpress-developer-for-performance-optimization-and-stress-testing/)
 - [web developer](https://jobs.wordpress.net/job/web-developer-207/)
 - [WordPress real estate upgrade](https://jobs.wordpress.net/job/wordpress-real-estate-upgrade/)
-- [Wordoress developer](https://jobs.wordpress.net/job/wordoress-developer/)
-- [hello, we looking for a expert in wprocket, perfmatters, JS, CSS optimisation on WordPress, with experience, for a job please](https://jobs.wordpress.net/job/hello-we-looking-for-a-expert-in-wprocket-perfmatters-js-css-optimisation-on-wordpress-with-experience-for-a-job-please/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-822/)
-- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-5/)
-- [Freelance WordPress developer](https://jobs.wordpress.net/job/freelance-wordpress-developer-56/)
-- [Customer Support Agent for WordPress Themes](https://jobs.wordpress.net/job/customer-support-agent-for-wordpress-themes/)
 <!-- JOBS:END -->
 
 ## Central
