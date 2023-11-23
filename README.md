@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Grégoire Noyelle: Maîtrise les Polices Variables dans l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2023/11/23/gregoire-noyelle-maitrise-les-polices-variables-dans-lediteur-de-site-wordpress-fse/)
 - [WP CLI : le couteau suisse du développeur](https://wordpress.tv/2023/11/23/wp-cli-le-couteau-suisse-du-developpeur/)
 - [Beyond Code: Creating Value through Outstanding Customer Experiences](https://wordpress.tv/2023/11/22/beyond-code-creating-value-through-outstanding-customer-experiences/)
 - [Registro de marcas y patentes](https://wordpress.tv/2023/11/21/registro-de-marcas-y-patentes/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Thru-Hike of the WordPress API](https://wordpress.tv/2023/11/20/a-thru-hike-of-the-wordpress-api/)
 - [Decoupled WordPress: Enterprise Performance](https://wordpress.tv/2023/11/20/decoupled-wordpress-enterprise-performance/)
 - [From Vulnerable to Viable: Enhancing Your WordPress Security Posture](https://wordpress.tv/2023/11/20/from-vulnerable-to-viable-enhancing-your-wordpress-security-posture-2/)
-- [CAGADAS que haces en WORDPRESS por las que nadie te ha REGAÑADO](https://wordpress.tv/2023/11/20/cagadas-que-haces-en-wordpress-por-las-que-nadie-te-ha-reganado/)
 <!-- WPTV:END -->
 
 ## Marketing
