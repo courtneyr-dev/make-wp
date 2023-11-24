@@ -346,7 +346,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Experts WordPress : découvrez comment vous protéger des 3 plus gros risques clients](https://wordpress.tv/2023/11/23/experts-wordpress-decouvrez-comment-vous-proteger-des-3-plus-gros-risques-clients/)
 - [WordPress, est-ce que ça scale ?](https://wordpress.tv/2023/11/23/wordpress-est-ce-que-ca-scale/)
 - [Créez un plugin réconciliant le PHP moderne et le développement WordPress](https://wordpress.tv/2023/11/23/creez-un-plugin-reconciliant-le-php-moderne-et-le-developpement-wordpress/)
-- [Nicolas Mercadieu: Tailler son site comme une fusée ! L’architecture WordPress optimisée SEO](https://wordpress.tv/2023/11/23/nicolas-mercadieu-tailler-son-site-comme-une-fusee-larchitecture-wordpress-optimisee-seo/)
+- [Tailler son site comme une fusée ! L’architecture WordPress optimisée SEO](https://wordpress.tv/2023/11/23/nicolas-mercadieu-tailler-son-site-comme-une-fusee-larchitecture-wordpress-optimisee-seo/)
 - [Mes indispensables pour créer un site WordPress](https://wordpress.tv/2023/11/23/mes-indispensables-pour-creer-un-site-wordpress/)
 - [Comprendre et optimiser notre base de données WordPress](https://wordpress.tv/2023/11/23/comprendre-et-optimiser-notre-base-de-donnees-wordpress/)
 - [Grégoire Noyelle: Maîtrise les Polices Variables dans l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2023/11/23/gregoire-noyelle-maitrise-les-polices-variables-dans-lediteur-de-site-wordpress-fse/)
