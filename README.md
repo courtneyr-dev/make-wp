@@ -45,6 +45,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Notes: November 17, 2023](https://make.wordpress.org/accessibility/2023/11/25/accessibility-team-meeting-notes-november-17-2023/)
 - [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/accessibility/2023/11/23/xpost-redesigning-developer-resources-and-a-call-for-testing/)
 - [Accessibility Team Meeting Agenda: November 17, 2023](https://make.wordpress.org/accessibility/2023/11/17/accessibility-team-meeting-agenda-november-17-2023/)
 - [X-post: Hallway Hangout: Recap of working session on consolidating navigation modes](https://make.wordpress.org/accessibility/2023/11/15/xpost-hallway-hangout-recap-of-working-session-on-consolidating-navigation-modes/)
@@ -54,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: October 20, 2023](https://make.wordpress.org/accessibility/2023/10/16/accessibility-team-meeting-agenda-october-20-2023/)
 - [Accessibility Team Meeting Agenda: October 6, 2023](https://make.wordpress.org/accessibility/2023/10/06/accessibility-team-meeting-agenda-october-6-2023/)
 - [X-post: Openverse 2024 Planning: We Want Your Ideas!](https://make.wordpress.org/accessibility/2023/09/22/xpost-openverse-2024-planning-we-want-your-ideas/)
-- [Accessibility Team Meeting Notes: September 15, 2023](https://make.wordpress.org/accessibility/2023/09/22/accessibility-team-meeting-notes-september-15-2023/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
