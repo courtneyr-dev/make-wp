@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Inspect Block Data](https://make.wordpress.org/polyglots/2023/11/24/pte-request-for-inspect-block-data/)
+- [Dear all. I am interested…](https://make.wordpress.org/polyglots/2023/11/24/dear-all-i-am-interested/)
+- [PTE Request for 6.3.x](https://make.wordpress.org/polyglots/2023/11/24/pte-request-for-6-3-x/)
 - [Hi polyglots, I’ve suggested some…](https://make.wordpress.org/polyglots/2023/11/23/hi-polyglots-ive-suggested-some/)
 - [PTE Request for Image Gallery Block](https://make.wordpress.org/polyglots/2023/11/22/pte-request-for-image-gallery-block/)
 - [Hello, Polyglots.](https://make.wordpress.org/polyglots/2023/11/21/hello-polyglots-302/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Twenty Twenty- Four](https://make.wordpress.org/polyglots/2023/11/21/pte-request-for-twenty-twenty-four-2/)
 - [Translating and localizing documentation for the Spanish language](https://make.wordpress.org/polyglots/2023/11/20/translating-and-localizing-documentation-for-the-spanish-language/)
 - [PTE Request for Openverse.org](https://make.wordpress.org/polyglots/2023/11/20/pte-request-for-openverse-org/)
-- [PTE Request for Advanced Custom…](https://make.wordpress.org/polyglots/2023/11/20/pte-request-for-advanced-custom-6/)
-- [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2023/11/18/pte-request-for-advanced-custom-fields-acf-2/)
-- [PTE Request for PayFeez](https://make.wordpress.org/polyglots/2023/11/18/pte-request-for-payfeez/)
 <!-- POLYGLOTS:END -->
 
 ## Support
