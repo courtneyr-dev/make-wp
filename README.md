@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi,](https://make.wordpress.org/polyglots/2023/11/26/hi-107/)
 - [PTE Request for Blocksy theme](https://make.wordpress.org/polyglots/2023/11/26/pte-request-for-blocksy-theme-3/)
 - [PTE Request for Greenshift –…](https://make.wordpress.org/polyglots/2023/11/26/pte-request-for-greenshift/)
 - [translation suggested for WordPress Meta in Gujarati](https://make.wordpress.org/polyglots/2023/11/25/translation-suggested-for-wordpress-meta-in-gujarati/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi polyglots, I’ve suggested some…](https://make.wordpress.org/polyglots/2023/11/23/hi-polyglots-ive-suggested-some/)
 - [PTE Request for Image Gallery Block](https://make.wordpress.org/polyglots/2023/11/22/pte-request-for-image-gallery-block/)
 - [Hello, Polyglots.](https://make.wordpress.org/polyglots/2023/11/21/hello-polyglots-302/)
-- [PTE request in project Reviews Feed &lpar;fr_FR&rpar;](https://make.wordpress.org/polyglots/2023/11/21/pte-request-in-project-reviews-feed-fr_fr/)
 <!-- POLYGLOTS:END -->
 
 ## Support
