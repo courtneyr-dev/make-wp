@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-5/)
 - [QA Engineer – Remote](https://jobs.wordpress.net/job/qa-engineer-remote-4/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-10/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-823/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Content Checker](https://jobs.wordpress.net/job/content-checker/)
 - [WordPress Industry Content Writer](https://jobs.wordpress.net/job/wordpress-industry-content-writer/)
 - [Experienced WordPress Developer for Performance Optimization and Stress Testing](https://jobs.wordpress.net/job/experienced-wordpress-developer-for-performance-optimization-and-stress-testing/)
-- [web developer](https://jobs.wordpress.net/job/web-developer-207/)
 <!-- JOBS:END -->
 
 ## Central
