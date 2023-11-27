@@ -3,7 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
-- [Summary Hallway Hangout Triage Extensibility Issue](https://make.wordpress.org/core/2023/11/27/summary-hallway-hangout-triage-extensibility-issue/)
+- [Summary Hallway Hangout Triage Gutenberg Extensibility Issues](https://make.wordpress.org/core/2023/11/27/summary-hallway-hangout-triage-extensibility-issue/)
 - [Hallway Hangout: Let’s explore WordPress 6.5](https://make.wordpress.org/core/2023/11/23/hallway-hangout-lets-explore-wordpress-6-5/)
 - [What’s new in Gutenberg 17.1 &lpar;22 November&rpar;](https://make.wordpress.org/core/2023/11/22/whats-new-in-gutenberg-17-1-22-november/)
 - [Dev Chat agenda, November 22, 2023](https://make.wordpress.org/core/2023/11/21/dev-chat-agenda-november-22-2023/)
