@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Menu…](https://make.wordpress.org/polyglots/2023/11/27/pte-request-for-wp-menu/)
 - [PTE Request for Blocksy Companion Plugin](https://make.wordpress.org/polyglots/2023/11/27/pte-request-for-blocksy-companion-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2023/11/26/hi-107/)
 - [PTE Request for Blocksy theme](https://make.wordpress.org/polyglots/2023/11/26/pte-request-for-blocksy-theme-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dear all. I am interested…](https://make.wordpress.org/polyglots/2023/11/24/dear-all-i-am-interested/)
 - [PTE Request for 6.3.x](https://make.wordpress.org/polyglots/2023/11/24/pte-request-for-6-3-x/)
 - [Hi polyglots, I’ve suggested some…](https://make.wordpress.org/polyglots/2023/11/23/hi-polyglots-ive-suggested-some/)
-- [PTE Request for Image Gallery Block](https://make.wordpress.org/polyglots/2023/11/22/pte-request-for-image-gallery-block/)
 <!-- POLYGLOTS:END -->
 
 ## Support
