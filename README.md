@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Creating a one-page website](https://learn.wordpress.org/?meeting=creating-a-one-page-website)
 - [The Story of the Custom Post Type Lost in a World of Pages](https://learn.wordpress.org/?meeting=the-story-of-the-custom-post-type-lost-in-a-world-of-pages)
 - [Exploring some of the new features of WordPress 6.4](https://learn.wordpress.org/?meeting=exploring-some-of-the-new-features-of-wordpress-6-4)
 - [New WordPress Developer APIs: The HTML API](https://learn.wordpress.org/?meeting=new-wordpress-developer-apis-the-html-api)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the Query Loop block and Category templates](https://learn.wordpress.org/?meeting=using-the-query-loop-block-and-category-templates)
 - [PHP compatibility testing with PHPCompatibilityWP](https://learn.wordpress.org/?meeting=php-compatibility-testing-with-phpcompatibilitywp)
 - [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team-2)
-- [How to Write Meeting Recap Notes for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-write-meeting-recap-notes-for-the-wordpress-training-team)
 <!-- SLS:END -->
 
 ## Test
