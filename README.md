@@ -228,6 +228,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [মন্তব্য পরিচালনা করা](https://learn.wordpress.org/tutorial/bn-managing-comments/)
+- [ওয়েবসাইটের নিরাপত্তা উন্নত করার ৭ টি টিপস](https://learn.wordpress.org/tutorial/bn-7-tips-to-improve-website-security/)
 - [সেটিংস ম্যানেজঃ পড়া](https://learn.wordpress.org/tutorial/bn-managing-settings-reading/)
 - [How to create a menu with the navigation block](https://learn.wordpress.org/tutorial/how-to-create-a-menu-with-the-navigation-block-2/)
 - [কিভাবে একটি কর্মশালা জমা দিতে হয়](https://learn.wordpress.org/tutorial/bn-how-to-submit-a-workshop/)
@@ -251,8 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating your own custom synced or non-synced patterns](https://learn.wordpress.org/tutorial/creating-your-own-custom-synced-or-non-synced-patterns/)
 - [Scheduling posts and pages](https://learn.wordpress.org/tutorial/scheduling-posts-and-pages/)
 - [Intro to the Site Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
-- [વર્ડપ્રેસ પ્લેગ્રાઉન્ડનો ઉપયોગ કેવી રીતે શરૂ કરવો](https://learn.wordpress.org/tutorial/gu-how-to-start-using-wordpress-playground/)
-- [Common APIs – Dashboard Widgets](https://learn.wordpress.org/tutorial/common-apis-dashboard-widgets/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
