@@ -364,9 +364,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Playground: The Famous « 5 Second » Install](https://wordpress.tv/2023/11/21/wordpress-playground-the-famous-5-second-install/)
 - [The three things all web professionals need to know about privacy](https://wordpress.tv/2023/11/21/the-three-things-all-web-professionals-need-to-know-about-privacy/)
 - [HELP! I made my dream WordPress site, but I have no traffic. What gives?](https://wordpress.tv/2023/11/21/help-i-made-my-dream-wordpress-site-but-i-have-no-traffic-what-gives/)
-- [Old WP REST API, New Tricks](https://wordpress.tv/2023/11/21/old-wp-rest-api-new-tricks/)
 - [Choose the PERFECT audience for offering websites as a service to build monthly recurring revenue](https://wordpress.tv/2023/11/21/choose-the-perfect-audience-for-offering-websites-as-a-service-to-build-monthly-recurring-revenue/)
 - [Markdown in Minutes](https://wordpress.tv/2023/11/21/markdown-in-minutes/)
+- [How to Focus on Customer Success to Grow Your Business.](https://wordpress.tv/2023/11/21/how-to-focus-on-customer-success-to-grow-your-business/)
 <!-- WPTV:END -->
 
 ## Marketing
