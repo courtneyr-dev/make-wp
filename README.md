@@ -483,6 +483,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Ability to install fonts via…](https://make.wordpress.org/systems/2023/11/28/ability-to-install-fonts-via/)
 - [Install Node.js 20.x on the build server](https://make.wordpress.org/systems/2023/11/27/install-node-js-20-x-on-the-build-server/)
 - [Sandbox request for learn.wordpress.org testing](https://make.wordpress.org/systems/2023/11/20/sandbox-request-for-learn-wordpress-org-testing/)
 - [Support svn `@revnum` URLs?](https://make.wordpress.org/systems/2023/11/20/support-svn-revnum-urls-urls/)
@@ -492,7 +493,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Help Scout DKIM update](https://make.wordpress.org/systems/2023/09/20/help-scout-dkim-update/)
 - [Email for events.wordpress.org](https://make.wordpress.org/systems/2023/08/16/email-for-events-wordpress-org/)
 - [Email Forward for forum-moderation](https://make.wordpress.org/systems/2023/08/03/email-forward-for-forum-moderation/)
-- [Email forward for Memorials.](https://make.wordpress.org/systems/2023/07/27/email-forward-for-memorials/)
 <!-- SYSTEMS:END -->
 
 ## News
