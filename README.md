@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Vote for Community Team Rep 2024](https://make.wordpress.org/community/2023/11/28/vote-for-community-team-rep-2024/)
 - [Recap of Contributor Working Group’s Mentorship Chat on November 16th, 2023](https://make.wordpress.org/community/2023/11/24/recap-of-contributor-working-groups-mentorship-chat-on-november-16th-2023/)
 - [Translation Review for the State of the Word](https://make.wordpress.org/community/2023/11/21/hello-community-team/)
 - [Meetup Organizer Newsletter: November 2023](https://make.wordpress.org/community/2023/11/21/meetup-organizer-newsletter-november-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for volunteers to help with 6.4 end-user documentation](https://make.wordpress.org/community/2023/11/14/xpost-call-for-volunteers-to-help-with-6-4-end-user-documentation/)
 - [Calling all WordPress Meetup Organizers around the world!](https://make.wordpress.org/community/2023/11/06/calling-all-wordpress-meetup-organizers-around-the-world/)
 - [Community Team Meeting Agenda for 2 November, 2023](https://make.wordpress.org/community/2023/11/01/community-team-meeting-agenda-for-2-november-2023/)
-- [WordCamp Mentors’ November check-in!](https://make.wordpress.org/community/2023/11/01/wordcamp-mentors-november-check-in-2/)
 <!-- COMMUNITY:END -->
 
 ## Meta
