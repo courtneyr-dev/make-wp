@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi, I’ve suggested Dutch translations…](https://make.wordpress.org/polyglots/2023/11/28/hi-ive-suggested-dutch-translations/)
 - [Hi, I found a little…](https://make.wordpress.org/polyglots/2023/11/28/hi-i-found-a-little/)
 - [PTE Request for WP Menu…](https://make.wordpress.org/polyglots/2023/11/27/pte-request-for-wp-menu/)
 - [PTE Request for Blocksy Companion Plugin](https://make.wordpress.org/polyglots/2023/11/27/pte-request-for-blocksy-companion-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [translation suggested for WordPress Meta in Gujarati](https://make.wordpress.org/polyglots/2023/11/25/translation-suggested-for-wordpress-meta-in-gujarati/)
 - [PTE Request for Inspect Block Data](https://make.wordpress.org/polyglots/2023/11/24/pte-request-for-inspect-block-data/)
 - [Dear all. I am interested…](https://make.wordpress.org/polyglots/2023/11/24/dear-all-i-am-interested/)
-- [PTE Request for 6.3.x](https://make.wordpress.org/polyglots/2023/11/24/pte-request-for-6-3-x/)
 <!-- POLYGLOTS:END -->
 
 ## Support
