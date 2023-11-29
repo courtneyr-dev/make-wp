@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [`block.json`](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-json/)
 - [File structure of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/file-structure-of-a-block/)
 - [Fundamentals of Block Development](https://developer.wordpress.org/block-editor/getting-started/fundamentals/)
 - [Working with Javascript for the Block Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/javascript-in-the-block-editor/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Including Assets](https://developer.wordpress.org/themes/core-concepts/including-assets/)
 - [Custom Functionality &lpar;functions.php&rpar;](https://developer.wordpress.org/themes/core-concepts/custom-functionality/)
 - [Templates](https://developer.wordpress.org/themes/core-concepts/templates/)
-- [Main Stylesheet &lpar;style.css&rpar;](https://developer.wordpress.org/themes/core-concepts/main-stylesheet/)
 <!-- DEVHUB:END -->
 
 ## Themes
