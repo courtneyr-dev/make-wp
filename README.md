@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Customer Support Engineer at WP Rocket – Remote](https://jobs.wordpress.net/job/customer-support-engineer-at-wp-rocket-remote/)
+- [QA Engineer – Remote](https://jobs.wordpress.net/job/qa-engineer-remote-5/)
+- [PHP Developer – Remote](https://jobs.wordpress.net/job/php-developer-remote-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-824/)
 - [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-5/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-10/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-823/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-10/)
-- [Hosting Support &lpar;WordPress, Ubuntu, Bash, NGINX&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-ubuntu-bash-nginx-6/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-27/)
 - [Content Checker](https://jobs.wordpress.net/job/content-checker/)
-- [WordPress Industry Content Writer](https://jobs.wordpress.net/job/wordpress-industry-content-writer/)
-- [Experienced WordPress Developer for Performance Optimization and Stress Testing](https://jobs.wordpress.net/job/experienced-wordpress-developer-for-performance-optimization-and-stress-testing/)
 <!-- JOBS:END -->
 
 ## Central
