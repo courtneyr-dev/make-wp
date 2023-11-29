@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for EWWW Image Optimizer](https://make.wordpress.org/polyglots/2023/11/29/pte-request-for-ewww-image-optimizer-2/)
 - [Agenda: Weekly Polyglots Chat- November 29, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/29/agenda-weekly-polyglots-chat-november-29-2023-700-utc/)
 - [PTE Request for PDF Invoices…](https://make.wordpress.org/polyglots/2023/11/28/pte-request-for-pdf-invoices-2/)
 - [Hi, I’ve suggested Dutch translations…](https://make.wordpress.org/polyglots/2023/11/28/hi-ive-suggested-dutch-translations/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2023/11/26/hi-107/)
 - [PTE Request for Blocksy theme](https://make.wordpress.org/polyglots/2023/11/26/pte-request-for-blocksy-theme-3/)
 - [PTE Request for Greenshift –…](https://make.wordpress.org/polyglots/2023/11/26/pte-request-for-greenshift/)
-- [translation suggested for WordPress Meta in Gujarati](https://make.wordpress.org/polyglots/2023/11/25/translation-suggested-for-wordpress-meta-in-gujarati/)
 <!-- POLYGLOTS:END -->
 
 ## Support
