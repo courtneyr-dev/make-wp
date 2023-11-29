@@ -116,7 +116,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Developer Articles
 <!-- DEVHUB:START -->
 - [The block wrapper](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-wrapper/)
-- [`block.json`](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-json/)
+- [block.json](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-json/)
 - [File structure of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/file-structure-of-a-block/)
 - [Fundamentals of Block Development](https://developer.wordpress.org/block-editor/getting-started/fundamentals/)
 - [Working with Javascript for the Block Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/javascript-in-the-block-editor/)
