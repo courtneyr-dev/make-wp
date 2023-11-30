@@ -469,6 +469,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Embracing Matrix for Enhanced Communication](https://make.wordpress.org/project/2023/11/30/embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/project/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Request for Feedback: Make/Team Dashboards](https://make.wordpress.org/project/2023/09/25/request-for-feedback-make-team-dashboards/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/project/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
@@ -478,7 +479,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/project/2023/07/13/proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/project/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/project/2023/06/23/launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
-- [X-post: Make Team Dashboards](https://make.wordpress.org/project/2023/06/20/xpost-make-team-dashboards/)
 <!-- PROJECT:END -->
 
 ## Systems
