@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [ছবি অপ্টিমাইজেশান](https://learn.wordpress.org/tutorial/bn-image-optimization/)
 - [মন্তব্য পরিচালনা করা](https://learn.wordpress.org/tutorial/bn-managing-comments/)
 - [ওয়েবসাইটের নিরাপত্তা উন্নত করার ৭ টি টিপস](https://learn.wordpress.org/tutorial/bn-7-tips-to-improve-website-security/)
 - [সেটিংস ম্যানেজঃ পড়া](https://learn.wordpress.org/tutorial/bn-managing-settings-reading/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The WordPress Database](https://learn.wordpress.org/tutorial/the-wordpress-database/)
 - [Creating your own custom synced or non-synced patterns](https://learn.wordpress.org/tutorial/creating-your-own-custom-synced-or-non-synced-patterns/)
 - [Scheduling posts and pages](https://learn.wordpress.org/tutorial/scheduling-posts-and-pages/)
-- [Intro to the Site Editor](https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
