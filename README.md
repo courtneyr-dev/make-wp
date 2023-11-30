@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Create Tours for Make P2s](https://make.wordpress.org/community/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Should We Allow Sponsor Demo Rooms or Tracks at Events?](https://make.wordpress.org/community/2023/11/29/should-we-allow-sponsor-demo-rooms-or-tracks-at-events/)
 - [Vote for Community Team Rep 2024](https://make.wordpress.org/community/2023/11/28/vote-for-community-team-rep-2024/)
 - [Recap of Contributor Working Group’s Mentorship Chat on November 16th, 2023](https://make.wordpress.org/community/2023/11/24/recap-of-contributor-working-groups-mentorship-chat-on-november-16th-2023/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Events of the Month – October](https://make.wordpress.org/community/2023/11/14/events-of-the-month-october/)
 - [Contributor Working Group: Mentorship Chat Agenda | November 16th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/11/14/contributor-working-group-mentorship-chat-agenda-november-16th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [X-post: Call for volunteers to help with 6.4 end-user documentation](https://make.wordpress.org/community/2023/11/14/xpost-call-for-volunteers-to-help-with-6-4-end-user-documentation/)
-- [Calling all WordPress Meetup Organizers around the world!](https://make.wordpress.org/community/2023/11/06/calling-all-wordpress-meetup-organizers-around-the-world/)
 <!-- COMMUNITY:END -->
 
 ## Meta
