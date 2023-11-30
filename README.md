@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Create Tours for Make P2s](https://make.wordpress.org/polyglots/2023/11/30/xpost-create-tours-for-make-p2s/)
+- [I am translating different plugins…](https://make.wordpress.org/polyglots/2023/11/30/i-am-translating-different-plugins/)
 - [PTE Request for BlueBoxed Theme](https://make.wordpress.org/polyglots/2023/11/30/pte-request-for-blueboxed-theme/)
 - [PTE request for EWWW Image Optimizer](https://make.wordpress.org/polyglots/2023/11/29/pte-request-for-ewww-image-optimizer-2/)
 - [Agenda: Weekly Polyglots Chat- November 29, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/29/agenda-weekly-polyglots-chat-november-29-2023-700-utc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, I found a little…](https://make.wordpress.org/polyglots/2023/11/28/hi-i-found-a-little/)
 - [PTE Request for WP Menu…](https://make.wordpress.org/polyglots/2023/11/27/pte-request-for-wp-menu/)
 - [PTE Request for Blocksy Companion Plugin](https://make.wordpress.org/polyglots/2023/11/27/pte-request-for-blocksy-companion-plugin/)
-- [Hi,](https://make.wordpress.org/polyglots/2023/11/26/hi-107/)
-- [PTE Request for Blocksy theme](https://make.wordpress.org/polyglots/2023/11/26/pte-request-for-blocksy-theme-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
