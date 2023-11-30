@@ -329,6 +329,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## TV
 <!-- TV:START -->
+- [X-post: Create Tours for Make P2s](https://make.wordpress.org/tv/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/tv/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [Enhancing Slide Management for Video Publications](https://make.wordpress.org/tv/2023/06/15/enhancing-slide-management-for-video-publications/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/tv/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
@@ -338,7 +339,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/tv/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 - [X-post: Adding subtitles to the WordPress.tv videos](https://make.wordpress.org/tv/2022/09/30/xpost-adding-subtitles-to-the-wordpress-tv-videos/)
 - [X-post: WordCamp US Contributor Day 2022 Recap](https://make.wordpress.org/tv/2022/09/19/xpost-wordcamp-us-contributor-day-2022-recap/)
-- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/tv/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
