@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [30 November Support Team meeting](https://make.wordpress.org/support/2023/11/30-november-support-team-meeting/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/support/2023/11/xpost-create-tours-for-make-p2s/)
 - [23 November Support Team meeting](https://make.wordpress.org/support/2023/11/23-november-support-team-meeting/)
 - [X-post: What’s new on Learn WordPress in October 2023](https://make.wordpress.org/support/2023/10/xpost-whats-new-on-learn-wordpress-in-october-2023/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for October 12th Support Meeting](https://make.wordpress.org/support/2023/10/agenda-for-october-12th-support-meeting-2/)
 - [Agenda for September 28th Support Meeting](https://make.wordpress.org/support/2023/09/agenda-for-september-28th-support-meeting-2/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/support/2023/09/xpost-community-summit-2023-your-role-in-whats-next/)
-- [Agenda for September 21st Support Meeting](https://make.wordpress.org/support/2023/09/agenda-for-september-21st-support-meeting-2/)
 <!-- SUPPORT:END -->
 
 ## Documentation
