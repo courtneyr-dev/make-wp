@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, November 29, 2023](https://make.wordpress.org/core/2023/11/30/summary-dev-chat-november-29-2023/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/core/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Hallway Hangout: Performance End of Year Review 2023](https://make.wordpress.org/core/2023/11/30/hallway-hangout-performance-end-of-year-review-2023/)
 - [Dev Chat agenda, November 29, 2023](https://make.wordpress.org/core/2023/11/28/dev-chat-agenda-november-29-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary Hallway Hangout Triage Gutenberg Extensibility Issues](https://make.wordpress.org/core/2023/11/27/summary-hallway-hangout-triage-extensibility-issue/)
 - [Hallway Hangout: Let’s explore WordPress 6.5](https://make.wordpress.org/core/2023/11/23/hallway-hangout-lets-explore-wordpress-6-5/)
 - [What’s new in Gutenberg 17.1 &lpar;22 November&rpar;](https://make.wordpress.org/core/2023/11/22/whats-new-in-gutenberg-17-1-22-november/)
-- [Dev Chat agenda, November 22, 2023](https://make.wordpress.org/core/2023/11/21/dev-chat-agenda-november-22-2023/)
 <!-- CORE:END -->
 
 ## Design
