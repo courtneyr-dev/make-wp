@@ -469,6 +469,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [X-post: Create Tours for Make P2s](https://make.wordpress.org/project/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Request for Feedback: Make/Team Dashboards](https://make.wordpress.org/project/2023/09/25/request-for-feedback-make-team-dashboards/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/project/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [WordCamp US 2023 Q&amp;A](https://make.wordpress.org/project/2023/09/15/wordcamp-us-2023-qa/)
@@ -478,7 +479,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/project/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/project/2023/06/23/launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 - [X-post: Make Team Dashboards](https://make.wordpress.org/project/2023/06/20/xpost-make-team-dashboards/)
-- [Proposal: establishment of a formal WordPress Sustainability Team](https://make.wordpress.org/project/2023/05/30/proposal-establishment-of-a-formal-wordpress-sustainability-team/)
 <!-- PROJECT:END -->
 
 ## Systems
