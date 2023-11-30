@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Testing your products for PHP version compatibility](https://wordpress.tv/2023/11/30/testing-your-products-for-php-version-compatibility/)
+- [WordPress 6.4 und Twenty Twenty-Four &lpar;TT4&rpar;](https://wordpress.tv/2023/11/30/wordpress-6-4-und-twenty-twenty-four-tt4/)
 - [La nueva tecnología de temas WordPress](https://wordpress.tv/2023/11/30/la-nueva-tecnologia-de-temas-wordpress/)
 - [Live WordPress 100% Bloc 14 novembre 2023](https://wordpress.tv/2023/11/30/live-wordpress-100-bloc-14-novembre-2023/)
 - [Developer Hours: How to extend Core WordPress blocks](https://wordpress.tv/2023/11/29/developer-hours-how-to-extend-core-wordpress-blocks/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting started with the E2E Playwright test utils for WordPress today &lpar;2023&rpar;](https://wordpress.tv/2023/11/21/getting-started-with-the-e2e-playwright-test-utils-for-wordpress-today-2023/)
 - [A Comprehensive Guide to Accessibility for Backend Engineers](https://wordpress.tv/2023/11/21/a-comprehensive-guide-to-accessibility-for-backend-engineers/)
 - [WordPress Playground: The Famous « 5 Second » Install](https://wordpress.tv/2023/11/21/wordpress-playground-the-famous-5-second-install/)
-- [The three things all web professionals need to know about privacy](https://wordpress.tv/2023/11/21/the-three-things-all-web-professionals-need-to-know-about-privacy/)
-- [HELP! I made my dream WordPress site, but I have no traffic. What gives?](https://wordpress.tv/2023/11/21/help-i-made-my-dream-wordpress-site-but-i-have-no-traffic-what-gives/)
 <!-- WPTV:END -->
 
 ## Marketing
