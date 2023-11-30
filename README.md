@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request For Text To Speech TTS Accessibility Plugin](https://make.wordpress.org/polyglots/2023/11/30/pte-request-for-text-to-speech-tts-accessibility-plugin/)
 - [CLPTE request for multiple projects](https://make.wordpress.org/polyglots/2023/11/30/clpte-request-for-multiple-projects/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/polyglots/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [I am translating different plugins…](https://make.wordpress.org/polyglots/2023/11/30/i-am-translating-different-plugins/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for PDF Invoices…](https://make.wordpress.org/polyglots/2023/11/28/pte-request-for-pdf-invoices-2/)
 - [Hi, I’ve suggested Dutch translations…](https://make.wordpress.org/polyglots/2023/11/28/hi-ive-suggested-dutch-translations/)
 - [Hi, I found a little…](https://make.wordpress.org/polyglots/2023/11/28/hi-i-found-a-little/)
-- [PTE Request for WP Menu…](https://make.wordpress.org/polyglots/2023/11/27/pte-request-for-wp-menu/)
 <!-- POLYGLOTS:END -->
 
 ## Support
