@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Story of the Custom Post Type Lost in a World of Pages](https://wordpress.tv/2023/11/30/the-story-of-the-custom-post-type-lost-in-a-world-of-pages/)
 - [Testing your products for PHP version compatibility](https://wordpress.tv/2023/11/30/testing-your-products-for-php-version-compatibility/)
 - [WordPress 6.4 und Twenty Twenty-Four &lpar;TT4&rpar;](https://wordpress.tv/2023/11/30/wordpress-6-4-und-twenty-twenty-four-tt4/)
 - [La nueva tecnología de temas WordPress](https://wordpress.tv/2023/11/30/la-nueva-tecnologia-de-temas-wordpress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Creation Of Small Business Websites In WordPress – My Process](https://wordpress.tv/2023/11/21/the-creation-of-small-business-websites-in-wordpress-my-process/)
 - [Getting started with the E2E Playwright test utils for WordPress today &lpar;2023&rpar;](https://wordpress.tv/2023/11/21/getting-started-with-the-e2e-playwright-test-utils-for-wordpress-today-2023/)
 - [A Comprehensive Guide to Accessibility for Backend Engineers](https://wordpress.tv/2023/11/21/a-comprehensive-guide-to-accessibility-for-backend-engineers/)
-- [WordPress Playground: The Famous « 5 Second » Install](https://wordpress.tv/2023/11/21/wordpress-playground-the-famous-5-second-install/)
 <!-- WPTV:END -->
 
 ## Marketing
