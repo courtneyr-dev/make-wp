@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [La nueva tecnología de temas WordPress](https://wordpress.tv/2023/11/30/la-nueva-tecnologia-de-temas-wordpress/)
 - [Live WordPress 100% Bloc 14 novembre 2023](https://wordpress.tv/2023/11/30/live-wordpress-100-bloc-14-novembre-2023/)
 - [Developer Hours: How to extend Core WordPress blocks](https://wordpress.tv/2023/11/29/developer-hours-how-to-extend-core-wordpress-blocks/)
 - [Augmentez le trafic et les ventes de votre site WooCommerce grâce à Facebook, Instagram, Pinterest e](https://wordpress.tv/2023/11/23/augmentez-le-trafic-et-les-ventes-de-votre-site-woocommerce-grace-a-facebook-instagram-pinterest-e/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Playground: The Famous « 5 Second » Install](https://wordpress.tv/2023/11/21/wordpress-playground-the-famous-5-second-install/)
 - [The three things all web professionals need to know about privacy](https://wordpress.tv/2023/11/21/the-three-things-all-web-professionals-need-to-know-about-privacy/)
 - [HELP! I made my dream WordPress site, but I have no traffic. What gives?](https://wordpress.tv/2023/11/21/help-i-made-my-dream-wordpress-site-but-i-have-no-traffic-what-gives/)
-- [Choose the PERFECT audience for offering websites as a service to build monthly recurring revenue](https://wordpress.tv/2023/11/21/choose-the-perfect-audience-for-offering-websites-as-a-service-to-build-monthly-recurring-revenue/)
 <!-- WPTV:END -->
 
 ## Marketing
