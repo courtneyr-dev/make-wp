@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: How to extend Core WordPress blocks](https://wordpress.tv/2023/11/29/developer-hours-how-to-extend-core-wordpress-blocks/)
 - [Augmentez le trafic et les ventes de votre site WooCommerce grâce à Facebook, Instagram, Pinterest e](https://wordpress.tv/2023/11/23/augmentez-le-trafic-et-les-ventes-de-votre-site-woocommerce-grace-a-facebook-instagram-pinterest-e/)
 - [Experts WordPress : découvrez comment vous protéger des 3 plus gros risques clients](https://wordpress.tv/2023/11/23/experts-wordpress-decouvrez-comment-vous-proteger-des-3-plus-gros-risques-clients/)
 - [WordPress, est-ce que ça scale ?](https://wordpress.tv/2023/11/23/wordpress-est-ce-que-ca-scale/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [HELP! I made my dream WordPress site, but I have no traffic. What gives?](https://wordpress.tv/2023/11/21/help-i-made-my-dream-wordpress-site-but-i-have-no-traffic-what-gives/)
 - [Choose the PERFECT audience for offering websites as a service to build monthly recurring revenue](https://wordpress.tv/2023/11/21/choose-the-perfect-audience-for-offering-websites-as-a-service-to-build-monthly-recurring-revenue/)
 - [Markdown in Minutes](https://wordpress.tv/2023/11/21/markdown-in-minutes/)
-- [How to Focus on Customer Success to Grow Your Business.](https://wordpress.tv/2023/11/21/how-to-focus-on-customer-success-to-grow-your-business/)
 <!-- WPTV:END -->
 
 ## Marketing
