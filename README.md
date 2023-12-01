@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Create Block Theme Improvements](https://learn.wordpress.org/tutorial/create-block-theme-improvements/)
 - [Testing your products for PHP version compatibility](https://learn.wordpress.org/tutorial/testing-your-products-for-php-version-compatibility/)
 - [ছবি অপ্টিমাইজেশান](https://learn.wordpress.org/tutorial/bn-image-optimization/)
 - [মন্তব্য পরিচালনা করা](https://learn.wordpress.org/tutorial/bn-managing-comments/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [পেইজ বনাম পোস্টঃ পার্থক্য কি?](https://learn.wordpress.org/tutorial/bn-posts-vs-pages-whats-the-difference/)
 - [Using Block Patterns](https://learn.wordpress.org/tutorial/using-block-patterns/)
 - [The WordPress Database](https://learn.wordpress.org/tutorial/the-wordpress-database/)
-- [Creating your own custom synced or non-synced patterns](https://learn.wordpress.org/tutorial/creating-your-own-custom-synced-or-non-synced-patterns/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
