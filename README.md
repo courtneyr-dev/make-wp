@@ -441,6 +441,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [November Photo Directory Update](https://make.wordpress.org/photos/2023/12/01/november-photo-directory-update/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/photos/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [October Photo Directory Update](https://make.wordpress.org/photos/2023/11/01/october-photo-directory-update/)
 - [September Photo Directory Update](https://make.wordpress.org/photos/2023/10/03/september-photo-directory-update/)
@@ -450,7 +451,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/photos/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/photos/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/photos/2023/06/23/xpost-launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
-- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/photos/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 <!-- PHOTOS:END -->
 
 ## Updates
