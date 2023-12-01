@@ -516,11 +516,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer &amp; Technical SEO](https://jobs.wordpress.net/job/wordpress-developer-technical-seo/)
 - [WordPress Deverloper &amp; Technical SEO](https://jobs.wordpress.net/job/wordpress-deverloper-technical-seo/)
 - [Software Tester &lpar;WordPress Plugins&rpar;](https://jobs.wordpress.net/job/software-tester-wordpress-plugins/)
-- [adjustment to Ultimate Member Birthday Code](https://jobs.wordpress.net/job/adjustment-to-ultimate-member-birthday-code/)
 - [Amazon S3](https://jobs.wordpress.net/job/amazon-s3/)
 - [QA Engineer – Remote](https://jobs.wordpress.net/job/qa-engineer-remote-5/)
 - [PHP Developer – Remote](https://jobs.wordpress.net/job/php-developer-remote-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-824/)
+- [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-5/)
 <!-- JOBS:END -->
 
 ## Central
