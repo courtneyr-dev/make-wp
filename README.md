@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/community/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [WordCamp Mentors’ December check-in!](https://make.wordpress.org/community/2023/12/01/wordcamp-mentors-december-check-in-2/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/community/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Should We Allow Sponsor Demo Rooms or Tracks at Events?](https://make.wordpress.org/community/2023/11/29/should-we-allow-sponsor-demo-rooms-or-tracks-at-events/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: November 2023](https://make.wordpress.org/community/2023/11/21/meetup-organizer-newsletter-november-2023/)
 - [Announcing the 2023 Annual Meetup Survey](https://make.wordpress.org/community/2023/11/17/announcing-the-2023-annual-meetup-survey/)
 - [Events of the Month – October](https://make.wordpress.org/community/2023/11/14/events-of-the-month-october/)
-- [Contributor Working Group: Mentorship Chat Agenda | November 16th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/11/14/contributor-working-group-mentorship-chat-agenda-november-16th-0700-utc-apac-emea-and-1600-utc-amer/)
 <!-- COMMUNITY:END -->
 
 ## Meta
