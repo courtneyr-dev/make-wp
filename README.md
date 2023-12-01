@@ -45,6 +45,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: December 1, 2023](https://make.wordpress.org/accessibility/2023/12/01/accessibility-team-meeting-agenda-december-1-2023/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/accessibility/2023/11/29/xpost-create-tours-for-make-p2s/)
 - [Accessibility Team Meeting Notes: November 17, 2023](https://make.wordpress.org/accessibility/2023/11/25/accessibility-team-meeting-notes-november-17-2023/)
 - [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/accessibility/2023/11/23/xpost-redesigning-developer-resources-and-a-call-for-testing/)
@@ -54,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress 6.4 Accessibility Improvements](https://make.wordpress.org/accessibility/2023/11/03/xpost-wordpress-6-4-accessibility-improvements/)
 - [Accessibility Team Meeting Agenda: November 3, 2023](https://make.wordpress.org/accessibility/2023/10/30/accessibility-team-meeting-agenda-november-3-2023/)
 - [Accessibility Team Meeting Agenda: October 20, 2023](https://make.wordpress.org/accessibility/2023/10/16/accessibility-team-meeting-agenda-october-20-2023/)
-- [Accessibility Team Meeting Agenda: October 6, 2023](https://make.wordpress.org/accessibility/2023/10/06/accessibility-team-meeting-agenda-october-6-2023/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
