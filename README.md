@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/docs/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/docs/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Online monthly Docs Team Contributor Day November 28, 2023](https://make.wordpress.org/docs/2023/11/28/online-monthly-docs-team-contributor-day-november-28-2023/)
 - [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/docs/2023/11/22/xpost-redesigning-developer-resources-and-a-call-for-testing/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for Docs Team Biweekly Meeting &lpar;November 7, 2023&rpar;](https://make.wordpress.org/docs/2023/11/06/agenda-for-docs-team-biweekly-meeting-november-7-2023/)
 - [X-post: What’s new on Learn WordPress in October 2023](https://make.wordpress.org/docs/2023/10/31/xpost-whats-new-on-learn-wordpress-in-october-2023/)
 - [Agenda for Docs Team Meeting &lpar;October 31, 2023&rpar;](https://make.wordpress.org/docs/2023/10/31/agenda-for-docs-team-meeting-october-31-2023/)
-- [Call for volunteers to help with 6.4 end-user documentation](https://make.wordpress.org/docs/2023/10/25/call-for-volunteers-to-help-with-6-4-end-user-documentation/)
 <!-- DOCS:END -->
 
 ### Support Articles
