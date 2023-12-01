@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/updates/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [What’s new on Learn WordPress in November 2023](https://make.wordpress.org/updates/2023/12/01/whats-new-on-learn-wordpress-in-november-2023/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/updates/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Themes team update November 28, 2023](https://make.wordpress.org/updates/2023/11/28/themes-team-update-november-28-2023/)
@@ -464,7 +465,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team update November 22, 2023](https://make.wordpress.org/updates/2023/11/22/themes-team-update-november-22-2023/)
 - [Test Team Update: 21 November 2023](https://make.wordpress.org/updates/2023/11/21/test-team-update-21-november-2023/)
 - [Plugin Review Team: 20 November 2023](https://make.wordpress.org/updates/2023/11/20/plugin-review-team-20-november-2023/)
-- [Documentation Team Update – November 20, 2023](https://make.wordpress.org/updates/2023/11/20/documentation-team-update-november-20-2023/)
 <!-- UPDATES:END -->
 
 ## Project
