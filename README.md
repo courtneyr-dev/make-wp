@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Create Block Theme Improvements](https://wordpress.tv/2023/12/01/create-block-theme-improvements/)
 - [Bricks Builder para WordPress – El builder que respeta la web](https://wordpress.tv/2023/12/01/bricks-builder-para-wordpress-el-builder-que-respeta-la-web/)
 - [The Story of the Custom Post Type Lost in a World of Pages](https://wordpress.tv/2023/11/30/the-story-of-the-custom-post-type-lost-in-a-world-of-pages/)
 - [Testing your products for PHP version compatibility](https://wordpress.tv/2023/11/30/testing-your-products-for-php-version-compatibility/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting Started with Writing on WordPress.com](https://wordpress.tv/2023/11/21/getting-started-with-writing-on-wordpress-com/)
 - [Recreating TechCrunch.com in 30 minutes](https://wordpress.tv/2023/11/21/recreating-techcrunch-com-in-30-minutes/)
 - [The Creation Of Small Business Websites In WordPress – My Process](https://wordpress.tv/2023/11/21/the-creation-of-small-business-websites-in-wordpress-my-process/)
-- [Getting started with the E2E Playwright test utils for WordPress today &lpar;2023&rpar;](https://wordpress.tv/2023/11/21/getting-started-with-the-e2e-playwright-test-utils-for-wordpress-today-2023/)
 <!-- WPTV:END -->
 
 ## Marketing
