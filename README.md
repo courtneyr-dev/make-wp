@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/plugins/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/plugins/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/plugins/2023/11/22/xpost-redesigning-developer-resources-and-a-call-for-testing/)
 - [X-post: Plugin Directory: Preview button revisited](https://make.wordpress.org/plugins/2023/11/22/xpost-plugin-directory-preview-button-revisited/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Update: Turning the Tide](https://make.wordpress.org/plugins/2023/09/19/update-turning-the-tide/)
 - [X-post: WordPressCS 3.0.0 is now available](https://make.wordpress.org/plugins/2023/08/21/xpost-wordpresscs-3-0-0-is-now-available/)
 - [Tackling team challenges together](https://make.wordpress.org/plugins/2023/07/24/tackling-team-challenges-together/)
-- [Plugin Review Team Update: The next phase begins](https://make.wordpress.org/plugins/2023/06/29/plugin-review-team-update-the-next-phase-begins/)
 <!-- PLUGINS:END -->
 
 ## Community
