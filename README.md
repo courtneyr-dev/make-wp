@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-19/)
 - [Lead WordPress Developer for Fast-Growing Pet Company](https://jobs.wordpress.net/job/lead-wordpress-developer-for-fast-growing-pet-company/)
 - [Production Assistant](https://jobs.wordpress.net/job/production-assistant/)
 - [WordPress Developer &amp; Technical SEO](https://jobs.wordpress.net/job/wordpress-developer-technical-seo/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [QA Engineer – Remote](https://jobs.wordpress.net/job/qa-engineer-remote-5/)
 - [PHP Developer – Remote](https://jobs.wordpress.net/job/php-developer-remote-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-824/)
-- [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-5/)
 <!-- JOBS:END -->
 
 ## Central
