@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [State of the Word Watch Party 2023 &lpar;Online replay&rpar;](https://learn.wordpress.org/?meeting=state-of-the-word-watch-party-2023-online-replay)
 - [New WordPress Developer APIs: The Interactivity API](https://learn.wordpress.org/?meeting=56255)
 - [To group or not to group: How to use the group block](https://learn.wordpress.org/?meeting=to-group-or-not-to-group-how-to-use-the-group-block)
 - [New WordPress Developer APIs – The Interactivity API](https://learn.wordpress.org/?meeting=new-wordpress-developer-apis-the-interactivity-api)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s New In WordPress 6.4?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-4)
 - [Five for the Future: How to succeed by making ongoing contributions &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-replay)
 - [The WordPress Create Block tool](https://learn.wordpress.org/?meeting=the-wordpress-create-block-tool)
-- [APAC: Using the Query Loop block and Category templates](https://learn.wordpress.org/?meeting=apac-using-the-query-loop-block-and-category-templates)
 <!-- SLS:END -->
 
 ## Test
