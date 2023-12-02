@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [hello. We are working on…](https://make.wordpress.org/polyglots/2023/12/02/hello-we-are-working-on/)
 - [PTR request for SEO SIMPLE PACK](https://make.wordpress.org/polyglots/2023/12/02/ptr-request-for-seo-simple-pack/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/polyglots/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [PTE Request For Text To Speech TTS Accessibility Plugin](https://make.wordpress.org/polyglots/2023/11/30/pte-request-for-text-to-speech-tts-accessibility-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for BlueBoxed Theme](https://make.wordpress.org/polyglots/2023/11/30/pte-request-for-blueboxed-theme/)
 - [PTE request for EWWW Image Optimizer](https://make.wordpress.org/polyglots/2023/11/29/pte-request-for-ewww-image-optimizer-2/)
 - [Agenda: Weekly Polyglots Chat- November 29, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/11/29/agenda-weekly-polyglots-chat-november-29-2023-700-utc/)
-- [PTE Request for PDF Invoices…](https://make.wordpress.org/polyglots/2023/11/28/pte-request-for-pdf-invoices-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
