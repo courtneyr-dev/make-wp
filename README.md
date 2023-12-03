@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [SEO ist mehr als grüne Smilies auf Yoast: Eine Einführung](https://wordpress.tv/2023/12/03/seo-ist-mehr-als-grune-smilies-auf-yoast-eine-einfuhrung/)
+- [Finde den Fehler: 13 häufige und kritische SEO-Fehler von Online-Shops](https://wordpress.tv/2023/12/03/finde-den-fehler-13-haufige-und-kritische-seo-fehler-von-online-shops/)
 - [Create Block Theme Improvements](https://wordpress.tv/2023/12/01/create-block-theme-improvements/)
 - [Bricks Builder para WordPress – El builder que respeta la web](https://wordpress.tv/2023/12/01/bricks-builder-para-wordpress-el-builder-que-respeta-la-web/)
 - [The Story of the Custom Post Type Lost in a World of Pages](https://wordpress.tv/2023/11/30/the-story-of-the-custom-post-type-lost-in-a-world-of-pages/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating an Intuitive WooCommerce Checkout Experience](https://wordpress.tv/2023/11/21/creating-an-intuitive-woocommerce-checkout-experience/)
 - [From Passion to Profit: Navigating the Journey of Launching a Digital Agency](https://wordpress.tv/2023/11/21/from-passion-to-profit-navigating-the-journey-of-launching-a-digital-agency/)
 - [Getting Started with Writing on WordPress.com](https://wordpress.tv/2023/11/21/getting-started-with-writing-on-wordpress-com/)
-- [Recreating TechCrunch.com in 30 minutes](https://wordpress.tv/2023/11/21/recreating-techcrunch-com-in-30-minutes/)
-- [The Creation Of Small Business Websites In WordPress – My Process](https://wordpress.tv/2023/11/21/the-creation-of-small-business-websites-in-wordpress-my-process/)
 <!-- WPTV:END -->
 
 ## Marketing
