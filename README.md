@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [L’Art des Polices Fluides dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/04/lart-des-polices-fluides-dans-lediteur-de-site-fse/)
 - [SEO ist mehr als grüne Smilies auf Yoast: Eine Einführung](https://wordpress.tv/2023/12/03/seo-ist-mehr-als-grune-smilies-auf-yoast-eine-einfuhrung/)
 - [Finde den Fehler: 13 häufige und kritische SEO-Fehler von Online-Shops](https://wordpress.tv/2023/12/03/finde-den-fehler-13-haufige-und-kritische-seo-fehler-von-online-shops/)
 - [Create Block Theme Improvements](https://wordpress.tv/2023/12/01/create-block-theme-improvements/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Automate Your WordPress Workflows With InstaWP](https://wordpress.tv/2023/11/21/how-to-automate-your-wordpress-workflows-with-instawp/)
 - [Creating an Intuitive WooCommerce Checkout Experience](https://wordpress.tv/2023/11/21/creating-an-intuitive-woocommerce-checkout-experience/)
 - [From Passion to Profit: Navigating the Journey of Launching a Digital Agency](https://wordpress.tv/2023/11/21/from-passion-to-profit-navigating-the-journey-of-launching-a-digital-agency/)
-- [Getting Started with Writing on WordPress.com](https://wordpress.tv/2023/11/21/getting-started-with-writing-on-wordpress-com/)
 <!-- WPTV:END -->
 
 ## Marketing
