@@ -315,6 +315,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 4 December 2023](https://make.wordpress.org/test/2023/12/04/xpost-test-team-update-4-december-2023/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/test/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/test/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [X-post: Test Team Update: 21 November 2023](https://make.wordpress.org/test/2023/11/21/xpost-test-team-update-21-november-2023/)
@@ -324,7 +325,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 16 October 2023](https://make.wordpress.org/test/2023/10/17/xpost-test-team-update-16-october-2023/)
 - [Introducing: Test Team Reps for 2023-2024](https://make.wordpress.org/test/2023/10/16/introducing-test-team-reps-for-2023-2024/)
 - [Hallway Hangout: Let’s chat about the experience of building a block theme](https://make.wordpress.org/test/2023/10/12/hallway-hangout-lets-chat-about-the-experience-of-building-a-block-theme/)
-- [FSE Program Final Touches Summary](https://make.wordpress.org/test/2023/10/10/fse-program-final-touches-summary/)
 <!-- TEST:END -->
 
 ## TV
