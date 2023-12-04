@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Taza WordPress theme](https://make.wordpress.org/polyglots/2023/12/04/pte-request-for-taza-wordpress-theme/)
 - [PTE Request for News-Parser](https://make.wordpress.org/polyglots/2023/12/03/pte-request-for-news-parser/)
 - [hello. We are working on…](https://make.wordpress.org/polyglots/2023/12/02/hello-we-are-working-on/)
 - [PTR request for SEO SIMPLE PACK](https://make.wordpress.org/polyglots/2023/12/02/ptr-request-for-seo-simple-pack/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/polyglots/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [I am translating different plugins…](https://make.wordpress.org/polyglots/2023/11/30/i-am-translating-different-plugins/)
 - [PTE Request for BlueBoxed Theme](https://make.wordpress.org/polyglots/2023/11/30/pte-request-for-blueboxed-theme/)
-- [PTE request for EWWW Image Optimizer](https://make.wordpress.org/polyglots/2023/11/29/pte-request-for-ewww-image-optimizer-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
