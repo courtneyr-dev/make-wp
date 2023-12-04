@@ -286,6 +286,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [A walkthrough of the GitHub process updates in the WordPress Training team](https://learn.wordpress.org/?meeting=a-walkthrough-of-the-github-process-updates-in-the-wordpress-training-team-2)
+- [A walkthrough of the GitHub process updates in the WordPress Training team](https://learn.wordpress.org/?meeting=a-walkthrough-of-the-github-process-updates-in-the-wordpress-training-team)
 - [State of the Word Watch Party 2023 &lpar;Online replay&rpar;](https://learn.wordpress.org/?meeting=state-of-the-word-watch-party-2023-online-replay)
 - [New WordPress Developer APIs: The Interactivity API](https://learn.wordpress.org/?meeting=56255)
 - [To group or not to group: How to use the group block](https://learn.wordpress.org/?meeting=to-group-or-not-to-group-how-to-use-the-group-block)
@@ -309,8 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.4 improvements – Developer edition](https://learn.wordpress.org/?meeting=wordpress-6-4-improvements-developer-edition)
 - [Gutenbergにコードでコントリビュートするための環境づくり &lpar;Creating an environment for contributing code to Gutenberg&rpar;](https://learn.wordpress.org/?meeting=gutenberg%e3%81%ab%e3%82%b3%e3%83%bc%e3%83%89%e3%81%a7%e3%82%b3%e3%83%b3%e3%83%88%e3%83%aa%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae%e7%92%b0%e5%a2%83%e3%81%a5)
 - [What’s New In WordPress 6.4?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-4)
-- [Five for the Future: How to succeed by making ongoing contributions &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=five-for-the-future-how-to-succeed-by-making-ongoing-contributions-replay)
-- [The WordPress Create Block tool](https://learn.wordpress.org/?meeting=the-wordpress-create-block-tool)
 <!-- SLS:END -->
 
 ## Test
