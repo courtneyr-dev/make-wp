@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [People of WordPress: Artemy Kaydash](https://wordpress.org/news/2023/12/people-of-wordpress-artemy-kaydash/)
 - [WP Briefing: Episode 67: Openverse &amp; Photo Directory Rewind](https://wordpress.org/news/2023/11/openverse-photo-directory-rewind/)
 - [State of the Word 2023 – Madrid, Spain](https://wordpress.org/news/2023/11/state-of-the-word-2023-madrid-spain/)
 - [Introducing Twenty Twenty-Four](https://wordpress.org/news/2023/11/introducing-twenty-twenty-four/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.4 “Shirley”](https://wordpress.org/news/2023/11/shirley/)
 - [WordPress 6.4 Release Candidate 3](https://wordpress.org/news/2023/11/wordpress-6-4-release-candidate-3/)
 - [WP Briefing: Episode 65: Little Sun Success](https://wordpress.org/news/2023/10/episode-65-little-sun-success/)
-- [WordPress 6.4’s PHP Compatibility](https://wordpress.org/news/2023/10/wordpress-6-4s-php-compatibility/)
 <!-- NEWS:END -->
 
 ## Jobs
