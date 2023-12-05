@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Recap: GitHub updates and process refinements](https://make.wordpress.org/docs/2023/12/05/xpost-recap-github-updates-and-process-refinements/)
 - [Agenda for Docs Team meeting December 5, 2023](https://make.wordpress.org/docs/2023/12/05/agenda-for-docs-team-meeting-december-5-2023/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/docs/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/docs/2023/11/30/xpost-create-tours-for-make-p2s/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Docs Team Meeting &lpar;7-Nov-2023&rpar;](https://make.wordpress.org/docs/2023/11/14/summary-for-docs-team-meeting-7-nov-2023/)
 - [Summary for Docs Team Meeting &lpar;31-Oct-2023&rpar;](https://make.wordpress.org/docs/2023/11/07/summary-for-docs-team-meeting-31-oct-2023/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;November 7, 2023&rpar;](https://make.wordpress.org/docs/2023/11/06/agenda-for-docs-team-biweekly-meeting-november-7-2023/)
-- [X-post: What’s new on Learn WordPress in October 2023](https://make.wordpress.org/docs/2023/10/31/xpost-whats-new-on-learn-wordpress-in-october-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
