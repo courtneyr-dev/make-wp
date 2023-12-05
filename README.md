@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Recap: WordPress 6.4 “Shirley” Retrospective](https://make.wordpress.org/core/2023/12/05/recap-wordpress-6-4-shirley-retrospective/)
+- [Proposal: Default Theme Task Force for 2024](https://make.wordpress.org/core/2023/12/05/proposal-default-theme-task-force-for-2024/)
 - [Performance Chat Agenda: 5 December 2023](https://make.wordpress.org/core/2023/12/05/performance-chat-agenda-05-december-2023/)
 - [Nominations for Core Team Reps: 2024 Edition](https://make.wordpress.org/core/2023/12/04/nominations-for-core-team-reps-2024-edition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/core/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Performance End of Year Review 2023](https://make.wordpress.org/core/2023/11/30/hallway-hangout-performance-end-of-year-review-2023/)
 - [Dev Chat agenda, November 29, 2023](https://make.wordpress.org/core/2023/11/28/dev-chat-agenda-november-29-2023/)
 - [Dev chat summary, November 22, 2023](https://make.wordpress.org/core/2023/11/28/dev-chat-summary-november-22-2023/)
-- [Performance Chat Summary: 28 November 2023](https://make.wordpress.org/core/2023/11/28/performance-chat-summary-28-november-2023/)
-- [Performance Chat Agenda: 28 November 2023](https://make.wordpress.org/core/2023/11/28/performance-chat-agenda-28-november-2023/)
 <!-- CORE:END -->
 
 ## Design
