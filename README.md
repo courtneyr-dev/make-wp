@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Offload, AI &amp; Optimize with Cloudflare Images plugin](https://make.wordpress.org/polyglots/2023/12/05/pte-request-for-offload-ai-optimize-with-cloudflare-images-plugin/)
 - [PTE Request for Astra theme](https://make.wordpress.org/polyglots/2023/12/04/pte-request-for-astra-theme-3/)
 - [PTE Request for Taza WordPress theme](https://make.wordpress.org/polyglots/2023/12/04/pte-request-for-taza-wordpress-theme/)
 - [PTE Request for News-Parser](https://make.wordpress.org/polyglots/2023/12/03/pte-request-for-news-parser/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request For Text To Speech TTS Accessibility Plugin](https://make.wordpress.org/polyglots/2023/11/30/pte-request-for-text-to-speech-tts-accessibility-plugin/)
 - [CLPTE request for multiple projects](https://make.wordpress.org/polyglots/2023/11/30/clpte-request-for-multiple-projects/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/polyglots/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [I am translating different plugins…](https://make.wordpress.org/polyglots/2023/11/30/i-am-translating-different-plugins/)
 <!-- POLYGLOTS:END -->
 
 ## Support
