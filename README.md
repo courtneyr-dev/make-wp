@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-4/)
+- [[Remote] WordPress Support Engineer](https://jobs.wordpress.net/job/remote-wordpress-support-engineer/)
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-3/)
+- [secure payment](https://jobs.wordpress.net/job/secure-payment/)
 - [Full-time WordPress Developer Wanted](https://jobs.wordpress.net/job/full-time-wordpress-developer-wanted-3/)
 - [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-6/)
 - [Driving Safety Cause Marketing PARTNERS](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners-2/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-19/)
 - [Lead WordPress Developer for Fast-Growing Pet Company](https://jobs.wordpress.net/job/lead-wordpress-developer-for-fast-growing-pet-company/)
 - [Production Assistant](https://jobs.wordpress.net/job/production-assistant/)
-- [WordPress Developer &amp; Technical SEO](https://jobs.wordpress.net/job/wordpress-developer-technical-seo/)
-- [WordPress Deverloper &amp; Technical SEO](https://jobs.wordpress.net/job/wordpress-deverloper-technical-seo/)
-- [Software Tester &lpar;WordPress Plugins&rpar;](https://jobs.wordpress.net/job/software-tester-wordpress-plugins/)
-- [Amazon S3](https://jobs.wordpress.net/job/amazon-s3/)
 <!-- JOBS:END -->
 
 ## Central
