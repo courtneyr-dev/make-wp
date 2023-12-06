@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Maîtriser les tailles de police par défaut dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/06/maitriser-les-tailles-de-police-par-defaut-dans-lediteur-de-site-fse/)
 - [WordPress y WPO: Más allá de un simple plugin, una filosofía de trabajo](https://wordpress.tv/2023/12/06/wordpress-y-wpo-mas-alla-de-un-simple-plugin-una-filosofia-de-trabajo/)
 - [Wes Theron: Creating a one-page website](https://wordpress.tv/2023/12/04/wes-theron-creating-a-one-page-website/)
 - [L’Art des Polices Fluides dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/04/lart-des-polices-fluides-dans-lediteur-de-site-fse/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP CLI : le couteau suisse du développeur](https://wordpress.tv/2023/11/23/wp-cli-le-couteau-suisse-du-developpeur/)
 - [Beyond Code: Creating Value through Outstanding Customer Experiences](https://wordpress.tv/2023/11/22/beyond-code-creating-value-through-outstanding-customer-experiences/)
 - [Registro de marcas y patentes](https://wordpress.tv/2023/11/21/registro-de-marcas-y-patentes/)
-- [How to Automate Your WordPress Workflows With InstaWP](https://wordpress.tv/2023/11/21/how-to-automate-your-wordpress-workflows-with-instawp/)
 <!-- WPTV:END -->
 
 ## Marketing
