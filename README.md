@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat- December 6, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/06/agenda-weekly-polyglots-chat-december-6-2023-1300-utc/)
+- [Call for Polyglots Team Representatives](https://make.wordpress.org/polyglots/2023/12/06/call-for-polyglots-team-representatives-3/)
 - [PTE Request for Offload, AI &amp; Optimize with Cloudflare Images plugin](https://make.wordpress.org/polyglots/2023/12/05/pte-request-for-offload-ai-optimize-with-cloudflare-images-plugin/)
 - [PTE Request for Astra theme](https://make.wordpress.org/polyglots/2023/12/04/pte-request-for-astra-theme-3/)
 - [PTE Request for Taza WordPress theme](https://make.wordpress.org/polyglots/2023/12/04/pte-request-for-taza-wordpress-theme/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTR request for SEO SIMPLE PACK](https://make.wordpress.org/polyglots/2023/12/02/ptr-request-for-seo-simple-pack/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/polyglots/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [PTE Request For Text To Speech TTS Accessibility Plugin](https://make.wordpress.org/polyglots/2023/11/30/pte-request-for-text-to-speech-tts-accessibility-plugin/)
-- [CLPTE request for multiple projects](https://make.wordpress.org/polyglots/2023/11/30/clpte-request-for-multiple-projects/)
-- [X-post: Create Tours for Make P2s](https://make.wordpress.org/polyglots/2023/11/30/xpost-create-tours-for-make-p2s/)
 <!-- POLYGLOTS:END -->
 
 ## Support
