@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.4.2 Maintenance &amp; Security Release](https://wordpress.org/news/2023/12/wordpress-6-4-2-maintenance-security-release/)
 - [Alert: WordPress Security Team Impersonation Scams](https://wordpress.org/news/2023/12/alert-wordpress-security-team-impersonation-scams/)
 - [People of WordPress: Artemy Kaydash](https://wordpress.org/news/2023/12/people-of-wordpress-artemy-kaydash/)
 - [WP Briefing: Episode 67: Openverse &amp; Photo Directory Rewind](https://wordpress.org/news/2023/11/openverse-photo-directory-rewind/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Month in WordPress – October 2023](https://wordpress.org/news/2023/11/the-month-in-wordpress-october-2023/)
 - [WordPress 6.4.1 Maintenance Release](https://wordpress.org/news/2023/11/wordpress-6-4-1-maintenance-release/)
 - [WordPress 6.4 “Shirley”](https://wordpress.org/news/2023/11/shirley/)
-- [WordPress 6.4 Release Candidate 3](https://wordpress.org/news/2023/11/wordpress-6-4-release-candidate-3/)
 <!-- NEWS:END -->
 
 ## Jobs
