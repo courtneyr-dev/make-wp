@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-825/)
+- [WordPress Video Editor and Educator](https://jobs.wordpress.net/job/wordpress-video-editor-and-educator/)
 - [WordPress Business Development](https://jobs.wordpress.net/job/wordpress-business-development/)
 - [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-4/)
 - [[Remote] WordPress Support Engineer](https://jobs.wordpress.net/job/remote-wordpress-support-engineer/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full-time WordPress Developer Wanted](https://jobs.wordpress.net/job/full-time-wordpress-developer-wanted-3/)
 - [WordPress Maintenance for Driving Safety Org.](https://jobs.wordpress.net/job/wordpress-maintenance-for-driving-safety-org-6/)
 - [Driving Safety Cause Marketing PARTNERS](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners-2/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-19/)
-- [Lead WordPress Developer for Fast-Growing Pet Company](https://jobs.wordpress.net/job/lead-wordpress-developer-for-fast-growing-pet-company/)
 <!-- JOBS:END -->
 
 ## Central
