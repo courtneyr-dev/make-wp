@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Finde den Fehler: 13 häufige und kritische SEO-Fehler von Online-Shops](https://wordpress.tv/2023/12/03/finde-den-fehler-13-haufige-und-kritische-seo-fehler-von-online-shops/)
 - [Create Block Theme Improvements](https://wordpress.tv/2023/12/01/create-block-theme-improvements/)
 - [Bricks Builder para WordPress – El builder que respeta la web](https://wordpress.tv/2023/12/01/bricks-builder-para-wordpress-el-builder-que-respeta-la-web/)
+- [AI in WordPress](https://wordpress.tv/2023/11/30/ai-in-wordpress/)
 - [The Story of the Custom Post Type Lost in a World of Pages](https://wordpress.tv/2023/11/30/the-story-of-the-custom-post-type-lost-in-a-world-of-pages/)
 - [Testing your products for PHP version compatibility](https://wordpress.tv/2023/11/30/testing-your-products-for-php-version-compatibility/)
 - [WordPress 6.4 und Twenty Twenty-Four &lpar;TT4&rpar;](https://wordpress.tv/2023/11/30/wordpress-6-4-und-twenty-twenty-four-tt4/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Comprendre et optimiser notre base de données WordPress](https://wordpress.tv/2023/11/23/comprendre-et-optimiser-notre-base-de-donnees-wordpress/)
 - [Grégoire Noyelle: Maîtrise les Polices Variables dans l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2023/11/23/gregoire-noyelle-maitrise-les-polices-variables-dans-lediteur-de-site-wordpress-fse/)
 - [WP CLI : le couteau suisse du développeur](https://wordpress.tv/2023/11/23/wp-cli-le-couteau-suisse-du-developpeur/)
-- [Beyond Code: Creating Value through Outstanding Customer Experiences](https://wordpress.tv/2023/11/22/beyond-code-creating-value-through-outstanding-customer-experiences/)
 <!-- WPTV:END -->
 
 ## Marketing
