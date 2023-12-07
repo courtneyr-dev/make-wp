@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/12/07/pte-request-for-squad-modules-for-divi-builder-2/)
 - [Agenda: Weekly Polyglots Chat- December 6, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/06/agenda-weekly-polyglots-chat-december-6-2023-1300-utc/)
 - [Call for Polyglots Team Representatives](https://make.wordpress.org/polyglots/2023/12/06/call-for-polyglots-team-representatives-3/)
 - [PTE Request for Offload, AI &amp; Optimize with Cloudflare Images plugin](https://make.wordpress.org/polyglots/2023/12/05/pte-request-for-offload-ai-optimize-with-cloudflare-images-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [hello. We are working on…](https://make.wordpress.org/polyglots/2023/12/02/hello-we-are-working-on/)
 - [PTR request for SEO SIMPLE PACK](https://make.wordpress.org/polyglots/2023/12/02/ptr-request-for-seo-simple-pack/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/polyglots/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
-- [PTE Request For Text To Speech TTS Accessibility Plugin](https://make.wordpress.org/polyglots/2023/11/30/pte-request-for-text-to-speech-tts-accessibility-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
