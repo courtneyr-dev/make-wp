@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Essentials: Domains and Hosting](https://wordpress.tv/2023/12/07/wordpress-essentials-domains-and-hosting/)
 - [Introduction to WordPress](https://wordpress.tv/2023/12/06/introduction-to-wordpress/)
 - [Maîtriser les tailles de police par défaut dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/06/maitriser-les-tailles-de-police-par-defaut-dans-lediteur-de-site-fse/)
 - [WordPress y WPO: Más allá de un simple plugin, una filosofía de trabajo](https://wordpress.tv/2023/12/06/wordpress-y-wpo-mas-alla-de-un-simple-plugin-una-filosofia-de-trabajo/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mes indispensables pour créer un site WordPress](https://wordpress.tv/2023/11/23/mes-indispensables-pour-creer-un-site-wordpress/)
 - [Comprendre et optimiser notre base de données WordPress](https://wordpress.tv/2023/11/23/comprendre-et-optimiser-notre-base-de-donnees-wordpress/)
 - [Grégoire Noyelle: Maîtrise les Polices Variables dans l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2023/11/23/gregoire-noyelle-maitrise-les-polices-variables-dans-lediteur-de-site-wordpress-fse/)
-- [WP CLI : le couteau suisse du développeur](https://wordpress.tv/2023/11/23/wp-cli-le-couteau-suisse-du-developpeur/)
 <!-- WPTV:END -->
 
 ## Marketing
