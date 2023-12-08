@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Maîtrise des Alignements dans un Thème FSE Basé sur des Blocs](https://wordpress.tv/2023/12/08/maitrise-des-alignements-dans-un-theme-fse-base-sur-des-blocs/)
 - [WordPress Essentials: Domains and Hosting](https://wordpress.tv/2023/12/07/wordpress-essentials-domains-and-hosting/)
 - [Introduction to WordPress](https://wordpress.tv/2023/12/06/introduction-to-wordpress/)
 - [Maîtriser les tailles de police par défaut dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/06/maitriser-les-tailles-de-police-par-defaut-dans-lediteur-de-site-fse/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tailler son site comme une fusée ! L’architecture WordPress optimisée SEO](https://wordpress.tv/2023/11/23/nicolas-mercadieu-tailler-son-site-comme-une-fusee-larchitecture-wordpress-optimisee-seo/)
 - [Mes indispensables pour créer un site WordPress](https://wordpress.tv/2023/11/23/mes-indispensables-pour-creer-un-site-wordpress/)
 - [Comprendre et optimiser notre base de données WordPress](https://wordpress.tv/2023/11/23/comprendre-et-optimiser-notre-base-de-donnees-wordpress/)
-- [Grégoire Noyelle: Maîtrise les Polices Variables dans l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2023/11/23/gregoire-noyelle-maitrise-les-polices-variables-dans-lediteur-de-site-wordpress-fse/)
 <!-- WPTV:END -->
 
 ## Marketing
