@@ -192,9 +192,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/training/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/training/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Request for feedback: Lesson Handbook pages](https://make.wordpress.org/training/2023/11/29/request-for-feedback-lesson-handbook-pages/)
-- [Training Team Meeting Recap – 21st November 2023](https://make.wordpress.org/training/2023/11/24/training-team-meeting-recap-21th-november-2023/)
 - [Training Team Meeting Recap – 14th November 2023](https://make.wordpress.org/training/2023/11/20/training-team-meeting-recap-14th-november-2023/)
 - [What’s next for Dev-Squad?](https://make.wordpress.org/training/2023/11/20/whats-next-for-dev-squad/)
+- [Training Team 2023 Year-End Review](https://make.wordpress.org/training/2023/11/20/training-team-2023-year-end-review/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
