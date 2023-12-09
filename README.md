@@ -342,6 +342,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Designing Your WordPress Website for People and Planet](https://wordpress.tv/2023/12/09/designing-your-wordpress-website-for-people-and-planet/)
+- [Composable Development Tactics with Headless WordPress](https://wordpress.tv/2023/12/09/composable-development-tactics-with-headless-wordpress/)
+- [An Introduction to Building Block Themes Without Leaving the Editor](https://wordpress.tv/2023/12/09/an-introduction-to-building-block-themes-without-leaving-the-editor/)
+- [A Somewhat Practical WordPress Security Talk](https://wordpress.tv/2023/12/09/a-somewhat-practical-wordpress-security-talk/)
+- [Over the Rainbow – Inclusivity for the LGBTQIA+ Community in WordPress](https://wordpress.tv/2023/12/09/over-the-rainbow-inclusivity-for-the-lgbtqia-community-in-wordpress/)
 - [Maîtrise des Alignements dans un Thème FSE Basé sur des Blocs](https://wordpress.tv/2023/12/08/maitrise-des-alignements-dans-un-theme-fse-base-sur-des-blocs/)
 - [WordPress Essentials: Domains and Hosting](https://wordpress.tv/2023/12/07/wordpress-essentials-domains-and-hosting/)
 - [Introduction to WordPress](https://wordpress.tv/2023/12/06/introduction-to-wordpress/)
@@ -362,11 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: How to extend Core WordPress blocks](https://wordpress.tv/2023/11/29/developer-hours-how-to-extend-core-wordpress-blocks/)
 - [Augmentez le trafic et les ventes de votre site WooCommerce grâce à Facebook, Instagram, Pinterest e](https://wordpress.tv/2023/11/23/augmentez-le-trafic-et-les-ventes-de-votre-site-woocommerce-grace-a-facebook-instagram-pinterest-e/)
 - [Experts WordPress : découvrez comment vous protéger des 3 plus gros risques clients](https://wordpress.tv/2023/11/23/experts-wordpress-decouvrez-comment-vous-proteger-des-3-plus-gros-risques-clients/)
-- [WordPress, est-ce que ça scale ?](https://wordpress.tv/2023/11/23/wordpress-est-ce-que-ca-scale/)
-- [Créez un plugin réconciliant le PHP moderne et le développement WordPress](https://wordpress.tv/2023/11/23/creez-un-plugin-reconciliant-le-php-moderne-et-le-developpement-wordpress/)
-- [Tailler son site comme une fusée ! L’architecture WordPress optimisée SEO](https://wordpress.tv/2023/11/23/nicolas-mercadieu-tailler-son-site-comme-une-fusee-larchitecture-wordpress-optimisee-seo/)
-- [Mes indispensables pour créer un site WordPress](https://wordpress.tv/2023/11/23/mes-indispensables-pour-creer-un-site-wordpress/)
-- [Comprendre et optimiser notre base de données WordPress](https://wordpress.tv/2023/11/23/comprendre-et-optimiser-notre-base-de-donnees-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
