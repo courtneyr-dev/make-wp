@@ -342,6 +342,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Experience Sharing: WordCamp Hopping](https://wordpress.tv/2023/12/09/experience-sharing-wordcamp-hopping/)
+- [Running a Remote Distributed Company Powered by WordPress](https://wordpress.tv/2023/12/09/running-a-remote-distributed-company-powered-by-wordpress/)
+- [Google Adsense Monetization](https://wordpress.tv/2023/12/09/google-adsense-monetization/)
+- [Career Opportunities In WordPress](https://wordpress.tv/2023/12/09/career-opportunities-in-wordpress/)
+- [Securing Your WordPress Site with Modern Authentication and Beyond &lpar;使用現代身份驗證及其他方式保護您的 WordPress 網站&rpar;](https://wordpress.tv/2023/12/09/securing-your-wordpress-site-with-modern-authentication-and-beyond-%e4%bd%bf%e7%94%a8%e7%8f%be%e4%bb%a3%e8%ba%ab%e4%bb%bd%e9%a9%97%e8%ad%89%e5%8f%8a%e5%85%b6%e4%bb%96%e6%96%b9%e5%bc%8f%e4%bf%9d/)
+- [The Integration of CDP in WordPress Page and Its Application &lpar;CDP在WordPress頁面中的整合及其應用&rpar;](https://wordpress.tv/2023/12/09/the-integration-of-cdp-in-wordpress-page-and-its-application-cdp%e5%9c%a8wordpress%e9%a0%81%e9%9d%a2%e4%b8%ad%e7%9a%84%e6%95%b4%e5%90%88%e5%8f%8a%e5%85%b6%e6%87%89%e7%94%a8/)
+- [AI-Powered Storytelling: Unleashing the Creative Potential for Content Marketing &lpar;AI故事營銷: 以AI釋放創意內容&rpar;](https://wordpress.tv/2023/12/09/ai-powered-storytelling-unleashing-the-creative-potential-for-content-marketing-ai%e6%95%85%e4%ba%8b%e7%87%9f%e9%8a%b7-%e4%bb%a5ai%e9%87%8b%e6%94%be%e5%89%b5%e6%84%8f%e5%85%a7%e5%ae%b9/)
+- [From Scraping to Success: The Art of Building SEO-Optimized Content with Google Data and WordPress](https://wordpress.tv/2023/12/09/from-scraping-to-success-the-art-of-building-seo-optimized-content-with-google-data-and-wordpress/)
+- [5年後還是新手 – WordPress Plugin開發大冒險](https://wordpress.tv/2023/12/09/5%e5%b9%b4%e5%be%8c%e9%82%84%e6%98%af%e6%96%b0%e6%89%8b-wordpress-plugin%e9%96%8b%e7%99%bc%e5%a4%a7%e5%86%92%e9%9a%aa/)
+- [Opening Remarks by Lead Organizer](https://wordpress.tv/2023/12/09/opening-remarks-by-lead-organizer/)
 - [Designing Your WordPress Website for People and Planet](https://wordpress.tv/2023/12/09/designing-your-wordpress-website-for-people-and-planet/)
 - [Composable Development Tactics with Headless WordPress](https://wordpress.tv/2023/12/09/composable-development-tactics-with-headless-wordpress/)
 - [An Introduction to Building Block Themes Without Leaving the Editor](https://wordpress.tv/2023/12/09/an-introduction-to-building-block-themes-without-leaving-the-editor/)
@@ -357,16 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO ist mehr als grüne Smilies auf Yoast: Eine Einführung](https://wordpress.tv/2023/12/03/seo-ist-mehr-als-grune-smilies-auf-yoast-eine-einfuhrung/)
 - [Finde den Fehler: 13 häufige und kritische SEO-Fehler von Online-Shops](https://wordpress.tv/2023/12/03/finde-den-fehler-13-haufige-und-kritische-seo-fehler-von-online-shops/)
 - [Create Block Theme Improvements](https://wordpress.tv/2023/12/01/create-block-theme-improvements/)
-- [Bricks Builder para WordPress – El builder que respeta la web](https://wordpress.tv/2023/12/01/bricks-builder-para-wordpress-el-builder-que-respeta-la-web/)
-- [AI in WordPress](https://wordpress.tv/2023/11/30/ai-in-wordpress/)
-- [The Story of the Custom Post Type Lost in a World of Pages](https://wordpress.tv/2023/11/30/the-story-of-the-custom-post-type-lost-in-a-world-of-pages/)
-- [Testing your products for PHP version compatibility](https://wordpress.tv/2023/11/30/testing-your-products-for-php-version-compatibility/)
-- [WordPress 6.4 und Twenty Twenty-Four &lpar;TT4&rpar;](https://wordpress.tv/2023/11/30/wordpress-6-4-und-twenty-twenty-four-tt4/)
-- [La nueva tecnología de temas WordPress](https://wordpress.tv/2023/11/30/la-nueva-tecnologia-de-temas-wordpress/)
-- [Live WordPress 100% Bloc 14 novembre 2023](https://wordpress.tv/2023/11/30/live-wordpress-100-bloc-14-novembre-2023/)
-- [Developer Hours: How to extend Core WordPress blocks](https://wordpress.tv/2023/11/29/developer-hours-how-to-extend-core-wordpress-blocks/)
-- [Augmentez le trafic et les ventes de votre site WooCommerce grâce à Facebook, Instagram, Pinterest e](https://wordpress.tv/2023/11/23/augmentez-le-trafic-et-les-ventes-de-votre-site-woocommerce-grace-a-facebook-instagram-pinterest-e/)
-- [Experts WordPress : découvrez comment vous protéger des 3 plus gros risques clients](https://wordpress.tv/2023/11/23/experts-wordpress-decouvrez-comment-vous-proteger-des-3-plus-gros-risques-clients/)
 <!-- WPTV:END -->
 
 ## Marketing
