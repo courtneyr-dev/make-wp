@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Scraping to Success: The Art of Building SEO-Optimized Content with Google Data and WordPress](https://wordpress.tv/2023/12/09/from-scraping-to-success-the-art-of-building-seo-optimized-content-with-google-data-and-wordpress/)
 - [5年後還是新手 – WordPress Plugin開發大冒險](https://wordpress.tv/2023/12/09/5%e5%b9%b4%e5%be%8c%e9%82%84%e6%98%af%e6%96%b0%e6%89%8b-wordpress-plugin%e9%96%8b%e7%99%bc%e5%a4%a7%e5%86%92%e9%9a%aa/)
 - [Opening Remarks by Lead Organizer](https://wordpress.tv/2023/12/09/opening-remarks-by-lead-organizer/)
+- [The power of visual storytelling in web design](https://wordpress.tv/2023/12/09/the-power-of-visual-storytelling-in-web-design/)
 - [Designing your WordPress website for people and planet](https://wordpress.tv/2023/12/09/designing-your-wordpress-website-for-people-and-planet/)
 - [Composable Development Tactics with Headless WordPress](https://wordpress.tv/2023/12/09/composable-development-tactics-with-headless-wordpress/)
 - [An Introduction to Building Block Themes Without Leaving the Editor](https://wordpress.tv/2023/12/09/an-introduction-to-building-block-themes-without-leaving-the-editor/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [L’Art des Polices Fluides dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/04/lart-des-polices-fluides-dans-lediteur-de-site-fse/)
 - [SEO ist mehr als grüne Smilies auf Yoast: Eine Einführung](https://wordpress.tv/2023/12/03/seo-ist-mehr-als-grune-smilies-auf-yoast-eine-einfuhrung/)
 - [Finde den Fehler: 13 häufige und kritische SEO-Fehler von Online-Shops](https://wordpress.tv/2023/12/03/finde-den-fehler-13-haufige-und-kritische-seo-fehler-von-online-shops/)
-- [Create Block Theme Improvements](https://wordpress.tv/2023/12/01/create-block-theme-improvements/)
 <!-- WPTV:END -->
 
 ## Marketing
