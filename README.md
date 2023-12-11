@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 68: Toward a More Interconnected Web](https://wordpress.org/news/2023/12/episode-68-toward-a-more-interconnected-web/)
 - [The Month in WordPress – November 2023](https://wordpress.org/news/2023/12/the-month-in-wordpress-november-2023/)
 - [WordPress 6.4.2 Maintenance &amp; Security Release](https://wordpress.org/news/2023/12/wordpress-6-4-2-maintenance-security-release/)
 - [Alert: WordPress Security Team Impersonation Scams](https://wordpress.org/news/2023/12/alert-wordpress-security-team-impersonation-scams/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing Twenty Twenty-Four](https://wordpress.org/news/2023/11/introducing-twenty-twenty-four/)
 - [WP Briefing: Episode 66: Advocating Open Source Solutions](https://wordpress.org/news/2023/11/episode-66-advocating-open-source-solutions/)
 - [The Month in WordPress – October 2023](https://wordpress.org/news/2023/11/the-month-in-wordpress-october-2023/)
-- [WordPress 6.4.1 Maintenance Release](https://wordpress.org/news/2023/11/wordpress-6-4-1-maintenance-release/)
 <!-- NEWS:END -->
 
 ## Jobs
