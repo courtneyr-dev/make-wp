@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for captchafox-for-forms](https://make.wordpress.org/polyglots/2023/12/11/pte-request-for-captchafox-for-forms/)
 - [PTE Request for Independent Analytics Plugin](https://make.wordpress.org/polyglots/2023/12/10/pte-request-for-independent-analytics-plugin/)
 - [PTE Request for Preload Featured Image](https://make.wordpress.org/polyglots/2023/12/08/pte-request-for-preload-featured-image/)
 - [PTE Request for News Parser Plug-in](https://make.wordpress.org/polyglots/2023/12/07/pte-request-for-news-parser-plug-in/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Offload, AI &amp; Optimize with Cloudflare Images plugin](https://make.wordpress.org/polyglots/2023/12/05/pte-request-for-offload-ai-optimize-with-cloudflare-images-plugin/)
 - [PTE Request for Astra theme](https://make.wordpress.org/polyglots/2023/12/04/pte-request-for-astra-theme-3/)
 - [PTE Request for Taza WordPress theme](https://make.wordpress.org/polyglots/2023/12/04/pte-request-for-taza-wordpress-theme/)
-- [PTE Request for News-Parser](https://make.wordpress.org/polyglots/2023/12/03/pte-request-for-news-parser/)
 <!-- POLYGLOTS:END -->
 
 ## Support
