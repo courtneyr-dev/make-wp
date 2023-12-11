@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [State Of The Word – Q&amp;A Session](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session/)
 - [State of the Word 2023](https://wordpress.tv/2023/12/11/state-of-the-word-2023/)
 - [Experience Sharing: WordCamp Hopping](https://wordpress.tv/2023/12/09/experience-sharing-wordcamp-hopping/)
 - [Running a Remote Distributed Company Powered by WordPress](https://wordpress.tv/2023/12/09/running-a-remote-distributed-company-powered-by-wordpress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress y WPO: Más allá de un simple plugin, una filosofía de trabajo](https://wordpress.tv/2023/12/06/wordpress-y-wpo-mas-alla-de-un-simple-plugin-una-filosofia-de-trabajo/)
 - [Wes Theron: Creating a one-page website](https://wordpress.tv/2023/12/04/wes-theron-creating-a-one-page-website/)
 - [L’Art des Polices Fluides dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/04/lart-des-polices-fluides-dans-lediteur-de-site-fse/)
-- [SEO ist mehr als grüne Smilies auf Yoast: Eine Einführung](https://wordpress.tv/2023/12/03/seo-ist-mehr-als-grune-smilies-auf-yoast-eine-einfuhrung/)
 <!-- WPTV:END -->
 
 ## Marketing
