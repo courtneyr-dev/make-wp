@@ -469,7 +469,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
-- [Overflow Questions from State of the Word 2023](https://make.wordpress.org/project/2023/12/12/overflow-questions-from-state-of-the-word-2023/)
+- [Overflow Questions from State of the Word 2023 in Madrid, Spain](https://make.wordpress.org/project/2023/12/12/overflow-questions-from-state-of-the-word-2023/)
 - [Embracing Matrix for Enhanced Communication](https://make.wordpress.org/project/2023/11/30/embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/project/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Request for Feedback: Make/Team Dashboards](https://make.wordpress.org/project/2023/09/25/request-for-feedback-make-team-dashboards/)
