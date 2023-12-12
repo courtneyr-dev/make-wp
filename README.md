@@ -385,6 +385,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/cli/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/cli/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/cli/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Twenty-One Merged PRs for WP-CLI Hack Day 2023](https://make.wordpress.org/cli/2023/11/11/twenty-one-merged-prs-for-wp-cli-hack-day-2023/)
@@ -394,7 +395,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/cli/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [WP-CLI v2.8.1 Release Notes](https://make.wordpress.org/cli/2023/06/05/wp-cli-v2-8-1-release-notes/)
 - [WP-CLI v2.8.0 Release Notes](https://make.wordpress.org/cli/2023/05/31/wp-cli-v2-8-0-release-notes/)
-- [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/cli/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 <!-- CLI:END -->
 
 ## Hosting
