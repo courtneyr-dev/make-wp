@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Pattern preview during translation is general available](https://make.wordpress.org/polyglots/2023/12/12/pattern-preview-during-translation-is-general-available/)
 - [How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/polyglots/2023/12/11/how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
 - [PTE Request for captchafox-for-forms](https://make.wordpress.org/polyglots/2023/12/11/pte-request-for-captchafox-for-forms/)
 - [PTE Request for Independent Analytics Plugin](https://make.wordpress.org/polyglots/2023/12/10/pte-request-for-independent-analytics-plugin/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat- December 6, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/06/agenda-weekly-polyglots-chat-december-6-2023-1300-utc/)
 - [Call for Polyglots Team Representatives](https://make.wordpress.org/polyglots/2023/12/06/call-for-polyglots-team-representatives-3/)
 - [PTE Request for Offload, AI &amp; Optimize with Cloudflare Images plugin](https://make.wordpress.org/polyglots/2023/12/05/pte-request-for-offload-ai-optimize-with-cloudflare-images-plugin/)
-- [PTE Request for Astra theme](https://make.wordpress.org/polyglots/2023/12/04/pte-request-for-astra-theme-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
