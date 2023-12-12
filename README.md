@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/community/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/community/2023/12/11/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
 - [Community Team Meeting Agenda for 7 December, 2023](https://make.wordpress.org/community/2023/12/06/community-team-meeting-agenda-for-7-december-2023/)
 - [X-post: Recap: GitHub updates and process refinements](https://make.wordpress.org/community/2023/12/05/xpost-recap-github-updates-and-process-refinements/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Should We Allow Sponsor Demo Rooms or Tracks at Events?](https://make.wordpress.org/community/2023/11/29/should-we-allow-sponsor-demo-rooms-or-tracks-at-events/)
 - [Vote for Community Team Rep 2024](https://make.wordpress.org/community/2023/11/28/vote-for-community-team-rep-2024/)
 - [Recap of Contributor Working Group’s Mentorship Chat on November 16th, 2023](https://make.wordpress.org/community/2023/11/24/recap-of-contributor-working-groups-mentorship-chat-on-november-16th-2023/)
-- [Translation Review for the State of the Word](https://make.wordpress.org/community/2023/11/21/hello-community-team/)
 <!-- COMMUNITY:END -->
 
 ## Meta
