@@ -31,6 +31,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Mobile
 <!-- MOBILE:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/mobile/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/mobile/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/mobile/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/mobile/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
@@ -40,7 +41,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/mobile/2023/04/17/xpost-integrating-the-mobile-app-documentation-into-helphub/)
 - [Contribute to the Future of the WordPress App](https://make.wordpress.org/mobile/2023/04/11/contribute-to-the-future-of-the-wordpress-app/)
 - [New Mobile Support Forum](https://make.wordpress.org/mobile/2023/03/28/new-mobile-support-forum/)
-- [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/mobile/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 <!-- MOBILE:END -->
 
 ## Accessibility
