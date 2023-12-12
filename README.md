@@ -469,6 +469,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Overflow Questions from State of the Word 2023](https://make.wordpress.org/project/2023/12/12/overflow-questions-from-state-of-the-word-2023/)
 - [Embracing Matrix for Enhanced Communication](https://make.wordpress.org/project/2023/11/30/embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/project/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Request for Feedback: Make/Team Dashboards](https://make.wordpress.org/project/2023/09/25/request-for-feedback-make-team-dashboards/)
@@ -478,7 +479,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/project/2023/08/11/the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/project/2023/07/13/proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 - [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/project/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
-- [Launch your WordPress Contributor Journey through the Mentorship Program Pilot](https://make.wordpress.org/project/2023/06/23/launch-your-wordpress-contributor-journey-through-the-mentorship-program-pilot/)
 <!-- PROJECT:END -->
 
 ## Systems
