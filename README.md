@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [BYGG Project](https://jobs.wordpress.net/job/bygg-project/)
+- [UI Designer Who knows WordPress and designs functional web apps!](https://jobs.wordpress.net/job/ui-designer-who-knows-wordpress-and-designs-functional-web-apps/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-28/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-11/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-11/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer – Remote [AMER,EMEA]](https://jobs.wordpress.net/job/wordpress-developer-remote-ameremea/)
 - [WordPress Video Editor and Educator](https://jobs.wordpress.net/job/wordpress-video-editor-and-educator/)
 - [WordPress Business Development](https://jobs.wordpress.net/job/wordpress-business-development/)
-- [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-4/)
-- [[Remote] WordPress Support Engineer](https://jobs.wordpress.net/job/remote-wordpress-support-engineer/)
 <!-- JOBS:END -->
 
 ## Central
