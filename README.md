@@ -342,8 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [State Of The Word – Q&amp;A Session](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session/)
 - [State of the Word 2023](https://wordpress.tv/2023/12/11/state-of-the-word-2023/)
+- [State Of The Word – Q&amp;A Session](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session/)
 - [Experience Sharing: WordCamp Hopping](https://wordpress.tv/2023/12/09/experience-sharing-wordcamp-hopping/)
 - [Running a Remote Distributed Company Powered by WordPress](https://wordpress.tv/2023/12/09/running-a-remote-distributed-company-powered-by-wordpress/)
 - [Google Adsense Monetization](https://wordpress.tv/2023/12/09/google-adsense-monetization/)
