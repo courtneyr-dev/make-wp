@@ -441,6 +441,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/photos/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/photos/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [November Photo Directory Update](https://make.wordpress.org/photos/2023/12/01/november-photo-directory-update/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/photos/2023/11/30/xpost-create-tours-for-make-p2s/)
@@ -450,7 +451,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [August Photo Directory Update](https://make.wordpress.org/photos/2023/08/28/august-photo-directory-update/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/photos/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 - [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/photos/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
-- [X-post: Announcing the Inaugural Cohort of the WordPress Contributor Mentorship Program!](https://make.wordpress.org/photos/2023/07/12/xpost-announcing-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program/)
 <!-- PHOTOS:END -->
 
 ## Updates
