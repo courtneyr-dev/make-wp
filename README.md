@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/updates/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Core Team Update – December 11, 2023](https://make.wordpress.org/updates/2023/12/11/core-team-update-december-11-2023/)
 - [Documentation Team Update – December 11, 2023](https://make.wordpress.org/updates/2023/12/11/documentation-team-update-december-11-2023/)
 - [Test Team Update: 11 December 2023](https://make.wordpress.org/updates/2023/12/11/test-team-update-11-december-2023/)
@@ -464,7 +465,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Review Team: 4 December 2023](https://make.wordpress.org/updates/2023/12/04/plugin-review-team-4-december-2023/)
 - [Documentation Team Update – December 4, 2023](https://make.wordpress.org/updates/2023/12/04/documentation-team-update-december-4-2023/)
 - [Test Team Update: 4 December 2023](https://make.wordpress.org/updates/2023/12/04/test-team-update-4-december-2023/)
-- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/updates/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 <!-- UPDATES:END -->
 
 ## Project
