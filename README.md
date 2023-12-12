@@ -371,6 +371,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/marketing/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/marketing/2023/12/11/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
 - [Election process and nominations for MakeWP Marketing Team Reps 2024](https://make.wordpress.org/marketing/2023/12/06/election-process-and-nominations-for-makewp-marketing-team-reps-2024/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/marketing/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
@@ -380,7 +381,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: What’s new on Learn WordPress in October 2023](https://make.wordpress.org/marketing/2023/10/31/xpost-whats-new-on-learn-wordpress-in-october-2023/)
 - [Notes: Global Marketing Team meeting, 24 October 2023](https://make.wordpress.org/marketing/2023/10/31/notes-global-marketing-team-meeting-24-october-2023/)
 - [Notes: Global Marketing Team meeting, 17 October 2023](https://make.wordpress.org/marketing/2023/10/24/notes-global-marketing-team-meeting-17-october-2023/)
-- [Discussion about the WordPress Annual Survey with Josepha Haden Chomphosy](https://make.wordpress.org/marketing/2023/10/18/discussion-about-the-wordpress-annual-survey-with-josepha-haden-chomphosy/)
 <!-- MARKETING:END -->
 
 ## CLI
