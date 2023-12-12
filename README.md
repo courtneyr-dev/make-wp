@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/core/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Performance Chat Agenda: 12 December 2023](https://make.wordpress.org/core/2023/12/12/performance-chat-agenda-12-december-2023/)
 - [Raising the minimum version of MySQL required in WordPress 6.5](https://make.wordpress.org/core/2023/12/08/raising-the-minimum-version-of-mysql-required-in-wordpress-6-5/)
 - [Roadmap to 6.5](https://make.wordpress.org/core/2023/12/07/roadmap-to-6-5/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap: WordPress 6.4 “Shirley” Retrospective](https://make.wordpress.org/core/2023/12/05/recap-wordpress-6-4-shirley-retrospective/)
 - [Proposal: Default Theme Task Force for 2024](https://make.wordpress.org/core/2023/12/05/proposal-default-theme-task-force-for-2024/)
 - [Performance Chat Agenda: 5 December 2023](https://make.wordpress.org/core/2023/12/05/performance-chat-agenda-05-december-2023/)
-- [Nominations for Core Team Reps: 2024 Edition](https://make.wordpress.org/core/2023/12/04/nominations-for-core-team-reps-2024-edition/)
 <!-- CORE:END -->
 
 ## Design
