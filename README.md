@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/training/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Contributor Spotlight: Laura Adamonis](https://make.wordpress.org/training/2023/12/12/contributor-spotlight-laura-adamonis/)
 - [Training Team Meeting Recap – 5th December 2023](https://make.wordpress.org/training/2023/12/12/training-team-meeting-recap-5th-december-2023/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/training/2023/12/11/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 28 November 2023](https://make.wordpress.org/training/2023/12/05/training-team-meeting-recap-28-november-2023/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/training/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/training/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [Request for feedback: Lesson Handbook pages](https://make.wordpress.org/training/2023/11/29/request-for-feedback-lesson-handbook-pages/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
