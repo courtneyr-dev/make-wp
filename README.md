@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/polyglots/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [PTE Request for Apex Theme](https://make.wordpress.org/polyglots/2023/12/12/pte-request-for-apex-theme/)
 - [Adding related languages at the bottom of the translation row](https://make.wordpress.org/polyglots/2023/12/12/adding-related-languages-at-the-bottom-of-the-translation-row/)
 - [Pattern preview during translation is general available](https://make.wordpress.org/polyglots/2023/12/12/pattern-preview-during-translation-is-general-available/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Preload Featured Image](https://make.wordpress.org/polyglots/2023/12/08/pte-request-for-preload-featured-image/)
 - [PTE Request for News Parser Plug-in](https://make.wordpress.org/polyglots/2023/12/07/pte-request-for-news-parser-plug-in/)
 - [PTE Request for Squad Modules for Divi Builder](https://make.wordpress.org/polyglots/2023/12/07/pte-request-for-squad-modules-for-divi-builder-2/)
-- [Agenda: Weekly Polyglots Chat- December 6, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/06/agenda-weekly-polyglots-chat-december-6-2023-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
