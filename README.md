@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Wirtualna Polska Pixel](https://make.wordpress.org/polyglots/2023/12/13/pte-request-for-wirtualna-polska-pixel/)
 - [Agenda: Weekly Polyglots Chat- December 13, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/13/agenda-weekly-polyglots-chat-december-13-2023-700-utc/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/polyglots/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [PTE Request for Apex Theme](https://make.wordpress.org/polyglots/2023/12/12/pte-request-for-apex-theme/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for captchafox-for-forms](https://make.wordpress.org/polyglots/2023/12/11/pte-request-for-captchafox-for-forms/)
 - [PTE Request for Independent Analytics Plugin](https://make.wordpress.org/polyglots/2023/12/10/pte-request-for-independent-analytics-plugin/)
 - [PTE Request for Preload Featured Image](https://make.wordpress.org/polyglots/2023/12/08/pte-request-for-preload-featured-image/)
-- [PTE Request for News Parser Plug-in](https://make.wordpress.org/polyglots/2023/12/07/pte-request-for-news-parser-plug-in/)
 <!-- POLYGLOTS:END -->
 
 ## Support
