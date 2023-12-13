@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [6.4.3 Maintenance Release Bug Scrub](https://make.wordpress.org/core/2023/12/13/6-4-3-maintenance-release-bug-scrub/)
+- [DevChat Agenda – December 13, 2023](https://make.wordpress.org/core/2023/12/13/110123/)
 - [Performance Chat Summary: 12 December 2023](https://make.wordpress.org/core/2023/12/12/performance-chat-summary-12-december-2023/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/core/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Performance Chat Agenda: 12 December 2023](https://make.wordpress.org/core/2023/12/12/performance-chat-agenda-12-december-2023/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in Gutenberg 17.2? &lpar;6 December&rpar;](https://make.wordpress.org/core/2023/12/06/whats-new-in-gutenberg-17-2-6-december/)
 - [Dev Chat agenda, December 6, 2023](https://make.wordpress.org/core/2023/12/05/dev-chat-agenda-december-6-2023/)
 - [Performance Chat Summary: 5 December 2023](https://make.wordpress.org/core/2023/12/05/performance-chat-summary-05-december-2023/)
-- [Recap: WordPress 6.4 “Shirley” Retrospective](https://make.wordpress.org/core/2023/12/05/recap-wordpress-6-4-shirley-retrospective/)
-- [Proposal: Default Theme Task Force for 2024](https://make.wordpress.org/core/2023/12/05/proposal-default-theme-task-force-for-2024/)
 <!-- CORE:END -->
 
 ## Design
