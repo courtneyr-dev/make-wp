@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [To group or not to group: How to use the group block](https://wordpress.tv/2023/12/14/to-group-or-not-to-group-how-to-use-the-group-block/)
 - [State of the Word 2023](https://wordpress.tv/2023/12/11/state-of-the-word-2023/)
 - [State Of The Word – Q&amp;A Session](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session/)
 - [Experience Sharing: WordCamp Hopping](https://wordpress.tv/2023/12/09/experience-sharing-wordcamp-hopping/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to WordPress](https://wordpress.tv/2023/12/06/introduction-to-wordpress/)
 - [Maîtriser les tailles de police par défaut dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/06/maitriser-les-tailles-de-police-par-defaut-dans-lediteur-de-site-fse/)
 - [WordPress y WPO: Más allá de un simple plugin, una filosofía de trabajo](https://wordpress.tv/2023/12/06/wordpress-y-wpo-mas-alla-de-un-simple-plugin-una-filosofia-de-trabajo/)
-- [Wes Theron: Creating a one-page website](https://wordpress.tv/2023/12/04/wes-theron-creating-a-one-page-website/)
 <!-- WPTV:END -->
 
 ## Marketing
