@@ -354,6 +354,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Scraping to Success: The Art of Building SEO-Optimized Content with Google Data and WordPress](https://wordpress.tv/2023/12/09/from-scraping-to-success-the-art-of-building-seo-optimized-content-with-google-data-and-wordpress/)
 - [5年後還是新手 – WordPress Plugin開發大冒險](https://wordpress.tv/2023/12/09/5%e5%b9%b4%e5%be%8c%e9%82%84%e6%98%af%e6%96%b0%e6%89%8b-wordpress-plugin%e9%96%8b%e7%99%bc%e5%a4%a7%e5%86%92%e9%9a%aa/)
 - [Opening Remarks by Lead Organizer](https://wordpress.tv/2023/12/09/opening-remarks-by-lead-organizer/)
+- [Building WordPress communities in your country](https://wordpress.tv/2023/12/09/building-wordpress-communities-in-your-country/)
 - [The power of visual storytelling in web design](https://wordpress.tv/2023/12/09/the-power-of-visual-storytelling-in-web-design/)
 - [Designing your WordPress website for people and planet](https://wordpress.tv/2023/12/09/designing-your-wordpress-website-for-people-and-planet/)
 - [Composable Development Tactics with Headless WordPress](https://wordpress.tv/2023/12/09/composable-development-tactics-with-headless-wordpress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Maîtriser les tailles de police par défaut dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/06/maitriser-les-tailles-de-police-par-defaut-dans-lediteur-de-site-fse/)
 - [WordPress y WPO: Más allá de un simple plugin, una filosofía de trabajo](https://wordpress.tv/2023/12/06/wordpress-y-wpo-mas-alla-de-un-simple-plugin-una-filosofia-de-trabajo/)
 - [Wes Theron: Creating a one-page website](https://wordpress.tv/2023/12/04/wes-theron-creating-a-one-page-website/)
-- [L’Art des Polices Fluides dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/04/lart-des-polices-fluides-dans-lediteur-de-site-fse/)
 <!-- WPTV:END -->
 
 ## Marketing
