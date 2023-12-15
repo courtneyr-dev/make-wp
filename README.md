@@ -363,10 +363,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [An Introduction to Building Block Themes Without Leaving the Editor](https://wordpress.tv/2023/12/09/an-introduction-to-building-block-themes-without-leaving-the-editor/)
 - [A Somewhat Practical WordPress Security Talk](https://wordpress.tv/2023/12/09/a-somewhat-practical-wordpress-security-talk/)
 - [Over the Rainbow – Inclusivity for the LGBTQIA+ Community in WordPress](https://wordpress.tv/2023/12/09/over-the-rainbow-inclusivity-for-the-lgbtqia-community-in-wordpress/)
+- [How to create a Training Team meeting recap post](https://wordpress.tv/2023/12/08/how-to-create-a-training-team-meeting-recap-post/)
 - [Maîtrise des Alignements dans un Thème FSE Basé sur des Blocs](https://wordpress.tv/2023/12/08/maitrise-des-alignements-dans-un-theme-fse-base-sur-des-blocs/)
 - [WordPress Essentials: Domains and Hosting](https://wordpress.tv/2023/12/07/wordpress-essentials-domains-and-hosting/)
 - [Introduction to WordPress](https://wordpress.tv/2023/12/06/introduction-to-wordpress/)
-- [Maîtriser les tailles de police par défaut dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/06/maitriser-les-tailles-de-police-par-defaut-dans-lediteur-de-site-fse/)
 <!-- WPTV:END -->
 
 ## Marketing
