@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Getting started with WordPress security](https://wordpress.tv/2023/12/14/getting-started-with-wordpress-security/)
 - [To group or not to group: How to use the group block](https://wordpress.tv/2023/12/14/to-group-or-not-to-group-how-to-use-the-group-block/)
 - [State of the Word 2023](https://wordpress.tv/2023/12/11/state-of-the-word-2023/)
 - [State Of The Word – Q&amp;A Session](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Essentials: Domains and Hosting](https://wordpress.tv/2023/12/07/wordpress-essentials-domains-and-hosting/)
 - [Introduction to WordPress](https://wordpress.tv/2023/12/06/introduction-to-wordpress/)
 - [Maîtriser les tailles de police par défaut dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2023/12/06/maitriser-les-tailles-de-police-par-defaut-dans-lediteur-de-site-fse/)
-- [WordPress y WPO: Más allá de un simple plugin, una filosofía de trabajo](https://wordpress.tv/2023/12/06/wordpress-y-wpo-mas-alla-de-un-simple-plugin-una-filosofia-de-trabajo/)
 <!-- WPTV:END -->
 
 ## Marketing
