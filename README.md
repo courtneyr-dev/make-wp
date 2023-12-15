@@ -45,6 +45,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [X-post: Developer Resources gets a refresh](https://make.wordpress.org/accessibility/2023/12/15/xpost-developer-resources-gets-a-refresh/)
 - [Accessibility Team Meeting Agenda: December 15, 2023](https://make.wordpress.org/accessibility/2023/12/14/accessibility-team-meeting-agenda-december-15-2023/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/accessibility/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/accessibility/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
@@ -54,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/accessibility/2023/11/23/xpost-redesigning-developer-resources-and-a-call-for-testing/)
 - [Accessibility Team Meeting Agenda: November 17, 2023](https://make.wordpress.org/accessibility/2023/11/17/accessibility-team-meeting-agenda-november-17-2023/)
 - [X-post: Hallway Hangout: Recap of working session on consolidating navigation modes](https://make.wordpress.org/accessibility/2023/11/15/xpost-hallway-hangout-recap-of-working-session-on-consolidating-navigation-modes/)
-- [Accessibility Team Meeting Notes: November 3, 2023](https://make.wordpress.org/accessibility/2023/11/12/accessibility-team-meeting-notes-november-3-2023/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
