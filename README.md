@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested Italian translations for…](https://make.wordpress.org/polyglots/2023/12/15/ive-suggested-italian-translations-for-2/)
 - [PTE request in project MonsterInsights &lpar;fr_FR&rpar;](https://make.wordpress.org/polyglots/2023/12/14/pte-request-in-project-monsterinsights-fr_fr/)
 - [PTE Request for Wirtualna Polska Pixel](https://make.wordpress.org/polyglots/2023/12/13/pte-request-for-wirtualna-polska-pixel/)
 - [Agenda: Weekly Polyglots Chat- December 13, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/13/agenda-weekly-polyglots-chat-december-13-2023-700-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pattern preview during translation is general available](https://make.wordpress.org/polyglots/2023/12/12/pattern-preview-during-translation-is-general-available/)
 - [How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/polyglots/2023/12/11/how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
 - [PTE Request for captchafox-for-forms](https://make.wordpress.org/polyglots/2023/12/11/pte-request-for-captchafox-for-forms/)
-- [PTE Request for Independent Analytics Plugin](https://make.wordpress.org/polyglots/2023/12/10/pte-request-for-independent-analytics-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
