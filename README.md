@@ -346,6 +346,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [To group or not to group: How to use the group block](https://wordpress.tv/2023/12/14/to-group-or-not-to-group-how-to-use-the-group-block/)
 - [State of the Word 2023](https://wordpress.tv/2023/12/11/state-of-the-word-2023/)
 - [State Of The Word – Q&amp;A Session](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session/)
+- [State of the Word 2023 &lpar;audio español&rpar;](https://wordpress.tv/2023/12/11/state-of-the-word-2023-audio-espanol/)
+- [State Of The Word – Q&amp;A Session &lpar;audio español&rpar;](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session-2/)
 - [Experience Sharing: WordCamp Hopping](https://wordpress.tv/2023/12/09/experience-sharing-wordcamp-hopping/)
 - [Running a Remote Distributed Company Powered by WordPress](https://wordpress.tv/2023/12/09/running-a-remote-distributed-company-powered-by-wordpress/)
 - [Google Adsense Monetization](https://wordpress.tv/2023/12/09/google-adsense-monetization/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Over the Rainbow – Inclusivity for the LGBTQIA+ Community in WordPress](https://wordpress.tv/2023/12/09/over-the-rainbow-inclusivity-for-the-lgbtqia-community-in-wordpress/)
 - [How to create a Training Team meeting recap post](https://wordpress.tv/2023/12/08/how-to-create-a-training-team-meeting-recap-post/)
 - [Maîtrise des Alignements dans un Thème FSE Basé sur des Blocs](https://wordpress.tv/2023/12/08/maitrise-des-alignements-dans-un-theme-fse-base-sur-des-blocs/)
-- [WordPress Essentials: Domains and Hosting](https://wordpress.tv/2023/12/07/wordpress-essentials-domains-and-hosting/)
-- [Introduction to WordPress](https://wordpress.tv/2023/12/06/introduction-to-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
