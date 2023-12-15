@@ -115,8 +115,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [admin](https://developer.wordpress.org/cli/commands/admin/)
-- [config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
+- [wp admin](https://developer.wordpress.org/cli/commands/admin/)
+- [wp config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
 - [@wordpress/dataviews](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-dataviews/)
 - [The block wrapper](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-wrapper/)
 - [block.json](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-json/)
