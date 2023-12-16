@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [A walkthrough of the GitHub process updates in the WordPress Training team](https://wordpress.tv/2023/12/15/a-walkthrough-of-the-github-process-updates-in-the-wordpress-training-team/)
 - [New WordPress Developer APIs – The Interactivity API](https://wordpress.tv/2023/12/15/new-wordpress-developer-apis-the-interactivity-api/)
 - [Getting started with WordPress security](https://wordpress.tv/2023/12/14/getting-started-with-wordpress-security/)
 - [To group or not to group: How to use the group block](https://wordpress.tv/2023/12/14/to-group-or-not-to-group-how-to-use-the-group-block/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [An Introduction to Building Block Themes Without Leaving the Editor](https://wordpress.tv/2023/12/09/an-introduction-to-building-block-themes-without-leaving-the-editor/)
 - [A Somewhat Practical WordPress Security Talk](https://wordpress.tv/2023/12/09/a-somewhat-practical-wordpress-security-talk/)
 - [Over the Rainbow – Inclusivity for the LGBTQIA+ Community in WordPress](https://wordpress.tv/2023/12/09/over-the-rainbow-inclusivity-for-the-lgbtqia-community-in-wordpress/)
-- [How to create a Training Team meeting recap post](https://wordpress.tv/2023/12/08/how-to-create-a-training-team-meeting-recap-post/)
 <!-- WPTV:END -->
 
 ## Marketing
