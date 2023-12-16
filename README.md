@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Time WordPress Laravel Expert](https://jobs.wordpress.net/job/full-time-wordpress-laravel-expert/)
+- [WordPress Developer For Bill payment Plugin Development](https://jobs.wordpress.net/job/wordpress-developer-for-bill-payment-plugin-development/)
 - [Performance Specialist &lpar;Server &amp; Website&rpar;](https://jobs.wordpress.net/job/performance-specialist-server-website/)
 - [WordPress e-shop developer](https://jobs.wordpress.net/job/wordpress-e-shop-developer/)
 - [LMS Developer &lpar;based on Tutor LMS&rpar;](https://jobs.wordpress.net/job/lms-developer-based-on-tutor-lms/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-28/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-11/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-11/)
-- [WordPress Site Developer](https://jobs.wordpress.net/job/wordpress-site-developer-4/)
-- [Custom WordPress Plugin Development](https://jobs.wordpress.net/job/custom-wordpress-plugin-development/)
 <!-- JOBS:END -->
 
 ## Central
