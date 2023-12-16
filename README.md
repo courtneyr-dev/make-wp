@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Blocksy Companion](https://make.wordpress.org/polyglots/2023/12/16/pte-request-for-blocksy-companion-2/)
+- [Request for CLPTE](https://make.wordpress.org/polyglots/2023/12/16/hi-team-6/)
 - [I’ve suggested Italian translations for…](https://make.wordpress.org/polyglots/2023/12/15/ive-suggested-italian-translations-for-2/)
 - [PTE request in project MonsterInsights &lpar;fr_FR&rpar;](https://make.wordpress.org/polyglots/2023/12/14/pte-request-in-project-monsterinsights-fr_fr/)
 - [PTE Request for Wirtualna Polska Pixel](https://make.wordpress.org/polyglots/2023/12/13/pte-request-for-wirtualna-polska-pixel/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Apex Theme](https://make.wordpress.org/polyglots/2023/12/12/pte-request-for-apex-theme/)
 - [Adding related languages at the bottom of the translation row](https://make.wordpress.org/polyglots/2023/12/12/adding-related-languages-at-the-bottom-of-the-translation-row/)
 - [Pattern preview during translation is general available](https://make.wordpress.org/polyglots/2023/12/12/pattern-preview-during-translation-is-general-available/)
-- [How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/polyglots/2023/12/11/how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
-- [PTE Request for captchafox-for-forms](https://make.wordpress.org/polyglots/2023/12/11/pte-request-for-captchafox-for-forms/)
 <!-- POLYGLOTS:END -->
 
 ## Support
