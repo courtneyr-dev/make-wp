@@ -350,6 +350,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [State Of The Word – Q&amp;A Session](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session/)
 - [State of the Word 2023 &lpar;audio español&rpar;](https://wordpress.tv/2023/12/11/state-of-the-word-2023-audio-espanol/)
 - [State Of The Word – Q&amp;A Session &lpar;audio español&rpar;](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session-2/)
+- [Building a thoughtful block editing experience](https://wordpress.tv/2023/12/10/building-a-thoughtful-block-editing-experience/)
 - [Experience Sharing: WordCamp Hopping](https://wordpress.tv/2023/12/09/experience-sharing-wordcamp-hopping/)
 - [Running a Remote Distributed Company Powered by WordPress](https://wordpress.tv/2023/12/09/running-a-remote-distributed-company-powered-by-wordpress/)
 - [Google Adsense Monetization](https://wordpress.tv/2023/12/09/google-adsense-monetization/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Composable Development Tactics with Headless WordPress](https://wordpress.tv/2023/12/09/composable-development-tactics-with-headless-wordpress/)
 - [An Introduction to Building Block Themes Without Leaving the Editor](https://wordpress.tv/2023/12/09/an-introduction-to-building-block-themes-without-leaving-the-editor/)
 - [A Somewhat Practical WordPress Security Talk](https://wordpress.tv/2023/12/09/a-somewhat-practical-wordpress-security-talk/)
-- [Over the Rainbow – Inclusivity for the LGBTQIA+ Community in WordPress](https://wordpress.tv/2023/12/09/over-the-rainbow-inclusivity-for-the-lgbtqia-community-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
