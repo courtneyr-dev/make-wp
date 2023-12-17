@@ -517,10 +517,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress e-shop developer](https://jobs.wordpress.net/job/wordpress-e-shop-developer/)
 - [LMS Developer &lpar;based on Tutor LMS&rpar;](https://jobs.wordpress.net/job/lms-developer-based-on-tutor-lms/)
 - [BYGG Project](https://jobs.wordpress.net/job/bygg-project/)
-- [UI Designer Who knows WordPress and designs functional web apps!](https://jobs.wordpress.net/job/ui-designer-who-knows-wordpress-and-designs-functional-web-apps/)
-- [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-28/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-11/)
-- [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-11/)
+- [WordPress Site Developer](https://jobs.wordpress.net/job/wordpress-site-developer-4/)
+- [Custom WordPress Plugin Development](https://jobs.wordpress.net/job/custom-wordpress-plugin-development/)
+- [WordPress Developer – Remote [AMER,EMEA]](https://jobs.wordpress.net/job/wordpress-developer-remote-ameremea/)
+- [WordPress Video Editor and Educator](https://jobs.wordpress.net/job/wordpress-video-editor-and-educator/)
 <!-- JOBS:END -->
 
 ## Central
