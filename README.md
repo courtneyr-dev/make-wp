@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [The block in the Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-in-the-editor/)
 - [Tutorial: Build your first block](https://developer.wordpress.org/block-editor/getting-started/tutorial/)
 - [wp config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
 - [wp admin](https://developer.wordpress.org/cli/commands/admin/)
@@ -122,7 +123,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The block wrapper](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-wrapper/)
 - [block.json](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-json/)
 - [File structure of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/file-structure-of-a-block/)
-- [Working with Javascript for the Block Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/javascript-in-the-block-editor/)
 - [Registration of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/registration-of-a-block/)
 - [Fundamentals of Block Development](https://developer.wordpress.org/block-editor/getting-started/fundamentals/)
 <!-- DEVHUB:END -->
