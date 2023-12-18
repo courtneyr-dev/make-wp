@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WCAG 2.2: ci siamo! Cosa cambia per l’accessibilità?](https://wordpress.tv/2023/12/18/wcag-2-2-ci-siamo-cosa-cambia-per-laccessibilita/)
+- [Il mondo dei negozi online con WordPress sta veramente cambiando?](https://wordpress.tv/2023/12/18/il-mondo-dei-negozi-online-con-wordpress-sta-veramente-cambiando/)
+- [What is your story?](https://wordpress.tv/2023/12/18/what-is-your-story/)
 - [Siamo una community sicura e accogliente?](https://wordpress.tv/2023/12/18/siamo-una-community-sicura-e-accogliente/)
 - [Quali sono le potenzialità di una Local Page collegata al Google Business?](https://wordpress.tv/2023/12/18/quali-sono-le-potenzialita-di-una-local-page-collegata-al-google-business/)
 - [The day I became an Open Source software developer](https://wordpress.tv/2023/12/18/the-day-i-became-an-open-source-software-developer/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Campi personalizzati del tema con ACF](https://wordpress.tv/2023/12/18/campi-personalizzati-del-tema-con-acf/)
 - [FSE: da dove comincio?](https://wordpress.tv/2023/12/18/fse-da-dove-comincio/)
 - [theme.JSON file dinamici](https://wordpress.tv/2023/12/18/theme-json-file-dinamici/)
-- [A walkthrough of the GitHub process updates in the WordPress Training team](https://wordpress.tv/2023/12/15/a-walkthrough-of-the-github-process-updates-in-the-wordpress-training-team/)
-- [New WordPress Developer APIs – The Interactivity API](https://wordpress.tv/2023/12/15/new-wordpress-developer-apis-the-interactivity-api/)
-- [Getting started with WordPress security](https://wordpress.tv/2023/12/14/getting-started-with-wordpress-security/)
 <!-- WPTV:END -->
 
 ## Marketing
