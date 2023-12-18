@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Merging the “History”, “Other locales” and “Translation Memory” tabs](https://make.wordpress.org/polyglots/2023/12/18/merging-the-history-other-locales-and-translation-memory-tabs/)
 - [Hi @kavoros can you add…](https://make.wordpress.org/polyglots/2023/12/16/hi-kavoros-can-you-add/)
 - [I’ve suggested a German translations…](https://make.wordpress.org/polyglots/2023/12/16/ive-suggested-a-german-translations/)
 - [PTE Request for Blocksy Companion](https://make.wordpress.org/polyglots/2023/12/16/pte-request-for-blocksy-companion-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Wirtualna Polska Pixel](https://make.wordpress.org/polyglots/2023/12/13/pte-request-for-wirtualna-polska-pixel/)
 - [Agenda: Weekly Polyglots Chat- December 13, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/13/agenda-weekly-polyglots-chat-december-13-2023-700-utc/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/polyglots/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
-- [PTE Request for Apex Theme](https://make.wordpress.org/polyglots/2023/12/12/pte-request-for-apex-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
