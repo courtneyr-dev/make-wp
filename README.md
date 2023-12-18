@@ -342,6 +342,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Siamo una community sicura e accogliente?](https://wordpress.tv/2023/12/18/siamo-una-community-sicura-e-accogliente/)
+- [Quali sono le potenzialità di una Local Page collegata al Google Business?](https://wordpress.tv/2023/12/18/quali-sono-le-potenzialita-di-una-local-page-collegata-al-google-business/)
+- [The day I became an Open Source software developer](https://wordpress.tv/2023/12/18/the-day-i-became-an-open-source-software-developer/)
+- [Having a blast with my crash test multisite with 468 plugins](https://wordpress.tv/2023/12/18/having-a-blast-with-my-crash-test-multisite-with-468-plugins/)
+- [Banner e pubblicità performanti](https://wordpress.tv/2023/12/18/banner-e-pubblicita-performanti/)
 - [Odissea Public Speaking – Supera le tue paure e riscopri il potere della tua voce](https://wordpress.tv/2023/12/18/odissea-public-speaking-supera-le-tue-paure-e-riscopri-il-potere-della-tua-voce/)
 - [Ottimizza il tuo sito web con la Web Analytics WordPress: gli strumenti gratuiti indispensabili](https://wordpress.tv/2023/12/18/ottimizza-il-tuo-sito-web-con-la-web-analytics-wordpress-gli-strumenti-gratuiti-indispensabili/)
 - [Trasferire un sito WordPress senza errori e senza andare offline](https://wordpress.tv/2023/12/18/trasferire-un-sito-wordpress-senza-errori-e-senza-andare-offline/)
@@ -362,11 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A walkthrough of the GitHub process updates in the WordPress Training team](https://wordpress.tv/2023/12/15/a-walkthrough-of-the-github-process-updates-in-the-wordpress-training-team/)
 - [New WordPress Developer APIs – The Interactivity API](https://wordpress.tv/2023/12/15/new-wordpress-developer-apis-the-interactivity-api/)
 - [Getting started with WordPress security](https://wordpress.tv/2023/12/14/getting-started-with-wordpress-security/)
-- [To group or not to group: How to use the group block](https://wordpress.tv/2023/12/14/to-group-or-not-to-group-how-to-use-the-group-block/)
-- [State of the Word 2023](https://wordpress.tv/2023/12/11/state-of-the-word-2023/)
-- [State Of The Word – Q&amp;A Session](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session/)
-- [State of the Word 2023 &lpar;audio español&rpar;](https://wordpress.tv/2023/12/11/state-of-the-word-2023-audio-espanol/)
-- [State Of The Word – Q&amp;A Session &lpar;audio español&rpar;](https://wordpress.tv/2023/12/11/state-of-the-word-qa-session-2/)
 <!-- WPTV:END -->
 
 ## Marketing
