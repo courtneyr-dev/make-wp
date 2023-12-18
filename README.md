@@ -358,7 +358,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Prepararsi all’AI-pocalisse: SEO per un mondo &lpar;non così&rpar; nuovo](https://wordpress.tv/2023/12/18/prepararsi-allai-pocalisse-seo-per-un-mondo-non-cosi-nuovo/)
 - [Sincronizzazione dei plugin WordPress tra produzione e sviluppo: automazione con Script CLI](https://wordpress.tv/2023/12/18/sincronizzazione-dei-plugin-wordpress-tra-produzione-e-sviluppo-automazione-con-script-cli/)
 - [Esplorando il potere dei Feed RSS: utilizzi alternativi oltre il semplice blog](https://wordpress.tv/2023/12/18/esplorando-il-potere-dei-feed-rss-utilizzi-alternativi-oltre-il-semplice-blog/)
-- [WordPress come strumento di empowerment per giovani attivisti](https://wordpress.tv/2023/12/18/wordpress-come-strumento-di-empowerment-per-giovani-attivisti/)
 - [Temi ibridi: un nuovo modo di fare siti in modo efficiente](https://wordpress.tv/2023/12/18/temi-ibridi-un-nuovo-modo-di-fare-siti-in-modo-efficiente/)
 - [Da Designers Italia a WordPress: creare siti comunali in linea con il PNRR](https://wordpress.tv/2023/12/18/da-designers-italia-a-wordpress-creare-siti-comunali-in-linea-con-il-pnrr/)
 - [Hook e child: sviluppare plugin facilmente estendibili!](https://wordpress.tv/2023/12/18/hook-e-child-sviluppare-plugin-facilmente-estendibili/)
@@ -367,6 +366,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Campi personalizzati del tema con ACF](https://wordpress.tv/2023/12/18/campi-personalizzati-del-tema-con-acf/)
 - [FSE: da dove comincio?](https://wordpress.tv/2023/12/18/fse-da-dove-comincio/)
 - [theme.JSON file dinamici](https://wordpress.tv/2023/12/18/theme-json-file-dinamici/)
+- [A walkthrough of the GitHub process updates in the WordPress Training team](https://wordpress.tv/2023/12/15/a-walkthrough-of-the-github-process-updates-in-the-wordpress-training-team/)
 <!-- WPTV:END -->
 
 ## Marketing
