@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Scope Your Code](https://developer.wordpress.org/block-editor/how-to-guides/javascript/scope-your-code/)
-- [Loading JavaScript](https://developer.wordpress.org/block-editor/how-to-guides/javascript/loading-javascript/)
-- [Plugins Background](https://developer.wordpress.org/block-editor/how-to-guides/javascript/plugins-background/)
-- [How to use JavaScript with the Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/javascript/)
-- [ESNext Syntax](https://developer.wordpress.org/block-editor/how-to-guides/javascript/esnext-js/)
-- [JavaScript Versions and Build Step](https://developer.wordpress.org/block-editor/how-to-guides/javascript/versions-and-building/)
-- [JavaScript Build Setup](https://developer.wordpress.org/block-editor/how-to-guides/javascript/js-build-setup/)
-- [Extending the Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/javascript/extending-the-block-editor/)
-- [Troubleshooting](https://developer.wordpress.org/block-editor/how-to-guides/javascript/troubleshooting/)
 - [Tutorial: Build your first block](https://developer.wordpress.org/block-editor/getting-started/tutorial/)
+- [wp config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
+- [wp admin](https://developer.wordpress.org/cli/commands/admin/)
+- [@wordpress/dataviews](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-dataviews/)
+- [The block wrapper](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-wrapper/)
+- [block.json](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-json/)
+- [File structure of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/file-structure-of-a-block/)
+- [Working with Javascript for the Block Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/javascript-in-the-block-editor/)
+- [Registration of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/registration-of-a-block/)
+- [Fundamentals of Block Development](https://developer.wordpress.org/block-editor/getting-started/fundamentals/)
 <!-- DEVHUB:END -->
 
 ## Themes
