@@ -483,6 +483,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Patterns missing from Developer Blog](https://make.wordpress.org/systems/2023/12/18/patterns-missing-from-developer-blog/)
 - [Ability to install fonts via…](https://make.wordpress.org/systems/2023/11/28/ability-to-install-fonts-via/)
 - [Install Node.js 20.x on the build server](https://make.wordpress.org/systems/2023/11/27/install-node-js-20-x-on-the-build-server/)
 - [Sandbox request for learn.wordpress.org testing](https://make.wordpress.org/systems/2023/11/20/sandbox-request-for-learn-wordpress-org-testing/)
@@ -492,7 +493,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [MC Access for Héctor Prieto](https://make.wordpress.org/systems/2023/09/29/mc-access-for-hector-prieto/)
 - [Help Scout DKIM update](https://make.wordpress.org/systems/2023/09/20/help-scout-dkim-update/)
 - [Email for events.wordpress.org](https://make.wordpress.org/systems/2023/08/16/email-for-events-wordpress-org/)
-- [Email Forward for forum-moderation](https://make.wordpress.org/systems/2023/08/03/email-forward-for-forum-moderation/)
 <!-- SYSTEMS:END -->
 
 ## News
