@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Fast News Ticker]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-fast-news-ticker/)
+- [PTE Request for BetterDocs](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-betterdocs-2/)
+- [PTE Request for [URLYar URL Shortner]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-urlyar-url-shortner/)
 - [Wrong translations in the “Pinterest for WooCommerce” plugin](https://make.wordpress.org/polyglots/2023/12/19/wrong-translations-in-the-pinterest-for-woocommerce-plugin/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/12/19/hi-dear-mentors-we-have-126/)
 - [Merging the “History”, “Other locales” and “Translation Memory” tabs](https://make.wordpress.org/polyglots/2023/12/18/merging-the-history-other-locales-and-translation-memory-tabs/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested a German translations…](https://make.wordpress.org/polyglots/2023/12/16/ive-suggested-a-german-translations/)
 - [PTE Request for Blocksy Companion](https://make.wordpress.org/polyglots/2023/12/16/pte-request-for-blocksy-companion-2/)
 - [Request for CLPTE](https://make.wordpress.org/polyglots/2023/12/16/hi-team-6/)
-- [I’ve suggested Italian translations for…](https://make.wordpress.org/polyglots/2023/12/15/ive-suggested-italian-translations-for-2/)
-- [PTE request in project MonsterInsights &lpar;fr_FR&rpar;](https://make.wordpress.org/polyglots/2023/12/14/pte-request-in-project-monsterinsights-fr_fr/)
-- [PTE Request for Wirtualna Polska Pixel](https://make.wordpress.org/polyglots/2023/12/13/pte-request-for-wirtualna-polska-pixel/)
 <!-- POLYGLOTS:END -->
 
 ## Support
