@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Themes team update December 19, 2023](https://make.wordpress.org/themes/2023/12/19/xpost-themes-team-update-december-19-2023/)
 - [Introducing new Themes Team representatives for the 2024 Edition](https://make.wordpress.org/themes/2023/12/18/introducing-new-themes-team-representatives-for-the-2024-edition/)
 - [X-post: Developer Resources gets a refresh](https://make.wordpress.org/themes/2023/12/15/xpost-developer-resources-gets-a-refresh/)
 - [New requirements for settings pages &amp; onboarding in themes](https://make.wordpress.org/themes/2023/12/13/new-requirements-for-settings-pages-onboarding-in-themes/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: Default Theme Task Force for 2024](https://make.wordpress.org/themes/2023/12/05/xpost-proposal-default-theme-task-force-for-2024/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/themes/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/themes/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [Themes team meeting agenda for November 28, 2023](https://make.wordpress.org/themes/2023/11/28/themes-team-meeting-agenda-for-november-28-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
