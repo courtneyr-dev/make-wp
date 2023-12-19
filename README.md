@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Wrong translations in the “Pinterest for WooCommerce” plugin](https://make.wordpress.org/polyglots/2023/12/19/wrong-translations-in-the-pinterest-for-woocommerce-plugin/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/12/19/hi-dear-mentors-we-have-126/)
 - [Merging the “History”, “Other locales” and “Translation Memory” tabs](https://make.wordpress.org/polyglots/2023/12/18/merging-the-history-other-locales-and-translation-memory-tabs/)
 - [Hi @kavoros can you add…](https://make.wordpress.org/polyglots/2023/12/16/hi-kavoros-can-you-add/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested Italian translations for…](https://make.wordpress.org/polyglots/2023/12/15/ive-suggested-italian-translations-for-2/)
 - [PTE request in project MonsterInsights &lpar;fr_FR&rpar;](https://make.wordpress.org/polyglots/2023/12/14/pte-request-in-project-monsterinsights-fr_fr/)
 - [PTE Request for Wirtualna Polska Pixel](https://make.wordpress.org/polyglots/2023/12/13/pte-request-for-wirtualna-polska-pixel/)
-- [Agenda: Weekly Polyglots Chat- December 13, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/13/agenda-weekly-polyglots-chat-december-13-2023-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
