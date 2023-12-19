@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [Pengenalan Editor Situs dan Template](https://learn.wordpress.org/lesson-plan/id-intro-to-site-editor-and-templates/)
 - [WordPress 可以用來做什麼](https://learn.wordpress.org/lesson-plan/zh-tw-what-you-can-do-with-wordpress/)
 - [Cómo crear un plan de lección](https://learn.wordpress.org/lesson-plan/es-how-to-create-a-lesson-plan/)
 - [લો-કોડ બ્લોક પેટર્ન કેવી રીતે બનાવવી](https://learn.wordpress.org/lesson-plan/gu-how-to-build-low-code-block-patterns/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [மீண்டும் பயன்படுத்தக்கூடிய தொகுதிகள், பிளாக் பேட்டர்ன், டெம்ப்ளேட்கள், டெம்ப்ளேட் பாகங்களுக்கு இடையே உள்ள வேறுபாடு](https://learn.wordpress.org/lesson-plan/ta-difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 - [थीम चुनना और इंस्टॉल करना](https://learn.wordpress.org/lesson-plan/hi-choosing-and-installing-themes/)
 - [पेज बनाम। पदों](https://learn.wordpress.org/lesson-plan/hi-pages-vs-posts/)
-- [पुन: प्रयोज्य ब्लॉकों, ब्लॉक पैटर्न, टेम्पलेट्स, टेम्पलेट भागों के बीच अंतर](https://learn.wordpress.org/lesson-plan/hi-difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
