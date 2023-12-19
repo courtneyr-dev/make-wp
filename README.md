@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 19 December 2023](https://make.wordpress.org/core/2023/12/19/performance-chat-agenda-19-december-2023/)
 - [Dev Blog editorial meeting summary, December 14, 2023](https://make.wordpress.org/core/2023/12/16/dev-blog-editorial-meeting-summary-december-14-2023/)
 - [Dev Chat Summary, December 6, 2023](https://make.wordpress.org/core/2023/12/13/dev-chat-summary-december-6-2023/)
 - [6.4.3 Maintenance Release Bug Scrub](https://make.wordpress.org/core/2023/12/13/6-4-3-maintenance-release-bug-scrub/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 12 December 2023](https://make.wordpress.org/core/2023/12/12/performance-chat-agenda-12-december-2023/)
 - [Raising the minimum version of MySQL required in WordPress 6.5](https://make.wordpress.org/core/2023/12/08/raising-the-minimum-version-of-mysql-required-in-wordpress-6-5/)
 - [Roadmap to 6.5](https://make.wordpress.org/core/2023/12/07/roadmap-to-6-5/)
-- [What’s new in Gutenberg 17.2? &lpar;6 December&rpar;](https://make.wordpress.org/core/2023/12/06/whats-new-in-gutenberg-17-2-6-december/)
 <!-- CORE:END -->
 
 ## Design
