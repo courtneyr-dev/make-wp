@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Contributor Working Group: Mentorship Chat Agenda | December 21st 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/12/19/contributor-working-group-mentorship-chat-agenda-december-21st-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Reminder: Annual Meetup Survey](https://make.wordpress.org/community/2023/12/19/reminder-annual-meetup-survey/)
 - [Announcing the New WordPress Events Page](https://make.wordpress.org/community/2023/12/13/announcing-the-new-wordpress-events-page/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/community/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/community/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [WordCamp Mentors’ December check-in!](https://make.wordpress.org/community/2023/12/01/wordcamp-mentors-december-check-in-2/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/community/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [Should We Allow Sponsor Demo Rooms or Tracks at Events?](https://make.wordpress.org/community/2023/11/29/should-we-allow-sponsor-demo-rooms-or-tracks-at-events/)
 <!-- COMMUNITY:END -->
 
 ## Meta
