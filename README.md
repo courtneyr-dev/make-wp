@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [আমার কোন ধরণের ওয়ার্ডপ্রেস থিম আছে: ক্লাসিক, ব্লক, না অন্য কিছু?](https://learn.wordpress.org/tutorial/bn-what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 - [ক্রিয়েট ব্লক থিমের উন্নতিসমূহ](https://learn.wordpress.org/tutorial/bn-create-block-theme-improvements/)
 - [পোস্ট এবং পেজ শিডিউল করা](https://learn.wordpress.org/tutorial/bn-scheduling-posts-and-pages/)
 - [কিভাবে যেকোন ওয়ার্ডপ্রেস ওয়েবসাইটে একটি ব্লগ বা নিউজ পেজ যোগ করবেন](https://learn.wordpress.org/tutorial/bn-how-to-add-a-blog-or-news-page-to-any-wordpress-website/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Choosing and installing a theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
 - [Common APIs – Responsive Images](https://learn.wordpress.org/tutorial/common-apis-responsive-images/)
-- [একটি থিম নির্বাচন এবং ইনস্টল করা](https://learn.wordpress.org/tutorial/bn-choosing-and-installing-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
