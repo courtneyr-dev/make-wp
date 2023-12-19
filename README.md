@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Reminder: Annual Meetup Survey](https://make.wordpress.org/community/2023/12/19/reminder-annual-meetup-survey/)
 - [Announcing the New WordPress Events Page](https://make.wordpress.org/community/2023/12/13/announcing-the-new-wordpress-events-page/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/community/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/community/2023/12/11/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Mentors’ December check-in!](https://make.wordpress.org/community/2023/12/01/wordcamp-mentors-december-check-in-2/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/community/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Should We Allow Sponsor Demo Rooms or Tracks at Events?](https://make.wordpress.org/community/2023/11/29/should-we-allow-sponsor-demo-rooms-or-tracks-at-events/)
-- [Vote for Community Team Rep 2024](https://make.wordpress.org/community/2023/11/28/vote-for-community-team-rep-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
