@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress come strumento di empowerment per giovani attivisti](https://wordpress.tv/2023/12/20/wordpress-come-strumento-di-empowerment-per-giovani-attivisti/)
 - [Empowering WordPress Training through Translation and Note Taking](https://wordpress.tv/2023/12/20/empowering-wordpress-training-through-translation-and-note-taking/)
 - [Block Editor tricks for lazy people](https://wordpress.tv/2023/12/20/block-editor-tricks-for-lazy-people/)
 - [Community marketing vs management](https://wordpress.tv/2023/12/20/community-marketing-vs-management/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Da Designers Italia a WordPress: creare siti comunali in linea con il PNRR](https://wordpress.tv/2023/12/18/da-designers-italia-a-wordpress-creare-siti-comunali-in-linea-con-il-pnrr/)
 - [Hook e child: sviluppare plugin facilmente estendibili!](https://wordpress.tv/2023/12/18/hook-e-child-sviluppare-plugin-facilmente-estendibili/)
 - [Interaction to Next Paint: come rendere il tuo sito a prova del nuovo Core Web Vital di Google](https://wordpress.tv/2023/12/18/interaction-to-next-paint-come-rendere-il-tuo-sito-a-prova-del-nuovo-core-web-vital-di-google/)
-- [Come scalare un sito WordPress grazie all’action scheduler](https://wordpress.tv/2023/12/18/come-scalare-un-sito-wordpress-grazie-allaction-scheduler/)
 <!-- WPTV:END -->
 
 ## Marketing
