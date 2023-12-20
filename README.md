@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Empowering WordPress Training through Translation and Note Taking](https://wordpress.tv/2023/12/20/empowering-wordpress-training-through-translation-and-note-taking/)
+- [Block Editor tricks for lazy people](https://wordpress.tv/2023/12/20/block-editor-tricks-for-lazy-people/)
+- [Community marketing vs management](https://wordpress.tv/2023/12/20/community-marketing-vs-management/)
 - [Developer Hours: Modern WordPress development with the wp-scripts package](https://wordpress.tv/2023/12/19/developer-hours-modern-wordpress-development-with-the-wp-scripts-package/)
 - [Créer des Espacements Dynamiques dans un Thème FSE Basé sur des Blocs](https://wordpress.tv/2023/12/19/creer-des-espacements-dynamiques-dans-un-theme-fse-base-sur-des-blocs/)
 - [WCAG 2.2: ci siamo! Cosa cambia per l’accessibilità?](https://wordpress.tv/2023/12/18/wcag-2-2-ci-siamo-cosa-cambia-per-laccessibilita/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hook e child: sviluppare plugin facilmente estendibili!](https://wordpress.tv/2023/12/18/hook-e-child-sviluppare-plugin-facilmente-estendibili/)
 - [Interaction to Next Paint: come rendere il tuo sito a prova del nuovo Core Web Vital di Google](https://wordpress.tv/2023/12/18/interaction-to-next-paint-come-rendere-il-tuo-sito-a-prova-del-nuovo-core-web-vital-di-google/)
 - [Come scalare un sito WordPress grazie all’action scheduler](https://wordpress.tv/2023/12/18/come-scalare-un-sito-wordpress-grazie-allaction-scheduler/)
-- [Campi personalizzati del tema con ACF](https://wordpress.tv/2023/12/18/campi-personalizzati-del-tema-con-acf/)
-- [FSE: da dove comincio?](https://wordpress.tv/2023/12/18/fse-da-dove-comincio/)
-- [theme.JSON file dinamici](https://wordpress.tv/2023/12/18/theme-json-file-dinamici/)
 <!-- WPTV:END -->
 
 ## Marketing
