@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2023/12/19/i-am-the-plugin-author-39/)
 - [PTE Request for [Fast News Ticker]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-fast-news-ticker/)
 - [PTE Request for BetterDocs](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-betterdocs-2/)
 - [PTE Request for [URLYar URL Shortner]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-urlyar-url-shortner/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi @kavoros can you add…](https://make.wordpress.org/polyglots/2023/12/16/hi-kavoros-can-you-add/)
 - [I’ve suggested a German translations…](https://make.wordpress.org/polyglots/2023/12/16/ive-suggested-a-german-translations/)
 - [PTE Request for Blocksy Companion](https://make.wordpress.org/polyglots/2023/12/16/pte-request-for-blocksy-companion-2/)
-- [Request for CLPTE](https://make.wordpress.org/polyglots/2023/12/16/hi-team-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
