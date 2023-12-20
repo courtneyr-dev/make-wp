@@ -350,7 +350,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Siamo una community sicura e accogliente?](https://wordpress.tv/2023/12/18/siamo-una-community-sicura-e-accogliente/)
 - [Quali sono le potenzialità di una Local Page collegata al Google Business?](https://wordpress.tv/2023/12/18/quali-sono-le-potenzialita-di-una-local-page-collegata-al-google-business/)
 - [The day I became an Open Source software developer](https://wordpress.tv/2023/12/18/the-day-i-became-an-open-source-software-developer/)
-- [Having a blast with my crash test multisite with 468 plugins](https://wordpress.tv/2023/12/18/having-a-blast-with-my-crash-test-multisite-with-468-plugins/)
 - [Banner e pubblicità performanti](https://wordpress.tv/2023/12/18/banner-e-pubblicita-performanti/)
 - [Odissea Public Speaking – Supera le tue paure e riscopri il potere della tua voce](https://wordpress.tv/2023/12/18/odissea-public-speaking-supera-le-tue-paure-e-riscopri-il-potere-della-tua-voce/)
 - [Ottimizza il tuo sito web con la Web Analytics WordPress: gli strumenti gratuiti indispensabili](https://wordpress.tv/2023/12/18/ottimizza-il-tuo-sito-web-con-la-web-analytics-wordpress-gli-strumenti-gratuiti-indispensabili/)
@@ -367,6 +366,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Come scalare un sito WordPress grazie all’action scheduler](https://wordpress.tv/2023/12/18/come-scalare-un-sito-wordpress-grazie-allaction-scheduler/)
 - [Campi personalizzati del tema con ACF](https://wordpress.tv/2023/12/18/campi-personalizzati-del-tema-con-acf/)
 - [FSE: da dove comincio?](https://wordpress.tv/2023/12/18/fse-da-dove-comincio/)
+- [theme.JSON file dinamici](https://wordpress.tv/2023/12/18/theme-json-file-dinamici/)
 <!-- WPTV:END -->
 
 ## Marketing
