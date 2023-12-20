@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 17.3? &lpar;20 December&rpar;](https://make.wordpress.org/core/2023/12/20/whats-new-in-gutenberg-17-3-20-december/)
 - [Proposal: Add company icons to sponsored contributors on about page](https://make.wordpress.org/core/2023/12/19/proposal-add-company-icons-to-sponsored-contributors-on-about-page/)
 - [Performance Chat Summary: 19 December 2023](https://make.wordpress.org/core/2023/12/19/performance-chat-summary-19-december-2023/)
 - [WordPress performance impact on Core Web Vitals in 2023](https://make.wordpress.org/core/2023/12/19/wordpress-performance-impact-on-core-web-vitals-in-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [6.4.3 Maintenance Release Bug Scrub](https://make.wordpress.org/core/2023/12/13/6-4-3-maintenance-release-bug-scrub/)
 - [DevChat Agenda – December 13, 2023](https://make.wordpress.org/core/2023/12/13/110123/)
 - [Performance Chat Summary: 12 December 2023](https://make.wordpress.org/core/2023/12/12/performance-chat-summary-12-december-2023/)
-- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/core/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 <!-- CORE:END -->
 
 ## Design
