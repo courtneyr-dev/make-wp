@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat- December 20, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/20/agenda-weekly-polyglots-chat-december-20-2023-1300-utc/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/12/19/i-am-the-plugin-author-39/)
 - [PTE Request for [Fast News Ticker]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-fast-news-ticker/)
 - [PTE Request for BetterDocs](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-betterdocs-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Merging the “History”, “Other locales” and “Translation Memory” tabs](https://make.wordpress.org/polyglots/2023/12/18/merging-the-history-other-locales-and-translation-memory-tabs/)
 - [Hi @kavoros can you add…](https://make.wordpress.org/polyglots/2023/12/16/hi-kavoros-can-you-add/)
 - [I’ve suggested a German translations…](https://make.wordpress.org/polyglots/2023/12/16/ive-suggested-a-german-translations/)
-- [PTE Request for Blocksy Companion](https://make.wordpress.org/polyglots/2023/12/16/pte-request-for-blocksy-companion-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
