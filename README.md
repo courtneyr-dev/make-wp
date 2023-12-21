@@ -546,11 +546,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordPress for Kids](https://central.wordcamp.org/wordcamps/wordpress-for-kids/)
 - [WordPress School Day](https://central.wordcamp.org/wordcamps/wordpress-school-day/)
+- [Switzerland Community Day](https://central.wordcamp.org/wordcamps/switzerland-community-day/)
 - [WordCamp Montclair New Jersey](https://central.wordcamp.org/wordcamps/wordcamp-montclair-new-jersey/)
 - [Kolkata CareerCamp](https://central.wordcamp.org/wordcamps/kolkata-careercamp/)
 - [WordPress in Education Technology Showcase](https://central.wordcamp.org/wordcamps/wordpress-in-education-technology-showcase/)
 - [WordPress Web Challenge](https://central.wordcamp.org/wordcamps/wordcamp-jakarta-3/)
-- [WordCamp Hong Kong](https://central.wordcamp.org/wordcamps/wordcamp-hong-kong-2/)
 - [WordCamp Torrelodones 2024](https://central.wordcamp.org/wordcamps/wordcamp-torrelodones/)
 - [WordCamp Lahore, Punjab, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-lahore-punjab/)
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-8/)
