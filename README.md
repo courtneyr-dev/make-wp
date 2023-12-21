@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Drupal &amp; WordPress Developer](https://jobs.wordpress.net/job/senior-drupal-wordpress-developer/)
+- [developer](https://jobs.wordpress.net/job/developer-70/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-826/)
 - [WordPress Developers for Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-for-driving-safety-volunteers/)
 - [Recreate Logo](https://jobs.wordpress.net/job/recreate-logo/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-12/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-12/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-29/)
 - [Full Time WordPress Laravel Expert](https://jobs.wordpress.net/job/full-time-wordpress-laravel-expert/)
-- [WordPress Developer For Bill payment Plugin Development](https://jobs.wordpress.net/job/wordpress-developer-for-bill-payment-plugin-development/)
-- [LMS Developer &lpar;based on Tutor LMS&rpar;](https://jobs.wordpress.net/job/lms-developer-based-on-tutor-lms/)
-- [BYGG Project](https://jobs.wordpress.net/job/bygg-project/)
 <!-- JOBS:END -->
 
 ## Central
