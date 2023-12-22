@@ -469,6 +469,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [WordPress End of Year Celebrations!](https://make.wordpress.org/project/2023/12/22/wordpress-end-of-year-celebrations/)
 - [Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/project/2023/12/12/update-on-matrix-migration-pausing-the-transition/)
 - [Overflow Questions from State of the Word 2023 in Madrid, Spain](https://make.wordpress.org/project/2023/12/12/overflow-questions-from-state-of-the-word-2023/)
 - [Embracing Matrix for Enhanced Communication](https://make.wordpress.org/project/2023/11/30/embracing-matrix-for-enhanced-communication/)
@@ -478,7 +479,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp US 2023 Q&amp;A](https://make.wordpress.org/project/2023/09/15/wordcamp-us-2023-qa/)
 - [Proposal: Documentation translation / localization](https://make.wordpress.org/project/2023/09/06/documentation-translation-localization/)
 - [The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/project/2023/08/11/the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
-- [Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/project/2023/07/13/proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 <!-- PROJECT:END -->
 
 ## Systems
