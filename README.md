@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [custom plugin development](https://jobs.wordpress.net/job/custom-plugin-development-9/)
 - [Senior Drupal &amp; WordPress Developer](https://jobs.wordpress.net/job/senior-drupal-wordpress-developer/)
 - [developer](https://jobs.wordpress.net/job/developer-70/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-826/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [UI Designer Who knows WordPress and designs functional web apps!](https://jobs.wordpress.net/job/ui-designer-who-knows-wordpress-and-designs-functional-web-apps-2/)
 - [Copywriter &lpar;WordPress, Copywriting, Technical writing&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-copywriting-technical-writing-12/)
 - [CampusPress Sales Support Specialist](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-29/)
-- [Full Time WordPress Laravel Expert](https://jobs.wordpress.net/job/full-time-wordpress-laravel-expert/)
 <!-- JOBS:END -->
 
 ## Central
