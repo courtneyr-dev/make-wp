@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [CBWJ #5 Make WordPress のチームって何をしてるの？ 自分にできることを探してみよう！](https://wordpress.tv/2023/12/22/community-building-workshop-japan-005/)
 - [Understanding the difference between WordPress posts and pages](https://wordpress.tv/2023/12/21/understanding-the-difference-between-wordpress-posts-and-pages/)
 - [Leveraging well-structured themes for project success](https://wordpress.tv/2023/12/20/leveraging-well-structured-themes-for-project-success/)
 - [WordPress come strumento di empowerment per giovani attivisti](https://wordpress.tv/2023/12/20/wordpress-come-strumento-di-empowerment-per-giovani-attivisti/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Esplorando il potere dei Feed RSS: utilizzi alternativi oltre il semplice blog](https://wordpress.tv/2023/12/18/esplorando-il-potere-dei-feed-rss-utilizzi-alternativi-oltre-il-semplice-blog/)
 - [Temi ibridi: un nuovo modo di fare siti in modo efficiente](https://wordpress.tv/2023/12/18/temi-ibridi-un-nuovo-modo-di-fare-siti-in-modo-efficiente/)
 - [Da Designers Italia a WordPress: creare siti comunali in linea con il PNRR](https://wordpress.tv/2023/12/18/da-designers-italia-a-wordpress-creare-siti-comunali-in-linea-con-il-pnrr/)
-- [Hook e child: sviluppare plugin facilmente estendibili!](https://wordpress.tv/2023/12/18/hook-e-child-sviluppare-plugin-facilmente-estendibili/)
 <!-- WPTV:END -->
 
 ## Marketing
