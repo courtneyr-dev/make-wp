@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 19th December 2023](https://make.wordpress.org/training/2023/12/22/training-team-meeting-recap-19th-december-2023/)
 - [Brainstorm &amp; Table Lead – WordCamp Asia 2024 Contributor Day](https://make.wordpress.org/training/2023/12/22/brainstorm-table-lead-wordcamp-asia-2024-contributor-day/)
 - [Training Team 2024 Goals Setting](https://make.wordpress.org/training/2023/12/22/training-team-2024-goals-setting/)
 - [Training Team 2023 Year In Review](https://make.wordpress.org/training/2023/12/19/training-team-2023-year-in-review/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 5th December 2023](https://make.wordpress.org/training/2023/12/12/training-team-meeting-recap-5th-december-2023/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/training/2023/12/11/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
 - [Meet your 2024 Training Team Representatives](https://make.wordpress.org/training/2023/12/07/meet-your-2024-training-team-representatives/)
-- [Hosting Learn videos on YouTube](https://make.wordpress.org/training/2023/12/06/hosting-learn-videos-on-youtube/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
