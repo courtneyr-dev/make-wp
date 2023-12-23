@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for BA Book Everything](https://make.wordpress.org/polyglots/2023/12/23/pte-request-for-ba-book-everything/)
+- [can you add me as…](https://make.wordpress.org/polyglots/2023/12/23/can-you-add-me-as/)
 - [PTE Request for Wallet System for WooCommerce](https://make.wordpress.org/polyglots/2023/12/23/pte-request-for-wallet-system-for-woocommerce/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/12/20/post-title-pte-request-for-62/)
 - [Global Plugin Editor Request for SiteGround Email Marketing](https://make.wordpress.org/polyglots/2023/12/20/global-plugin-editor-request-for-siteground-email-marketing/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Fast News Ticker]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-fast-news-ticker/)
 - [PTE Request for BetterDocs](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-betterdocs-2/)
 - [PTE Request for [URLYar URL Shortner]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-urlyar-url-shortner/)
-- [Wrong translations in the “Pinterest for WooCommerce” plugin](https://make.wordpress.org/polyglots/2023/12/19/wrong-translations-in-the-pinterest-for-woocommerce-plugin/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2023/12/19/hi-dear-mentors-we-have-126/)
 <!-- POLYGLOTS:END -->
 
 ## Support
