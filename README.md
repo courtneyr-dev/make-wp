@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [azb Locale edit azb Locale…](https://make.wordpress.org/polyglots/2023/12/24/azb-locale-edit-azb-locale/)
 - [PTE Request for BA Book Everything](https://make.wordpress.org/polyglots/2023/12/23/pte-request-for-ba-book-everything/)
 - [can you add me as…](https://make.wordpress.org/polyglots/2023/12/23/can-you-add-me-as/)
 - [PTE Request for Wallet System for WooCommerce](https://make.wordpress.org/polyglots/2023/12/23/pte-request-for-wallet-system-for-woocommerce/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2023/12/19/i-am-the-plugin-author-39/)
 - [PTE Request for [Fast News Ticker]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-fast-news-ticker/)
 - [PTE Request for BetterDocs](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-betterdocs-2/)
-- [PTE Request for [URLYar URL Shortner]](https://make.wordpress.org/polyglots/2023/12/19/pte-request-for-urlyar-url-shortner/)
 <!-- POLYGLOTS:END -->
 
 ## Support
