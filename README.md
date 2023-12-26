@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 69: Reflections on State of the Word](https://wordpress.org/news/2023/12/episode-69-reflections-on-state-of-the-word/)
 - [State of the Word 2023 Recap](https://wordpress.org/news/2023/12/state-of-the-word-2023-recap/)
 - [WP Briefing: Episode 68: Toward a More Interconnected Web](https://wordpress.org/news/2023/12/episode-68-toward-a-more-interconnected-web/)
 - [The Month in WordPress – November 2023](https://wordpress.org/news/2023/12/the-month-in-wordpress-november-2023/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 67: Openverse &amp; Photo Directory Rewind](https://wordpress.org/news/2023/11/openverse-photo-directory-rewind/)
 - [State of the Word 2023 – Madrid, Spain](https://wordpress.org/news/2023/11/state-of-the-word-2023-madrid-spain/)
 - [Introducing Twenty Twenty-Four](https://wordpress.org/news/2023/11/introducing-twenty-twenty-four/)
-- [WP Briefing: Episode 66: Advocating Open Source Solutions](https://wordpress.org/news/2023/11/episode-66-advocating-open-source-solutions/)
 <!-- NEWS:END -->
 
 ## Jobs
