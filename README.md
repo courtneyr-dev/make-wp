@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-4/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-9/)
 - [Custom Login and Password Reset for BuddyPress Website](https://jobs.wordpress.net/job/custom-login-and-password-reset-for-buddypress-website/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [custom plugin development](https://jobs.wordpress.net/job/custom-plugin-development-9/)
 - [Senior Drupal &amp; WordPress Developer](https://jobs.wordpress.net/job/senior-drupal-wordpress-developer/)
 - [developer](https://jobs.wordpress.net/job/developer-70/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-826/)
 <!-- JOBS:END -->
 
 ## Central
