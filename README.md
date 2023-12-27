@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [DisableEditorFunctionality](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/disable-editor-functionality/)
+- [Filters and hooks](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/filters-and-hooks/)
+- [Patterns](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/patterns/)
+- [Block Locking API](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/block-locking/)
 - [Markup representation of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/markup-representation-block/)
 - [The block in the Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-in-the-editor/)
 - [Tutorial: Build your first block](https://developer.wordpress.org/block-editor/getting-started/tutorial/)
-- [wp admin](https://developer.wordpress.org/cli/commands/admin/)
 - [wp config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
+- [wp admin](https://developer.wordpress.org/cli/commands/admin/)
 - [@wordpress/dataviews](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-dataviews/)
-- [The block wrapper](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-wrapper/)
-- [block.json](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-json/)
-- [File structure of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/file-structure-of-a-block/)
-- [Fundamentals of Block Development](https://developer.wordpress.org/block-editor/getting-started/fundamentals/)
 <!-- DEVHUB:END -->
 
 ## Themes
