@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat- December 27, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/27/agenda-weekly-polyglots-chat-december-27-2023-700-utc/)
 - [Olá, poliglotas! Por favor, adicione-me…](https://make.wordpress.org/polyglots/2023/12/26/ola-poliglotas-por-favor-adicione-me/)
 - [PTE Request for IZ Block Editor Tooltips](https://make.wordpress.org/polyglots/2023/12/26/pte-request-for-iz-block-editor-tooltips/)
 - [azb Locale edit azb Locale…](https://make.wordpress.org/polyglots/2023/12/24/azb-locale-edit-azb-locale/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/12/20/post-title-pte-request-for-62/)
 - [Global Plugin Editor Request for SiteGround Email Marketing](https://make.wordpress.org/polyglots/2023/12/20/global-plugin-editor-request-for-siteground-email-marketing/)
 - [Agenda: Weekly Polyglots Chat- December 20, 2023 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/20/agenda-weekly-polyglots-chat-december-20-2023-1300-utc/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2023/12/19/i-am-the-plugin-author-39/)
 <!-- POLYGLOTS:END -->
 
 ## Support
