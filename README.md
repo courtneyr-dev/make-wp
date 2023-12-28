@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Leap into 2024 with these Site Editor Tools](https://wordpress.org/news/2023/12/leap-into-2024-with-these-site-editor-tools/)
 - [WP Briefing: Episode 69: Reflections on State of the Word](https://wordpress.org/news/2023/12/episode-69-reflections-on-state-of-the-word/)
 - [State of the Word 2023 Recap](https://wordpress.org/news/2023/12/state-of-the-word-2023-recap/)
 - [WP Briefing: Episode 68: Toward a More Interconnected Web](https://wordpress.org/news/2023/12/episode-68-toward-a-more-interconnected-web/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [People of WordPress: Artemy Kaydash](https://wordpress.org/news/2023/12/people-of-wordpress-artemy-kaydash/)
 - [WP Briefing: Episode 67: Openverse &amp; Photo Directory Rewind](https://wordpress.org/news/2023/11/openverse-photo-directory-rewind/)
 - [State of the Word 2023 – Madrid, Spain](https://wordpress.org/news/2023/11/state-of-the-word-2023-madrid-spain/)
-- [Introducing Twenty Twenty-Four](https://wordpress.org/news/2023/11/introducing-twenty-twenty-four/)
 <!-- NEWS:END -->
 
 ## Jobs
