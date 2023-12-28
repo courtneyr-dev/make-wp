@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Disable Editor functionality](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/disable-editor-functionality/)
-- [Filters and hooks](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/filters-and-hooks/)
-- [Patterns](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/patterns/)
+- [Global Settings &amp; Styles &lpar;theme.json&rpar;](https://developer.wordpress.org/block-editor/how-to-guides/themes/global-settings-and-styles/)
 - [Block Locking API](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/block-locking/)
+- [Disable Editor functionality](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/disable-editor-functionality/)
+- [Patterns](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/patterns/)
+- [Filters and hooks](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/filters-and-hooks/)
 - [Markup representation of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/markup-representation-block/)
 - [The block in the Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-in-the-editor/)
 - [Tutorial: Build your first block](https://developer.wordpress.org/block-editor/getting-started/tutorial/)
-- [wp config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
 - [wp admin](https://developer.wordpress.org/cli/commands/admin/)
-- [@wordpress/dataviews](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-dataviews/)
+- [wp config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
 <!-- DEVHUB:END -->
 
 ## Themes
