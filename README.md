@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Reps for 2024](https://make.wordpress.org/community/2023/12/28/community-team-reps-for-2024/)
 - [Meetup Organizer Newsletter: December 2023](https://make.wordpress.org/community/2023/12/21/meetup-organizer-newsletter-december-2023/)
 - [Contributor Working Group: Mentorship Chat Agenda | December 21st 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/12/19/contributor-working-group-mentorship-chat-agenda-december-21st-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Reminder: Annual Meetup Survey](https://make.wordpress.org/community/2023/12/19/reminder-annual-meetup-survey/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 7 December, 2023](https://make.wordpress.org/community/2023/12/06/community-team-meeting-agenda-for-7-december-2023/)
 - [X-post: Recap: GitHub updates and process refinements](https://make.wordpress.org/community/2023/12/05/xpost-recap-github-updates-and-process-refinements/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/community/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
-- [WordCamp Mentors’ December check-in!](https://make.wordpress.org/community/2023/12/01/wordcamp-mentors-december-check-in-2/)
 <!-- COMMUNITY:END -->
 
 ## Meta
