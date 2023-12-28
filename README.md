@@ -3,7 +3,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/core/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 - [Call to action: 2024 major releases call for volunteers](https://make.wordpress.org/core/2023/12/22/call-to-action-2024-major-releases-call-for-volunteers/)
+- [Dev Chat seasonal break, highlighted posts December 2023](https://make.wordpress.org/core/2023/12/20/dev-chat-seasonal-break-highlighted-posts-december-2023/)
 - [Updating WordPress to use more modern versions of Node.js/npm: Part 2](https://make.wordpress.org/core/2023/12/20/updating-wordpress-to-use-more-modern-versions-of-node-js-npm-2/)
 - [What’s new in Gutenberg 17.3? &lpar;20 December&rpar;](https://make.wordpress.org/core/2023/12/20/whats-new-in-gutenberg-17-3-20-december/)
 - [Proposal: Add company icons to sponsored contributors on about page](https://make.wordpress.org/core/2023/12/19/proposal-add-company-icons-to-sponsored-contributors-on-about-page/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress performance impact on Core Web Vitals in 2023](https://make.wordpress.org/core/2023/12/19/wordpress-performance-impact-on-core-web-vitals-in-2023/)
 - [Performance Chat Agenda: 19 December 2023](https://make.wordpress.org/core/2023/12/19/performance-chat-agenda-19-december-2023/)
 - [Dev Blog editorial meeting summary, December 14, 2023](https://make.wordpress.org/core/2023/12/16/dev-blog-editorial-meeting-summary-december-14-2023/)
-- [Dev Chat Summary, December 6, 2023](https://make.wordpress.org/core/2023/12/13/dev-chat-summary-december-6-2023/)
-- [6.4.3 Maintenance Release Bug Scrub](https://make.wordpress.org/core/2023/12/13/6-4-3-maintenance-release-bug-scrub/)
 <!-- CORE:END -->
 
 ## Design
