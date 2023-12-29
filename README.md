@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for 3 Plugins](https://make.wordpress.org/polyglots/2023/12/29/pte-request-for-3-plugins/)
 - [Request to be editor for The Events Calendar](https://make.wordpress.org/polyglots/2023/12/27/request-to-be-editor-for-the-events-calendar/)
 - [Agenda: Weekly Polyglots Chat- December 27, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/27/agenda-weekly-polyglots-chat-december-27-2023-700-utc/)
 - [Olá, poliglotas! Por favor, adicione-me…](https://make.wordpress.org/polyglots/2023/12/26/ola-poliglotas-por-favor-adicione-me/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [can you add me as…](https://make.wordpress.org/polyglots/2023/12/23/can-you-add-me-as/)
 - [PTE Request for Wallet System for WooCommerce](https://make.wordpress.org/polyglots/2023/12/23/pte-request-for-wallet-system-for-woocommerce/)
 - [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2023/12/20/post-title-pte-request-for-62/)
-- [Global Plugin Editor Request for SiteGround Email Marketing](https://make.wordpress.org/polyglots/2023/12/20/global-plugin-editor-request-for-siteground-email-marketing/)
 <!-- POLYGLOTS:END -->
 
 ## Support
