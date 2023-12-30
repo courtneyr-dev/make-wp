@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [AI-volution: WordPress Developer’s Guide to Evolve in the Age of AI](https://wordpress.tv/2023/12/30/ai-volution-wordpress-developers-guide-to-evolve-in-the-age-of-ai/)
+- [From Launching to Scaling Up: Navigating WordPress Product Business Success [Panel]](https://wordpress.tv/2023/12/30/from-launching-to-scaling-up-navigating-wordpress-product-business-success-panel/)
 - [Creating Blog Outlines That Rank](https://wordpress.tv/2023/12/30/creating-blog-outlines-that-rank/)
 - [The fidelity gap – how to embrace the unknown and succeed in client relationships](https://wordpress.tv/2023/12/30/the-fidelity-gap-how-to-embrace-the-unknown-and-succeed-in-client-relationships/)
 - [Graba y publica tu podcast en 20 minutos con WordPress](https://wordpress.tv/2023/12/30/graba-y-publica-tu-podcast-en-20-minutos-con-wordpress/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The day I became an Open Source software developer](https://wordpress.tv/2023/12/18/the-day-i-became-an-open-source-software-developer/)
 - [Banner e pubblicità performanti](https://wordpress.tv/2023/12/18/banner-e-pubblicita-performanti/)
 - [Odissea Public Speaking – Supera le tue paure e riscopri il potere della tua voce](https://wordpress.tv/2023/12/18/odissea-public-speaking-supera-le-tue-paure-e-riscopri-il-potere-della-tua-voce/)
-- [Ottimizza il tuo sito web con la Web Analytics WordPress: gli strumenti gratuiti indispensabili](https://wordpress.tv/2023/12/18/ottimizza-il-tuo-sito-web-con-la-web-analytics-wordpress-gli-strumenti-gratuiti-indispensabili/)
-- [Trasferire un sito WordPress senza errori e senza andare offline](https://wordpress.tv/2023/12/18/trasferire-un-sito-wordpress-senza-errori-e-senza-andare-offline/)
 <!-- WPTV:END -->
 
 ## Marketing
