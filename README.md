@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Enhancing UI/UX Design for Your WordPress Website](https://wordpress.tv/2023/12/30/enhancing-ui-ux-design-for-your-wordpress-website/)
+- [Personaliza tu web usando un child theme](https://wordpress.tv/2023/12/30/personaliza-tu-web-usando-un-child-theme/)
+- [Cómo pasé de cliente a socio en un negocio online gracias a WordPress](https://wordpress.tv/2023/12/30/como-pase-de-cliente-a-socio-en-un-negocio-online-gracias-a-wordpress/)
 - [今こそ知りたいブロックエディターの使い方入門](https://wordpress.tv/2023/12/28/introduction-to-how-to-use-the-block-editor/)
 - [CBWJ #5 Make WordPress のチームって何をしてるの？ 自分にできることを探してみよう！](https://wordpress.tv/2023/12/22/community-building-workshop-japan-005/)
 - [Understanding the difference between WordPress posts and pages](https://wordpress.tv/2023/12/21/understanding-the-difference-between-wordpress-posts-and-pages/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [La gestione del cliente &lpar;quanta pazienza!&rpar;](https://wordpress.tv/2023/12/18/la-gestione-del-cliente-quanta-pazienza/)
 - [BlIND – Blogging e indipendenza: WordPress senza vedere](https://wordpress.tv/2023/12/18/blind-blogging-e-indipendenza-wordpress-senza-vedere/)
 - [Prepararsi all’AI-pocalisse: SEO per un mondo &lpar;non così&rpar; nuovo](https://wordpress.tv/2023/12/18/prepararsi-allai-pocalisse-seo-per-un-mondo-non-cosi-nuovo/)
-- [Sincronizzazione dei plugin WordPress tra produzione e sviluppo: automazione con Script CLI](https://wordpress.tv/2023/12/18/sincronizzazione-dei-plugin-wordpress-tra-produzione-e-sviluppo-automazione-con-script-cli/)
-- [Esplorando il potere dei Feed RSS: utilizzi alternativi oltre il semplice blog](https://wordpress.tv/2023/12/18/esplorando-il-potere-dei-feed-rss-utilizzi-alternativi-oltre-il-semplice-blog/)
-- [Temi ibridi: un nuovo modo di fare siti in modo efficiente](https://wordpress.tv/2023/12/18/temi-ibridi-un-nuovo-modo-di-fare-siti-in-modo-efficiente/)
 <!-- WPTV:END -->
 
 ## Marketing
