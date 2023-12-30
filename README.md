@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Graba y publica tu podcast en 20 minutos con WordPress](https://wordpress.tv/2023/12/30/graba-y-publica-tu-podcast-en-20-minutos-con-wordpress/)
 - [Enhancing UI/UX Design for Your WordPress Website](https://wordpress.tv/2023/12/30/enhancing-ui-ux-design-for-your-wordpress-website/)
 - [Personaliza tu web usando un child theme](https://wordpress.tv/2023/12/30/personaliza-tu-web-usando-un-child-theme/)
 - [Cómo pasé de cliente a socio en un negocio online gracias a WordPress](https://wordpress.tv/2023/12/30/como-pase-de-cliente-a-socio-en-un-negocio-online-gracias-a-wordpress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Trasferire un sito WordPress senza errori e senza andare offline](https://wordpress.tv/2023/12/18/trasferire-un-sito-wordpress-senza-errori-e-senza-andare-offline/)
 - [La gestione del cliente &lpar;quanta pazienza!&rpar;](https://wordpress.tv/2023/12/18/la-gestione-del-cliente-quanta-pazienza/)
 - [BlIND – Blogging e indipendenza: WordPress senza vedere](https://wordpress.tv/2023/12/18/blind-blogging-e-indipendenza-wordpress-senza-vedere/)
-- [Prepararsi all’AI-pocalisse: SEO per un mondo &lpar;non così&rpar; nuovo](https://wordpress.tv/2023/12/18/prepararsi-allai-pocalisse-seo-per-un-mondo-non-cosi-nuovo/)
 <!-- WPTV:END -->
 
 ## Marketing
