@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The fidelity gap – how to embrace the unknown and succeed in client relationships](https://wordpress.tv/2023/12/30/the-fidelity-gap-how-to-embrace-the-unknown-and-succeed-in-client-relationships/)
 - [Graba y publica tu podcast en 20 minutos con WordPress](https://wordpress.tv/2023/12/30/graba-y-publica-tu-podcast-en-20-minutos-con-wordpress/)
 - [Enhancing UI/UX Design for Your WordPress Website](https://wordpress.tv/2023/12/30/enhancing-ui-ux-design-for-your-wordpress-website/)
 - [Personaliza tu web usando un child theme](https://wordpress.tv/2023/12/30/personaliza-tu-web-usando-un-child-theme/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ottimizza il tuo sito web con la Web Analytics WordPress: gli strumenti gratuiti indispensabili](https://wordpress.tv/2023/12/18/ottimizza-il-tuo-sito-web-con-la-web-analytics-wordpress-gli-strumenti-gratuiti-indispensabili/)
 - [Trasferire un sito WordPress senza errori e senza andare offline](https://wordpress.tv/2023/12/18/trasferire-un-sito-wordpress-senza-errori-e-senza-andare-offline/)
 - [La gestione del cliente &lpar;quanta pazienza!&rpar;](https://wordpress.tv/2023/12/18/la-gestione-del-cliente-quanta-pazienza/)
-- [BlIND – Blogging e indipendenza: WordPress senza vedere](https://wordpress.tv/2023/12/18/blind-blogging-e-indipendenza-wordpress-senza-vedere/)
 <!-- WPTV:END -->
 
 ## Marketing
