@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Email Marketing Essentials: Effective Strategies for Better Open Rates and Conversions](https://wordpress.tv/2023/12/31/email-marketing-essentials-effective-strategies-for-better-open-rates-and-conversions/)
 - [AI-volution: WordPress Developer’s Guide to Evolve in the Age of AI](https://wordpress.tv/2023/12/30/ai-volution-wordpress-developers-guide-to-evolve-in-the-age-of-ai/)
 - [From Launching to Scaling Up: Navigating WordPress Product Business Success [Panel]](https://wordpress.tv/2023/12/30/from-launching-to-scaling-up-navigating-wordpress-product-business-success-panel/)
 - [Creating Blog Outlines That Rank](https://wordpress.tv/2023/12/30/creating-blog-outlines-that-rank/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Quali sono le potenzialità di una Local Page collegata al Google Business?](https://wordpress.tv/2023/12/18/quali-sono-le-potenzialita-di-una-local-page-collegata-al-google-business/)
 - [The day I became an Open Source software developer](https://wordpress.tv/2023/12/18/the-day-i-became-an-open-source-software-developer/)
 - [Banner e pubblicità performanti](https://wordpress.tv/2023/12/18/banner-e-pubblicita-performanti/)
-- [Odissea Public Speaking – Supera le tue paure e riscopri il potere della tua voce](https://wordpress.tv/2023/12/18/odissea-public-speaking-supera-le-tue-paure-e-riscopri-il-potere-della-tua-voce/)
 <!-- WPTV:END -->
 
 ## Marketing
