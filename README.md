@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers/)
 - [WordPress Developer Remote](https://jobs.wordpress.net/job/wordpress-developer-remote-12/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-3/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-15/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer | Elementor &amp; Crocoblock](https://jobs.wordpress.net/job/wordpress-developer-elementor-crocoblock/)
 - [WordPress Website Development](https://jobs.wordpress.net/job/wordpress-website-development-8/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-4/)
-- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-9/)
 <!-- JOBS:END -->
 
 ## Central
