@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Test Team Update: 2 January 2024](https://make.wordpress.org/updates/2024/01/02/test-team-update-2-january-2024/)
 - [X-post: A Year in Themes Team – 2023](https://make.wordpress.org/updates/2023/12/29/xpost-a-year-in-themes-team-2023/)
 - [Test Team Update: 27 December 2023](https://make.wordpress.org/updates/2023/12/27/test-team-update-27-december-2023/)
 - [Themes team update December 26, 2023](https://make.wordpress.org/updates/2023/12/26/themes-team-update-december-26-2023/)
@@ -464,7 +465,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Test Team Update: 18 December 2023](https://make.wordpress.org/updates/2023/12/18/test-team-update-18-december-2023/)
 - [Documentation Team Update – December 18, 2023](https://make.wordpress.org/updates/2023/12/18/documentation-team-update-december-18-2023/)
 - [Themes team update December 13, 2023](https://make.wordpress.org/updates/2023/12/13/themes-team-update-december-13-2023/)
-- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/updates/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 <!-- UPDATES:END -->
 
 ## Project
