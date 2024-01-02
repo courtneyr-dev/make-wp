@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE Request for Gujarati Language…](https://make.wordpress.org/polyglots/2024/01/02/gte-request-for-gujarati-language-3/)
 - [PTE for the theme Travel Agency](https://make.wordpress.org/polyglots/2024/01/02/pte-for-the-theme-travel-agency/)
 - [Duplicates in the Translation Consistency](https://make.wordpress.org/polyglots/2023/12/31/duplicates-in-the-translation-consistency/)
 - [PTE Request for 3 Plugins](https://make.wordpress.org/polyglots/2023/12/29/pte-request-for-3-plugins/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for IZ Block Editor Tooltips](https://make.wordpress.org/polyglots/2023/12/26/pte-request-for-iz-block-editor-tooltips/)
 - [azb Locale edit azb Locale…](https://make.wordpress.org/polyglots/2023/12/24/azb-locale-edit-azb-locale/)
 - [PTE Request for BA Book Everything](https://make.wordpress.org/polyglots/2023/12/23/pte-request-for-ba-book-everything/)
-- [can you add me as…](https://make.wordpress.org/polyglots/2023/12/23/can-you-add-me-as/)
 <!-- POLYGLOTS:END -->
 
 ## Support
