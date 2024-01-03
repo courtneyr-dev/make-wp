@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for Simply…](https://make.wordpress.org/polyglots/2024/01/03/ive-suggested-translations-for-simply/)
 - [Agenda: Weekly Polyglots Chat- January 3, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/03/agenda-weekly-polyglots-chat-january-3-2024-1300-utc/)
 - [PTE Request for EazyDocs  plugin](https://make.wordpress.org/polyglots/2024/01/02/pte-request-for-eazydocs-plugin/)
 - [GTE Request for Gujarati Language…](https://make.wordpress.org/polyglots/2024/01/02/gte-request-for-gujarati-language-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request to be editor for The Events Calendar](https://make.wordpress.org/polyglots/2023/12/27/request-to-be-editor-for-the-events-calendar/)
 - [Agenda: Weekly Polyglots Chat- December 27, 2023 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2023/12/27/agenda-weekly-polyglots-chat-december-27-2023-700-utc/)
 - [Olá, poliglotas! Por favor, adicione-me…](https://make.wordpress.org/polyglots/2023/12/26/ola-poliglotas-por-favor-adicione-me/)
-- [PTE Request for IZ Block Editor Tooltips](https://make.wordpress.org/polyglots/2023/12/26/pte-request-for-iz-block-editor-tooltips/)
 <!-- POLYGLOTS:END -->
 
 ## Support
