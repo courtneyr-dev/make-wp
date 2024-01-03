@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Choisir son modèle d’accueil dans un thème FSE](https://wordpress.tv/2024/01/03/choisir-son-modele-daccueil-dans-un-theme-fse/)
 - [Live WordPress 100% Bloc 12 décembre 2024](https://wordpress.tv/2024/01/02/live-wordpress-100-bloc-12-decembre-2024/)
 - [Email Marketing Essentials: Effective Strategies for Better Open Rates and Conversions](https://wordpress.tv/2023/12/31/email-marketing-essentials-effective-strategies-for-better-open-rates-and-conversions/)
 - [AI-volution: WordPress Developer’s Guide to Evolve in the Age of AI](https://wordpress.tv/2023/12/30/ai-volution-wordpress-developers-guide-to-evolve-in-the-age-of-ai/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is your story?](https://wordpress.tv/2023/12/18/what-is-your-story/)
 - [Siamo una community sicura e accogliente?](https://wordpress.tv/2023/12/18/siamo-una-community-sicura-e-accogliente/)
 - [Quali sono le potenzialità di una Local Page collegata al Google Business?](https://wordpress.tv/2023/12/18/quali-sono-le-potenzialita-di-una-local-page-collegata-al-google-business/)
-- [The day I became an Open Source software developer](https://wordpress.tv/2023/12/18/the-day-i-became-an-open-source-software-developer/)
 <!-- WPTV:END -->
 
 ## Marketing
