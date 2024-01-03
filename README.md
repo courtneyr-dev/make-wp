@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 2 January 2024](https://make.wordpress.org/core/2024/01/03/performance-chat-summary-02-january-2024/)
 - [Performance Chat Agenda: 2 January 2024](https://make.wordpress.org/core/2024/01/02/performance-chat-agenda-02-january-2024/)
 - [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/core/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 - [Call to action: 2024 major releases call for volunteers](https://make.wordpress.org/core/2023/12/22/call-to-action-2024-major-releases-call-for-volunteers/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Add company icons to sponsored contributors on about page](https://make.wordpress.org/core/2023/12/19/proposal-add-company-icons-to-sponsored-contributors-on-about-page/)
 - [Performance Chat Summary: 19 December 2023](https://make.wordpress.org/core/2023/12/19/performance-chat-summary-19-december-2023/)
 - [WordPress performance impact on Core Web Vitals in 2023](https://make.wordpress.org/core/2023/12/19/wordpress-performance-impact-on-core-web-vitals-in-2023/)
-- [Performance Chat Agenda: 19 December 2023](https://make.wordpress.org/core/2023/12/19/performance-chat-agenda-19-december-2023/)
 <!-- CORE:END -->
 
 ## Design
