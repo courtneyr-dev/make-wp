@@ -441,6 +441,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [December Stats for the WordPress Photo Directory](https://make.wordpress.org/photos/2024/01/04/december-stats-for-the-wordpress-photo-directory/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/photos/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/photos/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [November Photo Directory Update](https://make.wordpress.org/photos/2023/12/01/november-photo-directory-update/)
@@ -450,7 +451,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/photos/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [August Photo Directory Update](https://make.wordpress.org/photos/2023/08/28/august-photo-directory-update/)
 - [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/photos/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
-- [X-post: Proposal for Establishing a Make Diversity, Equity, Inclusion, and Belonging &lpar;“DEIB”&rpar; Team within the WordPress Community](https://make.wordpress.org/photos/2023/07/17/xpost-proposal-for-establishing-a-make-diversity-equity-inclusion-and-belonging-deib-team-within-the-wordpress-community/)
 <!-- PHOTOS:END -->
 
 ## Updates
