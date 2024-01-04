@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [টুয়েন্টি টুয়েন্টিফোর থিম পরিচিতি](https://learn.wordpress.org/tutorial/bn-introducing-the-twenty-twenty-four-theme/)
 - [আমার কোন ধরণের ওয়ার্ডপ্রেস থিম আছে: ক্লাসিক, ব্লক, না অন্য কিছু?](https://learn.wordpress.org/tutorial/bn-what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 - [ক্রিয়েট ব্লক থিমের উন্নতিসমূহ](https://learn.wordpress.org/tutorial/bn-create-block-theme-improvements/)
 - [পোস্ট এবং পেজ শিডিউল করা](https://learn.wordpress.org/tutorial/bn-scheduling-posts-and-pages/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ওয়ার্ডপ্রেস ড্যাশবোর্ড সম্পর্কে জানুন](https://learn.wordpress.org/tutorial/bn-getting-to-know-the-wordpress-dashboard/)
 - [Choosing and installing a theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
 - [Using Page Templates](https://learn.wordpress.org/tutorial/templates/)
-- [Common APIs – Responsive Images](https://learn.wordpress.org/tutorial/common-apis-responsive-images/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
