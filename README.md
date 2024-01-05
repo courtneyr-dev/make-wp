@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating posts and pages with the WordPress block editor](https://wordpress.tv/2024/01/04/creating-posts-and-pages-with-the-wordpress-block-editor/)
 - [Choisir son modèle d’accueil dans un thème FSE](https://wordpress.tv/2024/01/03/choisir-son-modele-daccueil-dans-un-theme-fse/)
 - [Live WordPress 100% Bloc 12 décembre 2024](https://wordpress.tv/2024/01/02/live-wordpress-100-bloc-12-decembre-2024/)
 - [Email Marketing Essentials: Effective Strategies for Better Open Rates and Conversions](https://wordpress.tv/2023/12/31/email-marketing-essentials-effective-strategies-for-better-open-rates-and-conversions/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Il mondo dei negozi online con WordPress sta veramente cambiando?](https://wordpress.tv/2023/12/18/il-mondo-dei-negozi-online-con-wordpress-sta-veramente-cambiando/)
 - [What is your story?](https://wordpress.tv/2023/12/18/what-is-your-story/)
 - [Siamo una community sicura e accogliente?](https://wordpress.tv/2023/12/18/siamo-una-community-sicura-e-accogliente/)
-- [Quali sono le potenzialità di una Local Page collegata al Google Business?](https://wordpress.tv/2023/12/18/quali-sono-le-potenzialita-di-una-local-page-collegata-al-google-business/)
 <!-- WPTV:END -->
 
 ## Marketing
