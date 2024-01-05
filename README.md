@@ -517,10 +517,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-3/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-15/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-3/)
-- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-2/)
 - [Frontend developer](https://jobs.wordpress.net/job/frontend-developer-6/)
 - [WordPress Developer | Elementor &amp; Crocoblock](https://jobs.wordpress.net/job/wordpress-developer-elementor-crocoblock/)
 - [WordPress Website Development](https://jobs.wordpress.net/job/wordpress-website-development-8/)
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-4/)
 <!-- JOBS:END -->
 
 ## Central
