@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-3/)
 - [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-5/)
 - [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers/)
 - [WordPress Developer Remote](https://jobs.wordpress.net/job/wordpress-developer-remote-12/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Frontend developer](https://jobs.wordpress.net/job/frontend-developer-6/)
 - [WordPress Developer | Elementor &amp; Crocoblock](https://jobs.wordpress.net/job/wordpress-developer-elementor-crocoblock/)
 - [WordPress Website Development](https://jobs.wordpress.net/job/wordpress-website-development-8/)
-- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-4/)
 <!-- JOBS:END -->
 
 ## Central
