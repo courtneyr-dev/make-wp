@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Wellness: Diagnosing and Healing Common Issues](https://wordpress.tv/2024/01/05/wordpress-wellness-diagnosing-and-healing-common-issues/)
+- [Journey from Zero to PRO seller on Fiverr Selling WordPress](https://wordpress.tv/2024/01/05/journey-from-zero-to-pro-seller-on-fiverr-selling-wordpress/)
+- [Meet AI, the plugin developer. Wait, what!?](https://wordpress.tv/2024/01/05/meet-ai-the-plugin-developer-wait-what/)
 - [Creating posts and pages with the WordPress block editor](https://wordpress.tv/2024/01/04/creating-posts-and-pages-with-the-wordpress-block-editor/)
 - [Choisir son modèle d’accueil dans un thème FSE](https://wordpress.tv/2024/01/03/choisir-son-modele-daccueil-dans-un-theme-fse/)
 - [Live WordPress 100% Bloc 12 décembre 2024](https://wordpress.tv/2024/01/02/live-wordpress-100-bloc-12-decembre-2024/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Modern WordPress development with the wp-scripts package](https://wordpress.tv/2023/12/19/developer-hours-modern-wordpress-development-with-the-wp-scripts-package/)
 - [Créer des Espacements Dynamiques dans un Thème FSE Basé sur des Blocs](https://wordpress.tv/2023/12/19/creer-des-espacements-dynamiques-dans-un-theme-fse-base-sur-des-blocs/)
 - [WCAG 2.2: ci siamo! Cosa cambia per l’accessibilità?](https://wordpress.tv/2023/12/18/wcag-2-2-ci-siamo-cosa-cambia-per-laccessibilita/)
-- [Il mondo dei negozi online con WordPress sta veramente cambiando?](https://wordpress.tv/2023/12/18/il-mondo-dei-negozi-online-con-wordpress-sta-veramente-cambiando/)
-- [What is your story?](https://wordpress.tv/2023/12/18/what-is-your-story/)
-- [Siamo una community sicura e accogliente?](https://wordpress.tv/2023/12/18/siamo-una-community-sicura-e-accogliente/)
 <!-- WPTV:END -->
 
 ## Marketing
