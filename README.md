@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Making WordPress part of university curriculum.](https://wordpress.tv/2024/01/05/making-wordpress-part-of-university-curriculum/)
 - [WordPress Wellness: Diagnosing and Healing Common Issues](https://wordpress.tv/2024/01/05/wordpress-wellness-diagnosing-and-healing-common-issues/)
 - [Journey from Zero to PRO seller on Fiverr Selling WordPress](https://wordpress.tv/2024/01/05/journey-from-zero-to-pro-seller-on-fiverr-selling-wordpress/)
 - [Meet AI, the plugin developer. Wait, what!?](https://wordpress.tv/2024/01/05/meet-ai-the-plugin-developer-wait-what/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community marketing vs management](https://wordpress.tv/2023/12/20/community-marketing-vs-management/)
 - [Developer Hours: Modern WordPress development with the wp-scripts package](https://wordpress.tv/2023/12/19/developer-hours-modern-wordpress-development-with-the-wp-scripts-package/)
 - [Créer des Espacements Dynamiques dans un Thème FSE Basé sur des Blocs](https://wordpress.tv/2023/12/19/creer-des-espacements-dynamiques-dans-un-theme-fse-base-sur-des-blocs/)
-- [WCAG 2.2: ci siamo! Cosa cambia per l’accessibilità?](https://wordpress.tv/2023/12/18/wcag-2-2-ci-siamo-cosa-cambia-per-laccessibilita/)
 <!-- WPTV:END -->
 
 ## Marketing
