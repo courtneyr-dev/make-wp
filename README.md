@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/01/06/hello-polyglots-303/)
 - [PTE Request for Three Plugins](https://make.wordpress.org/polyglots/2024/01/04/pte-request-for-three-plugins-3/)
 - [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2024/01/04/pte-request-for-rank-math-seo-3/)
 - [I’ve suggested translations for Simply…](https://make.wordpress.org/polyglots/2024/01/03/ive-suggested-translations-for-simply/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE for the theme Travel Agency](https://make.wordpress.org/polyglots/2024/01/02/pte-for-the-theme-travel-agency/)
 - [Duplicates in the Translation Consistency](https://make.wordpress.org/polyglots/2023/12/31/duplicates-in-the-translation-consistency/)
 - [PTE Request for 3 Plugins](https://make.wordpress.org/polyglots/2023/12/29/pte-request-for-3-plugins/)
-- [Request to be editor for The Events Calendar](https://make.wordpress.org/polyglots/2023/12/27/request-to-be-editor-for-the-events-calendar/)
 <!-- POLYGLOTS:END -->
 
 ## Support
