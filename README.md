@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi there, I’d like to…](https://make.wordpress.org/polyglots/2024/01/07/hi-there-id-like-to/)
 - [PTE Request for Block Collections](https://make.wordpress.org/polyglots/2024/01/07/pte-request-for-block-collections/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/01/06/hello-polyglots-303/)
 - [PTE Request for Three Plugins](https://make.wordpress.org/polyglots/2024/01/04/pte-request-for-three-plugins-3/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for EazyDocs  plugin](https://make.wordpress.org/polyglots/2024/01/02/pte-request-for-eazydocs-plugin/)
 - [GTE Request for Gujarati Language…](https://make.wordpress.org/polyglots/2024/01/02/gte-request-for-gujarati-language-3/)
 - [PTE for the theme Travel Agency](https://make.wordpress.org/polyglots/2024/01/02/pte-for-the-theme-travel-agency/)
-- [Duplicates in the Translation Consistency](https://make.wordpress.org/polyglots/2023/12/31/duplicates-in-the-translation-consistency/)
 <!-- POLYGLOTS:END -->
 
 ## Support
