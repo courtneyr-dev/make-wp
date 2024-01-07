@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Migrating LearnDash course pages to PMPro Courses or Sensei](https://jobs.wordpress.net/job/migrating-learndash-course-pages-to-pmpro-courses-or-sensei/)
+- [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers-2/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-3/)
 - [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-5/)
 - [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-15/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-3/)
 - [Frontend developer](https://jobs.wordpress.net/job/frontend-developer-6/)
-- [WordPress Developer | Elementor &amp; Crocoblock](https://jobs.wordpress.net/job/wordpress-developer-elementor-crocoblock/)
-- [WordPress Website Development](https://jobs.wordpress.net/job/wordpress-website-development-8/)
 <!-- JOBS:END -->
 
 ## Central
