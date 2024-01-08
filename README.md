@@ -315,6 +315,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 8 January 2024](https://make.wordpress.org/test/2024/01/08/xpost-test-team-update-8-january-2024/)
 - [X-post: Test Team Update: 2 January 2024](https://make.wordpress.org/test/2024/01/02/xpost-test-team-update-2-january-2024/)
 - [X-post: Test Team Update: 27 December 2023](https://make.wordpress.org/test/2023/12/27/xpost-test-team-update-27-december-2023/)
 - [X-post: Test Team Update: 18 December 2023](https://make.wordpress.org/test/2023/12/18/xpost-test-team-update-18-december-2023/)
@@ -324,7 +325,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 4 December 2023](https://make.wordpress.org/test/2023/12/04/xpost-test-team-update-4-december-2023/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/test/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/test/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [X-post: Test Team Update: 21 November 2023](https://make.wordpress.org/test/2023/11/21/xpost-test-team-update-21-november-2023/)
 <!-- TEST:END -->
 
 ## TV
