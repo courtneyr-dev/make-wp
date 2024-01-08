@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Static or Dynamic rendering of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/static-dynamic-rendering/)
 - [Global Settings &amp; Styles &lpar;theme.json&rpar;](https://developer.wordpress.org/block-editor/how-to-guides/themes/global-settings-and-styles/)
 - [Block Locking API](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/block-locking/)
 - [Disable Editor functionality](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/disable-editor-functionality/)
@@ -124,7 +125,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The block in the Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-in-the-editor/)
 - [Tutorial: Build your first block](https://developer.wordpress.org/block-editor/getting-started/tutorial/)
 - [wp admin](https://developer.wordpress.org/cli/commands/admin/)
-- [wp config is-true](https://developer.wordpress.org/cli/commands/config/is-true/)
 <!-- DEVHUB:END -->
 
 ## Themes
