@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-12/)
 - [Migrating LearnDash course pages to PMPro Courses or Sensei](https://jobs.wordpress.net/job/migrating-learndash-course-pages-to-pmpro-courses-or-sensei/)
 - [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers-2/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-3/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-3/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-15/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-3/)
-- [Frontend developer](https://jobs.wordpress.net/job/frontend-developer-6/)
 <!-- JOBS:END -->
 
 ## Central
