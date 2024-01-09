@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – January 8, 2024](https://make.wordpress.org/core/2024/01/09/a-week-in-core-january-8-2024/)
 - [Performance Chat Agenda: 9 January 2024](https://make.wordpress.org/core/2024/01/09/performance-chat-agenda-09-january-2024/)
 - [Developer Blog editorial meeting summary, January 4, 2024](https://make.wordpress.org/core/2024/01/08/developer-blog-editorial-meeting-summary-january-4-2024/)
 - [Phase 3 Agency Outreach Recap, December 2023](https://make.wordpress.org/core/2024/01/08/phase-3-agency-outreach-recap-december-2023/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/core/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 - [Call to action: 2024 major releases call for volunteers](https://make.wordpress.org/core/2023/12/22/call-to-action-2024-major-releases-call-for-volunteers/)
 - [Dev Chat seasonal break, highlighted posts December 2023](https://make.wordpress.org/core/2023/12/20/dev-chat-seasonal-break-highlighted-posts-december-2023/)
-- [Updating WordPress to use more modern versions of Node.js/npm: Part 2](https://make.wordpress.org/core/2023/12/20/updating-wordpress-to-use-more-modern-versions-of-node-js-npm-2/)
 <!-- CORE:END -->
 
 ## Design
