@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team meeting January 9, 2024](https://make.wordpress.org/docs/2024/01/09/agenda-for-docs-team-meeting-december-5-2023-2/)
 - [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/docs/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 - [X-post: Developer Resources gets a refresh](https://make.wordpress.org/docs/2023/12/15/xpost-developer-resources-gets-a-refresh/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/docs/2023/12/13/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for Docs Team meeting December 5, 2023](https://make.wordpress.org/docs/2023/12/05/agenda-for-docs-team-meeting-december-5-2023/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/docs/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/docs/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [Online monthly Docs Team Contributor Day November 28, 2023](https://make.wordpress.org/docs/2023/11/28/online-monthly-docs-team-contributor-day-november-28-2023/)
 <!-- DOCS:END -->
 
 ### Support Articles
