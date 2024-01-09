@@ -286,6 +286,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Live stream: Reviewing Gutenberg 17.5](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-17-5)
+- [Live stream: Reviewing Gutenberg 17.3 and 17.4](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-17-3-and-17-4)
 - [Optimizing WordPress for Core Web Vitals and Performance](https://learn.wordpress.org/?meeting=optimizing-wordpress-for-core-web-vitals-and-performance)
 - [New WordPress Developer APIs: The Interactivity API](https://learn.wordpress.org/?meeting=new-wordpress-developer-apis-the-interactivity-api-2)
 - [A walkthrough of the GitHub process updates in the WordPress Training team](https://learn.wordpress.org/?meeting=a-walkthrough-of-the-github-process-updates-in-the-wordpress-training-team-2)
@@ -309,8 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring the Twenty Twenty-Four Theme](https://learn.wordpress.org/?meeting=exploring-the-twenty-twenty-four-theme)
 - [A Guide to Open Source and WordPress &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-replay)
 - [A Guide to Open Source and WordPress](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-3)
-- [WP dev livestream: WordPress 6.4](https://learn.wordpress.org/?meeting=wp-dev-livestream-wordpress-6-4)
-- [WordPress 6.4 improvements – Developer edition](https://learn.wordpress.org/?meeting=wordpress-6-4-improvements-developer-edition)
 <!-- SLS:END -->
 
 ## Test
