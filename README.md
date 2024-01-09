@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Request for feedback: Training Contributor badge requirements for code contributions](https://make.wordpress.org/training/2024/01/09/request-for-feedback-training-contributor-badge-requirements-for-code-contributions/)
 - [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/training/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 - [Training Team Meeting Recap – 19th December 2023](https://make.wordpress.org/training/2023/12/22/training-team-meeting-recap-19th-december-2023/)
 - [Brainstorm &amp; Table Lead – WordCamp Asia 2024 Contributor Day](https://make.wordpress.org/training/2023/12/22/brainstorm-table-lead-wordcamp-asia-2024-contributor-day/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/training/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Contributor Spotlight: Laura Adamonis](https://make.wordpress.org/training/2023/12/12/contributor-spotlight-laura-adamonis/)
 - [Training Team Meeting Recap – 5th December 2023](https://make.wordpress.org/training/2023/12/12/training-team-meeting-recap-5th-december-2023/)
-- [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/training/2023/12/11/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
