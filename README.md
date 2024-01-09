@@ -483,6 +483,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Email rejected as ‘high probability of spam’](https://make.wordpress.org/systems/2024/01/09/email-rejected-as-high-probability-of-spam/)
 - [Enable s.w.org cors headers for .gif](https://make.wordpress.org/systems/2024/01/04/enable-s-w-org-cors-headers-for-gif/)
 - [Patterns missing from Developer Blog](https://make.wordpress.org/systems/2023/12/18/patterns-missing-from-developer-blog/)
 - [Ability to install fonts via…](https://make.wordpress.org/systems/2023/11/28/ability-to-install-fonts-via/)
@@ -492,7 +493,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [wp-cli.org email addresses](https://make.wordpress.org/systems/2023/11/01/wp-cli-org-email-addresses/)
 - [Email deliverability for wordcamp.org addresses](https://make.wordpress.org/systems/2023/10/11/email-deliverability-for-wordcamp-org-addresses/)
 - [MC Access for Héctor Prieto](https://make.wordpress.org/systems/2023/09/29/mc-access-for-hector-prieto/)
-- [Help Scout DKIM update](https://make.wordpress.org/systems/2023/09/20/help-scout-dkim-update/)
 <!-- SYSTEMS:END -->
 
 ## News
