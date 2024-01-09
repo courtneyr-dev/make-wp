@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [PHP WordPress Plugin Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-22/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-827/)
 - [WordPress Industry Content Writer](https://jobs.wordpress.net/job/wordpress-industry-content-writer-2/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-12/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-5/)
 - [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers/)
 - [WordPress Developer Remote](https://jobs.wordpress.net/job/wordpress-developer-remote-12/)
-- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-3/)
 <!-- JOBS:END -->
 
 ## Central
