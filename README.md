@@ -371,6 +371,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Announcing the 2024 MakeWP Marketing Team Reps](https://make.wordpress.org/marketing/2024/01/09/announcing-the-2024-makewp-marketing-team-reps/)
 - [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/marketing/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 - [Vote for the 2024 MakeWP Global Marketing Team Reps](https://make.wordpress.org/marketing/2023/12/20/vote-for-the-2024-makewp-global-marketing-team-reps/)
 - [X-post: Developer Resources gets a refresh](https://make.wordpress.org/marketing/2023/12/15/xpost-developer-resources-gets-a-refresh/)
@@ -380,7 +381,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/marketing/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/marketing/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/marketing/2023/11/22/xpost-redesigning-developer-resources-and-a-call-for-testing/)
-- [Notes: Global Marketing Team meeting, 07 November 2023](https://make.wordpress.org/marketing/2023/11/13/notes-global-marketing-team-meeting-07-november-2023/)
 <!-- MARKETING:END -->
 
 ## CLI
