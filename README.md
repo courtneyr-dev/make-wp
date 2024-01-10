@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ColorMag theme](https://make.wordpress.org/polyglots/2024/01/10/pte-request-for-colormag-theme-2/)
 - [Agenda: Weekly Polyglots Chat- January 10, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/10/agenda-weekly-polyglots-chat-january-10-2024-700-utc/)
 - [PTE Request for Sunshine Photo…](https://make.wordpress.org/polyglots/2024/01/09/pte-request-for-sunshine-photo/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/01/09/hi-dear-mentors-we-have-127/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for All My Plugins](https://make.wordpress.org/polyglots/2024/01/07/pte-request-for-all-my-plugins/)
 - [Hi there, I’d like to…](https://make.wordpress.org/polyglots/2024/01/07/hi-there-id-like-to/)
 - [PTE Request for Block Collections](https://make.wordpress.org/polyglots/2024/01/07/pte-request-for-block-collections/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/01/06/hello-polyglots-303/)
 <!-- POLYGLOTS:END -->
 
 ## Support
