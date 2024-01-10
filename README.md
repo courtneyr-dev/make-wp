@@ -286,6 +286,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WordPress developer live stream: contributing to WordPress](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-contributing-to-wordpress)
 - [Live stream: Reviewing Gutenberg 17.5](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-17-5)
 - [Live stream: Reviewing Gutenberg 17.3 and 17.4](https://learn.wordpress.org/?meeting=live-stream-reviewing-gutenberg-17-3-and-17-4)
 - [Optimizing WordPress for Core Web Vitals and Performance](https://learn.wordpress.org/?meeting=optimizing-wordpress-for-core-web-vitals-and-performance)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [今こそ知りたいブロックエディターの使い方入門 &lpar;English: Introduction to how to use the block editor that you want to know now&rpar;](https://learn.wordpress.org/?meeting=%e4%bb%8a%e3%81%93%e3%81%9d%e7%9f%a5%e3%82%8a%e3%81%9f%e3%81%84%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%83%bc%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9%e5%85%a5%e9%96%80)
 - [Exploring the Twenty Twenty-Four Theme](https://learn.wordpress.org/?meeting=exploring-the-twenty-twenty-four-theme)
 - [A Guide to Open Source and WordPress &lpar;REPLAY&rpar;](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-replay)
-- [A Guide to Open Source and WordPress](https://learn.wordpress.org/?meeting=a-guide-to-open-source-and-wordpress-3)
 <!-- SLS:END -->
 
 ## Test
