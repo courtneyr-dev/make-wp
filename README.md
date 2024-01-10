@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Gutenberg – The Long Way, All the Way &lpar;circa 2023&rpar;](https://wordpress.tv/2024/01/10/gutenberg-the-long-way-all-the-way-circa-2023/)
+- [Най-често допусканите грешки в WordPress. Съвети за начинаещи.](https://wordpress.tv/2024/01/10/%d0%bd%d0%b0%d0%b9-%d1%87%d0%b5%d1%81%d1%82%d0%be-%d0%b4%d0%be%d0%bf%d1%83%d1%81%d0%ba%d0%b0%d0%bd%d0%b8%d1%82%d0%b5-%d0%b3%d1%80%d0%b5%d1%88%d0%ba%d0%b8-%d0%b2-wordpress-%d1%81%d1%8a%d0%b2%d0%b5/)
+- [Какво е необходимо, за да разработваш WordPress професионално?](https://wordpress.tv/2024/01/10/%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%b5-%d0%bd%d0%b5%d0%be%d0%b1%d1%85%d0%be%d0%b4%d0%b8%d0%bc%d0%be-%d0%b7%d0%b0-%d0%b4%d0%b0-%d1%80%d0%b0%d0%b7%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b2%d0%b0%d1%88-wordpre/)
+- [5 стъпки към създаването на писмено съдържание за вашия бизнес](https://wordpress.tv/2024/01/10/5-%d1%81%d1%82%d1%8a%d0%bf%d0%ba%d0%b8-%d0%ba%d1%8a%d0%bc-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%bf%d0%b8%d1%81%d0%bc%d0%b5%d0%bd%d0%be-%d1%81%d1%8a%d0%b4/)
 - [Making WordPress part of university curriculum.](https://wordpress.tv/2024/01/05/making-wordpress-part-of-university-curriculum/)
 - [WordPress Wellness: Diagnosing and Healing Common Issues](https://wordpress.tv/2024/01/05/wordpress-wellness-diagnosing-and-healing-common-issues/)
 - [Journey from Zero to PRO seller on Fiverr Selling WordPress](https://wordpress.tv/2024/01/05/journey-from-zero-to-pro-seller-on-fiverr-selling-wordpress/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Understanding the difference between WordPress posts and pages](https://wordpress.tv/2023/12/21/understanding-the-difference-between-wordpress-posts-and-pages/)
 - [Leveraging well-structured themes for project success](https://wordpress.tv/2023/12/20/leveraging-well-structured-themes-for-project-success/)
 - [WordPress come strumento di empowerment per giovani attivisti](https://wordpress.tv/2023/12/20/wordpress-come-strumento-di-empowerment-per-giovani-attivisti/)
-- [Empowering WordPress Training through Translation and Note Taking](https://wordpress.tv/2023/12/20/empowering-wordpress-training-through-translation-and-note-taking/)
-- [Community marketing vs management](https://wordpress.tv/2023/12/20/community-marketing-vs-management/)
-- [Developer Hours: Modern WordPress development with the wp-scripts package](https://wordpress.tv/2023/12/19/developer-hours-modern-wordpress-development-with-the-wp-scripts-package/)
-- [Créer des Espacements Dynamiques dans un Thème FSE Basé sur des Blocs](https://wordpress.tv/2023/12/19/creer-des-espacements-dynamiques-dans-un-theme-fse-base-sur-des-blocs/)
 <!-- WPTV:END -->
 
 ## Marketing
