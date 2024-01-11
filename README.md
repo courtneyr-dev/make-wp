@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [New Block-Focused Theme Handbook Docs and What’s Coming in 2024](https://make.wordpress.org/themes/2024/01/11/new-block-focused-theme-handbook-docs-and-whats-coming-in-2024/)
 - [Themes Team Meeting Notes – January 09, 2024](https://make.wordpress.org/themes/2024/01/11/themes-team-meeting-notes-january-09-2024/)
 - [Themes team meeting agenda for January 09, 2024](https://make.wordpress.org/themes/2024/01/08/themes-team-meeting-agenda-for-january-09-2024/)
 - [A Year in Themes Team – 2023](https://make.wordpress.org/themes/2023/12/29/a-year-in-themes-team-2023/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New requirements for settings pages &amp; onboarding in themes](https://make.wordpress.org/themes/2023/12/13/new-requirements-for-settings-pages-onboarding-in-themes/)
 - [Themes Team Meeting Notes – December 12, 2023](https://make.wordpress.org/themes/2023/12/13/themes-team-meeting-notes-december-12-2023/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/themes/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
-- [Themes team meeting agenda for December 12, 2023](https://make.wordpress.org/themes/2023/12/11/themes-team-meeting-agenda-for-december-12-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
