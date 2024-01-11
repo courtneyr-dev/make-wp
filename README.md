@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for RY WC City Select Plugin and evolve theme](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-ry-wc-city-select-plugin-and-evolve-theme/)
+- [PTE Request for Weaver Xtreme…](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-weaver-xtreme/)
 - [PTE Request for ColorMag theme](https://make.wordpress.org/polyglots/2024/01/10/pte-request-for-colormag-theme-2/)
 - [Agenda: Weekly Polyglots Chat- January 10, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/10/agenda-weekly-polyglots-chat-january-10-2024-700-utc/)
 - [PTE Request for Sunshine Photo…](https://make.wordpress.org/polyglots/2024/01/09/pte-request-for-sunshine-photo/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Inactive projects in the consistency tool](https://make.wordpress.org/polyglots/2024/01/08/inactive-projects-in-the-consistency-tool/)
 - [PTE Request for Notice FAQ](https://make.wordpress.org/polyglots/2024/01/08/pte-request-for-notice-faq/)
 - [PTE Request for All My Plugins](https://make.wordpress.org/polyglots/2024/01/07/pte-request-for-all-my-plugins/)
-- [Hi there, I’d like to…](https://make.wordpress.org/polyglots/2024/01/07/hi-there-id-like-to/)
-- [PTE Request for Block Collections](https://make.wordpress.org/polyglots/2024/01/07/pte-request-for-block-collections/)
 <!-- POLYGLOTS:END -->
 
 ## Support
