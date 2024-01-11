@@ -553,11 +553,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress in Education Technology Showcase](https://central.wordcamp.org/wordcamps/wordpress-in-education-technology-showcase/)
 - [WordPress Web Challenge](https://central.wordcamp.org/wordcamps/wordcamp-jakarta-3/)
 - [WordCamp Torrelodones 2024](https://central.wordcamp.org/wordcamps/wordcamp-torrelodones/)
+- [WordCamp Pune, India](https://central.wordcamp.org/wordcamps/wordcamp-pune-maharashtra-india/)
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-8/)
 - [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-united-states/)
 - [WordCamp Islamabad, Federal Govt, Pakistan](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-federal-govt-pakistan/)
 - [WordCamp Kansai 2024](https://central.wordcamp.org/wordcamps/wordcamp-kansai-2024/)
-- [WordCamp Ahmedabad, Gujarat, India](https://central.wordcamp.org/wordcamps/wordcamp-ahmedabad-gujarat-india-3/)
 - [WordCamp Zaragoza](https://central.wordcamp.org/wordcamps/wordcamp-zaragoza-zaragoza-spain/)
 <!-- WordCamp:END -->
 
