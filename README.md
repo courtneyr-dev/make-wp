@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Queries](https://make.wordpress.org/polyglots/2024/01/12/pte-request-for-advanced-queries/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/01/11/i-am-the-plugin-author-40/)
 - [PTE Request for RY WC City Select Plugin and evolve theme](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-ry-wc-city-select-plugin-and-evolve-theme/)
 - [PTE Request for Weaver Xtreme…](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-weaver-xtreme/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/01/09/hi-dear-mentors-we-have-127/)
 - [PTE Request for Qoe WordPress theme](https://make.wordpress.org/polyglots/2024/01/09/pte-request-for-qoe-wordpress-theme/)
 - [Inactive projects in the consistency tool](https://make.wordpress.org/polyglots/2024/01/08/inactive-projects-in-the-consistency-tool/)
-- [PTE Request for Notice FAQ](https://make.wordpress.org/polyglots/2024/01/08/pte-request-for-notice-faq/)
 <!-- POLYGLOTS:END -->
 
 ## Support
