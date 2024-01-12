@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/training/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [Request for feedback: Training Contributor badge requirements for code contributions](https://make.wordpress.org/training/2024/01/09/request-for-feedback-training-contributor-badge-requirements-for-code-contributions/)
 - [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/training/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 - [Training Team Meeting Recap – 19th December 2023](https://make.wordpress.org/training/2023/12/22/training-team-meeting-recap-19th-december-2023/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 12th December 2023](https://make.wordpress.org/training/2023/12/16/training-team-meeting-recap-12th-december-2023/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/training/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Contributor Spotlight: Laura Adamonis](https://make.wordpress.org/training/2023/12/12/contributor-spotlight-laura-adamonis/)
-- [Training Team Meeting Recap – 5th December 2023](https://make.wordpress.org/training/2023/12/12/training-team-meeting-recap-5th-december-2023/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
