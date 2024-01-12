@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/core/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [A Year in Core – 2023](https://make.wordpress.org/core/2024/01/11/a-year-in-core-2023/)
 - [Dev Chat agenda, January 10, 2024](https://make.wordpress.org/core/2024/01/10/dev-chat-agenda-january-10-2024/)
 - [Performance Chat Summary: 9 January 2024](https://make.wordpress.org/core/2024/01/09/performance-chat-summary-09-january-2024/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Phase 3 Agency Outreach Recap, December 2023](https://make.wordpress.org/core/2024/01/08/phase-3-agency-outreach-recap-december-2023/)
 - [What’s new in Gutenberg 17.4? &lpar;03 January&rpar;](https://make.wordpress.org/core/2024/01/04/whats-new-in-gutenberg-17-4-03-january/)
 - [Performance Chat Summary: 2 January 2024](https://make.wordpress.org/core/2024/01/03/performance-chat-summary-02-january-2024/)
-- [Performance Chat Agenda: 2 January 2024](https://make.wordpress.org/core/2024/01/02/performance-chat-agenda-02-january-2024/)
 <!-- CORE:END -->
 
 ## Design
