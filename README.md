@@ -512,7 +512,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [PHP WordPress Plugin Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-22/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-827/)
 - [WordPress Industry Content Writer](https://jobs.wordpress.net/job/wordpress-industry-content-writer-2/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-12/)
 - [Migrating LearnDash course pages to PMPro Courses or Sensei](https://jobs.wordpress.net/job/migrating-learndash-course-pages-to-pmpro-courses-or-sensei/)
@@ -521,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-5/)
 - [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers/)
 - [WordPress Developer Remote](https://jobs.wordpress.net/job/wordpress-developer-remote-12/)
+- [Frontend developer](https://jobs.wordpress.net/job/frontend-developer-6/)
 <!-- JOBS:END -->
 
 ## Central
