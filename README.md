@@ -469,6 +469,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/project/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [WordPress End of Year Celebrations!](https://make.wordpress.org/project/2023/12/22/wordpress-end-of-year-celebrations/)
 - [Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/project/2023/12/12/update-on-matrix-migration-pausing-the-transition/)
 - [Overflow Questions from State of the Word 2023 in Madrid, Spain](https://make.wordpress.org/project/2023/12/12/overflow-questions-from-state-of-the-word-2023/)
@@ -478,7 +479,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/project/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [WordCamp US 2023 Q&amp;A](https://make.wordpress.org/project/2023/09/15/wordcamp-us-2023-qa/)
 - [Proposal: Documentation translation / localization](https://make.wordpress.org/project/2023/09/06/documentation-translation-localization/)
-- [The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/project/2023/08/11/the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 <!-- PROJECT:END -->
 
 ## Systems
