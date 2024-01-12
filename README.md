@@ -73,6 +73,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/support/2024/01/xpost-call-for-mentees-mentors-cohort-2/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/support/2023/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/support/2023/12/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
 - [7th December Support Team meeting](https://make.wordpress.org/support/2023/12/7th-december-support-team-meeting/)
@@ -82,7 +83,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [23 November Support Team meeting](https://make.wordpress.org/support/2023/11/23-november-support-team-meeting/)
 - [X-post: What’s new on Learn WordPress in October 2023](https://make.wordpress.org/support/2023/10/xpost-whats-new-on-learn-wordpress-in-october-2023/)
 - [October 19th Support Team meeting](https://make.wordpress.org/support/2023/10/october-19th-support-team-meeting/)
-- [New support guidelines](https://make.wordpress.org/support/2023/10/new-support-guidelines/)
 <!-- SUPPORT:END -->
 
 ## Documentation
