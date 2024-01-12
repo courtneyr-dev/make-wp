@@ -441,6 +441,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/photos/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [December Stats for the WordPress Photo Directory](https://make.wordpress.org/photos/2024/01/04/december-stats-for-the-wordpress-photo-directory/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/photos/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/photos/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
@@ -450,7 +451,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [September Photo Directory Update](https://make.wordpress.org/photos/2023/10/03/september-photo-directory-update/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/photos/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [August Photo Directory Update](https://make.wordpress.org/photos/2023/08/28/august-photo-directory-update/)
-- [X-post: The Inaugural Cohort of the WordPress Contributor Mentorship Program has Concluded](https://make.wordpress.org/photos/2023/08/11/xpost-the-inaugural-cohort-of-the-wordpress-contributor-mentorship-program-has-concluded/)
 <!-- PHOTOS:END -->
 
 ## Updates
