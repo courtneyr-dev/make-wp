@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/docs/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [Summary of Docs Team meeting January 9, 2024](https://make.wordpress.org/docs/2024/01/12/summary-of-docs-team-meeting-january-9-2024/)
 - [Agenda for Docs Team meeting January 9, 2024](https://make.wordpress.org/docs/2024/01/09/agenda-for-docs-team-meeting-december-5-2023-2/)
 - [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/docs/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of Docs Team meeting December 5, 2023](https://make.wordpress.org/docs/2023/12/12/summary-of-docs-team-meeting-december-5-2023/)
 - [X-post: Recap: GitHub updates and process refinements](https://make.wordpress.org/docs/2023/12/05/xpost-recap-github-updates-and-process-refinements/)
 - [Agenda for Docs Team meeting December 5, 2023](https://make.wordpress.org/docs/2023/12/05/agenda-for-docs-team-meeting-december-5-2023/)
-- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/docs/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 <!-- DOCS:END -->
 
 ### Support Articles
