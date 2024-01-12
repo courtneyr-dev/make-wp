@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-7/)
+- [WordPress Web Manager](https://jobs.wordpress.net/job/wordpress-web-manager/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-4/)
+- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-4/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-16/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-4/)
 - [PHP WordPress Plugin Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-22/)
 - [WordPress Industry Content Writer](https://jobs.wordpress.net/job/wordpress-industry-content-writer-2/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-12/)
 - [Migrating LearnDash course pages to PMPro Courses or Sensei](https://jobs.wordpress.net/job/migrating-learndash-course-pages-to-pmpro-courses-or-sensei/)
-- [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers-2/)
-- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-3/)
-- [[Inpsyde] Senior Full Stack Developer](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-5/)
-- [WordPress Developers – Driving Safety Volunteers](https://jobs.wordpress.net/job/wordpress-developers-driving-safety-volunteers/)
-- [WordPress Developer Remote](https://jobs.wordpress.net/job/wordpress-developer-remote-12/)
-- [Frontend developer](https://jobs.wordpress.net/job/frontend-developer-6/)
 <!-- JOBS:END -->
 
 ## Central
