@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/themes/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [New Block-Focused Theme Handbook Docs and What’s Coming in 2024](https://make.wordpress.org/themes/2024/01/11/new-block-focused-theme-handbook-docs-and-whats-coming-in-2024/)
 - [Themes Team Meeting Notes – January 09, 2024](https://make.wordpress.org/themes/2024/01/11/themes-team-meeting-notes-january-09-2024/)
 - [Themes team meeting agenda for January 09, 2024](https://make.wordpress.org/themes/2024/01/08/themes-team-meeting-agenda-for-january-09-2024/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Developer Resources gets a refresh](https://make.wordpress.org/themes/2023/12/15/xpost-developer-resources-gets-a-refresh/)
 - [New requirements for settings pages &amp; onboarding in themes](https://make.wordpress.org/themes/2023/12/13/new-requirements-for-settings-pages-onboarding-in-themes/)
 - [Themes Team Meeting Notes – December 12, 2023](https://make.wordpress.org/themes/2023/12/13/themes-team-meeting-notes-december-12-2023/)
-- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/themes/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 <!-- THEMES:END -->
 
 ## Plugins
