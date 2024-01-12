@@ -329,6 +329,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## TV
 <!-- TV:START -->
+- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/tv/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/tv/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/tv/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/tv/2023/11/30/xpost-create-tours-for-make-p2s/)
@@ -338,7 +339,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Building Blocks: The Evolution of WordPress 2013-2023](https://make.wordpress.org/tv/2023/04/18/xpost-wordpress-at-20-in-print/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/tv/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
 - [X-post: Community Booth at WordCamp Asia 2023](https://make.wordpress.org/tv/2023/02/06/xpost-community-booth-at-wordcamp-asia-2023/)
-- [X-post: Suggest Topics for the 2023 WordPress Community Summit](https://make.wordpress.org/tv/2022/12/08/xpost-suggest-topics-for-the-2023-wordpress-community-summit/)
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
