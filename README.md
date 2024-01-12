@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2024/01/12/pte-request-for-code-snippets-3/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/polyglots/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [PTE Request for Advanced Queries](https://make.wordpress.org/polyglots/2024/01/12/pte-request-for-advanced-queries/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/01/11/i-am-the-plugin-author-40/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat- January 10, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/10/agenda-weekly-polyglots-chat-january-10-2024-700-utc/)
 - [PTE Request for Sunshine Photo…](https://make.wordpress.org/polyglots/2024/01/09/pte-request-for-sunshine-photo/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/01/09/hi-dear-mentors-we-have-127/)
-- [PTE Request for Qoe WordPress theme](https://make.wordpress.org/polyglots/2024/01/09/pte-request-for-qoe-wordpress-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
