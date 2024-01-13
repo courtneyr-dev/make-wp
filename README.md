@@ -315,6 +315,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Early Opportunities to Test WordPress 6.5](https://make.wordpress.org/test/2024/01/13/early-opportunities-to-test-wordpress-6-5/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/test/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [X-post: Test Team Update: 8 January 2024](https://make.wordpress.org/test/2024/01/08/xpost-test-team-update-8-january-2024/)
 - [X-post: Test Team Update: 2 January 2024](https://make.wordpress.org/test/2024/01/02/xpost-test-team-update-2-january-2024/)
@@ -324,7 +325,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 11 December 2023](https://make.wordpress.org/test/2023/12/11/xpost-test-team-update-11-december-2023/)
 - [Weekly Meeting Time Change Announcement](https://make.wordpress.org/test/2023/12/07/weekly-meeting-time-change-announcement/)
 - [X-post: Test Team Update: 4 December 2023](https://make.wordpress.org/test/2023/12/04/xpost-test-team-update-4-december-2023/)
-- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/test/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 <!-- TEST:END -->
 
 ## TV
