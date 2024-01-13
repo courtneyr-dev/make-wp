@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Gravatar: Toma el control de tu imagen en línea](https://wordpress.tv/2024/01/13/gravatar-toma-el-control-de-tu-imagen-en-linea/)
 - [Rendimiento web en un mundo WordPress-ionado](https://wordpress.tv/2024/01/11/rendimiento-web-en-un-mundo-wordpress-ionado/)
 - [Gutenberg – The Long Way, All the Way &lpar;circa 2023&rpar;](https://wordpress.tv/2024/01/10/gutenberg-the-long-way-all-the-way-circa-2023/)
 - [Най-често допусканите грешки в WordPress. Съвети за начинаещи.](https://wordpress.tv/2024/01/10/%d0%bd%d0%b0%d0%b9-%d1%87%d0%b5%d1%81%d1%82%d0%be-%d0%b4%d0%be%d0%bf%d1%83%d1%81%d0%ba%d0%b0%d0%bd%d0%b8%d1%82%d0%b5-%d0%b3%d1%80%d0%b5%d1%88%d0%ba%d0%b8-%d0%b2-wordpress-%d1%81%d1%8a%d0%b2%d0%b5/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [今こそ知りたいブロックエディターの使い方入門](https://wordpress.tv/2023/12/28/introduction-to-how-to-use-the-block-editor/)
 - [CBWJ #5 Make WordPress のチームって何をしてるの？ 自分にできることを探してみよう！](https://wordpress.tv/2023/12/22/community-building-workshop-japan-005/)
 - [Understanding the difference between WordPress posts and pages](https://wordpress.tv/2023/12/21/understanding-the-difference-between-wordpress-posts-and-pages/)
-- [Leveraging well-structured themes for project success](https://wordpress.tv/2023/12/20/leveraging-well-structured-themes-for-project-success/)
 <!-- WPTV:END -->
 
 ## Marketing
