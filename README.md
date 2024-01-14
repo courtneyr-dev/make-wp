@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2024/01/14/cross-locale-project-translation-editor-request-7/)
+- [I suggest changing the language…](https://make.wordpress.org/polyglots/2024/01/14/i-suggest-changing-the-language/)
+- [Hola @renatuxy @bredebs @ejner69 ,…](https://make.wordpress.org/polyglots/2024/01/14/hola-renatuxy-bredebs-ejner69/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2024/01/13/pte-request-for-powered-cache-5/)
 - [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2024/01/12/pte-request-for-code-snippets-3/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/polyglots/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/01/11/i-am-the-plugin-author-40/)
 - [PTE Request for RY WC City Select Plugin and evolve theme](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-ry-wc-city-select-plugin-and-evolve-theme/)
 - [PTE Request for Weaver Xtreme…](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-weaver-xtreme/)
-- [PTE Request for ColorMag theme](https://make.wordpress.org/polyglots/2024/01/10/pte-request-for-colormag-theme-2/)
-- [Agenda: Weekly Polyglots Chat- January 10, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/10/agenda-weekly-polyglots-chat-january-10-2024-700-utc/)
-- [PTE Request for Sunshine Photo…](https://make.wordpress.org/polyglots/2024/01/09/pte-request-for-sunshine-photo/)
 <!-- POLYGLOTS:END -->
 
 ## Support
