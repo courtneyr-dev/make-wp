@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Mobile Team Update – January 14th](https://make.wordpress.org/updates/2024/01/14/mobile-team-update-january-14th-2/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/updates/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [X-post: WordPress Hosting Team 2023 recap](https://make.wordpress.org/updates/2024/01/10/xpost-wordpress-hosting-team-2023-recap/)
 - [Themes team update January 10, 2024](https://make.wordpress.org/updates/2024/01/10/themes-team-update-january-10-2024/)
@@ -464,7 +465,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Test Team Update: 8 January 2024](https://make.wordpress.org/updates/2024/01/08/test-team-update-8-january-2024/)
 - [What’s new on Learn WordPress in December 2023](https://make.wordpress.org/updates/2024/01/08/whats-new-on-learn-wordpress-in-december-2023/)
 - [Themes team update January 03, 2024](https://make.wordpress.org/updates/2024/01/03/themes-team-update-january-03-2024/)
-- [Test Team Update: 2 January 2024](https://make.wordpress.org/updates/2024/01/02/test-team-update-2-january-2024/)
 <!-- UPDATES:END -->
 
 ## Project
