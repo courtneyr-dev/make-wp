@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Thank you and bye &lpar;for now&rpar;, Jill!](https://make.wordpress.org/community/2024/01/15/thank-you-and-bye-for-now-jill/)
 - [Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/community/2024/01/12/call-for-mentees-mentors-cohort-2/)
 - [2024 Global Sponsors: Announcement](https://make.wordpress.org/community/2024/01/09/2024-global-sponsors-announcement/)
 - [Reminder: 2023 Annual Meetup Survey](https://make.wordpress.org/community/2024/01/08/reminder-2023-annual-meetup-survey/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: December 2023](https://make.wordpress.org/community/2023/12/21/meetup-organizer-newsletter-december-2023/)
 - [Contributor Working Group: Mentorship Chat Agenda | December 21st 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2023/12/19/contributor-working-group-mentorship-chat-agenda-december-21st-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Reminder: Annual Meetup Survey](https://make.wordpress.org/community/2023/12/19/reminder-annual-meetup-survey/)
-- [Announcing the New WordPress Events Page](https://make.wordpress.org/community/2023/12/13/announcing-the-new-wordpress-events-page/)
 <!-- COMMUNITY:END -->
 
 ## Meta
