@@ -342,6 +342,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Translating WordPress into Nepali: A Voyage of Localization and Inclusivity](https://wordpress.tv/2024/01/15/translating-wordpress-into-nepali-a-voyage-of-localization-and-inclusivity/)
+- [Technical SEO Guide for WordPress](https://wordpress.tv/2024/01/15/technical-seo-guide-for-wordpress/)
+- [From Steel Beams to Web Themes: A Civil Engineer’s WordPress Adventure](https://wordpress.tv/2024/01/15/from-steel-beams-to-web-themes-a-civil-engineers-wordpress-adventure/)
+- [Navigating SEO and Content Creation in the AI Era](https://wordpress.tv/2024/01/15/navigating-seo-and-content-creation-in-the-ai-era/)
+- [Trending solutions for conversion optimization and lead generation process](https://wordpress.tv/2024/01/15/trending-solutions-for-conversion-optimization-and-lead-generation-process/)
+- [How to Do Remote Working Effortlessly?](https://wordpress.tv/2024/01/15/how-to-do-remote-working-effortlessly/)
+- [Decoding the Content Ideation for SEO Success](https://wordpress.tv/2024/01/15/decoding-the-content-ideation-for-seo-success/)
+- [Mastering Content Planning: My Journey from Beginner to Expert](https://wordpress.tv/2024/01/15/mastering-content-planning-my-journey-from-beginner-to-expert/)
 - [Gravatar: Toma el control de tu imagen en línea](https://wordpress.tv/2024/01/13/gravatar-toma-el-control-de-tu-imagen-en-linea/)
 - [Rendimiento web en un mundo WordPress-ionado](https://wordpress.tv/2024/01/11/rendimiento-web-en-un-mundo-wordpress-ionado/)
 - [Gutenberg – The Long Way, All the Way &lpar;circa 2023&rpar;](https://wordpress.tv/2024/01/10/gutenberg-the-long-way-all-the-way-circa-2023/)
@@ -359,14 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [AI-volution: WordPress Developer’s Guide to Evolve in the Age of AI](https://wordpress.tv/2023/12/30/ai-volution-wordpress-developers-guide-to-evolve-in-the-age-of-ai/)
 - [From Launching to Scaling Up: Navigating WordPress Product Business Success [Panel]](https://wordpress.tv/2023/12/30/from-launching-to-scaling-up-navigating-wordpress-product-business-success-panel/)
 - [Creating Blog Outlines That Rank](https://wordpress.tv/2023/12/30/creating-blog-outlines-that-rank/)
-- [The fidelity gap – how to embrace the unknown and succeed in client relationships](https://wordpress.tv/2023/12/30/the-fidelity-gap-how-to-embrace-the-unknown-and-succeed-in-client-relationships/)
-- [Graba y publica tu podcast en 20 minutos con WordPress](https://wordpress.tv/2023/12/30/graba-y-publica-tu-podcast-en-20-minutos-con-wordpress/)
-- [Enhancing UI/UX Design for Your WordPress Website](https://wordpress.tv/2023/12/30/enhancing-ui-ux-design-for-your-wordpress-website/)
-- [Personaliza tu web usando un child theme](https://wordpress.tv/2023/12/30/personaliza-tu-web-usando-un-child-theme/)
-- [Cómo pasé de cliente a socio en un negocio online gracias a WordPress](https://wordpress.tv/2023/12/30/como-pase-de-cliente-a-socio-en-un-negocio-online-gracias-a-wordpress/)
-- [今こそ知りたいブロックエディターの使い方入門](https://wordpress.tv/2023/12/28/introduction-to-how-to-use-the-block-editor/)
-- [CBWJ #5 Make WordPress のチームって何をしてるの？ 自分にできることを探してみよう！](https://wordpress.tv/2023/12/22/community-building-workshop-japan-005/)
-- [Understanding the difference between WordPress posts and pages](https://wordpress.tv/2023/12/21/understanding-the-difference-between-wordpress-posts-and-pages/)
 <!-- WPTV:END -->
 
 ## Marketing
