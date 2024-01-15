@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Yes! YOU Can Podcast!](https://wordpress.tv/2024/01/15/yes-you-can-podcast/)
+- [Accessibility Workshop](https://wordpress.tv/2024/01/15/accessibility-workshop/)
+- [Secrets to Profitably Pricing Recurring Revenue](https://wordpress.tv/2024/01/15/secrets-to-profitably-pricing-recurring-revenue/)
+- [Regex: Demystifying the Hieroglyphics](https://wordpress.tv/2024/01/15/regex-demystifying-the-hieroglyphics/)
+- [Divine Design: Tips and Tricks for Church Websites](https://wordpress.tv/2024/01/15/divine-design-tips-and-tricks-for-church-websites/)
+- [Creating a Sustainable Template for Agency Growth](https://wordpress.tv/2024/01/15/creating-a-sustainable-template-for-agency-growth/)
 - [How to create a menu with the navigation block](https://wordpress.tv/2024/01/15/how-to-create-a-menu-with-the-navigation-block-3/)
 - [SEO Workshop](https://wordpress.tv/2024/01/15/seo-workshop/)
 - [What I Wish I’d Known About Business](https://wordpress.tv/2024/01/15/what-i-wish-id-known-about-business/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rendimiento web en un mundo WordPress-ionado](https://wordpress.tv/2024/01/11/rendimiento-web-en-un-mundo-wordpress-ionado/)
 - [Gutenberg – The Long Way, All the Way &lpar;circa 2023&rpar;](https://wordpress.tv/2024/01/10/gutenberg-the-long-way-all-the-way-circa-2023/)
 - [Най-често допусканите грешки в WordPress. Съвети за начинаещи.](https://wordpress.tv/2024/01/10/%d0%bd%d0%b0%d0%b9-%d1%87%d0%b5%d1%81%d1%82%d0%be-%d0%b4%d0%be%d0%bf%d1%83%d1%81%d0%ba%d0%b0%d0%bd%d0%b8%d1%82%d0%b5-%d0%b3%d1%80%d0%b5%d1%88%d0%ba%d0%b8-%d0%b2-wordpress-%d1%81%d1%8a%d0%b2%d0%b5/)
-- [Какво е необходимо, за да разработваш WordPress професионално?](https://wordpress.tv/2024/01/10/%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%b5-%d0%bd%d0%b5%d0%be%d0%b1%d1%85%d0%be%d0%b4%d0%b8%d0%bc%d0%be-%d0%b7%d0%b0-%d0%b4%d0%b0-%d1%80%d0%b0%d0%b7%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b2%d0%b0%d1%88-wordpre/)
-- [5 стъпки към създаването на писмено съдържание за вашия бизнес](https://wordpress.tv/2024/01/10/5-%d1%81%d1%82%d1%8a%d0%bf%d0%ba%d0%b8-%d0%ba%d1%8a%d0%bc-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be-%d0%bd%d0%b0-%d0%bf%d0%b8%d1%81%d0%bc%d0%b5%d0%bd%d0%be-%d1%81%d1%8a%d0%b4/)
-- [Making WordPress part of university curriculum.](https://wordpress.tv/2024/01/05/making-wordpress-part-of-university-curriculum/)
-- [WordPress Wellness: Diagnosing and Healing Common Issues](https://wordpress.tv/2024/01/05/wordpress-wellness-diagnosing-and-healing-common-issues/)
-- [Journey from Zero to PRO seller on Fiverr Selling WordPress](https://wordpress.tv/2024/01/05/journey-from-zero-to-pro-seller-on-fiverr-selling-wordpress/)
-- [Meet AI, the plugin developer. Wait, what!?](https://wordpress.tv/2024/01/05/meet-ai-the-plugin-developer-wait-what/)
 <!-- WPTV:END -->
 
 ## Marketing
