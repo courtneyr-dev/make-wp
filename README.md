@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using Gutenberg as a Development Foundation, Not Just a Block Builder](https://wordpress.tv/2024/01/15/using-gutenberg-as-a-development-foundation-not-just-a-block-builder/)
+- [Running Your WordPress Business with ADHD](https://wordpress.tv/2024/01/15/running-your-wordpress-business-with-adhd/)
+- [How Does the Web Work?](https://wordpress.tv/2024/01/15/how-does-the-web-work/)
 - [Translating WordPress into Nepali: A Voyage of Localization and Inclusivity](https://wordpress.tv/2024/01/15/translating-wordpress-into-nepali-a-voyage-of-localization-and-inclusivity/)
 - [Technical SEO Guide for WordPress](https://wordpress.tv/2024/01/15/technical-seo-guide-for-wordpress/)
 - [From Steel Beams to Web Themes: A Civil Engineer’s WordPress Adventure](https://wordpress.tv/2024/01/15/from-steel-beams-to-web-themes-a-civil-engineers-wordpress-adventure/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Choisir son modèle d’accueil dans un thème FSE](https://wordpress.tv/2024/01/03/choisir-son-modele-daccueil-dans-un-theme-fse/)
 - [Live WordPress 100% Bloc 12 décembre 2024](https://wordpress.tv/2024/01/02/live-wordpress-100-bloc-12-decembre-2024/)
 - [Email Marketing Essentials: Effective Strategies for Better Open Rates and Conversions](https://wordpress.tv/2023/12/31/email-marketing-essentials-effective-strategies-for-better-open-rates-and-conversions/)
-- [AI-volution: WordPress Developer’s Guide to Evolve in the Age of AI](https://wordpress.tv/2023/12/30/ai-volution-wordpress-developers-guide-to-evolve-in-the-age-of-ai/)
-- [From Launching to Scaling Up: Navigating WordPress Product Business Success [Panel]](https://wordpress.tv/2023/12/30/from-launching-to-scaling-up-navigating-wordpress-product-business-success-panel/)
-- [Creating Blog Outlines That Rank](https://wordpress.tv/2023/12/30/creating-blog-outlines-that-rank/)
 <!-- WPTV:END -->
 
 ## Marketing
