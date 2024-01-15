@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/15/looking-for-a-gujarati-translation/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2024/01/14/cross-locale-project-translation-editor-request-7/)
 - [I suggest changing the language…](https://make.wordpress.org/polyglots/2024/01/14/i-suggest-changing-the-language/)
 - [Hola @renatuxy @bredebs @ejner69 ,…](https://make.wordpress.org/polyglots/2024/01/14/hola-renatuxy-bredebs-ejner69/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Advanced Queries](https://make.wordpress.org/polyglots/2024/01/12/pte-request-for-advanced-queries/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/01/11/i-am-the-plugin-author-40/)
 - [PTE Request for RY WC City Select Plugin and evolve theme](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-ry-wc-city-select-plugin-and-evolve-theme/)
-- [PTE Request for Weaver Xtreme…](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-weaver-xtreme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
