@@ -525,6 +525,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [GoDaddy sponsors WordPress community events worldwide](https://central.wordcamp.org/news/2024/01/godaddy-sponsors-wordpress-community-events-worldwide/)
 - [2023 Annual Meetup Survey](https://central.wordcamp.org/news/2023/12/2023-annual-meetup-survey/)
 - [WordCamp Lahore 2023 is looking for Speakers and Sponsors](https://central.wordcamp.org/news/2023/10/wordcamp-lahore-2023-is-looking-for-speakers-and-sponsors/)
 - [WordCamp Malaysia 2023 is Looking for Speakers and Sponsors](https://central.wordcamp.org/news/2023/07/wordcamp-malaysia-2023-is-looking-for-speakers-and-sponsors/)
@@ -539,7 +540,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Entebbe 2023: An Amazing Recap](https://central.wordcamp.org/news/2023/03/wordcamp-entebbe-2023-an-amazing-recap/)
 - [Get your tickets for WordCamp Kerala 2023 on March 25th!](https://central.wordcamp.org/news/2023/02/get-your-tickets-for-wordcamp-kerala-2023-on-march-25th/)
 - [WooCommerce sponsors WordPress community events across the globe](https://central.wordcamp.org/news/2023/02/woocommerce-sponsors-wordpress-community-events-worldwide/)
-- [Bluehost supports WordPress community events worldwide](https://central.wordcamp.org/news/2023/02/bluehost-supports-wordpress-community-events-worldwide-3/)
 <!-- Central:END -->
 
 ### WordCamp
