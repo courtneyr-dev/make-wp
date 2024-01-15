@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to create a menu with the navigation block](https://wordpress.tv/2024/01/15/how-to-create-a-menu-with-the-navigation-block-3/)
 - [SEO Workshop](https://wordpress.tv/2024/01/15/seo-workshop/)
 - [What I Wish I’d Known About Business](https://wordpress.tv/2024/01/15/what-i-wish-id-known-about-business/)
 - [Javacia Harris Bowser: Blog Your Book](https://wordpress.tv/2024/01/15/javacia-harris-bowser-blog-your-book/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Wellness: Diagnosing and Healing Common Issues](https://wordpress.tv/2024/01/05/wordpress-wellness-diagnosing-and-healing-common-issues/)
 - [Journey from Zero to PRO seller on Fiverr Selling WordPress](https://wordpress.tv/2024/01/05/journey-from-zero-to-pro-seller-on-fiverr-selling-wordpress/)
 - [Meet AI, the plugin developer. Wait, what!?](https://wordpress.tv/2024/01/05/meet-ai-the-plugin-developer-wait-what/)
-- [Creating posts and pages with the WordPress block editor](https://wordpress.tv/2024/01/04/creating-posts-and-pages-with-the-wordpress-block-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
