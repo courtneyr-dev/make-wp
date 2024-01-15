@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Changing the Theme of the Blog](https://jobs.wordpress.net/job/changing-the-theme-of-the-blog/)
+- [[ASTRA] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-4/)
+- [[ASTRA] SEO Lead](https://jobs.wordpress.net/job/astra-seo-lead-2/)
+- [Developers for Driving Safety – World Safety Drive –](https://jobs.wordpress.net/job/developers-for-driving-safety-world-safety-drive/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-7/)
 - [WordPress Web Manager](https://jobs.wordpress.net/job/wordpress-web-manager/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-4/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-4/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-16/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-4/)
-- [PHP WordPress Plugin Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-22/)
-- [WordPress Industry Content Writer](https://jobs.wordpress.net/job/wordpress-industry-content-writer-2/)
-- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-12/)
-- [Migrating LearnDash course pages to PMPro Courses or Sensei](https://jobs.wordpress.net/job/migrating-learndash-course-pages-to-pmpro-courses-or-sensei/)
 <!-- JOBS:END -->
 
 ## Central
