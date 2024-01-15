@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [SEO Workshop](https://wordpress.tv/2024/01/15/seo-workshop/)
+- [What I Wish I’d Known About Business](https://wordpress.tv/2024/01/15/what-i-wish-id-known-about-business/)
+- [Javacia Harris Bowser: Blog Your Book](https://wordpress.tv/2024/01/15/javacia-harris-bowser-blog-your-book/)
 - [Using Gutenberg as a Development Foundation, Not Just a Block Builder](https://wordpress.tv/2024/01/15/using-gutenberg-as-a-development-foundation-not-just-a-block-builder/)
 - [Running Your WordPress Business with ADHD](https://wordpress.tv/2024/01/15/running-your-wordpress-business-with-adhd/)
 - [How Does the Web Work?](https://wordpress.tv/2024/01/15/how-does-the-web-work/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Journey from Zero to PRO seller on Fiverr Selling WordPress](https://wordpress.tv/2024/01/05/journey-from-zero-to-pro-seller-on-fiverr-selling-wordpress/)
 - [Meet AI, the plugin developer. Wait, what!?](https://wordpress.tv/2024/01/05/meet-ai-the-plugin-developer-wait-what/)
 - [Creating posts and pages with the WordPress block editor](https://wordpress.tv/2024/01/04/creating-posts-and-pages-with-the-wordpress-block-editor/)
-- [Choisir son modèle d’accueil dans un thème FSE](https://wordpress.tv/2024/01/03/choisir-son-modele-daccueil-dans-un-theme-fse/)
-- [Live WordPress 100% Bloc 12 décembre 2024](https://wordpress.tv/2024/01/02/live-wordpress-100-bloc-12-decembre-2024/)
-- [Email Marketing Essentials: Effective Strategies for Better Open Rates and Conversions](https://wordpress.tv/2023/12/31/email-marketing-essentials-effective-strategies-for-better-open-rates-and-conversions/)
 <!-- WPTV:END -->
 
 ## Marketing
