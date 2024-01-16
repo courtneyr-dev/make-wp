@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Twenty Twenty-One, Twenty Twenty, and Twenty Seventeen updates now available](https://make.wordpress.org/core/2024/01/16/twenty-twenty-one-twenty-twenty-and-twenty-seventeen-updates-now-available/)
+- [Dev Chat Summary, January 10, 2024](https://make.wordpress.org/core/2024/01/16/dev-chat-summary-january-10-2024/)
 - [6.4.3: An upcoming maintenance release](https://make.wordpress.org/core/2024/01/16/6-4-3-an-upcoming-maintenance-release/)
 - [Performance Chat Summary: 16 January 2024](https://make.wordpress.org/core/2024/01/16/performance-chat-summary-16-january-2024/)
 - [Performance Chat Agenda: 16 January 2024](https://make.wordpress.org/core/2024/01/16/performance-chat-agenda-16-january-2024/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/core/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [A Year in Core – 2023](https://make.wordpress.org/core/2024/01/11/a-year-in-core-2023/)
 - [Dev Chat agenda, January 10, 2024](https://make.wordpress.org/core/2024/01/10/dev-chat-agenda-january-10-2024/)
-- [Performance Chat Summary: 9 January 2024](https://make.wordpress.org/core/2024/01/09/performance-chat-summary-09-january-2024/)
-- [A Week in Core – January 8, 2024](https://make.wordpress.org/core/2024/01/09/a-week-in-core-january-8-2024/)
 <!-- CORE:END -->
 
 ## Design
