@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Contributor Spotlight: Nadia Maya Ardiani](https://make.wordpress.org/training/2024/01/16/contributor-spotlight-nadia-maya-ardiani/)
 - [Training Team Meeting Recap – January 11, 2024](https://make.wordpress.org/training/2024/01/16/training-team-meeting-recap-january-11-2024/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/training/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [Request for feedback: Training Contributor badge requirements for code contributions](https://make.wordpress.org/training/2024/01/09/request-for-feedback-training-contributor-badge-requirements-for-code-contributions/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team 2024 Goals Setting](https://make.wordpress.org/training/2023/12/22/training-team-2024-goals-setting/)
 - [Training Team 2023 Year In Review](https://make.wordpress.org/training/2023/12/19/training-team-2023-year-in-review/)
 - [Training Team Meeting Recap – 12th December 2023](https://make.wordpress.org/training/2023/12/16/training-team-meeting-recap-12th-december-2023/)
-- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/training/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
