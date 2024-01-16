@@ -483,6 +483,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Add redirect for Font Collection JSON schema](https://make.wordpress.org/systems/2024/01/16/add-redirect-for-font-collection-json-schema/)
 - [Email rejected as ‘high probability of spam’](https://make.wordpress.org/systems/2024/01/09/email-rejected-as-high-probability-of-spam/)
 - [Enable s.w.org cors headers for .gif](https://make.wordpress.org/systems/2024/01/04/enable-s-w-org-cors-headers-for-gif/)
 - [Patterns missing from Developer Blog](https://make.wordpress.org/systems/2023/12/18/patterns-missing-from-developer-blog/)
@@ -492,7 +493,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support svn `@revnum` URLs?](https://make.wordpress.org/systems/2023/11/20/support-svn-revnum-urls-urls/)
 - [wp-cli.org email addresses](https://make.wordpress.org/systems/2023/11/01/wp-cli-org-email-addresses/)
 - [Email deliverability for wordcamp.org addresses](https://make.wordpress.org/systems/2023/10/11/email-deliverability-for-wordcamp-org-addresses/)
-- [MC Access for Héctor Prieto](https://make.wordpress.org/systems/2023/09/29/mc-access-for-hector-prieto/)
 <!-- SYSTEMS:END -->
 
 ## News
