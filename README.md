@@ -458,13 +458,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team update January 16, 2024](https://make.wordpress.org/updates/2024/01/16/themes-team-update-january-16-2024/)
 - [Test Team Update: 16 January 2024](https://make.wordpress.org/updates/2024/01/16/test-team-update-16-january-2024/)
 - [Plugin Review Team: 15 January 2024](https://make.wordpress.org/updates/2024/01/15/plugin-review-team-15-january-2024/)
+- [Core Team Update – January 15, 2023](https://make.wordpress.org/updates/2024/01/15/core-team-update-january-15-2023/)
 - [Documentation Team Update – January 15, 2024](https://make.wordpress.org/updates/2024/01/15/documentation-team-update-january-15-2024/)
 - [Mobile Team Update – January 14th](https://make.wordpress.org/updates/2024/01/14/mobile-team-update-january-14th-2/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/updates/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [X-post: WordPress Hosting Team 2023 recap](https://make.wordpress.org/updates/2024/01/10/xpost-wordpress-hosting-team-2023-recap/)
 - [Themes team update January 10, 2024](https://make.wordpress.org/updates/2024/01/10/themes-team-update-january-10-2024/)
 - [Plugin Review Team: 8 January 2024](https://make.wordpress.org/updates/2024/01/09/plugin-review-team-8-january-2024/)
-- [Core Team Update – January 8, 2023](https://make.wordpress.org/updates/2024/01/08/core-team-update-january-8-2023/)
 <!-- UPDATES:END -->
 
 ## Project
