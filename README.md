@@ -199,6 +199,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [CSS અને વર્ડપ્રેસ માં ફ્લેક્સબોક્સ](https://learn.wordpress.org/lesson-plan/guj-flexbox-in-css-and-wordpress/)
 - [Eine statische Seite als Startseite festlegen](https://learn.wordpress.org/lesson-plan/de-setting-a-static-page-as-your-homepage/)
 - [Pengenalan Editor Situs dan Template](https://learn.wordpress.org/lesson-plan/id-intro-to-site-editor-and-templates/)
 - [WordPress 可以用來做什麼](https://learn.wordpress.org/lesson-plan/zh-tw-what-you-can-do-with-wordpress/)
@@ -223,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cosa fare quando non ti ricordi la password](https://learn.wordpress.org/lesson-plan/cosa-fare-quando-non-ti-ricordi-la-password/)
 - [प्लगइन्स को चुनना और इंस्टॉल करना](https://learn.wordpress.org/lesson-plan/hi-choosing-and-installing-plugins/)
 - [டாஷ்போர்டு மேலோட்டம்](https://learn.wordpress.org/lesson-plan/ta-dashboard-overview/)
-- [மீண்டும் பயன்படுத்தக்கூடிய தொகுதிகள், பிளாக் பேட்டர்ன், டெம்ப்ளேட்கள், டெம்ப்ளேட் பாகங்களுக்கு இடையே உள்ள வேறுபாடு](https://learn.wordpress.org/lesson-plan/ta-difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
