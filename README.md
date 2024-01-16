@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello, I am focused on…](https://make.wordpress.org/polyglots/2024/01/16/hello-i-am-focused-on/)
+- [PTE Request for Conditional Fields for Elementor Form – Display Conditions](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-conditional-fields-for-elementor-form-display-conditions/)
 - [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/15/looking-for-a-gujarati-translation/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2024/01/14/cross-locale-project-translation-editor-request-7/)
 - [I suggest changing the language…](https://make.wordpress.org/polyglots/2024/01/14/i-suggest-changing-the-language/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2024/01/12/pte-request-for-code-snippets-3/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/polyglots/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [PTE Request for Advanced Queries](https://make.wordpress.org/polyglots/2024/01/12/pte-request-for-advanced-queries/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2024/01/11/i-am-the-plugin-author-40/)
-- [PTE Request for RY WC City Select Plugin and evolve theme](https://make.wordpress.org/polyglots/2024/01/11/pte-request-for-ry-wc-city-select-plugin-and-evolve-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
