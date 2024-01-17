@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for Sensei LMS…](https://make.wordpress.org/polyglots/2024/01/17/pte-request-for-sensei-lms-6/)
 - [PTE Request for woocommerce-pos](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-woocommerce-pos-2/)
 - [Hello, I am focused on…](https://make.wordpress.org/polyglots/2024/01/16/hello-i-am-focused-on/)
 - [PTE Request for Conditional Fields for Elementor Form – Display Conditions](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-conditional-fields-for-elementor-form-display-conditions/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hola @renatuxy @bredebs @ejner69 ,…](https://make.wordpress.org/polyglots/2024/01/14/hola-renatuxy-bredebs-ejner69/)
 - [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2024/01/13/pte-request-for-powered-cache-5/)
 - [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2024/01/12/pte-request-for-code-snippets-3/)
-- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/polyglots/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
