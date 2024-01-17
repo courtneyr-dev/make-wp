@@ -157,7 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
-- [Contributor Working Group: Mentorship Chat Agenda |January 17th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/01/17/contributor-working-group-mentorship-chat-agenda-january-17th-0700-utc-apac-emea-and-1600-utc-amer/)
+- [Contributor Working Group: Mentorship Chat Agenda |January 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/01/17/contributor-working-group-mentorship-chat-agenda-january-17th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Share your feedback about the new WordPress Events Page!](https://make.wordpress.org/community/2024/01/16/share-your-feedback-about-the-new-wordpress-events-page/)
 - [Thank you and bye &lpar;for now&rpar;, Jill!](https://make.wordpress.org/community/2024/01/15/thank-you-and-bye-for-now-jill/)
 - [Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/community/2024/01/12/call-for-mentees-mentors-cohort-2/)
