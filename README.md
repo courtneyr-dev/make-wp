@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 17.5? &lpar;17 January 2024&rpar;](https://make.wordpress.org/core/2024/01/17/whats-new-in-gutenberg-17-5-17-january-2024/)
 - [Hallway Hangout Let’s explore WordPress 6.5 Recap](https://make.wordpress.org/core/2024/01/17/hallway-hangout-lets-explore-wordpress-6-5-recap/)
 - [Dev Chat Agenda, January 16, 2024](https://make.wordpress.org/core/2024/01/16/dev-chat-agenda-january-16-2024/)
 - [Twenty Twenty-One, Twenty Twenty, and Twenty Seventeen updates now available](https://make.wordpress.org/core/2024/01/16/twenty-twenty-one-twenty-twenty-and-twenty-seventeen-updates-now-available/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 16 January 2024](https://make.wordpress.org/core/2024/01/16/performance-chat-agenda-16-january-2024/)
 - [A Week in Core – January 15, 2024](https://make.wordpress.org/core/2024/01/15/a-week-in-core-january-15-2024/)
 - [X-post: Early Opportunities to Test WordPress 6.5](https://make.wordpress.org/core/2024/01/13/xpost-early-opportunities-to-test-wordpress-6-5/)
-- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/core/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 <!-- CORE:END -->
 
 ## Design
