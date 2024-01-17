@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Hallway Hangout Let’s explore WordPress 6.5 Recap](https://make.wordpress.org/core/2024/01/17/hallway-hangout-lets-explore-wordpress-6-5-recap/)
 - [Twenty Twenty-One, Twenty Twenty, and Twenty Seventeen updates now available](https://make.wordpress.org/core/2024/01/16/twenty-twenty-one-twenty-twenty-and-twenty-seventeen-updates-now-available/)
 - [Dev Chat Summary, January 10, 2024](https://make.wordpress.org/core/2024/01/16/dev-chat-summary-january-10-2024/)
 - [6.4.3: An upcoming maintenance release](https://make.wordpress.org/core/2024/01/16/6-4-3-an-upcoming-maintenance-release/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Early Opportunities to Test WordPress 6.5](https://make.wordpress.org/core/2024/01/13/xpost-early-opportunities-to-test-wordpress-6-5/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/core/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [A Year in Core – 2023](https://make.wordpress.org/core/2024/01/11/a-year-in-core-2023/)
-- [Dev Chat agenda, January 10, 2024](https://make.wordpress.org/core/2024/01/10/dev-chat-agenda-january-10-2024/)
 <!-- CORE:END -->
 
 ## Design
