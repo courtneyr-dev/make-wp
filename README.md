@@ -239,7 +239,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [মন্তব্য পরিচালনা করা](https://learn.wordpress.org/tutorial/bn-managing-comments/)
 - [ওয়েবসাইটের নিরাপত্তা উন্নত করার ৭ টি টিপস](https://learn.wordpress.org/tutorial/bn-7-tips-to-improve-website-security/)
 - [সেটিংস ম্যানেজঃ পড়া](https://learn.wordpress.org/tutorial/bn-managing-settings-reading/)
-- [How to create a menu with the navigation block](https://learn.wordpress.org/tutorial/https-wordpress-tv-2024-01-15-how-to-create-a-menu-with-the-navigation-block-3/)
+- [How to create a menu with the navigation block](https://learn.wordpress.org/tutorial/how-to-create-a-menu-with-the-navigation-block-3/)
 - [কিভাবে একটি কর্মশালা জমা দিতে হয়](https://learn.wordpress.org/tutorial/bn-how-to-submit-a-workshop/)
 - [একটি স্টিকি হেডার বা ব্যানার যোগ করা](https://learn.wordpress.org/tutorial/bn-adding-a-sticky-header-or-banner/)
 - [Exploring WordPress 6.4](https://learn.wordpress.org/tutorial/exploring-wordpress-6-4/)
