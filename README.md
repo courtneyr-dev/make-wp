@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team January Meeting Recap](https://make.wordpress.org/community/2024/01/18/community-team-january-meeting-recap/)
 - [Contributor Working Group: Mentorship Chat Agenda |January 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/01/17/contributor-working-group-mentorship-chat-agenda-january-17th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Share your feedback about the new WordPress Events Page!](https://make.wordpress.org/community/2024/01/16/share-your-feedback-about-the-new-wordpress-events-page/)
 - [Thank you and bye &lpar;for now&rpar;, Jill!](https://make.wordpress.org/community/2024/01/15/thank-you-and-bye-for-now-jill/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 4 January 2024](https://make.wordpress.org/community/2024/01/04/community-team-meeting-agenda-for-4-january-2024/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on December 21, 2023](https://make.wordpress.org/community/2023/12/28/recap-of-the-contributor-working-groups-mentorship-chat-on-december-21-2023/)
 - [Community Team Reps for 2024](https://make.wordpress.org/community/2023/12/28/community-team-reps-for-2024/)
-- [Meetup Organizer Newsletter: December 2023](https://make.wordpress.org/community/2023/12/21/meetup-organizer-newsletter-december-2023/)
 <!-- COMMUNITY:END -->
 
 ## Meta
