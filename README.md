@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Recessions, Inflations, and Business, Oh My!](https://wordpress.tv/2024/01/18/recessions-inflations-and-business-oh-my/)
+- [Website Usability Workshop](https://wordpress.tv/2024/01/18/website-usability-workshop/)
+- [Understanding the Influence of the Metaverse and Future Development of WordPress](https://wordpress.tv/2024/01/18/understanding-the-influence-of-the-metaverse-and-future-development-of-wordpress/)
+- [Strategies for Building Diverse, Equitable, &amp; Inclusive Workspaces](https://wordpress.tv/2024/01/18/strategies-for-building-diverse-equitable-inclusive-workspaces/)
+- [Interactive Debugging in PHP](https://wordpress.tv/2024/01/18/interactive-debugging-in-php/)
+- [How to Save Time &lpar;and Sanity&rpar; By Repurposing Your Content](https://wordpress.tv/2024/01/18/how-to-save-time-and-sanity-by-repurposing-your-content/)
 - [Synchronisation CSS en Full Site Editing &lpar;FSE&rpar;](https://wordpress.tv/2024/01/18/synchronisation-css-en-full-site-editing-fse/)
 - [Patrones de bloques, esos grandes desconocidos](https://wordpress.tv/2024/01/17/patrones-de-bloques-esos-grandes-desconocidos/)
 - [Developer Hours: Build your first WordPress block](https://wordpress.tv/2024/01/16/developer-hours-build-your-first-wordpress-block/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Translating WordPress into Nepali: A Voyage of Localization and Inclusivity](https://wordpress.tv/2024/01/15/translating-wordpress-into-nepali-a-voyage-of-localization-and-inclusivity/)
 - [Technical SEO Guide for WordPress](https://wordpress.tv/2024/01/15/technical-seo-guide-for-wordpress/)
 - [From Steel Beams to Web Themes: A Civil Engineer’s WordPress Adventure](https://wordpress.tv/2024/01/15/from-steel-beams-to-web-themes-a-civil-engineers-wordpress-adventure/)
-- [Navigating SEO and Content Creation in the AI Era](https://wordpress.tv/2024/01/15/navigating-seo-and-content-creation-in-the-ai-era/)
-- [Trending solutions for conversion optimization and lead generation process](https://wordpress.tv/2024/01/15/trending-solutions-for-conversion-optimization-and-lead-generation-process/)
-- [How to Do Remote Working Effortlessly?](https://wordpress.tv/2024/01/15/how-to-do-remote-working-effortlessly/)
-- [Decoding the Content Ideation for SEO Success](https://wordpress.tv/2024/01/15/decoding-the-content-ideation-for-seo-success/)
-- [Mastering Content Planning: My Journey from Beginner to Expert](https://wordpress.tv/2024/01/15/mastering-content-planning-my-journey-from-beginner-to-expert/)
-- [Gravatar: Toma el control de tu imagen en línea](https://wordpress.tv/2024/01/13/gravatar-toma-el-control-de-tu-imagen-en-linea/)
 <!-- WPTV:END -->
 
 ## Marketing
