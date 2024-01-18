@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Redux Framework…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-redux-framework/)
 - [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/18/looking-for-a-gujarati-translation-2/)
 - [PTE Request for Waymark plugin](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-waymark-plugin/)
 - [PTE Request for Hostinger I…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-hostinger-i/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I am focused on…](https://make.wordpress.org/polyglots/2024/01/16/hello-i-am-focused-on/)
 - [PTE Request for Conditional Fields for Elementor Form – Display Conditions](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-conditional-fields-for-elementor-form-display-conditions/)
 - [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/15/looking-for-a-gujarati-translation/)
-- [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2024/01/14/cross-locale-project-translation-editor-request-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
