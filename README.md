@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Patrones de bloques, esos grandes desconocidos](https://wordpress.tv/2024/01/17/patrones-de-bloques-esos-grandes-desconocidos/)
 - [Developer Hours: Build your first WordPress block](https://wordpress.tv/2024/01/16/developer-hours-build-your-first-wordpress-block/)
 - [Yes! YOU Can Podcast!](https://wordpress.tv/2024/01/15/yes-you-can-podcast/)
 - [Accessibility Workshop](https://wordpress.tv/2024/01/15/accessibility-workshop/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mastering Content Planning: My Journey from Beginner to Expert](https://wordpress.tv/2024/01/15/mastering-content-planning-my-journey-from-beginner-to-expert/)
 - [Gravatar: Toma el control de tu imagen en línea](https://wordpress.tv/2024/01/13/gravatar-toma-el-control-de-tu-imagen-en-linea/)
 - [Rendimiento web en un mundo WordPress-ionado](https://wordpress.tv/2024/01/11/rendimiento-web-en-un-mundo-wordpress-ionado/)
-- [Gutenberg – The Long Way, All the Way &lpar;circa 2023&rpar;](https://wordpress.tv/2024/01/10/gutenberg-the-long-way-all-the-way-circa-2023/)
 <!-- WPTV:END -->
 
 ## Marketing
