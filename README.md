@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Choosing and installing a theme](https://wordpress.tv/2024/01/18/choosing-and-installing-a-theme-3/)
 - [Recessions, Inflations, and Business, Oh My!](https://wordpress.tv/2024/01/18/recessions-inflations-and-business-oh-my/)
 - [Website Usability Workshop](https://wordpress.tv/2024/01/18/website-usability-workshop/)
 - [Understanding the Influence of the Metaverse and Future Development of WordPress](https://wordpress.tv/2024/01/18/understanding-the-influence-of-the-metaverse-and-future-development-of-wordpress/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How Does the Web Work?](https://wordpress.tv/2024/01/15/how-does-the-web-work/)
 - [Translating WordPress into Nepali: A Voyage of Localization and Inclusivity](https://wordpress.tv/2024/01/15/translating-wordpress-into-nepali-a-voyage-of-localization-and-inclusivity/)
 - [Technical SEO Guide for WordPress](https://wordpress.tv/2024/01/15/technical-seo-guide-for-wordpress/)
-- [From Steel Beams to Web Themes: A Civil Engineer’s WordPress Adventure](https://wordpress.tv/2024/01/15/from-steel-beams-to-web-themes-a-civil-engineers-wordpress-adventure/)
 <!-- WPTV:END -->
 
 ## Marketing
