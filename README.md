@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-5/)
 - [WP engineer](https://jobs.wordpress.net/job/wp-engineer/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-98/)
 - [I need you to help me launch MVP version of big platform](https://jobs.wordpress.net/job/i-need-you-to-help-me-launch-mvp-version-of-big-platform/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[ASTRA] SEO Lead](https://jobs.wordpress.net/job/astra-seo-lead-2/)
 - [Developers for Driving Safety – World Safety Drive –](https://jobs.wordpress.net/job/developers-for-driving-safety-world-safety-drive/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-7/)
-- [WordPress Web Manager](https://jobs.wordpress.net/job/wordpress-web-manager/)
 <!-- JOBS:END -->
 
 ## Central
