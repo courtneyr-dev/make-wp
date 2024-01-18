@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/18/looking-for-a-gujarati-translation-2/)
 - [PTE Request for Waymark plugin](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-waymark-plugin/)
 - [PTE Request for Hostinger I…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-hostinger-i/)
 - [Agenda: Weekly Polyglots Chat- January 17, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/17/agenda-weekly-polyglots-chat-january-17-2024-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Conditional Fields for Elementor Form – Display Conditions](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-conditional-fields-for-elementor-form-display-conditions/)
 - [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/15/looking-for-a-gujarati-translation/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2024/01/14/cross-locale-project-translation-editor-request-7/)
-- [I suggest changing the language…](https://make.wordpress.org/polyglots/2024/01/14/i-suggest-changing-the-language/)
 <!-- POLYGLOTS:END -->
 
 ## Support
