@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Waymark plugin](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-waymark-plugin/)
+- [PTE Request for Hostinger I…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-hostinger-i/)
 - [Agenda: Weekly Polyglots Chat- January 17, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/17/agenda-weekly-polyglots-chat-january-17-2024-1300-utc/)
 - [PTE request for Sensei LMS…](https://make.wordpress.org/polyglots/2024/01/17/pte-request-for-sensei-lms-6/)
 - [PTE Request for woocommerce-pos](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-woocommerce-pos-2/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/15/looking-for-a-gujarati-translation/)
 - [Cross-Locale Project Translation Editor Request](https://make.wordpress.org/polyglots/2024/01/14/cross-locale-project-translation-editor-request-7/)
 - [I suggest changing the language…](https://make.wordpress.org/polyglots/2024/01/14/i-suggest-changing-the-language/)
-- [Hola @renatuxy @bredebs @ejner69 ,…](https://make.wordpress.org/polyglots/2024/01/14/hola-renatuxy-bredebs-ejner69/)
-- [PTE Request for Powered Cache](https://make.wordpress.org/polyglots/2024/01/13/pte-request-for-powered-cache-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
