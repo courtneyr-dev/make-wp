@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [What is the difference between the block editor and site editor](https://wordpress.tv/2024/01/19/what-is-the-difference-between-the-block-editor-and-site-editor/)
+- [Using page templates](https://wordpress.tv/2024/01/19/using-page-templates-4/)
+- [Getting started with the WordPress Dashboard](https://wordpress.tv/2024/01/19/getting-started-with-the-wordpress-dashboard/)
 - [Choosing and installing a theme](https://wordpress.tv/2024/01/18/choosing-and-installing-a-theme-3/)
 - [Recessions, Inflations, and Business, Oh My!](https://wordpress.tv/2024/01/18/recessions-inflations-and-business-oh-my/)
 - [Website Usability Workshop](https://wordpress.tv/2024/01/18/website-usability-workshop/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Javacia Harris Bowser: Blog Your Book](https://wordpress.tv/2024/01/15/javacia-harris-bowser-blog-your-book/)
 - [Using Gutenberg as a Development Foundation, Not Just a Block Builder](https://wordpress.tv/2024/01/15/using-gutenberg-as-a-development-foundation-not-just-a-block-builder/)
 - [Running Your WordPress Business with ADHD](https://wordpress.tv/2024/01/15/running-your-wordpress-business-with-adhd/)
-- [How Does the Web Work?](https://wordpress.tv/2024/01/15/how-does-the-web-work/)
-- [Translating WordPress into Nepali: A Voyage of Localization and Inclusivity](https://wordpress.tv/2024/01/15/translating-wordpress-into-nepali-a-voyage-of-localization-and-inclusivity/)
-- [Technical SEO Guide for WordPress](https://wordpress.tv/2024/01/15/technical-seo-guide-for-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
