@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ACF RRule Field](https://make.wordpress.org/polyglots/2024/01/19/pte-request-for-acf-rrule-field-3/)
 - [Adding Uyghur Language Locale to WordPress for Android](https://make.wordpress.org/polyglots/2024/01/19/adding-uyghur-language-locale-to-wordpress-for-android/)
 - [PTE Request for Redux Framework…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-redux-framework/)
 - [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/18/looking-for-a-gujarati-translation-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for Sensei LMS…](https://make.wordpress.org/polyglots/2024/01/17/pte-request-for-sensei-lms-6/)
 - [PTE Request for woocommerce-pos](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-woocommerce-pos-2/)
 - [Hello, I am focused on…](https://make.wordpress.org/polyglots/2024/01/16/hello-i-am-focused-on/)
-- [PTE Request for Conditional Fields for Elementor Form – Display Conditions](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-conditional-fields-for-elementor-form-display-conditions/)
 <!-- POLYGLOTS:END -->
 
 ## Support
