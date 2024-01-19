@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-828/)
+- [World Safety Drive -Web  Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-web-developers-for-driving-safety/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-5/)
 - [WP engineer](https://jobs.wordpress.net/job/wp-engineer/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-98/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Changing the Theme of the Blog](https://jobs.wordpress.net/job/changing-the-theme-of-the-blog/)
 - [[ASTRA] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-4/)
 - [[ASTRA] SEO Lead](https://jobs.wordpress.net/job/astra-seo-lead-2/)
-- [Developers for Driving Safety – World Safety Drive –](https://jobs.wordpress.net/job/developers-for-driving-safety-world-safety-drive/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-7/)
 <!-- JOBS:END -->
 
 ## Central
