@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Setting up the WordPress core local development environment](https://wordpress.tv/2024/01/19/setting-up-the-wordpress-core-local-development-environment/)
 - [What is the difference between the block editor and site editor](https://wordpress.tv/2024/01/19/what-is-the-difference-between-the-block-editor-and-site-editor/)
 - [Using page templates](https://wordpress.tv/2024/01/19/using-page-templates-4/)
 - [Getting started with the WordPress Dashboard](https://wordpress.tv/2024/01/19/getting-started-with-the-wordpress-dashboard/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What I Wish I’d Known About Business](https://wordpress.tv/2024/01/15/what-i-wish-id-known-about-business/)
 - [Javacia Harris Bowser: Blog Your Book](https://wordpress.tv/2024/01/15/javacia-harris-bowser-blog-your-book/)
 - [Using Gutenberg as a Development Foundation, Not Just a Block Builder](https://wordpress.tv/2024/01/15/using-gutenberg-as-a-development-foundation-not-just-a-block-builder/)
-- [Running Your WordPress Business with ADHD](https://wordpress.tv/2024/01/15/running-your-wordpress-business-with-adhd/)
 <!-- WPTV:END -->
 
 ## Marketing
