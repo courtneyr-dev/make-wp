@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [AI Alt…](https://make.wordpress.org/polyglots/2024/01/21/pte-request-for-ai-alt/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/01/19/hi-dear-mentors-we-have-128/)
 - [PTE Request for ACF RRule Field](https://make.wordpress.org/polyglots/2024/01/19/pte-request-for-acf-rrule-field-3/)
 - [Adding Uyghur Language Locale to WordPress for Android](https://make.wordpress.org/polyglots/2024/01/19/adding-uyghur-language-locale-to-wordpress-for-android/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Hostinger I…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-hostinger-i/)
 - [Agenda: Weekly Polyglots Chat- January 17, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/17/agenda-weekly-polyglots-chat-january-17-2024-1300-utc/)
 - [PTE request for Sensei LMS…](https://make.wordpress.org/polyglots/2024/01/17/pte-request-for-sensei-lms-6/)
-- [PTE Request for woocommerce-pos](https://make.wordpress.org/polyglots/2024/01/16/pte-request-for-woocommerce-pos-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
