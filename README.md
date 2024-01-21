@@ -544,13 +544,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordPress Photos Festival](https://central.wordcamp.org/wordcamps/wordpress-photos-festival/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2024/)
 - [WordPress for Kids](https://central.wordcamp.org/wordcamps/wordpress-for-kids/)
 - [WordPress School Day](https://central.wordcamp.org/wordcamps/wordpress-school-day/)
 - [Switzerland Community Day](https://central.wordcamp.org/wordcamps/switzerland-community-day/)
 - [WordCamp Vienna, Austria](https://central.wordcamp.org/wordcamps/wordcamp-vienna-austria-4/)
 - [WordCamp Montclair New Jersey](https://central.wordcamp.org/wordcamps/wordcamp-montclair-new-jersey/)
-- [Kolkata CareerCamp](https://central.wordcamp.org/wordcamps/kolkata-careercamp/)
 - [WordPress in Education Technology Showcase](https://central.wordcamp.org/wordcamps/wordpress-in-education-technology-showcase/)
 - [WordCamp Gliwice](https://central.wordcamp.org/wordcamps/wordcamp-gliwice/)
 - [WordPress Web Challenge](https://central.wordcamp.org/wordcamps/wordcamp-jakarta-3/)
