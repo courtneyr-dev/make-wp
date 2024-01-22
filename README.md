@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Controlando Google Tag Manager de principio a fin](https://wordpress.tv/2024/01/22/controlando-google-tag-manager-de-principio-a-fin/)
 - [Repite conmigo: la ficha de producto Sí vende](https://wordpress.tv/2024/01/21/repite-conmigo-la-ficha-de-producto-si-vende/)
 - [Frontend development Tips for WordPress](https://wordpress.tv/2024/01/21/frontend-development-tips-for-wordpress/)
 - [You deserve to be up there](https://wordpress.tv/2024/01/21/david-wampamba-you-deserve-to-be-up-there/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Divine Design: Tips and Tricks for Church Websites](https://wordpress.tv/2024/01/15/divine-design-tips-and-tricks-for-church-websites/)
 - [Creating a Sustainable Template for Agency Growth](https://wordpress.tv/2024/01/15/creating-a-sustainable-template-for-agency-growth/)
 - [How to create a menu with the navigation block](https://wordpress.tv/2024/01/15/how-to-create-a-menu-with-the-navigation-block-3/)
-- [SEO Workshop](https://wordpress.tv/2024/01/15/seo-workshop/)
 <!-- WPTV:END -->
 
 ## Marketing
