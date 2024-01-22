@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Repite conmigo: la ficha de producto Sí vende](https://wordpress.tv/2024/01/21/repite-conmigo-la-ficha-de-producto-si-vende/)
+- [Frontend development Tips for WordPress](https://wordpress.tv/2024/01/21/frontend-development-tips-for-wordpress/)
+- [You deserve to be up there](https://wordpress.tv/2024/01/21/david-wampamba-you-deserve-to-be-up-there/)
 - [Setting up the WordPress core local development environment](https://wordpress.tv/2024/01/19/setting-up-the-wordpress-core-local-development-environment/)
 - [What is the difference between the block editor and site editor](https://wordpress.tv/2024/01/19/what-is-the-difference-between-the-block-editor-and-site-editor/)
 - [Using page templates](https://wordpress.tv/2024/01/19/using-page-templates-4/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a Sustainable Template for Agency Growth](https://wordpress.tv/2024/01/15/creating-a-sustainable-template-for-agency-growth/)
 - [How to create a menu with the navigation block](https://wordpress.tv/2024/01/15/how-to-create-a-menu-with-the-navigation-block-3/)
 - [SEO Workshop](https://wordpress.tv/2024/01/15/seo-workshop/)
-- [What I Wish I’d Known About Business](https://wordpress.tv/2024/01/15/what-i-wish-id-known-about-business/)
-- [Javacia Harris Bowser: Blog Your Book](https://wordpress.tv/2024/01/15/javacia-harris-bowser-blog-your-book/)
-- [Using Gutenberg as a Development Foundation, Not Just a Block Builder](https://wordpress.tv/2024/01/15/using-gutenberg-as-a-development-foundation-not-just-a-block-builder/)
 <!-- WPTV:END -->
 
 ## Marketing
