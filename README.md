@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Création d’une Classe CSS pour le Masquage Accessible](https://wordpress.tv/2024/01/22/creation-dune-classe-css-pour-le-masquage-accessible/)
 - [Presentación de #WCZGZ24](https://wordpress.tv/2024/01/22/presentacion-de-wczgz24/)
 - [Quedan 345 días y aún no sabes hacer una web accesible](https://wordpress.tv/2024/01/22/quedan-345-dias-y-aun-no-sabes-hacer-una-web-accesible/)
 - [El arte de entenderse: un workflow efectivo entre el cliente y la diseñadora](https://wordpress.tv/2024/01/22/el-arte-de-entenderse-un-workflow-efectivo-entre-el-cliente-y-la-disenadora/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Controlando Google Tag Manager de principio a fin](https://wordpress.tv/2024/01/22/controlando-google-tag-manager-de-principio-a-fin/)
 - [Repite conmigo: la ficha de producto Sí vende](https://wordpress.tv/2024/01/21/repite-conmigo-la-ficha-de-producto-si-vende/)
 - [Frontend development Tips for WordPress](https://wordpress.tv/2024/01/21/frontend-development-tips-for-wordpress/)
-- [You deserve to be up there](https://wordpress.tv/2024/01/21/david-wampamba-you-deserve-to-be-up-there/)
 <!-- WPTV:END -->
 
 ## Marketing
