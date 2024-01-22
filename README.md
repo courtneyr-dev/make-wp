@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Discussion: Training’s contribution to the 6.5 release &lpar;and beyond&rpar;](https://make.wordpress.org/training/2024/01/22/discussion-trainings-contribution-to-the-6-5-release-and-beyond/)
 - [Contributor Spotlight: Nadia Maya Ardiani](https://make.wordpress.org/training/2024/01/16/contributor-spotlight-nadia-maya-ardiani/)
 - [Training Team Meeting Recap – January 11, 2024](https://make.wordpress.org/training/2024/01/16/training-team-meeting-recap-january-11-2024/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/training/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Brainstorm &amp; Table Lead – WordCamp Asia 2024 Contributor Day](https://make.wordpress.org/training/2023/12/22/brainstorm-table-lead-wordcamp-asia-2024-contributor-day/)
 - [Training Team 2024 Goals Setting](https://make.wordpress.org/training/2023/12/22/training-team-2024-goals-setting/)
 - [Training Team 2023 Year In Review](https://make.wordpress.org/training/2023/12/19/training-team-2023-year-in-review/)
-- [Training Team Meeting Recap – 12th December 2023](https://make.wordpress.org/training/2023/12/16/training-team-meeting-recap-12th-december-2023/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
