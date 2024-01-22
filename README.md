@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: Proposal: Pilot program to test GatherPress on the WordPress.org network as a Meetup alternative](https://make.wordpress.org/meta/2024/01/22/xpost-proposal-pilot-program-to-test-gatherpress-on-the-wordpress-org-network-as-a-meetup-alternative/)
 - [Developer Resources gets a refresh](https://make.wordpress.org/meta/2023/12/15/developer-resources-gets-a-refresh/)
 - [Meeting Agenda for December 13, 2023](https://make.wordpress.org/meta/2023/12/13/meeting-agenda-for-december-13-2023/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/meta/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Create Tours for Make P2s](https://make.wordpress.org/meta/2023/11/29/create-tours-for-make-p2s/)
 - [Matrix Chat Summaries](https://make.wordpress.org/meta/2023/11/28/matrix-chat-summaries/)
 - [Redesigning Developer Resources and a call for testing](https://make.wordpress.org/meta/2023/11/22/redesigning-developer-resources-and-a-call-for-testing/)
-- [Plugin Directory: Preview button revisited](https://make.wordpress.org/meta/2023/11/22/plugin-directory-preview-button-revisited/)
 <!-- META:END -->
 
 ## Training
