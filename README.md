@@ -544,7 +544,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
-- [WordPress Photos Festival](https://central.wordcamp.org/wordcamps/wordpress-photos-festival/)
+- [WordPress Photo Festival](https://central.wordcamp.org/wordcamps/wordpress-photos-festival/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2024/)
 - [WordPress for Kids](https://central.wordcamp.org/wordcamps/wordpress-for-kids/)
 - [WordPress School Day](https://central.wordcamp.org/wordcamps/wordpress-school-day/)
