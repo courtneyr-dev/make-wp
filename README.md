@@ -455,6 +455,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Core Team Update – January 22, 2023](https://make.wordpress.org/updates/2024/01/22/core-team-update-january-22-2023/)
 - [Documentation Team Update – January 22, 2024](https://make.wordpress.org/updates/2024/01/22/documentation-team-update-january-22-2024/)
 - [Plugin Review Team: 22 January 2024](https://make.wordpress.org/updates/2024/01/22/plugin-review-team-22-january-2024/)
 - [Test Team Update: 22 January 2024](https://make.wordpress.org/updates/2024/01/22/test-team-update-22-january-2024/)
@@ -464,7 +465,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Team Update – January 15, 2023](https://make.wordpress.org/updates/2024/01/15/core-team-update-january-15-2023/)
 - [Documentation Team Update – January 15, 2024](https://make.wordpress.org/updates/2024/01/15/documentation-team-update-january-15-2024/)
 - [Mobile Team Update – January 14th](https://make.wordpress.org/updates/2024/01/14/mobile-team-update-january-14th-2/)
-- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/updates/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 <!-- UPDATES:END -->
 
 ## Project
