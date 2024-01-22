@@ -342,6 +342,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cierre #WCZGZ24](https://wordpress.tv/2024/01/22/cierre-wczgz24/)
+- [API de WordPress explora todo lo que te puede ofrecer, y hasta haz un WordPress desacoplado.](https://wordpress.tv/2024/01/22/api-de-wordpress-explora-todo-lo-que-te-puede-ofrecer-y-hasta-haz-un-wordpress-desacoplado/)
+- [Anímate a animar WordPress &lpar;no-code&rpar;](https://wordpress.tv/2024/01/22/animate-a-animar-wordpress-no-code/)
+- [Como trolear a Google o morir en el intento.](https://wordpress.tv/2024/01/22/como-trolear-a-google-o-morir-en-el-intento/)
+- [Álvaro Torres: Tú también puedes crear un plugin sencillo de test A/B](https://wordpress.tv/2024/01/22/alvaro-torres-tu-tambien-puedes-crear-un-plugin-sencillo-de-test-a-b/)
 - [Auditoría SEO: con WordPress a la cima de Google](https://wordpress.tv/2024/01/22/auditoria-seo-con-wordpress-a-la-cima-de-google/)
 - [Desarrolla con WordPress: CPT, Campos personalizados y REST API](https://wordpress.tv/2024/01/22/desarrolla-con-wordpress-cpt-campos-personalizados-y-rest-api/)
 - [Creatividad funcional con JetEngine](https://wordpress.tv/2024/01/22/creatividad-funcional-con-jetengine/)
@@ -362,11 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Setting up the WordPress core local development environment](https://wordpress.tv/2024/01/19/setting-up-the-wordpress-core-local-development-environment/)
 - [What is the difference between the block editor and site editor](https://wordpress.tv/2024/01/19/what-is-the-difference-between-the-block-editor-and-site-editor/)
 - [Using page templates](https://wordpress.tv/2024/01/19/using-page-templates-4/)
-- [Getting started with the WordPress Dashboard](https://wordpress.tv/2024/01/19/getting-started-with-the-wordpress-dashboard/)
-- [Choosing and installing a theme](https://wordpress.tv/2024/01/18/choosing-and-installing-a-theme-3/)
-- [Recessions, Inflations, and Business, Oh My!](https://wordpress.tv/2024/01/18/recessions-inflations-and-business-oh-my/)
-- [Website Usability Workshop](https://wordpress.tv/2024/01/18/website-usability-workshop/)
-- [Understanding the Influence of the Metaverse and Future Development of WordPress](https://wordpress.tv/2024/01/18/understanding-the-influence-of-the-metaverse-and-future-development-of-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
