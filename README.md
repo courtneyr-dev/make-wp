@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Quedan 345 días y aún no sabes hacer una web accesible](https://wordpress.tv/2024/01/22/quedan-345-dias-y-aun-no-sabes-hacer-una-web-accesible/)
+- [El arte de entenderse: un workflow efectivo entre el cliente y la diseñadora](https://wordpress.tv/2024/01/22/el-arte-de-entenderse-un-workflow-efectivo-entre-el-cliente-y-la-disenadora/)
 - [Cierre #WCZGZ24](https://wordpress.tv/2024/01/22/cierre-wczgz24/)
 - [API de WordPress explora todo lo que te puede ofrecer, y hasta haz un WordPress desacoplado.](https://wordpress.tv/2024/01/22/api-de-wordpress-explora-todo-lo-que-te-puede-ofrecer-y-hasta-haz-un-wordpress-desacoplado/)
 - [Anímate a animar WordPress &lpar;no-code&rpar;](https://wordpress.tv/2024/01/22/animate-a-animar-wordpress-no-code/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Frontend development Tips for WordPress](https://wordpress.tv/2024/01/21/frontend-development-tips-for-wordpress/)
 - [You deserve to be up there](https://wordpress.tv/2024/01/21/david-wampamba-you-deserve-to-be-up-there/)
 - [Setting up the WordPress core local development environment](https://wordpress.tv/2024/01/19/setting-up-the-wordpress-core-local-development-environment/)
-- [What is the difference between the block editor and site editor](https://wordpress.tv/2024/01/19/what-is-the-difference-between-the-block-editor-and-site-editor/)
-- [Using page templates](https://wordpress.tv/2024/01/19/using-page-templates-4/)
 <!-- WPTV:END -->
 
 ## Marketing
