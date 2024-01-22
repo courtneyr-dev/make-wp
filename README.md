@@ -342,13 +342,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Presentación de #WCZGZ24](https://wordpress.tv/2024/01/22/presentacion-de-wczgz24/)
 - [Quedan 345 días y aún no sabes hacer una web accesible](https://wordpress.tv/2024/01/22/quedan-345-dias-y-aun-no-sabes-hacer-una-web-accesible/)
 - [El arte de entenderse: un workflow efectivo entre el cliente y la diseñadora](https://wordpress.tv/2024/01/22/el-arte-de-entenderse-un-workflow-efectivo-entre-el-cliente-y-la-disenadora/)
 - [Cierre #WCZGZ24](https://wordpress.tv/2024/01/22/cierre-wczgz24/)
 - [API de WordPress explora todo lo que te puede ofrecer, y hasta haz un WordPress desacoplado.](https://wordpress.tv/2024/01/22/api-de-wordpress-explora-todo-lo-que-te-puede-ofrecer-y-hasta-haz-un-wordpress-desacoplado/)
 - [Anímate a animar WordPress &lpar;no-code&rpar;](https://wordpress.tv/2024/01/22/animate-a-animar-wordpress-no-code/)
 - [Como trolear a Google o morir en el intento.](https://wordpress.tv/2024/01/22/como-trolear-a-google-o-morir-en-el-intento/)
-- [Álvaro Torres: Tú también puedes crear un plugin sencillo de test A/B](https://wordpress.tv/2024/01/22/alvaro-torres-tu-tambien-puedes-crear-un-plugin-sencillo-de-test-a-b/)
+- [Tú también puedes crear un plugin sencillo de test A/B](https://wordpress.tv/2024/01/22/alvaro-torres-tu-tambien-puedes-crear-un-plugin-sencillo-de-test-a-b/)
 - [Auditoría SEO: con WordPress a la cima de Google](https://wordpress.tv/2024/01/22/auditoria-seo-con-wordpress-a-la-cima-de-google/)
 - [Desarrolla con WordPress: CPT, Campos personalizados y REST API](https://wordpress.tv/2024/01/22/desarrolla-con-wordpress-cpt-campos-personalizados-y-rest-api/)
 - [Creatividad funcional con JetEngine](https://wordpress.tv/2024/01/22/creatividad-funcional-con-jetengine/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Repite conmigo: la ficha de producto Sí vende](https://wordpress.tv/2024/01/21/repite-conmigo-la-ficha-de-producto-si-vende/)
 - [Frontend development Tips for WordPress](https://wordpress.tv/2024/01/21/frontend-development-tips-for-wordpress/)
 - [You deserve to be up there](https://wordpress.tv/2024/01/21/david-wampamba-you-deserve-to-be-up-there/)
-- [Setting up the WordPress core local development environment](https://wordpress.tv/2024/01/19/setting-up-the-wordpress-core-local-development-environment/)
 <!-- WPTV:END -->
 
 ## Marketing
