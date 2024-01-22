@@ -342,6 +342,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Auditoría SEO: con WordPress a la cima de Google](https://wordpress.tv/2024/01/22/auditoria-seo-con-wordpress-a-la-cima-de-google/)
+- [Desarrolla con WordPress: CPT, Campos personalizados y REST API](https://wordpress.tv/2024/01/22/desarrolla-con-wordpress-cpt-campos-personalizados-y-rest-api/)
+- [Creatividad funcional con JetEngine](https://wordpress.tv/2024/01/22/creatividad-funcional-con-jetengine/)
+- [«Más que una web», en busca de la recurrencia…](https://wordpress.tv/2024/01/22/mas-que-una-web-en-busca-de-la-recurrencia/)
+- [Pintando WordPress de Morado](https://wordpress.tv/2024/01/22/pintando-wordpress-de-morado/)
+- [Caso práctico proyecto WordPress, con peques en Zaragoza. 14 años de comunidad](https://wordpress.tv/2024/01/22/monica-anchelergues-caso-practico-proyecto-wordpress-con-peques-en-zaragoza-14-anos-de-comunidad/)
+- [Las landing pages en las estrategias de marketing digital](https://wordpress.tv/2024/01/22/las-landing-pages-en-las-estrategias-de-marketing-digital/)
+- [Cómo gestionar un proyecto y no morir en el intento](https://wordpress.tv/2024/01/22/como-gestionar-un-proyecto-y-no-morir-en-el-intento/)
+- [Optimización Integral de WooCommerce: Estrategias para Marketing y Seguridad en Eventos Especiales](https://wordpress.tv/2024/01/22/optimizacion-integral-de-woocommerce-estrategias-para-marketing-y-seguridad-en-eventos-especiales/)
+- [Growth+UX: Cruzando el umbral de Doherty en WordPress](https://wordpress.tv/2024/01/22/growthux-cruzando-el-umbral-de-doherty-en-wordpress/)
 - [¡Que el ritmo no pare!](https://wordpress.tv/2024/01/22/que-el-ritmo-no-pare/)
 - [Gerión, Hércules y Crunia: Usando un Faro para mejorar tu SEO](https://wordpress.tv/2024/01/22/gerion-hercules-y-crunia-usando-un-faro-para-mejorar-tu-seo/)
 - [IA y WordPress: dónde y cómo](https://wordpress.tv/2024/01/22/ia-y-wordpress-donde-y-como/)
@@ -357,16 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recessions, Inflations, and Business, Oh My!](https://wordpress.tv/2024/01/18/recessions-inflations-and-business-oh-my/)
 - [Website Usability Workshop](https://wordpress.tv/2024/01/18/website-usability-workshop/)
 - [Understanding the Influence of the Metaverse and Future Development of WordPress](https://wordpress.tv/2024/01/18/understanding-the-influence-of-the-metaverse-and-future-development-of-wordpress/)
-- [Strategies for Building Diverse, Equitable, &amp; Inclusive Workspaces](https://wordpress.tv/2024/01/18/strategies-for-building-diverse-equitable-inclusive-workspaces/)
-- [Interactive Debugging in PHP](https://wordpress.tv/2024/01/18/interactive-debugging-in-php/)
-- [How to Save Time &lpar;and Sanity&rpar; By Repurposing Your Content](https://wordpress.tv/2024/01/18/how-to-save-time-and-sanity-by-repurposing-your-content/)
-- [Synchronisation CSS en Full Site Editing &lpar;FSE&rpar;](https://wordpress.tv/2024/01/18/synchronisation-css-en-full-site-editing-fse/)
-- [Patrones de bloques, esos grandes desconocidos](https://wordpress.tv/2024/01/17/patrones-de-bloques-esos-grandes-desconocidos/)
-- [Developer Hours: Build your first WordPress block](https://wordpress.tv/2024/01/16/developer-hours-build-your-first-wordpress-block/)
-- [Yes! YOU Can Podcast!](https://wordpress.tv/2024/01/15/yes-you-can-podcast/)
-- [Accessibility Workshop](https://wordpress.tv/2024/01/15/accessibility-workshop/)
-- [Secrets to Profitably Pricing Recurring Revenue](https://wordpress.tv/2024/01/15/secrets-to-profitably-pricing-recurring-revenue/)
-- [Regex: Demystifying the Hieroglyphics](https://wordpress.tv/2024/01/15/regex-demystifying-the-hieroglyphics/)
 <!-- WPTV:END -->
 
 ## Marketing
