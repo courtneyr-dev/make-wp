@@ -228,6 +228,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [GitHub પર ટ્રાયજ કેવી રીતે કરવું](https://learn.wordpress.org/tutorial/gu-how-to-do-triage-on-github/)
+- [એડિટરમાં કસ્ટમ CSS](https://learn.wordpress.org/tutorial/gu-custom-css-in-the-editor/)
 - [બ્લોક પેટર્નની નોંધણી](https://learn.wordpress.org/tutorial/gu-registering-block-patterns/)
 - [টুয়েন্টি টুয়েন্টিফোর থিম পরিচিতি](https://learn.wordpress.org/tutorial/bn-introducing-the-twenty-twenty-four-theme/)
 - [আমার কোন ধরণের ওয়ার্ডপ্রেস থিম আছে: ক্লাসিক, ব্লক, না অন্য কিছু?](https://learn.wordpress.org/tutorial/bn-what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
@@ -251,8 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Applying duotone filters to change color effects](https://learn.wordpress.org/tutorial/applying-duotone-filters-to-change-color-effects/)
 - [Custom Database Tables](https://learn.wordpress.org/tutorial/custom-database-tables/)
 - [আপনার নিজস্ব সিঙ্কড এবং নন-সিঙ্কড কাস্টম প্যাটার্ন তৈরি করুন](https://learn.wordpress.org/tutorial/bn-creating-your-own-custom-synced-or-non-synced-patterns/)
-- [ওয়ার্ডপ্রেস ড্যাশবোর্ড সম্পর্কে জানুন](https://learn.wordpress.org/tutorial/bn-getting-to-know-the-wordpress-dashboard/)
-- [Choosing and installing a theme](https://learn.wordpress.org/tutorial/choosing-and-installing-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
