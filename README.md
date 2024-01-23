@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordCamp Asia 2024 Contributor Day: Help Needed!](https://make.wordpress.org/community/2024/01/23/wordcamp-asia-2024-contributor-day-help-needed/)
 - [Proposal: Pilot program to test GatherPress on the WordPress.org network as a Meetup alternative](https://make.wordpress.org/community/2024/01/22/proposal-pilot-program-to-test-gatherpress-on-the-wordpress-org-network-as-a-meetup-alternative/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on January 18, 2024](https://make.wordpress.org/community/2024/01/22/recap-of-the-contributor-working-groups-mentorship-chat-on-january-18-2024/)
 - [Community Team January Meeting Recap](https://make.wordpress.org/community/2024/01/18/community-team-january-meeting-recap/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/community/2024/01/12/call-for-mentees-mentors-cohort-2/)
 - [2024 Global Sponsors: Announcement](https://make.wordpress.org/community/2024/01/09/2024-global-sponsors-announcement/)
 - [Reminder: 2023 Annual Meetup Survey](https://make.wordpress.org/community/2024/01/08/reminder-2023-annual-meetup-survey/)
-- [Community Team Meeting Agenda for 4 January 2024](https://make.wordpress.org/community/2024/01/04/community-team-meeting-agenda-for-4-january-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
