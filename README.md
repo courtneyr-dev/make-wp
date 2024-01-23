@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Core Editor Improvement: Robust Revisions in the Site Editor](https://make.wordpress.org/core/2024/01/22/core-editor-improvement-robust-revisions-in-the-site-editor/)
+- [A Week in Core – January 22, 2024](https://make.wordpress.org/core/2024/01/22/a-week-in-core-january-22-2024/)
 - [Dev Chat summary, January 17, 2024](https://make.wordpress.org/core/2024/01/22/dev-chat-summary-january-17-2024/)
 - [Editor: Important milestones for WordPress 6.5](https://make.wordpress.org/core/2024/01/19/editor-important-milestones-for-wordpress-6-5/)
 - [WordPress 6.5 release squad formation](https://make.wordpress.org/core/2024/01/18/wordpress-6-5-release-squad-formation/)
@@ -11,8 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout Let’s explore WordPress 6.5 Recap](https://make.wordpress.org/core/2024/01/17/hallway-hangout-lets-explore-wordpress-6-5-recap/)
 - [Dev Chat Agenda, January 16, 2024](https://make.wordpress.org/core/2024/01/16/dev-chat-agenda-january-16-2024/)
 - [Twenty Twenty-One, Twenty Twenty, and Twenty Seventeen updates now available](https://make.wordpress.org/core/2024/01/16/twenty-twenty-one-twenty-twenty-and-twenty-seventeen-updates-now-available/)
-- [Dev Chat Summary, January 10, 2024](https://make.wordpress.org/core/2024/01/16/dev-chat-summary-january-10-2024/)
-- [6.4.3: An upcoming maintenance release](https://make.wordpress.org/core/2024/01/16/6-4-3-an-upcoming-maintenance-release/)
 <!-- CORE:END -->
 
 ## Design
