@@ -519,8 +519,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-98/)
 - [I need you to help me launch MVP version of big platform](https://jobs.wordpress.net/job/i-need-you-to-help-me-launch-mvp-version-of-big-platform/)
 - [WordPress Web Designer Needed](https://jobs.wordpress.net/job/wordpress-web-designer-needed-2/)
-- [Changing the Theme of the Blog](https://jobs.wordpress.net/job/changing-the-theme-of-the-blog/)
 - [[ASTRA] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-4/)
+- [[ASTRA] SEO Lead](https://jobs.wordpress.net/job/astra-seo-lead-2/)
 <!-- JOBS:END -->
 
 ## Central
