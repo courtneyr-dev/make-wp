@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP / Woocommerce subscription website update / refresh](https://jobs.wordpress.net/job/wp-woocommerce-subscription-website-update-refresh/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-829/)
+- [Developer for various issues](https://jobs.wordpress.net/job/developer-for-various-issues/)
 - [Senior Full Stack WordPress Developer &lpar;Remote, Part-Time/Full-Time&rpar;](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-remote-part-time-full-time/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-828/)
 - [World Safety Drive -Web  Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-web-developers-for-driving-safety/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP engineer](https://jobs.wordpress.net/job/wp-engineer/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-98/)
 - [I need you to help me launch MVP version of big platform](https://jobs.wordpress.net/job/i-need-you-to-help-me-launch-mvp-version-of-big-platform/)
-- [WordPress Web Designer Needed](https://jobs.wordpress.net/job/wordpress-web-designer-needed-2/)
-- [[ASTRA] WordPress Content Writer](https://jobs.wordpress.net/job/astra-wordpress-content-writer-4/)
-- [[ASTRA] SEO Lead](https://jobs.wordpress.net/job/astra-seo-lead-2/)
 <!-- JOBS:END -->
 
 ## Central
