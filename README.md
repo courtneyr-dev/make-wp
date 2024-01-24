@@ -228,9 +228,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [છબીઓ ઉમેરવા અને દૂર કરવી](https://learn.wordpress.org/tutorial/gu-adding-amp-removing-images/)
 - [ગુટેનબર્ગ માટે GitHub નો ઉપયોગ કેવી રીતે કરવો](https://learn.wordpress.org/tutorial/gu-how-to-use-github-for-gutenberg/)
 - [GitHub પર ટ્રાયજ કેવી રીતે કરવું](https://learn.wordpress.org/tutorial/gu-how-to-do-triage-on-github/)
 - [એડિટરમાં કસ્ટમ CSS](https://learn.wordpress.org/tutorial/gu-custom-css-in-the-editor/)
+- [થંબનેલ્સ ફરીથી બનાવો](https://learn.wordpress.org/tutorial/gu-regenerate-thumbnails/)
 - [બ્લોક પેટર્નની નોંધણી](https://learn.wordpress.org/tutorial/gu-registering-block-patterns/)
 - [টুয়েন্টি টুয়েন্টিফোর থিম পরিচিতি](https://learn.wordpress.org/tutorial/bn-introducing-the-twenty-twenty-four-theme/)
 - [আমার কোন ধরণের ওয়ার্ডপ্রেস থিম আছে: ক্লাসিক, ব্লক, না অন্য কিছু?](https://learn.wordpress.org/tutorial/bn-what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
@@ -251,8 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Working faster with the command palette](https://learn.wordpress.org/tutorial/working-faster-with-the-command-palette/)
 - [Common APIs – Internationalization](https://learn.wordpress.org/tutorial/common-apis-internationalization/)
 - [વેબસાઇટ સુરક્ષા સુધારવા માટે 7 ટિપ્સ](https://learn.wordpress.org/tutorial/gu-7-tips-to-improve-website-security/)
-- [Applying duotone filters to change color effects](https://learn.wordpress.org/tutorial/applying-duotone-filters-to-change-color-effects/)
-- [Custom Database Tables](https://learn.wordpress.org/tutorial/custom-database-tables/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
