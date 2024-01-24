@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “Payment QR WooCommerce”](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-payment-qr-woocommerce/)
+- [PTE Request for Pay with…](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-pay-with/)
 - [PTE Request for my plugin,…](https://make.wordpress.org/polyglots/2024/01/22/pte-request-for-my-plugin-7/)
 - [PTE Request for Delicious Recipes Plugin](https://make.wordpress.org/polyglots/2024/01/22/pte-request-for-delicious-recipes-plugin-4/)
 - [PTE Request for [AI Alt…](https://make.wordpress.org/polyglots/2024/01/21/pte-request-for-ai-alt/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adding Uyghur Language Locale to WordPress for Android](https://make.wordpress.org/polyglots/2024/01/19/adding-uyghur-language-locale-to-wordpress-for-android/)
 - [PTE Request for Redux Framework…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-redux-framework/)
 - [Looking for a Gujarati translation…](https://make.wordpress.org/polyglots/2024/01/18/looking-for-a-gujarati-translation-2/)
-- [PTE Request for Waymark plugin](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-waymark-plugin/)
-- [PTE Request for Hostinger I…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-hostinger-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
