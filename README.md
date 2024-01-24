@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [The challenge of communicating the translation process](https://make.wordpress.org/polyglots/2024/01/24/the-challenge-of-communicating-the-translation-process/)
+- [PTE Request for [WP Prayer] and [WP Prayer II]](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-wp-prayer-6/)
 - [Agenda: Weekly Polyglots Chat- January 24, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/24/agenda-weekly-polyglots-chat-january-24-2024-700-utc/)
 - [PTE Request for “Payment QR WooCommerce”](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-payment-qr-woocommerce/)
 - [PTE Request for Pay with…](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-pay-with/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [AI Alt…](https://make.wordpress.org/polyglots/2024/01/21/pte-request-for-ai-alt/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/01/19/hi-dear-mentors-we-have-128/)
 - [PTE Request for ACF RRule Field](https://make.wordpress.org/polyglots/2024/01/19/pte-request-for-acf-rrule-field-3/)
-- [Adding Uyghur Language Locale to WordPress for Android](https://make.wordpress.org/polyglots/2024/01/19/adding-uyghur-language-locale-to-wordpress-for-android/)
-- [PTE Request for Redux Framework…](https://make.wordpress.org/polyglots/2024/01/18/pte-request-for-redux-framework/)
 <!-- POLYGLOTS:END -->
 
 ## Support
