@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes Team Meeting Notes – January 23, 2024](https://make.wordpress.org/themes/2024/01/24/themes-team-meeting-notes-january-23-2024/)
 - [Themes team meeting agenda for January 23, 2024](https://make.wordpress.org/themes/2024/01/23/themes-team-meeting-agenda-for-january-23-2024/)
 - [X-post: Twenty Twenty-One, Twenty Twenty, and Twenty Seventeen updates now available](https://make.wordpress.org/themes/2024/01/16/xpost-twenty-twenty-one-twenty-twenty-and-twenty-seventeen-updates-now-available/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/themes/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Year in Themes Team – 2023](https://make.wordpress.org/themes/2023/12/29/a-year-in-themes-team-2023/)
 - [X-post: Themes team update December 19, 2023](https://make.wordpress.org/themes/2023/12/19/xpost-themes-team-update-december-19-2023/)
 - [Introducing new Themes Team representatives for the 2024 Edition](https://make.wordpress.org/themes/2023/12/18/introducing-new-themes-team-representatives-for-the-2024-edition/)
-- [X-post: Developer Resources gets a refresh](https://make.wordpress.org/themes/2023/12/15/xpost-developer-resources-gets-a-refresh/)
 <!-- THEMES:END -->
 
 ## Plugins
