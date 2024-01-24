@@ -469,6 +469,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Proposal: Updates to Five for the Future from the Community Summit](https://make.wordpress.org/project/2024/01/24/proposal-updates-to-five-for-the-future-from-the-community-summit/)
 - [Big Picture Goals 2024](https://make.wordpress.org/project/2024/01/19/big-picture-goals-2024/)
 - [Incident Reports 2023 Recap](https://make.wordpress.org/project/2024/01/15/incident-reports-2023-recap/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/project/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
@@ -478,7 +479,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Embracing Matrix for Enhanced Communication](https://make.wordpress.org/project/2023/11/30/embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/project/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Request for Feedback: Make/Team Dashboards](https://make.wordpress.org/project/2023/09/25/request-for-feedback-make-team-dashboards/)
-- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/project/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 <!-- PROJECT:END -->
 
 ## Systems
