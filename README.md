@@ -342,6 +342,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [SEO for WooCommerce in 2023](https://wordpress.tv/2024/01/24/seo-for-woocommerce-in-2023/)
+- [How to Do Lead Tracking in WordPress](https://wordpress.tv/2024/01/24/how-to-do-lead-tracking-in-wordpress/)
+- [Making Your Contact Forms Land in an Inbox](https://wordpress.tv/2024/01/24/making-your-contact-forms-land-in-an-inbox/)
+- [Carry Your Business Into the Metaverse](https://wordpress.tv/2024/01/24/carry-your-business-into-the-metaverse/)
+- [From Hobby to Business – Scaling and Growing your Website](https://wordpress.tv/2024/01/24/from-hobby-to-business-scaling-and-growing-your-website/)
+- [Why Your Customer Experience Probably Sucks – And How to Fix It](https://wordpress.tv/2024/01/24/why-your-customer-experience-probably-sucks-and-how-to-fix-it/)
+- [Google Local Workshop](https://wordpress.tv/2024/01/24/google-local-workshop/)
+- [WordPress and Consent Management Platforms](https://wordpress.tv/2024/01/24/wordpress-and-consent-management-platforms/)
+- [The Accessibility-First WordPress Development Methodology](https://wordpress.tv/2024/01/24/the-accessibility-first-wordpress-development-methodology/)
+- [Securing WordPress &lpar;Plugins are the Last Tool to Use&rpar;](https://wordpress.tv/2024/01/24/securing-wordpress-plugins-are-the-last-tool-to-use/)
+- [Ways To Increase Your WordPress Blog Traffic](https://wordpress.tv/2024/01/24/ways-to-increase-your-wordpress-blog-traffic/)
+- [It Starts With WordPress… Expanding Your Global reach](https://wordpress.tv/2024/01/24/it-starts-with-wordpress-expanding-your-global-reach/)
+- [How to Get Paid for Every Little Thing You Do](https://wordpress.tv/2024/01/24/how-to-get-paid-for-every-little-thing-you-do/)
+- [Brief Introduction to Agile Development](https://wordpress.tv/2024/01/24/brief-introduction-to-agile-development/)
+- [Marketing Minimalism – What They Don’t Want You to Know](https://wordpress.tv/2024/01/24/marketing-minimalism-what-they-dont-want-you-to-know/)
 - [Création d’une Classe CSS pour le Masquage Accessible](https://wordpress.tv/2024/01/22/creation-dune-classe-css-pour-le-masquage-accessible/)
 - [Presentación de #WCZGZ24](https://wordpress.tv/2024/01/22/presentacion-de-wczgz24/)
 - [Quedan 345 días y aún no sabes hacer una web accesible](https://wordpress.tv/2024/01/22/quedan-345-dias-y-aun-no-sabes-hacer-una-web-accesible/)
@@ -352,21 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Como trolear a Google o morir en el intento.](https://wordpress.tv/2024/01/22/como-trolear-a-google-o-morir-en-el-intento/)
 - [Tú también puedes crear un plugin sencillo de test A/B](https://wordpress.tv/2024/01/22/alvaro-torres-tu-tambien-puedes-crear-un-plugin-sencillo-de-test-a-b/)
 - [Auditoría SEO: con WordPress a la cima de Google](https://wordpress.tv/2024/01/22/auditoria-seo-con-wordpress-a-la-cima-de-google/)
-- [Desarrolla con WordPress: CPT, Campos personalizados y REST API](https://wordpress.tv/2024/01/22/desarrolla-con-wordpress-cpt-campos-personalizados-y-rest-api/)
-- [Creatividad funcional con JetEngine](https://wordpress.tv/2024/01/22/creatividad-funcional-con-jetengine/)
-- [«Más que una web», en busca de la recurrencia…](https://wordpress.tv/2024/01/22/mas-que-una-web-en-busca-de-la-recurrencia/)
-- [Pintando WordPress de Morado](https://wordpress.tv/2024/01/22/pintando-wordpress-de-morado/)
-- [Caso práctico proyecto WordPress, con peques en Zaragoza. 14 años de comunidad](https://wordpress.tv/2024/01/22/monica-anchelergues-caso-practico-proyecto-wordpress-con-peques-en-zaragoza-14-anos-de-comunidad/)
-- [Las landing pages en las estrategias de marketing digital](https://wordpress.tv/2024/01/22/las-landing-pages-en-las-estrategias-de-marketing-digital/)
-- [Cómo gestionar un proyecto y no morir en el intento](https://wordpress.tv/2024/01/22/como-gestionar-un-proyecto-y-no-morir-en-el-intento/)
-- [Optimización Integral de WooCommerce: Estrategias para Marketing y Seguridad en Eventos Especiales](https://wordpress.tv/2024/01/22/optimizacion-integral-de-woocommerce-estrategias-para-marketing-y-seguridad-en-eventos-especiales/)
-- [Growth+UX: Cruzando el umbral de Doherty en WordPress](https://wordpress.tv/2024/01/22/growthux-cruzando-el-umbral-de-doherty-en-wordpress/)
-- [¡Que el ritmo no pare!](https://wordpress.tv/2024/01/22/que-el-ritmo-no-pare/)
-- [Gerión, Hércules y Crunia: Usando un Faro para mejorar tu SEO](https://wordpress.tv/2024/01/22/gerion-hercules-y-crunia-usando-un-faro-para-mejorar-tu-seo/)
-- [IA y WordPress: dónde y cómo](https://wordpress.tv/2024/01/22/ia-y-wordpress-donde-y-como/)
-- [Controlando Google Tag Manager de principio a fin](https://wordpress.tv/2024/01/22/controlando-google-tag-manager-de-principio-a-fin/)
-- [Repite conmigo: la ficha de producto Sí vende](https://wordpress.tv/2024/01/21/repite-conmigo-la-ficha-de-producto-si-vende/)
-- [Frontend development Tips for WordPress](https://wordpress.tv/2024/01/21/frontend-development-tips-for-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
