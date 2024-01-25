@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat Summary, January 24, 2024](https://make.wordpress.org/core/2024/01/25/dev-chat-summary-january-24-2024/)
 - [WordPress 6.4.3 RC1 is now available](https://make.wordpress.org/core/2024/01/25/wordpress-6-4-3-rc1-is-now-available/)
 - [Dev Chat agenda, January 24, 2024](https://make.wordpress.org/core/2024/01/24/dev-chat-agenda-january-24-2024/)
 - [Performance Chat Summary: 23 January 2024](https://make.wordpress.org/core/2024/01/23/performance-chat-summary-23-january-2024/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat summary, January 17, 2024](https://make.wordpress.org/core/2024/01/22/dev-chat-summary-january-17-2024/)
 - [Editor: Important milestones for WordPress 6.5](https://make.wordpress.org/core/2024/01/19/editor-important-milestones-for-wordpress-6-5/)
 - [WordPress 6.5 release squad formation](https://make.wordpress.org/core/2024/01/18/wordpress-6-5-release-squad-formation/)
-- [Phase 3 Media Meeting: February 7, 2024](https://make.wordpress.org/core/2024/01/17/media-phase-3-meeting-feb-7/)
 <!-- CORE:END -->
 
 ## Design
