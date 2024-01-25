@@ -342,6 +342,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Roles In WordPress For Both Full-time positions and Freelancing](https://wordpress.tv/2024/01/25/roles-in-wordpress-for-both-full-time-positions-and-freelancing/)
+- [Building a Global Career Through WordPress](https://wordpress.tv/2024/01/25/building-a-global-career-through-wordpress/)
+- [Design for conversions: How to be more profitable by putting people first](https://wordpress.tv/2024/01/25/design-for-conversions-how-to-be-more-profitable-by-putting-people-first-2/)
+- [Creative Design and Branding](https://wordpress.tv/2024/01/25/creative-design-and-branding/)
+- [My E-commerce Story](https://wordpress.tv/2024/01/25/my-e-commerce-story/)
+- [The Power of Story-Telling in Communication](https://wordpress.tv/2024/01/25/the-power-of-story-telling-in-communication/)
 - [Seguridad en WordPress &lpar;cómo y porqué&rpar;](https://wordpress.tv/2024/01/25/seguridad-en-wordpress-como-y-porque/)
 - [SEO for WooCommerce in 2023](https://wordpress.tv/2024/01/24/seo-for-woocommerce-in-2023/)
 - [How to Do Lead Tracking in WordPress](https://wordpress.tv/2024/01/24/how-to-do-lead-tracking-in-wordpress/)
@@ -361,12 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Création d’une Classe CSS pour le Masquage Accessible](https://wordpress.tv/2024/01/22/creation-dune-classe-css-pour-le-masquage-accessible/)
 - [Presentación de #WCZGZ24](https://wordpress.tv/2024/01/22/presentacion-de-wczgz24/)
 - [Quedan 345 días y aún no sabes hacer una web accesible](https://wordpress.tv/2024/01/22/quedan-345-dias-y-aun-no-sabes-hacer-una-web-accesible/)
-- [El arte de entenderse: un workflow efectivo entre el cliente y la diseñadora](https://wordpress.tv/2024/01/22/el-arte-de-entenderse-un-workflow-efectivo-entre-el-cliente-y-la-disenadora/)
-- [Cierre #WCZGZ24](https://wordpress.tv/2024/01/22/cierre-wczgz24/)
-- [API de WordPress explora todo lo que te puede ofrecer, y hasta haz un WordPress desacoplado.](https://wordpress.tv/2024/01/22/api-de-wordpress-explora-todo-lo-que-te-puede-ofrecer-y-hasta-haz-un-wordpress-desacoplado/)
-- [Anímate a animar WordPress &lpar;no-code&rpar;](https://wordpress.tv/2024/01/22/animate-a-animar-wordpress-no-code/)
-- [Como trolear a Google o morir en el intento.](https://wordpress.tv/2024/01/22/como-trolear-a-google-o-morir-en-el-intento/)
-- [Tú también puedes crear un plugin sencillo de test A/B](https://wordpress.tv/2024/01/22/alvaro-torres-tu-tambien-puedes-crear-un-plugin-sencillo-de-test-a-b/)
 <!-- WPTV:END -->
 
 ## Marketing
