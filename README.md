@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [A simple website for a small business](https://jobs.wordpress.net/job/a-simple-website-for-a-small-business/)
 - [JavaScript Developer – Slider Revolution at ThemePunch](https://jobs.wordpress.net/job/javascript-developer-slider-revolution-at-themepunch/)
 - [Looking for Website and Theme Design](https://jobs.wordpress.net/job/looking-for-website-and-theme-design/)
 - [Part-Time Technical WordPress Developer](https://jobs.wordpress.net/job/part-time-technical-wordpress-developer/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-828/)
 - [World Safety Drive -Web  Developers for Driving Safety](https://jobs.wordpress.net/job/world-safety-drive-web-developers-for-driving-safety/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-5/)
-- [WP engineer](https://jobs.wordpress.net/job/wp-engineer/)
 <!-- JOBS:END -->
 
 ## Central
