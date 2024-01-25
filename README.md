@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [ગુટેનબર્ગ બ્લોક ડેવલપમેન્ટનો પરિચય](https://learn.wordpress.org/tutorial/gu-intro-to-gutenberg-block-development/)
 - [છબીઓ ઉમેરવા અને દૂર કરવી](https://learn.wordpress.org/tutorial/gu-adding-amp-removing-images/)
 - [ગુટેનબર્ગ માટે GitHub નો ઉપયોગ કેવી રીતે કરવો](https://learn.wordpress.org/tutorial/gu-how-to-use-github-for-gutenberg/)
 - [GitHub પર ટ્રાયજ કેવી રીતે કરવું](https://learn.wordpress.org/tutorial/gu-how-to-do-triage-on-github/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing the twenty twenty-four theme](https://learn.wordpress.org/tutorial/introducing-the-twenty-twenty-four-theme/)
 - [Working faster with the command palette](https://learn.wordpress.org/tutorial/working-faster-with-the-command-palette/)
 - [Common APIs – Internationalization](https://learn.wordpress.org/tutorial/common-apis-internationalization/)
-- [વેબસાઇટ સુરક્ષા સુધારવા માટે 7 ટિપ્સ](https://learn.wordpress.org/tutorial/gu-7-tips-to-improve-website-security/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
