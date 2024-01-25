@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Seguridad en WordPress &lpar;cómo y porqué&rpar;](https://wordpress.tv/2024/01/25/seguridad-en-wordpress-como-y-porque/)
 - [SEO for WooCommerce in 2023](https://wordpress.tv/2024/01/24/seo-for-woocommerce-in-2023/)
 - [How to Do Lead Tracking in WordPress](https://wordpress.tv/2024/01/24/how-to-do-lead-tracking-in-wordpress/)
 - [Making Your Contact Forms Land in an Inbox](https://wordpress.tv/2024/01/24/making-your-contact-forms-land-in-an-inbox/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Anímate a animar WordPress &lpar;no-code&rpar;](https://wordpress.tv/2024/01/22/animate-a-animar-wordpress-no-code/)
 - [Como trolear a Google o morir en el intento.](https://wordpress.tv/2024/01/22/como-trolear-a-google-o-morir-en-el-intento/)
 - [Tú también puedes crear un plugin sencillo de test A/B](https://wordpress.tv/2024/01/22/alvaro-torres-tu-tambien-puedes-crear-un-plugin-sencillo-de-test-a-b/)
-- [Auditoría SEO: con WordPress a la cima de Google](https://wordpress.tv/2024/01/22/auditoria-seo-con-wordpress-a-la-cima-de-google/)
 <!-- WPTV:END -->
 
 ## Marketing
