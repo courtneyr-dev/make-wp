@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: January 2024](https://make.wordpress.org/community/2024/01/25/meetup-organizer-newsletter-january-2024/)
 - [Events of the Month – November &amp; December](https://make.wordpress.org/community/2024/01/23/events-of-the-month-november-december/)
 - [WordCamp Asia 2024 Contributor Day: Help Needed!](https://make.wordpress.org/community/2024/01/23/wordcamp-asia-2024-contributor-day-help-needed/)
 - [Proposal: Pilot program to test GatherPress on the WordPress.org network as a Meetup alternative](https://make.wordpress.org/community/2024/01/22/proposal-pilot-program-to-test-gatherpress-on-the-wordpress-org-network-as-a-meetup-alternative/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Share your feedback about the new WordPress Events Page!](https://make.wordpress.org/community/2024/01/16/share-your-feedback-about-the-new-wordpress-events-page/)
 - [Thank you and bye &lpar;for now&rpar;, Jill!](https://make.wordpress.org/community/2024/01/15/thank-you-and-bye-for-now-jill/)
 - [Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/community/2024/01/12/call-for-mentees-mentors-cohort-2/)
-- [2024 Global Sponsors: Announcement](https://make.wordpress.org/community/2024/01/09/2024-global-sponsors-announcement/)
 <!-- COMMUNITY:END -->
 
 ## Meta
