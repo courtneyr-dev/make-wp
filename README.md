@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [HOB Advanced cookies editor request](https://make.wordpress.org/polyglots/2024/01/26/hob-advanced-cookies-editor-request/)
 - [PTE Request for XML Cache](https://make.wordpress.org/polyglots/2024/01/26/pte-request-for-xml-cache/)
 - [The challenge of communicating the translation process](https://make.wordpress.org/polyglots/2024/01/24/the-challenge-of-communicating-the-translation-process/)
 - [PTE Request for [WP Prayer] and [WP Prayer II]](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-wp-prayer-6/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for my plugin,…](https://make.wordpress.org/polyglots/2024/01/22/pte-request-for-my-plugin-7/)
 - [PTE Request for Delicious Recipes Plugin](https://make.wordpress.org/polyglots/2024/01/22/pte-request-for-delicious-recipes-plugin-4/)
 - [PTE Request for [AI Alt…](https://make.wordpress.org/polyglots/2024/01/21/pte-request-for-ai-alt/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/01/19/hi-dear-mentors-we-have-128/)
 <!-- POLYGLOTS:END -->
 
 ## Support
