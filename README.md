@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Internationalization](https://developer.wordpress.org/themes/advanced-topics/internationalization/)
+- [Security](https://developer.wordpress.org/themes/advanced-topics/security/)
+- [Privacy](https://developer.wordpress.org/themes/advanced-topics/privacy/)
+- [Build Process](https://developer.wordpress.org/themes/advanced-topics/build-process/)
+- [Debugging](https://developer.wordpress.org/themes/advanced-topics/debugging/)
 - [@wordpress/interactivity-router](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity-router/)
 - [Static or Dynamic rendering of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/static-dynamic-rendering/)
 - [Global Settings &amp; Styles &lpar;theme.json&rpar;](https://developer.wordpress.org/block-editor/how-to-guides/themes/global-settings-and-styles/)
-- [Block Locking API](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/block-locking/)
-- [Disable Editor functionality](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/disable-editor-functionality/)
-- [Patterns](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/patterns/)
 - [Filters and hooks](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/filters-and-hooks/)
-- [Markup representation of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/markup-representation-block/)
-- [The block in the Editor](https://developer.wordpress.org/block-editor/getting-started/fundamentals/block-in-the-editor/)
-- [Tutorial: Build your first block](https://developer.wordpress.org/block-editor/getting-started/tutorial/)
+- [Disable Editor functionality](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/disable-editor-functionality/)
 <!-- DEVHUB:END -->
 
 ## Themes
