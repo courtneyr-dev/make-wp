@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Le Bloc Boucle de Requête dans les modèles classiques de l’Éditeur de Site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/01/26/le-bloc-boucle-de-requete-dans-les-modeles-classiques-de-lediteur-de-site-wordpress-fse/)
 - [Roles In WordPress For Both Full-time positions and Freelancing](https://wordpress.tv/2024/01/25/roles-in-wordpress-for-both-full-time-positions-and-freelancing/)
 - [Building a Global Career Through WordPress](https://wordpress.tv/2024/01/25/building-a-global-career-through-wordpress/)
 - [Design for conversions: How to be more profitable by putting people first](https://wordpress.tv/2024/01/25/design-for-conversions-how-to-be-more-profitable-by-putting-people-first-2/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Marketing Minimalism – What They Don’t Want You to Know](https://wordpress.tv/2024/01/24/marketing-minimalism-what-they-dont-want-you-to-know/)
 - [Création d’une Classe CSS pour le Masquage Accessible](https://wordpress.tv/2024/01/22/creation-dune-classe-css-pour-le-masquage-accessible/)
 - [Presentación de #WCZGZ24](https://wordpress.tv/2024/01/22/presentacion-de-wczgz24/)
-- [Quedan 345 días y aún no sabes hacer una web accesible](https://wordpress.tv/2024/01/22/quedan-345-dias-y-aun-no-sabes-hacer-una-web-accesible/)
 <!-- WPTV:END -->
 
 ## Marketing
