@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-5/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-8/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-5/)
+- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-5/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-17/)
 - [Exclusively Seeking a React Mastery-Level Senior Full Stack WordPress Developer &lpar;Remote, Part-Time / Full-Time&rpar;](https://jobs.wordpress.net/job/exclusively-seeking-a-react-mastery-level-senior-full-stack-wordpress-developer-remote-part-time-full-time/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-830/)
 - [A simple website for a small business](https://jobs.wordpress.net/job/a-simple-website-for-a-small-business/)
 - [JavaScript Developer – Slider Revolution at ThemePunch](https://jobs.wordpress.net/job/javascript-developer-slider-revolution-at-themepunch/)
 - [Looking for Website and Theme Design](https://jobs.wordpress.net/job/looking-for-website-and-theme-design/)
-- [Part-Time Technical WordPress Developer](https://jobs.wordpress.net/job/part-time-technical-wordpress-developer/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-829/)
-- [Developer for various issues](https://jobs.wordpress.net/job/developer-for-various-issues/)
-- [Senior Full Stack WordPress Developer &lpar;Remote, Part-Time/Full-Time&rpar;](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-remote-part-time-full-time/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-828/)
 <!-- JOBS:END -->
 
 ## Central
