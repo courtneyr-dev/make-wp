@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Robin Image Optimizer]](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-robin-image-optimizer/)
+- [مرحبا،](https://make.wordpress.org/polyglots/2024/01/28/%d9%85%d8%b1%d8%ad%d8%a8%d8%a7%d8%8c-2/)
+- [PTE Request for [Clearfy] and [Robin Image Optimizer]](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-clearfy-2/)
 - [PTE Request for Openverse meta](https://make.wordpress.org/polyglots/2024/01/27/pte-request-for-openverse-meta/)
 - [HOB Advanced cookies editor request](https://make.wordpress.org/polyglots/2024/01/26/hob-advanced-cookies-editor-request/)
 - [PTE Request for XML Cache](https://make.wordpress.org/polyglots/2024/01/26/pte-request-for-xml-cache/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [WP Prayer] and [WP Prayer II]](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-wp-prayer-6/)
 - [Agenda: Weekly Polyglots Chat- January 24, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/24/agenda-weekly-polyglots-chat-january-24-2024-700-utc/)
 - [PTE Request for “Payment QR WooCommerce”](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-payment-qr-woocommerce/)
-- [PTE Request for Pay with…](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-pay-with/)
-- [PTE Request for my plugin,…](https://make.wordpress.org/polyglots/2024/01/22/pte-request-for-my-plugin-7/)
-- [PTE Request for Delicious Recipes Plugin](https://make.wordpress.org/polyglots/2024/01/22/pte-request-for-delicious-recipes-plugin-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
