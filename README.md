@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Admin page request](https://wordpress.tv/2024/01/28/admin-page-request/)
+- [Front-end page request](https://wordpress.tv/2024/01/28/front-end-page-request/)
+- [Permalinks](https://wordpress.tv/2024/01/28/permalinks/)
 - [The WordPress database](https://wordpress.tv/2024/01/28/the-wordpress-database-3/)
 - [The WordPress file system](https://wordpress.tv/2024/01/28/the-wordpress-file-system/)
 - [WordPress and web servers](https://wordpress.tv/2024/01/28/wordpress-and-web-servers/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Accessibility-First WordPress Development Methodology](https://wordpress.tv/2024/01/24/the-accessibility-first-wordpress-development-methodology/)
 - [Securing WordPress &lpar;Plugins are the Last Tool to Use&rpar;](https://wordpress.tv/2024/01/24/securing-wordpress-plugins-are-the-last-tool-to-use/)
 - [Ways To Increase Your WordPress Blog Traffic](https://wordpress.tv/2024/01/24/ways-to-increase-your-wordpress-blog-traffic/)
-- [It Starts With WordPress… Expanding Your Global reach](https://wordpress.tv/2024/01/24/it-starts-with-wordpress-expanding-your-global-reach/)
-- [How to Get Paid for Every Little Thing You Do](https://wordpress.tv/2024/01/24/how-to-get-paid-for-every-little-thing-you-do/)
-- [Brief Introduction to Agile Development](https://wordpress.tv/2024/01/24/brief-introduction-to-agile-development/)
 <!-- WPTV:END -->
 
 ## Marketing
