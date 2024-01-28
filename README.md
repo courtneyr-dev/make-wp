@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-themes-news-bulletin/)
 - [PTE Request for Plugins](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-plugins-2/)
 - [PTE Request for [Robin Image Optimizer]](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-robin-image-optimizer/)
 - [مرحبا،](https://make.wordpress.org/polyglots/2024/01/28/%d9%85%d8%b1%d8%ad%d8%a8%d8%a7%d8%8c-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for XML Cache](https://make.wordpress.org/polyglots/2024/01/26/pte-request-for-xml-cache/)
 - [The challenge of communicating the translation process](https://make.wordpress.org/polyglots/2024/01/24/the-challenge-of-communicating-the-translation-process/)
 - [PTE Request for [WP Prayer] and [WP Prayer II]](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-wp-prayer-6/)
-- [Agenda: Weekly Polyglots Chat- January 24, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/24/agenda-weekly-polyglots-chat-january-24-2024-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
