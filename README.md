@@ -342,6 +342,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The WordPress database](https://wordpress.tv/2024/01/28/the-wordpress-database-3/)
+- [The WordPress file system](https://wordpress.tv/2024/01/28/the-wordpress-file-system/)
+- [WordPress and web servers](https://wordpress.tv/2024/01/28/wordpress-and-web-servers/)
 - [Le Bloc Boucle de Requête dans les modèles classiques de l’Éditeur de Site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/01/26/le-bloc-boucle-de-requete-dans-les-modeles-classiques-de-lediteur-de-site-wordpress-fse/)
 - [Roles In WordPress For Both Full-time positions and Freelancing](https://wordpress.tv/2024/01/25/roles-in-wordpress-for-both-full-time-positions-and-freelancing/)
 - [Building a Global Career Through WordPress](https://wordpress.tv/2024/01/25/building-a-global-career-through-wordpress/)
@@ -364,9 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [It Starts With WordPress… Expanding Your Global reach](https://wordpress.tv/2024/01/24/it-starts-with-wordpress-expanding-your-global-reach/)
 - [How to Get Paid for Every Little Thing You Do](https://wordpress.tv/2024/01/24/how-to-get-paid-for-every-little-thing-you-do/)
 - [Brief Introduction to Agile Development](https://wordpress.tv/2024/01/24/brief-introduction-to-agile-development/)
-- [Marketing Minimalism – What They Don’t Want You to Know](https://wordpress.tv/2024/01/24/marketing-minimalism-what-they-dont-want-you-to-know/)
-- [Création d’une Classe CSS pour le Masquage Accessible](https://wordpress.tv/2024/01/22/creation-dune-classe-css-pour-le-masquage-accessible/)
-- [Presentación de #WCZGZ24](https://wordpress.tv/2024/01/22/presentacion-de-wczgz24/)
 <!-- WPTV:END -->
 
 ## Marketing
