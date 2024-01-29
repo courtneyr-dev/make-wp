@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Internationalization](https://developer.wordpress.org/themes/advanced-topics/internationalization/)
-- [Security](https://developer.wordpress.org/themes/advanced-topics/security/)
-- [Privacy](https://developer.wordpress.org/themes/advanced-topics/privacy/)
+- [Action Reference](https://developer.wordpress.org/apis/hooks/action-reference/)
+- [Hooks](https://developer.wordpress.org/apis/hooks/)
+- [Filter Reference](https://developer.wordpress.org/apis/hooks/filter-reference/)
 - [Build Process](https://developer.wordpress.org/themes/advanced-topics/build-process/)
+- [Internationalization](https://developer.wordpress.org/themes/advanced-topics/internationalization/)
+- [Privacy](https://developer.wordpress.org/themes/advanced-topics/privacy/)
+- [Security](https://developer.wordpress.org/themes/advanced-topics/security/)
 - [Debugging](https://developer.wordpress.org/themes/advanced-topics/debugging/)
 - [@wordpress/interactivity-router](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity-router/)
 - [Static or Dynamic rendering of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/static-dynamic-rendering/)
-- [Global Settings &amp; Styles &lpar;theme.json&rpar;](https://developer.wordpress.org/block-editor/how-to-guides/themes/global-settings-and-styles/)
-- [Filters and hooks](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/filters-and-hooks/)
-- [Disable Editor functionality](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/disable-editor-functionality/)
 <!-- DEVHUB:END -->
 
 ## Themes
