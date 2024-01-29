@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Optimizing WordPress for Core Web Vitals and Performance](https://wordpress.tv/2024/01/28/optimizing-wordpress-for-core-web-vitals-and-performance/)
 - [Admin page request](https://wordpress.tv/2024/01/28/admin-page-request/)
 - [Front-end page request](https://wordpress.tv/2024/01/28/front-end-page-request/)
 - [Permalinks](https://wordpress.tv/2024/01/28/permalinks/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress and Consent Management Platforms](https://wordpress.tv/2024/01/24/wordpress-and-consent-management-platforms/)
 - [The Accessibility-First WordPress Development Methodology](https://wordpress.tv/2024/01/24/the-accessibility-first-wordpress-development-methodology/)
 - [Securing WordPress &lpar;Plugins are the Last Tool to Use&rpar;](https://wordpress.tv/2024/01/24/securing-wordpress-plugins-are-the-last-tool-to-use/)
-- [Ways To Increase Your WordPress Blog Traffic](https://wordpress.tv/2024/01/24/ways-to-increase-your-wordpress-blog-traffic/)
 <!-- WPTV:END -->
 
 ## Marketing
