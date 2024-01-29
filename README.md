@@ -371,6 +371,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Supporting the WordPress Foundation through a Google Ads Grant](https://make.wordpress.org/marketing/2024/01/29/supporting-the-wordpress-foundation-through-a-google-ads-grant/)
 - [Process Proposal: Moderating the New Showcase](https://make.wordpress.org/marketing/2024/01/12/process-proposal-moderating-the-new-showcase/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/marketing/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [Announcing the 2024 MakeWP Marketing Team Reps](https://make.wordpress.org/marketing/2024/01/09/announcing-the-2024-makewp-marketing-team-reps/)
@@ -380,7 +381,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/marketing/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/marketing/2023/12/11/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
 - [Election process and nominations for MakeWP Marketing Team Reps 2024](https://make.wordpress.org/marketing/2023/12/06/election-process-and-nominations-for-makewp-marketing-team-reps-2024/)
-- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/marketing/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 <!-- MARKETING:END -->
 
 ## CLI
