@@ -511,6 +511,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Developers for Driving Safety &lpar;Pro Bono&rpar; – World Safety Drive –](https://jobs.wordpress.net/job/developers-for-driving-safety-pro-bono-world-safety-drive/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-5/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-8/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-5/)
@@ -520,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-830/)
 - [A simple website for a small business](https://jobs.wordpress.net/job/a-simple-website-for-a-small-business/)
 - [JavaScript Developer – Slider Revolution at ThemePunch](https://jobs.wordpress.net/job/javascript-developer-slider-revolution-at-themepunch/)
-- [Looking for Website and Theme Design](https://jobs.wordpress.net/job/looking-for-website-and-theme-design/)
 <!-- JOBS:END -->
 
 ## Central
