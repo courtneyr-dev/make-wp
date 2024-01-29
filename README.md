@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-themes-news-bulletin-2/)
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-themes-news-bulletin/)
 - [PTE Request for Plugins](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-plugins-2/)
 - [PTE Request for [Robin Image Optimizer]](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-robin-image-optimizer/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [HOB Advanced cookies editor request](https://make.wordpress.org/polyglots/2024/01/26/hob-advanced-cookies-editor-request/)
 - [PTE Request for XML Cache](https://make.wordpress.org/polyglots/2024/01/26/pte-request-for-xml-cache/)
 - [The challenge of communicating the translation process](https://make.wordpress.org/polyglots/2024/01/24/the-challenge-of-communicating-the-translation-process/)
-- [PTE Request for [WP Prayer] and [WP Prayer II]](https://make.wordpress.org/polyglots/2024/01/24/pte-request-for-wp-prayer-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
