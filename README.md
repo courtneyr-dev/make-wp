@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request to become translator and translation editor &lpar;WordPress translation into Haitian&rpar;](https://make.wordpress.org/polyglots/2024/01/30/request-to-become-translator-and-translation-editor-wordpress-translation-into-haitian/)
+- [I’ve suggested translations to Arabic…](https://make.wordpress.org/polyglots/2024/01/30/ive-suggested-translations-to-arabic/)
 - [PTE Request for Woocommerce Ajax…](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-woocommerce-ajax/)
 - [PTE Request for Database Cleaner: Clean, Optimize &amp; Repair.](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-database-cleaner/)
 - [PTE Request for 6.4.x – Development](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-6-4-x-development/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-themes-news-bulletin/)
 - [PTE Request for Plugins](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-plugins-2/)
 - [PTE Request for [Robin Image Optimizer]](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-robin-image-optimizer/)
-- [مرحبا،](https://make.wordpress.org/polyglots/2024/01/28/%d9%85%d8%b1%d8%ad%d8%a8%d8%a7%d8%8c-2/)
-- [PTE Request for [Clearfy] and [Robin Image Optimizer]](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-clearfy-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
