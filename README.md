@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Hallway Hangout: Intrinsic Design](https://make.wordpress.org/design/2024/01/30/xpost-hallway-hangout-intrinsic-design/)
 - [Design Share: Jan 15-Jan 26](https://make.wordpress.org/design/2024/01/29/design-share-jan-15-jan-26/)
 - [Design Share: Jan 1-Jan 12](https://make.wordpress.org/design/2024/01/15/design-share-jan-1-jan-12/)
 - [X-post: Process Proposal: Moderating the New Showcase](https://make.wordpress.org/design/2024/01/12/xpost-process-proposal-moderating-the-new-showcase/)
@@ -26,7 +27,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/design/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Design Share: Nov 20-Dec 1](https://make.wordpress.org/design/2023/12/04/design-share-nov-20-dec-1/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/design/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
-- [X-post: Create Tours for Make P2s](https://make.wordpress.org/design/2023/11/30/xpost-create-tours-for-make-p2s/)
 <!-- DESIGN:END -->
 
 ## Mobile
