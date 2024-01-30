@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Database Cleaner: Clean, Optimize &amp; Repair.](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-database-cleaner/)
 - [PTE Request for 6.4.x – Development](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-6-4-x-development/)
 - [PTE Request for Vipps/MobilePay recurring payments for WooCommerce](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-vipps-mobilepay-recurring-payments-for-woocommerce/)
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-themes-news-bulletin-2/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [مرحبا،](https://make.wordpress.org/polyglots/2024/01/28/%d9%85%d8%b1%d8%ad%d8%a8%d8%a7%d8%8c-2/)
 - [PTE Request for [Clearfy] and [Robin Image Optimizer]](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-clearfy-2/)
 - [PTE Request for Openverse meta](https://make.wordpress.org/polyglots/2024/01/27/pte-request-for-openverse-meta/)
-- [HOB Advanced cookies editor request](https://make.wordpress.org/polyglots/2024/01/26/hob-advanced-cookies-editor-request/)
 <!-- POLYGLOTS:END -->
 
 ## Support
