@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for 6.4.x – Development](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-6-4-x-development/)
+- [PTE Request for Vipps/MobilePay recurring payments for WooCommerce](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-vipps-mobilepay-recurring-payments-for-woocommerce/)
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-themes-news-bulletin-2/)
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-themes-news-bulletin/)
 - [PTE Request for Plugins](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-plugins-2/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Clearfy] and [Robin Image Optimizer]](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-clearfy-2/)
 - [PTE Request for Openverse meta](https://make.wordpress.org/polyglots/2024/01/27/pte-request-for-openverse-meta/)
 - [HOB Advanced cookies editor request](https://make.wordpress.org/polyglots/2024/01/26/hob-advanced-cookies-editor-request/)
-- [PTE Request for XML Cache](https://make.wordpress.org/polyglots/2024/01/26/pte-request-for-xml-cache/)
-- [The challenge of communicating the translation process](https://make.wordpress.org/polyglots/2024/01/24/the-challenge-of-communicating-the-translation-process/)
 <!-- POLYGLOTS:END -->
 
 ## Support
