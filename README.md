@@ -519,8 +519,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-17/)
 - [Exclusively Seeking a React Mastery-Level Senior Full Stack WordPress Developer &lpar;Remote, Part-Time / Full-Time&rpar;](https://jobs.wordpress.net/job/exclusively-seeking-a-react-mastery-level-senior-full-stack-wordpress-developer-remote-part-time-full-time/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-830/)
-- [A simple website for a small business](https://jobs.wordpress.net/job/a-simple-website-for-a-small-business/)
 - [JavaScript Developer – Slider Revolution at ThemePunch](https://jobs.wordpress.net/job/javascript-developer-slider-revolution-at-themepunch/)
+- [Looking for Website and Theme Design](https://jobs.wordpress.net/job/looking-for-website-and-theme-design/)
 <!-- JOBS:END -->
 
 ## Central
