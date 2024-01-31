@@ -549,6 +549,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress for Kids](https://central.wordcamp.org/wordcamps/wordpress-for-kids/)
 - [WordPress School Day](https://central.wordcamp.org/wordcamps/wordpress-school-day/)
 - [Switzerland Community Day](https://central.wordcamp.org/wordcamps/switzerland-community-day/)
+- [WordCamp Chiclana de la Frontera, Cádiz, Spain](https://central.wordcamp.org/wordcamps/wordcamp-chiclana-de-la-frontera-cadiz-spain/)
 - [WordCamp Vienna, Austria](https://central.wordcamp.org/wordcamps/wordcamp-vienna-austria-4/)
 - [WordCamp Montclair New Jersey](https://central.wordcamp.org/wordcamps/wordcamp-montclair-new-jersey/)
 - [WordPress in Education Technology Showcase](https://central.wordcamp.org/wordcamps/wordpress-in-education-technology-showcase/)
@@ -558,7 +559,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-8/)
 - [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-united-states/)
 - [WordCamp Canada 2024 &lpar;#WCEH&rpar;](https://central.wordcamp.org/wordcamps/wordcamp-wordcamp-canada-2024/)
-- [WordCamp Zaragoza](https://central.wordcamp.org/wordcamps/wordcamp-zaragoza-zaragoza-spain/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
