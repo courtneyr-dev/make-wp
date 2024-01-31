@@ -399,6 +399,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [Hosting Team Goals for 2024](https://make.wordpress.org/hosting/2024/01/31/hosting-team-goals-for-2024/)
+- [Hosting Team meeting summary 2024-01-24](https://make.wordpress.org/hosting/2024/01/31/hosting-team-meeting-summary-2024-01-24/)
 - [Hosting Team meeting summary 2024-01-10](https://make.wordpress.org/hosting/2024/01/15/hosting-team-meeting-summary-2024-01-10/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/hosting/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [Hosting Team meeting agenda 2024-01-10](https://make.wordpress.org/hosting/2024/01/10/hosting-team-meeting-agenda-2024-01-10/)
@@ -407,8 +409,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/hosting/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Hosting Team meeting agenda 2023-12-06](https://make.wordpress.org/hosting/2023/12/06/hosting-team-meeting-agenda-2023-12-06/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/hosting/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
-- [X-post: Create Tours for Make P2s](https://make.wordpress.org/hosting/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [Updates on the Hosting Team Reps 2024](https://make.wordpress.org/hosting/2023/11/30/updates-on-the-hosting-team-reps-2024/)
 <!-- HOSTING:END -->
 
 ## Tide
