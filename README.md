@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The programming languages of WordPress – HTML](https://wordpress.tv/2024/01/31/the-programming-languages-of-wordpress-html/)
 - [Créer des Boucles de Requête Multiples l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/01/30/creer-des-boucles-de-requete-multiples-lediteur-de-site-wordpress-fse/)
 - [Optimizing WordPress for Core Web Vitals and Performance](https://wordpress.tv/2024/01/28/optimizing-wordpress-for-core-web-vitals-and-performance/)
 - [Admin page request](https://wordpress.tv/2024/01/28/admin-page-request/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Why Your Customer Experience Probably Sucks – And How to Fix It](https://wordpress.tv/2024/01/24/why-your-customer-experience-probably-sucks-and-how-to-fix-it/)
 - [Google Local Workshop](https://wordpress.tv/2024/01/24/google-local-workshop/)
 - [WordPress and Consent Management Platforms](https://wordpress.tv/2024/01/24/wordpress-and-consent-management-platforms/)
-- [The Accessibility-First WordPress Development Methodology](https://wordpress.tv/2024/01/24/the-accessibility-first-wordpress-development-methodology/)
 <!-- WPTV:END -->
 
 ## Marketing
