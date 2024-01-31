@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – January 31, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/31/agenda-weekly-polyglots-chat-january-31-2024-1300-utc/)
 - [PTE request for Widgets for two plugins](https://make.wordpress.org/polyglots/2024/01/31/pte-request-for-widgets-for-google-reviews/)
 - [Request to become translator and translation editor &lpar;WordPress translation into Haitian&rpar;](https://make.wordpress.org/polyglots/2024/01/30/request-to-become-translator-and-translation-editor-wordpress-translation-into-haitian/)
 - [I’ve suggested translations to Arabic…](https://make.wordpress.org/polyglots/2024/01/30/ive-suggested-translations-to-arabic/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Vipps/MobilePay recurring payments for WooCommerce](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-vipps-mobilepay-recurring-payments-for-woocommerce/)
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-themes-news-bulletin-2/)
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-themes-news-bulletin/)
-- [PTE Request for Plugins](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-plugins-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
