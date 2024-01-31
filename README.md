@@ -511,16 +511,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Developers for Driving Safety &lpar;Pro Bono&rpar; – World Safety Drive –](https://jobs.wordpress.net/job/developers-for-driving-safety-pro-bono-world-safety-drive/)
-- [Exclusively Seeking a React Mastery-Level Senior Full Stack WordPress Developer &lpar;Remote, Part-Time / Full-Time&rpar;](https://jobs.wordpress.net/job/exclusively-seeking-a-react-mastery-level-senior-full-stack-wordpress-developer-remote-part-time-full-time/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-830/)
-- [JavaScript Developer – Slider Revolution at ThemePunch](https://jobs.wordpress.net/job/javascript-developer-slider-revolution-at-themepunch/)
-- [Looking for Website and Theme Design](https://jobs.wordpress.net/job/looking-for-website-and-theme-design/)
-- [Part-Time Technical WordPress Developer](https://jobs.wordpress.net/job/part-time-technical-wordpress-developer/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-829/)
-- [Developer for various issues](https://jobs.wordpress.net/job/developer-for-various-issues/)
-- [Senior Full Stack WordPress Developer &lpar;Remote, Part-Time/Full-Time&rpar;](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-remote-part-time-full-time/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-828/)
+- [[Inpsyde] Senior Full Stack Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-m-f-d/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-6/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-9/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-6/)
+- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-6/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-18/)
+- [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-832/)
+- [WORDPRESS DEVELOPER/DESIGNER](https://jobs.wordpress.net/job/wordpress-developer-designer-12/)
+- [WordPress Web Designer](https://jobs.wordpress.net/job/wordpress-web-designer-9/)
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-831/)
 <!-- JOBS:END -->
 
 ## Central
