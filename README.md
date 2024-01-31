@@ -62,7 +62,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request to become translator and translation editor &lpar;WordPress translation into Haitian&rpar;](https://make.wordpress.org/polyglots/2024/01/30/request-to-become-translator-and-translation-editor-wordpress-translation-into-haitian/)
 - [I’ve suggested translations to Arabic…](https://make.wordpress.org/polyglots/2024/01/30/ive-suggested-translations-to-arabic/)
 - [PTE Request for Woocommerce Ajax…](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-woocommerce-ajax/)
-- [PTE Request for Database Cleaner: Clean, Optimize &amp; Repair.](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-database-cleaner/)
+- [PTE Request for: [Database Cleaner: Clean, Optimize &amp; Repair] – [Social Engine: Schedule Social Media Posts]](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-database-cleaner/)
 - [PTE Request for 6.4.x – Development](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-6-4-x-development/)
 - [PTE Request for Vipps/MobilePay recurring payments for WooCommerce](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-vipps-mobilepay-recurring-payments-for-woocommerce/)
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-themes-news-bulletin-2/)
