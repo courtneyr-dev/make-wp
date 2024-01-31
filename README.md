@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [ম্যানেজ সেটিংসঃ লেখা](https://learn.wordpress.org/tutorial/bn-managing-settings-writing/)
 - [ગુટેનબર્ગ બ્લોક ડેવલપમેન્ટનો પરિચય](https://learn.wordpress.org/tutorial/gu-intro-to-gutenberg-block-development/)
 - [છબીઓ ઉમેરવા અને દૂર કરવી](https://learn.wordpress.org/tutorial/gu-adding-amp-removing-images/)
 - [ગુટેનબર્ગ માટે GitHub નો ઉપયોગ કેવી રીતે કરવો](https://learn.wordpress.org/tutorial/gu-how-to-use-github-for-gutenberg/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring WordPress 6.4](https://learn.wordpress.org/tutorial/exploring-wordpress-6-4/)
 - [Introducing the twenty twenty-four theme](https://learn.wordpress.org/tutorial/introducing-the-twenty-twenty-four-theme/)
 - [Working faster with the command palette](https://learn.wordpress.org/tutorial/working-faster-with-the-command-palette/)
-- [Common APIs – Internationalization](https://learn.wordpress.org/tutorial/common-apis-internationalization/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
