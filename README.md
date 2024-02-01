@@ -342,6 +342,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the media library](https://wordpress.tv/2024/01/31/using-the-media-library/)
+- [Setting up your pages, posts, site logo and navigation menu](https://wordpress.tv/2024/01/31/setting-up-your-pages-posts-site-logo-and-navigation-menu/)
 - [The programming languages of WordPress – HTML](https://wordpress.tv/2024/01/31/the-programming-languages-of-wordpress-html/)
 - [Créer des Boucles de Requête Multiples l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/01/30/creer-des-boucles-de-requete-multiples-lediteur-de-site-wordpress-fse/)
 - [Optimizing WordPress for Core Web Vitals and Performance](https://wordpress.tv/2024/01/28/optimizing-wordpress-for-core-web-vitals-and-performance/)
@@ -365,8 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Carry Your Business Into the Metaverse](https://wordpress.tv/2024/01/24/carry-your-business-into-the-metaverse/)
 - [From Hobby to Business – Scaling and Growing your Website](https://wordpress.tv/2024/01/24/from-hobby-to-business-scaling-and-growing-your-website/)
 - [Why Your Customer Experience Probably Sucks – And How to Fix It](https://wordpress.tv/2024/01/24/why-your-customer-experience-probably-sucks-and-how-to-fix-it/)
-- [Google Local Workshop](https://wordpress.tv/2024/01/24/google-local-workshop/)
-- [WordPress and Consent Management Platforms](https://wordpress.tv/2024/01/24/wordpress-and-consent-management-platforms/)
 <!-- WPTV:END -->
 
 ## Marketing
