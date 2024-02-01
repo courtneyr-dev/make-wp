@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The programming languages of WordPress – MySQL](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-mysql/)
+- [The programming languages of WordPress – PHP](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-php/)
+- [The programming languages of WordPress – JavaScript](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-javascript/)
+- [The programming languages of WordPress – CSS](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-css/)
 - [Using the media library](https://wordpress.tv/2024/01/31/using-the-media-library/)
 - [Setting up your pages, posts, site logo and navigation menu](https://wordpress.tv/2024/01/31/setting-up-your-pages-posts-site-logo-and-navigation-menu/)
 - [The programming languages of WordPress – HTML](https://wordpress.tv/2024/01/31/the-programming-languages-of-wordpress-html/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Seguridad en WordPress &lpar;cómo y porqué&rpar;](https://wordpress.tv/2024/01/25/seguridad-en-wordpress-como-y-porque/)
 - [SEO for WooCommerce in 2023](https://wordpress.tv/2024/01/24/seo-for-woocommerce-in-2023/)
 - [How to Do Lead Tracking in WordPress](https://wordpress.tv/2024/01/24/how-to-do-lead-tracking-in-wordpress/)
-- [Making Your Contact Forms Land in an Inbox](https://wordpress.tv/2024/01/24/making-your-contact-forms-land-in-an-inbox/)
-- [Carry Your Business Into the Metaverse](https://wordpress.tv/2024/01/24/carry-your-business-into-the-metaverse/)
-- [From Hobby to Business – Scaling and Growing your Website](https://wordpress.tv/2024/01/24/from-hobby-to-business-scaling-and-growing-your-website/)
-- [Why Your Customer Experience Probably Sucks – And How to Fix It](https://wordpress.tv/2024/01/24/why-your-customer-experience-probably-sucks-and-how-to-fix-it/)
 <!-- WPTV:END -->
 
 ## Marketing
