@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: WordCamp Zaragoza 2024. Design table in Contributor day](https://make.wordpress.org/community/2024/02/01/xpost-wordcamp-zaragoza-2024-design-table-in-contributor-day/)
 - [Reflecting on the NextGen Events Pilot Project and Looking Ahead](https://make.wordpress.org/community/2024/01/31/reflecting-on-nextgen-and-looking-ahead/)
 - [Community Team Meeting Agenda for 1 February 2024](https://make.wordpress.org/community/2024/01/31/community-team-meeting-agenda-for-1-february-2024/)
 - [Community Team Training #12: WordCamp Budgeting Tips](https://make.wordpress.org/community/2024/01/29/community-team-training-12-wordcamp-budgeting-tips/)
@@ -166,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Pilot program to test GatherPress on the WordPress.org network as a Meetup alternative](https://make.wordpress.org/community/2024/01/22/proposal-pilot-program-to-test-gatherpress-on-the-wordpress-org-network-as-a-meetup-alternative/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on January 18, 2024](https://make.wordpress.org/community/2024/01/22/recap-of-the-contributor-working-groups-mentorship-chat-on-january-18-2024/)
 - [Community Team January Meeting Recap](https://make.wordpress.org/community/2024/01/18/community-team-january-meeting-recap/)
-- [Contributor Working Group: Mentorship Chat Agenda |January 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/01/17/contributor-working-group-mentorship-chat-agenda-january-17th-0700-utc-apac-emea-and-1600-utc-amer/)
 <!-- COMMUNITY:END -->
 
 ## Meta
