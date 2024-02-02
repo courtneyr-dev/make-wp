@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/polyglots/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [PTE Request for Custom User Guide](https://make.wordpress.org/polyglots/2024/01/31/pte-request-for-custom-user-guide/)
 - [Agenda: Weekly Polyglots Chat – January 31, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/31/agenda-weekly-polyglots-chat-january-31-2024-1300-utc/)
 - [PTE request for Widgets for two plugins](https://make.wordpress.org/polyglots/2024/01/31/pte-request-for-widgets-for-google-reviews/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for 6.4.x – Development](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-6-4-x-development/)
 - [PTE Request for Vipps/MobilePay recurring payments for WooCommerce](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-vipps-mobilepay-recurring-payments-for-woocommerce/)
 - [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-themes-news-bulletin-2/)
-- [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/28/pte-request-for-themes-news-bulletin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
