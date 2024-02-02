@@ -31,6 +31,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Mobile
 <!-- MOBILE:START -->
+- [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/mobile/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/mobile/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/mobile/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/mobile/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
@@ -40,7 +41,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/mobile/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [X-post: Cultivating More Effective Contributing on Contributor Days](https://make.wordpress.org/mobile/2023/04/19/xpost-cultivating-more-effective-contributing-on-contributor-days/)
 - [X-post: Integrating the Mobile app documentation into HelpHub](https://make.wordpress.org/mobile/2023/04/17/xpost-integrating-the-mobile-app-documentation-into-helphub/)
-- [Contribute to the Future of the WordPress App](https://make.wordpress.org/mobile/2023/04/11/contribute-to-the-future-of-the-wordpress-app/)
 <!-- MOBILE:END -->
 
 ## Accessibility
