@@ -511,6 +511,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Condition Load Section](https://jobs.wordpress.net/job/condition-load-section/)
+- [Full-Stack WordPress Developer &lpar;aThemes&rpar;](https://jobs.wordpress.net/job/full-stack-wordpress-developer-athemes/)
+- [WordPress woocommerce design](https://jobs.wordpress.net/job/wordpress-woocommerce-design/)
 - [Web Developer Opportunity – Flexible, Skilled, and Ready for Growth](https://jobs.wordpress.net/job/web-developer-opportunity-flexible-skilled-and-ready-for-growth/)
 - [Somebody to help with improving my website including SEO](https://jobs.wordpress.net/job/somebody-to-help-with-improving-my-website-including-seo/)
 - [[Inpsyde] Senior Full Stack Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-m-f-d/)
@@ -518,9 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-9/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-6/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-6/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-18/)
-- [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-832/)
-- [WORDPRESS DEVELOPER/DESIGNER](https://jobs.wordpress.net/job/wordpress-developer-designer-12/)
 <!-- JOBS:END -->
 
 ## Central
