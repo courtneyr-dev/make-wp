@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/docs/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [Online monthly Docs Team Contributor Day February 27, 2024](https://make.wordpress.org/docs/2024/02/01/online-monthly-docs-team-contributor-day-february-27-2024/)
 - [Online monthly Docs Team Contributor Day January 30, 2024](https://make.wordpress.org/docs/2024/01/28/online-monthly-docs-team-contributor-day-january-30-2024/)
 - [Agenda for Docs Team meeting January 23, 2024](https://make.wordpress.org/docs/2024/01/23/agenda-for-docs-team-meeting-january-9-2024/)
@@ -96,7 +97,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/docs/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 - [X-post: Developer Resources gets a refresh](https://make.wordpress.org/docs/2023/12/15/xpost-developer-resources-gets-a-refresh/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/docs/2023/12/13/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
-- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/docs/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 <!-- DOCS:END -->
 
 ### Support Articles
