@@ -342,6 +342,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Other useful development tools](https://wordpress.tv/2024/02/02/other-useful-development-tools/)
+- [Code editor](https://wordpress.tv/2024/02/02/code-editor/)
+- [WordPress Installation](https://wordpress.tv/2024/02/02/wordpress-installation/)
+- [Local development environment](https://wordpress.tv/2024/02/02/local-development-environment/)
 - [The programming languages of WordPress – MySQL](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-mysql/)
 - [The programming languages of WordPress – PHP](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-php/)
 - [The programming languages of WordPress – JavaScript](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-javascript/)
@@ -363,10 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design for conversions: How to be more profitable by putting people first](https://wordpress.tv/2024/01/25/design-for-conversions-how-to-be-more-profitable-by-putting-people-first-2/)
 - [Creative Design and Branding](https://wordpress.tv/2024/01/25/creative-design-and-branding/)
 - [My E-commerce Story](https://wordpress.tv/2024/01/25/my-e-commerce-story/)
-- [The Power of Story-Telling in Communication](https://wordpress.tv/2024/01/25/the-power-of-story-telling-in-communication/)
-- [Seguridad en WordPress &lpar;cómo y porqué&rpar;](https://wordpress.tv/2024/01/25/seguridad-en-wordpress-como-y-porque/)
-- [SEO for WooCommerce in 2023](https://wordpress.tv/2024/01/24/seo-for-woocommerce-in-2023/)
-- [How to Do Lead Tracking in WordPress](https://wordpress.tv/2024/01/24/how-to-do-lead-tracking-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
