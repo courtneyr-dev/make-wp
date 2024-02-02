@@ -441,6 +441,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [January Stats for the WordPress Photo Directory](https://make.wordpress.org/photos/2024/02/02/january-stats-for-the-wordpress-photo-directory/)
 - [Alt Text for WordPress Photos](https://make.wordpress.org/photos/2024/02/02/alt-text-for-wordpress-photos/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/photos/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [December Stats for the WordPress Photo Directory](https://make.wordpress.org/photos/2024/01/04/december-stats-for-the-wordpress-photo-directory/)
@@ -450,7 +451,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/photos/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [October Photo Directory Update](https://make.wordpress.org/photos/2023/11/01/october-photo-directory-update/)
 - [September Photo Directory Update](https://make.wordpress.org/photos/2023/10/03/september-photo-directory-update/)
-- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/photos/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 <!-- PHOTOS:END -->
 
 ## Updates
