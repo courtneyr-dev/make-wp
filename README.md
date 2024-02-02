@@ -413,6 +413,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Tide
 <!-- TIDE:START -->
+- [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/tide/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/tide/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/tide/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
 - [X-post: Apply to Attend the 2023 Community Summit](https://make.wordpress.org/tide/2023/02/08/xpost-apply-to-attend-the-2023-community-summit/)
@@ -422,7 +423,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tide/2022/05/26/xpost-announcement-incident-response-training/)
 - [CANCELLED Tide Chat: March 29th](https://make.wordpress.org/tide/2022/03/21/cancelled-tide-chat-march-29th/)
 - [CANCELLED Tide Chat: March 1st](https://make.wordpress.org/tide/2022/02/27/cancelled-tide-chat-march-1st/)
-- [Tide Chat Agenda: February 15th](https://make.wordpress.org/tide/2022/02/14/tide-chat-agenda-february-15th/)
 <!-- TIDE:END -->
 
 ## Openverse
