@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/themes/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [Hallway Hangout: Intrinsic Design](https://make.wordpress.org/themes/2024/01/30/hallway-hangout-intrinsic-design/)
 - [X-post: Themes team update January 30, 2024](https://make.wordpress.org/themes/2024/01/30/xpost-themes-team-update-january-30-2024/)
 - [Themes Team Meeting Notes – January 23, 2024](https://make.wordpress.org/themes/2024/01/24/themes-team-meeting-notes-january-23-2024/)
@@ -138,7 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New Block-Focused Theme Handbook Docs and What’s Coming in 2024](https://make.wordpress.org/themes/2024/01/11/new-block-focused-theme-handbook-docs-and-whats-coming-in-2024/)
 - [Themes Team Meeting Notes – January 09, 2024](https://make.wordpress.org/themes/2024/01/11/themes-team-meeting-notes-january-09-2024/)
 - [Themes team meeting agenda for January 09, 2024](https://make.wordpress.org/themes/2024/01/08/themes-team-meeting-agenda-for-january-09-2024/)
-- [A Year in Themes Team – 2023](https://make.wordpress.org/themes/2023/12/29/a-year-in-themes-team-2023/)
 <!-- THEMES:END -->
 
 ## Plugins
