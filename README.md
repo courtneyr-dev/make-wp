@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Finding a good first issue to work on](https://wordpress.tv/2024/02/02/finding-a-good-first-issue-to-work-on/)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2024/02/02/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once-2/)
 - [Other useful development tools](https://wordpress.tv/2024/02/02/other-useful-development-tools/)
 - [Code editor](https://wordpress.tv/2024/02/02/code-editor/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Roles In WordPress For Both Full-time positions and Freelancing](https://wordpress.tv/2024/01/25/roles-in-wordpress-for-both-full-time-positions-and-freelancing/)
 - [Building a Global Career Through WordPress](https://wordpress.tv/2024/01/25/building-a-global-career-through-wordpress/)
 - [Design for conversions: How to be more profitable by putting people first](https://wordpress.tv/2024/01/25/design-for-conversions-how-to-be-more-profitable-by-putting-people-first-2/)
-- [Creative Design and Branding](https://wordpress.tv/2024/01/25/creative-design-and-branding/)
 <!-- WPTV:END -->
 
 ## Marketing
