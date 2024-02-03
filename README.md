@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/02/03/ive-suggested-translations-for-this-32/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/polyglots/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [PTE Request for Custom User Guide](https://make.wordpress.org/polyglots/2024/01/31/pte-request-for-custom-user-guide/)
 - [Agenda: Weekly Polyglots Chat – January 31, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/31/agenda-weekly-polyglots-chat-january-31-2024-1300-utc/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for: [Database Cleaner: Clean, Optimize &amp; Repair] – [Social Engine: Schedule Social Media Posts] – [AI-SEO KISS &lpar;Keep It Simple Stupid&rpar;] – [Media Cleaner: Clean your WordPress!] – [AI Engine: Chatbots, Generators, Assistants, GPT 4 and more!] – [Perfect Images &lpar;Manage Image Sizes, Thumbnails, Replace, Retina&rpar;] – [Media File Renamer: Rename Files &lpar;Manual, Auto &amp; AI&rpar;]](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-database-cleaner/)
 - [PTE Request for 6.4.x – Development](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-6-4-x-development/)
 - [PTE Request for Vipps/MobilePay recurring payments for WooCommerce](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-vipps-mobilepay-recurring-payments-for-woocommerce/)
-- [PTE Request for Themes News Bulletin](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-themes-news-bulletin-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
