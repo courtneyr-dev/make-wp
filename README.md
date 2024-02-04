@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Suggestion for a change in the guidelines:](https://make.wordpress.org/plugins/2024/02/04/xpost-suggestion-for-a-change-in-the-guidelines/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/plugins/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [X-post: Developer Resources gets a refresh](https://make.wordpress.org/plugins/2023/12/15/xpost-developer-resources-gets-a-refresh/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/plugins/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
@@ -152,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/plugins/2023/11/22/xpost-redesigning-developer-resources-and-a-call-for-testing/)
 - [X-post: Plugin Directory: Preview button revisited](https://make.wordpress.org/plugins/2023/11/22/xpost-plugin-directory-preview-button-revisited/)
 - [Plugin updates to SVN issues](https://make.wordpress.org/plugins/2023/10/30/plugin-updates-to-svn-issues/)
-- [X-post: Team Coordination for Plugin Directory Updates](https://make.wordpress.org/plugins/2023/10/20/xpost-team-coordination-for-plugin-directory-updates/)
 <!-- PLUGINS:END -->
 
 ## Community
