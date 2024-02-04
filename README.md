@@ -228,6 +228,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [ব্লক এডিটরে লিস্ট ভিউের ব্যবহার](https://learn.wordpress.org/tutorial/bn-how-to-use-the-list-view/)
 - [ম্যানেজ সেটিংসঃ লেখা](https://learn.wordpress.org/tutorial/bn-managing-settings-writing/)
 - [ગુટેનબર્ગ બ્લોક ડેવલપમેન્ટનો પરિચય](https://learn.wordpress.org/tutorial/gu-intro-to-gutenberg-block-development/)
 - [છબીઓ ઉમેરવા અને દૂર કરવી](https://learn.wordpress.org/tutorial/gu-adding-amp-removing-images/)
@@ -252,7 +253,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [একটি স্টিকি হেডার বা ব্যানার যোগ করা](https://learn.wordpress.org/tutorial/bn-adding-a-sticky-header-or-banner/)
 - [Exploring WordPress 6.4](https://learn.wordpress.org/tutorial/exploring-wordpress-6-4/)
 - [Introducing the twenty twenty-four theme](https://learn.wordpress.org/tutorial/introducing-the-twenty-twenty-four-theme/)
-- [Working faster with the command palette](https://learn.wordpress.org/tutorial/working-faster-with-the-command-palette/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
