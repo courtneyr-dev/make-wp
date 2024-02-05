@@ -463,7 +463,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Documentation Team Update – January 29, 2024](https://make.wordpress.org/updates/2024/01/29/documentation-team-update-january-29-2024/)
 - [Test Team Update: 29 January 2024](https://make.wordpress.org/updates/2024/01/29/test-team-update-29-january-2024/)
 - [Themes team update January 23, 2024](https://make.wordpress.org/updates/2024/01/23/themes-team-update-january-23-2024/)
-- [Core Team Update – January 22, 2023](https://make.wordpress.org/updates/2024/01/22/core-team-update-january-22-2023/)
+- [Core Team Update – January 22, 2024](https://make.wordpress.org/updates/2024/01/22/core-team-update-january-22-2023/)
 - [Documentation Team Update – January 22, 2024](https://make.wordpress.org/updates/2024/01/22/documentation-team-update-january-22-2024/)
 <!-- UPDATES:END -->
 
