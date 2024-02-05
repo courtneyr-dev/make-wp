@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [CBWJ #6 各 Meetup グループのコミュニティビルディングの話を聞いてみよう](https://wordpress.tv/2024/02/04/community-building-workshop-japan-006/)
 - [Creating an About page using patterns](https://wordpress.tv/2024/02/04/creating-an-about-page-using-patterns/)
 - [Finding a good first issue to work on](https://wordpress.tv/2024/02/02/finding-a-good-first-issue-to-work-on/)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2024/02/02/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once-2/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress and web servers](https://wordpress.tv/2024/01/28/wordpress-and-web-servers/)
 - [Le Bloc Boucle de Requête dans les modèles classiques de l’Éditeur de Site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/01/26/le-bloc-boucle-de-requete-dans-les-modeles-classiques-de-lediteur-de-site-wordpress-fse/)
 - [Roles In WordPress For Both Full-time positions and Freelancing](https://wordpress.tv/2024/01/25/roles-in-wordpress-for-both-full-time-positions-and-freelancing/)
-- [Building a Global Career Through WordPress](https://wordpress.tv/2024/01/25/building-a-global-career-through-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
