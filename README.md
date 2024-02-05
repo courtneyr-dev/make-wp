@@ -511,6 +511,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Promote and Co-Administer Social Network Poetry Site](https://jobs.wordpress.net/job/promote-and-co-administer-social-network-poetry-site/)
+- [Volunteer  Developers for Driving Safety](https://jobs.wordpress.net/job/volunteer-developers-for-driving-safety/)
 - [Dynamic Routing support &amp; development](https://jobs.wordpress.net/job/dynamic-routing-support-development/)
 - [Website Improvment &lpar;I speak English and Polish&rpar;](https://jobs.wordpress.net/job/website-improvment-i-speak-english-and-polish/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-833/)
@@ -519,8 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Developer Opportunity – Flexible, Skilled, and Ready for Growth](https://jobs.wordpress.net/job/web-developer-opportunity-flexible-skilled-and-ready-for-growth/)
 - [Somebody to help with improving my website including SEO](https://jobs.wordpress.net/job/somebody-to-help-with-improving-my-website-including-seo/)
 - [[Inpsyde] Senior Full Stack Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-m-f-d/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-6/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-9/)
 <!-- JOBS:END -->
 
 ## Central
