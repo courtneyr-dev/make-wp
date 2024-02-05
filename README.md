@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Question about translation approval](https://make.wordpress.org/polyglots/2024/02/05/question-about-translation-approval/)
 - [Hey, @mikinc860 Please check my…](https://make.wordpress.org/polyglots/2024/02/03/hey-mikinc860-please-check-my/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/02/03/ive-suggested-translations-for-this-32/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/polyglots/2024/02/02/xpost-incident-response-team-call-for-nominations/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request to become translator and translation editor &lpar;WordPress translation into Haitian&rpar;](https://make.wordpress.org/polyglots/2024/01/30/request-to-become-translator-and-translation-editor-wordpress-translation-into-haitian/)
 - [PTE Request for Woocommerce Ajax…](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-woocommerce-ajax/)
 - [PTE Request for: [Database Cleaner: Clean, Optimize &amp; Repair] – [Social Engine: Schedule Social Media Posts] – [AI-SEO KISS &lpar;Keep It Simple Stupid&rpar;] – [Media Cleaner: Clean your WordPress!] – [AI Engine: Chatbots, Generators, Assistants, GPT 4 and more!] – [Perfect Images &lpar;Manage Image Sizes, Thumbnails, Replace, Retina&rpar;] – [Media File Renamer: Rename Files &lpar;Manual, Auto &amp; AI&rpar;]](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-database-cleaner/)
-- [PTE Request for 6.4.x – Development](https://make.wordpress.org/polyglots/2024/01/29/pte-request-for-6-4-x-development/)
 <!-- POLYGLOTS:END -->
 
 ## Support
