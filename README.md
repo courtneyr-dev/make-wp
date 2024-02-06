@@ -115,16 +115,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Testing](https://developer.wordpress.org/themes/advanced-topics/testing/)
+- [Publishing Themes](https://developer.wordpress.org/themes/advanced-topics/publishing-themes/)
 - [Action Reference](https://developer.wordpress.org/apis/hooks/action-reference/)
 - [Hooks](https://developer.wordpress.org/apis/hooks/)
 - [Filter Reference](https://developer.wordpress.org/apis/hooks/filter-reference/)
-- [Build Process](https://developer.wordpress.org/themes/advanced-topics/build-process/)
-- [Internationalization](https://developer.wordpress.org/themes/advanced-topics/internationalization/)
 - [Privacy](https://developer.wordpress.org/themes/advanced-topics/privacy/)
+- [Internationalization](https://developer.wordpress.org/themes/advanced-topics/internationalization/)
 - [Security](https://developer.wordpress.org/themes/advanced-topics/security/)
+- [Build Process](https://developer.wordpress.org/themes/advanced-topics/build-process/)
 - [Debugging](https://developer.wordpress.org/themes/advanced-topics/debugging/)
-- [@wordpress/interactivity-router](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity-router/)
-- [Static or Dynamic rendering of a block](https://developer.wordpress.org/block-editor/getting-started/fundamentals/static-dynamic-rendering/)
 <!-- DEVHUB:END -->
 
 ## Themes
