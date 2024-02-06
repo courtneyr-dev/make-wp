@@ -483,6 +483,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Clear poststatus.com cache in planet](https://make.wordpress.org/systems/2024/02/06/clear-poststatus-com-cache-in-planet/)
 - [Email forwarding for git.wordpress.org](https://make.wordpress.org/systems/2024/01/24/email-forwarding-for-git-wordpress-org/)
 - [Add redirect for Font Collection JSON schema](https://make.wordpress.org/systems/2024/01/16/add-redirect-for-font-collection-json-schema/)
 - [Email rejected as ‘high probability of spam’](https://make.wordpress.org/systems/2024/01/09/email-rejected-as-high-probability-of-spam/)
@@ -492,7 +493,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Install Node.js 20.x on the build server](https://make.wordpress.org/systems/2023/11/27/install-node-js-20-x-on-the-build-server/)
 - [Sandbox request for learn.wordpress.org testing](https://make.wordpress.org/systems/2023/11/20/sandbox-request-for-learn-wordpress-org-testing/)
 - [Support svn `@revnum` URLs?](https://make.wordpress.org/systems/2023/11/20/support-svn-revnum-urls-urls/)
-- [wp-cli.org email addresses](https://make.wordpress.org/systems/2023/11/01/wp-cli-org-email-addresses/)
 <!-- SYSTEMS:END -->
 
 ## News
