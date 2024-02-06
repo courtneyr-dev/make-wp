@@ -59,6 +59,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Contact Camo](https://make.wordpress.org/polyglots/2024/02/06/pte-request-for-contact-camo/)
+- [היי לחברה היודעים עברית!](https://make.wordpress.org/polyglots/2024/02/06/%d7%94%d7%99%d7%99-%d7%9c%d7%97%d7%91%d7%a8%d7%94-%d7%94%d7%99%d7%95%d7%93%d7%a2%d7%99%d7%9d-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/)
+- [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/02/06/hello-polyglots-304/)
 - [rHi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/02/05/rhi-dear-mentors-we-have/)
 - [Question about translation approval](https://make.wordpress.org/polyglots/2024/02/05/question-about-translation-approval/)
 - [Hey, @mikinc860 Please check my…](https://make.wordpress.org/polyglots/2024/02/03/hey-mikinc860-please-check-my/)
@@ -66,9 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/polyglots/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [PTE Request for Custom User Guide](https://make.wordpress.org/polyglots/2024/01/31/pte-request-for-custom-user-guide/)
 - [Agenda: Weekly Polyglots Chat – January 31, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/31/agenda-weekly-polyglots-chat-january-31-2024-1300-utc/)
-- [PTE request for Widgets for two plugins](https://make.wordpress.org/polyglots/2024/01/31/pte-request-for-widgets-for-google-reviews/)
-- [Request to become translator and translation editor &lpar;WordPress translation into Haitian&rpar;](https://make.wordpress.org/polyglots/2024/01/30/request-to-become-translator-and-translation-editor-wordpress-translation-into-haitian/)
-- [PTE Request for Woocommerce Ajax…](https://make.wordpress.org/polyglots/2024/01/30/pte-request-for-woocommerce-ajax/)
 <!-- POLYGLOTS:END -->
 
 ## Support
