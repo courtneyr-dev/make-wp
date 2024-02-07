@@ -497,6 +497,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [People of WordPress: Sunita Rai](https://wordpress.org/news/2024/02/people-of-wordpress-sunita-rai/)
 - [The Month in WordPress – January 2024](https://wordpress.org/news/2024/02/the-month-in-wordpress-january-2024/)
 - [WP Briefing: Episode 72: Why Your Website Matters](https://wordpress.org/news/2024/02/episode-72-why-your-website-matters/)
 - [WordPress 6.4.3 – Maintenance and Security release](https://wordpress.org/news/2024/01/wordpress-6-4-3-maintenance-and-security-release/)
@@ -506,7 +507,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Month in WordPress – December 2023](https://wordpress.org/news/2024/01/the-month-in-wordpress-december-2023/)
 - [Leap into 2024 with these Site Editor Tools](https://wordpress.org/news/2023/12/leap-into-2024-with-these-site-editor-tools/)
 - [WP Briefing: Episode 69: Reflections on State of the Word](https://wordpress.org/news/2023/12/episode-69-reflections-on-state-of-the-word/)
-- [State of the Word 2023 Recap](https://wordpress.org/news/2023/12/state-of-the-word-2023-recap/)
 <!-- NEWS:END -->
 
 ## Jobs
