@@ -185,6 +185,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Discussion: Translation Plugin on Learn](https://make.wordpress.org/training/2024/02/07/discussion-translation-plugin-on-learn/)
 - [Training Team Meeting Recap – 1st February 2024](https://make.wordpress.org/training/2024/02/05/training-team-meeting-recap-1st-february-2024/)
 - [Training Team Goals for 2024](https://make.wordpress.org/training/2024/02/05/training-team-goals-for-2024/)
 - [Contributor Spotlight: Tracy Rhodes](https://make.wordpress.org/training/2024/02/05/contributor-spotlight-tracy-rhodes/)
@@ -194,7 +195,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: Pilot program to test GatherPress on the WordPress.org network as a Meetup alternative](https://make.wordpress.org/training/2024/01/23/xpost-proposal-pilot-program-to-test-gatherpress-on-the-wordpress-org-network-as-a-meetup-alternative/)
 - [Discussion: Training’s contribution to the 6.5 release &lpar;and beyond&rpar;](https://make.wordpress.org/training/2024/01/22/discussion-trainings-contribution-to-the-6-5-release-and-beyond/)
 - [Contributor Spotlight: Nadia Maya Ardiani](https://make.wordpress.org/training/2024/01/16/contributor-spotlight-nadia-maya-ardiani/)
-- [Training Team Meeting Recap – January 11, 2024](https://make.wordpress.org/training/2024/01/16/training-team-meeting-recap-january-11-2024/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
