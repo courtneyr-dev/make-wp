@@ -59,6 +59,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – February 7, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/02/07/agenda-weekly-polyglots-chat-february-7-2024-0700-utc/)
 - [PTE Request for Contact Camo](https://make.wordpress.org/polyglots/2024/02/06/pte-request-for-contact-camo/)
 - [היי לחברה היודעים עברית!](https://make.wordpress.org/polyglots/2024/02/06/%d7%94%d7%99%d7%99-%d7%9c%d7%97%d7%91%d7%a8%d7%94-%d7%94%d7%99%d7%95%d7%93%d7%a2%d7%99%d7%9d-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/02/06/hello-polyglots-304/)
@@ -68,7 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/02/03/ive-suggested-translations-for-this-32/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/polyglots/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [PTE Request for Custom User Guide](https://make.wordpress.org/polyglots/2024/01/31/pte-request-for-custom-user-guide/)
-- [Agenda: Weekly Polyglots Chat – January 31, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/01/31/agenda-weekly-polyglots-chat-january-31-2024-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
