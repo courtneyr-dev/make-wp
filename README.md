@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Site Kit by Google – Analytics, Search Console, AdSense, Speed](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-performance-lab-plugin-2/)
+- [PTE request for 2 plugins](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-2-plugins-2/)
 - [Agenda: Weekly Polyglots Chat – February 7, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/02/07/agenda-weekly-polyglots-chat-february-7-2024-0700-utc/)
 - [PTE Request for Contact Camo](https://make.wordpress.org/polyglots/2024/02/06/pte-request-for-contact-camo/)
 - [היי לחברה היודעים עברית!](https://make.wordpress.org/polyglots/2024/02/06/%d7%94%d7%99%d7%99-%d7%9c%d7%97%d7%91%d7%a8%d7%94-%d7%94%d7%99%d7%95%d7%93%d7%a2%d7%99%d7%9d-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Question about translation approval](https://make.wordpress.org/polyglots/2024/02/05/question-about-translation-approval/)
 - [Hey, @mikinc860 Please check my…](https://make.wordpress.org/polyglots/2024/02/03/hey-mikinc860-please-check-my/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/02/03/ive-suggested-translations-for-this-32/)
-- [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/polyglots/2024/02/02/xpost-incident-response-team-call-for-nominations/)
-- [PTE Request for Custom User Guide](https://make.wordpress.org/polyglots/2024/01/31/pte-request-for-custom-user-guide/)
 <!-- POLYGLOTS:END -->
 
 ## Support
