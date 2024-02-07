@@ -511,10 +511,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Support Engineer for WP Plugin &lpar;remote&rpar;](https://jobs.wordpress.net/job/support-engineer-for-wp-plugin-remote/)
 - [Promote and Co-Administer Social Network Poetry Site](https://jobs.wordpress.net/job/promote-and-co-administer-social-network-poetry-site/)
 - [Volunteer  Developers for Driving Safety](https://jobs.wordpress.net/job/volunteer-developers-for-driving-safety/)
 - [Dynamic Routing support &amp; development](https://jobs.wordpress.net/job/dynamic-routing-support-development/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-833/)
 - [Condition Load Section](https://jobs.wordpress.net/job/condition-load-section/)
 - [Full-Stack WordPress Developer &lpar;aThemes&rpar;](https://jobs.wordpress.net/job/full-stack-wordpress-developer-athemes/)
 - [Web Developer Opportunity – Flexible, Skilled, and Ready for Growth](https://jobs.wordpress.net/job/web-developer-opportunity-flexible-skilled-and-ready-for-growth/)
