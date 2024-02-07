@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2024/02/07/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf-2/)
 - [Nesting and using blocks to create visually appealing content](https://wordpress.tv/2024/02/07/nesting-and-using-blocks-to-create-visually-appealing-content/)
 - [Using template parts](https://wordpress.tv/2024/02/07/using-template-parts-2/)
 - [Create a block child theme](https://wordpress.tv/2024/02/05/create-a-block-child-theme/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Front-end page request](https://wordpress.tv/2024/01/28/front-end-page-request/)
 - [Permalinks](https://wordpress.tv/2024/01/28/permalinks/)
 - [The WordPress database](https://wordpress.tv/2024/01/28/the-wordpress-database-3/)
-- [The WordPress file system](https://wordpress.tv/2024/01/28/the-wordpress-file-system/)
 <!-- WPTV:END -->
 
 ## Marketing
