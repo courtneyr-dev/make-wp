@@ -13,6 +13,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New Commit Message Requirements in Git: Hello Props Bot](https://make.wordpress.org/core/2024/02/01/new-commit-message-requirements-in-git-hello-props-bot/)
 - [Proposal: Implement a PHP autoloader in WordPress Core](https://make.wordpress.org/core/2024/02/01/proposal-implement-a-php-autoloader-in-wordpress-core/)
 - [6.5 Release Parties Schedule and Hosts](https://make.wordpress.org/core/2024/02/01/6-5-release-parties-schedule-and-hosts-2/)
+- [Dev Chat Summary, January 31, 2024](https://make.wordpress.org/core/2024/01/31/dev-chat-summary-january-31-2024/)
+- [What’s new in Gutenberg 17.6? &lpar;31 January&rpar;](https://make.wordpress.org/core/2024/01/31/whats-new-in-gutenberg-17-6-31-january/)
+- [Dev Chat agenda, January 31, 2024](https://make.wordpress.org/core/2024/01/31/dev-chat-agenda-january-31-2024/)
+- [Performance Chat Summary: 30 January 2024](https://make.wordpress.org/core/2024/01/30/performance-chat-summary-30-january-2024/)
+- [Performance Chat Agenda: 30 January 2024](https://make.wordpress.org/core/2024/01/30/performance-chat-agenda-30-january-2024/)
+- [A Week in Core – January 29, 2024](https://make.wordpress.org/core/2024/01/29/a-week-in-core-january-29-2024/)
+- [Proposal: What’s next for the Outreach program](https://make.wordpress.org/core/2024/01/29/proposal-whats-next-for-the-outreach-program/)
+- [Dev Chat Summary, January 24, 2024](https://make.wordpress.org/core/2024/01/25/dev-chat-summary-january-24-2024/)
+- [WordPress 6.4.3 RC1 is now available](https://make.wordpress.org/core/2024/01/25/wordpress-6-4-3-rc1-is-now-available/)
+- [Dev Chat agenda, January 24, 2024](https://make.wordpress.org/core/2024/01/24/dev-chat-agenda-january-24-2024/)
 <!-- CORE:END -->
 
 ## Design
