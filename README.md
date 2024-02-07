@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi,](https://make.wordpress.org/polyglots/2024/02/07/hi-108/)
+- [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/polyglots/2024/02/07/xpost-discussion-translation-plugin-on-learn/)
 - [PTE Request for Site Kit by Google – Analytics, Search Console, AdSense, Speed](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-performance-lab-plugin-2/)
 - [PTE request for 2 plugins](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-2-plugins-2/)
 - [Agenda: Weekly Polyglots Chat – February 7, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/02/07/agenda-weekly-polyglots-chat-february-7-2024-0700-utc/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/02/06/hello-polyglots-304/)
 - [rHi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/02/05/rhi-dear-mentors-we-have/)
 - [Question about translation approval](https://make.wordpress.org/polyglots/2024/02/05/question-about-translation-approval/)
-- [Hey, @mikinc860 Please check my…](https://make.wordpress.org/polyglots/2024/02/03/hey-mikinc860-please-check-my/)
-- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/02/03/ive-suggested-translations-for-this-32/)
 <!-- POLYGLOTS:END -->
 
 ## Support
