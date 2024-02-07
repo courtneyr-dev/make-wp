@@ -171,6 +171,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Agenda for February 7, 2024](https://make.wordpress.org/meta/2024/02/07/agenda-for-february-7-2024/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/meta/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [Meeting Agenda for January 24, 2024](https://make.wordpress.org/meta/2024/01/24/meeting-agenda-for-januar-24-2024/)
 - [X-post: Proposal: Pilot program to test GatherPress on the WordPress.org network as a Meetup alternative](https://make.wordpress.org/meta/2024/01/22/xpost-proposal-pilot-program-to-test-gatherpress-on-the-wordpress-org-network-as-a-meetup-alternative/)
@@ -180,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/meta/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [Plugin Previews are now available for opt-in](https://make.wordpress.org/meta/2023/12/08/plugin-previews-are-now-available-for-opt-in/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/meta/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
-- [Meeting Agenda for November 29, 2023](https://make.wordpress.org/meta/2023/11/29/meeting-agenda-for-november-29-2023/)
 <!-- META:END -->
 
 ## Training
