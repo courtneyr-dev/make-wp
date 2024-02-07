@@ -342,6 +342,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Playground: instalación completa y funcional de WordPress](https://wordpress.tv/2024/02/07/wordpress-playground-instalacion-completa-y-funcional-de-wordpress/)
 - [Entendiendo la sostenibilidad digital más allá de WordPress](https://wordpress.tv/2024/02/07/entendiendo-la-sostenibilidad-digital-mas-alla-de-wordpress/)
 - [7 ideas y 1 bloque de WordPress para darle vida a tu blog](https://wordpress.tv/2024/02/07/7-ideas-y-1-bloque-de-wordpress-para-darle-vida-a-tu-blog/)
 - [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2024/02/07/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf-2/)
@@ -366,7 +367,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Créer des Boucles de Requête Multiples l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/01/30/creer-des-boucles-de-requete-multiples-lediteur-de-site-wordpress-fse/)
 - [Optimizing WordPress for Core Web Vitals and Performance](https://wordpress.tv/2024/01/28/optimizing-wordpress-for-core-web-vitals-and-performance/)
 - [Admin page request](https://wordpress.tv/2024/01/28/admin-page-request/)
-- [Front-end page request](https://wordpress.tv/2024/01/28/front-end-page-request/)
 <!-- WPTV:END -->
 
 ## Marketing
