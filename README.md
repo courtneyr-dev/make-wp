@@ -530,7 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Developer Opportunity – Flexible, Skilled, and Ready for Growth](https://jobs.wordpress.net/job/web-developer-opportunity-flexible-skilled-and-ready-for-growth/)
 - [Somebody to help with improving my website including SEO](https://jobs.wordpress.net/job/somebody-to-help-with-improving-my-website-including-seo/)
 - [[Inpsyde] Senior Full Stack Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-m-f-d/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-6/)
+- [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-832/)
 <!-- JOBS:END -->
 
 ## Central
