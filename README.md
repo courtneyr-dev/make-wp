@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat agenda, Wednesday February 7, 2024](https://make.wordpress.org/core/2024/02/07/dev-chat-agenda-wednesday-february-7-2024/)
 - [Phase 3 Media Meeting Agenda – February 7, 2024](https://make.wordpress.org/core/2024/02/06/phase-3-media-meeting-agenda-february-7-2024/)
 - [Performance Chat Summary: 6 February 2024](https://make.wordpress.org/core/2024/02/06/performance-chat-summary-06-february-2024/)
 - [Performance Chat Agenda: 6 February 2024](https://make.wordpress.org/core/2024/02/06/performance-chat-agenda-06-february-2024/)
@@ -12,7 +13,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New Commit Message Requirements in Git: Hello Props Bot](https://make.wordpress.org/core/2024/02/01/new-commit-message-requirements-in-git-hello-props-bot/)
 - [Proposal: Implement a PHP autoloader in WordPress Core](https://make.wordpress.org/core/2024/02/01/proposal-implement-a-php-autoloader-in-wordpress-core/)
 - [6.5 Release Parties Schedule and Hosts](https://make.wordpress.org/core/2024/02/01/6-5-release-parties-schedule-and-hosts-2/)
-- [Dev Chat Summary, January 31, 2024](https://make.wordpress.org/core/2024/01/31/dev-chat-summary-january-31-2024/)
 <!-- CORE:END -->
 
 ## Design
