@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Guideline change: Reviews of Commercial/Pro Plugins](https://make.wordpress.org/support/2024/02/guideline-change-reviews-of-commercial-pro-plugins/)
 - [Some proposed improvements for 2024](https://make.wordpress.org/support/2024/02/some-proposed-improvements-for-2024/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/support/2024/02/xpost-incident-response-team-call-for-nominations/)
 - [Suggestion for a change in the guidelines:](https://make.wordpress.org/support/2024/02/suggestion-for-a-change-in-the-guidelines/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [7th December Support Team meeting](https://make.wordpress.org/support/2023/12/7th-december-support-team-meeting/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/support/2023/12/xpost-embracing-matrix-for-enhanced-communication/)
 - [30 November Support Team meeting](https://make.wordpress.org/support/2023/11/30-november-support-team-meeting/)
-- [X-post: Create Tours for Make P2s](https://make.wordpress.org/support/2023/11/xpost-create-tours-for-make-p2s/)
 <!-- SUPPORT:END -->
 
 ## Documentation
