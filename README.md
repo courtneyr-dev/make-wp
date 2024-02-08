@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Para gustos los colores](https://wordpress.tv/2024/02/08/para-gustos-los-colores/)
+- [Decidido, me hago yo la web. ¿Qué plantilla le pongo a mi WordPress?](https://wordpress.tv/2024/02/08/decidido-me-hago-yo-la-web-que-plantilla-le-pongo-a-mi-wordpress/)
 - [WordPress en la Creación de Modelos de Aprendizaje Efectivos](https://wordpress.tv/2024/02/08/wordpress-en-la-creacion-de-modelos-de-aprendizaje-efectivos/)
 - [WordPress Playground: instalación completa y funcional de WordPress](https://wordpress.tv/2024/02/07/wordpress-playground-instalacion-completa-y-funcional-de-wordpress/)
 - [Entendiendo la sostenibilidad digital más allá de WordPress](https://wordpress.tv/2024/02/07/entendiendo-la-sostenibilidad-digital-mas-alla-de-wordpress/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the media library](https://wordpress.tv/2024/01/31/using-the-media-library/)
 - [Setting up your pages, posts, site logo and navigation menu](https://wordpress.tv/2024/01/31/setting-up-your-pages-posts-site-logo-and-navigation-menu/)
 - [The programming languages of WordPress – HTML](https://wordpress.tv/2024/01/31/the-programming-languages-of-wordpress-html/)
-- [Créer des Boucles de Requête Multiples l’éditeur de site WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/01/30/creer-des-boucles-de-requete-multiples-lediteur-de-site-wordpress-fse/)
-- [Optimizing WordPress for Core Web Vitals and Performance](https://wordpress.tv/2024/01/28/optimizing-wordpress-for-core-web-vitals-and-performance/)
 <!-- WPTV:END -->
 
 ## Marketing
