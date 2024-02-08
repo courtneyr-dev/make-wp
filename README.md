@@ -556,6 +556,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordPress Photo Festival](https://central.wordcamp.org/wordcamps/wordpress-photo-festival/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2024/)
+- [Uganda Website Projects Competition 2024](https://central.wordcamp.org/wordcamps/uganda-projects-competition-2024/)
 - [WordPress for Kids](https://central.wordcamp.org/wordcamps/wordpress-for-kids/)
 - [WordPress School Day](https://central.wordcamp.org/wordcamps/wordpress-school-day/)
 - [Switzerland Community Day](https://central.wordcamp.org/wordcamps/switzerland-community-day/)
@@ -566,7 +567,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Gliwice](https://central.wordcamp.org/wordcamps/wordcamp-gliwice/)
 - [WordCamp Porto, Portugal](https://central.wordcamp.org/wordcamps/wordcamp-porto-portugal/)
 - [WordCamp Pune, India](https://central.wordcamp.org/wordcamps/wordcamp-pune-maharashtra-india/)
-- [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-8/)
 - [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-united-states/)
 - [WordCamp Canada 2024 &lpar;#WCEH&rpar;](https://central.wordcamp.org/wordcamps/wordcamp-wordcamp-canada-2024/)
 <!-- WordCamp:END -->
