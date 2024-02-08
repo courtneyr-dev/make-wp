@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for tk-google-fonts](https://make.wordpress.org/polyglots/2024/02/08/pte-request-for-tk-google-fonts/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/02/08/hi-dear-mentors-we-have-129/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/02/07/hi-108/)
 - [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/polyglots/2024/02/07/xpost-discussion-translation-plugin-on-learn/)
 - [PTE Request for Site Kit by Google – Analytics, Search Console, AdSense, Speed](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-performance-lab-plugin-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Contact Camo](https://make.wordpress.org/polyglots/2024/02/06/pte-request-for-contact-camo/)
 - [היי לחברה היודעים עברית!](https://make.wordpress.org/polyglots/2024/02/06/%d7%94%d7%99%d7%99-%d7%9c%d7%97%d7%91%d7%a8%d7%94-%d7%94%d7%99%d7%95%d7%93%d7%a2%d7%99%d7%9d-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/02/06/hello-polyglots-304/)
-- [rHi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/02/05/rhi-dear-mentors-we-have/)
-- [Question about translation approval](https://make.wordpress.org/polyglots/2024/02/05/question-about-translation-approval/)
 <!-- POLYGLOTS:END -->
 
 ## Support
