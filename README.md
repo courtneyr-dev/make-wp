@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-7/)
+- [Programmer – WP booking system &amp; Search](https://jobs.wordpress.net/job/programmer-wp-booking-system-search/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-7/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-10/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-19/)
 - [Support Engineer for WP Plugin &lpar;remote&rpar;](https://jobs.wordpress.net/job/support-engineer-for-wp-plugin-remote/)
 - [Promote and Co-Administer Social Network Poetry Site](https://jobs.wordpress.net/job/promote-and-co-administer-social-network-poetry-site/)
 - [Volunteer  Developers for Driving Safety](https://jobs.wordpress.net/job/volunteer-developers-for-driving-safety/)
 - [Dynamic Routing support &amp; development](https://jobs.wordpress.net/job/dynamic-routing-support-development/)
 - [Condition Load Section](https://jobs.wordpress.net/job/condition-load-section/)
-- [Full-Stack WordPress Developer &lpar;aThemes&rpar;](https://jobs.wordpress.net/job/full-stack-wordpress-developer-athemes/)
-- [Web Developer Opportunity – Flexible, Skilled, and Ready for Growth](https://jobs.wordpress.net/job/web-developer-opportunity-flexible-skilled-and-ready-for-growth/)
-- [Somebody to help with improving my website including SEO](https://jobs.wordpress.net/job/somebody-to-help-with-improving-my-website-including-seo/)
-- [[Inpsyde] Senior Full Stack Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-m-f-d/)
-- [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-832/)
 <!-- JOBS:END -->
 
 ## Central
