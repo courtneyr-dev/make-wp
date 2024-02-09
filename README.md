@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request in Japanese – multiple projects](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-japanese-multiple-projects/)
 - [PTE request in Polish &lpar;Poland&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-polish-poland/)
 - [PTE request in French &lpar;France&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-french-france/)
 - [PTE request in German &lpar;German&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-german-german/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2024/02/07/hi-108/)
 - [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/polyglots/2024/02/07/xpost-discussion-translation-plugin-on-learn/)
 - [PTE Request for Site Kit by Google – Analytics, Search Console, AdSense, Speed](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-performance-lab-plugin-2/)
-- [PTE request for 2 plugins](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-2-plugins-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
