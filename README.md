@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Site Specialist](https://jobs.wordpress.net/job/campuspress-site-specialist/)
+- [Global Driving Safety Cause Marketing Partners](https://jobs.wordpress.net/job/global-driving-safety-cause-marketing-partners/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-7/)
 - [Programmer – WP booking system &amp; Search](https://jobs.wordpress.net/job/programmer-wp-booking-system-search/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-7/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support Engineer for WP Plugin &lpar;remote&rpar;](https://jobs.wordpress.net/job/support-engineer-for-wp-plugin-remote/)
 - [Promote and Co-Administer Social Network Poetry Site](https://jobs.wordpress.net/job/promote-and-co-administer-social-network-poetry-site/)
 - [Volunteer  Developers for Driving Safety](https://jobs.wordpress.net/job/volunteer-developers-for-driving-safety/)
-- [Dynamic Routing support &amp; development](https://jobs.wordpress.net/job/dynamic-routing-support-development/)
-- [Condition Load Section](https://jobs.wordpress.net/job/condition-load-section/)
 <!-- JOBS:END -->
 
 ## Central
