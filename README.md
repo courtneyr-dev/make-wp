@@ -125,8 +125,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [i18n make-php](https://developer.wordpress.org/cli/commands/i18n/make-php/)
-- [post url-to-id](https://developer.wordpress.org/cli/commands/post/url-to-id/)
+- [wp i18n make-php](https://developer.wordpress.org/cli/commands/i18n/make-php/)
+- [wp post url-to-id](https://developer.wordpress.org/cli/commands/post/url-to-id/)
 - [Testing](https://developer.wordpress.org/themes/advanced-topics/testing/)
 - [Publishing Themes](https://developer.wordpress.org/themes/advanced-topics/publishing-themes/)
 - [Action Reference](https://developer.wordpress.org/apis/hooks/action-reference/)
