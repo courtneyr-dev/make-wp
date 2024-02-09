@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request in Polish &lpar;Poland&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-polish-poland/)
+- [PTE request in French &lpar;France&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-french-france/)
+- [PTE request in German &lpar;German&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-german-german/)
+- [CLPTE role request in project WP Simple Pay](https://make.wordpress.org/polyglots/2024/02/09/clpte-role-request-in-project-wp-simple-pay/)
 - [PTE Request for tk-google-fonts](https://make.wordpress.org/polyglots/2024/02/08/pte-request-for-tk-google-fonts/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/02/08/hi-dear-mentors-we-have-129/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/02/07/hi-108/)
 - [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/polyglots/2024/02/07/xpost-discussion-translation-plugin-on-learn/)
 - [PTE Request for Site Kit by Google – Analytics, Search Console, AdSense, Speed](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-performance-lab-plugin-2/)
 - [PTE request for 2 plugins](https://make.wordpress.org/polyglots/2024/02/07/pte-request-for-2-plugins-2/)
-- [Agenda: Weekly Polyglots Chat – February 7, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/02/07/agenda-weekly-polyglots-chat-february-7-2024-0700-utc/)
-- [PTE Request for Contact Camo](https://make.wordpress.org/polyglots/2024/02/06/pte-request-for-contact-camo/)
-- [היי לחברה היודעים עברית!](https://make.wordpress.org/polyglots/2024/02/06/%d7%94%d7%99%d7%99-%d7%9c%d7%97%d7%91%d7%a8%d7%94-%d7%94%d7%99%d7%95%d7%93%d7%a2%d7%99%d7%9d-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/02/06/hello-polyglots-304/)
 <!-- POLYGLOTS:END -->
 
 ## Support
