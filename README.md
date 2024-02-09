@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Recap of Hallway Hangout on Intrinsic Design](https://make.wordpress.org/themes/2024/02/09/recap-of-hallway-hangout-on-intrinsic-design/)
 - [X-post: Guideline change: Reviews of Commercial/Pro Plugins](https://make.wordpress.org/themes/2024/02/08/xpost-guideline-change-reviews-of-commercial-pro-plugins/)
 - [X-post: Suggestion for a change in the guidelines:](https://make.wordpress.org/themes/2024/02/04/xpost-suggestion-for-a-change-in-the-guidelines/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/themes/2024/02/02/xpost-incident-response-team-call-for-nominations/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for January 23, 2024](https://make.wordpress.org/themes/2024/01/23/themes-team-meeting-agenda-for-january-23-2024/)
 - [X-post: Twenty Twenty-One, Twenty Twenty, and Twenty Seventeen updates now available](https://make.wordpress.org/themes/2024/01/16/xpost-twenty-twenty-one-twenty-twenty-and-twenty-seventeen-updates-now-available/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/themes/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
-- [New Block-Focused Theme Handbook Docs and What’s Coming in 2024](https://make.wordpress.org/themes/2024/01/11/new-block-focused-theme-handbook-docs-and-whats-coming-in-2024/)
 <!-- THEMES:END -->
 
 ## Plugins
