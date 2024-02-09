@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [2023 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/community/2024/02/09/2023-wordpress-meetup-survey-key-findings/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/community/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [X-post: WordCamp Zaragoza 2024. Design table in Contributor day](https://make.wordpress.org/community/2024/02/01/xpost-wordcamp-zaragoza-2024-design-table-in-contributor-day/)
 - [Reflecting on the NextGen Events Pilot Project and Looking Ahead](https://make.wordpress.org/community/2024/01/31/reflecting-on-nextgen-and-looking-ahead/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Events of the Month – November &amp; December](https://make.wordpress.org/community/2024/01/23/events-of-the-month-november-december/)
 - [WordCamp Asia 2024 Contributor Day: Help Needed!](https://make.wordpress.org/community/2024/01/23/wordcamp-asia-2024-contributor-day-help-needed/)
 - [Proposal: Pilot program to test GatherPress on the WordPress.org network as a Meetup alternative](https://make.wordpress.org/community/2024/01/22/proposal-pilot-program-to-test-gatherpress-on-the-wordpress-org-network-as-a-meetup-alternative/)
-- [Recap of the Contributor Working Group’s Mentorship Chat on January 18, 2024](https://make.wordpress.org/community/2024/01/22/recap-of-the-contributor-working-groups-mentorship-chat-on-january-18-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
