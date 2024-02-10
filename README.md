@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Reescribiendo el código: Desarrollo WordPress con un toque de IA](https://wordpress.tv/2024/02/10/reescribiendo-el-codigo-desarrollo-wordpress-con-un-toque-de-ia/)
 - [Xdebug and local development environments](https://wordpress.tv/2024/02/10/xdebug-and-local-development-environments/)
 - [Para gustos los colores](https://wordpress.tv/2024/02/08/para-gustos-los-colores/)
 - [Decidido, me hago yo la web. ¿Qué plantilla le pongo a mi WordPress?](https://wordpress.tv/2024/02/08/decidido-me-hago-yo-la-web-que-plantilla-le-pongo-a-mi-wordpress/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The programming languages of WordPress – JavaScript](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-javascript/)
 - [The programming languages of WordPress – CSS](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-css/)
 - [Using the media library](https://wordpress.tv/2024/01/31/using-the-media-library/)
-- [Setting up your pages, posts, site logo and navigation menu](https://wordpress.tv/2024/01/31/setting-up-your-pages-posts-site-logo-and-navigation-menu/)
 <!-- WPTV:END -->
 
 ## Marketing
