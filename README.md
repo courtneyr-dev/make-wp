@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Auto podcast import](https://make.wordpress.org/polyglots/2024/02/11/pte-request-for-auto-podcast-import/)
 - [Hello, great WordPress community](https://make.wordpress.org/polyglots/2024/02/10/hello-great-wordpress-community/)
 - [PTE request in Japanese – multiple projects](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-japanese-multiple-projects/)
 - [PTE request in Polish &lpar;Poland&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-polish-poland/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for tk-google-fonts](https://make.wordpress.org/polyglots/2024/02/08/pte-request-for-tk-google-fonts/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/02/08/hi-dear-mentors-we-have-129/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/02/07/hi-108/)
-- [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/polyglots/2024/02/07/xpost-discussion-translation-plugin-on-learn/)
 <!-- POLYGLOTS:END -->
 
 ## Support
