@@ -530,7 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-10/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-19/)
 - [Support Engineer for WP Plugin &lpar;remote&rpar;](https://jobs.wordpress.net/job/support-engineer-for-wp-plugin-remote/)
-- [Promote and Co-Administer Social Network Poetry Site](https://jobs.wordpress.net/job/promote-and-co-administer-social-network-poetry-site/)
+- [Volunteer  Developers for Driving Safety](https://jobs.wordpress.net/job/volunteer-developers-for-driving-safety/)
 <!-- JOBS:END -->
 
 ## Central
