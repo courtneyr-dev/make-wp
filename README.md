@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [ImageMagick for Photo Directory?](https://make.wordpress.org/systems/2024/02/12/imagemagick-for-photo-directory/)
 - [Reprovisioned Sandbox for VS Code 1.86](https://make.wordpress.org/systems/2024/02/07/reprovisioned-sandbox-for-vs-code-1-86/)
 - [CORS requests for api.wordpress.org](https://make.wordpress.org/systems/2024/02/07/cors-requests-for-api-wordpress-org/)
 - [Clear poststatus.com cache in planet](https://make.wordpress.org/systems/2024/02/06/clear-poststatus-com-cache-in-planet/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Enable s.w.org cors headers for .gif](https://make.wordpress.org/systems/2024/01/04/enable-s-w-org-cors-headers-for-gif/)
 - [Patterns missing from Developer Blog](https://make.wordpress.org/systems/2023/12/18/patterns-missing-from-developer-blog/)
 - [Ability to install fonts via…](https://make.wordpress.org/systems/2023/11/28/ability-to-install-fonts-via/)
-- [Install Node.js 20.x on the build server](https://make.wordpress.org/systems/2023/11/27/install-node-js-20-x-on-the-build-server/)
 <!-- SYSTEMS:END -->
 
 ## News
