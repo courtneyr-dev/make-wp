@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-834/)
 - [CampusPress Site Specialist &lpar;PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-php-mysql-html-css/)
 - [CampusPress Site Specialist](https://jobs.wordpress.net/job/campuspress-site-specialist/)
 - [Global Driving Safety Cause Marketing Partners](https://jobs.wordpress.net/job/global-driving-safety-cause-marketing-partners/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-10/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-19/)
 - [Support Engineer for WP Plugin &lpar;remote&rpar;](https://jobs.wordpress.net/job/support-engineer-for-wp-plugin-remote/)
-- [Volunteer  Developers for Driving Safety](https://jobs.wordpress.net/job/volunteer-developers-for-driving-safety/)
 <!-- JOBS:END -->
 
 ## Central
