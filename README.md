@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [L’Art du Glissé-Déposé pour tes Boucles de Contenu sur mesure dans tes pages WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/02/12/lart-du-glisse-depose-pour-tes-boucles-de-contenu-sur-mesure-dans-tes-pages-wordpress-fse/)
 - [Creating and customizing a header and a footer](https://wordpress.tv/2024/02/12/creating-and-customizing-a-header-and-a-footer/)
 - [Reescribiendo el código: Desarrollo WordPress con un toque de IA](https://wordpress.tv/2024/02/10/reescribiendo-el-codigo-desarrollo-wordpress-con-un-toque-de-ia/)
 - [Xdebug and local development environments](https://wordpress.tv/2024/02/10/xdebug-and-local-development-environments/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The programming languages of WordPress – MySQL](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-mysql/)
 - [The programming languages of WordPress – PHP](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-php/)
 - [The programming languages of WordPress – JavaScript](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-javascript/)
-- [The programming languages of WordPress – CSS](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-css/)
 <!-- WPTV:END -->
 
 ## Marketing
