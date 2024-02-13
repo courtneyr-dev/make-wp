@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Looking for a Fullstack WordPress developer with experience doing coding a whole theme from scratch, doing it pixel perfect from a PSD](https://jobs.wordpress.net/job/looking-for-a-fullstack-wordpress-developer-with-experience-doing-coding-a-whole-theme-from-scratch-doing-it-pixel-perfect-from-a-psd/)
+- [NetFlix like Landing Page](https://jobs.wordpress.net/job/netflix-like-landing-page/)
+- [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-35/)
+- [WordPress developer](https://jobs.wordpress.net/job/word-press-developer-22/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-834/)
 - [CampusPress Site Specialist &lpar;PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-php-mysql-html-css/)
 - [CampusPress Site Specialist](https://jobs.wordpress.net/job/campuspress-site-specialist/)
 - [Global Driving Safety Cause Marketing Partners](https://jobs.wordpress.net/job/global-driving-safety-cause-marketing-partners/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-7/)
 - [Programmer – WP booking system &amp; Search](https://jobs.wordpress.net/job/programmer-wp-booking-system-search/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-7/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-10/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-19/)
-- [Support Engineer for WP Plugin &lpar;remote&rpar;](https://jobs.wordpress.net/job/support-engineer-for-wp-plugin-remote/)
 <!-- JOBS:END -->
 
 ## Central
