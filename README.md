@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: JavaScript for modern WordPress development](https://wordpress.tv/2024/02/13/developer-hours-javascript-for-modern-wordpress-development/)
 - [Bricks Builder, el mejor editor visual. ¿O no?](https://wordpress.tv/2024/02/13/bricks-builder-el-mejor-editor-visual-o-no/)
 - [Introduction to WordPress Custom Gutenberg Blocks](https://wordpress.tv/2024/02/13/introduction-to-wordpress-custom-gutenberg-blocks/)
 - [Ten bajo control tu SEO con The SEO Framework](https://wordpress.tv/2024/02/13/ten-bajo-control-tu-seo-con-the-seo-framework/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Finding a good first issue to work on](https://wordpress.tv/2024/02/02/finding-a-good-first-issue-to-work-on/)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2024/02/02/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once-2/)
 - [Other useful development tools](https://wordpress.tv/2024/02/02/other-useful-development-tools/)
-- [Code editor](https://wordpress.tv/2024/02/02/code-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
