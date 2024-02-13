@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I want to translate the…](https://make.wordpress.org/polyglots/2024/02/13/i-want-to-translate-the/)
+- [Good afternoon](https://make.wordpress.org/polyglots/2024/02/13/good-afternoon/)
+- [Rotation tournaments editor request](https://make.wordpress.org/polyglots/2024/02/13/rotation-tournaments-editor-request/)
 - [PTE Request for Auto podcast import](https://make.wordpress.org/polyglots/2024/02/11/pte-request-for-auto-podcast-import/)
 - [Hello, great WordPress community](https://make.wordpress.org/polyglots/2024/02/10/hello-great-wordpress-community/)
 - [PTE request in Japanese – multiple projects](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-japanese-multiple-projects/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request in French &lpar;France&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-french-france/)
 - [PTE request in German &lpar;German&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-german-german/)
 - [CLPTE role request in project WP Simple Pay](https://make.wordpress.org/polyglots/2024/02/09/clpte-role-request-in-project-wp-simple-pay/)
-- [PTE Request for tk-google-fonts](https://make.wordpress.org/polyglots/2024/02/08/pte-request-for-tk-google-fonts/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/02/08/hi-dear-mentors-we-have-129/)
-- [Hi,](https://make.wordpress.org/polyglots/2024/02/07/hi-108/)
 <!-- POLYGLOTS:END -->
 
 ## Support
