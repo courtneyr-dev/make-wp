@@ -381,6 +381,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Notes: Marketing Team meeting, 6 February, 2024](https://make.wordpress.org/marketing/2024/02/13/notes-marketing-team-meeting-6-february-2024/)
 - [Notes: Marketing Team meeting, 30 January 2024](https://make.wordpress.org/marketing/2024/02/06/notes-marketing-team-meeting-30-january-2024/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/marketing/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [Supporting the WordPress Foundation through a Google Ads Grant](https://make.wordpress.org/marketing/2024/01/29/supporting-the-wordpress-foundation-through-a-google-ads-grant/)
@@ -390,7 +391,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Process Proposal: Moderating the New Showcase](https://make.wordpress.org/marketing/2024/01/12/process-proposal-moderating-the-new-showcase/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/marketing/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 - [Announcing the 2024 MakeWP Marketing Team Reps](https://make.wordpress.org/marketing/2024/01/09/announcing-the-2024-makewp-marketing-team-reps/)
-- [X-post: WordPress End of Year Celebrations!](https://make.wordpress.org/marketing/2023/12/28/xpost-wordpress-end-of-year-celebrations/)
 <!-- MARKETING:END -->
 
 ## CLI
