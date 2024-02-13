@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bricks Builder, el mejor editor visual. ¿O no?](https://wordpress.tv/2024/02/13/bricks-builder-el-mejor-editor-visual-o-no/)
+- [Introduction to WordPress Custom Gutenberg Blocks](https://wordpress.tv/2024/02/13/introduction-to-wordpress-custom-gutenberg-blocks/)
+- [Ten bajo control tu SEO con The SEO Framework](https://wordpress.tv/2024/02/13/ten-bajo-control-tu-seo-con-the-seo-framework/)
 - [Basic WordPress Settings](https://wordpress.tv/2024/02/12/basic-wordpress-settings/)
 - [Embedding media and third-party content on your website](https://wordpress.tv/2024/02/12/embedding-media-and-third-party-content-on-your-website-2/)
 - [L’Art du Glissé-Déposé pour tes Boucles de Contenu sur mesure dans tes pages WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/02/12/lart-du-glisse-depose-pour-tes-boucles-de-contenu-sur-mesure-dans-tes-pages-wordpress-fse/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://wordpress.tv/2024/02/02/fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once-2/)
 - [Other useful development tools](https://wordpress.tv/2024/02/02/other-useful-development-tools/)
 - [Code editor](https://wordpress.tv/2024/02/02/code-editor/)
-- [WordPress Installation](https://wordpress.tv/2024/02/02/wordpress-installation/)
-- [Local development environment](https://wordpress.tv/2024/02/02/local-development-environment/)
-- [The programming languages of WordPress – MySQL](https://wordpress.tv/2024/02/01/the-programming-languages-of-wordpress-mysql/)
 <!-- WPTV:END -->
 
 ## Marketing
