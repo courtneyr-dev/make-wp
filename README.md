@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 17.7? &lpar;14th February&rpar;](https://make.wordpress.org/core/2024/02/14/whats-new-in-gutenberg-17-7-14th-february/)
 - [Agenda, Dev Chat, Wednesday February 14, 2024](https://make.wordpress.org/core/2024/02/14/agenda-dev-chat-wednesday-february-14-2024/)
 - [Performance Chat Summary: 13 February 2024](https://make.wordpress.org/core/2024/02/13/performance-chat-summary-13-february-2024/)
 - [A Week in Core – February 12, 2024](https://make.wordpress.org/core/2024/02/13/a-week-in-core-february-12-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [6.5 Release Parties Schedule and Hosts](https://make.wordpress.org/core/2024/02/01/6-5-release-parties-schedule-and-hosts-2/)
 - [Dev Chat Summary, January 31, 2024](https://make.wordpress.org/core/2024/01/31/dev-chat-summary-january-31-2024/)
 - [What’s new in Gutenberg 17.6? &lpar;31 January&rpar;](https://make.wordpress.org/core/2024/01/31/whats-new-in-gutenberg-17-6-31-january/)
-- [Dev Chat agenda, January 31, 2024](https://make.wordpress.org/core/2024/01/31/dev-chat-agenda-january-31-2024/)
 <!-- CORE:END -->
 
 ## Design
