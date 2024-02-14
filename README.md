@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [2023 Annual Survey Results and Next Steps](https://wordpress.org/news/2024/02/2023-annual-survey-results-and-next-steps/)
 - [WordPress 6.5 Beta 1](https://wordpress.org/news/2024/02/wordpress-6-5-beta-1/)
 - [People of WordPress: Sunita Rai](https://wordpress.org/news/2024/02/people-of-wordpress-sunita-rai/)
 - [The Month in WordPress – January 2024](https://wordpress.org/news/2024/02/the-month-in-wordpress-january-2024/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Data Liberation in 2024](https://wordpress.org/news/2024/01/data-liberation-in-2024/)
 - [WP Briefing: Episode 70: A Look Ahead at WordPress in 2024](https://wordpress.org/news/2024/01/episode-70-a-look-ahead-at-wordpress-in-2024/)
 - [The Month in WordPress – December 2023](https://wordpress.org/news/2024/01/the-month-in-wordpress-december-2023/)
-- [Leap into 2024 with these Site Editor Tools](https://wordpress.org/news/2023/12/leap-into-2024-with-these-site-editor-tools/)
 <!-- NEWS:END -->
 
 ## Jobs
