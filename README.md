@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 8th February 2024](https://make.wordpress.org/training/2024/02/14/training-team-meeting-recap-8th-february-2024/)
 - [WordCamp Asia 2024 Contributor Day](https://make.wordpress.org/training/2024/02/08/wordcamp-asia-2024-contributor-day/)
 - [Brainstorm: What trends about Learn WordPress leaners do we want to observe?](https://make.wordpress.org/training/2024/02/08/brainstorm-what-trends-about-learn-wordpress-leaners-do-we-want-to-observe/)
 - [Discussion: Translation Plugin on Learn](https://make.wordpress.org/training/2024/02/07/discussion-translation-plugin-on-learn/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Faculty Survey Results – Q1 2024](https://make.wordpress.org/training/2024/02/02/faculty-survey-results-q1-2024/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/training/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [Training Team Meeting Recap – 25th January 2024](https://make.wordpress.org/training/2024/02/01/training-team-meeting-recap-25th-january-2024/)
-- [X-post: Proposal: Pilot program to test GatherPress on the WordPress.org network as a Meetup alternative](https://make.wordpress.org/training/2024/01/23/xpost-proposal-pilot-program-to-test-gatherpress-on-the-wordpress-org-network-as-a-meetup-alternative/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
