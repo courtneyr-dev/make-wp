@@ -181,6 +181,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Project Thread: Documentation Redesign](https://make.wordpress.org/meta/2024/02/15/project-thread-documentation-redesign/)
+- [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/meta/2024/02/15/xpost-discussion-translation-plugin-on-learn/)
 - [Agenda for February 7, 2024](https://make.wordpress.org/meta/2024/02/07/agenda-for-february-7-2024/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/meta/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [Meeting Agenda for January 24, 2024](https://make.wordpress.org/meta/2024/01/24/meeting-agenda-for-januar-24-2024/)
@@ -189,8 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Resources gets a refresh](https://make.wordpress.org/meta/2023/12/15/developer-resources-gets-a-refresh/)
 - [Meeting Agenda for December 13, 2023](https://make.wordpress.org/meta/2023/12/13/meeting-agenda-for-december-13-2023/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/meta/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
-- [Plugin Previews are now available for opt-in](https://make.wordpress.org/meta/2023/12/08/plugin-previews-are-now-available-for-opt-in/)
-- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/meta/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 <!-- META:END -->
 
 ## Training
