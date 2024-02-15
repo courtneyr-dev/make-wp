@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Polish PTE Request for the WP Delicious theme](https://make.wordpress.org/polyglots/2024/02/15/polish-pte-request-for-the-wp-delicious-theme/)
 - [I would love to know…](https://make.wordpress.org/polyglots/2024/02/13/i-would-love-to-know/)
 - [I want to translate the…](https://make.wordpress.org/polyglots/2024/02/13/i-want-to-translate-the/)
 - [Good afternoon](https://make.wordpress.org/polyglots/2024/02/13/good-afternoon/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request in Japanese – multiple projects](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-japanese-multiple-projects/)
 - [PTE request in Polish &lpar;Poland&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-polish-poland/)
 - [PTE request in French &lpar;France&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-french-france/)
-- [PTE request in German &lpar;German&rpar;…](https://make.wordpress.org/polyglots/2024/02/09/pte-request-in-german-german/)
 <!-- POLYGLOTS:END -->
 
 ## Support
