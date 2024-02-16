@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Announcing the Second Cohort &lpar;2024 Q1&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
 - [Contributor Working Group: Mentorship Chat Agenda | February 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/02/15/contributor-working-group-mentorship-chat-agenda-february-15th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [2023 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/community/2024/02/09/2023-wordpress-meetup-survey-key-findings/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/community/2024/02/02/xpost-incident-response-team-call-for-nominations/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Training #12: WordCamp Budgeting Tips](https://make.wordpress.org/community/2024/01/29/community-team-training-12-wordcamp-budgeting-tips/)
 - [Meetup Organizer Newsletter: January 2024](https://make.wordpress.org/community/2024/01/25/meetup-organizer-newsletter-january-2024/)
 - [Events of the Month – November &amp; December](https://make.wordpress.org/community/2024/01/23/events-of-the-month-november-december/)
-- [WordCamp Asia 2024 Contributor Day: Help Needed!](https://make.wordpress.org/community/2024/01/23/wordcamp-asia-2024-contributor-day-help-needed/)
 <!-- COMMUNITY:END -->
 
 ## Meta
