@@ -530,7 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Looking for a Fullstack WordPress developer with experience doing coding a whole theme from scratch, doing it pixel perfect from a PSD](https://jobs.wordpress.net/job/looking-for-a-fullstack-wordpress-developer-with-experience-doing-coding-a-whole-theme-from-scratch-doing-it-pixel-perfect-from-a-psd/)
 - [NetFlix like Landing Page](https://jobs.wordpress.net/job/netflix-like-landing-page/)
 - [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-35/)
-- [WordPress developer](https://jobs.wordpress.net/job/word-press-developer-22/)
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-834/)
 <!-- JOBS:END -->
 
 ## Central
