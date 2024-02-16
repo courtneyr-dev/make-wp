@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Migración de una web a temas de bloques, un caso real](https://wordpress.tv/2024/02/16/migracion-de-una-web-a-temas-de-bloques-un-caso-real/)
 - [Descifrando los misterios de BlockTheme en WordPress: el futuro del diseño web](https://wordpress.tv/2024/02/16/descifrando-los-misterios-de-blocktheme-en-wordpress-el-futuro-del-diseno-web/)
 - [Réorganiser les archives de contenus personnalisés avec le glissé-déposé dans un thème WordPress FSE](https://wordpress.tv/2024/02/16/reorganiser-les-archives-de-contenus-personnalises-avec-le-glisse-depose-dans-un-theme-wordpress-fse/)
 - [Starting your contributor journey with the WordPress Training Team](https://wordpress.tv/2024/02/16/starting-your-contributor-journey-with-the-wordpress-training-team/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [7 ideas y 1 bloque de WordPress para darle vida a tu blog](https://wordpress.tv/2024/02/07/7-ideas-y-1-bloque-de-wordpress-para-darle-vida-a-tu-blog/)
 - [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2024/02/07/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf-2/)
 - [Nesting and using blocks to create visually appealing content](https://wordpress.tv/2024/02/07/nesting-and-using-blocks-to-create-visually-appealing-content/)
-- [Using template parts](https://wordpress.tv/2024/02/07/using-template-parts-2/)
 <!-- WPTV:END -->
 
 ## Marketing
