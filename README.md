@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Starting your contributor journey with the WordPress Training Team](https://wordpress.tv/2024/02/16/starting-your-contributor-journey-with-the-wordpress-training-team/)
 - [How to improve SEO rankings](https://wordpress.tv/2024/02/15/how-to-improve-seo-rankings-2/)
 - [7 Tips to improve website security](https://wordpress.tv/2024/02/13/7-tips-to-improve-website-security-2/)
 - [Choosing and installing a plugin](https://wordpress.tv/2024/02/13/choosing-and-installing-a-plugin-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using template parts](https://wordpress.tv/2024/02/07/using-template-parts-2/)
 - [Create a block child theme](https://wordpress.tv/2024/02/05/create-a-block-child-theme/)
 - [CBWJ #6 各 Meetup グループのコミュニティビルディングの話を聞いてみよう](https://wordpress.tv/2024/02/04/community-building-workshop-japan-006/)
-- [Creating an About page using patterns](https://wordpress.tv/2024/02/04/creating-an-about-page-using-patterns/)
 <!-- WPTV:END -->
 
 ## Marketing
