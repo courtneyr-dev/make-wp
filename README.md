@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Descifrando los misterios de BlockTheme en WordPress: el futuro del diseño web](https://wordpress.tv/2024/02/16/descifrando-los-misterios-de-blocktheme-en-wordpress-el-futuro-del-diseno-web/)
 - [Réorganiser les archives de contenus personnalisés avec le glissé-déposé dans un thème WordPress FSE](https://wordpress.tv/2024/02/16/reorganiser-les-archives-de-contenus-personnalises-avec-le-glisse-depose-dans-un-theme-wordpress-fse/)
 - [Starting your contributor journey with the WordPress Training Team](https://wordpress.tv/2024/02/16/starting-your-contributor-journey-with-the-wordpress-training-team/)
 - [How to improve SEO rankings](https://wordpress.tv/2024/02/15/how-to-improve-seo-rankings-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2024/02/07/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf-2/)
 - [Nesting and using blocks to create visually appealing content](https://wordpress.tv/2024/02/07/nesting-and-using-blocks-to-create-visually-appealing-content/)
 - [Using template parts](https://wordpress.tv/2024/02/07/using-template-parts-2/)
-- [Create a block child theme](https://wordpress.tv/2024/02/05/create-a-block-child-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
