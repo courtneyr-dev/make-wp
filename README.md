@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for the EventPrime plugin](https://make.wordpress.org/polyglots/2024/02/18/pte-request-for-the-eventprime-plugin/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2024/02/16/pte-request-for-several-plugins-8/)
 - [Can you add me as an editor?](https://make.wordpress.org/polyglots/2024/02/16/can-you-add-me-as-an-editor/)
 - [היי](https://make.wordpress.org/polyglots/2024/02/16/%d7%94%d7%99%d7%99/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Good afternoon](https://make.wordpress.org/polyglots/2024/02/13/good-afternoon/)
 - [Rotation tournaments editor request](https://make.wordpress.org/polyglots/2024/02/13/rotation-tournaments-editor-request/)
 - [PTE Request for Auto podcast import](https://make.wordpress.org/polyglots/2024/02/11/pte-request-for-auto-podcast-import/)
-- [Hello, great WordPress community](https://make.wordpress.org/polyglots/2024/02/10/hello-great-wordpress-community/)
 <!-- POLYGLOTS:END -->
 
 ## Support
