@@ -524,13 +524,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fullstack WordPress developer](https://jobs.wordpress.net/job/fullstack-wordpress-developer-5/)
 - [Sr. WordPress Developer – Front End &lpar;React&rpar;](https://jobs.wordpress.net/job/sr-wordpress-developer-front-end-react/)
 - [Sr. WordPress Developer – Backend &lpar;Remote&rpar;](https://jobs.wordpress.net/job/sr-wordpress-developer-backend-remote/)
-- [Contract to Hire – WordPress Expert](https://jobs.wordpress.net/job/contract-to-hire-wordpress-expert/)
 - [WP Sales Team Administrator &lpar;Part-time&rpar;](https://jobs.wordpress.net/job/wp-sales-team-administrator-part-time/)
 - [PHP WordPress Support Engineer at UpdraftPlus](https://jobs.wordpress.net/job/php-wordpress-support-engineer-at-updraftplus/)
 - [Continuous Integration / DevOps Engineer](https://jobs.wordpress.net/job/continuous-integration-devops-engineer/)
 - [PHP WordPress Developer &lpar;All In One Security&rpar;](https://jobs.wordpress.net/job/php-wordpress-developer-all-in-one-security/)
 - [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-33/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales/)
+- [Looking for a Fullstack WordPress developer with experience doing coding a whole theme from scratch, doing it pixel perfect from a PSD](https://jobs.wordpress.net/job/looking-for-a-fullstack-wordpress-developer-with-experience-doing-coding-a-whole-theme-from-scratch-doing-it-pixel-perfect-from-a-psd/)
 <!-- JOBS:END -->
 
 ## Central
