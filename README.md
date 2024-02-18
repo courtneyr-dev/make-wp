@@ -529,8 +529,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Continuous Integration / DevOps Engineer](https://jobs.wordpress.net/job/continuous-integration-devops-engineer/)
 - [PHP WordPress Developer &lpar;All In One Security&rpar;](https://jobs.wordpress.net/job/php-wordpress-developer-all-in-one-security/)
 - [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-33/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Sales&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales/)
 - [Looking for a Fullstack WordPress developer with experience doing coding a whole theme from scratch, doing it pixel perfect from a PSD](https://jobs.wordpress.net/job/looking-for-a-fullstack-wordpress-developer-with-experience-doing-coding-a-whole-theme-from-scratch-doing-it-pixel-perfect-from-a-psd/)
+- [NetFlix like Landing Page](https://jobs.wordpress.net/job/netflix-like-landing-page/)
 <!-- JOBS:END -->
 
 ## Central
