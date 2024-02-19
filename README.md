@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-6/)
 - [Remove malware](https://jobs.wordpress.net/job/remove-malware-2/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-20/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-2/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-8/)
 - [Driving Safety Cause Marketing Partners](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners-3/)
 - [Fullstack WordPress developer](https://jobs.wordpress.net/job/fullstack-wordpress-developer-5/)
-- [Sr. WordPress Developer – Front End &lpar;React&rpar;](https://jobs.wordpress.net/job/sr-wordpress-developer-front-end-react/)
 <!-- JOBS:END -->
 
 ## Central
