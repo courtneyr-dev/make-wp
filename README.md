@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team Biweekly Meeting &lpar;February 20, 2024&rpar;](https://make.wordpress.org/docs/2024/02/19/agenda-for-docs-team-biweekly-meeting-february-20-2024/)
 - [X-post: Project Thread: Documentation Redesign](https://make.wordpress.org/docs/2024/02/15/xpost-project-thread-documentation-redesign/)
 - [Summary for Docs Team Meeting &lpar;11-Feb-2024&rpar;](https://make.wordpress.org/docs/2024/02/11/summary-for-docs-team-meeting-11-feb-2024/)
 - [X-post: Improving block development documentation: 2023 recap and a look ahead](https://make.wordpress.org/docs/2024/02/08/xpost-improving-block-development-documentation-2023-recap-and-a-look-ahead/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Online monthly Docs Team Contributor Day February 27, 2024](https://make.wordpress.org/docs/2024/02/01/online-monthly-docs-team-contributor-day-february-27-2024/)
 - [Online monthly Docs Team Contributor Day January 30, 2024](https://make.wordpress.org/docs/2024/01/28/online-monthly-docs-team-contributor-day-january-30-2024/)
 - [Agenda for Docs Team meeting January 23, 2024](https://make.wordpress.org/docs/2024/01/23/agenda-for-docs-team-meeting-january-9-2024/)
-- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/docs/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
 <!-- DOCS:END -->
 
 ### Support Articles
