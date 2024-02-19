@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [X-post: Data Liberation Next Steps](https://make.wordpress.org/project/2024/02/19/xpost-data-liberation-next-steps/)
 - [Incident Response Team: Call for Nominations](https://make.wordpress.org/project/2024/02/02/incident-response-team-call-for-nominations/)
 - [Updates from the Incident Response Team](https://make.wordpress.org/project/2024/01/26/updates-from-the-incident-response-team/)
 - [Proposal: Updates to Five for the Future from the Community Summit](https://make.wordpress.org/project/2024/01/24/proposal-updates-to-five-for-the-future-from-the-community-summit/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress End of Year Celebrations!](https://make.wordpress.org/project/2023/12/22/wordpress-end-of-year-celebrations/)
 - [Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/project/2023/12/12/update-on-matrix-migration-pausing-the-transition/)
 - [Overflow Questions from State of the Word 2023 in Madrid, Spain](https://make.wordpress.org/project/2023/12/12/overflow-questions-from-state-of-the-word-2023/)
-- [Embracing Matrix for Enhanced Communication](https://make.wordpress.org/project/2023/11/30/embracing-matrix-for-enhanced-communication/)
 <!-- PROJECT:END -->
 
 ## Systems
