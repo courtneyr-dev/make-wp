@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Merge Announcement: Interactivity API](https://make.wordpress.org/core/2024/02/19/merge-announcement-interactivity-api/)
 - [Data Liberation Next Steps](https://make.wordpress.org/core/2024/02/19/data-liberation-next-steps/)
 - [Summary, Dev Chat, February 14, 2024](https://make.wordpress.org/core/2024/02/15/summary-dev-chat-february-7-2024-2/)
 - [Merge Announcement: Plugin Dependencies](https://make.wordpress.org/core/2024/02/15/merge-announcement-plugin-dependencies/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/core/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [Developer Blog editorial meeting summary, February 1, 2024](https://make.wordpress.org/core/2024/02/02/developer-blog-editorial-meeting-summary-february-1-2024/)
 - [New Commit Message Requirements in Git: Hello Props Bot](https://make.wordpress.org/core/2024/02/01/new-commit-message-requirements-in-git-hello-props-bot/)
-- [Proposal: Implement a PHP autoloader in WordPress Core](https://make.wordpress.org/core/2024/02/01/proposal-implement-a-php-autoloader-in-wordpress-core/)
 <!-- CORE:END -->
 
 ## Design
