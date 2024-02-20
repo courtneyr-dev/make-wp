@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [X-post: Discussion: Bringing accessibility-first approaches into content development](https://make.wordpress.org/accessibility/2024/02/20/xpost-discussion-bringing-accessibility-first-approaches-into-content-development/)
 - [Accessibility Team Meeting Notes: February 16, 2024](https://make.wordpress.org/accessibility/2024/02/16/accessibility-team-meeting-notes-february-16-2024/)
 - [Accessibility Team Meeting Agenda: February 16, 2024](https://make.wordpress.org/accessibility/2024/02/16/accessibility-team-meeting-agenda-february-16-2024/)
 - [Accessibility Team Meeting Notes: February 2, 2024](https://make.wordpress.org/accessibility/2024/02/05/accessibility-team-meeting-notes-february-2-2024/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Special Accessibility Team Meeting Agenda: January 19, 2024](https://make.wordpress.org/accessibility/2024/01/12/special-accessibility-team-meeting-agenda-january-19-2024/)
 - [Accessibility Team Meeting Notes: January 5, 2024](https://make.wordpress.org/accessibility/2024/01/08/accessibility-team-meeting-notes-january-5-2024/)
 - [Accessibility Team Meeting Agenda: January 5, 2024](https://make.wordpress.org/accessibility/2024/01/03/accessibility-team-meeting-agenda-january-5-2024/)
-- [X-post: Developer Resources gets a refresh](https://make.wordpress.org/accessibility/2023/12/15/xpost-developer-resources-gets-a-refresh/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
