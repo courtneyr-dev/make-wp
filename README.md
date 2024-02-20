@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [From Small Blogs to Big Brands](https://wordpress.tv/2024/02/20/from-small-blogs-to-big-brands/)
+- [Lessons from Leadership](https://wordpress.tv/2024/02/20/lessons-from-leadership/)
 - [Dashboard &amp; Documents- Where to find the answers](https://wordpress.tv/2024/02/16/laura-adamonis-dashboard-documents-where-to-find-the-answers/)
 - [Migración de una web a temas de bloques, un caso real](https://wordpress.tv/2024/02/16/migracion-de-una-web-a-temas-de-bloques-un-caso-real/)
 - [Descifrando los misterios de BlockTheme en WordPress: el futuro del diseño web](https://wordpress.tv/2024/02/16/descifrando-los-misterios-de-blocktheme-en-wordpress-el-futuro-del-diseno-web/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress en la Creación de Modelos de Aprendizaje Efectivos](https://wordpress.tv/2024/02/08/wordpress-en-la-creacion-de-modelos-de-aprendizaje-efectivos/)
 - [WordPress Playground: instalación completa y funcional de WordPress](https://wordpress.tv/2024/02/07/wordpress-playground-instalacion-completa-y-funcional-de-wordpress/)
 - [Entendiendo la sostenibilidad digital más allá de WordPress](https://wordpress.tv/2024/02/07/entendiendo-la-sostenibilidad-digital-mas-alla-de-wordpress/)
-- [7 ideas y 1 bloque de WordPress para darle vida a tu blog](https://wordpress.tv/2024/02/07/7-ideas-y-1-bloque-de-wordpress-para-darle-vida-a-tu-blog/)
-- [Crear un directorio usando WordPress y Campos Personalizados &lpar;ACF&rpar;](https://wordpress.tv/2024/02/07/crear-un-directorio-usando-wordpress-y-campos-personalizados-acf-2/)
 <!-- WPTV:END -->
 
 ## Marketing
