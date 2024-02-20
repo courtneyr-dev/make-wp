@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 15th February 2024](https://make.wordpress.org/training/2024/02/20/training-team-meeting-recap-15th-february-2024/)
 - [Discussion: Bringing accessibility-first approaches into content development](https://make.wordpress.org/training/2024/02/20/discussion-bringing-accessibility-first-approaches-into-content-development/)
 - [Training Team Meeting Recap – 8th February 2024](https://make.wordpress.org/training/2024/02/14/training-team-meeting-recap-8th-february-2024/)
 - [WordCamp Asia 2024 Contributor Day](https://make.wordpress.org/training/2024/02/08/wordcamp-asia-2024-contributor-day/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Goals for 2024](https://make.wordpress.org/training/2024/02/05/training-team-goals-for-2024/)
 - [Contributor Spotlight: Tracy Rhodes](https://make.wordpress.org/training/2024/02/05/contributor-spotlight-tracy-rhodes/)
 - [Faculty Survey Results – Q1 2024](https://make.wordpress.org/training/2024/02/02/faculty-survey-results-q1-2024/)
-- [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/training/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
