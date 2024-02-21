@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Documentation Update: Meetup Organizer Newsletter](https://make.wordpress.org/community/2024/02/21/documentation-update-meetup-organizer-newsletter/)
 - [Jakarta WordPress Web Challenge](https://make.wordpress.org/community/2024/02/21/jakarta-wordpress-web-challenge/)
 - [Project: Reactivation of WordPress Latam Communities](https://make.wordpress.org/community/2024/02/16/project-reactivation-of-wordpress-latam-communities/)
 - [Announcing the Second Cohort &lpar;2024 Q1&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordCamp Zaragoza 2024. Design table in Contributor day](https://make.wordpress.org/community/2024/02/01/xpost-wordcamp-zaragoza-2024-design-table-in-contributor-day/)
 - [Reflecting on the NextGen Events Pilot Project and Looking Ahead](https://make.wordpress.org/community/2024/01/31/reflecting-on-nextgen-and-looking-ahead/)
 - [Community Team Meeting Agenda for 1 February 2024](https://make.wordpress.org/community/2024/01/31/community-team-meeting-agenda-for-1-february-2024/)
-- [Community Team Training #12: WordCamp Budgeting Tips](https://make.wordpress.org/community/2024/01/29/community-team-training-12-wordcamp-budgeting-tips/)
 <!-- COMMUNITY:END -->
 
 ## Meta
