@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Jakarta WordPress Web Challenge](https://make.wordpress.org/community/2024/02/21/jakarta-wordpress-web-challenge/)
 - [Project: Reactivation of WordPress Latam Communities](https://make.wordpress.org/community/2024/02/16/project-reactivation-of-wordpress-latam-communities/)
 - [Announcing the Second Cohort &lpar;2024 Q1&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
 - [Contributor Working Group: Mentorship Chat Agenda | February 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/02/15/contributor-working-group-mentorship-chat-agenda-february-15th-0700-utc-apac-emea-and-1600-utc-amer/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Reflecting on the NextGen Events Pilot Project and Looking Ahead](https://make.wordpress.org/community/2024/01/31/reflecting-on-nextgen-and-looking-ahead/)
 - [Community Team Meeting Agenda for 1 February 2024](https://make.wordpress.org/community/2024/01/31/community-team-meeting-agenda-for-1-february-2024/)
 - [Community Team Training #12: WordCamp Budgeting Tips](https://make.wordpress.org/community/2024/01/29/community-team-training-12-wordcamp-budgeting-tips/)
-- [Meetup Organizer Newsletter: January 2024](https://make.wordpress.org/community/2024/01/25/meetup-organizer-newsletter-january-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
