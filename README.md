@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using Xdebug to verify a core bug](https://wordpress.tv/2024/02/20/using-xdebug-to-verify-a-core-bug/)
 - [From Small Blogs to Big Brands](https://wordpress.tv/2024/02/20/from-small-blogs-to-big-brands/)
 - [Lessons from Leadership](https://wordpress.tv/2024/02/20/lessons-from-leadership/)
 - [Dashboard &amp; Documents- Where to find the answers](https://wordpress.tv/2024/02/16/laura-adamonis-dashboard-documents-where-to-find-the-answers/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Decidido, me hago yo la web. ¿Qué plantilla le pongo a mi WordPress?](https://wordpress.tv/2024/02/08/decidido-me-hago-yo-la-web-que-plantilla-le-pongo-a-mi-wordpress/)
 - [WordPress en la Creación de Modelos de Aprendizaje Efectivos](https://wordpress.tv/2024/02/08/wordpress-en-la-creacion-de-modelos-de-aprendizaje-efectivos/)
 - [WordPress Playground: instalación completa y funcional de WordPress](https://wordpress.tv/2024/02/07/wordpress-playground-instalacion-completa-y-funcional-de-wordpress/)
-- [Entendiendo la sostenibilidad digital más allá de WordPress](https://wordpress.tv/2024/02/07/entendiendo-la-sostenibilidad-digital-mas-alla-de-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
