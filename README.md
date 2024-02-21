@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Meta Meeting Agenda for February 21, 2024](https://make.wordpress.org/meta/2024/02/21/meta-meeting-agenda/)
 - [Project Thread: Documentation Redesign](https://make.wordpress.org/meta/2024/02/15/project-thread-documentation-redesign/)
 - [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/meta/2024/02/15/xpost-discussion-translation-plugin-on-learn/)
 - [Agenda for February 7, 2024](https://make.wordpress.org/meta/2024/02/07/agenda-for-february-7-2024/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meta Team Goals 2024](https://make.wordpress.org/meta/2024/01/13/meta-team-goals-2024/)
 - [Developer Resources gets a refresh](https://make.wordpress.org/meta/2023/12/15/developer-resources-gets-a-refresh/)
 - [Meeting Agenda for December 13, 2023](https://make.wordpress.org/meta/2023/12/13/meeting-agenda-for-december-13-2023/)
-- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/meta/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 <!-- META:END -->
 
 ## Training
