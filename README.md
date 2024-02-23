@@ -69,7 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [I am interested in becoming a PTE.](https://make.wordpress.org/polyglots/2024/02/23/i-am-interested-in-becoming-a-pte/)
+- [PTE request for Openverse](https://make.wordpress.org/polyglots/2024/02/23/i-am-interested-in-becoming-a-pte/)
 - [CLPTE role request in two projects](https://make.wordpress.org/polyglots/2024/02/22/clpte-role-request-in-two-projects/)
 - [Hello @BredeBS @ejner69, I would…](https://make.wordpress.org/polyglots/2024/02/22/hello-bredebs-ejner69-i-would/)
 - [Agenda: Weekly Polyglots Chat – February 21, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/02/21/agenda-weekly-polyglots-chat-february-21-2024-0700-utc/)
