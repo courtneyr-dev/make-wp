@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Make WordPress Training Team Faculty Program Information Session](https://wordpress.tv/2024/02/23/make-wordpress-training-team-faculty-program-information-session/)
 - [El costo de un hackeo](https://wordpress.tv/2024/02/22/el-costo-de-un-hackeo/)
 - [Inteligencia artificial y WordPress](https://wordpress.tv/2024/02/22/inteligencia-artificial-y-wordpress/)
 - [User management](https://wordpress.tv/2024/02/21/user-management-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [L’Art du Glissé-Déposé pour tes Boucles de Contenu sur mesure dans tes pages WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/02/12/lart-du-glisse-depose-pour-tes-boucles-de-contenu-sur-mesure-dans-tes-pages-wordpress-fse/)
 - [Creating and customizing a header and a footer](https://wordpress.tv/2024/02/12/creating-and-customizing-a-header-and-a-footer/)
 - [Reescribiendo el código: Desarrollo WordPress con un toque de IA](https://wordpress.tv/2024/02/10/reescribiendo-el-codigo-desarrollo-wordpress-con-un-toque-de-ia/)
-- [Xdebug and local development environments](https://wordpress.tv/2024/02/10/xdebug-and-local-development-environments/)
 <!-- WPTV:END -->
 
 ## Marketing
