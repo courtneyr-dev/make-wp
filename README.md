@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Inpsyde] Senior Full Stack Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-m-f-d-2/)
+- [Kind human who can help fix malware etc w/ WordPress](https://jobs.wordpress.net/job/kind-human-who-can-help-fix-malware-etc-w-wordpress/)
+- [support](https://jobs.wordpress.net/job/support-4/)
 - [Experienced WordPress developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-16/)
 - [WordPress development and technical support](https://jobs.wordpress.net/job/wordpress-development-and-technical-support/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-6/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-20/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-2/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-8/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-11/)
-- [CampusPress Site Specialist &lpar;PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-php-mysql-html-css-2/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-8/)
 <!-- JOBS:END -->
 
 ## Central
