@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [WP Rollback…](https://make.wordpress.org/polyglots/2024/02/23/pte-request-for-wp-rollback/)
 - [PTE request for Openverse](https://make.wordpress.org/polyglots/2024/02/23/i-am-interested-in-becoming-a-pte/)
 - [CLPTE role request in two projects](https://make.wordpress.org/polyglots/2024/02/22/clpte-role-request-in-two-projects/)
 - [Hello @BredeBS @ejner69, I would…](https://make.wordpress.org/polyglots/2024/02/22/hello-bredebs-ejner69-i-would/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for the EventPrime plugin](https://make.wordpress.org/polyglots/2024/02/18/pte-request-for-the-eventprime-plugin/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2024/02/16/pte-request-for-several-plugins-8/)
 - [Can you add me as an editor?](https://make.wordpress.org/polyglots/2024/02/16/can-you-add-me-as-an-editor/)
-- [היי](https://make.wordpress.org/polyglots/2024/02/16/%d7%94%d7%99%d7%99/)
 <!-- POLYGLOTS:END -->
 
 ## Support
