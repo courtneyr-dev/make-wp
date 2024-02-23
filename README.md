@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Update plugins.trac templates.](https://make.wordpress.org/systems/2024/02/23/update-plugins-trac-templates-2/)
 - [ImageMagick for Photo Directory?](https://make.wordpress.org/systems/2024/02/12/imagemagick-for-photo-directory/)
 - [Reprovisioned Sandbox for VS Code 1.86](https://make.wordpress.org/systems/2024/02/07/reprovisioned-sandbox-for-vs-code-1-86/)
 - [CORS requests for api.wordpress.org](https://make.wordpress.org/systems/2024/02/07/cors-requests-for-api-wordpress-org/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Email rejected as ‘high probability of spam’](https://make.wordpress.org/systems/2024/01/09/email-rejected-as-high-probability-of-spam/)
 - [Enable s.w.org cors headers for .gif](https://make.wordpress.org/systems/2024/01/04/enable-s-w-org-cors-headers-for-gif/)
 - [Patterns missing from Developer Blog](https://make.wordpress.org/systems/2023/12/18/patterns-missing-from-developer-blog/)
-- [Ability to install fonts via…](https://make.wordpress.org/systems/2023/11/28/ability-to-install-fonts-via/)
 <!-- SYSTEMS:END -->
 
 ## News
