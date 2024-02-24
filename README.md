@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress theme and plugin developer](https://jobs.wordpress.net/job/wordpress-theme-and-plugin-developer-2/)
 - [Digital Content Strategist &lpar;PT, Contractor&rpar;](https://jobs.wordpress.net/job/digital-content-strategist-pt-contractor/)
 - [Temporary Front/Back End Developer](https://jobs.wordpress.net/job/temporary-front-back-end-developer/)
 - [[Inpsyde] Senior Full Stack Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-m-f-d-2/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remove malware](https://jobs.wordpress.net/job/remove-malware-2/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-20/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-2/)
-- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-8/)
 <!-- JOBS:END -->
 
 ## Central
