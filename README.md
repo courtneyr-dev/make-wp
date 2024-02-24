@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [संपादक में कस्टम सीएसएस](https://learn.wordpress.org/tutorial/hi-custom-css-in-the-editor/)
 - [रंग प्रभाव बदलने के लिए डुओटोन फिल्टर लगाना](https://learn.wordpress.org/tutorial/hi-applying-duotone-filters-to-change-color-effects/)
 - [पोस्ट और पेज शेड्यूल करना](https://learn.wordpress.org/tutorial/hi-scheduling-posts-and-pages/)
 - [ওয়ার্ডপ্রেস ফটো ডিরেক্টরি ব্যবহার করে ইমেজগুলো খোঁজা](https://learn.wordpress.org/tutorial/bn-finding-images-using-the-wordpress-photo-directory/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ওয়েবসাইটের নিরাপত্তা উন্নত করার ৭ টি টিপস](https://learn.wordpress.org/tutorial/bn-7-tips-to-improve-website-security/)
 - [সেটিংস ম্যানেজঃ পড়া](https://learn.wordpress.org/tutorial/bn-managing-settings-reading/)
 - [How to create a menu with the navigation block](https://learn.wordpress.org/tutorial/how-to-create-a-menu-with-the-navigation-block-3/)
-- [কিভাবে একটি কর্মশালা জমা দিতে হয়](https://learn.wordpress.org/tutorial/bn-how-to-submit-a-workshop/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
