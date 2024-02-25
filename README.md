@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello,](https://make.wordpress.org/polyglots/2024/02/25/hello-83/)
 - [PTE Request for the Advanced…](https://make.wordpress.org/polyglots/2024/02/24/pte-request-for-the-advanced/)
 - [GTE Request for Gujarati Language](https://make.wordpress.org/polyglots/2024/02/24/gte-request-for-gujarati-language-4/)
 - [PTE Request for [WP Rollback…](https://make.wordpress.org/polyglots/2024/02/23/pte-request-for-wp-rollback/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – February 21, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/02/21/agenda-weekly-polyglots-chat-february-21-2024-0700-utc/)
 - [PTE Request for the Customer Reviews for WooCommerce plugin](https://make.wordpress.org/polyglots/2024/02/20/pte-request-for-the-customer-reviews-for-woocommerce-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/02/20/hi-109/)
-- [PTE request for the EventPrime plugin](https://make.wordpress.org/polyglots/2024/02/18/pte-request-for-the-eventprime-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
