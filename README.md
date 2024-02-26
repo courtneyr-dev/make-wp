@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [AI 時代のアウトプット〜二人合わせてブログ歴35年、ブロガーのススメ](https://wordpress.tv/2024/02/26/output-in-the-age-of-ai-reccomendations-from-two-bloggers-with-a-combined-35-years-of-blogging-experience/)
+- [Learn.WordPress.org – 公式教育サイトの次のステップにあなたも携われます！](https://wordpress.tv/2024/02/26/learn-wordpress-org-you-can-be-part-of-the-next-step-in-the-official-education-website/)
+- [WordPressをきっかけに、人生をキャリアアップしていったお話](https://wordpress.tv/2024/02/26/a-story-about-how-wordpress-helped-me-advacne-my-life-and-career/)
+- [ヘッドレスCMS開発者から見たWordPress](https://wordpress.tv/2024/02/26/wordpress-from-a-headless-cms-developers-perspective/)
+- [WordPressをビジネスパートナーとして（相棒として）夢を叶え続けている話](https://wordpress.tv/2024/02/26/a-story-about-wordpress-as-a-business-partner-that-continues-to-make-my-dreams-come-true/)
+- [WordPressを教える人のための視点と考え方](https://wordpress.tv/2024/02/26/perspectives-and-ideas-for-those-who-teach-wordpress/)
+- [LINE公式アカウント＆WordPressで更新頻度が上がった話](https://wordpress.tv/2024/02/26/line%e5%85%ac%e5%bc%8f%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%ef%bc%86wordpress%e3%81%a7%e6%9b%b4%e6%96%b0%e9%a0%bb%e5%ba%a6%e3%81%8c%e4%b8%8a%e3%81%8c%e3%81%a3%e3%81%9f%e8%a9%b1/)
+- [WordPressのコミュニティに参加して変化したこと](https://wordpress.tv/2024/02/26/what-has-changed-since-joining-the-wordpress-community/)
+- [小さく始めるWordPress翻訳](https://wordpress.tv/2024/02/26/start-small-with-wordpress-translation/)
+- [WordCamp Kansai 2024 開会式・キーノート](https://wordpress.tv/2024/02/26/wordcamp-kansai-2024-opening-remarks-and-keynote/)
 - [Domina el arte de la venta y conquista a tus clientes](https://wordpress.tv/2024/02/24/domina-el-arte-de-la-venta-y-conquista-a-tus-clientes/)
 - [Make WordPress Training Team Faculty Program Information Session](https://wordpress.tv/2024/02/23/make-wordpress-training-team-faculty-program-information-session/)
 - [El costo de un hackeo](https://wordpress.tv/2024/02/22/el-costo-de-un-hackeo/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Réorganiser les archives de contenus personnalisés avec le glissé-déposé dans un thème WordPress FSE](https://wordpress.tv/2024/02/16/reorganiser-les-archives-de-contenus-personnalises-avec-le-glisse-depose-dans-un-theme-wordpress-fse/)
 - [Starting your contributor journey with the WordPress Training Team](https://wordpress.tv/2024/02/16/starting-your-contributor-journey-with-the-wordpress-training-team/)
 - [How to improve SEO rankings](https://wordpress.tv/2024/02/15/how-to-improve-seo-rankings-2/)
-- [7 Tips to improve website security](https://wordpress.tv/2024/02/13/7-tips-to-improve-website-security-2/)
-- [Choosing and installing a plugin](https://wordpress.tv/2024/02/13/choosing-and-installing-a-plugin-2/)
-- [Developer Hours: JavaScript for modern WordPress development](https://wordpress.tv/2024/02/13/developer-hours-javascript-for-modern-wordpress-development/)
-- [Bricks Builder, el mejor editor visual. ¿O no?](https://wordpress.tv/2024/02/13/bricks-builder-el-mejor-editor-visual-o-no/)
-- [Introduction to WordPress Custom Gutenberg Blocks](https://wordpress.tv/2024/02/13/introduction-to-wordpress-custom-gutenberg-blocks/)
-- [Ten bajo control tu SEO con The SEO Framework](https://wordpress.tv/2024/02/13/ten-bajo-control-tu-seo-con-the-seo-framework/)
-- [Basic WordPress Settings](https://wordpress.tv/2024/02/12/basic-wordpress-settings/)
-- [Embedding media and third-party content on your website](https://wordpress.tv/2024/02/12/embedding-media-and-third-party-content-on-your-website-2/)
-- [L’Art du Glissé-Déposé pour tes Boucles de Contenu sur mesure dans tes pages WordPress &lpar;FSE&rpar;](https://wordpress.tv/2024/02/12/lart-du-glisse-depose-pour-tes-boucles-de-contenu-sur-mesure-dans-tes-pages-wordpress-fse/)
-- [Creating and customizing a header and a footer](https://wordpress.tv/2024/02/12/creating-and-customizing-a-header-and-a-footer/)
 <!-- WPTV:END -->
 
 ## Marketing
