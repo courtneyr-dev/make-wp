@@ -209,6 +209,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [Wie man die passende Theme Dokumentation findet](https://learn.wordpress.org/lesson-plan/de-how-to-find-theme-specific-documentation/)
 - [સૂચિ દૃશ્યનો ઉપયોગ કેવી રીતે કરવો](https://learn.wordpress.org/lesson-plan/gu-how-to-use-the-list-view/)
 - [Migliorare le prestazioni di un sito](https://learn.wordpress.org/lesson-plan/it-improving-site-performance/)
 - [Come creare un piano di lezione](https://learn.wordpress.org/lesson-plan/it-how-to-create-a-lesson-plan/)
@@ -233,7 +234,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [செருகுநிரல்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/ta-choosing-and-installing-plugins/)
 - [பக்கங்கள் Vs. இடுகைகள்](https://learn.wordpress.org/lesson-plan/ta-pages-vs-posts/)
 - [نبذة عن لوحة البيانات](https://learn.wordpress.org/lesson-plan/ar-dashboard-overview/)
-- [தீம்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/ta-choosing-and-installing-themes/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
