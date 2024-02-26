@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for February 27, 2024](https://make.wordpress.org/themes/2024/02/26/themes-team-meeting-agenda-for-february-27-2024/)
 - [Themes team meeting agenda for February 13, 2024](https://make.wordpress.org/themes/2024/02/12/themes-team-meeting-agenda-for-february-13-2024/)
 - [Recap of Hallway Hangout on Intrinsic Design](https://make.wordpress.org/themes/2024/02/09/recap-of-hallway-hangout-on-intrinsic-design/)
 - [X-post: Guideline change: Reviews of Commercial/Pro Plugins](https://make.wordpress.org/themes/2024/02/08/xpost-guideline-change-reviews-of-commercial-pro-plugins/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Themes team update January 30, 2024](https://make.wordpress.org/themes/2024/01/30/xpost-themes-team-update-january-30-2024/)
 - [Themes Team Meeting Notes – January 23, 2024](https://make.wordpress.org/themes/2024/01/24/themes-team-meeting-notes-january-23-2024/)
 - [Themes team meeting agenda for January 23, 2024](https://make.wordpress.org/themes/2024/01/23/themes-team-meeting-agenda-for-january-23-2024/)
-- [X-post: Twenty Twenty-One, Twenty Twenty, and Twenty Seventeen updates now available](https://make.wordpress.org/themes/2024/01/16/xpost-twenty-twenty-one-twenty-twenty-and-twenty-seventeen-updates-now-available/)
 <!-- THEMES:END -->
 
 ## Plugins
