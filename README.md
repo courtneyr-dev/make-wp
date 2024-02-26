@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [閉会式](https://wordpress.tv/2024/02/26/closing-remarks/)
+- [小さな開発会社でもできた、WordPress 新ビジネスの可能性](https://wordpress.tv/2024/02/26/even-a-small-development-company-could-do-it-new-business-opportunities-with-wordpress/)
+- [ユーザー行動の分析から、サイトの改善ポイントを探ろう](https://wordpress.tv/2024/02/26/lets-analyze-user-behavior-to-find-out-where-we-can-improve-the-website/)
+- [MW WP Form のメンテナンスを引き継いでもらった話](https://wordpress.tv/2024/02/26/a-story-about-mw-wp-form-maintenance-being-taken-over/)
+- [WordPressサイトに関わるキャッシュを理解する](https://wordpress.tv/2024/02/26/undestand-the-cache-involved-in-a-website-using-wordpress/)
+- [WordPressコンテンツのリニューアルと採用システムの選定について](https://wordpress.tv/2024/02/26/renewal-of-wordpress-content-and-selection-of-a-the-system/)
+- [Web制作2年目の私がブロックテーマを作成してみた話](https://wordpress.tv/2024/02/26/my-story-about-creating-a-block-theme-in-my-second-year-of-web-production/)
+- [ブロックエディタでWebサイトの制作がどうかわったのか？実装事例から見る現在のWordPressの設計と構築](https://wordpress.tv/2024/02/26/how-has-the-block-editor-changed-the-production-of-websites-current-wordpress-design-and-construction-from-a-case-study/)
+- [WordPress初心者が社内プロダクトでテーマ開発を始めてみた。](https://wordpress.tv/2024/02/26/a-wordpress-beginner-started-theme-development-for-an-in-house-product/)
 - [AI 時代のアウトプット〜二人合わせてブログ歴35年、ブロガーのススメ](https://wordpress.tv/2024/02/26/output-in-the-age-of-ai-reccomendations-from-two-bloggers-with-a-combined-35-years-of-blogging-experience/)
 - [Learn.WordPress.org – 公式教育サイトの次のステップにあなたも携われます！](https://wordpress.tv/2024/02/26/learn-wordpress-org-you-can-be-part-of-the-next-step-in-the-official-education-website/)
 - [WordPressをきっかけに、人生をキャリアアップしていったお話](https://wordpress.tv/2024/02/26/a-story-about-how-wordpress-helped-me-advacne-my-life-and-career/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Inteligencia artificial y WordPress](https://wordpress.tv/2024/02/22/inteligencia-artificial-y-wordpress/)
 - [User management](https://wordpress.tv/2024/02/21/user-management-2/)
 - [How to use headings for accessibility and SEO](https://wordpress.tv/2024/02/21/how-to-use-headings-for-accessibility-and-seo/)
-- [Using Xdebug to verify a core bug](https://wordpress.tv/2024/02/20/using-xdebug-to-verify-a-core-bug/)
-- [From Small Blogs to Big Brands](https://wordpress.tv/2024/02/20/from-small-blogs-to-big-brands/)
-- [Lessons from Leadership](https://wordpress.tv/2024/02/20/lessons-from-leadership/)
-- [Dashboard &amp; Documents- Where to find the answers](https://wordpress.tv/2024/02/16/laura-adamonis-dashboard-documents-where-to-find-the-answers/)
-- [Migración de una web a temas de bloques, un caso real](https://wordpress.tv/2024/02/16/migracion-de-una-web-a-temas-de-bloques-un-caso-real/)
-- [Descifrando los misterios de BlockTheme en WordPress: el futuro del diseño web](https://wordpress.tv/2024/02/16/descifrando-los-misterios-de-blocktheme-en-wordpress-el-futuro-del-diseno-web/)
-- [Réorganiser les archives de contenus personnalisés avec le glissé-déposé dans un thème WordPress FSE](https://wordpress.tv/2024/02/16/reorganiser-les-archives-de-contenus-personnalises-avec-le-glisse-depose-dans-un-theme-wordpress-fse/)
-- [Starting your contributor journey with the WordPress Training Team](https://wordpress.tv/2024/02/16/starting-your-contributor-journey-with-the-wordpress-training-team/)
-- [How to improve SEO rankings](https://wordpress.tv/2024/02/15/how-to-improve-seo-rankings-2/)
 <!-- WPTV:END -->
 
 ## Marketing
