@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Simula Levantine Dates for Arabic Sites](https://make.wordpress.org/polyglots/2024/02/26/pte-request-for-simula-levantine-dates-for-arabic-sites/)
+- [PTE Request for WP Last Modified Info](https://make.wordpress.org/polyglots/2024/02/26/pte-request-for-wp-last-modified-info-2/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/02/25/hello-83/)
 - [PTE Request for the Advanced…](https://make.wordpress.org/polyglots/2024/02/24/pte-request-for-the-advanced/)
 - [GTE Request for Gujarati Language](https://make.wordpress.org/polyglots/2024/02/24/gte-request-for-gujarati-language-4/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE role request in two projects](https://make.wordpress.org/polyglots/2024/02/22/clpte-role-request-in-two-projects/)
 - [Hello @BredeBS @ejner69, I would…](https://make.wordpress.org/polyglots/2024/02/22/hello-bredebs-ejner69-i-would/)
 - [Agenda: Weekly Polyglots Chat – February 21, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/02/21/agenda-weekly-polyglots-chat-february-21-2024-0700-utc/)
-- [PTE Request for the Customer Reviews for WooCommerce plugin](https://make.wordpress.org/polyglots/2024/02/20/pte-request-for-the-customer-reviews-for-woocommerce-plugin/)
-- [Hi,](https://make.wordpress.org/polyglots/2024/02/20/hi-109/)
 <!-- POLYGLOTS:END -->
 
 ## Support
