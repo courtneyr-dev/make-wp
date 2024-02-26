@@ -529,8 +529,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Experienced WordPress developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-16/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-6/)
 - [Remove malware](https://jobs.wordpress.net/job/remove-malware-2/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-20/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Sales&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-2/)
+- [Driving Safety Cause Marketing Partners](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners-3/)
+- [Fullstack WordPress developer](https://jobs.wordpress.net/job/fullstack-wordpress-developer-5/)
 <!-- JOBS:END -->
 
 ## Central
