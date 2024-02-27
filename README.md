@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Add redirect for Google Fonts JSON file](https://make.wordpress.org/systems/2024/02/27/add-redirect-for-google-fonts-json-file/)
 - [Reprovision wp.org Sandbox for VS Code 1.86](https://make.wordpress.org/systems/2024/02/26/reprovision-wp-org-sandbox-for-vs-code-1-86/)
 - [Update plugins.trac templates.](https://make.wordpress.org/systems/2024/02/23/update-plugins-trac-templates-2/)
 - [ImageMagick for Photo Directory?](https://make.wordpress.org/systems/2024/02/12/imagemagick-for-photo-directory/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Email forwarding for git.wordpress.org](https://make.wordpress.org/systems/2024/01/24/email-forwarding-for-git-wordpress-org/)
 - [Add redirect for Font Collection JSON schema](https://make.wordpress.org/systems/2024/01/16/add-redirect-for-font-collection-json-schema/)
 - [Email rejected as ‘high probability of spam’](https://make.wordpress.org/systems/2024/01/09/email-rejected-as-high-probability-of-spam/)
-- [Enable s.w.org cors headers for .gif](https://make.wordpress.org/systems/2024/01/04/enable-s-w-org-cors-headers-for-gif/)
 <!-- SYSTEMS:END -->
 
 ## News
