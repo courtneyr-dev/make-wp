@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Embracing Gutenberg as a Product](https://wordpress.tv/2024/02/26/embracing-gutenberg-as-a-product/)
 - [Utiliser ChatGPT pour créer tes palettes de couleurs sur mesure dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2024/02/26/utiliser-chatgpt-pour-creer-tes-palettes-de-couleurs-sur-mesure-dans-lediteur-de-site-fse/)
 - [閉会式](https://wordpress.tv/2024/02/26/closing-remarks/)
 - [小さな開発会社でもできた、WordPress 新ビジネスの可能性](https://wordpress.tv/2024/02/26/even-a-small-development-company-could-do-it-new-business-opportunities-with-wordpress/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Make WordPress Training Team Faculty Program Information Session](https://wordpress.tv/2024/02/23/make-wordpress-training-team-faculty-program-information-session/)
 - [El costo de un hackeo](https://wordpress.tv/2024/02/22/el-costo-de-un-hackeo/)
 - [Inteligencia artificial y WordPress](https://wordpress.tv/2024/02/22/inteligencia-artificial-y-wordpress/)
-- [User management](https://wordpress.tv/2024/02/21/user-management-2/)
 <!-- WPTV:END -->
 
 ## Marketing
