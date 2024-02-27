@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – February 26, 2024](https://make.wordpress.org/core/2024/02/27/a-week-in-core-february-27-2024/)
 - [WordPress 6.5 adds AVIF support](https://make.wordpress.org/core/2024/02/23/wordpress-6-5-adds-avif-support/)
 - [Recap Hallway Hangout: What’s next for the outreach program?](https://make.wordpress.org/core/2024/02/23/recap-hallway-hangout-whats-next-for-the-outreach-program/)
 - [Introducing the WordPress Core Trac Sustainability Focus](https://make.wordpress.org/core/2024/02/22/introducing-the-wordpress-core-trac-sustainability-focus/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 13 February 2024](https://make.wordpress.org/core/2024/02/13/performance-chat-agenda-13-february-2024/)
 - [Core Editor Improvement: Power in the Details](https://make.wordpress.org/core/2024/02/10/core-editor-improvement-power-in-the-details/)
 - [Improving block development documentation: 2023 recap and a look ahead](https://make.wordpress.org/core/2024/02/08/improving-block-development-documentation-2023-recap-and-a-look-ahead/)
-- [Summary, Dev Chat, February 7, 2024](https://make.wordpress.org/core/2024/02/08/summary-dev-chat-february-7-2024/)
 <!-- CORE:END -->
 
 ## Design
