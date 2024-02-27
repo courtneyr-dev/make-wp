@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: How to build modern web layouts with WordPress blocks](https://wordpress.tv/2024/02/27/developer-hours-how-to-build-modern-web-layouts-with-wordpress-blocks/)
+- [The WordPress SEO Checkup: Tools for Regular Site Audits](https://wordpress.tv/2024/02/27/the-wordpress-seo-checkup-tools-for-regular-site-audits/)
+- [The independent theme developer’s field guide to modern WordPress](https://wordpress.tv/2024/02/27/the-independent-theme-developers-field-guide-to-modern-wordpress-2/)
 - [You Need a GPS for the Managed WordPress Hosting Maze!](https://wordpress.tv/2024/02/27/you-need-a-gps-for-the-managed-wordpress-hosting-maze/)
 - [Leading as an Introvert](https://wordpress.tv/2024/02/27/leading-as-an-introvert/)
 - [Diferentes formas de hacer que tu web sea multilenguaje](https://wordpress.tv/2024/02/27/diferentes-formas-de-hacer-que-tu-web-sea-multilenguaje/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPressを教える人のための視点と考え方](https://wordpress.tv/2024/02/26/perspectives-and-ideas-for-those-who-teach-wordpress/)
 - [LINE公式アカウント＆WordPressで更新頻度が上がった話](https://wordpress.tv/2024/02/26/line%e5%85%ac%e5%bc%8f%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%ef%bc%86wordpress%e3%81%a7%e6%9b%b4%e6%96%b0%e9%a0%bb%e5%ba%a6%e3%81%8c%e4%b8%8a%e3%81%8c%e3%81%a3%e3%81%9f%e8%a9%b1/)
 - [WordPressのコミュニティに参加して変化したこと](https://wordpress.tv/2024/02/26/what-has-changed-since-joining-the-wordpress-community/)
-- [小さく始めるWordPress翻訳](https://wordpress.tv/2024/02/26/start-small-with-wordpress-translation/)
-- [WordCamp Kansai 2024 開会式・キーノート](https://wordpress.tv/2024/02/26/wordcamp-kansai-2024-opening-remarks-and-keynote/)
-- [Domina el arte de la venta y conquista a tus clientes](https://wordpress.tv/2024/02/24/domina-el-arte-de-la-venta-y-conquista-a-tus-clientes/)
 <!-- WPTV:END -->
 
 ## Marketing
