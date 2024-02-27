@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [You Need a GPS for the Managed WordPress Hosting Maze!](https://wordpress.tv/2024/02/27/you-need-a-gps-for-the-managed-wordpress-hosting-maze/)
+- [Leading as an Introvert](https://wordpress.tv/2024/02/27/leading-as-an-introvert/)
 - [Diferentes formas de hacer que tu web sea multilenguaje](https://wordpress.tv/2024/02/27/diferentes-formas-de-hacer-que-tu-web-sea-multilenguaje/)
 - [Embracing Gutenberg as a Product](https://wordpress.tv/2024/02/26/embracing-gutenberg-as-a-product/)
 - [Utiliser ChatGPT pour créer tes palettes de couleurs sur mesure dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2024/02/26/utiliser-chatgpt-pour-creer-tes-palettes-de-couleurs-sur-mesure-dans-lediteur-de-site-fse/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [小さく始めるWordPress翻訳](https://wordpress.tv/2024/02/26/start-small-with-wordpress-translation/)
 - [WordCamp Kansai 2024 開会式・キーノート](https://wordpress.tv/2024/02/26/wordcamp-kansai-2024-opening-remarks-and-keynote/)
 - [Domina el arte de la venta y conquista a tus clientes](https://wordpress.tv/2024/02/24/domina-el-arte-de-la-venta-y-conquista-a-tus-clientes/)
-- [Make WordPress Training Team Faculty Program Information Session](https://wordpress.tv/2024/02/23/make-wordpress-training-team-faculty-program-information-session/)
-- [El costo de un hackeo](https://wordpress.tv/2024/02/22/el-costo-de-un-hackeo/)
 <!-- WPTV:END -->
 
 ## Marketing
