@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “Bookings for…](https://make.wordpress.org/polyglots/2024/02/27/pte-request-for-bookings-for/)
+- [PTE Request for Simula Levantine…](https://make.wordpress.org/polyglots/2024/02/27/pte-request-for-simula-levantine/)
+- [PTE Request for Context Blog theme](https://make.wordpress.org/polyglots/2024/02/27/pte-request-for-context-blog-theme/)
 - [PTE Request for “BuddyPress” plugin](https://make.wordpress.org/polyglots/2024/02/27/pte-request-for-buddypress-plugin/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/02/26/hi-dear-mentors-we-have-130/)
 - [PTE Request for Simula Levantine Dates for Arabic Sites](https://make.wordpress.org/polyglots/2024/02/26/pte-request-for-simula-levantine-dates-for-arabic-sites/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello,](https://make.wordpress.org/polyglots/2024/02/25/hello-83/)
 - [PTE Request for the Advanced…](https://make.wordpress.org/polyglots/2024/02/24/pte-request-for-the-advanced/)
 - [GTE Request for Gujarati Language](https://make.wordpress.org/polyglots/2024/02/24/gte-request-for-gujarati-language-4/)
-- [PTE Request for [WP Rollback…](https://make.wordpress.org/polyglots/2024/02/23/pte-request-for-wp-rollback/)
-- [PTE request for Openverse](https://make.wordpress.org/polyglots/2024/02/23/i-am-interested-in-becoming-a-pte/)
-- [CLPTE role request in two projects](https://make.wordpress.org/polyglots/2024/02/22/clpte-role-request-in-two-projects/)
 <!-- POLYGLOTS:END -->
 
 ## Support
