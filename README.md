@@ -558,6 +558,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Women WordPress Day](https://central.wordcamp.org/wordcamps/women-wordpress-day/)
 - [WordPress Photo Festival](https://central.wordcamp.org/wordcamps/wordpress-photo-festival/)
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2024/)
+- [WordCamp Buffalo, NY USA](https://central.wordcamp.org/wordcamps/wordcamp-buffalo-ny-usa-2/)
 - [Uganda Website Projects Competition 2024](https://central.wordcamp.org/wordcamps/uganda-projects-competition-2024/)
 - [WordCamp Bilbao, Bizkaia, Spain](https://central.wordcamp.org/wordcamps/wordcamp-bilbao-2024-spain/)
 - [Switzerland Community Day](https://central.wordcamp.org/wordcamps/switzerland-community-day/)
@@ -567,7 +568,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Gliwice](https://central.wordcamp.org/wordcamps/wordcamp-gliwice/)
 - [WordCamp Porto, Portugal](https://central.wordcamp.org/wordcamps/wordcamp-porto-portugal/)
 - [WordCamp Pune, India](https://central.wordcamp.org/wordcamps/wordcamp-pune-maharashtra-india/)
-- [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-united-states/)
 - [WordCamp Canada 2024 &lpar;#WCEH&rpar;](https://central.wordcamp.org/wordcamps/wordcamp-wordcamp-canada-2024/)
 <!-- WordCamp:END -->
 
