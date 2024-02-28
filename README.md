@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Articles ou pages : quelle est la différence ?](https://learn.wordpress.org/tutorial/fr-posts-vs-pages-whats-the-difference/)
 - [इन्सर्टर से सीधे अपनी सामग्री में मीडिया और ओपनवर्स छवियां जोड़ें](https://learn.wordpress.org/tutorial/hi-add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [वेबसाइट सुरक्षा में सुधार के लिए 7 युक्तियाँ](https://learn.wordpress.org/tutorial/hi-7-tips-to-improve-website-security/)
 - [संपादक में कस्टम सीएसएस](https://learn.wordpress.org/tutorial/hi-custom-css-in-the-editor/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Testing your products for PHP version compatibility](https://learn.wordpress.org/tutorial/testing-your-products-for-php-version-compatibility/)
 - [ছবি অপ্টিমাইজেশান](https://learn.wordpress.org/tutorial/bn-image-optimization/)
 - [মন্তব্য পরিচালনা করা](https://learn.wordpress.org/tutorial/bn-managing-comments/)
-- [ওয়েবসাইটের নিরাপত্তা উন্নত করার ৭ টি টিপস](https://learn.wordpress.org/tutorial/bn-7-tips-to-improve-website-security/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
