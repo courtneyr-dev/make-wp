@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using AI for Your Web Project Management](https://wordpress.tv/2024/02/28/using-ai-for-your-web-project-management/)
 - [Developer Hours: How to build modern web layouts with WordPress blocks](https://wordpress.tv/2024/02/27/developer-hours-how-to-build-modern-web-layouts-with-wordpress-blocks/)
 - [The WordPress SEO Checkup: Tools for Regular Site Audits](https://wordpress.tv/2024/02/27/the-wordpress-seo-checkup-tools-for-regular-site-audits/)
 - [The independent theme developer’s field guide to modern WordPress](https://wordpress.tv/2024/02/27/the-independent-theme-developers-field-guide-to-modern-wordpress-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPressをビジネスパートナーとして（相棒として）夢を叶え続けている話](https://wordpress.tv/2024/02/26/a-story-about-wordpress-as-a-business-partner-that-continues-to-make-my-dreams-come-true/)
 - [WordPressを教える人のための視点と考え方](https://wordpress.tv/2024/02/26/perspectives-and-ideas-for-those-who-teach-wordpress/)
 - [LINE公式アカウント＆WordPressで更新頻度が上がった話](https://wordpress.tv/2024/02/26/line%e5%85%ac%e5%bc%8f%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%ef%bc%86wordpress%e3%81%a7%e6%9b%b4%e6%96%b0%e9%a0%bb%e5%ba%a6%e3%81%8c%e4%b8%8a%e3%81%8c%e3%81%a3%e3%81%9f%e8%a9%b1/)
-- [WordPressのコミュニティに参加して変化したこと](https://wordpress.tv/2024/02/26/what-has-changed-since-joining-the-wordpress-community/)
 <!-- WPTV:END -->
 
 ## Marketing
