@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior manager, website development and technology](https://jobs.wordpress.net/job/senior-manager-website-development-and-technology/)
+- [URGENT: WordPress site support](https://jobs.wordpress.net/job/urgent-wordpress-site-support/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-9/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-12/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-21/)
 - [WordPress theme and plugin developer](https://jobs.wordpress.net/job/wordpress-theme-and-plugin-developer-2/)
 - [Digital Content Strategist &lpar;PT, Contractor&rpar;](https://jobs.wordpress.net/job/digital-content-strategist-pt-contractor/)
-- [Temporary Front/Back End Developer](https://jobs.wordpress.net/job/temporary-front-back-end-developer/)
-- [[Inpsyde] Senior Full Stack Developer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/inpsyde-senior-full-stack-developer-m-f-d-2/)
 <!-- JOBS:END -->
 
 ## Central
