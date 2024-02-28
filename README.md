@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [इन्सर्टर से सीधे अपनी सामग्री में मीडिया और ओपनवर्स छवियां जोड़ें](https://learn.wordpress.org/tutorial/hi-add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [वेबसाइट सुरक्षा में सुधार के लिए 7 युक्तियाँ](https://learn.wordpress.org/tutorial/hi-7-tips-to-improve-website-security/)
 - [संपादक में कस्टम सीएसएस](https://learn.wordpress.org/tutorial/hi-custom-css-in-the-editor/)
 - [रंग प्रभाव बदलने के लिए डुओटोन फिल्टर लगाना](https://learn.wordpress.org/tutorial/hi-applying-duotone-filters-to-change-color-effects/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ছবি অপ্টিমাইজেশান](https://learn.wordpress.org/tutorial/bn-image-optimization/)
 - [মন্তব্য পরিচালনা করা](https://learn.wordpress.org/tutorial/bn-managing-comments/)
 - [ওয়েবসাইটের নিরাপত্তা উন্নত করার ৭ টি টিপস](https://learn.wordpress.org/tutorial/bn-7-tips-to-improve-website-security/)
-- [সেটিংস ম্যানেজঃ পড়া](https://learn.wordpress.org/tutorial/bn-managing-settings-reading/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
