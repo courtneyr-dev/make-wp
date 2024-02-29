@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 17.8? &lpar;28 February&rpar;](https://make.wordpress.org/core/2024/02/28/whats-new-in-gutenberg-17-8-28-february/)
 - [Agenda, Dev Chat, Wednesday February 28, 2024](https://make.wordpress.org/core/2024/02/28/agenda-dev-chat-wednesday-february-28-2024/)
 - [I18N Improvements in 6.5 &lpar;Performant Translations&rpar;](https://make.wordpress.org/core/2024/02/27/i18n-improvements-6-5-performant-translations/)
 - [Summary of Hallway Hangout on overlapping problems in the Site Editor](https://make.wordpress.org/core/2024/02/27/summary-of-hallway-hangout-on-overlapping-problems-in-the-site-editor/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Data Liberation Next Steps](https://make.wordpress.org/core/2024/02/19/data-liberation-next-steps/)
 - [Summary, Dev Chat, February 14, 2024](https://make.wordpress.org/core/2024/02/15/summary-dev-chat-february-7-2024-2/)
 - [Merge Announcement: Plugin Dependencies](https://make.wordpress.org/core/2024/02/15/merge-announcement-plugin-dependencies/)
-- [What’s new in Gutenberg 17.7? &lpar;14th February&rpar;](https://make.wordpress.org/core/2024/02/14/whats-new-in-gutenberg-17-7-14th-february/)
 <!-- CORE:END -->
 
 ## Design
