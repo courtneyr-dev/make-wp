@@ -521,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [WordPress Back Space + Short URLs](https://jobs.wordpress.net/job/wordpress-back-space-short-urls/)
 - [Senior manager, website development and technology](https://jobs.wordpress.net/job/senior-manager-website-development-and-technology/)
 - [URGENT: WordPress site support](https://jobs.wordpress.net/job/urgent-wordpress-site-support/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-9/)
@@ -531,6 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales, Data Entry&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-data-entry/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-21/)
 - [WordPress theme and plugin developer](https://jobs.wordpress.net/job/wordpress-theme-and-plugin-developer-2/)
+- [Digital Content Strategist &lpar;PT, Contractor&rpar;](https://jobs.wordpress.net/job/digital-content-strategist-pt-contractor/)
 <!-- JOBS:END -->
 
 ## Central
