@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Hallway Hangout: Let’s chat about WordPress Playground](https://make.wordpress.org/core/2024/02/29/hallway-hangout-lets-chat-about-wordpress-playground/)
 - [Summary, Dev Chat, February 28, 2024](https://make.wordpress.org/core/2024/02/29/summary-dev-chat-february-28-2024/)
 - [WordCamp Asia 2024 Contributor Day Core and Core Editor tables](https://make.wordpress.org/core/2024/02/29/wordcamp-asia-2024-contributor-day-core-and-core-editor-tables/)
 - [What’s new in Gutenberg 17.8? &lpar;28 February&rpar;](https://make.wordpress.org/core/2024/02/28/whats-new-in-gutenberg-17-8-28-february/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Week in Core – February 19, 2024](https://make.wordpress.org/core/2024/02/20/a-week-in-core-february-19-2024/)
 - [Hallway Hangout: Let’s chat about overlapping problems in the Site Editor](https://make.wordpress.org/core/2024/02/19/hallway-hangout-lets-chat-about-overlapping-problems-in-the-site-editor/)
 - [Merge Announcement: Interactivity API](https://make.wordpress.org/core/2024/02/19/merge-announcement-interactivity-api/)
-- [Data Liberation Next Steps](https://make.wordpress.org/core/2024/02/19/data-liberation-next-steps/)
 <!-- CORE:END -->
 
 ## Design
