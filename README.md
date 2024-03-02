@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Script Modules in 6.5](https://make.wordpress.org/core/2024/03/02/script-modules-in-6-5/)
 - [Performance improvements for registering block variations with callbacks](https://make.wordpress.org/core/2024/02/29/performance-improvements-for-registering-block-variations-with-callbacks/)
 - [Hallway Hangout: Let’s chat about WordPress Playground](https://make.wordpress.org/core/2024/02/29/hallway-hangout-lets-chat-about-wordpress-playground/)
 - [Summary, Dev Chat, February 28, 2024](https://make.wordpress.org/core/2024/02/29/summary-dev-chat-february-28-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Upgrade/Install Chat Summary: 21 February 2024](https://make.wordpress.org/core/2024/02/21/upgrade-install-chat-summary-21-february-2024/)
 - [Agenda, Dev Chat, Wednesday February 21, 2024](https://make.wordpress.org/core/2024/02/21/agenda-dev-chat-wednesday-february-21-2024/)
 - [A Week in Core – February 19, 2024](https://make.wordpress.org/core/2024/02/20/a-week-in-core-february-19-2024/)
-- [Hallway Hangout: Let’s chat about overlapping problems in the Site Editor](https://make.wordpress.org/core/2024/02/19/hallway-hangout-lets-chat-about-overlapping-problems-in-the-site-editor/)
 <!-- CORE:END -->
 
 ## Design
