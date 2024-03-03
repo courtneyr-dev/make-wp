@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Eventos de la comunidad WP: ¿Cómo participar?](https://wordpress.tv/2024/03/03/eventos-de-la-comunidad-wp-como-participar/)
 - [Panel Discussion: Freelancing vs. Regular Job vs. Entrepreneurship](https://wordpress.tv/2024/02/28/panel-discussion-freelancing-vs-regular-job-vs-entrepreneurship/)
 - [Using AI for Your Web Project Management](https://wordpress.tv/2024/02/28/using-ai-for-your-web-project-management/)
 - [Developer Hours: How to build modern web layouts with WordPress blocks](https://wordpress.tv/2024/02/27/developer-hours-how-to-build-modern-web-layouts-with-wordpress-blocks/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPressをきっかけに、人生をキャリアアップしていったお話](https://wordpress.tv/2024/02/26/a-story-about-how-wordpress-helped-me-advacne-my-life-and-career/)
 - [ヘッドレスCMS開発者から見たWordPress](https://wordpress.tv/2024/02/26/wordpress-from-a-headless-cms-developers-perspective/)
 - [WordPressをビジネスパートナーとして（相棒として）夢を叶え続けている話](https://wordpress.tv/2024/02/26/a-story-about-wordpress-as-a-business-partner-that-continues-to-make-my-dreams-come-true/)
-- [WordPressを教える人のための視点と考え方](https://wordpress.tv/2024/02/26/perspectives-and-ideas-for-those-who-teach-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
