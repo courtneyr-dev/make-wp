@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for bonusplus](https://make.wordpress.org/polyglots/2024/03/04/pte-request-for-bonusplus/)
 - [PTE Request](https://make.wordpress.org/polyglots/2024/03/04/pte-request-26/)
 - [PTE Request for svg-color-changer](https://make.wordpress.org/polyglots/2024/03/04/pte-request-for-svg-color-changer/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/03/04/hello-85/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots! I’m the theme…](https://make.wordpress.org/polyglots/2024/03/02/hello-polyglots-im-the-theme/)
 - [PTE Request for “Diller Loyalty” plugin](https://make.wordpress.org/polyglots/2024/02/29/pte-request-for-diller-loyalty-plugin/)
 - [PTE Request for [WordPress]](https://make.wordpress.org/polyglots/2024/02/29/pte-request-for-wordpress-3/)
-- [Translator contributor request](https://make.wordpress.org/polyglots/2024/02/29/translator-contributor-request/)
 <!-- POLYGLOTS:END -->
 
 ## Support
