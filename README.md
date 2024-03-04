@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Script Modules in 6.5](https://make.wordpress.org/core/2024/03/04/script-modules-in-6-5/)
+- [Block metadata viewScriptModule field in 6.5](https://make.wordpress.org/core/2024/03/04/block-metadata-viewscriptmodule-field-in-6-5/)
 - [Updates to Block Hooks in 6.5](https://make.wordpress.org/core/2024/03/04/updates-to-block-hooks-in-6-5/)
 - [Performance improvements for registering block variations with callbacks](https://make.wordpress.org/core/2024/02/29/performance-improvements-for-registering-block-variations-with-callbacks/)
 - [Hallway Hangout: Let’s chat about WordPress Playground](https://make.wordpress.org/core/2024/02/29/hallway-hangout-lets-chat-about-wordpress-playground/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing the WordPress Core Trac Sustainability Focus](https://make.wordpress.org/core/2024/02/22/introducing-the-wordpress-core-trac-sustainability-focus/)
 - [Summary, Dev Chat, February 21, 2024](https://make.wordpress.org/core/2024/02/22/summary-dev-chat-february-21-2024/)
 - [Upgrade/Install Chat Summary: 21 February 2024](https://make.wordpress.org/core/2024/02/21/upgrade-install-chat-summary-21-february-2024/)
-- [Agenda, Dev Chat, Wednesday February 21, 2024](https://make.wordpress.org/core/2024/02/21/agenda-dev-chat-wednesday-february-21-2024/)
-- [A Week in Core – February 19, 2024](https://make.wordpress.org/core/2024/02/20/a-week-in-core-february-19-2024/)
 <!-- CORE:END -->
 
 ## Design
