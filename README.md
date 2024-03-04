@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-836/)
+- [Forking and updating an abandoned plugin to php 8 compatibility](https://jobs.wordpress.net/job/forking-and-updating-an-abandoned-plugin-to-php-8-compatibility-2/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-835/)
 - [Senior manager, website development and technology](https://jobs.wordpress.net/job/senior-manager-website-development-and-technology/)
 - [URGENT: WordPress site support](https://jobs.wordpress.net/job/urgent-wordpress-site-support/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-12/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-9/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales, Data Entry&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-data-entry/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-21/)
-- [WordPress theme and plugin developer](https://jobs.wordpress.net/job/wordpress-theme-and-plugin-developer-2/)
 <!-- JOBS:END -->
 
 ## Central
