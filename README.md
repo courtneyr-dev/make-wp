@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Updates to the HTML API in 6.5](https://make.wordpress.org/core/2024/03/04/updates-to-the-html-api-in-6-5/)
 - [Interactivity API in 6.5](https://make.wordpress.org/core/2024/03/04/interactivity-api-dev-note/)
 - [Script Modules in 6.5](https://make.wordpress.org/core/2024/03/04/script-modules-in-6-5/)
 - [Block metadata viewScriptModule field in 6.5](https://make.wordpress.org/core/2024/03/04/block-metadata-viewscriptmodule-field-in-6-5/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.5 adds AVIF support](https://make.wordpress.org/core/2024/02/23/wordpress-6-5-adds-avif-support/)
 - [Recap Hallway Hangout: What’s next for the outreach program?](https://make.wordpress.org/core/2024/02/23/recap-hallway-hangout-whats-next-for-the-outreach-program/)
 - [Introducing the WordPress Core Trac Sustainability Focus](https://make.wordpress.org/core/2024/02/22/introducing-the-wordpress-core-trac-sustainability-focus/)
-- [Summary, Dev Chat, February 21, 2024](https://make.wordpress.org/core/2024/02/22/summary-dev-chat-february-21-2024/)
 <!-- CORE:END -->
 
 ## Design
