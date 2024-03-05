@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Training Team Update – February 2024](https://make.wordpress.org/docs/2024/03/05/xpost-training-team-update-february-2024/)
 - [Update for #docs team discussion items March 5, 2024](https://make.wordpress.org/docs/2024/02/29/update-for-docs-team-discussion-items-march-5-2024/)
 - [Online monthly Docs Team Contributor Day March 26, 2024](https://make.wordpress.org/docs/2024/02/27/online-monthly-docs-team-contributor-day-march-26-2024/)
 - [Summary for Docs Team Meeting &lpar;20-Feb-2024&rpar;](https://make.wordpress.org/docs/2024/02/27/summary-for-docs-team-meeting-20-feb-2024/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Improving block development documentation: 2023 recap and a look ahead](https://make.wordpress.org/docs/2024/02/08/xpost-improving-block-development-documentation-2023-recap-and-a-look-ahead/)
 - [Agenda for Docs Team meeting February 6, 2024](https://make.wordpress.org/docs/2024/02/06/agenda-for-docs-team-meeting-february-6-2024/)
 - [Summary of Docs Team meeting January 23, 2024](https://make.wordpress.org/docs/2024/02/06/summary-of-docs-team-meeting-january-23-2024/)
-- [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/docs/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 <!-- DOCS:END -->
 
 ### Support Articles
