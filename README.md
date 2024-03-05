@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Training Team Update – February 2024](https://make.wordpress.org/training/2024/03/05/xpost-training-team-update-february-2024/)
 - [Contributor Spotlight: Oneal Rosero](https://make.wordpress.org/training/2024/03/04/contributor-spotlight-oneal-rosero/)
 - [Training Team Meeting Recap – 22th February 2024](https://make.wordpress.org/training/2024/02/24/training-team-meeting-recap-22th-february-2024/)
 - [Training Team Meeting Recap – 15th February 2024](https://make.wordpress.org/training/2024/02/20/training-team-meeting-recap-15th-february-2024/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Brainstorm: What trends about Learn WordPress leaners do we want to observe?](https://make.wordpress.org/training/2024/02/08/brainstorm-what-trends-about-learn-wordpress-leaners-do-we-want-to-observe/)
 - [Discussion: Translation Plugin on Learn](https://make.wordpress.org/training/2024/02/07/discussion-translation-plugin-on-learn/)
 - [Training Team Meeting Recap – 1st February 2024](https://make.wordpress.org/training/2024/02/05/training-team-meeting-recap-1st-february-2024/)
-- [Training Team Goals for 2024](https://make.wordpress.org/training/2024/02/05/training-team-goals-for-2024/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
