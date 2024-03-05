@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Training Team Update – February 2024](https://make.wordpress.org/community/2024/03/05/xpost-training-team-update-february-2024/)
 - [Events of the Month – January 2024](https://make.wordpress.org/community/2024/02/23/events-of-the-month-january-2024/)
 - [Meetup Organizer Newsletter: February 2024](https://make.wordpress.org/community/2024/02/21/meetup-organizer-newsletter-february-2024/)
 - [Documentation Update: Meetup Organizer Newsletter](https://make.wordpress.org/community/2024/02/21/documentation-update-meetup-organizer-newsletter/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contributor Working Group: Mentorship Chat Agenda | February 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/02/15/contributor-working-group-mentorship-chat-agenda-february-15th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [2023 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/community/2024/02/09/2023-wordpress-meetup-survey-key-findings/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/community/2024/02/02/xpost-incident-response-team-call-for-nominations/)
-- [X-post: WordCamp Zaragoza 2024. Design table in Contributor day](https://make.wordpress.org/community/2024/02/01/xpost-wordcamp-zaragoza-2024-design-table-in-contributor-day/)
 <!-- COMMUNITY:END -->
 
 ## Meta
