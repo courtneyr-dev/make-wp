@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Agenda, Dev Chat, Wednesday March 6, 2024](https://make.wordpress.org/core/2024/03/05/agenda-dev-chat-wednesday-march-6-2024/)
 - [Performance Chat Summary: 5 March 2024](https://make.wordpress.org/core/2024/03/05/performance-chat-summary-05-march-2024/)
 - [Performance Chat Agenda: 5 March 2024](https://make.wordpress.org/core/2024/03/05/performance-chat-agenda-05-march-2024/)
 - [Introducing Plugin Dependencies in WordPress 6.5](https://make.wordpress.org/core/2024/03/05/introducing-plugin-dependencies-in-wordpress-6-5/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of Hallway Hangout on overlapping problems in the Site Editor](https://make.wordpress.org/core/2024/02/27/summary-of-hallway-hangout-on-overlapping-problems-in-the-site-editor/)
 - [Performance Chat Summary: 27 February 2024](https://make.wordpress.org/core/2024/02/27/performance-chat-summary-27-february-2024/)
 - [Connect with the GitHub Outreach group to request feedback or further testing.](https://make.wordpress.org/core/2024/02/27/connect-with-the-github-outreach-group-to-request-feedback-or-further-testing/)
-- [Performance Chat Agenda: 27 February 2024](https://make.wordpress.org/core/2024/02/27/performance-chat-agenda-27-february-2024/)
 <!-- CORE:END -->
 
 ## Design
