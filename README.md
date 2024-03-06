@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – March 6, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/06/agenda-weekly-polyglots-chat-march-6-2024-700-utc/)
 - [I’ve found a typo in…](https://make.wordpress.org/polyglots/2024/03/05/ive-found-a-typo-in/)
 - [Please Add Bajjika &lpar;बज्जिका&rpar; Language.](https://make.wordpress.org/polyglots/2024/03/05/please-add-bajjika-%e0%a4%ac%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%95%e0%a4%be-language/)
 - [希望成为 PTE](https://make.wordpress.org/polyglots/2024/03/05/%e5%b8%8c%e6%9c%9b%e6%88%90%e4%b8%ba-pte/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello,](https://make.wordpress.org/polyglots/2024/03/04/hello-85/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/03/04/hello-84/)
 - [PTE request for Prespa](https://make.wordpress.org/polyglots/2024/03/02/pte-request-for-prespa/)
-- [PTE Request for Curiosity POTD](https://make.wordpress.org/polyglots/2024/03/02/pte-request-for-curiosity-potd/)
 <!-- POLYGLOTS:END -->
 
 ## Support
