@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [jp translated, i want to be editor](https://make.wordpress.org/polyglots/2024/03/06/jp-translated-i-want-to-be-editor/)
 - [Agenda: Weekly Polyglots Chat – March 6, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/06/agenda-weekly-polyglots-chat-march-6-2024-700-utc/)
 - [I’ve found a typo in…](https://make.wordpress.org/polyglots/2024/03/05/ive-found-a-typo-in/)
 - [Please Add Bajjika &lpar;बज्जिका&rpar; Language.](https://make.wordpress.org/polyglots/2024/03/05/please-add-bajjika-%e0%a4%ac%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%95%e0%a4%be-language/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for svg-color-changer](https://make.wordpress.org/polyglots/2024/03/04/pte-request-for-svg-color-changer/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/03/04/hello-85/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/03/04/hello-84/)
-- [PTE request for Prespa](https://make.wordpress.org/polyglots/2024/03/02/pte-request-for-prespa/)
 <!-- POLYGLOTS:END -->
 
 ## Support
