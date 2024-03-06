@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Delete 6.6 git branches](https://make.wordpress.org/systems/2024/03/06/delete-6-6-git-branches/)
 - [IPv6 Support](https://make.wordpress.org/systems/2024/03/04/ipv6-support/)
 - [Add redirect for Google Fonts JSON file](https://make.wordpress.org/systems/2024/02/27/add-redirect-for-google-fonts-json-file/)
 - [Reprovision wp.org Sandbox for VS Code 1.86](https://make.wordpress.org/systems/2024/02/26/reprovision-wp-org-sandbox-for-vs-code-1-86/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CORS requests for api.wordpress.org](https://make.wordpress.org/systems/2024/02/07/cors-requests-for-api-wordpress-org/)
 - [Clear poststatus.com cache in planet](https://make.wordpress.org/systems/2024/02/06/clear-poststatus-com-cache-in-planet/)
 - [Email forwarding for git.wordpress.org](https://make.wordpress.org/systems/2024/01/24/email-forwarding-for-git-wordpress-org/)
-- [Add redirect for Font Collection JSON schema](https://make.wordpress.org/systems/2024/01/16/add-redirect-for-font-collection-json-schema/)
 <!-- SYSTEMS:END -->
 
 ## News
