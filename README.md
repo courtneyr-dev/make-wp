@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [New Feature: The Block Bindings API](https://make.wordpress.org/core/2024/03/06/new-feature-the-block-bindings-api/)
 - [WordPress 6.5 Release Candidate Phase](https://make.wordpress.org/core/2024/03/06/wordpress-6-5-release-candidate-phase/)
 - [Agenda, Dev Chat, Wednesday March 6, 2024](https://make.wordpress.org/core/2024/03/05/agenda-dev-chat-wednesday-march-6-2024/)
 - [Performance Chat Summary: 5 March 2024](https://make.wordpress.org/core/2024/03/05/performance-chat-summary-05-march-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda, Dev Chat, Wednesday February 28, 2024](https://make.wordpress.org/core/2024/02/28/agenda-dev-chat-wednesday-february-28-2024/)
 - [I18N Improvements in 6.5 &lpar;Performant Translations&rpar;](https://make.wordpress.org/core/2024/02/27/i18n-improvements-6-5-performant-translations/)
 - [Summary of Hallway Hangout on overlapping problems in the Site Editor](https://make.wordpress.org/core/2024/02/27/summary-of-hallway-hangout-on-overlapping-problems-in-the-site-editor/)
-- [Performance Chat Summary: 27 February 2024](https://make.wordpress.org/core/2024/02/27/performance-chat-summary-27-february-2024/)
 <!-- CORE:END -->
 
 ## Design
