@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Proposal: Non-editable Footer for all Event Website Pages](https://make.wordpress.org/community/2024/03/06/proposal-non-editable-footer-for-all-event-website-pages/)
 - [Community Team Meeting Agenda for 7 March 2024](https://make.wordpress.org/community/2024/03/06/community-team-meeting-agenda-for-7-march-2024/)
 - [X-post: Training Team Update – February 2024](https://make.wordpress.org/community/2024/03/05/xpost-training-team-update-february-2024/)
 - [Events of the Month – January 2024](https://make.wordpress.org/community/2024/02/23/events-of-the-month-january-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Project: Reactivation of WordPress Latam Communities](https://make.wordpress.org/community/2024/02/16/project-reactivation-of-wordpress-latam-communities/)
 - [Announcing the Second Cohort &lpar;2024 Q1&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
 - [Contributor Working Group: Mentorship Chat Agenda | February 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/02/15/contributor-working-group-mentorship-chat-agenda-february-15th-0700-utc-apac-emea-and-1600-utc-amer/)
-- [2023 WordPress Meetup Survey: Key Findings](https://make.wordpress.org/community/2024/02/09/2023-wordpress-meetup-survey-key-findings/)
 <!-- COMMUNITY:END -->
 
 ## Meta
