@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Plugin Requirements](https://wordpress.tv/2024/03/07/plugin-requirements/)
+- [What is a plugin?](https://wordpress.tv/2024/03/07/what-is-a-plugin/)
+- [WordPress Sustainability Team Quick Overview](https://wordpress.tv/2024/03/07/wordpress-sustainability-team-quick-overview/)
 - [Working with Hooks](https://wordpress.tv/2024/03/07/working-with-hooks/)
 - [Filter Hooks](https://wordpress.tv/2024/03/07/filter-hooks/)
 - [Action Hooks](https://wordpress.tv/2024/03/07/action-hooks/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [MW WP Form のメンテナンスを引き継いでもらった話](https://wordpress.tv/2024/02/26/a-story-about-mw-wp-form-maintenance-being-taken-over/)
 - [WordPressサイトに関わるキャッシュを理解する](https://wordpress.tv/2024/02/26/undestand-the-cache-involved-in-a-website-using-wordpress/)
 - [WordPressコンテンツのリニューアルと採用システムの選定について](https://wordpress.tv/2024/02/26/renewal-of-wordpress-content-and-selection-of-a-the-system/)
-- [Web制作2年目の私がブロックテーマを作成してみた話](https://wordpress.tv/2024/02/26/my-story-about-creating-a-block-theme-in-my-second-year-of-web-production/)
-- [ブロックエディタでWebサイトの制作がどうかわったのか？実装事例から見る現在のWordPressの設計と構築](https://wordpress.tv/2024/02/26/how-has-the-block-editor-changed-the-production-of-websites-current-wordpress-design-and-construction-from-a-case-study/)
-- [WordPress初心者が社内プロダクトでテーマ開発を始めてみた。](https://wordpress.tv/2024/02/26/a-wordpress-beginner-started-theme-development-for-an-in-house-product/)
 <!-- WPTV:END -->
 
 ## Marketing
