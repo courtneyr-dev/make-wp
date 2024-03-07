@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Custom post type data](https://wordpress.tv/2024/03/07/custom-post-type-data/)
+- [Custom taxonomies](https://wordpress.tv/2024/03/07/custom-taxonomies/)
+- [Custom Post Types](https://wordpress.tv/2024/03/07/custom-post-types/)
 - [Plugin Requirements](https://wordpress.tv/2024/03/07/plugin-requirements/)
 - [What is a plugin?](https://wordpress.tv/2024/03/07/what-is-a-plugin/)
 - [WordPress Sustainability Team Quick Overview](https://wordpress.tv/2024/03/07/wordpress-sustainability-team-quick-overview/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [閉会式](https://wordpress.tv/2024/02/26/closing-remarks/)
 - [小さな開発会社でもできた、WordPress 新ビジネスの可能性](https://wordpress.tv/2024/02/26/even-a-small-development-company-could-do-it-new-business-opportunities-with-wordpress/)
 - [ユーザー行動の分析から、サイトの改善ポイントを探ろう](https://wordpress.tv/2024/02/26/lets-analyze-user-behavior-to-find-out-where-we-can-improve-the-website/)
-- [MW WP Form のメンテナンスを引き継いでもらった話](https://wordpress.tv/2024/02/26/a-story-about-mw-wp-form-maintenance-being-taken-over/)
-- [WordPressサイトに関わるキャッシュを理解する](https://wordpress.tv/2024/02/26/undestand-the-cache-involved-in-a-website-using-wordpress/)
-- [WordPressコンテンツのリニューアルと採用システムの選定について](https://wordpress.tv/2024/02/26/renewal-of-wordpress-content-and-selection-of-a-the-system/)
 <!-- WPTV:END -->
 
 ## Marketing
