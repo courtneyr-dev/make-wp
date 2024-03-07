@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [subaccounts-for-woocommerce]](https://make.wordpress.org/polyglots/2024/03/07/pte-request-for-subaccounts-for-woocommerce/)
 - [WordPress 6.5 ready to be translated](https://make.wordpress.org/polyglots/2024/03/06/wordpress-6-5-ready-to-be-translated/)
 - [Is a translation contributor or…](https://make.wordpress.org/polyglots/2024/03/06/is-a-translation-contributor-or/)
 - [Suggesting translations automatically](https://make.wordpress.org/polyglots/2024/03/06/suggesting-translations-automatically/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Please Add Bajjika &lpar;बज्जिका&rpar; Language.](https://make.wordpress.org/polyglots/2024/03/05/please-add-bajjika-%e0%a4%ac%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%95%e0%a4%be-language/)
 - [希望成为 PTE](https://make.wordpress.org/polyglots/2024/03/05/%e5%b8%8c%e6%9c%9b%e6%88%90%e4%b8%ba-pte/)
 - [PTE Request for bonusplus](https://make.wordpress.org/polyglots/2024/03/04/pte-request-for-bonusplus/)
-- [PTE Request](https://make.wordpress.org/polyglots/2024/03/04/pte-request-26/)
 <!-- POLYGLOTS:END -->
 
 ## Support
