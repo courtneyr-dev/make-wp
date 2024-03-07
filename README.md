@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Working with Hooks](https://wordpress.tv/2024/03/07/working-with-hooks/)
+- [Filter Hooks](https://wordpress.tv/2024/03/07/filter-hooks/)
+- [Action Hooks](https://wordpress.tv/2024/03/07/action-hooks/)
+- [WordPress Hooks](https://wordpress.tv/2024/03/07/wordpress-hooks/)
 - [WordPress desde el código](https://wordpress.tv/2024/03/05/wordpress-desde-el-codigo/)
 - [Eventos de la comunidad WP: ¿Cómo participar?](https://wordpress.tv/2024/03/03/eventos-de-la-comunidad-wp-como-participar/)
 - [Panel Discussion: Freelancing vs. Regular Job vs. Entrepreneurship](https://wordpress.tv/2024/02/28/panel-discussion-freelancing-vs-regular-job-vs-entrepreneurship/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web制作2年目の私がブロックテーマを作成してみた話](https://wordpress.tv/2024/02/26/my-story-about-creating-a-block-theme-in-my-second-year-of-web-production/)
 - [ブロックエディタでWebサイトの制作がどうかわったのか？実装事例から見る現在のWordPressの設計と構築](https://wordpress.tv/2024/02/26/how-has-the-block-editor-changed-the-production-of-websites-current-wordpress-design-and-construction-from-a-case-study/)
 - [WordPress初心者が社内プロダクトでテーマ開発を始めてみた。](https://wordpress.tv/2024/02/26/a-wordpress-beginner-started-theme-development-for-an-in-house-product/)
-- [AI 時代のアウトプット〜二人合わせてブログ歴35年、ブロガーのススメ](https://wordpress.tv/2024/02/26/output-in-the-age-of-ai-reccomendations-from-two-bloggers-with-a-combined-35-years-of-blogging-experience/)
-- [Learn.WordPress.org – 公式教育サイトの次のステップにあなたも携われます！](https://wordpress.tv/2024/02/26/learn-wordpress-org-you-can-be-part-of-the-next-step-in-the-official-education-website/)
-- [WordPressをきっかけに、人生をキャリアアップしていったお話](https://wordpress.tv/2024/02/26/a-story-about-how-wordpress-helped-me-advacne-my-life-and-career/)
-- [ヘッドレスCMS開発者から見たWordPress](https://wordpress.tv/2024/02/26/wordpress-from-a-headless-cms-developers-perspective/)
 <!-- WPTV:END -->
 
 ## Marketing
