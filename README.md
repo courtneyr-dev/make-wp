@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, March 6, 2024](https://make.wordpress.org/core/2024/03/07/summary-dev-chat-march-6-2024/)
 - [A Week in Core – March 4, 2024](https://make.wordpress.org/core/2024/03/06/a-week-in-core-march-4-2024/)
 - [New Feature: The Block Bindings API](https://make.wordpress.org/core/2024/03/06/new-feature-the-block-bindings-api/)
 - [WordPress 6.5 Release Candidate Phase](https://make.wordpress.org/core/2024/03/06/wordpress-6-5-release-candidate-phase/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Asia 2024 Contributor Day Core and Core Editor tables](https://make.wordpress.org/core/2024/02/29/wordcamp-asia-2024-contributor-day-core-and-core-editor-tables/)
 - [What’s new in Gutenberg 17.8? &lpar;28 February&rpar;](https://make.wordpress.org/core/2024/02/28/whats-new-in-gutenberg-17-8-28-february/)
 - [Agenda, Dev Chat, Wednesday February 28, 2024](https://make.wordpress.org/core/2024/02/28/agenda-dev-chat-wednesday-february-28-2024/)
-- [I18N Improvements in 6.5 &lpar;Performant Translations&rpar;](https://make.wordpress.org/core/2024/02/27/i18n-improvements-6-5-performant-translations/)
 <!-- CORE:END -->
 
 ## Design
