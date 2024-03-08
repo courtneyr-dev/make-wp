@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Senior Developer](https://jobs.wordpress.net/job/wordpress-senior-developer/)
+- [Driving Safety Cause Marketing Partners – Help Save Lives!](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners-help-save-lives/)
+- [WordPress Developer &lpar;Custom&rpar; Front End Developer](https://jobs.wordpress.net/job/wordpress-developer-custom-front-end-developer/)
+- [Occasional WordPress coach](https://jobs.wordpress.net/job/occasional-wordpress-coach/)
 - [PHP Developer at UpdraftPlus](https://jobs.wordpress.net/job/php-developer-at-updraftplus/)
 - [Senior WordPress + React Developer](https://jobs.wordpress.net/job/senior-wordpress-react-developer/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-2/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-836/)
 - [Forking and updating an abandoned plugin to php 8 compatibility](https://jobs.wordpress.net/job/forking-and-updating-an-abandoned-plugin-to-php-8-compatibility-2/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-835/)
-- [Senior manager, website development and technology](https://jobs.wordpress.net/job/senior-manager-website-development-and-technology/)
-- [URGENT: WordPress site support](https://jobs.wordpress.net/job/urgent-wordpress-site-support/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-9/)
-- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-9/)
 <!-- JOBS:END -->
 
 ## Central
