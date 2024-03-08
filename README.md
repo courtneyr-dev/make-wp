@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [কমান্ড প্যালেট দিয়ে দ্রুত কাজ করা](https://learn.wordpress.org/tutorial/bn-working-faster-with-the-command-palette/)
 - [ब्लॉक रिक्ति](https://learn.wordpress.org/tutorial/hi-block-spacing/)
 - [एक अस्थिर हेडर या बैनर जोड़ना](https://learn.wordpress.org/tutorial/hi-adding-a-sticky-header-or-banner/)
 - [छवियाँ जोड़ना और हटाना](https://learn.wordpress.org/tutorial/hi-adding-removing-images/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ক্রিয়েট ব্লক থিমের উন্নতিসমূহ](https://learn.wordpress.org/tutorial/bn-create-block-theme-improvements/)
 - [পোস্ট এবং পেজ শিডিউল করা](https://learn.wordpress.org/tutorial/bn-scheduling-posts-and-pages/)
 - [কিভাবে যেকোন ওয়ার্ডপ্রেস ওয়েবসাইটে একটি ব্লগ বা নিউজ পেজ যোগ করবেন](https://learn.wordpress.org/tutorial/bn-how-to-add-a-blog-or-news-page-to-any-wordpress-website/)
-- [Create Block Theme Improvements](https://learn.wordpress.org/tutorial/create-block-theme-improvements/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
