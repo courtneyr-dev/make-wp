@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to Test WordPress Beta Release?](https://wordpress.tv/2024/03/08/how-to-test-wordpress-beta-release/)
 - [Training Team WordCamp Asia 2024 Contributor Day Online Session](https://wordpress.tv/2024/03/07/training-team-wordcamp-asia-2024-contributor-day-online-session/)
 - [Custom post type data](https://wordpress.tv/2024/03/07/custom-post-type-data/)
 - [Custom taxonomies](https://wordpress.tv/2024/03/07/custom-taxonomies/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Embracing Gutenberg as a Product](https://wordpress.tv/2024/02/26/embracing-gutenberg-as-a-product/)
 - [Utiliser ChatGPT pour créer tes palettes de couleurs sur mesure dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2024/02/26/utiliser-chatgpt-pour-creer-tes-palettes-de-couleurs-sur-mesure-dans-lediteur-de-site-fse/)
 - [閉会式](https://wordpress.tv/2024/02/26/closing-remarks/)
-- [小さな開発会社でもできた、WordPress 新ビジネスの可能性](https://wordpress.tv/2024/02/26/even-a-small-development-company-could-do-it-new-business-opportunities-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
