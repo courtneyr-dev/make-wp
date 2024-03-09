@@ -3,7 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
-- [Miscellaneous Editor changes in WordPress 6.5](https://make.wordpress.org/core/2024/03/09/miscellaneous-editor-changes-in-wordpress-6-3-2/)
+- [Miscellaneous Editor changes in WordPress 6.5](https://make.wordpress.org/core/2024/03/09/miscellaneous-editor-changes-in-wordpress-6-5/)
 - [Miscellaneous developer changes in WordPress 6.5](https://make.wordpress.org/core/2024/03/08/miscellaneous-developer-changes-in-wordpress-6-5/)
 - [Unblocking WP6.5 – Font Library and Synced Pattern Overrides](https://make.wordpress.org/core/2024/03/07/unblocking-wp6-5-font-library-and-synced-pattern-overrides/)
 - [Summary, Dev Chat, March 6, 2024](https://make.wordpress.org/core/2024/03/07/summary-dev-chat-march-6-2024/)
