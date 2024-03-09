@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Miscellaneous Editor changes in WordPress 6.5](https://make.wordpress.org/core/2024/03/09/miscellaneous-editor-changes-in-wordpress-6-3-2/)
 - [Miscellaneous developer changes in WordPress 6.5](https://make.wordpress.org/core/2024/03/08/miscellaneous-developer-changes-in-wordpress-6-5/)
 - [Unblocking WP6.5 – Font Library and Synced Pattern Overrides](https://make.wordpress.org/core/2024/03/07/unblocking-wp6-5-font-library-and-synced-pattern-overrides/)
 - [Summary, Dev Chat, March 6, 2024](https://make.wordpress.org/core/2024/03/07/summary-dev-chat-march-6-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance improvements for registering block variations with callbacks](https://make.wordpress.org/core/2024/02/29/performance-improvements-for-registering-block-variations-with-callbacks/)
 - [Hallway Hangout: Let’s chat about WordPress Playground](https://make.wordpress.org/core/2024/02/29/hallway-hangout-lets-chat-about-wordpress-playground/)
 - [Summary, Dev Chat, February 28, 2024](https://make.wordpress.org/core/2024/02/29/summary-dev-chat-february-28-2024/)
-- [WordCamp Asia 2024 Contributor Day Core and Core Editor tables](https://make.wordpress.org/core/2024/02/29/wordcamp-asia-2024-contributor-day-core-and-core-editor-tables/)
 <!-- CORE:END -->
 
 ## Design
