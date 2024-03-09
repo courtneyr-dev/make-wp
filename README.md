@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Freelance Full-Stack WordPress Developer](https://jobs.wordpress.net/job/freelance-full-stack-wordpress-developer/)
 - [WordPress Senior Developer](https://jobs.wordpress.net/job/wordpress-senior-developer/)
 - [Driving Safety Cause Marketing Partners – Help Save Lives!](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners-help-save-lives/)
 - [WordPress Developer &lpar;Custom&rpar; Front End Developer](https://jobs.wordpress.net/job/wordpress-developer-custom-front-end-developer/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-2/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-836/)
 - [Forking and updating an abandoned plugin to php 8 compatibility](https://jobs.wordpress.net/job/forking-and-updating-an-abandoned-plugin-to-php-8-compatibility-2/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-835/)
 <!-- JOBS:END -->
 
 ## Central
