@@ -74,11 +74,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [WP-2FA]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-wp-2fa-2/)
 - [PTE Request for [Dynamic CPR]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-dynamic-cpr/)
 - [PTE Request for Sticky Comment…](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-sticky-comment/)
-- [There is a translation editor that I want removed.](https://make.wordpress.org/polyglots/2024/03/11/there-is-a-translation-editor-that-i-want-removed/)
 - [PTE Request for Add Product Frontend for WooCommerce](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-add-product-frontend-for-woocommerce/)
 - [PTE Request for [registrations-for-the-events-calendar]](https://make.wordpress.org/polyglots/2024/03/08/pte-request-for-registrations-for-the-events-calendar/)
 - [PTE Request for [subaccounts-for-woocommerce]](https://make.wordpress.org/polyglots/2024/03/07/pte-request-for-subaccounts-for-woocommerce/)
 - [WordPress 6.5 ready to be translated](https://make.wordpress.org/polyglots/2024/03/06/wordpress-6-5-ready-to-be-translated/)
+- [Is a translation contributor or…](https://make.wordpress.org/polyglots/2024/03/06/is-a-translation-contributor-or/)
 <!-- POLYGLOTS:END -->
 
 ## Support
