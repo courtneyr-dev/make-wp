@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for multilingual search for WPML](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-multilingual-search-for-wpml/)
+- [PTE Request for Koko Analytics](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-koko-analytics/)
+- [PTE Request for [WP-2FA]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-wp-2fa-2/)
+- [PTE Request for [Dynamic CPR]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-dynamic-cpr/)
+- [PTE Request for Sticky Comment…](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-sticky-comment/)
+- [There is a translation editor that I want removed.](https://make.wordpress.org/polyglots/2024/03/11/there-is-a-translation-editor-that-i-want-removed/)
+- [PTE Request for Add Product Frontend for WooCommerce](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-add-product-frontend-for-woocommerce/)
 - [PTE Request for [registrations-for-the-events-calendar]](https://make.wordpress.org/polyglots/2024/03/08/pte-request-for-registrations-for-the-events-calendar/)
 - [PTE Request for [subaccounts-for-woocommerce]](https://make.wordpress.org/polyglots/2024/03/07/pte-request-for-subaccounts-for-woocommerce/)
 - [WordPress 6.5 ready to be translated](https://make.wordpress.org/polyglots/2024/03/06/wordpress-6-5-ready-to-be-translated/)
-- [Is a translation contributor or…](https://make.wordpress.org/polyglots/2024/03/06/is-a-translation-contributor-or/)
-- [Suggesting translations automatically](https://make.wordpress.org/polyglots/2024/03/06/suggesting-translations-automatically/)
-- [jp translated, i want to be editor](https://make.wordpress.org/polyglots/2024/03/06/jp-translated-i-want-to-be-editor/)
-- [Agenda: Weekly Polyglots Chat – March 6, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/06/agenda-weekly-polyglots-chat-march-6-2024-700-utc/)
-- [I’ve found a typo in…](https://make.wordpress.org/polyglots/2024/03/05/ive-found-a-typo-in/)
-- [Please Add Bajjika &lpar;बज्जिका&rpar; Language.](https://make.wordpress.org/polyglots/2024/03/05/please-add-bajjika-%e0%a4%ac%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%95%e0%a4%be-language/)
-- [希望成为 PTE](https://make.wordpress.org/polyglots/2024/03/05/%e5%b8%8c%e6%9c%9b%e6%88%90%e4%b8%ba-pte/)
 <!-- POLYGLOTS:END -->
 
 ## Support
