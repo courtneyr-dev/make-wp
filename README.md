@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translation PTE Request](https://make.wordpress.org/polyglots/2024/03/11/translation-pte-request/)
+- [PTE request for Tainacan](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-tainacan-2/)
 - [PTE Request for multilingual search for WPML](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-multilingual-search-for-wpml/)
 - [PTE Request for Koko Analytics](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-koko-analytics/)
 - [PTE Request for [WP-2FA]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-wp-2fa-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Add Product Frontend for WooCommerce](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-add-product-frontend-for-woocommerce/)
 - [PTE Request for [registrations-for-the-events-calendar]](https://make.wordpress.org/polyglots/2024/03/08/pte-request-for-registrations-for-the-events-calendar/)
 - [PTE Request for [subaccounts-for-woocommerce]](https://make.wordpress.org/polyglots/2024/03/07/pte-request-for-subaccounts-for-woocommerce/)
-- [WordPress 6.5 ready to be translated](https://make.wordpress.org/polyglots/2024/03/06/wordpress-6-5-ready-to-be-translated/)
-- [Is a translation contributor or…](https://make.wordpress.org/polyglots/2024/03/06/is-a-translation-contributor-or/)
 <!-- POLYGLOTS:END -->
 
 ## Support
