@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Estratègies efectives per membresies en WordPress: Disseny Web que destaca](https://wordpress.tv/2024/03/11/estrategies-efectives-per-membresies-en-wordpress-disseny-web-que-destaca/)
 - [Testing WordPress 6.5](https://wordpress.tv/2024/03/09/testing-wordpress-6-5/)
 - [How to Test WordPress Beta Release](https://wordpress.tv/2024/03/08/how-to-test-wordpress-beta-release/)
 - [Training Team WordCamp Asia 2024 Contributor Day Online Session](https://wordpress.tv/2024/03/07/training-team-wordcamp-asia-2024-contributor-day-online-session/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Leading as an Introvert](https://wordpress.tv/2024/02/27/leading-as-an-introvert/)
 - [Diferentes formas de hacer que tu web sea multilenguaje](https://wordpress.tv/2024/02/27/diferentes-formas-de-hacer-que-tu-web-sea-multilenguaje/)
 - [Embracing Gutenberg as a Product](https://wordpress.tv/2024/02/26/embracing-gutenberg-as-a-product/)
-- [Utiliser ChatGPT pour créer tes palettes de couleurs sur mesure dans l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2024/02/26/utiliser-chatgpt-pour-creer-tes-palettes-de-couleurs-sur-mesure-dans-lediteur-de-site-fse/)
 <!-- WPTV:END -->
 
 ## Marketing
