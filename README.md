@@ -325,6 +325,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Test Team Chat Agenda for 12 March 2024](https://make.wordpress.org/test/2024/03/12/test-team-chat-agenda-for-12-march-2024/)
+- [Week in Test: March 12, 2024](https://make.wordpress.org/test/2024/03/12/week-in-test-march-12-2024/)
 - [X-post: Test Team Update: 11 March 2024](https://make.wordpress.org/test/2024/03/11/xpost-test-team-update-11-march-2024/)
 - [Test Team Profile Badge – Your Feedback Needed!](https://make.wordpress.org/test/2024/03/08/test-team-profile-badge-your-feedback-needed/)
 - [Week in Test: March 4, 2024](https://make.wordpress.org/test/2024/03/04/week-in-test-march-4-2024/)
@@ -333,8 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Help test WordPress 6.5 Beta 3](https://make.wordpress.org/test/2024/02/28/help-test-wordpress-beta-3/)
 - [Core Test Team at WCAsia 2024](https://make.wordpress.org/test/2024/02/28/core-test-team-at-wcasia-2024/)
 - [Test Team Chat Agenda for 27 February 2024](https://make.wordpress.org/test/2024/02/26/test-team-chat-agenda-for-27-february-2024/)
-- [Week in Test: February 26, 2024](https://make.wordpress.org/test/2024/02/26/week-in-test-february-26-2024/)
-- [X-post: Test Team Update: 26 February 2024](https://make.wordpress.org/test/2024/02/26/xpost-test-team-update-26-february-2024/)
 <!-- TEST:END -->
 
 ## TV
