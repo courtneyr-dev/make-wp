@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Tutor LMS plugin into Catalan](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-tutor-lms-plugin-into-catalan/)
+- [PTE request for plugin &lpar;Persian…](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-plugin-persian/)
 - [PTE Request for UpdraftPlus](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-updraftplus/)
 - [Translation PTE Request](https://make.wordpress.org/polyglots/2024/03/11/translation-pte-request/)
 - [PTE request for Tainacan](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-tainacan-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [WP-2FA]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-wp-2fa-2/)
 - [PTE Request for [Dynamic CPR]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-dynamic-cpr/)
 - [PTE Request for Sticky Comment…](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-sticky-comment/)
-- [PTE Request for Add Product Frontend for WooCommerce](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-add-product-frontend-for-woocommerce/)
-- [PTE Request for [registrations-for-the-events-calendar]](https://make.wordpress.org/polyglots/2024/03/08/pte-request-for-registrations-for-the-events-calendar/)
 <!-- POLYGLOTS:END -->
 
 ## Support
