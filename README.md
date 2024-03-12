@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Exploring the Interactivity API in WordPress 6.5](https://wordpress.tv/2024/03/12/developer-hours-exploring-the-interactivity-api-in-wordpress-6-5/)
 - [Estratègies efectives per membresies en WordPress: Disseny Web que destaca](https://wordpress.tv/2024/03/11/estrategies-efectives-per-membresies-en-wordpress-disseny-web-que-destaca/)
 - [Testing WordPress 6.5](https://wordpress.tv/2024/03/09/testing-wordpress-6-5/)
 - [How to Test WordPress Beta Release](https://wordpress.tv/2024/03/08/how-to-test-wordpress-beta-release/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [You Need a GPS for the Managed WordPress Hosting Maze!](https://wordpress.tv/2024/02/27/you-need-a-gps-for-the-managed-wordpress-hosting-maze/)
 - [Leading as an Introvert](https://wordpress.tv/2024/02/27/leading-as-an-introvert/)
 - [Diferentes formas de hacer que tu web sea multilenguaje](https://wordpress.tv/2024/02/27/diferentes-formas-de-hacer-que-tu-web-sea-multilenguaje/)
-- [Embracing Gutenberg as a Product](https://wordpress.tv/2024/02/26/embracing-gutenberg-as-a-product/)
 <!-- WPTV:END -->
 
 ## Marketing
