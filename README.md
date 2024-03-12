@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Rosetta commit permissions](https://make.wordpress.org/systems/2024/03/12/rosetta-commit-permissions/)
 - [Add WordCamp.org Sandbox and/or Super Admin](https://make.wordpress.org/systems/2024/03/07/add-wordcamp-org-sandbox-and-or-super-admin/)
 - [Delete 6.6 git branches](https://make.wordpress.org/systems/2024/03/06/delete-6-6-git-branches/)
 - [IPv6 Support](https://make.wordpress.org/systems/2024/03/04/ipv6-support/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ImageMagick for Photo Directory?](https://make.wordpress.org/systems/2024/02/12/imagemagick-for-photo-directory/)
 - [Reprovisioned Sandbox for VS Code 1.86](https://make.wordpress.org/systems/2024/02/07/reprovisioned-sandbox-for-vs-code-1-86/)
 - [CORS requests for api.wordpress.org](https://make.wordpress.org/systems/2024/02/07/cors-requests-for-api-wordpress-org/)
-- [Clear poststatus.com cache in planet](https://make.wordpress.org/systems/2024/02/06/clear-poststatus-com-cache-in-planet/)
 <!-- SYSTEMS:END -->
 
 ## News
