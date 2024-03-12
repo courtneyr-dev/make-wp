@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Should mods delete links on topics when requested?](https://make.wordpress.org/support/2024/03/should-mods-delete-links-on-topics-when-requested/)
 - [X-post: Training Team Update – February 2024](https://make.wordpress.org/support/2024/03/xpost-training-team-update-february-2024/)
 - [22nd February Support Team meeting](https://make.wordpress.org/support/2024/02/22nd-february-support-team-meeting-2/)
 - [Guideline change: Reviews of Commercial/Pro Plugins](https://make.wordpress.org/support/2024/02/guideline-change-reviews-of-commercial-pro-plugins/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/support/2024/01/xpost-call-for-mentees-mentors-cohort-2/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/support/2023/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: How can we best handle local channels in WordPress global Slack?](https://make.wordpress.org/support/2023/12/xpost-how-can-we-best-handle-local-channels-in-wordpress-global-slack/)
-- [7th December Support Team meeting](https://make.wordpress.org/support/2023/12/7th-december-support-team-meeting/)
 <!-- SUPPORT:END -->
 
 ## Documentation
