@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.5 Release Candidate 2](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-2/)
 - [Highlights from WordCamp Asia 2024](https://wordpress.org/news/2024/03/highlights-from-wordcamp-asia-2024/)
 - [The Month in WordPress – February 2024](https://wordpress.org/news/2024/03/the-month-in-wordpress-february-2024/)
 - [WordPress 6.5 Release Candidate 1](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-1/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.5 Beta 2](https://wordpress.org/news/2024/02/wordpress-6-5-beta-2/)
 - [WP Briefing: Episode 73: Inside the Interactivity API](https://wordpress.org/news/2024/02/episode-73-inside-the-interactivity-api/)
 - [2023 Annual Survey Results and Next Steps](https://wordpress.org/news/2024/02/2023-annual-survey-results-and-next-steps/)
-- [WordPress 6.5 Beta 1](https://wordpress.org/news/2024/02/wordpress-6-5-beta-1/)
 <!-- NEWS:END -->
 
 ## Jobs
