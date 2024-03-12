@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-7/)
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-14/)
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-13/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-10/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales, Data Entry&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-data-entry-2/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-22/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-3/)
 - [Freelance Full-Stack WordPress Developer](https://jobs.wordpress.net/job/freelance-full-stack-wordpress-developer/)
 - [WordPress Senior Developer](https://jobs.wordpress.net/job/wordpress-senior-developer/)
-- [Driving Safety Cause Marketing Partners – Help Save Lives!](https://jobs.wordpress.net/job/driving-safety-cause-marketing-partners-help-save-lives/)
-- [WordPress Developer &lpar;Custom&rpar; Front End Developer](https://jobs.wordpress.net/job/wordpress-developer-custom-front-end-developer/)
-- [Occasional WordPress coach](https://jobs.wordpress.net/job/occasional-wordpress-coach/)
 <!-- JOBS:END -->
 
 ## Central
