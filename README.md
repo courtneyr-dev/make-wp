@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – March 13, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/13/agenda-weekly-polyglots-chat-march-13-2024-1300-utc/)
 - [PTE Request for Tutor LMS plugin into Catalan](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-tutor-lms-plugin-into-catalan/)
 - [PTE request for plugin &lpar;Persian…](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-plugin-persian/)
 - [PTE Request for UpdraftPlus](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-updraftplus/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Koko Analytics](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-koko-analytics/)
 - [PTE Request for [WP-2FA]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-wp-2fa-2/)
 - [PTE Request for [Dynamic CPR]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-dynamic-cpr/)
-- [PTE Request for Sticky Comment…](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-sticky-comment/)
 <!-- POLYGLOTS:END -->
 
 ## Support
