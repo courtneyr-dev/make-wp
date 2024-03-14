@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Global settings and styles](https://wordpress.tv/2024/03/14/global-settings-and-styles/)
+- [Templates](https://wordpress.tv/2024/03/14/templates-2/)
+- [Main stylesheet](https://wordpress.tv/2024/03/14/main-stylesheet/)
+- [Introduction to themes for developers](https://wordpress.tv/2024/03/14/introduction-to-themes-for-developers/)
+- [Theme structure](https://wordpress.tv/2024/03/14/theme-structure/)
 - [Live WordPress 100% Bloc 23 janvier 2024](https://wordpress.tv/2024/03/12/live-wordpress-100-bloc-23-janvier-2024/)
 - [Developer Hours: Exploring the Interactivity API in WordPress 6.5](https://wordpress.tv/2024/03/12/developer-hours-exploring-the-interactivity-api-in-wordpress-6-5/)
 - [Estratègies efectives per membresies en WordPress: Disseny Web que destaca](https://wordpress.tv/2024/03/11/estrategies-efectives-per-membresies-en-wordpress-disseny-web-que-destaca/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Eventos de la comunidad WP: ¿Cómo participar?](https://wordpress.tv/2024/03/03/eventos-de-la-comunidad-wp-como-participar/)
 - [Panel Discussion: Freelancing vs. Regular Job vs. Entrepreneurship](https://wordpress.tv/2024/02/28/panel-discussion-freelancing-vs-regular-job-vs-entrepreneurship/)
 - [Using AI for Your Web Project Management](https://wordpress.tv/2024/02/28/using-ai-for-your-web-project-management/)
-- [Developer Hours: How to build modern web layouts with WordPress blocks](https://wordpress.tv/2024/02/27/developer-hours-how-to-build-modern-web-layouts-with-wordpress-blocks/)
-- [The WordPress SEO Checkup: Tools for Regular Site Audits](https://wordpress.tv/2024/02/27/the-wordpress-seo-checkup-tools-for-regular-site-audits/)
-- [The independent theme developer’s field guide to modern WordPress](https://wordpress.tv/2024/02/27/the-independent-theme-developers-field-guide-to-modern-wordpress-2/)
-- [You Need a GPS for the Managed WordPress Hosting Maze!](https://wordpress.tv/2024/02/27/you-need-a-gps-for-the-managed-wordpress-hosting-maze/)
-- [Leading as an Introvert](https://wordpress.tv/2024/02/27/leading-as-an-introvert/)
 <!-- WPTV:END -->
 
 ## Marketing
