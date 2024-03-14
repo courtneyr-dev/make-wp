@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Comment tester les versions bêta de WordPress ?](https://learn.wordpress.org/tutorial/fr-how-to-test-wordpress-beta-release/)
 - [How to Test WordPress Beta Release?](https://learn.wordpress.org/tutorial/how-to-test-wordpress-beta-release/)
 - [কমান্ড প্যালেট দিয়ে দ্রুত কাজ করা](https://learn.wordpress.org/tutorial/bn-working-faster-with-the-command-palette/)
 - [ब्लॉक रिक्ति](https://learn.wordpress.org/tutorial/hi-block-spacing/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [টুয়েন্টি টুয়েন্টিফোর থিম পরিচিতি](https://learn.wordpress.org/tutorial/bn-introducing-the-twenty-twenty-four-theme/)
 - [আমার কোন ধরণের ওয়ার্ডপ্রেস থিম আছে: ক্লাসিক, ব্লক, না অন্য কিছু?](https://learn.wordpress.org/tutorial/bn-what-kind-of-wordpress-theme-do-i-have-classic-block-or-something-else/)
 - [ক্রিয়েট ব্লক থিমের উন্নতিসমূহ](https://learn.wordpress.org/tutorial/bn-create-block-theme-improvements/)
-- [পোস্ট এবং পেজ শিডিউল করা](https://learn.wordpress.org/tutorial/bn-scheduling-posts-and-pages/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
