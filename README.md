@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Database Migration Specialist &lpar;MySQL, PHP, WordPress, WooCommerce&rpar;](https://jobs.wordpress.net/job/database-migration-specialist-mysql-php-wordpress-woocommerce/)
+- [WP All Import: SEO Strategist &amp; Writer](https://jobs.wordpress.net/job/wp-all-import-seo-strategist-writer/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-10/)
 - [IT System Administrator &lpar;M/W/D&rpar;](https://jobs.wordpress.net/job/it-system-administrator-m-w-d/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-7/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-10/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales, Data Entry&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-data-entry-2/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-22/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-10/)
-- [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-3/)
 <!-- JOBS:END -->
 
 ## Central
