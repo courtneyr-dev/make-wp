@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Previews and Blueprints](https://developer.wordpress.org/plugins/wordpress-org/previews-and-blueprints/)
 - [API Reference](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity/packages-interactivity-api-reference/)
-- [wp post url-to-id](https://developer.wordpress.org/cli/commands/post/url-to-id/)
 - [wp i18n make-php](https://developer.wordpress.org/cli/commands/i18n/make-php/)
+- [wp post url-to-id](https://developer.wordpress.org/cli/commands/post/url-to-id/)
 - [Testing](https://developer.wordpress.org/themes/advanced-topics/testing/)
 - [Publishing Themes](https://developer.wordpress.org/themes/advanced-topics/publishing-themes/)
 - [Action Reference](https://developer.wordpress.org/apis/hooks/action-reference/)
 - [Hooks](https://developer.wordpress.org/apis/hooks/)
 - [Filter Reference](https://developer.wordpress.org/apis/hooks/filter-reference/)
 - [Internationalization](https://developer.wordpress.org/themes/advanced-topics/internationalization/)
-- [Security](https://developer.wordpress.org/themes/advanced-topics/security/)
 <!-- DEVHUB:END -->
 
 ## Themes
