@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Découvre la Règle magique de Grid Layout pour transformer ton thème WordPress FSE](https://wordpress.tv/2024/03/14/decouvre-la-regle-ragique-de-grid-layout-pour-transformer-ton-theme-wordpress-fse/)
 - [Global settings and styles](https://wordpress.tv/2024/03/14/global-settings-and-styles/)
 - [Templates](https://wordpress.tv/2024/03/14/templates-2/)
 - [Main stylesheet](https://wordpress.tv/2024/03/14/main-stylesheet/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress desde el código](https://wordpress.tv/2024/03/05/wordpress-desde-el-codigo/)
 - [Eventos de la comunidad WP: ¿Cómo participar?](https://wordpress.tv/2024/03/03/eventos-de-la-comunidad-wp-como-participar/)
 - [Panel Discussion: Freelancing vs. Regular Job vs. Entrepreneurship](https://wordpress.tv/2024/02/28/panel-discussion-freelancing-vs-regular-job-vs-entrepreneurship/)
-- [Using AI for Your Web Project Management](https://wordpress.tv/2024/02/28/using-ai-for-your-web-project-management/)
 <!-- WPTV:END -->
 
 ## Marketing
