@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2024/03/14/hello-polyglots-team-6/)
+- [PTE Request for ValidateCertify-Free into Español](https://make.wordpress.org/polyglots/2024/03/14/pte-request-for-validatecertify-free-into-espanol/)
 - [Agenda: Weekly Polyglots Chat – March 13, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/13/agenda-weekly-polyglots-chat-march-13-2024-1300-utc/)
 - [PTE Request for Tutor LMS plugin into Catalan](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-tutor-lms-plugin-into-catalan/)
 - [PTE request for plugin &lpar;Persian…](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-plugin-persian/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for Tainacan](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-tainacan-2/)
 - [PTE Request for multilingual search for WPML](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-multilingual-search-for-wpml/)
 - [PTE Request for Koko Analytics](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-koko-analytics/)
-- [PTE Request for [WP-2FA]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-wp-2fa-2/)
-- [PTE Request for [Dynamic CPR]](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-dynamic-cpr/)
 <!-- POLYGLOTS:END -->
 
 ## Support
