@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for multiple plugins](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-multiple-plugins-4/)
+- [Request  new locale](https://make.wordpress.org/polyglots/2024/03/15/request-new-locale/)
 - [CLPTE and PTE request in multiple projects](https://make.wordpress.org/polyglots/2024/03/15/clpte-and-pte-request-in-multiple-projects/)
 - [GTE Request for English Locale](https://make.wordpress.org/polyglots/2024/03/15/gte-request-for-english-locale/)
 - [PTE Request for [docodoco-store-locator]](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-docodoco-store-locator/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – March 13, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/13/agenda-weekly-polyglots-chat-march-13-2024-1300-utc/)
 - [PTE Request for Tutor LMS plugin into Catalan](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-tutor-lms-plugin-into-catalan/)
 - [PTE request for plugin &lpar;Persian…](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-plugin-persian/)
-- [PTE Request for UpdraftPlus](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-updraftplus/)
-- [Translation PTE Request](https://make.wordpress.org/polyglots/2024/03/11/translation-pte-request/)
 <!-- POLYGLOTS:END -->
 
 ## Support
