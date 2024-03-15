@@ -69,8 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE request for Polish](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-polish/)
-- [PTE Request for “Auto Listings” plugin](https://make.wordpress.org/polyglots/2024/03/14/pte-request-for-auto-listings-plugin/)
+- [PTE Request for [docodoco-store-locator]](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-docodoco-store-locator/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2024/03/14/hello-polyglots-team-6/)
 - [PTE Request for ValidateCertify-Free into Español](https://make.wordpress.org/polyglots/2024/03/14/pte-request-for-validatecertify-free-into-espanol/)
 - [Agenda: Weekly Polyglots Chat – March 13, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/13/agenda-weekly-polyglots-chat-march-13-2024-1300-utc/)
@@ -79,6 +78,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for UpdraftPlus](https://make.wordpress.org/polyglots/2024/03/12/pte-request-for-updraftplus/)
 - [Translation PTE Request](https://make.wordpress.org/polyglots/2024/03/11/translation-pte-request/)
 - [PTE request for Tainacan](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-tainacan-2/)
+- [PTE Request for multilingual search for WPML](https://make.wordpress.org/polyglots/2024/03/11/pte-request-for-multilingual-search-for-wpml/)
 <!-- POLYGLOTS:END -->
 
 ## Support
