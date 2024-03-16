@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Website Developer](https://jobs.wordpress.net/job/website-developer-27/)
+- [Senior Software Engineer – Content Platforms](https://jobs.wordpress.net/job/senior-software-engineer-content-platforms/)
 - [WordPress expert online job](https://jobs.wordpress.net/job/wordpress-expert-online-job/)
 - [Database Migration Specialist &lpar;MySQL, PHP, WordPress, WooCommerce&rpar;](https://jobs.wordpress.net/job/database-migration-specialist-mysql-php-wordpress-woocommerce/)
 - [WP All Import: SEO Strategist &amp; Writer](https://jobs.wordpress.net/job/wp-all-import-seo-strategist-writer/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-7/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-14/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-13/)
-- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-10/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Sales, Data Entry&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-data-entry-2/)
 <!-- JOBS:END -->
 
 ## Central
