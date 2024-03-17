@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-11/)
+- [WordPress Sales Support Specialist &lpar;WordPress, Sales, Data Entry&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-data-entry-3/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-23/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-11/)
+- [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-4/)
 - [Website Developer](https://jobs.wordpress.net/job/website-developer-27/)
 - [Senior Software Engineer – Content Platforms](https://jobs.wordpress.net/job/senior-software-engineer-content-platforms/)
 - [WordPress expert online job](https://jobs.wordpress.net/job/wordpress-expert-online-job/)
 - [Database Migration Specialist &lpar;MySQL, PHP, WordPress, WooCommerce&rpar;](https://jobs.wordpress.net/job/database-migration-specialist-mysql-php-wordpress-woocommerce/)
 - [WP All Import: SEO Strategist &amp; Writer](https://jobs.wordpress.net/job/wp-all-import-seo-strategist-writer/)
-- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-10/)
-- [IT System Administrator &lpar;M/W/D&rpar;](https://jobs.wordpress.net/job/it-system-administrator-m-w-d/)
-- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-7/)
-- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-14/)
-- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-13/)
 <!-- JOBS:END -->
 
 ## Central
