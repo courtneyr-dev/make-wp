@@ -526,11 +526,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-23/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-11/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-4/)
-- [Website Developer](https://jobs.wordpress.net/job/website-developer-27/)
 - [Senior Software Engineer – Content Platforms](https://jobs.wordpress.net/job/senior-software-engineer-content-platforms/)
 - [WordPress expert online job](https://jobs.wordpress.net/job/wordpress-expert-online-job/)
 - [Database Migration Specialist &lpar;MySQL, PHP, WordPress, WooCommerce&rpar;](https://jobs.wordpress.net/job/database-migration-specialist-mysql-php-wordpress-woocommerce/)
 - [WP All Import: SEO Strategist &amp; Writer](https://jobs.wordpress.net/job/wp-all-import-seo-strategist-writer/)
+- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-10/)
 <!-- JOBS:END -->
 
 ## Central
