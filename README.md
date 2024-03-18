@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Aruba Fatturazione Elettronica](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-aruba-fatturazione-elettronica/)
+- [PTE Request for EasyNewsletter I…](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-easynewsletter-i/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/03/17/hi-110/)
 - [PTE Request for YM Fast Options](https://make.wordpress.org/polyglots/2024/03/17/pte-request-for-ym-fast-options/)
 - [PTE request for multiple plugins](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-multiple-plugins-4/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GTE Request for English Locale](https://make.wordpress.org/polyglots/2024/03/15/gte-request-for-english-locale/)
 - [PTE Request for [docodoco-store-locator]](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-docodoco-store-locator/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2024/03/14/hello-polyglots-team-6/)
-- [PTE Request for ValidateCertify-Free into Español](https://make.wordpress.org/polyglots/2024/03/14/pte-request-for-validatecertify-free-into-espanol/)
-- [Agenda: Weekly Polyglots Chat – March 13, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/13/agenda-weekly-polyglots-chat-march-13-2024-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
