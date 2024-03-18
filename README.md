@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request For Text To Speech TTS Accessibility plugin](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-text-to-speech-tts-accessibility-plugin-2/)
 - [PTE Request for Aruba Fatturazione Elettronica](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-aruba-fatturazione-elettronica/)
 - [PTE Request for EasyNewsletter I…](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-easynewsletter-i/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/03/17/hi-110/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE and PTE request in multiple projects](https://make.wordpress.org/polyglots/2024/03/15/clpte-and-pte-request-in-multiple-projects/)
 - [GTE Request for English Locale](https://make.wordpress.org/polyglots/2024/03/15/gte-request-for-english-locale/)
 - [PTE Request for [docodoco-store-locator]](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-docodoco-store-locator/)
-- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2024/03/14/hello-polyglots-team-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
