@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books/)
+- [[Syde] WordPress Engineer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/syde-wordpress-engineer-m-f-d/)
 - [Copywriter &lpar;WordPress, MixPanel, Hotjar, GA4 &amp; SEO&rpar;](https://jobs.wordpress.net/job/copywriter-wordpress-mixpanel-hotjar-ga4-seo-11/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Sales, Data Entry&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-sales-data-entry-3/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-23/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Software Engineer – Content Platforms](https://jobs.wordpress.net/job/senior-software-engineer-content-platforms/)
 - [WordPress expert online job](https://jobs.wordpress.net/job/wordpress-expert-online-job/)
 - [Database Migration Specialist &lpar;MySQL, PHP, WordPress, WooCommerce&rpar;](https://jobs.wordpress.net/job/database-migration-specialist-mysql-php-wordpress-woocommerce/)
-- [WP All Import: SEO Strategist &amp; Writer](https://jobs.wordpress.net/job/wp-all-import-seo-strategist-writer/)
-- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-10/)
 <!-- JOBS:END -->
 
 ## Central
