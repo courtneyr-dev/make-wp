@@ -558,7 +558,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Sylhet, Bangladesh](https://central.wordcamp.org/wordcamps/wordcamp-sylhet-bangladesh-2/)
 - [WordPress Photo Festival](https://central.wordcamp.org/wordcamps/wordpress-photo-festival/)
 - [WordCamp Vigo, Galicia, Spain](https://central.wordcamp.org/wordcamps/wordcamp-vigo-galicia-spain/)
-- [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-us-2024/)
 - [WordCamp Buffalo, NY USA](https://central.wordcamp.org/wordcamps/wordcamp-buffalo-ny-usa-2/)
 - [WordCamp Jinja 2024](https://central.wordcamp.org/wordcamps/wordcamp-jinja-uganda/)
 - [Uganda Website Projects Competition 2024](https://central.wordcamp.org/wordcamps/uganda-projects-competition-2024/)
@@ -568,6 +567,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Chiclana de la Frontera, Cádiz, Spain](https://central.wordcamp.org/wordcamps/wordcamp-chiclana-de-la-frontera-cadiz-spain/)
 - [WordCamp Gliwice](https://central.wordcamp.org/wordcamps/wordcamp-gliwice/)
 - [WordCamp Porto, Portugal](https://central.wordcamp.org/wordcamps/wordcamp-porto-portugal/)
+- [WordCamp Griñón for E-Commerce](https://central.wordcamp.org/wordcamps/wordcamp-grinon-2/)
 - [WordCamp Canada 2024 &lpar;#WCEH&rpar;](https://central.wordcamp.org/wordcamps/wordcamp-wordcamp-canada-2024/)
 <!-- WordCamp:END -->
 
