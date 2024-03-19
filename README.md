@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Message to @wpswingsclpte I have…](https://make.wordpress.org/polyglots/2024/03/19/message-to-wpswingsclpte-i-have/)
 - [PTE Request for LocalWeb All In One](https://make.wordpress.org/polyglots/2024/03/19/pte-request-for-localweb-all-in-one/)
 - [PTE 请求](https://make.wordpress.org/polyglots/2024/03/19/pte-%e8%af%b7%e6%b1%82/)
 - [Volunteers needed for revival of #ko_KR locale](https://make.wordpress.org/polyglots/2024/03/19/volunteers-needed-for-revival-of-ko_kr-locale/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2024/03/17/hi-110/)
 - [PTE Request for YM Fast Options](https://make.wordpress.org/polyglots/2024/03/17/pte-request-for-ym-fast-options/)
 - [PTE request for multiple plugins](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-multiple-plugins-4/)
-- [Request  new locale](https://make.wordpress.org/polyglots/2024/03/15/request-new-locale/)
 <!-- POLYGLOTS:END -->
 
 ## Support
