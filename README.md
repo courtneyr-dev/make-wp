@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to backup your site](https://wordpress.tv/2024/03/18/how-to-backup-your-site/)
+- [How to find help with WordPress](https://wordpress.tv/2024/03/18/how-to-find-help-with-wordpress/)
+- [Managing spam on your website](https://wordpress.tv/2024/03/18/managing-spam-on-your-website-2/)
 - [Découvre la Règle magique de Grid Layout pour transformer ton thème WordPress FSE](https://wordpress.tv/2024/03/14/decouvre-la-regle-ragique-de-grid-layout-pour-transformer-ton-theme-wordpress-fse/)
 - [Global settings and styles](https://wordpress.tv/2024/03/14/global-settings-and-styles/)
 - [Templates](https://wordpress.tv/2024/03/14/templates-2/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Filter Hooks](https://wordpress.tv/2024/03/07/filter-hooks/)
 - [Action Hooks](https://wordpress.tv/2024/03/07/action-hooks/)
 - [WordPress Hooks](https://wordpress.tv/2024/03/07/wordpress-hooks/)
-- [WordPress desde el código](https://wordpress.tv/2024/03/05/wordpress-desde-el-codigo/)
-- [Eventos de la comunidad WP: ¿Cómo participar?](https://wordpress.tv/2024/03/03/eventos-de-la-comunidad-wp-como-participar/)
-- [Panel Discussion: Freelancing vs. Regular Job vs. Entrepreneurship](https://wordpress.tv/2024/02/28/panel-discussion-freelancing-vs-regular-job-vs-entrepreneurship/)
 <!-- WPTV:END -->
 
 ## Marketing
