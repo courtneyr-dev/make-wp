@@ -134,7 +134,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Action Reference](https://developer.wordpress.org/apis/hooks/action-reference/)
 - [Hooks](https://developer.wordpress.org/apis/hooks/)
 - [Filter Reference](https://developer.wordpress.org/apis/hooks/filter-reference/)
-- [Internationalization](https://developer.wordpress.org/themes/advanced-topics/internationalization/)
+- [Build Process](https://developer.wordpress.org/themes/advanced-topics/build-process/)
 <!-- DEVHUB:END -->
 
 ## Themes
