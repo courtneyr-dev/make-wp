@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Réinvente ton design system : L’art des compositions dynamiques dans WordPress](https://wordpress.tv/2024/03/20/reinvente-ton-design-system-lart-des-compositions-dynamiques-dans-wordpress/)
 - [How to backup your site](https://wordpress.tv/2024/03/18/how-to-backup-your-site/)
 - [How to find help with WordPress](https://wordpress.tv/2024/03/18/how-to-find-help-with-wordpress/)
 - [Managing spam on your website](https://wordpress.tv/2024/03/18/managing-spam-on-your-website-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Working with Hooks](https://wordpress.tv/2024/03/07/working-with-hooks/)
 - [Filter Hooks](https://wordpress.tv/2024/03/07/filter-hooks/)
 - [Action Hooks](https://wordpress.tv/2024/03/07/action-hooks/)
-- [WordPress Hooks](https://wordpress.tv/2024/03/07/wordpress-hooks/)
 <!-- WPTV:END -->
 
 ## Marketing
