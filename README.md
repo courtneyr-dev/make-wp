@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for WordPress6.5.x – Development](https://make.wordpress.org/polyglots/2024/03/20/pte-request-for-wordpress6-5-x-development/)
+- [PTE request for two plugins](https://make.wordpress.org/polyglots/2024/03/20/pte-request-for-two-plugins-6/)
 - [Message to @wpswingsclpte I have…](https://make.wordpress.org/polyglots/2024/03/19/message-to-wpswingsclpte-i-have/)
 - [PTE Request for LocalWeb All In One](https://make.wordpress.org/polyglots/2024/03/19/pte-request-for-localweb-all-in-one/)
 - [PTE 请求](https://make.wordpress.org/polyglots/2024/03/19/pte-%e8%af%b7%e6%b1%82/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Aruba Fatturazione Elettronica](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-aruba-fatturazione-elettronica/)
 - [PTE Request for EasyNewsletter I…](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-easynewsletter-i/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/03/17/hi-110/)
-- [PTE Request for YM Fast Options](https://make.wordpress.org/polyglots/2024/03/17/pte-request-for-ym-fast-options/)
-- [PTE request for multiple plugins](https://make.wordpress.org/polyglots/2024/03/15/pte-request-for-multiple-plugins-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
