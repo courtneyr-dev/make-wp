@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for SuperFaktura WooCommerce plugin](https://make.wordpress.org/polyglots/2024/03/21/pte-request-for-superfaktura-woocommerce-plugin/)
+- [PTE request in multiple projects, pt_BR locale](https://make.wordpress.org/polyglots/2024/03/21/pte-request-in-multiple-projects-pt_br-locale/)
 - [PTE request for AutomatorWP –…](https://make.wordpress.org/polyglots/2024/03/21/pte-request-for-automatorwp/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/03/21/hi-111/)
 - [PTE request for WordPress6.5.x – Development](https://make.wordpress.org/polyglots/2024/03/20/pte-request-for-wordpress6-5-x-development/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for LocalWeb All In One](https://make.wordpress.org/polyglots/2024/03/19/pte-request-for-localweb-all-in-one/)
 - [PTE 请求](https://make.wordpress.org/polyglots/2024/03/19/pte-%e8%af%b7%e6%b1%82/)
 - [Volunteers needed for revival of #ko_KR locale](https://make.wordpress.org/polyglots/2024/03/19/volunteers-needed-for-revival-of-ko_kr-locale/)
-- [PTE Request For Text To Speech TTS Accessibility plugin](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-text-to-speech-tts-accessibility-plugin-2/)
-- [PTE Request for Aruba Fatturazione Elettronica](https://make.wordpress.org/polyglots/2024/03/18/pte-request-for-aruba-fatturazione-elettronica/)
 <!-- POLYGLOTS:END -->
 
 ## Support
