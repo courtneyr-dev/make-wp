@@ -267,7 +267,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
-- [Community Team Program Supporter Tasks](https://learn.wordpress.org/course/wordpress-community-team-program-supporter-tasks/)
 - [Community Team Supporter Basics](https://learn.wordpress.org/course/wordpress-community-team-supporter-basics/)
 - [Introduction to developing with the WordPress REST API](https://learn.wordpress.org/course/developing-with-the-wordpress-rest-api/)
 - [Creating a 4-page business website](https://learn.wordpress.org/course/creating-a-4-page-business-website/)
@@ -284,6 +283,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting Started With WordPress: Get Set Up](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
 - [How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
 - [WordCamp Organizer Training](https://learn.wordpress.org/course/wordcamp-organizer-training/)
+- [WordPress Community Team Program Supporter Training](https://learn.wordpress.org/course/wordpress-community-deputy-training/)
 - [Open Source Basics and WordPress](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)
 - [Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
 - [Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
