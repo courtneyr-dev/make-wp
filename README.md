@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Update Git author script](https://make.wordpress.org/systems/2024/03/21/update-git-author-script/)
 - [Redirect gutenberg.run](https://make.wordpress.org/systems/2024/03/18/redirect-gutenberg-run/)
 - [Rosetta commit permissions](https://make.wordpress.org/systems/2024/03/12/rosetta-commit-permissions/)
 - [Add WordCamp.org Sandbox and/or Super Admin](https://make.wordpress.org/systems/2024/03/07/add-wordcamp-org-sandbox-and-or-super-admin/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Reprovision wp.org Sandbox for VS Code 1.86](https://make.wordpress.org/systems/2024/02/26/reprovision-wp-org-sandbox-for-vs-code-1-86/)
 - [Update plugins.trac templates.](https://make.wordpress.org/systems/2024/02/23/update-plugins-trac-templates-2/)
 - [ImageMagick for Photo Directory?](https://make.wordpress.org/systems/2024/02/12/imagemagick-for-photo-directory/)
-- [Reprovisioned Sandbox for VS Code 1.86](https://make.wordpress.org/systems/2024/02/07/reprovisioned-sandbox-for-vs-code-1-86/)
 <!-- SYSTEMS:END -->
 
 ## News
