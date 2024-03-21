@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Font Library update: storage of font files](https://make.wordpress.org/core/2024/03/21/font-library-update-storage-of-font-files/)
 - [Summary, Dev Chat, March 20, 2024](https://make.wordpress.org/core/2024/03/21/summary-dev-chat-march-20-2024/)
 - [Agenda, Dev Chat, Wednesday March 20, 2024](https://make.wordpress.org/core/2024/03/20/agenda-dev-chat-wednesday-march-20-2024/)
 - [Hallway Hangout: Using Site editor in production for client sites](https://make.wordpress.org/core/2024/03/19/hallway-hangout-using-site-editor-in-production-for-client-sites/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, March 6, 2024](https://make.wordpress.org/core/2024/03/07/summary-dev-chat-march-6-2024/)
 - [A Week in Core – March 4, 2024](https://make.wordpress.org/core/2024/03/06/a-week-in-core-march-4-2024/)
 - [New Feature: The Block Bindings API](https://make.wordpress.org/core/2024/03/06/new-feature-the-block-bindings-api/)
-- [WordPress 6.5 Release Candidate Phase](https://make.wordpress.org/core/2024/03/06/wordpress-6-5-release-candidate-phase/)
 <!-- CORE:END -->
 
 ## Design
