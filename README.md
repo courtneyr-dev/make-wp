@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Hajime Ogushi: WordPressの保守・メンテナンスをやってみよう！](https://wordpress.tv/2024/03/21/hajime-ogushi-lets-try-wordpress-backup-and-maintenance/)
 - [Réinvente ton design system : L’art des compositions dynamiques dans WordPress](https://wordpress.tv/2024/03/20/reinvente-ton-design-system-lart-des-compositions-dynamiques-dans-wordpress/)
 - [How to backup your site](https://wordpress.tv/2024/03/18/how-to-backup-your-site/)
 - [How to find help with WordPress](https://wordpress.tv/2024/03/18/how-to-find-help-with-wordpress/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Sustainability Team Quick Overview](https://wordpress.tv/2024/03/07/wordpress-sustainability-team-quick-overview/)
 - [Working with Hooks](https://wordpress.tv/2024/03/07/working-with-hooks/)
 - [Filter Hooks](https://wordpress.tv/2024/03/07/filter-hooks/)
-- [Action Hooks](https://wordpress.tv/2024/03/07/action-hooks/)
 <!-- WPTV:END -->
 
 ## Marketing
