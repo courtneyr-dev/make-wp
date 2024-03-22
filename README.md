@@ -556,6 +556,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-wordcamp-us-portland-oregon/)
 - [WordCamp Sylhet, Bangladesh](https://central.wordcamp.org/wordcamps/wordcamp-sylhet-bangladesh-2/)
+- [Women WordPress Day](https://central.wordcamp.org/wordcamps/women-wordpress-day/)
 - [WordPress Photo Festival](https://central.wordcamp.org/wordcamps/wordpress-photo-festival/)
 - [WordCamp Vigo, Galicia, Spain](https://central.wordcamp.org/wordcamps/wordcamp-vigo-galicia-spain/)
 - [WordCamp Buffalo, NY USA](https://central.wordcamp.org/wordcamps/wordcamp-buffalo-ny-usa-2/)
@@ -565,7 +566,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Bilbao, Bizkaia, Spain](https://central.wordcamp.org/wordcamps/wordcamp-bilbao-2024-spain/)
 - [WordCamp Leipzig](https://central.wordcamp.org/wordcamps/wordcamp-leipzig/)
 - [WordCamp Chiclana de la Frontera, Cádiz, Spain](https://central.wordcamp.org/wordcamps/wordcamp-chiclana-de-la-frontera-cadiz-spain/)
-- [WordCamp Gliwice](https://central.wordcamp.org/wordcamps/wordcamp-gliwice/)
 - [WordCamp Porto, Portugal](https://central.wordcamp.org/wordcamps/wordcamp-porto-portugal/)
 - [WordCamp Griñón for E-Commerce](https://central.wordcamp.org/wordcamps/wordcamp-grinon-2/)
 - [WordCamp Canada 2024 &lpar;#WCEH&rpar;](https://central.wordcamp.org/wordcamps/wordcamp-wordcamp-canada-2024/)
