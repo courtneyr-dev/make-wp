@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress Translation Editor request for en_NZ](https://make.wordpress.org/polyglots/2024/03/24/wordpress-translation-editor-request-for-en_nz/)
 - [X-post: Making a WordPress Media Corps](https://make.wordpress.org/polyglots/2024/03/21/xpost-making-a-wordpress-media-corps/)
 - [PTE Request for SuperFaktura WooCommerce plugin](https://make.wordpress.org/polyglots/2024/03/21/pte-request-for-superfaktura-woocommerce-plugin/)
 - [PTE request in multiple projects, pt_BR locale](https://make.wordpress.org/polyglots/2024/03/21/pte-request-in-multiple-projects-pt_br-locale/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for two plugins](https://make.wordpress.org/polyglots/2024/03/20/pte-request-for-two-plugins-6/)
 - [Message to @wpswingsclpte I have…](https://make.wordpress.org/polyglots/2024/03/19/message-to-wpswingsclpte-i-have/)
 - [PTE Request for LocalWeb All In One](https://make.wordpress.org/polyglots/2024/03/19/pte-request-for-localweb-all-in-one/)
-- [PTE 请求](https://make.wordpress.org/polyglots/2024/03/19/pte-%e8%af%b7%e6%b1%82/)
 <!-- POLYGLOTS:END -->
 
 ## Support
