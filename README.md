@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design Share: Mar 11-Mar 22](https://make.wordpress.org/design/2024/03/25/design-share-mar-11-mar-22/)
 - [Design Share: Feb 26-Mar 8](https://make.wordpress.org/design/2024/03/11/design-share-feb-26-mar-8/)
 - [Design Share: Feb 12-Feb 23](https://make.wordpress.org/design/2024/02/26/design-share-feb-12-feb-23/)
 - [X-post: Project Thread: Documentation Redesign](https://make.wordpress.org/design/2024/02/15/xpost-project-thread-documentation-redesign/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Hallway Hangout: Intrinsic Design](https://make.wordpress.org/design/2024/01/30/xpost-hallway-hangout-intrinsic-design/)
 - [Design Share: Jan 15-Jan 26](https://make.wordpress.org/design/2024/01/29/design-share-jan-15-jan-26/)
 - [Design Share: Jan 1-Jan 12](https://make.wordpress.org/design/2024/01/15/design-share-jan-1-jan-12/)
-- [X-post: Process Proposal: Moderating the New Showcase](https://make.wordpress.org/design/2024/01/12/xpost-process-proposal-moderating-the-new-showcase/)
 <!-- DESIGN:END -->
 
 ## Mobile
