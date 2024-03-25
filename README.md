@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Enable DKIM for 3rd-party WordCamp emails](https://make.wordpress.org/systems/2024/03/25/enable-dkim-for-3rd-party-wordcamp-emails/)
 - [Enable SSL for additional *.wp.org domains](https://make.wordpress.org/systems/2024/03/22/enable-ssl-for-additional-wp-org-domains/)
 - [Update Git author script](https://make.wordpress.org/systems/2024/03/21/update-git-author-script/)
 - [Redirect gutenberg.run](https://make.wordpress.org/systems/2024/03/18/redirect-gutenberg-run/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [IPv6 Support](https://make.wordpress.org/systems/2024/03/04/ipv6-support/)
 - [Add redirect for Google Fonts JSON file](https://make.wordpress.org/systems/2024/02/27/add-redirect-for-google-fonts-json-file/)
 - [Reprovision wp.org Sandbox for VS Code 1.86](https://make.wordpress.org/systems/2024/02/26/reprovision-wp-org-sandbox-for-vs-code-1-86/)
-- [Update plugins.trac templates.](https://make.wordpress.org/systems/2024/02/23/update-plugins-trac-templates-2/)
 <!-- SYSTEMS:END -->
 
 ## News
