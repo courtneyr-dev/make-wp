@@ -352,6 +352,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Descubre las tendencias en diseño web en 2024](https://wordpress.tv/2024/03/26/descubre-las-tendencias-en-diseno-web-en-2024/)
+- [Aprende SEO local con El Libro Gordo de Petete](https://wordpress.tv/2024/03/26/aprende-seo-local-con-el-libro-gordo-de-petete/)
+- [Alzheimer vs. Zeigarnik o cómo evitar que se olviden de tu web](https://wordpress.tv/2024/03/26/alzheimer-vs-zeigarnik-o-como-evitar-que-se-olviden-de-tu-web/)
+- [Crear webs abre puertas que ni imaginas](https://wordpress.tv/2024/03/26/crear-webs-abre-puertas-que-ni-imaginas/)
+- [Cómo hacerle una nueva web a tu cliente y no arruinarle el negocio](https://wordpress.tv/2024/03/26/como-hacerle-una-nueva-web-a-tu-cliente-y-no-arruinarle-el-negocio/)
+- [Navegando por el apocalipsis de la IA: la intersección de la IA y el SEO](https://wordpress.tv/2024/03/26/navegando-por-el-apocalipsis-de-la-ia-la-interseccion-de-la-ia-y-el-seo/)
+- [¿Cueces o etiquetas?](https://wordpress.tv/2024/03/26/cueces-o-etiquetas/)
+- [WPO con sentidiño: usando las DevTools para acelerar tu web](https://wordpress.tv/2024/03/26/wpo-con-sentidino-usando-las-devtools-para-acelerar-tu-web/)
+- [GitHub produce más que dolores de cabeza](https://wordpress.tv/2024/03/26/github-produce-mas-que-dolores-de-cabeza/)
+- [Maquetadores anónimos: desintoxícate y abraza el Editor del Sitio](https://wordpress.tv/2024/03/26/maquetadores-anonimos-desintoxicate-y-abraza-el-editor-del-sitio/)
+- [Mi primer tema a medida con el Editor del Sitio](https://wordpress.tv/2024/03/26/mi-primer-tema-a-medida-con-el-editor-del-sitio/)
+- [Contenido duplicado y canibalización de palabras clave en WordPress: Cómo evitarlo](https://wordpress.tv/2024/03/26/contenido-duplicado-y-canibalizacion-de-palabras-clave-en-wordpress-como-evitarlo/)
+- [Cambia el mundo con tu WordPress](https://wordpress.tv/2024/03/26/cambia-el-mundo-con-tu-wordpress/)
+- [Trucos ocultos y cosas raras y curiosas que igual no sabías de WordPress](https://wordpress.tv/2024/03/26/trucos-ocultos-y-cosas-raras-y-curiosas-que-igual-no-sabias-de-wordpress/)
+- [Testing WordPress 6.5 &lpar;part 2&rpar;](https://wordpress.tv/2024/03/26/testing-wordpress-6-5-part-2/)
 - [Hajime Ogushi: WordPressの保守・メンテナンスをやってみよう！](https://wordpress.tv/2024/03/21/hajime-ogushi-lets-try-wordpress-backup-and-maintenance/)
 - [Réinvente ton design system : L’art des compositions dynamiques dans WordPress](https://wordpress.tv/2024/03/20/reinvente-ton-design-system-lart-des-compositions-dynamiques-dans-wordpress/)
 - [How to backup your site](https://wordpress.tv/2024/03/18/how-to-backup-your-site/)
@@ -362,21 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Templates](https://wordpress.tv/2024/03/14/templates-2/)
 - [Main stylesheet](https://wordpress.tv/2024/03/14/main-stylesheet/)
 - [Introduction to themes for developers](https://wordpress.tv/2024/03/14/introduction-to-themes-for-developers/)
-- [Theme structure](https://wordpress.tv/2024/03/14/theme-structure/)
-- [Live WordPress 100% Bloc 23 janvier 2024](https://wordpress.tv/2024/03/12/live-wordpress-100-bloc-23-janvier-2024/)
-- [Developer Hours: Exploring the Interactivity API in WordPress 6.5](https://wordpress.tv/2024/03/12/developer-hours-exploring-the-interactivity-api-in-wordpress-6-5/)
-- [Estratègies efectives per membresies en WordPress: Disseny Web que destaca](https://wordpress.tv/2024/03/11/estrategies-efectives-per-membresies-en-wordpress-disseny-web-que-destaca/)
-- [Testing WordPress 6.5](https://wordpress.tv/2024/03/09/testing-wordpress-6-5/)
-- [How to Test WordPress Beta Release](https://wordpress.tv/2024/03/08/how-to-test-wordpress-beta-release/)
-- [Training Team WordCamp Asia 2024 Contributor Day Online Session](https://wordpress.tv/2024/03/07/training-team-wordcamp-asia-2024-contributor-day-online-session/)
-- [Custom post type data](https://wordpress.tv/2024/03/07/custom-post-type-data/)
-- [Custom taxonomies](https://wordpress.tv/2024/03/07/custom-taxonomies/)
-- [Custom Post Types](https://wordpress.tv/2024/03/07/custom-post-types/)
-- [Plugin Requirements](https://wordpress.tv/2024/03/07/plugin-requirements/)
-- [What is a plugin?](https://wordpress.tv/2024/03/07/what-is-a-plugin/)
-- [WordPress Sustainability Team Quick Overview](https://wordpress.tv/2024/03/07/wordpress-sustainability-team-quick-overview/)
-- [Working with Hooks](https://wordpress.tv/2024/03/07/working-with-hooks/)
-- [Filter Hooks](https://wordpress.tv/2024/03/07/filter-hooks/)
 <!-- WPTV:END -->
 
 ## Marketing
