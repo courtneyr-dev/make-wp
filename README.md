@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/03/26/differentiating-between-homepage-display-settings-and-various-templates/)
 - [Developer Hours: Exploring Block Hooks in WordPress 6.5](https://wordpress.tv/2024/03/26/developer-hours-exploring-block-hooks-in-wordpress-6-5/)
 - [Lección 1 de Accesibilidad web: céntrate en el contenido, que WordPress hará el resto](https://wordpress.tv/2024/03/26/leccion-1-de-accesibilidad-web-centrate-en-el-contenido-que-wordpress-hara-el-resto/)
 - [Ampliar la definición de diseño inclusivo](https://wordpress.tv/2024/03/26/ampliar-la-definicion-de-diseno-inclusivo/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Maquetadores anónimos: desintoxícate y abraza el Editor del Sitio](https://wordpress.tv/2024/03/26/maquetadores-anonimos-desintoxicate-y-abraza-el-editor-del-sitio/)
 - [Mi primer tema a medida con el Editor del Sitio](https://wordpress.tv/2024/03/26/mi-primer-tema-a-medida-con-el-editor-del-sitio/)
 - [Contenido duplicado y canibalización de palabras clave en WordPress: Cómo evitarlo](https://wordpress.tv/2024/03/26/contenido-duplicado-y-canibalizacion-de-palabras-clave-en-wordpress-como-evitarlo/)
-- [Cambia el mundo con tu WordPress](https://wordpress.tv/2024/03/26/cambia-el-mundo-con-tu-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
