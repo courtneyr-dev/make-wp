@@ -325,6 +325,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 26 March 2024](https://make.wordpress.org/test/2024/03/26/xpost-test-team-update-26-march-2024/)
+- [Test Team Chat Agenda for 26 March 2024](https://make.wordpress.org/test/2024/03/26/test-team-chat-agenda-for-26-march-2024/)
+- [Week in Test: March 26, 2024](https://make.wordpress.org/test/2024/03/26/week-in-test-march-26-2024/)
 - [Understanding and Testing Font Library Feature with block editor theme](https://make.wordpress.org/test/2024/03/23/understanding-and-testing-font-library-feature-with-block-editor-theme/)
 - [X-post: Test Team Update: 18 March 2024](https://make.wordpress.org/test/2024/03/18/xpost-test-team-update-18-march-2024/)
 - [Week in Test: March 18, 2024](https://make.wordpress.org/test/2024/03/18/week-in-test-march-18-2024/)
@@ -332,9 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Highlighted Posts](https://make.wordpress.org/test/2024/03/12/highlighted-posts/)
 - [Test with Playground](https://make.wordpress.org/test/2024/03/12/test-with-playground/)
 - [Test Team Chat Agenda for 12 March 2024](https://make.wordpress.org/test/2024/03/12/test-team-chat-agenda-for-12-march-2024/)
-- [Week in Test: March 12, 2024](https://make.wordpress.org/test/2024/03/12/week-in-test-march-12-2024/)
-- [X-post: Test Team Update: 11 March 2024](https://make.wordpress.org/test/2024/03/11/xpost-test-team-update-11-march-2024/)
-- [Test Team Profile Badge – Your Feedback Needed!](https://make.wordpress.org/test/2024/03/08/test-team-profile-badge-your-feedback-needed/)
 <!-- TEST:END -->
 
 ## TV
