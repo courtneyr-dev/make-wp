@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary for Docs Team Meeting &lpar;19-March-2024&rpar;](https://make.wordpress.org/docs/2024/03/26/summary-for-docs-team-meeting-19-march-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;19-Mar-2024&rpar;](https://make.wordpress.org/docs/2024/03/16/agenda-for-docs-team-biweekly-meeting-19-mar-2024/)
 - [X-post: Training Team Update – February 2024](https://make.wordpress.org/docs/2024/03/05/xpost-training-team-update-february-2024/)
 - [Update for #docs team discussion items March 5, 2024](https://make.wordpress.org/docs/2024/02/29/update-for-docs-team-discussion-items-march-5-2024/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Project Thread: Documentation Redesign](https://make.wordpress.org/docs/2024/02/15/xpost-project-thread-documentation-redesign/)
 - [Summary for Docs Team Meeting &lpar;11-Feb-2024&rpar;](https://make.wordpress.org/docs/2024/02/11/summary-for-docs-team-meeting-11-feb-2024/)
 - [X-post: Improving block development documentation: 2023 recap and a look ahead](https://make.wordpress.org/docs/2024/02/08/xpost-improving-block-development-documentation-2023-recap-and-a-look-ahead/)
-- [Agenda for Docs Team meeting February 6, 2024](https://make.wordpress.org/docs/2024/02/06/agenda-for-docs-team-meeting-february-6-2024/)
 <!-- DOCS:END -->
 
 ### Support Articles
