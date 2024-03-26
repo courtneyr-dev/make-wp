@@ -352,6 +352,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Lección 1 de Accesibilidad web: céntrate en el contenido, que WordPress hará el resto](https://wordpress.tv/2024/03/26/leccion-1-de-accesibilidad-web-centrate-en-el-contenido-que-wordpress-hara-el-resto/)
+- [Ampliar la definición de diseño inclusivo](https://wordpress.tv/2024/03/26/ampliar-la-definicion-de-diseno-inclusivo/)
+- [Los enigmas de las imágenes en WordPress](https://wordpress.tv/2024/03/26/los-enigmas-de-las-imagenes-en-wordpress/)
+- [La importancia de conocer el negocio para interpretar datos](https://wordpress.tv/2024/03/26/la-importancia-de-conocer-el-negocio-para-interpretar-datos/)
+- [Enganchando con microinteracciones](https://wordpress.tv/2024/03/26/enganchando-con-microinteracciones/)
+- [Lidia Arroyo Vargas: SEO, estrategias para la creación de contenido](https://wordpress.tv/2024/03/26/lidia-arroyo-vargas-seo-estrategias-para-la-creacion-de-contenido/)
+- [Cocina superfácil con estos cuatro ingredientes](https://wordpress.tv/2024/03/26/cocina-superfacil-con-estos-cuatro-ingredientes/)
+- [Cómo es nuestro día a día con la IA como compañera](https://wordpress.tv/2024/03/26/como-es-nuestro-dia-a-dia-con-la-ia-como-companera/)
+- [10 Cambios que mejoran una página de ventas &lpar;y que puedes replicar en la tuya&rpar;](https://wordpress.tv/2024/03/26/10-cambios-que-mejoran-una-pagina-de-ventas-y-que-puedes-replicar-en-la-tuya/)
+- [Conecta, Optimiza y Gana](https://wordpress.tv/2024/03/26/conecta-optimiza-y-gana/)
+- [Cómo escribir en tu blog para poner a Google a taconear](https://wordpress.tv/2024/03/26/como-escribir-en-tu-blog-para-poner-a-google-a-taconear/)
 - [Descubre las tendencias en diseño web en 2024](https://wordpress.tv/2024/03/26/descubre-las-tendencias-en-diseno-web-en-2024/)
 - [Aprende SEO local con El Libro Gordo de Petete](https://wordpress.tv/2024/03/26/aprende-seo-local-con-el-libro-gordo-de-petete/)
 - [Alzheimer vs. Zeigarnik o cómo evitar que se olviden de tu web](https://wordpress.tv/2024/03/26/alzheimer-vs-zeigarnik-o-como-evitar-que-se-olviden-de-tu-web/)
@@ -366,17 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contenido duplicado y canibalización de palabras clave en WordPress: Cómo evitarlo](https://wordpress.tv/2024/03/26/contenido-duplicado-y-canibalizacion-de-palabras-clave-en-wordpress-como-evitarlo/)
 - [Cambia el mundo con tu WordPress](https://wordpress.tv/2024/03/26/cambia-el-mundo-con-tu-wordpress/)
 - [Trucos ocultos y cosas raras y curiosas que igual no sabías de WordPress](https://wordpress.tv/2024/03/26/trucos-ocultos-y-cosas-raras-y-curiosas-que-igual-no-sabias-de-wordpress/)
-- [Testing WordPress 6.5 &lpar;part 2&rpar;](https://wordpress.tv/2024/03/26/testing-wordpress-6-5-part-2/)
-- [Hajime Ogushi: WordPressの保守・メンテナンスをやってみよう！](https://wordpress.tv/2024/03/21/hajime-ogushi-lets-try-wordpress-backup-and-maintenance/)
-- [Réinvente ton design system : L’art des compositions dynamiques dans WordPress](https://wordpress.tv/2024/03/20/reinvente-ton-design-system-lart-des-compositions-dynamiques-dans-wordpress/)
-- [How to backup your site](https://wordpress.tv/2024/03/18/how-to-backup-your-site/)
-- [How to find help with WordPress](https://wordpress.tv/2024/03/18/how-to-find-help-with-wordpress/)
-- [Managing spam on your website](https://wordpress.tv/2024/03/18/managing-spam-on-your-website-2/)
-- [Découvre la Règle magique de Grid Layout pour transformer ton thème WordPress FSE](https://wordpress.tv/2024/03/14/decouvre-la-regle-ragique-de-grid-layout-pour-transformer-ton-theme-wordpress-fse/)
-- [Global settings and styles](https://wordpress.tv/2024/03/14/global-settings-and-styles/)
-- [Templates](https://wordpress.tv/2024/03/14/templates-2/)
-- [Main stylesheet](https://wordpress.tv/2024/03/14/main-stylesheet/)
-- [Introduction to themes for developers](https://wordpress.tv/2024/03/14/introduction-to-themes-for-developers/)
 <!-- WPTV:END -->
 
 ## Marketing
