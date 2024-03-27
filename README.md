@@ -528,9 +528,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [updating website theme and php](https://jobs.wordpress.net/job/updating-website-theme-and-php/)
 - [WordPress Industry Content Writer &lpar;freelance&rpar;](https://jobs.wordpress.net/job/wordpress-industry-content-writer-freelance/)
 - [WordPress User Profile Customization](https://jobs.wordpress.net/job/wordpress-user-profile-customization/)
-- [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books/)
 - [[Syde] WordPress Engineer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/syde-wordpress-engineer-m-f-d/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-23/)
+- [Senior Software Engineer – Content Platforms](https://jobs.wordpress.net/job/senior-software-engineer-content-platforms/)
+- [WordPress expert online job](https://jobs.wordpress.net/job/wordpress-expert-online-job/)
 <!-- JOBS:END -->
 
 ## Central
