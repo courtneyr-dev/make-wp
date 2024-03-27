@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – March 27, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/27/agenda-weekly-polyglots-chat-march-27-2024-1300-utc/)
 - [Hi , I’ve suggested translations…](https://make.wordpress.org/polyglots/2024/03/26/hi-ive-suggested-translations/)
 - [PTE Request for SearchWP Live Ajax Search](https://make.wordpress.org/polyglots/2024/03/25/pte-request-for-searchwp-live-ajax-search/)
 - [PTE请求](https://make.wordpress.org/polyglots/2024/03/24/pte%e8%af%b7%e6%b1%82/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request in multiple projects, pt_BR locale](https://make.wordpress.org/polyglots/2024/03/21/pte-request-in-multiple-projects-pt_br-locale/)
 - [PTE request for AutomatorWP –…](https://make.wordpress.org/polyglots/2024/03/21/pte-request-for-automatorwp/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/03/21/hi-111/)
-- [PTE request for WordPress6.5.x – Development](https://make.wordpress.org/polyglots/2024/03/20/pte-request-for-wordpress6-5-x-development/)
 <!-- POLYGLOTS:END -->
 
 ## Support
