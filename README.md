@@ -535,6 +535,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [From WordCamps to NextGen Events: Uganda’s Turn to Pilot Innovative WordPress Events is Here!](https://central.wordcamp.org/news/2024/03/from-wordcamps-to-nextgen-events-ugandas-turn-to-pilot-innovative-wordpress-events-is-here/)
 - [Thanks for sponsoring global WordPress community events across the globe, Bluehost!](https://central.wordcamp.org/news/2024/01/thanks-for-sponsoring-global-wordpress-community-events-across-the-globe-bluehost/)
 - [Thanks to Woo for sponsoring community events worldwide](https://central.wordcamp.org/news/2024/01/thanks-to-woo-for-sponsoring-community-events-worldwide/)
 - [Automattic sponsors WordPress community events across the globe](https://central.wordcamp.org/news/2024/01/automattic-sponsors-wordpress-community-events-across-the-globe/)
@@ -549,7 +550,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp San José 2023: Looking For Speakers And Sponsors!](https://central.wordcamp.org/news/2023/07/wordcamp-san-jose-2023-looking-for-speakers-and-sponsors/)
 - [WordCamp Finland: back to Tampere with educational, insightful and thought-provoking talks](https://central.wordcamp.org/news/2023/06/wordcamp-finland-back-to-tampere-with-educational-insightful-and-thought-provoking-talks/)
 - [SiteGround joins the WordPress global community sponsorship program in 2023](https://central.wordcamp.org/news/2023/05/siteground-joins-the-wordpress-global-community-sponsorship-program-in-2023/)
-- [WordCamp Jinja 2023: Empowering the Future Generation of WordPress Users in Africa](https://central.wordcamp.org/news/2023/04/wordcamp-jinja-2023-empowering-the-future-generation-of-wordpress-users-in-africa/)
 <!-- Central:END -->
 
 ### WordCamp
