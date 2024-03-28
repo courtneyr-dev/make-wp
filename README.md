@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Como escoger un buen theme para tu WordPress](https://wordpress.tv/2024/03/28/como-escoger-un-buen-theme-para-tu-wordpress/)
+- [SEO Local: Cómo ser uno de los tres elegidos de Google](https://wordpress.tv/2024/03/28/seo-local-como-ser-uno-de-los-tres-elegidos-de-google/)
+- [Internacionalización de empresas. La era de la exportación digital](https://wordpress.tv/2024/03/28/internacionalizacion-de-empresas-la-era-de-la-exportacion-digital/)
+- [Green Web. diseños web eficientes, optimizados y de transferencia de datos reducida](https://wordpress.tv/2024/03/28/green-web-disenos-web-eficientes-optimizados-y-de-transferencia-de-datos-reducida/)
 - [Static vs dynamic blocks](https://wordpress.tv/2024/03/28/static-vs-dynamic-blocks/)
 - [Block supports and Block styles](https://wordpress.tv/2024/03/28/block-supports-and-block-styles/)
 - [Block Attributes](https://wordpress.tv/2024/03/28/block-attributes/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo es nuestro día a día con la IA como compañera](https://wordpress.tv/2024/03/26/como-es-nuestro-dia-a-dia-con-la-ia-como-companera/)
 - [10 Cambios que mejoran una página de ventas &lpar;y que puedes replicar en la tuya&rpar;](https://wordpress.tv/2024/03/26/10-cambios-que-mejoran-una-pagina-de-ventas-y-que-puedes-replicar-en-la-tuya/)
 - [Conecta, Optimiza y Gana](https://wordpress.tv/2024/03/26/conecta-optimiza-y-gana/)
-- [Cómo escribir en tu blog para poner a Google a taconear](https://wordpress.tv/2024/03/26/como-escribir-en-tu-blog-para-poner-a-google-a-taconear/)
-- [Descubre las tendencias en diseño web en 2024](https://wordpress.tv/2024/03/26/descubre-las-tendencias-en-diseno-web-en-2024/)
-- [Aprende SEO local con El Libro Gordo de Petete](https://wordpress.tv/2024/03/26/aprende-seo-local-con-el-libro-gordo-de-petete/)
-- [Alzheimer vs. Zeigarnik o cómo evitar que se olviden de tu web](https://wordpress.tv/2024/03/26/alzheimer-vs-zeigarnik-o-como-evitar-que-se-olviden-de-tu-web/)
 <!-- WPTV:END -->
 
 ## Marketing
