@@ -352,6 +352,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Static vs dynamic blocks](https://wordpress.tv/2024/03/28/static-vs-dynamic-blocks/)
+- [Block supports and Block styles](https://wordpress.tv/2024/03/28/block-supports-and-block-styles/)
+- [Block Attributes](https://wordpress.tv/2024/03/28/block-attributes/)
+- [Block Functionality](https://wordpress.tv/2024/03/28/block-functionality/)
+- [Building your first block](https://wordpress.tv/2024/03/28/building-your-first-block/)
+- [Scaffolding a new block](https://wordpress.tv/2024/03/28/scaffolding-a-new-block/)
+- [Block development environment](https://wordpress.tv/2024/03/28/block-development-environment/)
 - [Presentación del evento](https://wordpress.tv/2024/03/26/presentacion-del-evento/)
 - [Agradecimientos y cierre](https://wordpress.tv/2024/03/26/agradecimientos-y-cierre/)
 - [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/03/26/differentiating-between-homepage-display-settings-and-various-templates/)
@@ -370,13 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Descubre las tendencias en diseño web en 2024](https://wordpress.tv/2024/03/26/descubre-las-tendencias-en-diseno-web-en-2024/)
 - [Aprende SEO local con El Libro Gordo de Petete](https://wordpress.tv/2024/03/26/aprende-seo-local-con-el-libro-gordo-de-petete/)
 - [Alzheimer vs. Zeigarnik o cómo evitar que se olviden de tu web](https://wordpress.tv/2024/03/26/alzheimer-vs-zeigarnik-o-como-evitar-que-se-olviden-de-tu-web/)
-- [Crear webs abre puertas que ni imaginas](https://wordpress.tv/2024/03/26/crear-webs-abre-puertas-que-ni-imaginas/)
-- [Cómo hacerle una nueva web a tu cliente y no arruinarle el negocio](https://wordpress.tv/2024/03/26/como-hacerle-una-nueva-web-a-tu-cliente-y-no-arruinarle-el-negocio/)
-- [Navegando por el apocalipsis de la IA: la intersección de la IA y el SEO](https://wordpress.tv/2024/03/26/navegando-por-el-apocalipsis-de-la-ia-la-interseccion-de-la-ia-y-el-seo/)
-- [¿Cueces o etiquetas?](https://wordpress.tv/2024/03/26/cueces-o-etiquetas/)
-- [WPO con sentidiño: usando las DevTools para acelerar tu web](https://wordpress.tv/2024/03/26/wpo-con-sentidino-usando-las-devtools-para-acelerar-tu-web/)
-- [GitHub produce más que dolores de cabeza](https://wordpress.tv/2024/03/26/github-produce-mas-que-dolores-de-cabeza/)
-- [Maquetadores anónimos: desintoxícate y abraza el Editor del Sitio](https://wordpress.tv/2024/03/26/maquetadores-anonimos-desintoxicate-y-abraza-el-editor-del-sitio/)
 <!-- WPTV:END -->
 
 ## Marketing
