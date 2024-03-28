@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-2/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-12/)
+- [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-5/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-24/)
 - [Senior UX Designer – Americas Team](https://jobs.wordpress.net/job/senior-ux-designer-americas-team/)
 - [Lead Web Engineer](https://jobs.wordpress.net/job/lead-web-engineer/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-208/)
 - [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-34/)
 - [updating website theme and php](https://jobs.wordpress.net/job/updating-website-theme-and-php/)
 - [WordPress Industry Content Writer &lpar;freelance&rpar;](https://jobs.wordpress.net/job/wordpress-industry-content-writer-freelance/)
-- [WordPress User Profile Customization](https://jobs.wordpress.net/job/wordpress-user-profile-customization/)
-- [[Syde] WordPress Engineer &lpar;m/f/d&rpar;](https://jobs.wordpress.net/job/syde-wordpress-engineer-m-f-d/)
-- [Senior Software Engineer – Content Platforms](https://jobs.wordpress.net/job/senior-software-engineer-content-platforms/)
-- [WordPress expert online job](https://jobs.wordpress.net/job/wordpress-expert-online-job/)
 <!-- JOBS:END -->
 
 ## Central
