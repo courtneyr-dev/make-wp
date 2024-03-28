@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ThumbPress](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-thumbpress/)
 - [Custom Share Button in German](https://make.wordpress.org/polyglots/2024/03/27/custom-share-button-in-german/)
 - [Agenda: Weekly Polyglots Chat – March 27, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/27/agenda-weekly-polyglots-chat-march-27-2024-1300-utc/)
 - [Hi , I’ve suggested translations…](https://make.wordpress.org/polyglots/2024/03/26/hi-ive-suggested-translations/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Making a WordPress Media Corps](https://make.wordpress.org/polyglots/2024/03/21/xpost-making-a-wordpress-media-corps/)
 - [PTE Request for SuperFaktura WooCommerce plugin](https://make.wordpress.org/polyglots/2024/03/21/pte-request-for-superfaktura-woocommerce-plugin/)
 - [PTE request in multiple projects, pt_BR locale](https://make.wordpress.org/polyglots/2024/03/21/pte-request-in-multiple-projects-pt_br-locale/)
-- [PTE request for AutomatorWP –…](https://make.wordpress.org/polyglots/2024/03/21/pte-request-for-automatorwp/)
 <!-- POLYGLOTS:END -->
 
 ## Support
