@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for MC Server Status](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-mc-server-status/)
 - [PTE Request for: [WPForms, GeneratePress,…](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-wpforms-generatepress/)
 - [PTE Request for ThumbPress](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-thumbpress/)
 - [Custom Share Button in German](https://make.wordpress.org/polyglots/2024/03/27/custom-share-button-in-german/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE请求](https://make.wordpress.org/polyglots/2024/03/24/pte%e8%af%b7%e6%b1%82/)
 - [WordPress Translation Editor request for en_NZ](https://make.wordpress.org/polyglots/2024/03/24/wordpress-translation-editor-request-for-en_nz/)
 - [X-post: Making a WordPress Media Corps](https://make.wordpress.org/polyglots/2024/03/21/xpost-making-a-wordpress-media-corps/)
-- [PTE Request for SuperFaktura WooCommerce plugin](https://make.wordpress.org/polyglots/2024/03/21/pte-request-for-superfaktura-woocommerce-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
