@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for zh_CN support site administrator](https://make.wordpress.org/polyglots/2024/03/29/request-for-zh_cn-support-site-administrator/)
+- [Request for zh_CN SVN access](https://make.wordpress.org/polyglots/2024/03/29/request-for-zh_cn-svn-access-2/)
+- [PTE Request for WordPress for Android, WordPress Plugin Directory, WordCamp.org, WordPress.org, Fonts Plugin | Google Fonts Typography, Rank Math SEO with AI SEO Tools, Astra, Blocksy, and WordPress 6.0.x](https://make.wordpress.org/polyglots/2024/03/29/pte-request-for-wordpress-for-android-wordpress-plugin-directory-wordcamp-org-wordpress-org-fonts-plugin-google-fonts-typography-rank-math-seo-with-ai-seo-tools-astra-blocksy-and-wordpress-6/)
+- [PTE Request for Easy Basic Authentication](https://make.wordpress.org/polyglots/2024/03/29/pte-request-for-easy-basic-authentication/)
 - [PTE Request for MC Server Status](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-mc-server-status/)
 - [PTE Request for: [WPForms, GeneratePress,…](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-wpforms-generatepress/)
 - [PTE Request for ThumbPress](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-thumbpress/)
 - [Custom Share Button in German](https://make.wordpress.org/polyglots/2024/03/27/custom-share-button-in-german/)
 - [Agenda: Weekly Polyglots Chat – March 27, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/27/agenda-weekly-polyglots-chat-march-27-2024-1300-utc/)
 - [Hi , I’ve suggested translations…](https://make.wordpress.org/polyglots/2024/03/26/hi-ive-suggested-translations/)
-- [PTE Request for SearchWP Live Ajax Search](https://make.wordpress.org/polyglots/2024/03/25/pte-request-for-searchwp-live-ajax-search/)
-- [PTE请求](https://make.wordpress.org/polyglots/2024/03/24/pte%e8%af%b7%e6%b1%82/)
-- [WordPress Translation Editor request for en_NZ](https://make.wordpress.org/polyglots/2024/03/24/wordpress-translation-editor-request-for-en_nz/)
-- [X-post: Making a WordPress Media Corps](https://make.wordpress.org/polyglots/2024/03/21/xpost-making-a-wordpress-media-corps/)
 <!-- POLYGLOTS:END -->
 
 ## Support
