@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Los ingredientes de una buena estrategia de DATA DRIVEN en las campañas de publicidad](https://wordpress.tv/2024/03/29/los-ingredientes-de-una-buena-estrategia-de-data-driven-en-las-campanas-de-publicidad/)
+- [Diseñando contenidos irresistibles para tu web con IA](https://wordpress.tv/2024/03/29/disenando-contenidos-irresistibles-para-tu-web-con-ia/)
 - [Como escoger un buen theme para tu WordPress](https://wordpress.tv/2024/03/28/como-escoger-un-buen-theme-para-tu-wordpress/)
 - [SEO Local: Cómo ser uno de los tres elegidos de Google](https://wordpress.tv/2024/03/28/seo-local-como-ser-uno-de-los-tres-elegidos-de-google/)
 - [Internacionalización de empresas. La era de la exportación digital](https://wordpress.tv/2024/03/28/internacionalizacion-de-empresas-la-era-de-la-exportacion-digital/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lidia Arroyo Vargas: SEO, estrategias para la creación de contenido](https://wordpress.tv/2024/03/26/lidia-arroyo-vargas-seo-estrategias-para-la-creacion-de-contenido/)
 - [Cocina superfácil con estos cuatro ingredientes](https://wordpress.tv/2024/03/26/cocina-superfacil-con-estos-cuatro-ingredientes/)
 - [Cómo es nuestro día a día con la IA como compañera](https://wordpress.tv/2024/03/26/como-es-nuestro-dia-a-dia-con-la-ia-como-companera/)
-- [10 Cambios que mejoran una página de ventas &lpar;y que puedes replicar en la tuya&rpar;](https://wordpress.tv/2024/03/26/10-cambios-que-mejoran-una-pagina-de-ventas-y-que-puedes-replicar-en-la-tuya/)
-- [Conecta, Optimiza y Gana](https://wordpress.tv/2024/03/26/conecta-optimiza-y-gana/)
 <!-- WPTV:END -->
 
 ## Marketing
