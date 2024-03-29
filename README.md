@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [ब्लॉक थीम के साथ श्रेणी टेम्पलेट्स की खोज](https://learn.wordpress.org/tutorial/gu-exploring-category-templates-with-block-themes/)
 - [वर्डप्रेस बीटा रिलीज़ का परीक्षण कैसे करें?](https://learn.wordpress.org/tutorial/hi-how-to-test-wordpress-beta-release/)
 - [Construire une page d’accueil avec un thème basé sur des blocs](https://learn.wordpress.org/tutorial/fr-building-a-home-page-with-a-block-theme/)
 - [Comment tester les versions bêta de WordPress ?](https://learn.wordpress.org/tutorial/fr-how-to-test-wordpress-beta-release/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [એડિટરમાં કસ્ટમ CSS](https://learn.wordpress.org/tutorial/gu-custom-css-in-the-editor/)
 - [થંબનેલ્સ ફરીથી બનાવો](https://learn.wordpress.org/tutorial/gu-regenerate-thumbnails/)
 - [બ્લોક પેટર્નની નોંધણી](https://learn.wordpress.org/tutorial/gu-registering-block-patterns/)
-- [টুয়েন্টি টুয়েন্টিফোর থিম পরিচিতি](https://learn.wordpress.org/tutorial/bn-introducing-the-twenty-twenty-four-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
