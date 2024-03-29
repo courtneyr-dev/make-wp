@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Recap Hallway Hangout: Using Site editor in production for client sites](https://make.wordpress.org/core/2024/03/29/recap-hallway-hangout-using-site-editor-in-production-for-client-sites/)
 - [Providing more clarity in the Gutenberg GitHub Repo](https://make.wordpress.org/core/2024/03/28/providing-more-clarity-in-the-gutenberg-github-repo/)
 - [Summary, Dev Chat, March 27, 2024](https://make.wordpress.org/core/2024/03/28/summary-dev-chat-march-27-2024/)
 - [What’s new in Gutenberg 18.0? &lpar;27 March&rpar;](https://make.wordpress.org/core/2024/03/27/whats-new-in-gutenberg-18-0-27-march/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [New Feature: Font Library](https://make.wordpress.org/core/2024/03/14/new-feature-font-library/)
 - [Summary, Dev Chat, March 13, 2024](https://make.wordpress.org/core/2024/03/13/summary-dev-chat-march-13-2024/)
 - [Developer Blog editorial meeting summary, March 7, 2024](https://make.wordpress.org/core/2024/03/13/developer-blog-editorial-meeting-summary-march-7-2024/)
-- [Agenda, Dev Chat, Wednesday March 13, 2024](https://make.wordpress.org/core/2024/03/13/agenda-dev-chat-wednesday-march-13-2024/)
 <!-- CORE:END -->
 
 ## Design
