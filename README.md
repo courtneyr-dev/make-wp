@@ -529,8 +529,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lead Web Engineer](https://jobs.wordpress.net/job/lead-web-engineer/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-208/)
 - [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-34/)
-- [updating website theme and php](https://jobs.wordpress.net/job/updating-website-theme-and-php/)
 - [WordPress Industry Content Writer &lpar;freelance&rpar;](https://jobs.wordpress.net/job/wordpress-industry-content-writer-freelance/)
+- [WordPress User Profile Customization](https://jobs.wordpress.net/job/wordpress-user-profile-customization/)
 <!-- JOBS:END -->
 
 ## Central
