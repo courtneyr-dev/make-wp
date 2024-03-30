@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hey friends!](https://make.wordpress.org/polyglots/2024/03/30/hey-friends/)
 - [Hi, would like to manage…](https://make.wordpress.org/polyglots/2024/03/29/hi-would-like-to-manage/)
 - [Request for zh_CN support site administrator](https://make.wordpress.org/polyglots/2024/03/29/request-for-zh_cn-support-site-administrator/)
 - [Request for zh_CN SVN access](https://make.wordpress.org/polyglots/2024/03/29/request-for-zh_cn-svn-access-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for: [WPForms, GeneratePress,…](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-wpforms-generatepress/)
 - [PTE Request for ThumbPress](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-thumbpress/)
 - [Custom Share Button in German](https://make.wordpress.org/polyglots/2024/03/27/custom-share-button-in-german/)
-- [Agenda: Weekly Polyglots Chat – March 27, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/03/27/agenda-weekly-polyglots-chat-march-27-2024-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
