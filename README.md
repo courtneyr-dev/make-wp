@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [NAMI’s new StigmaFree Workplace Initiative Website](https://jobs.wordpress.net/job/namis-new-stigmafree-workplace-initiative-website/)
 - [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-2/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-12/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-5/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-208/)
 - [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-34/)
 - [WordPress Industry Content Writer &lpar;freelance&rpar;](https://jobs.wordpress.net/job/wordpress-industry-content-writer-freelance/)
-- [WordPress User Profile Customization](https://jobs.wordpress.net/job/wordpress-user-profile-customization/)
 <!-- JOBS:END -->
 
 ## Central
