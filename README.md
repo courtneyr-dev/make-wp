@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Por qué cuando te descargas WordPress todo está en tu idioma?](https://wordpress.tv/2024/03/31/por-que-cuando-te-descargas-wordpress-todo-esta-en-tu-idioma/)
 - [WordPress 6.5 のアップデート内容を見てみよう！](https://wordpress.tv/2024/03/29/wordpress-6-5-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 - [Los ingredientes de una buena estrategia de DATA DRIVEN en las campañas de publicidad](https://wordpress.tv/2024/03/29/los-ingredientes-de-una-buena-estrategia-de-data-driven-en-las-campanas-de-publicidad/)
 - [Diseñando contenidos irresistibles para tu web con IA](https://wordpress.tv/2024/03/29/disenando-contenidos-irresistibles-para-tu-web-con-ia/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [La importancia de conocer el negocio para interpretar datos](https://wordpress.tv/2024/03/26/la-importancia-de-conocer-el-negocio-para-interpretar-datos/)
 - [Enganchando con microinteracciones](https://wordpress.tv/2024/03/26/enganchando-con-microinteracciones/)
 - [Lidia Arroyo Vargas: SEO, estrategias para la creación de contenido](https://wordpress.tv/2024/03/26/lidia-arroyo-vargas-seo-estrategias-para-la-creacion-de-contenido/)
-- [Cocina superfácil con estos cuatro ingredientes](https://wordpress.tv/2024/03/26/cocina-superfacil-con-estos-cuatro-ingredientes/)
 <!-- WPTV:END -->
 
 ## Marketing
