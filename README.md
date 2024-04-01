@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for SimpleCharm WordPress Theme](https://make.wordpress.org/polyglots/2024/04/01/pte-request-for-simplecharm-wordpress-theme/)
 - [PTE Request for Page Builder…](https://make.wordpress.org/polyglots/2024/03/31/pte-request-for-page-builder-3/)
 - [Please review my translation to…](https://make.wordpress.org/polyglots/2024/03/31/please-review-my-translation-to/)
 - [Hey friends!](https://make.wordpress.org/polyglots/2024/03/30/hey-friends/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WordPress for Android, WordPress Plugin Directory, WordCamp.org, WordPress.org, Fonts Plugin | Google Fonts Typography, Rank Math SEO with AI SEO Tools, Astra, Blocksy, and WordPress 6.0.x](https://make.wordpress.org/polyglots/2024/03/29/pte-request-for-wordpress-for-android-wordpress-plugin-directory-wordcamp-org-wordpress-org-fonts-plugin-google-fonts-typography-rank-math-seo-with-ai-seo-tools-astra-blocksy-and-wordpress-6/)
 - [PTE Request for Easy Basic Authentication](https://make.wordpress.org/polyglots/2024/03/29/pte-request-for-easy-basic-authentication/)
 - [PTE Request for MC Server Status](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-mc-server-status/)
-- [PTE Request for: [WPForms, GeneratePress,…](https://make.wordpress.org/polyglots/2024/03/28/pte-request-for-wpforms-generatepress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
