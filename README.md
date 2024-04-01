@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-133/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-132/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-131/)
 - [I’ve suggested about two months…](https://make.wordpress.org/polyglots/2024/04/01/ive-suggested-about-two-months/)
 - [PTE Request for SimpleCharm WordPress Theme](https://make.wordpress.org/polyglots/2024/04/01/pte-request-for-simplecharm-wordpress-theme/)
 - [PTE Request for Page Builder…](https://make.wordpress.org/polyglots/2024/03/31/pte-request-for-page-builder-3/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hey friends!](https://make.wordpress.org/polyglots/2024/03/30/hey-friends/)
 - [Hi, would like to manage…](https://make.wordpress.org/polyglots/2024/03/29/hi-would-like-to-manage/)
 - [Request for zh_CN support site administrator](https://make.wordpress.org/polyglots/2024/03/29/request-for-zh_cn-support-site-administrator/)
-- [Request for zh_CN SVN access](https://make.wordpress.org/polyglots/2024/03/29/request-for-zh_cn-svn-access-2/)
-- [PTE Request for WordPress for Android, WordPress Plugin Directory, WordCamp.org, WordPress.org, Fonts Plugin | Google Fonts Typography, Rank Math SEO with AI SEO Tools, Astra, Blocksy, and WordPress 6.0.x](https://make.wordpress.org/polyglots/2024/03/29/pte-request-for-wordpress-for-android-wordpress-plugin-directory-wordcamp-org-wordpress-org-fonts-plugin-google-fonts-typography-rank-math-seo-with-ai-seo-tools-astra-blocksy-and-wordpress-6/)
-- [PTE Request for Easy Basic Authentication](https://make.wordpress.org/polyglots/2024/03/29/pte-request-for-easy-basic-authentication/)
 <!-- POLYGLOTS:END -->
 
 ## Support
