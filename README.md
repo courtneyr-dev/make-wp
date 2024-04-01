@@ -69,9 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Greetings! The Core Handbook syas…](https://make.wordpress.org/polyglots/2024/04/01/greetings-the-core-handbook-syas/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-133/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-132/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-131/)
 - [I’ve suggested about two months…](https://make.wordpress.org/polyglots/2024/04/01/ive-suggested-about-two-months/)
 - [PTE Request for SimpleCharm WordPress Theme](https://make.wordpress.org/polyglots/2024/04/01/pte-request-for-simplecharm-wordpress-theme/)
 - [PTE Request for Page Builder…](https://make.wordpress.org/polyglots/2024/03/31/pte-request-for-page-builder-3/)
