@@ -507,7 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WordPress 6.5 “Regina”](https://wordpress.org/news/2024/04/wordpress-6-5-regina/)
+- [WordPress 6.5 “Regina”](https://wordpress.org/news/2024/04/regina/)
 - [WordPress 6.5 Release Candidate 4](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-4/)
 - [WordPress 6.5 Release Candidate 3](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-3/)
 - [WP Briefing: Episode 75: WordCamp Asia 2024 Unwrapped](https://wordpress.org/news/2024/03/episode-75-wordcamp-asia-2024-unwrapped/)
