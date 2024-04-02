@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello, almost two years have…](https://make.wordpress.org/polyglots/2024/04/02/hello-almost-two-years-have/)
 - [PTE Request for Patterns](https://make.wordpress.org/polyglots/2024/04/02/pte-request-for-patterns/)
 - [Greetings! The Core Handbook syas…](https://make.wordpress.org/polyglots/2024/04/01/greetings-the-core-handbook-syas/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-133/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Page Builder…](https://make.wordpress.org/polyglots/2024/03/31/pte-request-for-page-builder-3/)
 - [Please review my translation to…](https://make.wordpress.org/polyglots/2024/03/31/please-review-my-translation-to/)
 - [Hey friends!](https://make.wordpress.org/polyglots/2024/03/30/hey-friends/)
-- [Hi, would like to manage…](https://make.wordpress.org/polyglots/2024/03/29/hi-would-like-to-manage/)
 <!-- POLYGLOTS:END -->
 
 ## Support
