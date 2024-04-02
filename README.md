@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Core Performance Team Update: March 2024](https://make.wordpress.org/updates/2024/04/02/core-performance-team-update-march-2024/)
 - [Themes team update April 02, 2024](https://make.wordpress.org/updates/2024/04/02/themes-team-update-april-02-2024/)
 - [Plugin Review Team: 1 April 2024](https://make.wordpress.org/updates/2024/04/01/plugin-review-team-1-april-2024/)
 - [Documentation Team Update – April 1, 2024](https://make.wordpress.org/updates/2024/04/01/documentation-team-update-april-1-2024/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Review Team: 25 March 2024](https://make.wordpress.org/updates/2024/03/25/plugin-review-team-25-march-2024/)
 - [Core Team Update – March 25, 2024](https://make.wordpress.org/updates/2024/03/25/core-team-update-march-25-2024/)
 - [Documentation Team Update – March 25, 2024](https://make.wordpress.org/updates/2024/03/25/documentation-team-update-march-25-2024/)
-- [Mobile Team Update – March 19th](https://make.wordpress.org/updates/2024/03/19/mobile-team-update-march-19th/)
 <!-- UPDATES:END -->
 
 ## Project
