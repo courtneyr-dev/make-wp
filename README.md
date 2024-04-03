@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 4 – April -2024](https://make.wordpress.org/community/2024/04/03/community-team-meeting-agenda-for-4-april-2024/)
 - [Events of the Month – February 2024](https://make.wordpress.org/community/2024/03/27/events-of-the-month-february-2024/)
 - [Meetup Organizer Newsletter: March 2024](https://make.wordpress.org/community/2024/03/22/meetup-organizer-newsletter-march-2024/)
 - [Discussion: Are we continuing to use Trello for project planning?](https://make.wordpress.org/community/2024/03/20/discussion-are-we-continuing-to-use-trello-for-project-planning/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 7 March 2024](https://make.wordpress.org/community/2024/03/06/community-team-meeting-agenda-for-7-march-2024/)
 - [X-post: Training Team Update – February 2024](https://make.wordpress.org/community/2024/03/05/xpost-training-team-update-february-2024/)
 - [Events of the Month – January 2024](https://make.wordpress.org/community/2024/02/23/events-of-the-month-january-2024/)
-- [Meetup Organizer Newsletter: February 2024](https://make.wordpress.org/community/2024/02/21/meetup-organizer-newsletter-february-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
