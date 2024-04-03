@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Exploring WordPress 6.5](https://wordpress.tv/2024/04/02/exploring-wordpress-6-5/)
 - [Descubre el poder y la sencillez de la API REST de WordPress](https://wordpress.tv/2024/04/02/descubre-el-poder-y-la-sencillez-de-la-api-rest-de-wordpress/)
 - [Untangling Templates](https://wordpress.tv/2024/04/01/untangling-templates/)
 - [¿Por qué cuando te descargas WordPress todo está en tu idioma?](https://wordpress.tv/2024/03/31/por-que-cuando-te-descargas-wordpress-todo-esta-en-tu-idioma/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lección 1 de Accesibilidad web: céntrate en el contenido, que WordPress hará el resto](https://wordpress.tv/2024/03/26/leccion-1-de-accesibilidad-web-centrate-en-el-contenido-que-wordpress-hara-el-resto/)
 - [Ampliar la definición de diseño inclusivo](https://wordpress.tv/2024/03/26/ampliar-la-definicion-de-diseno-inclusivo/)
 - [Los enigmas de las imágenes en WordPress](https://wordpress.tv/2024/03/26/los-enigmas-de-las-imagenes-en-wordpress/)
-- [La importancia de conocer el negocio para interpretar datos](https://wordpress.tv/2024/03/26/la-importancia-de-conocer-el-negocio-para-interpretar-datos/)
 <!-- WPTV:END -->
 
 ## Marketing
