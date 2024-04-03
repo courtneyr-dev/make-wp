@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Homepage displays: Latest posts vs static](https://learn.wordpress.org/?meeting=homepage-displays-latest-posts-vs-static)
 - [WordPress developer live stream: Testing WP Playground](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-testing-wp-playground)
 - [Developer Hours: Building custom blocks with the Interactivity API](https://learn.wordpress.org/?meeting=https-www-meetup-com-learn-wordpress-online-workshops-events-300032710)
 - [Untangling Templates](https://learn.wordpress.org/?meeting=untangling-templates-2)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://learn.wordpress.org/?meeting=fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once)
 - [Starting your contributor journey with the WordPress Training Team](https://learn.wordpress.org/?meeting=starting-your-contributor-journey-with-the-wordpress-training-team-2)
 - [Starting your contributor journey with the WordPress Training Team](https://learn.wordpress.org/?meeting=starting-your-contributor-journey-with-the-wordpress-training-team)
-- [Developer Hours: JavaScript for modern WordPress development](https://learn.wordpress.org/?meeting=developer-hours-javascript-for-modern-wordpress-development)
 <!-- SLS:END -->
 
 ## Test
