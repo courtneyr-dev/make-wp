@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Previews and Blueprints](https://developer.wordpress.org/plugins/wordpress-org/previews-and-blueprints/)
-- [API Reference](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-interactivity/packages-interactivity-api-reference/)
-- [wp i18n make-php](https://developer.wordpress.org/cli/commands/i18n/make-php/)
-- [wp post url-to-id](https://developer.wordpress.org/cli/commands/post/url-to-id/)
-- [Testing](https://developer.wordpress.org/themes/advanced-topics/testing/)
-- [Publishing Themes](https://developer.wordpress.org/themes/advanced-topics/publishing-themes/)
-- [Action Reference](https://developer.wordpress.org/apis/hooks/action-reference/)
-- [Hooks](https://developer.wordpress.org/apis/hooks/)
-- [Filter Reference](https://developer.wordpress.org/apis/hooks/filter-reference/)
-- [Build Process](https://developer.wordpress.org/themes/advanced-topics/build-process/)
+- [_wp_before_delete_font_face&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_before_delete_font_face/)
+- [_wp_register_default_font_collections&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_register_default_font_collections/)
+- [_wp_after_delete_font_family&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_after_delete_font_family/)
+- [font_dir](https://developer.wordpress.org/reference/hooks/font_dir/)
+- [wp_font_dir&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_font_dir/)
+- [wp_get_font_dir&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_font_dir/)
+- [wp_unregister_font_collection&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_unregister_font_collection/)
+- [_wp_filter_font_directory&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_filter_font_directory/)
+- [wp_register_font_collection&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_register_font_collection/)
+- [WP_Block_Bindings_Registry::__wakeup&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_bindings_registry/__wakeup/)
 <!-- DEVHUB:END -->
 
 ## Themes
