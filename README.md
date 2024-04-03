@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Back end simplify](https://jobs.wordpress.net/job/back-end-simplify/)
+- [WordPress site reform and update](https://jobs.wordpress.net/job/wordpress-site-reform-and-update/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-837/)
 - [Plugins For Restaurant Online Ordering](https://jobs.wordpress.net/job/plugins-for-restaurant-online-ordering/)
 - [NAMI’s new StigmaFree Workplace Initiative Website](https://jobs.wordpress.net/job/namis-new-stigmafree-workplace-initiative-website/)
 - [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-2/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-5/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-24/)
 - [Senior UX Designer – Americas Team](https://jobs.wordpress.net/job/senior-ux-designer-americas-team/)
-- [Lead Web Engineer](https://jobs.wordpress.net/job/lead-web-engineer/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-208/)
-- [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-34/)
 <!-- JOBS:END -->
 
 ## Central
