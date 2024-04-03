@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to Protect Your WordPress Website](https://wordpress.tv/2024/04/03/how-to-protect-your-wordpress-website/)
+- [¿Qué debo tomar en cuenta para construir mi plugin?](https://wordpress.tv/2024/04/03/que-debo-tomar-en-cuenta-para-construir-mi-plugin/)
 - [Exploring WordPress 6.5](https://wordpress.tv/2024/04/02/exploring-wordpress-6-5/)
 - [Descubre el poder y la sencillez de la API REST de WordPress](https://wordpress.tv/2024/04/02/descubre-el-poder-y-la-sencillez-de-la-api-rest-de-wordpress/)
 - [Untangling Templates](https://wordpress.tv/2024/04/01/untangling-templates/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/03/26/differentiating-between-homepage-display-settings-and-various-templates/)
 - [Developer Hours: Exploring Block Hooks in WordPress 6.5](https://wordpress.tv/2024/03/26/developer-hours-exploring-block-hooks-in-wordpress-6-5/)
 - [Lección 1 de Accesibilidad web: céntrate en el contenido, que WordPress hará el resto](https://wordpress.tv/2024/03/26/leccion-1-de-accesibilidad-web-centrate-en-el-contenido-que-wordpress-hara-el-resto/)
-- [Ampliar la definición de diseño inclusivo](https://wordpress.tv/2024/03/26/ampliar-la-definicion-de-diseno-inclusivo/)
-- [Los enigmas de las imágenes en WordPress](https://wordpress.tv/2024/03/26/los-enigmas-de-las-imagenes-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
