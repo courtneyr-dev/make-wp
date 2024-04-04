@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Developer – Ongoing Project Work](https://jobs.wordpress.net/job/senior-wordpress-developer-ongoing-project-work/)
 - [Back end simplify](https://jobs.wordpress.net/job/back-end-simplify/)
 - [WordPress site reform and update](https://jobs.wordpress.net/job/wordpress-site-reform-and-update/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-837/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-12/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-5/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-24/)
-- [Senior UX Designer – Americas Team](https://jobs.wordpress.net/job/senior-ux-designer-americas-team/)
 <!-- JOBS:END -->
 
 ## Central
