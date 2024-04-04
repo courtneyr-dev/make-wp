@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Customizing the search results template](https://wordpress.tv/2024/04/03/customizing-the-search-results-template/)
+- [Personalizing your 404 template](https://wordpress.tv/2024/04/03/personalizing-your-404-template-2/)
 - [An In-person Q&amp;A with WordPress Co-Founder Matt Mullenweg](https://wordpress.tv/2024/04/03/an-in-person-qa-with-wordpress-co-founder-matt-mullenweg/)
 - [Enqueuing CSS and JavaScript](https://wordpress.tv/2024/04/03/enqueuing-css-and-javascript/)
 - [How to Protect Your WordPress Website](https://wordpress.tv/2024/04/03/how-to-protect-your-wordpress-website/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Scaffolding a new block](https://wordpress.tv/2024/03/28/scaffolding-a-new-block/)
 - [Block development environment](https://wordpress.tv/2024/03/28/block-development-environment/)
 - [Presentación del evento](https://wordpress.tv/2024/03/26/presentacion-del-evento/)
-- [Agradecimientos y cierre](https://wordpress.tv/2024/03/26/agradecimientos-y-cierre/)
-- [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/03/26/differentiating-between-homepage-display-settings-and-various-templates/)
 <!-- WPTV:END -->
 
 ## Marketing
