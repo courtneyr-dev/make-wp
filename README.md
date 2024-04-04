@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a custom template](https://wordpress.tv/2024/04/04/creating-a-custom-template/)
 - [Testing WP Playground with wp-now](https://wordpress.tv/2024/04/04/testing-wp-playground-with-wp-now/)
 - [Customizing the search results template](https://wordpress.tv/2024/04/03/customizing-the-search-results-template/)
 - [Personalizing your 404 template](https://wordpress.tv/2024/04/03/personalizing-your-404-template-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Functionality](https://wordpress.tv/2024/03/28/block-functionality/)
 - [Building your first block](https://wordpress.tv/2024/03/28/building-your-first-block/)
 - [Scaffolding a new block](https://wordpress.tv/2024/03/28/scaffolding-a-new-block/)
-- [Block development environment](https://wordpress.tv/2024/03/28/block-development-environment/)
 <!-- WPTV:END -->
 
 ## Marketing
