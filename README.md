@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for Pasarela de pago para seQura](https://make.wordpress.org/polyglots/2024/04/04/pte-request-for-pasarela-de-pago-para-sequra-2/)
 - [PTE Request for Widgetbird](https://make.wordpress.org/polyglots/2024/04/04/pte-request-for-widgetbird/)
 - [X-post: Translation of End-user documentation project started at WordCamp Torrelodones &lpar;Spain&rpar;](https://make.wordpress.org/polyglots/2024/04/04/xpost-translation-of-end-user-documentation-project-started-at-wordcamp-torrelodones-spain/)
 - [New “Bad Quality &lpar;AI?&rpar;” checkbox for the “changes requested” status](https://make.wordpress.org/polyglots/2024/04/03/new-bad-quality-ai-checkbox-for-the-changes-requested-status/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Patterns](https://make.wordpress.org/polyglots/2024/04/02/pte-request-for-patterns/)
 - [Greetings! The Core Handbook syas…](https://make.wordpress.org/polyglots/2024/04/01/greetings-the-core-handbook-syas/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-133/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/01/hi-dear-mentors-we-have-132/)
 <!-- POLYGLOTS:END -->
 
 ## Support
