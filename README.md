@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Looking for feedback: Thumbnails for the Learn redesign](https://make.wordpress.org/training/2024/04/05/looking-for-feedback-thumbnails-for-the-learn-redesign/)
 - [Training Team Meeting Recap – 28th March 2024](https://make.wordpress.org/training/2024/04/02/training-team-meeting-recap-28th-march-2024/)
 - [Speak at a WordCamp or Meetup About the Training Team and Learn WordPress](https://make.wordpress.org/training/2024/03/28/speak-at-a-wordcamp-or-meetup-about-the-training-team-and-learn-wordpress/)
 - [Training Team Meeting Recap – 21st March 2024](https://make.wordpress.org/training/2024/03/27/training-team-meeting-recap-21st-march-2024/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Discussion: possible collaboration to transform learning pathways to Skill Trees](https://make.wordpress.org/training/2024/03/07/discussion-possible-collaboration-to-transform-learning-pathways-to-skill-trees/)
 - [Training Team Meeting Recap – 29th February 2024](https://make.wordpress.org/training/2024/03/05/training-team-meeting-recap-29th-february-2024/)
 - [X-post: Training Team Update – February 2024](https://make.wordpress.org/training/2024/03/05/xpost-training-team-update-february-2024/)
-- [Contributor Spotlight: Oneal Rosero](https://make.wordpress.org/training/2024/03/04/contributor-spotlight-oneal-rosero/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
