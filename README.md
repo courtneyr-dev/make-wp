@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Customizing your single posts template](https://wordpress.tv/2024/04/04/customizing-your-single-posts-template/)
 - [Designing with the columns block](https://wordpress.tv/2024/04/04/designing-with-the-columns-block-2/)
 - [Creating a custom template](https://wordpress.tv/2024/04/04/creating-a-custom-template/)
 - [Testing WP Playground with wp-now](https://wordpress.tv/2024/04/04/testing-wp-playground-with-wp-now/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block supports and Block styles](https://wordpress.tv/2024/03/28/block-supports-and-block-styles/)
 - [Block Attributes](https://wordpress.tv/2024/03/28/block-attributes/)
 - [Block Functionality](https://wordpress.tv/2024/03/28/block-functionality/)
-- [Building your first block](https://wordpress.tv/2024/03/28/building-your-first-block/)
 <!-- WPTV:END -->
 
 ## Marketing
