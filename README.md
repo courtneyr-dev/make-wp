@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Transformez WordPress avec ACF : Contenu personnalisé de A à Z](https://wordpress.tv/2024/04/06/transformez-wordpress-avec-acf-contenu-personnalise-de-a-a-z/)
 - [Customizing your single posts template](https://wordpress.tv/2024/04/04/customizing-your-single-posts-template/)
 - [Designing with the columns block](https://wordpress.tv/2024/04/04/designing-with-the-columns-block-2/)
 - [Creating a custom template](https://wordpress.tv/2024/04/04/creating-a-custom-template/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Static vs dynamic blocks](https://wordpress.tv/2024/03/28/static-vs-dynamic-blocks/)
 - [Block supports and Block styles](https://wordpress.tv/2024/03/28/block-supports-and-block-styles/)
 - [Block Attributes](https://wordpress.tv/2024/03/28/block-attributes/)
-- [Block Functionality](https://wordpress.tv/2024/03/28/block-functionality/)
 <!-- WPTV:END -->
 
 ## Marketing
