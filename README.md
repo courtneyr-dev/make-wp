@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [From independence to integration: The journey of being acquired](https://wordpress.tv/2024/04/07/from-independence-to-integration-the-journey-of-being-acquired/)
+- [Converting Walled Gardens into Community Gardens](https://wordpress.tv/2024/04/07/converting-walled-gardens-into-community-gardens/)
 - [Web3 on WordPress: Unlocking New Frontiers](https://wordpress.tv/2024/04/07/web3-on-wordpress-unlocking-new-frontiers/)
 - [Shaping the Future with WordPress Women](https://wordpress.tv/2024/04/07/shaping-the-future-with-wordpress-women/)
 - [The Future of WordPress](https://wordpress.tv/2024/04/07/the-future-of-wordpress-noel-tock/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Diseñando contenidos irresistibles para tu web con IA](https://wordpress.tv/2024/03/29/disenando-contenidos-irresistibles-para-tu-web-con-ia/)
 - [Como escoger un buen theme para tu WordPress](https://wordpress.tv/2024/03/28/como-escoger-un-buen-theme-para-tu-wordpress/)
 - [SEO Local: Cómo ser uno de los tres elegidos de Google](https://wordpress.tv/2024/03/28/seo-local-como-ser-uno-de-los-tres-elegidos-de-google/)
-- [Internacionalización de empresas. La era de la exportación digital](https://wordpress.tv/2024/03/28/internacionalizacion-de-empresas-la-era-de-la-exportacion-digital/)
-- [Green Web. diseños web eficientes, optimizados y de transferencia de datos reducida](https://wordpress.tv/2024/03/28/green-web-disenos-web-eficientes-optimizados-y-de-transferencia-de-datos-reducida/)
 <!-- WPTV:END -->
 
 ## Marketing
