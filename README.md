@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [WP Customer Reviews]](https://make.wordpress.org/polyglots/2024/04/07/pte-request-for-wp-customer-reviews/)
+- [Hi how it is possible…](https://make.wordpress.org/polyglots/2024/04/07/hi-how-it-is-possible/)
 - [X-post: Homepage updates](https://make.wordpress.org/polyglots/2024/04/05/xpost-homepage-updates/)
 - [PTE request for Pasarela de pago para seQura](https://make.wordpress.org/polyglots/2024/04/05/pte-request-for-pasarela-de-pago-para-sequra-3/)
 - [PTE Request for Carbonbadge Block](https://make.wordpress.org/polyglots/2024/04/05/hi-112/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Translation of End-user documentation project started at WordCamp Torrelodones &lpar;Spain&rpar;](https://make.wordpress.org/polyglots/2024/04/04/xpost-translation-of-end-user-documentation-project-started-at-wordcamp-torrelodones-spain/)
 - [New “Bad Quality &lpar;AI?&rpar;” checkbox for the “changes requested” status](https://make.wordpress.org/polyglots/2024/04/03/new-bad-quality-ai-checkbox-for-the-changes-requested-status/)
 - [There are two versions of…](https://make.wordpress.org/polyglots/2024/04/03/there-are-two-versions-of/)
-- [Agenda: Weekly Polyglots Chat – April 3, 2024 &lpar;8:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/03/agenda-weekly-polyglots-chat-april-3-2024-800-utc/)
-- [Hello, almost two years have…](https://make.wordpress.org/polyglots/2024/04/02/hello-almost-two-years-have/)
 <!-- POLYGLOTS:END -->
 
 ## Support
