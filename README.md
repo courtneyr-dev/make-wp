@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello. everyone.](https://make.wordpress.org/polyglots/2024/04/07/hello-everyone-8/)
 - [PTE Request for [WP Customer Reviews]](https://make.wordpress.org/polyglots/2024/04/07/pte-request-for-wp-customer-reviews/)
 - [Hi how it is possible…](https://make.wordpress.org/polyglots/2024/04/07/hi-how-it-is-possible/)
 - [X-post: Homepage updates](https://make.wordpress.org/polyglots/2024/04/05/xpost-homepage-updates/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Widgetbird](https://make.wordpress.org/polyglots/2024/04/04/pte-request-for-widgetbird/)
 - [X-post: Translation of End-user documentation project started at WordCamp Torrelodones &lpar;Spain&rpar;](https://make.wordpress.org/polyglots/2024/04/04/xpost-translation-of-end-user-documentation-project-started-at-wordcamp-torrelodones-spain/)
 - [New “Bad Quality &lpar;AI?&rpar;” checkbox for the “changes requested” status](https://make.wordpress.org/polyglots/2024/04/03/new-bad-quality-ai-checkbox-for-the-changes-requested-status/)
-- [There are two versions of…](https://make.wordpress.org/polyglots/2024/04/03/there-are-two-versions-of/)
 <!-- POLYGLOTS:END -->
 
 ## Support
