@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-8/)
+- [WP Developer](https://jobs.wordpress.net/job/wp-developer-18/)
 - [PHP WordPress Developer at UpdraftPlus](https://jobs.wordpress.net/job/php-wordpress-developer-at-updraftplus/)
 - [Lead Full Stack Developer – WordPress](https://jobs.wordpress.net/job/lead-full-stack-developer-wordpress/)
 - [WordPress Software Engineer / Product Manager](https://jobs.wordpress.net/job/wordpress-software-engineer-product-manager/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress site reform and update](https://jobs.wordpress.net/job/wordpress-site-reform-and-update/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-837/)
 - [Plugins For Restaurant Online Ordering](https://jobs.wordpress.net/job/plugins-for-restaurant-online-ordering/)
-- [NAMI’s new StigmaFree Workplace Initiative Website](https://jobs.wordpress.net/job/namis-new-stigmafree-workplace-initiative-website/)
-- [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-2/)
 <!-- JOBS:END -->
 
 ## Central
