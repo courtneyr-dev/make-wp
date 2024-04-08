@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Share Your Feedback with Meetup.com](https://make.wordpress.org/community/2024/04/08/share-your-feedback-with-meetup-com/)
 - [Community Team April Meeting Recap](https://make.wordpress.org/community/2024/04/07/community-team-april-meeting-recap/)
 - [Suggested Updates Based on Feedback of the events.wordpress.org Site](https://make.wordpress.org/community/2024/04/05/suggested-updates-based-on-feedback-of-the-events-wordpress-org-site/)
 - [Community Team Meeting Agenda for 4 – April -2024](https://make.wordpress.org/community/2024/04/03/community-team-meeting-agenda-for-4-april-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team March Meeting Recap](https://make.wordpress.org/community/2024/03/09/community-team-march-meeting-recap/)
 - [Asia Meetup Revival Project 2024](https://make.wordpress.org/community/2024/03/08/asia-meetup-revival-project-2024/)
 - [Proposal: Non-editable Footer for all Event Website Pages](https://make.wordpress.org/community/2024/03/06/proposal-non-editable-footer-for-all-event-website-pages/)
-- [Community Team Meeting Agenda for 7 March 2024](https://make.wordpress.org/community/2024/03/06/community-team-meeting-agenda-for-7-march-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
