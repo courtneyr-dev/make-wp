@@ -325,6 +325,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 8 April 2024](https://make.wordpress.org/test/2024/04/08/xpost-test-team-update-8-april-2024/)
 - [Week in Test: April 1, 2024](https://make.wordpress.org/test/2024/04/01/week-in-test-april-1-2024/)
 - [X-post: Test Team Update: 1 April 2024](https://make.wordpress.org/test/2024/04/01/xpost-test-team-update-1-april-2024/)
 - [Test Chat Summary: 26 March 2024](https://make.wordpress.org/test/2024/03/29/test-chat-summary-26-march-2024/)
@@ -334,7 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Understanding and Testing Font Library Feature with block editor theme](https://make.wordpress.org/test/2024/03/23/understanding-and-testing-font-library-feature-with-block-editor-theme/)
 - [X-post: Test Team Update: 18 March 2024](https://make.wordpress.org/test/2024/03/18/xpost-test-team-update-18-march-2024/)
 - [Week in Test: March 18, 2024](https://make.wordpress.org/test/2024/03/18/week-in-test-march-18-2024/)
-- [Test Chat Summary: 12 March 2024](https://make.wordpress.org/test/2024/03/15/test-chat-summary-12-march-2024/)
 <!-- TEST:END -->
 
 ## TV
