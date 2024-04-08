@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Driving Safety Global Cause Marketing Partners – World Safety Drive](https://jobs.wordpress.net/job/driving-safety-global-cause-marketing-partners-world-safety-drive/)
+- [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-3/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-13/)
+- [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-6/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-25/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-8/)
 - [WP Developer](https://jobs.wordpress.net/job/wp-developer-18/)
 - [PHP WordPress Developer at UpdraftPlus](https://jobs.wordpress.net/job/php-wordpress-developer-at-updraftplus/)
 - [Lead Full Stack Developer – WordPress](https://jobs.wordpress.net/job/lead-full-stack-developer-wordpress/)
 - [WordPress Software Engineer / Product Manager](https://jobs.wordpress.net/job/wordpress-software-engineer-product-manager/)
-- [Senior WordPress Developer – Ongoing Project Work](https://jobs.wordpress.net/job/senior-wordpress-developer-ongoing-project-work/)
-- [Back end simplify](https://jobs.wordpress.net/job/back-end-simplify/)
-- [WordPress site reform and update](https://jobs.wordpress.net/job/wordpress-site-reform-and-update/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-837/)
-- [Plugins For Restaurant Online Ordering](https://jobs.wordpress.net/job/plugins-for-restaurant-online-ordering/)
 <!-- JOBS:END -->
 
 ## Central
