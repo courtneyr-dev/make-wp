@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [Brainstorming a Support Team Contributor Ladder](https://make.wordpress.org/support/2024/04/brainstorming-a-support-team-contributor-ladder/)
 - [Announcement of a new Support Team meeting time](https://make.wordpress.org/support/2024/03/announcement-of-a-new-support-team-meeting-time/)
 - [Discussion on changes needed for Forums to adhere to the Digital Services Act &lpar;DSA&rpar;](https://make.wordpress.org/support/2024/03/discussion-on-changes-needed-for-forums-to-adhere-to-the-digital-services-act-dsa/)
 - [Should mods delete links on topics when requested?](https://make.wordpress.org/support/2024/03/should-mods-delete-links-on-topics-when-requested/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Some proposed improvements for 2024](https://make.wordpress.org/support/2024/02/some-proposed-improvements-for-2024/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/support/2024/02/xpost-incident-response-team-call-for-nominations/)
 - [Suggestion for a change in the guidelines:](https://make.wordpress.org/support/2024/02/suggestion-for-a-change-in-the-guidelines/)
-- [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/support/2024/01/xpost-call-for-mentees-mentors-cohort-2/)
 <!-- SUPPORT:END -->
 
 ## Documentation
