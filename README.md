@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Extending the WordPress REST API](https://wordpress.tv/2024/04/07/extending-the-wordpress-rest-api/)
+- [Interacting with the WordPress REST API](https://wordpress.tv/2024/04/07/interacting-with-the-wordpress-rest-api/)
+- [Using the WordPress REST API](https://wordpress.tv/2024/04/07/using-the-wordpress-rest-api-lesson/)
+- [The WordPress REST API](https://wordpress.tv/2024/04/07/the-wordpress-rest-api/)
 - [From independence to integration: The journey of being acquired](https://wordpress.tv/2024/04/07/from-independence-to-integration-the-journey-of-being-acquired/)
 - [Converting Walled Gardens into Community Gardens](https://wordpress.tv/2024/04/07/converting-walled-gardens-into-community-gardens/)
 - [Web3 on WordPress: Unlocking New Frontiers](https://wordpress.tv/2024/04/07/web3-on-wordpress-unlocking-new-frontiers/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Untangling Templates](https://wordpress.tv/2024/04/01/untangling-templates/)
 - [¿Por qué cuando te descargas WordPress todo está en tu idioma?](https://wordpress.tv/2024/03/31/por-que-cuando-te-descargas-wordpress-todo-esta-en-tu-idioma/)
 - [WordPress 6.5 のアップデート内容を見てみよう！](https://wordpress.tv/2024/03/29/wordpress-6-5-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
-- [Los ingredientes de una buena estrategia de DATA DRIVEN en las campañas de publicidad](https://wordpress.tv/2024/03/29/los-ingredientes-de-una-buena-estrategia-de-data-driven-en-las-campanas-de-publicidad/)
-- [Diseñando contenidos irresistibles para tu web con IA](https://wordpress.tv/2024/03/29/disenando-contenidos-irresistibles-para-tu-web-con-ia/)
-- [Como escoger un buen theme para tu WordPress](https://wordpress.tv/2024/03/28/como-escoger-un-buen-theme-para-tu-wordpress/)
-- [SEO Local: Cómo ser uno de los tres elegidos de Google](https://wordpress.tv/2024/03/28/seo-local-como-ser-uno-de-los-tres-elegidos-de-google/)
 <!-- WPTV:END -->
 
 ## Marketing
