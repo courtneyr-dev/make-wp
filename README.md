@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 9 April 2024](https://make.wordpress.org/core/2024/04/08/performance-chat-agenda-09-april-2024/)
 - [Conducting WordPress performance research in the field](https://make.wordpress.org/core/2024/04/05/conducting-wordpress-performance-research-in-the-field/)
 - [Developer Blog editorial meeting summary, April 4, 2024](https://make.wordpress.org/core/2024/04/05/developer-blog-editorial-meeting-summary-february-1-2024-2/)
 - [Hallway Hangout: Let’s chat about what’s next in Gutenberg](https://make.wordpress.org/core/2024/04/04/hallway-hangout-lets-chat-about-whats-next-in-gutenberg/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.5 release delayed 1 week](https://make.wordpress.org/core/2024/03/25/wordpress-6-5-release-delayed-1-week/)
 - [Performance Chat Agenda: 26 March 2024](https://make.wordpress.org/core/2024/03/25/performance-chat-agenda-26-march-2024/)
 - [WordPress 6.5 Release Day Process](https://make.wordpress.org/core/2024/03/22/wordpress-6-5-release-day-process/)
-- [Font Library update: storage of font files](https://make.wordpress.org/core/2024/03/21/font-library-update-storage-of-font-files/)
 <!-- CORE:END -->
 
 ## Design
