@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Equipo de Marketing de WordPress España: ¿qué hacen y cómo se organizan?](https://wordpress.tv/2024/04/08/equipo-de-marketing-de-wordpress-espana-que-hacen-y-como-se-organizan/)
 - [Extending the WordPress REST API](https://wordpress.tv/2024/04/07/extending-the-wordpress-rest-api/)
 - [Interacting with the WordPress REST API](https://wordpress.tv/2024/04/07/interacting-with-the-wordpress-rest-api/)
 - [Using the WordPress REST API](https://wordpress.tv/2024/04/07/using-the-wordpress-rest-api-lesson/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Descubre el poder y la sencillez de la API REST de WordPress](https://wordpress.tv/2024/04/02/descubre-el-poder-y-la-sencillez-de-la-api-rest-de-wordpress/)
 - [Untangling Templates](https://wordpress.tv/2024/04/01/untangling-templates/)
 - [¿Por qué cuando te descargas WordPress todo está en tu idioma?](https://wordpress.tv/2024/03/31/por-que-cuando-te-descargas-wordpress-todo-esta-en-tu-idioma/)
-- [WordPress 6.5 のアップデート内容を見てみよう！](https://wordpress.tv/2024/03/29/wordpress-6-5-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/)
 <!-- WPTV:END -->
 
 ## Marketing
