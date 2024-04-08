@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for April 09, 2024](https://make.wordpress.org/themes/2024/04/08/themes-team-meeting-agenda-for-april-09-2024/)
 - [Themes team meeting agenda for March 26, 2024](https://make.wordpress.org/themes/2024/03/26/themes-team-meeting-agenda-for-march-26-2024/)
 - [Themes Team Meeting Notes – March 12, 2024](https://make.wordpress.org/themes/2024/03/13/themes-team-meeting-notes-march-12-2024/)
 - [Themes team meeting agenda for March 12, 2024](https://make.wordpress.org/themes/2024/03/12/themes-team-meeting-agenda-for-march-12-2024/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for February 13, 2024](https://make.wordpress.org/themes/2024/02/12/themes-team-meeting-agenda-for-february-13-2024/)
 - [Recap of Hallway Hangout on Intrinsic Design](https://make.wordpress.org/themes/2024/02/09/recap-of-hallway-hangout-on-intrinsic-design/)
 - [X-post: Guideline change: Reviews of Commercial/Pro Plugins](https://make.wordpress.org/themes/2024/02/08/xpost-guideline-change-reviews-of-commercial-pro-plugins/)
-- [X-post: Suggestion for a change in the guidelines:](https://make.wordpress.org/themes/2024/02/04/xpost-suggestion-for-a-change-in-the-guidelines/)
 <!-- THEMES:END -->
 
 ## Plugins
