@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordPress Contributor Mentorship: 2024 Q1 Cohort Graduates](https://make.wordpress.org/community/2024/04/08/wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
 - [Share Your Feedback with Meetup.com](https://make.wordpress.org/community/2024/04/08/share-your-feedback-with-meetup-com/)
 - [Community Team April Meeting Recap](https://make.wordpress.org/community/2024/04/07/community-team-april-meeting-recap/)
 - [Suggested Updates Based on Feedback of the events.wordpress.org Site](https://make.wordpress.org/community/2024/04/05/suggested-updates-based-on-feedback-of-the-events-wordpress-org-site/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Discussion: Are we continuing to use Trello for project planning?](https://make.wordpress.org/community/2024/03/20/discussion-are-we-continuing-to-use-trello-for-project-planning/)
 - [Community Team March Meeting Recap](https://make.wordpress.org/community/2024/03/09/community-team-march-meeting-recap/)
 - [Asia Meetup Revival Project 2024](https://make.wordpress.org/community/2024/03/08/asia-meetup-revival-project-2024/)
-- [Proposal: Non-editable Footer for all Event Website Pages](https://make.wordpress.org/community/2024/03/06/proposal-non-editable-footer-for-all-event-website-pages/)
 <!-- COMMUNITY:END -->
 
 ## Meta
