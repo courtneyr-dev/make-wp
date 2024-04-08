@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: Creating dynamic content with Block Bindings and Custom Fields](https://learn.wordpress.org/?meeting=developer-hours-creating-dynamic-content-with-block-bindings-and-custom-fields)
 - [Homepage displays: Latest posts vs static](https://learn.wordpress.org/?meeting=homepage-displays-latest-posts-vs-static)
 - [WordPress developer live stream: Testing WP Playground](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-testing-wp-playground)
 - [Developer Hours: Building custom blocks with the Interactivity API](https://learn.wordpress.org/?meeting=https-www-meetup-com-learn-wordpress-online-workshops-events-300032710)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: How to build modern web layouts with WordPress blocks](https://learn.wordpress.org/?meeting=developer-hours-how-to-build-modern-web-layouts-with-wordpress-blocks)
 - [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://learn.wordpress.org/?meeting=fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once)
 - [Starting your contributor journey with the WordPress Training Team](https://learn.wordpress.org/?meeting=starting-your-contributor-journey-with-the-wordpress-training-team-2)
-- [Starting your contributor journey with the WordPress Training Team](https://learn.wordpress.org/?meeting=starting-your-contributor-journey-with-the-wordpress-training-team)
 <!-- SLS:END -->
 
 ## Test
