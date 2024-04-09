@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Missing strings to translate: Opt-Out…](https://make.wordpress.org/polyglots/2024/04/09/missing-strings-to-translate-opt-out/)
+- [Can someone please review and…](https://make.wordpress.org/polyglots/2024/04/09/can-someone-please-review-and/)
+- [GTE Request for the Gujarati Language](https://make.wordpress.org/polyglots/2024/04/09/gte-request-for-the-gujarati-language/)
+- [PTE Request for Cosmobit Theme](https://make.wordpress.org/polyglots/2024/04/09/pte-request-for-cosmobit-theme/)
 - [PTE Request for YASR Plugin](https://make.wordpress.org/polyglots/2024/04/09/pte-request-for-yasr-plugin-2/)
 - [PTE Request For WordPress 6.0.X, 6.1.X, 6.2.X, 6.3.X, and 6.4.X](https://make.wordpress.org/polyglots/2024/04/08/pte-request-for-wordpress-6-0-x-6-1-x-6-2-x-6-3-x-and-6-4-x/)
 - [Hello. everyone.](https://make.wordpress.org/polyglots/2024/04/07/hello-everyone-8/)
 - [PTE Request for [WP Customer Reviews]](https://make.wordpress.org/polyglots/2024/04/07/pte-request-for-wp-customer-reviews/)
 - [Hi how it is possible…](https://make.wordpress.org/polyglots/2024/04/07/hi-how-it-is-possible/)
 - [X-post: Homepage updates](https://make.wordpress.org/polyglots/2024/04/05/xpost-homepage-updates/)
-- [PTE request for Pasarela de pago para seQura](https://make.wordpress.org/polyglots/2024/04/05/pte-request-for-pasarela-de-pago-para-sequra-3/)
-- [PTE Request for Carbonbadge Block](https://make.wordpress.org/polyglots/2024/04/05/hi-112/)
-- [PTE request for Pasarela de pago para seQura](https://make.wordpress.org/polyglots/2024/04/04/pte-request-for-pasarela-de-pago-para-sequra-2/)
-- [PTE Request for Widgetbird](https://make.wordpress.org/polyglots/2024/04/04/pte-request-for-widgetbird/)
 <!-- POLYGLOTS:END -->
 
 ## Support
