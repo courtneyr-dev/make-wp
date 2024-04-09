@@ -352,6 +352,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Interactivity API: Una nueva experiencia para hacer bloques](https://wordpress.tv/2024/04/09/interactivity-api-una-nueva-experiencia-para-hacer-bloques/)
+- [Marketing de guerrilla para vender de forma disruptiva y barata sin acabar en el juzgado](https://wordpress.tv/2024/04/09/marketing-de-guerrilla-para-vender-de-forma-disruptiva-y-barata-sin-acabar-en-el-juzgado/)
+- [Optimiza tu Negocio en WordPress: Tendencias y Estrategias para Vender Más en 2024](https://wordpress.tv/2024/04/09/optimiza-tu-negocio-en-wordpress-tendencias-y-estrategias-para-vender-mas-en-2024/)
+- [Los captchas en las webs con WordPress](https://wordpress.tv/2024/04/09/los-captchas-en-las-webs-con-wordpress/)
+- [Más allá de los ‘Me gusta’: Cómo el blog fortalece tu presencia en la red.](https://wordpress.tv/2024/04/09/mas-alla-de-los-me-gusta-como-el-blog-fortalece-tu-presencia-en-la-red/)
+- [Comunicación positiva: el poder de lo que dices &lpar;y no dices&rpar;](https://wordpress.tv/2024/04/09/comunicacion-positiva-el-poder-de-lo-que-dices-y-no-dices/)
+- [«Think outside the box», diseños de «heros» para diferenciarte en el mundo web](https://wordpress.tv/2024/04/09/think-outside-the-box-disenos-de-heros-para-diferenciarte-en-el-mundo-web/)
+- [Crear SIN tiempo &lpar;pero CON WordPress&rpar;](https://wordpress.tv/2024/04/09/crear-sin-tiempo-pero-con-wordpress/)
+- [Optimizando la Seguridad de WordPress: 10 Consejos Esenciales para Mantener tu Sitio Protegido](https://wordpress.tv/2024/04/09/optimizando-la-seguridad-de-wordpress-10-consejos-esenciales-para-mantener-tu-sitio-protegido/)
+- [WordPress, composer y repositorios con Bedrock](https://wordpress.tv/2024/04/09/wordpress-composer-y-repositorios-con-bedrock/)
+- [3 Métodos COPIA PEGA para AUMENTAR VENTAS en Ecommerces](https://wordpress.tv/2024/04/09/3-metodos-copia-pega-para-aumentar-ventas-en-ecommerces/)
+- [Emprendimiento, Gestión de las Expectativas y Optimización Tributaria](https://wordpress.tv/2024/04/09/emprendimiento-gestion-de-las-expectativas-y-optimizacion-tributaria/)
+- [Estructura de datos para proyectos WordPress](https://wordpress.tv/2024/04/09/estructura-de-datos-para-proyectos-wordpress/)
+- [¡Grande, rojo y subrayado!](https://wordpress.tv/2024/04/09/grande-rojo-y-subrayado/)
+- [Del SEO al WOW: Descifrando la Experiencia en página.](https://wordpress.tv/2024/04/09/del-seo-al-wow-descifrando-la-experiencia-en-pagina/)
 - [Equipo de Marketing de WordPress España: ¿qué hacen y cómo se organizan?](https://wordpress.tv/2024/04/08/equipo-de-marketing-de-wordpress-espana-que-hacen-y-como-se-organizan/)
 - [Extending the WordPress REST API](https://wordpress.tv/2024/04/07/extending-the-wordpress-rest-api/)
 - [Interacting with the WordPress REST API](https://wordpress.tv/2024/04/07/interacting-with-the-wordpress-rest-api/)
@@ -362,21 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web3 on WordPress: Unlocking New Frontiers](https://wordpress.tv/2024/04/07/web3-on-wordpress-unlocking-new-frontiers/)
 - [Shaping the Future with WordPress Women](https://wordpress.tv/2024/04/07/shaping-the-future-with-wordpress-women/)
 - [The Future of WordPress](https://wordpress.tv/2024/04/07/the-future-of-wordpress-noel-tock/)
-- [Transformez WordPress avec ACF : Contenu personnalisé de A à Z](https://wordpress.tv/2024/04/06/transformez-wordpress-avec-acf-contenu-personnalise-de-a-a-z/)
-- [Customizing your single posts template](https://wordpress.tv/2024/04/04/customizing-your-single-posts-template/)
-- [Designing with the columns block](https://wordpress.tv/2024/04/04/designing-with-the-columns-block-2/)
-- [Creating a custom template](https://wordpress.tv/2024/04/04/creating-a-custom-template/)
-- [Testing WP Playground with wp-now](https://wordpress.tv/2024/04/04/testing-wp-playground-with-wp-now/)
-- [Customizing the search results template](https://wordpress.tv/2024/04/03/customizing-the-search-results-template/)
-- [Personalizing your 404 template](https://wordpress.tv/2024/04/03/personalizing-your-404-template-2/)
-- [An In-person Q&amp;A with WordPress Co-Founder Matt Mullenweg](https://wordpress.tv/2024/04/03/an-in-person-qa-with-wordpress-co-founder-matt-mullenweg/)
-- [Enqueuing CSS and JavaScript](https://wordpress.tv/2024/04/03/enqueuing-css-and-javascript/)
-- [How to Protect Your WordPress Website](https://wordpress.tv/2024/04/03/how-to-protect-your-wordpress-website/)
-- [¿Qué debo tomar en cuenta para construir mi plugin?](https://wordpress.tv/2024/04/03/que-debo-tomar-en-cuenta-para-construir-mi-plugin/)
-- [Exploring WordPress 6.5](https://wordpress.tv/2024/04/02/exploring-wordpress-6-5/)
-- [Descubre el poder y la sencillez de la API REST de WordPress](https://wordpress.tv/2024/04/02/descubre-el-poder-y-la-sencillez-de-la-api-rest-de-wordpress/)
-- [Untangling Templates](https://wordpress.tv/2024/04/01/untangling-templates/)
-- [¿Por qué cuando te descargas WordPress todo está en tu idioma?](https://wordpress.tv/2024/03/31/por-que-cuando-te-descargas-wordpress-todo-esta-en-tu-idioma/)
 <!-- WPTV:END -->
 
 ## Marketing
