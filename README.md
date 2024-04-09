@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Design is: An Expedition of the Multifaceted Nature of Design](https://wordpress.tv/2024/04/09/design-is-an-expedition-of-the-multifaceted-nature-of-design/)
 - [Interactivity API: Una nueva experiencia para hacer bloques](https://wordpress.tv/2024/04/09/interactivity-api-una-nueva-experiencia-para-hacer-bloques/)
 - [Marketing de guerrilla para vender de forma disruptiva y barata sin acabar en el juzgado](https://wordpress.tv/2024/04/09/marketing-de-guerrilla-para-vender-de-forma-disruptiva-y-barata-sin-acabar-en-el-juzgado/)
 - [Optimiza tu Negocio en WordPress: Tendencias y Estrategias para Vender Más en 2024](https://wordpress.tv/2024/04/09/optimiza-tu-negocio-en-wordpress-tendencias-y-estrategias-para-vender-mas-en-2024/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Converting Walled Gardens into Community Gardens](https://wordpress.tv/2024/04/07/converting-walled-gardens-into-community-gardens/)
 - [Web3 on WordPress: Unlocking New Frontiers](https://wordpress.tv/2024/04/07/web3-on-wordpress-unlocking-new-frontiers/)
 - [Shaping the Future with WordPress Women](https://wordpress.tv/2024/04/07/shaping-the-future-with-wordpress-women/)
-- [The Future of WordPress](https://wordpress.tv/2024/04/07/the-future-of-wordpress-noel-tock/)
 <!-- WPTV:END -->
 
 ## Marketing
