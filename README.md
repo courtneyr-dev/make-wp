@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bud Kraus: What’s New In WordPress 6.5?](https://wordpress.tv/2024/04/09/bud-kraus-whats-new-in-wordpress-6-5/)
+- [Website Accessibility – Why, When and How](https://wordpress.tv/2024/04/09/website-accessibility-why-when-and-how/)
+- [You’ll never be alone anymore. Building and maintaining WordPress sites with AI](https://wordpress.tv/2024/04/09/youll-never-be-alone-anymore-building-and-maintaining-wordpress-sites-with-ai/)
 - [How to counter arguments from developers, designers and managers against accessibility](https://wordpress.tv/2024/04/09/how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/)
 - [From FOMO to JOMO: Embrace the joy of missing out](https://wordpress.tv/2024/04/09/from-fomo-to-jomo-embrace-the-joy-of-missing-out/)
 - [Catching Big Fish: How to catch and retain a WordPress enterprise client](https://wordpress.tv/2024/04/09/catching-big-fish-how-to-catch-and-retain-a-wordpress-enterprise-client/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Optimiza tu Negocio en WordPress: Tendencias y Estrategias para Vender Más en 2024](https://wordpress.tv/2024/04/09/optimiza-tu-negocio-en-wordpress-tendencias-y-estrategias-para-vender-mas-en-2024/)
 - [Los captchas en las webs con WordPress](https://wordpress.tv/2024/04/09/los-captchas-en-las-webs-con-wordpress/)
 - [Más allá de los ‘Me gusta’: Cómo el blog fortalece tu presencia en la red.](https://wordpress.tv/2024/04/09/mas-alla-de-los-me-gusta-como-el-blog-fortalece-tu-presencia-en-la-red/)
-- [Comunicación positiva: el poder de lo que dices &lpar;y no dices&rpar;](https://wordpress.tv/2024/04/09/comunicacion-positiva-el-poder-de-lo-que-dices-y-no-dices/)
-- [«Think outside the box», diseños de «heros» para diferenciarte en el mundo web](https://wordpress.tv/2024/04/09/think-outside-the-box-disenos-de-heros-para-diferenciarte-en-el-mundo-web/)
-- [Crear SIN tiempo &lpar;pero CON WordPress&rpar;](https://wordpress.tv/2024/04/09/crear-sin-tiempo-pero-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
