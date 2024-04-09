@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to counter arguments from developers, designers and managers against accessibility](https://wordpress.tv/2024/04/09/how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/)
+- [From FOMO to JOMO: Embrace the joy of missing out](https://wordpress.tv/2024/04/09/from-fomo-to-jomo-embrace-the-joy-of-missing-out/)
+- [Catching Big Fish: How to catch and retain a WordPress enterprise client](https://wordpress.tv/2024/04/09/catching-big-fish-how-to-catch-and-retain-a-wordpress-enterprise-client/)
+- [The Power of Personal Branding in the AI Era](https://wordpress.tv/2024/04/09/the-power-of-personal-branding-in-the-ai-era/)
+- [Building and Leveraging Your Reputation](https://wordpress.tv/2024/04/09/building-and-leveraging-your-reputation/)
+- [The Future of AI Chatbots in WordPress: Trends, Challenges, and Opportunities](https://wordpress.tv/2024/04/09/the-future-of-ai-chatbots-in-wordpress-trends-challenges-and-opportunities/)
 - [【Ctrl+Hack+Delete】 Uncover the dark side of WordPress from a hacker’s perspective](https://wordpress.tv/2024/04/09/%e3%80%90ctrlhackdelete%e3%80%91-uncover-the-dark-side-of-wordpress-from-a-hackers-perspective/)
 - [Make &lpar;All&rpar; WordPress &lpar;Events&rpar; Accessible](https://wordpress.tv/2024/04/09/make-all-wordpress-events-accessible/)
 - [Properly Recognizing Contributors in Large Open Source Projects](https://wordpress.tv/2024/04/09/properly-recognizing-contributors-in-large-open-source-projects/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Comunicación positiva: el poder de lo que dices &lpar;y no dices&rpar;](https://wordpress.tv/2024/04/09/comunicacion-positiva-el-poder-de-lo-que-dices-y-no-dices/)
 - [«Think outside the box», diseños de «heros» para diferenciarte en el mundo web](https://wordpress.tv/2024/04/09/think-outside-the-box-disenos-de-heros-para-diferenciarte-en-el-mundo-web/)
 - [Crear SIN tiempo &lpar;pero CON WordPress&rpar;](https://wordpress.tv/2024/04/09/crear-sin-tiempo-pero-con-wordpress/)
-- [Optimizando la Seguridad de WordPress: 10 Consejos Esenciales para Mantener tu Sitio Protegido](https://wordpress.tv/2024/04/09/optimizando-la-seguridad-de-wordpress-10-consejos-esenciales-para-mantener-tu-sitio-protegido/)
-- [WordPress, composer y repositorios con Bedrock](https://wordpress.tv/2024/04/09/wordpress-composer-y-repositorios-con-bedrock/)
-- [3 Métodos COPIA PEGA para AUMENTAR VENTAS en Ecommerces](https://wordpress.tv/2024/04/09/3-metodos-copia-pega-para-aumentar-ventas-en-ecommerces/)
-- [Emprendimiento, Gestión de las Expectativas y Optimización Tributaria](https://wordpress.tv/2024/04/09/emprendimiento-gestion-de-las-expectativas-y-optimizacion-tributaria/)
-- [Estructura de datos para proyectos WordPress](https://wordpress.tv/2024/04/09/estructura-de-datos-para-proyectos-wordpress/)
-- [¡Grande, rojo y subrayado!](https://wordpress.tv/2024/04/09/grande-rojo-y-subrayado/)
 <!-- WPTV:END -->
 
 ## Marketing
