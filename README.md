@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Redefining Code Quality: A Journey Towards Bug-Free Development](https://wordpress.tv/2024/04/09/redefining-code-quality-a-journey-towards-bug-free-development/)
+- [Expanding WordPress’s capabilities to support personalized content creation at scale: the story of S](https://wordpress.tv/2024/04/09/expanding-wordpresss-capabilities-to-support-personalized-content-creation-at-scale-the-story-of-s/)
 - [Design is: An Expedition of the Multifaceted Nature of Design](https://wordpress.tv/2024/04/09/design-is-an-expedition-of-the-multifaceted-nature-of-design/)
 - [Interactivity API: Una nueva experiencia para hacer bloques](https://wordpress.tv/2024/04/09/interactivity-api-una-nueva-experiencia-para-hacer-bloques/)
 - [Marketing de guerrilla para vender de forma disruptiva y barata sin acabar en el juzgado](https://wordpress.tv/2024/04/09/marketing-de-guerrilla-para-vender-de-forma-disruptiva-y-barata-sin-acabar-en-el-juzgado/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The WordPress REST API](https://wordpress.tv/2024/04/07/the-wordpress-rest-api/)
 - [From independence to integration: The journey of being acquired](https://wordpress.tv/2024/04/07/from-independence-to-integration-the-journey-of-being-acquired/)
 - [Converting Walled Gardens into Community Gardens](https://wordpress.tv/2024/04/07/converting-walled-gardens-into-community-gardens/)
-- [Web3 on WordPress: Unlocking New Frontiers](https://wordpress.tv/2024/04/07/web3-on-wordpress-unlocking-new-frontiers/)
-- [Shaping the Future with WordPress Women](https://wordpress.tv/2024/04/07/shaping-the-future-with-wordpress-women/)
 <!-- WPTV:END -->
 
 ## Marketing
