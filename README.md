@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [【Ctrl+Hack+Delete】 Uncover the dark side of WordPress from a hacker’s perspective](https://wordpress.tv/2024/04/09/%e3%80%90ctrlhackdelete%e3%80%91-uncover-the-dark-side-of-wordpress-from-a-hackers-perspective/)
+- [Make &lpar;All&rpar; WordPress &lpar;Events&rpar; Accessible](https://wordpress.tv/2024/04/09/make-all-wordpress-events-accessible/)
+- [Properly Recognizing Contributors in Large Open Source Projects](https://wordpress.tv/2024/04/09/properly-recognizing-contributors-in-large-open-source-projects/)
 - [Building a career in WordPress while raising seven kids](https://wordpress.tv/2024/04/09/building-a-career-in-wordpress-while-raising-seven-kids/)
 - [Developer Hours: Building custom blocks with the Interactivity API](https://wordpress.tv/2024/04/09/developer-hours-building-custom-blocks-with-the-interactivity-api/)
 - [Unlocking Universal Creativity: The Future of Inclusive WordPress Design](https://wordpress.tv/2024/04/09/unlocking-universal-creativity-the-future-of-inclusive-wordpress-design/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Emprendimiento, Gestión de las Expectativas y Optimización Tributaria](https://wordpress.tv/2024/04/09/emprendimiento-gestion-de-las-expectativas-y-optimizacion-tributaria/)
 - [Estructura de datos para proyectos WordPress](https://wordpress.tv/2024/04/09/estructura-de-datos-para-proyectos-wordpress/)
 - [¡Grande, rojo y subrayado!](https://wordpress.tv/2024/04/09/grande-rojo-y-subrayado/)
-- [Del SEO al WOW: Descifrando la Experiencia en página.](https://wordpress.tv/2024/04/09/del-seo-al-wow-descifrando-la-experiencia-en-pagina/)
-- [Equipo de Marketing de WordPress España: ¿qué hacen y cómo se organizan?](https://wordpress.tv/2024/04/08/equipo-de-marketing-de-wordpress-espana-que-hacen-y-como-se-organizan/)
-- [Extending the WordPress REST API](https://wordpress.tv/2024/04/07/extending-the-wordpress-rest-api/)
 <!-- WPTV:END -->
 
 ## Marketing
