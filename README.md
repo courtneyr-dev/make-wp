@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Building a career in WordPress while raising seven kids](https://wordpress.tv/2024/04/09/building-a-career-in-wordpress-while-raising-seven-kids/)
 - [Developer Hours: Building custom blocks with the Interactivity API](https://wordpress.tv/2024/04/09/developer-hours-building-custom-blocks-with-the-interactivity-api/)
 - [Unlocking Universal Creativity: The Future of Inclusive WordPress Design](https://wordpress.tv/2024/04/09/unlocking-universal-creativity-the-future-of-inclusive-wordpress-design/)
 - [Getting Ready for the Deprecation of 3P Cookies](https://wordpress.tv/2024/04/09/getting-ready-for-the-deprecation-of-3p-cookies/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Del SEO al WOW: Descifrando la Experiencia en página.](https://wordpress.tv/2024/04/09/del-seo-al-wow-descifrando-la-experiencia-en-pagina/)
 - [Equipo de Marketing de WordPress España: ¿qué hacen y cómo se organizan?](https://wordpress.tv/2024/04/08/equipo-de-marketing-de-wordpress-espana-que-hacen-y-como-se-organizan/)
 - [Extending the WordPress REST API](https://wordpress.tv/2024/04/07/extending-the-wordpress-rest-api/)
-- [Interacting with the WordPress REST API](https://wordpress.tv/2024/04/07/interacting-with-the-wordpress-rest-api/)
 <!-- WPTV:END -->
 
 ## Marketing
