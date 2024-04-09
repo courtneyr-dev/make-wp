@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [11th April Support Team meeting](https://make.wordpress.org/support/2024/04/22nd-february-support-team-meeting/)
 - [Brainstorming a Support Team Contributor Ladder](https://make.wordpress.org/support/2024/04/brainstorming-a-support-team-contributor-ladder/)
 - [Announcement of a new Support Team meeting time](https://make.wordpress.org/support/2024/03/announcement-of-a-new-support-team-meeting-time/)
 - [Discussion on changes needed for Forums to adhere to the Digital Services Act &lpar;DSA&rpar;](https://make.wordpress.org/support/2024/03/discussion-on-changes-needed-for-forums-to-adhere-to-the-digital-services-act-dsa/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Guideline change: Reviews of Commercial/Pro Plugins](https://make.wordpress.org/support/2024/02/guideline-change-reviews-of-commercial-pro-plugins/)
 - [Some proposed improvements for 2024](https://make.wordpress.org/support/2024/02/some-proposed-improvements-for-2024/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/support/2024/02/xpost-incident-response-team-call-for-nominations/)
-- [Suggestion for a change in the guidelines:](https://make.wordpress.org/support/2024/02/suggestion-for-a-change-in-the-guidelines/)
 <!-- SUPPORT:END -->
 
 ## Documentation
