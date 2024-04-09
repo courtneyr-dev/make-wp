@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for YASR Plugin](https://make.wordpress.org/polyglots/2024/04/09/pte-request-for-yasr-plugin-2/)
 - [PTE Request For WordPress 6.0.X, 6.1.X, 6.2.X, 6.3.X, and 6.4.X](https://make.wordpress.org/polyglots/2024/04/08/pte-request-for-wordpress-6-0-x-6-1-x-6-2-x-6-3-x-and-6-4-x/)
 - [Hello. everyone.](https://make.wordpress.org/polyglots/2024/04/07/hello-everyone-8/)
 - [PTE Request for [WP Customer Reviews]](https://make.wordpress.org/polyglots/2024/04/07/pte-request-for-wp-customer-reviews/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Carbonbadge Block](https://make.wordpress.org/polyglots/2024/04/05/hi-112/)
 - [PTE request for Pasarela de pago para seQura](https://make.wordpress.org/polyglots/2024/04/04/pte-request-for-pasarela-de-pago-para-sequra-2/)
 - [PTE Request for Widgetbird](https://make.wordpress.org/polyglots/2024/04/04/pte-request-for-widgetbird/)
-- [X-post: Translation of End-user documentation project started at WordCamp Torrelodones &lpar;Spain&rpar;](https://make.wordpress.org/polyglots/2024/04/04/xpost-translation-of-end-user-documentation-project-started-at-wordcamp-torrelodones-spain/)
 <!-- POLYGLOTS:END -->
 
 ## Support
