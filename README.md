@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Unlocking Universal Creativity: The Future of Inclusive WordPress Design](https://wordpress.tv/2024/04/09/unlocking-universal-creativity-the-future-of-inclusive-wordpress-design/)
+- [Getting Ready for the Deprecation of 3P Cookies](https://wordpress.tv/2024/04/09/getting-ready-for-the-deprecation-of-3p-cookies/)
+- [Democratizing Performance](https://wordpress.tv/2024/04/09/democratizing-performance/)
 - [Redefining Code Quality: A Journey Towards Bug-Free Development](https://wordpress.tv/2024/04/09/redefining-code-quality-a-journey-towards-bug-free-development/)
 - [Expanding WordPress’s capabilities to support personalized content creation at scale: the story of S](https://wordpress.tv/2024/04/09/expanding-wordpresss-capabilities-to-support-personalized-content-creation-at-scale-the-story-of-s/)
 - [Design is: An Expedition of the Multifaceted Nature of Design](https://wordpress.tv/2024/04/09/design-is-an-expedition-of-the-multifaceted-nature-of-design/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Extending the WordPress REST API](https://wordpress.tv/2024/04/07/extending-the-wordpress-rest-api/)
 - [Interacting with the WordPress REST API](https://wordpress.tv/2024/04/07/interacting-with-the-wordpress-rest-api/)
 - [Using the WordPress REST API](https://wordpress.tv/2024/04/07/using-the-wordpress-rest-api-lesson/)
-- [The WordPress REST API](https://wordpress.tv/2024/04/07/the-wordpress-rest-api/)
-- [From independence to integration: The journey of being acquired](https://wordpress.tv/2024/04/07/from-independence-to-integration-the-journey-of-being-acquired/)
-- [Converting Walled Gardens into Community Gardens](https://wordpress.tv/2024/04/07/converting-walled-gardens-into-community-gardens/)
 <!-- WPTV:END -->
 
 ## Marketing
