@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Plugin Review – Top 10 mistakes plugin authors make!](https://wordpress.tv/2024/04/09/plugin-review-top-10-mistakes-plugin-authors-make/)
+- [The elements of WordPress](https://wordpress.tv/2024/04/09/the-elements-of-wordpress/)
 - [Bud Kraus: What’s New In WordPress 6.5?](https://wordpress.tv/2024/04/09/bud-kraus-whats-new-in-wordpress-6-5/)
 - [Website Accessibility – Why, When and How](https://wordpress.tv/2024/04/09/website-accessibility-why-when-and-how/)
 - [You’ll never be alone anymore. Building and maintaining WordPress sites with AI](https://wordpress.tv/2024/04/09/youll-never-be-alone-anymore-building-and-maintaining-wordpress-sites-with-ai/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Interactivity API: Una nueva experiencia para hacer bloques](https://wordpress.tv/2024/04/09/interactivity-api-una-nueva-experiencia-para-hacer-bloques/)
 - [Marketing de guerrilla para vender de forma disruptiva y barata sin acabar en el juzgado](https://wordpress.tv/2024/04/09/marketing-de-guerrilla-para-vender-de-forma-disruptiva-y-barata-sin-acabar-en-el-juzgado/)
 - [Optimiza tu Negocio en WordPress: Tendencias y Estrategias para Vender Más en 2024](https://wordpress.tv/2024/04/09/optimiza-tu-negocio-en-wordpress-tendencias-y-estrategias-para-vender-mas-en-2024/)
-- [Los captchas en las webs con WordPress](https://wordpress.tv/2024/04/09/los-captchas-en-las-webs-con-wordpress/)
-- [Más allá de los ‘Me gusta’: Cómo el blog fortalece tu presencia en la red.](https://wordpress.tv/2024/04/09/mas-alla-de-los-me-gusta-como-el-blog-fortalece-tu-presencia-en-la-red/)
 <!-- WPTV:END -->
 
 ## Marketing
