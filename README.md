@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – April 10, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/10/agenda-weekly-polyglots-chat-april-10-2024-1300-utc/)
 - [PTE Request for below plugins – Hindi](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-below-plugins-hindi/)
 - [X-post: The Forums get a refresh](https://make.wordpress.org/polyglots/2024/04/10/xpost-the-forums-get-a-refresh/)
 - [Missing strings to translate: Opt-Out…](https://make.wordpress.org/polyglots/2024/04/09/missing-strings-to-translate-opt-out/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for YASR Plugin](https://make.wordpress.org/polyglots/2024/04/09/pte-request-for-yasr-plugin-2/)
 - [PTE Request For WordPress 6.0.X, 6.1.X, 6.2.X, 6.3.X, and 6.4.X](https://make.wordpress.org/polyglots/2024/04/08/pte-request-for-wordpress-6-0-x-6-1-x-6-2-x-6-3-x-and-6-4-x/)
 - [Hello. everyone.](https://make.wordpress.org/polyglots/2024/04/07/hello-everyone-8/)
-- [PTE Request for [WP Customer Reviews]](https://make.wordpress.org/polyglots/2024/04/07/pte-request-for-wp-customer-reviews/)
 <!-- POLYGLOTS:END -->
 
 ## Support
