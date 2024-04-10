@@ -567,8 +567,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Bilbao, Bizkaia, Spain](https://central.wordcamp.org/wordcamps/wordcamp-bilbao-2024-spain/)
 - [WordCamp Leipzig](https://central.wordcamp.org/wordcamps/wordcamp-leipzig/)
 - [WordCamp Sydney, NSW, Australia](https://central.wordcamp.org/wordcamps/wordcamp-sydney-nsw-australia-2/)
+- [WordCamp Lira](https://central.wordcamp.org/wordcamps/wordcamplira/)
 - [WordCamp Griñón for E-Commerce](https://central.wordcamp.org/wordcamps/wordcamp-grinon-2/)
-- [WordCamp Canada 2024 &lpar;#WCEH&rpar;](https://central.wordcamp.org/wordcamps/wordcamp-wordcamp-canada-2024/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
