@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Disable Services…](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-disable-services/)
+- [PTE Request for random-quote-zitat-service](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-random-quote-zitat-service/)
+- [PTE Request for below plugin – Dutch](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-below-plugin-dutch/)
 - [Agenda: Weekly Polyglots Chat – April 10, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/10/agenda-weekly-polyglots-chat-april-10-2024-1300-utc/)
 - [PTE Request for below plugins – Hindi](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-below-plugins-hindi/)
 - [X-post: The Forums get a refresh](https://make.wordpress.org/polyglots/2024/04/10/xpost-the-forums-get-a-refresh/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Can someone please review and…](https://make.wordpress.org/polyglots/2024/04/09/can-someone-please-review-and/)
 - [GTE Request for the Gujarati Language](https://make.wordpress.org/polyglots/2024/04/09/gte-request-for-the-gujarati-language/)
 - [PTE Request for Cosmobit Theme](https://make.wordpress.org/polyglots/2024/04/09/pte-request-for-cosmobit-theme/)
-- [PTE Request for YASR Plugin](https://make.wordpress.org/polyglots/2024/04/09/pte-request-for-yasr-plugin-2/)
-- [PTE Request For WordPress 6.0.X, 6.1.X, 6.2.X, 6.3.X, and 6.4.X](https://make.wordpress.org/polyglots/2024/04/08/pte-request-for-wordpress-6-0-x-6-1-x-6-2-x-6-3-x-and-6-4-x/)
-- [Hello. everyone.](https://make.wordpress.org/polyglots/2024/04/07/hello-everyone-8/)
 <!-- POLYGLOTS:END -->
 
 ## Support
