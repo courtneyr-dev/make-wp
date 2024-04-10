@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Enable CORS for core translation downloads](https://make.wordpress.org/systems/2024/04/10/enable-cors-for-core-translation-downloads/)
 - [Enable DKIM for WordCamp GSuite?](https://make.wordpress.org/systems/2024/03/25/enable-dkim-for-wordcamp-gsuite/)
 - [Enable DKIM for 3rd-party WordCamp emails](https://make.wordpress.org/systems/2024/03/25/enable-dkim-for-3rd-party-wordcamp-emails/)
 - [Enable SSL for additional *.wp.org domains](https://make.wordpress.org/systems/2024/03/22/enable-ssl-for-additional-wp-org-domains/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Add WordCamp.org Sandbox and/or Super Admin](https://make.wordpress.org/systems/2024/03/07/add-wordcamp-org-sandbox-and-or-super-admin/)
 - [Delete 6.6 git branches](https://make.wordpress.org/systems/2024/03/06/delete-6-6-git-branches/)
 - [IPv6 Support](https://make.wordpress.org/systems/2024/03/04/ipv6-support/)
-- [Add redirect for Google Fonts JSON file](https://make.wordpress.org/systems/2024/02/27/add-redirect-for-google-fonts-json-file/)
 <!-- SYSTEMS:END -->
 
 ## News
