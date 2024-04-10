@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Starting a WordPress Meetup: The highs and lows](https://wordpress.tv/2024/04/10/starting-a-wordpress-meetup-the-highs-and-lows/)
+- [Translate Live: in-context translation using WordPress Playground](https://wordpress.tv/2024/04/10/translate-live-in-context-translation-using-wordpress-playground/)
+- [AI-Enhanced WooCommerce Store Management: From Present to Future](https://wordpress.tv/2024/04/10/ai-enhanced-woocommerce-store-management-from-present-to-future/)
+- [Journey of 5 Years with Headless WordPress: Evolution, Challenges, and Opportunities](https://wordpress.tv/2024/04/10/journey-of-5-years-with-headless-wordpress-evolution-challenges-and-opportunities/)
+- [Fighting the JavaScript Fatigue: Picking the right framework for Headless WordPress](https://wordpress.tv/2024/04/10/fighting-the-javascript-fatigue-picking-the-right-framework-for-headless-wordpress/)
+- [Beyond Keywords: User-Centric Approach to Product-Led SEO](https://wordpress.tv/2024/04/10/beyond-keywords-user-centric-approach-to-product-led-seo/)
 - [How to achieve an efficient workflow with the Site Editor](https://wordpress.tv/2024/04/10/how-to-achieve-an-efficient-workflow-with-the-site-editor/)
 - [Tales of Tables: Converting legacy CMS to WordPress](https://wordpress.tv/2024/04/10/tales-of-tables-converting-legacy-cms-to-wordpress/)
 - [INP – a new metric for interactivity](https://wordpress.tv/2024/04/10/inp-a-new-metric-for-interactivity/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bud Kraus: What’s New In WordPress 6.5?](https://wordpress.tv/2024/04/09/bud-kraus-whats-new-in-wordpress-6-5/)
 - [Website Accessibility – Why, When and How](https://wordpress.tv/2024/04/09/website-accessibility-why-when-and-how/)
 - [You’ll never be alone anymore. Building and maintaining WordPress sites with AI](https://wordpress.tv/2024/04/09/youll-never-be-alone-anymore-building-and-maintaining-wordpress-sites-with-ai/)
-- [How to counter arguments from developers, designers and managers against accessibility](https://wordpress.tv/2024/04/09/how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/)
-- [From FOMO to JOMO: Embrace the joy of missing out](https://wordpress.tv/2024/04/09/from-fomo-to-jomo-embrace-the-joy-of-missing-out/)
-- [Catching Big Fish: How to catch and retain a WordPress enterprise client](https://wordpress.tv/2024/04/09/catching-big-fish-how-to-catch-and-retain-a-wordpress-enterprise-client/)
-- [The Power of Personal Branding in the AI Era](https://wordpress.tv/2024/04/09/the-power-of-personal-branding-in-the-ai-era/)
-- [Building and Leveraging Your Reputation](https://wordpress.tv/2024/04/09/building-and-leveraging-your-reputation/)
-- [The Future of AI Chatbots in WordPress: Trends, Challenges, and Opportunities](https://wordpress.tv/2024/04/09/the-future-of-ai-chatbots-in-wordpress-trends-challenges-and-opportunities/)
 <!-- WPTV:END -->
 
 ## Marketing
