@@ -352,6 +352,18 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to achieve an efficient workflow with the Site Editor](https://wordpress.tv/2024/04/10/how-to-achieve-an-efficient-workflow-with-the-site-editor/)
+- [Tales of Tables: Converting legacy CMS to WordPress](https://wordpress.tv/2024/04/10/tales-of-tables-converting-legacy-cms-to-wordpress/)
+- [INP – a new metric for interactivity](https://wordpress.tv/2024/04/10/inp-a-new-metric-for-interactivity/)
+- [What Does Underrepresentation Mean? What Is Allyship? And Why Does it Matter?](https://wordpress.tv/2024/04/10/what-does-underrepresentation-mean-what-is-allyship-and-why-does-it-matter/)
+- [Outrank Your Competitors With Easy &amp; Quick On-Page Optimization Techniques](https://wordpress.tv/2024/04/10/outrank-your-competitors-with-easy-quick-on-page-optimization-techniques/)
+- [Multiply your income streams with WordPress development skills](https://wordpress.tv/2024/04/10/multiply-your-income-streams-with-wordpress-development-skills/)
+- [ChatWP. What would you ask your WordPress site?](https://wordpress.tv/2024/04/10/chatwp-what-would-you-ask-your-wordpress-site/)
+- [WP-CLI for PHP developers](https://wordpress.tv/2024/04/10/wp-cli-for-php-developers-3/)
+- [Intentional Designing: Crafting Purposeful Digital Experiences](https://wordpress.tv/2024/04/10/intentional-designing-crafting-purposeful-digital-experiences/)
+- [From Meh to Memorable: Your Public Speaking Masterclass](https://wordpress.tv/2024/04/10/from-meh-to-memorable-your-public-speaking-masterclass/)
+- [Learning Pathways on Learn.WordPress.org](https://wordpress.tv/2024/04/10/learning-pathways-on-learn-wordpress-org/)
+- [Legal implications on use of AI tools](https://wordpress.tv/2024/04/10/legal-implications-on-use-of-ai-tools/)
 - [Insights from WordPress Contribution: What Makes Us Impactful](https://wordpress.tv/2024/04/09/insights-from-wordpress-contribution-what-makes-us-impactful/)
 - [How WordPress can better serve the needs of Enterprise](https://wordpress.tv/2024/04/09/how-wordpress-can-better-serve-the-needs-of-enterprise/)
 - [Plugin Review – Top 10 mistakes plugin authors make!](https://wordpress.tv/2024/04/09/plugin-review-top-10-mistakes-plugin-authors-make/)
@@ -365,18 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Power of Personal Branding in the AI Era](https://wordpress.tv/2024/04/09/the-power-of-personal-branding-in-the-ai-era/)
 - [Building and Leveraging Your Reputation](https://wordpress.tv/2024/04/09/building-and-leveraging-your-reputation/)
 - [The Future of AI Chatbots in WordPress: Trends, Challenges, and Opportunities](https://wordpress.tv/2024/04/09/the-future-of-ai-chatbots-in-wordpress-trends-challenges-and-opportunities/)
-- [【Ctrl+Hack+Delete】 Uncover the dark side of WordPress from a hacker’s perspective](https://wordpress.tv/2024/04/09/%e3%80%90ctrlhackdelete%e3%80%91-uncover-the-dark-side-of-wordpress-from-a-hackers-perspective/)
-- [Make &lpar;All&rpar; WordPress &lpar;Events&rpar; Accessible](https://wordpress.tv/2024/04/09/make-all-wordpress-events-accessible/)
-- [Properly Recognizing Contributors in Large Open Source Projects](https://wordpress.tv/2024/04/09/properly-recognizing-contributors-in-large-open-source-projects/)
-- [Building a career in WordPress while raising seven kids](https://wordpress.tv/2024/04/09/building-a-career-in-wordpress-while-raising-seven-kids/)
-- [Developer Hours: Building custom blocks with the Interactivity API](https://wordpress.tv/2024/04/09/developer-hours-building-custom-blocks-with-the-interactivity-api/)
-- [Unlocking Universal Creativity: The Future of Inclusive WordPress Design](https://wordpress.tv/2024/04/09/unlocking-universal-creativity-the-future-of-inclusive-wordpress-design/)
-- [Getting Ready for the Deprecation of 3P Cookies](https://wordpress.tv/2024/04/09/getting-ready-for-the-deprecation-of-3p-cookies/)
-- [Democratizing Performance](https://wordpress.tv/2024/04/09/democratizing-performance/)
-- [Redefining Code Quality: A Journey Towards Bug-Free Development](https://wordpress.tv/2024/04/09/redefining-code-quality-a-journey-towards-bug-free-development/)
-- [Expanding WordPress’s capabilities to support personalized content creation at scale: the story of S](https://wordpress.tv/2024/04/09/expanding-wordpresss-capabilities-to-support-personalized-content-creation-at-scale-the-story-of-s/)
-- [Design is: An Expedition of the Multifaceted Nature of Design](https://wordpress.tv/2024/04/09/design-is-an-expedition-of-the-multifaceted-nature-of-design/)
-- [Interactivity API: Una nueva experiencia para hacer bloques](https://wordpress.tv/2024/04/09/interactivity-api-una-nueva-experiencia-para-hacer-bloques/)
 <!-- WPTV:END -->
 
 ## Marketing
