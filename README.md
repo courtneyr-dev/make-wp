@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [L’esperienza prima del primo lavoro grazie a WordPress: la via del contributore](https://wordpress.tv/2024/04/11/lesperienza-prima-del-primo-lavoro-grazie-a-wordpress-la-via-del-contributore/)
 - [Styling your site with global styles](https://wordpress.tv/2024/04/10/styling-your-site-with-global-styles-2/)
 - [Starting a WordPress Meetup: The highs and lows](https://wordpress.tv/2024/04/10/starting-a-wordpress-meetup-the-highs-and-lows/)
 - [Translate Live: in-context translation using WordPress Playground](https://wordpress.tv/2024/04/10/translate-live-in-context-translation-using-wordpress-playground/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Review – Top 10 mistakes plugin authors make!](https://wordpress.tv/2024/04/09/plugin-review-top-10-mistakes-plugin-authors-make/)
 - [The elements of WordPress](https://wordpress.tv/2024/04/09/the-elements-of-wordpress/)
 - [Bud Kraus: What’s New In WordPress 6.5?](https://wordpress.tv/2024/04/09/bud-kraus-whats-new-in-wordpress-6-5/)
-- [Website Accessibility – Why, When and How](https://wordpress.tv/2024/04/09/website-accessibility-why-when-and-how/)
 <!-- WPTV:END -->
 
 ## Marketing
