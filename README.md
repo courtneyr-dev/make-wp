@@ -376,7 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How WordPress can better serve the needs of Enterprise](https://wordpress.tv/2024/04/09/how-wordpress-can-better-serve-the-needs-of-enterprise/)
 - [Plugin Review – Top 10 mistakes plugin authors make!](https://wordpress.tv/2024/04/09/plugin-review-top-10-mistakes-plugin-authors-make/)
 - [The elements of WordPress](https://wordpress.tv/2024/04/09/the-elements-of-wordpress/)
-- [Bud Kraus: What’s New In WordPress 6.5?](https://wordpress.tv/2024/04/09/bud-kraus-whats-new-in-wordpress-6-5/)
+- [What’s New In WordPress 6.5?](https://wordpress.tv/2024/04/09/bud-kraus-whats-new-in-wordpress-6-5/)
 <!-- WPTV:END -->
 
 ## Marketing
