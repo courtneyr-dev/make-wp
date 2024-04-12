@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Bundled Theme Bug Scrubs](https://make.wordpress.org/core/2024/04/12/bundled-theme-bug-scrubs/)
+- [WordPress 6.5 Release Retrospective](https://make.wordpress.org/core/2024/04/12/wordpress-6-5-release-retrospective/)
 - [Summary, Dev Chat, April 10, 2024](https://make.wordpress.org/core/2024/04/12/summary-dev-chat-april-10-2024/)
 - [Agenda, Dev Chat, Wednesday April 10, 2024](https://make.wordpress.org/core/2024/04/10/agenda-dev-chat-wednesday-april-3-2024-2/)
 - [Performance Chat Summary: 9 April 2024](https://make.wordpress.org/core/2024/04/10/performance-chat-summary-09-april-2024/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 2 April 2024](https://make.wordpress.org/core/2024/04/02/performance-chat-agenda-02-april-2024/)
 - [WordPress 6.6 Planning Proposal &amp; Call for Volunteers](https://make.wordpress.org/core/2024/03/29/wordpress-6-6-planning-proposal-call-for-volunteers/)
 - [Recap Hallway Hangout: Using Site editor in production for client sites](https://make.wordpress.org/core/2024/03/29/recap-hallway-hangout-using-site-editor-in-production-for-client-sites/)
-- [Providing more clarity in the Gutenberg GitHub Repo](https://make.wordpress.org/core/2024/03/28/providing-more-clarity-in-the-gutenberg-github-repo/)
-- [Summary, Dev Chat, March 27, 2024](https://make.wordpress.org/core/2024/03/28/summary-dev-chat-march-27-2024/)
 <!-- CORE:END -->
 
 ## Design
