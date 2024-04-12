@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [UI/UX Designer – WordPress Plugins &lpar;Remote&rpar;](https://jobs.wordpress.net/job/ui-ux-designer-wordpress-plugins-remote/)
 - [Confirmed PHP developer with WordPress experience](https://jobs.wordpress.net/job/confirmed-php-developer-with-wordpress-experience/)
 - [Looking for a WordPress developer with experience doing PSD to WordPress / custom code and elementor](https://jobs.wordpress.net/job/looking-for-a-wordpress-developer-with-experience-doing-psd-to-wordpress-custom-code-and-elementor/)
 - [Senior Full Stack WordPress Developer – React &amp; Gutenberg Mastery &lpar;Europe, England, USA, South America, Canada, Bangladesh&rpar;](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-react-gutenberg-mastery-europe-england-usa-south-america-canada-bangladesh/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-13/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-6/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-25/)
-- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-8/)
 <!-- JOBS:END -->
 
 ## Central
