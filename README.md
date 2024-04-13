@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [GTE request for Drag and Drop Multiple File Upload – Contact Form 7](https://make.wordpress.org/polyglots/2024/04/13/gte-request-for-drag-and-drop-multiple-file-upload-contact-form-7/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2024/04/12/im-the-author-of-the-2/)
 - [PTE Request for Disable Services…](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-disable-services/)
 - [PTE Request for random-quote-zitat-service](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-random-quote-zitat-service/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Forums get a refresh](https://make.wordpress.org/polyglots/2024/04/10/xpost-the-forums-get-a-refresh/)
 - [Missing strings to translate: Opt-Out…](https://make.wordpress.org/polyglots/2024/04/09/missing-strings-to-translate-opt-out/)
 - [Can someone please review and…](https://make.wordpress.org/polyglots/2024/04/09/can-someone-please-review-and/)
-- [GTE Request for the Gujarati Language](https://make.wordpress.org/polyglots/2024/04/09/gte-request-for-the-gujarati-language/)
 <!-- POLYGLOTS:END -->
 
 ## Support
