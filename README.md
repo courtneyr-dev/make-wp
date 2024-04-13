@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’m the author of the…](https://make.wordpress.org/polyglots/2024/04/12/im-the-author-of-the-2/)
 - [PTE Request for Disable Services…](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-disable-services/)
 - [PTE Request for random-quote-zitat-service](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-random-quote-zitat-service/)
 - [PTE Request for below plugin – Dutch](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-below-plugin-dutch/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Missing strings to translate: Opt-Out…](https://make.wordpress.org/polyglots/2024/04/09/missing-strings-to-translate-opt-out/)
 - [Can someone please review and…](https://make.wordpress.org/polyglots/2024/04/09/can-someone-please-review-and/)
 - [GTE Request for the Gujarati Language](https://make.wordpress.org/polyglots/2024/04/09/gte-request-for-the-gujarati-language/)
-- [PTE Request for Cosmobit Theme](https://make.wordpress.org/polyglots/2024/04/09/pte-request-for-cosmobit-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
