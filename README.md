@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Exp Developer &lpar;frontend, backend&rpar; For Full Time](https://jobs.wordpress.net/job/wordpress-exp-developer-frontend-backend-for-full-time/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-7/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-14/)
 - [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-4/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Confirmed PHP developer with WordPress experience](https://jobs.wordpress.net/job/confirmed-php-developer-with-wordpress-experience/)
 - [Looking for a WordPress developer with experience doing PSD to WordPress / custom code and elementor](https://jobs.wordpress.net/job/looking-for-a-wordpress-developer-with-experience-doing-psd-to-wordpress-custom-code-and-elementor/)
 - [Senior Full Stack WordPress Developer – React &amp; Gutenberg Mastery &lpar;Europe, England, USA, South America, Canada, Bangladesh&rpar;](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-react-gutenberg-mastery-europe-england-usa-south-america-canada-bangladesh/)
-- [Chief React WordPress Developer &amp; Gutenberg Master – CTO Track &lpar;Europe, USA, South America, Canada, England&rpar;](https://jobs.wordpress.net/job/chief-react-wordpress-developer-gutenberg-master-cto-track-europe-usa-south-america-canada-england/)
 <!-- JOBS:END -->
 
 ## Central
