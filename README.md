@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.5.3: An upcoming maintenance release](https://make.wordpress.org/core/2024/04/15/wordpress-6-5-3-an-upcoming-maintenance-release/)
 - [Performance Chat Agenda: 16 April 2024](https://make.wordpress.org/core/2024/04/15/performance-chat-agenda-16-april-2024/)
 - [Bundled Theme Bug Scrubs](https://make.wordpress.org/core/2024/04/12/bundled-theme-bug-scrubs/)
 - [WordPress 6.5 Release Retrospective](https://make.wordpress.org/core/2024/04/12/wordpress-6-5-release-retrospective/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Initial Bug Scrub for 6.5.1](https://make.wordpress.org/core/2024/04/02/initial-bug-scrub-for-6-5-1/)
 - [Performance Chat Summary: 2 April 2024](https://make.wordpress.org/core/2024/04/02/performance-chat-summary-02-april-2024/)
 - [Performance Chat Agenda: 2 April 2024](https://make.wordpress.org/core/2024/04/02/performance-chat-agenda-02-april-2024/)
-- [WordPress 6.6 Planning Proposal &amp; Call for Volunteers](https://make.wordpress.org/core/2024/03/29/wordpress-6-6-planning-proposal-call-for-volunteers/)
 <!-- CORE:END -->
 
 ## Design
