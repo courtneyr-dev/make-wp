@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Test Team Update: 15 April 2024](https://make.wordpress.org/updates/2024/04/15/test-team-update-15-april-2024/)
 - [Core Team Update – April 8, 2024](https://make.wordpress.org/updates/2024/04/09/core-team-update-april-8-2024/)
 - [Themes team update April 09, 2024](https://make.wordpress.org/updates/2024/04/09/themes-team-update-april-09-2024/)
 - [X-post: WordPress Contributor Mentorship: 2024 Q1 Cohort Graduates](https://make.wordpress.org/updates/2024/04/08/xpost-wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mobile Team Update – April 4th](https://make.wordpress.org/updates/2024/04/04/mobile-team-update-april-4th/)
 - [Training Team Update – March 2024](https://make.wordpress.org/updates/2024/04/03/training-team-update-march-2024/)
 - [Core Performance Team Update: March 2024](https://make.wordpress.org/updates/2024/04/02/core-performance-team-update-march-2024/)
-- [Themes team update April 02, 2024](https://make.wordpress.org/updates/2024/04/02/themes-team-update-april-02-2024/)
 <!-- UPDATES:END -->
 
 ## Project
