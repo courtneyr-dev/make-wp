@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [How WordPress Is Creating a Faster Web](https://wordpress.org/news/2024/04/how-wordpress-is-creating-a-faster-web/)
 - [WP Briefing: Episode 77: Let’s Talk About Data Liberation](https://wordpress.org/news/2024/04/episode-77-lets-talk-about-data-liberation/)
 - [WordPress 6.5.2 Maintenance and Security Release](https://wordpress.org/news/2024/04/wordpress-6-5-2-maintenance-and-security-release/)
 - [WP Briefing: Episode 76: A WordPress 6.5 Sneak Peek](https://wordpress.org/news/2024/04/episode-76-a-wordpress-6-5-sneak-peek/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 75: WordCamp Asia 2024 Unwrapped](https://wordpress.org/news/2024/03/episode-75-wordcamp-asia-2024-unwrapped/)
 - [WordPress 6.5 Release Candidate 2](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-2/)
 - [Highlights from WordCamp Asia 2024](https://wordpress.org/news/2024/03/highlights-from-wordcamp-asia-2024/)
-- [The Month in WordPress – February 2024](https://wordpress.org/news/2024/03/the-month-in-wordpress-february-2024/)
 <!-- NEWS:END -->
 
 ## Jobs
