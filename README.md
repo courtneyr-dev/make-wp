@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Worldwide Level 1 WordPress Hosting Technical Support Agent](https://jobs.wordpress.net/job/worldwide-level-1-wordpress-hosting-technical-support-agent/)
+- [Full time Graphic Designer &lpar;Photoshop &amp; Adobe Expert&rpar;](https://jobs.wordpress.net/job/full-time-graphic-designer-photoshop-adobe-expert/)
 - [Web Developers and WordPress Wizards Wanted: Craft Digital Masterpieces at Nordkapp](https://jobs.wordpress.net/job/web-developers-and-wordpress-wizards-wanted-craft-digital-masterpieces-at-nordkapp/)
 - [WordPress Exp Developer &lpar;frontend, backend&rpar; For Full Time](https://jobs.wordpress.net/job/wordpress-exp-developer-frontend-backend-for-full-time/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-7/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-26/)
 - [WordPress Specialist – Remote](https://jobs.wordpress.net/job/wordpress-specialist-remote/)
 - [UI/UX Designer – WordPress Plugins &lpar;Remote&rpar;](https://jobs.wordpress.net/job/ui-ux-designer-wordpress-plugins-remote/)
-- [Confirmed PHP developer with WordPress experience](https://jobs.wordpress.net/job/confirmed-php-developer-with-wordpress-experience/)
-- [Looking for a WordPress developer with experience doing PSD to WordPress / custom code and elementor](https://jobs.wordpress.net/job/looking-for-a-wordpress-developer-with-experience-doing-psd-to-wordpress-custom-code-and-elementor/)
 <!-- JOBS:END -->
 
 ## Central
