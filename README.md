@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for FluentSMTP plugin](https://make.wordpress.org/polyglots/2024/04/16/pte-request-for-fluentsmtp-plugin/)
 - [Request to clear and update HelpHub support articles](https://make.wordpress.org/polyglots/2024/04/15/request-to-clear-and-update-helphub-support-articles/)
 - [GTE request for Drag and Drop Multiple File Upload – Contact Form 7](https://make.wordpress.org/polyglots/2024/04/13/gte-request-for-drag-and-drop-multiple-file-upload-contact-form-7/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2024/04/12/im-the-author-of-the-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – April 10, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/10/agenda-weekly-polyglots-chat-april-10-2024-1300-utc/)
 - [PTE Request for below plugins – Hindi](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-below-plugins-hindi/)
 - [X-post: The Forums get a refresh](https://make.wordpress.org/polyglots/2024/04/10/xpost-the-forums-get-a-refresh/)
-- [Missing strings to translate: Opt-Out…](https://make.wordpress.org/polyglots/2024/04/09/missing-strings-to-translate-opt-out/)
 <!-- POLYGLOTS:END -->
 
 ## Support
