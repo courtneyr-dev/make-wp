@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Create a Customer WYSIWYG Editor like TinyMCE](https://jobs.wordpress.net/job/create-a-customer-wysiwyg-editor-like-tinymce/)
 - [Worldwide Level 1 WordPress Hosting Technical Support Agent](https://jobs.wordpress.net/job/worldwide-level-1-wordpress-hosting-technical-support-agent/)
 - [Full time Graphic Designer &lpar;Photoshop &amp; Adobe Expert&rpar;](https://jobs.wordpress.net/job/full-time-graphic-designer-photoshop-adobe-expert/)
 - [Web Developers and WordPress Wizards Wanted: Craft Digital Masterpieces at Nordkapp](https://jobs.wordpress.net/job/web-developers-and-wordpress-wizards-wanted-craft-digital-masterpieces-at-nordkapp/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-4/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-26/)
 - [WordPress Specialist – Remote](https://jobs.wordpress.net/job/wordpress-specialist-remote/)
-- [UI/UX Designer – WordPress Plugins &lpar;Remote&rpar;](https://jobs.wordpress.net/job/ui-ux-designer-wordpress-plugins-remote/)
 <!-- JOBS:END -->
 
 ## Central
