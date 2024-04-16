@@ -437,6 +437,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Introducing Collection views for Tags, Creators, and Sources](https://make.wordpress.org/openverse/2024/04/16/introducing-collection-views-for-tags-creators-and-sources/)
 - [A week in Openverse: 2024-04-08 – 2024-04-15](https://make.wordpress.org/openverse/2024/04/15/last-week-openverse-2024-04-08-2024-04-15/)
 - [Community Meeting Recap &lpar;2024-04-08&rpar;](https://make.wordpress.org/openverse/2024/04/10/community-meeting-recap-2024-04-08/)
 - [A week in Openverse: 2024-04-01 – 2024-04-08](https://make.wordpress.org/openverse/2024/04/08/last-week-openverse-2024-04-01-2024-04-08/)
@@ -446,7 +447,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A week in Openverse: 2024-03-18 – 2024-03-25](https://make.wordpress.org/openverse/2024/03/25/last-week-openverse-2024-03-18-2024-03-25/)
 - [Community Meeting Recap &lpar;2024-03-18&rpar;](https://make.wordpress.org/openverse/2024/03/19/community-meeting-recap-2024-03-18/)
 - [A week in Openverse: 2024-03-11 – 2024-03-18](https://make.wordpress.org/openverse/2024/03/18/last-week-openverse-2024-03-11-2024-03-18/)
-- [Community Meeting Recap &lpar;2024-03-11&rpar;](https://make.wordpress.org/openverse/2024/03/12/community-meeting-recap-2024-03-11/)
 <!-- OPENVERSE:END -->
 
 ## Photos
