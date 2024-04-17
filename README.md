@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer with Specialism in Support](https://jobs.wordpress.net/job/wordpress-developer-with-specialism-in-support/)
+- [Full Stack Developer &lpar;E-commerce&rpar;](https://jobs.wordpress.net/job/full-stack-developer-e-commerce/)
+- [Growth Marketing Manager](https://jobs.wordpress.net/job/growth-marketing-manager/)
+- [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-7/)
+- [Plugin Developer](https://jobs.wordpress.net/job/plugin-developer-22/)
 - [Create a Customer WYSIWYG Editor like TinyMCE](https://jobs.wordpress.net/job/create-a-customer-wysiwyg-editor-like-tinymce/)
 - [Worldwide Level 1 WordPress Hosting Technical Support Agent](https://jobs.wordpress.net/job/worldwide-level-1-wordpress-hosting-technical-support-agent/)
 - [Full time Graphic Designer &lpar;Photoshop &amp; Adobe Expert&rpar;](https://jobs.wordpress.net/job/full-time-graphic-designer-photoshop-adobe-expert/)
 - [Web Developers and WordPress Wizards Wanted: Craft Digital Masterpieces at Nordkapp](https://jobs.wordpress.net/job/web-developers-and-wordpress-wizards-wanted-craft-digital-masterpieces-at-nordkapp/)
 - [WordPress Exp Developer &lpar;frontend, backend&rpar; For Full Time](https://jobs.wordpress.net/job/wordpress-exp-developer-frontend-backend-for-full-time/)
-- [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-7/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-14/)
-- [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-4/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-26/)
-- [WordPress Specialist – Remote](https://jobs.wordpress.net/job/wordpress-specialist-remote/)
 <!-- JOBS:END -->
 
 ## Central
