@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Cyke Logistics](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-cyke-logistics/)
+- [PTE Request for AI Bud Plugin](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-ai-bud-plugin/)
 - [PTE Request for fa.wordPress.org](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-fa-wordpress-org/)
 - [Agenda: Weekly Polyglots Chat – April 17, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/17/agenda-weekly-polyglots-chat-april-17-2024-0700-utc/)
 - [Persian plurals](https://make.wordpress.org/polyglots/2024/04/16/persian-plurals/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GTE request for Drag and Drop Multiple File Upload – Contact Form 7](https://make.wordpress.org/polyglots/2024/04/13/gte-request-for-drag-and-drop-multiple-file-upload-contact-form-7/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2024/04/12/im-the-author-of-the-2/)
 - [PTE Request for Disable Services…](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-disable-services/)
-- [PTE Request for random-quote-zitat-service](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-random-quote-zitat-service/)
-- [PTE Request for below plugin – Dutch](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-below-plugin-dutch/)
 <!-- POLYGLOTS:END -->
 
 ## Support
