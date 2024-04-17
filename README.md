@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for fa.wordPress.org](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-fa-wordpress-org/)
 - [Agenda: Weekly Polyglots Chat – April 17, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/17/agenda-weekly-polyglots-chat-april-17-2024-0700-utc/)
 - [Persian plurals](https://make.wordpress.org/polyglots/2024/04/16/persian-plurals/)
 - [PTE Request for FluentSMTP plugin](https://make.wordpress.org/polyglots/2024/04/16/pte-request-for-fluentsmtp-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Disable Services…](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-disable-services/)
 - [PTE Request for random-quote-zitat-service](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-random-quote-zitat-service/)
 - [PTE Request for below plugin – Dutch](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-below-plugin-dutch/)
-- [Agenda: Weekly Polyglots Chat – April 10, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/10/agenda-weekly-polyglots-chat-april-10-2024-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
