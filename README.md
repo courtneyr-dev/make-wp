@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: The Pattern Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/polyglots/2024/04/17/xpost-the-pattern-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [PTE Request for Cyke Logistics](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-cyke-logistics/)
 - [PTE Request for AI Bud Plugin](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-ai-bud-plugin/)
 - [PTE Request for fa.wordPress.org](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-fa-wordpress-org/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request to clear and update HelpHub support articles](https://make.wordpress.org/polyglots/2024/04/15/request-to-clear-and-update-helphub-support-articles/)
 - [GTE request for Drag and Drop Multiple File Upload – Contact Form 7](https://make.wordpress.org/polyglots/2024/04/13/gte-request-for-drag-and-drop-multiple-file-upload-contact-form-7/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2024/04/12/im-the-author-of-the-2/)
-- [PTE Request for Disable Services…](https://make.wordpress.org/polyglots/2024/04/10/pte-request-for-disable-services/)
 <!-- POLYGLOTS:END -->
 
 ## Support
