@@ -239,6 +239,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [Exploring WordPress 6.5](https://learn.wordpress.org/tutorial/exploring-wordpress-6-5/)
+- [কাস্টমাইজার ট্যাগলাইনস &lpar;ক্লাসিক ও হাইব্রীড থিম&rpar;](https://learn.wordpress.org/tutorial/bn-customizer-taglines/)
 - [ब्लॉक थीम के साथ श्रेणी टेम्पलेट्स की खोज](https://learn.wordpress.org/tutorial/gu-exploring-category-templates-with-block-themes/)
 - [वर्डप्रेस बीटा रिलीज़ का परीक्षण कैसे करें?](https://learn.wordpress.org/tutorial/hi-how-to-test-wordpress-beta-release/)
 - [Construire une page d’accueil avec un thème basé sur des blocs](https://learn.wordpress.org/tutorial/fr-building-a-home-page-with-a-block-theme/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ગુટેનબર્ગ માટે GitHub નો ઉપયોગ કેવી રીતે કરવો](https://learn.wordpress.org/tutorial/gu-how-to-use-github-for-gutenberg/)
 - [GitHub પર ટ્રાયજ કેવી રીતે કરવું](https://learn.wordpress.org/tutorial/gu-how-to-do-triage-on-github/)
 - [એડિટરમાં કસ્ટમ CSS](https://learn.wordpress.org/tutorial/gu-custom-css-in-the-editor/)
-- [થંબનેલ્સ ફરીથી બનાવો](https://learn.wordpress.org/tutorial/gu-regenerate-thumbnails/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
