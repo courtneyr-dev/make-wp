@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [היי!](https://make.wordpress.org/polyglots/2024/04/18/%d7%94%d7%99%d7%99-2/)
 - [I’ve suggested some translations for…](https://make.wordpress.org/polyglots/2024/04/18/ive-suggested-some-translations-for-2/)
 - [Hi how i possible to…](https://make.wordpress.org/polyglots/2024/04/18/hi-how-i-possible-to/)
 - [PTE Request for NewsMunch Theme](https://make.wordpress.org/polyglots/2024/04/18/pte-request-for-newsmunch-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for fa.wordPress.org](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-fa-wordpress-org/)
 - [Agenda: Weekly Polyglots Chat – April 17, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/17/agenda-weekly-polyglots-chat-april-17-2024-0700-utc/)
 - [Persian plurals](https://make.wordpress.org/polyglots/2024/04/16/persian-plurals/)
-- [PTE Request for FluentSMTP plugin](https://make.wordpress.org/polyglots/2024/04/16/pte-request-for-fluentsmtp-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
