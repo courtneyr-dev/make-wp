@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Custom Plug-in Developer](https://jobs.wordpress.net/job/custom-plug-in-developer/)
+- [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-2/)
 - [WordPress Developer with Specialism in Support](https://jobs.wordpress.net/job/wordpress-developer-with-specialism-in-support/)
 - [Full Stack Developer &lpar;E-commerce&rpar;](https://jobs.wordpress.net/job/full-stack-developer-e-commerce/)
 - [Growth Marketing Manager](https://jobs.wordpress.net/job/growth-marketing-manager/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Create a Customer WYSIWYG Editor like TinyMCE](https://jobs.wordpress.net/job/create-a-customer-wysiwyg-editor-like-tinymce/)
 - [Worldwide Level 1 WordPress Hosting Technical Support Agent](https://jobs.wordpress.net/job/worldwide-level-1-wordpress-hosting-technical-support-agent/)
 - [Full time Graphic Designer &lpar;Photoshop &amp; Adobe Expert&rpar;](https://jobs.wordpress.net/job/full-time-graphic-designer-photoshop-adobe-expert/)
-- [Web Developers and WordPress Wizards Wanted: Craft Digital Masterpieces at Nordkapp](https://jobs.wordpress.net/job/web-developers-and-wordpress-wizards-wanted-craft-digital-masterpieces-at-nordkapp/)
-- [WordPress Exp Developer &lpar;frontend, backend&rpar; For Full Time](https://jobs.wordpress.net/job/wordpress-exp-developer-frontend-backend-for-full-time/)
 <!-- JOBS:END -->
 
 ## Central
