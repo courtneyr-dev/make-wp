@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested some translations for…](https://make.wordpress.org/polyglots/2024/04/18/ive-suggested-some-translations-for-2/)
 - [Hi how i possible to…](https://make.wordpress.org/polyglots/2024/04/18/hi-how-i-possible-to/)
 - [PTE Request for NewsMunch Theme](https://make.wordpress.org/polyglots/2024/04/18/pte-request-for-newsmunch-theme/)
 - [X-post: The Pattern Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/polyglots/2024/04/17/xpost-the-pattern-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – April 17, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/17/agenda-weekly-polyglots-chat-april-17-2024-0700-utc/)
 - [Persian plurals](https://make.wordpress.org/polyglots/2024/04/16/persian-plurals/)
 - [PTE Request for FluentSMTP plugin](https://make.wordpress.org/polyglots/2024/04/16/pte-request-for-fluentsmtp-plugin/)
-- [Request to clear and update HelpHub support articles](https://make.wordpress.org/polyglots/2024/04/15/request-to-clear-and-update-helphub-support-articles/)
 <!-- POLYGLOTS:END -->
 
 ## Support
