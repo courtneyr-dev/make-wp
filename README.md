@@ -556,8 +556,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordCamp US](https://central.wordcamp.org/wordcamps/wordcamp-wordcamp-us-portland-oregon/)
 - [Somos: Encuentro WordPress LGTB+](https://central.wordcamp.org/wordcamps/barcelona-spain/)
+- [WordCamp Whitley Bay, UK](https://central.wordcamp.org/wordcamps/wordcamp-whitley-bay-uk/)
 - [WordCamp Sylhet, Bangladesh](https://central.wordcamp.org/wordcamps/wordcamp-sylhet-bangladesh-2/)
-- [Women WordPress Day](https://central.wordcamp.org/wordcamps/women-wordpress-day/)
 - [WordCamp Cartagena](https://central.wordcamp.org/wordcamps/wordcamp-cartagena-2/)
 - [WordCamp Vigo, Galicia, Spain](https://central.wordcamp.org/wordcamps/wordcamp-vigo-galicia-spain/)
 - [WordCamp Buffalo, NY USA](https://central.wordcamp.org/wordcamps/wordcamp-buffalo-ny-usa-2/)
