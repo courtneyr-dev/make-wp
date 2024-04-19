@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [SEO for Woocommerce](https://jobs.wordpress.net/job/seo-for-woocommerce/)
+- [WooCommerce Developer](https://jobs.wordpress.net/job/woocommerce-developer-9/)
+- [Senior Full-Stack WordPress Developer with Expertise in React and Gutenberg](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-with-expertise-in-react-and-gutenberg/)
 - [Custom Plug-in Developer](https://jobs.wordpress.net/job/custom-plug-in-developer/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-2/)
 - [WordPress Developer with Specialism in Support](https://jobs.wordpress.net/job/wordpress-developer-with-specialism-in-support/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Growth Marketing Manager](https://jobs.wordpress.net/job/growth-marketing-manager/)
 - [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-7/)
 - [Plugin Developer](https://jobs.wordpress.net/job/plugin-developer-22/)
-- [Create a Customer WYSIWYG Editor like TinyMCE](https://jobs.wordpress.net/job/create-a-customer-wysiwyg-editor-like-tinymce/)
-- [Worldwide Level 1 WordPress Hosting Technical Support Agent](https://jobs.wordpress.net/job/worldwide-level-1-wordpress-hosting-technical-support-agent/)
-- [Full time Graphic Designer &lpar;Photoshop &amp; Adobe Expert&rpar;](https://jobs.wordpress.net/job/full-time-graphic-designer-photoshop-adobe-expert/)
 <!-- JOBS:END -->
 
 ## Central
