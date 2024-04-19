@@ -573,6 +573,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## WordPress Foundation
 <!-- WPFoundation:START -->
+- [Apply for the Kim Parsell Memorial Scholarship for WordCamp US 2024](https://wordpressfoundation.org/news/2024/kim-parsell-2024/)
 - [The WordPress Foundation 2023 Annual Report is Now Available](https://wordpressfoundation.org/news/2024/the-wordpress-foundation-2023-annual-report-is-now-available/)
 - [2023 Kim Parsell Memorial Scholarship Recipient: Yumi Nishioka &lpar;mimi&rpar;](https://wordpressfoundation.org/news/2023/2023-kim-parsell-memorial-scholarship-recipient-mimi/)
 - [Kim Parsell Memorial Scholarship for WordCamp US 2023](https://wordpressfoundation.org/news/2023/kim-parsell-memorial-scholarship-for-wordcamp-us-2023/)
@@ -582,5 +583,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is the WordPress Foundation and Why Does it Exist?](https://wordpressfoundation.org/news/2022/what-is-the-wordpress-foundation-and-why-does-it-exist/)
 - [Looking back at 2021](https://wordpressfoundation.org/news/2021/looking-back-at-2021/)
 - [Give Back to Open Source this Giving Tuesday](https://wordpressfoundation.org/news/2021/give-back-to-open-source-this-giving-tuesday/)
-- [The WordPress Foundation publishes its 2020 financials](https://wordpressfoundation.org/news/2021/the-wordpress-foundation-publishes-its-2020-financials/)
 <!-- WPFoundation:END -->
