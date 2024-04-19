@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [CRM WordPress Plugin – RepairBuddy]](https://make.wordpress.org/polyglots/2024/04/19/i-am-the-plugin-author-41/)
 - [PTE Request for [NHR Hide Admin Notice | WP Dashboard Notice Cleaner]](https://make.wordpress.org/polyglots/2024/04/18/pte-request-for-nhr-hide-admin-notice-wp-dashboard-notice-cleaner/)
 - [היי!](https://make.wordpress.org/polyglots/2024/04/18/%d7%94%d7%99%d7%99-2/)
 - [I’ve suggested some translations for…](https://make.wordpress.org/polyglots/2024/04/18/ive-suggested-some-translations-for-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Cyke Logistics](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-cyke-logistics/)
 - [PTE Request for AI Bud Plugin](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-ai-bud-plugin/)
 - [PTE Request for fa.wordPress.org](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-fa-wordpress-org/)
-- [Agenda: Weekly Polyglots Chat – April 17, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/17/agenda-weekly-polyglots-chat-april-17-2024-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
