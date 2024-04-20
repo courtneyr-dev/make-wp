@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Disable XML-RPC-API Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-disable-xml-rpc-api-plugin/)
+- [PTE Request for Dynamic CTR WordPress Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-dynamic-cpr-wordpress-plugin/)
 - [PTE Request for MoreConvert WooCommerce Wishlist Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-moreconvert-woocommerce-wishlist-plugin/)
 - [PTE Request for [CRM WordPress Plugin – RepairBuddy]](https://make.wordpress.org/polyglots/2024/04/19/i-am-the-plugin-author-41/)
 - [PTE Request for [NHR Hide Admin Notice | WP Dashboard Notice Cleaner]](https://make.wordpress.org/polyglots/2024/04/18/pte-request-for-nhr-hide-admin-notice-wp-dashboard-notice-cleaner/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi how i possible to…](https://make.wordpress.org/polyglots/2024/04/18/hi-how-i-possible-to/)
 - [PTE Request for NewsMunch Theme](https://make.wordpress.org/polyglots/2024/04/18/pte-request-for-newsmunch-theme/)
 - [X-post: The Pattern Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/polyglots/2024/04/17/xpost-the-pattern-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
-- [PTE Request for Cyke Logistics](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-cyke-logistics/)
-- [PTE Request for AI Bud Plugin](https://make.wordpress.org/polyglots/2024/04/17/pte-request-for-ai-bud-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
