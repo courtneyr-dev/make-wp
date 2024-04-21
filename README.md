@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Layouts mit dem Block-Editor / GenerateBlocks](https://wordpress.tv/2024/04/21/layouts-mit-dem-block-editor-generateblocks/)
+- [Greener, Better, Faster, Stronger – Wie Websites umweltfreundlicher und zuverlässiger werden](https://wordpress.tv/2024/04/21/greener-better-faster-stronger-wie-websites-umweltfreundlicher-und-zuverlaessiger-werden/)
+- [WordPress-Events der nächsten Generation](https://wordpress.tv/2024/04/21/wordpress-events-der-naechsten-generation/)
 - [Mejora el rendimiento de tu página web con las Core Web Vitals](https://wordpress.tv/2024/04/20/mejora-el-rendimiento-de-tu-pagina-web-con-las-core-web-vitals/)
 - [Cómo aprovechar los sesgos cognitivos para mejorar la conversión](https://wordpress.tv/2024/04/12/como-aprovechar-los-sesgos-cognitivos-para-mejorar-la-conversion/)
 - [L’esperienza prima del primo lavoro grazie a WordPress: la via del contributore](https://wordpress.tv/2024/04/11/lesperienza-prima-del-primo-lavoro-grazie-a-wordpress-la-via-del-contributore/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Meh to Memorable: Your Public Speaking Masterclass](https://wordpress.tv/2024/04/10/from-meh-to-memorable-your-public-speaking-masterclass/)
 - [Learning Pathways on Learn.WordPress.org](https://wordpress.tv/2024/04/10/learning-pathways-on-learn-wordpress-org/)
 - [Legal implications on use of AI tools](https://wordpress.tv/2024/04/10/legal-implications-on-use-of-ai-tools/)
-- [Insights from WordPress Contribution: What Makes Us Impactful](https://wordpress.tv/2024/04/09/insights-from-wordpress-contribution-what-makes-us-impactful/)
-- [How WordPress can better serve the needs of Enterprise](https://wordpress.tv/2024/04/09/how-wordpress-can-better-serve-the-needs-of-enterprise/)
-- [Plugin Review – Top 10 mistakes plugin authors make!](https://wordpress.tv/2024/04/09/plugin-review-top-10-mistakes-plugin-authors-make/)
 <!-- WPTV:END -->
 
 ## Marketing
