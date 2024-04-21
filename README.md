@@ -530,7 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Custom Plug-in Developer](https://jobs.wordpress.net/job/custom-plug-in-developer/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-2/)
 - [WordPress Developer with Specialism in Support](https://jobs.wordpress.net/job/wordpress-developer-with-specialism-in-support/)
-- [Full Stack Developer &lpar;E-commerce&rpar;](https://jobs.wordpress.net/job/full-stack-developer-e-commerce/)
+- [Growth Marketing Manager](https://jobs.wordpress.net/job/growth-marketing-manager/)
 <!-- JOBS:END -->
 
 ## Central
