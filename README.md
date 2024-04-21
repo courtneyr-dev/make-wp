@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mejora el rendimiento de tu página web con las Core Web Vitals](https://wordpress.tv/2024/04/20/mejora-el-rendimiento-de-tu-pagina-web-con-las-core-web-vitals/)
 - [Cómo aprovechar los sesgos cognitivos para mejorar la conversión](https://wordpress.tv/2024/04/12/como-aprovechar-los-sesgos-cognitivos-para-mejorar-la-conversion/)
 - [L’esperienza prima del primo lavoro grazie a WordPress: la via del contributore](https://wordpress.tv/2024/04/11/lesperienza-prima-del-primo-lavoro-grazie-a-wordpress-la-via-del-contributore/)
 - [Styling your site with global styles](https://wordpress.tv/2024/04/10/styling-your-site-with-global-styles-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Insights from WordPress Contribution: What Makes Us Impactful](https://wordpress.tv/2024/04/09/insights-from-wordpress-contribution-what-makes-us-impactful/)
 - [How WordPress can better serve the needs of Enterprise](https://wordpress.tv/2024/04/09/how-wordpress-can-better-serve-the-needs-of-enterprise/)
 - [Plugin Review – Top 10 mistakes plugin authors make!](https://wordpress.tv/2024/04/09/plugin-review-top-10-mistakes-plugin-authors-make/)
-- [The elements of WordPress](https://wordpress.tv/2024/04/09/the-elements-of-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
