@@ -352,9 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mit Transparenz und Vertrauen zum Experten](https://wordpress.tv/2024/04/21/mit-transparenz-und-vertrauen-zum-experten/)
+- [Nutze das Create Block Theme Plugin, um Themes zusammenzustellen](https://wordpress.tv/2024/04/21/nutze-das-create-block-theme-plugin-um-themes-zusammenzustellen/)
+- [Raus aus der Filterblase – digitale Barrierefreiheit für alle](https://wordpress.tv/2024/04/21/raus-aus-der-filterblase-digitale-barrierefreiheit-fuer-alle/)
 - [Layouts mit dem Block-Editor / GenerateBlocks](https://wordpress.tv/2024/04/21/layouts-mit-dem-block-editor-generateblocks/)
 - [Greener, Better, Faster, Stronger – Wie Websites umweltfreundlicher und zuverlässiger werden](https://wordpress.tv/2024/04/21/greener-better-faster-stronger-wie-websites-umweltfreundlicher-und-zuverlaessiger-werden/)
-- [WordPress-Events der nächsten Generation](https://wordpress.tv/2024/04/21/wordpress-events-der-naechsten-generation/)
+- [WordPress-Events der nächsten Generation](https://wordpress.tv/2024/04/21/wordpress-events-der-naechsten-generation-2/)
 - [Mejora el rendimiento de tu página web con las Core Web Vitals](https://wordpress.tv/2024/04/20/mejora-el-rendimiento-de-tu-pagina-web-con-las-core-web-vitals/)
 - [Cómo aprovechar los sesgos cognitivos para mejorar la conversión](https://wordpress.tv/2024/04/12/como-aprovechar-los-sesgos-cognitivos-para-mejorar-la-conversion/)
 - [L’esperienza prima del primo lavoro grazie a WordPress: la via del contributore](https://wordpress.tv/2024/04/11/lesperienza-prima-del-primo-lavoro-grazie-a-wordpress-la-via-del-contributore/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ChatWP. What would you ask your WordPress site?](https://wordpress.tv/2024/04/10/chatwp-what-would-you-ask-your-wordpress-site/)
 - [WP-CLI for PHP developers](https://wordpress.tv/2024/04/10/wp-cli-for-php-developers-3/)
 - [Intentional Designing: Crafting Purposeful Digital Experiences](https://wordpress.tv/2024/04/10/intentional-designing-crafting-purposeful-digital-experiences/)
-- [From Meh to Memorable: Your Public Speaking Masterclass](https://wordpress.tv/2024/04/10/from-meh-to-memorable-your-public-speaking-masterclass/)
-- [Learning Pathways on Learn.WordPress.org](https://wordpress.tv/2024/04/10/learning-pathways-on-learn-wordpress-org/)
-- [Legal implications on use of AI tools](https://wordpress.tv/2024/04/10/legal-implications-on-use-of-ai-tools/)
 <!-- WPTV:END -->
 
 ## Marketing
