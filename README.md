@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary for Docs Team Meeting &lpar;16-April-2024&rpar;](https://make.wordpress.org/docs/2024/04/22/summary-for-docs-team-meeting-16-april-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;16-April-2024&rpar;](https://make.wordpress.org/docs/2024/04/16/agenda-for-docs-team-biweekly-meeting-16-april-2024/)
 - [Summary for Docs Team Meeting, 2 April 2024](https://make.wordpress.org/docs/2024/04/11/summary-for-docs-team-meeting-2-april-2024/)
 - [Translation of End-user documentation project started at WordCamp Torrelodones &lpar;Spain&rpar;](https://make.wordpress.org/docs/2024/04/04/translation-of-end-user-documentation-project-started-at-wordcamp-torrelodones-spain/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – February 2024](https://make.wordpress.org/docs/2024/03/05/xpost-training-team-update-february-2024/)
 - [Update for #docs team discussion items March 5, 2024](https://make.wordpress.org/docs/2024/02/29/update-for-docs-team-discussion-items-march-5-2024/)
 - [Online monthly Docs Team Contributor Day March 26, 2024](https://make.wordpress.org/docs/2024/02/27/online-monthly-docs-team-contributor-day-march-26-2024/)
-- [Summary for Docs Team Meeting &lpar;20-Feb-2024&rpar;](https://make.wordpress.org/docs/2024/02/27/summary-for-docs-team-meeting-20-feb-2024/)
 <!-- DOCS:END -->
 
 ### Support Articles
