@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi, I am the plugin…](https://make.wordpress.org/polyglots/2024/04/22/hi-i-am-the-plugin-8/)
 - [PTE Request for seQura Plugin](https://make.wordpress.org/polyglots/2024/04/22/pte-request-for-sequra-plugin/)
 - [CLPTE role request in RafflePress project](https://make.wordpress.org/polyglots/2024/04/22/clpte-role-request-in-rafflepress-project/)
 - [PTE Request for Disable XML-RPC-API Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-disable-xml-rpc-api-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [NHR Hide Admin Notice | WP Dashboard Notice Cleaner]](https://make.wordpress.org/polyglots/2024/04/18/pte-request-for-nhr-hide-admin-notice-wp-dashboard-notice-cleaner/)
 - [היי!](https://make.wordpress.org/polyglots/2024/04/18/%d7%94%d7%99%d7%99-2/)
 - [I’ve suggested some translations for…](https://make.wordpress.org/polyglots/2024/04/18/ive-suggested-some-translations-for-2/)
-- [Hi how i possible to…](https://make.wordpress.org/polyglots/2024/04/18/hi-how-i-possible-to/)
 <!-- POLYGLOTS:END -->
 
 ## Support
