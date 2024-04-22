@@ -529,8 +529,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Full-Stack WordPress Developer with Expertise in React and Gutenberg](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-with-expertise-in-react-and-gutenberg/)
 - [Custom Plug-in Developer](https://jobs.wordpress.net/job/custom-plug-in-developer/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-2/)
-- [WordPress Developer with Specialism in Support](https://jobs.wordpress.net/job/wordpress-developer-with-specialism-in-support/)
 - [Growth Marketing Manager](https://jobs.wordpress.net/job/growth-marketing-manager/)
+- [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-7/)
 <!-- JOBS:END -->
 
 ## Central
