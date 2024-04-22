@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for seQura Plugin](https://make.wordpress.org/polyglots/2024/04/22/pte-request-for-sequra-plugin/)
+- [CLPTE role request in RafflePress project](https://make.wordpress.org/polyglots/2024/04/22/clpte-role-request-in-rafflepress-project/)
 - [PTE Request for Disable XML-RPC-API Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-disable-xml-rpc-api-plugin/)
 - [PTE Request for Dynamic CTR WordPress Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-dynamic-cpr-wordpress-plugin/)
 - [PTE Request for MoreConvert WooCommerce Wishlist Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-moreconvert-woocommerce-wishlist-plugin/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [היי!](https://make.wordpress.org/polyglots/2024/04/18/%d7%94%d7%99%d7%99-2/)
 - [I’ve suggested some translations for…](https://make.wordpress.org/polyglots/2024/04/18/ive-suggested-some-translations-for-2/)
 - [Hi how i possible to…](https://make.wordpress.org/polyglots/2024/04/18/hi-how-i-possible-to/)
-- [PTE Request for NewsMunch Theme](https://make.wordpress.org/polyglots/2024/04/18/pte-request-for-newsmunch-theme/)
-- [X-post: The Pattern Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/polyglots/2024/04/17/xpost-the-pattern-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 <!-- POLYGLOTS:END -->
 
 ## Support
