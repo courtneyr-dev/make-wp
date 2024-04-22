@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [クラシックとブロック。いまこそ知りたい、2つの違い](https://learn.wordpress.org/?meeting=%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%81%a8%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%82%e3%81%84%e3%81%be%e3%81%93%e3%81%9d%e7%9f%a5%e3%82%8a%e3%81%9f%e3%81%84%e3%80%812%e3%81%a4%e3%81%ae)
 - [WordPress developer live stream: Testing WP Playground](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-testing-wp-playground-2)
 - [Developer Hours: Creating dynamic content with Block Bindings and Custom Fields](https://learn.wordpress.org/?meeting=developer-hours-creating-dynamic-content-with-block-bindings-and-custom-fields)
 - [Homepage displays: Latest posts vs static](https://learn.wordpress.org/?meeting=homepage-displays-latest-posts-vs-static)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dashboard &amp; Documentation – Where to find the answers](https://learn.wordpress.org/?meeting=dashboard-documentation-where-to-find-the-answers)
 - [WordPress developer live stream: contributing to WordPress](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-contributing-to-wordpress-2)
 - [Developer Hours: How to build modern web layouts with WordPress blocks](https://learn.wordpress.org/?meeting=developer-hours-how-to-build-modern-web-layouts-with-wordpress-blocks)
-- [Fighting Your Own Demons: How to Deal With All Your WordPress Problems At Once](https://learn.wordpress.org/?meeting=fighting-your-own-demons-how-to-deal-with-all-your-wordpress-problems-at-once)
 <!-- SLS:END -->
 
 ## Test
