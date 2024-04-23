@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Must-Have WordPress Plugins for Every Website](https://wordpress.tv/2024/04/23/must-have-wordpress-plugins-for-every-website/)
 - [Eine Webseite mit WordPress in 5 Minuten. Stimmt das?](https://wordpress.tv/2024/04/23/eine-webseite-mit-wordpress-in-5-minuten-stimmt-das/)
 - [Mit Transparenz und Vertrauen zum Experten](https://wordpress.tv/2024/04/21/mit-transparenz-und-vertrauen-zum-experten/)
 - [Nutze das Create Block Theme Plugin, um Themes zusammenzustellen](https://wordpress.tv/2024/04/21/nutze-das-create-block-theme-plugin-um-themes-zusammenzustellen/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Outrank Your Competitors With Easy &amp; Quick On-Page Optimization Techniques](https://wordpress.tv/2024/04/10/outrank-your-competitors-with-easy-quick-on-page-optimization-techniques/)
 - [Multiply your income streams with WordPress development skills](https://wordpress.tv/2024/04/10/multiply-your-income-streams-with-wordpress-development-skills/)
 - [ChatWP. What would you ask your WordPress site?](https://wordpress.tv/2024/04/10/chatwp-what-would-you-ask-your-wordpress-site/)
-- [WP-CLI for PHP developers](https://wordpress.tv/2024/04/10/wp-cli-for-php-developers-3/)
 <!-- WPTV:END -->
 
 ## Marketing
