@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Eine Webseite mit WordPress in 5 Minuten. Stimmt das?](https://wordpress.tv/2024/04/23/eine-webseite-mit-wordpress-in-5-minuten-stimmt-das/)
 - [Mit Transparenz und Vertrauen zum Experten](https://wordpress.tv/2024/04/21/mit-transparenz-und-vertrauen-zum-experten/)
 - [Nutze das Create Block Theme Plugin, um Themes zusammenzustellen](https://wordpress.tv/2024/04/21/nutze-das-create-block-theme-plugin-um-themes-zusammenzustellen/)
 - [Raus aus der Filterblase – digitale Barrierefreiheit für alle](https://wordpress.tv/2024/04/21/raus-aus-der-filterblase-digitale-barrierefreiheit-fuer-alle/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Multiply your income streams with WordPress development skills](https://wordpress.tv/2024/04/10/multiply-your-income-streams-with-wordpress-development-skills/)
 - [ChatWP. What would you ask your WordPress site?](https://wordpress.tv/2024/04/10/chatwp-what-would-you-ask-your-wordpress-site/)
 - [WP-CLI for PHP developers](https://wordpress.tv/2024/04/10/wp-cli-for-php-developers-3/)
-- [Intentional Designing: Crafting Purposeful Digital Experiences](https://wordpress.tv/2024/04/10/intentional-designing-crafting-purposeful-digital-experiences/)
 <!-- WPTV:END -->
 
 ## Marketing
