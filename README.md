@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Taking advantage of query loops](https://wordpress.tv/2024/04/23/taking-advantage-of-query-loops/)
 - [Tipps &amp; Tricks zur WordPress Mediathek](https://wordpress.tv/2024/04/23/tipps-tricks-zur-wordpress-mediathek/)
 - [Web Design](https://wordpress.tv/2024/04/23/web-design/)
 - [Must-Have WordPress Plugins for Every Website](https://wordpress.tv/2024/04/23/must-have-wordpress-plugins-for-every-website/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tales of Tables: Converting legacy CMS to WordPress](https://wordpress.tv/2024/04/10/tales-of-tables-converting-legacy-cms-to-wordpress/)
 - [INP – a new metric for interactivity](https://wordpress.tv/2024/04/10/inp-a-new-metric-for-interactivity/)
 - [What Does Underrepresentation Mean? What Is Allyship? And Why Does it Matter?](https://wordpress.tv/2024/04/10/what-does-underrepresentation-mean-what-is-allyship-and-why-does-it-matter/)
-- [Outrank Your Competitors With Easy &amp; Quick On-Page Optimization Techniques](https://wordpress.tv/2024/04/10/outrank-your-competitors-with-easy-quick-on-page-optimization-techniques/)
 <!-- WPTV:END -->
 
 ## Marketing
