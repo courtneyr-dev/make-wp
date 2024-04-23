@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Theme Developer](https://jobs.wordpress.net/job/theme-developer-11/)
+- [Junior/Intermedia WordPress Developer](https://jobs.wordpress.net/job/junior-intermedia-wordpress-developer/)
 - [live streaming in WordPress site](https://jobs.wordpress.net/job/live-streaming-in-wordpress-site/)
 - [Remote Web Developer &lpar;Shopify&rpar;](https://jobs.wordpress.net/job/remote-web-developer-shopify/)
 - [Create a Custom WYSIWYG Editor Lib &lpar;TinyMCE Clone&rpar;](https://jobs.wordpress.net/job/create-a-custom-wysiwyg-editor-lib-tinymce-clone/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO for Woocommerce](https://jobs.wordpress.net/job/seo-for-woocommerce/)
 - [WooCommerce Developer](https://jobs.wordpress.net/job/woocommerce-developer-9/)
 - [Senior Full-Stack WordPress Developer with Expertise in React and Gutenberg](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-with-expertise-in-react-and-gutenberg/)
-- [Custom Plug-in Developer](https://jobs.wordpress.net/job/custom-plug-in-developer/)
-- [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-2/)
 <!-- JOBS:END -->
 
 ## Central
