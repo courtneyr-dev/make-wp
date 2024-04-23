@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tipps &amp; Tricks zur WordPress Mediathek](https://wordpress.tv/2024/04/23/tipps-tricks-zur-wordpress-mediathek/)
+- [Web Design](https://wordpress.tv/2024/04/23/web-design/)
 - [Must-Have WordPress Plugins for Every Website](https://wordpress.tv/2024/04/23/must-have-wordpress-plugins-for-every-website/)
 - [Eine Webseite mit WordPress in 5 Minuten. Stimmt das?](https://wordpress.tv/2024/04/23/eine-webseite-mit-wordpress-in-5-minuten-stimmt-das/)
 - [Mit Transparenz und Vertrauen zum Experten](https://wordpress.tv/2024/04/21/mit-transparenz-und-vertrauen-zum-experten/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [INP – a new metric for interactivity](https://wordpress.tv/2024/04/10/inp-a-new-metric-for-interactivity/)
 - [What Does Underrepresentation Mean? What Is Allyship? And Why Does it Matter?](https://wordpress.tv/2024/04/10/what-does-underrepresentation-mean-what-is-allyship-and-why-does-it-matter/)
 - [Outrank Your Competitors With Easy &amp; Quick On-Page Optimization Techniques](https://wordpress.tv/2024/04/10/outrank-your-competitors-with-easy-quick-on-page-optimization-techniques/)
-- [Multiply your income streams with WordPress development skills](https://wordpress.tv/2024/04/10/multiply-your-income-streams-with-wordpress-development-skills/)
-- [ChatWP. What would you ask your WordPress site?](https://wordpress.tv/2024/04/10/chatwp-what-would-you-ask-your-wordpress-site/)
 <!-- WPTV:END -->
 
 ## Marketing
