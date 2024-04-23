@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [There is no active editor…](https://make.wordpress.org/polyglots/2024/04/23/there-is-no-active-editor/)
+- [PTE Anfrage für WP Desk Plugins](https://make.wordpress.org/polyglots/2024/04/23/pte-anfrage-fur-wp-desk-plugins/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/04/22/hi-113/)
 - [Hi, I am the plugin…](https://make.wordpress.org/polyglots/2024/04/22/hi-i-am-the-plugin-8/)
 - [PTE Request for seQura Plugin](https://make.wordpress.org/polyglots/2024/04/22/pte-request-for-sequra-plugin/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Dynamic CTR WordPress Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-dynamic-cpr-wordpress-plugin/)
 - [PTE Request for MoreConvert WooCommerce Wishlist Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-moreconvert-woocommerce-wishlist-plugin/)
 - [PTE Request for [CRM WordPress Plugin – RepairBuddy]](https://make.wordpress.org/polyglots/2024/04/19/i-am-the-plugin-author-41/)
-- [PTE Request for [NHR Hide Admin Notice | WP Dashboard Notice Cleaner]](https://make.wordpress.org/polyglots/2024/04/18/pte-request-for-nhr-hide-admin-notice-wp-dashboard-notice-cleaner/)
-- [היי!](https://make.wordpress.org/polyglots/2024/04/18/%d7%94%d7%99%d7%99-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
