@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Release Process](https://wordpress.tv/2024/04/24/wordpress-release-process/)
+- [Support onboarding](https://wordpress.tv/2024/04/24/support-onboarding/)
+- [Polyglots onboarding](https://wordpress.tv/2024/04/24/polyglots-onboarding/)
+- [GitHub Onboarding for Mentees](https://wordpress.tv/2024/04/24/github-onboarding-for-mentees/)
+- [Community themes onboarding](https://wordpress.tv/2024/04/24/community-themes-onboarding/)
 - [Contribute to BuddyPress](https://wordpress.tv/2024/04/24/contribute-to-buddypress/)
 - [Taking advantage of query loops](https://wordpress.tv/2024/04/23/taking-advantage-of-query-loops/)
 - [Tipps &amp; Tricks zur WordPress Mediathek](https://wordpress.tv/2024/04/23/tipps-tricks-zur-wordpress-mediathek/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Translate Live: in-context translation using WordPress Playground](https://wordpress.tv/2024/04/10/translate-live-in-context-translation-using-wordpress-playground/)
 - [AI-Enhanced WooCommerce Store Management: From Present to Future](https://wordpress.tv/2024/04/10/ai-enhanced-woocommerce-store-management-from-present-to-future/)
 - [Journey of 5 Years with Headless WordPress: Evolution, Challenges, and Opportunities](https://wordpress.tv/2024/04/10/journey-of-5-years-with-headless-wordpress-evolution-challenges-and-opportunities/)
-- [Fighting the JavaScript Fatigue: Picking the right framework for Headless WordPress](https://wordpress.tv/2024/04/10/fighting-the-javascript-fatigue-picking-the-right-framework-for-headless-wordpress/)
-- [Beyond Keywords: User-Centric Approach to Product-Led SEO](https://wordpress.tv/2024/04/10/beyond-keywords-user-centric-approach-to-product-led-seo/)
-- [How to achieve an efficient workflow with the Site Editor](https://wordpress.tv/2024/04/10/how-to-achieve-an-efficient-workflow-with-the-site-editor/)
-- [Tales of Tables: Converting legacy CMS to WordPress](https://wordpress.tv/2024/04/10/tales-of-tables-converting-legacy-cms-to-wordpress/)
-- [INP – a new metric for interactivity](https://wordpress.tv/2024/04/10/inp-a-new-metric-for-interactivity/)
 <!-- WPTV:END -->
 
 ## Marketing
