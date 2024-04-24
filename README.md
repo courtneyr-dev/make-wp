@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – April 24, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/24/agenda-weekly-polyglots-chat-april-24-2024-1300-utc/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/24/hi-dear-mentors-we-have-131/)
 - [PTE Request for Tamago-DB Job…](https://make.wordpress.org/polyglots/2024/04/23/pte-request-for-tamago-db-job/)
 - [There is no active editor…](https://make.wordpress.org/polyglots/2024/04/23/there-is-no-active-editor/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for seQura Plugin](https://make.wordpress.org/polyglots/2024/04/22/pte-request-for-sequra-plugin/)
 - [CLPTE role request in RafflePress project](https://make.wordpress.org/polyglots/2024/04/22/clpte-role-request-in-rafflepress-project/)
 - [PTE Request for Disable XML-RPC-API Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-disable-xml-rpc-api-plugin/)
-- [PTE Request for Dynamic CTR WordPress Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-dynamic-cpr-wordpress-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
