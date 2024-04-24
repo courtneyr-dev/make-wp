@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Website Management](https://jobs.wordpress.net/job/website-management-2/)
+- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-19/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-26/)
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-60/)
+- [Web designer](https://jobs.wordpress.net/job/web-designer-73/)
 - [Theme Developer](https://jobs.wordpress.net/job/theme-developer-11/)
 - [Junior/Intermedia WordPress Developer](https://jobs.wordpress.net/job/junior-intermedia-wordpress-developer/)
 - [live streaming in WordPress site](https://jobs.wordpress.net/job/live-streaming-in-wordpress-site/)
 - [Remote Web Developer &lpar;Shopify&rpar;](https://jobs.wordpress.net/job/remote-web-developer-shopify/)
 - [Create a Custom WYSIWYG Editor Lib &lpar;TinyMCE Clone&rpar;](https://jobs.wordpress.net/job/create-a-custom-wysiwyg-editor-lib-tinymce-clone/)
-- [Web designer](https://jobs.wordpress.net/job/web-designer-72/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-99/)
-- [SEO for Woocommerce](https://jobs.wordpress.net/job/seo-for-woocommerce/)
-- [WooCommerce Developer](https://jobs.wordpress.net/job/woocommerce-developer-9/)
-- [Senior Full-Stack WordPress Developer with Expertise in React and Gutenberg](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-with-expertise-in-react-and-gutenberg/)
 <!-- JOBS:END -->
 
 ## Central
