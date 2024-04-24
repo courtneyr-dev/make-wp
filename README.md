@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for Sendbird AI Chatbot’s WordPress plugin](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-sendbird-ai-chatbots-wordpress-plugin/)
 - [PTE Request for Simple Log Viewer](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-simple-log-viewer/)
 - [Manage IT-it translations for plugin slug: ficoo-smart-connecto-core](https://make.wordpress.org/polyglots/2024/04/24/manage-it-it-translations-for-plugin-slug-ficoo-smart-connecto-core/)
 - [PTE Request for Simplybook](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-simplybook/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Tamago-DB Job…](https://make.wordpress.org/polyglots/2024/04/23/pte-request-for-tamago-db-job/)
 - [There is no active editor…](https://make.wordpress.org/polyglots/2024/04/23/there-is-no-active-editor/)
 - [PTE Anfrage für WP Desk Plugins](https://make.wordpress.org/polyglots/2024/04/23/pte-anfrage-fur-wp-desk-plugins/)
-- [Hi,](https://make.wordpress.org/polyglots/2024/04/22/hi-113/)
 <!-- POLYGLOTS:END -->
 
 ## Support
