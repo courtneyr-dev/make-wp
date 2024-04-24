@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Manage IT-it translations for plugin slug: ficoo-smart-connecto-core](https://make.wordpress.org/polyglots/2024/04/24/manage-it-it-translations-for-plugin-slug-ficoo-smart-connecto-core/)
+- [PTE Request for Simplybook](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-simplybook/)
+- [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-bulk-featured-image/)
 - [Agenda: Weekly Polyglots Chat – April 24, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/24/agenda-weekly-polyglots-chat-april-24-2024-1300-utc/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/24/hi-dear-mentors-we-have-131/)
 - [PTE Request for Tamago-DB Job…](https://make.wordpress.org/polyglots/2024/04/23/pte-request-for-tamago-db-job/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Anfrage für WP Desk Plugins](https://make.wordpress.org/polyglots/2024/04/23/pte-anfrage-fur-wp-desk-plugins/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/04/22/hi-113/)
 - [Hi, I am the plugin…](https://make.wordpress.org/polyglots/2024/04/22/hi-i-am-the-plugin-8/)
-- [PTE Request for seQura Plugin](https://make.wordpress.org/polyglots/2024/04/22/pte-request-for-sequra-plugin/)
-- [CLPTE role request in RafflePress project](https://make.wordpress.org/polyglots/2024/04/22/clpte-role-request-in-rafflepress-project/)
-- [PTE Request for Disable XML-RPC-API Plugin](https://make.wordpress.org/polyglots/2024/04/20/pte-request-for-disable-xml-rpc-api-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
