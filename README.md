@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Simple Log Viewer](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-simple-log-viewer/)
 - [Manage IT-it translations for plugin slug: ficoo-smart-connecto-core](https://make.wordpress.org/polyglots/2024/04/24/manage-it-it-translations-for-plugin-slug-ficoo-smart-connecto-core/)
 - [PTE Request for Simplybook](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-simplybook/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-bulk-featured-image/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [There is no active editor…](https://make.wordpress.org/polyglots/2024/04/23/there-is-no-active-editor/)
 - [PTE Anfrage für WP Desk Plugins](https://make.wordpress.org/polyglots/2024/04/23/pte-anfrage-fur-wp-desk-plugins/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/04/22/hi-113/)
-- [Hi, I am the plugin…](https://make.wordpress.org/polyglots/2024/04/22/hi-i-am-the-plugin-8/)
 <!-- POLYGLOTS:END -->
 
 ## Support
