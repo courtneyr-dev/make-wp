@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: April 2024](https://make.wordpress.org/community/2024/04/25/meetup-organizer-newsletter-april-2024/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on April 18, 2024](https://make.wordpress.org/community/2024/04/24/recap-of-the-contributor-working-groups-mentorship-chat-on-april-18-2024/)
 - [Contributor Working Group: Mentorship Chat Agenda |April18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/04/17/contributor-working-group-mentorship-chat-agenda-april18th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [WordPress Contributor Mentorship: 2024 Q1 Cohort Graduates](https://make.wordpress.org/community/2024/04/08/wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 4 – April -2024](https://make.wordpress.org/community/2024/04/03/community-team-meeting-agenda-for-4-april-2024/)
 - [Events of the Month – February 2024](https://make.wordpress.org/community/2024/03/27/events-of-the-month-february-2024/)
 - [Meetup Organizer Newsletter: March 2024](https://make.wordpress.org/community/2024/03/22/meetup-organizer-newsletter-march-2024/)
-- [Discussion: Are we continuing to use Trello for project planning?](https://make.wordpress.org/community/2024/03/20/discussion-are-we-continuing-to-use-trello-for-project-planning/)
 <!-- COMMUNITY:END -->
 
 ## Meta
