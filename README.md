@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-20/)
 - [Website Management](https://jobs.wordpress.net/job/website-management-2/)
 - [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-19/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-26/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Junior/Intermedia WordPress Developer](https://jobs.wordpress.net/job/junior-intermedia-wordpress-developer/)
 - [live streaming in WordPress site](https://jobs.wordpress.net/job/live-streaming-in-wordpress-site/)
 - [Remote Web Developer &lpar;Shopify&rpar;](https://jobs.wordpress.net/job/remote-web-developer-shopify/)
-- [Create a Custom WYSIWYG Editor Lib &lpar;TinyMCE Clone&rpar;](https://jobs.wordpress.net/job/create-a-custom-wysiwyg-editor-lib-tinymce-clone/)
 <!-- JOBS:END -->
 
 ## Central
