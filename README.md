@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Charla de bienvenida](https://wordpress.tv/2024/04/25/charla-de-bienvenida/)
+- [Cierre del evento](https://wordpress.tv/2024/04/25/cierre-del-evento/)
 - [WordPress Release Process](https://wordpress.tv/2024/04/24/wordpress-release-process/)
 - [Support onboarding](https://wordpress.tv/2024/04/24/support-onboarding/)
 - [Polyglots onboarding](https://wordpress.tv/2024/04/24/polyglots-onboarding/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Styling your site with global styles](https://wordpress.tv/2024/04/10/styling-your-site-with-global-styles-2/)
 - [Starting a WordPress Meetup: The highs and lows](https://wordpress.tv/2024/04/10/starting-a-wordpress-meetup-the-highs-and-lows/)
 - [Translate Live: in-context translation using WordPress Playground](https://wordpress.tv/2024/04/10/translate-live-in-context-translation-using-wordpress-playground/)
-- [AI-Enhanced WooCommerce Store Management: From Present to Future](https://wordpress.tv/2024/04/10/ai-enhanced-woocommerce-store-management-from-present-to-future/)
-- [Journey of 5 Years with Headless WordPress: Evolution, Challenges, and Opportunities](https://wordpress.tv/2024/04/10/journey-of-5-years-with-headless-wordpress-evolution-challenges-and-opportunities/)
 <!-- WPTV:END -->
 
 ## Marketing
