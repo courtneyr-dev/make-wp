@@ -69,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/25/pte-request-for-bulk-featured-image-5/)
-- [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/25/pte-request-for-bulk-featured-image-4/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/04/25/ive-suggested-translations-for-this-33/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/25/pte-request-for-bulk-featured-image-3/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/25/pte-request-for-bulk-featured-image-2/)
@@ -79,6 +77,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Manage IT-it translations for plugin slug: ficoo-smart-connecto-core](https://make.wordpress.org/polyglots/2024/04/24/manage-it-it-translations-for-plugin-slug-ficoo-smart-connecto-core/)
 - [PTE Request for Simplybook](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-simplybook/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-bulk-featured-image/)
+- [Agenda: Weekly Polyglots Chat – April 24, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/04/24/agenda-weekly-polyglots-chat-april-24-2024-1300-utc/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/04/24/hi-dear-mentors-we-have-131/)
 <!-- POLYGLOTS:END -->
 
 ## Support
