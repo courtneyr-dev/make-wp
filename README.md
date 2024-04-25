@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Todo lo que debes saber sobre campos personalizados en WordPress](https://wordpress.tv/2024/04/25/todo-lo-que-debes-saber-sobre-campos-personalizados-en-wordpress/)
+- [Y si la IA nos quita el trabajo, a los locos nos verán bailando: Aplicando la IA en tu estrategia de](https://wordpress.tv/2024/04/25/y-si-la-ia-nos-quita-el-trabajo-a-los-locos-nos-veran-bailando-aplicando-la-ia-en-tu-estrategia-de/)
+- [Cómo ganar dinero con WordPress. Caso Real](https://wordpress.tv/2024/04/25/como-ganar-dinero-con-wordpress-caso-real/)
+- [Creación de contenido educativo e interactivo con H5P en WordPress](https://wordpress.tv/2024/04/25/creacion-de-contenido-educativo-e-interactivo-con-h5p-en-wordpress/)
+- [Accesibilidad web en primera persona](https://wordpress.tv/2024/04/25/accesibilidad-web-en-primera-persona/)
+- [WPO en imágenes. ¿Estás pasando algo por alto?](https://wordpress.tv/2024/04/25/wpo-en-imagenes-estas-pasando-algo-por-alto/)
+- [Claves para un Sitio Web Profesional: Elementos Esenciales para el Éxito en WordPress](https://wordpress.tv/2024/04/25/claves-para-un-sitio-web-profesional-elementos-esenciales-para-el-exito-en-wordpress/)
+- [¿Está mi WordPress vivo? ¿Cómo puedo monitorizarlo?](https://wordpress.tv/2024/04/25/esta-mi-wordpress-vivo-como-puedo-monitorizarlo/)
+- [Ticketbai: ¿Qué puede saber hacienda de nosotros con esta info?](https://wordpress.tv/2024/04/25/ticketbai-que-puede-saber-hacienda-de-nosotros-con-esta-info/)
+- [UX](https://wordpress.tv/2024/04/25/ux/)
 - [Charla de bienvenida](https://wordpress.tv/2024/04/25/charla-de-bienvenida/)
 - [Cierre del evento](https://wordpress.tv/2024/04/25/cierre-del-evento/)
 - [WordPress Release Process](https://wordpress.tv/2024/04/24/wordpress-release-process/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Eine Webseite mit WordPress in 5 Minuten. Stimmt das?](https://wordpress.tv/2024/04/23/eine-webseite-mit-wordpress-in-5-minuten-stimmt-das/)
 - [Mit Transparenz und Vertrauen zum Experten](https://wordpress.tv/2024/04/21/mit-transparenz-und-vertrauen-zum-experten/)
 - [Nutze das Create Block Theme Plugin, um Themes zusammenzustellen](https://wordpress.tv/2024/04/21/nutze-das-create-block-theme-plugin-um-themes-zusammenzustellen/)
-- [Raus aus der Filterblase – digitale Barrierefreiheit für alle](https://wordpress.tv/2024/04/21/raus-aus-der-filterblase-digitale-barrierefreiheit-fuer-alle/)
-- [Layouts mit dem Block-Editor / GenerateBlocks](https://wordpress.tv/2024/04/21/layouts-mit-dem-block-editor-generateblocks/)
-- [Greener, Better, Faster, Stronger – Wie Websites umweltfreundlicher und zuverlässiger werden](https://wordpress.tv/2024/04/21/greener-better-faster-stronger-wie-websites-umweltfreundlicher-und-zuverlaessiger-werden/)
-- [WordPress-Events der nächsten Generation](https://wordpress.tv/2024/04/21/wordpress-events-der-naechsten-generation-2/)
-- [Mejora el rendimiento de tu página web con las Core Web Vitals](https://wordpress.tv/2024/04/20/mejora-el-rendimiento-de-tu-pagina-web-con-las-core-web-vitals/)
-- [Cómo aprovechar los sesgos cognitivos para mejorar la conversión](https://wordpress.tv/2024/04/12/como-aprovechar-los-sesgos-cognitivos-para-mejorar-la-conversion/)
-- [L’esperienza prima del primo lavoro grazie a WordPress: la via del contributore](https://wordpress.tv/2024/04/11/lesperienza-prima-del-primo-lavoro-grazie-a-wordpress-la-via-del-contributore/)
-- [Styling your site with global styles](https://wordpress.tv/2024/04/10/styling-your-site-with-global-styles-2/)
-- [Starting a WordPress Meetup: The highs and lows](https://wordpress.tv/2024/04/10/starting-a-wordpress-meetup-the-highs-and-lows/)
-- [Translate Live: in-context translation using WordPress Playground](https://wordpress.tv/2024/04/10/translate-live-in-context-translation-using-wordpress-playground/)
 <!-- WPTV:END -->
 
 ## Marketing
