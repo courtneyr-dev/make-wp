@@ -373,10 +373,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [UX](https://wordpress.tv/2024/04/25/ux/)
 - [Charla de bienvenida](https://wordpress.tv/2024/04/25/charla-de-bienvenida/)
 - [Cierre del evento](https://wordpress.tv/2024/04/25/cierre-del-evento/)
-- [WordPress Release Process](https://wordpress.tv/2024/04/24/wordpress-release-process/)
-- [Support onboarding](https://wordpress.tv/2024/04/24/support-onboarding/)
-- [Polyglots onboarding](https://wordpress.tv/2024/04/24/polyglots-onboarding/)
-- [GitHub Onboarding for Mentees](https://wordpress.tv/2024/04/24/github-onboarding-for-mentees/)
+- [Mentorship Program Onboarding](https://wordpress.tv/2024/04/24/mentorship-program-onboarding/)
+- [Taking advantage of query loops](https://wordpress.tv/2024/04/23/taking-advantage-of-query-loops/)
+- [Tipps &amp; Tricks zur WordPress Mediathek](https://wordpress.tv/2024/04/23/tipps-tricks-zur-wordpress-mediathek/)
+- [Web Design](https://wordpress.tv/2024/04/23/web-design/)
 <!-- WPTV:END -->
 
 ## Marketing
