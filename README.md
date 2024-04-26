@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Create Block Theme Plugin](https://wordpress.tv/2024/04/26/create-block-theme-plugin/)
 - [Todo sobre la nueva biblioteca de fuentes de WordPress](https://wordpress.tv/2024/04/26/todo-sobre-la-nueva-biblioteca-de-fuentes-de-wordpress/)
 - [Introducción a WordPress Analytics](https://wordpress.tv/2024/04/26/introduccion-a-wordpress-analytics/)
 - [¿Blindas tu cuenta bancaria pero dejas tu web en pelotas? ¡Error fatal!](https://wordpress.tv/2024/04/26/blindas-tu-cuenta-bancaria-pero-dejas-tu-web-en-pelotas-error-fatal/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mentorship Program Onboarding](https://wordpress.tv/2024/04/24/mentorship-program-onboarding/)
 - [Taking advantage of query loops](https://wordpress.tv/2024/04/23/taking-advantage-of-query-loops/)
 - [Tipps &amp; Tricks zur WordPress Mediathek](https://wordpress.tv/2024/04/23/tipps-tricks-zur-wordpress-mediathek/)
-- [Web Design](https://wordpress.tv/2024/04/23/web-design/)
 <!-- WPTV:END -->
 
 ## Marketing
