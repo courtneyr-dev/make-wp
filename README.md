@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-15/)
+- [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-8/)
+- [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-27/)
+- [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-3/)
+- [WordPress Developer &lpar;Custom&rpar; Front End Developer](https://jobs.wordpress.net/job/wordpress-developer-custom-front-end-developer-2/)
+- [WordPress Website Maintenance](https://jobs.wordpress.net/job/wordpress-website-maintenance-2/)
+- [[rtCamp] QA Engineer](https://jobs.wordpress.net/job/rtcamp-qa-engineer-3/)
+- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-29/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-20/)
-- [Website Management](https://jobs.wordpress.net/job/website-management-2/)
-- [[rtCamp] WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-wordpress-engineer-19/)
-- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-26/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-60/)
-- [Web designer](https://jobs.wordpress.net/job/web-designer-73/)
-- [Theme Developer](https://jobs.wordpress.net/job/theme-developer-11/)
-- [Junior/Intermedia WordPress Developer](https://jobs.wordpress.net/job/junior-intermedia-wordpress-developer/)
-- [live streaming in WordPress site](https://jobs.wordpress.net/job/live-streaming-in-wordpress-site/)
-- [Remote Web Developer &lpar;Shopify&rpar;](https://jobs.wordpress.net/job/remote-web-developer-shopify/)
 <!-- JOBS:END -->
 
 ## Central
