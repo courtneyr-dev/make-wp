@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [El mantenimiento: claves para tener tu WordPress en forma](https://wordpress.tv/2024/04/26/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma/)
+- [REST API para novatos, magia a tu alcance](https://wordpress.tv/2024/04/26/rest-api-para-novatos-magia-a-tu-alcance/)
 - [Testing WP Playground in VS Code](https://wordpress.tv/2024/04/25/testing-wp-playground-in-vs-code/)
 - [Todo lo que debes saber sobre campos personalizados en WordPress](https://wordpress.tv/2024/04/25/todo-lo-que-debes-saber-sobre-campos-personalizados-en-wordpress/)
 - [Y si la IA nos quita el trabajo, a los locos nos verán bailando: Aplicando la IA en tu estrategia de](https://wordpress.tv/2024/04/25/y-si-la-ia-nos-quita-el-trabajo-a-los-locos-nos-veran-bailando-aplicando-la-ia-en-tu-estrategia-de/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tipps &amp; Tricks zur WordPress Mediathek](https://wordpress.tv/2024/04/23/tipps-tricks-zur-wordpress-mediathek/)
 - [Web Design](https://wordpress.tv/2024/04/23/web-design/)
 - [Must-Have WordPress Plugins for Every Website](https://wordpress.tv/2024/04/23/must-have-wordpress-plugins-for-every-website/)
-- [Eine Webseite mit WordPress in 5 Minuten. Stimmt das?](https://wordpress.tv/2024/04/23/eine-webseite-mit-wordpress-in-5-minuten-stimmt-das/)
-- [Mit Transparenz und Vertrauen zum Experten](https://wordpress.tv/2024/04/21/mit-transparenz-und-vertrauen-zum-experten/)
 <!-- WPTV:END -->
 
 ## Marketing
