@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Todo sobre la nueva biblioteca de fuentes de WordPress](https://wordpress.tv/2024/04/26/todo-sobre-la-nueva-biblioteca-de-fuentes-de-wordpress/)
+- [Introducción a WordPress Analytics](https://wordpress.tv/2024/04/26/introduccion-a-wordpress-analytics/)
+- [¿Blindas tu cuenta bancaria pero dejas tu web en pelotas? ¡Error fatal!](https://wordpress.tv/2024/04/26/blindas-tu-cuenta-bancaria-pero-dejas-tu-web-en-pelotas-error-fatal/)
+- [Diseñando para Humanos](https://wordpress.tv/2024/04/26/disenando-para-humanos/)
+- [¿Qué incluyo en mis presupuestos para no trabajar de más?](https://wordpress.tv/2024/04/26/que-incluyo-en-mis-presupuestos-para-no-trabajar-de-mas/)
+- [Navegando la Soledad: Estrategias para Freelancers del Desarrollo Web](https://wordpress.tv/2024/04/26/navegando-la-soledad-estrategias-para-freelancers-del-desarrollo-web/)
 - [El mantenimiento: claves para tener tu WordPress en forma](https://wordpress.tv/2024/04/26/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma/)
 - [REST API para novatos, magia a tu alcance](https://wordpress.tv/2024/04/26/rest-api-para-novatos-magia-a-tu-alcance/)
 - [Testing WP Playground in VS Code](https://wordpress.tv/2024/04/25/testing-wp-playground-in-vs-code/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support onboarding](https://wordpress.tv/2024/04/24/support-onboarding/)
 - [Polyglots onboarding](https://wordpress.tv/2024/04/24/polyglots-onboarding/)
 - [GitHub Onboarding for Mentees](https://wordpress.tv/2024/04/24/github-onboarding-for-mentees/)
-- [Community themes onboarding](https://wordpress.tv/2024/04/24/community-themes-onboarding/)
-- [Contribute to BuddyPress](https://wordpress.tv/2024/04/24/contribute-to-buddypress/)
-- [Taking advantage of query loops](https://wordpress.tv/2024/04/23/taking-advantage-of-query-loops/)
-- [Tipps &amp; Tricks zur WordPress Mediathek](https://wordpress.tv/2024/04/23/tipps-tricks-zur-wordpress-mediathek/)
-- [Web Design](https://wordpress.tv/2024/04/23/web-design/)
-- [Must-Have WordPress Plugins for Every Website](https://wordpress.tv/2024/04/23/must-have-wordpress-plugins-for-every-website/)
 <!-- WPTV:END -->
 
 ## Marketing
