@@ -395,6 +395,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [Fifteen Merged PRs for WP-CLI Hack Day 2024](https://make.wordpress.org/cli/2024/04/27/fifteen-merged-prs-for-wp-cli-hack-day-2024/)
 - [Save the date! WP-CLI Hack Day on Friday, April 26th](https://make.wordpress.org/cli/2024/04/02/save-the-date-wp-cli-hack-day-on-friday-april-26th/)
 - [WP-CLI v2.10.0 Release Notes](https://make.wordpress.org/cli/2024/02/08/wp-cli-v2-10-0-release-notes/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/cli/2024/02/02/xpost-incident-response-team-call-for-nominations/)
@@ -404,7 +405,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Twenty-One Merged PRs for WP-CLI Hack Day 2023](https://make.wordpress.org/cli/2023/11/11/twenty-one-merged-prs-for-wp-cli-hack-day-2023/)
 - [WP-CLI v2.9.0 Release Notes](https://make.wordpress.org/cli/2023/10/25/wp-cli-v2-9-0-release-notes/)
 - [Save the date! WP-CLI Hack Day on Friday, November 10th](https://make.wordpress.org/cli/2023/10/18/save-the-date-wp-cli-hack-day-on-friday-november-10th/)
-- [WP-CLI v2.9.0 release date: October 25th](https://make.wordpress.org/cli/2023/10/12/wp-cli-v2-9-0-release-date-october-25th/)
 <!-- CLI:END -->
 
 ## Hosting
