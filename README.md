@@ -361,6 +361,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Navegando la Soledad: Estrategias para Freelancers del Desarrollo Web](https://wordpress.tv/2024/04/26/navegando-la-soledad-estrategias-para-freelancers-del-desarrollo-web/)
 - [El mantenimiento: claves para tener tu WordPress en forma](https://wordpress.tv/2024/04/26/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma/)
 - [REST API para novatos, magia a tu alcance](https://wordpress.tv/2024/04/26/rest-api-para-novatos-magia-a-tu-alcance/)
+- [IA, WordPress y la creación de contenido: the future is now](https://wordpress.tv/2024/04/26/ia-wordpress-y-la-creacion-de-contenido-the-future-is-now/)
 - [Testing WP Playground in VS Code](https://wordpress.tv/2024/04/25/testing-wp-playground-in-vs-code/)
 - [Todo lo que debes saber sobre campos personalizados en WordPress](https://wordpress.tv/2024/04/25/todo-lo-que-debes-saber-sobre-campos-personalizados-en-wordpress/)
 - [Y si la IA nos quita el trabajo, a los locos nos verán bailando: Aplicando la IA en tu estrategia de](https://wordpress.tv/2024/04/25/y-si-la-ia-nos-quita-el-trabajo-a-los-locos-nos-veran-bailando-aplicando-la-ia-en-tu-estrategia-de/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cierre del evento](https://wordpress.tv/2024/04/25/cierre-del-evento/)
 - [Mentorship Program Onboarding](https://wordpress.tv/2024/04/24/mentorship-program-onboarding/)
 - [Taking advantage of query loops](https://wordpress.tv/2024/04/23/taking-advantage-of-query-loops/)
-- [Tipps &amp; Tricks zur WordPress Mediathek](https://wordpress.tv/2024/04/23/tipps-tricks-zur-wordpress-mediathek/)
 <!-- WPTV:END -->
 
 ## Marketing
