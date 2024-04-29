@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Taking advantage of query loops](https://wordpress.tv/2024/04/28/taking-advantage-of-query-loops-2/)
 - [Adding and customizing a category template](https://wordpress.tv/2024/04/28/adding-and-customizing-a-category-template/)
 - [Create Block Theme Plugin](https://wordpress.tv/2024/04/26/create-block-theme-plugin/)
 - [Todo sobre la nueva biblioteca de fuentes de WordPress](https://wordpress.tv/2024/04/26/todo-sobre-la-nueva-biblioteca-de-fuentes-de-wordpress/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [UX](https://wordpress.tv/2024/04/25/ux/)
 - [Charla de bienvenida](https://wordpress.tv/2024/04/25/charla-de-bienvenida/)
 - [Cierre del evento](https://wordpress.tv/2024/04/25/cierre-del-evento/)
-- [Mentorship Program Onboarding](https://wordpress.tv/2024/04/24/mentorship-program-onboarding/)
 <!-- WPTV:END -->
 
 ## Marketing
