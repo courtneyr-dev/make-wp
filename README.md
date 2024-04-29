@@ -125,14 +125,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Quick start guide](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-quick-start-guide/)
 - [Interactivity API Reference](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/)
 - [API Reference](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/api-reference/)
-- [_wp_before_delete_font_face&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_before_delete_font_face/)
 - [_wp_register_default_font_collections&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_register_default_font_collections/)
 - [font_dir](https://developer.wordpress.org/reference/hooks/font_dir/)
 - [_wp_after_delete_font_family&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_after_delete_font_family/)
+- [_wp_before_delete_font_face&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_before_delete_font_face/)
 - [wp_unregister_font_collection&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_unregister_font_collection/)
-- [wp_get_font_dir&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_font_dir/)
 - [wp_font_dir&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_font_dir/)
 - [_wp_filter_font_directory&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_filter_font_directory/)
 <!-- DEVHUB:END -->
