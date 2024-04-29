@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-9/)
+- [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist/)
+- [PHP – WordPress – Plugin – Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-23/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-15/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-8/)
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-3/)
 - [WordPress Developer &lpar;Custom&rpar; Front End Developer](https://jobs.wordpress.net/job/wordpress-developer-custom-front-end-developer-2/)
 - [WordPress Website Maintenance](https://jobs.wordpress.net/job/wordpress-website-maintenance-2/)
-- [[rtCamp] QA Engineer](https://jobs.wordpress.net/job/rtcamp-qa-engineer-3/)
-- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-29/)
-- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-20/)
 <!-- JOBS:END -->
 
 ## Central
