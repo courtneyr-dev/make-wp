@@ -125,6 +125,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Patterns and Block Locking](https://developer.wordpress.org/themes/patterns/patterns-and-block-locking/)
+- [Block Type Patterns](https://developer.wordpress.org/themes/patterns/block-type-patterns/)
+- [Starter Patterns](https://developer.wordpress.org/themes/patterns/starter-patterns/)
 - [Usage in Templates](https://developer.wordpress.org/themes/patterns/usage-in-templates/)
 - [Using PHP in Patterns](https://developer.wordpress.org/themes/patterns/using-php-in-patterns/)
 - [Registering Patterns](https://developer.wordpress.org/themes/patterns/registering-patterns/)
@@ -132,9 +135,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to Patterns](https://developer.wordpress.org/themes/patterns/introduction-to-patterns/)
 - [Patterns](https://developer.wordpress.org/themes/patterns/)
 - [Quick start guide](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-quick-start-guide/)
-- [API Reference](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/api-reference/)
-- [Interactivity API Reference](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/)
-- [_wp_after_delete_font_family&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_after_delete_font_family/)
 <!-- DEVHUB:END -->
 
 ## Themes
