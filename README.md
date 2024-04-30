@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the comments block](https://wordpress.tv/2024/04/29/using-the-comments-block/)
 - [Taking advantage of query loops](https://wordpress.tv/2024/04/28/taking-advantage-of-query-loops-2/)
 - [Adding and customizing a category template](https://wordpress.tv/2024/04/28/adding-and-customizing-a-category-template/)
 - [Create Block Theme Plugin](https://wordpress.tv/2024/04/26/create-block-theme-plugin/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ticketbai: ¿Qué puede saber hacienda de nosotros con esta info?](https://wordpress.tv/2024/04/25/ticketbai-que-puede-saber-hacienda-de-nosotros-con-esta-info/)
 - [UX](https://wordpress.tv/2024/04/25/ux/)
 - [Charla de bienvenida](https://wordpress.tv/2024/04/25/charla-de-bienvenida/)
-- [Cierre del evento](https://wordpress.tv/2024/04/25/cierre-del-evento/)
 <!-- WPTV:END -->
 
 ## Marketing
