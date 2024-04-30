@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/plugins/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 - [WordCamp Asia 2024: Plugin’s team table on contributor day](https://make.wordpress.org/plugins/2024/03/05/wordcamp-asia-2024-plugins-team-table-on-contributor-day/)
 - [X-post: Guideline change: Reviews of Commercial/Pro Plugins](https://make.wordpress.org/plugins/2024/02/08/xpost-guideline-change-reviews-of-commercial-pro-plugins/)
 - [X-post: Suggestion for a change in the guidelines:](https://make.wordpress.org/plugins/2024/02/04/xpost-suggestion-for-a-change-in-the-guidelines/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Join the Plugin Review team!](https://make.wordpress.org/plugins/2023/12/02/join-the-plugin-review-team/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/plugins/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/plugins/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [X-post: Redesigning Developer Resources and a call for testing](https://make.wordpress.org/plugins/2023/11/22/xpost-redesigning-developer-resources-and-a-call-for-testing/)
 <!-- PLUGINS:END -->
 
 ## Community
