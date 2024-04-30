@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Hello Elementor Theme](https://make.wordpress.org/polyglots/2024/04/30/pte-request-for-hello-elementor-theme/)
+- [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/polyglots/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 - [Hello, don’t be tired](https://make.wordpress.org/polyglots/2024/04/29/hello-dont-be-tired/)
 - [PTE Request for Inspect Block Data](https://make.wordpress.org/polyglots/2024/04/29/pte-request-for-inspect-block-data-2/)
 - [PTE Request for DB Falling…](https://make.wordpress.org/polyglots/2024/04/28/pte-request-for-db-falling/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/25/pte-request-for-bulk-featured-image-3/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/25/pte-request-for-bulk-featured-image-2/)
 - [PTE request for Sendbird AI Chatbot’s WordPress plugin](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-sendbird-ai-chatbots-wordpress-plugin/)
-- [PTE Request for Simple Log Viewer](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-simple-log-viewer/)
-- [Manage IT-it translations for plugin slug: ficoo-smart-connecto-core](https://make.wordpress.org/polyglots/2024/04/24/manage-it-it-translations-for-plugin-slug-ficoo-smart-connecto-core/)
 <!-- POLYGLOTS:END -->
 
 ## Support
