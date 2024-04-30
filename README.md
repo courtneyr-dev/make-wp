@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hey friends!](https://make.wordpress.org/polyglots/2024/04/30/hey-friends-2/)
 - [PTE Request for Hello Elementor Theme](https://make.wordpress.org/polyglots/2024/04/30/pte-request-for-hello-elementor-theme/)
 - [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/polyglots/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 - [Hello, don’t be tired](https://make.wordpress.org/polyglots/2024/04/29/hello-dont-be-tired/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/04/25/ive-suggested-translations-for-this-33/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/25/pte-request-for-bulk-featured-image-3/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/04/25/pte-request-for-bulk-featured-image-2/)
-- [PTE request for Sendbird AI Chatbot’s WordPress plugin](https://make.wordpress.org/polyglots/2024/04/24/pte-request-for-sendbird-ai-chatbots-wordpress-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
