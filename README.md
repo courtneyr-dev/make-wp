@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/accessibility/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 - [X-post: The Pattern Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/accessibility/2024/04/17/xpost-the-pattern-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [Accessibility Team Meeting Agenda: April 19, 2024](https://make.wordpress.org/accessibility/2024/04/16/accessibility-team-meeting-agenda-april-19-2024/)
 - [X-post: The Forums get a refresh](https://make.wordpress.org/accessibility/2024/04/10/xpost-the-forums-get-a-refresh/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: March 15, 2024](https://make.wordpress.org/accessibility/2024/03/14/accessibility-team-meeting-agenda-march-15-2024/)
 - [X-post: Discussion: Bringing accessibility-first approaches into content development](https://make.wordpress.org/accessibility/2024/02/20/xpost-discussion-bringing-accessibility-first-approaches-into-content-development/)
 - [Accessibility Team Meeting Notes: February 16, 2024](https://make.wordpress.org/accessibility/2024/02/16/accessibility-team-meeting-notes-february-16-2024/)
-- [Accessibility Team Meeting Agenda: February 16, 2024](https://make.wordpress.org/accessibility/2024/02/16/accessibility-team-meeting-agenda-february-16-2024/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
