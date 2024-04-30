@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [PHP WordPress Developer at UpdraftPlus](https://jobs.wordpress.net/job/php-wordpress-developer-at-updraftplus-2/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-9/)
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist/)
 - [PHP – WordPress – Plugin – Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-23/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-27/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-3/)
 - [WordPress Developer &lpar;Custom&rpar; Front End Developer](https://jobs.wordpress.net/job/wordpress-developer-custom-front-end-developer-2/)
-- [WordPress Website Maintenance](https://jobs.wordpress.net/job/wordpress-website-maintenance-2/)
 <!-- JOBS:END -->
 
 ## Central
