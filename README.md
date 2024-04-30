@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Registering Patterns](https://developer.wordpress.org/themes/patterns/registering-patterns/)
+- [Theme.json Version 2 Reference](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-v2/)
+- [Introduction to Patterns](https://developer.wordpress.org/themes/patterns/introduction-to-patterns/)
+- [Patterns](https://developer.wordpress.org/themes/patterns/)
 - [Quick start guide](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-quick-start-guide/)
-- [Interactivity API Reference](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/)
 - [API Reference](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/api-reference/)
-- [_wp_register_default_font_collections&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_register_default_font_collections/)
-- [font_dir](https://developer.wordpress.org/reference/hooks/font_dir/)
+- [Interactivity API Reference](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/)
 - [_wp_after_delete_font_family&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_after_delete_font_family/)
 - [_wp_before_delete_font_face&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_before_delete_font_face/)
-- [wp_unregister_font_collection&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_unregister_font_collection/)
-- [wp_font_dir&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_font_dir/)
-- [_wp_filter_font_directory&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_filter_font_directory/)
+- [_wp_register_default_font_collections&lpar;&rpar;](https://developer.wordpress.org/reference/functions/_wp_register_default_font_collections/)
 <!-- DEVHUB:END -->
 
 ## Themes
