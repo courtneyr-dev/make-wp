@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Creating dynamic content with Block Bindings and Custom Fields](https://wordpress.tv/2024/04/30/developer-hours-creating-dynamic-content-with-block-bindings-and-custom-fields/)
 - [Using block patterns](https://wordpress.tv/2024/04/29/using-block-patterns/)
 - [Using the comments block](https://wordpress.tv/2024/04/29/using-the-comments-block/)
 - [Taking advantage of query loops](https://wordpress.tv/2024/04/28/taking-advantage-of-query-loops-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Claves para un Sitio Web Profesional: Elementos Esenciales para el Éxito en WordPress](https://wordpress.tv/2024/04/25/claves-para-un-sitio-web-profesional-elementos-esenciales-para-el-exito-en-wordpress/)
 - [¿Está mi WordPress vivo? ¿Cómo puedo monitorizarlo?](https://wordpress.tv/2024/04/25/esta-mi-wordpress-vivo-como-puedo-monitorizarlo/)
 - [Ticketbai: ¿Qué puede saber hacienda de nosotros con esta info?](https://wordpress.tv/2024/04/25/ticketbai-que-puede-saber-hacienda-de-nosotros-con-esta-info/)
-- [UX](https://wordpress.tv/2024/04/25/ux/)
 <!-- WPTV:END -->
 
 ## Marketing
