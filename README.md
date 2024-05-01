@@ -409,6 +409,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [Hosting Team meeting agenda 2024-05-01](https://make.wordpress.org/hosting/2024/05/01/hosting-team-meeting-agenda-2024-05-01/)
+- [WordCamp Europe 2024 Contributor Day](https://make.wordpress.org/hosting/2024/05/01/wordcamp-europe-2024-contributor-day/)
 - [WordPress 6.5 PHP Compatibility](https://make.wordpress.org/hosting/2024/04/05/wordpress-6-5-php-compatibility/)
 - [Hosting Team meeting agenda 2024-04-03](https://make.wordpress.org/hosting/2024/04/03/hosting-team-meeting-agenda-2024-03-06-2/)
 - [Proposal: PHPUnit Test Runner with Multi-PHP and Multi-Environment](https://make.wordpress.org/hosting/2024/03/20/proposal-runner-multi-php-environment/)
@@ -417,8 +419,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Team meeting agenda 2024-02-07](https://make.wordpress.org/hosting/2024/02/07/hosting-team-meeting-agenda-2024-02-07/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/hosting/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [Hosting Tools office hours](https://make.wordpress.org/hosting/2024/01/31/hosting-tools-office-hours/)
-- [Hosting Team Goals for 2024](https://make.wordpress.org/hosting/2024/01/31/hosting-team-goals-for-2024/)
-- [Hosting Team meeting summary 2024-01-24](https://make.wordpress.org/hosting/2024/01/31/hosting-team-meeting-summary-2024-01-24/)
 <!-- HOSTING:END -->
 
 ## Tide
