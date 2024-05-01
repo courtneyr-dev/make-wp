@@ -3,7 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
-- [Agenda, Dev Chat, Wednesday May 1, 2024](https://make.wordpress.org/core/2024/05/01/agenda-dev-chat-wednesday-may-17-2024/)
+- [Agenda, Dev Chat, Wednesday May 1, 2024](https://make.wordpress.org/core/2024/05/01/agenda-dev-chat-wednesday-may-1-2024/)
 - [Performance Chat Summary: 30 April 2024](https://make.wordpress.org/core/2024/04/30/performance-chat-summary-30-april-2024/)
 - [Performance Chat Agenda: 30 April 2024](https://make.wordpress.org/core/2024/04/29/performance-chat-agenda-30-april-2024/)
 - [Summary of Hallway Hangout on what’s next in Gutenberg](https://make.wordpress.org/core/2024/04/25/summary-of-hallway-hangout-on-whats-next-in-gutenberg/)
