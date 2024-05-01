@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Project thread: The second Learn WordPress Course Cohort](https://make.wordpress.org/training/2024/05/01/project-thread-the-second-learn-wordpress-course-cohort/)
 - [Training Team Meeting Recap – 25th April 2024](https://make.wordpress.org/training/2024/05/01/training-team-meeting-recap-25th-april-2024/)
 - [A light Learn/Lessons visual refresh](https://make.wordpress.org/training/2024/04/29/a-light-learn-lessons-visual-refresh/)
 - [Training Team Meeting Recap – 18th April 2024](https://make.wordpress.org/training/2024/04/24/training-team-meeting-recap-18th-april-2024/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 04th April 2024](https://make.wordpress.org/training/2024/04/08/training-team-meeting-recap-04th-april-2024/)
 - [Looking for feedback: Thumbnails for the Learn redesign](https://make.wordpress.org/training/2024/04/05/looking-for-feedback-thumbnails-for-the-learn-redesign/)
 - [Training Team Meeting Recap – 28th March 2024](https://make.wordpress.org/training/2024/04/02/training-team-meeting-recap-28th-march-2024/)
-- [Speak at a WordCamp or Meetup About the Training Team and Learn WordPress](https://make.wordpress.org/training/2024/03/28/speak-at-a-wordcamp-or-meetup-about-the-training-team-and-learn-wordpress/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
