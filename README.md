@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for NewsMunch Theme](https://make.wordpress.org/polyglots/2024/05/01/pte-request-for-newsmunch-theme-2/)
 - [PTE Request for Paid Memberships Pro es-uy locale](https://make.wordpress.org/polyglots/2024/04/30/pte-request-for-paid-memberships-pro-es-uy-locale/)
 - [I wanted to ask](https://make.wordpress.org/polyglots/2024/04/30/i-wanted-to-ask/)
 - [Hello.](https://make.wordpress.org/polyglots/2024/04/30/hello-86/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, don’t be tired](https://make.wordpress.org/polyglots/2024/04/29/hello-dont-be-tired/)
 - [PTE Request for Inspect Block Data](https://make.wordpress.org/polyglots/2024/04/29/pte-request-for-inspect-block-data-2/)
 - [PTE Request for DB Falling…](https://make.wordpress.org/polyglots/2024/04/28/pte-request-for-db-falling/)
-- [I’ve suggested some translations for…](https://make.wordpress.org/polyglots/2024/04/28/ive-suggested-some-translations-for-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
