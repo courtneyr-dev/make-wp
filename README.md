@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Homepage displays: Latest posts vs static](https://learn.wordpress.org/?meeting=homepage-displays-latest-posts-vs-static-2)
 - [How to facilitate Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-online-workshop-for-the-wordpress-training-team-2)
 - [How to facilitate Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-online-workshop-for-the-wordpress-training-team)
 - [Testing Studio by WordPress.com](https://learn.wordpress.org/?meeting=testing-studio-by-wordpress-com)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Make WordPress Training Team Faculty Program Information Session 2](https://learn.wordpress.org/?meeting=make-wordpress-training-team-faculty-program-information-session-2)
 - [Make WordPress Training Team Faculty Program Information Session 1](https://learn.wordpress.org/?meeting=make-wordpress-training-team-faculty-program-information-session-1)
 - [WordCamp Asia – Training Team Contributor Day](https://learn.wordpress.org/?meeting=wordcamp-asia-training-team-contributor-day)
-- [WordPress developer live stream: contributing to WordPress](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-contributing-to-wordpress-3)
 <!-- SLS:END -->
 
 ## Test
