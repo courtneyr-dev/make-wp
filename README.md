@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Start contributing to WordPress through the WordPress Training Team](https://wordpress.tv/2024/05/01/start-contributing-to-wordpress-through-the-wordpress-training-team/)
 - [Building a page with only patterns](https://wordpress.tv/2024/04/30/building-a-page-with-only-patterns-3/)
 - [Developer Hours: Creating dynamic content with Block Bindings and Custom Fields](https://wordpress.tv/2024/04/30/developer-hours-creating-dynamic-content-with-block-bindings-and-custom-fields/)
 - [Using block patterns](https://wordpress.tv/2024/04/29/using-block-patterns/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accesibilidad web en primera persona](https://wordpress.tv/2024/04/25/accesibilidad-web-en-primera-persona/)
 - [WPO en imágenes. ¿Estás pasando algo por alto?](https://wordpress.tv/2024/04/25/wpo-en-imagenes-estas-pasando-algo-por-alto/)
 - [Claves para un Sitio Web Profesional: Elementos Esenciales para el Éxito en WordPress](https://wordpress.tv/2024/04/25/claves-para-un-sitio-web-profesional-elementos-esenciales-para-el-exito-en-wordpress/)
-- [¿Está mi WordPress vivo? ¿Cómo puedo monitorizarlo?](https://wordpress.tv/2024/04/25/esta-mi-wordpress-vivo-como-puedo-monitorizarlo/)
 <!-- WPTV:END -->
 
 ## Marketing
