@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [ASF – Driving Safety Marketing and Fundraising Partners](https://jobs.wordpress.net/job/asf-driving-safety-marketing-and-fundraising-partners-2/)
 - [WordPress Quality Assurance &lpar;QA&rpar; Engineer](https://jobs.wordpress.net/job/wordpress-quality-assurance-qa-engineer/)
 - [PHP WordPress Developer at UpdraftPlus](https://jobs.wordpress.net/job/php-wordpress-developer-at-updraftplus-2/)
 - [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-9/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-8/)
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-27/)
-- [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-3/)
 <!-- JOBS:END -->
 
 ## Central
