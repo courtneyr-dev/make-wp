@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Testing Studio by WordPress.com](https://wordpress.tv/2024/05/02/testing-studio-by-wordpress-com/)
 - [Creating your own custom synced and non-synced patterns](https://wordpress.tv/2024/05/01/creating-your-own-custom-synced-and-non-synced-patterns/)
 - [Start contributing to WordPress through the WordPress Training Team](https://wordpress.tv/2024/05/01/start-contributing-to-wordpress-through-the-wordpress-training-team/)
 - [Building a page with only patterns](https://wordpress.tv/2024/04/30/building-a-page-with-only-patterns-3/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo ganar dinero con WordPress. Caso Real](https://wordpress.tv/2024/04/25/como-ganar-dinero-con-wordpress-caso-real/)
 - [Creación de contenido educativo e interactivo con H5P en WordPress](https://wordpress.tv/2024/04/25/creacion-de-contenido-educativo-e-interactivo-con-h5p-en-wordpress/)
 - [Accesibilidad web en primera persona](https://wordpress.tv/2024/04/25/accesibilidad-web-en-primera-persona/)
-- [WPO en imágenes. ¿Estás pasando algo por alto?](https://wordpress.tv/2024/04/25/wpo-en-imagenes-estas-pasando-algo-por-alto/)
 <!-- WPTV:END -->
 
 ## Marketing
