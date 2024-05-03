@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Designing with row and stack blocks](https://wordpress.tv/2024/05/02/designing-with-row-and-stack-blocks-2/)
 - [Testing Studio by WordPress.com](https://wordpress.tv/2024/05/02/testing-studio-by-wordpress-com/)
 - [Creating your own custom synced and non-synced patterns](https://wordpress.tv/2024/05/01/creating-your-own-custom-synced-and-non-synced-patterns/)
 - [Start contributing to WordPress through the WordPress Training Team](https://wordpress.tv/2024/05/01/start-contributing-to-wordpress-through-the-wordpress-training-team/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Y si la IA nos quita el trabajo, a los locos nos verán bailando: Aplicando la IA en tu estrategia de](https://wordpress.tv/2024/04/25/y-si-la-ia-nos-quita-el-trabajo-a-los-locos-nos-veran-bailando-aplicando-la-ia-en-tu-estrategia-de/)
 - [Cómo ganar dinero con WordPress. Caso Real](https://wordpress.tv/2024/04/25/como-ganar-dinero-con-wordpress-caso-real/)
 - [Creación de contenido educativo e interactivo con H5P en WordPress](https://wordpress.tv/2024/04/25/creacion-de-contenido-educativo-e-interactivo-con-h5p-en-wordpress/)
-- [Accesibilidad web en primera persona](https://wordpress.tv/2024/04/25/accesibilidad-web-en-primera-persona/)
 <!-- WPTV:END -->
 
 ## Marketing
