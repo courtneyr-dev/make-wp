@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Data Liberation: Project plan](https://make.wordpress.org/core/2024/05/03/data-liberation-project-plan/)
+- [Data Liberation: Outreach recap and updates](https://make.wordpress.org/core/2024/05/03/data-liberation-outreach-recap-and-updates/)
 - [WordPress 6.5.3 RC1 is now available](https://make.wordpress.org/core/2024/05/02/wordpress-6-5-3-rc1-is-now-available/)
 - [Summary, Dev Chat, May 1, 2024](https://make.wordpress.org/core/2024/05/02/summary-dev-chat-may-1-2024/)
 - [Agenda, Dev Chat, Wednesday May 1, 2024](https://make.wordpress.org/core/2024/05/01/agenda-dev-chat-wednesday-may-1-2024/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda, Dev Chat, Wednesday April 17, 2024](https://make.wordpress.org/core/2024/04/17/agenda-dev-chat-wednesday-april-17-2024/)
 - [Performance Chat Summary: 16 April 2024](https://make.wordpress.org/core/2024/04/16/performance-chat-summary-16-april-2024/)
 - [WordPress 6.5.3: An upcoming maintenance release](https://make.wordpress.org/core/2024/04/15/wordpress-6-5-3-an-upcoming-maintenance-release/)
-- [Performance Chat Agenda: 16 April 2024](https://make.wordpress.org/core/2024/04/15/performance-chat-agenda-16-april-2024/)
-- [Bundled Theme Bug Scrubs](https://make.wordpress.org/core/2024/04/12/bundled-theme-bug-scrubs/)
 <!-- CORE:END -->
 
 ## Design
