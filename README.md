@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Roadmap to 6.6](https://make.wordpress.org/core/2024/05/03/roadmap-to-6-6/)
 - [Developer Blog editorial meeting summary, May 2, 2024](https://make.wordpress.org/core/2024/05/03/developer-blog-editorial-meeting-summary-february-1-2024-2-2/)
 - [Data Liberation: Project plan](https://make.wordpress.org/core/2024/05/03/data-liberation-project-plan/)
 - [Data Liberation: Outreach recap and updates](https://make.wordpress.org/core/2024/05/03/data-liberation-outreach-recap-and-updates/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Merge Proposal: Rollback Auto-Update](https://make.wordpress.org/core/2024/04/19/merge-proposal-rollback-auto-update/)
 - [Summary, Dev Chat, April 17, 2024](https://make.wordpress.org/core/2024/04/18/summary-dev-chat-april-17-2024/)
 - [Agenda, Dev Chat, Wednesday April 17, 2024](https://make.wordpress.org/core/2024/04/17/agenda-dev-chat-wednesday-april-17-2024/)
-- [Performance Chat Summary: 16 April 2024](https://make.wordpress.org/core/2024/04/16/performance-chat-summary-16-april-2024/)
 <!-- CORE:END -->
 
 ## Design
