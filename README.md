@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WordPress.org](https://make.wordpress.org/polyglots/2024/05/04/pte-request-for-wordpress-org-3/)
 - [PTE Request for Umnico Live Chat](https://make.wordpress.org/polyglots/2024/05/03/pte-request-for-umnico-live-chat/)
 - [I’ve suggested translations for Hestia…](https://make.wordpress.org/polyglots/2024/05/03/ive-suggested-translations-for-hestia/)
 - [PTE Request for Login with Vipps and MobilePay](https://make.wordpress.org/polyglots/2024/05/03/pte-request-for-login-with-vipps-and-mobilepay/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/05/02/hi-dear-mentors-we-have-134/)
 - [PTE Request for ‘LifterLMS –…](https://make.wordpress.org/polyglots/2024/05/02/pte-request-for-lifterlms-5/)
 - [PTE Request for Paid Memberships Pro](https://make.wordpress.org/polyglots/2024/05/02/pte-request-for-paid-memberships-pro-5/)
-- [PTE Request for…](https://make.wordpress.org/polyglots/2024/05/01/post-title-pte-request-for-63/)
 <!-- POLYGLOTS:END -->
 
 ## Support
