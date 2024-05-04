@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I suggested some translation strings… I’d appreciate confirmation!](https://make.wordpress.org/polyglots/2024/05/04/i-suggested-some-translation-strings-id-appreciate-confirmation/)
+- [PTE Request for commonsbooking](https://make.wordpress.org/polyglots/2024/05/04/pte-request-for-commonsbooking-2/)
 - [PTE Request for WordPress.org](https://make.wordpress.org/polyglots/2024/05/04/pte-request-for-wordpress-org-3/)
 - [PTE Request for Umnico Live Chat](https://make.wordpress.org/polyglots/2024/05/03/pte-request-for-umnico-live-chat/)
 - [I’ve suggested translations for Hestia…](https://make.wordpress.org/polyglots/2024/05/03/ive-suggested-translations-for-hestia/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2024/05/02/hi-114/)
 - [PTE Request for Syrus AI…](https://make.wordpress.org/polyglots/2024/05/02/pte-request-for-syrus-ai/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/05/02/hi-dear-mentors-we-have-134/)
-- [PTE Request for ‘LifterLMS –…](https://make.wordpress.org/polyglots/2024/05/02/pte-request-for-lifterlms-5/)
-- [PTE Request for Paid Memberships Pro](https://make.wordpress.org/polyglots/2024/05/02/pte-request-for-paid-memberships-pro-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
