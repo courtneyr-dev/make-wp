@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Effortless WordPress: Mastering Project Prep with WP-CLI Automation](https://wordpress.tv/2024/05/05/effortless-wordpress-mastering-project-prep-with-wp-cli-automation/)
 - [Designing with row and stack blocks](https://wordpress.tv/2024/05/02/designing-with-row-and-stack-blocks-2/)
 - [Testing Studio by WordPress.com](https://wordpress.tv/2024/05/02/testing-studio-by-wordpress-com/)
 - [Creating your own custom synced and non-synced patterns](https://wordpress.tv/2024/05/01/creating-your-own-custom-synced-and-non-synced-patterns/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Todo lo que debes saber sobre campos personalizados en WordPress](https://wordpress.tv/2024/04/25/todo-lo-que-debes-saber-sobre-campos-personalizados-en-wordpress/)
 - [Y si la IA nos quita el trabajo, a los locos nos verán bailando: Aplicando la IA en tu estrategia de](https://wordpress.tv/2024/04/25/y-si-la-ia-nos-quita-el-trabajo-a-los-locos-nos-veran-bailando-aplicando-la-ia-en-tu-estrategia-de/)
 - [Cómo ganar dinero con WordPress. Caso Real](https://wordpress.tv/2024/04/25/como-ganar-dinero-con-wordpress-caso-real/)
-- [Creación de contenido educativo e interactivo con H5P en WordPress](https://wordpress.tv/2024/04/25/creacion-de-contenido-educativo-e-interactivo-con-h5p-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
