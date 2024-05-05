@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Admin Custom Description](https://make.wordpress.org/polyglots/2024/05/05/pte-request-for-admin-custom-description/)
+- [PTE Request for WP-WebAuthn](https://make.wordpress.org/polyglots/2024/05/05/pte-request-for-wp-webauthn-4/)
 - [I suggested some translation strings… I’d appreciate confirmation!](https://make.wordpress.org/polyglots/2024/05/04/i-suggested-some-translation-strings-id-appreciate-confirmation/)
 - [PTE Request for commonsbooking](https://make.wordpress.org/polyglots/2024/05/04/pte-request-for-commonsbooking-2/)
 - [PTE Request for WordPress.org](https://make.wordpress.org/polyglots/2024/05/04/pte-request-for-wordpress-org-3/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Login with Vipps and MobilePay](https://make.wordpress.org/polyglots/2024/05/03/pte-request-for-login-with-vipps-and-mobilepay/)
 - [PTE Request for PMPro Courses plugin](https://make.wordpress.org/polyglots/2024/05/02/pte-request-for-pmpro-courses-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/05/02/hi-114/)
-- [PTE Request for Syrus AI…](https://make.wordpress.org/polyglots/2024/05/02/pte-request-for-syrus-ai/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/05/02/hi-dear-mentors-we-have-134/)
 <!-- POLYGLOTS:END -->
 
 ## Support
