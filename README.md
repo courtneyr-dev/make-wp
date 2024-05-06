@@ -125,6 +125,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [About the Interactivity API](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-about/)
+- [Frequently Asked Questions](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-faq/)
 - [Patterns and Block Locking](https://developer.wordpress.org/themes/patterns/patterns-and-block-locking/)
 - [Block Type Patterns](https://developer.wordpress.org/themes/patterns/block-type-patterns/)
 - [Starter Patterns](https://developer.wordpress.org/themes/patterns/starter-patterns/)
@@ -133,8 +135,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Registering Patterns](https://developer.wordpress.org/themes/patterns/registering-patterns/)
 - [Theme.json Version 2 Reference](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-v2/)
 - [Introduction to Patterns](https://developer.wordpress.org/themes/patterns/introduction-to-patterns/)
-- [Patterns](https://developer.wordpress.org/themes/patterns/)
-- [Quick start guide](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-quick-start-guide/)
 <!-- DEVHUB:END -->
 
 ## Themes
