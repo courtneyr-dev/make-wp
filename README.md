@@ -563,12 +563,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Cartagena](https://central.wordcamp.org/wordcamps/wordcamp-cartagena-2/)
 - [WordCamp Vigo, Galicia, Spain](https://central.wordcamp.org/wordcamps/wordcamp-vigo-galicia-spain/)
 - [WordCamp Pontevedra sobre emprendimiento](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-galicia-spain-2/)
-- [WordCamp Jinja 2024](https://central.wordcamp.org/wordcamps/wordcamp-jinja-uganda/)
 - [WordCamp Kraków, Poland](https://central.wordcamp.org/wordcamps/krakow/)
 - [WordCamp Leipzig](https://central.wordcamp.org/wordcamps/wordcamp-leipzig/)
 - [WordCamp Sydney, NSW, Australia](https://central.wordcamp.org/wordcamps/wordcamp-sydney-nsw-australia-2/)
 - [WordCamp Lira 2024](https://central.wordcamp.org/wordcamps/wordcamplira/)
 - [WordCamp Griñón for E-Commerce](https://central.wordcamp.org/wordcamps/wordcamp-grinon-2/)
+- [WordCamp Cape Town, Western Cape, South Africa](https://central.wordcamp.org/wordcamps/wordcamp-cape-town-western-cape-south-africa/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
