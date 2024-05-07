@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Organizing your media library](https://wordpress.tv/2024/05/06/organizing-your-media-library/)
 - [Intro to the site editor](https://wordpress.tv/2024/05/05/intro-to-the-site-editor/)
 - [Effortless WordPress: Mastering Project Prep with WP-CLI Automation](https://wordpress.tv/2024/05/05/effortless-wordpress-mastering-project-prep-with-wp-cli-automation/)
 - [Designing with row and stack blocks](https://wordpress.tv/2024/05/02/designing-with-row-and-stack-blocks-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [IA, WordPress y la creación de contenido: the future is now](https://wordpress.tv/2024/04/26/ia-wordpress-y-la-creacion-de-contenido-the-future-is-now/)
 - [Testing WP Playground in VS Code](https://wordpress.tv/2024/04/25/testing-wp-playground-in-vs-code/)
 - [Todo lo que debes saber sobre campos personalizados en WordPress](https://wordpress.tv/2024/04/25/todo-lo-que-debes-saber-sobre-campos-personalizados-en-wordpress/)
-- [Y si la IA nos quita el trabajo, a los locos nos verán bailando: Aplicando la IA en tu estrategia de](https://wordpress.tv/2024/04/25/y-si-la-ia-nos-quita-el-trabajo-a-los-locos-nos-veran-bailando-aplicando-la-ia-en-tu-estrategia-de/)
 <!-- WPTV:END -->
 
 ## Marketing
