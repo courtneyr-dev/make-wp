@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress en español sin fronteras](https://wordpress.tv/2024/05/07/wordpress-en-espanol-sin-fronteras/)
 - [Organizing your media library](https://wordpress.tv/2024/05/06/organizing-your-media-library/)
 - [Intro to the site editor](https://wordpress.tv/2024/05/05/intro-to-the-site-editor/)
 - [Effortless WordPress: Mastering Project Prep with WP-CLI Automation](https://wordpress.tv/2024/05/05/effortless-wordpress-mastering-project-prep-with-wp-cli-automation/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [REST API para novatos, magia a tu alcance](https://wordpress.tv/2024/04/26/rest-api-para-novatos-magia-a-tu-alcance/)
 - [IA, WordPress y la creación de contenido: the future is now](https://wordpress.tv/2024/04/26/ia-wordpress-y-la-creacion-de-contenido-the-future-is-now/)
 - [Testing WP Playground in VS Code](https://wordpress.tv/2024/04/25/testing-wp-playground-in-vs-code/)
-- [Todo lo que debes saber sobre campos personalizados en WordPress](https://wordpress.tv/2024/04/25/todo-lo-que-debes-saber-sobre-campos-personalizados-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
