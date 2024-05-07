@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.5.3 Maintenance Release](https://wordpress.org/news/2024/05/wordpress-6-5-3-maintenance-release/)
 - [WP Briefing: Episode 78: Guided Growth: Cultivating Contributors Through Mentorship](https://wordpress.org/news/2024/04/episode-78-guided-growth-cultivating-contributors-through-mentorship/)
 - [How WordPress Is Creating a Faster Web](https://wordpress.org/news/2024/04/how-wordpress-is-creating-a-faster-web/)
 - [WP Briefing: Episode 77: Let’s Talk About Data Liberation](https://wordpress.org/news/2024/04/episode-77-lets-talk-about-data-liberation/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.5 Release Candidate 4](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-4/)
 - [WordPress 6.5 Release Candidate 3](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-3/)
 - [WP Briefing: Episode 75: WordCamp Asia 2024 Unwrapped](https://wordpress.org/news/2024/03/episode-75-wordcamp-asia-2024-unwrapped/)
-- [WordPress 6.5 Release Candidate 2](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-2/)
 <!-- NEWS:END -->
 
 ## Jobs
