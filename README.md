@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2024/05/07/pte-request-for-rank-math-seo-4/)
 - [היי!](https://make.wordpress.org/polyglots/2024/05/07/%d7%94%d7%99%d7%99-3/)
 - [Request for it_IT SVN access](https://make.wordpress.org/polyglots/2024/05/06/request-for-it_it-svn-access-2/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/05/06/pte-request-for-bulk-featured-image-4/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WP-WebAuthn](https://make.wordpress.org/polyglots/2024/05/05/pte-request-for-wp-webauthn-4/)
 - [I suggested some translation strings… I’d appreciate confirmation!](https://make.wordpress.org/polyglots/2024/05/04/i-suggested-some-translation-strings-id-appreciate-confirmation/)
 - [PTE Request for commonsbooking](https://make.wordpress.org/polyglots/2024/05/04/pte-request-for-commonsbooking-2/)
-- [PTE Request for WordPress.org](https://make.wordpress.org/polyglots/2024/05/04/pte-request-for-wordpress-org-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
