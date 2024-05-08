@@ -556,6 +556,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordPress YouthCamp Kozhikode](https://central.wordcamp.org/wordcamps/youthcamp-kozhikode/)
 - [WordCamp Cebu 2024](https://central.wordcamp.org/wordcamps/wordcamp-cebu-2024/)
+- [WordCamp Gdynia, Poland](https://central.wordcamp.org/wordcamps/gdynia/)
 - [WordPress Youth Day](https://central.wordcamp.org/wordcamps/managua-nicaragua/)
 - [Somos: Encuentro WordPress LGTB+](https://central.wordcamp.org/wordcamps/barcelona-spain/)
 - [WordCamp Whitley Bay, UK](https://central.wordcamp.org/wordcamps/wordcamp-whitley-bay-uk/)
@@ -564,7 +565,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Vigo, Galicia, Spain](https://central.wordcamp.org/wordcamps/wordcamp-vigo-galicia-spain/)
 - [WordCamp Pontevedra sobre emprendimiento](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-galicia-spain-2/)
 - [WordCamp Kraków, Poland](https://central.wordcamp.org/wordcamps/krakow/)
-- [WordCamp Leipzig](https://central.wordcamp.org/wordcamps/wordcamp-leipzig/)
 - [WordCamp Sydney, NSW, Australia](https://central.wordcamp.org/wordcamps/wordcamp-sydney-nsw-australia-2/)
 - [WordCamp Lira 2024](https://central.wordcamp.org/wordcamps/wordcamplira/)
 - [WordCamp Griñón for E-Commerce](https://central.wordcamp.org/wordcamps/wordcamp-grinon-2/)
