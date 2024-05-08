@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Agenda, Dev Chat, Wednesday May 8, 2024](https://make.wordpress.org/core/2024/05/08/agenda-dev-chat-wednesday-may-8-2024/)
 - [Recap: WordPress 6.5 “Regina” Retrospective](https://make.wordpress.org/core/2024/05/08/recap-wordpress-6-5-regina-retrospective/)
 - [Merge Proposal: Preferred Languages](https://make.wordpress.org/core/2024/05/07/merge-proposal-preferred-languages/)
 - [Progress Report: HTML API](https://make.wordpress.org/core/2024/05/07/progress-report-html-api-2/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, April 24, 2024](https://make.wordpress.org/core/2024/04/25/summary-dev-chat-april-17-2024-2/)
 - [What’s new in Gutenberg 18.2? &lpar;24 April&rpar;](https://make.wordpress.org/core/2024/04/24/whats-new-in-gutenberg-18-2-24-april/)
 - [Agenda, Dev Chat, Wednesday April 24, 2024](https://make.wordpress.org/core/2024/04/24/agenda-dev-chat-wednesday-april-24-2024/)
-- [WordPress 6.5 performance improvements](https://make.wordpress.org/core/2024/04/23/wordpress-6-5-performance-improvements/)
 <!-- CORE:END -->
 
 ## Design
