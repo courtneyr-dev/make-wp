@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tools: Site Health](https://wordpress.tv/2024/05/07/tools-site-health-2/)
+- [Tools: Export and Import](https://wordpress.tv/2024/05/07/tools-export-and-import/)
 - [WordPress en español sin fronteras](https://wordpress.tv/2024/05/07/wordpress-en-espanol-sin-fronteras/)
 - [Organizing your media library](https://wordpress.tv/2024/05/06/organizing-your-media-library/)
 - [Intro to the site editor](https://wordpress.tv/2024/05/05/intro-to-the-site-editor/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Navegando la Soledad: Estrategias para Freelancers del Desarrollo Web](https://wordpress.tv/2024/04/26/navegando-la-soledad-estrategias-para-freelancers-del-desarrollo-web/)
 - [El mantenimiento: claves para tener tu WordPress en forma](https://wordpress.tv/2024/04/26/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma/)
 - [REST API para novatos, magia a tu alcance](https://wordpress.tv/2024/04/26/rest-api-para-novatos-magia-a-tu-alcance/)
-- [IA, WordPress y la creación de contenido: the future is now](https://wordpress.tv/2024/04/26/ia-wordpress-y-la-creacion-de-contenido-the-future-is-now/)
-- [Testing WP Playground in VS Code](https://wordpress.tv/2024/04/25/testing-wp-playground-in-vs-code/)
 <!-- WPTV:END -->
 
 ## Marketing
