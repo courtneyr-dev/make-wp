@@ -352,6 +352,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Lena Sędkiewicz: WordPressowe Wojny. Czy to już czas by przejść na Reactową stronę mocy?](https://wordpress.tv/2024/05/08/lena-sedkiewicz-wordpressowe-wojny-czy-to-juz-czas-by-przejsc-na-reactowa-strone-mocy/)
+- [Maciej Koralewski: WPD – breaking change of localhost &amp; deployment](https://wordpress.tv/2024/05/08/maciej-koralewski-wpd-breaking-change-of-localhost-deployment/)
+- [Karol Sawka: WooCommerce nie może być szybki?](https://wordpress.tv/2024/05/08/karol-sawka-woocommerce-nie-moze-byc-szybki/)
+- [Marcin Pietrzak: Nowinki wersji 6.5 dla programisty](https://wordpress.tv/2024/05/08/marcin-pietrzak-nowinki-wersji-6-5-dla-programisty/)
+- [Mariusz Tarnaski: Twoje środowisko lokalne w dobie pracy zdalnej i AI](https://wordpress.tv/2024/05/08/mariusz-tarnaski-twoje-srodowisko-lokalne-w-dobie-pracy-zdalnej-i-ai/)
+- [Maciej Kuchnik: Zaplanuj to! – czyli WP Cron w pigułce](https://wordpress.tv/2024/05/08/maciej-kuchnik-zaplanuj-to-czyli-wp-cron-w-pigulce/)
+- [Piotr Niewiadomski: Dynamiczna treść w Gutenbergu](https://wordpress.tv/2024/05/08/piotr-niewiadomski-dynamiczna-tresc-w-gutenbergu/)
+- [Dawid Urbański: Przyszłość WordPressa](https://wordpress.tv/2024/05/08/przyszlosc-wordpressa/)
 - [Tools: Site Health](https://wordpress.tv/2024/05/07/tools-site-health-2/)
 - [Tools: Export and Import](https://wordpress.tv/2024/05/07/tools-export-and-import/)
 - [WordPress en español sin fronteras](https://wordpress.tv/2024/05/07/wordpress-en-espanol-sin-fronteras/)
@@ -369,14 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Taking advantage of query loops](https://wordpress.tv/2024/04/28/taking-advantage-of-query-loops-2/)
 - [Adding and customizing a category template](https://wordpress.tv/2024/04/28/adding-and-customizing-a-category-template/)
 - [Create Block Theme Plugin](https://wordpress.tv/2024/04/26/create-block-theme-plugin/)
-- [Todo sobre la nueva biblioteca de fuentes de WordPress](https://wordpress.tv/2024/04/26/todo-sobre-la-nueva-biblioteca-de-fuentes-de-wordpress/)
-- [Introducción a WordPress Analytics](https://wordpress.tv/2024/04/26/introduccion-a-wordpress-analytics/)
-- [¿Blindas tu cuenta bancaria pero dejas tu web en pelotas? ¡Error fatal!](https://wordpress.tv/2024/04/26/blindas-tu-cuenta-bancaria-pero-dejas-tu-web-en-pelotas-error-fatal/)
-- [Diseñando para Humanos](https://wordpress.tv/2024/04/26/disenando-para-humanos/)
-- [¿Qué incluyo en mis presupuestos para no trabajar de más?](https://wordpress.tv/2024/04/26/que-incluyo-en-mis-presupuestos-para-no-trabajar-de-mas/)
-- [Navegando la Soledad: Estrategias para Freelancers del Desarrollo Web](https://wordpress.tv/2024/04/26/navegando-la-soledad-estrategias-para-freelancers-del-desarrollo-web/)
-- [El mantenimiento: claves para tener tu WordPress en forma](https://wordpress.tv/2024/04/26/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma/)
-- [REST API para novatos, magia a tu alcance](https://wordpress.tv/2024/04/26/rest-api-para-novatos-magia-a-tu-alcance/)
 <!-- WPTV:END -->
 
 ## Marketing
