@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Basic WordPress Settings](https://wordpress.tv/2024/05/09/basic-wordpress-settings-2/)
 - [Przemysław Hernik: Jak uprościć korzystanie z SQL w projektach WordPress?](https://wordpress.tv/2024/05/08/przemyslaw-hernik-jak-uproscic-korzystanie-z-sql-w-projektach-wordpress/)
 - [Mariusz Jałyński: 5 Sposobów na zepsucie sobie SEO](https://wordpress.tv/2024/05/08/mariusz-jalynski-5-sposobow-na-zepsucie-sobie-seo/)
 - [Magdalena Paciorek: Repeater w edytorze blokowym bez ACFa](https://wordpress.tv/2024/05/08/magdalena-paciorek-repeater-w-edytorze-blokowym-bez-acfa/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Start contributing to WordPress through the WordPress Training Team](https://wordpress.tv/2024/05/01/start-contributing-to-wordpress-through-the-wordpress-training-team/)
 - [Building a page with only patterns](https://wordpress.tv/2024/04/30/building-a-page-with-only-patterns-3/)
 - [Developer Hours: Creating dynamic content with Block Bindings and Custom Fields](https://wordpress.tv/2024/04/30/developer-hours-creating-dynamic-content-with-block-bindings-and-custom-fields/)
-- [Using block patterns](https://wordpress.tv/2024/04/29/using-block-patterns/)
 <!-- WPTV:END -->
 
 ## Marketing
