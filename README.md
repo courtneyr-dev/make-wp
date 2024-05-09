@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Przemysław Hernik: Jak uprościć korzystanie z SQL w projektach WordPress?](https://wordpress.tv/2024/05/08/przemyslaw-hernik-jak-uproscic-korzystanie-z-sql-w-projektach-wordpress/)
+- [Mariusz Jałyński: 5 Sposobów na zepsucie sobie SEO](https://wordpress.tv/2024/05/08/mariusz-jalynski-5-sposobow-na-zepsucie-sobie-seo/)
+- [Magdalena Paciorek: Repeater w edytorze blokowym bez ACFa](https://wordpress.tv/2024/05/08/magdalena-paciorek-repeater-w-edytorze-blokowym-bez-acfa/)
+- [Tomasz Kołkiewicz: Duplicate content nie szkodzi](https://wordpress.tv/2024/05/08/tomasz-kolkiewicz-duplicate-content-nie-szkodzi/)
 - [Lena Sędkiewicz: WordPressowe Wojny. Czy to już czas by przejść na Reactową stronę mocy?](https://wordpress.tv/2024/05/08/lena-sedkiewicz-wordpressowe-wojny-czy-to-juz-czas-by-przejsc-na-reactowa-strone-mocy/)
 - [Maciej Koralewski: WPD – breaking change of localhost &amp; deployment](https://wordpress.tv/2024/05/08/maciej-koralewski-wpd-breaking-change-of-localhost-deployment/)
 - [Karol Sawka: WooCommerce nie może być szybki?](https://wordpress.tv/2024/05/08/karol-sawka-woocommerce-nie-moze-byc-szybki/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building a page with only patterns](https://wordpress.tv/2024/04/30/building-a-page-with-only-patterns-3/)
 - [Developer Hours: Creating dynamic content with Block Bindings and Custom Fields](https://wordpress.tv/2024/04/30/developer-hours-creating-dynamic-content-with-block-bindings-and-custom-fields/)
 - [Using block patterns](https://wordpress.tv/2024/04/29/using-block-patterns/)
-- [Using the comments block](https://wordpress.tv/2024/04/29/using-the-comments-block/)
-- [Taking advantage of query loops](https://wordpress.tv/2024/04/28/taking-advantage-of-query-loops-2/)
-- [Adding and customizing a category template](https://wordpress.tv/2024/04/28/adding-and-customizing-a-category-template/)
-- [Create Block Theme Plugin](https://wordpress.tv/2024/04/26/create-block-theme-plugin/)
 <!-- WPTV:END -->
 
 ## Marketing
