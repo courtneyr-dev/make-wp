@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Custom Woocommerece Product Customization Plugin](https://jobs.wordpress.net/job/custom-woocommerece-product-customization-plugin/)
+- [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-35/)
+- [Immediate Need: Senior WordPress Developer](https://jobs.wordpress.net/job/immediate-need-senior-wordpress-developer/)
+- [Wanted: Brilliant Full-Stack WordPress Developer, Long-Term Role, Exciting Company](https://jobs.wordpress.net/job/wanted-brilliant-full-stack-wordpress-developer-long-term-role-exciting-company/)
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-2/)
 - [Sr. Developer](https://jobs.wordpress.net/job/sr-developer-3/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-838/)
 - [WordPress Technical Support Engineer for aThemes &lpar;Part-Time&rpar;](https://jobs.wordpress.net/job/wordpress-technical-support-engineer-for-athemes-part-time/)
 - [ASF – Driving Safety Marketing and Fundraising Partners](https://jobs.wordpress.net/job/asf-driving-safety-marketing-and-fundraising-partners-2/)
 - [WordPress Quality Assurance &lpar;QA&rpar; Engineer](https://jobs.wordpress.net/job/wordpress-quality-assurance-qa-engineer/)
-- [PHP WordPress Developer at UpdraftPlus](https://jobs.wordpress.net/job/php-wordpress-developer-at-updraftplus-2/)
-- [Senior WordPress Developer – %100 Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-%100-remote-9/)
-- [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist/)
-- [PHP – WordPress – Plugin – Developer](https://jobs.wordpress.net/job/php-wordpress-plugin-developer-23/)
 <!-- JOBS:END -->
 
 ## Central
