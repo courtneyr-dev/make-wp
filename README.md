@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Markup Markdown](https://make.wordpress.org/polyglots/2024/05/09/pte-request-for-markup-markdown/)
 - [Agenda: Weekly Polyglots Chat – May 8, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/08/agenda-weekly-polyglots-chat-may-8-2024-1300-utc/)
 - [PTE Request for Two Plugins](https://make.wordpress.org/polyglots/2024/05/08/pte-request-for-two-plugins-7/)
 - [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2024/05/07/pte-request-for-advanced-custom-fields-acf-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/05/06/pte-request-for-bulk-featured-image-4/)
 - [Hey!](https://make.wordpress.org/polyglots/2024/05/06/hey-5/)
 - [PTE Request for CF7 Submissions](https://make.wordpress.org/polyglots/2024/05/06/pte-request-for-cf7-submissions/)
-- [PTE Request for Admin Custom Description](https://make.wordpress.org/polyglots/2024/05/05/pte-request-for-admin-custom-description/)
 <!-- POLYGLOTS:END -->
 
 ## Support
