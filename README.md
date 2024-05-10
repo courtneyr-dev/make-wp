@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Autolinks Manager](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-autolinks-manager/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-bulk-featured-image-5/)
 - [PTE Request for GiveWP plugin…](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-givewp-plugin/)
 - [PTE Request for Markup Markdown](https://make.wordpress.org/polyglots/2024/05/09/pte-request-for-markup-markdown/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2024/05/07/pte-request-for-rank-math-seo-4/)
 - [היי!](https://make.wordpress.org/polyglots/2024/05/07/%d7%94%d7%99%d7%99-3/)
 - [Request for it_IT SVN access](https://make.wordpress.org/polyglots/2024/05/06/request-for-it_it-svn-access-2/)
-- [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/05/06/pte-request-for-bulk-featured-image-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
