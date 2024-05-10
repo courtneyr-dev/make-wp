@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Designer](https://jobs.wordpress.net/job/designer-14/)
 - [Custom Woocommerece Product Customization Plugin](https://jobs.wordpress.net/job/custom-woocommerece-product-customization-plugin/)
 - [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-35/)
 - [Immediate Need: Senior WordPress Developer](https://jobs.wordpress.net/job/immediate-need-senior-wordpress-developer/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-838/)
 - [WordPress Technical Support Engineer for aThemes &lpar;Part-Time&rpar;](https://jobs.wordpress.net/job/wordpress-technical-support-engineer-for-athemes-part-time/)
 - [ASF – Driving Safety Marketing and Fundraising Partners](https://jobs.wordpress.net/job/asf-driving-safety-marketing-and-fundraising-partners-2/)
-- [WordPress Quality Assurance &lpar;QA&rpar; Engineer](https://jobs.wordpress.net/job/wordpress-quality-assurance-qa-engineer/)
 <!-- JOBS:END -->
 
 ## Central
