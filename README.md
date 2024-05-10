@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Merge Proposal: Preferred Languages](https://make.wordpress.org/design/2024/05/10/xpost-merge-proposal-preferred-languages/)
 - [Design Share #55 &lpar;Apr 22-May 3&rpar;](https://make.wordpress.org/design/2024/05/06/design-share-55-apr-22-may-3/)
 - [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/design/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 - [Design Share #54 &lpar;Apr 8-Apr 26&rpar;](https://make.wordpress.org/design/2024/04/22/design-share-54-apr-8-apr-26/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share: Mar 25-Apr 5](https://make.wordpress.org/design/2024/04/08/design-share-mar-25-apr-5/)
 - [X-post: Homepage updates](https://make.wordpress.org/design/2024/04/05/xpost-homepage-updates/)
 - [X-post: Looking for feedback: Thumbnails for the Learn redesign](https://make.wordpress.org/design/2024/04/05/xpost-looking-for-feedback-thumbnails-for-the-learn-redesign/)
-- [Design Share: Mar 11-Mar 22](https://make.wordpress.org/design/2024/03/25/design-share-mar-11-mar-22/)
 <!-- DESIGN:END -->
 
 ## Mobile
