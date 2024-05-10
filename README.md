@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE Request for Two Plugins](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-two-plugins-8/)
 - [PTE Request for States, Cities,…](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-states-cities-2/)
 - [I’m interested in PTE for elementor.](https://make.wordpress.org/polyglots/2024/05/10/im-interested-in-pte-for-elementor/)
 - [PTE Request for Simple SEO](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-simple-seo/)
-- [PTE Request for Autolinks Manager](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-autolinks-manager/)
+- [PTE Request for three plugins](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-autolinks-manager/)
 - [PTE Request for Bulk Featured Image](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-bulk-featured-image-5/)
 - [PTE Request for GiveWP plugin…](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-givewp-plugin/)
 - [PTE Request for Markup Markdown](https://make.wordpress.org/polyglots/2024/05/09/pte-request-for-markup-markdown/)
 - [Agenda: Weekly Polyglots Chat – May 8, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/08/agenda-weekly-polyglots-chat-may-8-2024-1300-utc/)
 - [PTE Request for Two Plugins](https://make.wordpress.org/polyglots/2024/05/08/pte-request-for-two-plugins-7/)
+- [PTE Request for Advanced Custom Fields &lpar;ACF&rpar;](https://make.wordpress.org/polyglots/2024/05/07/pte-request-for-advanced-custom-fields-acf-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
