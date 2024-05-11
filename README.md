@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CMS WordPress developer](https://jobs.wordpress.net/job/cms-wordpress-developer/)
+- [WordPress Freelance Web Developer or Agency &lpar;and Design&rpar;](https://jobs.wordpress.net/job/wordpress-freelance-web-developer-or-agency-and-design/)
+- [Paid Membership Pro plugin payment settings](https://jobs.wordpress.net/job/paid-membership-pro-plugin-payment-settings/)
 - [Designer](https://jobs.wordpress.net/job/designer-14/)
 - [Custom Woocommerece Product Customization Plugin](https://jobs.wordpress.net/job/custom-woocommerece-product-customization-plugin/)
 - [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-35/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Wanted: Brilliant Full-Stack WordPress Developer, Long-Term Role, Exciting Company](https://jobs.wordpress.net/job/wanted-brilliant-full-stack-wordpress-developer-long-term-role-exciting-company/)
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-2/)
 - [Sr. Developer](https://jobs.wordpress.net/job/sr-developer-3/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-838/)
-- [WordPress Technical Support Engineer for aThemes &lpar;Part-Time&rpar;](https://jobs.wordpress.net/job/wordpress-technical-support-engineer-for-athemes-part-time/)
-- [ASF – Driving Safety Marketing and Fundraising Partners](https://jobs.wordpress.net/job/asf-driving-safety-marketing-and-fundraising-partners-2/)
 <!-- JOBS:END -->
 
 ## Central
