@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Building plugins and themes that support multisite](https://wordpress.tv/2024/05/11/building-plugins-and-themes-that-support-multisite/)
+- [Developing for a multisite network](https://wordpress.tv/2024/05/11/developing-for-a-multisite-network/)
+- [Advanced multisite management](https://wordpress.tv/2024/05/11/advanced-multisite-management-2/)
+- [Managing a WordPress multisite network](https://wordpress.tv/2024/05/11/managing-a-wordpress-multisite-network-2/)
 - [Setting up a WordPress multisite network](https://wordpress.tv/2024/05/11/setting-up-a-wordpress-multisite-network/)
 - [The commonly used Internationalization functions](https://wordpress.tv/2024/05/11/the-commonly-used-internationalization-functions/)
 - [What is Internationalization?](https://wordpress.tv/2024/05/11/what-is-internationalization/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Piotr Niewiadomski: Dynamiczna treść w Gutenbergu](https://wordpress.tv/2024/05/08/piotr-niewiadomski-dynamiczna-tresc-w-gutenbergu/)
 - [Dawid Urbański: Przyszłość WordPressa](https://wordpress.tv/2024/05/08/przyszlosc-wordpressa/)
 - [Tools: Site Health](https://wordpress.tv/2024/05/07/tools-site-health-2/)
-- [Tools: Export and Import](https://wordpress.tv/2024/05/07/tools-export-and-import/)
-- [WordPress en español sin fronteras](https://wordpress.tv/2024/05/07/wordpress-en-espanol-sin-fronteras/)
-- [Organizing your media library](https://wordpress.tv/2024/05/06/organizing-your-media-library/)
-- [Intro to the site editor](https://wordpress.tv/2024/05/05/intro-to-the-site-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
