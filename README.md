@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Setting up a WordPress multisite network](https://wordpress.tv/2024/05/11/setting-up-a-wordpress-multisite-network/)
+- [The commonly used Internationalization functions](https://wordpress.tv/2024/05/11/the-commonly-used-internationalization-functions/)
+- [What is Internationalization?](https://wordpress.tv/2024/05/11/what-is-internationalization/)
+- [Tools to detect security vulnerabilities](https://wordpress.tv/2024/05/11/tools-to-detect-security-vulnerabilities/)
+- [Fixing common security vulnerabilities](https://wordpress.tv/2024/05/11/fixing-common-security-vulnerabilities/)
+- [Securely developing plugins and themes](https://wordpress.tv/2024/05/11/securely-developing-plugins-and-themes/)
 - [Using the style book](https://wordpress.tv/2024/05/10/using-the-style-book/)
 - [Basic WordPress Settings](https://wordpress.tv/2024/05/09/basic-wordpress-settings-2/)
 - [Przemysław Hernik: Jak uprościć korzystanie z SQL w projektach WordPress?](https://wordpress.tv/2024/05/08/przemyslaw-hernik-jak-uproscic-korzystanie-z-sql-w-projektach-wordpress/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress en español sin fronteras](https://wordpress.tv/2024/05/07/wordpress-en-espanol-sin-fronteras/)
 - [Organizing your media library](https://wordpress.tv/2024/05/06/organizing-your-media-library/)
 - [Intro to the site editor](https://wordpress.tv/2024/05/05/intro-to-the-site-editor/)
-- [Effortless WordPress: Mastering Project Prep with WP-CLI Automation](https://wordpress.tv/2024/05/05/effortless-wordpress-mastering-project-prep-with-wp-cli-automation/)
-- [Designing with row and stack blocks](https://wordpress.tv/2024/05/02/designing-with-row-and-stack-blocks-2/)
-- [Testing Studio by WordPress.com](https://wordpress.tv/2024/05/02/testing-studio-by-wordpress-com/)
-- [Creating your own custom synced and non-synced patterns](https://wordpress.tv/2024/05/01/creating-your-own-custom-synced-and-non-synced-patterns/)
-- [Start contributing to WordPress through the WordPress Training Team](https://wordpress.tv/2024/05/01/start-contributing-to-wordpress-through-the-wordpress-training-team/)
-- [Building a page with only patterns](https://wordpress.tv/2024/04/30/building-a-page-with-only-patterns-3/)
 <!-- WPTV:END -->
 
 ## Marketing
