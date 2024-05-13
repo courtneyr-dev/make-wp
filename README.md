@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-4/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-28/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-16/)
+- [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-2/)
 - [CMS WordPress developer](https://jobs.wordpress.net/job/cms-wordpress-developer/)
 - [WordPress Freelance Web Developer or Agency &lpar;and Design&rpar;](https://jobs.wordpress.net/job/wordpress-freelance-web-developer-or-agency-and-design/)
 - [Paid Membership Pro plugin payment settings](https://jobs.wordpress.net/job/paid-membership-pro-plugin-payment-settings/)
-- [Designer](https://jobs.wordpress.net/job/designer-14/)
 - [Custom Woocommerece Product Customization Plugin](https://jobs.wordpress.net/job/custom-woocommerece-product-customization-plugin/)
 - [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-35/)
 - [Immediate Need: Senior WordPress Developer](https://jobs.wordpress.net/job/immediate-need-senior-wordpress-developer/)
-- [Wanted: Brilliant Full-Stack WordPress Developer, Long-Term Role, Exciting Company](https://jobs.wordpress.net/job/wanted-brilliant-full-stack-wordpress-developer-long-term-role-exciting-company/)
-- [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-2/)
-- [Sr. Developer](https://jobs.wordpress.net/job/sr-developer-3/)
 <!-- JOBS:END -->
 
 ## Central
