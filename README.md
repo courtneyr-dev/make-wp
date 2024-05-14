@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Alternatives to Custom Meta Boxes in the Block Editor](https://wordpress.tv/2024/05/14/developer-hours-alternatives-to-custom-meta-boxes-in-the-block-editor/)
 - [Building plugins and themes that support multisite](https://wordpress.tv/2024/05/11/building-plugins-and-themes-that-support-multisite/)
 - [Developing for a multisite network](https://wordpress.tv/2024/05/11/developing-for-a-multisite-network/)
 - [Advanced multisite management](https://wordpress.tv/2024/05/11/advanced-multisite-management-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Maciej Kuchnik: Zaplanuj to! – czyli WP Cron w pigułce](https://wordpress.tv/2024/05/08/maciej-kuchnik-zaplanuj-to-czyli-wp-cron-w-pigulce/)
 - [Piotr Niewiadomski: Dynamiczna treść w Gutenbergu](https://wordpress.tv/2024/05/08/piotr-niewiadomski-dynamiczna-tresc-w-gutenbergu/)
 - [Dawid Urbański: Przyszłość WordPressa](https://wordpress.tv/2024/05/08/przyszlosc-wordpressa/)
-- [Tools: Site Health](https://wordpress.tv/2024/05/07/tools-site-health-2/)
 <!-- WPTV:END -->
 
 ## Marketing
