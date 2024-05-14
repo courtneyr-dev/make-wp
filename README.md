@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 79: Why Start a WordPress Media Corps &lpar;and Why Now?&rpar;](https://wordpress.org/news/2024/05/episode-79-why-start-a-wordpress-media-corps-and-why-now/)
 - [WordPress 6.5.3 Maintenance Release](https://wordpress.org/news/2024/05/wordpress-6-5-3-maintenance-release/)
 - [WP Briefing: Episode 78: Guided Growth: Cultivating Contributors Through Mentorship](https://wordpress.org/news/2024/04/episode-78-guided-growth-cultivating-contributors-through-mentorship/)
 - [How WordPress Is Creating a Faster Web](https://wordpress.org/news/2024/04/how-wordpress-is-creating-a-faster-web/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.5 “Regina”](https://wordpress.org/news/2024/04/regina/)
 - [WordPress 6.5 Release Candidate 4](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-4/)
 - [WordPress 6.5 Release Candidate 3](https://wordpress.org/news/2024/03/wordpress-6-5-release-candidate-3/)
-- [WP Briefing: Episode 75: WordCamp Asia 2024 Unwrapped](https://wordpress.org/news/2024/03/episode-75-wordcamp-asia-2024-unwrapped/)
 <!-- NEWS:END -->
 
 ## Jobs
