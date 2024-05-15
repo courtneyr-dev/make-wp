@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for All in…](https://make.wordpress.org/polyglots/2024/05/15/pte-request-for-all-in-2/)
 - [Looking for a Gujarati translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2024/05/15/looking-for-a-gujarati-translation-3/)
 - [Agenda: Weekly Polyglots Chat – May 15, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/15/agenda-weekly-polyglots-chat-may-15-2024-0700-utc/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/polyglots/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Torod –…](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-torod/)
 - [PTE Request for States, Cities,…](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-states-cities-2/)
 - [I’m interested in PTE for elementor.](https://make.wordpress.org/polyglots/2024/05/10/im-interested-in-pte-for-elementor/)
-- [PTE Request for Simple SEO](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-simple-seo/)
 <!-- POLYGLOTS:END -->
 
 ## Support
