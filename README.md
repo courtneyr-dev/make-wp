@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordPress Community Support Financial Health Update](https://make.wordpress.org/community/2024/05/15/wordpress-community-support-financial-health-update/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/community/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [Community Team May Meeting Recap](https://make.wordpress.org/community/2024/05/06/community-team-may-meeting-recap/)
 - [Community Team Meeting Agenda for 2 – May -2024](https://make.wordpress.org/community/2024/05/02/community-team-meeting-agenda-for-2-may-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Contributor Mentorship: 2024 Q1 Cohort Graduates](https://make.wordpress.org/community/2024/04/08/wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
 - [Share Your Feedback with Meetup.com](https://make.wordpress.org/community/2024/04/08/share-your-feedback-with-meetup-com/)
 - [Community Team April Meeting Recap](https://make.wordpress.org/community/2024/04/07/community-team-april-meeting-recap/)
-- [Suggested Updates Based on Feedback of the events.wordpress.org Site](https://make.wordpress.org/community/2024/04/05/suggested-updates-based-on-feedback-of-the-events-wordpress-org-site/)
 <!-- COMMUNITY:END -->
 
 ## Meta
