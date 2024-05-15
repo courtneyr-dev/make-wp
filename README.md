@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: Creating WordPress Playground Blueprints for Testing and Demos](https://learn.wordpress.org/?meeting=253503)
 - [Get to Know the Training Team’s Guide Program](https://learn.wordpress.org/?meeting=get-to-know-the-training-teams-guide-program)
 - [Homepage displays: Latest posts vs static](https://learn.wordpress.org/?meeting=homepage-displays-latest-posts-vs-static-2)
 - [How to facilitate Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-online-workshop-for-the-wordpress-training-team-2)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.5 のアップデート内容を見てみよう！](https://learn.wordpress.org/?meeting=wordpress-6-5-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e5%86%85%e5%ae%b9%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
 - [WordPress developer live stream: contributing to WordPress](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-contributing-to-wordpress-4)
 - [Make WordPress Training Team Faculty Program Information Session 2](https://learn.wordpress.org/?meeting=make-wordpress-training-team-faculty-program-information-session-2)
-- [Make WordPress Training Team Faculty Program Information Session 1](https://learn.wordpress.org/?meeting=make-wordpress-training-team-faculty-program-information-session-1)
 <!-- SLS:END -->
 
 ## Test
