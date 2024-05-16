@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for Manager Permission for…](https://make.wordpress.org/polyglots/2024/05/16/request-for-manager-permission-for/)
 - [CLPTE role request for PushEngage project](https://make.wordpress.org/polyglots/2024/05/16/clpte-role-request-for-pushengage-project/)
 - [Review Request of French Translations for CoDesigner](https://make.wordpress.org/polyglots/2024/05/16/review-request-of-french-translations-for-codesigner/)
 - [PTE Request for UpdraftPlus: WordPress…](https://make.wordpress.org/polyglots/2024/05/16/pte-request-for-updraftplus-wordpress/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Looking for a Gujarati translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2024/05/15/looking-for-a-gujarati-translation-3/)
 - [Agenda: Weekly Polyglots Chat – May 15, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/15/agenda-weekly-polyglots-chat-may-15-2024-0700-utc/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/polyglots/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
-- [PTE request for carnet-de-vols](https://make.wordpress.org/polyglots/2024/05/13/pte-request-for-carnet-de-vols/)
 <!-- POLYGLOTS:END -->
 
 ## Support
