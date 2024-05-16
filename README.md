@@ -529,8 +529,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CMS WordPress developer](https://jobs.wordpress.net/job/cms-wordpress-developer/)
 - [WordPress Freelance Web Developer or Agency &lpar;and Design&rpar;](https://jobs.wordpress.net/job/wordpress-freelance-web-developer-or-agency-and-design/)
 - [Paid Membership Pro plugin payment settings](https://jobs.wordpress.net/job/paid-membership-pro-plugin-payment-settings/)
-- [Custom Woocommerece Product Customization Plugin](https://jobs.wordpress.net/job/custom-woocommerece-product-customization-plugin/)
 - [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-35/)
+- [Immediate Need: Senior WordPress Developer](https://jobs.wordpress.net/job/immediate-need-senior-wordpress-developer/)
 <!-- JOBS:END -->
 
 ## Central
