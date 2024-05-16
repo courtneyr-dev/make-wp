@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress video thumbnail generator. Step by step](https://wordpress.tv/2024/05/16/wordpress-video-thumbnail-generator-step-by-step/)
 - [Migrating your site Part 1: Changing to a new host and domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-1-changing-to-a-new-host-and-domain/)
 - [Migrating your site Part 2: Changing your host but keeping your domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/)
 - [The built-in WordPress debugging options](https://wordpress.tv/2024/05/15/the-built-in-wordpress-debugging-options/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lena Sędkiewicz: WordPressowe Wojny. Czy to już czas by przejść na Reactową stronę mocy?](https://wordpress.tv/2024/05/08/lena-sedkiewicz-wordpressowe-wojny-czy-to-juz-czas-by-przejsc-na-reactowa-strone-mocy/)
 - [Maciej Koralewski: WPD – breaking change of localhost &amp; deployment](https://wordpress.tv/2024/05/08/maciej-koralewski-wpd-breaking-change-of-localhost-deployment/)
 - [Karol Sawka: WooCommerce nie może być szybki?](https://wordpress.tv/2024/05/08/karol-sawka-woocommerce-nie-moze-byc-szybki/)
-- [Marcin Pietrzak: Nowinki wersji 6.5 dla programisty](https://wordpress.tv/2024/05/08/marcin-pietrzak-nowinki-wersji-6-5-dla-programisty/)
 <!-- WPTV:END -->
 
 ## Marketing
