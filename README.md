@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager/)
+- [Designer](https://jobs.wordpress.net/job/designer-15/)
 - [Expert for WP Job Manager Plugin](https://jobs.wordpress.net/job/expert-for-wp-job-manager-plugin/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-4/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-28/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CMS WordPress developer](https://jobs.wordpress.net/job/cms-wordpress-developer/)
 - [WordPress Freelance Web Developer or Agency &lpar;and Design&rpar;](https://jobs.wordpress.net/job/wordpress-freelance-web-developer-or-agency-and-design/)
 - [Paid Membership Pro plugin payment settings](https://jobs.wordpress.net/job/paid-membership-pro-plugin-payment-settings/)
-- [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-35/)
-- [Immediate Need: Senior WordPress Developer](https://jobs.wordpress.net/job/immediate-need-senior-wordpress-developer/)
 <!-- JOBS:END -->
 
 ## Central
