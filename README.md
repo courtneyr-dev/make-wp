@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Review Request of French Translations for CoDesigner](https://make.wordpress.org/polyglots/2024/05/16/review-request-of-french-translations-for-codesigner/)
 - [PTE Request for UpdraftPlus: WordPress…](https://make.wordpress.org/polyglots/2024/05/16/pte-request-for-updraftplus-wordpress/)
 - [PTE Request for Log in with Google](https://make.wordpress.org/polyglots/2024/05/16/pte-request-for-log-in-with-google/)
 - [Hey!](https://make.wordpress.org/polyglots/2024/05/15/hey-6/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/polyglots/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [PTE request for carnet-de-vols](https://make.wordpress.org/polyglots/2024/05/13/pte-request-for-carnet-de-vols/)
 - [PTE Request for Contact Form…](https://make.wordpress.org/polyglots/2024/05/12/pte-request-for-contact-form-4/)
-- [PTE Request for FriendStore for…](https://make.wordpress.org/polyglots/2024/05/10/pte-request-for-friendstore-for/)
 <!-- POLYGLOTS:END -->
 
 ## Support
