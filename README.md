@@ -521,8 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP Job Manager/Google Jobs Structured Data](https://jobs.wordpress.net/job/wp-job-manager-google-jobs-structured-data/)
 - [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager/)
-- [Designer](https://jobs.wordpress.net/job/designer-15/)
 - [Expert for WP Job Manager Plugin](https://jobs.wordpress.net/job/expert-for-wp-job-manager-plugin/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-4/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-28/)
