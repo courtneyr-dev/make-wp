@@ -352,6 +352,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Managing Settings: Privacy Policy](https://wordpress.tv/2024/05/16/managing-settings-privacy-policy/)
+- [Managing Settings: Permalinks](https://wordpress.tv/2024/05/16/managing-settings-permalinks-2/)
+- [Managing Settings: Media](https://wordpress.tv/2024/05/16/managing-settings-media-2/)
+- [Managing Settings: Discussion](https://wordpress.tv/2024/05/16/managing-settings-discussion/)
+- [Managing Settings: Reading](https://wordpress.tv/2024/05/16/managing-settings-reading/)
+- [Managing Settings: Writing](https://wordpress.tv/2024/05/16/managing-settings-writing/)
+- [Managing Settings: General](https://wordpress.tv/2024/05/16/managing-settings-general-2/)
 - [WordPress video thumbnail generator. Step by step](https://wordpress.tv/2024/05/16/wordpress-video-thumbnail-generator-step-by-step/)
 - [Migrating your site Part 1: Changing to a new host and domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-1-changing-to-a-new-host-and-domain/)
 - [Migrating your site Part 2: Changing your host but keeping your domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/)
@@ -370,13 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Securely developing plugins and themes](https://wordpress.tv/2024/05/11/securely-developing-plugins-and-themes/)
 - [Using the style book](https://wordpress.tv/2024/05/10/using-the-style-book/)
 - [Basic WordPress Settings](https://wordpress.tv/2024/05/09/basic-wordpress-settings-2/)
-- [Przemysław Hernik: Jak uprościć korzystanie z SQL w projektach WordPress?](https://wordpress.tv/2024/05/08/przemyslaw-hernik-jak-uproscic-korzystanie-z-sql-w-projektach-wordpress/)
-- [Mariusz Jałyński: 5 Sposobów na zepsucie sobie SEO](https://wordpress.tv/2024/05/08/mariusz-jalynski-5-sposobow-na-zepsucie-sobie-seo/)
-- [Magdalena Paciorek: Repeater w edytorze blokowym bez ACFa](https://wordpress.tv/2024/05/08/magdalena-paciorek-repeater-w-edytorze-blokowym-bez-acfa/)
-- [Tomasz Kołkiewicz: Duplicate content nie szkodzi](https://wordpress.tv/2024/05/08/tomasz-kolkiewicz-duplicate-content-nie-szkodzi/)
-- [Lena Sędkiewicz: WordPressowe Wojny. Czy to już czas by przejść na Reactową stronę mocy?](https://wordpress.tv/2024/05/08/lena-sedkiewicz-wordpressowe-wojny-czy-to-juz-czas-by-przejsc-na-reactowa-strone-mocy/)
-- [Maciej Koralewski: WPD – breaking change of localhost &amp; deployment](https://wordpress.tv/2024/05/08/maciej-koralewski-wpd-breaking-change-of-localhost-deployment/)
-- [Karol Sawka: WooCommerce nie może być szybki?](https://wordpress.tv/2024/05/08/karol-sawka-woocommerce-nie-moze-byc-szybki/)
 <!-- WPTV:END -->
 
 ## Marketing
