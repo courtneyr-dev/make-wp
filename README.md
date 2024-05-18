@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for VillaTheme plugins](https://make.wordpress.org/polyglots/2024/05/18/pte-request-for-villatheme-plugins/)
 - [PTE Request for WordPress](https://make.wordpress.org/polyglots/2024/05/18/pte-request-for-wordpress-4/)
 - [Request for Manager Permission for…](https://make.wordpress.org/polyglots/2024/05/16/request-for-manager-permission-for/)
 - [CLPTE role request for PushEngage project](https://make.wordpress.org/polyglots/2024/05/16/clpte-role-request-for-pushengage-project/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hey!](https://make.wordpress.org/polyglots/2024/05/15/hey-6/)
 - [PTE request for All in…](https://make.wordpress.org/polyglots/2024/05/15/pte-request-for-all-in-2/)
 - [Looking for a Gujarati translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2024/05/15/looking-for-a-gujarati-translation-3/)
-- [Agenda: Weekly Polyglots Chat – May 15, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/15/agenda-weekly-polyglots-chat-may-15-2024-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
