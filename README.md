@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Programmatic SEO in WordPress – How I Got Success Skyhigh](https://wordpress.tv/2024/05/17/programmatic-seo-in-wordpress-how-i-got-success-skyhigh/)
 - [Managing Settings: Privacy Policy](https://wordpress.tv/2024/05/16/managing-settings-privacy-policy/)
 - [Managing Settings: Permalinks](https://wordpress.tv/2024/05/16/managing-settings-permalinks-2/)
 - [Managing Settings: Media](https://wordpress.tv/2024/05/16/managing-settings-media-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fixing common security vulnerabilities](https://wordpress.tv/2024/05/11/fixing-common-security-vulnerabilities/)
 - [Securely developing plugins and themes](https://wordpress.tv/2024/05/11/securely-developing-plugins-and-themes/)
 - [Using the style book](https://wordpress.tv/2024/05/10/using-the-style-book/)
-- [Basic WordPress Settings](https://wordpress.tv/2024/05/09/basic-wordpress-settings-2/)
 <!-- WPTV:END -->
 
 ## Marketing
