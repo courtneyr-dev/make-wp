@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Taking Wireframes in Figma to WordPress](https://jobs.wordpress.net/job/taking-wireframes-in-figma-to-wordpress/)
 - [WP Job Manager/Google Jobs Structured Data](https://jobs.wordpress.net/job/wp-job-manager-google-jobs-structured-data/)
 - [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager/)
 - [Expert for WP Job Manager Plugin](https://jobs.wordpress.net/job/expert-for-wp-job-manager-plugin/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-2/)
 - [CMS WordPress developer](https://jobs.wordpress.net/job/cms-wordpress-developer/)
 - [WordPress Freelance Web Developer or Agency &lpar;and Design&rpar;](https://jobs.wordpress.net/job/wordpress-freelance-web-developer-or-agency-and-design/)
-- [Paid Membership Pro plugin payment settings](https://jobs.wordpress.net/job/paid-membership-pro-plugin-payment-settings/)
 <!-- JOBS:END -->
 
 ## Central
