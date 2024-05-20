@@ -325,8 +325,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 20 May 2024](https://make.wordpress.org/test/2024/05/20/xpost-test-team-update-20-may-2024/)
 - [Team Chat Agenda: 21 May 2024](https://make.wordpress.org/test/2024/05/20/team-chat-agenda-21-may-2024/)
-- [Week in Test: May 21, 2024](https://make.wordpress.org/test/2024/05/20/week-in-test-may-21-2024/)
+- [Week in Test: May 20, 2024](https://make.wordpress.org/test/2024/05/20/week-in-test-may-21-2024/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/test/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [Week in Test: May 13, 2024](https://make.wordpress.org/test/2024/05/13/week-in-test-may-13-2024/)
 - [X-post: Test Team Update: 13 May 2024](https://make.wordpress.org/test/2024/05/13/xpost-test-team-update-13-may-2024/)
@@ -334,7 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Early opportunities to Test WordPress 6.6](https://make.wordpress.org/test/2024/05/09/early-opportunities-to-test-wordpress-6-6/)
 - [Test Team Chat Agenda for 7 May 2024](https://make.wordpress.org/test/2024/05/07/test-team-chat-agenda-for-7-may-2024/)
 - [X-post: Test Team Update: 6 May 2024](https://make.wordpress.org/test/2024/05/06/xpost-test-team-update-6-may-2024-2/)
-- [X-post: Test Team Update: 6 May 2024](https://make.wordpress.org/test/2024/05/06/xpost-test-team-update-6-may-2024/)
 <!-- TEST:END -->
 
 ## TV
