@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Construção de Experiências Web Escaláveis com Gutenberg e Design Systems](https://wordpress.tv/2024/05/20/construcao-de-experiencias-web-escalaveis-com-gutenberg-e-design-systems/)
+- [The Accessibility Quest: walkthrough for success](https://wordpress.tv/2024/05/20/the-accessibility-quest-walkthrough-for-success/)
+- [Typography Talk: Making Your WordPress Site Pop!](https://wordpress.tv/2024/05/20/typography-talk-making-your-wordpress-site-pop/)
+- [One single reason why your Core Web Vitals are not passing](https://wordpress.tv/2024/05/20/one-single-reason-why-your-core-web-vitals-are-not-passing/)
+- [WordPress security VIP: what are the Very Important Practices that will let you sleep tight at night](https://wordpress.tv/2024/05/20/wordpress-security-vip-what-are-the-very-important-practices-that-will-let-you-sleep-tight-at-night/)
+- [Woo Performance &amp; Optimisation](https://wordpress.tv/2024/05/20/woo-performance-optimisation/)
+- [Doutor Finanças um caso de sucesso: a história da evolução do seu Portal até aos dias de hoje](https://wordpress.tv/2024/05/20/doutor-financas-um-caso-de-sucesso-a-historia-da-evolucao-do-seu-portal-ate-aos-dias-de-hoje/)
+- [Block Bindings e os seus casos de uso – como editar os customs fields tal como se de conteúdo se tra](https://wordpress.tv/2024/05/20/block-bindings-e-os-seus-casos-de-uso-como-editar-os-customs-fields-tal-como-se-de-conteudo-se-tra/)
+- [Block Themes: The game changer that came to stay](https://wordpress.tv/2024/05/20/block-themes-the-game-changer-that-came-to-stay/)
+- [SEO 2.0: A Guide for E-commerce Success with SGE and AI-Driven SEO Strategies](https://wordpress.tv/2024/05/20/seo-2-0-a-guide-for-e-commerce-success-with-sge-and-ai-driven-seo-strategies/)
 - [Sumit Singh: How to Change the WordPress Admin Email Without Verification](https://wordpress.tv/2024/05/20/how-to-change-the-wordpress-admin-email-without-verification/)
 - [Casos A/B, escollint el millor per a WordPress](https://wordpress.tv/2024/05/19/casos-a-b-escollint-el-millor-per-a-wordpress/)
 - [Programmatic SEO in WordPress – How I Got Success Skyhigh](https://wordpress.tv/2024/05/17/programmatic-seo-in-wordpress-how-i-got-success-skyhigh/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Migrating your site Part 2: Changing your host but keeping your domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/)
 - [The built-in WordPress debugging options](https://wordpress.tv/2024/05/15/the-built-in-wordpress-debugging-options/)
 - [Advanced WordPress block layouts](https://wordpress.tv/2024/05/14/advanced-wordpress-block-layouts/)
-- [Developer Hours: Alternatives to Custom Meta Boxes in the Block Editor](https://wordpress.tv/2024/05/14/developer-hours-alternatives-to-custom-meta-boxes-in-the-block-editor/)
-- [Building plugins and themes that support multisite](https://wordpress.tv/2024/05/11/building-plugins-and-themes-that-support-multisite/)
-- [Developing for a multisite network](https://wordpress.tv/2024/05/11/developing-for-a-multisite-network/)
-- [Advanced multisite management](https://wordpress.tv/2024/05/11/advanced-multisite-management-2/)
-- [Managing a WordPress multisite network](https://wordpress.tv/2024/05/11/managing-a-wordpress-multisite-network-2/)
-- [Setting up a WordPress multisite network](https://wordpress.tv/2024/05/11/setting-up-a-wordpress-multisite-network/)
-- [The commonly used Internationalization functions](https://wordpress.tv/2024/05/11/the-commonly-used-internationalization-functions/)
-- [What is Internationalization?](https://wordpress.tv/2024/05/11/what-is-internationalization/)
-- [Tools to detect security vulnerabilities](https://wordpress.tv/2024/05/11/tools-to-detect-security-vulnerabilities/)
-- [Fixing common security vulnerabilities](https://wordpress.tv/2024/05/11/fixing-common-security-vulnerabilities/)
 <!-- WPTV:END -->
 
 ## Marketing
