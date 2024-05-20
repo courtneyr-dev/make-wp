@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Multisite demistified – can we use the WordPress as a SaaS?](https://wordpress.tv/2024/05/20/multisite-demistified-can-we-use-the-wordpress-as-a-saas/)
 - [Construção de Experiências Web Escaláveis com Gutenberg e Design Systems](https://wordpress.tv/2024/05/20/construcao-de-experiencias-web-escalaveis-com-gutenberg-e-design-systems/)
 - [The Accessibility Quest: walkthrough for success](https://wordpress.tv/2024/05/20/the-accessibility-quest-walkthrough-for-success/)
 - [Typography Talk: Making Your WordPress Site Pop!](https://wordpress.tv/2024/05/20/typography-talk-making-your-wordpress-site-pop/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Migrating your site Part 1: Changing to a new host and domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-1-changing-to-a-new-host-and-domain/)
 - [Migrating your site Part 2: Changing your host but keeping your domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/)
 - [The built-in WordPress debugging options](https://wordpress.tv/2024/05/15/the-built-in-wordpress-debugging-options/)
-- [Advanced WordPress block layouts](https://wordpress.tv/2024/05/14/advanced-wordpress-block-layouts/)
 <!-- WPTV:END -->
 
 ## Marketing
