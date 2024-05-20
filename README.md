@@ -352,7 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Casos A/B, triant el millor per a WordPress](https://wordpress.tv/2024/05/19/casos-a-b-triant-el-millor-per-a-wordpress/)
+- [Casos A/B, escollint el millor per a WordPress](https://wordpress.tv/2024/05/19/casos-a-b-escollint-el-millor-per-a-wordpress/)
 - [Programmatic SEO in WordPress – How I Got Success Skyhigh](https://wordpress.tv/2024/05/17/programmatic-seo-in-wordpress-how-i-got-success-skyhigh/)
 - [Managing Settings: Privacy Policy](https://wordpress.tv/2024/05/16/managing-settings-privacy-policy/)
 - [Managing Settings: Permalinks](https://wordpress.tv/2024/05/16/managing-settings-permalinks-2/)
