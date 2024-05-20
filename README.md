@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sumit Singh: How to Change the WordPress Admin Email Without Verification](https://wordpress.tv/2024/05/20/how-to-change-the-wordpress-admin-email-without-verification/)
 - [Casos A/B, escollint el millor per a WordPress](https://wordpress.tv/2024/05/19/casos-a-b-escollint-el-millor-per-a-wordpress/)
 - [Programmatic SEO in WordPress – How I Got Success Skyhigh](https://wordpress.tv/2024/05/17/programmatic-seo-in-wordpress-how-i-got-success-skyhigh/)
 - [Managing Settings: Privacy Policy](https://wordpress.tv/2024/05/16/managing-settings-privacy-policy/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is Internationalization?](https://wordpress.tv/2024/05/11/what-is-internationalization/)
 - [Tools to detect security vulnerabilities](https://wordpress.tv/2024/05/11/tools-to-detect-security-vulnerabilities/)
 - [Fixing common security vulnerabilities](https://wordpress.tv/2024/05/11/fixing-common-security-vulnerabilities/)
-- [Securely developing plugins and themes](https://wordpress.tv/2024/05/11/securely-developing-plugins-and-themes/)
 <!-- WPTV:END -->
 
 ## Marketing
