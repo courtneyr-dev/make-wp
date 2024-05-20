@@ -352,6 +352,18 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Segurança WordPress no dia a dia: casos reais e soluções simples.](https://wordpress.tv/2024/05/20/seguranca-wordpress-no-dia-a-dia-casos-reais-e-solucoes-simples/)
+- [Mastering WordPress Deployment: Embracing Continuous Deployment Practices](https://wordpress.tv/2024/05/20/mastering-wordpress-deployment-embracing-continuous-deployment-practices/)
+- [Implementing an SEO-Friendly Headless WordPress Architecture](https://wordpress.tv/2024/05/20/implementing-an-seo-friendly-headless-wordpress-architecture/)
+- [Testing the WordPress Waters: A quick dive into plugin integration testing](https://wordpress.tv/2024/05/20/testing-the-wordpress-waters-a-quick-dive-into-plugin-integration-testing/)
+- [7 automatizaciones para WordPress más inteligentes que un chatbot](https://wordpress.tv/2024/05/20/7-automatizaciones-para-wordpress-mas-inteligentes-que-un-chatbot/)
+- [A presença online de uma redação de jornalismo independente apoiada pela comunidade](https://wordpress.tv/2024/05/20/a-presenca-online-de-uma-redacao-de-jornalismo-independente-apoiada-pela-comunidade/)
+- [Simplificando o WordPress para Empresas: Construindo Temas e Plugins Customizados com Sinergia de Eq](https://wordpress.tv/2024/05/20/simplificando-o-wordpress-para-empresas-construindo-temas-e-plugins-customizados-com-sinergia-de-eq/)
+- [Website Optimization: The Good, the Bad, and the Ugly](https://wordpress.tv/2024/05/20/website-optimization-the-good-the-bad-and-the-ugly/)
+- [À descoberta dos CPT e de todo um novo mundo de customização do WordPress](https://wordpress.tv/2024/05/20/a-descoberta-dos-cpt-e-de-todo-um-novo-mundo-de-customizacao-do-wordpress/)
+- [¿Hacemos un proyecto web en WordPress accesible?](https://wordpress.tv/2024/05/20/hacemos-un-proyecto-web-en-wordpress-accesible/)
+- [Como uma startup alemã usa WordPress para validar os seus produtos](https://wordpress.tv/2024/05/20/como-uma-startup-alema-usa-wordpress-para-validar-os-seus-produtos/)
+- [What to expect from WordPress in the future?](https://wordpress.tv/2024/05/20/what-to-expect-from-wordpress-in-the-future/)
 - [Multisite demistified – can we use the WordPress as a SaaS?](https://wordpress.tv/2024/05/20/multisite-demistified-can-we-use-the-wordpress-as-a-saas/)
 - [Construção de Experiências Web Escaláveis com Gutenberg e Design Systems](https://wordpress.tv/2024/05/20/construcao-de-experiencias-web-escalaveis-com-gutenberg-e-design-systems/)
 - [The Accessibility Quest: walkthrough for success](https://wordpress.tv/2024/05/20/the-accessibility-quest-walkthrough-for-success/)
@@ -365,18 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO 2.0: A Guide for E-commerce Success with SGE and AI-Driven SEO Strategies](https://wordpress.tv/2024/05/20/seo-2-0-a-guide-for-e-commerce-success-with-sge-and-ai-driven-seo-strategies/)
 - [Sumit Singh: How to Change the WordPress Admin Email Without Verification](https://wordpress.tv/2024/05/20/how-to-change-the-wordpress-admin-email-without-verification/)
 - [Casos A/B, escollint el millor per a WordPress](https://wordpress.tv/2024/05/19/casos-a-b-escollint-el-millor-per-a-wordpress/)
-- [Programmatic SEO in WordPress – How I Got Success Skyhigh](https://wordpress.tv/2024/05/17/programmatic-seo-in-wordpress-how-i-got-success-skyhigh/)
-- [Managing Settings: Privacy Policy](https://wordpress.tv/2024/05/16/managing-settings-privacy-policy/)
-- [Managing Settings: Permalinks](https://wordpress.tv/2024/05/16/managing-settings-permalinks-2/)
-- [Managing Settings: Media](https://wordpress.tv/2024/05/16/managing-settings-media-2/)
-- [Managing Settings: Discussion](https://wordpress.tv/2024/05/16/managing-settings-discussion/)
-- [Managing Settings: Reading](https://wordpress.tv/2024/05/16/managing-settings-reading/)
-- [Managing Settings: Writing](https://wordpress.tv/2024/05/16/managing-settings-writing/)
-- [Managing Settings: General](https://wordpress.tv/2024/05/16/managing-settings-general-2/)
-- [WordPress video thumbnail generator. Step by step](https://wordpress.tv/2024/05/16/wordpress-video-thumbnail-generator-step-by-step/)
-- [Migrating your site Part 1: Changing to a new host and domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-1-changing-to-a-new-host-and-domain/)
-- [Migrating your site Part 2: Changing your host but keeping your domain](https://wordpress.tv/2024/05/15/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/)
-- [The built-in WordPress debugging options](https://wordpress.tv/2024/05/15/the-built-in-wordpress-debugging-options/)
 <!-- WPTV:END -->
 
 ## Marketing
