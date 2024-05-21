@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [WordCamp Europe 2024: Theme’s team table on contributor day](https://make.wordpress.org/themes/2024/05/21/wordcamp-europe-2024-themes-team-table-on-contributor-day/)
 - [Proposal: changes to the themes team](https://make.wordpress.org/themes/2024/05/20/proposal-changes-to-the-themes-team/)
 - [Themes Team Meeting Notes – May 14, 2024](https://make.wordpress.org/themes/2024/05/16/themes-team-meeting-notes-may-14-2024/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/themes/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes Team Meeting Notes – April 10, 2024](https://make.wordpress.org/themes/2024/04/10/themes-team-meeting-notes-april-10-2024/)
 - [Themes team meeting agenda for April 09, 2024](https://make.wordpress.org/themes/2024/04/08/themes-team-meeting-agenda-for-april-09-2024/)
 - [Themes team meeting agenda for March 26, 2024](https://make.wordpress.org/themes/2024/03/26/themes-team-meeting-agenda-for-march-26-2024/)
-- [Themes Team Meeting Notes – March 12, 2024](https://make.wordpress.org/themes/2024/03/13/themes-team-meeting-notes-march-12-2024/)
 <!-- THEMES:END -->
 
 ## Plugins
