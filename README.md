@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to manage an open source plugin with 700k active installations and no paid team](https://wordpress.tv/2024/05/21/how-to-manage-an-open-source-plugin-with-700k-active-installations-and-no-paid-team/)
+- [How to become a WooCommerce Core contributor &lpar;almost by accident!&rpar;](https://wordpress.tv/2024/05/21/how-to-become-a-woocommerce-core-contributor-almost-by-accident/)
+- [¿Cuáles son las estrategias DevOps más efectivas para el desarrollo web en WordPress?](https://wordpress.tv/2024/05/21/cuales-son-las-estrategias-devops-mas-efectivas-para-el-desarrollo-web-en-wordpress/)
+- [The power is nothing without controls – let Linux tools and WP-CLI do the work for you](https://wordpress.tv/2024/05/21/the-power-is-nothing-without-controls-let-linux-tools-and-wp-cli-do-the-work-for-you/)
+- [Version control for WordPress with and without Composer](https://wordpress.tv/2024/05/21/version-control-for-wordpress-with-and-without-composer/)
+- [Git branch strategies: ‘Commit’ed to the flow’](https://wordpress.tv/2024/05/21/git-branch-strategies-commited-to-the-flow/)
+- [Hunting Zero-days on WordPress plugins and making profit](https://wordpress.tv/2024/05/21/hunting-zero-days-on-wordpress-plugins-and-making-profit/)
+- [Como proteger o seu site contra as ameaças digitais](https://wordpress.tv/2024/05/21/como-proteger-o-seu-site-contra-as-ameacas-digitais/)
+- [Freelancer em WordPress](https://wordpress.tv/2024/05/21/freelancer-em-wordpress/)
 - [クラシックとブロック。いまこそ知りたい、2つの違い](https://wordpress.tv/2024/05/21/classic-theme-and-block-theme-knowing-the-difference-between-the-two/)
 - [Segurança WordPress no dia a dia: casos reais e soluções simples.](https://wordpress.tv/2024/05/20/seguranca-wordpress-no-dia-a-dia-casos-reais-e-solucoes-simples/)
 - [Mastering WordPress Deployment: Embracing Continuous Deployment Practices](https://wordpress.tv/2024/05/20/mastering-wordpress-deployment-embracing-continuous-deployment-practices/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Multisite demistified – can we use the WordPress as a SaaS?](https://wordpress.tv/2024/05/20/multisite-demistified-can-we-use-the-wordpress-as-a-saas/)
 - [Construção de Experiências Web Escaláveis com Gutenberg e Design Systems](https://wordpress.tv/2024/05/20/construcao-de-experiencias-web-escalaveis-com-gutenberg-e-design-systems/)
 - [The Accessibility Quest: walkthrough for success](https://wordpress.tv/2024/05/20/the-accessibility-quest-walkthrough-for-success/)
-- [Typography Talk: Making Your WordPress Site Pop!](https://wordpress.tv/2024/05/20/typography-talk-making-your-wordpress-site-pop/)
-- [One single reason why your Core Web Vitals are not passing](https://wordpress.tv/2024/05/20/one-single-reason-why-your-core-web-vitals-are-not-passing/)
-- [WordPress security VIP: what are the Very Important Practices that will let you sleep tight at night](https://wordpress.tv/2024/05/20/wordpress-security-vip-what-are-the-very-important-practices-that-will-let-you-sleep-tight-at-night/)
-- [Woo Performance &amp; Optimisation](https://wordpress.tv/2024/05/20/woo-performance-optimisation/)
-- [Doutor Finanças um caso de sucesso: a história da evolução do seu Portal até aos dias de hoje](https://wordpress.tv/2024/05/20/doutor-financas-um-caso-de-sucesso-a-historia-da-evolucao-do-seu-portal-ate-aos-dias-de-hoje/)
-- [Block Bindings e os seus casos de uso – como editar os customs fields tal como se de conteúdo se tra](https://wordpress.tv/2024/05/20/block-bindings-e-os-seus-casos-de-uso-como-editar-os-customs-fields-tal-como-se-de-conteudo-se-tra/)
-- [Block Themes: The game changer that came to stay](https://wordpress.tv/2024/05/20/block-themes-the-game-changer-that-came-to-stay/)
-- [SEO 2.0: A Guide for E-commerce Success with SGE and AI-Driven SEO Strategies](https://wordpress.tv/2024/05/20/seo-2-0-a-guide-for-e-commerce-success-with-sge-and-ai-driven-seo-strategies/)
-- [Sumit Singh: How to Change the WordPress Admin Email Without Verification](https://wordpress.tv/2024/05/20/how-to-change-the-wordpress-admin-email-without-verification/)
 <!-- WPTV:END -->
 
 ## Marketing
