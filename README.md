@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for pagbank-connect As…](https://make.wordpress.org/polyglots/2024/05/21/pte-request-for-pagbank-connect-as/)
 - [CLPTE and PTE requests: project Feeds for TikTok](https://make.wordpress.org/polyglots/2024/05/20/clpte-and-pte-requests-project-feeds-for-tiktok/)
 - [PTE Request for Pagalo –…](https://make.wordpress.org/polyglots/2024/05/19/pte-request-for-pagalo/)
 - [Good morning,](https://make.wordpress.org/polyglots/2024/05/18/good-morning/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for Manager Permission for…](https://make.wordpress.org/polyglots/2024/05/16/request-for-manager-permission-for/)
 - [CLPTE role request for PushEngage project](https://make.wordpress.org/polyglots/2024/05/16/clpte-role-request-for-pushengage-project/)
 - [Review Request of French Translations for CoDesigner](https://make.wordpress.org/polyglots/2024/05/16/review-request-of-french-translations-for-codesigner/)
-- [PTE Request for UpdraftPlus: WordPress…](https://make.wordpress.org/polyglots/2024/05/16/pte-request-for-updraftplus-wordpress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
