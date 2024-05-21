@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Proposal to Update Our Event Venue Policy](https://make.wordpress.org/community/2024/05/21/proposal-to-update-our-event-venue-policy/)
 - [Contributor Working Group Chat Agenda | May 23rd 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/05/16/contributor-working-group-chat-agenda-may-23rd-0700-utc-apac-emea-and-1600-utc-amer/)
 - [WordPress Community Support Financial Health Update](https://make.wordpress.org/community/2024/05/15/wordpress-community-support-financial-health-update/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/community/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Contributor Working Group’s Mentorship Chat on April 18, 2024](https://make.wordpress.org/community/2024/04/24/recap-of-the-contributor-working-groups-mentorship-chat-on-april-18-2024/)
 - [Contributor Working Group: Mentorship Chat Agenda |April18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/04/17/contributor-working-group-mentorship-chat-agenda-april18th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [WordPress Contributor Mentorship: 2024 Q1 Cohort Graduates](https://make.wordpress.org/community/2024/04/08/wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
-- [Share Your Feedback with Meetup.com](https://make.wordpress.org/community/2024/04/08/share-your-feedback-with-meetup-com/)
 <!-- COMMUNITY:END -->
 
 ## Meta
