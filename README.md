@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [クラシックとブロック。いまこそ知りたい、2つの違い](https://wordpress.tv/2024/05/21/classic-theme-and-block-theme-knowing-the-difference-between-the-two/)
 - [Segurança WordPress no dia a dia: casos reais e soluções simples.](https://wordpress.tv/2024/05/20/seguranca-wordpress-no-dia-a-dia-casos-reais-e-solucoes-simples/)
 - [Mastering WordPress Deployment: Embracing Continuous Deployment Practices](https://wordpress.tv/2024/05/20/mastering-wordpress-deployment-embracing-continuous-deployment-practices/)
 - [Implementing an SEO-Friendly Headless WordPress Architecture](https://wordpress.tv/2024/05/20/implementing-an-seo-friendly-headless-wordpress-architecture/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Themes: The game changer that came to stay](https://wordpress.tv/2024/05/20/block-themes-the-game-changer-that-came-to-stay/)
 - [SEO 2.0: A Guide for E-commerce Success with SGE and AI-Driven SEO Strategies](https://wordpress.tv/2024/05/20/seo-2-0-a-guide-for-e-commerce-success-with-sge-and-ai-driven-seo-strategies/)
 - [Sumit Singh: How to Change the WordPress Admin Email Without Verification](https://wordpress.tv/2024/05/20/how-to-change-the-wordpress-admin-email-without-verification/)
-- [Casos A/B, escollint el millor per a WordPress](https://wordpress.tv/2024/05/19/casos-a-b-escollint-el-millor-per-a-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
