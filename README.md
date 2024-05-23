@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for CDEKDelivery](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-cdekdelivery/)
+- [Locale Manager Rights Request](https://make.wordpress.org/polyglots/2024/05/23/locale-manager-rights-request/)
+- [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2024/05/23/hello-i-am-the-plugin-9/)
 - [PTE Request for [MyASP MemberShip]](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-myasp-membership/)
 - [PTE Request for pagbank-connect As…](https://make.wordpress.org/polyglots/2024/05/21/pte-request-for-pagbank-connect-as/)
 - [CLPTE and PTE requests: project Feeds for TikTok](https://make.wordpress.org/polyglots/2024/05/20/clpte-and-pte-requests-project-feeds-for-tiktok/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Good morning,](https://make.wordpress.org/polyglots/2024/05/18/good-morning/)
 - [PTE Request for Location Weather…](https://make.wordpress.org/polyglots/2024/05/18/pte-request-for-location-weather-2/)
 - [PTE Request for VillaTheme plugins](https://make.wordpress.org/polyglots/2024/05/18/pte-request-for-villatheme-plugins/)
-- [PTE Request for WordPress](https://make.wordpress.org/polyglots/2024/05/18/pte-request-for-wordpress-4/)
-- [Request for Manager Permission for…](https://make.wordpress.org/polyglots/2024/05/16/request-for-manager-permission-for/)
-- [CLPTE role request for PushEngage project](https://make.wordpress.org/polyglots/2024/05/16/clpte-role-request-for-pushengage-project/)
 <!-- POLYGLOTS:END -->
 
 ## Support
