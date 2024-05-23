@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Apply Figma Wireframe Design to a WordPress Website](https://jobs.wordpress.net/job/apply-figma-wireframe-design-to-a-wordpress-website/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-839/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-29/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-5/)
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-3/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager/)
 - [Expert for WP Job Manager Plugin](https://jobs.wordpress.net/job/expert-for-wp-job-manager-plugin/)
 - [CMS WordPress developer](https://jobs.wordpress.net/job/cms-wordpress-developer/)
-- [WordPress Freelance Web Developer or Agency &lpar;and Design&rpar;](https://jobs.wordpress.net/job/wordpress-freelance-web-developer-or-agency-and-design/)
-- [Paid Membership Pro plugin payment settings](https://jobs.wordpress.net/job/paid-membership-pro-plugin-payment-settings/)
 <!-- JOBS:END -->
 
 ## Central
