@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Global settings and styles – Style variations](https://wordpress.tv/2024/05/23/global-settings-and-styles-style-variations/)
+- [Global settings and styles – Patterns overview](https://wordpress.tv/2024/05/23/global-settings-and-styles-patterns-overview/)
+- [Global settings and styles – Custom templates](https://wordpress.tv/2024/05/23/global-settings-and-styles-custom-templates/)
+- [Global settings and styles – Styles overview](https://wordpress.tv/2024/05/23/global-settings-and-styles-styles-overview/)
+- [Global settings and styles – Settings overview](https://wordpress.tv/2024/05/23/global-settings-and-styles-settings-overview/)
 - [How to manage an open source plugin with 700k active installations and no paid team](https://wordpress.tv/2024/05/21/how-to-manage-an-open-source-plugin-with-700k-active-installations-and-no-paid-team/)
 - [How to become a WooCommerce Core contributor &lpar;almost by accident!&rpar;](https://wordpress.tv/2024/05/21/how-to-become-a-woocommerce-core-contributor-almost-by-accident/)
 - [¿Cuáles son las estrategias DevOps más efectivas para el desarrollo web en WordPress?](https://wordpress.tv/2024/05/21/cuales-son-las-estrategias-devops-mas-efectivas-para-el-desarrollo-web-en-wordpress/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Website Optimization: The Good, the Bad, and the Ugly](https://wordpress.tv/2024/05/20/website-optimization-the-good-the-bad-and-the-ugly/)
 - [À descoberta dos CPT e de todo um novo mundo de customização do WordPress](https://wordpress.tv/2024/05/20/a-descoberta-dos-cpt-e-de-todo-um-novo-mundo-de-customizacao-do-wordpress/)
 - [¿Hacemos un proyecto web en WordPress accesible?](https://wordpress.tv/2024/05/20/hacemos-un-proyecto-web-en-wordpress-accesible/)
-- [Como uma startup alemã usa WordPress para validar os seus produtos](https://wordpress.tv/2024/05/20/como-uma-startup-alema-usa-wordpress-para-validar-os-seus-produtos/)
-- [What to expect from WordPress in the future?](https://wordpress.tv/2024/05/20/what-to-expect-from-wordpress-in-the-future/)
-- [Multisite demistified – can we use the WordPress as a SaaS?](https://wordpress.tv/2024/05/20/multisite-demistified-can-we-use-the-wordpress-as-a-saas/)
-- [Construção de Experiências Web Escaláveis com Gutenberg e Design Systems](https://wordpress.tv/2024/05/20/construcao-de-experiencias-web-escalaveis-com-gutenberg-e-design-systems/)
-- [The Accessibility Quest: walkthrough for success](https://wordpress.tv/2024/05/20/the-accessibility-quest-walkthrough-for-success/)
 <!-- WPTV:END -->
 
 ## Marketing
