@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 18.4 &lpar;22 May&rpar;](https://make.wordpress.org/core/2024/05/23/whats-new-in-gutenberg-18-4-22-may/)
 - [Agenda, Dev Chat, Wednesday May 22, 2024](https://make.wordpress.org/core/2024/05/22/agenda-dev-chat-wednesday-may-22-2024/)
 - [Performance Chat Agenda: 21 May 2024](https://make.wordpress.org/core/2024/05/21/performance-chat-agenda-21-may-2024/)
 - [Bug Scrub Schedule for WordPress 6.6](https://make.wordpress.org/core/2024/05/18/bug-scrub-schedule-for-wordpress-6-6/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 7 May 2024](https://make.wordpress.org/core/2024/05/07/performance-chat-agenda-07-may-2024/)
 - [Proposal: Server to client data sharing for Script Modules](https://make.wordpress.org/core/2024/05/06/proposal-server-to-client-data-sharing-for-script-modules/)
 - [Roadmap to 6.6](https://make.wordpress.org/core/2024/05/03/roadmap-to-6-6/)
-- [Developer Blog editorial meeting summary, May 2, 2024](https://make.wordpress.org/core/2024/05/03/developer-blog-editorial-meeting-summary-february-1-2024-2-2/)
 <!-- CORE:END -->
 
 ## Design
