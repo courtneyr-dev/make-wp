@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for meacodes-accessibility-tools](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-meacodes-accessibility-tools/)
 - [Translations Review Request for Noptin](https://make.wordpress.org/polyglots/2024/05/24/translations-review-request-for-noptin/)
 - [PTE Request for Ninja Forms](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-ninja-forms/)
-- [I’m interested in PTE for Jetpack](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-jetpack/)
-- [I’m interested in PTE for Woocommerce.](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-woocommerce/)
-- [I’m interested in PTE for Kadence.](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-kadence/)
+- [I’m interested in PTE for several projects](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-jetpack/)
 - [PTE Request for mail2many-registration](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-mail2many-registration/)
 - [PTE Request for CDEKDelivery](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-cdekdelivery/)
 - [Locale Manager Rights Request](https://make.wordpress.org/polyglots/2024/05/23/locale-manager-rights-request/)
 - [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2024/05/23/hello-i-am-the-plugin-9/)
 - [PTE Request for [MyASP MemberShip]](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-myasp-membership/)
+- [PTE Request for pagbank-connect As…](https://make.wordpress.org/polyglots/2024/05/21/pte-request-for-pagbank-connect-as/)
 <!-- POLYGLOTS:END -->
 
 ## Support
