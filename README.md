@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translations Review Request for Noptin](https://make.wordpress.org/polyglots/2024/05/24/translations-review-request-for-noptin/)
+- [PTE Request for Ninja Forms](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-ninja-forms/)
 - [I’m interested in PTE for Jetpack](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-jetpack/)
 - [I’m interested in PTE for Woocommerce.](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-woocommerce/)
 - [I’m interested in PTE for Kadence.](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-kadence/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Locale Manager Rights Request](https://make.wordpress.org/polyglots/2024/05/23/locale-manager-rights-request/)
 - [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2024/05/23/hello-i-am-the-plugin-9/)
 - [PTE Request for [MyASP MemberShip]](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-myasp-membership/)
-- [PTE Request for pagbank-connect As…](https://make.wordpress.org/polyglots/2024/05/21/pte-request-for-pagbank-connect-as/)
-- [CLPTE and PTE requests: project Feeds for TikTok](https://make.wordpress.org/polyglots/2024/05/20/clpte-and-pte-requests-project-feeds-for-tiktok/)
 <!-- POLYGLOTS:END -->
 
 ## Support
