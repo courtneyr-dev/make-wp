@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’m interested in PTE for Jetpack](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-jetpack/)
+- [I’m interested in PTE for Woocommerce.](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-woocommerce/)
+- [I’m interested in PTE for Kadence.](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-kadence/)
 - [PTE Request for mail2many-registration](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-mail2many-registration/)
 - [PTE Request for CDEKDelivery](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-cdekdelivery/)
 - [Locale Manager Rights Request](https://make.wordpress.org/polyglots/2024/05/23/locale-manager-rights-request/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [MyASP MemberShip]](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-myasp-membership/)
 - [PTE Request for pagbank-connect As…](https://make.wordpress.org/polyglots/2024/05/21/pte-request-for-pagbank-connect-as/)
 - [CLPTE and PTE requests: project Feeds for TikTok](https://make.wordpress.org/polyglots/2024/05/20/clpte-and-pte-requests-project-feeds-for-tiktok/)
-- [PTE Request for Pagalo –…](https://make.wordpress.org/polyglots/2024/05/19/pte-request-for-pagalo/)
-- [Good morning,](https://make.wordpress.org/polyglots/2024/05/18/good-morning/)
-- [PTE Request for Location Weather…](https://make.wordpress.org/polyglots/2024/05/18/pte-request-for-location-weather-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
