@@ -561,7 +561,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Somos: Encuentro WordPress LGTB+](https://central.wordcamp.org/wordcamps/barcelona-spain/)
 - [WordCamp Whitley Bay, UK](https://central.wordcamp.org/wordcamps/wordcamp-whitley-bay-uk/)
 - [WordCamp Minneapolis/St. Paul](https://central.wordcamp.org/wordcamps/wordcamp-minneapolis-st-paul-mn/)
-- [WordCamp Rio de Janeiro, RJ, Brazil](https://central.wordcamp.org/wordcamps/wordcamp-rio-de-janeiro-rj-brazil-2/)
+- [WordCamp Rio 2024](https://central.wordcamp.org/wordcamps/wordcamp-rio-de-janeiro-rj-brazil-2/)
 - [WordCamp Cartagena](https://central.wordcamp.org/wordcamps/wordcamp-cartagena-2/)
 - [WordCamp Pontevedra sobre emprendimiento](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-galicia-spain-2/)
 - [WordCamp Bretagne](https://central.wordcamp.org/wordcamps/wordcamp-bretagne/)
