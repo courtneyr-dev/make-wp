@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Plugin API Hooks](https://wordpress.tv/2024/05/24/plugin-api-hooks/)
+- [Theme build process](https://wordpress.tv/2024/05/24/theme-build-process/)
+- [Using JavaScript during theme development](https://wordpress.tv/2024/05/24/using-javascript-during-theme-development/)
+- [User interface best practices in theme development](https://wordpress.tv/2024/05/24/user-interface-best-practices-in-theme-development/)
+- [Child Themes](https://wordpress.tv/2024/05/24/child-themes/)
+- [Style Variations](https://wordpress.tv/2024/05/24/style-variations/)
+- [Theme Patterns](https://wordpress.tv/2024/05/24/theme-patterns/)
+- [Developing custom theme templates](https://wordpress.tv/2024/05/24/developing-custom-theme-templates/)
+- [Block theme styles](https://wordpress.tv/2024/05/24/block-theme-styles/)
+- [Global theme settings](https://wordpress.tv/2024/05/24/global-theme-settings/)
 - [Global settings and styles – Style variations](https://wordpress.tv/2024/05/23/global-settings-and-styles-style-variations/)
 - [Global settings and styles – Patterns overview](https://wordpress.tv/2024/05/23/global-settings-and-styles-patterns-overview/)
 - [Global settings and styles – Custom templates](https://wordpress.tv/2024/05/23/global-settings-and-styles-custom-templates/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Como proteger o seu site contra as ameaças digitais](https://wordpress.tv/2024/05/21/como-proteger-o-seu-site-contra-as-ameacas-digitais/)
 - [Freelancer em WordPress](https://wordpress.tv/2024/05/21/freelancer-em-wordpress/)
 - [クラシックとブロック。いまこそ知りたい、2つの違い](https://wordpress.tv/2024/05/21/classic-theme-and-block-theme-knowing-the-difference-between-the-two/)
-- [Segurança WordPress no dia a dia: casos reais e soluções simples.](https://wordpress.tv/2024/05/20/seguranca-wordpress-no-dia-a-dia-casos-reais-e-solucoes-simples/)
-- [Mastering WordPress Deployment: Embracing Continuous Deployment Practices](https://wordpress.tv/2024/05/20/mastering-wordpress-deployment-embracing-continuous-deployment-practices/)
-- [Implementing an SEO-Friendly Headless WordPress Architecture](https://wordpress.tv/2024/05/20/implementing-an-seo-friendly-headless-wordpress-architecture/)
-- [Testing the WordPress Waters: A quick dive into plugin integration testing](https://wordpress.tv/2024/05/20/testing-the-wordpress-waters-a-quick-dive-into-plugin-integration-testing/)
-- [7 automatizaciones para WordPress más inteligentes que un chatbot](https://wordpress.tv/2024/05/20/7-automatizaciones-para-wordpress-mas-inteligentes-que-un-chatbot/)
-- [A presença online de uma redação de jornalismo independente apoiada pela comunidade](https://wordpress.tv/2024/05/20/a-presenca-online-de-uma-redacao-de-jornalismo-independente-apoiada-pela-comunidade/)
-- [Simplificando o WordPress para Empresas: Construindo Temas e Plugins Customizados com Sinergia de Eq](https://wordpress.tv/2024/05/20/simplificando-o-wordpress-para-empresas-construindo-temas-e-plugins-customizados-com-sinergia-de-eq/)
-- [Website Optimization: The Good, the Bad, and the Ugly](https://wordpress.tv/2024/05/20/website-optimization-the-good-the-bad-and-the-ugly/)
-- [À descoberta dos CPT e de todo um novo mundo de customização do WordPress](https://wordpress.tv/2024/05/20/a-descoberta-dos-cpt-e-de-todo-um-novo-mundo-de-customizacao-do-wordpress/)
-- [¿Hacemos un proyecto web en WordPress accesible?](https://wordpress.tv/2024/05/20/hacemos-un-proyecto-web-en-wordpress-accesible/)
 <!-- WPTV:END -->
 
 ## Marketing
