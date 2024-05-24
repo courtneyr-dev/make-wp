@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Websites Team Lead](https://jobs.wordpress.net/job/websites-team-lead-2/)
 - [WordPress Category Change  for better SEO](https://jobs.wordpress.net/job/wordpress-category-change-for-better-seo/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-840/)
 - [Apply Figma Wireframe Design to a WordPress Website](https://jobs.wordpress.net/job/apply-figma-wireframe-design-to-a-wordpress-website/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-3/)
 - [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-17/)
 - [Senior Developer](https://jobs.wordpress.net/job/senior-developer-12/)
-- [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager/)
 <!-- JOBS:END -->
 
 ## Central
