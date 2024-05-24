@@ -216,6 +216,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes/Plugins Beziehungen](https://learn.wordpress.org/lesson-plan/de-themes-plugins-relationship/)
 - [વર્ડપ્રેસ એક્શન હુક્સ](https://learn.wordpress.org/lesson-plan/guj-wordpress-action-hooks/)
 - [CSS અને વર્ડપ્રેસ માં ફ્લેક્સબોક્સ](https://learn.wordpress.org/lesson-plan/guj-flexbox-in-css-and-wordpress/)
+- [ബ്രൗസറിലെ വിവരങ്ങൾ അജ്ഞാതമാക്കാൻ](https://learn.wordpress.org/lesson-plan/ml-anonymizing-information-in-the-browser/)
 - [Eine statische Seite als Startseite festlegen](https://learn.wordpress.org/lesson-plan/de-setting-a-static-page-as-your-homepage/)
 - [Pengenalan Editor Situs dan Template](https://learn.wordpress.org/lesson-plan/id-intro-to-site-editor-and-templates/)
 - [WordPress 可以用來做什麼](https://learn.wordpress.org/lesson-plan/zh-tw-what-you-can-do-with-wordpress/)
@@ -233,7 +234,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Définir une page statique comme page d’accueil](https://learn.wordpress.org/lesson-plan/fr-setting-a-static-page-as-your-homepage/)
 - [செருகுநிரல்களைத் தேர்ந்தெடுத்து நிறுவுதல்](https://learn.wordpress.org/lesson-plan/ta-choosing-and-installing-plugins/)
 - [பக்கங்கள் Vs. இடுகைகள்](https://learn.wordpress.org/lesson-plan/ta-pages-vs-posts/)
-- [نبذة عن لوحة البيانات](https://learn.wordpress.org/lesson-plan/ar-dashboard-overview/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
