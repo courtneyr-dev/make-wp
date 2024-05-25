@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I translated it into Russian template](https://make.wordpress.org/polyglots/2024/05/25/i-translated-it-into-russian-template/)
 - [PTE Request for meacodes-accessibility-tools](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-meacodes-accessibility-tools/)
 - [Translations Review Request for Noptin](https://make.wordpress.org/polyglots/2024/05/24/translations-review-request-for-noptin/)
 - [PTE Request for Ninja Forms](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-ninja-forms/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Locale Manager Rights Request](https://make.wordpress.org/polyglots/2024/05/23/locale-manager-rights-request/)
 - [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2024/05/23/hello-i-am-the-plugin-9/)
 - [PTE Request for [MyASP MemberShip]](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-myasp-membership/)
-- [PTE Request for pagbank-connect As…](https://make.wordpress.org/polyglots/2024/05/21/pte-request-for-pagbank-connect-as/)
 <!-- POLYGLOTS:END -->
 
 ## Support
