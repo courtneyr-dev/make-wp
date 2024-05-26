@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support Engineer with WordPress/PHP Development Experience](https://jobs.wordpress.net/job/hosting-support-engineer-with-wordpress-php-development-experience/)
+- [Front End WordPress Plugin Developer](https://jobs.wordpress.net/job/front-end-wordpress-plugin-developer/)
 - [Theme](https://jobs.wordpress.net/job/theme-2/)
 - [Websites Team Lead](https://jobs.wordpress.net/job/websites-team-lead-2/)
 - [WordPress Category Change  for better SEO](https://jobs.wordpress.net/job/wordpress-category-change-for-better-seo/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-839/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-29/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-5/)
-- [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-3/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-17/)
 <!-- JOBS:END -->
 
 ## Central
