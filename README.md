@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Esta no es la charla de seguridad que quieres oír](https://wordpress.tv/2024/05/27/esta-no-es-la-charla-de-seguridad-que-quieres-oir-2/)
 - [Image optimization](https://wordpress.tv/2024/05/26/image-optimization-2/)
 - [Muhibul Haque: WordPress turns 21: Contributor Day hosted by WordPress Dhaka](https://wordpress.tv/2024/05/26/wordpress-turns-21-contributor-day-hosted-by-wordpress-dhaka/)
 - [Plugin API Hooks](https://wordpress.tv/2024/05/24/plugin-api-hooks/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [クラシックとブロック。いまこそ知りたい、2つの違い](https://wordpress.tv/2024/05/21/classic-theme-and-block-theme-knowing-the-difference-between-the-two/)
 - [Segurança WordPress no dia a dia: casos reais e soluções simples.](https://wordpress.tv/2024/05/20/seguranca-wordpress-no-dia-a-dia-casos-reais-e-solucoes-simples/)
 - [Mastering WordPress Deployment: Embracing Continuous Deployment Practices](https://wordpress.tv/2024/05/20/mastering-wordpress-deployment-embracing-continuous-deployment-practices/)
-- [Implementing an SEO-Friendly Headless WordPress Architecture](https://wordpress.tv/2024/05/20/implementing-an-seo-friendly-headless-wordpress-architecture/)
 <!-- WPTV:END -->
 
 ## Marketing
