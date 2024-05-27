@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Image optimization](https://wordpress.tv/2024/05/26/image-optimization-2/)
 - [Muhibul Haque: WordPress turns 21: Contributor Day hosted by WordPress Dhaka](https://wordpress.tv/2024/05/26/wordpress-turns-21-contributor-day-hosted-by-wordpress-dhaka/)
 - [Plugin API Hooks](https://wordpress.tv/2024/05/24/plugin-api-hooks/)
 - [Theme build process](https://wordpress.tv/2024/05/24/theme-build-process/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Segurança WordPress no dia a dia: casos reais e soluções simples.](https://wordpress.tv/2024/05/20/seguranca-wordpress-no-dia-a-dia-casos-reais-e-solucoes-simples/)
 - [Mastering WordPress Deployment: Embracing Continuous Deployment Practices](https://wordpress.tv/2024/05/20/mastering-wordpress-deployment-embracing-continuous-deployment-practices/)
 - [Implementing an SEO-Friendly Headless WordPress Architecture](https://wordpress.tv/2024/05/20/implementing-an-seo-friendly-headless-wordpress-architecture/)
-- [Testing the WordPress Waters: A quick dive into plugin integration testing](https://wordpress.tv/2024/05/20/testing-the-wordpress-waters-a-quick-dive-into-plugin-integration-testing/)
 <!-- WPTV:END -->
 
 ## Marketing
