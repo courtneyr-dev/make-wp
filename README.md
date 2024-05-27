@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Gana más por tu trabajo](https://wordpress.tv/2024/05/27/gana-mas-por-tu-trabajo/)
+- [¿Qué pueden enseñarnos las palomas sobre engagement?](https://wordpress.tv/2024/05/27/que-pueden-ensenarnos-las-palomas-sobre-engagement/)
 - [Leónidas se equivocaba – Qué podemos aprender de la batalla de las Termópilas para asegurar WordPres](https://wordpress.tv/2024/05/27/leonidas-se-equivocaba-que-podemos-aprender-de-la-batalla-de-las-termopilas-para-asegurar-wordpres/)
 - [Un framework para hacer crecer tu negocio online](https://wordpress.tv/2024/05/27/un-framework-para-hacer-crecer-tu-negocio-online/)
 - [Microsiervos: un blog que sigue vivo en los tiempos del vídeo](https://wordpress.tv/2024/05/27/microsiervos-un-blog-que-sigue-vivo-en-los-tiempos-del-video/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to become a WooCommerce Core contributor &lpar;almost by accident!&rpar;](https://wordpress.tv/2024/05/21/how-to-become-a-woocommerce-core-contributor-almost-by-accident/)
 - [¿Cuáles son las estrategias DevOps más efectivas para el desarrollo web en WordPress?](https://wordpress.tv/2024/05/21/cuales-son-las-estrategias-devops-mas-efectivas-para-el-desarrollo-web-en-wordpress/)
 - [The power is nothing without controls – let Linux tools and WP-CLI do the work for you](https://wordpress.tv/2024/05/21/the-power-is-nothing-without-controls-let-linux-tools-and-wp-cli-do-the-work-for-you/)
-- [Version control for WordPress with and without Composer](https://wordpress.tv/2024/05/21/version-control-for-wordpress-with-and-without-composer/)
-- [Git branch strategies: ‘Commit’ed to the flow’](https://wordpress.tv/2024/05/21/git-branch-strategies-commited-to-the-flow/)
 <!-- WPTV:END -->
 
 ## Marketing
