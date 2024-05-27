@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Dear Polyglots](https://make.wordpress.org/polyglots/2024/05/27/dear-polyglots-5/)
 - [CLPTE role request for two projects](https://make.wordpress.org/polyglots/2024/05/27/clpte-role-request-for-two-projects/)
 - [I translated it into Russian template](https://make.wordpress.org/polyglots/2024/05/25/i-translated-it-into-russian-template/)
 - [PTE Request for meacodes-accessibility-tools](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-meacodes-accessibility-tools/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for mail2many-registration](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-mail2many-registration/)
 - [PTE Request for CDEKDelivery](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-cdekdelivery/)
 - [Locale Manager Rights Request](https://make.wordpress.org/polyglots/2024/05/23/locale-manager-rights-request/)
-- [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2024/05/23/hello-i-am-the-plugin-9/)
 <!-- POLYGLOTS:END -->
 
 ## Support
