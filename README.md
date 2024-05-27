@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Leónidas se equivocaba – Qué podemos aprender de la batalla de las Termópilas para asegurar WordPres](https://wordpress.tv/2024/05/27/leonidas-se-equivocaba-que-podemos-aprender-de-la-batalla-de-las-termopilas-para-asegurar-wordpres/)
+- [Un framework para hacer crecer tu negocio online](https://wordpress.tv/2024/05/27/un-framework-para-hacer-crecer-tu-negocio-online/)
+- [Microsiervos: un blog que sigue vivo en los tiempos del vídeo](https://wordpress.tv/2024/05/27/microsiervos-un-blog-que-sigue-vivo-en-los-tiempos-del-video/)
+- [Single Serving Sites](https://wordpress.tv/2024/05/27/single-serving-sites/)
+- [Entiende a tus clientes](https://wordpress.tv/2024/05/27/entiende-a-tus-clientes/)
+- [Bah, yo no soy importante, a mí no me van a atacar](https://wordpress.tv/2024/05/27/bah-yo-no-soy-importante-a-mi-no-me-van-a-atacar/)
 - [Esta no es la charla de seguridad que quieres oír](https://wordpress.tv/2024/05/27/esta-no-es-la-charla-de-seguridad-que-quieres-oir-2/)
 - [Image optimization](https://wordpress.tv/2024/05/26/image-optimization-2/)
 - [Muhibul Haque: WordPress turns 21: Contributor Day hosted by WordPress Dhaka](https://wordpress.tv/2024/05/26/wordpress-turns-21-contributor-day-hosted-by-wordpress-dhaka/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The power is nothing without controls – let Linux tools and WP-CLI do the work for you](https://wordpress.tv/2024/05/21/the-power-is-nothing-without-controls-let-linux-tools-and-wp-cli-do-the-work-for-you/)
 - [Version control for WordPress with and without Composer](https://wordpress.tv/2024/05/21/version-control-for-wordpress-with-and-without-composer/)
 - [Git branch strategies: ‘Commit’ed to the flow’](https://wordpress.tv/2024/05/21/git-branch-strategies-commited-to-the-flow/)
-- [Hunting Zero-days on WordPress plugins and making profit](https://wordpress.tv/2024/05/21/hunting-zero-days-on-wordpress-plugins-and-making-profit/)
-- [Como proteger o seu site contra as ameaças digitais](https://wordpress.tv/2024/05/21/como-proteger-o-seu-site-contra-as-ameacas-digitais/)
-- [Freelancer em WordPress](https://wordpress.tv/2024/05/21/freelancer-em-wordpress/)
-- [クラシックとブロック。いまこそ知りたい、2つの違い](https://wordpress.tv/2024/05/21/classic-theme-and-block-theme-knowing-the-difference-between-the-two/)
-- [Segurança WordPress no dia a dia: casos reais e soluções simples.](https://wordpress.tv/2024/05/20/seguranca-wordpress-no-dia-a-dia-casos-reais-e-solucoes-simples/)
-- [Mastering WordPress Deployment: Embracing Continuous Deployment Practices](https://wordpress.tv/2024/05/20/mastering-wordpress-deployment-embracing-continuous-deployment-practices/)
 <!-- WPTV:END -->
 
 ## Marketing
