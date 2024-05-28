@@ -554,6 +554,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordCamp Netherlands](https://central.wordcamp.org/wordcamps/wordcamp-netherlands-4/)
 - [WordPress YouthCamp Kozhikode](https://central.wordcamp.org/wordcamps/youthcamp-kozhikode/)
 - [WordCamp Cebu 2024](https://central.wordcamp.org/wordcamps/wordcamp-cebu-2024/)
 - [WordCamp Gdynia, Poland](https://central.wordcamp.org/wordcamps/gdynia/)
@@ -567,7 +568,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Bretagne](https://central.wordcamp.org/wordcamps/wordcamp-bretagne/)
 - [WordCamp Sydney, NSW, Australia](https://central.wordcamp.org/wordcamps/wordcamp-sydney-nsw-australia-2/)
 - [WordCamp Lira 2024](https://central.wordcamp.org/wordcamps/wordcamplira/)
-- [WordCamp Griñón for E-Commerce](https://central.wordcamp.org/wordcamps/wordcamp-grinon-2/)
 - [WordCamp Cape Town, Western Cape, South Africa](https://central.wordcamp.org/wordcamps/wordcamp-cape-town-western-cape-south-africa/)
 <!-- WordCamp:END -->
 
