@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [404 caca](https://wordpress.tv/2024/05/28/404-caca/)
+- [Cómo emitir una Factura Electrónica 3.4 y no morir en el intento](https://wordpress.tv/2024/05/28/como-emitir-una-factura-electronica-3-4-y-no-morir-en-el-intento/)
+- [Estrategias de email para tu eCommerce](https://wordpress.tv/2024/05/28/estrategias-de-email-para-tu-ecommerce/)
+- [Tu mejor negocio: El mantenimiento web](https://wordpress.tv/2024/05/28/tu-mejor-negocio-el-mantenimiento-web/)
+- [Checklist para montar un NEGOCIO RENTABLE con WordPress](https://wordpress.tv/2024/05/28/checklist-para-montar-un-negocio-rentable-con-wordpress/)
+- [Desbloqueando la creatividad: Por qué el ‘Research’ es clave en todo proyecto creativo](https://wordpress.tv/2024/05/28/desbloqueando-la-creatividad-por-que-el-research-es-clave-en-todo-proyecto-creativo/)
+- [Transformación de la industria de la música electrónica](https://wordpress.tv/2024/05/28/transformacion-de-la-industria-de-la-musica-electronica/)
+- [Más allá de los datos](https://wordpress.tv/2024/05/28/mas-alla-de-los-datos/)
+- [Las fases de conocimiento del consumidor para crear contenido TOP](https://wordpress.tv/2024/05/28/las-fases-de-conocimiento-del-consumidor-para-crear-contenido-top/)
+- [Soporte para WordPress, incidencias comúns e as súas solucións](https://wordpress.tv/2024/05/28/soporte-para-wordpress-incidencias-comuns-e-as-suas-solucions/)
 - [Developer Hours: Creating WordPress Playground Blueprints for Testing and Demos](https://wordpress.tv/2024/05/28/developer-hours-creating-wordpress-playground-blueprints-for-testing-and-demos/)
 - [Gana más por tu trabajo](https://wordpress.tv/2024/05/27/gana-mas-por-tu-trabajo/)
 - [¿Qué pueden enseñarnos las palomas sobre engagement?](https://wordpress.tv/2024/05/27/que-pueden-ensenarnos-las-palomas-sobre-engagement/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin API Hooks](https://wordpress.tv/2024/05/24/plugin-api-hooks/)
 - [Theme build process](https://wordpress.tv/2024/05/24/theme-build-process/)
 - [Using JavaScript during theme development](https://wordpress.tv/2024/05/24/using-javascript-during-theme-development/)
-- [User interface best practices in theme development](https://wordpress.tv/2024/05/24/user-interface-best-practices-in-theme-development/)
-- [Child Themes](https://wordpress.tv/2024/05/24/child-themes/)
-- [Global settings and styles – Style variations](https://wordpress.tv/2024/05/23/global-settings-and-styles-style-variations/)
-- [Global settings and styles – Patterns overview](https://wordpress.tv/2024/05/23/global-settings-and-styles-patterns-overview/)
-- [Global settings and styles – Custom templates](https://wordpress.tv/2024/05/23/global-settings-and-styles-custom-templates/)
-- [Global settings and styles – Styles overview](https://wordpress.tv/2024/05/23/global-settings-and-styles-styles-overview/)
-- [Global settings and styles – Settings overview](https://wordpress.tv/2024/05/23/global-settings-and-styles-settings-overview/)
-- [How to manage an open source plugin with 700k active installations and no paid team](https://wordpress.tv/2024/05/21/how-to-manage-an-open-source-plugin-with-700k-active-installations-and-no-paid-team/)
-- [How to become a WooCommerce Core contributor &lpar;almost by accident!&rpar;](https://wordpress.tv/2024/05/21/how-to-become-a-woocommerce-core-contributor-almost-by-accident/)
-- [¿Cuáles son las estrategias DevOps más efectivas para el desarrollo web en WordPress?](https://wordpress.tv/2024/05/21/cuales-son-las-estrategias-devops-mas-efectivas-para-el-desarrollo-web-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
