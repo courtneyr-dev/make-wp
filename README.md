@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Missing strings after plugin update](https://make.wordpress.org/polyglots/2024/05/28/missing-strings-after-plugin-update/)
 - [PTE Request for [Frontend Post Submission Manager Lite]](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-frontend-post-submission-manager-lite/)
 - [Dear Polyglots](https://make.wordpress.org/polyglots/2024/05/27/dear-polyglots-5/)
 - [CLPTE role request for two projects](https://make.wordpress.org/polyglots/2024/05/27/clpte-role-request-for-two-projects/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Ninja Forms](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-ninja-forms/)
 - [I’m interested in PTE for several projects](https://make.wordpress.org/polyglots/2024/05/24/im-interested-in-pte-for-jetpack/)
 - [PTE Request for mail2many-registration](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-mail2many-registration/)
-- [PTE Request for CDEKDelivery](https://make.wordpress.org/polyglots/2024/05/23/pte-request-for-cdekdelivery/)
 <!-- POLYGLOTS:END -->
 
 ## Support
