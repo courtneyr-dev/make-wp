@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [WordCamp Europe 2024 Contributor Day](https://make.wordpress.org/training/2024/05/28/wordcamp-europe-2024-contributor-day/)
 - [Training Team Meeting Recap – 16th May 2024](https://make.wordpress.org/training/2024/05/22/training-team-meeting-recap-16th-may-2024/)
 - [Training Team Meeting Recap – 9th May 2024](https://make.wordpress.org/training/2024/05/15/training-team-meeting-recap-9th-may-2024/)
 - [Get to Know the Training Team’s Guide Program](https://make.wordpress.org/training/2024/05/15/get-to-know-the-training-teams-guide-program/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for feedback: AI-generated voiceovers for video content](https://make.wordpress.org/training/2024/05/03/request-for-feedback-ai-generated-voiceovers-for-video-content/)
 - [Project thread: The second Learn WordPress Course Cohort](https://make.wordpress.org/training/2024/05/01/project-thread-the-second-learn-wordpress-course-cohort/)
 - [Training Team Meeting Recap – 25th April 2024](https://make.wordpress.org/training/2024/05/01/training-team-meeting-recap-25th-april-2024/)
-- [A light Learn/Lessons visual refresh](https://make.wordpress.org/training/2024/04/29/a-light-learn-lessons-visual-refresh/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
