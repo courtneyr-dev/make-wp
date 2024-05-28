@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Front End WordPress Developer](https://jobs.wordpress.net/job/front-end-wordpress-developer-25/)
+- [Linux System Administrator Engineer](https://jobs.wordpress.net/job/linux-system-administrator-engineer/)
 - [Hosting Support Engineer with WordPress/PHP Development Experience](https://jobs.wordpress.net/job/hosting-support-engineer-with-wordpress-php-development-experience/)
 - [Front End WordPress Plugin Developer](https://jobs.wordpress.net/job/front-end-wordpress-plugin-developer/)
 - [Theme](https://jobs.wordpress.net/job/theme-2/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-840/)
 - [Apply Figma Wireframe Design to a WordPress Website](https://jobs.wordpress.net/job/apply-figma-wireframe-design-to-a-wordpress-website/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-839/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-29/)
-- [QA – WordPress Plugin Tester &lpar;WordPress, JS, Git, Software testing&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-js-git-software-testing-5/)
 <!-- JOBS:END -->
 
 ## Central
