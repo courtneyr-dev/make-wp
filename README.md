@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Creating WordPress Playground Blueprints for Testing and Demos](https://wordpress.tv/2024/05/28/developer-hours-creating-wordpress-playground-blueprints-for-testing-and-demos/)
 - [Gana más por tu trabajo](https://wordpress.tv/2024/05/27/gana-mas-por-tu-trabajo/)
 - [¿Qué pueden enseñarnos las palomas sobre engagement?](https://wordpress.tv/2024/05/27/que-pueden-ensenarnos-las-palomas-sobre-engagement/)
 - [Leónidas se equivocaba – Qué podemos aprender de la batalla de las Termópilas para asegurar WordPres](https://wordpress.tv/2024/05/27/leonidas-se-equivocaba-que-podemos-aprender-de-la-batalla-de-las-termopilas-para-asegurar-wordpres/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to manage an open source plugin with 700k active installations and no paid team](https://wordpress.tv/2024/05/21/how-to-manage-an-open-source-plugin-with-700k-active-installations-and-no-paid-team/)
 - [How to become a WooCommerce Core contributor &lpar;almost by accident!&rpar;](https://wordpress.tv/2024/05/21/how-to-become-a-woocommerce-core-contributor-almost-by-accident/)
 - [¿Cuáles son las estrategias DevOps más efectivas para el desarrollo web en WordPress?](https://wordpress.tv/2024/05/21/cuales-son-las-estrategias-devops-mas-efectivas-para-el-desarrollo-web-en-wordpress/)
-- [The power is nothing without controls – let Linux tools and WP-CLI do the work for you](https://wordpress.tv/2024/05/21/the-power-is-nothing-without-controls-let-linux-tools-and-wp-cli-do-the-work-for-you/)
 <!-- WPTV:END -->
 
 ## Marketing
