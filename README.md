@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Project Health Hangout 1](https://wordpress.tv/2024/05/28/project-health-hangout-1/)
 - [404 caca](https://wordpress.tv/2024/05/28/404-caca/)
 - [Cómo emitir una Factura Electrónica 3.4 y no morir en el intento](https://wordpress.tv/2024/05/28/como-emitir-una-factura-electronica-3-4-y-no-morir-en-el-intento/)
 - [Estrategias de email para tu eCommerce](https://wordpress.tv/2024/05/28/estrategias-de-email-para-tu-ecommerce/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Muhibul Haque: WordPress turns 21: Contributor Day hosted by WordPress Dhaka](https://wordpress.tv/2024/05/26/wordpress-turns-21-contributor-day-hosted-by-wordpress-dhaka/)
 - [Plugin API Hooks](https://wordpress.tv/2024/05/24/plugin-api-hooks/)
 - [Theme build process](https://wordpress.tv/2024/05/24/theme-build-process/)
-- [Using JavaScript during theme development](https://wordpress.tv/2024/05/24/using-javascript-during-theme-development/)
 <!-- WPTV:END -->
 
 ## Marketing
