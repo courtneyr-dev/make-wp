@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Software Engineer](https://jobs.wordpress.net/job/software-engineer-8/)
+- [WordPress Support Technician](https://jobs.wordpress.net/job/wordpress-support-technician-2/)
+- [Contract website consultant](https://jobs.wordpress.net/job/contract-website-consultant/)
+- [Lead Web Engineer &lpar;Europe&rpar;](https://jobs.wordpress.net/job/lead-web-engineer-europe/)
+- [WordPress Elementor Designer](https://jobs.wordpress.net/job/wordpress-elementor-designer/)
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-3/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-15/)
 - [Small-business health &amp; fitness website design](https://jobs.wordpress.net/job/small-business-health-fitness-website-design/)
 - [Front End WordPress Developer](https://jobs.wordpress.net/job/front-end-wordpress-developer-25/)
 - [Linux System Administrator Engineer](https://jobs.wordpress.net/job/linux-system-administrator-engineer/)
-- [Hosting Support Engineer with WordPress/PHP Development Experience](https://jobs.wordpress.net/job/hosting-support-engineer-with-wordpress-php-development-experience/)
-- [Front End WordPress Plugin Developer](https://jobs.wordpress.net/job/front-end-wordpress-plugin-developer/)
-- [Theme](https://jobs.wordpress.net/job/theme-2/)
-- [Websites Team Lead](https://jobs.wordpress.net/job/websites-team-lead-2/)
-- [WordPress Category Change  for better SEO](https://jobs.wordpress.net/job/wordpress-category-change-for-better-seo/)
 <!-- JOBS:END -->
 
 ## Central
