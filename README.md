@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – May 29, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/29/agenda-weekly-polyglots-chat-may-29-2024-0700-utc/)
 - [PTE Request for INFast](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-infast/)
 - [PTE request for German &lpar;Germany&rpar; in EDD project](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-german-germany-in-edd-project/)
 - [Missing strings after plugin update](https://make.wordpress.org/polyglots/2024/05/28/missing-strings-after-plugin-update/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I translated it into Russian template](https://make.wordpress.org/polyglots/2024/05/25/i-translated-it-into-russian-template/)
 - [PTE Request for meacodes-accessibility-tools](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-meacodes-accessibility-tools/)
 - [Translations Review Request for Noptin](https://make.wordpress.org/polyglots/2024/05/24/translations-review-request-for-noptin/)
-- [PTE Request for Ninja Forms](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-ninja-forms/)
 <!-- POLYGLOTS:END -->
 
 ## Support
