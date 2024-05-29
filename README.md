@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [স্পেসার ব্লক কীভাবে ব্যবহার করবেন](https://learn.wordpress.org/tutorial/bn-how-to-use-the-spacer-block/)
 - [ম্যানেজ সেটিংসঃ মিডিয়া](https://learn.wordpress.org/tutorial/bn-managing-settings-media/)
 - [Exploring WordPress 6.5](https://learn.wordpress.org/tutorial/exploring-wordpress-6-5/)
 - [কাস্টমাইজার ট্যাগলাইনস &lpar;ক্লাসিক ও হাইব্রীড থিম&rpar;](https://learn.wordpress.org/tutorial/bn-customizer-taglines/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ગુટેનબર્ગ બ્લોક ડેવલપમેન્ટનો પરિચય](https://learn.wordpress.org/tutorial/gu-intro-to-gutenberg-block-development/)
 - [છબીઓ ઉમેરવા અને દૂર કરવી](https://learn.wordpress.org/tutorial/gu-adding-amp-removing-images/)
 - [ગુટેનબર્ગ માટે GitHub નો ઉપયોગ કેવી રીતે કરવો](https://learn.wordpress.org/tutorial/gu-how-to-use-github-for-gutenberg/)
-- [GitHub પર ટ્રાયજ કેવી રીતે કરવું](https://learn.wordpress.org/tutorial/gu-how-to-do-triage-on-github/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
