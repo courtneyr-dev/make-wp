@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2024/05/29/pte-request-for-jetpack-6/)
 - [PTE Request for [Easy Membership and Magazine]](https://make.wordpress.org/polyglots/2024/05/29/pte-request-for-easy-membership-and-magazine/)
 - [Translation Events: Inviting GTEs to Create and Manage Events](https://make.wordpress.org/polyglots/2024/05/29/translation-events-inviting-gtes-to-create-and-manage-events/)
 - [Agenda: Weekly Polyglots Chat – May 29, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/29/agenda-weekly-polyglots-chat-may-29-2024-0700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Frontend Post Submission Manager Lite]](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-frontend-post-submission-manager-lite/)
 - [Dear Polyglots](https://make.wordpress.org/polyglots/2024/05/27/dear-polyglots-5/)
 - [CLPTE role request for two projects](https://make.wordpress.org/polyglots/2024/05/27/clpte-role-request-for-two-projects/)
-- [I translated it into Russian template](https://make.wordpress.org/polyglots/2024/05/25/i-translated-it-into-russian-template/)
 <!-- POLYGLOTS:END -->
 
 ## Support
