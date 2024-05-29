@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: Exploring Synced Pattern Overrides in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-exploring-synced-pattern-overrides-in-wordpress-6-6)
 - [Recording awesome videos for WordPress demos, courses, and more](https://learn.wordpress.org/?meeting=recording-awesome-videos-for-wordpress-demos-courses-and-more)
 - [Using the Interactivity API outside of WordPress](https://learn.wordpress.org/?meeting=using-the-interactivity-api-outside-of-wordpress)
 - [Setting up your header and footer](https://learn.wordpress.org/?meeting=setting-up-your-header-and-footer)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Exploring the Block Hooks in WordPress 6.5](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-block-hooks-in-wordpress-6-5)
 - [Developer Hours: Exploring the Interactivity API in WordPress 6.5](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-interactivity-api-in-wordpress-6-5)
 - [WordPress developer live stream: testing WordPress 6.5](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-testing-wordpress-6-5)
-- [WordPressの保守・メンテナンスをやってみよう！](https://learn.wordpress.org/?meeting=wordpress%e3%81%ae%e4%bf%9d%e5%ae%88%e3%83%bb%e3%83%a1%e3%83%b3%e3%83%86%e3%83%8a%e3%83%b3%e3%82%b9%e3%82%92%e3%82%84%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81)
 <!-- SLS:END -->
 
 ## Test
