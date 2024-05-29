@@ -125,6 +125,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [ProgressBar](https://developer.wordpress.org/block-editor/reference-guides/components/progress-bar/)
 - [Explanation: manage_{$screen-&gt;id}_columns](https://developer.wordpress.org/?post_type=wporg_explanations&p=153829)
 - [About the Interactivity API](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-about/)
 - [Frequently Asked Questions](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-faq/)
@@ -134,7 +135,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Usage in Templates](https://developer.wordpress.org/themes/patterns/usage-in-templates/)
 - [Using PHP in Patterns](https://developer.wordpress.org/themes/patterns/using-php-in-patterns/)
 - [Registering Patterns](https://developer.wordpress.org/themes/patterns/registering-patterns/)
-- [Theme.json Version 2 Reference](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-v2/)
 <!-- DEVHUB:END -->
 
 ## Themes
