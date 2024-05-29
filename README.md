@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translation Events: Inviting GTEs to Create and Manage Events](https://make.wordpress.org/polyglots/2024/05/29/translation-events-inviting-gtes-to-create-and-manage-events/)
 - [Agenda: Weekly Polyglots Chat – May 29, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/29/agenda-weekly-polyglots-chat-may-29-2024-0700-utc/)
 - [PTE Request for INFast](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-infast/)
 - [PTE request for German &lpar;Germany&rpar; in EDD project](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-german-germany-in-edd-project/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE role request for two projects](https://make.wordpress.org/polyglots/2024/05/27/clpte-role-request-for-two-projects/)
 - [I translated it into Russian template](https://make.wordpress.org/polyglots/2024/05/25/i-translated-it-into-russian-template/)
 - [PTE Request for meacodes-accessibility-tools](https://make.wordpress.org/polyglots/2024/05/24/pte-request-for-meacodes-accessibility-tools/)
-- [Translations Review Request for Noptin](https://make.wordpress.org/polyglots/2024/05/24/translations-review-request-for-noptin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
