@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: May 2024](https://make.wordpress.org/community/2024/05/30/meetup-organizer-newsletter-may-2024/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on May 23rd 2024](https://make.wordpress.org/community/2024/05/29/recap-of-the-contributor-working-groups-mentorship-chat-on-may-23rd-2024/)
 - [WCEU 2024 Contributor Day: What to do?](https://make.wordpress.org/community/2024/05/23/wceu-2024-contributor-day-what-to-do/)
 - [Proposal to Update Our Event Venue Policy](https://make.wordpress.org/community/2024/05/21/proposal-to-update-our-event-venue-policy/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team May Meeting Recap](https://make.wordpress.org/community/2024/05/06/community-team-may-meeting-recap/)
 - [Community Team Meeting Agenda for 2 – May -2024](https://make.wordpress.org/community/2024/05/02/community-team-meeting-agenda-for-2-may-2024/)
 - [Meetup Organizer Newsletter: April 2024](https://make.wordpress.org/community/2024/04/25/meetup-organizer-newsletter-april-2024/)
-- [Recap of the Contributor Working Group’s Mentorship Chat on April 18, 2024](https://make.wordpress.org/community/2024/04/24/recap-of-the-contributor-working-groups-mentorship-chat-on-april-18-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
