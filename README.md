@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Project Health Hangout 3](https://wordpress.tv/2024/05/30/project-health-hangout-3/)
 - [Get to Know the Training Team’s Guide Program](https://wordpress.tv/2024/05/30/training-team-guide-program/)
 - [Project Health Hangout 2](https://wordpress.tv/2024/05/29/project-health-hangout-2/)
 - [Project Health Hangout 1](https://wordpress.tv/2024/05/28/project-health-hangout-1/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bah, yo no soy importante, a mí no me van a atacar](https://wordpress.tv/2024/05/27/bah-yo-no-soy-importante-a-mi-no-me-van-a-atacar/)
 - [Esta no es la charla de seguridad que quieres oír](https://wordpress.tv/2024/05/27/esta-no-es-la-charla-de-seguridad-que-quieres-oir-2/)
 - [Image optimization](https://wordpress.tv/2024/05/26/image-optimization-2/)
-- [Muhibul Haque: WordPress turns 21: Contributor Day hosted by WordPress Dhaka](https://wordpress.tv/2024/05/26/wordpress-turns-21-contributor-day-hosted-by-wordpress-dhaka/)
 <!-- WPTV:END -->
 
 ## Marketing
