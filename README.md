@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Zooey &lpar;and others&rpar;](https://make.wordpress.org/polyglots/2024/05/30/pte-request-for-zooey-and-others/)
 - [We’ve provided suggested translations for…](https://make.wordpress.org/polyglots/2024/05/30/weve-provided-suggested-translations-for/)
 - [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2024/05/29/pte-request-for-jetpack-6/)
 - [PTE Request for [Easy Membership and Magazine]](https://make.wordpress.org/polyglots/2024/05/29/pte-request-for-easy-membership-and-magazine/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for German &lpar;Germany&rpar; in EDD project](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-german-germany-in-edd-project/)
 - [Missing strings after plugin update](https://make.wordpress.org/polyglots/2024/05/28/missing-strings-after-plugin-update/)
 - [PTE Request for [Frontend Post Submission Manager Lite]](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-frontend-post-submission-manager-lite/)
-- [Dear Polyglots](https://make.wordpress.org/polyglots/2024/05/27/dear-polyglots-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
