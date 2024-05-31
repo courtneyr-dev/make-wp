@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Domain management: Understanding DNS records](https://wordpress.tv/2024/05/30/domain-management-understanding-dns-records/)
+- [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/05/30/differentiating-between-homepage-display-settings-and-various-templates-2/)
 - [Project Health Hangout 4](https://wordpress.tv/2024/05/30/project-health-hangout-4/)
 - [Project Health Hangout 3](https://wordpress.tv/2024/05/30/project-health-hangout-3/)
 - [Get to Know the Training Team’s Guide Program](https://wordpress.tv/2024/05/30/training-team-guide-program/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Microsiervos: un blog que sigue vivo en los tiempos del vídeo](https://wordpress.tv/2024/05/27/microsiervos-un-blog-que-sigue-vivo-en-los-tiempos-del-video/)
 - [Single Serving Sites](https://wordpress.tv/2024/05/27/single-serving-sites/)
 - [Entiende a tus clientes](https://wordpress.tv/2024/05/27/entiende-a-tus-clientes/)
-- [Bah, yo no soy importante, a mí no me van a atacar](https://wordpress.tv/2024/05/27/bah-yo-no-soy-importante-a-mi-no-me-van-a-atacar/)
-- [Esta no es la charla de seguridad que quieres oír](https://wordpress.tv/2024/05/27/esta-no-es-la-charla-de-seguridad-que-quieres-oir-2/)
 <!-- WPTV:END -->
 
 ## Marketing
