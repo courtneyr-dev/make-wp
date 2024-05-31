@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mesa de debate: ¿Quiénes somos? ¿De dónde venimos? ¿Adónde vamos?](https://wordpress.tv/2024/05/31/mesa-de-debate-quienes-somos-de-donde-venimos-adonde-vamos/)
 - [Software libre, ¿Por qué?](https://wordpress.tv/2024/05/31/software-libre-por-que/)
 - [Accesibilidad Sin Fronteras: Cómo Transformar Realmente la Web](https://wordpress.tv/2024/05/31/accesibilidad-sin-fronteras-como-transformar-realmente-la-web/)
 - [Como la cagué emprendiendo](https://wordpress.tv/2024/05/31/como-la-cague-emprendiendo/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gana más por tu trabajo](https://wordpress.tv/2024/05/27/gana-mas-por-tu-trabajo/)
 - [¿Qué pueden enseñarnos las palomas sobre engagement?](https://wordpress.tv/2024/05/27/que-pueden-ensenarnos-las-palomas-sobre-engagement/)
 - [Leónidas se equivocaba – Qué podemos aprender de la batalla de las Termópilas para asegurar WordPres](https://wordpress.tv/2024/05/27/leonidas-se-equivocaba-que-podemos-aprender-de-la-batalla-de-las-termopilas-para-asegurar-wordpres/)
-- [Un framework para hacer crecer tu negocio online](https://wordpress.tv/2024/05/27/un-framework-para-hacer-crecer-tu-negocio-online/)
 <!-- WPTV:END -->
 
 ## Marketing
