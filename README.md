@@ -352,8 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/05/30/differentiating-between-homepage-display-settings-and-various-templates/)
 - [Domain management: Understanding DNS records](https://wordpress.tv/2024/05/30/domain-management-understanding-dns-records/)
-- [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/05/30/differentiating-between-homepage-display-settings-and-various-templates-2/)
 - [Project Health Hangout 4](https://wordpress.tv/2024/05/30/project-health-hangout-4/)
 - [Project Health Hangout 3](https://wordpress.tv/2024/05/30/project-health-hangout-3/)
 - [Get to Know the Training Team’s Guide Program](https://wordpress.tv/2024/05/30/training-team-guide-program/)
