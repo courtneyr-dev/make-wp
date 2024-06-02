@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Como hacer creatividad transformadora &lpar;también&rpar; en digital](https://wordpress.tv/2024/06/02/como-hacer-creatividad-transformadora-tambien-en-digital/)
 - [Taller de Penpot: de diseño a desarrollo con software libre y gratuito](https://wordpress.tv/2024/05/31/taller-de-penpot-de-diseno-a-desarrollo-con-software-libre-y-gratuito/)
 - [Mesa de debate: ¿Quiénes somos? ¿De dónde venimos? ¿Adónde vamos?](https://wordpress.tv/2024/05/31/mesa-de-debate-quienes-somos-de-donde-venimos-adonde-vamos/)
 - [Software libre, ¿Por qué?](https://wordpress.tv/2024/05/31/software-libre-por-que/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Soporte para WordPress, incidencias comúns e as súas solucións](https://wordpress.tv/2024/05/28/soporte-para-wordpress-incidencias-comuns-e-as-suas-solucions/)
 - [Developer Hours: Creating WordPress Playground Blueprints for Testing and Demos](https://wordpress.tv/2024/05/28/developer-hours-creating-wordpress-playground-blueprints-for-testing-and-demos/)
 - [Gana más por tu trabajo](https://wordpress.tv/2024/05/27/gana-mas-por-tu-trabajo/)
-- [¿Qué pueden enseñarnos las palomas sobre engagement?](https://wordpress.tv/2024/05/27/que-pueden-ensenarnos-las-palomas-sobre-engagement/)
 <!-- WPTV:END -->
 
 ## Marketing
