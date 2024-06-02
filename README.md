@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Fewer Tags Free Plugin](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-fewer-tags-free-plugin/)
 - [PTE Request for Members –…](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-members/)
 - [PTE Request for EventPrime –…](https://make.wordpress.org/polyglots/2024/06/01/pte-request-for-eventprime/)
 - [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/05/31/clpte-request-in-two-projects/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Easy Membership and Magazine]](https://make.wordpress.org/polyglots/2024/05/29/pte-request-for-easy-membership-and-magazine/)
 - [Translation Events: Inviting GTEs to Create and Manage Events](https://make.wordpress.org/polyglots/2024/05/29/translation-events-inviting-gtes-to-create-and-manage-events/)
 - [Agenda: Weekly Polyglots Chat – May 29, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/05/29/agenda-weekly-polyglots-chat-may-29-2024-0700-utc/)
-- [PTE Request for INFast](https://make.wordpress.org/polyglots/2024/05/28/pte-request-for-infast/)
 <!-- POLYGLOTS:END -->
 
 ## Support
