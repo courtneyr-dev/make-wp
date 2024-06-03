@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WORDPRESS DEVELOPER AND DESIGNER](https://jobs.wordpress.net/job/wordpress-developer-and-designer-4/)
+- [Site redesign](https://jobs.wordpress.net/job/site-redesign-2/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-18/)
+- [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-4/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-841/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-31/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-7/)
 - [Full Stack WordPress Developper](https://jobs.wordpress.net/job/full-stack-wordpress-developper/)
 - [Senior WordPress Developer &lpar;Backend&rpar;](https://jobs.wordpress.net/job/senior-wordpress-developer-backend-2/)
 - [Software Engineer](https://jobs.wordpress.net/job/software-engineer-8/)
-- [WordPress Support Technician](https://jobs.wordpress.net/job/wordpress-support-technician-2/)
-- [Contract website consultant](https://jobs.wordpress.net/job/contract-website-consultant/)
-- [Lead Web Engineer &lpar;Europe&rpar;](https://jobs.wordpress.net/job/lead-web-engineer-europe/)
-- [WordPress Elementor Designer](https://jobs.wordpress.net/job/wordpress-elementor-designer/)
-- [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-3/)
-- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-15/)
-- [Small-business health &amp; fitness website design](https://jobs.wordpress.net/job/small-business-health-fitness-website-design/)
 <!-- JOBS:END -->
 
 ## Central
