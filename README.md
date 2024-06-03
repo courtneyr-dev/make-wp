@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE wanted for plugin “Points…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-plugin-points/)
 - [PTE Request for Chart Builder](https://make.wordpress.org/polyglots/2024/06/03/pte-request-for-chart-builder/)
 - [PTE wanted for ASE. I…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-ase-i/)
 - [PTE Request for Super Web Share](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-super-web-share/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/05/31/clpte-request-in-two-projects/)
 - [PTE Request for Zooey &lpar;and others&rpar;](https://make.wordpress.org/polyglots/2024/05/30/pte-request-for-zooey-and-others/)
 - [We’ve provided suggested translations for…](https://make.wordpress.org/polyglots/2024/05/30/weve-provided-suggested-translations-for/)
-- [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2024/05/29/pte-request-for-jetpack-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
