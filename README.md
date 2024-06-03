@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Chart Builder](https://make.wordpress.org/polyglots/2024/06/03/pte-request-for-chart-builder/)
+- [PTE wanted for ASE. I…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-ase-i/)
 - [PTE Request for Super Web Share](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-super-web-share/)
 - [PTE Request for Fewer Tags Free Plugin](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-fewer-tags-free-plugin/)
 - [PTE Request for Members –…](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-members/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Zooey &lpar;and others&rpar;](https://make.wordpress.org/polyglots/2024/05/30/pte-request-for-zooey-and-others/)
 - [We’ve provided suggested translations for…](https://make.wordpress.org/polyglots/2024/05/30/weve-provided-suggested-translations-for/)
 - [PTE Request for Jetpack –…](https://make.wordpress.org/polyglots/2024/05/29/pte-request-for-jetpack-6/)
-- [PTE Request for [Easy Membership and Magazine]](https://make.wordpress.org/polyglots/2024/05/29/pte-request-for-easy-membership-and-magazine/)
-- [Translation Events: Inviting GTEs to Create and Manage Events](https://make.wordpress.org/polyglots/2024/05/29/translation-events-inviting-gtes-to-create-and-manage-events/)
 <!-- POLYGLOTS:END -->
 
 ## Support
