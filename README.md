@@ -564,9 +564,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Bengaluru, Karnataka, India](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-karnataka-india-2/)
 - [WordCamp Minneapolis/St. Paul](https://central.wordcamp.org/wordcamps/wordcamp-minneapolis-st-paul-mn/)
 - [WordCamp Rio 2024](https://central.wordcamp.org/wordcamps/wordcamp-rio-de-janeiro-rj-brazil-2/)
+- [WordCamp Granada, Spain](https://central.wordcamp.org/wordcamps/wordcamp-granada-spain-2/)
 - [WordCamp Pontevedra sobre emprendimiento](https://central.wordcamp.org/wordcamps/wordcamp-pontevedra-galicia-spain-2/)
 - [WordCamp Bretagne](https://central.wordcamp.org/wordcamps/wordcamp-bretagne/)
-- [WordCamp Sydney, NSW, Australia](https://central.wordcamp.org/wordcamps/wordcamp-sydney-nsw-australia-2/)
 - [WordCamp Lira 2024](https://central.wordcamp.org/wordcamps/wordcamplira/)
 - [WordCamp Cape Town, Western Cape, South Africa](https://central.wordcamp.org/wordcamps/wordcamp-cape-town-western-cape-south-africa/)
 <!-- WordCamp:END -->
