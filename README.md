@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Training Team Update – June 2024](https://make.wordpress.org/support/2024/06/xpost-training-team-update-june-2024/)
 - [16th May Support Team meeting](https://make.wordpress.org/support/2024/05/16th-may-support-team-meeting/)
 - [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/support/2024/04/xpost-the-plugin-directory-gets-a-refresh/)
 - [X-post: The Forums get a refresh](https://make.wordpress.org/support/2024/04/xpost-the-forums-get-a-refresh/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Discussion on changes needed for Forums to adhere to the Digital Services Act &lpar;DSA&rpar;](https://make.wordpress.org/support/2024/03/discussion-on-changes-needed-for-forums-to-adhere-to-the-digital-services-act-dsa/)
 - [Should mods delete links on topics when requested?](https://make.wordpress.org/support/2024/03/should-mods-delete-links-on-topics-when-requested/)
 - [X-post: Training Team Update – February 2024](https://make.wordpress.org/support/2024/03/xpost-training-team-update-february-2024/)
-- [22nd February Support Team meeting](https://make.wordpress.org/support/2024/02/22nd-february-support-team-meeting-2/)
 <!-- SUPPORT:END -->
 
 ## Documentation
