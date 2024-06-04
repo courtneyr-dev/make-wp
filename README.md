@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [How to fix broken placeholders in Arabic translations?](https://make.wordpress.org/polyglots/2024/06/04/how-to-fix-broken-placeholders-in-ar_ar-translations/)
 - [PTE wanted for plugin “Points…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-plugin-points/)
 - [PTE Request for Chart Builder](https://make.wordpress.org/polyglots/2024/06/03/pte-request-for-chart-builder/)
 - [PTE wanted for ASE. I…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-ase-i/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for EventPrime –…](https://make.wordpress.org/polyglots/2024/06/01/pte-request-for-eventprime/)
 - [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/05/31/clpte-request-in-two-projects/)
 - [PTE Request for Zooey &lpar;and others&rpar;](https://make.wordpress.org/polyglots/2024/05/30/pte-request-for-zooey-and-others/)
-- [We’ve provided suggested translations for…](https://make.wordpress.org/polyglots/2024/05/30/weve-provided-suggested-translations-for/)
 <!-- POLYGLOTS:END -->
 
 ## Support
