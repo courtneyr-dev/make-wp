@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for LoginPress I’ve…](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-loginpress-ive/)
+- [PTE Request for Directorist](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-directorist/)
 - [How to fix broken placeholders in Arabic translations?](https://make.wordpress.org/polyglots/2024/06/04/how-to-fix-broken-placeholders-in-ar_ar-translations/)
 - [PTE wanted for plugin “Points…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-plugin-points/)
 - [PTE Request for Chart Builder](https://make.wordpress.org/polyglots/2024/06/03/pte-request-for-chart-builder/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Fewer Tags Free Plugin](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-fewer-tags-free-plugin/)
 - [PTE Request for Members –…](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-members/)
 - [PTE Request for EventPrime –…](https://make.wordpress.org/polyglots/2024/06/01/pte-request-for-eventprime/)
-- [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/05/31/clpte-request-in-two-projects/)
-- [PTE Request for Zooey &lpar;and others&rpar;](https://make.wordpress.org/polyglots/2024/05/30/pte-request-for-zooey-and-others/)
 <!-- POLYGLOTS:END -->
 
 ## Support
