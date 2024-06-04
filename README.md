@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Training Team Update – June 2024](https://make.wordpress.org/training/2024/06/04/xpost-training-team-update-june-2024/)
 - [Meet 2024 Interim Co-Rep: Jamie Madden](https://make.wordpress.org/training/2024/06/04/meet-2024-interim-co-rep-jamie-madden/)
 - [Proposal: Learn WordPress Content Maintenance Process](https://make.wordpress.org/training/2024/05/29/proposal-learn-wordpress-content-maintenance-process/)
 - [Training Team Meeting Recap – 23rd May 2024](https://make.wordpress.org/training/2024/05/29/training-team-meeting-recap-23rd-may-2024/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Get to Know the Training Team’s Guide Program](https://make.wordpress.org/training/2024/05/15/get-to-know-the-training-teams-guide-program/)
 - [X-post: Looking for a Gujarati translation…](https://make.wordpress.org/training/2024/05/15/xpost-looking-for-a-gujarati-translation-3/)
 - [Contributor Spotlight: Jamie Madden](https://make.wordpress.org/training/2024/05/15/contributor-spotlight-jamie-madden/)
-- [Training Team Meeting Recap – 02nd May 2024](https://make.wordpress.org/training/2024/05/07/training-team-meeting-recap-02nd-may-2024/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
