@@ -437,6 +437,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Openverse maintainers welcome Princewill Onyenanu as a new committer](https://make.wordpress.org/openverse/2024/06/04/openverse-maintainers-welcome-princewill-onyenanu-as-a-new-committer/)
+- [Community Meeting Recap &lpar;2024-06-03&rpar;](https://make.wordpress.org/openverse/2024/06/04/community-meeting-recap-2024-06-03/)
 - [A week in Openverse: 2024-05-27 – 2024-06-03](https://make.wordpress.org/openverse/2024/06/03/last-week-openverse-2024-05-27-2024-06-03/)
 - [A week in Openverse: 2024-05-20 – 2024-05-27](https://make.wordpress.org/openverse/2024/05/27/last-week-openverse-2024-05-20-2024-05-27/)
 - [Community Meeting Recap &lpar;2024-05-21&rpar;](https://make.wordpress.org/openverse/2024/05/21/community-meeting-recap-2024-05-21/)
@@ -445,8 +447,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/openverse/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [A week in Openverse: 2024-05-06 – 2024-05-13](https://make.wordpress.org/openverse/2024/05/13/last-week-openverse-2024-05-06-2024-05-13/)
 - [A week in Openverse: 2024-04-29 – 2024-05-06](https://make.wordpress.org/openverse/2024/05/06/last-week-openverse-2024-04-29-2024-05-06/)
-- [The Openverse API is moving to api.openverse.org](https://make.wordpress.org/openverse/2024/05/06/the-openverse-api-is-moving-to-api-openverse-org/)
-- [A week in Openverse: 2024-04-22 – 2024-04-29](https://make.wordpress.org/openverse/2024/04/29/last-week-openverse-2024-04-22-2024-04-29/)
 <!-- OPENVERSE:END -->
 
 ## Photos
