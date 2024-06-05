@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: What’s new for theme developers in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-whats-new-for-theme-developers-in-wordpress-6-6)
 - [WordPress Support Engineer: Roles, Responsibilities, and Career Path](https://learn.wordpress.org/?meeting=wordpress-support-engineer-roles-responsibilities-and-career-path)
 - [Developer Hours: Exploring Synced Pattern Overrides in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-exploring-synced-pattern-overrides-in-wordpress-6-6)
 - [Recording awesome videos for WordPress demos, courses, and more](https://learn.wordpress.org/?meeting=recording-awesome-videos-for-wordpress-demos-courses-and-more)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress developer live stream: WordPress 6.5](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-wordpress-6-5)
 - [Untangling Templates](https://learn.wordpress.org/?meeting=untangling-templates)
 - [Developer Hours: Exploring the Block Hooks in WordPress 6.5](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-block-hooks-in-wordpress-6-5)
-- [Developer Hours: Exploring the Interactivity API in WordPress 6.5](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-interactivity-api-in-wordpress-6-5)
 <!-- SLS:END -->
 
 ## Test
