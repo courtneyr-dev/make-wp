@@ -325,6 +325,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Training Team Update – June 2024](https://make.wordpress.org/test/2024/06/05/xpost-training-team-update-june-2024/)
 - [Help test WordPress 6.6](https://make.wordpress.org/test/2024/06/03/help-test-wordpress-6-6/)
 - [Team Chat Agenda: 4 June 2024](https://make.wordpress.org/test/2024/06/03/team-chat-agenda-4-june-2024/)
 - [Week in Test: June 3, 2024](https://make.wordpress.org/test/2024/06/03/week-in-test-june-3-2024/)
@@ -334,7 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Test Chat Summary: 21 May 2024](https://make.wordpress.org/test/2024/05/22/test-chat-summary-21-may-2024/)
 - [X-post: Test Team Update: 20 May 2024](https://make.wordpress.org/test/2024/05/20/xpost-test-team-update-20-may-2024/)
 - [Team Chat Agenda: 21 May 2024](https://make.wordpress.org/test/2024/05/20/team-chat-agenda-21-may-2024/)
-- [Week in Test: May 20, 2024](https://make.wordpress.org/test/2024/05/20/week-in-test-may-21-2024/)
 <!-- TEST:END -->
 
 ## TV
