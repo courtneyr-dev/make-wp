@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for these…](https://make.wordpress.org/polyglots/2024/06/05/ive-suggested-translations-for-these/)
+- [PTE Request for CloudFilt](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-cloudfilt/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/polyglots/2024/06/05/xpost-training-team-update-june-2024/)
 - [PTE Request for LoginPress I’ve…](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-loginpress-ive/)
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-directorist/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Chart Builder](https://make.wordpress.org/polyglots/2024/06/03/pte-request-for-chart-builder/)
 - [PTE wanted for ASE. I…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-ase-i/)
 - [PTE Request for Super Web Share](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-super-web-share/)
-- [PTE Request for Fewer Tags Free Plugin](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-fewer-tags-free-plugin/)
-- [PTE Request for Members –…](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-members/)
 <!-- POLYGLOTS:END -->
 
 ## Support
