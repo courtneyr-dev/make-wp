@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Static Maps Editor](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-static-maps-editor/)
+- [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-following-themes/)
 - [Agenda: Weekly Polyglots Chat – June 5, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/06/05/agenda-weekly-polyglots-chat-june-5-2024-1300-utc/)
 - [I’ve suggested translations for these…](https://make.wordpress.org/polyglots/2024/06/05/ive-suggested-translations-for-these/)
 - [PTE Request for CloudFilt](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-cloudfilt/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-directorist/)
 - [How to fix broken placeholders in Arabic translations?](https://make.wordpress.org/polyglots/2024/06/04/how-to-fix-broken-placeholders-in-ar_ar-translations/)
 - [PTE wanted for plugin “Points…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-plugin-points/)
-- [PTE Request for Chart Builder](https://make.wordpress.org/polyglots/2024/06/03/pte-request-for-chart-builder/)
-- [PTE wanted for ASE. I…](https://make.wordpress.org/polyglots/2024/06/03/pte-wanted-for-ase-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
