@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.5.4 has been released….](https://make.wordpress.org/polyglots/2024/06/05/wordpress-6-5-4-has-been-released/)
 - [PTE Request for WP-WebAuthn](https://make.wordpress.org/polyglots/2024/06/05/hello-87/)
 - [PTE Request for Static Maps Editor](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-static-maps-editor/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-following-themes/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/polyglots/2024/06/05/xpost-training-team-update-june-2024/)
 - [PTE Request for LoginPress I’ve…](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-loginpress-ive/)
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-directorist/)
-- [How to fix broken placeholders in Arabic translations?](https://make.wordpress.org/polyglots/2024/06/04/how-to-fix-broken-placeholders-in-ar_ar-translations/)
 <!-- POLYGLOTS:END -->
 
 ## Support
