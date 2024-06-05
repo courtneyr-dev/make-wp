@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Training Team Update – June 2024](https://make.wordpress.org/polyglots/2024/06/05/xpost-training-team-update-june-2024/)
 - [PTE Request for LoginPress I’ve…](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-loginpress-ive/)
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-directorist/)
 - [How to fix broken placeholders in Arabic translations?](https://make.wordpress.org/polyglots/2024/06/04/how-to-fix-broken-placeholders-in-ar_ar-translations/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Super Web Share](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-super-web-share/)
 - [PTE Request for Fewer Tags Free Plugin](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-fewer-tags-free-plugin/)
 - [PTE Request for Members –…](https://make.wordpress.org/polyglots/2024/06/02/pte-request-for-members/)
-- [PTE Request for EventPrime –…](https://make.wordpress.org/polyglots/2024/06/01/pte-request-for-eventprime/)
 <!-- POLYGLOTS:END -->
 
 ## Support
