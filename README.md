@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Proposal: Learn WordPress Content Maintenance Process](https://make.wordpress.org/support/2024/06/xpost-proposal-learn-wordpress-content-maintenance-process/)
 - [6th June Support Team meeting](https://make.wordpress.org/support/2024/06/6th-june-support-team-meeting/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/support/2024/06/xpost-training-team-update-june-2024/)
 - [16th May Support Team meeting](https://make.wordpress.org/support/2024/05/16th-may-support-team-meeting/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Brainstorming a Support Team Contributor Ladder](https://make.wordpress.org/support/2024/04/brainstorming-a-support-team-contributor-ladder/)
 - [Announcement of a new Support Team meeting time](https://make.wordpress.org/support/2024/03/announcement-of-a-new-support-team-meeting-time/)
 - [Discussion on changes needed for Forums to adhere to the Digital Services Act &lpar;DSA&rpar;](https://make.wordpress.org/support/2024/03/discussion-on-changes-needed-for-forums-to-adhere-to-the-digital-services-act-dsa/)
-- [Should mods delete links on topics when requested?](https://make.wordpress.org/support/2024/03/should-mods-delete-links-on-topics-when-requested/)
 <!-- SUPPORT:END -->
 
 ## Documentation
