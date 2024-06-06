@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Events of the Month – March &amp; April 2024](https://make.wordpress.org/community/2024/06/06/events-of-the-month-march-april-2024/)
 - [Community Team Meeting Agenda for 6 – June – 2024](https://make.wordpress.org/community/2024/06/05/community-team-meeting-agenda-for-6-june-2024/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/community/2024/06/04/xpost-training-team-update-june-2024/)
 - [Current challenges of WordPress Events. Shaping the future](https://make.wordpress.org/community/2024/05/31/current-challenges-of-wordpress-events-shaping-the-future/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal to Update Our Event Venue Policy](https://make.wordpress.org/community/2024/05/21/proposal-to-update-our-event-venue-policy/)
 - [Contributor Working Group Chat Agenda | May 23rd 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/05/16/contributor-working-group-chat-agenda-may-23rd-0700-utc-apac-emea-and-1600-utc-amer/)
 - [WordPress Community Support Financial Health Update](https://make.wordpress.org/community/2024/05/15/wordpress-community-support-financial-health-update/)
-- [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/community/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 <!-- COMMUNITY:END -->
 
 ## Meta
