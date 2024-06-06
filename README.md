@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [German PTE for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/06/06/german-pte-for-enable-mastodon-apps/)
+- [PTE Request for WP STAGING WordPress Backup Plugin](https://make.wordpress.org/polyglots/2024/06/06/pte-request-for-wp-staging-wordpress-backup-plugin/)
 - [WordPress 6.5.4 has been released….](https://make.wordpress.org/polyglots/2024/06/05/wordpress-6-5-4-has-been-released/)
 - [PTE Request for WP-WebAuthn](https://make.wordpress.org/polyglots/2024/06/05/hello-87/)
 - [PTE Request for Static Maps Editor](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-static-maps-editor/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested translations for these…](https://make.wordpress.org/polyglots/2024/06/05/ive-suggested-translations-for-these/)
 - [PTE Request for CloudFilt](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-cloudfilt/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/polyglots/2024/06/05/xpost-training-team-update-june-2024/)
-- [PTE Request for LoginPress I’ve…](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-loginpress-ive/)
-- [PTE Request for Directorist](https://make.wordpress.org/polyglots/2024/06/04/pte-request-for-directorist/)
 <!-- POLYGLOTS:END -->
 
 ## Support
