@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi guys, would anyone like…](https://make.wordpress.org/polyglots/2024/06/06/hi-guys-would-anyone-like/)
 - [Hungarian PTE for SamedayCourier Shipping Plugin](https://make.wordpress.org/polyglots/2024/06/06/hungarian-pte-for-samedaycourier-shipping-plugin/)
 - [German PTE for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/06/06/german-pte-for-enable-mastodon-apps/)
 - [PTE Request for WP STAGING WordPress Backup Plugin](https://make.wordpress.org/polyglots/2024/06/06/pte-request-for-wp-staging-wordpress-backup-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-following-themes/)
 - [Agenda: Weekly Polyglots Chat – June 5, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/06/05/agenda-weekly-polyglots-chat-june-5-2024-1300-utc/)
 - [I’ve suggested translations for these…](https://make.wordpress.org/polyglots/2024/06/05/ive-suggested-translations-for-these/)
-- [PTE Request for CloudFilt](https://make.wordpress.org/polyglots/2024/06/05/pte-request-for-cloudfilt/)
 <!-- POLYGLOTS:END -->
 
 ## Support
