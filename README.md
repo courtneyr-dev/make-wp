@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Recording awesome videos for WordPress demos, courses, and more](https://wordpress.tv/2024/06/06/recording-awesome-videos-for-wordpress-demos-courses-and-more/)
 - [SEO strategies](https://wordpress.tv/2024/06/04/seo-strategies/)
 - [Using the Interactivity API outside of WordPress](https://wordpress.tv/2024/06/03/using-the-interactivity-api-outside-of-wordpress/)
 - [How to facilitate Online Workshop for the WordPress Training Team](https://wordpress.tv/2024/06/02/how-to-facilitate-online-workshop-for-the-wordpress-training-team/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Desbloqueando la creatividad: Por qué el ‘Research’ es clave en todo proyecto creativo](https://wordpress.tv/2024/05/28/desbloqueando-la-creatividad-por-que-el-research-es-clave-en-todo-proyecto-creativo/)
 - [Transformación de la industria de la música electrónica](https://wordpress.tv/2024/05/28/transformacion-de-la-industria-de-la-musica-electronica/)
 - [Más allá de los datos](https://wordpress.tv/2024/05/28/mas-alla-de-los-datos/)
-- [Las fases de conocimiento del consumidor para crear contenido TOP](https://wordpress.tv/2024/05/28/las-fases-de-conocimiento-del-consumidor-para-crear-contenido-top/)
 <!-- WPTV:END -->
 
 ## Marketing
