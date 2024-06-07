@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Testing your theme](https://wordpress.tv/2024/06/07/testing-your-theme/)
 - [Themes and user privacy](https://wordpress.tv/2024/06/07/themes-and-user-privacy/)
 - [Examining the state of your PHP code](https://wordpress.tv/2024/06/07/examining-the-state-of-your-php-code/)
 - [Recording awesome videos for WordPress demos, courses, and more](https://wordpress.tv/2024/06/06/recording-awesome-videos-for-wordpress-demos-courses-and-more/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Estrategias de email para tu eCommerce](https://wordpress.tv/2024/05/28/estrategias-de-email-para-tu-ecommerce/)
 - [Tu mejor negocio: El mantenimiento web](https://wordpress.tv/2024/05/28/tu-mejor-negocio-el-mantenimiento-web/)
 - [Checklist para montar un NEGOCIO RENTABLE con WordPress](https://wordpress.tv/2024/05/28/checklist-para-montar-un-negocio-rentable-con-wordpress/)
-- [Desbloqueando la creatividad: Por qué el ‘Research’ es clave en todo proyecto creativo](https://wordpress.tv/2024/05/28/desbloqueando-la-creatividad-por-que-el-research-es-clave-en-todo-proyecto-creativo/)
 <!-- WPTV:END -->
 
 ## Marketing
