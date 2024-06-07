@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Themes and user privacy](https://wordpress.tv/2024/06/07/themes-and-user-privacy/)
+- [Examining the state of your PHP code](https://wordpress.tv/2024/06/07/examining-the-state-of-your-php-code/)
 - [Recording awesome videos for WordPress demos, courses, and more](https://wordpress.tv/2024/06/06/recording-awesome-videos-for-wordpress-demos-courses-and-more/)
 - [SEO strategies](https://wordpress.tv/2024/06/04/seo-strategies/)
 - [Using the Interactivity API outside of WordPress](https://wordpress.tv/2024/06/03/using-the-interactivity-api-outside-of-wordpress/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tu mejor negocio: El mantenimiento web](https://wordpress.tv/2024/05/28/tu-mejor-negocio-el-mantenimiento-web/)
 - [Checklist para montar un NEGOCIO RENTABLE con WordPress](https://wordpress.tv/2024/05/28/checklist-para-montar-un-negocio-rentable-con-wordpress/)
 - [Desbloqueando la creatividad: Por qué el ‘Research’ es clave en todo proyecto creativo](https://wordpress.tv/2024/05/28/desbloqueando-la-creatividad-por-que-el-research-es-clave-en-todo-proyecto-creativo/)
-- [Transformación de la industria de la música electrónica](https://wordpress.tv/2024/05/28/transformacion-de-la-industria-de-la-musica-electronica/)
-- [Más allá de los datos](https://wordpress.tv/2024/05/28/mas-alla-de-los-datos/)
 <!-- WPTV:END -->
 
 ## Marketing
