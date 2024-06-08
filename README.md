@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hey!](https://make.wordpress.org/polyglots/2024/06/08/%d7%94%d7%99%d7%99-4/)
 - [PTE Request For hr_HR language…](https://make.wordpress.org/polyglots/2024/06/08/pte-request-for-hr_hr-language/)
 - [PTE Request for GutenKit](https://make.wordpress.org/polyglots/2024/06/07/pte-request-for-gutenkit/)
 - [German &lpar;Germany&rpar; PTE request in several projects](https://make.wordpress.org/polyglots/2024/06/07/german-germany-pte-request-in-several-projects/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [German PTE for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/06/06/german-pte-for-enable-mastodon-apps/)
 - [PTE Request for WP STAGING WordPress Backup Plugin](https://make.wordpress.org/polyglots/2024/06/06/pte-request-for-wp-staging-wordpress-backup-plugin/)
 - [WordPress 6.5.4 has been released….](https://make.wordpress.org/polyglots/2024/06/05/wordpress-6-5-4-has-been-released/)
-- [PTE Request for WP-WebAuthn](https://make.wordpress.org/polyglots/2024/06/05/hello-87/)
 <!-- POLYGLOTS:END -->
 
 ## Support
