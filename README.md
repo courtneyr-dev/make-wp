@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [LMS certificate system builder](https://jobs.wordpress.net/job/lms-certificate-system-builder/)
 - [plugin Tutor LMS/Wordpres](https://jobs.wordpress.net/job/plugin-tutor-lms-wordpres/)
 - [WordPress Developer &lpar;Part-time&rpar;](https://jobs.wordpress.net/job/wordpress-developer-part-time-2/)
 - [Growth Marketing Manager](https://jobs.wordpress.net/job/growth-marketing-manager-2/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lead Web Designer](https://jobs.wordpress.net/job/lead-web-designer/)
 - [WORDPRESS DEVELOPER AND DESIGNER](https://jobs.wordpress.net/job/wordpress-developer-and-designer-4/)
 - [Site redesign](https://jobs.wordpress.net/job/site-redesign-2/)
-- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-18/)
 <!-- JOBS:END -->
 
 ## Central
