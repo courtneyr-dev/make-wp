@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [ব্লক থিমের সাথে ক্যাটাগরি টেমপ্লেট এক্সপ্লোর করা](https://learn.wordpress.org/tutorial/bn-exploring-category-templates-with-block-themes/)
 - [ডুয়োটোন ফিল্টার ব্যবহার করে কিভাবে কালার ইফেক্ট পরিবর্তন করতে হয়](https://learn.wordpress.org/tutorial/bn-applying-duotone-filters-to-change-color-effects/)
 - [স্পেসার ব্লক কীভাবে ব্যবহার করবেন](https://learn.wordpress.org/tutorial/bn-how-to-use-the-spacer-block/)
 - [ম্যানেজ সেটিংসঃ মিডিয়া](https://learn.wordpress.org/tutorial/bn-managing-settings-media/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ব্লক এডিটরে লিস্ট ভিউের ব্যবহার](https://learn.wordpress.org/tutorial/bn-how-to-use-the-list-view/)
 - [ম্যানেজ সেটিংসঃ লেখা](https://learn.wordpress.org/tutorial/bn-managing-settings-writing/)
 - [ગુટેનબર્ગ બ્લોક ડેવલપમેન્ટનો પરિચય](https://learn.wordpress.org/tutorial/gu-intro-to-gutenberg-block-development/)
-- [છબીઓ ઉમેરવા અને દૂર કરવી](https://learn.wordpress.org/tutorial/gu-adding-amp-removing-images/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
