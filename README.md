@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-5/)
+- [CampusPress Sales Support Specialist &lpar;WordPress, SaaS sales &amp; Education&rpar;](https://jobs.wordpress.net/job/campuspress-sales-support-specialist-wordpress-saas-sales-education-19/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-842/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-8/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-32/)
 - [LMS certificate system builder](https://jobs.wordpress.net/job/lms-certificate-system-builder/)
 - [plugin Tutor LMS/Wordpres](https://jobs.wordpress.net/job/plugin-tutor-lms-wordpres/)
 - [WordPress Developer &lpar;Part-time&rpar;](https://jobs.wordpress.net/job/wordpress-developer-part-time-2/)
 - [Growth Marketing Manager](https://jobs.wordpress.net/job/growth-marketing-manager-2/)
 - [WORDPRESS WEBSITE CREATION AND MARKETING](https://jobs.wordpress.net/job/wordpress-website-creation-and-marketing/)
-- [Web developer](https://jobs.wordpress.net/job/web-developer-209/)
-- [Web Designer](https://jobs.wordpress.net/job/web-designer-74/)
-- [Lead Web Designer](https://jobs.wordpress.net/job/lead-web-designer/)
-- [WORDPRESS DEVELOPER AND DESIGNER](https://jobs.wordpress.net/job/wordpress-developer-and-designer-4/)
-- [Site redesign](https://jobs.wordpress.net/job/site-redesign-2/)
 <!-- JOBS:END -->
 
 ## Central
