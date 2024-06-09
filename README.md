@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for notify-bot-woocommerce](https://make.wordpress.org/polyglots/2024/06/09/pte-request-for-notify-bot-woocommerce/)
+- [Hello](https://make.wordpress.org/polyglots/2024/06/09/hello-88/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/06/09/pte-request-for-following-themes-2/)
 - [Hey!](https://make.wordpress.org/polyglots/2024/06/08/%d7%94%d7%99%d7%99-4/)
 - [PTE Request For hr_HR language…](https://make.wordpress.org/polyglots/2024/06/08/pte-request-for-hr_hr-language/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Proposal: Learn WordPress Content Maintenance Process](https://make.wordpress.org/polyglots/2024/06/06/xpost-proposal-learn-wordpress-content-maintenance-process/)
 - [Hi guys, would anyone like…](https://make.wordpress.org/polyglots/2024/06/06/hi-guys-would-anyone-like/)
 - [Hungarian PTE for SamedayCourier Shipping Plugin](https://make.wordpress.org/polyglots/2024/06/06/hungarian-pte-for-samedaycourier-shipping-plugin/)
-- [German PTE for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/06/06/german-pte-for-enable-mastodon-apps/)
-- [PTE Request for WP STAGING WordPress Backup Plugin](https://make.wordpress.org/polyglots/2024/06/06/pte-request-for-wp-staging-wordpress-backup-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
