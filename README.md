@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [De Astra a Twenty Twenty-Four: ¿compensa el cambio?](https://wordpress.tv/2024/06/09/de-astra-a-twenty-twenty-four-compensa-el-cambio/)
 - [Testing your theme](https://wordpress.tv/2024/06/07/testing-your-theme/)
 - [Themes and user privacy](https://wordpress.tv/2024/06/07/themes-and-user-privacy/)
 - [Examining the state of your PHP code](https://wordpress.tv/2024/06/07/examining-the-state-of-your-php-code/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo emitir una Factura Electrónica 3.4 y no morir en el intento](https://wordpress.tv/2024/05/28/como-emitir-una-factura-electronica-3-4-y-no-morir-en-el-intento/)
 - [Estrategias de email para tu eCommerce](https://wordpress.tv/2024/05/28/estrategias-de-email-para-tu-ecommerce/)
 - [Tu mejor negocio: El mantenimiento web](https://wordpress.tv/2024/05/28/tu-mejor-negocio-el-mantenimiento-web/)
-- [Checklist para montar un NEGOCIO RENTABLE con WordPress](https://wordpress.tv/2024/05/28/checklist-para-montar-un-negocio-rentable-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
