@@ -352,7 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Faisal Ahammad, Muhibul Haque: WordPress Support Engineer: Roles, Responsibilities, and Career Path &lpar;Bangla&rpar;](https://wordpress.tv/2024/06/10/wordpress-support-engineer-roles-responsibilities/)
+- [WordPress Support Engineer: Roles, Responsibilities, and Career Path &lpar;Bangla&rpar;](https://wordpress.tv/2024/06/10/wordpress-support-engineer-roles-responsibilities/)
 - [Utiliser les classes contextuelles pour personnaliser votre site WordPress FSE](https://wordpress.tv/2024/06/09/utiliser-les-classes-contextuelles-pour-personnaliser-votre-site-wordpress-fse/)
 - [Internationalization in WordPress &lpar;Bangla&rpar; : Dhaka WordPress Meetup](https://wordpress.tv/2024/06/09/internationalization-in-wordpress-bangla/)
 - [De Astra a Twenty Twenty-Four: ¿compensa el cambio?](https://wordpress.tv/2024/06/09/de-astra-a-twenty-twenty-four-compensa-el-cambio/)
