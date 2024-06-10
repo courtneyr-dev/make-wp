@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Reprovision dd32.dev wporg Sandbox](https://make.wordpress.org/systems/2024/06/10/reprovision-wp-org-sandbox/)
 - [Increase query params length for trac](https://make.wordpress.org/systems/2024/05/31/increase-query-params-length-for-trac/)
 - [Enable CORS for core translation downloads](https://make.wordpress.org/systems/2024/04/10/enable-cors-for-core-translation-downloads/)
 - [Enable DKIM for WordCamp GSuite?](https://make.wordpress.org/systems/2024/03/25/enable-dkim-for-wordcamp-gsuite/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Redirect gutenberg.run](https://make.wordpress.org/systems/2024/03/18/redirect-gutenberg-run/)
 - [Rosetta commit permissions](https://make.wordpress.org/systems/2024/03/12/rosetta-commit-permissions/)
 - [Add WordCamp.org Sandbox and/or Super Admin](https://make.wordpress.org/systems/2024/03/07/add-wordcamp-org-sandbox-and-or-super-admin/)
-- [Delete 6.6 git branches](https://make.wordpress.org/systems/2024/03/06/delete-6-6-git-branches/)
 <!-- SYSTEMS:END -->
 
 ## News
