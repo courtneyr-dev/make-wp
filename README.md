@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/polyglots/2024/06/10/xpost-localization-and-translation-of-helphub-during-wceu-2024/)
 - [Translation review request for Modern Theme](https://make.wordpress.org/polyglots/2024/06/10/translation-review-request-for-modern-theme/)
 - [Irrelevant Turkish Translation](https://make.wordpress.org/polyglots/2024/06/10/irrelevant-turkish-translation/)
 - [PTE Request and Translation review request](https://make.wordpress.org/polyglots/2024/06/10/pte-request-and-translation-review-request/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hey!](https://make.wordpress.org/polyglots/2024/06/08/%d7%94%d7%99%d7%99-4/)
 - [PTE Request For hr_HR language…](https://make.wordpress.org/polyglots/2024/06/08/pte-request-for-hr_hr-language/)
 - [PTE Request for GutenKit](https://make.wordpress.org/polyglots/2024/06/07/pte-request-for-gutenkit/)
-- [German &lpar;Germany&rpar; PTE request in several projects](https://make.wordpress.org/polyglots/2024/06/07/german-germany-pte-request-in-several-projects/)
 <!-- POLYGLOTS:END -->
 
 ## Support
