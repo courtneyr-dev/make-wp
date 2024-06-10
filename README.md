@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Irrelevant Turkish Translation](https://make.wordpress.org/polyglots/2024/06/10/irrelevant-turkish-translation/)
+- [PTE Request and Translation review request](https://make.wordpress.org/polyglots/2024/06/10/pte-request-and-translation-review-request/)
 - [PTE request for notify-bot-woocommerce](https://make.wordpress.org/polyglots/2024/06/09/pte-request-for-notify-bot-woocommerce/)
 - [Hello](https://make.wordpress.org/polyglots/2024/06/09/hello-88/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/06/09/pte-request-for-following-themes-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for GutenKit](https://make.wordpress.org/polyglots/2024/06/07/pte-request-for-gutenkit/)
 - [German &lpar;Germany&rpar; PTE request in several projects](https://make.wordpress.org/polyglots/2024/06/07/german-germany-pte-request-in-several-projects/)
 - [X-post: Proposal: Learn WordPress Content Maintenance Process](https://make.wordpress.org/polyglots/2024/06/06/xpost-proposal-learn-wordpress-content-maintenance-process/)
-- [Hi guys, would anyone like…](https://make.wordpress.org/polyglots/2024/06/06/hi-guys-would-anyone-like/)
-- [Hungarian PTE for SamedayCourier Shipping Plugin](https://make.wordpress.org/polyglots/2024/06/06/hungarian-pte-for-samedaycourier-shipping-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
