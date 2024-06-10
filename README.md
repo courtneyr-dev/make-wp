@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translation review request for Modern Theme](https://make.wordpress.org/polyglots/2024/06/10/translation-review-request-for-modern-theme/)
 - [Irrelevant Turkish Translation](https://make.wordpress.org/polyglots/2024/06/10/irrelevant-turkish-translation/)
 - [PTE Request and Translation review request](https://make.wordpress.org/polyglots/2024/06/10/pte-request-and-translation-review-request/)
 - [PTE request for notify-bot-woocommerce](https://make.wordpress.org/polyglots/2024/06/09/pte-request-for-notify-bot-woocommerce/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request For hr_HR language…](https://make.wordpress.org/polyglots/2024/06/08/pte-request-for-hr_hr-language/)
 - [PTE Request for GutenKit](https://make.wordpress.org/polyglots/2024/06/07/pte-request-for-gutenkit/)
 - [German &lpar;Germany&rpar; PTE request in several projects](https://make.wordpress.org/polyglots/2024/06/07/german-germany-pte-request-in-several-projects/)
-- [X-post: Proposal: Learn WordPress Content Maintenance Process](https://make.wordpress.org/polyglots/2024/06/06/xpost-proposal-learn-wordpress-content-maintenance-process/)
 <!-- POLYGLOTS:END -->
 
 ## Support
