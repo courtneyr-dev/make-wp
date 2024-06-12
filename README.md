@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Essential security plugin features and settings](https://wordpress.tv/2024/06/11/essential-security-plugin-features-and-settings/)
 - [Using the Group block](https://wordpress.tv/2024/06/11/using-the-group-block/)
 - [Developer Hours: Exploring Synced Pattern Overrides in WordPress 6.6](https://wordpress.tv/2024/06/11/developer-hours-exploring-synced-pattern-overrides-in-wordpress-6-6/)
 - [WordPress Support Engineer: Roles, Responsibilities, and Career Path &lpar;Bangla&rpar;](https://wordpress.tv/2024/06/10/wordpress-support-engineer-roles-responsibilities/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Project Health Hangout 4](https://wordpress.tv/2024/05/30/project-health-hangout-4/)
 - [Project Health Hangout 3](https://wordpress.tv/2024/05/30/project-health-hangout-3/)
 - [Get to Know the Training Team’s Guide Program](https://wordpress.tv/2024/05/30/training-team-guide-program/)
-- [Project Health Hangout 2](https://wordpress.tv/2024/05/29/project-health-hangout-2/)
 <!-- WPTV:END -->
 
 ## Marketing
