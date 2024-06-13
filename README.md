@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi,](https://make.wordpress.org/polyglots/2024/06/13/hi-115/)
+- [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/06/13/i-have-suggested-a-translation/)
 - [User Interface Updates to Translate Live](https://make.wordpress.org/polyglots/2024/06/13/user-interface-updates-to-translate-live/)
 - [PTE Request for Post Porter](https://make.wordpress.org/polyglots/2024/06/13/pte-request-for-post-porter/)
 - [Transitioning All Rosetta Sites to the New WP.org Theme](https://make.wordpress.org/polyglots/2024/06/13/transitioning-all-rosetta-sites-to-the-new-wp-org-theme/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello @amlocteam, https://translate.wordpress.org/locale/tr/default/wp-plugins/google-analytics-dashboard-for-wp/ For your…](https://make.wordpress.org/polyglots/2024/06/11/hello-amlocteam-https-translate-wordpress-org-locale-tr-default-wp-plugins-google-analytics-dashboard-for-wp-for-your/)
 - [GTE Request for Hindi hi_IN locale](https://make.wordpress.org/polyglots/2024/06/11/gte-request-for-hindi-hi_in-locale/)
 - [X-post: Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/polyglots/2024/06/10/xpost-localization-and-translation-of-helphub-during-wceu-2024/)
-- [Translation review request for Modern Theme](https://make.wordpress.org/polyglots/2024/06/10/translation-review-request-for-modern-theme/)
-- [Irrelevant Turkish Translation](https://make.wordpress.org/polyglots/2024/06/10/irrelevant-turkish-translation/)
 <!-- POLYGLOTS:END -->
 
 ## Support
