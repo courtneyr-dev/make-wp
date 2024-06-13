@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Transitioning All Rosetta Sites to the New WP.org Theme](https://make.wordpress.org/polyglots/2024/06/13/transitioning-all-rosetta-sites-to-the-new-wp-org-theme/)
 - [PTE Request for 11 plugins](https://make.wordpress.org/polyglots/2024/06/12/pte-request-for-11-plugins/)
 - [PTE Request for Donation Platform for WooCommerce](https://make.wordpress.org/polyglots/2024/06/11/pte-request-for-donation-platform-for-woocommerce-3/)
 - [Hello @amlocteam, https://translate.wordpress.org/locale/tr/default/wp-plugins/google-analytics-dashboard-for-wp/ For your…](https://make.wordpress.org/polyglots/2024/06/11/hello-amlocteam-https-translate-wordpress-org-locale-tr-default-wp-plugins-google-analytics-dashboard-for-wp-for-your/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Irrelevant Turkish Translation](https://make.wordpress.org/polyglots/2024/06/10/irrelevant-turkish-translation/)
 - [PTE Request and Translation review request](https://make.wordpress.org/polyglots/2024/06/10/pte-request-and-translation-review-request/)
 - [PTE request for notify-bot-woocommerce](https://make.wordpress.org/polyglots/2024/06/09/pte-request-for-notify-bot-woocommerce/)
-- [Hello](https://make.wordpress.org/polyglots/2024/06/09/hello-88/)
 <!-- POLYGLOTS:END -->
 
 ## Support
