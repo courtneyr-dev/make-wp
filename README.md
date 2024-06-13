@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Utilizando la API de Gemini para nuestros proyectos](https://wordpress.tv/2024/06/13/utilizando-la-api-de-gemini-para-nuestros-proyectos/)
+- [Más allá del contenido I: dominando la maquetación con Flexbox y Bricks Builder](https://wordpress.tv/2024/06/13/mas-alla-del-contenido-i-dominando-la-maquetacion-con-flexbox-y-bricks-builder/)
+- [Environmental Conservation Awareness by St. Edwards Secondary School Bukuumi](https://wordpress.tv/2024/06/13/environmental-conservation-awareness-by-st-edwards-secondary-school-bukuumi/)
+- [LearnHub by E-zone School of Computing](https://wordpress.tv/2024/06/13/learnhub-by-e-zone-school-of-computing/)
+- [Find Your School by E-zone School of Computing](https://wordpress.tv/2024/06/13/find-your-school-by-e-zone-school-of-computing/)
+- [WordPress Revolution in Education Ugandan ICT Teachers Discuss Web Authoring Tools](https://wordpress.tv/2024/06/13/wordpress-revolution-in-education-ugandan-ict-teachers-discuss-web-authoring-tools/)
 - [Is work not satisfying anymore? A few proven ideas to think](https://wordpress.tv/2024/06/13/is-work-not-satisfying-anymore-a-few-proven-ideas-to-think/)
 - [Contributing to WordPress](https://wordpress.tv/2024/06/13/contributing-to-wordpress/)
 - [Essential security plugin features and settings](https://wordpress.tv/2024/06/11/essential-security-plugin-features-and-settings/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Como hacer creatividad transformadora &lpar;también&rpar; en digital](https://wordpress.tv/2024/06/02/como-hacer-creatividad-transformadora-tambien-en-digital/)
 - [Taller de Penpot: de diseño a desarrollo con software libre y gratuito](https://wordpress.tv/2024/05/31/taller-de-penpot-de-diseno-a-desarrollo-con-software-libre-y-gratuito/)
 - [Mesa de debate: ¿Quiénes somos? ¿De dónde venimos? ¿Adónde vamos?](https://wordpress.tv/2024/05/31/mesa-de-debate-quienes-somos-de-donde-venimos-adonde-vamos/)
-- [Software libre, ¿Por qué?](https://wordpress.tv/2024/05/31/software-libre-por-que/)
-- [Accesibilidad Sin Fronteras: Cómo Transformar Realmente la Web](https://wordpress.tv/2024/05/31/accesibilidad-sin-fronteras-como-transformar-realmente-la-web/)
-- [Como la cagué emprendiendo](https://wordpress.tv/2024/05/31/como-la-cague-emprendiendo/)
-- [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/05/30/differentiating-between-homepage-display-settings-and-various-templates/)
-- [Domain management: Understanding DNS records](https://wordpress.tv/2024/05/30/domain-management-understanding-dns-records/)
-- [Project Health Hangout 4](https://wordpress.tv/2024/05/30/project-health-hangout-4/)
 <!-- WPTV:END -->
 
 ## Marketing
