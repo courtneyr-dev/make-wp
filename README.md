@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Training Team WordCamp Europe 2024 Contributor Day Online](https://wordpress.tv/2024/06/13/training-team-wordcamp-europe-2024-contributor-day-online/)
 - [Utilizando la API de Gemini para nuestros proyectos](https://wordpress.tv/2024/06/13/utilizando-la-api-de-gemini-para-nuestros-proyectos/)
 - [Más allá del contenido: dominando la maquetación con Flexbox y Bricks Builder](https://wordpress.tv/2024/06/13/mas-alla-del-contenido-i-dominando-la-maquetacion-con-flexbox-y-bricks-builder/)
 - [Environmental Conservation Awareness by St. Edwards Secondary School Bukuumi](https://wordpress.tv/2024/06/13/environmental-conservation-awareness-by-st-edwards-secondary-school-bukuumi/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to facilitate Online Workshop for the WordPress Training Team](https://wordpress.tv/2024/06/02/how-to-facilitate-online-workshop-for-the-wordpress-training-team/)
 - [Como hacer creatividad transformadora &lpar;también&rpar; en digital](https://wordpress.tv/2024/06/02/como-hacer-creatividad-transformadora-tambien-en-digital/)
 - [Taller de Penpot: de diseño a desarrollo con software libre y gratuito](https://wordpress.tv/2024/05/31/taller-de-penpot-de-diseno-a-desarrollo-con-software-libre-y-gratuito/)
-- [Mesa de debate: ¿Quiénes somos? ¿De dónde venimos? ¿Adónde vamos?](https://wordpress.tv/2024/05/31/mesa-de-debate-quienes-somos-de-donde-venimos-adonde-vamos/)
 <!-- WPTV:END -->
 
 ## Marketing
