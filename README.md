@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: Transitioning All Rosetta Sites to the New WP.org Theme](https://make.wordpress.org/meta/2024/06/13/xpost-transitioning-all-rosetta-sites-to-the-new-wp-org-theme/)
 - [X-post: Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/meta/2024/06/10/xpost-localization-and-translation-of-helphub-during-wceu-2024/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/meta/2024/06/05/xpost-training-team-update-june-2024/)
 - [X-post: Current challenges of WordPress Events. Shaping the future](https://make.wordpress.org/meta/2024/06/04/xpost-current-challenges-of-wordpress-events-shaping-the-future/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/meta/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [Meeting Agenda for May 1, 2024](https://make.wordpress.org/meta/2024/04/30/meeting-agenda-for-may-1-2024/)
 - [The Plugin Directory gets a refresh](https://make.wordpress.org/meta/2024/04/30/the-plugin-directory-gets-a-refresh/)
-- [Devs: Give your feedback on Plugin Directory Playground Previews](https://make.wordpress.org/meta/2024/04/25/devs-give-your-feedback-on-plugin-directory-playground-previews/)
 <!-- META:END -->
 
 ## Training
