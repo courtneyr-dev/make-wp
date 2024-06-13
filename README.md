@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Is work not satisfying anymore? A few proven ideas to think](https://wordpress.tv/2024/06/13/is-work-not-satisfying-anymore-a-few-proven-ideas-to-think/)
+- [Contributing to WordPress](https://wordpress.tv/2024/06/13/contributing-to-wordpress/)
 - [Essential security plugin features and settings](https://wordpress.tv/2024/06/11/essential-security-plugin-features-and-settings/)
 - [Using the Group block](https://wordpress.tv/2024/06/11/using-the-group-block/)
 - [Developer Hours: Exploring Synced Pattern Overrides in WordPress 6.6](https://wordpress.tv/2024/06/11/developer-hours-exploring-synced-pattern-overrides-in-wordpress-6-6/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Differentiating between homepage display settings and various templates](https://wordpress.tv/2024/05/30/differentiating-between-homepage-display-settings-and-various-templates/)
 - [Domain management: Understanding DNS records](https://wordpress.tv/2024/05/30/domain-management-understanding-dns-records/)
 - [Project Health Hangout 4](https://wordpress.tv/2024/05/30/project-health-hangout-4/)
-- [Project Health Hangout 3](https://wordpress.tv/2024/05/30/project-health-hangout-3/)
-- [Get to Know the Training Team’s Guide Program](https://wordpress.tv/2024/05/30/training-team-guide-program/)
 <!-- WPTV:END -->
 
 ## Marketing
