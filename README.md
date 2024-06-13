@@ -353,7 +353,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [Utilizando la API de Gemini para nuestros proyectos](https://wordpress.tv/2024/06/13/utilizando-la-api-de-gemini-para-nuestros-proyectos/)
-- [Más allá del contenido I: dominando la maquetación con Flexbox y Bricks Builder](https://wordpress.tv/2024/06/13/mas-alla-del-contenido-i-dominando-la-maquetacion-con-flexbox-y-bricks-builder/)
+- [Más allá del contenido: dominando la maquetación con Flexbox y Bricks Builder](https://wordpress.tv/2024/06/13/mas-alla-del-contenido-i-dominando-la-maquetacion-con-flexbox-y-bricks-builder/)
 - [Environmental Conservation Awareness by St. Edwards Secondary School Bukuumi](https://wordpress.tv/2024/06/13/environmental-conservation-awareness-by-st-edwards-secondary-school-bukuumi/)
 - [LearnHub by E-zone School of Computing](https://wordpress.tv/2024/06/13/learnhub-by-e-zone-school-of-computing/)
 - [Find Your School by E-zone School of Computing](https://wordpress.tv/2024/06/13/find-your-school-by-e-zone-school-of-computing/)
