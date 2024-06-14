@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Learn WordPress Meta](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-learn-wordpress-meta/)
+- [Hello, I am from Lithuania,…](https://make.wordpress.org/polyglots/2024/06/14/hello-i-am-from-lithuania/)
 - [CLPTE Request for Google Reviews WordPress Plugin](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-google-reviews-wordpress-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/06/13/hi-115/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/06/13/i-have-suggested-a-translation/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Transitioning All Rosetta Sites to the New WP.org Theme](https://make.wordpress.org/polyglots/2024/06/13/transitioning-all-rosetta-sites-to-the-new-wp-org-theme/)
 - [PTE Request for 11 plugins](https://make.wordpress.org/polyglots/2024/06/12/pte-request-for-11-plugins/)
 - [PTE Request for Donation Platform for WooCommerce](https://make.wordpress.org/polyglots/2024/06/11/pte-request-for-donation-platform-for-woocommerce-3/)
-- [Hello @amlocteam, https://translate.wordpress.org/locale/tr/default/wp-plugins/google-analytics-dashboard-for-wp/ For your…](https://make.wordpress.org/polyglots/2024/06/11/hello-amlocteam-https-translate-wordpress-org-locale-tr-default-wp-plugins-google-analytics-dashboard-for-wp-for-your/)
-- [GTE Request for Hindi hi_IN locale](https://make.wordpress.org/polyglots/2024/06/11/gte-request-for-hindi-hi_in-locale/)
 <!-- POLYGLOTS:END -->
 
 ## Support
