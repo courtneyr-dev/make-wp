@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Google Reviews WordPress Plugin](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-google-reviews-wordpress-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/06/13/hi-115/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/06/13/i-have-suggested-a-translation/)
 - [User Interface Updates to Translate Live](https://make.wordpress.org/polyglots/2024/06/13/user-interface-updates-to-translate-live/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Donation Platform for WooCommerce](https://make.wordpress.org/polyglots/2024/06/11/pte-request-for-donation-platform-for-woocommerce-3/)
 - [Hello @amlocteam, https://translate.wordpress.org/locale/tr/default/wp-plugins/google-analytics-dashboard-for-wp/ For your…](https://make.wordpress.org/polyglots/2024/06/11/hello-amlocteam-https-translate-wordpress-org-locale-tr-default-wp-plugins-google-analytics-dashboard-for-wp-for-your/)
 - [GTE Request for Hindi hi_IN locale](https://make.wordpress.org/polyglots/2024/06/11/gte-request-for-hindi-hi_in-locale/)
-- [X-post: Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/polyglots/2024/06/10/xpost-localization-and-translation-of-helphub-during-wceu-2024/)
 <!-- POLYGLOTS:END -->
 
 ## Support
