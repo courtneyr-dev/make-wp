@@ -69,7 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE Request for Google Reviews WordPress Plugin](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-google-reviews-wordpress-plugin/)
+- [CLPTE Request for Google Reviews WordPress Plugin](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-google-reviews-wordpress-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/06/13/hi-115/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/06/13/i-have-suggested-a-translation/)
 - [User Interface Updates to Translate Live](https://make.wordpress.org/polyglots/2024/06/13/user-interface-updates-to-translate-live/)
