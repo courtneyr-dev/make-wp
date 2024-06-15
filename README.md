@@ -555,11 +555,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### WordCamp
 <!-- WordCamp:START -->
 - [WordCamp Netherlands](https://central.wordcamp.org/wordcamps/wordcamp-netherlands-4/)
+- [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-2025/)
 - [WordPress YouthCamp Kozhikode](https://central.wordcamp.org/wordcamps/youthcamp-kozhikode/)
 - [WordCamp Cebu 2024](https://central.wordcamp.org/wordcamps/wordcamp-cebu-2024/)
 - [WordCamp Gdynia, Poland](https://central.wordcamp.org/wordcamps/gdynia/)
 - [WordPress Youth Day](https://central.wordcamp.org/wordcamps/managua-nicaragua/)
-- [WordCamp Whitley Bay, UK](https://central.wordcamp.org/wordcamps/wordcamp-whitley-bay-uk/)
 - [WordCamp Bengaluru, Karnataka, India](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-karnataka-india-2/)
 - [WordCamp Minneapolis/St. Paul](https://central.wordcamp.org/wordcamps/wordcamp-minneapolis-st-paul-mn/)
 - [WordCamp Rio 2024](https://central.wordcamp.org/wordcamps/wordcamp-rio-de-janeiro-rj-brazil-2/)
