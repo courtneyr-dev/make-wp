@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi !](https://make.wordpress.org/polyglots/2024/06/15/hi-116/)
 - [PTE Request for Learn WordPress Meta](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-learn-wordpress-meta/)
 - [Hello, I am from Lithuania,…](https://make.wordpress.org/polyglots/2024/06/14/hello-i-am-from-lithuania/)
 - [CLPTE Request for Google Reviews WordPress Plugin](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-google-reviews-wordpress-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Post Porter](https://make.wordpress.org/polyglots/2024/06/13/pte-request-for-post-porter/)
 - [Transitioning All Rosetta Sites to the New WP.org Theme](https://make.wordpress.org/polyglots/2024/06/13/transitioning-all-rosetta-sites-to-the-new-wp-org-theme/)
 - [PTE Request for 11 plugins](https://make.wordpress.org/polyglots/2024/06/12/pte-request-for-11-plugins/)
-- [PTE Request for Donation Platform for WooCommerce](https://make.wordpress.org/polyglots/2024/06/11/pte-request-for-donation-platform-for-woocommerce-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
