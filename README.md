@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Highlights from WordCamp Europe 2024](https://wordpress.org/news/2024/06/highlights-from-wordcamp-europe-2024/)
 - [WordPress 6.6 Beta 2](https://wordpress.org/news/2024/06/wordpress-6-6-beta-2/)
 - [WP Briefing: Episode 81: It’s your first WordCamp? Welcome!](https://wordpress.org/news/2024/06/episode-81-its-your-first-wordcamp-welcome/)
 - [WordPress 6.5.4 Maintenance Release](https://wordpress.org/news/2024/06/wordpress-6-5-4-maintenance-release/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 79: Why Start a WordPress Media Corps &lpar;and Why Now?&rpar;](https://wordpress.org/news/2024/05/episode-79-why-start-a-wordpress-media-corps-and-why-now/)
 - [WordPress 6.5.3 Maintenance Release](https://wordpress.org/news/2024/05/wordpress-6-5-3-maintenance-release/)
 - [WP Briefing: Episode 78: Guided Growth: Cultivating Contributors Through Mentorship](https://wordpress.org/news/2024/04/episode-78-guided-growth-cultivating-contributors-through-mentorship/)
-- [How WordPress Is Creating a Faster Web](https://wordpress.org/news/2024/04/how-wordpress-is-creating-a-faster-web/)
 <!-- NEWS:END -->
 
 ## Jobs
