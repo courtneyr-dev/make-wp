@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Results at WordCamp Europe from…](https://make.wordpress.org/polyglots/2024/06/16/results-at-wordcamp-europe-from/)
 - [GTE/LM Request for Yorùbá Locale](https://make.wordpress.org/polyglots/2024/06/16/gte-lm-request-for-yoruba-locale/)
 - [Hi !](https://make.wordpress.org/polyglots/2024/06/15/hi-116/)
 - [PTE Request for Learn WordPress Meta](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-learn-wordpress-meta/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/06/13/i-have-suggested-a-translation/)
 - [User Interface Updates to Translate Live](https://make.wordpress.org/polyglots/2024/06/13/user-interface-updates-to-translate-live/)
 - [PTE Request for Post Porter](https://make.wordpress.org/polyglots/2024/06/13/pte-request-for-post-porter/)
-- [Transitioning All Rosetta Sites to the New WP.org Theme](https://make.wordpress.org/polyglots/2024/06/13/transitioning-all-rosetta-sites-to-the-new-wp-org-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
