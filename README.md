@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress / PHP consultant](https://jobs.wordpress.net/job/wordpress-php-consultant-2/)
 - [Job Board Customization](https://jobs.wordpress.net/job/job-board-customization/)
 - [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-20/)
 - [WordPress Developer / Research Associate III](https://jobs.wordpress.net/job/wordpress-developer-research-associate-iii/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-8/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-32/)
 - [LMS certificate system builder](https://jobs.wordpress.net/job/lms-certificate-system-builder/)
-- [plugin Tutor LMS/Wordpres](https://jobs.wordpress.net/job/plugin-tutor-lms-wordpres/)
 <!-- JOBS:END -->
 
 ## Central
