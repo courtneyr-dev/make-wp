@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Setting up your header and footer](https://wordpress.tv/2024/06/17/setting-up-your-header-and-footer/)
 - [Training Team WordCamp Europe 2024 Contributor Day Online](https://wordpress.tv/2024/06/13/training-team-wordcamp-europe-2024-contributor-day-online/)
 - [Utilizando la API de Gemini para nuestros proyectos](https://wordpress.tv/2024/06/13/utilizando-la-api-de-gemini-para-nuestros-proyectos/)
 - [Más allá del contenido: dominando la maquetación con Flexbox y Bricks Builder](https://wordpress.tv/2024/06/13/mas-alla-del-contenido-i-dominando-la-maquetacion-con-flexbox-y-bricks-builder/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the Interactivity API outside of WordPress](https://wordpress.tv/2024/06/03/using-the-interactivity-api-outside-of-wordpress/)
 - [How to facilitate Online Workshop for the WordPress Training Team](https://wordpress.tv/2024/06/02/how-to-facilitate-online-workshop-for-the-wordpress-training-team/)
 - [Como hacer creatividad transformadora &lpar;también&rpar; en digital](https://wordpress.tv/2024/06/02/como-hacer-creatividad-transformadora-tambien-en-digital/)
-- [Taller de Penpot: de diseño a desarrollo con software libre y gratuito](https://wordpress.tv/2024/05/31/taller-de-penpot-de-diseno-a-desarrollo-con-software-libre-y-gratuito/)
 <!-- WPTV:END -->
 
 ## Marketing
