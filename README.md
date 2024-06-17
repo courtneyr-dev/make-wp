@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Contributor Working Group Chat Agenda | June 20th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/06/17/contributor-working-group-chat-agenda-june-20th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [WordPress Contributor Mentorship Program Q4 2024: Call for Interest](https://make.wordpress.org/community/2024/06/15/wordpress-contributor-mentorship-program-q4-2024-call-for-interest/)
 - [WCEU2024 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2024/06/11/wceu2024-contributor-day-community-team-agenda/)
 - [Events of the Month – March &amp; April 2024](https://make.wordpress.org/community/2024/06/06/events-of-the-month-march-april-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: May 2024](https://make.wordpress.org/community/2024/05/30/meetup-organizer-newsletter-may-2024/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on May 23rd 2024](https://make.wordpress.org/community/2024/05/29/recap-of-the-contributor-working-groups-mentorship-chat-on-may-23rd-2024/)
 - [WCEU 2024 Contributor Day: What to do?](https://make.wordpress.org/community/2024/05/23/wceu-2024-contributor-day-what-to-do/)
-- [Proposal to Update Our Event Venue Policy](https://make.wordpress.org/community/2024/05/21/proposal-to-update-our-event-venue-policy/)
 <!-- COMMUNITY:END -->
 
 ## Meta
