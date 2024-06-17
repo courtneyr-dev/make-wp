@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE and PTE request in project Uncanny Automator](https://make.wordpress.org/polyglots/2024/06/17/clpte-and-pte-request-in-project-uncanny-automator/)
 - [Results at WordCamp Europe from…](https://make.wordpress.org/polyglots/2024/06/16/results-at-wordcamp-europe-from/)
 - [GTE/LM Request for Yorùbá Locale](https://make.wordpress.org/polyglots/2024/06/16/gte-lm-request-for-yoruba-locale/)
 - [Hi !](https://make.wordpress.org/polyglots/2024/06/15/hi-116/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2024/06/13/hi-115/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/06/13/i-have-suggested-a-translation/)
 - [User Interface Updates to Translate Live](https://make.wordpress.org/polyglots/2024/06/13/user-interface-updates-to-translate-live/)
-- [PTE Request for Post Porter](https://make.wordpress.org/polyglots/2024/06/13/pte-request-for-post-porter/)
 <!-- POLYGLOTS:END -->
 
 ## Support
