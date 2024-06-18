@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tools for accessibility testing](https://wordpress.tv/2024/06/18/tools-for-accessibility-testing/)
+- [Best practices for developing an accessible theme](https://wordpress.tv/2024/06/18/best-practices-for-developing-an-accessible-theme/)
 - [Setting up your header and footer](https://wordpress.tv/2024/06/17/setting-up-your-header-and-footer/)
 - [Training Team WordCamp Europe 2024 Contributor Day Online](https://wordpress.tv/2024/06/13/training-team-wordcamp-europe-2024-contributor-day-online/)
 - [Utilizando la API de Gemini para nuestros proyectos](https://wordpress.tv/2024/06/13/utilizando-la-api-de-gemini-para-nuestros-proyectos/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recording awesome videos for WordPress demos, courses, and more](https://wordpress.tv/2024/06/06/recording-awesome-videos-for-wordpress-demos-courses-and-more/)
 - [SEO strategies](https://wordpress.tv/2024/06/04/seo-strategies/)
 - [Using the Interactivity API outside of WordPress](https://wordpress.tv/2024/06/03/using-the-interactivity-api-outside-of-wordpress/)
-- [How to facilitate Online Workshop for the WordPress Training Team](https://wordpress.tv/2024/06/02/how-to-facilitate-online-workshop-for-the-wordpress-training-team/)
-- [Como hacer creatividad transformadora &lpar;también&rpar; en digital](https://wordpress.tv/2024/06/02/como-hacer-creatividad-transformadora-tambien-en-digital/)
 <!-- WPTV:END -->
 
 ## Marketing
