@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Full-Stack Developer](https://jobs.wordpress.net/job/senior-wordpress-full-stack-developer/)
+- [[Astra] QA Engineer – Manual](https://jobs.wordpress.net/job/astra-qa-engineer-manual-2/)
 - [Front-End Developer Intern](https://jobs.wordpress.net/job/front-end-developer-intern/)
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-6/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-9/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Volunteer  Developers for Driving Safety](https://jobs.wordpress.net/job/volunteer-developers-for-driving-safety-2/)
 - [WordPress / PHP consultant](https://jobs.wordpress.net/job/wordpress-php-consultant-2/)
 - [Job Board Customization](https://jobs.wordpress.net/job/job-board-customization/)
-- [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-20/)
-- [WordPress Developer / Research Associate III](https://jobs.wordpress.net/job/wordpress-developer-research-associate-iii/)
 <!-- JOBS:END -->
 
 ## Central
