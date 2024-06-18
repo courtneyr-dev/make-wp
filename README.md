@@ -195,7 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
-- [Training Team Meeting Recap – 13th June 2024](https://make.wordpress.org/training/2024/06/18/__trashed-3/)
+- [Training Team Meeting Recap – 13th June 2024](https://make.wordpress.org/training/2024/06/18/training-team-meeting-recap-13th-june-2024/)
 - [Training Team 2024 Half Year Review](https://make.wordpress.org/training/2024/06/18/training-team-2024-half-year-review/)
 - [X-post: Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/training/2024/06/10/xpost-localization-and-translation-of-helphub-during-wceu-2024/)
 - [Thumbnail Creation Project](https://make.wordpress.org/training/2024/06/10/thumbnail-creation-project/)
