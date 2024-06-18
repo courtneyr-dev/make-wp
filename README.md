@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi I woild like to…](https://make.wordpress.org/polyglots/2024/06/18/hi-i-woild-like-to/)
 - [Added DeepL Pro and model selection in OpenAI](https://make.wordpress.org/polyglots/2024/06/17/added-deepl-pro-and-model-selection-in-openai/)
 - [CLPTE and PTE request in project Uncanny Automator](https://make.wordpress.org/polyglots/2024/06/17/clpte-and-pte-request-in-project-uncanny-automator/)
 - [Results at WordCamp Europe from…](https://make.wordpress.org/polyglots/2024/06/16/results-at-wordcamp-europe-from/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I am from Lithuania,…](https://make.wordpress.org/polyglots/2024/06/14/hello-i-am-from-lithuania/)
 - [CLPTE Request for Google Reviews WordPress Plugin](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-google-reviews-wordpress-plugin/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/06/13/hi-115/)
-- [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/06/13/i-have-suggested-a-translation/)
 <!-- POLYGLOTS:END -->
 
 ## Support
