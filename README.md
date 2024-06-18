@@ -248,7 +248,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [वर्डप्रेस बीटा रिलीज़ का परीक्षण कैसे करें?](https://learn.wordpress.org/tutorial/hi-how-to-test-wordpress-beta-release/)
 - [Construire une page d’accueil avec un thème basé sur des blocs](https://learn.wordpress.org/tutorial/fr-building-a-home-page-with-a-block-theme/)
 - [Comment tester les versions bêta de WordPress ?](https://learn.wordpress.org/tutorial/fr-how-to-test-wordpress-beta-release/)
-- [How to Test WordPress Beta Release?](https://learn.wordpress.org/tutorial/how-to-test-wordpress-beta-release/)
+- [How to test WordPress beta releases](https://learn.wordpress.org/tutorial/how-to-test-wordpress-beta-release/)
 - [কমান্ড প্যালেট দিয়ে দ্রুত কাজ করা](https://learn.wordpress.org/tutorial/bn-working-faster-with-the-command-palette/)
 - [ब्लॉक रिक्ति](https://learn.wordpress.org/tutorial/hi-block-spacing/)
 - [एक अस्थिर हेडर या बैनर जोड़ना](https://learn.wordpress.org/tutorial/hi-adding-a-sticky-header-or-banner/)
