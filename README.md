@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Thumbnail-a-thon: Let’s make graphics together for the new Learn.WordPress.org!](https://learn.wordpress.org/?meeting=thumbnail-a-thon-lets-make-graphics-together-for-the-new-learn-wordpress-org)
 - [改めて学ぶ、アクションフックとフィルターフック。WordPressカスタマイズのポイントを抑えよう!](https://learn.wordpress.org/?meeting=%e6%94%b9%e3%82%81%e3%81%a6%e5%ad%a6%e3%81%b6%e3%80%81%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%95%e3%83%83%e3%82%af%e3%81%a8%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc%e3%83%95%e3%83%83)
 - [How to install WordPress on an Ubuntu VPS: Apache edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-apache-edition)
 - [Training Team WordCamp Europe 2024 Contributor Day Online](https://learn.wordpress.org/?meeting=training-team-wordcamp-europe-2024-contributor-day-online)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Building custom blocks with the Interactivity API](https://learn.wordpress.org/?meeting=https-www-meetup-com-learn-wordpress-online-workshops-events-300032710)
 - [Untangling Templates](https://learn.wordpress.org/?meeting=untangling-templates-2)
 - [Start contributing to WordPress through the WordPress Training Team](https://learn.wordpress.org/?meeting=start-contributing-to-wordpress-through-the-wordpress-training-team-2)
-- [Start contributing to WordPress through the WordPress Training Team](https://learn.wordpress.org/?meeting=start-contributing-to-wordpress-through-the-wordpress-training-team)
 <!-- SLS:END -->
 
 ## Test
