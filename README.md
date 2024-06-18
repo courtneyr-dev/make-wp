@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Improvements to active block variation detection](https://make.wordpress.org/core/2024/06/18/improvements-to-active-block-variation-detection/)
 - [Grid layout type](https://make.wordpress.org/core/2024/06/18/grid-layout-type/)
 - [Performance Chat Agenda: 18 June 2024](https://make.wordpress.org/core/2024/06/18/performance-chat-agenda-18-june-2024/)
 - [Editor: Unified Extensibility APIs in 6.6](https://make.wordpress.org/core/2024/06/18/editor-unified-extensibility-apis-in-6-6/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/core/2024/06/05/xpost-training-team-update-june-2024/)
 - [Performance Chat Summary: 4 June 2024](https://make.wordpress.org/core/2024/06/04/performance-chat-summary-04-june-2024/)
 - [Performance Chat Agenda: 4 June 2024](https://make.wordpress.org/core/2024/06/04/performance-chat-agenda-04-june-2024/)
-- [Agenda, Dev Chat, Wednesday June 5, 2024](https://make.wordpress.org/core/2024/06/04/agenda-dev-chat-wednesday-june-5-2024/)
 <!-- CORE:END -->
 
 ## Design
