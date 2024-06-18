@@ -493,7 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
-- [Schema redirect for .wp-env.json](https://make.wordpress.org/systems/2024/06/18/schema-redirect-for-wp-env-json/)
+- [Schema redirect for wp-env.json](https://make.wordpress.org/systems/2024/06/18/schema-redirect-for-wp-env-json/)
 - [Reprovision dd32.dev wporg Sandbox](https://make.wordpress.org/systems/2024/06/10/reprovision-wp-org-sandbox/)
 - [Increase query params length for trac](https://make.wordpress.org/systems/2024/05/31/increase-query-params-length-for-trac/)
 - [Enable CORS for core translation downloads](https://make.wordpress.org/systems/2024/04/10/enable-cors-for-core-translation-downloads/)
