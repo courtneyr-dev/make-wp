@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team 2024 Half Year Review](https://make.wordpress.org/training/2024/06/18/training-team-2024-half-year-review/)
 - [X-post: Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/training/2024/06/10/xpost-localization-and-translation-of-helphub-during-wceu-2024/)
 - [Thumbnail Creation Project](https://make.wordpress.org/training/2024/06/10/thumbnail-creation-project/)
 - [Training Team Meeting Recap – 6th June 2024](https://make.wordpress.org/training/2024/06/08/training-team-meeting-recap-6th-june-2024/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Learn WordPress Content Maintenance Process](https://make.wordpress.org/training/2024/05/29/proposal-learn-wordpress-content-maintenance-process/)
 - [Training Team Meeting Recap – 23rd May 2024](https://make.wordpress.org/training/2024/05/29/training-team-meeting-recap-23rd-may-2024/)
 - [WordCamp Europe 2024 Contributor Day](https://make.wordpress.org/training/2024/05/28/wordcamp-europe-2024-contributor-day/)
-- [Training Team Meeting Recap – 16th May 2024](https://make.wordpress.org/training/2024/05/22/training-team-meeting-recap-16th-may-2024/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
