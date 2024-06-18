@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Grid layout type](https://make.wordpress.org/core/2024/06/18/grid-layout-type/)
+- [Performance Chat Agenda: 18 June 2024](https://make.wordpress.org/core/2024/06/18/performance-chat-agenda-18-june-2024/)
 - [Editor: Unified Extensibility APIs in 6.6](https://make.wordpress.org/core/2024/06/18/editor-unified-extensibility-apis-in-6-6/)
 - [Summary, Dev Chat, June 12, 2024](https://make.wordpress.org/core/2024/06/17/summary-dev-chat-june-12-2024/)
 - [Data Views Update – June 2024](https://make.wordpress.org/core/2024/06/13/data-views-update-june-2024/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 4 June 2024](https://make.wordpress.org/core/2024/06/04/performance-chat-summary-04-june-2024/)
 - [Performance Chat Agenda: 4 June 2024](https://make.wordpress.org/core/2024/06/04/performance-chat-agenda-04-june-2024/)
 - [Agenda, Dev Chat, Wednesday June 5, 2024](https://make.wordpress.org/core/2024/06/04/agenda-dev-chat-wednesday-june-5-2024/)
-- [WordPress 6.5.4 RC1 is now available](https://make.wordpress.org/core/2024/05/30/wordpress-6-5-4-rc1-is-now-available/)
-- [Summary, Dev Chat, May 29, 2024](https://make.wordpress.org/core/2024/05/30/summary-dev-chat-may-29-2024/)
 <!-- CORE:END -->
 
 ## Design
