@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/design/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [Design Share #58 &lpar;Jun 3-Jun 14&rpar;](https://make.wordpress.org/design/2024/06/17/design-share-58-jun-3-jun-14/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/design/2024/06/05/xpost-training-team-update-june-2024/)
 - [Design Share #57 &lpar;May 20-May 31&rpar;](https://make.wordpress.org/design/2024/06/03/design-share-57-may-20-may-31/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/design/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 - [Design Share #54 &lpar;Apr 8-Apr 26&rpar;](https://make.wordpress.org/design/2024/04/22/design-share-54-apr-8-apr-26/)
 - [X-post: The Pattern Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/design/2024/04/17/xpost-the-pattern-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
-- [X-post: The Forums get a refresh](https://make.wordpress.org/design/2024/04/10/xpost-the-forums-get-a-refresh/)
 <!-- DESIGN:END -->
 
 ## Mobile
