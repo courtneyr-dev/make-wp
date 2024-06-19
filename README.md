@@ -71,7 +71,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- POLYGLOTS:START -->
 - [Agenda: Weekly Polyglots Chat – June 19, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/06/19/agenda-weekly-polyglots-chat-june-19-2024-1300-utc/)
 - [Hi team, could you please…](https://make.wordpress.org/polyglots/2024/06/19/hi-team-could-you-please/)
-- [PTE request for three projects](https://make.wordpress.org/polyglots/2024/06/19/pte-request-for-the-astra-theme/)
+- [PTE request for five projects](https://make.wordpress.org/polyglots/2024/06/19/pte-request-for-the-astra-theme/)
 - [Hi I woild like to…](https://make.wordpress.org/polyglots/2024/06/18/hi-i-woild-like-to/)
 - [Added DeepL Pro and model selection in OpenAI](https://make.wordpress.org/polyglots/2024/06/17/added-deepl-pro-and-model-selection-in-openai/)
 - [CLPTE and PTE request in project Uncanny Automator](https://make.wordpress.org/polyglots/2024/06/17/clpte-and-pte-request-in-project-uncanny-automator/)
