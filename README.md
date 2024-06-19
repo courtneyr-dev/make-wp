@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [PHP Developer for Speed Optimization Plugin](https://jobs.wordpress.net/job/php-developer-for-speed-optimization-plugin/)
+- [membership site for training modules](https://jobs.wordpress.net/job/membership-site-for-training-modules/)
 - [Senior WordPress Full-Stack Developer](https://jobs.wordpress.net/job/senior-wordpress-full-stack-developer/)
 - [[Astra] QA Engineer – Manual](https://jobs.wordpress.net/job/astra-qa-engineer-manual-2/)
 - [Front-End Developer Intern](https://jobs.wordpress.net/job/front-end-developer-intern/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-843/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-33/)
 - [Volunteer  Developers for Driving Safety](https://jobs.wordpress.net/job/volunteer-developers-for-driving-safety-2/)
-- [WordPress / PHP consultant](https://jobs.wordpress.net/job/wordpress-php-consultant-2/)
-- [Job Board Customization](https://jobs.wordpress.net/job/job-board-customization/)
 <!-- JOBS:END -->
 
 ## Central
