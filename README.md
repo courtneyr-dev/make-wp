@@ -352,7 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [What is accessiblity, and why is it important?](https://wordpress.tv/2024/06/18/what-is-accessiblity-and-why-is-it-important/)
+- [What is accessibility, and why is it important?](https://wordpress.tv/2024/06/18/what-is-accessiblity-and-why-is-it-important/)
 - [Testing your content for accessibility](https://wordpress.tv/2024/06/18/testing-your-content-for-accessibility/)
 - [Uncovering the Cover block](https://wordpress.tv/2024/06/18/uncovering-the-cover-block-2/)
 - [Tools for accessibility testing](https://wordpress.tv/2024/06/18/tools-for-accessibility-testing/)
