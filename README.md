@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Theme.json version 3](https://make.wordpress.org/core/2024/06/19/theme-json-version-3/)
 - [Social Links block changes in WordPress 6.6](https://make.wordpress.org/core/2024/06/19/social-links-block-changes-in-wordpress-6-6/)
 - [Hallway Hangout: Exploring Grid Layouts](https://make.wordpress.org/core/2024/06/19/hallway-hangout-exploring-grid-layouts/)
 - [Performance Chat Summary: 18 June 2024](https://make.wordpress.org/core/2024/06/18/performance-chat-summary-18-june-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Blog editorial meeting summary, 6 June, 2024](https://make.wordpress.org/core/2024/06/07/developer-blog-editorial-meeting-summary-june-6-2024/)
 - [Summary, Dev Chat, June 5, 2024](https://make.wordpress.org/core/2024/06/07/summary-dev-chat-june-5-2024/)
 - [Preparation for React 19 Upgrade](https://make.wordpress.org/core/2024/06/07/preparation-for-react-19-upgrade/)
-- [WordCamp Europe 2024 Contributor Day Core Table](https://make.wordpress.org/core/2024/06/07/wordcamp-europe-2024-contributor-day-core-table/)
 <!-- CORE:END -->
 
 ## Design
