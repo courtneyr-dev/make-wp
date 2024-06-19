@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/polyglots/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [Agenda: Weekly Polyglots Chat – June 19, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/06/19/agenda-weekly-polyglots-chat-june-19-2024-1300-utc/)
 - [Hi team, could you please…](https://make.wordpress.org/polyglots/2024/06/19/hi-team-could-you-please/)
 - [PTE request for five projects](https://make.wordpress.org/polyglots/2024/06/19/pte-request-for-the-astra-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Results at WordCamp Europe from…](https://make.wordpress.org/polyglots/2024/06/16/results-at-wordcamp-europe-from/)
 - [GTE/LM Request for Yorùbá Locale](https://make.wordpress.org/polyglots/2024/06/16/gte-lm-request-for-yoruba-locale/)
 - [Hi !](https://make.wordpress.org/polyglots/2024/06/15/hi-116/)
-- [PTE Request for Learn WordPress Meta](https://make.wordpress.org/polyglots/2024/06/14/pte-request-for-learn-wordpress-meta/)
 <!-- POLYGLOTS:END -->
 
 ## Support
