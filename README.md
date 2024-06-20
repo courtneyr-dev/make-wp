@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Useful debugging plugins](https://wordpress.tv/2024/06/20/useful-debugging-plugins/)
+- [Examining the state of your JavaScript](https://wordpress.tv/2024/06/20/examining-the-state-of-your-javascript/)
 - [What is accessibility, and why is it important?](https://wordpress.tv/2024/06/18/what-is-accessiblity-and-why-is-it-important/)
 - [Testing your content for accessibility](https://wordpress.tv/2024/06/18/testing-your-content-for-accessibility/)
 - [Uncovering the Cover block](https://wordpress.tv/2024/06/18/uncovering-the-cover-block-2/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [De Astra a Twenty Twenty-Four: ¿compensa el cambio?](https://wordpress.tv/2024/06/09/de-astra-a-twenty-twenty-four-compensa-el-cambio/)
 - [Testing your theme](https://wordpress.tv/2024/06/07/testing-your-theme/)
 - [Themes and user privacy](https://wordpress.tv/2024/06/07/themes-and-user-privacy/)
-- [Examining the state of your PHP code](https://wordpress.tv/2024/06/07/examining-the-state-of-your-php-code/)
-- [Recording awesome videos for WordPress demos, courses, and more](https://wordpress.tv/2024/06/06/recording-awesome-videos-for-wordpress-demos-courses-and-more/)
 <!-- WPTV:END -->
 
 ## Marketing
