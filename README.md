@@ -360,7 +360,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Setting up your header and footer](https://wordpress.tv/2024/06/17/setting-up-your-header-and-footer/)
 - [Training Team WordCamp Europe 2024 Contributor Day Online](https://wordpress.tv/2024/06/13/training-team-wordcamp-europe-2024-contributor-day-online/)
 - [Utilizando la API de Gemini para nuestros proyectos](https://wordpress.tv/2024/06/13/utilizando-la-api-de-gemini-para-nuestros-proyectos/)
-- [Más allá del contenido: dominando la maquetación con Flexbox y Bricks Builder](https://wordpress.tv/2024/06/13/mas-alla-del-contenido-i-dominando-la-maquetacion-con-flexbox-y-bricks-builder/)
 - [Environmental Conservation Awareness by St. Edwards Secondary School Bukuumi](https://wordpress.tv/2024/06/13/environmental-conservation-awareness-by-st-edwards-secondary-school-bukuumi/)
 - [LearnHub by E-zone School of Computing](https://wordpress.tv/2024/06/13/learnhub-by-e-zone-school-of-computing/)
 - [Find Your School by E-zone School of Computing](https://wordpress.tv/2024/06/13/find-your-school-by-e-zone-school-of-computing/)
@@ -377,6 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Testing your theme](https://wordpress.tv/2024/06/07/testing-your-theme/)
 - [Themes and user privacy](https://wordpress.tv/2024/06/07/themes-and-user-privacy/)
 - [Examining the state of your PHP code](https://wordpress.tv/2024/06/07/examining-the-state-of-your-php-code/)
+- [Recording awesome videos for WordPress demos, courses, and more](https://wordpress.tv/2024/06/06/recording-awesome-videos-for-wordpress-demos-courses-and-more/)
 <!-- WPTV:END -->
 
 ## Marketing
