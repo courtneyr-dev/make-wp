@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Site-wide background images in WordPress 6.6](https://make.wordpress.org/core/2024/06/20/site-wide-background-images-in-wordpress-6-6/)
+- [What’s new in Gutenberg 18.6](https://make.wordpress.org/core/2024/06/20/whats-new-in-gutenberg-18-6/)
 - [Theme.json version 3](https://make.wordpress.org/core/2024/06/19/theme-json-version-3/)
 - [Social Links block changes in WordPress 6.6](https://make.wordpress.org/core/2024/06/19/social-links-block-changes-in-wordpress-6-6/)
 - [Hallway Hangout: Exploring Grid Layouts](https://make.wordpress.org/core/2024/06/19/hallway-hangout-exploring-grid-layouts/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is new in Gutenberg 18.5 &lpar;05 Jun&rpar;](https://make.wordpress.org/core/2024/06/09/what-is-new-in-gutenberg-18-5-05-jun/)
 - [Proposal: Bits as dynamic tokens.](https://make.wordpress.org/core/2024/06/08/proposal-bits-as-dynamic-tokens/)
 - [Developer Blog editorial meeting summary, 6 June, 2024](https://make.wordpress.org/core/2024/06/07/developer-blog-editorial-meeting-summary-june-6-2024/)
-- [Summary, Dev Chat, June 5, 2024](https://make.wordpress.org/core/2024/06/07/summary-dev-chat-june-5-2024/)
-- [Preparation for React 19 Upgrade](https://make.wordpress.org/core/2024/06/07/preparation-for-react-19-upgrade/)
 <!-- CORE:END -->
 
 ## Design
