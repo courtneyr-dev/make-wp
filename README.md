@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Roster of design tools per block &lpar;WordPress 6.6 edition&rpar;](https://make.wordpress.org/core/2024/06/20/roster-of-design-tools-per-block-wordpress-6-6-edition/)
 - [Site-wide background images in WordPress 6.6](https://make.wordpress.org/core/2024/06/20/site-wide-background-images-in-wordpress-6-6/)
 - [What’s new in Gutenberg 18.6](https://make.wordpress.org/core/2024/06/20/whats-new-in-gutenberg-18-6/)
 - [Theme.json version 3](https://make.wordpress.org/core/2024/06/19/theme-json-version-3/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 11 June 2024](https://make.wordpress.org/core/2024/06/11/performance-chat-agenda-11-june-2024/)
 - [What is new in Gutenberg 18.5 &lpar;05 Jun&rpar;](https://make.wordpress.org/core/2024/06/09/what-is-new-in-gutenberg-18-5-05-jun/)
 - [Proposal: Bits as dynamic tokens.](https://make.wordpress.org/core/2024/06/08/proposal-bits-as-dynamic-tokens/)
-- [Developer Blog editorial meeting summary, 6 June, 2024](https://make.wordpress.org/core/2024/06/07/developer-blog-editorial-meeting-summary-june-6-2024/)
 <!-- CORE:END -->
 
 ## Design
