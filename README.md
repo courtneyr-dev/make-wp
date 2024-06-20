@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ZeroBounce](https://make.wordpress.org/polyglots/2024/06/20/pte-request-for-zerobounce/)
 - [If I see that the…](https://make.wordpress.org/polyglots/2024/06/20/if-i-see-that-the/)
 - [PTE Request for Easy Slider](https://make.wordpress.org/polyglots/2024/06/20/pte-request-for-easy-slider/)
 - [Translating CusRev Plugin](https://make.wordpress.org/polyglots/2024/06/20/translating-cusrev-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for five projects](https://make.wordpress.org/polyglots/2024/06/19/pte-request-for-the-astra-theme/)
 - [Hi I woild like to…](https://make.wordpress.org/polyglots/2024/06/18/hi-i-woild-like-to/)
 - [Added DeepL Pro and model selection in OpenAI](https://make.wordpress.org/polyglots/2024/06/17/added-deepl-pro-and-model-selection-in-openai/)
-- [CLPTE and PTE request in project Uncanny Automator](https://make.wordpress.org/polyglots/2024/06/17/clpte-and-pte-request-in-project-uncanny-automator/)
 <!-- POLYGLOTS:END -->
 
 ## Support
