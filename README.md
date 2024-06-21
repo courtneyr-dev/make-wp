@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to install WordPress on an Ubuntu VPS: Apache edition](https://wordpress.tv/2024/06/21/how-to-install-wordpress-on-an-ubuntu-vps-apache-edition/)
+- [Injecter une fonction PHP complexe dans un bloc paragraphe WordPress en utilisant le block binding](https://wordpress.tv/2024/06/21/injecter-une-fonction-php-complexe-dans-un-bloc-paragraphe-wordpress-en-utilisant-le-block-binding/)
 - [Useful debugging plugins](https://wordpress.tv/2024/06/20/useful-debugging-plugins/)
 - [Examining the state of your JavaScript](https://wordpress.tv/2024/06/20/examining-the-state-of-your-javascript/)
 - [What is accessibility, and why is it important?](https://wordpress.tv/2024/06/18/what-is-accessiblity-and-why-is-it-important/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Utiliser les classes contextuelles pour personnaliser votre site WordPress FSE](https://wordpress.tv/2024/06/09/utiliser-les-classes-contextuelles-pour-personnaliser-votre-site-wordpress-fse/)
 - [Internationalization in WordPress &lpar;Bangla&rpar; : Dhaka WordPress Meetup](https://wordpress.tv/2024/06/09/internationalization-in-wordpress-bangla/)
 - [De Astra a Twenty Twenty-Four: ¿compensa el cambio?](https://wordpress.tv/2024/06/09/de-astra-a-twenty-twenty-four-compensa-el-cambio/)
-- [Testing your theme](https://wordpress.tv/2024/06/07/testing-your-theme/)
-- [Themes and user privacy](https://wordpress.tv/2024/06/07/themes-and-user-privacy/)
 <!-- WPTV:END -->
 
 ## Marketing
