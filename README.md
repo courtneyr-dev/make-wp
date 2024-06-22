@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Así recomienda Google los negocios de la zona](https://wordpress.tv/2024/06/22/asi-recomienda-google-los-negocios-de-la-zona/)
 - [How to install WordPress on an Ubuntu VPS: Apache edition](https://wordpress.tv/2024/06/21/how-to-install-wordpress-on-an-ubuntu-vps-apache-edition/)
 - [Injecter une fonction PHP complexe dans un bloc paragraphe WordPress en utilisant le block binding](https://wordpress.tv/2024/06/21/injecter-une-fonction-php-complexe-dans-un-bloc-paragraphe-wordpress-en-utilisant-le-block-binding/)
 - [Useful debugging plugins](https://wordpress.tv/2024/06/20/useful-debugging-plugins/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Engineer: Roles, Responsibilities, and Career Path &lpar;Bangla&rpar;](https://wordpress.tv/2024/06/10/wordpress-support-engineer-roles-responsibilities/)
 - [Utiliser les classes contextuelles pour personnaliser votre site WordPress FSE](https://wordpress.tv/2024/06/09/utiliser-les-classes-contextuelles-pour-personnaliser-votre-site-wordpress-fse/)
 - [Internationalization in WordPress &lpar;Bangla&rpar; : Dhaka WordPress Meetup](https://wordpress.tv/2024/06/09/internationalization-in-wordpress-bangla/)
-- [De Astra a Twenty Twenty-Four: ¿compensa el cambio?](https://wordpress.tv/2024/06/09/de-astra-a-twenty-twenty-four-compensa-el-cambio/)
 <!-- WPTV:END -->
 
 ## Marketing
