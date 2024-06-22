@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress6.6を試してみよう: WordPress Contributor Meetup Tokyo Vol.03](https://wordpress.tv/2024/06/22/wordpress6-6%e3%82%92%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86-wordpress-contributor-meetup-tokyo-vol-03/)
+- [Idees per organitzar l’estructura de codi d’un plugin a mida](https://wordpress.tv/2024/06/22/idees-per-organitzar-lestructura-de-codi-dun-plugin-a-mida/)
 - [Así recomienda Google los negocios de la zona](https://wordpress.tv/2024/06/22/asi-recomienda-google-los-negocios-de-la-zona/)
 - [How to install WordPress on an Ubuntu VPS: Apache edition](https://wordpress.tv/2024/06/21/how-to-install-wordpress-on-an-ubuntu-vps-apache-edition/)
 - [Injecter une fonction PHP complexe dans un bloc paragraphe WordPress en utilisant le block binding](https://wordpress.tv/2024/06/21/injecter-une-fonction-php-complexe-dans-un-bloc-paragraphe-wordpress-en-utilisant-le-block-binding/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the Group block](https://wordpress.tv/2024/06/11/using-the-group-block/)
 - [Developer Hours: Exploring Synced Pattern Overrides in WordPress 6.6](https://wordpress.tv/2024/06/11/developer-hours-exploring-synced-pattern-overrides-in-wordpress-6-6/)
 - [WordPress Support Engineer: Roles, Responsibilities, and Career Path &lpar;Bangla&rpar;](https://wordpress.tv/2024/06/10/wordpress-support-engineer-roles-responsibilities/)
-- [Utiliser les classes contextuelles pour personnaliser votre site WordPress FSE](https://wordpress.tv/2024/06/09/utiliser-les-classes-contextuelles-pour-personnaliser-votre-site-wordpress-fse/)
-- [Internationalization in WordPress &lpar;Bangla&rpar; : Dhaka WordPress Meetup](https://wordpress.tv/2024/06/09/internationalization-in-wordpress-bangla/)
 <!-- WPTV:END -->
 
 ## Marketing
