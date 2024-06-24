@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Internationalization improvements in 6.6](https://make.wordpress.org/polyglots/2024/06/24/xpost-i18n-improvements-6-5-performant-translations-2/)
+- [WordPress 6.5.5 has been released….](https://make.wordpress.org/polyglots/2024/06/24/wordpress-6-5-5-has-been-released/)
 - [PTE Request for Cloudbridge 2FA…](https://make.wordpress.org/polyglots/2024/06/24/pte-request-for-cloudbridge-2fa/)
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2024/06/23/pte-request-for-two-plugins-8/)
 - [PTE Request for svg-block: SVG Block](https://make.wordpress.org/polyglots/2024/06/23/pte-request-for-svg-block-svg-block/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ZeroBounce](https://make.wordpress.org/polyglots/2024/06/20/pte-request-for-zerobounce/)
 - [If I see that the…](https://make.wordpress.org/polyglots/2024/06/20/if-i-see-that-the/)
 - [PTE Request for Easy Slider](https://make.wordpress.org/polyglots/2024/06/20/pte-request-for-easy-slider/)
-- [Translating CusRev Plugin](https://make.wordpress.org/polyglots/2024/06/20/translating-cusrev-plugin/)
-- [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/polyglots/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 <!-- POLYGLOTS:END -->
 
 ## Support
