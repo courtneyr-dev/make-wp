@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mi selección de plugins para WordPress](https://wordpress.tv/2024/06/24/mi-seleccion-de-plugins-para-wordpress/)
 - [WordPress6.6を試してみよう: WordPress Contributor Meetup Tokyo Vol.03](https://wordpress.tv/2024/06/22/wordpress6-6%e3%82%92%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86-wordpress-contributor-meetup-tokyo-vol-03/)
 - [Idees per organitzar l’estructura de codi d’un plugin a mida](https://wordpress.tv/2024/06/22/idees-per-organitzar-lestructura-de-codi-dun-plugin-a-mida/)
 - [Así recomienda Google los negocios de la zona](https://wordpress.tv/2024/06/22/asi-recomienda-google-los-negocios-de-la-zona/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Essential security plugin features and settings](https://wordpress.tv/2024/06/11/essential-security-plugin-features-and-settings/)
 - [Using the Group block](https://wordpress.tv/2024/06/11/using-the-group-block/)
 - [Developer Hours: Exploring Synced Pattern Overrides in WordPress 6.6](https://wordpress.tv/2024/06/11/developer-hours-exploring-synced-pattern-overrides-in-wordpress-6-6/)
-- [WordPress Support Engineer: Roles, Responsibilities, and Career Path &lpar;Bangla&rpar;](https://wordpress.tv/2024/06/10/wordpress-support-engineer-roles-responsibilities/)
 <!-- WPTV:END -->
 
 ## Marketing
