@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Introducing the Token Map](https://make.wordpress.org/core/2024/06/24/introducing-the-token-map/)
 - [Proposal: Block Variation Aliases](https://make.wordpress.org/core/2024/06/24/proposal-block-variation-aliases/)
 - [Miscellaneous Editor changes in WordPress 6.6](https://make.wordpress.org/core/2024/06/24/miscellaneous-editor-changes-in-wordpress-6-6/)
 - [Internationalization improvements in 6.6](https://make.wordpress.org/core/2024/06/24/i18n-improvements-6-5-performant-translations-2/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improvements to active block variation detection](https://make.wordpress.org/core/2024/06/18/improvements-to-active-block-variation-detection/)
 - [Grid layout type](https://make.wordpress.org/core/2024/06/18/grid-layout-type/)
 - [Performance Chat Agenda: 18 June 2024](https://make.wordpress.org/core/2024/06/18/performance-chat-agenda-18-june-2024/)
-- [Editor: Unified Extensibility APIs in 6.6](https://make.wordpress.org/core/2024/06/18/editor-unified-extensibility-apis-in-6-6/)
 <!-- CORE:END -->
 
 ## Design
