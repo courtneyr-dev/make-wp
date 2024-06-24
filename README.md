@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Product Manager](https://jobs.wordpress.net/job/product-manager-3/)
 - [HR Coordinator](https://jobs.wordpress.net/job/hr-coordinator/)
 - [Senior WordPress Developer &lpar;BE heavy&rpar;](https://jobs.wordpress.net/job/senior-wordpress-developer-be-heavy/)
 - [Kit Digital WordPress Developer](https://jobs.wordpress.net/job/kit-digital-wordpress-developer/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] QA Engineer – Manual](https://jobs.wordpress.net/job/astra-qa-engineer-manual-2/)
 - [Front-End Developer Intern](https://jobs.wordpress.net/job/front-end-developer-intern/)
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-6/)
-- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-9/)
 <!-- JOBS:END -->
 
 ## Central
