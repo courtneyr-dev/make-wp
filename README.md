@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Shape the Future: Your Role in WordPress Open Source Contribution](https://learn.wordpress.org/?meeting=shape-the-future-your-role-in-wordpress-open-source-contribution)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-3](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-3)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-2](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-2)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-1](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-1)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress developer live stream: Testing WP Playground](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-testing-wp-playground-2)
 - [Developer Hours: Creating dynamic content with Block Bindings and Custom Fields](https://learn.wordpress.org/?meeting=developer-hours-creating-dynamic-content-with-block-bindings-and-custom-fields)
 - [Homepage displays: Latest posts vs static](https://learn.wordpress.org/?meeting=homepage-displays-latest-posts-vs-static)
-- [WordPress developer live stream: Testing WP Playground](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-testing-wp-playground)
 <!-- SLS:END -->
 
 ## Test
