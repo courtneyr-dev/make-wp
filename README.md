@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Section Styles](https://make.wordpress.org/core/2024/06/24/section-styles/)
 - [WordPress 6.6 CSS Specificity](https://make.wordpress.org/core/2024/06/21/wordpress-6-6-css-specificity/)
 - [Data Liberation and WordPress Migrations](https://make.wordpress.org/core/2024/06/21/data-liberation-and-wordpress-migrations/)
 - [Summary, Dev Chat, June 19, 2024](https://make.wordpress.org/core/2024/06/20/summary-dev-chat-june-19-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, June 12, 2024](https://make.wordpress.org/core/2024/06/17/summary-dev-chat-june-12-2024/)
 - [Data Views Update – June 2024](https://make.wordpress.org/core/2024/06/13/data-views-update-june-2024/)
 - [Agenda, Dev Chat, Wednesday June 12, 2024](https://make.wordpress.org/core/2024/06/12/agenda-dev-chat-wednesday-june-12-2024/)
-- [Performance Chat Summary: 11 June 2024](https://make.wordpress.org/core/2024/06/11/performance-chat-summary-11-june-2024/)
 <!-- CORE:END -->
 
 ## Design
