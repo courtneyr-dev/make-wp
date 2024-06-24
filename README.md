@@ -437,6 +437,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [A week in Openverse: 2024-06-17 – 2024-06-24](https://make.wordpress.org/openverse/2024/06/24/last-week-openverse-2024-06-17-2024-06-24/)
 - [A week in Openverse: 2024-06-10 – 2024-06-17](https://make.wordpress.org/openverse/2024/06/17/last-week-openverse-2024-06-10-2024-06-17/)
 - [A week in Openverse: 2024-06-03 – 2024-06-10](https://make.wordpress.org/openverse/2024/06/10/last-week-openverse-2024-06-03-2024-06-10/)
 - [Openverse maintainers welcome Princewill Onyenanu as a new committer](https://make.wordpress.org/openverse/2024/06/04/openverse-maintainers-welcome-princewill-onyenanu-as-a-new-committer/)
@@ -446,7 +447,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Meeting Recap &lpar;2024-05-21&rpar;](https://make.wordpress.org/openverse/2024/05/21/community-meeting-recap-2024-05-21/)
 - [Openverse Monthly Priorities Meeting 2024-06-05](https://make.wordpress.org/openverse/2024/05/20/openverse-monthly-priorities-meeting-2024-06-05/)
 - [A week in Openverse: 2024-05-13 – 2024-05-20](https://make.wordpress.org/openverse/2024/05/20/last-week-openverse-2024-05-13-2024-05-20/)
-- [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/openverse/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 <!-- OPENVERSE:END -->
 
 ## Photos
