@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Cloudbridge 2FA…](https://make.wordpress.org/polyglots/2024/06/24/pte-request-for-cloudbridge-2fa/)
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2024/06/23/pte-request-for-two-plugins-8/)
 - [PTE Request for svg-block: SVG Block](https://make.wordpress.org/polyglots/2024/06/23/pte-request-for-svg-block-svg-block/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/06/23/hello-89/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Easy Slider](https://make.wordpress.org/polyglots/2024/06/20/pte-request-for-easy-slider/)
 - [Translating CusRev Plugin](https://make.wordpress.org/polyglots/2024/06/20/translating-cusrev-plugin/)
 - [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/polyglots/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
-- [Agenda: Weekly Polyglots Chat – June 19, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/06/19/agenda-weekly-polyglots-chat-june-19-2024-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
