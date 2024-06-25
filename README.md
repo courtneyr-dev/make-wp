@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: Do you really need a custom block? Let’s explore alternatives](https://learn.wordpress.org/?meeting=developer-hours-do-you-really-need-a-custom-block-lets-explore-alternatives)
 - [Exploring WordPress 6.6](https://learn.wordpress.org/?meeting=exploring-wordpress-6-6)
 - [Developer Hours: Editor unification and extensibility in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-editor-unification-and-extensibility-in-wordpress-6-6)
 - [Shape the Future: Your Role in WordPress Open Source Contribution](https://learn.wordpress.org/?meeting=shape-the-future-your-role-in-wordpress-open-source-contribution)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Testing Studio by WordPress.com](https://learn.wordpress.org/?meeting=testing-studio-by-wordpress-com)
 - [Developer Hours: Alternatives to Custom Meta Boxes in the Block Editor](https://learn.wordpress.org/?meeting=developer-hours-alternatives-to-custom-meta-boxes-in-the-block-editor)
 - [クラシックとブロック。いまこそ知りたい、2つの違い](https://learn.wordpress.org/?meeting=%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%81%a8%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%80%82%e3%81%84%e3%81%be%e3%81%93%e3%81%9d%e7%9f%a5%e3%82%8a%e3%81%9f%e3%81%84%e3%80%812%e3%81%a4%e3%81%ae)
-- [WordPress developer live stream: Testing WP Playground](https://learn.wordpress.org/?meeting=wordpress-developer-live-stream-testing-wp-playground-2)
 <!-- SLS:END -->
 
 ## Test
