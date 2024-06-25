@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Recap Hallway Hangout: Theme Building with Playground, Create-block-theme plugin, and GitHub](https://make.wordpress.org/core/2024/06/25/recap-hallway-hangout-theme-building-with-playground-create-block-theme-plugin-and-github/)
 - [Performance Chat Agenda: 25 June 2024](https://make.wordpress.org/core/2024/06/25/performance-chat-agenda-25-june-2024/)
 - [Miscellaneous developer changes in WordPress 6.6](https://make.wordpress.org/core/2024/06/25/miscellaneous-developer-changes-in-wordpress-6-6/)
 - [Updates to the HTML API in 6.6](https://make.wordpress.org/core/2024/06/24/updates-to-the-html-api-in-6-6/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hallway Hangout: Exploring Grid Layouts](https://make.wordpress.org/core/2024/06/19/hallway-hangout-exploring-grid-layouts/)
 - [Performance Chat Summary: 18 June 2024](https://make.wordpress.org/core/2024/06/18/performance-chat-summary-18-june-2024/)
 - [Agenda, Dev Chat, Wednesday June 19, 2024](https://make.wordpress.org/core/2024/06/18/agenda-dev-chat-wednesday-june-19-2024/)
-- [Options API: Disabling autoload for large options](https://make.wordpress.org/core/2024/06/18/options-api-disabling-autoload-for-large-options/)
 <!-- CORE:END -->
 
 ## Design
