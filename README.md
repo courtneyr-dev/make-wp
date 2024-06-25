@@ -8,7 +8,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing the Token Map](https://make.wordpress.org/core/2024/06/24/introducing-the-token-map/)
 - [Proposal: Block Variation Aliases](https://make.wordpress.org/core/2024/06/24/proposal-block-variation-aliases/)
 - [Miscellaneous Editor changes in WordPress 6.6](https://make.wordpress.org/core/2024/06/24/miscellaneous-editor-changes-in-wordpress-6-6/)
-- [Internationalization improvements in 6.6](https://make.wordpress.org/core/2024/06/24/i18n-improvements-6-5-performant-translations-2/)
+- [Internationalization improvements in 6.6](https://make.wordpress.org/core/2024/06/24/i18n-improvements-6-6/)
 - [Section Styles](https://make.wordpress.org/core/2024/06/24/section-styles/)
 - [WordPress 6.6 CSS Specificity](https://make.wordpress.org/core/2024/06/21/wordpress-6-6-css-specificity/)
 - [Data Liberation and WordPress Migrations](https://make.wordpress.org/core/2024/06/21/data-liberation-and-wordpress-migrations/)
