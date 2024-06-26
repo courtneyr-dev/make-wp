@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 25 June 2024](https://make.wordpress.org/core/2024/06/26/performance-chat-summary-25-june-2024/)
 - [WordPress 6.6 Release Candidate Phase](https://make.wordpress.org/core/2024/06/26/wordpress-6-6-release-candidate-phase/)
 - [Agenda, Dev Chat, Wednesday June 25, 2024](https://make.wordpress.org/core/2024/06/25/agenda-dev-chat-wednesday-june-25-2024/)
 - [WordPress 6.6 Field Guide](https://make.wordpress.org/core/2024/06/25/wordpress-6-6-field-guide/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Site-wide background images in WordPress 6.6](https://make.wordpress.org/core/2024/06/20/site-wide-background-images-in-wordpress-6-6/)
 - [What’s new in Gutenberg 18.6](https://make.wordpress.org/core/2024/06/20/whats-new-in-gutenberg-18-6/)
 - [Theme.json version 3](https://make.wordpress.org/core/2024/06/19/theme-json-version-3/)
-- [Social Links block changes in WordPress 6.6](https://make.wordpress.org/core/2024/06/19/social-links-block-changes-in-wordpress-6-6/)
 <!-- CORE:END -->
 
 ## Design
