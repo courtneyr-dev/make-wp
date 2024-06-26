@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Meeting Agenda for June 26, 2024](https://make.wordpress.org/meta/2024/06/26/meeting-agenda/)
 - [The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/meta/2024/06/19/the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Transitioning All Rosetta Sites to the New WP.org Theme](https://make.wordpress.org/meta/2024/06/13/xpost-transitioning-all-rosetta-sites-to-the-new-wp-org-theme/)
 - [X-post: Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/meta/2024/06/10/xpost-localization-and-translation-of-helphub-during-wceu-2024/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Blueprint Gallery: Share your WordPress creations with Playground](https://make.wordpress.org/meta/2024/05/15/the-blueprint-gallery-share-your-wordpress-creations-with-playground/)
 - [Meeting Agenda for May 15, 2024](https://make.wordpress.org/meta/2024/05/14/meeting-agenda-for-may-15-2024/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/meta/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
-- [Meeting Agenda for May 1, 2024](https://make.wordpress.org/meta/2024/04/30/meeting-agenda-for-may-1-2024/)
 <!-- META:END -->
 
 ## Training
