@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Database Management…](https://make.wordpress.org/polyglots/2024/06/26/pte-request-for-database-management/)
+- [PTE Request for AI for SEO – Boost your SEO rankings automatically](https://make.wordpress.org/polyglots/2024/06/26/pte-request-for-ai-for-seo-boost-your-seo-rankings-automatically/)
 - [Agenda: Weekly Polyglots Chat – June 26, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/06/26/agenda-weekly-polyglots-chat-june-26-2024-700-utc/)
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2024/06/25/pte-request-for-directorist-2/)
 - [X-post: Internationalization improvements in 6.6](https://make.wordpress.org/polyglots/2024/06/24/xpost-i18n-improvements-6-5-performant-translations-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2024/06/23/pte-request-for-two-plugins-8/)
 - [PTE Request for svg-block: SVG Block](https://make.wordpress.org/polyglots/2024/06/23/pte-request-for-svg-block-svg-block/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/06/23/hello-89/)
-- [Hey!](https://make.wordpress.org/polyglots/2024/06/20/hey-7/)
-- [PTE Request for ZeroBounce](https://make.wordpress.org/polyglots/2024/06/20/pte-request-for-zerobounce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
