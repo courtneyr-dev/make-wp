@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [www.wp-cli.org SSL setup wp-cli.org is…](https://make.wordpress.org/systems/2024/06/27/www-wp-cli-org-ssl-setup-wp-cli-org-is/)
 - [Schema redirect for wp-env.json](https://make.wordpress.org/systems/2024/06/18/schema-redirect-for-wp-env-json/)
 - [Reprovision dd32.dev wporg Sandbox](https://make.wordpress.org/systems/2024/06/10/reprovision-wp-org-sandbox/)
 - [Increase query params length for trac](https://make.wordpress.org/systems/2024/05/31/increase-query-params-length-for-trac/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Enable SSL for additional *.wp.org domains](https://make.wordpress.org/systems/2024/03/22/enable-ssl-for-additional-wp-org-domains/)
 - [Update Git author script](https://make.wordpress.org/systems/2024/03/21/update-git-author-script/)
 - [Redirect gutenberg.run](https://make.wordpress.org/systems/2024/03/18/redirect-gutenberg-run/)
-- [Rosetta commit permissions](https://make.wordpress.org/systems/2024/03/12/rosetta-commit-permissions/)
 <!-- SYSTEMS:END -->
 
 ## News
