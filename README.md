@@ -5,7 +5,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- CORE:START -->
 - [Performance Chat Summary: 25 June 2024](https://make.wordpress.org/core/2024/06/26/performance-chat-summary-25-june-2024/)
 - [WordPress 6.6 Release Candidate Phase](https://make.wordpress.org/core/2024/06/26/wordpress-6-6-release-candidate-phase/)
-- [Agenda, Dev Chat, Wednesday June 25, 2024](https://make.wordpress.org/core/2024/06/25/agenda-dev-chat-wednesday-june-25-2024/)
+- [Agenda, Dev Chat, Wednesday June 26, 2024](https://make.wordpress.org/core/2024/06/25/agenda-dev-chat-wednesday-june-26-2024/)
 - [WordPress 6.6 Field Guide](https://make.wordpress.org/core/2024/06/25/wordpress-6-6-field-guide/)
 - [Recap Hallway Hangout: Theme Building with Playground, Create-block-theme plugin, and GitHub](https://make.wordpress.org/core/2024/06/25/recap-hallway-hangout-theme-building-with-playground-create-block-theme-plugin-and-github/)
 - [Performance Chat Agenda: 25 June 2024](https://make.wordpress.org/core/2024/06/25/performance-chat-agenda-25-june-2024/)
