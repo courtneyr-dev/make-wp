@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Modelowanie treści z ACF w edytorze blokowym](https://wordpress.tv/2024/06/27/modelowanie-tresci-z-acf-w-edytorze-blokowym/)
+- [Woocommerce Przyspiesza: HPOS i nowości w beta edytorze produktów](https://wordpress.tv/2024/06/27/woocommerce-przyspiesza-hpos-i-nowosci-w-beta-edytorze-produktow/)
+- [Kodowanie rozwoju: Od „Hello World” do „Hello Career”](https://wordpress.tv/2024/06/27/kodowanie-rozwoju-od-hello-world-do-hello-career/)
+- [Co zrobić, aby marka ułatwiała pozyskiwanie klientów?](https://wordpress.tv/2024/06/27/co-zrobic-aby-marka-ulatwiala-pozyskiwanie-klientow/)
 - [Zainstalowałem WordPressa… I co dalej?](https://wordpress.tv/2024/06/27/zainstalowalem-wordpressa-i-co-dalej/)
 - [Zróbmy to szybciej!](https://wordpress.tv/2024/06/27/zrobmy-to-szybciej/)
 - [Rzeczy techniczne nie są straszne, czyli co trzeba wiedzieć posiadając stronę WWW](https://wordpress.tv/2024/06/27/rzeczy-techniczne-nie-sa-straszne-czyli-co-trzeba-wiedziec-posiadajac-strone-www/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dlaczego marketing nie działa?](https://wordpress.tv/2024/06/25/dlaczego-marketing-nie-dziala/)
 - [WordPressowiec vs jego Klient – o skutecznej komunikacji](https://wordpress.tv/2024/06/25/wordpressowiec-vs-jego-klient-o-skutecznej-komunikacji/)
 - [Przyszliśmy Panu zrobić audyt przetwarzania danych osobowych – czyli jak wygląda kontrola RODO w fir](https://wordpress.tv/2024/06/25/przyszlismy-panu-zrobic-audyt-przetwarzania-danych-osobowych-czyli-jak-wyglada-kontrola-rodo-w-fir/)
-- [Jak mieć więcej energii do życia i działania](https://wordpress.tv/2024/06/25/jak-miec-wiecej-energii-do-zycia-i-dzialania/)
-- [Jak nie karać użytkowników za ich stan zdrowotny?](https://wordpress.tv/2024/06/25/jak-nie-karac-uzytkownikow-za-ich-stan-zdrowotny/)
-- [O rozmowie z interfejsem, czyli język jak dopamina](https://wordpress.tv/2024/06/25/o-rozmowie-z-interfejsem-czyli-jezyk-jak-dopamina/)
-- [Career Detour: From the Medical Field to WordPress](https://wordpress.tv/2024/06/25/career-detour-from-the-medical-field-to-wordpress-2/)
 <!-- WPTV:END -->
 
 ## Marketing
