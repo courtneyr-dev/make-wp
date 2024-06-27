@@ -352,6 +352,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Zainstalowałem WordPressa… I co dalej?](https://wordpress.tv/2024/06/27/zainstalowalem-wordpressa-i-co-dalej/)
+- [Zróbmy to szybciej!](https://wordpress.tv/2024/06/27/zrobmy-to-szybciej/)
+- [Rzeczy techniczne nie są straszne, czyli co trzeba wiedzieć posiadając stronę WWW](https://wordpress.tv/2024/06/27/rzeczy-techniczne-nie-sa-straszne-czyli-co-trzeba-wiedziec-posiadajac-strone-www/)
+- [WordPress i co dalej, czyli im dalej w las, tym… ciekawiej!](https://wordpress.tv/2024/06/27/wordpress-i-co-dalej-czyli-im-dalej-w-las-tym-ciekawiej/)
+- [„słyszałem gdzieś o tym” – jak wejść do świadomości odbiorcy poprzez storytelling](https://wordpress.tv/2024/06/27/slyszalem-gdzies-o-tym-jak-wejsc-do-swiadomosci-odbiorcy-poprzez-storytelling/)
+- [Jak mówić, aby Nas słuchano i jak słuchać, aby do Nas mówiono?](https://wordpress.tv/2024/06/27/jak-mowic-aby-nas-sluchano-i-jak-sluchac-aby-do-nas-mowiono/)
+- [Block Bindings API](https://wordpress.tv/2024/06/27/block-bindings-api/)
+- [Wpływ serwera na stabilność i bezpieczeństwo WordPressa](https://wordpress.tv/2024/06/27/wplyw-serwera-na-stabilnosc-i-bezpieczenstwo-wordpressa/)
+- [Custom Rest API – rejestracja i obsługa własnych endpointów w WordPress](https://wordpress.tv/2024/06/27/custom-rest-api-rejestracja-i-obsluga-wlasnych-endpointow-w-wordpress/)
+- [3 największe problemy z uzyskaniem konwersji ze strony](https://wordpress.tv/2024/06/27/3-najwieksze-problemy-z-uzyskaniem-konwersji-ze-strony/)
+- [Jedź na WordCamp – mówili… Poznasz ludzi – mówili…](https://wordpress.tv/2024/06/27/jedz-na-wordcamp-mowili-poznasz-ludzi-mowili/)
+- [Interactivity API](https://wordpress.tv/2024/06/27/interactivity-api/)
+- [Abecadło ecommerce – jak założyć sklep online od A do Z](https://wordpress.tv/2024/06/27/abecadlo-ecommerce-jak-zalozyc-sklep-online-od-a-do-z/)
+- [Full Site Editing w podejściu Headlessowym. Case Study](https://wordpress.tv/2024/06/27/full-site-editing-w-podejsciu-headlessowym-case-study/)
+- [Jak cię widzą, tak ci płacą… czyli po co zdjęcia w witrynie](https://wordpress.tv/2024/06/27/jak-cie-widza-tak-ci-placa-czyli-po-co-zdjecia-w-witrynie/)
 - [Thumbnail-a-thon: Let’s make graphics together for the new Learn.WordPress.org!](https://wordpress.tv/2024/06/25/thumbnail-a-thon-lets-make-graphics-together-for-the-new-learn-wordpress-org/)
 - [Klient 2.0 – czyli jakie oczekiwania przed webmasterem stawia zleceniodawca](https://wordpress.tv/2024/06/25/klient-2-0-czyli-jakie-oczekiwania-przed-webmasterem-stawia-zleceniodawca/)
 - [Q SatysfAKCJI. Użyj dźwigni swoich superMOCY](https://wordpress.tv/2024/06/25/q-satysfakcji-uzyj-dzwigni-swoich-supermocy/)
@@ -362,21 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jak nie karać użytkowników za ich stan zdrowotny?](https://wordpress.tv/2024/06/25/jak-nie-karac-uzytkownikow-za-ich-stan-zdrowotny/)
 - [O rozmowie z interfejsem, czyli język jak dopamina](https://wordpress.tv/2024/06/25/o-rozmowie-z-interfejsem-czyli-jezyk-jak-dopamina/)
 - [Career Detour: From the Medical Field to WordPress](https://wordpress.tv/2024/06/25/career-detour-from-the-medical-field-to-wordpress-2/)
-- [Od profilu na LinkedIn do projektu. Strategie budowania kariery na LinkedIn](https://wordpress.tv/2024/06/25/od-profilu-na-linkedin-do-projektu-strategie-budowania-kariery-na-linkedin/)
-- [Multiwersum obłędu kontratakuje – jak przepisać stronę by była wydajniejsza i nie zwariować?](https://wordpress.tv/2024/06/25/multiwersum-obledu-kontratakuje-jak-przepisac-strone-by-byla-wydajniejsza-i-nie-zwariowac/)
-- [Jak prawnik analizuje stronę internetową](https://wordpress.tv/2024/06/25/jak-prawnik-analizuje-strone-internetowa/)
-- [Jak poradzić sobie z wolnymi skryptami i przyspieszyć witrynę?](https://wordpress.tv/2024/06/25/jak-poradzic-sobie-z-wolnymi-skryptami-i-przyspieszyc-witryne/)
-- [Jeszcze inspiracja czy już plagiat?](https://wordpress.tv/2024/06/25/jeszcze-inspiracja-czy-juz-plagiat/)
-- [WordPress + Cloudflare – dlaczego warto?](https://wordpress.tv/2024/06/25/wordpress-cloudflare-dlaczego-warto/)
-- [Ciemna strona subskrypcji, czyli praktyki warte milionowych kar UOKiK](https://wordpress.tv/2024/06/25/ciemna-strona-subskrypcji-czyli-praktyki-warte-milionowych-kar-uokik/)
-- [Programiści kontra rzeczywistość: jakich umiejętności potrzebujesz, by przetrwać w branży kolejnych](https://wordpress.tv/2024/06/25/programisci-kontra-rzeczywistosc-jakich-umiejetnosci-potrzebujesz-by-przetrwac-w-branzy-kolejnych/)
-- [UI nie sprzedaje? TOP 6 narzędzi, które musisz znać](https://wordpress.tv/2024/06/25/ui-nie-sprzedaje-top-6-narzedzi-ktore-musisz-znac/)
-- [Mocne strony WP i jak z nich skorzystać?](https://wordpress.tv/2024/06/25/mocne-strony-wp-i-jak-z-nich-skorzystac/)
-- [Buduj jak profesjonalista – jak efektywnie pracować z edytorem blokowym w WordPressie](https://wordpress.tv/2024/06/25/buduj-jak-profesjonalista-jak-efektywnie-pracowac-z-edytorem-blokowym-w-wordpressie/)
-- [Headless – z czym to się je? Jak poprawnie skonfigurować i uruchomić Headless WordPress](https://wordpress.tv/2024/06/25/headless-z-czym-to-sie-je-jak-poprawnie-skonfigurowac-i-uruchomic-headless-wordpress/)
-- [Developer Hours: What’s new for theme developers in WordPress 6.6](https://wordpress.tv/2024/06/25/developer-hours-whats-new-for-theme-developers-in-wordpress-6-6/)
-- [Mi selección de plugins para WordPress](https://wordpress.tv/2024/06/24/mi-seleccion-de-plugins-para-wordpress/)
-- [WordPress6.6を試してみよう: WordPress Contributor Meetup Tokyo Vol.03](https://wordpress.tv/2024/06/22/wordpress6-6%e3%82%92%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86-wordpress-contributor-meetup-tokyo-vol-03/)
 <!-- WPTV:END -->
 
 ## Marketing
