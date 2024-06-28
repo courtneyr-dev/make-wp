@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Frontend Design or Full Stack Contractor](https://jobs.wordpress.net/job/wordpress-frontend-design-or-full-stack-contractor/)
 - [Full-Stack WordPress Developer – Contractor](https://jobs.wordpress.net/job/full-stack-wordpress-developer-contractor/)
 - [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-36/)
 - [Product Manager](https://jobs.wordpress.net/job/product-manager-3/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PHP Developer for Speed Optimization Plugin](https://jobs.wordpress.net/job/php-developer-for-speed-optimization-plugin/)
 - [membership site for training modules](https://jobs.wordpress.net/job/membership-site-for-training-modules/)
 - [Senior WordPress Full-Stack Developer](https://jobs.wordpress.net/job/senior-wordpress-full-stack-developer/)
-- [[Astra] QA Engineer – Manual](https://jobs.wordpress.net/job/astra-qa-engineer-manual-2/)
 <!-- JOBS:END -->
 
 ## Central
