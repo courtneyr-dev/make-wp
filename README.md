@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Proposal to integrate Slack workspaces from local WP Communities into Slack Enterprise Grid](https://make.wordpress.org/polyglots/2024/06/28/xpost-proposal-to-integrate-slack-workspaces-from-local-wp-communities-into-slack-enterprise-grid/)
 - [Hi, I want to translate…](https://make.wordpress.org/polyglots/2024/06/26/hi-i-want-to-translate-2/)
 - [PTE Request for Database Management…](https://make.wordpress.org/polyglots/2024/06/26/pte-request-for-database-management/)
 - [PTE Request for AI for SEO – Boost your SEO rankings automatically](https://make.wordpress.org/polyglots/2024/06/26/pte-request-for-ai-for-seo-boost-your-seo-rankings-automatically/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.5.5 has been released….](https://make.wordpress.org/polyglots/2024/06/24/wordpress-6-5-5-has-been-released/)
 - [PTE Request for Cloudbridge 2FA…](https://make.wordpress.org/polyglots/2024/06/24/pte-request-for-cloudbridge-2fa/)
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2024/06/23/pte-request-for-two-plugins-8/)
-- [PTE Request for svg-block: SVG Block](https://make.wordpress.org/polyglots/2024/06/23/pte-request-for-svg-block-svg-block/)
 <!-- POLYGLOTS:END -->
 
 ## Support
