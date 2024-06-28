@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [X-post: Addressing Overlapping Initiatives and Improving Collaboration Across Teams](https://make.wordpress.org/project/2024/06/28/xpost-addressing-overlapping-initiatives-and-improving-collaboration-across-teams/)
 - [X-post: WordPress Contributor Mentorship Program Q4 2024: Call for Interest](https://make.wordpress.org/project/2024/06/15/xpost-wordpress-contributor-mentorship-program-q4-2024-call-for-interest/)
 - [WordPress Project Contributor Handbook v2](https://make.wordpress.org/project/2024/05/31/wordpress-project-contributor-handbook-v2/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/project/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adding WordPress to adopters of the Contributor Covenant](https://make.wordpress.org/project/2024/02/21/adding-wordpress-to-adopters-of-the-contributor-covenant/)
 - [X-post: Data Liberation Next Steps](https://make.wordpress.org/project/2024/02/19/xpost-data-liberation-next-steps/)
 - [Incident Response Team: Call for Nominations](https://make.wordpress.org/project/2024/02/02/incident-response-team-call-for-nominations/)
-- [Updates from the Incident Response Team](https://make.wordpress.org/project/2024/01/26/updates-from-the-incident-response-team/)
 <!-- PROJECT:END -->
 
 ## Systems
