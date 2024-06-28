@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Reactivating Inactive Meetup Groups](https://make.wordpress.org/community/2024/06/28/reactivating-inactive-meetup-groups/)
 - [X-post: Addressing Overlapping Initiatives and Improving Collaboration Across Teams](https://make.wordpress.org/community/2024/06/28/xpost-addressing-overlapping-initiatives-and-improving-collaboration-across-teams/)
 - [Proposal to integrate Slack workspaces from local WP Communities into Slack Enterprise Grid](https://make.wordpress.org/community/2024/06/28/proposal-to-integrate-slack-workspaces-from-local-wp-communities-into-slack-enterprise-grid/)
 - [Meetup Organizer Newsletter: June 2024](https://make.wordpress.org/community/2024/06/24/meetup-organizer-newsletter-june-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Contributor Mentorship Program Q4 2024: Call for Interest](https://make.wordpress.org/community/2024/06/15/wordpress-contributor-mentorship-program-q4-2024-call-for-interest/)
 - [WCEU2024 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2024/06/11/wceu2024-contributor-day-community-team-agenda/)
 - [Events of the Month – March &amp; April 2024](https://make.wordpress.org/community/2024/06/06/events-of-the-month-march-april-2024/)
-- [Community Team Meeting Agenda for 6 – June – 2024](https://make.wordpress.org/community/2024/06/05/community-team-meeting-agenda-for-6-june-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
