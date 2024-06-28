@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Proposal to integrate Slack workspaces from local WP Communities into Slack Enterprise Grid](https://make.wordpress.org/community/2024/06/28/proposal-to-integrate-slack-workspaces-from-local-wp-communities-into-slack-enterprise-grid/)
 - [Meetup Organizer Newsletter: June 2024](https://make.wordpress.org/community/2024/06/24/meetup-organizer-newsletter-june-2024/)
 - [Community Team June Meeting Recap](https://make.wordpress.org/community/2024/06/24/community-team-june-meeting-recap/)
 - [Proposal for a Unified Sponsorship Initiative](https://make.wordpress.org/community/2024/06/21/proposal-for-a-unified-sponsorship-initiative/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Events of the Month – March &amp; April 2024](https://make.wordpress.org/community/2024/06/06/events-of-the-month-march-april-2024/)
 - [Community Team Meeting Agenda for 6 – June – 2024](https://make.wordpress.org/community/2024/06/05/community-team-meeting-agenda-for-6-june-2024/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/community/2024/06/04/xpost-training-team-update-june-2024/)
-- [Current challenges of WordPress Events. Shaping the future](https://make.wordpress.org/community/2024/05/31/current-challenges-of-wordpress-events-shaping-the-future/)
 <!-- COMMUNITY:END -->
 
 ## Meta
