@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2024/06/29/i-am-the-plugin-author-42/)
+- [PTE Request for Database Management…](https://make.wordpress.org/polyglots/2024/06/29/pte-request-for-database-management-2/)
 - [WordPress 6.6 ready to be translated](https://make.wordpress.org/polyglots/2024/06/28/wordpress-6-6-ready-to-be-translated/)
 - [X-post: Proposal to integrate Slack workspaces from local WP Communities into Slack Enterprise Grid](https://make.wordpress.org/polyglots/2024/06/28/xpost-proposal-to-integrate-slack-workspaces-from-local-wp-communities-into-slack-enterprise-grid/)
 - [Hi, I want to translate…](https://make.wordpress.org/polyglots/2024/06/26/hi-i-want-to-translate-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – June 26, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/06/26/agenda-weekly-polyglots-chat-june-26-2024-700-utc/)
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2024/06/25/pte-request-for-directorist-2/)
 - [X-post: Internationalization improvements in 6.6](https://make.wordpress.org/polyglots/2024/06/24/xpost-i18n-improvements-6-5-performant-translations-2/)
-- [WordPress 6.5.5 has been released….](https://make.wordpress.org/polyglots/2024/06/24/wordpress-6-5-5-has-been-released/)
-- [PTE Request for Cloudbridge 2FA…](https://make.wordpress.org/polyglots/2024/06/24/pte-request-for-cloudbridge-2fa/)
 <!-- POLYGLOTS:END -->
 
 ## Support
