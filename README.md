@@ -528,9 +528,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product Manager](https://jobs.wordpress.net/job/product-manager-3/)
 - [HR Coordinator](https://jobs.wordpress.net/job/hr-coordinator/)
 - [Senior WordPress Developer &lpar;BE heavy&rpar;](https://jobs.wordpress.net/job/senior-wordpress-developer-be-heavy/)
-- [Kit Digital WordPress Developer](https://jobs.wordpress.net/job/kit-digital-wordpress-developer/)
 - [PHP Developer for Speed Optimization Plugin](https://jobs.wordpress.net/job/php-developer-for-speed-optimization-plugin/)
 - [membership site for training modules](https://jobs.wordpress.net/job/membership-site-for-training-modules/)
+- [Senior WordPress Full-Stack Developer](https://jobs.wordpress.net/job/senior-wordpress-full-stack-developer/)
 <!-- JOBS:END -->
 
 ## Central
