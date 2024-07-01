@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translate WP 6.6 Administration return 403](https://make.wordpress.org/polyglots/2024/07/01/translate-wp-6-6-administration-return-403/)
 - [Hello Polyglots, I am the…](https://make.wordpress.org/polyglots/2024/07/01/hello-polyglots-i-am-the-639/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/01/hi-dear-mentors-we-have-135/)
 - [PTE Request for NewsTick Theme](https://make.wordpress.org/polyglots/2024/07/01/pte-request-for-newstick-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.6 ready to be translated](https://make.wordpress.org/polyglots/2024/06/28/wordpress-6-6-ready-to-be-translated/)
 - [X-post: Proposal to integrate Slack workspaces from local WP Communities into Slack Enterprise Grid](https://make.wordpress.org/polyglots/2024/06/28/xpost-proposal-to-integrate-slack-workspaces-from-local-wp-communities-into-slack-enterprise-grid/)
 - [Hi, I want to translate…](https://make.wordpress.org/polyglots/2024/06/26/hi-i-want-to-translate-2/)
-- [PTE Request for Database Management…](https://make.wordpress.org/polyglots/2024/06/26/pte-request-for-database-management/)
 <!-- POLYGLOTS:END -->
 
 ## Support
