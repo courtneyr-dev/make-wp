@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Hallway Hangout: Section styles and other block style variation updates](https://make.wordpress.org/core/2024/07/01/hallway-hangout-section-styles-and-other-block-style-variation-updates/)
 - [Recap Hallway Hangout: Exploring Grid Layouts](https://make.wordpress.org/core/2024/07/01/recap-hallway-hangout-exploring-grid-layouts/)
 - [Editing custom fields from connected blocks](https://make.wordpress.org/core/2024/06/28/editing-custom-fields-from-connected-blocks/)
 - [Updates to the Interactivity API in 6.6](https://make.wordpress.org/core/2024/06/28/updates-to-the-interactivity-api-in-6-6/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Section Styles](https://make.wordpress.org/core/2024/06/24/section-styles/)
 - [WordPress 6.6 CSS Specificity](https://make.wordpress.org/core/2024/06/21/wordpress-6-6-css-specificity/)
 - [Data Liberation and WordPress Migrations](https://make.wordpress.org/core/2024/06/21/data-liberation-and-wordpress-migrations/)
-- [Summary, Dev Chat, June 19, 2024](https://make.wordpress.org/core/2024/06/20/summary-dev-chat-june-19-2024/)
 <!-- CORE:END -->
 
 ## Design
