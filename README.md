@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/02/hi-dear-mentors-we-have-136/)
 - [PTE Request for WP GPX Maps](https://make.wordpress.org/polyglots/2024/07/01/pte-request-for-wp-gpx-maps/)
 - [Hi. I’m the author of…](https://make.wordpress.org/polyglots/2024/07/01/hi-im-the-author-of-5/)
 - [Translate WP 6.6 Administration return 403](https://make.wordpress.org/polyglots/2024/07/01/translate-wp-6-6-administration-return-403/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WordPress 6.6.x – Development Project](https://make.wordpress.org/polyglots/2024/06/30/pte-request-for-wordpress-6-6-x-development-project/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/06/29/i-am-the-plugin-author-42/)
 - [PTE Request for Database Management…](https://make.wordpress.org/polyglots/2024/06/29/pte-request-for-database-management-2/)
-- [WordPress 6.6 ready to be translated](https://make.wordpress.org/polyglots/2024/06/28/wordpress-6-6-ready-to-be-translated/)
 <!-- POLYGLOTS:END -->
 
 ## Support
