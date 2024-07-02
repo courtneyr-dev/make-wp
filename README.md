@@ -240,6 +240,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WORKSHOPS:START -->
 - [হরিজনটাল পিরামিড গ্যালারি](https://learn.wordpress.org/tutorial/bn-horizontal-pyramid-gallery/)
 - [সরাসরি ইনসার্টআর থেকে আপনার কনটেন্টে মিডিয়া এবং ওপেনভার্স ছবি যোগ করুন](https://learn.wordpress.org/tutorial/bn-add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
+- [ওয়ার্ডপ্রেস বেটা রিলিজ কিভাবে পরীক্ষা করবেন](https://learn.wordpress.org/tutorial/bn-how-to-test-wordpress-beta-release/)
 - [ব্লক থিমের সাথে ক্যাটাগরি টেমপ্লেট এক্সপ্লোর করা](https://learn.wordpress.org/tutorial/bn-exploring-category-templates-with-block-themes/)
 - [ডুয়োটোন ফিল্টার ব্যবহার করে কিভাবে কালার ইফেক্ট পরিবর্তন করতে হয়](https://learn.wordpress.org/tutorial/bn-applying-duotone-filters-to-change-color-effects/)
 - [স্পেসার ব্লক কীভাবে ব্যবহার করবেন](https://learn.wordpress.org/tutorial/bn-how-to-use-the-spacer-block/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [रंग प्रभाव बदलने के लिए डुओटोन फिल्टर लगाना](https://learn.wordpress.org/tutorial/hi-applying-duotone-filters-to-change-color-effects/)
 - [पोस्ट और पेज शेड्यूल करना](https://learn.wordpress.org/tutorial/hi-scheduling-posts-and-pages/)
 - [ওয়ার্ডপ্রেস ফটো ডিরেক্টরি ব্যবহার করে ইমেজগুলো খোঁজা](https://learn.wordpress.org/tutorial/bn-finding-images-using-the-wordpress-photo-directory/)
-- [ব্লক এডিটরে লিস্ট ভিউের ব্যবহার](https://learn.wordpress.org/tutorial/bn-how-to-use-the-list-view/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
