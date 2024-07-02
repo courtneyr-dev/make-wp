@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Contributor Working Group’s Mentorship Chat on June 20th 2024](https://make.wordpress.org/community/2024/07/02/recap-of-the-contributor-working-groups-mentorship-chat-on-june-20th-2024/)
 - [Reactivating Inactive Meetup Groups](https://make.wordpress.org/community/2024/06/28/reactivating-inactive-meetup-groups/)
 - [X-post: Addressing Overlapping Initiatives and Improving Collaboration Across Teams](https://make.wordpress.org/community/2024/06/28/xpost-addressing-overlapping-initiatives-and-improving-collaboration-across-teams/)
 - [Proposal to integrate Slack workspaces from local WP Communities into Slack Enterprise Grid](https://make.wordpress.org/community/2024/06/28/proposal-to-integrate-slack-workspaces-from-local-wp-communities-into-slack-enterprise-grid/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contributor Working Group Chat Agenda | June 20th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/06/17/contributor-working-group-chat-agenda-june-20th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [WordPress Contributor Mentorship Program Q4 2024: Call for Interest](https://make.wordpress.org/community/2024/06/15/wordpress-contributor-mentorship-program-q4-2024-call-for-interest/)
 - [WCEU2024 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2024/06/11/wceu2024-contributor-day-community-team-agenda/)
-- [Events of the Month – March &amp; April 2024](https://make.wordpress.org/community/2024/06/06/events-of-the-month-march-april-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
