@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Website optimization](https://wordpress.tv/2024/07/02/website-optimization/)
 - [Pourquoi utiliser les transients WordPress dans une navigation sur mesure pour l’éditeur de site &lpar;FSE&rpar;](https://wordpress.tv/2024/07/01/pourquoi-utiliser-les-transients-wordpress-dans-une-navigation-sur-mesure-pour-lediteur-de-site-fse/)
 - [Shape the Future: Your Role in WordPress Open Source Contribution](https://wordpress.tv/2024/07/01/shape-the-future-your-role-in-wordpress-open-source-contribution/)
 - [Modelowanie treści z ACF w edytorze blokowym](https://wordpress.tv/2024/06/27/modelowanie-tresci-z-acf-w-edytorze-blokowym/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Thumbnail-a-thon: Let’s make graphics together for the new Learn.WordPress.org!](https://wordpress.tv/2024/06/25/thumbnail-a-thon-lets-make-graphics-together-for-the-new-learn-wordpress-org/)
 - [Klient 2.0 – czyli jakie oczekiwania przed webmasterem stawia zleceniodawca](https://wordpress.tv/2024/06/25/klient-2-0-czyli-jakie-oczekiwania-przed-webmasterem-stawia-zleceniodawca/)
 - [Q SatysfAKCJI. Użyj dźwigni swoich superMOCY](https://wordpress.tv/2024/06/25/q-satysfakcji-uzyj-dzwigni-swoich-supermocy/)
-- [Dlaczego marketing nie działa?](https://wordpress.tv/2024/06/25/dlaczego-marketing-nie-dziala/)
 <!-- WPTV:END -->
 
 ## Marketing
