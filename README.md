@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Bilingual WordPress Website Developer](https://jobs.wordpress.net/job/bilingual-wordpress-website-developer/)
+- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-11/)
+- [WordPress Developer – acfpro / php](https://jobs.wordpress.net/job/wordpress-developer-acfpro-php/)
 - [Part Time WordPress Developer](https://jobs.wordpress.net/job/part-time-wordpress-developer-16/)
 - [Develop WordPress website](https://jobs.wordpress.net/job/develop-wordpress-website-2/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-13/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full-Stack WordPress Developer – Contractor](https://jobs.wordpress.net/job/full-stack-wordpress-developer-contractor/)
 - [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-36/)
 - [Product Manager](https://jobs.wordpress.net/job/product-manager-3/)
-- [HR Coordinator](https://jobs.wordpress.net/job/hr-coordinator/)
-- [Senior WordPress Developer &lpar;BE heavy&rpar;](https://jobs.wordpress.net/job/senior-wordpress-developer-be-heavy/)
-- [PHP Developer for Speed Optimization Plugin](https://jobs.wordpress.net/job/php-developer-for-speed-optimization-plugin/)
 <!-- JOBS:END -->
 
 ## Central
