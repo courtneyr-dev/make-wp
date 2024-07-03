@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/07/03/pte-request-for-below-listed-themes/)
 - [PTE Request for CoDesigner &lpar;woolementor&rpar;](https://make.wordpress.org/polyglots/2024/07/03/pte-request-for-codesigner-woolementor/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/02/hi-dear-mentors-we-have-136/)
 - [PTE Request for WP GPX Maps](https://make.wordpress.org/polyglots/2024/07/01/pte-request-for-wp-gpx-maps/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/01/hi-dear-mentors-we-have-135/)
 - [PTE Request for NewsTick Theme](https://make.wordpress.org/polyglots/2024/07/01/pte-request-for-newstick-theme/)
 - [PTE Request for WordPress 6.6.x – Development Project](https://make.wordpress.org/polyglots/2024/06/30/pte-request-for-wordpress-6-6-x-development-project/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2024/06/29/i-am-the-plugin-author-42/)
 <!-- POLYGLOTS:END -->
 
 ## Support
