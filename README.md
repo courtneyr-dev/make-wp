@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request PTE Vietnamese translation for Blocksy, ASE and Elementor](https://make.wordpress.org/polyglots/2024/07/04/request-pte-vietnamese-translation-for-blocksy-ase-and-elementor/)
+- [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2024/07/04/pte-request-for-independent-analytics-2/)
 - [Hi everyone! I would like…](https://make.wordpress.org/polyglots/2024/07/03/hi-everyone-i-would-like-2/)
 - [WP 6.6 Release Page on WordPress.org](https://make.wordpress.org/polyglots/2024/07/03/wp-6-6-release-page-on-wordpress-org/)
 - [Agenda: Weekly Polyglots Chat – July 3, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/03/agenda-weekly-polyglots-chat-july-3-2024-1300-utc/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/02/hi-dear-mentors-we-have-136/)
 - [PTE Request for WP GPX Maps](https://make.wordpress.org/polyglots/2024/07/01/pte-request-for-wp-gpx-maps/)
 - [Hi. I’m the author of…](https://make.wordpress.org/polyglots/2024/07/01/hi-im-the-author-of-5/)
-- [Translate WP 6.6 Administration return 403](https://make.wordpress.org/polyglots/2024/07/01/translate-wp-6-6-administration-return-403/)
-- [Hello Polyglots, I am the…](https://make.wordpress.org/polyglots/2024/07/01/hello-polyglots-i-am-the-639/)
 <!-- POLYGLOTS:END -->
 
 ## Support
