@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 18.7? &lpar;03 July&rpar;](https://make.wordpress.org/core/2024/07/04/whats-new-in-gutenberg-18-7-03-july/)
 - [Agenda, Dev Chat, Wednesday July 3, 2024](https://make.wordpress.org/core/2024/07/03/agenda-dev-chat-wednesday-july-3-2024/)
 - [Performance Chat Summary: 2 July 2024](https://make.wordpress.org/core/2024/07/02/performance-chat-summary-02-july-2024/)
 - [Performance Chat Agenda: 2 July 2024](https://make.wordpress.org/core/2024/07/02/performance-chat-agenda-02-july-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing the Token Map](https://make.wordpress.org/core/2024/06/24/introducing-the-token-map/)
 - [Proposal: Block Variation Aliases](https://make.wordpress.org/core/2024/06/24/proposal-block-variation-aliases/)
 - [Miscellaneous Editor changes in WordPress 6.6](https://make.wordpress.org/core/2024/06/24/miscellaneous-editor-changes-in-wordpress-6-6/)
-- [Internationalization improvements in 6.6](https://make.wordpress.org/core/2024/06/24/i18n-improvements-6-6/)
 <!-- CORE:END -->
 
 ## Design
