@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress taxonomies](https://wordpress.tv/2024/07/03/wordpress-taxonomies/)
 - [WordCamp Connect: First Time WCEU Attendees](https://wordpress.tv/2024/07/03/wordcamp-connect-first-time-wceu-attendees/)
 - [Practical Guide to Web Design: Applying Visual Communication Rules in the Era of user-friendly build](https://wordpress.tv/2024/07/03/practical-guide-to-web-design-applying-visual-communication-rules-in-the-era-of-user-friendly-build/)
 - [How to leverage Analytics data to find out where you lose potential customers](https://wordpress.tv/2024/07/03/how-to-leverage-analytics-data-to-find-out-where-you-lose-potential-customers/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Re-Humanizing the Web](https://wordpress.tv/2024/07/03/re-humanizing-the-web/)
 - [Fixing the ladder: getting more women into leadership at WordPress businesses](https://wordpress.tv/2024/07/03/fixing-the-ladder-getting-more-women-into-leadership-at-wordpress-businesses/)
 - [Mastering WordPress Block Themes: 3 Key Principles for Beginners](https://wordpress.tv/2024/07/03/mastering-wordpress-block-themes-3-key-principles-for-beginners/)
-- [How the WordPress community changed my life](https://wordpress.tv/2024/07/03/how-the-wordpress-community-changed-my-life/)
 <!-- WPTV:END -->
 
 ## Marketing
