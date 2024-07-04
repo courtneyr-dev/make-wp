@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP Job Manager Pro Customization Expert](https://jobs.wordpress.net/job/wp-job-manager-pro-customization-expert/)
+- [WordPress Website Build](https://jobs.wordpress.net/job/wordpress-website-build/)
+- [Bilingual WordPress Website Developer](https://jobs.wordpress.net/job/bilingual-wordpress-website-developer-2/)
 - [Bilingual WordPress Website Developer](https://jobs.wordpress.net/job/bilingual-wordpress-website-developer/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-11/)
 - [WordPress Developer – acfpro / php](https://jobs.wordpress.net/job/wordpress-developer-acfpro-php/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Develop WordPress website](https://jobs.wordpress.net/job/develop-wordpress-website-2/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-13/)
 - [WordPress Frontend Design or Full Stack Contractor](https://jobs.wordpress.net/job/wordpress-frontend-design-or-full-stack-contractor/)
-- [Full-Stack WordPress Developer – Contractor](https://jobs.wordpress.net/job/full-stack-wordpress-developer-contractor/)
-- [WordPress expert](https://jobs.wordpress.net/job/wordpress-expert-36/)
-- [Product Manager](https://jobs.wordpress.net/job/product-manager-3/)
 <!-- JOBS:END -->
 
 ## Central
