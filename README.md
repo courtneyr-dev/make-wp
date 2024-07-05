@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: July 5, 2024](https://make.wordpress.org/accessibility/2024/07/05/accessibility-team-meeting-agenda-july-5-2024/)
 - [Accessibility Team Meeting Agenda: June 21, 2024](https://make.wordpress.org/accessibility/2024/06/20/accessibility-team-meeting-agenda-june-21-2024/)
 - [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/accessibility/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [WordCamp Europe 2024 Contributor Day Summary](https://make.wordpress.org/accessibility/2024/06/13/wordcamp-europe-2024-contributor-day-summary/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Notes: May 3, 2024](https://make.wordpress.org/accessibility/2024/05/15/accessibility-team-meeting-notes-may-3-2024/)
 - [Accessibility Team Meeting Agenda: May 3, 2024](https://make.wordpress.org/accessibility/2024/05/01/accessibility-team-meeting-agenda-may-3-2024/)
 - [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/accessibility/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
-- [X-post: The Pattern Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/accessibility/2024/04/17/xpost-the-pattern-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
