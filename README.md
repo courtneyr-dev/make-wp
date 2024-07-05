@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Carnet de vols](https://make.wordpress.org/polyglots/2024/07/05/pte-request-for-carnet-de-vols-2/)
 - [PTE Request Bengali translation for Academy LMS](https://make.wordpress.org/polyglots/2024/07/04/pte-request-bengali-translation-for-academy-lms/)
 - [Request PTE Vietnamese translation for Blocksy, ASE and Elementor](https://make.wordpress.org/polyglots/2024/07/04/request-pte-vietnamese-translation-for-blocksy-ase-and-elementor/)
 - [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2024/07/04/pte-request-for-independent-analytics-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/07/03/pte-request-for-below-listed-themes/)
 - [PTE Request for CoDesigner &lpar;woolementor&rpar;](https://make.wordpress.org/polyglots/2024/07/03/pte-request-for-codesigner-woolementor/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/02/hi-dear-mentors-we-have-136/)
-- [PTE Request for WP GPX Maps](https://make.wordpress.org/polyglots/2024/07/01/pte-request-for-wp-gpx-maps/)
 <!-- POLYGLOTS:END -->
 
 ## Support
