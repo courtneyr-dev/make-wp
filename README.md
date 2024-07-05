@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cambios en la organización de eventos de WordPress](https://wordpress.tv/2024/07/05/cambios-en-la-organizacion-de-eventos-de-wordpress/)
 - [Creating custom post types and taxonomies](https://wordpress.tv/2024/07/03/creating-custom-post-types-and-taxonomies/)
 - [WordPress taxonomies](https://wordpress.tv/2024/07/03/wordpress-taxonomies/)
 - [WordCamp Connect: First Time WCEU Attendees](https://wordpress.tv/2024/07/03/wordcamp-connect-first-time-wceu-attendees/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How Open Source Is Key To WordPress’ Success](https://wordpress.tv/2024/07/03/how-open-source-is-key-to-wordpress-success/)
 - [Pivoting Procrastination towards Progress](https://wordpress.tv/2024/07/03/pivoting-procrastination-towards-progress/)
 - [Re-Humanizing the Web](https://wordpress.tv/2024/07/03/re-humanizing-the-web/)
-- [Fixing the ladder: getting more women into leadership at WordPress businesses](https://wordpress.tv/2024/07/03/fixing-the-ladder-getting-more-women-into-leadership-at-wordpress-businesses/)
 <!-- WPTV:END -->
 
 ## Marketing
