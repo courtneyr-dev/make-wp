@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Members – Gutenberg Plugin](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-members-gutenberg-plugin/)
+- [I am the translator of…](https://make.wordpress.org/polyglots/2024/07/06/i-am-the-translator-of/)
+- [PTE Request for SKU Label Changer For WooCommerce](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-sku-label-changer-for-woocommerce/)
 - [PTE Request for BlogBD Theme](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-blogbd-theme/)
 - [PTE Request for Carnet de vols](https://make.wordpress.org/polyglots/2024/07/05/pte-request-for-carnet-de-vols-2/)
 - [PTE Request Bengali translation for Academy LMS](https://make.wordpress.org/polyglots/2024/07/04/pte-request-bengali-translation-for-academy-lms/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2024/07/04/pte-request-for-independent-analytics-2/)
 - [Hi everyone! I would like…](https://make.wordpress.org/polyglots/2024/07/03/hi-everyone-i-would-like-2/)
 - [WP 6.6 Release Page on WordPress.org](https://make.wordpress.org/polyglots/2024/07/03/wp-6-6-release-page-on-wordpress-org/)
-- [Agenda: Weekly Polyglots Chat – July 3, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/03/agenda-weekly-polyglots-chat-july-3-2024-1300-utc/)
-- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/07/03/pte-request-for-below-listed-themes/)
-- [PTE Request for CoDesigner &lpar;woolementor&rpar;](https://make.wordpress.org/polyglots/2024/07/03/pte-request-for-codesigner-woolementor/)
 <!-- POLYGLOTS:END -->
 
 ## Support
