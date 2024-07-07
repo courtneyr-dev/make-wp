@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello! I translated the Loco plugin into Hebrew.](https://make.wordpress.org/polyglots/2024/07/07/hello-i-translated-the-loco-plugin-into-hebrew/)
+- [PTE request for Site Offline plugin](https://make.wordpress.org/polyglots/2024/07/07/pte-request-for-site-offline-plugin/)
 - [PTE Request for Members – Gutenberg Plugin](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-members-gutenberg-plugin/)
 - [I am the translator of…](https://make.wordpress.org/polyglots/2024/07/06/i-am-the-translator-of/)
 - [PTE Request for SKU Label Changer For WooCommerce](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-sku-label-changer-for-woocommerce/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request Bengali translation for Academy LMS](https://make.wordpress.org/polyglots/2024/07/04/pte-request-bengali-translation-for-academy-lms/)
 - [Request PTE Vietnamese translation for Blocksy, ASE and Elementor](https://make.wordpress.org/polyglots/2024/07/04/request-pte-vietnamese-translation-for-blocksy-ase-and-elementor/)
 - [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2024/07/04/pte-request-for-independent-analytics-2/)
-- [Hi everyone! I would like…](https://make.wordpress.org/polyglots/2024/07/03/hi-everyone-i-would-like-2/)
-- [WP 6.6 Release Page on WordPress.org](https://make.wordpress.org/polyglots/2024/07/03/wp-6-6-release-page-on-wordpress-org/)
 <!-- POLYGLOTS:END -->
 
 ## Support
