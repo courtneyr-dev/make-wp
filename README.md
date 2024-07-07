@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [fix an old Uno theme site that i’ve forgotten how to work on](https://jobs.wordpress.net/job/fix-an-old-uno-theme-site-that-ive-forgotten-how-to-work-on/)
 - [Need a WP developer to bring back a possibly quarantined site](https://jobs.wordpress.net/job/need-a-wp-developer-to-bring-back-a-possibly-quarantined-site/)
 - [Customize Astra Child to my design](https://jobs.wordpress.net/job/customize-astra-child-to-my-design/)
 - [WP Job Manager Pro Customization Expert](https://jobs.wordpress.net/job/wp-job-manager-pro-customization-expert/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer – acfpro / php](https://jobs.wordpress.net/job/wordpress-developer-acfpro-php/)
 - [Part Time WordPress Developer](https://jobs.wordpress.net/job/part-time-wordpress-developer-16/)
 - [Develop WordPress website](https://jobs.wordpress.net/job/develop-wordpress-website-2/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-13/)
 <!-- JOBS:END -->
 
 ## Central
