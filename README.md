@@ -143,7 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for July 09, 2024](https://make.wordpress.org/themes/2024/07/08/themes-team-meeting-agenda-for-july-09-2024/)
 - [Themes Team Meeting Notes – June 25, 2024](https://make.wordpress.org/themes/2024/06/26/themes-team-meeting-notes-june-25-2024/)
 - [Themes team meeting agenda for June 25, 2024](https://make.wordpress.org/themes/2024/06/25/themes-team-meeting-agenda-for-june-25-2024/)
-- [Theme.json version 3](https://make.wordpress.org/themes/2024/06/21/theme-json-version-3/)
+- [Theme.json version 3 frequently asked questions](https://make.wordpress.org/themes/2024/06/21/theme-json-version-3-frequently-asked-questions/)
 - [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/themes/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [Themes Team Meeting Notes – May 28, 2024](https://make.wordpress.org/themes/2024/05/30/themes-team-meeting-notes-may-28-2024/)
 - [Themes team meeting agenda for May 28, 2024](https://make.wordpress.org/themes/2024/05/27/themes-team-meeting-agenda-for-may-28-2024/)
