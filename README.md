@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Template parts](https://wordpress.tv/2024/07/08/template-parts/)
+- [Template hierarchy](https://wordpress.tv/2024/07/08/template-hierarchy/)
+- [Templates overview](https://wordpress.tv/2024/07/08/templates-overview/)
 - [Cambios en la organización de eventos de WordPress](https://wordpress.tv/2024/07/05/cambios-en-la-organizacion-de-eventos-de-wordpress/)
 - [Creating custom post types and taxonomies](https://wordpress.tv/2024/07/03/creating-custom-post-types-and-taxonomies/)
 - [WordPress taxonomies](https://wordpress.tv/2024/07/03/wordpress-taxonomies/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Interactivity API: the new standard way to build modern WordPress frontends](https://wordpress.tv/2024/07/03/interactivity-api-the-new-standard-way-to-build-modern-wordpress-frontends/)
 - [WordPress Project Summer Update: Q&amp;A](https://wordpress.tv/2024/07/03/wordpress-project-summer-update-qa/)
 - [WordPress Project Summer Update](https://wordpress.tv/2024/07/03/wordpress-project-summer-update/)
-- [How Open Source Is Key To WordPress’ Success](https://wordpress.tv/2024/07/03/how-open-source-is-key-to-wordpress-success/)
-- [Pivoting Procrastination towards Progress](https://wordpress.tv/2024/07/03/pivoting-procrastination-towards-progress/)
-- [Re-Humanizing the Web](https://wordpress.tv/2024/07/03/re-humanizing-the-web/)
 <!-- WPTV:END -->
 
 ## Marketing
