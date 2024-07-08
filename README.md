@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What would you like to see in the next default WordPress theme?](https://make.wordpress.org/core/2024/07/08/what-would-you-like-to-see-in-the-next-default-wordpress-theme/)
 - [Developer Blog editorial meeting summary 4 July 2024](https://make.wordpress.org/core/2024/07/05/developer-blog-editorial-meeting-summary-july-4-2024/)
 - [WordPress 6.7 Planning Proposal &amp; Call for Volunteers](https://make.wordpress.org/core/2024/07/05/wordpress-6-7-planning-proposal-call-for-volunteers/)
 - [Summary, Dev Chat, July 3, 2024](https://make.wordpress.org/core/2024/07/04/summary-dev-chat-july-3-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap Hallway Hangout: Theme Building with Playground, Create-block-theme plugin, and GitHub](https://make.wordpress.org/core/2024/06/25/recap-hallway-hangout-theme-building-with-playground-create-block-theme-plugin-and-github/)
 - [Performance Chat Agenda: 25 June 2024](https://make.wordpress.org/core/2024/06/25/performance-chat-agenda-25-june-2024/)
 - [Miscellaneous developer changes in WordPress 6.6](https://make.wordpress.org/core/2024/06/25/miscellaneous-developer-changes-in-wordpress-6-6/)
-- [Updates to the HTML API in 6.6](https://make.wordpress.org/core/2024/06/24/updates-to-the-html-api-in-6-6/)
 <!-- CORE:END -->
 
 ## Design
