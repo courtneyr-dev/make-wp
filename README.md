@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Staatic](https://make.wordpress.org/polyglots/2024/07/08/pte-request-for-staatic/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/08/hi-dear-mentors-we-have-137/)
 - [Hello! I translated the Loco plugin into Hebrew.](https://make.wordpress.org/polyglots/2024/07/07/hello-i-translated-the-loco-plugin-into-hebrew/)
 - [PTE request for Site Offline plugin](https://make.wordpress.org/polyglots/2024/07/07/pte-request-for-site-offline-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for BlogBD Theme](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-blogbd-theme/)
 - [PTE Request for Carnet de vols](https://make.wordpress.org/polyglots/2024/07/05/pte-request-for-carnet-de-vols-2/)
 - [PTE Request Bengali translation for Academy LMS](https://make.wordpress.org/polyglots/2024/07/04/pte-request-bengali-translation-for-academy-lms/)
-- [Request PTE Vietnamese translation for Blocksy, ASE and Elementor](https://make.wordpress.org/polyglots/2024/07/04/request-pte-vietnamese-translation-for-blocksy-ase-and-elementor/)
 <!-- POLYGLOTS:END -->
 
 ## Support
