@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [ Element…](https://make.wordpress.org/polyglots/2024/07/09/pte-request-for-element/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/09/hi-dear-mentors-we-have-139/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/09/hi-dear-mentors-we-have-138/)
 - [PTE Request for Staatic](https://make.wordpress.org/polyglots/2024/07/08/pte-request-for-staatic/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Members – Gutenberg Plugin](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-members-gutenberg-plugin/)
 - [I am the translator of…](https://make.wordpress.org/polyglots/2024/07/06/i-am-the-translator-of/)
 - [PTE Request for SKU Label Changer For WooCommerce](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-sku-label-changer-for-woocommerce/)
-- [PTE Request for BlogBD Theme](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-blogbd-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
