@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/09/hi-dear-mentors-we-have-139/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/09/hi-dear-mentors-we-have-138/)
 - [PTE Request for Staatic](https://make.wordpress.org/polyglots/2024/07/08/pte-request-for-staatic/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/08/hi-dear-mentors-we-have-137/)
 - [Hello! I translated the Loco plugin into Hebrew.](https://make.wordpress.org/polyglots/2024/07/07/hello-i-translated-the-loco-plugin-into-hebrew/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the translator of…](https://make.wordpress.org/polyglots/2024/07/06/i-am-the-translator-of/)
 - [PTE Request for SKU Label Changer For WooCommerce](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-sku-label-changer-for-woocommerce/)
 - [PTE Request for BlogBD Theme](https://make.wordpress.org/polyglots/2024/07/06/pte-request-for-blogbd-theme/)
-- [PTE Request for Carnet de vols](https://make.wordpress.org/polyglots/2024/07/05/pte-request-for-carnet-de-vols-2/)
-- [PTE Request Bengali translation for Academy LMS](https://make.wordpress.org/polyglots/2024/07/04/pte-request-bengali-translation-for-academy-lms/)
 <!-- POLYGLOTS:END -->
 
 ## Support
