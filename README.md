@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using caching to improve website performance – W3 Total Cache plugin](https://wordpress.tv/2024/07/08/using-caching-to-improve-website-performance-w3-total-cache-plugin/)
 - [Template parts](https://wordpress.tv/2024/07/08/template-parts/)
 - [Template hierarchy](https://wordpress.tv/2024/07/08/template-hierarchy/)
 - [Templates overview](https://wordpress.tv/2024/07/08/templates-overview/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO and Development. How to Avoid Friction](https://wordpress.tv/2024/07/03/seo-and-development-how-to-avoid-friction/)
 - [Interactivity API: the new standard way to build modern WordPress frontends](https://wordpress.tv/2024/07/03/interactivity-api-the-new-standard-way-to-build-modern-wordpress-frontends/)
 - [WordPress Project Summer Update: Q&amp;A](https://wordpress.tv/2024/07/03/wordpress-project-summer-update-qa/)
-- [WordPress Project Summer Update](https://wordpress.tv/2024/07/03/wordpress-project-summer-update/)
 <!-- WPTV:END -->
 
 ## Marketing
