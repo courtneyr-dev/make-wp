@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo orientar la estrategia UX/UI a tus objetivos de negocio](https://wordpress.tv/2024/07/10/como-orientar-la-estrategia-ux-ui-a-tus-objetivos-de-negocio/)
+- [Apertura y cierre de WP en la nube](https://wordpress.tv/2024/07/10/apertura-y-cierre-de-wp-en-la-nube/)
 - [Seguridad para desarrolladores en WordPress](https://wordpress.tv/2024/07/10/seguridad-para-desarrolladores-en-wordpress/)
 - [Taller: Tu Primer Plugin para WordPress](https://wordpress.tv/2024/07/10/taller-tu-primer-plugin-para-wordpress/)
 - [¿Gestionado o autoadminstrado?](https://wordpress.tv/2024/07/10/gestionado-o-autoadminstrado/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to leverage Analytics data to find out where you lose potential customers](https://wordpress.tv/2024/07/03/how-to-leverage-analytics-data-to-find-out-where-you-lose-potential-customers/)
 - [How to easy start a WordPress Meetup Group, focusing in Networking](https://wordpress.tv/2024/07/03/how-to-easy-start-a-wordpress-meetup-group-focusing-in-networking/)
 - [Think like a hacker: Attack your WordPress](https://wordpress.tv/2024/07/03/think-like-a-hacker-attack-your-wordpress-2/)
-- [Building custom post types with blocks](https://wordpress.tv/2024/07/03/building-custom-post-types-with-blocks/)
-- [Practical Techniques for Sustainable Web Development with WordPress](https://wordpress.tv/2024/07/03/practical-techniques-for-sustainable-web-development-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
