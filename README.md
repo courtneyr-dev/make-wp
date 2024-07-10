@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition)
 - [What’s new in WordPress 6.6?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-6)
 - [Developer Hours: Do you really need a custom block? Let’s explore alternatives](https://learn.wordpress.org/?meeting=developer-hours-do-you-really-need-a-custom-block-lets-explore-alternatives)
 - [Exploring WordPress 6.6](https://learn.wordpress.org/?meeting=exploring-wordpress-6-6)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to facilitate Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-online-workshop-for-the-wordpress-training-team-2)
 - [How to facilitate Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-online-workshop-for-the-wordpress-training-team)
 - [Testing Studio by WordPress.com](https://learn.wordpress.org/?meeting=testing-studio-by-wordpress-com)
-- [Developer Hours: Alternatives to Custom Meta Boxes in the Block Editor](https://learn.wordpress.org/?meeting=developer-hours-alternatives-to-custom-meta-boxes-in-the-block-editor)
 <!-- SLS:END -->
 
 ## Test
