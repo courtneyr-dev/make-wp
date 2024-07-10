@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Seguridad para desarrolladores en WordPress](https://wordpress.tv/2024/07/10/seguridad-para-desarrolladores-en-wordpress/)
+- [Taller: Tu Primer Plugin para WordPress](https://wordpress.tv/2024/07/10/taller-tu-primer-plugin-para-wordpress/)
+- [¿Gestionado o autoadminstrado?](https://wordpress.tv/2024/07/10/gestionado-o-autoadminstrado/)
+- [Introducción a la Interactivity API](https://wordpress.tv/2024/07/10/introduccion-a-la-interactivity-api/)
+- [El equipo de revisión de plugins](https://wordpress.tv/2024/07/10/el-equipo-de-revision-de-plugins/)
+- [Consejos sobre mantenimiento web](https://wordpress.tv/2024/07/10/consejos-sobre-mantenimiento-web/)
+- [Los foros de WordPress en español](https://wordpress.tv/2024/07/10/los-foros-de-wordpress-en-espanol/)
+- [Factores para trabajar el SEO local](https://wordpress.tv/2024/07/10/factores-para-trabajar-el-seo-local/)
+- [El directorio de fotos de WordPress](https://wordpress.tv/2024/07/10/el-directorio-de-fotos-de-wordpress/)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-1](https://wordpress.tv/2024/07/09/lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-1/)
 - [Developer Hours: Editor unification and extensibility in WordPress 6.6](https://wordpress.tv/2024/07/09/developer-hours-editor-unification-and-extensibility-in-wordpress-6-6/)
 - [Using caching to improve website performance – W3 Total Cache plugin](https://wordpress.tv/2024/07/08/using-caching-to-improve-website-performance-w3-total-cache-plugin/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Think like a hacker: Attack your WordPress](https://wordpress.tv/2024/07/03/think-like-a-hacker-attack-your-wordpress-2/)
 - [Building custom post types with blocks](https://wordpress.tv/2024/07/03/building-custom-post-types-with-blocks/)
 - [Practical Techniques for Sustainable Web Development with WordPress](https://wordpress.tv/2024/07/03/practical-techniques-for-sustainable-web-development-with-wordpress/)
-- [The Power of WordPress Testing and Automation: Test Types and When to Use Them](https://wordpress.tv/2024/07/03/the-power-of-wordpress-testing-and-automation-test-types-and-when-to-use-them/)
-- [Panel: Democratising Opportunities](https://wordpress.tv/2024/07/03/panel-democratising-opportunities/)
-- [The power is nothing without controls – let Linux tools and WP-CLI do the work for you](https://wordpress.tv/2024/07/03/the-power-is-nothing-without-controls-let-linux-tools-and-wp-cli-do-the-work-for-you-2/)
-- [Nobody loves the native search](https://wordpress.tv/2024/07/03/nobody-loves-the-native-search/)
-- [Block Hooks: A New API to Extend Block Themes](https://wordpress.tv/2024/07/03/block-hooks-a-new-api-to-extend-block-themes/)
-- [Replacing Regular Expressions with WordPress’ new tag manipulation APIs](https://wordpress.tv/2024/07/03/replacing-regular-expressions-with-wordpress-new-tag-manipulation-apis/)
-- [Legacy to Block: an indepth look at migrating a legacy website to Gutenberg](https://wordpress.tv/2024/07/03/legacy-to-block-an-indepth-look-at-migrating-a-legacy-website-to-gutenberg/)
-- [WordPress.org plugin repository, a year in review](https://wordpress.tv/2024/07/03/wordpress-org-plugin-repository-a-year-in-review/)
-- [SEO and Development. How to Avoid Friction](https://wordpress.tv/2024/07/03/seo-and-development-how-to-avoid-friction/)
 <!-- WPTV:END -->
 
 ## Marketing
