@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Growth Marketer – Remote](https://jobs.wordpress.net/job/growth-marketer-remote/)
+- [Media Buyer &amp; Digital Advertising Strategist](https://jobs.wordpress.net/job/media-buyer-digital-advertising-strategist/)
+- [Create Artist Membership/Tutorial Site](https://jobs.wordpress.net/job/create-artist-membership-tutorial-site/)
 - [Migrate an old WordPress website to the modern version of WordPress](https://jobs.wordpress.net/job/migrate-an-old-wordpress-website-to-the-modern-version-of-wordpress/)
 - [fix an old Uno theme site that i’ve forgotten how to work on](https://jobs.wordpress.net/job/fix-an-old-uno-theme-site-that-ive-forgotten-how-to-work-on/)
 - [Need a WP developer to bring back a possibly quarantined site](https://jobs.wordpress.net/job/need-a-wp-developer-to-bring-back-a-possibly-quarantined-site/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Job Manager Pro Customization Expert](https://jobs.wordpress.net/job/wp-job-manager-pro-customization-expert/)
 - [Bilingual WordPress Website Developer](https://jobs.wordpress.net/job/bilingual-wordpress-website-developer-2/)
 - [Bilingual WordPress Website Developer](https://jobs.wordpress.net/job/bilingual-wordpress-website-developer/)
-- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-11/)
-- [WordPress Developer – acfpro / php](https://jobs.wordpress.net/job/wordpress-developer-acfpro-php/)
-- [Part Time WordPress Developer](https://jobs.wordpress.net/job/part-time-wordpress-developer-16/)
 <!-- JOBS:END -->
 
 ## Central
