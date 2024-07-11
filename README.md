@@ -28,7 +28,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Design
 <!-- DESIGN:START -->
 - [X-post: What would you like to see in the next default WordPress theme?](https://make.wordpress.org/design/2024/07/08/xpost-what-would-you-like-to-see-in-the-next-default-wordpress-theme/)
-- [Design Share 59 &lpar;Jun 17-Jun 28&rpar;](https://make.wordpress.org/design/2024/06/28/design-share-59-jun-17-jun-28/)
+- [Design Share #59 &lpar;Jun 17-Jun 28&rpar;](https://make.wordpress.org/design/2024/06/28/design-share-59-jun-17-jun-28/)
 - [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/design/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [Design Share #58 &lpar;Jun 3-Jun 14&rpar;](https://make.wordpress.org/design/2024/06/17/design-share-58-jun-3-jun-14/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/design/2024/06/05/xpost-training-team-update-june-2024/)
