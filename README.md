@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I was able to connect to Slack.](https://make.wordpress.org/polyglots/2024/07/11/i-was-able-to-connect-to-slack/)
 - [Hello](https://make.wordpress.org/polyglots/2024/07/11/hello-90/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/07/10/pte-request-for-below-listed-themes-2/)
 - [Agenda: Weekly Polyglots Chat – July 10, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/10/agenda-weekly-polyglots-chat-july-10-2024-700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Staatic](https://make.wordpress.org/polyglots/2024/07/08/pte-request-for-staatic/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/08/hi-dear-mentors-we-have-137/)
 - [Hello! I translated the Loco plugin into Hebrew.](https://make.wordpress.org/polyglots/2024/07/07/hello-i-translated-the-loco-plugin-into-hebrew/)
-- [PTE request for Site Offline plugin](https://make.wordpress.org/polyglots/2024/07/07/pte-request-for-site-offline-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
