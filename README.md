@@ -354,7 +354,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WPTV:START -->
 - [Cómo gestionar un ecommerce y no morir en el intento](https://wordpress.tv/2024/07/10/como-gestionar-un-ecommerce-y-no-morir-en-el-intento/)
 - [Cómo orientar la estrategia UX/UI a tus objetivos de negocio](https://wordpress.tv/2024/07/10/como-orientar-la-estrategia-ux-ui-a-tus-objetivos-de-negocio/)
-- [Apertura y cierre de WP en la nube](https://wordpress.tv/2024/07/10/apertura-y-cierre-de-wp-en-la-nube/)
 - [Seguridad para desarrolladores en WordPress](https://wordpress.tv/2024/07/10/seguridad-para-desarrolladores-en-wordpress/)
 - [Taller: Tu Primer Plugin para WordPress](https://wordpress.tv/2024/07/10/taller-tu-primer-plugin-para-wordpress/)
 - [¿Gestionado o autoadminstrado?](https://wordpress.tv/2024/07/10/gestionado-o-autoadminstrado/)
@@ -377,6 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Practical Guide to Web Design: Applying Visual Communication Rules in the Era of user-friendly build](https://wordpress.tv/2024/07/03/practical-guide-to-web-design-applying-visual-communication-rules-in-the-era-of-user-friendly-build/)
 - [How to leverage Analytics data to find out where you lose potential customers](https://wordpress.tv/2024/07/03/how-to-leverage-analytics-data-to-find-out-where-you-lose-potential-customers/)
 - [How to easy start a WordPress Meetup Group, focusing in Networking](https://wordpress.tv/2024/07/03/how-to-easy-start-a-wordpress-meetup-group-focusing-in-networking/)
+- [Think like a hacker: Attack your WordPress](https://wordpress.tv/2024/07/03/think-like-a-hacker-attack-your-wordpress-2/)
 <!-- WPTV:END -->
 
 ## Marketing
