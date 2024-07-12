@@ -507,10 +507,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WordPress 6.6 RC3](https://wordpress.org/news/2024/07/wordpress-6-6-rc3/)
+- [WordPress 6.6 Release Candidate 3](https://wordpress.org/news/2024/07/wordpress-6-6-release-candidate-3/)
 - [WP Briefing: Episode 83: Learning Pathways](https://wordpress.org/news/2024/07/episode-83-learning-pathways/)
-- [WordPress 6.6 RC2](https://wordpress.org/news/2024/07/wordpress-6-6-rc2/)
-- [WordPress 6.6 RC1](https://wordpress.org/news/2024/06/wordpress-6-6-rc1/)
+- [WordPress 6.6 Release Candidate 2](https://wordpress.org/news/2024/07/wordpress-6-6-release-candidate-2/)
+- [WordPress 6.6 Release Candidate 1](https://wordpress.org/news/2024/06/wordpress-6-6-release-candidate-1/)
 - [WordPress 6.5.5](https://wordpress.org/news/2024/06/wordpress-6-5-5/)
 - [WP Briefing: Episode 82: WCEU Hallway Track](https://wordpress.org/news/2024/06/episode-82-wceu-hallway-track/)
 - [WordPress 6.6 Beta 3](https://wordpress.org/news/2024/06/wordpress-6-6-beta-3/)
