@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, July 10, 2024](https://make.wordpress.org/core/2024/07/12/summary-dev-chat-july-10-2024/)
+- [WordPress 6.6 Release Day Process](https://make.wordpress.org/core/2024/07/12/wordpress-6-6-release-day-process/)
 - [Recap Hallway Hangout: Section styles and other block style variation updates](https://make.wordpress.org/core/2024/07/12/summary-hallway-hangout-section-styles/)
 - [Agenda, Dev Chat, Wednesday July 10, 2024](https://make.wordpress.org/core/2024/07/10/agenda-dev-chat-wednesday-july-3-2024-2/)
 - [Hallway Hangout: Let’s chat about what’s next in Gutenberg &lpar;August 2024&rpar;](https://make.wordpress.org/core/2024/07/09/hallway-hangout-lets-chat-about-whats-next-in-gutenberg-2/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editing custom fields from connected blocks](https://make.wordpress.org/core/2024/06/28/editing-custom-fields-from-connected-blocks/)
 - [Updates to the Interactivity API in 6.6](https://make.wordpress.org/core/2024/06/28/updates-to-the-interactivity-api-in-6-6/)
 - [Summary, Dev Chat, June 26, 2024](https://make.wordpress.org/core/2024/06/27/summary-dev-chat-june-26-2024/)
-- [Performance Chat Summary: 25 June 2024](https://make.wordpress.org/core/2024/06/26/performance-chat-summary-25-june-2024/)
-- [WordPress 6.6 Release Candidate Phase](https://make.wordpress.org/core/2024/06/26/wordpress-6-6-release-candidate-phase/)
 <!-- CORE:END -->
 
 ## Design
