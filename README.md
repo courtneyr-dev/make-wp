@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Looking for WordPress Developer for Astra &amp; LearnDash](https://jobs.wordpress.net/job/looking-for-wordpress-developer-for-astra-learndash/)
 - [Growth Marketer – Remote](https://jobs.wordpress.net/job/growth-marketer-remote/)
 - [Media Buyer &amp; Digital Advertising Strategist](https://jobs.wordpress.net/job/media-buyer-digital-advertising-strategist/)
 - [Create Artist Membership/Tutorial Site](https://jobs.wordpress.net/job/create-artist-membership-tutorial-site/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customize Astra Child to my design](https://jobs.wordpress.net/job/customize-astra-child-to-my-design/)
 - [WP Job Manager Pro Customization Expert](https://jobs.wordpress.net/job/wp-job-manager-pro-customization-expert/)
 - [Bilingual WordPress Website Developer](https://jobs.wordpress.net/job/bilingual-wordpress-website-developer-2/)
-- [Bilingual WordPress Website Developer](https://jobs.wordpress.net/job/bilingual-wordpress-website-developer/)
 <!-- JOBS:END -->
 
 ## Central
