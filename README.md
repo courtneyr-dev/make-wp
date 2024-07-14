@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [কিভাবে লো-কোড ব্লক প্যাটার্ন তৈরি করবেন](https://learn.wordpress.org/tutorial/bn-how-to-create-low-code-block-patterns/)
 - [ওয়ার্ডপ্রেস ৬.৫ এক্সপ্লোর করুন](https://learn.wordpress.org/tutorial/bn-exploring-wordpress-6-5/)
 - [একটি ওয়ার্ডপ্রেস মাল্টিসাইট নেটওয়ার্ক পরিচালনা করা](https://learn.wordpress.org/tutorial/bn-managing-a-wordpress-multisite-network/)
 - [হরিজনটাল পিরামিড গ্যালারি](https://learn.wordpress.org/tutorial/bn-horizontal-pyramid-gallery/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [इन्सर्टर से सीधे अपनी सामग्री में मीडिया और ओपनवर्स छवियां जोड़ें](https://learn.wordpress.org/tutorial/hi-add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 - [वेबसाइट सुरक्षा में सुधार के लिए 7 युक्तियाँ](https://learn.wordpress.org/tutorial/hi-7-tips-to-improve-website-security/)
 - [संपादक में कस्टम सीएसएस](https://learn.wordpress.org/tutorial/hi-custom-css-in-the-editor/)
-- [रंग प्रभाव बदलने के लिए डुओटोन फिल्टर लगाना](https://learn.wordpress.org/tutorial/hi-applying-duotone-filters-to-change-color-effects/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
