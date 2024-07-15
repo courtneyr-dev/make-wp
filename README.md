@@ -352,6 +352,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Closing Remarks](https://wordpress.tv/2024/07/15/closing-remarks-4/)
+- [Opening Remarks](https://wordpress.tv/2024/07/15/opening-remarks/)
+- [Project management as competitive edge](https://wordpress.tv/2024/07/15/project-management-as-competitive-edge/)
+- [Please leave a gap. The importance of White Space in Web design.](https://wordpress.tv/2024/07/15/please-leave-a-gap-the-importance-of-white-space-in-web-design/)
+- [WordPress as an empowerment tool for young activists](https://wordpress.tv/2024/07/15/wordpress-as-an-empowerment-tool-for-young-activists/)
+- [Navigating AI-Generated Images in Business: A 10-Minute Insight](https://wordpress.tv/2024/07/15/navigating-ai-generated-images-in-business-a-10-minute-insight/)
+- [Workshop: Intro to the HTML API: Reliable, safe, and convenient](https://wordpress.tv/2024/07/15/workshop-intro-to-the-html-api-reliable-safe-and-convenient/)
+- [Workshop: Efficiency Unleashed: A Guide to Automating WooCommerce through CLI](https://wordpress.tv/2024/07/15/workshop-efficiency-unleashed-a-guide-to-automating-woocommerce-through-cli/)
+- [Workshop: Accessibility Testing Workshop](https://wordpress.tv/2024/07/15/workshop-accessibility-testing-workshop/)
+- [Gutenberg Speed Build Challenge: A Web Design Duel!](https://wordpress.tv/2024/07/15/gutenberg-speed-build-challenge-a-web-design-duel/)
+- [We spoke with over 50 different WordPress product owners. Here’s what we learned.](https://wordpress.tv/2024/07/15/we-spoke-with-over-50-different-wordpress-product-owners-heres-what-we-learned/)
+- [Outsmart, Outrank: SEO Gap Analysis Unveiled](https://wordpress.tv/2024/07/15/outsmart-outrank-seo-gap-analysis-unveiled/)
+- [Boosting Conversions: 10 Tried &amp; Tested Tactics to Turn Visitors into Customers.](https://wordpress.tv/2024/07/15/boosting-conversions-10-tried-tested-tactics-to-turn-visitors-into-customers/)
+- [How to relaunch a website without ruining SEO](https://wordpress.tv/2024/07/15/how-to-relaunch-a-website-without-ruining-seo/)
+- [SEO WooCommerce: let’s get that traffic, a B2B use case](https://wordpress.tv/2024/07/15/seo-woocommerce-lets-get-that-traffic-a-b2b-use-case/)
 - [Adding custom user roles using a WordPress plugin](https://wordpress.tv/2024/07/14/adding-custom-user-roles-using-a-wordpress-plugin/)
 - [Cómo gestionar un ecommerce y no morir en el intento](https://wordpress.tv/2024/07/10/como-gestionar-un-ecommerce-y-no-morir-en-el-intento/)
 - [Cómo orientar la estrategia UX/UI a tus objetivos de negocio](https://wordpress.tv/2024/07/10/como-orientar-la-estrategia-ux-ui-a-tus-objetivos-de-negocio/)
@@ -362,21 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [El equipo de revisión de plugins](https://wordpress.tv/2024/07/10/el-equipo-de-revision-de-plugins/)
 - [Consejos sobre mantenimiento web](https://wordpress.tv/2024/07/10/consejos-sobre-mantenimiento-web/)
 - [Los foros de WordPress en español](https://wordpress.tv/2024/07/10/los-foros-de-wordpress-en-espanol/)
-- [Factores para trabajar el SEO local](https://wordpress.tv/2024/07/10/factores-para-trabajar-el-seo-local/)
-- [El directorio de fotos de WordPress](https://wordpress.tv/2024/07/10/el-directorio-de-fotos-de-wordpress/)
-- [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-1](https://wordpress.tv/2024/07/09/lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-1/)
-- [Developer Hours: Editor unification and extensibility in WordPress 6.6](https://wordpress.tv/2024/07/09/developer-hours-editor-unification-and-extensibility-in-wordpress-6-6/)
-- [Using caching to improve website performance – W3 Total Cache plugin](https://wordpress.tv/2024/07/08/using-caching-to-improve-website-performance-w3-total-cache-plugin/)
-- [Template parts](https://wordpress.tv/2024/07/08/template-parts/)
-- [Template hierarchy](https://wordpress.tv/2024/07/08/template-hierarchy/)
-- [Templates overview](https://wordpress.tv/2024/07/08/templates-overview/)
-- [Cambios en la organización de eventos de WordPress](https://wordpress.tv/2024/07/05/cambios-en-la-organizacion-de-eventos-de-wordpress/)
-- [Creating custom post types and taxonomies](https://wordpress.tv/2024/07/03/creating-custom-post-types-and-taxonomies/)
-- [WordPress taxonomies](https://wordpress.tv/2024/07/03/wordpress-taxonomies/)
-- [WordCamp Connect: First Time WCEU Attendees](https://wordpress.tv/2024/07/03/wordcamp-connect-first-time-wceu-attendees/)
-- [Practical Guide to Web Design: Applying Visual Communication Rules in the Era of user-friendly build](https://wordpress.tv/2024/07/03/practical-guide-to-web-design-applying-visual-communication-rules-in-the-era-of-user-friendly-build/)
-- [How to leverage Analytics data to find out where you lose potential customers](https://wordpress.tv/2024/07/03/how-to-leverage-analytics-data-to-find-out-where-you-lose-potential-customers/)
-- [How to easy start a WordPress Meetup Group, focusing in Networking](https://wordpress.tv/2024/07/03/how-to-easy-start-a-wordpress-meetup-group-focusing-in-networking/)
 <!-- WPTV:END -->
 
 ## Marketing
