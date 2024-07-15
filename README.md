@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello, a team of polyglots,](https://make.wordpress.org/polyglots/2024/07/15/hello-a-team-of-polyglots/)
 - [I’ve suggested translations for below…](https://make.wordpress.org/polyglots/2024/07/15/ive-suggested-translations-for-below/)
 - [CLPTE and PTE requests in two projects](https://make.wordpress.org/polyglots/2024/07/15/clpte-and-pte-requests-in-two-projects/)
 - [Hello, es_CL translations review request](https://make.wordpress.org/polyglots/2024/07/13/hello-es_cl-translations-review-request/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Easy Backend…](https://make.wordpress.org/polyglots/2024/07/11/pte-request-for-easy-backend/)
 - [I was able to connect to Slack.](https://make.wordpress.org/polyglots/2024/07/11/i-was-able-to-connect-to-slack/)
 - [Hello](https://make.wordpress.org/polyglots/2024/07/11/hello-90/)
-- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/07/10/pte-request-for-below-listed-themes-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
