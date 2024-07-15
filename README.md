@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for below…](https://make.wordpress.org/polyglots/2024/07/15/ive-suggested-translations-for-below/)
+- [CLPTE and PTE requests in two projects](https://make.wordpress.org/polyglots/2024/07/15/clpte-and-pte-requests-in-two-projects/)
 - [Hello, es_CL translations review request](https://make.wordpress.org/polyglots/2024/07/13/hello-es_cl-translations-review-request/)
 - [PTE Request for QuickBiz Theme](https://make.wordpress.org/polyglots/2024/07/12/pte-request-for-quickbiz-theme/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/11/pte-request-for-bellow-listed-themes/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I was able to connect to Slack.](https://make.wordpress.org/polyglots/2024/07/11/i-was-able-to-connect-to-slack/)
 - [Hello](https://make.wordpress.org/polyglots/2024/07/11/hello-90/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/07/10/pte-request-for-below-listed-themes-2/)
-- [Agenda: Weekly Polyglots Chat – July 10, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/10/agenda-weekly-polyglots-chat-july-10-2024-700-utc/)
-- [PTE Request for [ Element…](https://make.wordpress.org/polyglots/2024/07/09/pte-request-for-element/)
 <!-- POLYGLOTS:END -->
 
 ## Support
