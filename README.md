@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [activate_tinymce_for_media_description](https://developer.wordpress.org/reference/hooks/activate_tinymce_for_media_description/)
+- [site_status_autoloaded_options_action_to_perform](https://developer.wordpress.org/reference/hooks/site_status_autoloaded_options_action_to_perform/)
+- [WP_Site_Health::get_autoloaded_options_size&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_site_health/get_autoloaded_options_size/)
+- [site_status_autoloaded_options_limit_description](https://developer.wordpress.org/reference/hooks/site_status_autoloaded_options_limit_description/)
+- [WP_Site_Health::get_test_autoloaded_options&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_site_health/get_test_autoloaded_options/)
+- [site_status_autoloaded_options_size_limit](https://developer.wordpress.org/reference/hooks/site_status_autoloaded_options_size_limit/)
+- [WP_Automatic_Updater::has_fatal_error&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_automatic_updater/has_fatal_error/)
 - [ProgressBar](https://developer.wordpress.org/block-editor/reference-guides/components/progress-bar/)
 - [Explanation: manage_{$screen-&gt;id}_columns](https://developer.wordpress.org/?post_type=wporg_explanations&p=153829)
-- [About the Interactivity API](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-about/)
 - [Frequently Asked Questions](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-faq/)
-- [Patterns and Block Locking](https://developer.wordpress.org/themes/patterns/patterns-and-block-locking/)
-- [Block Type Patterns](https://developer.wordpress.org/themes/patterns/block-type-patterns/)
-- [Starter Patterns](https://developer.wordpress.org/themes/patterns/starter-patterns/)
-- [Usage in Templates](https://developer.wordpress.org/themes/patterns/usage-in-templates/)
-- [Using PHP in Patterns](https://developer.wordpress.org/themes/patterns/using-php-in-patterns/)
-- [Registering Patterns](https://developer.wordpress.org/themes/patterns/registering-patterns/)
 <!-- DEVHUB:END -->
 
 ## Themes
