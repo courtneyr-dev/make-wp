@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Lead Web Designer](https://jobs.wordpress.net/job/lead-web-designer-2/)
+- [Web Designer](https://jobs.wordpress.net/job/web-designer-75/)
+- [Communication Specialist &lpar;Remote&rpar;](https://jobs.wordpress.net/job/communication-specialist-remote/)
 - [QA Software Tester &lpar;WordPress Plugins&rpar;](https://jobs.wordpress.net/job/qa-software-tester-wordpress-plugins/)
 - [Looking for WordPress Developer for Astra &amp; LearnDash](https://jobs.wordpress.net/job/looking-for-wordpress-developer-for-astra-learndash/)
 - [Growth Marketer – Remote](https://jobs.wordpress.net/job/growth-marketer-remote/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Migrate an old WordPress website to the modern version of WordPress](https://jobs.wordpress.net/job/migrate-an-old-wordpress-website-to-the-modern-version-of-wordpress/)
 - [fix an old Uno theme site that i’ve forgotten how to work on](https://jobs.wordpress.net/job/fix-an-old-uno-theme-site-that-ive-forgotten-how-to-work-on/)
 - [Need a WP developer to bring back a possibly quarantined site](https://jobs.wordpress.net/job/need-a-wp-developer-to-bring-back-a-possibly-quarantined-site/)
-- [Customize Astra Child to my design](https://jobs.wordpress.net/job/customize-astra-child-to-my-design/)
-- [WP Job Manager Pro Customization Expert](https://jobs.wordpress.net/job/wp-job-manager-pro-customization-expert/)
-- [Bilingual WordPress Website Developer](https://jobs.wordpress.net/job/bilingual-wordpress-website-developer-2/)
 <!-- JOBS:END -->
 
 ## Central
