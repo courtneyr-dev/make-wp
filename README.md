@@ -565,9 +565,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Granada, Spain](https://central.wordcamp.org/wordcamps/wordcamp-granada-spain-2/)
 - [Rome Core Days 2024](https://central.wordcamp.org/wordcamps/rome-core-days-2024/)
 - [WordCamp Bretagne](https://central.wordcamp.org/wordcamps/wordcamp-bretagne/)
+- [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-6/)
 - [Online Payments and Delivery Summit](https://central.wordcamp.org/wordcamps/online-payments-delivery-summit/)
 - [WordCamp Karlsruhe, Germany](https://central.wordcamp.org/wordcamps/wordcamp-karlsruhe-germany/)
-- [WordCamp Cape Town, Western Cape, South Africa](https://central.wordcamp.org/wordcamps/wordcamp-cape-town-western-cape-south-africa/)
 - [WordCamp Nagpur, Maharashtra, India](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-3/)
 <!-- WordCamp:END -->
 
