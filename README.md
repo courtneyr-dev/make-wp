@@ -507,7 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WordPress 6.6 “Dorsey”](https://wordpress.org/news/2024/07/wordpress-dorsey/)
+- [WordPress 6.6 “Dorsey”](https://wordpress.org/news/2024/07/dorsey/)
 - [WordPress 6.6 Release Candidate 3](https://wordpress.org/news/2024/07/wordpress-6-6-release-candidate-3/)
 - [WP Briefing: Episode 83: Learning Pathways](https://wordpress.org/news/2024/07/episode-83-learning-pathways/)
 - [WordPress 6.6 Release Candidate 2](https://wordpress.org/news/2024/07/wordpress-6-6-release-candidate-2/)
