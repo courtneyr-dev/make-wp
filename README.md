@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [activate_tinymce_for_media_description](https://developer.wordpress.org/reference/hooks/activate_tinymce_for_media_description/)
-- [site_status_autoloaded_options_action_to_perform](https://developer.wordpress.org/reference/hooks/site_status_autoloaded_options_action_to_perform/)
-- [WP_Site_Health::get_autoloaded_options_size&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_site_health/get_autoloaded_options_size/)
-- [site_status_autoloaded_options_limit_description](https://developer.wordpress.org/reference/hooks/site_status_autoloaded_options_limit_description/)
-- [WP_Site_Health::get_test_autoloaded_options&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_site_health/get_test_autoloaded_options/)
-- [site_status_autoloaded_options_size_limit](https://developer.wordpress.org/reference/hooks/site_status_autoloaded_options_size_limit/)
-- [WP_Automatic_Updater::has_fatal_error&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_automatic_updater/has_fatal_error/)
-- [ProgressBar](https://developer.wordpress.org/block-editor/reference-guides/components/progress-bar/)
-- [Explanation: manage_{$screen-&gt;id}_columns](https://developer.wordpress.org/?post_type=wporg_explanations&p=153829)
-- [Frequently Asked Questions](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/iapi-faq/)
+- [WP_Theme_JSON_Schema::migrate_v2_to_v3&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_theme_json_schema/migrate_v2_to_v3/)
+- [is_utf8_charset&lpar;&rpar;](https://developer.wordpress.org/reference/functions/is_utf8_charset/)
+- [wp_render_elements_support&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_render_elements_support/)
+- [wp_get_l10n_php_file_data&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_l10n_php_file_data/)
+- [wp_autoload_values_to_autoload&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_autoload_values_to_autoload/)
+- [wp_autoload_values_to_autoload](https://developer.wordpress.org/reference/hooks/wp_autoload_values_to_autoload/)
+- [wp_max_autoloaded_option_size](https://developer.wordpress.org/reference/hooks/wp_max_autoloaded_option_size/)
+- [wp_filter_default_autoload_value_via_option_size&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_filter_default_autoload_value_via_option_size/)
+- [wp_default_autoload_value](https://developer.wordpress.org/reference/hooks/wp_default_autoload_value/)
+- [wp_determine_option_autoload_value&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_determine_option_autoload_value/)
 <!-- DEVHUB:END -->
 
 ## Themes
