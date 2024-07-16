@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Agenda for Docs Team Biweekly Meeting &lpar;July 16, 2024&rpar;](https://make.wordpress.org/docs/2024/07/16/agenda-for-docs-team-biweekly-meeting-july-16-2024/)
 - [Summary for Docs Team Meeting &lpar;02-Jul-2024&rpar;](https://make.wordpress.org/docs/2024/07/08/summary-for-docs-team-meeting-02-jul-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;July 2, 2024&rpar;](https://make.wordpress.org/docs/2024/07/01/agenda-for-docs-team-biweekly-meeting-july-2-2024/)
 - [Summary for Docs Team Discussion Meeting &lpar;18-Jun-2024&rpar;](https://make.wordpress.org/docs/2024/06/19/summary-for-docs-team-discussion-meeting-18-jun-2024/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/docs/2024/06/04/xpost-training-team-update-june-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;4-June-2024&rpar;](https://make.wordpress.org/docs/2024/06/04/agenda-for-docs-team-biweekly-meeting-4-june-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;21-May-2024&rpar;](https://make.wordpress.org/docs/2024/05/20/agenda-for-docs-team-biweekly-meeting-21-may-2024/)
-- [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/docs/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 <!-- DOCS:END -->
 
 ### Support Articles
