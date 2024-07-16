@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/meta/2024/07/16/xpost-localization-and-translation-of-helphub-meeting-notes/)
 - [Meeting Agenda for July 10, 2024](https://make.wordpress.org/meta/2024/07/10/meeting-agenda-for-july-10-2024/)
 - [X-post: Training team testing GatherPress](https://make.wordpress.org/meta/2024/06/27/xpost-training-team-testing-gatherpress/)
 - [Meeting Agenda for June 26, 2024](https://make.wordpress.org/meta/2024/06/26/meeting-agenda/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/meta/2024/06/05/xpost-training-team-update-june-2024/)
 - [X-post: Current challenges of WordPress Events. Shaping the future](https://make.wordpress.org/meta/2024/06/04/xpost-current-challenges-of-wordpress-events-shaping-the-future/)
 - [Meeting Agenda for May 29, 2024](https://make.wordpress.org/meta/2024/05/29/meeting-agenda-for-may-29-2024/)
-- [The Blueprint Gallery: Share your WordPress creations with Playground](https://make.wordpress.org/meta/2024/05/15/the-blueprint-gallery-share-your-wordpress-creations-with-playground/)
 <!-- META:END -->
 
 ## Training
