@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Unwanted Cleaner](https://make.wordpress.org/polyglots/2024/07/17/pte-request-for-unwanted-cleaner/)
 - [X-post: Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/polyglots/2024/07/16/xpost-localization-and-translation-of-helphub-meeting-notes/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/16/pte-request-for-bellow-listed-themes-2/)
 - [Hello, a team of polyglots,](https://make.wordpress.org/polyglots/2024/07/15/hello-a-team-of-polyglots/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for QuickBiz Theme](https://make.wordpress.org/polyglots/2024/07/12/pte-request-for-quickbiz-theme/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/11/pte-request-for-bellow-listed-themes/)
 - [PTE Request for [Autocomplete Order Status for WooCommerce]](https://make.wordpress.org/polyglots/2024/07/11/pte-request-for-autocomplete-order-status-for-woocommerce/)
-- [PTE Request for Easy Backend…](https://make.wordpress.org/polyglots/2024/07/11/pte-request-for-easy-backend/)
 <!-- POLYGLOTS:END -->
 
 ## Support
