@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Updating your theme](https://wordpress.tv/2024/07/17/updating-your-theme/)
+- [Submitting your theme to WordPress.org](https://wordpress.tv/2024/07/17/submitting-your-theme-to-wordpress-org/)
+- [Preparing your theme for submission](https://wordpress.tv/2024/07/17/preparing-your-theme-for-submission/)
+- [Required theme files](https://wordpress.tv/2024/07/17/required-theme-files/)
+- [The WordPress.org theme directory](https://wordpress.tv/2024/07/17/the-wordpress-org-theme-directory/)
 - [Including assets](https://wordpress.tv/2024/07/17/including-assets/)
 - [Custom functionality](https://wordpress.tv/2024/07/17/custom-functionality/)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-2](https://wordpress.tv/2024/07/16/lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-2/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [SEO WooCommerce: let’s get that traffic, a B2B use case](https://wordpress.tv/2024/07/15/seo-woocommerce-lets-get-that-traffic-a-b2b-use-case/)
 - [Adding custom user roles using a WordPress plugin](https://wordpress.tv/2024/07/14/adding-custom-user-roles-using-a-wordpress-plugin/)
 - [Cómo gestionar un ecommerce y no morir en el intento](https://wordpress.tv/2024/07/10/como-gestionar-un-ecommerce-y-no-morir-en-el-intento/)
-- [Cómo orientar la estrategia UX/UI a tus objetivos de negocio](https://wordpress.tv/2024/07/10/como-orientar-la-estrategia-ux-ui-a-tus-objetivos-de-negocio/)
-- [Seguridad para desarrolladores en WordPress](https://wordpress.tv/2024/07/10/seguridad-para-desarrolladores-en-wordpress/)
-- [Taller: Tu Primer Plugin para WordPress](https://wordpress.tv/2024/07/10/taller-tu-primer-plugin-para-wordpress/)
-- [¿Gestionado o autoadminstrado?](https://wordpress.tv/2024/07/10/gestionado-o-autoadminstrado/)
-- [Introducción a la Interactivity API](https://wordpress.tv/2024/07/10/introduccion-a-la-interactivity-api/)
 <!-- WPTV:END -->
 
 ## Marketing
