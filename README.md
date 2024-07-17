@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Including assets](https://wordpress.tv/2024/07/17/including-assets/)
+- [Custom functionality](https://wordpress.tv/2024/07/17/custom-functionality/)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-2](https://wordpress.tv/2024/07/16/lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-2/)
 - [Closing Remarks](https://wordpress.tv/2024/07/15/closing-remarks-4/)
 - [Opening Remarks](https://wordpress.tv/2024/07/15/opening-remarks/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Taller: Tu Primer Plugin para WordPress](https://wordpress.tv/2024/07/10/taller-tu-primer-plugin-para-wordpress/)
 - [¿Gestionado o autoadminstrado?](https://wordpress.tv/2024/07/10/gestionado-o-autoadminstrado/)
 - [Introducción a la Interactivity API](https://wordpress.tv/2024/07/10/introduccion-a-la-interactivity-api/)
-- [El equipo de revisión de plugins](https://wordpress.tv/2024/07/10/el-equipo-de-revision-de-plugins/)
-- [Consejos sobre mantenimiento web](https://wordpress.tv/2024/07/10/consejos-sobre-mantenimiento-web/)
 <!-- WPTV:END -->
 
 ## Marketing
