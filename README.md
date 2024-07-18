@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day July 23 &amp; 30, 2024](https://make.wordpress.org/docs/2024/07/18/online-monthly-docs-team-contributor-day-july-23-30-2024/)
 - [X-post: Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/docs/2024/07/16/xpost-localization-and-translation-of-helphub-meeting-notes/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;July 16, 2024&rpar;](https://make.wordpress.org/docs/2024/07/16/agenda-for-docs-team-biweekly-meeting-july-16-2024/)
 - [Summary for Docs Team Meeting &lpar;02-Jul-2024&rpar;](https://make.wordpress.org/docs/2024/07/08/summary-for-docs-team-meeting-02-jul-2024/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/docs/2024/06/10/localization-and-translation-of-helphub-during-wceu-2024/)
 - [X-post: Proposal: Learn WordPress Content Maintenance Process](https://make.wordpress.org/docs/2024/06/06/xpost-proposal-learn-wordpress-content-maintenance-process/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/docs/2024/06/04/xpost-training-team-update-june-2024/)
-- [Agenda for Docs Team Biweekly Meeting &lpar;4-June-2024&rpar;](https://make.wordpress.org/docs/2024/06/04/agenda-for-docs-team-biweekly-meeting-4-june-2024/)
 <!-- DOCS:END -->
 
 ### Support Articles
