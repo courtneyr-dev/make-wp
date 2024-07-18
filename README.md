@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Bellow Listed Plugins](https://make.wordpress.org/polyglots/2024/07/18/pte-request-for-bellow-listed-plugins/)
 - [#vi I have translated a…](https://make.wordpress.org/polyglots/2024/07/18/vi-i-have-translated-a/)
 - [Request for Locale Manager](https://make.wordpress.org/polyglots/2024/07/18/dear-4/)
 - [PTE Request for Wordfence Security…](https://make.wordpress.org/polyglots/2024/07/17/pte-request-for-wordfence-security-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/16/pte-request-for-bellow-listed-themes-2/)
 - [Hello, a team of polyglots,](https://make.wordpress.org/polyglots/2024/07/15/hello-a-team-of-polyglots/)
 - [I’ve suggested translations for below…](https://make.wordpress.org/polyglots/2024/07/15/ive-suggested-translations-for-below/)
-- [CLPTE and PTE requests in two projects](https://make.wordpress.org/polyglots/2024/07/15/clpte-and-pte-requests-in-two-projects/)
 <!-- POLYGLOTS:END -->
 
 ## Support
