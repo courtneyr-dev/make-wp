@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [#vi I have translated a…](https://make.wordpress.org/polyglots/2024/07/18/vi-i-have-translated-a/)
+- [Request for Locale Manager](https://make.wordpress.org/polyglots/2024/07/18/dear-4/)
 - [PTE Request for Wordfence Security…](https://make.wordpress.org/polyglots/2024/07/17/pte-request-for-wordfence-security-2/)
 - [Agenda: Weekly Polyglots Chat – July 17, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/17/agenda-weekly-polyglots-chat-july-17-2024-1300-utc/)
 - [PTE Request for Unwanted Cleaner](https://make.wordpress.org/polyglots/2024/07/17/pte-request-for-unwanted-cleaner/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, a team of polyglots,](https://make.wordpress.org/polyglots/2024/07/15/hello-a-team-of-polyglots/)
 - [I’ve suggested translations for below…](https://make.wordpress.org/polyglots/2024/07/15/ive-suggested-translations-for-below/)
 - [CLPTE and PTE requests in two projects](https://make.wordpress.org/polyglots/2024/07/15/clpte-and-pte-requests-in-two-projects/)
-- [Hello, es_CL translations review request](https://make.wordpress.org/polyglots/2024/07/13/hello-es_cl-translations-review-request/)
-- [PTE Request for QuickBiz Theme](https://make.wordpress.org/polyglots/2024/07/12/pte-request-for-quickbiz-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
