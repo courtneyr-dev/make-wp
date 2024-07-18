@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-17/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-14/)
+- [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-7/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-34/)
 - [Lead Web Designer](https://jobs.wordpress.net/job/lead-web-designer-2/)
 - [Web Designer](https://jobs.wordpress.net/job/web-designer-75/)
 - [Communication Specialist &lpar;Remote&rpar;](https://jobs.wordpress.net/job/communication-specialist-remote/)
 - [QA Software Tester &lpar;WordPress Plugins&rpar;](https://jobs.wordpress.net/job/qa-software-tester-wordpress-plugins/)
 - [Looking for WordPress Developer for Astra &amp; LearnDash](https://jobs.wordpress.net/job/looking-for-wordpress-developer-for-astra-learndash/)
 - [Growth Marketer – Remote](https://jobs.wordpress.net/job/growth-marketer-remote/)
-- [Media Buyer &amp; Digital Advertising Strategist](https://jobs.wordpress.net/job/media-buyer-digital-advertising-strategist/)
-- [Migrate an old WordPress website to the modern version of WordPress](https://jobs.wordpress.net/job/migrate-an-old-wordpress-website-to-the-modern-version-of-wordpress/)
-- [fix an old Uno theme site that i’ve forgotten how to work on](https://jobs.wordpress.net/job/fix-an-old-uno-theme-site-that-ive-forgotten-how-to-work-on/)
-- [Need a WP developer to bring back a possibly quarantined site](https://jobs.wordpress.net/job/need-a-wp-developer-to-bring-back-a-possibly-quarantined-site/)
 <!-- JOBS:END -->
 
 ## Central
