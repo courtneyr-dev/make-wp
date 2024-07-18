@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordPress Meetup Trends](https://make.wordpress.org/community/2024/07/18/wordpress-meetup-trends/)
 - [WCEU Contributor Day – summary of discussions at the Community tables](https://make.wordpress.org/community/2024/07/18/wceu-contributor-day-summary-of-discussions-at-the-community-tables/)
 - [Contributor Working Group Chat Agenda | July 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/07/16/contributor-working-group-chat-agenda-july-18th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [WordCamp &amp; WordPress Events Debrief Analysis](https://make.wordpress.org/community/2024/07/16/wordcamp-wordpress-events-debrief-analysis/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [First-Time Attendees: A Key Metric of Success for WordPress Events](https://make.wordpress.org/community/2024/07/04/first-time-attendees/)
 - [Community Team Meeting Agenda for 4 July 2024](https://make.wordpress.org/community/2024/07/03/community-team-meeting-agenda-for-4-july-2024/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on June 20th 2024](https://make.wordpress.org/community/2024/07/02/recap-of-the-contributor-working-groups-mentorship-chat-on-june-20th-2024/)
-- [Reactivating Inactive Meetup Groups](https://make.wordpress.org/community/2024/06/28/reactivating-inactive-meetup-groups/)
 <!-- COMMUNITY:END -->
 
 ## Meta
