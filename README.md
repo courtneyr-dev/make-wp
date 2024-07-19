@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/19/pte-request-for-bellow-listed-themes-3/)
 - [PTE Request for Easy Basic Authentication](https://make.wordpress.org/polyglots/2024/07/18/pte-request-for-easy-basic-authentication-2/)
 - [PTE Request for Bellow Listed Plugins](https://make.wordpress.org/polyglots/2024/07/18/pte-request-for-bellow-listed-plugins/)
 - [#vi I have translated a…](https://make.wordpress.org/polyglots/2024/07/18/vi-i-have-translated-a/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Unwanted Cleaner](https://make.wordpress.org/polyglots/2024/07/17/pte-request-for-unwanted-cleaner/)
 - [X-post: Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/polyglots/2024/07/16/xpost-localization-and-translation-of-helphub-meeting-notes/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/16/pte-request-for-bellow-listed-themes-2/)
-- [Hello, a team of polyglots,](https://make.wordpress.org/polyglots/2024/07/15/hello-a-team-of-polyglots/)
 <!-- POLYGLOTS:END -->
 
 ## Support
