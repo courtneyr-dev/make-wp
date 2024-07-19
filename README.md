@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for iknowledgebase I…](https://make.wordpress.org/polyglots/2024/07/19/pte-request-for-iknowledgebase-i/)
 - [PTE required for WordPress CMS and WordPress.org, Meta list](https://make.wordpress.org/polyglots/2024/07/19/pte-required-for-vietnamese/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/19/pte-request-for-bellow-listed-themes-3/)
 - [PTE Request for Easy Basic Authentication](https://make.wordpress.org/polyglots/2024/07/18/pte-request-for-easy-basic-authentication-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Wordfence Security…](https://make.wordpress.org/polyglots/2024/07/17/pte-request-for-wordfence-security-2/)
 - [Agenda: Weekly Polyglots Chat – July 17, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/17/agenda-weekly-polyglots-chat-july-17-2024-1300-utc/)
 - [PTE Request for Unwanted Cleaner](https://make.wordpress.org/polyglots/2024/07/17/pte-request-for-unwanted-cleaner/)
-- [X-post: Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/polyglots/2024/07/16/xpost-localization-and-translation-of-helphub-meeting-notes/)
 <!-- POLYGLOTS:END -->
 
 ## Support
