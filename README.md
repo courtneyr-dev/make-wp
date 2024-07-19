@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Estrategias para la gestión de proyectos web](https://wordpress.tv/2024/07/19/estrategias-para-la-gestion-de-proyectos-web/)
 - [Exploring WordPress 6.6](https://wordpress.tv/2024/07/18/exploring-wordpress-6-6/)
 - [Updating your theme](https://wordpress.tv/2024/07/17/updating-your-theme/)
 - [Submitting your theme to WordPress.org](https://wordpress.tv/2024/07/17/submitting-your-theme-to-wordpress-org/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Boosting Conversions: 10 Tried &amp; Tested Tactics to Turn Visitors into Customers.](https://wordpress.tv/2024/07/15/boosting-conversions-10-tried-tested-tactics-to-turn-visitors-into-customers/)
 - [How to relaunch a website without ruining SEO](https://wordpress.tv/2024/07/15/how-to-relaunch-a-website-without-ruining-seo/)
 - [SEO WooCommerce: let’s get that traffic, a B2B use case](https://wordpress.tv/2024/07/15/seo-woocommerce-lets-get-that-traffic-a-b2b-use-case/)
-- [Adding custom user roles using a WordPress plugin](https://wordpress.tv/2024/07/14/adding-custom-user-roles-using-a-wordpress-plugin/)
 <!-- WPTV:END -->
 
 ## Marketing
