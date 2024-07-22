@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Stripe Apple &amp; Google Pay Developer](https://jobs.wordpress.net/job/stripe-apple-google-pay-developer/)
+- [UI/UX Plugin Designer for WordPress plugins](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins/)
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-17/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-14/)
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-7/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Designer](https://jobs.wordpress.net/job/web-designer-75/)
 - [Communication Specialist &lpar;Remote&rpar;](https://jobs.wordpress.net/job/communication-specialist-remote/)
 - [QA Software Tester &lpar;WordPress Plugins&rpar;](https://jobs.wordpress.net/job/qa-software-tester-wordpress-plugins/)
-- [Looking for WordPress Developer for Astra &amp; LearnDash](https://jobs.wordpress.net/job/looking-for-wordpress-developer-for-astra-learndash/)
-- [Growth Marketer – Remote](https://jobs.wordpress.net/job/growth-marketer-remote/)
 <!-- JOBS:END -->
 
 ## Central
