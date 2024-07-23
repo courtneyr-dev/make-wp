@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Use WordPress to create a one-page site](https://wordpress.tv/2024/07/23/use-wordpress-to-create-a-one-page-site/)
 - [Estrategias para la gestión de proyectos web](https://wordpress.tv/2024/07/19/estrategias-para-la-gestion-de-proyectos-web/)
 - [Exploring WordPress 6.6](https://wordpress.tv/2024/07/18/exploring-wordpress-6-6/)
 - [Updating your theme](https://wordpress.tv/2024/07/17/updating-your-theme/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Outsmart, Outrank: SEO Gap Analysis Unveiled](https://wordpress.tv/2024/07/15/outsmart-outrank-seo-gap-analysis-unveiled/)
 - [Boosting Conversions: 10 Tried &amp; Tested Tactics to Turn Visitors into Customers.](https://wordpress.tv/2024/07/15/boosting-conversions-10-tried-tested-tactics-to-turn-visitors-into-customers/)
 - [How to relaunch a website without ruining SEO](https://wordpress.tv/2024/07/15/how-to-relaunch-a-website-without-ruining-seo/)
-- [SEO WooCommerce: let’s get that traffic, a B2B use case](https://wordpress.tv/2024/07/15/seo-woocommerce-lets-get-that-traffic-a-b2b-use-case/)
 <!-- WPTV:END -->
 
 ## Marketing
