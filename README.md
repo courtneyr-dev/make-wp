@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Proposal: Adjusting Dev Chat times for the 6.7 release](https://make.wordpress.org/core/2024/07/23/proposal-adjusting-dev-chat-times-for-the-6-7-release/)
 - [Aligning Committer-Level Access Across the Code Base](https://make.wordpress.org/core/2024/07/22/aligning-committer-level-access-across-the-code-base/)
 - [The Crowdstrike disaster is good…](https://make.wordpress.org/core/2024/07/19/the-crowdstrike-disaster-is-good/)
 - [WordPress 6.6.1 RC1 is now available](https://make.wordpress.org/core/2024/07/18/wordpress-6-6-1-rc1-is-now-available/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 9 July 2024](https://make.wordpress.org/core/2024/07/09/performance-chat-agenda-09-july-2024/)
 - [What would you like to see in the next default WordPress theme?](https://make.wordpress.org/core/2024/07/08/what-would-you-like-to-see-in-the-next-default-wordpress-theme/)
 - [Developer Blog editorial meeting summary 4 July 2024](https://make.wordpress.org/core/2024/07/05/developer-blog-editorial-meeting-summary-july-4-2024/)
-- [WordPress 6.7 Planning Proposal &amp; Call for Volunteers](https://make.wordpress.org/core/2024/07/05/wordpress-6-7-planning-proposal-call-for-volunteers/)
 <!-- CORE:END -->
 
 ## Design
