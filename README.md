@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.6.1 has been released….](https://make.wordpress.org/polyglots/2024/07/23/wordpress-6-6-1-has-been-released/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/19/hi-dear-mentors-we-have-140/)
 - [PTE Request for iknowledgebase I…](https://make.wordpress.org/polyglots/2024/07/19/pte-request-for-iknowledgebase-i/)
 - [PTE required for WordPress CMS and WordPress.org, Meta list](https://make.wordpress.org/polyglots/2024/07/19/pte-required-for-vietnamese/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [#vi I have translated a…](https://make.wordpress.org/polyglots/2024/07/18/vi-i-have-translated-a/)
 - [Request for Locale Manager](https://make.wordpress.org/polyglots/2024/07/18/dear-4/)
 - [PTE Request for Wordfence Security…](https://make.wordpress.org/polyglots/2024/07/17/pte-request-for-wordfence-security-2/)
-- [Agenda: Weekly Polyglots Chat – July 17, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/17/agenda-weekly-polyglots-chat-july-17-2024-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
