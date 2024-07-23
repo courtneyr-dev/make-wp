@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [El brilli brilli en tus redes no vende ¿o sí?](https://wordpress.tv/2024/07/23/el-brilli-brilli-en-tus-redes-no-vende-o-si/)
+- [Workshop: Crafting an App with the Site and Block Editor: A Comprehensive Case Study.](https://wordpress.tv/2024/07/23/workshop-crafting-an-app-with-the-site-and-block-editor-a-comprehensive-case-study/)
+- [Workshop: Keyword research 101: Uncover keywords that bring you digital success](https://wordpress.tv/2024/07/23/workshop-keyword-research-101-uncover-keywords-that-bring-you-digital-success/)
+- [Workshop: Ready to try the new WooCommerce product editor?](https://wordpress.tv/2024/07/23/workshop-ready-to-try-the-new-woocommerce-product-editor/)
 - [Use WordPress to create a one-page site](https://wordpress.tv/2024/07/23/use-wordpress-to-create-a-one-page-site/)
 - [Estrategias para la gestión de proyectos web](https://wordpress.tv/2024/07/19/estrategias-para-la-gestion-de-proyectos-web/)
 - [Exploring WordPress 6.6](https://wordpress.tv/2024/07/18/exploring-wordpress-6-6/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Workshop: Efficiency Unleashed: A Guide to Automating WooCommerce through CLI](https://wordpress.tv/2024/07/15/workshop-efficiency-unleashed-a-guide-to-automating-woocommerce-through-cli/)
 - [Workshop: Accessibility Testing Workshop](https://wordpress.tv/2024/07/15/workshop-accessibility-testing-workshop/)
 - [Gutenberg Speed Build Challenge: A Web Design Duel!](https://wordpress.tv/2024/07/15/gutenberg-speed-build-challenge-a-web-design-duel/)
-- [We spoke with over 50 different WordPress product owners. Here’s what we learned.](https://wordpress.tv/2024/07/15/we-spoke-with-over-50-different-wordpress-product-owners-heres-what-we-learned/)
-- [Outsmart, Outrank: SEO Gap Analysis Unveiled](https://wordpress.tv/2024/07/15/outsmart-outrank-seo-gap-analysis-unveiled/)
-- [Boosting Conversions: 10 Tried &amp; Tested Tactics to Turn Visitors into Customers.](https://wordpress.tv/2024/07/15/boosting-conversions-10-tried-tested-tactics-to-turn-visitors-into-customers/)
-- [How to relaunch a website without ruining SEO](https://wordpress.tv/2024/07/15/how-to-relaunch-a-website-without-ruining-seo/)
 <!-- WPTV:END -->
 
 ## Marketing
