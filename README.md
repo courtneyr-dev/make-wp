@@ -352,6 +352,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo convertir el tráfico web en dinero](https://wordpress.tv/2024/07/23/como-convertir-el-trafico-web-en-dinero/)
+- [Arquitectura de información en WordPress sin ser Marie Kondo](https://wordpress.tv/2024/07/23/arquitectura-de-informacion-en-wordpress-sin-ser-marie-kondo/)
+- [7 cosillas que me piden mis clientes y yo digo que nanay](https://wordpress.tv/2024/07/23/7-cosillas-que-me-piden-mis-clientes-y-yo-digo-que-nanay/)
+- [Cómo conectar WordPress con más de 2.000 aplicaciones &lpar;sin saber programar&rpar;](https://wordpress.tv/2024/07/23/como-conectar-wordpress-con-mas-de-2-000-aplicaciones-sin-saber-programar/)
+- [WordPress y SEO Local: dale un impulso a tu visibilidad](https://wordpress.tv/2024/07/23/wordpress-y-seo-local-dale-un-impulso-a-tu-visibilidad/)
+- [Cómo vender IA en proyectos WordPress](https://wordpress.tv/2024/07/23/como-vender-ia-en-proyectos-wordpress/)
+- [Automatizando ando](https://wordpress.tv/2024/07/23/automatizando-ando/)
+- [Esos detalles que diferencian un eCommerce profesional de uno amateur](https://wordpress.tv/2024/07/23/esos-detalles-que-diferencian-un-ecommerce-profesional-de-uno-amateur/)
+- [Creando un método propio para tu Marca Personal](https://wordpress.tv/2024/07/23/creando-un-metodo-propio-para-tu-marca-personal/)
+- [Pierde el miedo a Consent Mode V2](https://wordpress.tv/2024/07/23/pierde-el-miedo-a-consent-mode-v2/)
+- [Cómete a tu competencia en SEO gracias a la IA](https://wordpress.tv/2024/07/23/comete-a-tu-competencia-en-seo-gracias-a-la-ia/)
 - [El brilli brilli en tus redes no vende ¿o sí?](https://wordpress.tv/2024/07/23/el-brilli-brilli-en-tus-redes-no-vende-o-si/)
 - [Workshop: Crafting an App with the Site and Block Editor: A Comprehensive Case Study.](https://wordpress.tv/2024/07/23/workshop-crafting-an-app-with-the-site-and-block-editor-a-comprehensive-case-study/)
 - [Workshop: Keyword research 101: Uncover keywords that bring you digital success](https://wordpress.tv/2024/07/23/workshop-keyword-research-101-uncover-keywords-that-bring-you-digital-success/)
@@ -366,17 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The WordPress.org theme directory](https://wordpress.tv/2024/07/17/the-wordpress-org-theme-directory/)
 - [Including assets](https://wordpress.tv/2024/07/17/including-assets/)
 - [Custom functionality](https://wordpress.tv/2024/07/17/custom-functionality/)
-- [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-2](https://wordpress.tv/2024/07/16/lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-2/)
-- [Closing Remarks](https://wordpress.tv/2024/07/15/closing-remarks-4/)
-- [Opening Remarks](https://wordpress.tv/2024/07/15/opening-remarks/)
-- [Project management as competitive edge](https://wordpress.tv/2024/07/15/project-management-as-competitive-edge/)
-- [Please leave a gap. The importance of White Space in Web design.](https://wordpress.tv/2024/07/15/please-leave-a-gap-the-importance-of-white-space-in-web-design/)
-- [WordPress as an empowerment tool for young activists](https://wordpress.tv/2024/07/15/wordpress-as-an-empowerment-tool-for-young-activists/)
-- [Navigating AI-Generated Images in Business: A 10-Minute Insight](https://wordpress.tv/2024/07/15/navigating-ai-generated-images-in-business-a-10-minute-insight/)
-- [Workshop: Intro to the HTML API: Reliable, safe, and convenient](https://wordpress.tv/2024/07/15/workshop-intro-to-the-html-api-reliable-safe-and-convenient/)
-- [Workshop: Efficiency Unleashed: A Guide to Automating WooCommerce through CLI](https://wordpress.tv/2024/07/15/workshop-efficiency-unleashed-a-guide-to-automating-woocommerce-through-cli/)
-- [Workshop: Accessibility Testing Workshop](https://wordpress.tv/2024/07/15/workshop-accessibility-testing-workshop/)
-- [Gutenberg Speed Build Challenge: A Web Design Duel!](https://wordpress.tv/2024/07/15/gutenberg-speed-build-challenge-a-web-design-duel/)
 <!-- WPTV:END -->
 
 ## Marketing
