@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Do you really need a custom block? Let’s explore alternatives](https://wordpress.tv/2024/07/23/developer-hours-do-you-really-need-a-custom-block-lets-explore-alternatives/)
 - [Cómo convertir el tráfico web en dinero](https://wordpress.tv/2024/07/23/como-convertir-el-trafico-web-en-dinero/)
 - [Arquitectura de información en WordPress sin ser Marie Kondo](https://wordpress.tv/2024/07/23/arquitectura-de-informacion-en-wordpress-sin-ser-marie-kondo/)
 - [7 cosillas que me piden mis clientes y yo digo que nanay](https://wordpress.tv/2024/07/23/7-cosillas-que-me-piden-mis-clientes-y-yo-digo-que-nanay/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Required theme files](https://wordpress.tv/2024/07/17/required-theme-files/)
 - [The WordPress.org theme directory](https://wordpress.tv/2024/07/17/the-wordpress-org-theme-directory/)
 - [Including assets](https://wordpress.tv/2024/07/17/including-assets/)
-- [Custom functionality](https://wordpress.tv/2024/07/17/custom-functionality/)
 <!-- WPTV:END -->
 
 ## Marketing
