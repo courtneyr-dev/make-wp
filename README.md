@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Designer – contract to hire](https://jobs.wordpress.net/job/wordpress-designer-contract-to-hire/)
 - [Stripe Apple &amp; Google Pay Developer](https://jobs.wordpress.net/job/stripe-apple-google-pay-developer/)
 - [UI/UX Plugin Designer for WordPress plugins](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins/)
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-17/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lead Web Designer](https://jobs.wordpress.net/job/lead-web-designer-2/)
 - [Web Designer](https://jobs.wordpress.net/job/web-designer-75/)
 - [Communication Specialist &lpar;Remote&rpar;](https://jobs.wordpress.net/job/communication-specialist-remote/)
-- [QA Software Tester &lpar;WordPress Plugins&rpar;](https://jobs.wordpress.net/job/qa-software-tester-wordpress-plugins/)
 <!-- JOBS:END -->
 
 ## Central
