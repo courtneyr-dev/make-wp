@@ -352,6 +352,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress y el Marketing Inclusivo. Si, ¿y?](https://wordpress.tv/2024/07/23/wordpress-y-el-marketing-inclusivo-si-y/)
+- [El uso de WordPress para la docencia universitaria](https://wordpress.tv/2024/07/23/el-uso-de-wordpress-para-la-docencia-universitaria/)
+- [Migrar una web existente a WordPress: Desafíos y Soluciones](https://wordpress.tv/2024/07/23/migrar-una-web-existente-a-wordpress-desafios-y-soluciones/)
+- [En un contenido web perfecto manda la semántica y no el aspecto](https://wordpress.tv/2024/07/23/en-un-contenido-web-perfecto-manda-la-semantica-y-no-el-aspecto/)
+- [Conociendo a MidJourney: Generación de imágenes con IA](https://wordpress.tv/2024/07/23/conociendo-a-midjourney-generacion-de-imagenes-con-ia/)
+- [Pequeños detalles, grandes resultados: Optimiza tu web](https://wordpress.tv/2024/07/23/pequenos-detalles-grandes-resultados-optimiza-tu-web/)
+- [APIs y Automatización: Transformando tu WordPress en una Máquina de Negocios](https://wordpress.tv/2024/07/23/apis-y-automatizacion-transformando-tu-wordpress-en-una-maquina-de-negocios/)
+- [Póngame cuarto y mitá: Cómo vender productos a granel en WooCommerce](https://wordpress.tv/2024/07/23/pongame-cuarto-y-mita-como-vender-productos-a-granel-en-woocommerce/)
+- [Hechiza con tus textos](https://wordpress.tv/2024/07/23/hechiza-con-tus-textos/)
+- [Crea tu primer plugin útil](https://wordpress.tv/2024/07/23/crea-tu-primer-plugin-util/)
+- [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-3](https://wordpress.tv/2024/07/23/lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-3/)
 - [Developer Hours: Do you really need a custom block? Let’s explore alternatives](https://wordpress.tv/2024/07/23/developer-hours-do-you-really-need-a-custom-block-lets-explore-alternatives/)
 - [Cómo convertir el tráfico web en dinero](https://wordpress.tv/2024/07/23/como-convertir-el-trafico-web-en-dinero/)
 - [Arquitectura de información en WordPress sin ser Marie Kondo](https://wordpress.tv/2024/07/23/arquitectura-de-informacion-en-wordpress-sin-ser-marie-kondo/)
@@ -366,17 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómete a tu competencia en SEO gracias a la IA](https://wordpress.tv/2024/07/23/comete-a-tu-competencia-en-seo-gracias-a-la-ia/)
 - [El brilli brilli en tus redes no vende ¿o sí?](https://wordpress.tv/2024/07/23/el-brilli-brilli-en-tus-redes-no-vende-o-si/)
 - [Workshop: Crafting an App with the Site and Block Editor: A Comprehensive Case Study.](https://wordpress.tv/2024/07/23/workshop-crafting-an-app-with-the-site-and-block-editor-a-comprehensive-case-study/)
-- [Workshop: Keyword research 101: Uncover keywords that bring you digital success](https://wordpress.tv/2024/07/23/workshop-keyword-research-101-uncover-keywords-that-bring-you-digital-success/)
-- [Workshop: Ready to try the new WooCommerce product editor?](https://wordpress.tv/2024/07/23/workshop-ready-to-try-the-new-woocommerce-product-editor/)
-- [Use WordPress to create a one-page site](https://wordpress.tv/2024/07/23/use-wordpress-to-create-a-one-page-site/)
-- [Estrategias para la gestión de proyectos web](https://wordpress.tv/2024/07/19/estrategias-para-la-gestion-de-proyectos-web/)
-- [Exploring WordPress 6.6](https://wordpress.tv/2024/07/18/exploring-wordpress-6-6/)
-- [Updating your theme](https://wordpress.tv/2024/07/17/updating-your-theme/)
-- [Submitting your theme to WordPress.org](https://wordpress.tv/2024/07/17/submitting-your-theme-to-wordpress-org/)
-- [Preparing your theme for submission](https://wordpress.tv/2024/07/17/preparing-your-theme-for-submission/)
-- [Required theme files](https://wordpress.tv/2024/07/17/required-theme-files/)
-- [The WordPress.org theme directory](https://wordpress.tv/2024/07/17/the-wordpress-org-theme-directory/)
-- [Including assets](https://wordpress.tv/2024/07/17/including-assets/)
 <!-- WPTV:END -->
 
 ## Marketing
