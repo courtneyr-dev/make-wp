@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [WordCamp US Contributor Day](https://make.wordpress.org/meta/2024/07/24/wordcamp-us-contributor-day/)
 - [Agenda for July 24, 2024](https://make.wordpress.org/meta/2024/07/23/agenda-for-july-24-2024/)
 - [X-post: Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/meta/2024/07/16/xpost-localization-and-translation-of-helphub-meeting-notes/)
 - [Meeting Agenda for July 10, 2024](https://make.wordpress.org/meta/2024/07/10/meeting-agenda-for-july-10-2024/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Transitioning All Rosetta Sites to the New WP.org Theme](https://make.wordpress.org/meta/2024/06/13/xpost-transitioning-all-rosetta-sites-to-the-new-wp-org-theme/)
 - [X-post: Localization and translation of HelpHub during WCEU 2024](https://make.wordpress.org/meta/2024/06/10/xpost-localization-and-translation-of-helphub-during-wceu-2024/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/meta/2024/06/05/xpost-training-team-update-june-2024/)
-- [X-post: Current challenges of WordPress Events. Shaping the future](https://make.wordpress.org/meta/2024/06/04/xpost-current-challenges-of-wordpress-events-shaping-the-future/)
 <!-- META:END -->
 
 ## Training
