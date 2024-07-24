@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Post Porter Plugin](https://make.wordpress.org/polyglots/2024/07/24/pte-request-for-post-porter-plugin/)
 - [First PTE Request for IndexReloaded](https://make.wordpress.org/polyglots/2024/07/24/first-pte-request-for-indexreloaded/)
 - [Agenda: Weekly Polyglots Chat – July 24, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/24/agenda-weekly-polyglots-chat-july-24-2024-0700-utc/)
 - [PTE Request for Customer Reviews for Woocommerce](https://make.wordpress.org/polyglots/2024/07/23/pte-request-for-customer-reviews-for-woocommerce-26/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE required for WordPress CMS and WordPress.org, Meta list](https://make.wordpress.org/polyglots/2024/07/19/pte-required-for-vietnamese/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/19/pte-request-for-bellow-listed-themes-3/)
 - [PTE Request for Easy Basic Authentication](https://make.wordpress.org/polyglots/2024/07/18/pte-request-for-easy-basic-authentication-2/)
-- [PTE Request for Bellow Listed Plugins](https://make.wordpress.org/polyglots/2024/07/18/pte-request-for-bellow-listed-plugins/)
 <!-- POLYGLOTS:END -->
 
 ## Support
