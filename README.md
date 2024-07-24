@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Block Stylesheets](https://wordpress.tv/2024/07/24/block-stylesheets/)
+- [Block Style Variations](https://wordpress.tv/2024/07/24/block-style-variations/)
 - [WordPress y el Marketing Inclusivo. Si, ¿y?](https://wordpress.tv/2024/07/23/wordpress-y-el-marketing-inclusivo-si-y/)
 - [El uso de WordPress para la docencia universitaria](https://wordpress.tv/2024/07/23/el-uso-de-wordpress-para-la-docencia-universitaria/)
 - [Migrar una web existente a WordPress: Desafíos y Soluciones](https://wordpress.tv/2024/07/23/migrar-una-web-existente-a-wordpress-desafios-y-soluciones/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creando un método propio para tu Marca Personal](https://wordpress.tv/2024/07/23/creando-un-metodo-propio-para-tu-marca-personal/)
 - [Pierde el miedo a Consent Mode V2](https://wordpress.tv/2024/07/23/pierde-el-miedo-a-consent-mode-v2/)
 - [Cómete a tu competencia en SEO gracias a la IA](https://wordpress.tv/2024/07/23/comete-a-tu-competencia-en-seo-gracias-a-la-ia/)
-- [El brilli brilli en tus redes no vende ¿o sí?](https://wordpress.tv/2024/07/23/el-brilli-brilli-en-tus-redes-no-vende-o-si/)
-- [Workshop: Crafting an App with the Site and Block Editor: A Comprehensive Case Study.](https://wordpress.tv/2024/07/23/workshop-crafting-an-app-with-the-site-and-block-editor-a-comprehensive-case-study/)
 <!-- WPTV:END -->
 
 ## Marketing
