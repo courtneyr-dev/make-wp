@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Block Variations](https://wordpress.tv/2024/07/24/block-variations/)
 - [Block Stylesheets](https://wordpress.tv/2024/07/24/block-stylesheets/)
 - [Block Style Variations](https://wordpress.tv/2024/07/24/block-style-variations/)
 - [WordPress y el Marketing Inclusivo. Si, ¿y?](https://wordpress.tv/2024/07/23/wordpress-y-el-marketing-inclusivo-si-y/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Esos detalles que diferencian un eCommerce profesional de uno amateur](https://wordpress.tv/2024/07/23/esos-detalles-que-diferencian-un-ecommerce-profesional-de-uno-amateur/)
 - [Creando un método propio para tu Marca Personal](https://wordpress.tv/2024/07/23/creando-un-metodo-propio-para-tu-marca-personal/)
 - [Pierde el miedo a Consent Mode V2](https://wordpress.tv/2024/07/23/pierde-el-miedo-a-consent-mode-v2/)
-- [Cómete a tu competencia en SEO gracias a la IA](https://wordpress.tv/2024/07/23/comete-a-tu-competencia-en-seo-gracias-a-la-ia/)
 <!-- WPTV:END -->
 
 ## Marketing
