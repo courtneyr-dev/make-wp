@@ -523,7 +523,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:START -->
 - [Create a front-end plugin and integrate it with our backend APIs. ?](https://jobs.wordpress.net/job/create-a-front-end-plugin-and-integrate-it-with-our-backend-apis/)
 - [Sr. WordPress Engineer – Full Stack &lpar;Remote&rpar;](https://jobs.wordpress.net/job/sr-wordpress-engineer-full-stack-remote/)
-- [Apple Pay on Checkout Page](https://jobs.wordpress.net/job/apple-pay-on-checkout-page/)
 - [WordPress Designer – contract to hire](https://jobs.wordpress.net/job/wordpress-designer-contract-to-hire/)
 - [UI/UX Plugin Designer for WordPress plugins](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins/)
 - [Experienced WordPress Developer](https://jobs.wordpress.net/job/experienced-wordpress-developer-17/)
@@ -531,6 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Theme Developer &lpar;WordPress, CSS, Sass &lpar;SCSS&rpar;, HTML5, RWD, PHP, JS, REST, rollup.js, Gulp, Git&rpar;](https://jobs.wordpress.net/job/theme-developer-wordpress-css-sass-scss-html5-rwd-php-js-rest-rollup-js-gulp-git-7/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-34/)
 - [Web Designer](https://jobs.wordpress.net/job/web-designer-75/)
+- [Lead Web Designer](https://jobs.wordpress.net/job/lead-web-designer-2/)
 <!-- JOBS:END -->
 
 ## Central
