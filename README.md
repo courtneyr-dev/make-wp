@@ -296,6 +296,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Meet the new Learn.WordPress.org](https://learn.wordpress.org/?meeting=meet-the-new-learn-wordpress-org-2)
+- [Meet the new Learn.WordPress.org](https://learn.wordpress.org/?meeting=meet-the-new-learn-wordpress-org)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition-2)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition)
 - [What’s new in WordPress 6.6?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-6)
@@ -319,8 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Creating WordPress Playground Blueprints for Testing and Demos](https://learn.wordpress.org/?meeting=253503)
 - [Get to Know the Training Team’s Guide Program](https://learn.wordpress.org/?meeting=get-to-know-the-training-teams-guide-program)
 - [Homepage displays: Latest posts vs static](https://learn.wordpress.org/?meeting=homepage-displays-latest-posts-vs-static-2)
-- [How to facilitate Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-online-workshop-for-the-wordpress-training-team-2)
-- [How to facilitate Online Workshop for the WordPress Training Team](https://learn.wordpress.org/?meeting=how-to-facilitate-online-workshop-for-the-wordpress-training-team)
 <!-- SLS:END -->
 
 ## Test
