@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [改めて学ぶ、アクションフックとフィルターフック。WordPressカスタマイズのポイントを抑えよう!](https://wordpress.tv/2024/07/25/learn-again-about-action-hooks-and-filter-hooks-the-key-to-wordpress-customization/)
 - [What’s new in WordPress 6.6?](https://wordpress.tv/2024/07/24/whats-new-in-wordpress-6-6/)
 - [Block Variations](https://wordpress.tv/2024/07/24/block-variations/)
 - [Block Stylesheets](https://wordpress.tv/2024/07/24/block-stylesheets/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo vender IA en proyectos WordPress](https://wordpress.tv/2024/07/23/como-vender-ia-en-proyectos-wordpress/)
 - [Automatizando ando](https://wordpress.tv/2024/07/23/automatizando-ando/)
 - [Esos detalles que diferencian un eCommerce profesional de uno amateur](https://wordpress.tv/2024/07/23/esos-detalles-que-diferencian-un-ecommerce-profesional-de-uno-amateur/)
-- [Creando un método propio para tu Marca Personal](https://wordpress.tv/2024/07/23/creando-un-metodo-propio-para-tu-marca-personal/)
 <!-- WPTV:END -->
 
 ## Marketing
