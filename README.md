@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Solid Security / Simple Cludflare Turnstile / Comments – wpDiscuz](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-solid-security-simple-cludflare-turnstile-comments-wpdiscuz/)
+- [PTE Request for Appointment Booking Calendar Plugin and Online Scheduling Plugin – BookingPress](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-appointment-booking-calendar-plugin-and-online-scheduling-plugin-bookingpress/)
 - [PTE Request for Post Porter Plugin](https://make.wordpress.org/polyglots/2024/07/24/pte-request-for-post-porter-plugin/)
 - [First PTE Request for IndexReloaded](https://make.wordpress.org/polyglots/2024/07/24/first-pte-request-for-indexreloaded/)
 - [Agenda: Weekly Polyglots Chat – July 24, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/24/agenda-weekly-polyglots-chat-july-24-2024-0700-utc/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/19/hi-dear-mentors-we-have-140/)
 - [PTE Request for iknowledgebase I…](https://make.wordpress.org/polyglots/2024/07/19/pte-request-for-iknowledgebase-i/)
 - [PTE required for WordPress CMS and WordPress.org, Meta list](https://make.wordpress.org/polyglots/2024/07/19/pte-required-for-vietnamese/)
-- [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/19/pte-request-for-bellow-listed-themes-3/)
-- [PTE Request for Easy Basic Authentication](https://make.wordpress.org/polyglots/2024/07/18/pte-request-for-easy-basic-authentication-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
