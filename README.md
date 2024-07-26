@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Tutor LMS – eLearning and online course solution](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-tutor-lms-elearning-and-online-course-solution-4/)
+- [PTE Request for Mon Laboratoire](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-mon-laboratoire/)
 - [PTE Request for Solid Security / Simple Cludflare Turnstile / Comments – wpDiscuz](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-solid-security-simple-cludflare-turnstile-comments-wpdiscuz/)
 - [PTE Request for Appointment Booking Calendar Plugin and Online Scheduling Plugin – BookingPress](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-appointment-booking-calendar-plugin-and-online-scheduling-plugin-bookingpress/)
 - [PTE Request for Post Porter Plugin](https://make.wordpress.org/polyglots/2024/07/24/pte-request-for-post-porter-plugin/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews for Woocommerce](https://make.wordpress.org/polyglots/2024/07/23/pte-request-for-customer-reviews-for-woocommerce-26/)
 - [WordPress 6.6.1 has been released….](https://make.wordpress.org/polyglots/2024/07/23/wordpress-6-6-1-has-been-released/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/19/hi-dear-mentors-we-have-140/)
-- [PTE Request for iknowledgebase I…](https://make.wordpress.org/polyglots/2024/07/19/pte-request-for-iknowledgebase-i/)
-- [PTE required for WordPress CMS and WordPress.org, Meta list](https://make.wordpress.org/polyglots/2024/07/19/pte-required-for-vietnamese/)
 <!-- POLYGLOTS:END -->
 
 ## Support
