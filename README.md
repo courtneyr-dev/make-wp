@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Converting a classic theme to a block theme](https://wordpress.tv/2024/07/26/converting-a-classic-theme-to-a-block-theme/)
+- [Theme.json in classic themes](https://wordpress.tv/2024/07/26/theme-json-in-classic-themes/)
+- [Theme options](https://wordpress.tv/2024/07/26/theme-options/)
+- [The Loop](https://wordpress.tv/2024/07/26/the-loop/)
+- [Introduction to classic themes](https://wordpress.tv/2024/07/26/introduction-to-classic-themes/)
 - [改めて学ぶ、アクションフックとフィルターフック。WordPressカスタマイズのポイントを抑えよう!](https://wordpress.tv/2024/07/25/learn-again-about-action-hooks-and-filter-hooks-the-key-to-wordpress-customization/)
 - [What’s new in WordPress 6.6?](https://wordpress.tv/2024/07/24/whats-new-in-wordpress-6-6/)
 - [Block Variations](https://wordpress.tv/2024/07/24/block-variations/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo convertir el tráfico web en dinero](https://wordpress.tv/2024/07/23/como-convertir-el-trafico-web-en-dinero/)
 - [Arquitectura de información en WordPress sin ser Marie Kondo](https://wordpress.tv/2024/07/23/arquitectura-de-informacion-en-wordpress-sin-ser-marie-kondo/)
 - [7 cosillas que me piden mis clientes y yo digo que nanay](https://wordpress.tv/2024/07/23/7-cosillas-que-me-piden-mis-clientes-y-yo-digo-que-nanay/)
-- [Cómo conectar WordPress con más de 2.000 aplicaciones &lpar;sin saber programar&rpar;](https://wordpress.tv/2024/07/23/como-conectar-wordpress-con-mas-de-2-000-aplicaciones-sin-saber-programar/)
-- [WordPress y SEO Local: dale un impulso a tu visibilidad](https://wordpress.tv/2024/07/23/wordpress-y-seo-local-dale-un-impulso-a-tu-visibilidad/)
-- [Cómo vender IA en proyectos WordPress](https://wordpress.tv/2024/07/23/como-vender-ia-en-proyectos-wordpress/)
-- [Automatizando ando](https://wordpress.tv/2024/07/23/automatizando-ando/)
-- [Esos detalles que diferencian un eCommerce profesional de uno amateur](https://wordpress.tv/2024/07/23/esos-detalles-que-diferencian-un-ecommerce-profesional-de-uno-amateur/)
 <!-- WPTV:END -->
 
 ## Marketing
