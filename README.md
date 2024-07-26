@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Shivanand Sharma: A Step by Step Guide to Cleaning up a Hacked WordPress Website](https://wordpress.tv/2024/07/26/shivanand-sharma-a-step-by-step-guide-to-cleaning-up-a-hacked-wordpress-website/)
 - [Converting a classic theme to a block theme](https://wordpress.tv/2024/07/26/converting-a-classic-theme-to-a-block-theme/)
 - [Theme.json in classic themes](https://wordpress.tv/2024/07/26/theme-json-in-classic-themes/)
 - [Theme options](https://wordpress.tv/2024/07/26/theme-options/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Do you really need a custom block? Let’s explore alternatives](https://wordpress.tv/2024/07/23/developer-hours-do-you-really-need-a-custom-block-lets-explore-alternatives/)
 - [Cómo convertir el tráfico web en dinero](https://wordpress.tv/2024/07/23/como-convertir-el-trafico-web-en-dinero/)
 - [Arquitectura de información en WordPress sin ser Marie Kondo](https://wordpress.tv/2024/07/23/arquitectura-de-informacion-en-wordpress-sin-ser-marie-kondo/)
-- [7 cosillas que me piden mis clientes y yo digo que nanay](https://wordpress.tv/2024/07/23/7-cosillas-que-me-piden-mis-clientes-y-yo-digo-que-nanay/)
 <!-- WPTV:END -->
 
 ## Marketing
