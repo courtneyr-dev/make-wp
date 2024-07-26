@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Theme IKnowledgeBase](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-theme-iknowledgebase/)
 - [PTE Request for Tutor LMS – eLearning and online course solution](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-tutor-lms-elearning-and-online-course-solution-4/)
 - [PTE Request for Mon Laboratoire](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-mon-laboratoire/)
 - [PTE Request for Solid Security / Simple Cludflare Turnstile / Comments – wpDiscuz](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-solid-security-simple-cludflare-turnstile-comments-wpdiscuz/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – July 24, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/24/agenda-weekly-polyglots-chat-july-24-2024-0700-utc/)
 - [PTE Request for Customer Reviews for Woocommerce](https://make.wordpress.org/polyglots/2024/07/23/pte-request-for-customer-reviews-for-woocommerce-26/)
 - [WordPress 6.6.1 has been released….](https://make.wordpress.org/polyglots/2024/07/23/wordpress-6-6-1-has-been-released/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/07/19/hi-dear-mentors-we-have-140/)
 <!-- POLYGLOTS:END -->
 
 ## Support
