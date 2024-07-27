@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Update: Meetup Reactivation and Closures](https://make.wordpress.org/community/2024/07/27/update-meetup-reactivation-and-closures/)
 - [Venue Policy Update](https://make.wordpress.org/community/2024/07/23/venue-policy-update/)
 - [WordPress Meetup Trends](https://make.wordpress.org/community/2024/07/18/wordpress-meetup-trends/)
 - [WCEU Contributor Day – summary of discussions at the Community tables](https://make.wordpress.org/community/2024/07/18/wceu-contributor-day-summary-of-discussions-at-the-community-tables/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team July Meeting Recap](https://make.wordpress.org/community/2024/07/08/community-team-july-meeting-recap/)
 - [Notes from the discussion on &lpar;global&rpar; sponsorships during WCEU 2024](https://make.wordpress.org/community/2024/07/05/notes-from-the-discussion-on-global-sponsorships-during-wceu-2024/)
 - [First-Time Attendees: A Key Metric of Success for WordPress Events](https://make.wordpress.org/community/2024/07/04/first-time-attendees/)
-- [Community Team Meeting Agenda for 4 July 2024](https://make.wordpress.org/community/2024/07/03/community-team-meeting-agenda-for-4-july-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
