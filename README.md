@@ -129,12 +129,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [is_utf8_charset&lpar;&rpar;](https://developer.wordpress.org/reference/functions/is_utf8_charset/)
 - [wp_render_elements_support&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_render_elements_support/)
 - [wp_get_l10n_php_file_data&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_l10n_php_file_data/)
-- [wp_autoload_values_to_autoload](https://developer.wordpress.org/reference/hooks/wp_autoload_values_to_autoload/)
 - [wp_autoload_values_to_autoload&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_autoload_values_to_autoload/)
+- [wp_autoload_values_to_autoload](https://developer.wordpress.org/reference/hooks/wp_autoload_values_to_autoload/)
 - [wp_max_autoloaded_option_size](https://developer.wordpress.org/reference/hooks/wp_max_autoloaded_option_size/)
-- [wp_determine_option_autoload_value&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_determine_option_autoload_value/)
-- [wp_default_autoload_value](https://developer.wordpress.org/reference/hooks/wp_default_autoload_value/)
 - [wp_filter_default_autoload_value_via_option_size&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_filter_default_autoload_value_via_option_size/)
+- [wp_default_autoload_value](https://developer.wordpress.org/reference/hooks/wp_default_autoload_value/)
+- [wp_determine_option_autoload_value&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_determine_option_autoload_value/)
 <!-- DEVHUB:END -->
 
 ## Themes
