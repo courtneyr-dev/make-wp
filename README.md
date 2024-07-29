@@ -559,7 +559,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Kolkata, West Bengal, India](https://central.wordcamp.org/wordcamps/wordcamp-kolkata-west-bengal-india-3/)
 - [WordPress Diversity Day Valencia](https://central.wordcamp.org/wordcamps/valencia-spain/)
 - [WordCamp Bengaluru, Karnataka, India](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-karnataka-india-2/)
-- [WordCamp Rio 2024](https://central.wordcamp.org/wordcamps/wordcamp-rio-de-janeiro-rj-brazil-2/)
 - [WordCamp San José, Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-7/)
 - [WordCamp Bogotá](https://central.wordcamp.org/wordcamps/wordcamp-bogota/)
 - [WordCamp Granada, Spain](https://central.wordcamp.org/wordcamps/wordcamp-granada-spain-2/)
@@ -568,6 +567,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-6/)
 - [Online Payments and Delivery Summit](https://central.wordcamp.org/wordcamps/online-payments-delivery-summit/)
 - [WordCamp Karlsruhe, Germany](https://central.wordcamp.org/wordcamps/wordcamp-karlsruhe-germany/)
+- [WordCamp Romania](https://central.wordcamp.org/wordcamps/wordcamp-romania-brasov/)
 - [WordCamp Nagpur, Maharashtra, India](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-3/)
 <!-- WordCamp:END -->
 
