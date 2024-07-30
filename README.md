@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [PHP coding](https://jobs.wordpress.net/job/php-coding/)
 - [WordPress and IDX Support Specialist](https://jobs.wordpress.net/job/wordpress-and-idx-support-specialist/)
 - [Create a front-end plugin and integrate it with our backend APIs. ?](https://jobs.wordpress.net/job/create-a-front-end-plugin-and-integrate-it-with-our-backend-apis/)
 - [Sr. WordPress Engineer – Full Stack &lpar;Remote&rpar;](https://jobs.wordpress.net/job/sr-wordpress-engineer-full-stack-remote/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-34/)
 - [Lead Web Designer](https://jobs.wordpress.net/job/lead-web-designer-2/)
 - [Web Designer](https://jobs.wordpress.net/job/web-designer-75/)
-- [Communication Specialist &lpar;Remote&rpar;](https://jobs.wordpress.net/job/communication-specialist-remote/)
 <!-- JOBS:END -->
 
 ## Central
