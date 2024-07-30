@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Crunchy Recipe and Recept Bites &lpar;Delicious Recipes – WordPress Recipe&rpar;](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-crunchy-recipe-and-recept-bites-delicious-recipes-wordpress-recipe/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-bellow-listed-themes-4/)
 - [PTE Request for ProfileGrid – User Profiles, Groups and Communities](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-profilegrid-user-profiles-groups-and-communities/)
 - [PTE Request for Zenchef widget integration](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-zenchef-widget-integration/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Tutor LMS – eLearning and online course solution](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-tutor-lms-elearning-and-online-course-solution-4/)
 - [PTE Request for Mon Laboratoire](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-mon-laboratoire/)
 - [PTE Request for Solid Security / Simple Cludflare Turnstile / Comments – wpDiscuz](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-solid-security-simple-cludflare-turnstile-comments-wpdiscuz/)
-- [PTE Request for Appointment Booking Calendar Plugin and Online Scheduling Plugin – BookingPress](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-appointment-booking-calendar-plugin-and-online-scheduling-plugin-bookingpress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
