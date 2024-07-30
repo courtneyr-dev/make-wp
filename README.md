@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-bellow-listed-themes-4/)
+- [PTE Request for ProfileGrid – User Profiles, Groups and Communities](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-profilegrid-user-profiles-groups-and-communities/)
+- [PTE Request for Zenchef widget integration](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-zenchef-widget-integration/)
 - [Hey!](https://make.wordpress.org/polyglots/2024/07/30/hey-8/)
 - [PTE Request for Yummy Bites &lpar;Delicious Recipes – WordPress Recipe&rpar;&rpar;](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-yummy-bites-delicious-recipes-wordpress-recipe/)
 - [PTE Request for Theme IKnowledgeBase](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-theme-iknowledgebase/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Mon Laboratoire](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-mon-laboratoire/)
 - [PTE Request for Solid Security / Simple Cludflare Turnstile / Comments – wpDiscuz](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-solid-security-simple-cludflare-turnstile-comments-wpdiscuz/)
 - [PTE Request for Appointment Booking Calendar Plugin and Online Scheduling Plugin – BookingPress](https://make.wordpress.org/polyglots/2024/07/25/pte-request-for-appointment-booking-calendar-plugin-and-online-scheduling-plugin-bookingpress/)
-- [PTE Request for Post Porter Plugin](https://make.wordpress.org/polyglots/2024/07/24/pte-request-for-post-porter-plugin/)
-- [First PTE Request for IndexReloaded](https://make.wordpress.org/polyglots/2024/07/24/first-pte-request-for-indexreloaded/)
-- [Agenda: Weekly Polyglots Chat – July 24, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/24/agenda-weekly-polyglots-chat-july-24-2024-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
