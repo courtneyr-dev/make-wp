@@ -168,6 +168,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Community
 <!-- COMMUNITY:START -->
 - [Community Team Meeting Agenda for 1 – August 2024](https://make.wordpress.org/community/2024/07/31/community-team-meeting-agenda-for-1-august-2024/)
+- [Recap of the Contributor Working Group’s Mentorship Chat on July 18th, 2024](https://make.wordpress.org/community/2024/07/31/recap-of-the-contributor-working-groups-mentorship-chat-on-july-18th-2024/)
 - [Meetup Organizer Newsletter: July 2024](https://make.wordpress.org/community/2024/07/29/meetup-organizer-newsletter-july-2024/)
 - [Using Playground to demo WordPress to first time meetup participants](https://make.wordpress.org/community/2024/07/28/using-playground-to-demo-wordpress-to-first-time-meetup-participants/)
 - [Update: Meetup Reactivation and Closures](https://make.wordpress.org/community/2024/07/27/update-meetup-reactivation-and-closures/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCEU Contributor Day – summary of discussions at the Community tables](https://make.wordpress.org/community/2024/07/18/wceu-contributor-day-summary-of-discussions-at-the-community-tables/)
 - [Contributor Working Group Chat Agenda | July 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/07/16/contributor-working-group-chat-agenda-july-18th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [WordCamp &amp; WordPress Events Debrief Analysis](https://make.wordpress.org/community/2024/07/16/wordcamp-wordpress-events-debrief-analysis/)
-- [Community Team Event Updates Published](https://make.wordpress.org/community/2024/07/16/community-team-event-updates-published/)
 <!-- COMMUNITY:END -->
 
 ## Meta
