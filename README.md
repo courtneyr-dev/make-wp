@@ -267,6 +267,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
+- [Intermediate Theme Developer](https://learn.wordpress.org/course/intermediate-theme-developer/)
 - [Beginner WordPress Developer](https://learn.wordpress.org/course/beginner-wordpress-developer/)
 - [Beginner WordPress User](https://learn.wordpress.org/course/beginner-wordpress-user/)
 - [Intermediate WordPress User](https://learn.wordpress.org/course/intermediate-wordpress-user/)
@@ -283,7 +284,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Part 1: Simple Site Design and Site Editing](https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/)
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
 - [Getting Started With WordPress: Get Set Up](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
-- [WordCamp organizer training](https://learn.wordpress.org/course/wordcamp-organizer-training/)
 - [Open source basics and WordPress](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)
 - [Community meeting etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
 - [Writing in the WordPress voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
