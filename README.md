@@ -267,13 +267,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
-- [Intermediate Theme Developer](https://learn.wordpress.org/course/intermediate-theme-developer/)
 - [Beginner WordPress Developer](https://learn.wordpress.org/course/beginner-wordpress-developer/)
 - [Beginner WordPress User](https://learn.wordpress.org/course/beginner-wordpress-user/)
 - [Intermediate WordPress User](https://learn.wordpress.org/course/intermediate-wordpress-user/)
+- [Intermediate Theme Developer](https://learn.wordpress.org/course/intermediate-theme-developer/)
 - [Develop Your First Low-Code Block Theme](https://learn.wordpress.org/course/develop-your-first-low-code-block-theme/)
 - [Introduction to developing with the WordPress REST API](https://learn.wordpress.org/course/developing-with-the-wordpress-rest-api/)
 - [Converting a Shortcode to a Block](https://learn.wordpress.org/course/converting-a-shortcode-to-a-block/)
+- [Developing your first WordPress block](https://learn.wordpress.org/course/developing-your-first-wordpress-block/)
+- [Community team Program Supporter tasks](https://learn.wordpress.org/course/wordpress-community-team-program-supporter-tasks/)
+- [Community team Supporter basics](https://learn.wordpress.org/course/wordpress-community-team-supporter-basics/)
 - [Creating a 4-page business website](https://learn.wordpress.org/course/creating-a-4-page-business-website/)
 - [A Developers Guide to Block Themes – Part 2](https://learn.wordpress.org/course/a-developers-guide-to-block-themes-part-2/)
 - [A Developers Guide to Block Themes – Part 1](https://learn.wordpress.org/course/a-developers-guide-to-block-themes-part-1/)
@@ -283,15 +286,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Part 2: Personalized Site Design and Theme Blocks](https://learn.wordpress.org/course/part-2-personalized-site-design-with-full-site-editing-and-theme-blocks/)
 - [Part 1: Simple Site Design and Site Editing](https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/)
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
+- [Tutorial Quizzes](https://learn.wordpress.org/course/tutorial-quizzes/)
 - [Getting Started With WordPress: Get Set Up](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
+- [How decisions are made in the WordPress project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
+- [WordCamp organizer training](https://learn.wordpress.org/course/wordcamp-organizer-training/)
 - [Open source basics and WordPress](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)
 - [Community meeting etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
-- [Writing in the WordPress voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
-- [Basic principles of conflict resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)
-- [Community team event mentor training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
-- [WordPress meetup organizer training](https://learn.wordpress.org/course/wordpress-meetup-organizer-training/)
-- [Incident Response Team training](https://learn.wordpress.org/course/incident-response-team-training/)
-- [Polyglots contributor training](https://learn.wordpress.org/course/polyglots-contributor-training/)
 <!-- COURSES:END -->
 
 ### Social Learning Spaces
