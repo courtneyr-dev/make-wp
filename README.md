@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-delisho-recipe-widgets-and-blocks/)
 - [PTE Request for Bellow Listed Plugin](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-bellow-listed-plugin/)
 - [PTE request for Classified Listing – Classified ads &amp; Business Directory Plugin](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-classified-listing-classified-ads-business-directory-plugin-2/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-bellow-listed-themes-5/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ProfileGrid – User Profiles, Groups and Communities](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-profilegrid-user-profiles-groups-and-communities/)
 - [PTE Request for Zenchef widget integration](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-zenchef-widget-integration/)
 - [Hey!](https://make.wordpress.org/polyglots/2024/07/30/hey-8/)
-- [PTE Request for Yummy Bites &lpar;Delicious Recipes – WordPress Recipe&rpar;&rpar;](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-yummy-bites-delicious-recipes-wordpress-recipe/)
 <!-- POLYGLOTS:END -->
 
 ## Support
