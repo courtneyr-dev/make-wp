@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Bellow Listed Plugin](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-bellow-listed-plugin/)
+- [PTE request for Classified Listing – Classified ads &amp; Business Directory Plugin](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-classified-listing-classified-ads-business-directory-plugin-2/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-bellow-listed-themes-5/)
 - [Agenda: Weekly Polyglots Chat – July 31, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/31/agenda-weekly-polyglots-chat-july-31-2024-1300-utc/)
 - [PTE Request for Crunchy Recipe and Recept Bites &lpar;Delicious Recipes – WordPress Recipe&rpar;](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-crunchy-recipe-and-recept-bites-delicious-recipes-wordpress-recipe/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Zenchef widget integration](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-zenchef-widget-integration/)
 - [Hey!](https://make.wordpress.org/polyglots/2024/07/30/hey-8/)
 - [PTE Request for Yummy Bites &lpar;Delicious Recipes – WordPress Recipe&rpar;&rpar;](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-yummy-bites-delicious-recipes-wordpress-recipe/)
-- [PTE Request for Theme IKnowledgeBase](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-theme-iknowledgebase/)
-- [PTE Request for Tutor LMS – eLearning and online course solution](https://make.wordpress.org/polyglots/2024/07/26/pte-request-for-tutor-lms-elearning-and-online-course-solution-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
