@@ -525,12 +525,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-844/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-22/)
 - [Partnerships Manager](https://jobs.wordpress.net/job/partnerships-manager/)
-- [Install an existing theme into a WordPress site](https://jobs.wordpress.net/job/install-an-existing-theme-into-a-wordpress-site/)
 - [WordPress Website Customization](https://jobs.wordpress.net/job/wordpress-website-customization/)
 - [Join Our Team at Plugmatter.com – WordPress Support Developer Opportunity](https://jobs.wordpress.net/job/join-our-team-at-plugmatter-com-wordpress-support-developer-opportunity/)
 - [Update WordPress Theme For 2024](https://jobs.wordpress.net/job/update-wordpress-theme-for-2024/)
 - [WordPress and IDX Support Specialist](https://jobs.wordpress.net/job/wordpress-and-idx-support-specialist/)
 - [Create a front-end plugin and integrate it with our backend APIs. ?](https://jobs.wordpress.net/job/create-a-front-end-plugin-and-integrate-it-with-our-backend-apis/)
+- [Sr. WordPress Engineer – Full Stack &lpar;Remote&rpar;](https://jobs.wordpress.net/job/sr-wordpress-engineer-full-stack-remote/)
 <!-- JOBS:END -->
 
 ## Central
