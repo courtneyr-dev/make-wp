@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/02/pte-request-for-aesirx-analytics/)
 - [Locale Manager Request](https://make.wordpress.org/polyglots/2024/08/02/locale-manager-request-4/)
 - [X-post: Meet the new Learn WordPress](https://make.wordpress.org/polyglots/2024/08/02/xpost-meet-the-new-learn-wordpress/)
 - [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-delisho-recipe-widgets-and-blocks/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – July 31, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/31/agenda-weekly-polyglots-chat-july-31-2024-1300-utc/)
 - [PTE Request for Crunchy Recipe and Recept Bites &lpar;Delicious Recipes – WordPress Recipe&rpar;](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-crunchy-recipe-and-recept-bites-delicious-recipes-wordpress-recipe/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-bellow-listed-themes-4/)
-- [PTE Request for ProfileGrid – User Profiles, Groups and Communities](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-profilegrid-user-profiles-groups-and-communities/)
 <!-- POLYGLOTS:END -->
 
 ## Support
