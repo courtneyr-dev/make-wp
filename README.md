@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Meet the new Learn WordPress](https://make.wordpress.org/community/2024/08/02/xpost-meet-the-new-learn-wordpress/)
 - [Community Team Meeting Agenda for 1 – August 2024](https://make.wordpress.org/community/2024/07/31/community-team-meeting-agenda-for-1-august-2024/)
 - [Recap of the Contributor Working Group’s Mentorship Chat on July 18th, 2024](https://make.wordpress.org/community/2024/07/31/recap-of-the-contributor-working-groups-mentorship-chat-on-july-18th-2024/)
 - [Meetup Organizer Newsletter: July 2024](https://make.wordpress.org/community/2024/07/29/meetup-organizer-newsletter-july-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Meetup Trends](https://make.wordpress.org/community/2024/07/18/wordpress-meetup-trends/)
 - [WCEU Contributor Day – summary of discussions at the Community tables](https://make.wordpress.org/community/2024/07/18/wceu-contributor-day-summary-of-discussions-at-the-community-tables/)
 - [Contributor Working Group Chat Agenda | July 18th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/07/16/contributor-working-group-chat-agenda-july-18th-0700-utc-apac-emea-and-1600-utc-amer/)
-- [WordCamp &amp; WordPress Events Debrief Analysis](https://make.wordpress.org/community/2024/07/16/wordcamp-wordpress-events-debrief-analysis/)
 <!-- COMMUNITY:END -->
 
 ## Meta
