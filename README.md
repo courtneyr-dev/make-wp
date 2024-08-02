@@ -535,6 +535,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [WordCamp Netherlands 2024 rescheduled](https://central.wordcamp.org/news/2024/08/wordcamp-netherlands-2024-rescheduled/)
 - [Announcing the Shortlisted Projects for Uganda Website Projects Competition 2024](https://central.wordcamp.org/news/2024/06/announcing-the-shortlisted-projects-for-uganda-website-projects-competition-2024/)
 - [From WordCamps to NextGen Events: Uganda’s Turn to Pilot Innovative WordPress Events is Here!](https://central.wordcamp.org/news/2024/03/from-wordcamps-to-nextgen-events-ugandas-turn-to-pilot-innovative-wordpress-events-is-here/)
 - [Thanks for sponsoring global WordPress community events across the globe, Bluehost!](https://central.wordcamp.org/news/2024/01/thanks-for-sponsoring-global-wordpress-community-events-across-the-globe-bluehost/)
@@ -549,7 +550,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Dhaka 2023 Has Been Cancelled](https://central.wordcamp.org/news/2023/07/wordcamp-dhaka-2023-has-been-cancelled/)
 - [WordCamp Rochester is Back!](https://central.wordcamp.org/news/2023/07/wordcamp-rochester-is-back/)
 - [WordCamp San José 2023: Looking For Speakers And Sponsors!](https://central.wordcamp.org/news/2023/07/wordcamp-san-jose-2023-looking-for-speakers-and-sponsors/)
-- [WordCamp Finland: back to Tampere with educational, insightful and thought-provoking talks](https://central.wordcamp.org/news/2023/06/wordcamp-finland-back-to-tampere-with-educational-insightful-and-thought-provoking-talks/)
 <!-- Central:END -->
 
 ### WordCamp
