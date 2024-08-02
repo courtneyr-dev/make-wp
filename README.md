@@ -554,6 +554,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordPress and Remote Work &lpar;Online&rpar; in Spanish](https://central.wordcamp.org/wordcamps/cenia-spain-online/)
 - [WordCamp Skopje, North Macedonia](https://central.wordcamp.org/wordcamps/wordcamp-skopje-north-macedonia/)
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-2025/)
 - [WordCamp Larissa, Greece](https://central.wordcamp.org/wordcamps/wordcamp-larissa-greece/)
@@ -562,7 +563,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Nairobi 2024](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-5/)
 - [WordCamp San José, Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-7/)
 - [WordCamp Bogotá](https://central.wordcamp.org/wordcamps/wordcamp-bogota/)
-- [WordCamp Granada, Spain](https://central.wordcamp.org/wordcamps/wordcamp-granada-spain-2/)
 - [Rome Core Days 2024](https://central.wordcamp.org/wordcamps/rome-core-days-2024/)
 - [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-6/)
 - [Online Payments and Delivery Summit](https://central.wordcamp.org/wordcamps/online-payments-delivery-summit/)
