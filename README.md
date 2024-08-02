@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Technical / Client Services Agent](https://jobs.wordpress.net/job/technical-client-services-agent/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-844/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-22/)
 - [Partnerships Manager](https://jobs.wordpress.net/job/partnerships-manager/)
 - [Install an existing theme into a WordPress site](https://jobs.wordpress.net/job/install-an-existing-theme-into-a-wordpress-site/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Update WordPress Theme For 2024](https://jobs.wordpress.net/job/update-wordpress-theme-for-2024/)
 - [WordPress and IDX Support Specialist](https://jobs.wordpress.net/job/wordpress-and-idx-support-specialist/)
 - [Create a front-end plugin and integrate it with our backend APIs. ?](https://jobs.wordpress.net/job/create-a-front-end-plugin-and-integrate-it-with-our-backend-apis/)
-- [Sr. WordPress Engineer – Full Stack &lpar;Remote&rpar;](https://jobs.wordpress.net/job/sr-wordpress-engineer-full-stack-remote/)
-- [UI/UX Plugin Designer for WordPress plugins](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins/)
 <!-- JOBS:END -->
 
 ## Central
