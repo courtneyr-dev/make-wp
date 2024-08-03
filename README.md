@@ -125,6 +125,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Common issues](https://developer.wordpress.org/plugins/wordpress-org/common-issues/)
 - [WP_Theme_JSON_Schema::migrate_v2_to_v3&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_theme_json_schema/migrate_v2_to_v3/)
 - [is_utf8_charset&lpar;&rpar;](https://developer.wordpress.org/reference/functions/is_utf8_charset/)
 - [wp_render_elements_support&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_render_elements_support/)
@@ -134,7 +135,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [wp_max_autoloaded_option_size](https://developer.wordpress.org/reference/hooks/wp_max_autoloaded_option_size/)
 - [wp_filter_default_autoload_value_via_option_size&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_filter_default_autoload_value_via_option_size/)
 - [wp_default_autoload_value](https://developer.wordpress.org/reference/hooks/wp_default_autoload_value/)
-- [wp_determine_option_autoload_value&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_determine_option_autoload_value/)
 <!-- DEVHUB:END -->
 
 ## Themes
