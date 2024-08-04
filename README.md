@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for the pattern](https://make.wordpress.org/polyglots/2024/08/04/pte-request-for-the-pattern/)
+- [PTE Request for WordPress 6.6x Development](https://make.wordpress.org/polyglots/2024/08/04/pte-request-for-wordpress-6-6x-development/)
+- [Hello, I found so many…](https://make.wordpress.org/polyglots/2024/08/04/hello-i-found-so-many/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/08/02/pte-request-for-below-listed-themes-3/)
 - [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/02/pte-request-for-aesirx-analytics/)
 - [Locale Manager Request](https://make.wordpress.org/polyglots/2024/08/02/locale-manager-request-4/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-delisho-recipe-widgets-and-blocks/)
 - [PTE Request for Bellow Listed Plugin](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-bellow-listed-plugin/)
 - [PTE request for Classified Listing – Classified ads &amp; Business Directory Plugin](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-classified-listing-classified-ads-business-directory-plugin-2/)
-- [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-bellow-listed-themes-5/)
-- [Agenda: Weekly Polyglots Chat – July 31, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/07/31/agenda-weekly-polyglots-chat-july-31-2024-1300-utc/)
-- [PTE Request for Crunchy Recipe and Recept Bites &lpar;Delicious Recipes – WordPress Recipe&rpar;](https://make.wordpress.org/polyglots/2024/07/30/pte-request-for-crunchy-recipe-and-recept-bites-delicious-recipes-wordpress-recipe/)
 <!-- POLYGLOTS:END -->
 
 ## Support
