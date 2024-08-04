@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [HELP SET UP jetpack AS THEIR](https://jobs.wordpress.net/job/help-set-up-jetpack-as-their/)
 - [Technical / Client Services Agent](https://jobs.wordpress.net/job/technical-client-services-agent/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-844/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-22/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Update WordPress Theme For 2024](https://jobs.wordpress.net/job/update-wordpress-theme-for-2024/)
 - [WordPress and IDX Support Specialist](https://jobs.wordpress.net/job/wordpress-and-idx-support-specialist/)
 - [Create a front-end plugin and integrate it with our backend APIs. ?](https://jobs.wordpress.net/job/create-a-front-end-plugin-and-integrate-it-with-our-backend-apis/)
-- [Sr. WordPress Engineer – Full Stack &lpar;Remote&rpar;](https://jobs.wordpress.net/job/sr-wordpress-engineer-full-stack-remote/)
 <!-- JOBS:END -->
 
 ## Central
