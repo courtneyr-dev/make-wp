@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/05/hi-dear-mentors-we-have-141/)
 - [PTE Request for #nn_NO for…](https://make.wordpress.org/polyglots/2024/08/05/pte-request-for-nn_no-for/)
 - [OpenAI’s gpt-4o-mini model is available at translate.wordpress.org](https://make.wordpress.org/polyglots/2024/08/05/openais-gpt-4o-mini-model-is-available-at-translate-wordpress-org/)
 - [PTE Request for the pattern](https://make.wordpress.org/polyglots/2024/08/04/pte-request-for-the-pattern/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/02/pte-request-for-aesirx-analytics/)
 - [Locale Manager Request](https://make.wordpress.org/polyglots/2024/08/02/locale-manager-request-4/)
 - [X-post: Meet the new Learn WordPress](https://make.wordpress.org/polyglots/2024/08/02/xpost-meet-the-new-learn-wordpress/)
-- [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/01/pte-request-for-delisho-recipe-widgets-and-blocks/)
 <!-- POLYGLOTS:END -->
 
 ## Support
