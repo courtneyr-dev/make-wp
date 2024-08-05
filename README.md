@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Training Team Update – August 2024](https://make.wordpress.org/updates/2024/08/05/training-team-update-august-2024/)
 - [Core Performance Team Update: July 2024](https://make.wordpress.org/updates/2024/08/02/core-performance-team-update-july-2024/)
 - [Themes team update July 30, 2024](https://make.wordpress.org/updates/2024/07/30/themes-team-update-july-30-2024/)
 - [Plugin Review Team: 29 July 2024](https://make.wordpress.org/updates/2024/07/29/plugin-review-team-29-july-2024/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Test Team Update: 22 July 2024](https://make.wordpress.org/updates/2024/07/22/test-team-update-22-july-2024/)
 - [Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/updates/2024/07/16/localization-and-translation-of-helphub-meeting-notes/)
 - [Themes team update July 16, 2024](https://make.wordpress.org/updates/2024/07/16/themes-team-update-july-16-2024/)
-- [Community Team Event Updates– July 16, 2024](https://make.wordpress.org/updates/2024/07/16/community-team-event-updates-july-16-2024/)
 <!-- UPDATES:END -->
 
 ## Project
