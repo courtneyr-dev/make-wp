@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Training Team Update – August 2024](https://make.wordpress.org/support/2024/08/xpost-training-team-update-august-2024/)
 - [X-post: Meet the new Learn WordPress](https://make.wordpress.org/support/2024/08/xpost-meet-the-new-learn-wordpress/)
 - [25th July Support Team meeting](https://make.wordpress.org/support/2024/07/25th-july-support-team-meeting/)
 - [Proposed updates to the Support Handbook](https://make.wordpress.org/support/2024/07/proposed-updates-to-the-support-handbook/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [6th June Support Team meeting](https://make.wordpress.org/support/2024/06/6th-june-support-team-meeting/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/support/2024/06/xpost-training-team-update-june-2024/)
 - [16th May Support Team meeting](https://make.wordpress.org/support/2024/05/16th-may-support-team-meeting/)
-- [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/support/2024/04/xpost-the-plugin-directory-gets-a-refresh/)
 <!-- SUPPORT:END -->
 
 ## Documentation
