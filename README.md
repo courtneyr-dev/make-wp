@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to install WordPress on an Ubuntu VPS: Nginx edition](https://wordpress.tv/2024/08/06/how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition/)
 - [Using a CDN to enhance performance](https://wordpress.tv/2024/08/05/using-a-cdn-to-enhance-performance/)
 - [Migración SEO Contenidos y AI](https://wordpress.tv/2024/08/05/migracion-seo-contenidos-y-ai/)
 - [Making the most of the Font Library](https://wordpress.tv/2024/07/30/making-the-most-of-the-font-library/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pequeños detalles, grandes resultados: Optimiza tu web](https://wordpress.tv/2024/07/23/pequenos-detalles-grandes-resultados-optimiza-tu-web/)
 - [APIs y Automatización: Transformando tu WordPress en una Máquina de Negocios](https://wordpress.tv/2024/07/23/apis-y-automatizacion-transformando-tu-wordpress-en-una-maquina-de-negocios/)
 - [Póngame cuarto y mitá: Cómo vender productos a granel en WooCommerce](https://wordpress.tv/2024/07/23/pongame-cuarto-y-mita-como-vender-productos-a-granel-en-woocommerce/)
-- [Hechiza con tus textos](https://wordpress.tv/2024/07/23/hechiza-con-tus-textos/)
 <!-- WPTV:END -->
 
 ## Marketing
