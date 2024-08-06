@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using a CDN to enhance performance](https://wordpress.tv/2024/08/05/using-a-cdn-to-enhance-performance/)
 - [Migración SEO Contenidos y AI](https://wordpress.tv/2024/08/05/migracion-seo-contenidos-y-ai/)
 - [Making the most of the Font Library](https://wordpress.tv/2024/07/30/making-the-most-of-the-font-library/)
 - [Exploring WordPress 6.6](https://wordpress.tv/2024/07/30/exploring-wordpress-6-6-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [APIs y Automatización: Transformando tu WordPress en una Máquina de Negocios](https://wordpress.tv/2024/07/23/apis-y-automatizacion-transformando-tu-wordpress-en-una-maquina-de-negocios/)
 - [Póngame cuarto y mitá: Cómo vender productos a granel en WooCommerce](https://wordpress.tv/2024/07/23/pongame-cuarto-y-mita-como-vender-productos-a-granel-en-woocommerce/)
 - [Hechiza con tus textos](https://wordpress.tv/2024/07/23/hechiza-con-tus-textos/)
-- [Crea tu primer plugin útil](https://wordpress.tv/2024/07/23/crea-tu-primer-plugin-util/)
 <!-- WPTV:END -->
 
 ## Marketing
