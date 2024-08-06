@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Important Call to Action: Help Us Reactivate Inactive Meetup Groups by Sept 16](https://make.wordpress.org/community/2024/08/06/important-call-to-action-help-us-reactivate-inactive-meetup-groups-by-sept-16/)
 - [X-post: Training Team Update – August 2024](https://make.wordpress.org/community/2024/08/05/xpost-training-team-update-august-2024/)
 - [X-post: Meet the new Learn WordPress](https://make.wordpress.org/community/2024/08/02/xpost-meet-the-new-learn-wordpress/)
 - [Community Team Meeting Agenda for 1 – August 2024](https://make.wordpress.org/community/2024/07/31/community-team-meeting-agenda-for-1-august-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Update: Meetup Reactivation and Closures](https://make.wordpress.org/community/2024/07/27/update-meetup-reactivation-and-closures/)
 - [Venue Policy Update](https://make.wordpress.org/community/2024/07/23/venue-policy-update/)
 - [WordPress Meetup Trends](https://make.wordpress.org/community/2024/07/18/wordpress-meetup-trends/)
-- [WCEU Contributor Day – summary of discussions at the Community tables](https://make.wordpress.org/community/2024/07/18/wceu-contributor-day-summary-of-discussions-at-the-community-tables/)
 <!-- COMMUNITY:END -->
 
 ## Meta
