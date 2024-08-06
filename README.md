@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE request in project OptinMonster](https://make.wordpress.org/polyglots/2024/08/06/clpte-request-in-project-optinmonster/)
 - [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/06/pte-request-for-aesirx-analytics-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/05/hi-dear-mentors-we-have-141/)
 - [PTE Request for #nn_NO for…](https://make.wordpress.org/polyglots/2024/08/05/pte-request-for-nn_no-for/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I found so many…](https://make.wordpress.org/polyglots/2024/08/04/hello-i-found-so-many/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/08/02/pte-request-for-below-listed-themes-3/)
 - [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/02/pte-request-for-aesirx-analytics/)
-- [Locale Manager Request](https://make.wordpress.org/polyglots/2024/08/02/locale-manager-request-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
