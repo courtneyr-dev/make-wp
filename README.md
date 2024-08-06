@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Meet the new Learn.WordPress.org](https://wordpress.tv/2024/08/06/meet-the-new-learn-wordpress-org/)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://wordpress.tv/2024/08/06/how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition/)
 - [Using a CDN to enhance performance](https://wordpress.tv/2024/08/05/using-a-cdn-to-enhance-performance/)
 - [Migración SEO Contenidos y AI](https://wordpress.tv/2024/08/05/migracion-seo-contenidos-y-ai/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Conociendo a MidJourney: Generación de imágenes con IA](https://wordpress.tv/2024/07/23/conociendo-a-midjourney-generacion-de-imagenes-con-ia/)
 - [Pequeños detalles, grandes resultados: Optimiza tu web](https://wordpress.tv/2024/07/23/pequenos-detalles-grandes-resultados-optimiza-tu-web/)
 - [APIs y Automatización: Transformando tu WordPress en una Máquina de Negocios](https://wordpress.tv/2024/07/23/apis-y-automatizacion-transformando-tu-wordpress-en-una-maquina-de-negocios/)
-- [Póngame cuarto y mitá: Cómo vender productos a granel en WooCommerce](https://wordpress.tv/2024/07/23/pongame-cuarto-y-mita-como-vender-productos-a-granel-en-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
