@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary for Docs Team Discussion Meeting &lpar;06-Ago-2024&rpar;](https://make.wordpress.org/docs/2024/08/06/summary-for-docs-team-discussion-meeting-06-ago-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;06-Aug-2024&rpar;](https://make.wordpress.org/docs/2024/08/06/agenda-for-docs-team-biweekly-meeting-06-aug-2024/)
 - [X-post: Training Team Update – August 2024](https://make.wordpress.org/docs/2024/08/05/xpost-training-team-update-august-2024/)
 - [Summary for Docs Team Meeting &lpar;16-Jul-2024&rpar;](https://make.wordpress.org/docs/2024/07/23/summary-for-docs-team-meeting-16-jul-2024/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Docs Team Meeting &lpar;02-Jul-2024&rpar;](https://make.wordpress.org/docs/2024/07/08/summary-for-docs-team-meeting-02-jul-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;July 2, 2024&rpar;](https://make.wordpress.org/docs/2024/07/01/agenda-for-docs-team-biweekly-meeting-july-2-2024/)
 - [Summary for Docs Team Discussion Meeting &lpar;18-Jun-2024&rpar;](https://make.wordpress.org/docs/2024/06/19/summary-for-docs-team-discussion-meeting-18-jun-2024/)
-- [Agenda for Docs Team Biweekly Meeting &lpar;18-Jun-2024&rpar;](https://make.wordpress.org/docs/2024/06/18/agenda-for-docs-team-biweekly-meeting-18-jun-2024/)
 <!-- DOCS:END -->
 
 ### Support Articles
