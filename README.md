@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I translated plugins.](https://make.wordpress.org/polyglots/2024/08/06/i-translated-plugins/)
+- [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/06/pte-request-for-delisho-recipe-widgets-and-blocks-2/)
 - [CLPTE request in project OptinMonster](https://make.wordpress.org/polyglots/2024/08/06/clpte-request-in-project-optinmonster/)
 - [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/06/pte-request-for-aesirx-analytics-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/05/hi-dear-mentors-we-have-141/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for the pattern](https://make.wordpress.org/polyglots/2024/08/04/pte-request-for-the-pattern/)
 - [PTE Request for WordPress 6.6x Development](https://make.wordpress.org/polyglots/2024/08/04/pte-request-for-wordpress-6-6x-development/)
 - [Hello, I found so many…](https://make.wordpress.org/polyglots/2024/08/04/hello-i-found-so-many/)
-- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/08/02/pte-request-for-below-listed-themes-3/)
-- [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/02/pte-request-for-aesirx-analytics/)
 <!-- POLYGLOTS:END -->
 
 ## Support
