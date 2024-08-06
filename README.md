@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-4/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-845/)
 - [HELP SET UP jetpack AS THEIR](https://jobs.wordpress.net/job/help-set-up-jetpack-as-their/)
 - [Technical / Client Services Agent](https://jobs.wordpress.net/job/technical-client-services-agent/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-844/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Website Customization](https://jobs.wordpress.net/job/wordpress-website-customization/)
 - [Join Our Team at Plugmatter.com – WordPress Support Developer Opportunity](https://jobs.wordpress.net/job/join-our-team-at-plugmatter-com-wordpress-support-developer-opportunity/)
 - [Update WordPress Theme For 2024](https://jobs.wordpress.net/job/update-wordpress-theme-for-2024/)
-- [WordPress and IDX Support Specialist](https://jobs.wordpress.net/job/wordpress-and-idx-support-specialist/)
-- [Create a front-end plugin and integrate it with our backend APIs. ?](https://jobs.wordpress.net/job/create-a-front-end-plugin-and-integrate-it-with-our-backend-apis/)
 <!-- JOBS:END -->
 
 ## Central
