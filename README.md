@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WPCasa plugin](https://make.wordpress.org/polyglots/2024/08/07/pte-request-for-wpcasa-plugin/)
+- [Agenda: Weekly Polyglots Chat – August 7, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/07/agenda-weekly-polyglots-chat-august-7-2024-0700-utc/)
 - [I translated plugins.](https://make.wordpress.org/polyglots/2024/08/06/i-translated-plugins/)
 - [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/06/pte-request-for-delisho-recipe-widgets-and-blocks-2/)
 - [CLPTE request in project OptinMonster](https://make.wordpress.org/polyglots/2024/08/06/clpte-request-in-project-optinmonster/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for #nn_NO for…](https://make.wordpress.org/polyglots/2024/08/05/pte-request-for-nn_no-for/)
 - [OpenAI’s gpt-4o-mini model is available at translate.wordpress.org](https://make.wordpress.org/polyglots/2024/08/05/openais-gpt-4o-mini-model-is-available-at-translate-wordpress-org/)
 - [PTE Request for the pattern](https://make.wordpress.org/polyglots/2024/08/04/pte-request-for-the-pattern/)
-- [PTE Request for WordPress 6.6x Development](https://make.wordpress.org/polyglots/2024/08/04/pte-request-for-wordpress-6-6x-development/)
-- [Hello, I found so many…](https://make.wordpress.org/polyglots/2024/08/04/hello-i-found-so-many/)
 <!-- POLYGLOTS:END -->
 
 ## Support
