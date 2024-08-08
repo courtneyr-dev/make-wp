@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/08/08/pte-request-for-below-listed-themes-4/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/08/07/i-have-suggested-a-translation-2/)
 - [PTE Request for WPCasa plugin](https://make.wordpress.org/polyglots/2024/08/07/pte-request-for-wpcasa-plugin/)
 - [Agenda: Weekly Polyglots Chat – August 7, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/07/agenda-weekly-polyglots-chat-august-7-2024-0700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/06/pte-request-for-aesirx-analytics-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/05/hi-dear-mentors-we-have-141/)
 - [PTE Request for #nn_NO for…](https://make.wordpress.org/polyglots/2024/08/05/pte-request-for-nn_no-for/)
-- [OpenAI’s gpt-4o-mini model is available at translate.wordpress.org](https://make.wordpress.org/polyglots/2024/08/05/openais-gpt-4o-mini-model-is-available-at-translate-wordpress-org/)
 <!-- POLYGLOTS:END -->
 
 ## Support
