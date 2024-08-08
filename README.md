@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to build a responsive WordPress website](https://wordpress.tv/2024/08/07/how-to-build-a-responsive-wordpress-website/)
 - [Meet the new Learn.WordPress.org](https://wordpress.tv/2024/08/06/meet-the-new-learn-wordpress-org/)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://wordpress.tv/2024/08/06/how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition/)
 - [Using a CDN to enhance performance](https://wordpress.tv/2024/08/05/using-a-cdn-to-enhance-performance/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [En un contenido web perfecto manda la semántica y no el aspecto](https://wordpress.tv/2024/07/23/en-un-contenido-web-perfecto-manda-la-semantica-y-no-el-aspecto/)
 - [Conociendo a MidJourney: Generación de imágenes con IA](https://wordpress.tv/2024/07/23/conociendo-a-midjourney-generacion-de-imagenes-con-ia/)
 - [Pequeños detalles, grandes resultados: Optimiza tu web](https://wordpress.tv/2024/07/23/pequenos-detalles-grandes-resultados-optimiza-tu-web/)
-- [APIs y Automatización: Transformando tu WordPress en una Máquina de Negocios](https://wordpress.tv/2024/07/23/apis-y-automatizacion-transformando-tu-wordpress-en-una-maquina-de-negocios/)
 <!-- WPTV:END -->
 
 ## Marketing
