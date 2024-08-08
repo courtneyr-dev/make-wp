@@ -395,6 +395,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [WP-CLI v2.11.0 Release Notes](https://make.wordpress.org/cli/2024/08/08/wp-cli-v2-11-0-release-notes/)
 - [WP-CLI v2.11.0 release date: August 6th](https://make.wordpress.org/cli/2024/07/29/wp-cli-v2-11-0-release-date-august-6th/)
 - [Fifteen Merged PRs for WP-CLI Hack Day 2024](https://make.wordpress.org/cli/2024/04/27/fifteen-merged-prs-for-wp-cli-hack-day-2024/)
 - [Save the date! WP-CLI Hack Day on Friday, April 26th](https://make.wordpress.org/cli/2024/04/02/save-the-date-wp-cli-hack-day-on-friday-april-26th/)
@@ -404,7 +405,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/cli/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/cli/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Twenty-One Merged PRs for WP-CLI Hack Day 2023](https://make.wordpress.org/cli/2023/11/11/twenty-one-merged-prs-for-wp-cli-hack-day-2023/)
-- [WP-CLI v2.9.0 Release Notes](https://make.wordpress.org/cli/2023/10/25/wp-cli-v2-9-0-release-notes/)
 <!-- CLI:END -->
 
 ## Hosting
