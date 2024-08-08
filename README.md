@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, August 7, 2024](https://make.wordpress.org/core/2024/08/08/summary-dev-chat-august-7-2024/)
 - [Agenda, Dev Chat, Wednesday Aug 7, 2024](https://make.wordpress.org/core/2024/08/07/agenda-dev-chat-wednesday-aug-7-2024/)
 - [Performance Chat Summary: 6 August 2024](https://make.wordpress.org/core/2024/08/06/performance-chat-summary-06-august-2024/)
 - [Performance Chat Agenda: 6 August 2024](https://make.wordpress.org/core/2024/08/06/performance-chat-agenda-06-august-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Crowdstrike disaster is good…](https://make.wordpress.org/core/2024/07/19/the-crowdstrike-disaster-is-good/)
 - [WordPress 6.6.1 RC1 is now available](https://make.wordpress.org/core/2024/07/18/wordpress-6-6-1-rc1-is-now-available/)
 - [Summary, Dev Chat, July 17, 2024](https://make.wordpress.org/core/2024/07/18/summary-dev-chat-july-17-2024/)
-- [WordPress 6.6.1: An upcoming maintenance release](https://make.wordpress.org/core/2024/07/18/wordpress-6-6-1-an-upcoming-maintenance-release/)
 <!-- CORE:END -->
 
 ## Design
