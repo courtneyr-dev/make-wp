@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Adding theme.json in classic themes](https://learn.wordpress.org/?meeting=adding-theme-json-in-classic-themes)
 - [Developer Hours: Hello, Blocks! – An Introduction to Block Development](https://learn.wordpress.org/?meeting=developer-hours-hello-blocks-an-introduction-to-block-development)
 - [Developer Hours: Building WordPress themes with the Create Block Theme plugin](https://learn.wordpress.org/?meeting=developer-hours-building-wordpress-themes-with-the-create-block-theme-plugin)
 - [Meet the new Learn.WordPress.org](https://learn.wordpress.org/?meeting=meet-the-new-learn-wordpress-org-2)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recording awesome videos for WordPress demos, courses, and more](https://learn.wordpress.org/?meeting=recording-awesome-videos-for-wordpress-demos-courses-and-more)
 - [Using the Interactivity API outside of WordPress](https://learn.wordpress.org/?meeting=using-the-interactivity-api-outside-of-wordpress)
 - [Setting up your header and footer](https://learn.wordpress.org/?meeting=setting-up-your-header-and-footer)
-- [Developer Hours: Creating WordPress Playground Blueprints for Testing and Demos](https://learn.wordpress.org/?meeting=253503)
 <!-- SLS:END -->
 
 ## Test
