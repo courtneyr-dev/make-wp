@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [user signup](https://developer.wordpress.org/cli/commands/user/signup/)
+- [user signup delete](https://developer.wordpress.org/cli/commands/user/signup/delete/)
+- [user signup get](https://developer.wordpress.org/cli/commands/user/signup/get/)
+- [user exists](https://developer.wordpress.org/cli/commands/user/exists/)
+- [site generate](https://developer.wordpress.org/cli/commands/site/generate/)
+- [user signup activate](https://developer.wordpress.org/cli/commands/user/signup/activate/)
+- [user signup list](https://developer.wordpress.org/cli/commands/user/signup/list/)
 - [Common issues](https://developer.wordpress.org/plugins/wordpress-org/common-issues/)
 - [WP_Theme_JSON_Schema::migrate_v2_to_v3&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_theme_json_schema/migrate_v2_to_v3/)
 - [is_utf8_charset&lpar;&rpar;](https://developer.wordpress.org/reference/functions/is_utf8_charset/)
-- [wp_render_elements_support&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_render_elements_support/)
-- [wp_get_l10n_php_file_data&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_l10n_php_file_data/)
-- [wp_autoload_values_to_autoload&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_autoload_values_to_autoload/)
-- [wp_autoload_values_to_autoload](https://developer.wordpress.org/reference/hooks/wp_autoload_values_to_autoload/)
-- [wp_max_autoloaded_option_size](https://developer.wordpress.org/reference/hooks/wp_max_autoloaded_option_size/)
-- [wp_filter_default_autoload_value_via_option_size&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_filter_default_autoload_value_via_option_size/)
-- [wp_default_autoload_value](https://developer.wordpress.org/reference/hooks/wp_default_autoload_value/)
 <!-- DEVHUB:END -->
 
 ## Themes
