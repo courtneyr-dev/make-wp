@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Interactive Map Widget] and [Videos on Admin Dashboard]](https://make.wordpress.org/polyglots/2024/08/09/pte-request-for-interactive-map-widget-and-videos-on-admin-dashboard/)
+- [PTE Request for Photoberry Studio](https://make.wordpress.org/polyglots/2024/08/09/pte-request-for-photoberry-studio/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/08/09/hello-91/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/08/08/pte-request-for-below-listed-themes-4/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/08/07/i-have-suggested-a-translation-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I translated plugins.](https://make.wordpress.org/polyglots/2024/08/06/i-translated-plugins/)
 - [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/06/pte-request-for-delisho-recipe-widgets-and-blocks-2/)
 - [CLPTE request in project OptinMonster](https://make.wordpress.org/polyglots/2024/08/06/clpte-request-in-project-optinmonster/)
-- [PTE Request for AesirX Analytics](https://make.wordpress.org/polyglots/2024/08/06/pte-request-for-aesirx-analytics-2/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/05/hi-dear-mentors-we-have-141/)
 <!-- POLYGLOTS:END -->
 
 ## Support
