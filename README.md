@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-2/)
+- [Senior Full Stack Developer – React &amp; Gutenberg](https://jobs.wordpress.net/job/senior-full-stack-developer-react-gutenberg/)
+- [[Astra] Full-Stack WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-full-stack-wordpress-plugin-developer/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-846/)
+- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester/)
+- [Quality Assurance Specialist](https://jobs.wordpress.net/job/quality-assurance-specialist/)
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-845/)
 - [HELP SET UP jetpack AS THEIR](https://jobs.wordpress.net/job/help-set-up-jetpack-as-their/)
 - [Technical / Client Services Agent](https://jobs.wordpress.net/job/technical-client-services-agent/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-844/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-22/)
-- [Partnerships Manager](https://jobs.wordpress.net/job/partnerships-manager/)
-- [WordPress Website Customization](https://jobs.wordpress.net/job/wordpress-website-customization/)
-- [Join Our Team at Plugmatter.com – WordPress Support Developer Opportunity](https://jobs.wordpress.net/job/join-our-team-at-plugmatter-com-wordpress-support-developer-opportunity/)
-- [Update WordPress Theme For 2024](https://jobs.wordpress.net/job/update-wordpress-theme-for-2024/)
 <!-- JOBS:END -->
 
 ## Central
