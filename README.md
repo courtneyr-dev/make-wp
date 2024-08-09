@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Descubriendo Playground, la herramienta para hacer demos](https://wordpress.tv/2024/08/09/descubriendo-playground-la-herramienta-para-hacer-demos/)
 - [How to build a responsive WordPress website](https://wordpress.tv/2024/08/07/how-to-build-a-responsive-wordpress-website/)
 - [Meet the new Learn.WordPress.org](https://wordpress.tv/2024/08/06/meet-the-new-learn-wordpress-org/)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://wordpress.tv/2024/08/06/how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Migrar una web existente a WordPress: Desafíos y Soluciones](https://wordpress.tv/2024/07/23/migrar-una-web-existente-a-wordpress-desafios-y-soluciones/)
 - [En un contenido web perfecto manda la semántica y no el aspecto](https://wordpress.tv/2024/07/23/en-un-contenido-web-perfecto-manda-la-semantica-y-no-el-aspecto/)
 - [Conociendo a MidJourney: Generación de imágenes con IA](https://wordpress.tv/2024/07/23/conociendo-a-midjourney-generacion-de-imagenes-con-ia/)
-- [Pequeños detalles, grandes resultados: Optimiza tu web](https://wordpress.tv/2024/07/23/pequenos-detalles-grandes-resultados-optimiza-tu-web/)
 <!-- WPTV:END -->
 
 ## Marketing
