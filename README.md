@@ -352,6 +352,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [What never changes – the fundaments of cognitive psychology and how it relates to website UX](https://wordpress.tv/2024/08/11/what-never-changes-the-fundaments-of-cognitive-psychology-and-how-it-relates-to-website-ux/)
+- [Automated vs. Manual Accessibility Testing, and What About AI?](https://wordpress.tv/2024/08/11/automated-vs-manual-accessibility-testing-and-what-about-ai/)
+- [Living and breathing open source](https://wordpress.tv/2024/08/11/living-and-breathing-open-source/)
+- [Kilpailija vai kollega? Verkostoidutaan!](https://wordpress.tv/2024/08/11/kilpailija-vai-kollega-verkostoidutaan/)
+- [Anonymous Analytics – How and what to do with it](https://wordpress.tv/2024/08/11/anonymous-analytics-how-and-what-to-do-with-it/)
+- [Kuinka Suomen suurin WordPress – WooCommerce-aiheinen Facebook-ryhmä voi auttaa sinua kotisivujen tekijänä, digitoimistona, lisäosien kehittäjänä?](https://wordpress.tv/2024/08/11/kuinka-suomen-suurin-wordpress/)
+- [Making connections: the joy of organizing the local Community](https://wordpress.tv/2024/08/11/making-connections-the-joy-of-organizing-the-local-community/)
+- [Tunnista ja ehkäise työuupumus](https://wordpress.tv/2024/08/11/tunnista-ja-ehkaise-tyouupumus/)
 - [Towards greater development experience through Web Platform API’s](https://wordpress.tv/2024/08/11/towards-greater-development-experience-through-web-platform-apis/)
 - [Designing Greener WordPress Websites](https://wordpress.tv/2024/08/11/designing-greener-wordpress-websites/)
 - [Why you should create native Gutenberg blocks](https://wordpress.tv/2024/08/11/why-you-should-create-native-gutenberg-blocks/)
@@ -369,14 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://wordpress.tv/2024/08/06/how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition/)
 - [Using a CDN to enhance performance](https://wordpress.tv/2024/08/05/using-a-cdn-to-enhance-performance/)
 - [Migración SEO Contenidos y AI](https://wordpress.tv/2024/08/05/migracion-seo-contenidos-y-ai/)
-- [Making the most of the Font Library](https://wordpress.tv/2024/07/30/making-the-most-of-the-font-library/)
-- [Exploring WordPress 6.6](https://wordpress.tv/2024/07/30/exploring-wordpress-6-6-2/)
-- [El seguro en la era digital: Protegiendo contra los nuevos riesgos y desafíos](https://wordpress.tv/2024/07/29/seguro-era-digital-protegiendo-contra-nuevos-riesgos-y-desafios/)
-- [Shivanand Sharma: A Step by Step Guide to Cleaning up a Hacked WordPress Website](https://wordpress.tv/2024/07/26/shivanand-sharma-a-step-by-step-guide-to-cleaning-up-a-hacked-wordpress-website/)
-- [Converting a classic theme to a block theme](https://wordpress.tv/2024/07/26/converting-a-classic-theme-to-a-block-theme/)
-- [Theme.json in classic themes](https://wordpress.tv/2024/07/26/theme-json-in-classic-themes/)
-- [Theme options](https://wordpress.tv/2024/07/26/theme-options/)
-- [The Loop](https://wordpress.tv/2024/07/26/the-loop/)
 <!-- WPTV:END -->
 
 ## Marketing
