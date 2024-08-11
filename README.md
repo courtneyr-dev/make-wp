@@ -352,6 +352,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Towards greater development experience through Web Platform API’s](https://wordpress.tv/2024/08/11/towards-greater-development-experience-through-web-platform-apis/)
+- [Designing Greener WordPress Websites](https://wordpress.tv/2024/08/11/designing-greener-wordpress-websites/)
+- [Why you should create native Gutenberg blocks](https://wordpress.tv/2024/08/11/why-you-should-create-native-gutenberg-blocks/)
+- [Nobody cares about your brand colour](https://wordpress.tv/2024/08/11/nobody-cares-about-your-brand-colour/)
+- [WordPress Through the Terminal](https://wordpress.tv/2024/08/11/wordpress-through-the-terminal-6/)
+- [Breath in, breath out… The Checklist to recover your site and reputation after a hack.](https://wordpress.tv/2024/08/11/breath-in-breath-out-the-checklist-to-recover-your-site-and-reputation-after-a-hack/)
+- [Sivuston sisäisen haun kehittäminen suomen kielen ehdoilla](https://wordpress.tv/2024/08/11/sivuston-sisaisen-haun-kehittaminen-suomen-kielen-ehdoilla/)
+- [Building the Perfect Managed WordPress Hosting Platform for Your Needs](https://wordpress.tv/2024/08/11/building-the-perfect-managed-wordpress-hosting-platform-for-your-needs/)
+- [War on WordPress](https://wordpress.tv/2024/08/11/war-on-wordpress/)
+- [ICT Greenhouse Gas Emissions Are Exploding – How WordPress Community Should Engage and Contribute Their Part](https://wordpress.tv/2024/08/11/ict-greenhouse-gas-emissions-are-exploding-how-wordpress-community-should-engage-and-contribute-their-part/)
+- [What to take into account when publishing a plugin](https://wordpress.tv/2024/08/11/what-to-take-into-account-when-publishing-a-plugin/)
 - [Descubriendo Playground, la herramienta para hacer demos](https://wordpress.tv/2024/08/09/descubriendo-playground-la-herramienta-para-hacer-demos/)
 - [How to build a responsive WordPress website](https://wordpress.tv/2024/08/07/how-to-build-a-responsive-wordpress-website/)
 - [Meet the new Learn.WordPress.org](https://wordpress.tv/2024/08/06/meet-the-new-learn-wordpress-org/)
@@ -366,17 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Theme.json in classic themes](https://wordpress.tv/2024/07/26/theme-json-in-classic-themes/)
 - [Theme options](https://wordpress.tv/2024/07/26/theme-options/)
 - [The Loop](https://wordpress.tv/2024/07/26/the-loop/)
-- [Introduction to classic themes](https://wordpress.tv/2024/07/26/introduction-to-classic-themes/)
-- [改めて学ぶ、アクションフックとフィルターフック。WordPressカスタマイズのポイントを抑えよう!](https://wordpress.tv/2024/07/25/learn-again-about-action-hooks-and-filter-hooks-the-key-to-wordpress-customization/)
-- [What’s new in WordPress 6.6?](https://wordpress.tv/2024/07/24/whats-new-in-wordpress-6-6/)
-- [Block Variations](https://wordpress.tv/2024/07/24/block-variations/)
-- [Block Stylesheets](https://wordpress.tv/2024/07/24/block-stylesheets/)
-- [Block Style Variations](https://wordpress.tv/2024/07/24/block-style-variations/)
-- [WordPress y el Marketing Inclusivo. Si, ¿y?](https://wordpress.tv/2024/07/23/wordpress-y-el-marketing-inclusivo-si-y/)
-- [El uso de WordPress para la docencia universitaria](https://wordpress.tv/2024/07/23/el-uso-de-wordpress-para-la-docencia-universitaria/)
-- [Migrar una web existente a WordPress: Desafíos y Soluciones](https://wordpress.tv/2024/07/23/migrar-una-web-existente-a-wordpress-desafios-y-soluciones/)
-- [En un contenido web perfecto manda la semántica y no el aspecto](https://wordpress.tv/2024/07/23/en-un-contenido-web-perfecto-manda-la-semantica-y-no-el-aspecto/)
-- [Conociendo a MidJourney: Generación de imágenes con IA](https://wordpress.tv/2024/07/23/conociendo-a-midjourney-generacion-de-imagenes-con-ia/)
 <!-- WPTV:END -->
 
 ## Marketing
