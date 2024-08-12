@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] Web Designer](https://jobs.wordpress.net/job/astra-web-designer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-847/)
 - [Web Services Developer](https://jobs.wordpress.net/job/web-services-developer/)
 - [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-2/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester/)
 - [Quality Assurance Specialist](https://jobs.wordpress.net/job/quality-assurance-specialist/)
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-4/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-845/)
 <!-- JOBS:END -->
 
 ## Central
