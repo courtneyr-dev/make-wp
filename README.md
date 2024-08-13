@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Migration to WordPress of existing Laravel site aerialliftequipment.com](https://jobs.wordpress.net/job/migration-to-wordpress-of-existing-laravel-site-aerialliftequipment-com/)
 - [[Astra] Web Designer](https://jobs.wordpress.net/job/astra-web-designer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-847/)
 - [Web Services Developer](https://jobs.wordpress.net/job/web-services-developer/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-846/)
 - [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester/)
 - [Quality Assurance Specialist](https://jobs.wordpress.net/job/quality-assurance-specialist/)
-- [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-4/)
 <!-- JOBS:END -->
 
 ## Central
