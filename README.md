@@ -556,6 +556,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordPress and Remote Work &lpar;Online&rpar; in Spanish](https://central.wordcamp.org/wordcamps/cenia-spain-online/)
 - [WordCamp Skopje, North Macedonia](https://central.wordcamp.org/wordcamps/wordcamp-skopje-north-macedonia/)
+- [WordCamp Malaysia](https://central.wordcamp.org/wordcamps/wordcamp-kuala-lumpur-malaysia/)
 - [WordCamp Europe](https://central.wordcamp.org/wordcamps/wordcamp-europe-2025/)
 - [WordCamp Larissa, Greece](https://central.wordcamp.org/wordcamps/wordcamp-larissa-greece/)
 - [WordCamp Kolkata, West Bengal, India](https://central.wordcamp.org/wordcamps/wordcamp-kolkata-west-bengal-india-3/)
@@ -565,7 +566,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp San José, Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-7/)
 - [WordCamp Bogotá](https://central.wordcamp.org/wordcamps/wordcamp-bogota/)
 - [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-6/)
-- [Online Payments and Delivery Summit](https://central.wordcamp.org/wordcamps/online-payments-delivery-summit/)
 - [WordCamp Karlsruhe, Germany](https://central.wordcamp.org/wordcamps/wordcamp-karlsruhe-germany/)
 - [WordCamp Romania](https://central.wordcamp.org/wordcamps/wordcamp-romania-brasov/)
 - [WordCamp Nagpur, Maharashtra, India](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-3/)
