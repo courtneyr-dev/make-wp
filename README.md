@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The building blocks of WordPress templates](https://wordpress.tv/2024/08/12/the-building-blocks-of-wordpress-templates/)
+- [How Styles are generated](https://wordpress.tv/2024/08/12/how-styles-are-generated/)
 - [What never changes – the fundaments of cognitive psychology and how it relates to website UX](https://wordpress.tv/2024/08/11/what-never-changes-the-fundaments-of-cognitive-psychology-and-how-it-relates-to-website-ux/)
 - [Automated vs. Manual Accessibility Testing, and What About AI?](https://wordpress.tv/2024/08/11/automated-vs-manual-accessibility-testing-and-what-about-ai/)
 - [Living and breathing open source](https://wordpress.tv/2024/08/11/living-and-breathing-open-source/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to build a responsive WordPress website](https://wordpress.tv/2024/08/07/how-to-build-a-responsive-wordpress-website/)
 - [Meet the new Learn.WordPress.org](https://wordpress.tv/2024/08/06/meet-the-new-learn-wordpress-org/)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://wordpress.tv/2024/08/06/how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition/)
-- [Using a CDN to enhance performance](https://wordpress.tv/2024/08/05/using-a-cdn-to-enhance-performance/)
-- [Migración SEO Contenidos y AI](https://wordpress.tv/2024/08/05/migracion-seo-contenidos-y-ai/)
 <!-- WPTV:END -->
 
 ## Marketing
