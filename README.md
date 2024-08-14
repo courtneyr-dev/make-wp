@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Hello, Blocks! – An Introduction to Block Development](https://wordpress.tv/2024/08/13/developer-hours-hello-blocks-an-introduction-to-block-development/)
 - [The building blocks of WordPress templates](https://wordpress.tv/2024/08/12/the-building-blocks-of-wordpress-templates/)
 - [How Styles are generated](https://wordpress.tv/2024/08/12/how-styles-are-generated/)
 - [What never changes – the fundaments of cognitive psychology and how it relates to website UX](https://wordpress.tv/2024/08/11/what-never-changes-the-fundaments-of-cognitive-psychology-and-how-it-relates-to-website-ux/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Descubriendo Playground, la herramienta para hacer demos](https://wordpress.tv/2024/08/09/descubriendo-playground-la-herramienta-para-hacer-demos/)
 - [How to build a responsive WordPress website](https://wordpress.tv/2024/08/07/how-to-build-a-responsive-wordpress-website/)
 - [Meet the new Learn.WordPress.org](https://wordpress.tv/2024/08/06/meet-the-new-learn-wordpress-org/)
-- [How to install WordPress on an Ubuntu VPS: Nginx edition](https://wordpress.tv/2024/08/06/how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition/)
 <!-- WPTV:END -->
 
 ## Marketing
