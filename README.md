@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Contributor Working Group/Mentorship Chat Agenda | August 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/08/14/contributor-working-group-mentorship-chat-agenda-august-15th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Proposed Change to Advertising/Marketing Expense Guidelines](https://make.wordpress.org/community/2024/08/07/proposed-change-to-advertising-marketing-expense-guidelines/)
 - [Important Call to Action: Help Us Reactivate Inactive Meetup Groups by Sept 16](https://make.wordpress.org/community/2024/08/06/important-call-to-action-help-us-reactivate-inactive-meetup-groups-by-sept-16/)
 - [X-post: Training Team Update – August 2024](https://make.wordpress.org/community/2024/08/05/xpost-training-team-update-august-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: July 2024](https://make.wordpress.org/community/2024/07/29/meetup-organizer-newsletter-july-2024/)
 - [Using Playground to demo WordPress to first time meetup participants](https://make.wordpress.org/community/2024/07/28/using-playground-to-demo-wordpress-to-first-time-meetup-participants/)
 - [Update: Meetup Reactivation and Closures](https://make.wordpress.org/community/2024/07/27/update-meetup-reactivation-and-closures/)
-- [Venue Policy Update](https://make.wordpress.org/community/2024/07/23/venue-policy-update/)
 <!-- COMMUNITY:END -->
 
 ## Meta
