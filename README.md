@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 19.0? &lpar;14 August&rpar;](https://make.wordpress.org/core/2024/08/14/whats-new-in-gutenberg-19-0-14-august/)
 - [Performance Chat Summary: 13 August 2024](https://make.wordpress.org/core/2024/08/13/performance-chat-summary-13-august-2024/)
 - [Agenda, Dev Chat, Wednesday Aug 14, 2024](https://make.wordpress.org/core/2024/08/13/agenda-dev-chat-wednesday-aug-14-2024/)
 - [Summary, Dev Chat, August 7, 2024](https://make.wordpress.org/core/2024/08/08/summary-dev-chat-august-7-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 23 July 2024](https://make.wordpress.org/core/2024/07/23/performance-chat-agenda-23-july-2024/)
 - [Proposal: Adjusting Dev Chat times for the 6.7 release](https://make.wordpress.org/core/2024/07/23/proposal-adjusting-dev-chat-times-for-the-6-7-release/)
 - [Aligning Committer-Level Access Across the Code Base](https://make.wordpress.org/core/2024/07/22/aligning-committer-level-access-across-the-code-base/)
-- [The Crowdstrike disaster is good…](https://make.wordpress.org/core/2024/07/19/the-crowdstrike-disaster-is-good/)
 <!-- CORE:END -->
 
 ## Design
