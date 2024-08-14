@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: August 16, 2024](https://make.wordpress.org/accessibility/2024/08/14/accessibility-team-meeting-agenda-august-16-2024/)
 - [Accessibility Team Meeting Notes: August 2, 2024](https://make.wordpress.org/accessibility/2024/08/04/accessibility-team-meeting-notes-august-2-2024/)
 - [X-post: Meet the new Learn WordPress](https://make.wordpress.org/accessibility/2024/08/02/xpost-meet-the-new-learn-wordpress/)
 - [Accessibility Team Meeting Agenda: August 2, 2024](https://make.wordpress.org/accessibility/2024/07/29/accessibility-team-meeting-agenda-august-2-2024/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: July 19, 2024](https://make.wordpress.org/accessibility/2024/07/18/accessibility-team-meeting-agenda-july-19-2024/)
 - [Accessibility Team Meeting Agenda: July 5, 2024](https://make.wordpress.org/accessibility/2024/07/05/accessibility-team-meeting-agenda-july-5-2024/)
 - [Accessibility Team Meeting Agenda: June 21, 2024](https://make.wordpress.org/accessibility/2024/06/20/accessibility-team-meeting-agenda-june-21-2024/)
-- [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/accessibility/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
