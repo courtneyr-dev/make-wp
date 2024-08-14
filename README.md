@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Control your contributions with mailmap](https://make.wordpress.org/core/2024/08/14/control-your-contributions-with-mailmap/)
 - [WordPress 6.7 release squad ready](https://make.wordpress.org/core/2024/08/14/wordpress-6-7-release-squad-ready/)
 - [What’s new in Gutenberg 19.0? &lpar;14 August&rpar;](https://make.wordpress.org/core/2024/08/14/whats-new-in-gutenberg-19-0-14-august/)
 - [Performance Chat Summary: 13 August 2024](https://make.wordpress.org/core/2024/08/13/performance-chat-summary-13-august-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 23 July 2024](https://make.wordpress.org/core/2024/07/24/performance-chat-summary-23-july-2024/)
 - [Agenda, Dev Chat, Wednesday July 24, 2024](https://make.wordpress.org/core/2024/07/23/agenda-dev-chat-wednesday-july-24-2024/)
 - [Performance Chat Agenda: 23 July 2024](https://make.wordpress.org/core/2024/07/23/performance-chat-agenda-23-july-2024/)
-- [Proposal: Adjusting Dev Chat times for the 6.7 release](https://make.wordpress.org/core/2024/07/23/proposal-adjusting-dev-chat-times-for-the-6-7-release/)
 <!-- CORE:END -->
 
 ## Design
