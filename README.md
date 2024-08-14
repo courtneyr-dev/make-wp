@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for website-chat-button-kommo-integration](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-website-chat-button-kommo-integration/)
 - [Agenda: Weekly Polyglots Chat – August 14, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/14/agenda-weekly-polyglots-chat-august-14-2024-1300-utc/)
 - [PTE request for Tainacan support for Blocky](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-tainacan-support-for-blocky/)
 - [They have suggested translations for…](https://make.wordpress.org/polyglots/2024/08/14/they-have-suggested-translations-for/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello,](https://make.wordpress.org/polyglots/2024/08/09/hello-91/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/08/08/pte-request-for-below-listed-themes-4/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/08/07/i-have-suggested-a-translation-2/)
-- [PTE Request for WPCasa plugin](https://make.wordpress.org/polyglots/2024/08/07/pte-request-for-wpcasa-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
