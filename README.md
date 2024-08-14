@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [They have suggested translations for…](https://make.wordpress.org/polyglots/2024/08/14/they-have-suggested-translations-for/)
 - [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/08/13/pte-request-for-bellow-listed-themes-6/)
 - [PTE Request for [Interactive Map Widget] and [Videos on Admin Dashboard]](https://make.wordpress.org/polyglots/2024/08/09/pte-request-for-interactive-map-widget-and-videos-on-admin-dashboard/)
 - [PTE Request for Photoberry Studio](https://make.wordpress.org/polyglots/2024/08/09/pte-request-for-photoberry-studio/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WPCasa plugin](https://make.wordpress.org/polyglots/2024/08/07/pte-request-for-wpcasa-plugin/)
 - [Agenda: Weekly Polyglots Chat – August 7, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/07/agenda-weekly-polyglots-chat-august-7-2024-0700-utc/)
 - [I translated plugins.](https://make.wordpress.org/polyglots/2024/08/06/i-translated-plugins/)
-- [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/06/pte-request-for-delisho-recipe-widgets-and-blocks-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
