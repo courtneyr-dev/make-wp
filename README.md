@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-83/)
+- [UI/UX Plugin Designer for WordPress plugins &lpar;WordPress, UI/UX design, Figma, Jira, Slack, CSS, HTML, AB Testing&rpar;](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins-wordpress-ui-ux-design-figma-jira-slack-css-html-ab-testing/)
+- [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn/)
+- [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-35/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-15/)
 - [Website Maintenance](https://jobs.wordpress.net/job/website-maintenance-4/)
 - [Migration to WordPress of existing Laravel site aerialliftequipment.com](https://jobs.wordpress.net/job/migration-to-wordpress-of-existing-laravel-site-aerialliftequipment-com/)
 - [[Astra] Web Designer](https://jobs.wordpress.net/job/astra-web-designer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-847/)
-- [Web Services Developer](https://jobs.wordpress.net/job/web-services-developer/)
-- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-2/)
-- [Senior Full Stack Developer – React &amp; Gutenberg](https://jobs.wordpress.net/job/senior-full-stack-developer-react-gutenberg/)
-- [[Astra] Full-Stack WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-full-stack-wordpress-plugin-developer/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-846/)
-- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester/)
 <!-- JOBS:END -->
 
 ## Central
