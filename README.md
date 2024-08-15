@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/15/hi-dear-mentors-we-have-142/)
 - [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-delisho-recipe-widgets-and-blocks-3/)
 - [PTE Request for website-chat-button-kommo-integration](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-website-chat-button-kommo-integration/)
 - [Agenda: Weekly Polyglots Chat – August 14, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/14/agenda-weekly-polyglots-chat-august-14-2024-1300-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Interactive Map Widget] and [Videos on Admin Dashboard]](https://make.wordpress.org/polyglots/2024/08/09/pte-request-for-interactive-map-widget-and-videos-on-admin-dashboard/)
 - [PTE Request for Photoberry Studio](https://make.wordpress.org/polyglots/2024/08/09/pte-request-for-photoberry-studio/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/08/09/hello-91/)
-- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/08/08/pte-request-for-below-listed-themes-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
