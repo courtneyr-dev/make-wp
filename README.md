@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Qué tener en cuenta a la hora de crear una web](https://wordpress.tv/2024/08/15/que-tener-en-cuenta-a-la-hora-de-crear-una-web/)
 - [Developer Hours: Hello, Blocks! – An Introduction to Block Development](https://wordpress.tv/2024/08/13/developer-hours-hello-blocks-an-introduction-to-block-development/)
 - [The building blocks of WordPress templates](https://wordpress.tv/2024/08/12/the-building-blocks-of-wordpress-templates/)
 - [How Styles are generated](https://wordpress.tv/2024/08/12/how-styles-are-generated/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What to take into account when publishing a plugin](https://wordpress.tv/2024/08/11/what-to-take-into-account-when-publishing-a-plugin/)
 - [Descubriendo Playground, la herramienta para hacer demos](https://wordpress.tv/2024/08/09/descubriendo-playground-la-herramienta-para-hacer-demos/)
 - [How to build a responsive WordPress website](https://wordpress.tv/2024/08/07/how-to-build-a-responsive-wordpress-website/)
-- [Meet the new Learn.WordPress.org](https://wordpress.tv/2024/08/06/meet-the-new-learn-wordpress-org/)
 <!-- WPTV:END -->
 
 ## Marketing
