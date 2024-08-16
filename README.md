@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/polyglots/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/08/16/i-have-suggested-a-translation-3/)
 - [PTE Request for Delisho – themes](https://make.wordpress.org/polyglots/2024/08/15/pte-request-for-delisho-themes/)
 - [Запрос PTE для “Wappi –…](https://make.wordpress.org/polyglots/2024/08/15/%d0%b7%d0%b0%d0%bf%d1%80%d0%be%d1%81-pte-%d0%b4%d0%bb%d1%8f-wappi/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – August 14, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/14/agenda-weekly-polyglots-chat-august-14-2024-1300-utc/)
 - [PTE request for Tainacan support for Blocky](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-tainacan-support-for-blocky/)
 - [They have suggested translations for…](https://make.wordpress.org/polyglots/2024/08/14/they-have-suggested-translations-for/)
-- [PTE Request for Bellow Listed Themes](https://make.wordpress.org/polyglots/2024/08/13/pte-request-for-bellow-listed-themes-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
