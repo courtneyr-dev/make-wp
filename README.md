@@ -395,6 +395,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/cli/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [WP-CLI v2.11.0 Release Notes](https://make.wordpress.org/cli/2024/08/08/wp-cli-v2-11-0-release-notes/)
 - [WP-CLI v2.11.0 release date: August 6th](https://make.wordpress.org/cli/2024/07/29/wp-cli-v2-11-0-release-date-august-6th/)
 - [Fifteen Merged PRs for WP-CLI Hack Day 2024](https://make.wordpress.org/cli/2024/04/27/fifteen-merged-prs-for-wp-cli-hack-day-2024/)
@@ -404,7 +405,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/cli/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/cli/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/cli/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [Twenty-One Merged PRs for WP-CLI Hack Day 2023](https://make.wordpress.org/cli/2023/11/11/twenty-one-merged-prs-for-wp-cli-hack-day-2023/)
 <!-- CLI:END -->
 
 ## Hosting
