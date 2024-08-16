@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Hallway Hangout recording: Let’s chat about what’s next in Gutenberg &lpar;August 2024&rpar;](https://make.wordpress.org/core/2024/08/16/hallway-hangout-recording-lets-chat-about-whats-next-in-gutenberg-august-2024/)
 - [Introducing Twenty Twenty-Five](https://make.wordpress.org/core/2024/08/15/introducing-twenty-twenty-five/)
 - [Summary, Dev Chat, August 14, 2024](https://make.wordpress.org/core/2024/08/15/summary-dev-chat-august-14-2024/)
 - [Automatic conversion of HEIC images to JPEG in WordPress 6.7](https://make.wordpress.org/core/2024/08/15/automatic-conversion-of-heic-images-to-jpeg-in-wordpress-6-7/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, July 24, 2024](https://make.wordpress.org/core/2024/07/31/summary-dev-chat-july-24-2024/)
 - [Performance Chat Summary: 30 July 2024](https://make.wordpress.org/core/2024/07/30/performance-chat-summary-30-july-2024/)
 - [Performance Chat Agenda: 30 July 2024](https://make.wordpress.org/core/2024/07/30/performance-chat-agenda-30-july-2024/)
-- [WordPress 6.6 Performance Improvements](https://make.wordpress.org/core/2024/07/29/wordpress-6-6-performance-improvements/)
 <!-- CORE:END -->
 
 ## Design
