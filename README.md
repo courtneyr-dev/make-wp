@@ -554,6 +554,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordCamp Youth Hackathon Skopje](https://central.wordcamp.org/wordcamps/skopje-north-macedonia/)
 - [WordPress and Remote Work &lpar;Online&rpar; in Spanish](https://central.wordcamp.org/wordcamps/cenia-spain-online/)
 - [WordCamp Skopje, North Macedonia](https://central.wordcamp.org/wordcamps/wordcamp-skopje-north-macedonia/)
 - [do_action Ahmedabad, India](https://central.wordcamp.org/wordcamps/ahmedabad-india/)
@@ -568,7 +569,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-6/)
 - [WordCamp Karlsruhe, Germany](https://central.wordcamp.org/wordcamps/wordcamp-karlsruhe-germany/)
 - [WordCamp Romania](https://central.wordcamp.org/wordcamps/wordcamp-romania-brasov/)
-- [WordCamp Nagpur, Maharashtra, India](https://central.wordcamp.org/wordcamps/wordcamp-nagpur-maharashtra-india-3/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
