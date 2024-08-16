@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP Front-End Designer](https://jobs.wordpress.net/job/wp-front-end-designer/)
+- [Change WordPress Theme and Fine Tune](https://jobs.wordpress.net/job/change-wordpress-theme-and-fine-tune/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-83/)
 - [UI/UX Plugin Designer for WordPress plugins &lpar;WordPress, UI/UX design, Figma, Jira, Slack, CSS, HTML, AB Testing&rpar;](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins-wordpress-ui-ux-design-figma-jira-slack-css-html-ab-testing/)
 - [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-15/)
 - [Website Maintenance](https://jobs.wordpress.net/job/website-maintenance-4/)
 - [Migration to WordPress of existing Laravel site aerialliftequipment.com](https://jobs.wordpress.net/job/migration-to-wordpress-of-existing-laravel-site-aerialliftequipment-com/)
-- [[Astra] Web Designer](https://jobs.wordpress.net/job/astra-web-designer/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-847/)
 <!-- JOBS:END -->
 
 ## Central
