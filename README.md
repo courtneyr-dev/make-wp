@@ -352,6 +352,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Keeping the web open with WordPress](https://wordpress.tv/2024/08/17/keeping-the-web-open-with-wordpress/)
+- [Death to Slide Decks: Why your next presentation needs to be a webpage](https://wordpress.tv/2024/08/17/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage-2/)
+- [Leading a Technical Team](https://wordpress.tv/2024/08/17/leading-a-technical-team/)
+- [Unleash the Power of the Interactivity API: A New Era for WordPress](https://wordpress.tv/2024/08/17/unleash-the-power-of-the-interactivity-api-a-new-era-for-wordpress/)
+- [Simplifying WCAG: How the heck do I actually make websites accessible?](https://wordpress.tv/2024/08/17/simplifying-wcag-how-the-heck-do-i-actually-make-websites-accessible/)
+- [Introduction to Unit Tests](https://wordpress.tv/2024/08/17/introduction-to-unit-tests/)
+- [Where to find how to do something: Navigating Learn WordPress](https://wordpress.tv/2024/08/17/where-to-find-how-to-do-something-navigating-learn-wordpress/)
+- [Crafting Compelling Content: Strategies for Engaging Your Audience on WordPress](https://wordpress.tv/2024/08/17/crafting-compelling-content-strategies-for-engaging-your-audience-on-wordpress/)
+- [All About You: Unleashing the Power of Personal Branding](https://wordpress.tv/2024/08/17/all-about-you-unleashing-the-power-of-personal-branding/)
+- [Monetizing Your Passion: WordPress for Content Creators](https://wordpress.tv/2024/08/17/monetizing-your-passion-wordpress-for-content-creators/)
+- [The Art of the Pitch: Selling your WordPress Solutions](https://wordpress.tv/2024/08/17/the-art-of-the-pitch-selling-your-wordpress-solutions/)
+- [Let’s kill the password](https://wordpress.tv/2024/08/17/lets-kill-the-password/)
+- [How to Report SEO to People Who Don’t Care About SEO](https://wordpress.tv/2024/08/17/how-to-report-seo-to-people-who-dont-care-about-seo/)
+- [What if we call it Assistive AI instead?](https://wordpress.tv/2024/08/17/what-if-we-call-it-assistive-ai-instead/)
 - [Qué tener en cuenta a la hora de crear una web](https://wordpress.tv/2024/08/15/que-tener-en-cuenta-a-la-hora-de-crear-una-web/)
 - [Developer Hours: Hello, Blocks! – An Introduction to Block Development](https://wordpress.tv/2024/08/13/developer-hours-hello-blocks-an-introduction-to-block-development/)
 - [The building blocks of WordPress templates](https://wordpress.tv/2024/08/12/the-building-blocks-of-wordpress-templates/)
@@ -363,20 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Anonymous Analytics – How and what to do with it](https://wordpress.tv/2024/08/11/anonymous-analytics-how-and-what-to-do-with-it/)
 - [Kuinka Suomen suurin WordPress – WooCommerce-aiheinen Facebook-ryhmä voi auttaa sinua kotisivujen tekijänä, digitoimistona, lisäosien kehittäjänä?](https://wordpress.tv/2024/08/11/kuinka-suomen-suurin-wordpress/)
 - [Making connections: the joy of organizing the local Community](https://wordpress.tv/2024/08/11/making-connections-the-joy-of-organizing-the-local-community/)
-- [Tunnista ja ehkäise työuupumus](https://wordpress.tv/2024/08/11/tunnista-ja-ehkaise-tyouupumus/)
-- [Towards greater development experience through Web Platform API’s](https://wordpress.tv/2024/08/11/towards-greater-development-experience-through-web-platform-apis/)
-- [Designing Greener WordPress Websites](https://wordpress.tv/2024/08/11/designing-greener-wordpress-websites/)
-- [Why you should create native Gutenberg blocks](https://wordpress.tv/2024/08/11/why-you-should-create-native-gutenberg-blocks/)
-- [Nobody cares about your brand colour](https://wordpress.tv/2024/08/11/nobody-cares-about-your-brand-colour/)
-- [WordPress Through the Terminal](https://wordpress.tv/2024/08/11/wordpress-through-the-terminal-6/)
-- [Breath in, breath out… The Checklist to recover your site and reputation after a hack.](https://wordpress.tv/2024/08/11/breath-in-breath-out-the-checklist-to-recover-your-site-and-reputation-after-a-hack/)
-- [Sivuston sisäisen haun kehittäminen suomen kielen ehdoilla](https://wordpress.tv/2024/08/11/sivuston-sisaisen-haun-kehittaminen-suomen-kielen-ehdoilla/)
-- [Building the Perfect Managed WordPress Hosting Platform for Your Needs](https://wordpress.tv/2024/08/11/building-the-perfect-managed-wordpress-hosting-platform-for-your-needs/)
-- [War on WordPress](https://wordpress.tv/2024/08/11/war-on-wordpress/)
-- [ICT Greenhouse Gas Emissions Are Exploding – How WordPress Community Should Engage and Contribute Their Part](https://wordpress.tv/2024/08/11/ict-greenhouse-gas-emissions-are-exploding-how-wordpress-community-should-engage-and-contribute-their-part/)
-- [What to take into account when publishing a plugin](https://wordpress.tv/2024/08/11/what-to-take-into-account-when-publishing-a-plugin/)
-- [Descubriendo Playground, la herramienta para hacer demos](https://wordpress.tv/2024/08/09/descubriendo-playground-la-herramienta-para-hacer-demos/)
-- [How to build a responsive WordPress website](https://wordpress.tv/2024/08/07/how-to-build-a-responsive-wordpress-website/)
 <!-- WPTV:END -->
 
 ## Marketing
