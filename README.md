@@ -286,12 +286,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Part 2: Personalized Site Design and Theme Blocks](https://learn.wordpress.org/course/part-2-personalized-site-design-with-full-site-editing-and-theme-blocks/)
 - [Part 1: Simple Site Design and Site Editing](https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/)
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
-- [Tutorial Quizzes](https://learn.wordpress.org/course/tutorial-quizzes/)
 - [Getting Started With WordPress: Get Set Up](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
 - [How decisions are made in the WordPress project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
 - [WordCamp organizer training](https://learn.wordpress.org/course/wordcamp-organizer-training/)
 - [Open source basics and WordPress](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)
 - [Community meeting etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
+- [Writing in the WordPress voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
 <!-- COURSES:END -->
 
 ### Social Learning Spaces
