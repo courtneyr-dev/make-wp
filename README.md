@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I have contributed a translation…](https://make.wordpress.org/polyglots/2024/08/19/i-have-contributed-a-translation/)
 - [PTE Request for Text To Speech TTS Accessibility](https://make.wordpress.org/polyglots/2024/08/18/pte-request-for-text-to-speech-tts-accessibility/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/polyglots/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/08/16/i-have-suggested-a-translation-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-delisho-recipe-widgets-and-blocks-3/)
 - [PTE Request for website-chat-button-kommo-integration](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-website-chat-button-kommo-integration/)
 - [Agenda: Weekly Polyglots Chat – August 14, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/14/agenda-weekly-polyglots-chat-august-14-2024-1300-utc/)
-- [PTE request for Tainacan support for Blocky](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-tainacan-support-for-blocky/)
 <!-- POLYGLOTS:END -->
 
 ## Support
