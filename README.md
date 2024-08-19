@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Default Theme Chat Agenda: August 21, 2024](https://make.wordpress.org/core/2024/08/19/default-theme-chat-agenda-august-21-2024/)
 - [WordPress 6.6.2](https://make.wordpress.org/core/2024/08/19/wordpress-6-6-2/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/core/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [Hallway Hangout recording: Let’s chat about what’s next in Gutenberg &lpar;August 2024&rpar;](https://make.wordpress.org/core/2024/08/16/hallway-hangout-recording-lets-chat-about-whats-next-in-gutenberg-august-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, July 31, 2024](https://make.wordpress.org/core/2024/08/01/summary-dev-chat-july-31-2024/)
 - [What’s new in Gutenberg 18.9? &lpar;31 July&rpar;](https://make.wordpress.org/core/2024/07/31/whats-new-in-gutenberg-18-9-31-july/)
 - [Agenda, Dev Chat, Wednesday July 31, 2024](https://make.wordpress.org/core/2024/07/31/agenda-dev-chat-wednesday-july-31-2024/)
-- [Summary, Dev Chat, July 24, 2024](https://make.wordpress.org/core/2024/07/31/summary-dev-chat-july-24-2024/)
 <!-- CORE:END -->
 
 ## Design
