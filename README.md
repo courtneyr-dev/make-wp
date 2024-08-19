@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [The Reactive and Declarative mindset](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/the-reactive-and-declarative-mindset/)
+- [Server-side rendering: Processing directives on the server](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/server-side-rendering/)
+- [Understanding global state, local context and derived state](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/undestanding-global-state-local-context-and-derived-state/)
+- [Core Concepts](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/)
 - [Composite](https://developer.wordpress.org/block-editor/reference-guides/components/composite/)
-- [wp user signup activate](https://developer.wordpress.org/cli/commands/user/signup/activate/)
 - [wp user signup delete](https://developer.wordpress.org/cli/commands/user/signup/delete/)
-- [wp site generate](https://developer.wordpress.org/cli/commands/site/generate/)
 - [wp user exists](https://developer.wordpress.org/cli/commands/user/exists/)
+- [wp site generate](https://developer.wordpress.org/cli/commands/site/generate/)
+- [wp user signup activate](https://developer.wordpress.org/cli/commands/user/signup/activate/)
 - [wp user signup](https://developer.wordpress.org/cli/commands/user/signup/)
-- [wp user signup get](https://developer.wordpress.org/cli/commands/user/signup/get/)
-- [wp user signup list](https://developer.wordpress.org/cli/commands/user/signup/list/)
-- [Common issues](https://developer.wordpress.org/plugins/wordpress-org/common-issues/)
-- [WP_Theme_JSON_Schema::migrate_v2_to_v3&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_theme_json_schema/migrate_v2_to_v3/)
 <!-- DEVHUB:END -->
 
 ## Themes
