@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Comprendre les variations de styles de bloc dans WordPress 6.6](https://wordpress.tv/2024/08/19/comprendre-les-variations-de-styles-de-bloc-dans-wordpress-6-6/)
 - [Historias curiosas de soporte técnico con WordPress](https://wordpress.tv/2024/08/17/historias-curiosas-de-soporte-tecnico-con-wordpress/)
 - [Keeping the web open with WordPress](https://wordpress.tv/2024/08/17/keeping-the-web-open-with-wordpress/)
 - [Death to Slide Decks: Why your next presentation needs to be a webpage](https://wordpress.tv/2024/08/17/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Living and breathing open source](https://wordpress.tv/2024/08/11/living-and-breathing-open-source/)
 - [Kilpailija vai kollega? Verkostoidutaan!](https://wordpress.tv/2024/08/11/kilpailija-vai-kollega-verkostoidutaan/)
 - [Anonymous Analytics – How and what to do with it](https://wordpress.tv/2024/08/11/anonymous-analytics-how-and-what-to-do-with-it/)
-- [Kuinka Suomen suurin WordPress – WooCommerce-aiheinen Facebook-ryhmä voi auttaa sinua kotisivujen tekijänä, digitoimistona, lisäosien kehittäjänä?](https://wordpress.tv/2024/08/11/kuinka-suomen-suurin-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
