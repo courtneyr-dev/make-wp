@@ -526,11 +526,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Front-End Designer](https://jobs.wordpress.net/job/wp-front-end-designer/)
 - [Change WordPress Theme and Fine Tune](https://jobs.wordpress.net/job/change-wordpress-theme-and-fine-tune/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-83/)
-- [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-35/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-15/)
 - [Website Maintenance](https://jobs.wordpress.net/job/website-maintenance-4/)
+- [Migration to WordPress of existing Laravel site aerialliftequipment.com](https://jobs.wordpress.net/job/migration-to-wordpress-of-existing-laravel-site-aerialliftequipment-com/)
 <!-- JOBS:END -->
 
 ## Central
