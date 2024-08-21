@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – August 21, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/21/agenda-weekly-polyglots-chat-august-21-2024-700-utc/)
 - [PTE request for the below listed plugin](https://make.wordpress.org/polyglots/2024/08/19/pte-request-for-the-below-listed-plugin/)
 - [I have contributed a translation…](https://make.wordpress.org/polyglots/2024/08/19/i-have-contributed-a-translation/)
 - [PTE Request for Text To Speech TTS Accessibility](https://make.wordpress.org/polyglots/2024/08/18/pte-request-for-text-to-speech-tts-accessibility/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Запрос PTE для “Wappi –…](https://make.wordpress.org/polyglots/2024/08/15/%d0%b7%d0%b0%d0%bf%d1%80%d0%be%d1%81-pte-%d0%b4%d0%bb%d1%8f-wappi/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/15/hi-dear-mentors-we-have-142/)
 - [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-delisho-recipe-widgets-and-blocks-3/)
-- [PTE Request for website-chat-button-kommo-integration](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-website-chat-button-kommo-integration/)
 <!-- POLYGLOTS:END -->
 
 ## Support
