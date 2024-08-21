@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Viral – Marketing Influenciadores Plugin](https://make.wordpress.org/polyglots/2024/08/21/pte-request-for-viral-marketing-influenciadores-plugin/)
 - [Agenda: Weekly Polyglots Chat – August 21, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/21/agenda-weekly-polyglots-chat-august-21-2024-700-utc/)
 - [PTE request for the below listed plugin](https://make.wordpress.org/polyglots/2024/08/19/pte-request-for-the-below-listed-plugin/)
 - [I have contributed a translation…](https://make.wordpress.org/polyglots/2024/08/19/i-have-contributed-a-translation/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Delisho – themes](https://make.wordpress.org/polyglots/2024/08/15/pte-request-for-delisho-themes/)
 - [Запрос PTE для “Wappi –…](https://make.wordpress.org/polyglots/2024/08/15/%d0%b7%d0%b0%d0%bf%d1%80%d0%be%d1%81-pte-%d0%b4%d0%bb%d1%8f-wappi/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/15/hi-dear-mentors-we-have-142/)
-- [PTE Request for Delisho – Recipe Widgets and Blocks](https://make.wordpress.org/polyglots/2024/08/14/pte-request-for-delisho-recipe-widgets-and-blocks-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
