@@ -352,7 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Adding theme.son in classic themes](https://wordpress.tv/2024/08/21/adding-theme-son-in-classic-themes/)
+- [Adding theme.json in classic themes](https://wordpress.tv/2024/08/21/adding-theme-son-in-classic-themes/)
 - [Comprendre les variations de styles de bloc dans WordPress 6.6](https://wordpress.tv/2024/08/19/comprendre-les-variations-de-styles-de-bloc-dans-wordpress-6-6/)
 - [Historias curiosas de soporte técnico con WordPress](https://wordpress.tv/2024/08/17/historias-curiosas-de-soporte-tecnico-con-wordpress/)
 - [Keeping the web open with WordPress](https://wordpress.tv/2024/08/17/keeping-the-web-open-with-wordpress/)
