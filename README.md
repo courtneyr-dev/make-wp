@@ -527,10 +527,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[ASTRA] UI/UX Designer](https://jobs.wordpress.net/job/astra-ui-ux-designer/)
 - [WP Front-End Designer](https://jobs.wordpress.net/job/wp-front-end-designer/)
 - [Change WordPress Theme and Fine Tune](https://jobs.wordpress.net/job/change-wordpress-theme-and-fine-tune/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-83/)
 - [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-35/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-15/)
+- [[Astra] Web Designer](https://jobs.wordpress.net/job/astra-web-designer/)
 <!-- JOBS:END -->
 
 ## Central
