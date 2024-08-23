@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am using the WordPress…](https://make.wordpress.org/polyglots/2024/08/23/i-am-using-the-wordpress/)
+- [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2024/08/23/pte-request-for-buddypress-4/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/22/hi-dear-mentors-we-have-145/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/08/22/i-am-the-plugin-author-43/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/22/hi-dear-mentors-we-have-143/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for the below listed plugin](https://make.wordpress.org/polyglots/2024/08/19/pte-request-for-the-below-listed-plugin/)
 - [I have contributed a translation…](https://make.wordpress.org/polyglots/2024/08/19/i-have-contributed-a-translation/)
 - [PTE Request for Text To Speech TTS Accessibility](https://make.wordpress.org/polyglots/2024/08/18/pte-request-for-text-to-speech-tts-accessibility/)
-- [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/polyglots/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
-- [I have suggested a translation…](https://make.wordpress.org/polyglots/2024/08/16/i-have-suggested-a-translation-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
