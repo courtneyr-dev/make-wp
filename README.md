@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Assistance in Increasing WordPress Localhost upload size](https://jobs.wordpress.net/job/assistance-in-increasing-wordpress-localhost-upload-size/)
 - [Full Stack Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/full-stack-developer-remote-2/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-848/)
 - [WP Job Manager Field Editor Expert](https://jobs.wordpress.net/job/wp-job-manager-field-editor-expert/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-35/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-15/)
-- [[Astra] Web Designer](https://jobs.wordpress.net/job/astra-web-designer/)
 <!-- JOBS:END -->
 
 ## Central
