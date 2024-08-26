@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo hacer que tu web sea accesible para todos](https://wordpress.tv/2024/08/26/como-hacer-que-tu-web-sea-accesible-para-todos/)
 - [Why would a WordPress user need to run a local site?](https://wordpress.tv/2024/08/21/why-would-a-wordpress-user-need-to-run-a-local-site/)
 - [Adding theme.json in classic themes](https://wordpress.tv/2024/08/21/adding-theme-son-in-classic-themes/)
 - [Comprendre les variations de styles de bloc dans WordPress 6.6](https://wordpress.tv/2024/08/19/comprendre-les-variations-de-styles-de-bloc-dans-wordpress-6-6/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How Styles are generated](https://wordpress.tv/2024/08/12/how-styles-are-generated/)
 - [What never changes – the fundaments of cognitive psychology and how it relates to website UX](https://wordpress.tv/2024/08/11/what-never-changes-the-fundaments-of-cognitive-psychology-and-how-it-relates-to-website-ux/)
 - [Automated vs. Manual Accessibility Testing, and What About AI?](https://wordpress.tv/2024/08/11/automated-vs-manual-accessibility-testing-and-what-about-ai/)
-- [Living and breathing open source](https://wordpress.tv/2024/08/11/living-and-breathing-open-source/)
 <!-- WPTV:END -->
 
 ## Marketing
