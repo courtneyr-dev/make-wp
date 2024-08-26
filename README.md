@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-61/)
+- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-31/)
+- [Excellent Mid-level WordPress/PHP Developer – Part-time](https://jobs.wordpress.net/job/excellent-mid-level-wordpress-php-developer-part-time/)
 - [Template Print Designer](https://jobs.wordpress.net/job/template-print-designer/)
 - [Assistance in Increasing WordPress Localhost upload size](https://jobs.wordpress.net/job/assistance-in-increasing-wordpress-localhost-upload-size/)
 - [Full Stack Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/full-stack-developer-remote-2/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Job Manager Field Editor Expert](https://jobs.wordpress.net/job/wp-job-manager-field-editor-expert/)
 - [[ASTRA] UI/UX Designer](https://jobs.wordpress.net/job/astra-ui-ux-designer/)
 - [WP Front-End Designer](https://jobs.wordpress.net/job/wp-front-end-designer/)
-- [Change WordPress Theme and Fine Tune](https://jobs.wordpress.net/job/change-wordpress-theme-and-fine-tune/)
-- [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-35/)
 <!-- JOBS:END -->
 
 ## Central
