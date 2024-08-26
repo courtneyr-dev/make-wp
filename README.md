@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: A First Look at the Template Registration API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-a-first-look-at-the-template-registration-api-in-wordpress-6-7)
 - [How to install WordPress on an Ubuntu VPS: OpenLiteSpeed edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-openlitespeed-edition)
 - [Using the Grid block](https://learn.wordpress.org/?meeting=using-the-grid-block)
 - [Adding theme.json in classic themes](https://learn.wordpress.org/?meeting=adding-theme-json-in-classic-themes)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: What’s new for theme developers in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-whats-new-for-theme-developers-in-wordpress-6-6)
 - [WordPress Support Engineer: Roles, Responsibilities, and Career Path](https://learn.wordpress.org/?meeting=wordpress-support-engineer-roles-responsibilities-and-career-path)
 - [Developer Hours: Exploring Synced Pattern Overrides in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-exploring-synced-pattern-overrides-in-wordpress-6-6)
-- [Recording awesome videos for WordPress demos, courses, and more](https://learn.wordpress.org/?meeting=recording-awesome-videos-for-wordpress-demos-courses-and-more)
 <!-- SLS:END -->
 
 ## Test
