@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Plugin Developer &lpar;Part-time&rpar;](https://jobs.wordpress.net/job/wordpress-plugin-developer-part-time/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-61/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-31/)
 - [Excellent Mid-level WordPress/PHP Developer – Part-time](https://jobs.wordpress.net/job/excellent-mid-level-wordpress-php-developer-part-time/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-848/)
 - [WP Job Manager Field Editor Expert](https://jobs.wordpress.net/job/wp-job-manager-field-editor-expert/)
 - [[ASTRA] UI/UX Designer](https://jobs.wordpress.net/job/astra-ui-ux-designer/)
-- [WP Front-End Designer](https://jobs.wordpress.net/job/wp-front-end-designer/)
 <!-- JOBS:END -->
 
 ## Central
