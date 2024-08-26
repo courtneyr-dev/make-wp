@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE request for project WooCommerce PayPal Payments](https://make.wordpress.org/polyglots/2024/08/26/clpte-request-for-project-woocommerce-paypal-payments/)
 - [I am using the WordPress…](https://make.wordpress.org/polyglots/2024/08/23/i-am-using-the-wordpress/)
 - [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2024/08/23/pte-request-for-buddypress-4/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/22/hi-dear-mentors-we-have-145/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – August 21, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/21/agenda-weekly-polyglots-chat-august-21-2024-700-utc/)
 - [PTE request for the below listed plugin](https://make.wordpress.org/polyglots/2024/08/19/pte-request-for-the-below-listed-plugin/)
 - [I have contributed a translation…](https://make.wordpress.org/polyglots/2024/08/19/i-have-contributed-a-translation/)
-- [PTE Request for Text To Speech TTS Accessibility](https://make.wordpress.org/polyglots/2024/08/18/pte-request-for-text-to-speech-tts-accessibility/)
 <!-- POLYGLOTS:END -->
 
 ## Support
