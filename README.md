@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/27/hi-dear-mentors-we-have-146/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/27/hi-dear-mentors-we-have-144/)
 - [PTE Request for Svea Checkout for WooCommerce](https://make.wordpress.org/polyglots/2024/08/27/pte-request-for-svea-checkout-for-woocommerce-2/)
 - [CLPTE request for project WooCommerce PayPal Payments](https://make.wordpress.org/polyglots/2024/08/26/clpte-request-for-project-woocommerce-paypal-payments/)
 - [I am using the WordPress…](https://make.wordpress.org/polyglots/2024/08/23/i-am-using-the-wordpress/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/08/22/i-am-the-plugin-author-43/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/22/hi-dear-mentors-we-have-143/)
 - [PTE Request for Viral – Marketing Influenciadores Plugin](https://make.wordpress.org/polyglots/2024/08/21/pte-request-for-viral-marketing-influenciadores-plugin/)
-- [Agenda: Weekly Polyglots Chat – August 21, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/08/21/agenda-weekly-polyglots-chat-august-21-2024-700-utc/)
-- [PTE request for the below listed plugin](https://make.wordpress.org/polyglots/2024/08/19/pte-request-for-the-below-listed-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
