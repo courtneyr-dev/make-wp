@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-3/)
+- [[Astra] Full-Stack WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-full-stack-wordpress-plugin-developer-2/)
+- [[Astra] WordPress – Website Developer](https://jobs.wordpress.net/job/astra-wordpress-website-developer/)
 - [WordPress Plugin Developer &lpar;Part-time&rpar;](https://jobs.wordpress.net/job/wordpress-plugin-developer-part-time/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-61/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-31/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Template Print Designer](https://jobs.wordpress.net/job/template-print-designer/)
 - [Assistance in Increasing WordPress Localhost upload size](https://jobs.wordpress.net/job/assistance-in-increasing-wordpress-localhost-upload-size/)
 - [Full Stack Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/full-stack-developer-remote-2/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-848/)
-- [WP Job Manager Field Editor Expert](https://jobs.wordpress.net/job/wp-job-manager-field-editor-expert/)
-- [[ASTRA] UI/UX Designer](https://jobs.wordpress.net/job/astra-ui-ux-designer/)
 <!-- JOBS:END -->
 
 ## Central
