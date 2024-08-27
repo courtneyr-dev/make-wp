@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for onoffice-for-wp-websites](https://make.wordpress.org/polyglots/2024/08/27/pte-request-for-onoffice-for-wp-websites-7/)
+- [PTE Request](https://make.wordpress.org/polyglots/2024/08/27/pte-request-27/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/27/hi-dear-mentors-we-have-146/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/27/hi-dear-mentors-we-have-144/)
 - [PTE Request for Svea Checkout for WooCommerce](https://make.wordpress.org/polyglots/2024/08/27/pte-request-for-svea-checkout-for-woocommerce-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for BuddyPress](https://make.wordpress.org/polyglots/2024/08/23/pte-request-for-buddypress-4/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/22/hi-dear-mentors-we-have-145/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/08/22/i-am-the-plugin-author-43/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/22/hi-dear-mentors-we-have-143/)
-- [PTE Request for Viral – Marketing Influenciadores Plugin](https://make.wordpress.org/polyglots/2024/08/21/pte-request-for-viral-marketing-influenciadores-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
