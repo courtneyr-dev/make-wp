@@ -325,6 +325,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Test Team Update: 27 August 2024](https://make.wordpress.org/test/2024/08/27/xpost-test-team-update-27-august-2024-2/)
+- [X-post: Test Team Update: 27 August 2024](https://make.wordpress.org/test/2024/08/27/xpost-test-team-update-27-august-2024/)
 - [X-post: Test Team Update: 19 August 2024](https://make.wordpress.org/test/2024/08/19/xpost-test-team-update-19-august-2024-2/)
 - [X-post: Test Team Update: 19 August 2024](https://make.wordpress.org/test/2024/08/19/xpost-test-team-update-19-august-2024/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/test/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
@@ -333,8 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Team Chat Agenda: August 13, 2024](https://make.wordpress.org/test/2024/08/13/team-chat-agenda-august-13-2024/)
 - [Week in Test: August 12, 2024](https://make.wordpress.org/test/2024/08/12/week-in-test-august-12-2024/)
 - [X-post: Test Team Update: 12 August 2024](https://make.wordpress.org/test/2024/08/12/xpost-test-team-update-12-august-2024/)
-- [Week in Test: August 6, 2024](https://make.wordpress.org/test/2024/08/06/week-in-test-august-6-2024/)
-- [X-post: Test Team Update: 5 August 2024](https://make.wordpress.org/test/2024/08/05/xpost-test-team-update-5-august-2024/)
 <!-- TEST:END -->
 
 ## TV
