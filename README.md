@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: August 2024](https://make.wordpress.org/community/2024/08/27/meetup-organizer-newsletter-august-2024/)
 - [Event Survey Update and Discussion](https://make.wordpress.org/community/2024/08/22/event-survey-update-and-discussion/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/community/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [Announcement: Sunsetting North American Camera Kit Rental Program](https://make.wordpress.org/community/2024/08/15/announcement-sunsetting-north-american-camera-kit-rental-program/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – August 2024](https://make.wordpress.org/community/2024/08/05/xpost-training-team-update-august-2024/)
 - [X-post: Meet the new Learn WordPress](https://make.wordpress.org/community/2024/08/02/xpost-meet-the-new-learn-wordpress/)
 - [Community Team Meeting Agenda for 1 – August 2024](https://make.wordpress.org/community/2024/07/31/community-team-meeting-agenda-for-1-august-2024/)
-- [Recap of the Contributor Working Group’s Mentorship Chat on July 18th, 2024](https://make.wordpress.org/community/2024/07/31/recap-of-the-contributor-working-groups-mentorship-chat-on-july-18th-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
