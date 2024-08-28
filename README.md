@@ -554,6 +554,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WP Campus Connect Ajmer, India](https://central.wordcamp.org/wordcamps/ajmer-india/)
 - [WordCamp Youth Hackathon Skopje](https://central.wordcamp.org/wordcamps/skopje-north-macedonia/)
 - [WordPress and Remote Work &lpar;Online&rpar; in Spanish](https://central.wordcamp.org/wordcamps/cenia-spain-online/)
 - [WordPress Day for Developers Lisboa 2024](https://central.wordcamp.org/wordcamps/developers-lisbon/)
@@ -567,7 +568,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Asia](https://central.wordcamp.org/wordcamps/wordcamp-asia-2025/)
 - [WordCamp San José, Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-7/)
 - [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-6/)
-- [WordCamp Karlsruhe, Germany](https://central.wordcamp.org/wordcamps/wordcamp-karlsruhe-germany/)
 - [WordCamp Romania](https://central.wordcamp.org/wordcamps/wordcamp-romania-brasov/)
 <!-- WordCamp:END -->
 
