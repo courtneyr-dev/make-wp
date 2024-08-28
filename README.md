@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-10/)
+- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-10/)
 - [Wordopress Developer](https://jobs.wordpress.net/job/wordopress-developer/)
 - [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-3/)
 - [[Astra] Full-Stack WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-full-stack-wordpress-plugin-developer-2/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-61/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-31/)
 - [Excellent Mid-level WordPress/PHP Developer – Part-time](https://jobs.wordpress.net/job/excellent-mid-level-wordpress-php-developer-part-time/)
-- [Template Print Designer](https://jobs.wordpress.net/job/template-print-designer/)
-- [Assistance in Increasing WordPress Localhost upload size](https://jobs.wordpress.net/job/assistance-in-increasing-wordpress-localhost-upload-size/)
 <!-- JOBS:END -->
 
 ## Central
