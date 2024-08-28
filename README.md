@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Wordopress Developer](https://jobs.wordpress.net/job/wordopress-developer/)
 - [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-3/)
 - [[Astra] Full-Stack WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-full-stack-wordpress-plugin-developer-2/)
 - [[Astra] WordPress – Website Developer](https://jobs.wordpress.net/job/astra-wordpress-website-developer/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Excellent Mid-level WordPress/PHP Developer – Part-time](https://jobs.wordpress.net/job/excellent-mid-level-wordpress-php-developer-part-time/)
 - [Template Print Designer](https://jobs.wordpress.net/job/template-print-designer/)
 - [Assistance in Increasing WordPress Localhost upload size](https://jobs.wordpress.net/job/assistance-in-increasing-wordpress-localhost-upload-size/)
-- [Full Stack Developer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/full-stack-developer-remote-2/)
 <!-- JOBS:END -->
 
 ## Central
