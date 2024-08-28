@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 19.1? &lpar;28 August&rpar;](https://make.wordpress.org/core/2024/08/28/whats-new-in-gutenberg-19-1-28-august/)
 - [Bug Scrub Schedule for WordPress 6.7](https://make.wordpress.org/core/2024/08/27/bug-scrub-schedule-for-wordpress-6-7/)
 - [Default Theme Chat Agenda: August 28, 2024](https://make.wordpress.org/core/2024/08/27/default-theme-chat-agenda-august-28-2024/)
 - [Agenda, Dev Chat, August 28, 2024](https://make.wordpress.org/core/2024/08/27/agenda-dev-chat-wednesday-aug-28-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Control your contributions with mailmap](https://make.wordpress.org/core/2024/08/14/control-your-contributions-with-mailmap/)
 - [WordPress 6.7 release squad ready](https://make.wordpress.org/core/2024/08/14/wordpress-6-7-release-squad-ready/)
 - [What’s new in Gutenberg 19.0? &lpar;14 August&rpar;](https://make.wordpress.org/core/2024/08/14/whats-new-in-gutenberg-19-0-14-august/)
-- [Performance Chat Summary: 13 August 2024](https://make.wordpress.org/core/2024/08/13/performance-chat-summary-13-august-2024/)
 <!-- CORE:END -->
 
 ## Design
