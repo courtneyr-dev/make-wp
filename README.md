@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting notes for August 27, 2024](https://make.wordpress.org/themes/2024/08/28/themes-team-meeting-notes-for-august-27-2024/)
 - [Themes team meeting agenda for August 27, 2024](https://make.wordpress.org/themes/2024/08/26/themes-team-meeting-agenda-for-august-27-2024/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/themes/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [X-post: Introducing Twenty Twenty-Five](https://make.wordpress.org/themes/2024/08/15/xpost-introducing-twenty-twenty-five/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for July 23, 2024](https://make.wordpress.org/themes/2024/07/22/themes-team-meeting-agenda-for-july-23-2024/)
 - [Themes Team Meeting Notes – July 09, 2024](https://make.wordpress.org/themes/2024/07/10/themes-team-meeting-notes-july-09-2024/)
 - [X-post: What would you like to see in the next default WordPress theme?](https://make.wordpress.org/themes/2024/07/08/xpost-what-would-you-like-to-see-in-the-next-default-wordpress-theme/)
-- [Themes team meeting agenda for July 09, 2024](https://make.wordpress.org/themes/2024/07/08/themes-team-meeting-agenda-for-july-09-2024/)
 <!-- THEMES:END -->
 
 ## Plugins
