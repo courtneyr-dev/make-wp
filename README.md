@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [What is WordPress Multisite?](https://wordpress.tv/2024/08/28/what-is-wordpress-multisite/)
 - [Using the Grid block](https://wordpress.tv/2024/08/28/using-the-grid-block/)
 - [Developer Hours: Building WordPress themes with the Create Block Theme plugin](https://wordpress.tv/2024/08/27/developer-hours-building-wordpress-themes-with-the-create-block-theme-plugin/)
 - [Cómo hacer que tu web sea accesible para todos](https://wordpress.tv/2024/08/26/como-hacer-que-tu-web-sea-accesible-para-todos/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Qué tener en cuenta a la hora de crear una web](https://wordpress.tv/2024/08/15/que-tener-en-cuenta-a-la-hora-de-crear-una-web/)
 - [Developer Hours: Hello, Blocks! – An Introduction to Block Development](https://wordpress.tv/2024/08/13/developer-hours-hello-blocks-an-introduction-to-block-development/)
 - [The building blocks of WordPress templates](https://wordpress.tv/2024/08/12/the-building-blocks-of-wordpress-templates/)
-- [How Styles are generated](https://wordpress.tv/2024/08/12/how-styles-are-generated/)
 <!-- WPTV:END -->
 
 ## Marketing
