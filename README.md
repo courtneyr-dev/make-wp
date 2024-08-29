@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Exploring the Query Loop block](https://learn.wordpress.org/?meeting=exploring-the-query-loop-block)
 - [Setting up a WordPress blog](https://learn.wordpress.org/?meeting=setting-up-a-wordpress-blog)
 - [Developer Hours: A First Look at the Template Registration API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-a-first-look-at-the-template-registration-api-in-wordpress-6-7)
 - [How to install WordPress on an Ubuntu VPS: OpenLiteSpeed edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-openlitespeed-edition)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to install WordPress on an Ubuntu VPS: Apache edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-apache-edition)
 - [Training Team WordCamp Europe 2024 Contributor Day Online](https://learn.wordpress.org/?meeting=training-team-wordcamp-europe-2024-contributor-day-online)
 - [Developer Hours: What’s new for theme developers in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-whats-new-for-theme-developers-in-wordpress-6-6)
-- [WordPress Support Engineer: Roles, Responsibilities, and Career Path](https://learn.wordpress.org/?meeting=wordpress-support-engineer-roles-responsibilities-and-career-path)
 <!-- SLS:END -->
 
 ## Test
