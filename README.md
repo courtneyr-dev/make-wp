@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the Grid block](https://wordpress.tv/2024/08/28/using-the-grid-block/)
 - [Developer Hours: Building WordPress themes with the Create Block Theme plugin](https://wordpress.tv/2024/08/27/developer-hours-building-wordpress-themes-with-the-create-block-theme-plugin/)
 - [Cómo hacer que tu web sea accesible para todos](https://wordpress.tv/2024/08/26/como-hacer-que-tu-web-sea-accesible-para-todos/)
 - [Why would a WordPress user need to run a local site?](https://wordpress.tv/2024/08/21/why-would-a-wordpress-user-need-to-run-a-local-site/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Hello, Blocks! – An Introduction to Block Development](https://wordpress.tv/2024/08/13/developer-hours-hello-blocks-an-introduction-to-block-development/)
 - [The building blocks of WordPress templates](https://wordpress.tv/2024/08/12/the-building-blocks-of-wordpress-templates/)
 - [How Styles are generated](https://wordpress.tv/2024/08/12/how-styles-are-generated/)
-- [What never changes – the fundaments of cognitive psychology and how it relates to website UX](https://wordpress.tv/2024/08/11/what-never-changes-the-fundaments-of-cognitive-psychology-and-how-it-relates-to-website-ux/)
 <!-- WPTV:END -->
 
 ## Marketing
