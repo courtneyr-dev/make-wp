@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP DESK PLUGINS](https://make.wordpress.org/polyglots/2024/08/30/pte-request-for-wp-desk-plugins/)
 - [PTE Request for Accepted Payment Methods](https://make.wordpress.org/polyglots/2024/08/29/pte-request-for-accepted-payment-methods/)
 - [PTE Request for CNS Login Master](https://make.wordpress.org/polyglots/2024/08/28/pte-request-for-cns-login-master/)
 - [Hi!](https://make.wordpress.org/polyglots/2024/08/28/hi-117/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/27/hi-dear-mentors-we-have-146/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/27/hi-dear-mentors-we-have-144/)
 - [PTE Request for Svea Checkout for WooCommerce](https://make.wordpress.org/polyglots/2024/08/27/pte-request-for-svea-checkout-for-woocommerce-2/)
-- [CLPTE request for project WooCommerce PayPal Payments](https://make.wordpress.org/polyglots/2024/08/26/clpte-request-for-project-woocommerce-paypal-payments/)
 <!-- POLYGLOTS:END -->
 
 ## Support
