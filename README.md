@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [デザインデータからのテーマ作成。ブロックを活用して更新しやすいテーマを作ろう！](https://learn.wordpress.org/?meeting=%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%83%87%e3%83%bc%e3%82%bf%e3%81%8b%e3%82%89%e3%81%ae%e3%83%86%e3%83%bc%e3%83%9e%e4%bd%9c%e6%88%90%e3%80%82%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%92%e6%b4%bb)
 - [Exploring the Query Loop block](https://learn.wordpress.org/?meeting=exploring-the-query-loop-block)
 - [Setting up a WordPress blog](https://learn.wordpress.org/?meeting=setting-up-a-wordpress-blog)
 - [Developer Hours: A First Look at the Template Registration API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-a-first-look-at-the-template-registration-api-in-wordpress-6-7)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [改めて学ぶ、アクションフックとフィルターフック。WordPressカスタマイズのポイントを抑えよう!](https://learn.wordpress.org/?meeting=%e6%94%b9%e3%82%81%e3%81%a6%e5%ad%a6%e3%81%b6%e3%80%81%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%95%e3%83%83%e3%82%af%e3%81%a8%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc%e3%83%95%e3%83%83)
 - [How to install WordPress on an Ubuntu VPS: Apache edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-apache-edition)
 - [Training Team WordCamp Europe 2024 Contributor Day Online](https://learn.wordpress.org/?meeting=training-team-wordcamp-europe-2024-contributor-day-online)
-- [Developer Hours: What’s new for theme developers in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-whats-new-for-theme-developers-in-wordpress-6-6)
 <!-- SLS:END -->
 
 ## Test
