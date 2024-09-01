@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Theme Customization](https://jobs.wordpress.net/job/wordpress-theme-customization-26/)
 - [Migrate my podcast hosted on Castos onto my website](https://jobs.wordpress.net/job/migrate-my-podcast-hosted-on-castos-onto-my-website/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-10/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-10/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] WordPress – Website Developer](https://jobs.wordpress.net/job/astra-wordpress-website-developer/)
 - [WordPress Plugin Developer &lpar;Part-time&rpar;](https://jobs.wordpress.net/job/wordpress-plugin-developer-part-time/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-61/)
-- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-31/)
 <!-- JOBS:END -->
 
 ## Central
