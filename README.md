@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Ad [ Easy Membership and Magazine]](https://make.wordpress.org/polyglots/2024/09/01/pte-request-for-ad-easy-membership-and-magazine/)
 - [PTE Request for Seedlet &lpar;Blocks&rpar; &lpar;theme&rpar;](https://make.wordpress.org/polyglots/2024/08/30/pte-request-for-seedlet-blocks-theme/)
 - [PTE Request for WP DESK PLUGINS](https://make.wordpress.org/polyglots/2024/08/30/pte-request-for-wp-desk-plugins/)
 - [PTE Request for Accepted Payment Methods](https://make.wordpress.org/polyglots/2024/08/29/pte-request-for-accepted-payment-methods/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for onoffice-for-wp-websites](https://make.wordpress.org/polyglots/2024/08/27/pte-request-for-onoffice-for-wp-websites-7/)
 - [PTE Request](https://make.wordpress.org/polyglots/2024/08/27/pte-request-27/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/27/hi-dear-mentors-we-have-146/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/08/27/hi-dear-mentors-we-have-144/)
 <!-- POLYGLOTS:END -->
 
 ## Support
