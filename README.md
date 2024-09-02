@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 85: WordPress in Education](https://wordpress.org/news/2024/09/episode-85-wordpress-in-education/)
 - [A Brand-New Way to Learn WordPress](https://wordpress.org/news/2024/08/a-brand-new-way-to-learn-wordpress/)
 - [WordPress 6.6.1 Maintenance Release](https://wordpress.org/news/2024/07/wordpress-6-6-1-maintenance-release/)
 - [WP Briefing: Episode 84: A WordPress 6.6 Sneak Peek](https://wordpress.org/news/2024/07/episode-84-a-wordpress-6-6-sneak-peek/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.6 Release Candidate 2](https://wordpress.org/news/2024/07/wordpress-6-6-release-candidate-2/)
 - [WordPress 6.6 Release Candidate 1](https://wordpress.org/news/2024/06/wordpress-6-6-release-candidate-1/)
 - [WordPress 6.5.5](https://wordpress.org/news/2024/06/wordpress-6-5-5/)
-- [WP Briefing: Episode 82: WCEU Hallway Track](https://wordpress.org/news/2024/06/episode-82-wceu-hallway-track/)
 <!-- NEWS:END -->
 
 ## Jobs
