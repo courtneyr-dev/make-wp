@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request in four languages – Charitable](https://make.wordpress.org/polyglots/2024/09/03/pte-request-in-three-languages-charitable/)
 - [GTE Request for Tagalog](https://make.wordpress.org/polyglots/2024/09/03/hi-118/)
 - [PTE Request for All In One Captcha](https://make.wordpress.org/polyglots/2024/09/03/pte-request-for-all-in-one-captcha/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/09/03/pte-request-for-below-listed-themes-5/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Ad [ Easy Membership and Magazine]](https://make.wordpress.org/polyglots/2024/09/01/pte-request-for-ad-easy-membership-and-magazine/)
 - [PTE Request for Seedlet &lpar;Blocks&rpar; &lpar;theme&rpar;](https://make.wordpress.org/polyglots/2024/08/30/pte-request-for-seedlet-blocks-theme/)
 - [PTE Request for WP DESK PLUGINS](https://make.wordpress.org/polyglots/2024/08/30/pte-request-for-wp-desk-plugins/)
-- [PTE Request for Accepted Payment Methods](https://make.wordpress.org/polyglots/2024/08/29/pte-request-for-accepted-payment-methods/)
 <!-- POLYGLOTS:END -->
 
 ## Support
