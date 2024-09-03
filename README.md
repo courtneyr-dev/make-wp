@@ -535,6 +535,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [WordCamp Jinja 2024: Diverse Speaker Sessions, Creatives and Students Camp, Workshops, Free Web Design Hackathon, fun activities and more!](https://central.wordcamp.org/news/2024/09/wordcamp-jinja-2024-diverse-speaker-sessions-creatives-and-students-camp-workshops-free-web-design-hackathon-fun-activities-and-more/)
 - [Bridging Africa’s Digital Gaps: The PayDel Summit 2024 &lpar;A WordPress Event&rpar;](https://central.wordcamp.org/news/2024/08/bridging-africas-digital-gaps-the-paydel-summit-2024-a-wordpress-event/)
 - [WordCamp Netherlands 2024 rescheduled](https://central.wordcamp.org/news/2024/08/wordcamp-netherlands-2024-rescheduled/)
 - [Announcing the Shortlisted Projects for Uganda Website Projects Competition 2024](https://central.wordcamp.org/news/2024/06/announcing-the-shortlisted-projects-for-uganda-website-projects-competition-2024/)
@@ -549,7 +550,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Malaysia 2023 is Looking for Speakers and Sponsors](https://central.wordcamp.org/news/2023/07/wordcamp-malaysia-2023-is-looking-for-speakers-and-sponsors/)
 - [WordCamp Masaka 2023: Celebrating Inclusion, Diversity, and Innovation with WordPress in Uganda’s Pearl of Africa!](https://central.wordcamp.org/news/2023/07/wordcamp-masaka-2023-celebrating-inclusion-diversity-and-innovation-with-wordpress-in-ugandas-pearl-of-africa/)
 - [WordCamp Dhaka 2023 Has Been Cancelled](https://central.wordcamp.org/news/2023/07/wordcamp-dhaka-2023-has-been-cancelled/)
-- [WordCamp Rochester is Back!](https://central.wordcamp.org/news/2023/07/wordcamp-rochester-is-back/)
 <!-- Central:END -->
 
 ### WordCamp
