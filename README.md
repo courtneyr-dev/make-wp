@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.6.2 RC1 is now available](https://make.wordpress.org/core/2024/09/04/wordpress-6-6-2-rc1-is-now-available/)
 - [Roadmap to 6.7](https://make.wordpress.org/core/2024/09/03/roadmap-to-6-7/)
 - [Performance Chat Summary: 3 September 2024](https://make.wordpress.org/core/2024/09/03/performance-chat-summary-03-september-2024/)
 - [Default Theme Chat Agenda: September 4, 2024](https://make.wordpress.org/core/2024/09/03/default-theme-chat-agenda-september-4-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 20 August 2024](https://make.wordpress.org/core/2024/08/20/performance-chat-agenda-20-august-2024/)
 - [Agenda, Dev Chat, Wednesday Aug 21, 2024](https://make.wordpress.org/core/2024/08/20/agenda-dev-chat-wednesday-aug-21-2024/)
 - [Default Theme Chat Agenda: August 21, 2024](https://make.wordpress.org/core/2024/08/19/default-theme-chat-agenda-august-21-2024/)
-- [WordPress 6.6.2](https://make.wordpress.org/core/2024/08/19/wordpress-6-6-2/)
 <!-- CORE:END -->
 
 ## Design
