@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Understand where your files live](https://wordpress.tv/2024/09/03/understand-where-your-files-live/)
+- [Introduction to phpMyAdmin](https://wordpress.tv/2024/09/03/introduction-to-phpmyadmin/)
 - [Keynote – Accessibility in Action: Indigenous Communities](https://wordpress.tv/2024/09/02/keynote-accessibility-in-action-indigenous-communities/)
 - [How to install WordPress on an Ubuntu VPS: OpenLiteSpeed edition](https://wordpress.tv/2024/09/02/how-to-install-wordpress-on-an-ubuntu-vps-openlitespeed-edition/)
 - [What is WordPress Multisite?](https://wordpress.tv/2024/08/28/what-is-wordpress-multisite/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Art of the Pitch: Selling your WordPress Solutions](https://wordpress.tv/2024/08/17/the-art-of-the-pitch-selling-your-wordpress-solutions/)
 - [Let’s kill the password](https://wordpress.tv/2024/08/17/lets-kill-the-password/)
 - [How to Report SEO to People Who Don’t Care About SEO](https://wordpress.tv/2024/08/17/how-to-report-seo-to-people-who-dont-care-about-seo/)
-- [What if we call it Assistive AI instead?](https://wordpress.tv/2024/08/17/what-if-we-call-it-assistive-ai-instead/)
-- [Qué tener en cuenta a la hora de crear una web](https://wordpress.tv/2024/08/15/que-tener-en-cuenta-a-la-hora-de-crear-una-web/)
 <!-- WPTV:END -->
 
 ## Marketing
