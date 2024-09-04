@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-5/)
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-31/)
+- [UX &amp; UI Design for a new e-shop web site](https://jobs.wordpress.net/job/ux-ui-design-for-a-new-e-shop-web-site/)
 - [Site redesign](https://jobs.wordpress.net/job/site-redesign-3/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-849/)
 - [WordPress Theme Customization](https://jobs.wordpress.net/job/wordpress-theme-customization-26/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-10/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-10/)
 - [Wordopress Developer](https://jobs.wordpress.net/job/wordopress-developer/)
-- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-3/)
-- [[Astra] Full-Stack WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-full-stack-wordpress-plugin-developer-2/)
-- [[Astra] WordPress – Website Developer](https://jobs.wordpress.net/job/astra-wordpress-website-developer/)
 <!-- JOBS:END -->
 
 ## Central
