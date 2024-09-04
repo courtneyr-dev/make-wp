@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-12/)
+- [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-2/)
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-5/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-31/)
 - [UX &amp; UI Design for a new e-shop web site](https://jobs.wordpress.net/job/ux-ui-design-for-a-new-e-shop-web-site/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Theme Customization](https://jobs.wordpress.net/job/wordpress-theme-customization-26/)
 - [Migrate my podcast hosted on Castos onto my website](https://jobs.wordpress.net/job/migrate-my-podcast-hosted-on-castos-onto-my-website/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-10/)
-- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-10/)
-- [Wordopress Developer](https://jobs.wordpress.net/job/wordopress-developer/)
 <!-- JOBS:END -->
 
 ## Central
