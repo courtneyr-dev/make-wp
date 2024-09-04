@@ -437,6 +437,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Openverse Monthly Priorities Meeting 2024-09-11](https://make.wordpress.org/openverse/2024/09/04/openverse-monthly-priorities-meeting-2024-09-11/)
 - [A week in Openverse: 2024-08-26 – 2024-09-02](https://make.wordpress.org/openverse/2024/09/02/last-week-openverse-2024-08-26-2024-09-02/)
 - [A week in Openverse: 2024-08-19 – 2024-08-26](https://make.wordpress.org/openverse/2024/08/26/last-week-openverse-2024-08-19-2024-08-26/)
 - [Community Meeting Recap &lpar;2024-08-19&rpar;](https://make.wordpress.org/openverse/2024/08/19/community-meeting-recap-2024-08-19/)
@@ -446,7 +447,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A week in Openverse: 2024-07-29 – 2024-08-05](https://make.wordpress.org/openverse/2024/08/05/last-week-openverse-2024-07-29-2024-08-05/)
 - [Community Meeting Recap &lpar;2024-07-30&rpar;](https://make.wordpress.org/openverse/2024/07/30/community-meeting-recap-2024-07-30/)
 - [Openverse Monthly Priorities Meeting 2024-08-07](https://make.wordpress.org/openverse/2024/07/30/openverse-monthly-priorities-meeting-2024-08-07/)
-- [A week in Openverse: 2024-07-22 – 2024-07-29](https://make.wordpress.org/openverse/2024/07/29/last-week-openverse-2024-07-22-2024-07-29/)
 <!-- OPENVERSE:END -->
 
 ## Photos
