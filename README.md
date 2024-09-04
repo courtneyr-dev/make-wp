@@ -557,6 +557,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Campus Connect Ajmer, India](https://central.wordcamp.org/wordcamps/ajmer-india/)
 - [WordCamp Youth Hackathon Skopje](https://central.wordcamp.org/wordcamps/skopje-north-macedonia/)
 - [do_action Cagliari &lpar;online&rpar;](https://central.wordcamp.org/wordcamps/do_action-cagliari-online/)
+- [do_action Bhopal](https://central.wordcamp.org/wordcamps/do_action-bhopal/)
 - [WordPress and Remote Work &lpar;Online&rpar; in Spanish](https://central.wordcamp.org/wordcamps/cenia-spain-online/)
 - [WordPress Day for Developers Lisboa 2024](https://central.wordcamp.org/wordcamps/developers-lisbon/)
 - [WordCamp Skopje, North Macedonia](https://central.wordcamp.org/wordcamps/wordcamp-skopje-north-macedonia/)
@@ -566,8 +567,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Nairobi 2024](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-5/)
 - [do_action Mumbai, Maharashtra, India](https://central.wordcamp.org/wordcamps/do_action-mumbai-maharashtra-india/)
 - [WordCamp Asia](https://central.wordcamp.org/wordcamps/wordcamp-asia-2025/)
-- [WordCamp San José, Costa Rica](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-costa-rica-7/)
-- [WordCamp Managua, Nicaragua](https://central.wordcamp.org/wordcamps/wordcamp-managua-nicaragua-6/)
+- [WordCamp Delhi](https://central.wordcamp.org/wordcamps/wordcamp-delhi-india/)
 - [WordCamp Romania](https://central.wordcamp.org/wordcamps/wordcamp-romania-brasov/)
 <!-- WordCamp:END -->
 
