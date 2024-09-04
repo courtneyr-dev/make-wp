@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Qué hace que la comunidad WordPress sea tan especial?](https://wordpress.tv/2024/09/04/que-hace-que-la-comunidad-wordpress-sea-tan-especial/)
 - [Understand where your files live](https://wordpress.tv/2024/09/03/understand-where-your-files-live/)
 - [Introduction to phpMyAdmin](https://wordpress.tv/2024/09/03/introduction-to-phpmyadmin/)
 - [Keynote – Accessibility in Action: Indigenous Communities](https://wordpress.tv/2024/09/02/keynote-accessibility-in-action-indigenous-communities/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Monetizing Your Passion: WordPress for Content Creators](https://wordpress.tv/2024/08/17/monetizing-your-passion-wordpress-for-content-creators/)
 - [The Art of the Pitch: Selling your WordPress Solutions](https://wordpress.tv/2024/08/17/the-art-of-the-pitch-selling-your-wordpress-solutions/)
 - [Let’s kill the password](https://wordpress.tv/2024/08/17/lets-kill-the-password/)
-- [How to Report SEO to People Who Don’t Care About SEO](https://wordpress.tv/2024/08/17/how-to-report-seo-to-people-who-dont-care-about-seo/)
 <!-- WPTV:END -->
 
 ## Marketing
