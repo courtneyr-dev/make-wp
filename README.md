@@ -567,8 +567,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Nairobi 2024](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-5/)
 - [do_action Mumbai, Maharashtra, India](https://central.wordcamp.org/wordcamps/do_action-mumbai-maharashtra-india/)
 - [WordCamp Asia](https://central.wordcamp.org/wordcamps/wordcamp-asia-2025/)
+- [WordCamp Rochester, NY](https://central.wordcamp.org/wordcamps/wordcamp-rochester-ny-2/)
 - [WordCamp Delhi](https://central.wordcamp.org/wordcamps/wordcamp-delhi-india/)
-- [WordCamp Romania](https://central.wordcamp.org/wordcamps/wordcamp-romania-brasov/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
