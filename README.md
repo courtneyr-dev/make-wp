@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Update about the GatherPress project](https://make.wordpress.org/community/2024/09/05/update-about-the-gatherpress-project/)
 - [Community Team Meeting Agenda for 5 – September -2024](https://make.wordpress.org/community/2024/09/04/community-team-meeting-agenda-for-5-september-2024/)
 - [Meetup Organizer Newsletter: August 2024](https://make.wordpress.org/community/2024/08/27/meetup-organizer-newsletter-august-2024/)
 - [Event Survey Update and Discussion](https://make.wordpress.org/community/2024/08/22/event-survey-update-and-discussion/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposed Change to Advertising/Marketing Expense Guidelines](https://make.wordpress.org/community/2024/08/07/proposed-change-to-advertising-marketing-expense-guidelines/)
 - [Important Call to Action: Help Us Reactivate Inactive Meetup Groups by Sept 16](https://make.wordpress.org/community/2024/08/06/important-call-to-action-help-us-reactivate-inactive-meetup-groups-by-sept-16/)
 - [X-post: Training Team Update – August 2024](https://make.wordpress.org/community/2024/08/05/xpost-training-team-update-august-2024/)
-- [X-post: Meet the new Learn WordPress](https://make.wordpress.org/community/2024/08/02/xpost-meet-the-new-learn-wordpress/)
 <!-- COMMUNITY:END -->
 
 ## Meta
