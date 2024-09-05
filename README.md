@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for payOS](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-payos/)
+- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-below-listed-themes-6/)
 - [PTE Request for Znajdź Pracę z Praca.pl](https://make.wordpress.org/polyglots/2024/09/04/pte-request-for-znajdz-prace-z-praca-pl/)
 - [PTE Request for Astra Theme](https://make.wordpress.org/polyglots/2024/09/04/pte-request-for-astra-theme-4/)
 - [PTE Request for Blocks Animation:…](https://make.wordpress.org/polyglots/2024/09/04/pte-request-for-blocks-animation/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GTE Request for Tagalog](https://make.wordpress.org/polyglots/2024/09/03/hi-118/)
 - [PTE Request for All In One Captcha](https://make.wordpress.org/polyglots/2024/09/03/pte-request-for-all-in-one-captcha/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/09/03/pte-request-for-below-listed-themes-5/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/09/02/hello-polyglots-305/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2024/09/01/i-am-the-plugin-author-44/)
 <!-- POLYGLOTS:END -->
 
 ## Support
