@@ -555,12 +555,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### WordCamp
 <!-- WordCamp:START -->
 - [WP Campus Connect Ajmer, India](https://central.wordcamp.org/wordcamps/ajmer-india/)
+- [WordCamp Kerala 2024](https://central.wordcamp.org/wordcamps/wordcamp-kozhikode-kerala-india/)
 - [WordCamp Youth Hackathon Skopje](https://central.wordcamp.org/wordcamps/skopje-north-macedonia/)
 - [do_action Cagliari &lpar;online&rpar;](https://central.wordcamp.org/wordcamps/do_action-cagliari-online/)
 - [do_action Bhopal](https://central.wordcamp.org/wordcamps/do_action-bhopal/)
 - [WordPress and Remote Work &lpar;Online&rpar; in Spanish](https://central.wordcamp.org/wordcamps/cenia-spain-online/)
 - [WordPress Day for Developers Lisboa 2024](https://central.wordcamp.org/wordcamps/developers-lisbon/)
-- [WordCamp Skopje, North Macedonia](https://central.wordcamp.org/wordcamps/wordcamp-skopje-north-macedonia/)
 - [do_action Ahmedabad, India](https://central.wordcamp.org/wordcamps/ahmedabad-india/)
 - [WordCamp Malaysia](https://central.wordcamp.org/wordcamps/wordcamp-kuala-lumpur-malaysia/)
 - [WordCamp Larissa, Greece](https://central.wordcamp.org/wordcamps/wordcamp-larissa-greece/)
