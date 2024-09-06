@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer and Website Creator &lpar;eCommerce Projects&rpar;](https://jobs.wordpress.net/job/wordpress-developer-and-website-creator-ecommerce-projects/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-850/)
 - [WordPress Optimization Specialist](https://jobs.wordpress.net/job/wordpress-optimization-specialist/)
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager/)
 - [Sr. Software Engineer](https://jobs.wordpress.net/job/sr-software-engineer-3/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-5/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-31/)
 - [UX &amp; UI Design for a new e-shop web site](https://jobs.wordpress.net/job/ux-ui-design-for-a-new-e-shop-web-site/)
-- [Site redesign](https://jobs.wordpress.net/job/site-redesign-3/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-849/)
 <!-- JOBS:END -->
 
 ## Central
