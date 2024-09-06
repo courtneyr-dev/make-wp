@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Review and PTE request for Taskbuilder in german and romanian](https://make.wordpress.org/polyglots/2024/09/05/review-and-pte-request-for-taskbuilder-in-german-and-romanian/)
 - [PTE Request for payOS](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-payos/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-below-listed-themes-6/)
 - [PTE Request for Znajdź Pracę z Praca.pl](https://make.wordpress.org/polyglots/2024/09/04/pte-request-for-znajdz-prace-z-praca-pl/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request in four languages – Charitable](https://make.wordpress.org/polyglots/2024/09/03/pte-request-in-three-languages-charitable/)
 - [GTE Request for Tagalog](https://make.wordpress.org/polyglots/2024/09/03/hi-118/)
 - [PTE Request for All In One Captcha](https://make.wordpress.org/polyglots/2024/09/03/pte-request-for-all-in-one-captcha/)
-- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/09/03/pte-request-for-below-listed-themes-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
