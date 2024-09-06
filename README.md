@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Final Reminder: Inactive Meetup Groups Will Be Closed in September 2024](https://make.wordpress.org/community/2024/09/06/final-reminder-inactive-meetup-groups-will-be-closed-in-september-2024/)
 - [Discontinuing Community Zoom Accounts for Meetups](https://make.wordpress.org/community/2024/09/05/discontinuing-community-zoom-accounts-for-meetups/)
 - [Update about the GatherPress project](https://make.wordpress.org/community/2024/09/05/update-about-the-gatherpress-project/)
 - [Community Team Meeting Agenda for 5 – September -2024](https://make.wordpress.org/community/2024/09/04/community-team-meeting-agenda-for-5-september-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcement: Sunsetting North American Camera Kit Rental Program](https://make.wordpress.org/community/2024/08/15/announcement-sunsetting-north-american-camera-kit-rental-program/)
 - [Contributor Working Group/Mentorship Chat Agenda | August 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/08/14/contributor-working-group-mentorship-chat-agenda-august-15th-0700-utc-apac-emea-and-1600-utc-amer/)
 - [Proposed Change to Advertising/Marketing Expense Guidelines](https://make.wordpress.org/community/2024/08/07/proposed-change-to-advertising-marketing-expense-guidelines/)
-- [Important Call to Action: Help Us Reactivate Inactive Meetup Groups by Sept 16](https://make.wordpress.org/community/2024/08/06/important-call-to-action-help-us-reactivate-inactive-meetup-groups-by-sept-16/)
 <!-- COMMUNITY:END -->
 
 ## Meta
