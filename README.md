@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Greenshift –…](https://make.wordpress.org/polyglots/2024/09/08/pte-request-for-greenshift-2/)
 - [PTE Request for Elastic Email Sender](https://make.wordpress.org/polyglots/2024/09/07/pte-request-for-elastic-email-sender-2/)
 - [Review and PTE request for Taskbuilder in german and romanian](https://make.wordpress.org/polyglots/2024/09/05/review-and-pte-request-for-taskbuilder-in-german-and-romanian/)
 - [PTE Request for payOS](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-payos/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Blocks Animation:…](https://make.wordpress.org/polyglots/2024/09/04/pte-request-for-blocks-animation/)
 - [Agenda: Weekly Polyglots Chat – September 4, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/09/04/agenda-weekly-polyglots-chat-september-4-2024-0700-utc/)
 - [PTE request in four languages – Charitable](https://make.wordpress.org/polyglots/2024/09/03/pte-request-in-three-languages-charitable/)
-- [GTE Request for Tagalog](https://make.wordpress.org/polyglots/2024/09/03/hi-118/)
 <!-- POLYGLOTS:END -->
 
 ## Support
