@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Guidance on plugins that install other plugins](https://make.wordpress.org/plugins/2024/09/09/guidance-on-plugins-that-install-other-plugins/)
 - [Upcoming Security Changes for Plugin and Theme Authors on WordPress.org](https://make.wordpress.org/plugins/2024/09/04/upcoming-security-changes-for-plugin-and-theme-authors-on-wordpress-org/)
 - [X-post: Call for contributors: Intermediate Plugin Developer learning pathway](https://make.wordpress.org/plugins/2024/07/30/xpost-call-for-contributors-intermediate-plugin-developer-learning-pathway/)
 - [Password Reset Required for Plugin Authors](https://make.wordpress.org/plugins/2024/06/29/password-reset-required-for-plugin-authors/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/plugins/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/plugins/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 - [WordCamp Asia 2024: Plugin’s team table on contributor day](https://make.wordpress.org/plugins/2024/03/05/wordcamp-asia-2024-plugins-team-table-on-contributor-day/)
-- [X-post: Guideline change: Reviews of Commercial/Pro Plugins](https://make.wordpress.org/plugins/2024/02/08/xpost-guideline-change-reviews-of-commercial-pro-plugins/)
 <!-- PLUGINS:END -->
 
 ## Community
