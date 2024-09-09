@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WCUS2024 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2024/09/09/wcus2024-contributor-day-community-team-agenda/)
 - [Final Reminder: Inactive Meetup Groups Will Be Closed in September 2024](https://make.wordpress.org/community/2024/09/06/final-reminder-inactive-meetup-groups-will-be-closed-in-september-2024/)
 - [Discontinuing Community Zoom Accounts for Meetups](https://make.wordpress.org/community/2024/09/05/discontinuing-community-zoom-accounts-for-meetups/)
 - [Update about the GatherPress project](https://make.wordpress.org/community/2024/09/05/update-about-the-gatherpress-project/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/community/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [Announcement: Sunsetting North American Camera Kit Rental Program](https://make.wordpress.org/community/2024/08/15/announcement-sunsetting-north-american-camera-kit-rental-program/)
 - [Contributor Working Group/Mentorship Chat Agenda | August 15th 07:00 UTC &lpar;APAC/EMEA&rpar; and 16:00 UTC &lpar;AMER&rpar;](https://make.wordpress.org/community/2024/08/14/contributor-working-group-mentorship-chat-agenda-august-15th-0700-utc-apac-emea-and-1600-utc-amer/)
-- [Proposed Change to Advertising/Marketing Expense Guidelines](https://make.wordpress.org/community/2024/08/07/proposed-change-to-advertising-marketing-expense-guidelines/)
 <!-- COMMUNITY:END -->
 
 ## Meta
