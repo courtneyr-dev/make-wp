@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: An Introduction to Data Views](https://learn.wordpress.org/?meeting=developer-hours-an-introduction-to-data-views)
 - [WordPress Playground Block code editor theme support](https://learn.wordpress.org/?meeting=wordpress-playground-block-code-editor-theme-support)
 - [Creating Your Own Contact Form Plugin](https://learn.wordpress.org/?meeting=creating-your-own-contact-form-plugin)
 - [Submitting an enhancement to the WordPress Playground Block](https://learn.wordpress.org/?meeting=submitting-an-enhancement-to-the-wordpress-playground-block)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-3](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-3)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-2](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-2)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-1](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-1)
-- [Thumbnail-a-thon: Let’s make graphics together for the new Learn.WordPress.org!](https://learn.wordpress.org/?meeting=thumbnail-a-thon-lets-make-graphics-together-for-the-new-learn-wordpress-org)
 <!-- SLS:END -->
 
 ## Test
