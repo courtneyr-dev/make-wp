@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello,](https://make.wordpress.org/polyglots/2024/09/10/hello-92/)
 - [PTE Request for Wordfence Security…](https://make.wordpress.org/polyglots/2024/09/09/pte-request-for-wordfence-security-3/)
 - [PTE Request for exovia YouTube DSGVO](https://make.wordpress.org/polyglots/2024/09/08/pte-request-for-exovia-youtube-dsgvo/)
 - [PTE Request for zmp](https://make.wordpress.org/polyglots/2024/09/08/pte-request-for-zmp/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for payOS](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-payos/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-below-listed-themes-6/)
 - [PTE Request for Znajdź Pracę z Praca.pl](https://make.wordpress.org/polyglots/2024/09/04/pte-request-for-znajdz-prace-z-praca-pl/)
-- [PTE Request for Astra Theme](https://make.wordpress.org/polyglots/2024/09/04/pte-request-for-astra-theme-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
