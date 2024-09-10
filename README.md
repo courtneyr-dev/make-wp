@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.6.2 has been released….](https://make.wordpress.org/polyglots/2024/09/10/wordpress-6-6-2-has-been-released/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/09/10/hello-92/)
 - [PTE Request for Wordfence Security…](https://make.wordpress.org/polyglots/2024/09/09/pte-request-for-wordfence-security-3/)
 - [PTE Request for exovia YouTube DSGVO](https://make.wordpress.org/polyglots/2024/09/08/pte-request-for-exovia-youtube-dsgvo/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Review and PTE request for Taskbuilder in german and romanian](https://make.wordpress.org/polyglots/2024/09/05/review-and-pte-request-for-taskbuilder-in-german-and-romanian/)
 - [PTE Request for payOS](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-payos/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-below-listed-themes-6/)
-- [PTE Request for Znajdź Pracę z Praca.pl](https://make.wordpress.org/polyglots/2024/09/04/pte-request-for-znajdz-prace-z-praca-pl/)
 <!-- POLYGLOTS:END -->
 
 ## Support
