@@ -409,6 +409,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [Hosting Team Meeting 2024-09-11](https://make.wordpress.org/hosting/2024/09/11/hosting-team-meeting-2024-09-11/)
 - [Hosting Team Meeting 2024-09-04 &lpar;APAC/EMEA&rpar;](https://make.wordpress.org/hosting/2024/09/04/hosting-team-meeting-2024-09-04-apac-emea/)
 - [Hosting Team meeting agenda 2024-08-21](https://make.wordpress.org/hosting/2024/08/21/hosting-team-meeting-agenda-2024-08-21/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/hosting/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
@@ -418,7 +419,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Team meeting agenda 2024-06-26](https://make.wordpress.org/hosting/2024/06/25/hosting-team-meeting-agenda-2024-05-29-2/)
 - [The Image Revolution: AVIF and WebP](https://make.wordpress.org/hosting/2024/06/19/the-image-revolution-avif-and-webp/)
 - [Hosting Directory: Next Steps](https://make.wordpress.org/hosting/2024/06/19/hosting-directory-next-steps/)
-- [WCEU 2024 Contributor Day Agenda](https://make.wordpress.org/hosting/2024/06/10/wceu-2024-contributor-day-agenda/)
 <!-- HOSTING:END -->
 
 ## Tide
