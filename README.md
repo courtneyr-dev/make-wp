@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Progress Report: HTML API](https://make.wordpress.org/core/2024/09/11/progress-report-html-api-3/)
 - [Default Theme Chat Agenda: September 11, 2024](https://make.wordpress.org/core/2024/09/10/default-theme-chat-agenda-september-11-2024/)
 - [Performance Chat Summary: 10 September 2024](https://make.wordpress.org/core/2024/09/10/performance-chat-summary-10-september-2024/)
 - [Admin Toolbar menu has new, higher priority values](https://make.wordpress.org/core/2024/09/10/admin-toolbar-menu-has-new-higher-priority-values/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in Gutenberg 19.1? &lpar;28 August&rpar;](https://make.wordpress.org/core/2024/08/28/whats-new-in-gutenberg-19-1-28-august/)
 - [Bug Scrub Schedule for WordPress 6.7](https://make.wordpress.org/core/2024/08/27/bug-scrub-schedule-for-wordpress-6-7/)
 - [Default Theme Chat Agenda: August 28, 2024](https://make.wordpress.org/core/2024/08/27/default-theme-chat-agenda-august-28-2024/)
-- [Agenda, Dev Chat, August 28, 2024](https://make.wordpress.org/core/2024/08/27/agenda-dev-chat-wednesday-aug-28-2024/)
 <!-- CORE:END -->
 
 ## Design
