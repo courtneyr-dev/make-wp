@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE and PTE request in two projects](https://make.wordpress.org/polyglots/2024/09/11/clpte-and-pte-request-in-two-projects/)
 - [WordPress 6.6.2 has been released….](https://make.wordpress.org/polyglots/2024/09/10/wordpress-6-6-2-has-been-released/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/09/10/hello-92/)
 - [PTE Request for Wordfence Security…](https://make.wordpress.org/polyglots/2024/09/09/pte-request-for-wordfence-security-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Elastic Email Sender](https://make.wordpress.org/polyglots/2024/09/07/pte-request-for-elastic-email-sender-2/)
 - [Review and PTE request for Taskbuilder in german and romanian](https://make.wordpress.org/polyglots/2024/09/05/review-and-pte-request-for-taskbuilder-in-german-and-romanian/)
 - [PTE Request for payOS](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-payos/)
-- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/09/05/pte-request-for-below-listed-themes-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
