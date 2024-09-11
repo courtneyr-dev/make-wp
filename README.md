@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Use the Create Block Theme plugin for exports, and theme variations](https://wordpress.tv/2024/09/10/use-the-create-block-theme-plugin-for-exports-and-theme-variations/)
+- [Setting up a WordPress blog](https://wordpress.tv/2024/09/10/setting-up-a-wordpress-blog/)
 - [Developer Hours: A First Look at the Template Registration API in WordPress 6.7](https://wordpress.tv/2024/09/10/developer-hours-a-first-look-at-the-template-registration-api-in-wordpress-6-7/)
 - [Submitting an enhancement to the WordPress Playground Block](https://wordpress.tv/2024/09/06/submitting-an-enhancement-to-the-wordpress-playground-block/)
 - [¿Qué hace que la comunidad WordPress sea tan especial?](https://wordpress.tv/2024/09/04/que-hace-que-la-comunidad-wordpress-sea-tan-especial/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to Unit Tests](https://wordpress.tv/2024/08/17/introduction-to-unit-tests/)
 - [Where to find how to do something: Navigating Learn WordPress](https://wordpress.tv/2024/08/17/where-to-find-how-to-do-something-navigating-learn-wordpress/)
 - [Crafting Compelling Content: Strategies for Engaging Your Audience on WordPress](https://wordpress.tv/2024/08/17/crafting-compelling-content-strategies-for-engaging-your-audience-on-wordpress/)
-- [All About You: Unleashing the Power of Personal Branding](https://wordpress.tv/2024/08/17/all-about-you-unleashing-the-power-of-personal-branding/)
-- [Monetizing Your Passion: WordPress for Content Creators](https://wordpress.tv/2024/08/17/monetizing-your-passion-wordpress-for-content-creators/)
 <!-- WPTV:END -->
 
 ## Marketing
