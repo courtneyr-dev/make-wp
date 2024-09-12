@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/design/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
 - [Design Share #63 &lpar;Aug 26-Sep 6&rpar;](https://make.wordpress.org/design/2024/09/09/design-share-63-aug-26-sep-6/)
 - [Data Views Update #1](https://make.wordpress.org/design/2024/09/06/data-views-update-1/)
 - [Advancing the WordPress Design System](https://make.wordpress.org/design/2024/09/05/advancing-the-wordpress-design-system/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Meet the new Learn WordPress](https://make.wordpress.org/design/2024/08/02/xpost-meet-the-new-learn-wordpress/)
 - [Design Share #60 &lpar;Jul 1 – Jul 12&rpar;](https://make.wordpress.org/design/2024/07/15/design-share-60-jul-1-jul-12/)
 - [X-post: What would you like to see in the next default WordPress theme?](https://make.wordpress.org/design/2024/07/08/xpost-what-would-you-like-to-see-in-the-next-default-wordpress-theme/)
-- [Design Share #59 &lpar;Jun 17-Jun 28&rpar;](https://make.wordpress.org/design/2024/06/28/design-share-59-jun-17-jun-28/)
 <!-- DESIGN:END -->
 
 ## Mobile
