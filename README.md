@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [The Five for the Future site gets a refresh](https://make.wordpress.org/meta/2024/09/12/the-five-for-the-future-site-gets-a-refresh/)
 - [X-post: Update about the GatherPress project](https://make.wordpress.org/meta/2024/09/05/xpost-update-about-the-gatherpress-project/)
 - [Agenda for September 4, 2024](https://make.wordpress.org/meta/2024/09/04/agenda-for-september-4-2024/)
 - [X-post: Upcoming Security Changes for Plugin and Theme Authors on WordPress.org](https://make.wordpress.org/meta/2024/09/04/xpost-upcoming-security-changes-for-plugin-and-theme-authors-on-wordpress-org/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for July 24, 2024](https://make.wordpress.org/meta/2024/07/23/agenda-for-july-24-2024/)
 - [X-post: Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/meta/2024/07/16/xpost-localization-and-translation-of-helphub-meeting-notes/)
 - [Meeting Agenda for July 10, 2024](https://make.wordpress.org/meta/2024/07/10/meeting-agenda-for-july-10-2024/)
-- [X-post: Training team testing GatherPress](https://make.wordpress.org/meta/2024/06/27/xpost-training-team-testing-gatherpress/)
 <!-- META:END -->
 
 ## Training
