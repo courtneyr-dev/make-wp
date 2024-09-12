@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Interactive Map Widget] and [Videos on Admin Dashboard]](https://make.wordpress.org/polyglots/2024/09/12/pte-request-for-interactive-map-widget-and-videos-on-admin-dashboard-2/)
 - [PTE Request](https://make.wordpress.org/polyglots/2024/09/12/pte-request-28/)
 - [PTE Request for Vtiger Webform to Gravity Forms Converter](https://make.wordpress.org/polyglots/2024/09/11/pte-request-for-vtiger-webform-to-gravity-forms-converter/)
 - [CLPTE and PTE request in two projects](https://make.wordpress.org/polyglots/2024/09/11/clpte-and-pte-request-in-two-projects/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for exovia YouTube DSGVO](https://make.wordpress.org/polyglots/2024/09/08/pte-request-for-exovia-youtube-dsgvo/)
 - [PTE Request for zmp](https://make.wordpress.org/polyglots/2024/09/08/pte-request-for-zmp/)
 - [PTE Request for Greenshift –…](https://make.wordpress.org/polyglots/2024/09/08/pte-request-for-greenshift-2/)
-- [PTE Request for Elastic Email Sender](https://make.wordpress.org/polyglots/2024/09/07/pte-request-for-elastic-email-sender-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
