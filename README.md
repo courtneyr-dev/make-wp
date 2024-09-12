@@ -125,15 +125,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Creating Tables with Plugins](https://developer.wordpress.org/plugins/creating-tables-with-plugins/)
 - [@wordpress/fields](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-fields/)
 - [The Reactive and Declarative mindset](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/the-reactive-and-declarative-mindset/)
 - [Server-side rendering: Processing directives on the server](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/server-side-rendering/)
-- [Understanding global state, local context and derived state](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/undestanding-global-state-local-context-and-derived-state/)
 - [Core Concepts](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/)
+- [Understanding global state, local context and derived state](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/undestanding-global-state-local-context-and-derived-state/)
 - [Composite](https://developer.wordpress.org/block-editor/reference-guides/components/composite/)
 - [wp user signup activate](https://developer.wordpress.org/cli/commands/user/signup/activate/)
 - [wp site generate](https://developer.wordpress.org/cli/commands/site/generate/)
-- [wp user signup](https://developer.wordpress.org/cli/commands/user/signup/)
 - [wp user exists](https://developer.wordpress.org/cli/commands/user/exists/)
 <!-- DEVHUB:END -->
 
