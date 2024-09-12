@@ -381,6 +381,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/marketing/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
 - [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/marketing/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/marketing/2024/06/04/xpost-training-team-update-june-2024/)
 - [X-post: WordPress Media Corps Initial Roadmap](https://make.wordpress.org/marketing/2024/05/03/xpost-wordpress-media-corps-initial-roadmap/)
@@ -390,7 +391,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Forums get a refresh](https://make.wordpress.org/marketing/2024/04/10/xpost-the-forums-get-a-refresh/)
 - [Making a WordPress Media Corps](https://make.wordpress.org/marketing/2024/03/20/making-a-wordpress-media-corps/)
 - [X-post: Training Team Update – February 2024](https://make.wordpress.org/marketing/2024/03/05/xpost-training-team-update-february-2024/)
-- [Notes: Marketing Team meeting, 20 February, 2024](https://make.wordpress.org/marketing/2024/02/27/notes-marketing-team-meeting-20-february-2024/)
 <!-- MARKETING:END -->
 
 ## CLI
