@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating Your Own Contact Form Plugin](https://wordpress.tv/2024/09/12/creating-your-own-contact-form-plugin/)
 - [Exploring the Query Loop block](https://wordpress.tv/2024/09/12/exploring-the-query-loop-block/)
 - [Use the Create Block Theme plugin for exports, and theme variations](https://wordpress.tv/2024/09/10/use-the-create-block-theme-plugin-for-exports-and-theme-variations/)
 - [Setting up a WordPress blog](https://wordpress.tv/2024/09/10/setting-up-a-wordpress-blog/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Unleash the Power of the Interactivity API: A New Era for WordPress](https://wordpress.tv/2024/08/17/unleash-the-power-of-the-interactivity-api-a-new-era-for-wordpress/)
 - [Simplifying WCAG: How the heck do I actually make websites accessible?](https://wordpress.tv/2024/08/17/simplifying-wcag-how-the-heck-do-i-actually-make-websites-accessible/)
 - [Introduction to Unit Tests](https://wordpress.tv/2024/08/17/introduction-to-unit-tests/)
-- [Where to find how to do something: Navigating Learn WordPress](https://wordpress.tv/2024/08/17/where-to-find-how-to-do-something-navigating-learn-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
