@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/training/2024/09/12/xpost-wordpress-contribution-health-dashboards-an-experiment/)
 - [Training Team Meeting Recap – 05 September 2024](https://make.wordpress.org/training/2024/09/12/training-team-meeting-recap-05-september-2024/)
 - [Call for Contributors: Become an Online Workshop Host](https://make.wordpress.org/training/2024/09/05/call-for-contributors-become-an-online-workshop-host/)
 - [Training Team Meeting Recap – 29 August 2024](https://make.wordpress.org/training/2024/09/04/training-team-meeting-recap-29-august-2024/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp US 2024 Contributor Day](https://make.wordpress.org/training/2024/08/20/wordcamp-us-2024-contributor-day/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/training/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [Training Team Meeting Recap – 8th August 2024](https://make.wordpress.org/training/2024/08/13/training-team-meeting-recap-8th-august-2024/)
-- [X-post: Training Team Update – August 2024](https://make.wordpress.org/training/2024/08/05/xpost-training-team-update-august-2024/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
