@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/project/2024/09/12/wordpress-contribution-health-dashboards-an-experiment/)
 - [Ramping up WordPress on YouTube](https://make.wordpress.org/project/2024/08/19/ramping-up-wordpress-on-youtube/)
 - [WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/project/2024/08/16/wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [X-post: Addressing Overlapping Initiatives and Improving Collaboration Across Teams](https://make.wordpress.org/project/2024/06/28/xpost-addressing-overlapping-initiatives-and-improving-collaboration-across-teams/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s try out online DEIB course content!](https://make.wordpress.org/project/2024/05/13/lets-try-out-online-deib-course-content/)
 - [X-post: WordPress Contributor Mentorship: 2024 Q1 Cohort Graduates](https://make.wordpress.org/project/2024/04/08/xpost-wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
 - [WordCamp Asia 2024 Q&amp;A](https://make.wordpress.org/project/2024/03/23/wordcamp-asia-2024-qa/)
-- [Adding WordPress to adopters of the Contributor Covenant](https://make.wordpress.org/project/2024/02/21/adding-wordpress-to-adopters-of-the-contributor-covenant/)
 <!-- PROJECT:END -->
 
 ## Systems
