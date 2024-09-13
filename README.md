@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Linxo Woo &lpar;Linxo Connect&rpar;](https://make.wordpress.org/polyglots/2024/09/13/pte-request-for-linxo-woo-linxo-connect/)
 - [PTE Request for DB Price Converter for WooCommerce](https://make.wordpress.org/polyglots/2024/09/12/pte-request-for-db-price-converter-for-woocommerce/)
 - [PTE Request for Nias course](https://make.wordpress.org/polyglots/2024/09/12/pte-request-for-nias-course/)
 - [PTE Request for [Interactive Map Widget] and [Videos on Admin Dashboard]](https://make.wordpress.org/polyglots/2024/09/12/pte-request-for-interactive-map-widget-and-videos-on-admin-dashboard-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.6.2 has been released….](https://make.wordpress.org/polyglots/2024/09/10/wordpress-6-6-2-has-been-released/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/09/10/hello-92/)
 - [PTE Request for Wordfence Security…](https://make.wordpress.org/polyglots/2024/09/09/pte-request-for-wordfence-security-3/)
-- [PTE Request for exovia YouTube DSGVO](https://make.wordpress.org/polyglots/2024/09/08/pte-request-for-exovia-youtube-dsgvo/)
 <!-- POLYGLOTS:END -->
 
 ## Support
