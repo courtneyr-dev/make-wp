@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for DB Robots.txt…](https://make.wordpress.org/polyglots/2024/09/14/pte-request-for-db-robots-txt/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/13/hi-dear-mentors-we-have-147/)
 - [PTE Request for Linxo Woo &lpar;Linxo Connect&rpar;](https://make.wordpress.org/polyglots/2024/09/13/pte-request-for-linxo-woo-linxo-connect/)
 - [PTE Request for DB Price Converter for WooCommerce](https://make.wordpress.org/polyglots/2024/09/12/pte-request-for-db-price-converter-for-woocommerce/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Vtiger Webform to Gravity Forms Converter](https://make.wordpress.org/polyglots/2024/09/11/pte-request-for-vtiger-webform-to-gravity-forms-converter/)
 - [CLPTE and PTE request in two projects](https://make.wordpress.org/polyglots/2024/09/11/clpte-and-pte-request-in-two-projects/)
 - [WordPress 6.6.2 has been released….](https://make.wordpress.org/polyglots/2024/09/10/wordpress-6-6-2-has-been-released/)
-- [Hello,](https://make.wordpress.org/polyglots/2024/09/10/hello-92/)
 <!-- POLYGLOTS:END -->
 
 ## Support
