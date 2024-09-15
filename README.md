@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress im Unternehmenseinsatz: Eine fortgeschrittene Headless-Lösung](https://wordpress.tv/2024/09/15/wordpress-im-unternehmenseinsatz-eine-fortgeschrittene-headless-losung/)
+- [Mit KI eigene WordPress Plugins erstellen](https://wordpress.tv/2024/09/15/mit-ki-eigene-wordpress-plugins-erstellen/)
 - [Creating Your Own Contact Form Plugin](https://wordpress.tv/2024/09/12/creating-your-own-contact-form-plugin/)
 - [Exploring the Query Loop block](https://wordpress.tv/2024/09/12/exploring-the-query-loop-block/)
 - [Use the Create Block Theme plugin for exports, and theme variations](https://wordpress.tv/2024/09/10/use-the-create-block-theme-plugin-for-exports-and-theme-variations/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Death to Slide Decks: Why your next presentation needs to be a webpage](https://wordpress.tv/2024/08/17/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage-2/)
 - [Leading a Technical Team](https://wordpress.tv/2024/08/17/leading-a-technical-team/)
 - [Unleash the Power of the Interactivity API: A New Era for WordPress](https://wordpress.tv/2024/08/17/unleash-the-power-of-the-interactivity-api-a-new-era-for-wordpress/)
-- [Simplifying WCAG: How the heck do I actually make websites accessible?](https://wordpress.tv/2024/08/17/simplifying-wcag-how-the-heck-do-i-actually-make-websites-accessible/)
-- [Introduction to Unit Tests](https://wordpress.tv/2024/08/17/introduction-to-unit-tests/)
 <!-- WPTV:END -->
 
 ## Marketing
