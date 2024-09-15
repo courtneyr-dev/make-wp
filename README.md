@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-851/)
 - [WordPress Developer for Large-Scale Pet Matchmaking Platform with App Integration](https://jobs.wordpress.net/job/wordpress-developer-for-large-scale-pet-matchmaking-platform-with-app-integration/)
 - [[Astra] UI/UX Designer – Web Design](https://jobs.wordpress.net/job/astra-ui-ux-designer-web-design/)
 - [API integration](https://jobs.wordpress.net/job/api-integration/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-850/)
 - [WordPress Optimization Specialist](https://jobs.wordpress.net/job/wordpress-optimization-specialist/)
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager/)
-- [Sr. Software Engineer](https://jobs.wordpress.net/job/sr-software-engineer-3/)
 <!-- JOBS:END -->
 
 ## Central
