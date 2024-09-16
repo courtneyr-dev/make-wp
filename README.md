@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/16/hi-dear-mentors-we-have-148/)
 - [PTE Request for Quickify Theme](https://make.wordpress.org/polyglots/2024/09/16/pte-request-for-quickify-theme/)
 - [PTE Request for Discussion Board](https://make.wordpress.org/polyglots/2024/09/15/pte-request-for-discussion-board/)
 - [PTE Request for SendWP](https://make.wordpress.org/polyglots/2024/09/14/pte-request-for-sendwp/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Linxo Woo &lpar;Linxo Connect&rpar;](https://make.wordpress.org/polyglots/2024/09/13/pte-request-for-linxo-woo-linxo-connect/)
 - [PTE Request for DB Price Converter for WooCommerce](https://make.wordpress.org/polyglots/2024/09/12/pte-request-for-db-price-converter-for-woocommerce/)
 - [PTE Request for Nias course](https://make.wordpress.org/polyglots/2024/09/12/pte-request-for-nias-course/)
-- [PTE Request for [Interactive Map Widget] and [Videos on Admin Dashboard]](https://make.wordpress.org/polyglots/2024/09/12/pte-request-for-interactive-map-widget-and-videos-on-admin-dashboard-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
