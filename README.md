@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Important Update: New Marketing/Advertising Guidelines for WordCamp and WordPress Events](https://make.wordpress.org/community/2024/09/16/important-update-new-marketing-advertising-guidelines-for-wordcamp-and-wordpress-events/)
 - [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/community/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
 - [X-post: WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/community/2024/09/12/xpost-wordpress-contribution-health-dashboards-an-experiment/)
 - [WCUS2024 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2024/09/09/wcus2024-contributor-day-community-team-agenda/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 5 – September -2024](https://make.wordpress.org/community/2024/09/04/community-team-meeting-agenda-for-5-september-2024/)
 - [Meetup Organizer Newsletter: August 2024](https://make.wordpress.org/community/2024/08/27/meetup-organizer-newsletter-august-2024/)
 - [Event Survey Update and Discussion](https://make.wordpress.org/community/2024/08/22/event-survey-update-and-discussion/)
-- [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/community/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 <!-- COMMUNITY:END -->
 
 ## Meta
