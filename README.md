@@ -519,6 +519,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Technician](https://jobs.wordpress.net/job/wordpress-support-technician-4/)
+- [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-25/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-17/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-37/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-851/)
@@ -527,8 +529,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [API integration](https://jobs.wordpress.net/job/api-integration/)
 - [WordPress Developer and Website Creator &lpar;eCommerce Projects&rpar;](https://jobs.wordpress.net/job/wordpress-developer-and-website-creator-ecommerce-projects/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-850/)
-- [WordPress Optimization Specialist](https://jobs.wordpress.net/job/wordpress-optimization-specialist/)
-- [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager/)
 <!-- JOBS:END -->
 
 ## Central
