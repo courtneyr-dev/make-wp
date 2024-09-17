@@ -449,6 +449,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [Photo Directory Team Rep Announcement Moved to October 4th](https://make.wordpress.org/photos/2024/09/17/photo-directory-team-rep-announcement-delayed/)
 - [Photo Directory Team Reps 2024: Submit your Votes!](https://make.wordpress.org/photos/2024/09/02/photo-directory-team-reps-2024-submit-your-votes/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/photos/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [Call for Photo Directory Team Representatives](https://make.wordpress.org/photos/2024/08/15/call-for-photo-directory-team-representatives/)
@@ -458,7 +459,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [January Stats for the WordPress Photo Directory](https://make.wordpress.org/photos/2024/02/02/january-stats-for-the-wordpress-photo-directory/)
 - [Alt Text for WordPress Photos](https://make.wordpress.org/photos/2024/02/02/alt-text-for-wordpress-photos/)
 - [X-post: Call for Mentees &amp; Mentors: Contributor Mentorship Program Cohort #2 &lpar;2024 Q1&rpar;](https://make.wordpress.org/photos/2024/01/12/xpost-call-for-mentees-mentors-cohort-2/)
-- [December Stats for the WordPress Photo Directory](https://make.wordpress.org/photos/2024/01/04/december-stats-for-the-wordpress-photo-directory/)
 <!-- PHOTOS:END -->
 
 ## Updates
