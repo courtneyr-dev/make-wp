@@ -273,7 +273,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intermediate Theme Developer](https://learn.wordpress.org/course/intermediate-theme-developer/)
 - [Develop Your First Low-Code Block Theme](https://learn.wordpress.org/course/develop-your-first-low-code-block-theme/)
 - [Introduction to developing with the WordPress REST API](https://learn.wordpress.org/course/developing-with-the-wordpress-rest-api/)
-- [Converting a Shortcode to a Block](https://learn.wordpress.org/course/converting-a-shortcode-to-a-block/)
 - [Developing your first WordPress block](https://learn.wordpress.org/course/developing-your-first-wordpress-block/)
 - [Community team Program Supporter tasks](https://learn.wordpress.org/course/wordpress-community-team-program-supporter-tasks/)
 - [Community team Supporter basics](https://learn.wordpress.org/course/wordpress-community-team-supporter-basics/)
@@ -283,8 +282,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using the WordPress Data Layer](https://learn.wordpress.org/course/using-the-wordpress-data-layer/)
 - [Introduction to Block Development:  Build your first custom block](https://learn.wordpress.org/course/introduction-to-block-development-build-your-first-custom-block/)
 - [Part 3: Advanced Site Design using the Site Editor](https://learn.wordpress.org/course/part-3-advanced-site-design-with-full-site-editing-site-editor-templates-and-template-parts/)
-- [Part 2: Personalized Site Design and Theme Blocks](https://learn.wordpress.org/course/part-2-personalized-site-design-with-full-site-editing-and-theme-blocks/)
-- [Part 1: Simple Site Design and Site Editing](https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/)
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
 - [Getting Started With WordPress: Get Set Up](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
 - [How decisions are made in the WordPress project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
@@ -292,6 +289,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Open source basics and WordPress](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)
 - [Community meeting etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
 - [Writing in the WordPress voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
+- [Basic principles of conflict resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)
+- [Community team event mentor training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
+- [WordPress meetup organizer training](https://learn.wordpress.org/course/wordpress-meetup-organizer-training/)
 <!-- COURSES:END -->
 
 ### Social Learning Spaces
