@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Admin Bar Publish](https://make.wordpress.org/polyglots/2024/09/17/pte-request-for-admin-bar-publish/)
 - [PTE Request for Vma plus Station](https://make.wordpress.org/polyglots/2024/09/17/pte-request-for-vma-plus-station/)
 - [PTE request](https://make.wordpress.org/polyglots/2024/09/17/pte-request-29/)
 - [PTE Request for Giftify](https://make.wordpress.org/polyglots/2024/09/16/pte-request-for-giftify/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for SendWP](https://make.wordpress.org/polyglots/2024/09/14/pte-request-for-sendwp/)
 - [Hi! I Translated the WP…](https://make.wordpress.org/polyglots/2024/09/14/hi-i-translated-the-wp/)
 - [PTE Request for DB Robots.txt…](https://make.wordpress.org/polyglots/2024/09/14/pte-request-for-db-robots-txt/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/13/hi-dear-mentors-we-have-147/)
 <!-- POLYGLOTS:END -->
 
 ## Support
