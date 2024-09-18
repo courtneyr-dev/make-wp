@@ -294,6 +294,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Creating a portfolio site with a block theme and patterns](https://learn.wordpress.org/?meeting=creating-a-portfolio-site-with-a-block-theme-and-patterns)
 - [Developer Hours: An Introduction to Data Views](https://learn.wordpress.org/?meeting=developer-hours-an-introduction-to-data-views)
 - [WordPress Playground Block code editor theme support](https://learn.wordpress.org/?meeting=wordpress-playground-block-code-editor-theme-support)
 - [Creating Your Own Contact Form Plugin](https://learn.wordpress.org/?meeting=creating-your-own-contact-form-plugin)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Shape the Future: Your Role in WordPress Open Source Contribution](https://learn.wordpress.org/?meeting=shape-the-future-your-role-in-wordpress-open-source-contribution)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-3](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-3)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-2](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-2)
-- [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-1](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-1)
 <!-- SLS:END -->
 
 ## Test
