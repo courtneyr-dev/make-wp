@@ -519,6 +519,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Full Stack WordPress Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-3/)
 - [WordPress Support Technician](https://jobs.wordpress.net/job/wordpress-support-technician-4/)
 - [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-25/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-17/)
@@ -528,7 +529,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] UI/UX Designer – Web Design](https://jobs.wordpress.net/job/astra-ui-ux-designer-web-design/)
 - [API integration](https://jobs.wordpress.net/job/api-integration/)
 - [WordPress Developer and Website Creator &lpar;eCommerce Projects&rpar;](https://jobs.wordpress.net/job/wordpress-developer-and-website-creator-ecommerce-projects/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-850/)
 <!-- JOBS:END -->
 
 ## Central
