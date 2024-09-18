@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Comment commencer à utiliser WordPress Playground](https://learn.wordpress.org/tutorial/fr-how-to-start-using-wordpress-playground/)
 - [কন্টেন্ট তৈরির প্রক্রিয়াকে সহজ করার জন্য ওয়ার্ডপ্রেস এডিটর মোডসমূহ](https://learn.wordpress.org/tutorial/bn-wordpress-editor-modes-for-streamlining-content-creation/)
 - [Exploring WordPress 6.6](https://learn.wordpress.org/tutorial/exploring-wordpress-6-6/)
 - [কিভাবে লো-কোড ব্লক প্যাটার্ন তৈরি করবেন](https://learn.wordpress.org/tutorial/bn-how-to-create-low-code-block-patterns/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [एक अस्थिर हेडर या बैनर जोड़ना](https://learn.wordpress.org/tutorial/hi-adding-a-sticky-header-or-banner/)
 - [छवियाँ जोड़ना और हटाना](https://learn.wordpress.org/tutorial/hi-adding-removing-images/)
 - [Articles ou pages : quelle est la différence ?](https://learn.wordpress.org/tutorial/fr-posts-vs-pages-whats-the-difference/)
-- [इन्सर्टर से सीधे अपनी सामग्री में मीडिया और ओपनवर्स छवियां जोड़ें](https://learn.wordpress.org/tutorial/hi-add-media-and-openverse-images-to-your-content-directly-from-the-inserter/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
