@@ -463,6 +463,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [WordCamp US 2024 Marketing Discussion](https://make.wordpress.org/updates/2024/09/19/wordcamp-us-2024-marketing-discussion/)
 - [Themes team update September 17, 2024](https://make.wordpress.org/updates/2024/09/17/themes-team-update-september-17-2024/)
 - [Plugin Review Team: 16 September 2024](https://make.wordpress.org/updates/2024/09/16/plugin-review-team-16-september-2024/)
 - [Five for the Future Program Updates: September 2024](https://make.wordpress.org/updates/2024/09/16/five-for-the-future-program-updates-september-2024/)
@@ -472,7 +473,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/updates/2024/09/12/xpost-wordpress-contribution-health-dashboards-an-experiment/)
 - [Themes team update September 10, 2024](https://make.wordpress.org/updates/2024/09/10/themes-team-update-september-10-2024/)
 - [Plugin Review Team: 9 September 2024](https://make.wordpress.org/updates/2024/09/09/plugin-review-team-9-september-2024/)
-- [Test Team Update: 9 September 2024](https://make.wordpress.org/updates/2024/09/09/test-team-update-9-september-2024/)
 <!-- UPDATES:END -->
 
 ## Project
