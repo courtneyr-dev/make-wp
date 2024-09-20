@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shipment Tracking DDT for WooCommerce](https://make.wordpress.org/polyglots/2024/09/20/pte-request-for-shipment-tracking-ddt-for-woocommerce/)
 - [PTE Request for Paid Memberships Pro](https://make.wordpress.org/polyglots/2024/09/20/pte-request-for-paid-memberships-pro-6/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/18/hi-dear-mentors-we-have-149/)
 - [Agenda: Weekly Polyglots Chat – September 18, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/09/18/agenda-weekly-polyglots-chat-september-18-2024-700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Vma plus Station](https://make.wordpress.org/polyglots/2024/09/17/pte-request-for-vma-plus-station/)
 - [PTE request](https://make.wordpress.org/polyglots/2024/09/17/pte-request-29/)
 - [PTE Request for Giftify](https://make.wordpress.org/polyglots/2024/09/16/pte-request-for-giftify/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/16/hi-dear-mentors-we-have-148/)
 <!-- POLYGLOTS:END -->
 
 ## Support
