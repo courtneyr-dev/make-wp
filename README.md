@@ -505,6 +505,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [PDX + WCUS 2024: A Recap](https://wordpress.org/news/2024/09/pdx-wcus-2024-a-recap/)
 - [WP Briefing: Episode 86: My First WordPress Experience](https://wordpress.org/news/2024/09/episode-86-my-first-wordpress-experience/)
 - [Tour the New Learn WordPress](https://wordpress.org/news/2024/09/tour-the-new-learn-wordpress/)
 - [WordPress 6.6.2 Maintenance Release](https://wordpress.org/news/2024/09/wordpress-6-6-2-maintenance-release/)
@@ -514,7 +515,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.6.1 Maintenance Release](https://wordpress.org/news/2024/07/wordpress-6-6-1-maintenance-release/)
 - [WP Briefing: Episode 84: A WordPress 6.6 Sneak Peek](https://wordpress.org/news/2024/07/episode-84-a-wordpress-6-6-sneak-peek/)
 - [WordPress 6.6 “Dorsey”](https://wordpress.org/news/2024/07/dorsey/)
-- [WordPress 6.6 Release Candidate 3](https://wordpress.org/news/2024/07/wordpress-6-6-release-candidate-3/)
 <!-- NEWS:END -->
 
 ## Jobs
