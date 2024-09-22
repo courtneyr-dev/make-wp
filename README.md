@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for UpdraftPlus](https://make.wordpress.org/polyglots/2024/09/22/pte-request-for-updraftplus-2/)
+- [PTE request for Buddypress plugin](https://make.wordpress.org/polyglots/2024/09/22/pte-request-for-buddypress-plugin-2/)
 - [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2024/09/21/pte-request-for-premium-addons-for-elementor/)
 - [PTE Request for Charming Portfolio WordPress Plugin](https://make.wordpress.org/polyglots/2024/09/21/pte-request-for-charming-portfolio-wordpress-plugin-2/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/09/21/hello-polyglots-306/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Paid Memberships Pro](https://make.wordpress.org/polyglots/2024/09/20/pte-request-for-paid-memberships-pro-6/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/18/hi-dear-mentors-we-have-149/)
 - [Agenda: Weekly Polyglots Chat – September 18, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/09/18/agenda-weekly-polyglots-chat-september-18-2024-700-utc/)
-- [PTE Request for Download Monitor](https://make.wordpress.org/polyglots/2024/09/17/pte-request-for-download-monitor-2/)
-- [Hi, I am Piang Pha….](https://make.wordpress.org/polyglots/2024/09/17/hi-i-am-piang-pha/)
 <!-- POLYGLOTS:END -->
 
 ## Support
