@@ -350,6 +350,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo hacer crecer tu negocio gracias a tu marca personal](https://wordpress.tv/2024/09/22/como-hacer-crecer-tu-negocio-gracias-a-tu-marca-personal/)
+- [¿Dudas sobre WooCommerce?](https://wordpress.tv/2024/09/22/dudas-sobre-woocommerce/)
 - [WordPress im Unternehmenseinsatz: Eine fortgeschrittene Headless-Lösung](https://wordpress.tv/2024/09/15/wordpress-im-unternehmenseinsatz-eine-fortgeschrittene-headless-losung/)
 - [Mit KI eigene WordPress Plugins erstellen](https://wordpress.tv/2024/09/15/mit-ki-eigene-wordpress-plugins-erstellen/)
 - [Creating Your Own Contact Form Plugin](https://wordpress.tv/2024/09/12/creating-your-own-contact-form-plugin/)
@@ -373,8 +375,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Historias curiosas de soporte técnico con WordPress](https://wordpress.tv/2024/08/17/historias-curiosas-de-soporte-tecnico-con-wordpress/)
 - [Keeping the web open with WordPress](https://wordpress.tv/2024/08/17/keeping-the-web-open-with-wordpress/)
 - [Death to Slide Decks: Why your next presentation needs to be a webpage](https://wordpress.tv/2024/08/17/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage-2/)
-- [Leading a Technical Team](https://wordpress.tv/2024/08/17/leading-a-technical-team/)
-- [Unleash the Power of the Interactivity API: A New Era for WordPress](https://wordpress.tv/2024/08/17/unleash-the-power-of-the-interactivity-api-a-new-era-for-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
