@@ -350,6 +350,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo difundir tu podcast en WordPress](https://wordpress.tv/2024/09/22/como-difundir-tu-podcast-en-wordpress/)
+- [Coherencia de marca](https://wordpress.tv/2024/09/22/coherencia-de-marca/)
 - [Cómo hacer crecer tu negocio gracias a tu marca personal](https://wordpress.tv/2024/09/22/como-hacer-crecer-tu-negocio-gracias-a-tu-marca-personal/)
 - [¿Dudas sobre WooCommerce?](https://wordpress.tv/2024/09/22/dudas-sobre-woocommerce/)
 - [WordPress im Unternehmenseinsatz: Eine fortgeschrittene Headless-Lösung](https://wordpress.tv/2024/09/15/wordpress-im-unternehmenseinsatz-eine-fortgeschrittene-headless-losung/)
@@ -373,8 +375,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adding theme.json in classic themes](https://wordpress.tv/2024/08/21/adding-theme-son-in-classic-themes/)
 - [Comprendre les variations de styles de bloc dans WordPress 6.6](https://wordpress.tv/2024/08/19/comprendre-les-variations-de-styles-de-bloc-dans-wordpress-6-6/)
 - [Historias curiosas de soporte técnico con WordPress](https://wordpress.tv/2024/08/17/historias-curiosas-de-soporte-tecnico-con-wordpress/)
-- [Keeping the web open with WordPress](https://wordpress.tv/2024/08/17/keeping-the-web-open-with-wordpress/)
-- [Death to Slide Decks: Why your next presentation needs to be a webpage](https://wordpress.tv/2024/08/17/death-to-slide-decks-why-your-next-presentation-needs-to-be-a-webpage-2/)
 <!-- WPTV:END -->
 
 ## Marketing
