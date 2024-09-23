@@ -350,6 +350,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bienvenida](https://wordpress.tv/2024/09/23/bienvenida/)
+- [Cierre de la conferencia](https://wordpress.tv/2024/09/23/cierre-de-la-conferencia/)
+- [El álbum de fotos de WordPress](https://wordpress.tv/2024/09/23/el-album-de-fotos-de-wordpress/)
+- [Crea tu landing page en 10 min: simple y efectivo](https://wordpress.tv/2024/09/23/crea-tu-landing-page-en-10-min-simple-y-efectivo/)
 - [Desconferencia](https://wordpress.tv/2024/09/23/desconferencia/)
 - [De carpintero a Hosting manager, gracias a WordPress.](https://wordpress.tv/2024/09/23/de-carpintero-a-hosting-manager-gracias-a-wordpress/)
 - [El poder de la comunidad](https://wordpress.tv/2024/09/23/el-poder-de-la-comunidad/)
@@ -371,10 +375,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo difundir tu podcast en WordPress](https://wordpress.tv/2024/09/22/como-difundir-tu-podcast-en-wordpress/)
 - [Coherencia de marca](https://wordpress.tv/2024/09/22/coherencia-de-marca/)
 - [Cómo hacer crecer tu negocio gracias a tu marca personal](https://wordpress.tv/2024/09/22/como-hacer-crecer-tu-negocio-gracias-a-tu-marca-personal/)
-- [¿Dudas sobre WooCommerce?](https://wordpress.tv/2024/09/22/dudas-sobre-woocommerce/)
-- [WordPress im Unternehmenseinsatz: Eine fortgeschrittene Headless-Lösung](https://wordpress.tv/2024/09/15/wordpress-im-unternehmenseinsatz-eine-fortgeschrittene-headless-losung/)
-- [Mit KI eigene WordPress Plugins erstellen](https://wordpress.tv/2024/09/15/mit-ki-eigene-wordpress-plugins-erstellen/)
-- [Creating Your Own Contact Form Plugin](https://wordpress.tv/2024/09/12/creating-your-own-contact-form-plugin/)
 <!-- WPTV:END -->
 
 ## Marketing
