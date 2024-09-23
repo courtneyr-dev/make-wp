@@ -350,6 +350,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Optimiza las imágenes de tu eCommerce de manera profesional sin saber de diseño gráfico](https://wordpress.tv/2024/09/23/optimiza-las-imagenes-de-tu-ecommerce-de-manera-profesional-sin-saber-de-diseno-grafico/)
+- [¿Optimizar para buscadores inteligentes o utilizar buscadores inteligentes para optimizar?](https://wordpress.tv/2024/09/23/optimizar-para-buscadores-inteligentes-o-utilizar-buscadores-inteligentes-para-optimizar/)
+- [Copywriting: cómo enlazar ideas, personas y ventas con palabras sin dejar de ser tú](https://wordpress.tv/2024/09/23/copywriting-como-enlazar-ideas-personas-y-ventas-con-palabras-sin-dejar-de-ser-tu/)
+- [2+2 tips legais: non metas a zoca na túa web](https://wordpress.tv/2024/09/23/22-tips-legais-non-metas-a-zoca-na-tua-web/)
+- [De idea a realidad: Claves para lanzar tu Startup en el ecosistema WordPress](https://wordpress.tv/2024/09/23/de-idea-a-realidad-claves-para-lanzar-tu-startup-en-el-ecosistema-wordpress/)
+- [Descobre como simplificar o proceso de maquetación en Gutenberg utilizando Kadence Blocks](https://wordpress.tv/2024/09/23/descobre-como-simplificar-o-proceso-de-maquetacion-en-gutenberg-utilizando-kadence-blocks/)
+- [Profesionalizar a comunidade. Emprendemento cooperativo](https://wordpress.tv/2024/09/23/profesionalizar-a-comunidade-emprendemento-cooperativo/)
+- [Creando los cimientos de tu proyecto con una buena arquitectura SEO](https://wordpress.tv/2024/09/23/creando-los-cimientos-de-tu-proyecto-con-una-buena-arquitectura-seo/)
 - [Cómo difundir tu podcast en WordPress](https://wordpress.tv/2024/09/22/como-difundir-tu-podcast-en-wordpress/)
 - [Coherencia de marca](https://wordpress.tv/2024/09/22/coherencia-de-marca/)
 - [Cómo hacer crecer tu negocio gracias a tu marca personal](https://wordpress.tv/2024/09/22/como-hacer-crecer-tu-negocio-gracias-a-tu-marca-personal/)
@@ -367,14 +375,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introduction to phpMyAdmin](https://wordpress.tv/2024/09/03/introduction-to-phpmyadmin/)
 - [Keynote – Accessibility in Action: Indigenous Communities](https://wordpress.tv/2024/09/02/keynote-accessibility-in-action-indigenous-communities/)
 - [How to install WordPress on an Ubuntu VPS: OpenLiteSpeed edition](https://wordpress.tv/2024/09/02/how-to-install-wordpress-on-an-ubuntu-vps-openlitespeed-edition/)
-- [What is WordPress Multisite?](https://wordpress.tv/2024/08/28/what-is-wordpress-multisite/)
-- [Using the Grid block](https://wordpress.tv/2024/08/28/using-the-grid-block/)
-- [Developer Hours: Building WordPress themes with the Create Block Theme plugin](https://wordpress.tv/2024/08/27/developer-hours-building-wordpress-themes-with-the-create-block-theme-plugin/)
-- [Cómo hacer que tu web sea accesible para todos](https://wordpress.tv/2024/08/26/como-hacer-que-tu-web-sea-accesible-para-todos/)
-- [Why would a WordPress user need to run a local site?](https://wordpress.tv/2024/08/21/why-would-a-wordpress-user-need-to-run-a-local-site/)
-- [Adding theme.json in classic themes](https://wordpress.tv/2024/08/21/adding-theme-son-in-classic-themes/)
-- [Comprendre les variations de styles de bloc dans WordPress 6.6](https://wordpress.tv/2024/08/19/comprendre-les-variations-de-styles-de-bloc-dans-wordpress-6-6/)
-- [Historias curiosas de soporte técnico con WordPress](https://wordpress.tv/2024/08/17/historias-curiosas-de-soporte-tecnico-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
