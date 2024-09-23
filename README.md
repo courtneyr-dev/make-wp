@@ -435,6 +435,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [A week in Openverse: 2024-09-16 – 2024-09-23](https://make.wordpress.org/openverse/2024/09/23/last-week-openverse-2024-09-16-2024-09-23/)
 - [A week in Openverse: 2024-09-09 – 2024-09-16](https://make.wordpress.org/openverse/2024/09/16/last-week-openverse-2024-09-09-2024-09-16/)
 - [A week in Openverse: 2024-09-02 – 2024-09-09](https://make.wordpress.org/openverse/2024/09/09/last-week-openverse-2024-09-02-2024-09-09/)
 - [Openverse Monthly Priorities Meeting 2024-09-11](https://make.wordpress.org/openverse/2024/09/04/openverse-monthly-priorities-meeting-2024-09-11/)
@@ -444,7 +445,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A week in Openverse: 2024-08-12 – 2024-08-19](https://make.wordpress.org/openverse/2024/08/19/last-week-openverse-2024-08-12-2024-08-19/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/openverse/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [A week in Openverse: 2024-08-05 – 2024-08-12](https://make.wordpress.org/openverse/2024/08/12/last-week-openverse-2024-08-05-2024-08-12/)
-- [A week in Openverse: 2024-07-29 – 2024-08-05](https://make.wordpress.org/openverse/2024/08/05/last-week-openverse-2024-07-29-2024-08-05/)
 <!-- OPENVERSE:END -->
 
 ## Photos
