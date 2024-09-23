@@ -350,6 +350,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Desconferencia](https://wordpress.tv/2024/09/23/desconferencia/)
+- [De carpintero a Hosting manager, gracias a WordPress.](https://wordpress.tv/2024/09/23/de-carpintero-a-hosting-manager-gracias-a-wordpress/)
+- [El poder de la comunidad](https://wordpress.tv/2024/09/23/el-poder-de-la-comunidad/)
 - [Cómo tener un entorno seguro a nivel de servidor y a nivel de CMS WordPress](https://wordpress.tv/2024/09/23/como-tener-un-entorno-seguro-a-nivel-de-servidor-y-a-nivel-de-cms-wordpress/)
 - [Estrategias de Keyword Research. El método KIR para transformar tu Marca y posicionamiento](https://wordpress.tv/2024/09/23/estrategias-de-keyword-research-el-metodo-kir-para-transformar-tu-marca-y-posicionamiento/)
 - [¿Tienes empatía digital? Diseño y usabilidad en tu web, la clave para llegar a tu público](https://wordpress.tv/2024/09/23/tienes-empatia-digital-diseno-y-usabilidad-en-tu-web-la-clave-para-llegar-a-tu-publico/)
@@ -372,9 +375,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress im Unternehmenseinsatz: Eine fortgeschrittene Headless-Lösung](https://wordpress.tv/2024/09/15/wordpress-im-unternehmenseinsatz-eine-fortgeschrittene-headless-losung/)
 - [Mit KI eigene WordPress Plugins erstellen](https://wordpress.tv/2024/09/15/mit-ki-eigene-wordpress-plugins-erstellen/)
 - [Creating Your Own Contact Form Plugin](https://wordpress.tv/2024/09/12/creating-your-own-contact-form-plugin/)
-- [Exploring the Query Loop block](https://wordpress.tv/2024/09/12/exploring-the-query-loop-block/)
-- [Use the Create Block Theme plugin for exports, and theme variations](https://wordpress.tv/2024/09/10/use-the-create-block-theme-plugin-for-exports-and-theme-variations/)
-- [Setting up a WordPress blog](https://wordpress.tv/2024/09/10/setting-up-a-wordpress-blog/)
 <!-- WPTV:END -->
 
 ## Marketing
