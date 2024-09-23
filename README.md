@@ -350,6 +350,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo tener un entorno seguro a nivel de servidor y a nivel de CMS WordPress](https://wordpress.tv/2024/09/23/como-tener-un-entorno-seguro-a-nivel-de-servidor-y-a-nivel-de-cms-wordpress/)
+- [Estrategias de Keyword Research. El método KIR para transformar tu Marca y posicionamiento](https://wordpress.tv/2024/09/23/estrategias-de-keyword-research-el-metodo-kir-para-transformar-tu-marca-y-posicionamiento/)
+- [¿Tienes empatía digital? Diseño y usabilidad en tu web, la clave para llegar a tu público](https://wordpress.tv/2024/09/23/tienes-empatia-digital-diseno-y-usabilidad-en-tu-web-la-clave-para-llegar-a-tu-publico/)
+- [Auditoría WPO – Básico](https://wordpress.tv/2024/09/23/auditoria-wpo-basico/)
+- [Reputación en “veremos” en tiempos de la IA](https://wordpress.tv/2024/09/23/reputacion-en-veremos-en-tiempos-de-la-ia/)
+- [Que tes que saber de dominios &lpar;aínda que uses WordPress&rpar;](https://wordpress.tv/2024/09/23/que-tes-que-saber-de-dominios-ainda-que-uses-wordpress/)
+- [De la Idea a la Realidad: cómo ganar dinero con WordPress](https://wordpress.tv/2024/09/23/de-la-idea-a-la-realidad-como-ganar-dinero-con-wordpress/)
 - [Optimiza las imágenes de tu eCommerce de manera profesional sin saber de diseño gráfico](https://wordpress.tv/2024/09/23/optimiza-las-imagenes-de-tu-ecommerce-de-manera-profesional-sin-saber-de-diseno-grafico/)
 - [¿Optimizar para buscadores inteligentes o utilizar buscadores inteligentes para optimizar?](https://wordpress.tv/2024/09/23/optimizar-para-buscadores-inteligentes-o-utilizar-buscadores-inteligentes-para-optimizar/)
 - [Copywriting: cómo enlazar ideas, personas y ventas con palabras sin dejar de ser tú](https://wordpress.tv/2024/09/23/copywriting-como-enlazar-ideas-personas-y-ventas-con-palabras-sin-dejar-de-ser-tu/)
@@ -368,13 +375,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring the Query Loop block](https://wordpress.tv/2024/09/12/exploring-the-query-loop-block/)
 - [Use the Create Block Theme plugin for exports, and theme variations](https://wordpress.tv/2024/09/10/use-the-create-block-theme-plugin-for-exports-and-theme-variations/)
 - [Setting up a WordPress blog](https://wordpress.tv/2024/09/10/setting-up-a-wordpress-blog/)
-- [Developer Hours: A First Look at the Template Registration API in WordPress 6.7](https://wordpress.tv/2024/09/10/developer-hours-a-first-look-at-the-template-registration-api-in-wordpress-6-7/)
-- [Submitting an enhancement to the WordPress Playground Block](https://wordpress.tv/2024/09/06/submitting-an-enhancement-to-the-wordpress-playground-block/)
-- [¿Qué hace que la comunidad WordPress sea tan especial?](https://wordpress.tv/2024/09/04/que-hace-que-la-comunidad-wordpress-sea-tan-especial/)
-- [Understand where your files live](https://wordpress.tv/2024/09/03/understand-where-your-files-live/)
-- [Introduction to phpMyAdmin](https://wordpress.tv/2024/09/03/introduction-to-phpmyadmin/)
-- [Keynote – Accessibility in Action: Indigenous Communities](https://wordpress.tv/2024/09/02/keynote-accessibility-in-action-indigenous-communities/)
-- [How to install WordPress on an Ubuntu VPS: OpenLiteSpeed edition](https://wordpress.tv/2024/09/02/how-to-install-wordpress-on-an-ubuntu-vps-openlitespeed-edition/)
 <!-- WPTV:END -->
 
 ## Marketing
