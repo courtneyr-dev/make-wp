@@ -519,16 +519,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Senior Full Stack WordPress Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-3/)
+- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-84/)
+- [Senior Engineer, Web and Publishing Products](https://jobs.wordpress.net/job/senior-engineer-web-and-publishing-products/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-18/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-38/)
 - [WordPress Support Technician](https://jobs.wordpress.net/job/wordpress-support-technician-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-851/)
 - [WordPress Developer for Large-Scale Pet Matchmaking Platform with App Integration](https://jobs.wordpress.net/job/wordpress-developer-for-large-scale-pet-matchmaking-platform-with-app-integration/)
 - [[Astra] UI/UX Designer – Web Design](https://jobs.wordpress.net/job/astra-ui-ux-designer-web-design/)
 - [API integration](https://jobs.wordpress.net/job/api-integration/)
 - [WordPress Developer and Website Creator &lpar;eCommerce Projects&rpar;](https://jobs.wordpress.net/job/wordpress-developer-and-website-creator-ecommerce-projects/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-850/)
-- [WordPress Optimization Specialist](https://jobs.wordpress.net/job/wordpress-optimization-specialist/)
-- [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager/)
 <!-- JOBS:END -->
 
 ## Central
