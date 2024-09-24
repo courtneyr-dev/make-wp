@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.7 Release Party Schedule](https://make.wordpress.org/core/2024/09/24/wordpress-6-7-release-party-schedule/)
+- [Agenda, Dev Chat, September 25, 2024](https://make.wordpress.org/core/2024/09/24/agenda-dev-chat-september-25-2024/)
 - [Proposal: Create connections between Performance Team and Hosts](https://make.wordpress.org/core/2024/09/23/proposal-create-connections-between-performance-team-and-hosts/)
 - [Core Editor Improvement: Simplified Query Loop block with smarter defaults &amp; intuitive settings](https://make.wordpress.org/core/2024/09/23/core-editor-improvement-simplified-query-loop-block-with-smarter-defaults-intuitive-settings/)
 - [X-post: Design Systems: Storybook Improvements](https://make.wordpress.org/core/2024/09/17/xpost-design-systems-storybook-improvements/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Default Theme Chat Summary, September 4, 2024](https://make.wordpress.org/core/2024/09/05/default-theme-chat-summary-september-4-2024/)
 - [Summary, Dev Chat, September 4, 2024](https://make.wordpress.org/core/2024/09/05/summary-dev-chat-september-4-2024/)
 - [WordPress 6.6.2 RC1 is now available](https://make.wordpress.org/core/2024/09/04/wordpress-6-6-2-rc1-is-now-available/)
-- [Roadmap to 6.7](https://make.wordpress.org/core/2024/09/03/roadmap-to-6-7/)
-- [Performance Chat Summary: 3 September 2024](https://make.wordpress.org/core/2024/09/03/performance-chat-summary-03-september-2024/)
 <!-- CORE:END -->
 
 ## Design
