@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day September 24, 2024](https://make.wordpress.org/docs/2024/09/24/online-monthly-docs-team-contributor-day-september-24-2024/)
 - [Summary for Docs Team Meeting &lpar;20-Aug-2024&rpar;](https://make.wordpress.org/docs/2024/09/03/summary-for-docs-team-meeting-20-aug-2024/)
 - [Online monthly Docs Team Contributor Day August 27, 2024](https://make.wordpress.org/docs/2024/08/27/online-monthly-docs-team-contributor-day-august-27-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;August 20, 2024&rpar;](https://make.wordpress.org/docs/2024/08/20/agenda-for-docs-team-biweekly-meeting-august-20-2024/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – August 2024](https://make.wordpress.org/docs/2024/08/05/xpost-training-team-update-august-2024/)
 - [Summary for Docs Team Meeting &lpar;16-Jul-2024&rpar;](https://make.wordpress.org/docs/2024/07/23/summary-for-docs-team-meeting-16-jul-2024/)
 - [Online monthly Docs Team Contributor Day July 23 &amp; 30, 2024](https://make.wordpress.org/docs/2024/07/18/online-monthly-docs-team-contributor-day-july-23-30-2024/)
-- [X-post: Localization and translation of HelpHub – Meeting notes](https://make.wordpress.org/docs/2024/07/16/xpost-localization-and-translation-of-helphub-meeting-notes/)
 <!-- DOCS:END -->
 
 ### Support Articles
