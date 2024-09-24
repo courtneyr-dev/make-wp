@@ -562,10 +562,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Day for Developers Lisboa 2024](https://central.wordcamp.org/wordcamps/developers-lisbon/)
 - [do_action Ahmedabad, India](https://central.wordcamp.org/wordcamps/ahmedabad-india/)
 - [WordCamp Aalborg, Denmark](https://central.wordcamp.org/wordcamps/wordcamp-aalborg-denmark-2/)
-- [do_action Mumbai, Maharashtra, India](https://central.wordcamp.org/wordcamps/do_action-mumbai-maharashtra-india/)
 - [WordCamp Sevilla, Spain](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-spain-2/)
 - [WordCamp Rochester, NY](https://central.wordcamp.org/wordcamps/wordcamp-rochester-ny-2/)
 - [WordCamp Delhi](https://central.wordcamp.org/wordcamps/wordcamp-delhi-india/)
+- [WordCamp Port Harcourt 2024](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2/)
 - [WordCamp Guatemala City, Guatemala](https://central.wordcamp.org/wordcamps/wordcamp-guatemala-guatemala/)
 <!-- WordCamp:END -->
 
