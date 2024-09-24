@@ -350,6 +350,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: An Introduction to Data Views](https://wordpress.tv/2024/09/24/developer-hours-an-introduction-to-data-views/)
 - [Bienvenida](https://wordpress.tv/2024/09/23/bienvenida/)
 - [Cierre de la conferencia](https://wordpress.tv/2024/09/23/cierre-de-la-conferencia/)
 - [El álbum de fotos de WordPress](https://wordpress.tv/2024/09/23/el-album-de-fotos-de-wordpress/)
@@ -374,7 +375,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creando los cimientos de tu proyecto con una buena arquitectura SEO](https://wordpress.tv/2024/09/23/creando-los-cimientos-de-tu-proyecto-con-una-buena-arquitectura-seo/)
 - [Cómo difundir tu podcast en WordPress](https://wordpress.tv/2024/09/22/como-difundir-tu-podcast-en-wordpress/)
 - [Coherencia de marca](https://wordpress.tv/2024/09/22/coherencia-de-marca/)
-- [Cómo hacer crecer tu negocio gracias a tu marca personal](https://wordpress.tv/2024/09/22/como-hacer-crecer-tu-negocio-gracias-a-tu-marca-personal/)
 <!-- WPTV:END -->
 
 ## Marketing
