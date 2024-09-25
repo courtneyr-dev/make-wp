@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – September 25, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/09/25/agenda-weekly-polyglots-chat-september-25-2024-1300-utc/)
 - [PTE request for the Fast Woo Order Lookup plugin](https://make.wordpress.org/polyglots/2024/09/24/pte-request-for-the-fast-woo-order-lookup-plugin/)
 - [Hi there,](https://make.wordpress.org/polyglots/2024/09/24/hi-there-10/)
 - [PTE Request for UpdraftPlus](https://make.wordpress.org/polyglots/2024/09/22/pte-request-for-updraftplus-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/09/21/hello-polyglots-306/)
 - [PTE request](https://make.wordpress.org/polyglots/2024/09/20/pte-request-30/)
 - [PTE Request for Shipment Tracking DDT for WooCommerce](https://make.wordpress.org/polyglots/2024/09/20/pte-request-for-shipment-tracking-ddt-for-woocommerce/)
-- [PTE Request for Paid Memberships Pro](https://make.wordpress.org/polyglots/2024/09/20/pte-request-for-paid-memberships-pro-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
