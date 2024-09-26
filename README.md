@@ -519,6 +519,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript-3/)
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-6/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-84/)
 - [Senior Engineer, Web and Publishing Products](https://jobs.wordpress.net/job/senior-engineer-web-and-publishing-products/)
@@ -528,7 +529,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer for Large-Scale Pet Matchmaking Platform with App Integration](https://jobs.wordpress.net/job/wordpress-developer-for-large-scale-pet-matchmaking-platform-with-app-integration/)
 - [[Astra] UI/UX Designer – Web Design](https://jobs.wordpress.net/job/astra-ui-ux-designer-web-design/)
 - [API integration](https://jobs.wordpress.net/job/api-integration/)
-- [WordPress Developer and Website Creator &lpar;eCommerce Projects&rpar;](https://jobs.wordpress.net/job/wordpress-developer-and-website-creator-ecommerce-projects/)
 <!-- JOBS:END -->
 
 ## Central
