@@ -491,6 +491,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Add minimum commit message length for core.](https://make.wordpress.org/systems/2024/09/25/add-minimum-commit-message-length-for-core/)
 - [MC Release Access for Peter Wilson](https://make.wordpress.org/systems/2024/08/16/mc-release-access-for-peter-wilson/)
 - [www.wp-cli.org SSL setup wp-cli.org is…](https://make.wordpress.org/systems/2024/06/27/www-wp-cli-org-ssl-setup-wp-cli-org-is/)
 - [Schema redirect for wp-env.json](https://make.wordpress.org/systems/2024/06/18/schema-redirect-for-wp-env-json/)
@@ -500,7 +501,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Enable DKIM for WordCamp GSuite?](https://make.wordpress.org/systems/2024/03/25/enable-dkim-for-wordcamp-gsuite/)
 - [Enable DKIM for 3rd-party WordCamp emails](https://make.wordpress.org/systems/2024/03/25/enable-dkim-for-3rd-party-wordcamp-emails/)
 - [Enable SSL for additional *.wp.org domains](https://make.wordpress.org/systems/2024/03/22/enable-ssl-for-additional-wp-org-domains/)
-- [Update Git author script](https://make.wordpress.org/systems/2024/03/21/update-git-author-script/)
 <!-- SYSTEMS:END -->
 
 ## News
