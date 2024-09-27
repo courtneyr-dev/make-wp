@@ -552,21 +552,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
-- [WP Campus Connect Ajmer, India](https://central.wordcamp.org/wordcamps/ajmer-india/)
-- [WordCamp Kerala 2024](https://central.wordcamp.org/wordcamps/wordcamp-kozhikode-kerala-india/)
+- [WP Campus Connect Ajmer](https://central.wordcamp.org/wordcamps/ajmer-india/)
+- [WordCamp Kerala](https://central.wordcamp.org/wordcamps/wordcamp-kozhikode-kerala-india/)
 - [WordCamp Youth Hackathon Skopje](https://central.wordcamp.org/wordcamps/skopje-north-macedonia/)
 - [do_action Cagliari &lpar;online&rpar;](https://central.wordcamp.org/wordcamps/do_action-cagliari-online/)
 - [do_action Bhopal](https://central.wordcamp.org/wordcamps/do_action-bhopal/)
-- [WordCamp Wrocław, Poland](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-poland/)
+- [WordCamp Wrocław](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-poland/)
 - [WordCamp Kolhapur](https://central.wordcamp.org/wordcamps/kolhapur-2025/)
-- [WordPress Day for Developers Lisboa 2024](https://central.wordcamp.org/wordcamps/developers-lisbon/)
+- [WordPress Day for Developers Lisboa](https://central.wordcamp.org/wordcamps/developers-lisbon/)
 - [do_action Ahmedabad, India](https://central.wordcamp.org/wordcamps/ahmedabad-india/)
-- [WordCamp Aalborg, Denmark](https://central.wordcamp.org/wordcamps/wordcamp-aalborg-denmark-2/)
-- [WordCamp Sevilla, Spain](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-spain-2/)
-- [WordCamp Rochester, NY](https://central.wordcamp.org/wordcamps/wordcamp-rochester-ny-2/)
+- [WordCamp Aalborg](https://central.wordcamp.org/wordcamps/wordcamp-aalborg-denmark-2/)
+- [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-spain-2/)
+- [WordCamp Rochester](https://central.wordcamp.org/wordcamps/wordcamp-rochester-ny-2/)
 - [WordCamp Delhi](https://central.wordcamp.org/wordcamps/wordcamp-delhi-india/)
-- [WordCamp Port Harcourt 2024](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2/)
-- [WordCamp Guatemala City, Guatemala](https://central.wordcamp.org/wordcamps/wordcamp-guatemala-guatemala/)
+- [WordCamp Port Harcourt](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2/)
+- [WordCamp Guatemala City](https://central.wordcamp.org/wordcamps/wordcamp-guatemala-guatemala/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
