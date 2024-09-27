@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Toret Manager](https://make.wordpress.org/polyglots/2024/09/27/pte-request-for-toret-manager/)
 - [PTE Request for three plugins…](https://make.wordpress.org/polyglots/2024/09/26/pte-request-for-three-plugins-4/)
 - [PTE Request for YM Fast SEO](https://make.wordpress.org/polyglots/2024/09/25/pte-request-for-ym-fast-seo/)
 - [Agenda: Weekly Polyglots Chat – September 25, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/09/25/agenda-weekly-polyglots-chat-september-25-2024-1300-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for Buddypress plugin](https://make.wordpress.org/polyglots/2024/09/22/pte-request-for-buddypress-plugin-2/)
 - [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2024/09/21/pte-request-for-premium-addons-for-elementor/)
 - [PTE Request for Charming Portfolio WordPress Plugin](https://make.wordpress.org/polyglots/2024/09/21/pte-request-for-charming-portfolio-wordpress-plugin-2/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/09/21/hello-polyglots-306/)
 <!-- POLYGLOTS:END -->
 
 ## Support
