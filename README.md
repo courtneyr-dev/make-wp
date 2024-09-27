@@ -558,7 +558,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [do_action Cagliari &lpar;online&rpar;](https://central.wordcamp.org/wordcamps/do_action-cagliari-online/)
 - [do_action Bhopal](https://central.wordcamp.org/wordcamps/do_action-bhopal/)
 - [WordCamp Wrocław, Poland](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-poland/)
-- [WordCamp Kolhapur 2025 &lpar;Maharashtra, India&rpar;](https://central.wordcamp.org/wordcamps/kolhapur-2025/)
+- [WordCamp Kolhapur](https://central.wordcamp.org/wordcamps/kolhapur-2025/)
 - [WordPress Day for Developers Lisboa 2024](https://central.wordcamp.org/wordcamps/developers-lisbon/)
 - [do_action Ahmedabad, India](https://central.wordcamp.org/wordcamps/ahmedabad-india/)
 - [WordCamp Aalborg, Denmark](https://central.wordcamp.org/wordcamps/wordcamp-aalborg-denmark-2/)
