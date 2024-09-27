@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hola equipo Polyglots,](https://make.wordpress.org/polyglots/2024/09/27/hola-equipo-polyglots/)
+- [PTE Request for helpdog](https://make.wordpress.org/polyglots/2024/09/27/pte-request-for-helpdog/)
 - [PTE Request for Toret Manager](https://make.wordpress.org/polyglots/2024/09/27/pte-request-for-toret-manager/)
 - [PTE Request for three plugins…](https://make.wordpress.org/polyglots/2024/09/26/pte-request-for-three-plugins-4/)
 - [PTE Request for YM Fast SEO](https://make.wordpress.org/polyglots/2024/09/25/pte-request-for-ym-fast-seo/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi there,](https://make.wordpress.org/polyglots/2024/09/24/hi-there-10/)
 - [PTE Request for UpdraftPlus](https://make.wordpress.org/polyglots/2024/09/22/pte-request-for-updraftplus-2/)
 - [PTE request for Buddypress plugin](https://make.wordpress.org/polyglots/2024/09/22/pte-request-for-buddypress-plugin-2/)
-- [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2024/09/21/pte-request-for-premium-addons-for-elementor/)
-- [PTE Request for Charming Portfolio WordPress Plugin](https://make.wordpress.org/polyglots/2024/09/21/pte-request-for-charming-portfolio-wordpress-plugin-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
