@@ -505,6 +505,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Engine Reprieve](https://wordpress.org/news/2024/09/wp-engine-reprieve/)
 - [WP Engine is banned from WordPress.org](https://wordpress.org/news/2024/09/wp-engine-banned/)
 - [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
 - [PDX + WCUS 2024: A Recap](https://wordpress.org/news/2024/09/pdx-wcus-2024-a-recap/)
@@ -514,7 +515,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp US 2024: Oregon-a See You There?](https://wordpress.org/news/2024/09/wordcamp-us-2024-oregon-a-see-you-there/)
 - [WP Briefing: Episode 85: WordPress in Education](https://wordpress.org/news/2024/09/episode-85-wordpress-in-education/)
 - [A Brand-New Way to Learn WordPress](https://wordpress.org/news/2024/08/a-brand-new-way-to-learn-wordpress/)
-- [WordPress 6.6.1 Maintenance Release](https://wordpress.org/news/2024/07/wordpress-6-6-1-maintenance-release/)
 <!-- NEWS:END -->
 
 ## Jobs
