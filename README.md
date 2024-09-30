@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Call for contributors: Designer Learning Pathway](https://make.wordpress.org/training/2024/09/30/call-for-contributors-designer-learning-pathway/)
 - [Training Team Meeting Recap – 19th September 2024](https://make.wordpress.org/training/2024/09/24/training-team-meeting-recap-19th-september-2024/)
 - [Training Team Meeting Recap – 12 September 2024](https://make.wordpress.org/training/2024/09/19/training-team-meeting-recap-12-september-2024/)
 - [X-post: WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/training/2024/09/12/xpost-wordpress-contribution-health-dashboards-an-experiment/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Drawing new learners to the new Learn.WordPress.org](https://make.wordpress.org/training/2024/08/28/drawing-new-learners-to-the-new-learn-wordpress-org/)
 - [Training Team Meeting Recap – 22 August 2024](https://make.wordpress.org/training/2024/08/28/training-team-meeting-recap-22-august-2024/)
 - [Training Team Meeting Recap – 15th August 2024](https://make.wordpress.org/training/2024/08/21/training-team-meeting-recap-15th-august-2024/)
-- [WordCamp US 2024 Contributor Day](https://make.wordpress.org/training/2024/08/20/wordcamp-us-2024-contributor-day/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
