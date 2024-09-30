@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Colleagues, congratulations on International Translation…](https://make.wordpress.org/polyglots/2024/09/30/colleagues-congratulations-on-international-translation/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/30/hi-dear-mentors-we-have-150/)
 - [Hello Team- I would like…](https://make.wordpress.org/polyglots/2024/09/30/hello-team-i-would-like/)
 - [#HE_IL how are you We…](https://make.wordpress.org/polyglots/2024/09/29/he_il-how-are-you-we/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Toret Manager](https://make.wordpress.org/polyglots/2024/09/27/pte-request-for-toret-manager/)
 - [PTE Request for three plugins…](https://make.wordpress.org/polyglots/2024/09/26/pte-request-for-three-plugins-4/)
 - [PTE Request for YM Fast SEO](https://make.wordpress.org/polyglots/2024/09/25/pte-request-for-ym-fast-seo/)
-- [Agenda: Weekly Polyglots Chat – September 25, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/09/25/agenda-weekly-polyglots-chat-september-25-2024-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
