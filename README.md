@@ -271,6 +271,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Beginner WordPress User](https://learn.wordpress.org/course/beginner-wordpress-user/)
 - [Intermediate WordPress User](https://learn.wordpress.org/course/intermediate-wordpress-user/)
 - [Intermediate Theme Developer](https://learn.wordpress.org/course/intermediate-theme-developer/)
+- [Advanced WordPress User](https://learn.wordpress.org/course/advanced-wordpress-user/)
 - [Develop Your First Low-Code Block Theme](https://learn.wordpress.org/course/develop-your-first-low-code-block-theme/)
 - [Developing your first WordPress block](https://learn.wordpress.org/course/developing-your-first-wordpress-block/)
 - [Community team Program Supporter tasks](https://learn.wordpress.org/course/wordpress-community-team-program-supporter-tasks/)
