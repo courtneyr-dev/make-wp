@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/30/hi-dear-mentors-we-have-150/)
 - [Hello Team- I would like…](https://make.wordpress.org/polyglots/2024/09/30/hello-team-i-would-like/)
 - [#HE_IL how are you We…](https://make.wordpress.org/polyglots/2024/09/29/he_il-how-are-you-we/)
 - [Hello there, I’m the plugin…](https://make.wordpress.org/polyglots/2024/09/29/hello-there-im-the-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for three plugins…](https://make.wordpress.org/polyglots/2024/09/26/pte-request-for-three-plugins-4/)
 - [PTE Request for YM Fast SEO](https://make.wordpress.org/polyglots/2024/09/25/pte-request-for-ym-fast-seo/)
 - [Agenda: Weekly Polyglots Chat – September 25, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/09/25/agenda-weekly-polyglots-chat-september-25-2024-1300-utc/)
-- [PTE request for the Fast Woo Order Lookup plugin](https://make.wordpress.org/polyglots/2024/09/24/pte-request-for-the-fast-woo-order-lookup-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
