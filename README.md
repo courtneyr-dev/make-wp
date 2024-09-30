@@ -128,13 +128,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using TypeScript](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/using-typescript/)
 - [Creating Tables with Plugins](https://developer.wordpress.org/plugins/creating-tables-with-plugins/)
 - [@wordpress/fields](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-fields/)
-- [The Reactive and Declarative mindset](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/the-reactive-and-declarative-mindset/)
-- [Server-side rendering: Processing directives on the server](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/server-side-rendering/)
-- [Core Concepts](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/)
 - [Understanding global state, local context and derived state](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/undestanding-global-state-local-context-and-derived-state/)
+- [The Reactive and Declarative mindset](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/the-reactive-and-declarative-mindset/)
+- [Core Concepts](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/)
+- [Server-side rendering: Processing directives on the server](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/server-side-rendering/)
 - [Composite](https://developer.wordpress.org/block-editor/reference-guides/components/composite/)
 - [wp user signup](https://developer.wordpress.org/cli/commands/user/signup/)
-- [wp site generate](https://developer.wordpress.org/cli/commands/site/generate/)
+- [wp user exists](https://developer.wordpress.org/cli/commands/user/exists/)
 <!-- DEVHUB:END -->
 
 ## Themes
