@@ -561,7 +561,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Wrocław](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-poland/)
 - [WordCamp Kolhapur](https://central.wordcamp.org/wordcamps/kolhapur-2025/)
 - [WordPress Day for Developers Lisboa](https://central.wordcamp.org/wordcamps/developers-lisbon/)
-- [do_action Ahmedabad, India](https://central.wordcamp.org/wordcamps/ahmedabad-india/)
+- [WordCamp Sofia, Bulgaria](https://central.wordcamp.org/wordcamps/wordcamp-sofia-bulgaria-3/)
 - [WordCamp Aalborg](https://central.wordcamp.org/wordcamps/wordcamp-aalborg-denmark-2/)
 - [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-spain-2/)
 - [WordCamp Rochester](https://central.wordcamp.org/wordcamps/wordcamp-rochester-ny-2/)
