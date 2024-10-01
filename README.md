@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Plugin Check and 2FA Now Mandatory For New Plugin Submissions](https://make.wordpress.org/plugins/2024/10/01/plugin-check-and-2fa-now-mandatory-for-new-plugin-submissions/)
 - [Introducing Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/plugins/2024/09/17/introducing-plugin-check-pcp/)
 - [Guidance on plugins that install other plugins](https://make.wordpress.org/plugins/2024/09/09/guidance-on-plugins-that-install-other-plugins/)
 - [Upcoming Security Changes for Plugin and Theme Authors on WordPress.org](https://make.wordpress.org/plugins/2024/09/04/upcoming-security-changes-for-plugin-and-theme-authors-on-wordpress-org/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/plugins/2024/06/05/xpost-training-team-update-june-2024/)
 - [How should we shape the future of the Plugin Review team?](https://make.wordpress.org/plugins/2024/06/03/how-should-we-shape-the-future-of-the-plugin-review-team/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/plugins/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
-- [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/plugins/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 <!-- PLUGINS:END -->
 
 ## Community
