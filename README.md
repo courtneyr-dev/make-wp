@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Under the umbrella of the…](https://make.wordpress.org/polyglots/2024/10/03/under-the-umbrella-of-the/)
 - [I’ve suggested Gujarati &lpar;#gu&rpar; translations…](https://make.wordpress.org/polyglots/2024/10/02/ive-suggested-gujarati-gu-translations/)
 - [PTE Request for Front Editor](https://make.wordpress.org/polyglots/2024/10/02/pte-request-for-front-editor/)
 - [Agenda: Weekly Polyglots Chat – October 2, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/02/agenda-weekly-polyglots-chat-october-2-2024-700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/30/hi-dear-mentors-we-have-150/)
 - [Hello Team- I would like…](https://make.wordpress.org/polyglots/2024/09/30/hello-team-i-would-like/)
 - [#HE_IL how are you We…](https://make.wordpress.org/polyglots/2024/09/29/he_il-how-are-you-we/)
-- [Hello there, I’m the plugin…](https://make.wordpress.org/polyglots/2024/09/29/hello-there-im-the-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
