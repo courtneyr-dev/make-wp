@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots, I am the…](https://make.wordpress.org/polyglots/2024/10/04/hello-polyglots-i-am-the-640/)
+- [PTE Request Rewiev for LearnPress – WordPress LMS Plugin and The Events Calendar](https://make.wordpress.org/polyglots/2024/10/04/pte-request-rewiev-for-learnpress-wordpress-lms-plugin-and-the-events-calendar/)
 - [PTE Request for GiveWP –…](https://make.wordpress.org/polyglots/2024/10/04/pte-request-for-givewp/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2024/10/03/hello-polyglots-team-7/)
 - [Under the umbrella of the…](https://make.wordpress.org/polyglots/2024/10/03/under-the-umbrella-of-the/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – October 2, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/02/agenda-weekly-polyglots-chat-october-2-2024-700-utc/)
 - [PTE Request for YM Fast SEO](https://make.wordpress.org/polyglots/2024/10/01/pte-request-for-ym-fast-seo-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/10/01/hi-dear-mentors-we-have-151/)
-- [Colleagues, congratulations on International Translation…](https://make.wordpress.org/polyglots/2024/09/30/colleagues-congratulations-on-international-translation/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/09/30/hi-dear-mentors-we-have-150/)
 <!-- POLYGLOTS:END -->
 
 ## Support
