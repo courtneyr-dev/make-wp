@@ -295,6 +295,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Fixing Plugin Check issues](https://learn.wordpress.org/?meeting=fixing-plugin-check-issues)
 - [Creating a portfolio site with a block theme and patterns](https://learn.wordpress.org/?meeting=creating-a-portfolio-site-with-a-block-theme-and-patterns)
 - [Developer Hours: An Introduction to Data Views](https://learn.wordpress.org/?meeting=developer-hours-an-introduction-to-data-views)
 - [WordPress Playground Block code editor theme support](https://learn.wordpress.org/?meeting=wordpress-playground-block-code-editor-theme-support)
@@ -319,7 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Editor unification and extensibility in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-editor-unification-and-extensibility-in-wordpress-6-6)
 - [Shape the Future: Your Role in WordPress Open Source Contribution](https://learn.wordpress.org/?meeting=shape-the-future-your-role-in-wordpress-open-source-contribution)
 - [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-3](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-3)
-- [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-2](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-2)
 <!-- SLS:END -->
 
 ## Test
