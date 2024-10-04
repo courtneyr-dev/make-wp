@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [El arte de medir en WordPress](https://wordpress.tv/2024/10/04/el-arte-de-medir-en-wordpress/)
+- [Descubre Surecart: ¿La Mejor Alternativa a WooCommerce?](https://wordpress.tv/2024/10/04/descubre-surecart-la-mejor-alternativa-a-woocommerce/)
 - [Aprovecha al máximo las últimas novedades de WordPress](https://wordpress.tv/2024/10/03/aprovecha-al-maximo-las-ultimas-novedades-de-wordpress/)
 - [Developer Hours: An Introduction to Data Views](https://wordpress.tv/2024/09/24/developer-hours-an-introduction-to-data-views/)
 - [Bienvenida](https://wordpress.tv/2024/09/23/bienvenida/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [De idea a realidad: Claves para lanzar tu Startup en el ecosistema WordPress](https://wordpress.tv/2024/09/23/de-idea-a-realidad-claves-para-lanzar-tu-startup-en-el-ecosistema-wordpress/)
 - [Descobre como simplificar o proceso de maquetación en Gutenberg utilizando Kadence Blocks](https://wordpress.tv/2024/09/23/descobre-como-simplificar-o-proceso-de-maquetacion-en-gutenberg-utilizando-kadence-blocks/)
 - [Profesionalizar a comunidade. Emprendemento cooperativo](https://wordpress.tv/2024/09/23/profesionalizar-a-comunidade-emprendemento-cooperativo/)
-- [Creando los cimientos de tu proyecto con una buena arquitectura SEO](https://wordpress.tv/2024/09/23/creando-los-cimientos-de-tu-proyecto-con-una-buena-arquitectura-seo/)
-- [Cómo difundir tu podcast en WordPress](https://wordpress.tv/2024/09/22/como-difundir-tu-podcast-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
