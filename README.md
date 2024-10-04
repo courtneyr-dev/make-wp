@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [El paso a paso de un plan de acción que sí cumplas](https://wordpress.tv/2024/10/04/el-paso-a-paso-de-un-plan-de-accion-que-si-cumplas-2/)
 - [El arte de medir en WordPress](https://wordpress.tv/2024/10/04/el-arte-de-medir-en-wordpress/)
 - [Descubre Surecart: ¿La Mejor Alternativa a WooCommerce?](https://wordpress.tv/2024/10/04/descubre-surecart-la-mejor-alternativa-a-woocommerce/)
 - [Aprovecha al máximo las últimas novedades de WordPress](https://wordpress.tv/2024/10/03/aprovecha-al-maximo-las-ultimas-novedades-de-wordpress/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [2+2 tips legais: non metas a zoca na túa web](https://wordpress.tv/2024/09/23/22-tips-legais-non-metas-a-zoca-na-tua-web/)
 - [De idea a realidad: Claves para lanzar tu Startup en el ecosistema WordPress](https://wordpress.tv/2024/09/23/de-idea-a-realidad-claves-para-lanzar-tu-startup-en-el-ecosistema-wordpress/)
 - [Descobre como simplificar o proceso de maquetación en Gutenberg utilizando Kadence Blocks](https://wordpress.tv/2024/09/23/descobre-como-simplificar-o-proceso-de-maquetacion-en-gutenberg-utilizando-kadence-blocks/)
-- [Profesionalizar a comunidade. Emprendemento cooperativo](https://wordpress.tv/2024/09/23/profesionalizar-a-comunidade-emprendemento-cooperativo/)
 <!-- WPTV:END -->
 
 ## Marketing
