@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE Request for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/10/04/clpte-request-for-enable-mastodon-apps/)
 - [PTE Request for “Password Reset…](https://make.wordpress.org/polyglots/2024/10/04/pte-request-for-password-reset/)
 - [Hello Polyglots, I am the…](https://make.wordpress.org/polyglots/2024/10/04/hello-polyglots-i-am-the-640/)
 - [PTE Request Rewiev for LearnPress – WordPress LMS Plugin and The Events Calendar](https://make.wordpress.org/polyglots/2024/10/04/pte-request-rewiev-for-learnpress-wordpress-lms-plugin-and-the-events-calendar/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested Gujarati &lpar;#gu&rpar; translations…](https://make.wordpress.org/polyglots/2024/10/02/ive-suggested-gujarati-gu-translations/)
 - [PTE Request for Front Editor](https://make.wordpress.org/polyglots/2024/10/02/pte-request-for-front-editor/)
 - [Agenda: Weekly Polyglots Chat – October 2, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/02/agenda-weekly-polyglots-chat-october-2-2024-700-utc/)
-- [PTE Request for YM Fast SEO](https://make.wordpress.org/polyglots/2024/10/01/pte-request-for-ym-fast-seo-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
