@@ -351,6 +351,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introduction to Gutenberg – The WordPress Block Editor](https://wordpress.tv/2024/10/05/introduction-to-gutenberg-the-wordpress-block-editor/)
+- [Esploriamo Insieme i nuovi percorsi formativi su learn.wordpress.org](https://wordpress.tv/2024/10/05/esploriamo-insieme-i-nuovi-percorsi-formativi-su-learn-wordpress-org/)
+- [WordPress Playground Block code editor theme support](https://wordpress.tv/2024/10/05/wordpress-playground-block-code-editor-theme-support/)
 - [El paso a paso de un plan de acción que sí cumplas](https://wordpress.tv/2024/10/04/el-paso-a-paso-de-un-plan-de-accion-que-si-cumplas-2/)
 - [El arte de medir en WordPress](https://wordpress.tv/2024/10/04/el-arte-de-medir-en-wordpress/)
 - [Descubre Surecart: ¿La Mejor Alternativa a WooCommerce?](https://wordpress.tv/2024/10/04/descubre-surecart-la-mejor-alternativa-a-woocommerce/)
@@ -373,9 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Optimiza las imágenes de tu eCommerce de manera profesional sin saber de diseño gráfico](https://wordpress.tv/2024/09/23/optimiza-las-imagenes-de-tu-ecommerce-de-manera-profesional-sin-saber-de-diseno-grafico/)
 - [¿Optimizar para buscadores inteligentes o utilizar buscadores inteligentes para optimizar?](https://wordpress.tv/2024/09/23/optimizar-para-buscadores-inteligentes-o-utilizar-buscadores-inteligentes-para-optimizar/)
 - [Copywriting: cómo enlazar ideas, personas y ventas con palabras sin dejar de ser tú](https://wordpress.tv/2024/09/23/copywriting-como-enlazar-ideas-personas-y-ventas-con-palabras-sin-dejar-de-ser-tu/)
-- [2+2 tips legais: non metas a zoca na túa web](https://wordpress.tv/2024/09/23/22-tips-legais-non-metas-a-zoca-na-tua-web/)
-- [De idea a realidad: Claves para lanzar tu Startup en el ecosistema WordPress](https://wordpress.tv/2024/09/23/de-idea-a-realidad-claves-para-lanzar-tu-startup-en-el-ecosistema-wordpress/)
-- [Descobre como simplificar o proceso de maquetación en Gutenberg utilizando Kadence Blocks](https://wordpress.tv/2024/09/23/descobre-como-simplificar-o-proceso-de-maquetacion-en-gutenberg-utilizando-kadence-blocks/)
 <!-- WPTV:END -->
 
 ## Marketing
