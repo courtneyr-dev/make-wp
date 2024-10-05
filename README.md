@@ -520,6 +520,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Frontend Developer &lpar;Vue/Nuxt&rpar;](https://jobs.wordpress.net/job/frontend-developer-vue-nuxt/)
+- [Backend Developer &lpar;PHP/Laravel&rpar;](https://jobs.wordpress.net/job/backend-developer-php-laravel/)
 - [Site update](https://jobs.wordpress.net/job/site-update-2/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-100/)
 - [Clone website](https://jobs.wordpress.net/job/clone-website-3/)
@@ -528,8 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-6/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-84/)
 - [Senior Engineer, Web and Publishing Products](https://jobs.wordpress.net/job/senior-engineer-web-and-publishing-products/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-38/)
-- [WordPress Support Technician](https://jobs.wordpress.net/job/wordpress-support-technician-4/)
 <!-- JOBS:END -->
 
 ## Central
