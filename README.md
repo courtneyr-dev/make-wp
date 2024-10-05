@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Site Clinic](https://wordpress.tv/2024/10/05/site-clinic/)
+- [¿Qué son los Wordcamp de WordPress? Si trabajas en SEO no te los pierdas](https://wordpress.tv/2024/10/05/que-son-los-wordcamp-de-wordpress-si-trabajas-en-seo-no-te-los-pierdas/)
 - [Introduction to Gutenberg – The WordPress Block Editor](https://wordpress.tv/2024/10/05/introduction-to-gutenberg-the-wordpress-block-editor/)
 - [Esploriamo Insieme i nuovi percorsi formativi su learn.wordpress.org](https://wordpress.tv/2024/10/05/esploriamo-insieme-i-nuovi-percorsi-formativi-su-learn-wordpress-org/)
 - [WordPress Playground Block code editor theme support](https://wordpress.tv/2024/10/05/wordpress-playground-block-code-editor-theme-support/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Que tes que saber de dominios &lpar;aínda que uses WordPress&rpar;](https://wordpress.tv/2024/09/23/que-tes-que-saber-de-dominios-ainda-que-uses-wordpress/)
 - [De la Idea a la Realidad: cómo ganar dinero con WordPress](https://wordpress.tv/2024/09/23/de-la-idea-a-la-realidad-como-ganar-dinero-con-wordpress/)
 - [Optimiza las imágenes de tu eCommerce de manera profesional sin saber de diseño gráfico](https://wordpress.tv/2024/09/23/optimiza-las-imagenes-de-tu-ecommerce-de-manera-profesional-sin-saber-de-diseno-grafico/)
-- [¿Optimizar para buscadores inteligentes o utilizar buscadores inteligentes para optimizar?](https://wordpress.tv/2024/09/23/optimizar-para-buscadores-inteligentes-o-utilizar-buscadores-inteligentes-para-optimizar/)
-- [Copywriting: cómo enlazar ideas, personas y ventas con palabras sin dejar de ser tú](https://wordpress.tv/2024/09/23/copywriting-como-enlazar-ideas-personas-y-ventas-con-palabras-sin-dejar-de-ser-tu/)
 <!-- WPTV:END -->
 
 ## Marketing
