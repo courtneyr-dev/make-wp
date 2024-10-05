@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary for Docs Team Meeting &lpar;01-Oct-2024&rpar;](https://make.wordpress.org/docs/2024/10/05/summary-for-docs-team-meeting-01-oct-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;October 1, 2024&rpar;](https://make.wordpress.org/docs/2024/10/01/agenda-for-docs-team-biweekly-meeting-october-1-2024/)
 - [Summary for Docs Team Meeting &lpar;03-Sep-2024&rpar;](https://make.wordpress.org/docs/2024/09/24/summary-for-docs-team-meeting-03-sep-2024/)
 - [Online monthly Docs Team Contributor Day September 24, 2024](https://make.wordpress.org/docs/2024/09/24/online-monthly-docs-team-contributor-day-september-24-2024/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/docs/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [Summary for Docs Team Discussion Meeting &lpar;06-Ago-2024&rpar;](https://make.wordpress.org/docs/2024/08/06/summary-for-docs-team-discussion-meeting-06-ago-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;06-Aug-2024&rpar;](https://make.wordpress.org/docs/2024/08/06/agenda-for-docs-team-biweekly-meeting-06-aug-2024/)
-- [X-post: Training Team Update – August 2024](https://make.wordpress.org/docs/2024/08/05/xpost-training-team-update-august-2024/)
 <!-- DOCS:END -->
 
 ### Support Articles
