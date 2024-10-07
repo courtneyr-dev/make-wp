@@ -295,6 +295,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: How to Simplify Client Editing in WordPress](https://learn.wordpress.org/?meeting=developer-hours-how-to-simplify-client-editing-in-wordpress)
 - [Fixing Plugin Check issues](https://learn.wordpress.org/?meeting=fixing-plugin-check-issues)
 - [Creating a portfolio site with a block theme and patterns](https://learn.wordpress.org/?meeting=creating-a-portfolio-site-with-a-block-theme-and-patterns)
 - [Developer Hours: An Introduction to Data Views](https://learn.wordpress.org/?meeting=developer-hours-an-introduction-to-data-views)
@@ -319,7 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Exploring WordPress 6.6](https://learn.wordpress.org/?meeting=exploring-wordpress-6-6)
 - [Developer Hours: Editor unification and extensibility in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-editor-unification-and-extensibility-in-wordpress-6-6)
 - [Shape the Future: Your Role in WordPress Open Source Contribution](https://learn.wordpress.org/?meeting=shape-the-future-your-role-in-wordpress-open-source-contribution)
-- [Let’s build LIVE series: A beginner’s guide to block themes &amp; the Site Editor-3](https://learn.wordpress.org/?meeting=lets-build-live-series-a-beginners-guide-to-block-themes-the-site-editor-3)
 <!-- SLS:END -->
 
 ## Test
