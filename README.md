@@ -69,7 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2024/10/07/post-title-pte-request-for-64/)
+- [PTE Request for…](https://make.wordpress.org/polyglots/2024/10/07/post-title-pte-request-for-64/)
 - [CLPTE Request for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/10/04/clpte-request-for-enable-mastodon-apps/)
 - [PTE Request for “Password Reset…](https://make.wordpress.org/polyglots/2024/10/04/pte-request-for-password-reset/)
 - [Hello Polyglots, I am the…](https://make.wordpress.org/polyglots/2024/10/04/hello-polyglots-i-am-the-640/)
