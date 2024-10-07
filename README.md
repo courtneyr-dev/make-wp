@@ -520,16 +520,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Full Stack Developer](https://jobs.wordpress.net/job/senior-full-stack-developer-8/)
+- [Affiliate Marketing – Lead](https://jobs.wordpress.net/job/affiliate-marketing-lead/)
+- [Affiliate Program – Lead Strategist](https://jobs.wordpress.net/job/affiliate-program-lead-strategist/)
+- [React Frontend Developer with Full Stack Experience](https://jobs.wordpress.net/job/react-frontend-developer-with-full-stack-experience/)
 - [Frontend Developer &lpar;Vue/Nuxt&rpar;](https://jobs.wordpress.net/job/frontend-developer-vue-nuxt/)
 - [Backend Developer &lpar;PHP/Laravel&rpar;](https://jobs.wordpress.net/job/backend-developer-php-laravel/)
 - [Site update](https://jobs.wordpress.net/job/site-update-2/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-100/)
 - [Clone website](https://jobs.wordpress.net/job/clone-website-3/)
 - [Arolax Theme Customization Experts](https://jobs.wordpress.net/job/arolax-theme-customization-experts/)
-- [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript-3/)
-- [Online Payment Integration Specialist](https://jobs.wordpress.net/job/online-payment-integration-specialist-6/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-84/)
-- [Senior Engineer, Web and Publishing Products](https://jobs.wordpress.net/job/senior-engineer-web-and-publishing-products/)
 <!-- JOBS:END -->
 
 ## Central
