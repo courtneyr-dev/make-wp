@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Project Wrap-Up: WordPress Meetup Chapter Program Review and Results](https://make.wordpress.org/community/2024/10/07/project-wrap-up-wordpress-meetup-chapter-program-review-and-results/)
 - [Community Team Meeting Agenda for 3 – October -2024](https://make.wordpress.org/community/2024/10/03/community-team-meeting-agenda-for-3-october-2024/)
 - [Community Team September Meeting Recap](https://make.wordpress.org/community/2024/09/25/community-team-september-meeting-recap/)
 - [Important Update: New Marketing/Advertising Guidelines for WordCamp and WordPress Events](https://make.wordpress.org/community/2024/09/16/important-update-new-marketing-advertising-guidelines-for-wordcamp-and-wordpress-events/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Final Reminder: Inactive Meetup Groups Will Be Closed in September 2024](https://make.wordpress.org/community/2024/09/06/final-reminder-inactive-meetup-groups-will-be-closed-in-september-2024/)
 - [Discontinuing Community Zoom Accounts for Meetups](https://make.wordpress.org/community/2024/09/05/discontinuing-community-zoom-accounts-for-meetups/)
 - [Update about the GatherPress project](https://make.wordpress.org/community/2024/09/05/update-about-the-gatherpress-project/)
-- [Community Team Meeting Agenda for 5 – September -2024](https://make.wordpress.org/community/2024/09/04/community-team-meeting-agenda-for-5-september-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
