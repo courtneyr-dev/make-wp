@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordCamp NextGen Event Tegal 2023 – Keynote](https://wordpress.tv/2024/10/07/wordcamp-nextgen-event-tegal-2023-keynote/)
+- [WordCamp NextGen Event Tegal 2023 – Workshop](https://wordpress.tv/2024/10/07/wordcamp-nextgen-event-tegal-2023-workshop/)
 - [Site Clinic](https://wordpress.tv/2024/10/05/site-clinic/)
 - [¿Qué son los Wordcamp de WordPress? Si trabajas en SEO no te los pierdas](https://wordpress.tv/2024/10/05/que-son-los-wordcamp-de-wordpress-si-trabajas-en-seo-no-te-los-pierdas/)
 - [Introduction to Gutenberg – The WordPress Block Editor](https://wordpress.tv/2024/10/05/introduction-to-gutenberg-the-wordpress-block-editor/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Auditoría WPO – Básico](https://wordpress.tv/2024/09/23/auditoria-wpo-basico/)
 - [Reputación en “veremos” en tiempos de la IA](https://wordpress.tv/2024/09/23/reputacion-en-veremos-en-tiempos-de-la-ia/)
 - [Que tes que saber de dominios &lpar;aínda que uses WordPress&rpar;](https://wordpress.tv/2024/09/23/que-tes-que-saber-de-dominios-ainda-que-uses-wordpress/)
-- [De la Idea a la Realidad: cómo ganar dinero con WordPress](https://wordpress.tv/2024/09/23/de-la-idea-a-la-realidad-como-ganar-dinero-con-wordpress/)
-- [Optimiza las imágenes de tu eCommerce de manera profesional sin saber de diseño gráfico](https://wordpress.tv/2024/09/23/optimiza-las-imagenes-de-tu-ecommerce-de-manera-profesional-sin-saber-de-diseno-grafico/)
 <!-- WPTV:END -->
 
 ## Marketing
