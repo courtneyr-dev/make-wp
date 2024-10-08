@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Underrepresented in Tech: the Journey to Amplify Others](https://wordpress.tv/2024/10/08/underrepresented-in-tech-the-journey-to-amplify-others/)
 - [How the Uganda Website Projects Competition 2024 Went Down](https://wordpress.tv/2024/10/08/how-the-uganda-website-projects-competition-2024-went-down/)
 - [Beware: Your About Page May Be Costing You Clients!](https://wordpress.tv/2024/10/08/beware-your-about-page-may-be-costing-you-clients/)
 - [Panel: Multilingual Development](https://wordpress.tv/2024/10/08/panel-multilingual-development/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crea tu landing page en 10 min: simple y efectivo](https://wordpress.tv/2024/09/23/crea-tu-landing-page-en-10-min-simple-y-efectivo/)
 - [Desconferencia](https://wordpress.tv/2024/09/23/desconferencia/)
 - [De carpintero a Hosting manager, gracias a WordPress.](https://wordpress.tv/2024/09/23/de-carpintero-a-hosting-manager-gracias-a-wordpress/)
-- [El poder de la comunidad](https://wordpress.tv/2024/09/23/el-poder-de-la-comunidad/)
 <!-- WPTV:END -->
 
 ## Marketing
