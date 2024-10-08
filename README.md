@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/accessibility/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Accessibility Team Meeting Agenda: Oct 02, 2024](https://make.wordpress.org/accessibility/2024/09/26/accessibility-team-meeting-agenda-oct-02-2024/)
 - [Accessibility Team Meeting Notes: September 18, 2024](https://make.wordpress.org/accessibility/2024/09/26/accessibility-team-meeting-notes-september-18-2024/)
 - [X-post: Design Systems: Storybook Improvements](https://make.wordpress.org/accessibility/2024/09/17/xpost-design-systems-storybook-improvements/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Notes: August 16, 2024](https://make.wordpress.org/accessibility/2024/08/20/accessibility-team-meeting-notes-august-16-2024/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/accessibility/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [Accessibility Team Meeting Agenda: August 16, 2024](https://make.wordpress.org/accessibility/2024/08/14/accessibility-team-meeting-agenda-august-16-2024/)
-- [Accessibility Team Meeting Notes: August 2, 2024](https://make.wordpress.org/accessibility/2024/08/04/accessibility-team-meeting-notes-august-2-2024/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
