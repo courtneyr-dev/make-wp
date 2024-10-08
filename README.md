@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior PHP\WordPress developer](https://jobs.wordpress.net/job/senior-phpwordpress-developer/)
 - [Senior Full Stack Developer](https://jobs.wordpress.net/job/senior-full-stack-developer-8/)
 - [Affiliate Marketing – Lead](https://jobs.wordpress.net/job/affiliate-marketing-lead/)
 - [Affiliate Program – Lead Strategist](https://jobs.wordpress.net/job/affiliate-program-lead-strategist/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Site update](https://jobs.wordpress.net/job/site-update-2/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-100/)
 - [Clone website](https://jobs.wordpress.net/job/clone-website-3/)
-- [Arolax Theme Customization Experts](https://jobs.wordpress.net/job/arolax-theme-customization-experts/)
 <!-- JOBS:END -->
 
 ## Central
