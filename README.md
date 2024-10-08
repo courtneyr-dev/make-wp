@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/polyglots/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [PTE Request for Falcon –…](https://make.wordpress.org/polyglots/2024/10/08/pte-request-for-falcon/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2024/10/07/post-title-pte-request-for-64/)
 - [CLPTE Request for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/10/04/clpte-request-for-enable-mastodon-apps/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for GiveWP –…](https://make.wordpress.org/polyglots/2024/10/04/pte-request-for-givewp/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2024/10/03/hello-polyglots-team-7/)
 - [Under the umbrella of the…](https://make.wordpress.org/polyglots/2024/10/03/under-the-umbrella-of-the/)
-- [I’ve suggested Gujarati &lpar;#gu&rpar; translations…](https://make.wordpress.org/polyglots/2024/10/02/ive-suggested-gujarati-gu-translations/)
 <!-- POLYGLOTS:END -->
 
 ## Support
