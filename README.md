@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Agenda, Dev Chat, Oct 9, 2024](https://make.wordpress.org/core/2024/10/08/agenda-dev-chat-october-9-2024/)
+- [Performance Chat Agenda: 8 October 2024](https://make.wordpress.org/core/2024/10/08/performance-chat-agenda-08-october-2024/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/core/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Summary, Dev Chat, October 2, 2024](https://make.wordpress.org/core/2024/10/03/summary-dev-chat-october-2-2024/)
 - [Performance Chat Summary: 1 October 2024](https://make.wordpress.org/core/2024/10/01/performance-chat-summary-01-october-2024/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Design Systems: Storybook Improvements](https://make.wordpress.org/core/2024/09/17/xpost-design-systems-storybook-improvements/)
 - [Default Theme Chat Summary, September 11, 2024](https://make.wordpress.org/core/2024/09/13/default-theme-chat-summary-september-11-2024/)
 - [Summary, Dev Chat, September 11, 2024](https://make.wordpress.org/core/2024/09/13/summary-dev-chat-september-11-2024/)
-- [X-post: WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/core/2024/09/12/xpost-wordpress-contribution-health-dashboards-an-experiment/)
-- [Gutenberg development practices and common pitfalls](https://make.wordpress.org/core/2024/09/12/gutenberg-development-practices-and-common-pitfalls/)
 <!-- CORE:END -->
 
 ## Design
