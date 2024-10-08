@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How the Uganda Website Projects Competition 2024 Went Down](https://wordpress.tv/2024/10/08/how-the-uganda-website-projects-competition-2024-went-down/)
+- [Beware: Your About Page May Be Costing You Clients!](https://wordpress.tv/2024/10/08/beware-your-about-page-may-be-costing-you-clients/)
 - [Panel: Multilingual Development](https://wordpress.tv/2024/10/08/panel-multilingual-development/)
 - [Panel: Impact on Underrepresented Communities](https://wordpress.tv/2024/10/08/panel-impact-on-underrepresented-communities/)
 - [Panel: Working Across Borders](https://wordpress.tv/2024/10/08/panel-working-across-borders/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Desconferencia](https://wordpress.tv/2024/09/23/desconferencia/)
 - [De carpintero a Hosting manager, gracias a WordPress.](https://wordpress.tv/2024/09/23/de-carpintero-a-hosting-manager-gracias-a-wordpress/)
 - [El poder de la comunidad](https://wordpress.tv/2024/09/23/el-poder-de-la-comunidad/)
-- [Cómo tener un entorno seguro a nivel de servidor y a nivel de CMS WordPress](https://wordpress.tv/2024/09/23/como-tener-un-entorno-seguro-a-nivel-de-servidor-y-a-nivel-de-cms-wordpress/)
-- [Estrategias de Keyword Research. El método KIR para transformar tu Marca y posicionamiento](https://wordpress.tv/2024/09/23/estrategias-de-keyword-research-el-metodo-kir-para-transformar-tu-marca-y-posicionamiento/)
 <!-- WPTV:END -->
 
 ## Marketing
