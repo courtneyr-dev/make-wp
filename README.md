@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 8 October 2024](https://make.wordpress.org/core/2024/10/08/performance-chat-summary-08-october-2024/)
 - [Agenda, Dev Chat, Oct 9, 2024](https://make.wordpress.org/core/2024/10/08/agenda-dev-chat-october-9-2024/)
 - [Performance Chat Agenda: 8 October 2024](https://make.wordpress.org/core/2024/10/08/performance-chat-agenda-08-october-2024/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/core/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Editor Improvement: Simplified Query Loop block with smarter defaults &amp; intuitive settings](https://make.wordpress.org/core/2024/09/23/core-editor-improvement-simplified-query-loop-block-with-smarter-defaults-intuitive-settings/)
 - [X-post: Design Systems: Storybook Improvements](https://make.wordpress.org/core/2024/09/17/xpost-design-systems-storybook-improvements/)
 - [Default Theme Chat Summary, September 11, 2024](https://make.wordpress.org/core/2024/09/13/default-theme-chat-summary-september-11-2024/)
-- [Summary, Dev Chat, September 11, 2024](https://make.wordpress.org/core/2024/09/13/summary-dev-chat-september-11-2024/)
 <!-- CORE:END -->
 
 ## Design
