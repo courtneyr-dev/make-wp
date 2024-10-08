@@ -295,6 +295,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Contributor Mentorship: Introduction to the WordPress Project &lpar;EMEA/AMER&rpar;](https://learn.wordpress.org/?meeting=contributor-mentorship-introduction-to-the-wordpress-project-emea-amer)
+- [Contributor Mentorship: Introduction to the WordPress Project &lpar;APAC/EMEA&rpar;](https://learn.wordpress.org/?meeting=contributor-mentorship-introduction-to-the-wordpress-project-apac-emea)
 - [Developer Hours: How to Simplify Client Editing in WordPress](https://learn.wordpress.org/?meeting=developer-hours-how-to-simplify-client-editing-in-wordpress)
 - [Fixing Plugin Check issues](https://learn.wordpress.org/?meeting=fixing-plugin-check-issues)
 - [Creating a portfolio site with a block theme and patterns](https://learn.wordpress.org/?meeting=creating-a-portfolio-site-with-a-block-theme-and-patterns)
@@ -318,8 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in WordPress 6.6?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-6)
 - [Developer Hours: Do you really need a custom block? Let’s explore alternatives](https://learn.wordpress.org/?meeting=developer-hours-do-you-really-need-a-custom-block-lets-explore-alternatives)
 - [Exploring WordPress 6.6](https://learn.wordpress.org/?meeting=exploring-wordpress-6-6)
-- [Developer Hours: Editor unification and extensibility in WordPress 6.6](https://learn.wordpress.org/?meeting=developer-hours-editor-unification-and-extensibility-in-wordpress-6-6)
-- [Shape the Future: Your Role in WordPress Open Source Contribution](https://learn.wordpress.org/?meeting=shape-the-future-your-role-in-wordpress-open-source-contribution)
 <!-- SLS:END -->
 
 ## Test
