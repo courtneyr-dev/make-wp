@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Falcon –…](https://make.wordpress.org/polyglots/2024/10/08/pte-request-for-falcon/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2024/10/07/post-title-pte-request-for-64/)
 - [CLPTE Request for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/10/04/clpte-request-for-enable-mastodon-apps/)
 - [PTE Request for “Password Reset…](https://make.wordpress.org/polyglots/2024/10/04/pte-request-for-password-reset/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2024/10/03/hello-polyglots-team-7/)
 - [Under the umbrella of the…](https://make.wordpress.org/polyglots/2024/10/03/under-the-umbrella-of-the/)
 - [I’ve suggested Gujarati &lpar;#gu&rpar; translations…](https://make.wordpress.org/polyglots/2024/10/02/ive-suggested-gujarati-gu-translations/)
-- [PTE Request for Front Editor](https://make.wordpress.org/polyglots/2024/10/02/pte-request-for-front-editor/)
 <!-- POLYGLOTS:END -->
 
 ## Support
