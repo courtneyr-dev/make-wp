@@ -506,6 +506,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Please Welcome Mary Hubbard](https://wordpress.org/news/2024/10/proud-mary/)
 - [WordPress 6.7 Beta 2](https://wordpress.org/news/2024/10/wordpress-6-7-beta-2/)
 - [WPGraphQL is Canonical](https://wordpress.org/news/2024/10/wpgraphql/)
 - [WordPress 6.7 Beta 1](https://wordpress.org/news/2024/10/wordpress-6-7-beta-1/)
@@ -515,7 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PDX + WCUS 2024: A Recap](https://wordpress.org/news/2024/09/pdx-wcus-2024-a-recap/)
 - [WP Briefing: Episode 86: My First WordPress Experience](https://wordpress.org/news/2024/09/episode-86-my-first-wordpress-experience/)
 - [Tour the New Learn WordPress](https://wordpress.org/news/2024/09/tour-the-new-learn-wordpress/)
-- [WordPress 6.6.2 Maintenance Release](https://wordpress.org/news/2024/09/wordpress-6-6-2-maintenance-release/)
 <!-- NEWS:END -->
 
 ## Jobs
