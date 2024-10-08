@@ -351,6 +351,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Panel: Multilingual Development](https://wordpress.tv/2024/10/08/panel-multilingual-development/)
+- [Panel: Impact on Underrepresented Communities](https://wordpress.tv/2024/10/08/panel-impact-on-underrepresented-communities/)
+- [Panel: Working Across Borders](https://wordpress.tv/2024/10/08/panel-working-across-borders/)
+- [Panel: Accessibility in the Digital Space](https://wordpress.tv/2024/10/08/panel-accessibility-in-the-digital-space/)
 - [WordCamp NextGen Event Tegal 2023 – Keynote](https://wordpress.tv/2024/10/07/wordcamp-nextgen-event-tegal-2023-keynote/)
 - [WordCamp NextGen Event Tegal 2023 – Workshop](https://wordpress.tv/2024/10/07/wordcamp-nextgen-event-tegal-2023-workshop/)
 - [Site Clinic](https://wordpress.tv/2024/10/05/site-clinic/)
@@ -372,10 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [El poder de la comunidad](https://wordpress.tv/2024/09/23/el-poder-de-la-comunidad/)
 - [Cómo tener un entorno seguro a nivel de servidor y a nivel de CMS WordPress](https://wordpress.tv/2024/09/23/como-tener-un-entorno-seguro-a-nivel-de-servidor-y-a-nivel-de-cms-wordpress/)
 - [Estrategias de Keyword Research. El método KIR para transformar tu Marca y posicionamiento](https://wordpress.tv/2024/09/23/estrategias-de-keyword-research-el-metodo-kir-para-transformar-tu-marca-y-posicionamiento/)
-- [¿Tienes empatía digital? Diseño y usabilidad en tu web, la clave para llegar a tu público](https://wordpress.tv/2024/09/23/tienes-empatia-digital-diseno-y-usabilidad-en-tu-web-la-clave-para-llegar-a-tu-publico/)
-- [Auditoría WPO – Básico](https://wordpress.tv/2024/09/23/auditoria-wpo-basico/)
-- [Reputación en “veremos” en tiempos de la IA](https://wordpress.tv/2024/09/23/reputacion-en-veremos-en-tiempos-de-la-ia/)
-- [Que tes que saber de dominios &lpar;aínda que uses WordPress&rpar;](https://wordpress.tv/2024/09/23/que-tes-que-saber-de-dominios-ainda-que-uses-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
