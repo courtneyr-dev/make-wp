@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – October 9, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/09/agenda-weekly-polyglots-chat-october-9-2024-1300-utc/)
+- [Using GlotPress to Translate Content](https://make.wordpress.org/polyglots/2024/10/09/using-glotpress-to-translate-content/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/polyglots/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [PTE Request for Falcon –…](https://make.wordpress.org/polyglots/2024/10/08/pte-request-for-falcon/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2024/10/07/post-title-pte-request-for-64/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots, I am the…](https://make.wordpress.org/polyglots/2024/10/04/hello-polyglots-i-am-the-640/)
 - [PTE Request Rewiev for LearnPress – WordPress LMS Plugin and The Events Calendar](https://make.wordpress.org/polyglots/2024/10/04/pte-request-rewiev-for-learnpress-wordpress-lms-plugin-and-the-events-calendar/)
 - [PTE Request for GiveWP –…](https://make.wordpress.org/polyglots/2024/10/04/pte-request-for-givewp/)
-- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2024/10/03/hello-polyglots-team-7/)
-- [Under the umbrella of the…](https://make.wordpress.org/polyglots/2024/10/03/under-the-umbrella-of-the/)
 <!-- POLYGLOTS:END -->
 
 ## Support
