@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Please join the WordPress Community Team as a Supporter of Cohort 2024-25](https://make.wordpress.org/community/2024/10/10/please-join-the-wordpress-community-team-as-a-supporter-of-cohort-2024-25/)
 - [Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2024/10/08/announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Project Wrap-Up: WordPress Meetup Chapter Program Review and Results](https://make.wordpress.org/community/2024/10/07/project-wrap-up-wordpress-meetup-chapter-program-review-and-results/)
 - [Community Team Meeting Agenda for 3 – October -2024](https://make.wordpress.org/community/2024/10/03/community-team-meeting-agenda-for-3-october-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/community/2024/09/12/xpost-wordpress-contribution-health-dashboards-an-experiment/)
 - [WCUS2024 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2024/09/09/wcus2024-contributor-day-community-team-agenda/)
 - [Final Reminder: Inactive Meetup Groups Will Be Closed in September 2024](https://make.wordpress.org/community/2024/09/06/final-reminder-inactive-meetup-groups-will-be-closed-in-september-2024/)
-- [Discontinuing Community Zoom Accounts for Meetups](https://make.wordpress.org/community/2024/09/05/discontinuing-community-zoom-accounts-for-meetups/)
 <!-- COMMUNITY:END -->
 
 ## Meta
