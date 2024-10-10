@@ -351,6 +351,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Client-Side Media Processing in WordPress](https://wordpress.tv/2024/10/10/client-side-media-processing-in-wordpress/)
+- [Engineering for the Automattic Special Projects Team](https://wordpress.tv/2024/10/10/engineering-for-the-automattic-special-projects-team/)
+- [A Technical Deep Dive Into Our Favorite Features of the New Harvard Gazette Site](https://wordpress.tv/2024/10/10/a-technical-deep-dive-into-our-favorite-features-of-the-new-harvard-gazette-site/)
+- [Reinventing Gravatar: Profiles-as-a-Service](https://wordpress.tv/2024/10/10/reinventing-gravatar-profiles-as-a-service/)
+- [How to Use Humanity, the Open Source Theme from Amnesty](https://wordpress.tv/2024/10/10/how-to-use-humanity-the-open-source-theme-from-amnesty/)
+- [Building a Block First Digital News Platform for Pew Research Center](https://wordpress.tv/2024/10/10/building-a-block-first-digital-news-platform-for-pew-research-center/)
+- [Mrs.Sporty’s 250 Synchronized Franchise Websites](https://wordpress.tv/2024/10/10/mrs-sportys-250-synchronized-franchise-websites/)
 - [Introduction to WordPress Coding Standards](https://wordpress.tv/2024/10/10/introduction-to-wordpress-coding-standards/)
 - [Reinventing Vox Media’s CMS: A WordPress Migration Journey](https://wordpress.tv/2024/10/10/reinventing-vox-medias-cms-a-wordpress-migration-journey/)
 - [Open Source Link Management for Modern Marketing](https://wordpress.tv/2024/10/10/open-source-link-management-for-modern-marketing/)
@@ -369,13 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Panel: Working Across Borders](https://wordpress.tv/2024/10/08/panel-working-across-borders/)
 - [Panel: Accessibility in the Digital Space](https://wordpress.tv/2024/10/08/panel-accessibility-in-the-digital-space/)
 - [WordCamp NextGen Event Tegal 2023 – Keynote](https://wordpress.tv/2024/10/07/wordcamp-nextgen-event-tegal-2023-keynote/)
-- [WordCamp NextGen Event Tegal 2023 – Workshop](https://wordpress.tv/2024/10/07/wordcamp-nextgen-event-tegal-2023-workshop/)
-- [Site Clinic](https://wordpress.tv/2024/10/05/site-clinic/)
-- [¿Qué son los Wordcamp de WordPress? Si trabajas en SEO no te los pierdas](https://wordpress.tv/2024/10/05/que-son-los-wordcamp-de-wordpress-si-trabajas-en-seo-no-te-los-pierdas/)
-- [Introduction to Gutenberg – The WordPress Block Editor](https://wordpress.tv/2024/10/05/introduction-to-gutenberg-the-wordpress-block-editor/)
-- [Esploriamo Insieme i nuovi percorsi formativi su learn.wordpress.org](https://wordpress.tv/2024/10/05/esploriamo-insieme-i-nuovi-percorsi-formativi-su-learn-wordpress-org/)
-- [WordPress Playground Block code editor theme support](https://wordpress.tv/2024/10/05/wordpress-playground-block-code-editor-theme-support/)
-- [El paso a paso de un plan de acción que sí cumplas](https://wordpress.tv/2024/10/04/el-paso-a-paso-de-un-plan-de-accion-que-si-cumplas-2/)
 <!-- WPTV:END -->
 
 ## Marketing
