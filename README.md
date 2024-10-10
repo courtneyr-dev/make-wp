@@ -351,6 +351,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Decoding the Woo and WordPress Strategies of Industry Giants](https://wordpress.tv/2024/10/10/decoding-the-woo-and-wordpress-strategies-of-industry-giants/)
+- [Building a Customer Success Team](https://wordpress.tv/2024/10/10/building-a-customer-success-team/)
+- [Building WordPress Websites with ‘Privacy by Design’ in Mind](https://wordpress.tv/2024/10/10/building-wordpress-websites-with-privacy-by-design-in-mind/)
+- [Immersive Journalism, Syndication, and Content Analytics with WordPress: Behind-the-Scenes of an Awa](https://wordpress.tv/2024/10/10/immersive-journalism-syndication-and-content-analytics-with-wordpress-behind-the-scenes-of-an-awa/)
+- [wp-admin as Mission Control](https://wordpress.tv/2024/10/10/wp-admin-as-mission-control/)
+- [Unleash the Power of the Interactivity API: A New Era for WordPress](https://wordpress.tv/2024/10/10/unleash-the-power-of-the-interactivity-api-a-new-era-for-wordpress-2/)
+- [Custom WordPress Solutions for Educational Initiatives](https://wordpress.tv/2024/10/10/custom-wordpress-solutions-for-educational-initiatives/)
+- [Open Source Is Eating Software Faster Than Software Is Eating the World](https://wordpress.tv/2024/10/10/open-source-is-eating-software-faster-than-software-is-eating-the-world/)
 - [Client-Side Media Processing in WordPress](https://wordpress.tv/2024/10/10/client-side-media-processing-in-wordpress/)
 - [Engineering for the Automattic Special Projects Team](https://wordpress.tv/2024/10/10/engineering-for-the-automattic-special-projects-team/)
 - [A Technical Deep Dive Into Our Favorite Features of the New Harvard Gazette Site](https://wordpress.tv/2024/10/10/a-technical-deep-dive-into-our-favorite-features-of-the-new-harvard-gazette-site/)
@@ -368,14 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Unlocking the Digital Evolution: Navigating the Gutenberg Era](https://wordpress.tv/2024/10/10/unlocking-the-digital-evolution-navigating-the-gutenberg-era/)
 - [Reach for the Sky: A Magical Transformation with Gutenberg](https://wordpress.tv/2024/10/10/reach-for-the-sky-a-magical-transformation-with-gutenberg/)
 - [Panel: Empowering Indigenous Communities with WordPress](https://wordpress.tv/2024/10/10/panel-empowering-indigenous-communities-with-wordpress/)
-- [Underrepresented in Tech: the Journey to Amplify Others](https://wordpress.tv/2024/10/08/underrepresented-in-tech-the-journey-to-amplify-others/)
-- [How the Uganda Website Projects Competition 2024 Went Down](https://wordpress.tv/2024/10/08/how-the-uganda-website-projects-competition-2024-went-down/)
-- [Beware: Your About Page May Be Costing You Clients!](https://wordpress.tv/2024/10/08/beware-your-about-page-may-be-costing-you-clients/)
-- [Panel: Multilingual Development](https://wordpress.tv/2024/10/08/panel-multilingual-development/)
-- [Panel: Impact on Underrepresented Communities](https://wordpress.tv/2024/10/08/panel-impact-on-underrepresented-communities/)
-- [Panel: Working Across Borders](https://wordpress.tv/2024/10/08/panel-working-across-borders/)
-- [Panel: Accessibility in the Digital Space](https://wordpress.tv/2024/10/08/panel-accessibility-in-the-digital-space/)
-- [WordCamp NextGen Event Tegal 2023 – Keynote](https://wordpress.tv/2024/10/07/wordcamp-nextgen-event-tegal-2023-keynote/)
 <!-- WPTV:END -->
 
 ## Marketing
