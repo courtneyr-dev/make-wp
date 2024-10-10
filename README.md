@@ -351,6 +351,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating Client-Friendly Editing Experiences](https://wordpress.tv/2024/10/10/creating-client-friendly-editing-experiences/)
+- [WordPress Speed Build Battle: A Lightning-Fast Web Design Contest!](https://wordpress.tv/2024/10/10/wordpress-speed-build-battle-a-lightning-fast-web-design-contest/)
+- [Beyond the Playground: WordPress as a Tool and Product Builder](https://wordpress.tv/2024/10/10/beyond-the-playground-wordpress-as-a-tool-and-product-builder/)
+- [Growing and Sustaining a Digital Agency in Uncertain Times](https://wordpress.tv/2024/10/10/growing-and-sustaining-a-digital-agency-in-uncertain-times/)
 - [Decoding the Woo and WordPress Strategies of Industry Giants](https://wordpress.tv/2024/10/10/decoding-the-woo-and-wordpress-strategies-of-industry-giants/)
 - [Building a Customer Success Team](https://wordpress.tv/2024/10/10/building-a-customer-success-team/)
 - [Building WordPress Websites with ‘Privacy by Design’ in Mind](https://wordpress.tv/2024/10/10/building-wordpress-websites-with-privacy-by-design-in-mind/)
@@ -372,10 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The News Never Sleeps: How WordPress Powers The New York Post](https://wordpress.tv/2024/10/10/the-news-never-sleeps-how-wordpress-powers-the-new-york-post/)
 - [The Power of Extending the WordPress Editor: A Block Visibility Showcase](https://wordpress.tv/2024/10/10/the-power-of-extending-the-wordpress-editor-a-block-visibility-showcase/)
 - [Democratizing Accessibility: Equalize Digital Accessibility Checker](https://wordpress.tv/2024/10/10/democratizing-accessibility-equalize-digital-accessibility-checker/)
-- [Deeply Integrating AI with WordPress](https://wordpress.tv/2024/10/10/deeply-integrating-ai-with-wordpress/)
-- [Unlocking the Digital Evolution: Navigating the Gutenberg Era](https://wordpress.tv/2024/10/10/unlocking-the-digital-evolution-navigating-the-gutenberg-era/)
-- [Reach for the Sky: A Magical Transformation with Gutenberg](https://wordpress.tv/2024/10/10/reach-for-the-sky-a-magical-transformation-with-gutenberg/)
-- [Panel: Empowering Indigenous Communities with WordPress](https://wordpress.tv/2024/10/10/panel-empowering-indigenous-communities-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
