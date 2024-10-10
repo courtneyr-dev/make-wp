@@ -351,6 +351,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introduction to WordPress Coding Standards](https://wordpress.tv/2024/10/10/introduction-to-wordpress-coding-standards/)
+- [Reinventing Vox Media’s CMS: A WordPress Migration Journey](https://wordpress.tv/2024/10/10/reinventing-vox-medias-cms-a-wordpress-migration-journey/)
+- [Open Source Link Management for Modern Marketing](https://wordpress.tv/2024/10/10/open-source-link-management-for-modern-marketing/)
+- [The News Never Sleeps: How WordPress Powers The New York Post](https://wordpress.tv/2024/10/10/the-news-never-sleeps-how-wordpress-powers-the-new-york-post/)
+- [The Power of Extending the WordPress Editor: A Block Visibility Showcase](https://wordpress.tv/2024/10/10/the-power-of-extending-the-wordpress-editor-a-block-visibility-showcase/)
+- [Democratizing Accessibility: Equalize Digital Accessibility Checker](https://wordpress.tv/2024/10/10/democratizing-accessibility-equalize-digital-accessibility-checker/)
+- [Deeply Integrating AI with WordPress](https://wordpress.tv/2024/10/10/deeply-integrating-ai-with-wordpress/)
+- [Unlocking the Digital Evolution: Navigating the Gutenberg Era](https://wordpress.tv/2024/10/10/unlocking-the-digital-evolution-navigating-the-gutenberg-era/)
+- [Reach for the Sky: A Magical Transformation with Gutenberg](https://wordpress.tv/2024/10/10/reach-for-the-sky-a-magical-transformation-with-gutenberg/)
 - [Panel: Empowering Indigenous Communities with WordPress](https://wordpress.tv/2024/10/10/panel-empowering-indigenous-communities-with-wordpress/)
 - [Underrepresented in Tech: the Journey to Amplify Others](https://wordpress.tv/2024/10/08/underrepresented-in-tech-the-journey-to-amplify-others/)
 - [How the Uganda Website Projects Competition 2024 Went Down](https://wordpress.tv/2024/10/08/how-the-uganda-website-projects-competition-2024-went-down/)
@@ -367,15 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Esploriamo Insieme i nuovi percorsi formativi su learn.wordpress.org](https://wordpress.tv/2024/10/05/esploriamo-insieme-i-nuovi-percorsi-formativi-su-learn-wordpress-org/)
 - [WordPress Playground Block code editor theme support](https://wordpress.tv/2024/10/05/wordpress-playground-block-code-editor-theme-support/)
 - [El paso a paso de un plan de acción que sí cumplas](https://wordpress.tv/2024/10/04/el-paso-a-paso-de-un-plan-de-accion-que-si-cumplas-2/)
-- [El arte de medir en WordPress](https://wordpress.tv/2024/10/04/el-arte-de-medir-en-wordpress/)
-- [Descubre Surecart: ¿La Mejor Alternativa a WooCommerce?](https://wordpress.tv/2024/10/04/descubre-surecart-la-mejor-alternativa-a-woocommerce/)
-- [Aprovecha al máximo las últimas novedades de WordPress](https://wordpress.tv/2024/10/03/aprovecha-al-maximo-las-ultimas-novedades-de-wordpress/)
-- [Developer Hours: An Introduction to Data Views](https://wordpress.tv/2024/09/24/developer-hours-an-introduction-to-data-views/)
-- [Bienvenida](https://wordpress.tv/2024/09/23/bienvenida/)
-- [Cierre de la conferencia](https://wordpress.tv/2024/09/23/cierre-de-la-conferencia/)
-- [El álbum de fotos de WordPress](https://wordpress.tv/2024/09/23/el-album-de-fotos-de-wordpress/)
-- [Crea tu landing page en 10 min: simple y efectivo](https://wordpress.tv/2024/09/23/crea-tu-landing-page-en-10-min-simple-y-efectivo/)
-- [Desconferencia](https://wordpress.tv/2024/09/23/desconferencia/)
 <!-- WPTV:END -->
 
 ## Marketing
