@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Help Test WordPress 6.7](https://make.wordpress.org/polyglots/2024/10/11/xpost-help-test-wordpress-6-7/)
 - [Translation Review.](https://make.wordpress.org/polyglots/2024/10/10/translation-review-3/)
 - [PTE Request for CloudFilt](https://make.wordpress.org/polyglots/2024/10/09/pte-request-for-cloudfilt-2/)
 - [Agenda: Weekly Polyglots Chat – October 9, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/09/agenda-weekly-polyglots-chat-october-9-2024-1300-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for…](https://make.wordpress.org/polyglots/2024/10/07/post-title-pte-request-for-64/)
 - [CLPTE Request for Enable Mastodon Apps](https://make.wordpress.org/polyglots/2024/10/04/clpte-request-for-enable-mastodon-apps/)
 - [PTE Request for “Password Reset…](https://make.wordpress.org/polyglots/2024/10/04/pte-request-for-password-reset/)
-- [Hello Polyglots, I am the…](https://make.wordpress.org/polyglots/2024/10/04/hello-polyglots-i-am-the-640/)
 <!-- POLYGLOTS:END -->
 
 ## Support
