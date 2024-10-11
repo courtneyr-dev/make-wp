@@ -408,6 +408,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [X-post: Help Test WordPress 6.7](https://make.wordpress.org/hosting/2024/10/11/xpost-help-test-wordpress-6-7/)
 - [Hosting Test: The Profiles](https://make.wordpress.org/hosting/2024/10/09/hosting-test-the-profiles/)
 - [Hosting Team meeting agenda 2024-10-09](https://make.wordpress.org/hosting/2024/10/09/hosting-team-meeting-agenda-2024-10-09/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/hosting/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
@@ -417,7 +418,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Team Meeting 2024-09-11](https://make.wordpress.org/hosting/2024/09/11/hosting-team-meeting-2024-09-11/)
 - [Hosting Team Meeting 2024-09-04 &lpar;APAC/EMEA&rpar;](https://make.wordpress.org/hosting/2024/09/04/hosting-team-meeting-2024-09-04-apac-emea/)
 - [Hosting Team meeting agenda 2024-08-21](https://make.wordpress.org/hosting/2024/08/21/hosting-team-meeting-agenda-2024-08-21/)
-- [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/hosting/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 <!-- HOSTING:END -->
 
 ## Tide
