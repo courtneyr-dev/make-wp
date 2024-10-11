@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [An In-Person Q&amp;A With Matt Mullenweg](https://wordpress.tv/2024/10/11/an-in-person-qa-with-matt-mullenweg/)
 - [Innovative Pricing Strategies to Grow Your WordPress Business](https://wordpress.tv/2024/10/11/innovative-pricing-strategies-to-grow-your-wordpress-business/)
 - [Leveraging AI to Accelerate Your Digital Workflow](https://wordpress.tv/2024/10/11/leveraging-ai-to-accelerate-your-digital-workflow/)
 - [Scaling Your Agency: Lessons Learned the Hard Way](https://wordpress.tv/2024/10/11/scaling-your-agency-lessons-learned-the-hard-way/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Custom WordPress Solutions for Educational Initiatives](https://wordpress.tv/2024/10/10/custom-wordpress-solutions-for-educational-initiatives/)
 - [Open Source Is Eating Software Faster Than Software Is Eating the World](https://wordpress.tv/2024/10/10/open-source-is-eating-software-faster-than-software-is-eating-the-world/)
 - [Client-Side Media Processing in WordPress](https://wordpress.tv/2024/10/10/client-side-media-processing-in-wordpress/)
-- [Engineering for the Automattic Special Projects Team](https://wordpress.tv/2024/10/10/engineering-for-the-automattic-special-projects-team/)
 <!-- WPTV:END -->
 
 ## Marketing
