@@ -351,6 +351,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Modern JavaScript](https://wordpress.tv/2024/10/11/modern-javascript/)
+- [Developing WordPress Blocks without JSX or a build process](https://wordpress.tv/2024/10/11/developing-wordpress-blocks-without-jsx-or-a-build-process/)
+- [Nested Blocks](https://wordpress.tv/2024/10/11/nested-blocks/)
+- [Block Variations](https://wordpress.tv/2024/10/11/block-variations-2/)
+- [Block Editor Hooks](https://wordpress.tv/2024/10/11/block-editor-hooks/)
+- [Fetching WordPress Data](https://wordpress.tv/2024/10/11/fetching-wordpress-data/)
+- [Block Hooks API](https://wordpress.tv/2024/10/11/block-hooks-api/)
 - [An In-Person Q&amp;A With Matt Mullenweg](https://wordpress.tv/2024/10/11/an-in-person-qa-with-matt-mullenweg/)
 - [Innovative Pricing Strategies to Grow Your WordPress Business](https://wordpress.tv/2024/10/11/innovative-pricing-strategies-to-grow-your-wordpress-business/)
 - [Leveraging AI to Accelerate Your Digital Workflow](https://wordpress.tv/2024/10/11/leveraging-ai-to-accelerate-your-digital-workflow/)
@@ -369,13 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Growing and Sustaining a Digital Agency in Uncertain Times](https://wordpress.tv/2024/10/10/growing-and-sustaining-a-digital-agency-in-uncertain-times/)
 - [Decoding the Woo and WordPress Strategies of Industry Giants](https://wordpress.tv/2024/10/10/decoding-the-woo-and-wordpress-strategies-of-industry-giants/)
 - [Building a Customer Success Team](https://wordpress.tv/2024/10/10/building-a-customer-success-team/)
-- [Building WordPress Websites with ‘Privacy by Design’ in Mind](https://wordpress.tv/2024/10/10/building-wordpress-websites-with-privacy-by-design-in-mind/)
-- [Immersive Journalism, Syndication, and Content Analytics with WordPress: Behind-the-Scenes of an Awa](https://wordpress.tv/2024/10/10/immersive-journalism-syndication-and-content-analytics-with-wordpress-behind-the-scenes-of-an-awa/)
-- [wp-admin as Mission Control](https://wordpress.tv/2024/10/10/wp-admin-as-mission-control/)
-- [Unleash the Power of the Interactivity API: A New Era for WordPress](https://wordpress.tv/2024/10/10/unleash-the-power-of-the-interactivity-api-a-new-era-for-wordpress-2/)
-- [Custom WordPress Solutions for Educational Initiatives](https://wordpress.tv/2024/10/10/custom-wordpress-solutions-for-educational-initiatives/)
-- [Open Source Is Eating Software Faster Than Software Is Eating the World](https://wordpress.tv/2024/10/10/open-source-is-eating-software-faster-than-software-is-eating-the-world/)
-- [Client-Side Media Processing in WordPress](https://wordpress.tv/2024/10/10/client-side-media-processing-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
