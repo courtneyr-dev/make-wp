@@ -351,6 +351,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Innovative Pricing Strategies to Grow Your WordPress Business](https://wordpress.tv/2024/10/11/innovative-pricing-strategies-to-grow-your-wordpress-business/)
+- [Leveraging AI to Accelerate Your Digital Workflow](https://wordpress.tv/2024/10/11/leveraging-ai-to-accelerate-your-digital-workflow/)
+- [Scaling Your Agency: Lessons Learned the Hard Way](https://wordpress.tv/2024/10/11/scaling-your-agency-lessons-learned-the-hard-way/)
+- [200,000 Games and Going: The Pandemic Kept Us Apart, But My WordPress Project Brought Us Together](https://wordpress.tv/2024/10/11/200000-games-and-going-the-pandemic-kept-us-apart-but-my-wordpress-project-brought-us-together/)
+- [How to Grow and Protect Your Brand](https://wordpress.tv/2024/10/11/how-to-grow-and-protect-your-brand/)
+- [Releasing a Version of WordPress in 8 Hours or Less](https://wordpress.tv/2024/10/11/releasing-a-version-of-wordpress-in-8-hours-or-less/)
+- [From Passion to Profit: Strategies for Developing Successful Online Courses with WordPress](https://wordpress.tv/2024/10/11/from-passion-to-profit-strategies-for-developing-successful-online-courses-with-wordpress/)
+- [Empowering Black-Owned Businesses: The iOne Digital Story](https://wordpress.tv/2024/10/11/empowering-black-owned-businesses-the-ione-digital-story/)
+- [Uber for Nurses: The Power of WordPress](https://wordpress.tv/2024/10/11/uber-for-nurses-the-power-of-wordpress/)
+- [How the Wikimedia Foundation Uses WordPress to Run an Open Community Blog](https://wordpress.tv/2024/10/11/how-the-wikimedia-foundation-uses-wordpress-to-run-an-open-community-blog/)
+- [Fireside Chat: How TIME Uses Patterns to Drive Recirculation and Engagement](https://wordpress.tv/2024/10/11/fireside-chat-how-time-uses-patterns-to-drive-recirculation-and-engagement/)
 - [Creating Client-Friendly Editing Experiences](https://wordpress.tv/2024/10/10/creating-client-friendly-editing-experiences/)
 - [WordPress Speed Build Battle: A Lightning-Fast Web Design Contest!](https://wordpress.tv/2024/10/10/wordpress-speed-build-battle-a-lightning-fast-web-design-contest/)
 - [Beyond the Playground: WordPress as a Tool and Product Builder](https://wordpress.tv/2024/10/10/beyond-the-playground-wordpress-as-a-tool-and-product-builder/)
@@ -365,17 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Open Source Is Eating Software Faster Than Software Is Eating the World](https://wordpress.tv/2024/10/10/open-source-is-eating-software-faster-than-software-is-eating-the-world/)
 - [Client-Side Media Processing in WordPress](https://wordpress.tv/2024/10/10/client-side-media-processing-in-wordpress/)
 - [Engineering for the Automattic Special Projects Team](https://wordpress.tv/2024/10/10/engineering-for-the-automattic-special-projects-team/)
-- [A Technical Deep Dive Into Our Favorite Features of the New Harvard Gazette Site](https://wordpress.tv/2024/10/10/a-technical-deep-dive-into-our-favorite-features-of-the-new-harvard-gazette-site/)
-- [Reinventing Gravatar: Profiles-as-a-Service](https://wordpress.tv/2024/10/10/reinventing-gravatar-profiles-as-a-service/)
-- [How to Use Humanity, the Open Source Theme from Amnesty](https://wordpress.tv/2024/10/10/how-to-use-humanity-the-open-source-theme-from-amnesty/)
-- [Building a Block First Digital News Platform for Pew Research Center](https://wordpress.tv/2024/10/10/building-a-block-first-digital-news-platform-for-pew-research-center/)
-- [Mrs.Sporty’s 250 Synchronized Franchise Websites](https://wordpress.tv/2024/10/10/mrs-sportys-250-synchronized-franchise-websites/)
-- [Introduction to WordPress Coding Standards](https://wordpress.tv/2024/10/10/introduction-to-wordpress-coding-standards/)
-- [Reinventing Vox Media’s CMS: A WordPress Migration Journey](https://wordpress.tv/2024/10/10/reinventing-vox-medias-cms-a-wordpress-migration-journey/)
-- [Open Source Link Management for Modern Marketing](https://wordpress.tv/2024/10/10/open-source-link-management-for-modern-marketing/)
-- [The News Never Sleeps: How WordPress Powers The New York Post](https://wordpress.tv/2024/10/10/the-news-never-sleeps-how-wordpress-powers-the-new-york-post/)
-- [The Power of Extending the WordPress Editor: A Block Visibility Showcase](https://wordpress.tv/2024/10/10/the-power-of-extending-the-wordpress-editor-a-block-visibility-showcase/)
-- [Democratizing Accessibility: Equalize Digital Accessibility Checker](https://wordpress.tv/2024/10/10/democratizing-accessibility-equalize-digital-accessibility-checker/)
 <!-- WPTV:END -->
 
 ## Marketing
