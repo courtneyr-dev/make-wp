@@ -450,6 +450,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
+- [X-post: Help Test WordPress 6.7](https://make.wordpress.org/photos/2024/10/11/xpost-help-test-wordpress-6-7/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/photos/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Photo Directory Team Rep Announcement Moved to October 4th](https://make.wordpress.org/photos/2024/09/17/photo-directory-team-rep-announcement-delayed/)
 - [Photo Directory Team Reps 2024: Submit your Votes!](https://make.wordpress.org/photos/2024/09/02/photo-directory-team-reps-2024-submit-your-votes/)
@@ -459,7 +460,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [February Stats for the WordPress Photo Directory](https://make.wordpress.org/photos/2024/03/02/february-stats-for-the-wordpress-photo-directory/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/photos/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [January Stats for the WordPress Photo Directory](https://make.wordpress.org/photos/2024/02/02/january-stats-for-the-wordpress-photo-directory/)
-- [Alt Text for WordPress Photos](https://make.wordpress.org/photos/2024/02/02/alt-text-for-wordpress-photos/)
 <!-- PHOTOS:END -->
 
 ## Updates
