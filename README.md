@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-85/)
 - [WordPress Expert](https://jobs.wordpress.net/job/wordpress-expert-37/)
 - [Senior PHP\WordPress developer](https://jobs.wordpress.net/job/senior-phpwordpress-developer/)
 - [Senior Full Stack Developer](https://jobs.wordpress.net/job/senior-full-stack-developer-8/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Frontend Developer &lpar;Vue/Nuxt&rpar;](https://jobs.wordpress.net/job/frontend-developer-vue-nuxt/)
 - [Backend Developer &lpar;PHP/Laravel&rpar;](https://jobs.wordpress.net/job/backend-developer-php-laravel/)
 - [Site update](https://jobs.wordpress.net/job/site-update-2/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-100/)
 <!-- JOBS:END -->
 
 ## Central
