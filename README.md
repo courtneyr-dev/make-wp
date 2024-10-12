@@ -351,6 +351,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Planet WP – Ein Blick in die deutsche WordPress-Seele](https://wordpress.tv/2024/10/12/planet-wp-ein-blick-in-die-deutsche-wordpress-seele/)
+- [learn.wordpress.org – Was ist das?](https://wordpress.tv/2024/10/12/learn-wordpress-org-was-ist-das/)
+- [Den richtigen Hook finden: Code-Erweiterung ohne Plugin Änderungen](https://wordpress.tv/2024/10/12/den-richtigen-hook-finden-code-erweiterung-ohne-plugin-aenderungen/)
+- [GitHub Action Workflows: Tipps und Tricks zur Optimierung von CI/CD-Pipelines](https://wordpress.tv/2024/10/12/github-action-workflows-tipps-und-tricks-zur-optimierung-von-ci-cd-pipelines/)
+- [E-Mail-Zustellbarkeit: SPF, DKIM, DMARC, BIMI &amp; Co.](https://wordpress.tv/2024/10/12/e-mail-zustellbarkeit-spf-dkim-dmarc-bimi-co/)
+- [WordPress Template Einrichtung mit Hilfe der WP-CLI](https://wordpress.tv/2024/10/12/wordpress-template-einrichtung-mit-hilfe-der-wp-cli/)
+- [Ausblick auf WordPress 6.7](https://wordpress.tv/2024/10/12/ausblick-auf-wordpress-6-7/)
 - [Modern JavaScript](https://wordpress.tv/2024/10/11/modern-javascript/)
 - [Developing WordPress Blocks without JSX or a build process](https://wordpress.tv/2024/10/11/developing-wordpress-blocks-without-jsx-or-a-build-process/)
 - [Nested Blocks](https://wordpress.tv/2024/10/11/nested-blocks/)
@@ -369,13 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Empowering Black-Owned Businesses: The iOne Digital Story](https://wordpress.tv/2024/10/11/empowering-black-owned-businesses-the-ione-digital-story/)
 - [Uber for Nurses: The Power of WordPress](https://wordpress.tv/2024/10/11/uber-for-nurses-the-power-of-wordpress/)
 - [How the Wikimedia Foundation Uses WordPress to Run an Open Community Blog](https://wordpress.tv/2024/10/11/how-the-wikimedia-foundation-uses-wordpress-to-run-an-open-community-blog/)
-- [Fireside Chat: How TIME Uses Patterns to Drive Recirculation and Engagement](https://wordpress.tv/2024/10/11/fireside-chat-how-time-uses-patterns-to-drive-recirculation-and-engagement/)
-- [Creating Client-Friendly Editing Experiences](https://wordpress.tv/2024/10/10/creating-client-friendly-editing-experiences/)
-- [WordPress Speed Build Battle: A Lightning-Fast Web Design Contest!](https://wordpress.tv/2024/10/10/wordpress-speed-build-battle-a-lightning-fast-web-design-contest/)
-- [Beyond the Playground: WordPress as a Tool and Product Builder](https://wordpress.tv/2024/10/10/beyond-the-playground-wordpress-as-a-tool-and-product-builder/)
-- [Growing and Sustaining a Digital Agency in Uncertain Times](https://wordpress.tv/2024/10/10/growing-and-sustaining-a-digital-agency-in-uncertain-times/)
-- [Decoding the Woo and WordPress Strategies of Industry Giants](https://wordpress.tv/2024/10/10/decoding-the-woo-and-wordpress-strategies-of-industry-giants/)
-- [Building a Customer Success Team](https://wordpress.tv/2024/10/10/building-a-customer-success-team/)
 <!-- WPTV:END -->
 
 ## Marketing
