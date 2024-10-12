@@ -506,6 +506,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Secure Custom Fields](https://wordpress.org/news/2024/10/secure-custom-fields/)
 - [Forking is Beautiful](https://wordpress.org/news/2024/10/spoon/)
 - [Please Welcome Mary Hubbard](https://wordpress.org/news/2024/10/proud-mary/)
 - [WordPress 6.7 Beta 2](https://wordpress.org/news/2024/10/wordpress-6-7-beta-2/)
@@ -515,7 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Engine is banned from WordPress.org](https://wordpress.org/news/2024/09/wp-engine-banned/)
 - [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
 - [PDX + WCUS 2024: A Recap](https://wordpress.org/news/2024/09/pdx-wcus-2024-a-recap/)
-- [WP Briefing: Episode 86: My First WordPress Experience](https://wordpress.org/news/2024/09/episode-86-my-first-wordpress-experience/)
 <!-- NEWS:END -->
 
 ## Jobs
