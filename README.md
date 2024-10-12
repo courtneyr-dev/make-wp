@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Projekte erfolgreich managen](https://wordpress.tv/2024/10/12/projekte-erfolgreich-managen/)
 - [How We Grew and Optimized RecipeTin Eats to Reach 45 Million Monthly Views &lpar;from 25M&rpar;](https://wordpress.tv/2024/10/12/how-we-grew-and-optimized-recipetin-eats-to-reach-45-million-monthly-views-from-25m/)
 - [Highlights from the Automattic Special Projects Team](https://wordpress.tv/2024/10/12/highlights-from-the-automattic-special-projects-team/)
 - [Enhancing Open Source Plugin Security: Establishing Robust Processes and Leveraging Bug Bounty Partn](https://wordpress.tv/2024/10/12/enhancing-open-source-plugin-security-establishing-robust-processes-and-leveraging-bug-bounty-partn/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developing WordPress Blocks without JSX or a build process](https://wordpress.tv/2024/10/11/developing-wordpress-blocks-without-jsx-or-a-build-process/)
 - [Nested Blocks](https://wordpress.tv/2024/10/11/nested-blocks/)
 - [Block Variations](https://wordpress.tv/2024/10/11/block-variations-2/)
-- [Block Editor Hooks](https://wordpress.tv/2024/10/11/block-editor-hooks/)
 <!-- WPTV:END -->
 
 ## Marketing
