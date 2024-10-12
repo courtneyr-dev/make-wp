@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress als Soziales Netzwerk – Eine Vision um Publishing zu demokratisieren](https://wordpress.tv/2024/10/12/wordpress-als-soziales-netzwerk-eine-vision-um-publishing-zu-demokratisieren/)
 - [Moderne Gutenberg UI Oberflächen mit JSON Schema in WordPress erzeugen](https://wordpress.tv/2024/10/12/moderne-gutenberg-ui-oberflaechen-mit-json-schema-in-wordpress-erzeugen/)
 - [Warum man über einen Headless-WordPress-Ansatz nachdenken sollte](https://wordpress.tv/2024/10/12/warum-man-ueber-einen-headless-wordpress-ansatz-nachdenken-sollte/)
 - [Pattern Live Build](https://wordpress.tv/2024/10/12/pattern-live-build/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [200,000 Games and Going: The Pandemic Kept Us Apart, But My WordPress Project Brought Us Together](https://wordpress.tv/2024/10/11/200000-games-and-going-the-pandemic-kept-us-apart-but-my-wordpress-project-brought-us-together/)
 - [How to Grow and Protect Your Brand](https://wordpress.tv/2024/10/11/how-to-grow-and-protect-your-brand/)
 - [Releasing a Version of WordPress in 8 Hours or Less](https://wordpress.tv/2024/10/11/releasing-a-version-of-wordpress-in-8-hours-or-less/)
-- [From Passion to Profit: Strategies for Developing Successful Online Courses with WordPress](https://wordpress.tv/2024/10/11/from-passion-to-profit-strategies-for-developing-successful-online-courses-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
