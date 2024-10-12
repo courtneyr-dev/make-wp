@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Pattern Live Build](https://wordpress.tv/2024/10/12/pattern-live-build/)
 - [Planet WP – Ein Blick in die deutsche WordPress-Seele](https://wordpress.tv/2024/10/12/planet-wp-ein-blick-in-die-deutsche-wordpress-seele/)
 - [learn.wordpress.org – Was ist das?](https://wordpress.tv/2024/10/12/learn-wordpress-org-was-ist-das/)
 - [Den richtigen Hook finden: Code-Erweiterung ohne Plugin Änderungen](https://wordpress.tv/2024/10/12/den-richtigen-hook-finden-code-erweiterung-ohne-plugin-aenderungen/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Passion to Profit: Strategies for Developing Successful Online Courses with WordPress](https://wordpress.tv/2024/10/11/from-passion-to-profit-strategies-for-developing-successful-online-courses-with-wordpress/)
 - [Empowering Black-Owned Businesses: The iOne Digital Story](https://wordpress.tv/2024/10/11/empowering-black-owned-businesses-the-ione-digital-story/)
 - [Uber for Nurses: The Power of WordPress](https://wordpress.tv/2024/10/11/uber-for-nurses-the-power-of-wordpress/)
-- [How the Wikimedia Foundation Uses WordPress to Run an Open Community Blog](https://wordpress.tv/2024/10/11/how-the-wikimedia-foundation-uses-wordpress-to-run-an-open-community-blog/)
 <!-- WPTV:END -->
 
 ## Marketing
