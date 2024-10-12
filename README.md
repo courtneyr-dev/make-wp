@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Moderne Gutenberg UI Oberflächen mit JSON Schema in WordPress erzeugen](https://wordpress.tv/2024/10/12/moderne-gutenberg-ui-oberflaechen-mit-json-schema-in-wordpress-erzeugen/)
+- [Warum man über einen Headless-WordPress-Ansatz nachdenken sollte](https://wordpress.tv/2024/10/12/warum-man-ueber-einen-headless-wordpress-ansatz-nachdenken-sollte/)
 - [Pattern Live Build](https://wordpress.tv/2024/10/12/pattern-live-build/)
 - [Planet WP – Ein Blick in die deutsche WordPress-Seele](https://wordpress.tv/2024/10/12/planet-wp-ein-blick-in-die-deutsche-wordpress-seele/)
 - [learn.wordpress.org – Was ist das?](https://wordpress.tv/2024/10/12/learn-wordpress-org-was-ist-das/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Grow and Protect Your Brand](https://wordpress.tv/2024/10/11/how-to-grow-and-protect-your-brand/)
 - [Releasing a Version of WordPress in 8 Hours or Less](https://wordpress.tv/2024/10/11/releasing-a-version-of-wordpress-in-8-hours-or-less/)
 - [From Passion to Profit: Strategies for Developing Successful Online Courses with WordPress](https://wordpress.tv/2024/10/11/from-passion-to-profit-strategies-for-developing-successful-online-courses-with-wordpress/)
-- [Empowering Black-Owned Businesses: The iOne Digital Story](https://wordpress.tv/2024/10/11/empowering-black-owned-businesses-the-ione-digital-story/)
-- [Uber for Nurses: The Power of WordPress](https://wordpress.tv/2024/10/11/uber-for-nurses-the-power-of-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
