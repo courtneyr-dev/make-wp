@@ -351,6 +351,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How We Grew and Optimized RecipeTin Eats to Reach 45 Million Monthly Views &lpar;from 25M&rpar;](https://wordpress.tv/2024/10/12/how-we-grew-and-optimized-recipetin-eats-to-reach-45-million-monthly-views-from-25m/)
+- [Highlights from the Automattic Special Projects Team](https://wordpress.tv/2024/10/12/highlights-from-the-automattic-special-projects-team/)
+- [Enhancing Open Source Plugin Security: Establishing Robust Processes and Leveraging Bug Bounty Partn](https://wordpress.tv/2024/10/12/enhancing-open-source-plugin-security-establishing-robust-processes-and-leveraging-bug-bounty-partn/)
+- [Breaking News: CNN’s Rise to Industry Leader in Brazil](https://wordpress.tv/2024/10/12/breaking-news-cnns-rise-to-industry-leader-in-brazil/)
+- [Learnings aus 1 Million WordPress-Updates](https://wordpress.tv/2024/10/12/learnings-aus-1-million-wordpress-updates/)
+- [De la idea al diseño: Mejorando la experiencia de usuario en WordPress con Figma](https://wordpress.tv/2024/10/12/de-la-idea-al-diseno-mejorando-la-experiencia-de-usuario-en-wordpress-con-figma/)
+- [WordPress – unterschiedliche Nutzer und Instanzen](https://wordpress.tv/2024/10/12/wordpress-unterschiedliche-nutzer-und-instanzen/)
+- [Website-Performance steigern: Auch mit 500.000 Anhängen](https://wordpress.tv/2024/10/12/website-performance-steigern-auch-mit-500-000-anhaengen/)
+- [Psychiatrische Perspektiven auf die Community](https://wordpress.tv/2024/10/12/psychiatrische-perspektiven-auf-die-community/)
 - [WordPress als Soziales Netzwerk – Eine Vision um Publishing zu demokratisieren](https://wordpress.tv/2024/10/12/wordpress-als-soziales-netzwerk-eine-vision-um-publishing-zu-demokratisieren/)
 - [Moderne Gutenberg UI Oberflächen mit JSON Schema in WordPress erzeugen](https://wordpress.tv/2024/10/12/moderne-gutenberg-ui-oberflaechen-mit-json-schema-in-wordpress-erzeugen/)
 - [Warum man über einen Headless-WordPress-Ansatz nachdenken sollte](https://wordpress.tv/2024/10/12/warum-man-ueber-einen-headless-wordpress-ansatz-nachdenken-sollte/)
@@ -367,15 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nested Blocks](https://wordpress.tv/2024/10/11/nested-blocks/)
 - [Block Variations](https://wordpress.tv/2024/10/11/block-variations-2/)
 - [Block Editor Hooks](https://wordpress.tv/2024/10/11/block-editor-hooks/)
-- [Fetching WordPress Data](https://wordpress.tv/2024/10/11/fetching-wordpress-data/)
-- [Block Hooks API](https://wordpress.tv/2024/10/11/block-hooks-api/)
-- [An In-Person Q&amp;A With Matt Mullenweg](https://wordpress.tv/2024/10/11/an-in-person-qa-with-matt-mullenweg/)
-- [Innovative Pricing Strategies to Grow Your WordPress Business](https://wordpress.tv/2024/10/11/innovative-pricing-strategies-to-grow-your-wordpress-business/)
-- [Leveraging AI to Accelerate Your Digital Workflow](https://wordpress.tv/2024/10/11/leveraging-ai-to-accelerate-your-digital-workflow/)
-- [Scaling Your Agency: Lessons Learned the Hard Way](https://wordpress.tv/2024/10/11/scaling-your-agency-lessons-learned-the-hard-way/)
-- [200,000 Games and Going: The Pandemic Kept Us Apart, But My WordPress Project Brought Us Together](https://wordpress.tv/2024/10/11/200000-games-and-going-the-pandemic-kept-us-apart-but-my-wordpress-project-brought-us-together/)
-- [How to Grow and Protect Your Brand](https://wordpress.tv/2024/10/11/how-to-grow-and-protect-your-brand/)
-- [Releasing a Version of WordPress in 8 Hours or Less](https://wordpress.tv/2024/10/11/releasing-a-version-of-wordpress-in-8-hours-or-less/)
 <!-- WPTV:END -->
 
 ## Marketing
