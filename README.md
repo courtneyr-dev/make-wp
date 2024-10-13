@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Co automatyzować w SEO?](https://wordpress.tv/2024/10/13/co-automatyzowac-w-seo/)
 - [Czemu i jak monitorować WordPressa](https://wordpress.tv/2024/10/13/czemu-i-jak-monitorowac-wordpressa/)
 - [Sukces w Budżecie i Czasie: Jak dostarczyliśmy rozbudowany serwis w FSE, przy minimalnych informacjach](https://wordpress.tv/2024/10/13/sukces-w-budzecie-i-czasie-jak-dostarczylismy-rozbudowany-serwis-w-fse-przy-minimalnych-informacjach/)
 - [Współpraca SEO x DEV – jak sprawić, aby „u mnie działa” zadziałało po obu stronach](https://wordpress.tv/2024/10/13/wspolpraca-seo-x-dev-jak-sprawic-aby-u-mnie-dziala-zadzialalo-po-obu-stronach/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility: Nie tylko automaty i wtyczki. Dlaczego warto inwestować w dostępność stron i jak uniknąć pułapek prawnych](https://wordpress.tv/2024/10/13/accessibility-nie-tylko-automaty-i-wtyczki-dlaczego-warto-inwestowac-w-dostepnosc-stron-i-jak-uniknac-pulapek-prawnych/)
 - [Podstawy wzorca MVC i jego wykorzystanie w projektach WordPress](https://wordpress.tv/2024/10/13/podstawy-wzorca-mvc-i-jego-wykorzystanie-w-projektach-wordpress/)
 - [Panel dyskusyjny Community Polska – Jak wspierać](https://wordpress.tv/2024/10/13/panel-dyskusyjny-community-polska-jak-wspierac/)
-- [Co przegapić w paragrafach i kto może za to żądać pieniędzy?](https://wordpress.tv/2024/10/13/co-przegapic-w-paragrafach-i-kto-moze-za-to-zadac-pieniedzy/)
 <!-- WPTV:END -->
 
 ## Marketing
