@@ -351,6 +351,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Soporte Técnico «Ninja» para WordPress](https://wordpress.tv/2024/10/13/soporte-tecnico-ninja-para-wordpress/)
+- [¿Está tu web realmente optimizada?](https://wordpress.tv/2024/10/13/esta-tu-web-realmente-optimizada/)
+- [Hablemos de las IAs y la genialidad de unirlas con WordPress](https://wordpress.tv/2024/10/13/hablemos-de-las-ias-y-la-genialidad-de-unirlas-con-wordpress/)
+- [Consejos para crear tu proyecto en WordPress](https://wordpress.tv/2024/10/13/consejos-para-crear-tu-proyecto-en-wordpress/)
+- [Usar gastos de envío como estrategia de ventas](https://wordpress.tv/2024/10/13/usar-gastos-de-envio-como-estrategia-de-ventas/)
+- [Panel dyskusyjny Trendy w WordPressie](https://wordpress.tv/2024/10/13/panel-dyskusyjny-trendy-w-wordpressie/)
+- [RODO bez tajemnic: Jak unikać błędów i testować strony WordPress](https://wordpress.tv/2024/10/13/rodo-bez-tajemnic-jak-unikac-bledow-i-testowac-strony-wordpress/)
 - [Projekte erfolgreich managen](https://wordpress.tv/2024/10/12/projekte-erfolgreich-managen/)
 - [How We Grew and Optimized RecipeTin Eats to Reach 45 Million Monthly Views &lpar;from 25M&rpar;](https://wordpress.tv/2024/10/12/how-we-grew-and-optimized-recipetin-eats-to-reach-45-million-monthly-views-from-25m/)
 - [Highlights from the Automattic Special Projects Team](https://wordpress.tv/2024/10/12/highlights-from-the-automattic-special-projects-team/)
@@ -369,13 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [learn.wordpress.org – Was ist das?](https://wordpress.tv/2024/10/12/learn-wordpress-org-was-ist-das/)
 - [Den richtigen Hook finden: Code-Erweiterung ohne Plugin Änderungen](https://wordpress.tv/2024/10/12/den-richtigen-hook-finden-code-erweiterung-ohne-plugin-aenderungen/)
 - [GitHub Action Workflows: Tipps und Tricks zur Optimierung von CI/CD-Pipelines](https://wordpress.tv/2024/10/12/github-action-workflows-tipps-und-tricks-zur-optimierung-von-ci-cd-pipelines/)
-- [E-Mail-Zustellbarkeit: SPF, DKIM, DMARC, BIMI &amp; Co.](https://wordpress.tv/2024/10/12/e-mail-zustellbarkeit-spf-dkim-dmarc-bimi-co/)
-- [WordPress Template Einrichtung mit Hilfe der WP-CLI](https://wordpress.tv/2024/10/12/wordpress-template-einrichtung-mit-hilfe-der-wp-cli/)
-- [Ausblick auf WordPress 6.7](https://wordpress.tv/2024/10/12/ausblick-auf-wordpress-6-7/)
-- [Modern JavaScript](https://wordpress.tv/2024/10/11/modern-javascript/)
-- [Developing WordPress Blocks without JSX or a build process](https://wordpress.tv/2024/10/11/developing-wordpress-blocks-without-jsx-or-a-build-process/)
-- [Nested Blocks](https://wordpress.tv/2024/10/11/nested-blocks/)
-- [Block Variations](https://wordpress.tv/2024/10/11/block-variations-2/)
 <!-- WPTV:END -->
 
 ## Marketing
