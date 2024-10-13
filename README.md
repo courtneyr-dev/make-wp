@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Announcing the next Learn WordPress Course Cohort.](https://make.wordpress.org/training/2024/10/13/announcing-the-next-learn-wordpress-course-cohort/)
 - [Project thread: The third Learn WordPress Course Cohort](https://make.wordpress.org/training/2024/10/13/project-thread-the-third-learn-wordpress-course-cohort/)
 - [X-post: Help Test WordPress 6.7](https://make.wordpress.org/training/2024/10/11/xpost-help-test-wordpress-6-7/)
 - [Update to weekly team meeting times](https://make.wordpress.org/training/2024/10/10/update-to-weekly-team-meeting-times/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Learn WordPress site remake: First two months](https://make.wordpress.org/training/2024/10/02/learn-wordpress-site-remake-first-two-months/)
 - [Training Team Meeting Recap – 26th September 2024](https://make.wordpress.org/training/2024/10/01/training-team-meeting-recap-26th-september-2024/)
 - [Call for contributors: Designer Learning Pathway](https://make.wordpress.org/training/2024/09/30/call-for-contributors-designer-learning-pathway/)
-- [Training Team Meeting Recap – 19th September 2024](https://make.wordpress.org/training/2024/09/24/training-team-meeting-recap-19th-september-2024/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
