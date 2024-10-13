@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Fields API team seeking new leadership](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/)
 - [Proposal: Make unit test tickets easier to distinguish](https://make.wordpress.org/core/2024/10/11/proposal-make-unit-test-tickets-easier-to-distinguish/)
 - [Hallway Hangout: What’s next for DataViews and DataForm components &lpar;Oct 23, 2024&rpar;](https://make.wordpress.org/core/2024/10/10/hallway-hangout-whats-next-for-dataviews-and-dataform-components-oct-23-2024/)
 - [Summary, Dev Chat, October 9, 2024](https://make.wordpress.org/core/2024/10/09/summary-dev-chat-october-9-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in Gutenberg 19.3? &lpar;25 September&rpar;](https://make.wordpress.org/core/2024/09/25/whats-new-in-gutenberg-19-3-25-september/)
 - [Default Theme Chat Agenda: September 25, 2024](https://make.wordpress.org/core/2024/09/24/default-theme-chat-agenda-september-25-2024/)
 - [Performance Chat Agenda: 24 September 2024](https://make.wordpress.org/core/2024/09/24/performance-chat-agenda-24-september-2024/)
-- [WordPress 6.7 Release Party Schedule](https://make.wordpress.org/core/2024/09/24/wordpress-6-7-release-party-schedule/)
 <!-- CORE:END -->
 
 ## Design
