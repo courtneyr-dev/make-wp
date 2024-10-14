@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello! I I added translations…](https://make.wordpress.org/polyglots/2024/10/14/hello-i-i-added-translations/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2024/10/13/hello-i-am-the-theme-2/)
 - [PTE Request for GutenKit, ElementsKit and MetForm](https://make.wordpress.org/polyglots/2024/10/11/pte-request-for-gutenkit-elementskit-and-metform/)
 - [PTE Request for “Read Sample”](https://make.wordpress.org/polyglots/2024/10/11/pte-request-for-read-sample/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for CloudFilt](https://make.wordpress.org/polyglots/2024/10/09/pte-request-for-cloudfilt-2/)
 - [Agenda: Weekly Polyglots Chat – October 9, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/09/agenda-weekly-polyglots-chat-october-9-2024-1300-utc/)
 - [Using GlotPress to Translate Content](https://make.wordpress.org/polyglots/2024/10/09/using-glotpress-to-translate-content/)
-- [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/polyglots/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 <!-- POLYGLOTS:END -->
 
 ## Support
