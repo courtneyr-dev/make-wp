@@ -351,6 +351,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Hosting, optimización y WPO para e-Commerce](https://wordpress.tv/2024/10/14/hosting-optimizacion-y-wpo-para-e-commerce/)
+- [Transformación digital para centros comerciales](https://wordpress.tv/2024/10/14/transformacion-digital-para-centros-comerciales/)
+- [Estrategias de automatización para un e-commerce centrado en el usuario](https://wordpress.tv/2024/10/14/estrategias-de-automatizacion-para-un-e-commerce-centrado-en-el-usuario/)
+- [Evita que tu negocio pierda dinero blindando tu tienda online](https://wordpress.tv/2024/10/14/evita-que-tu-negocio-pierda-dinero-blindando-tu-tienda-online/)
 - [Co automatyzować w SEO?](https://wordpress.tv/2024/10/13/co-automatyzowac-w-seo/)
 - [Czemu i jak monitorować WordPressa](https://wordpress.tv/2024/10/13/czemu-i-jak-monitorowac-wordpressa/)
 - [Sukces w Budżecie i Czasie: Jak dostarczyliśmy rozbudowany serwis w FSE, przy minimalnych informacjach](https://wordpress.tv/2024/10/13/sukces-w-budzecie-i-czasie-jak-dostarczylismy-rozbudowany-serwis-w-fse-przy-minimalnych-informacjach/)
@@ -372,10 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Clamp&lpar;&rpar;: Czyli jak uprościć CSS i zyskać więcej czasu](https://wordpress.tv/2024/10/13/clamp-czyli-jak-uproscic-css-i-zyskac-wiecej-czasu/)
 - [Oficjalne zakończenie i podziękowania](https://wordpress.tv/2024/10/13/oficjalne-zakonczenie-i-podziekowania/)
 - [Skuteczne indeksowanie stron internetowych w Google](https://wordpress.tv/2024/10/13/skuteczne-indeksowanie-stron-internetowych-w-google/)
-- [Pułapki we wtyczkach zaszyte](https://wordpress.tv/2024/10/13/pulapki-we-wtyczkach-zaszyte/)
-- [Accessibility: Nie tylko automaty i wtyczki. Dlaczego warto inwestować w dostępność stron i jak uniknąć pułapek prawnych](https://wordpress.tv/2024/10/13/accessibility-nie-tylko-automaty-i-wtyczki-dlaczego-warto-inwestowac-w-dostepnosc-stron-i-jak-uniknac-pulapek-prawnych/)
-- [Podstawy wzorca MVC i jego wykorzystanie w projektach WordPress](https://wordpress.tv/2024/10/13/podstawy-wzorca-mvc-i-jego-wykorzystanie-w-projektach-wordpress/)
-- [Panel dyskusyjny Community Polska – Jak wspierać](https://wordpress.tv/2024/10/13/panel-dyskusyjny-community-polska-jak-wspierac/)
 <!-- WPTV:END -->
 
 ## Marketing
