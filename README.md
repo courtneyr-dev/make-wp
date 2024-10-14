@@ -534,6 +534,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [Beyond the Savannah: Join Us at WordCamp Nairobi 2024](https://central.wordcamp.org/news/2024/10/beyond-the-savannah-join-us-at-wordcamp-nairobi-2024/)
 - [Quarterly WordPress Event Sponsorship Report, 2016-2024 Q3](https://central.wordcamp.org/news/2024/09/quarterly-wordpress-event-sponsorship-report-2016-2024-q3/)
 - [WordCamp Jinja 2024: Diverse Speaker Sessions, Creatives and Students Camp, Workshops, Free Web Design Hackathon, fun activities and more!](https://central.wordcamp.org/news/2024/09/wordcamp-jinja-2024-diverse-speaker-sessions-creatives-and-students-camp-workshops-free-web-design-hackathon-fun-activities-and-more/)
 - [Bridging Africa’s Digital Gaps: The PayDel Summit 2024 &lpar;A WordPress Event&rpar;](https://central.wordcamp.org/news/2024/08/bridging-africas-digital-gaps-the-paydel-summit-2024-a-wordpress-event/)
@@ -548,7 +549,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [2023 Annual Meetup Survey](https://central.wordcamp.org/news/2023/12/2023-annual-meetup-survey/)
 - [WordCamp Lahore 2023 is looking for Speakers and Sponsors](https://central.wordcamp.org/news/2023/10/wordcamp-lahore-2023-is-looking-for-speakers-and-sponsors/)
 - [WordCamp Malaysia 2023 is Looking for Speakers and Sponsors](https://central.wordcamp.org/news/2023/07/wordcamp-malaysia-2023-is-looking-for-speakers-and-sponsors/)
-- [WordCamp Masaka 2023: Celebrating Inclusion, Diversity, and Innovation with WordPress in Uganda’s Pearl of Africa!](https://central.wordcamp.org/news/2023/07/wordcamp-masaka-2023-celebrating-inclusion-diversity-and-innovation-with-wordpress-in-ugandas-pearl-of-africa/)
 <!-- Central:END -->
 
 ### WordCamp
