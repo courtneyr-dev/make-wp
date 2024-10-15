@@ -295,6 +295,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Creating Your Own Contact Form Plugin – part 2](https://learn.wordpress.org/?meeting=264152)
 - [Introduction to the WordPress Training Team](https://learn.wordpress.org/?meeting=introduction-to-the-wordpress-training-team)
 - [Contributor Mentorship: Introduction to the WordPress Project &lpar;EMEA/AMER&rpar;](https://learn.wordpress.org/?meeting=contributor-mentorship-introduction-to-the-wordpress-project-emea-amer)
 - [Contributor Mentorship: Introduction to the WordPress Project &lpar;APAC/EMEA&rpar;](https://learn.wordpress.org/?meeting=contributor-mentorship-introduction-to-the-wordpress-project-apac-emea)
@@ -319,7 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition-2)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition)
 - [What’s new in WordPress 6.6?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-6)
-- [Developer Hours: Do you really need a custom block? Let’s explore alternatives](https://learn.wordpress.org/?meeting=developer-hours-do-you-really-need-a-custom-block-lets-explore-alternatives)
 <!-- SLS:END -->
 
 ## Test
