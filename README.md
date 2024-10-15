@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Corvita Theme](https://make.wordpress.org/polyglots/2024/10/15/pte-request-for-corvita-theme-2/)
 - [Hello! I I added translations…](https://make.wordpress.org/polyglots/2024/10/14/hello-i-i-added-translations/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2024/10/13/hello-i-am-the-theme-2/)
 - [PTE Request for GutenKit, ElementsKit and MetForm](https://make.wordpress.org/polyglots/2024/10/11/pte-request-for-gutenkit-elementskit-and-metform/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Translation Review.](https://make.wordpress.org/polyglots/2024/10/10/translation-review-3/)
 - [PTE Request for CloudFilt](https://make.wordpress.org/polyglots/2024/10/09/pte-request-for-cloudfilt-2/)
 - [Agenda: Weekly Polyglots Chat – October 9, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/09/agenda-weekly-polyglots-chat-october-9-2024-1300-utc/)
-- [Using GlotPress to Translate Content](https://make.wordpress.org/polyglots/2024/10/09/using-glotpress-to-translate-content/)
 <!-- POLYGLOTS:END -->
 
 ## Support
