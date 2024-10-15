@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 15 October 2024](https://make.wordpress.org/core/2024/10/15/performance-chat-agenda-15-october-2024/)
 - [Subscribe to changes in the Interactivity API state and context on client-side navigation in 6.7](https://make.wordpress.org/core/2024/10/15/subscribe-to-changes-in-the-interactivity-api-state-and-context-on-client-side-navigation-in-6-7/)
 - [Updates to Script Modules in 6.7](https://make.wordpress.org/core/2024/10/14/updates-to-script-modules-in-6-7/)
 - [Fields API team seeking new leadership](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCUS 2024 Core Committers Meeting Notes](https://make.wordpress.org/core/2024/09/27/wcus-2024-core-committers-meeting-notes/)
 - [Summary, Dev Chat, September 25, 2024](https://make.wordpress.org/core/2024/09/25/summary-dev-chat-september-24-2024/)
 - [Performance Chat Summary: 24 September 2024](https://make.wordpress.org/core/2024/09/25/performance-chat-summary-24-september-2024/)
-- [What’s new in Gutenberg 19.3? &lpar;25 September&rpar;](https://make.wordpress.org/core/2024/09/25/whats-new-in-gutenberg-19-3-25-september/)
 <!-- CORE:END -->
 
 ## Design
