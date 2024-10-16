@@ -10,6 +10,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Updates to Script Modules in 6.7](https://make.wordpress.org/core/2024/10/14/updates-to-script-modules-in-6-7/)
 - [Fields API team seeking new leadership](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/)
 - [Proposal: Make unit test tickets easier to distinguish](https://make.wordpress.org/core/2024/10/11/proposal-make-unit-test-tickets-easier-to-distinguish/)
+- [Dev Blog editorial meeting summary, October 3, 2024](https://make.wordpress.org/core/2024/10/10/dev-blog-editorial-meeting-summary-october_3-2024/)
 - [Hallway Hangout: What’s next for DataViews and DataForm components &lpar;Oct 23, 2024&rpar;](https://make.wordpress.org/core/2024/10/10/hallway-hangout-whats-next-for-dataviews-and-dataform-components-oct-23-2024/)
 - [Summary, Dev Chat, October 9, 2024](https://make.wordpress.org/core/2024/10/09/summary-dev-chat-october-9-2024/)
 - [What’s new in Gutenberg 19.4? &lpar;9 Oct&rpar;](https://make.wordpress.org/core/2024/10/09/whats-new-in-gutenberg-15-9-31-may-2/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 1 October 2024](https://make.wordpress.org/core/2024/10/01/performance-chat-summary-01-october-2024/)
 - [Performance Chat Agenda: 1 October 2024](https://make.wordpress.org/core/2024/10/01/performance-chat-agenda-01-october-2024/)
 - [Agenda, Dev Chat, Oct 2, 2024](https://make.wordpress.org/core/2024/10/01/agenda-dev-chat-october-2-2024/)
-- [WCUS 2024 Core Committers Meeting Notes](https://make.wordpress.org/core/2024/09/27/wcus-2024-core-committers-meeting-notes/)
 <!-- CORE:END -->
 
 ## Design
