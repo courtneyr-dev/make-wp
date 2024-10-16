@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – October 16, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/16/agenda-weekly-polyglots-chat-october-16-2024-0700-utc/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/10/15/hi-119/)
 - [PTE Request for Bit Form](https://make.wordpress.org/polyglots/2024/10/15/pte-request-for-bit-form-2/)
 - [PTE Request for Corvita Theme](https://make.wordpress.org/polyglots/2024/10/15/pte-request-for-corvita-theme-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for “Read Sample”](https://make.wordpress.org/polyglots/2024/10/11/pte-request-for-read-sample/)
 - [PTE Request for Corvita Theme](https://make.wordpress.org/polyglots/2024/10/11/pte-request-for-corvita-theme/)
 - [X-post: Help Test WordPress 6.7](https://make.wordpress.org/polyglots/2024/10/11/xpost-help-test-wordpress-6-7/)
-- [Translation Review.](https://make.wordpress.org/polyglots/2024/10/10/translation-review-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
