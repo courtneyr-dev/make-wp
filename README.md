@@ -492,6 +492,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [CORS headers for ps.w.org &amp; ts.w.org](https://make.wordpress.org/systems/2024/10/15/cors-headers-for-ps-w-org-ts-w-org/)
 - [429’s on WordCamp sites](https://make.wordpress.org/systems/2024/10/04/429s-on-wordcamp-sites/)
 - [Add minimum commit message length for core.](https://make.wordpress.org/systems/2024/09/25/add-minimum-commit-message-length-for-core/)
 - [MC Release Access for Peter Wilson](https://make.wordpress.org/systems/2024/08/16/mc-release-access-for-peter-wilson/)
@@ -501,7 +502,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Increase query params length for trac](https://make.wordpress.org/systems/2024/05/31/increase-query-params-length-for-trac/)
 - [Enable CORS for core translation downloads](https://make.wordpress.org/systems/2024/04/10/enable-cors-for-core-translation-downloads/)
 - [Enable DKIM for WordCamp GSuite?](https://make.wordpress.org/systems/2024/03/25/enable-dkim-for-wordcamp-gsuite/)
-- [Enable DKIM for 3rd-party WordCamp emails](https://make.wordpress.org/systems/2024/03/25/enable-dkim-for-3rd-party-wordcamp-emails/)
 <!-- SYSTEMS:END -->
 
 ## News
