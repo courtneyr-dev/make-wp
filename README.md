@@ -520,6 +520,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-20/)
+- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-101/)
 - [Senior Full Stack WordPress Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-4/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-39/)
@@ -528,8 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Expert](https://jobs.wordpress.net/job/wordpress-expert-37/)
 - [Senior PHP\WordPress developer](https://jobs.wordpress.net/job/senior-phpwordpress-developer/)
 - [Senior Full Stack Developer](https://jobs.wordpress.net/job/senior-full-stack-developer-8/)
-- [Affiliate Marketing – Lead](https://jobs.wordpress.net/job/affiliate-marketing-lead/)
-- [Affiliate Program – Lead Strategist](https://jobs.wordpress.net/job/affiliate-program-lead-strategist/)
 <!-- JOBS:END -->
 
 ## Central
