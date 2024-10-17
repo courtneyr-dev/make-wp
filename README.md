@@ -351,9 +351,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo convencer a toda una comunidad que ser una comunidad inclusiva nos hace mejores](https://wordpress.tv/2024/10/17/como-convencer-a-toda-una-comunidad-que-ser-una-comunidad-inclusiva-nos-hace-mejores/)
+- [Cómo ser profesionales saludables en la era del teletrabajo](https://wordpress.tv/2024/10/17/como-ser-profesionales-saludables-en-la-era-del-teletrabajo/)
+- [La comunidad WordPress: un espacio seguro](https://wordpress.tv/2024/10/17/la-comunidad-wordpress-un-espacio-seguro/)
+- [Lidia Marbán: #WordPressParaTodas…las personas](https://wordpress.tv/2024/10/17/lidia-marban-wordpressparatodaslas-personas/)
 - [Comunidad diversa, software diverso](https://wordpress.tv/2024/10/17/comunidad-diversa-software-diverso/)
 - [Campañas que rompen barreras](https://wordpress.tv/2024/10/17/campanas-que-rompen-barreras/)
-- [¿Y si empezáramos desde la «equidad» y la «pertenencia» para tener una comunidad más diversa y abier](https://wordpress.tv/2024/10/17/y-si-empezaramos-desde-la-equidad-y-la-pertenencia-para-tener-una-comunidad-mas-diversa-y-abier/)
+- [¿Y si empezáramos desde la «equidad» y la «pertenencia» para tener una comunidad más diversa y abierta?](https://wordpress.tv/2024/10/17/y-si-empezaramos-desde-la-equidad-y-la-pertenencia-para-tener-una-comunidad-mas-diversa-y-abier/)
 - [Bienvenida](https://wordpress.tv/2024/10/17/bienvenida-2/)
 - [Introduction to the WordPress Training Team](https://wordpress.tv/2024/10/17/introduction-to-the-wordpress-training-team/)
 - [Einführung in WordPress](https://wordpress.tv/2024/10/14/einfuhrung-in-wordpress/)
@@ -372,10 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Site Editing w podejściu Headlessowym. Case Study](https://wordpress.tv/2024/10/13/full-site-editing-w-podejsciu-headlessowym-case-study-2/)
 - [Opening remarks](https://wordpress.tv/2024/10/13/opening-remarks-4/)
 - [WordPress Bootcamp for Educators: Turn Your Knowledge into Engaging Courses](https://wordpress.tv/2024/10/13/wordpress-bootcamp-for-educators-turn-your-knowledge-into-engaging-courses/)
-- [Enhancing WordPress Accessibility: Tools, Techniques, and Real-World Solutions](https://wordpress.tv/2024/10/13/enhancing-wordpress-accessibility-tools-techniques-and-real-world-solutions/)
-- [Kreatywność bez granic – co można zbudować z bloków w WordPressie](https://wordpress.tv/2024/10/13/kreatywnosc-bez-granic-co-mozna-zbudowac-z-blokow-w-wordpressie/)
-- [From Bottlenecks to Breakthroughs: How the New York Post Mastered Scalability](https://wordpress.tv/2024/10/13/from-bottlenecks-to-breakthroughs-how-the-new-york-post-mastered-scalability/)
-- [Jak się zabezpieczać? Czyli o security w WordPressie](https://wordpress.tv/2024/10/13/jak-sie-zabezpieczac-czyli-o-security-w-wordpressie/)
 <!-- WPTV:END -->
 
 ## Marketing
