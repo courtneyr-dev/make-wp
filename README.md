@@ -351,6 +351,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Comunidad diversa, software diverso](https://wordpress.tv/2024/10/17/comunidad-diversa-software-diverso/)
+- [Campañas que rompen barreras](https://wordpress.tv/2024/10/17/campanas-que-rompen-barreras/)
+- [¿Y si empezáramos desde la «equidad» y la «pertenencia» para tener una comunidad más diversa y abier](https://wordpress.tv/2024/10/17/y-si-empezaramos-desde-la-equidad-y-la-pertenencia-para-tener-una-comunidad-mas-diversa-y-abier/)
+- [Bienvenida](https://wordpress.tv/2024/10/17/bienvenida-2/)
 - [Introduction to the WordPress Training Team](https://wordpress.tv/2024/10/17/introduction-to-the-wordpress-training-team/)
 - [Einführung in WordPress](https://wordpress.tv/2024/10/14/einfuhrung-in-wordpress/)
 - [Hosting, optimización y WPO para e-Commerce](https://wordpress.tv/2024/10/14/hosting-optimizacion-y-wpo-para-e-commerce/)
@@ -372,10 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Kreatywność bez granic – co można zbudować z bloków w WordPressie](https://wordpress.tv/2024/10/13/kreatywnosc-bez-granic-co-mozna-zbudowac-z-blokow-w-wordpressie/)
 - [From Bottlenecks to Breakthroughs: How the New York Post Mastered Scalability](https://wordpress.tv/2024/10/13/from-bottlenecks-to-breakthroughs-how-the-new-york-post-mastered-scalability/)
 - [Jak się zabezpieczać? Czyli o security w WordPressie](https://wordpress.tv/2024/10/13/jak-sie-zabezpieczac-czyli-o-security-w-wordpressie/)
-- [Wyróżnij się dzięki zarządzaniu projektami](https://wordpress.tv/2024/10/13/wyroznij-sie-dzieki-zarzadzaniu-projektami/)
-- [Czary to prawdziwe czy tylko puste zaklęcia?](https://wordpress.tv/2024/10/13/czary-to-prawdziwe-czy-tylko-puste-zaklecia/)
-- [Piramida zaufania użytkownika, czyli jak UX przyczynił się do tego, że zdobyliśmy 50 milionów. A następnie wszystko straciliśmy](https://wordpress.tv/2024/10/13/piramida-zaufania-uzytkownika-czyli-jak-ux-przyczynil-sie-do-tego-ze-zdobylismy-50-milionow-a-nastepnie-wszystko-stracilismy/)
-- [Clamp&lpar;&rpar;: Czyli jak uprościć CSS i zyskać więcej czasu](https://wordpress.tv/2024/10/13/clamp-czyli-jak-uproscic-css-i-zyskac-wiecej-czasu/)
 <!-- WPTV:END -->
 
 ## Marketing
