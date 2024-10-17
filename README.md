@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Updates to the HTML API in 6.7](https://make.wordpress.org/core/2024/10/17/updates-to-the-html-api-in-6-7/)
 - [Agenda, Dev Chat, Oct 16, 2024](https://make.wordpress.org/core/2024/10/15/agenda-dev-chat-october-16-2024/)
 - [Performance Chat Summary: 15 October 2024](https://make.wordpress.org/core/2024/10/15/performance-chat-summary-15-october-2024/)
 - [Performance Chat Agenda: 15 October 2024](https://make.wordpress.org/core/2024/10/15/performance-chat-agenda-15-october-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, October 2, 2024](https://make.wordpress.org/core/2024/10/03/summary-dev-chat-october-2-2024/)
 - [Performance Chat Summary: 1 October 2024](https://make.wordpress.org/core/2024/10/01/performance-chat-summary-01-october-2024/)
 - [Performance Chat Agenda: 1 October 2024](https://make.wordpress.org/core/2024/10/01/performance-chat-agenda-01-october-2024/)
-- [Agenda, Dev Chat, Oct 2, 2024](https://make.wordpress.org/core/2024/10/01/agenda-dev-chat-october-2-2024/)
 <!-- CORE:END -->
 
 ## Design
