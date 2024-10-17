@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day October 22, 2024](https://make.wordpress.org/docs/2024/10/17/online-monthly-docs-team-contributor-day-october-22-2024/)
 - [X-post: Help Test WordPress 6.7](https://make.wordpress.org/docs/2024/10/11/xpost-help-test-wordpress-6-7/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/docs/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Summary for Docs Team Meeting &lpar;01-Oct-2024&rpar;](https://make.wordpress.org/docs/2024/10/05/summary-for-docs-team-meeting-01-oct-2024/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Docs Team Meeting &lpar;20-Aug-2024&rpar;](https://make.wordpress.org/docs/2024/09/03/summary-for-docs-team-meeting-20-aug-2024/)
 - [Online monthly Docs Team Contributor Day August 27, 2024](https://make.wordpress.org/docs/2024/08/27/online-monthly-docs-team-contributor-day-august-27-2024/)
 - [Agenda for Docs Team Biweekly Meeting &lpar;August 20, 2024&rpar;](https://make.wordpress.org/docs/2024/08/20/agenda-for-docs-team-biweekly-meeting-august-20-2024/)
-- [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/docs/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 <!-- DOCS:END -->
 
 ### Support Articles
