@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introduction to the WordPress Training Team](https://wordpress.tv/2024/10/17/introduction-to-the-wordpress-training-team/)
 - [Einführung in WordPress](https://wordpress.tv/2024/10/14/einfuhrung-in-wordpress/)
 - [Hosting, optimización y WPO para e-Commerce](https://wordpress.tv/2024/10/14/hosting-optimizacion-y-wpo-para-e-commerce/)
 - [Transformación digital para centros comerciales](https://wordpress.tv/2024/10/14/transformacion-digital-para-centros-comerciales/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Czary to prawdziwe czy tylko puste zaklęcia?](https://wordpress.tv/2024/10/13/czary-to-prawdziwe-czy-tylko-puste-zaklecia/)
 - [Piramida zaufania użytkownika, czyli jak UX przyczynił się do tego, że zdobyliśmy 50 milionów. A następnie wszystko straciliśmy](https://wordpress.tv/2024/10/13/piramida-zaufania-uzytkownika-czyli-jak-ux-przyczynil-sie-do-tego-ze-zdobylismy-50-milionow-a-nastepnie-wszystko-stracilismy/)
 - [Clamp&lpar;&rpar;: Czyli jak uprościć CSS i zyskać więcej czasu](https://wordpress.tv/2024/10/13/clamp-czyli-jak-uproscic-css-i-zyskac-wiecej-czasu/)
-- [Oficjalne zakończenie i podziękowania](https://wordpress.tv/2024/10/13/oficjalne-zakonczenie-i-podziekowania/)
 <!-- WPTV:END -->
 
 ## Marketing
