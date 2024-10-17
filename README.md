@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Fixing Plugin Check issues](https://wordpress.tv/2024/10/17/fixing-plugin-check-issues/)
 - [Cómo convencer a toda una comunidad que ser una comunidad inclusiva nos hace mejores](https://wordpress.tv/2024/10/17/como-convencer-a-toda-una-comunidad-que-ser-una-comunidad-inclusiva-nos-hace-mejores/)
 - [Cómo ser profesionales saludables en la era del teletrabajo](https://wordpress.tv/2024/10/17/como-ser-profesionales-saludables-en-la-era-del-teletrabajo/)
 - [La comunidad WordPress: un espacio seguro](https://wordpress.tv/2024/10/17/la-comunidad-wordpress-un-espacio-seguro/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Google Tag Manager spowalnia stronę? Nie musi!](https://wordpress.tv/2024/10/13/google-tag-manager-spowalnia-strone-nie-musi/)
 - [Full Site Editing w podejściu Headlessowym. Case Study](https://wordpress.tv/2024/10/13/full-site-editing-w-podejsciu-headlessowym-case-study-2/)
 - [Opening remarks](https://wordpress.tv/2024/10/13/opening-remarks-4/)
-- [WordPress Bootcamp for Educators: Turn Your Knowledge into Engaging Courses](https://wordpress.tv/2024/10/13/wordpress-bootcamp-for-educators-turn-your-knowledge-into-engaging-courses/)
 <!-- WPTV:END -->
 
 ## Marketing
