@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [New block type registration APIs to improve performance in WordPress 6.7](https://make.wordpress.org/core/2024/10/17/new-block-type-registration-apis-to-improve-performance-in-wordpress-6-7/)
 - [Summary, Dev Chat, October 16, 2024](https://make.wordpress.org/core/2024/10/17/summary-dev-chat-october-16-2024/)
 - [Roster of design tools per block &lpar;WordPress 6.7 edition&rpar;](https://make.wordpress.org/core/2024/10/17/roster-of-design-tools-per-block-wordpress-6-6-edition-2/)
 - [Updates to the HTML API in 6.7](https://make.wordpress.org/core/2024/10/17/updates-to-the-html-api-in-6-7/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda, Dev Chat, Oct 9, 2024](https://make.wordpress.org/core/2024/10/08/agenda-dev-chat-october-9-2024/)
 - [Performance Chat Agenda: 8 October 2024](https://make.wordpress.org/core/2024/10/08/performance-chat-agenda-08-october-2024/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/core/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
-- [Summary, Dev Chat, October 2, 2024](https://make.wordpress.org/core/2024/10/03/summary-dev-chat-october-2-2024/)
 <!-- CORE:END -->
 
 ## Design
