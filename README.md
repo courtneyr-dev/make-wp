@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Auto Sizes for Lazy Loaded Images in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/auto-sizes-for-lazy-loaded-images-in-wordpress-6-7/)
+- [Post Editor iframing with meta boxes in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/post-editor-iframing-with-meta-boxes-in-wordpress-6-7/)
 - [Extending the Preview Dropdown Menu in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/extending-the-preview-dropdown-menu-in-wordpress-6-7/)
 - [Updates to user-interface components in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/editor-components-updates-in-wordpress-6-7/)
 - [New block type registration APIs to improve performance in WordPress 6.7](https://make.wordpress.org/core/2024/10/17/new-block-type-registration-apis-to-improve-performance-in-wordpress-6-7/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, October 9, 2024](https://make.wordpress.org/core/2024/10/09/summary-dev-chat-october-9-2024/)
 - [What’s new in Gutenberg 19.4? &lpar;9 Oct&rpar;](https://make.wordpress.org/core/2024/10/09/whats-new-in-gutenberg-15-9-31-may-2/)
 - [Core Editor Improvement: New features and flows for Font Management](https://make.wordpress.org/core/2024/10/08/core-editor-improvement-new-features-and-flows-for-font-management/)
-- [Performance Chat Summary: 8 October 2024](https://make.wordpress.org/core/2024/10/08/performance-chat-summary-08-october-2024/)
-- [Agenda, Dev Chat, Oct 9, 2024](https://make.wordpress.org/core/2024/10/08/agenda-dev-chat-october-9-2024/)
 <!-- CORE:END -->
 
 ## Design
