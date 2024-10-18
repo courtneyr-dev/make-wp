@@ -506,7 +506,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WP Engine Promotions](https://wordpress.org/news/2024/10/wp-engine-promotions/)
+- [WP Engine Promotions &amp; Coupons](https://wordpress.org/news/2024/10/wp-engine-promotions/)
 - [WordPress 6.7 Beta 3](https://wordpress.org/news/2024/10/wordpress-6-7-beta-3/)
 - [Secure Custom Fields](https://wordpress.org/news/2024/10/secure-custom-fields/)
 - [Forking is Beautiful](https://wordpress.org/news/2024/10/spoon/)
