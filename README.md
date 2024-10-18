@@ -506,6 +506,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress Thanks Salesforce](https://wordpress.org/news/2024/10/thank-you-salesforce/)
 - [WP Engine Promotions &amp; Coupons](https://wordpress.org/news/2024/10/wp-engine-promotions/)
 - [WordPress 6.7 Beta 3](https://wordpress.org/news/2024/10/wordpress-6-7-beta-3/)
 - [Secure Custom Fields](https://wordpress.org/news/2024/10/secure-custom-fields/)
@@ -515,7 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WPGraphQL is Canonical](https://wordpress.org/news/2024/10/wpgraphql/)
 - [WordPress 6.7 Beta 1](https://wordpress.org/news/2024/10/wordpress-6-7-beta-1/)
 - [WP Engine Reprieve](https://wordpress.org/news/2024/09/wp-engine-reprieve/)
-- [WP Engine is banned from WordPress.org](https://wordpress.org/news/2024/09/wp-engine-banned/)
 <!-- NEWS:END -->
 
 ## Jobs
