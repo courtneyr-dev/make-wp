@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Designing with a block-first mindset](https://wordpress.tv/2024/10/17/designing-with-a-block-first-mindset/)
+- [WordPress showcase for designers](https://wordpress.tv/2024/10/17/wordpress-showcase-for-designers/)
 - [Fixing Plugin Check issues](https://wordpress.tv/2024/10/17/fixing-plugin-check-issues/)
 - [Cómo convencer a toda una comunidad que ser una comunidad inclusiva nos hace mejores](https://wordpress.tv/2024/10/17/como-convencer-a-toda-una-comunidad-que-ser-una-comunidad-inclusiva-nos-hace-mejores/)
 - [Cómo ser profesionales saludables en la era del teletrabajo](https://wordpress.tv/2024/10/17/como-ser-profesionales-saludables-en-la-era-del-teletrabajo/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [7 Warstw Zabezpieczeń – Jeden Model OSI, Który Rządzi Nimi Wszystkimi](https://wordpress.tv/2024/10/13/7-warstw-zabezpieczen-jeden-model-osi-ktory-rzadzi-nimi-wszystkimi/)
 - [WordPress Playground – Przełom w WordPressie](https://wordpress.tv/2024/10/13/wordpress-playground-przelom-w-wordpressie/)
 - [Google Tag Manager spowalnia stronę? Nie musi!](https://wordpress.tv/2024/10/13/google-tag-manager-spowalnia-strone-nie-musi/)
-- [Full Site Editing w podejściu Headlessowym. Case Study](https://wordpress.tv/2024/10/13/full-site-editing-w-podejsciu-headlessowym-case-study-2/)
-- [Opening remarks](https://wordpress.tv/2024/10/13/opening-remarks-4/)
 <!-- WPTV:END -->
 
 ## Marketing
