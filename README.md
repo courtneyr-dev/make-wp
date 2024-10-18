@@ -572,8 +572,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## WordPress Foundation
 <!-- WPFoundation:START -->
-- [2024 WordPress Foundation Meeting Minutes](https://wordpressfoundation.org/news/2024/2024-wordpress-foundation-meeting-minutes/)
-- [WordPress Foundation Donates $100,000 to Internet Archive](https://wordpressfoundation.org/news/2024/wordpress-foundation-donates-100000-to-internet-archive/)
+- [2024 WordPress Foundation Meeting Minutes](https://wordpressfoundation.org/news/2024/meeting-minutes/)
+- [WordPress Foundation Donates $100,000 to Internet Archive](https://wordpressfoundation.org/news/2024/wordpress-foundation-donation/)
 - [Announcing the 2024 Kim Parsell Memorial Scholarship Recipient: Cynthia Norman](https://wordpressfoundation.org/news/2024/announcing-the-2024-kim-parsell-memorial-scholarship-recipient-cynthia-norman/)
 - [Apply for the Kim Parsell Memorial Scholarship for WordCamp US 2024](https://wordpressfoundation.org/news/2024/kim-parsell-2024/)
 - [The WordPress Foundation 2023 Annual Report is Now Available](https://wordpressfoundation.org/news/2024/the-wordpress-foundation-2023-annual-report-is-now-available/)
