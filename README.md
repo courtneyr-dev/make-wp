@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Extending the Preview Dropdown Menu in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/extending-the-preview-dropdown-menu-in-wordpress-6-7/)
+- [Updates to user-interface components in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/editor-components-updates-in-wordpress-6-7/)
 - [New block type registration APIs to improve performance in WordPress 6.7](https://make.wordpress.org/core/2024/10/17/new-block-type-registration-apis-to-improve-performance-in-wordpress-6-7/)
 - [Summary, Dev Chat, October 16, 2024](https://make.wordpress.org/core/2024/10/17/summary-dev-chat-october-16-2024/)
 - [Roster of design tools per block &lpar;WordPress 6.7 edition&rpar;](https://make.wordpress.org/core/2024/10/17/roster-of-design-tools-per-block-wordpress-6-6-edition-2/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Editor Improvement: New features and flows for Font Management](https://make.wordpress.org/core/2024/10/08/core-editor-improvement-new-features-and-flows-for-font-management/)
 - [Performance Chat Summary: 8 October 2024](https://make.wordpress.org/core/2024/10/08/performance-chat-summary-08-october-2024/)
 - [Agenda, Dev Chat, Oct 9, 2024](https://make.wordpress.org/core/2024/10/08/agenda-dev-chat-october-9-2024/)
-- [Performance Chat Agenda: 8 October 2024](https://make.wordpress.org/core/2024/10/08/performance-chat-agenda-08-october-2024/)
-- [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/core/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 <!-- CORE:END -->
 
 ## Design
