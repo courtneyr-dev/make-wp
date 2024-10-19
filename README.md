@@ -506,6 +506,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [Expanding Our Code of Conduct to Protect Private Conversations](https://wordpress.org/news/2024/10/protect-private-conversations/)
 - [WordPress Thanks Salesforce](https://wordpress.org/news/2024/10/thank-you-salesforce/)
 - [WP Engine Promotions &amp; Coupons](https://wordpress.org/news/2024/10/wp-engine-promotions/)
 - [WordPress 6.7 Beta 3](https://wordpress.org/news/2024/10/wordpress-6-7-beta-3/)
@@ -515,7 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.7 Beta 2](https://wordpress.org/news/2024/10/wordpress-6-7-beta-2/)
 - [WPGraphQL is Canonical](https://wordpress.org/news/2024/10/wpgraphql/)
 - [WordPress 6.7 Beta 1](https://wordpress.org/news/2024/10/wordpress-6-7-beta-1/)
-- [WP Engine Reprieve](https://wordpress.org/news/2024/09/wp-engine-reprieve/)
 <!-- NEWS:END -->
 
 ## Jobs
