@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Legalidad de 0 a 100 en WordPress](https://wordpress.tv/2024/10/20/legalidad-de-0-a-100-en-wordpress/)
 - [Designing with a block-first mindset](https://wordpress.tv/2024/10/17/designing-with-a-block-first-mindset/)
 - [WordPress showcase for designers](https://wordpress.tv/2024/10/17/wordpress-showcase-for-designers/)
 - [Fixing Plugin Check issues](https://wordpress.tv/2024/10/17/fixing-plugin-check-issues/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WooCommerce: Subskrypcje Krok po Kroku](https://wordpress.tv/2024/10/13/woocommerce-subskrypcje-krok-po-kroku/)
 - [7 Warstw Zabezpieczeń – Jeden Model OSI, Który Rządzi Nimi Wszystkimi](https://wordpress.tv/2024/10/13/7-warstw-zabezpieczen-jeden-model-osi-ktory-rzadzi-nimi-wszystkimi/)
 - [WordPress Playground – Przełom w WordPressie](https://wordpress.tv/2024/10/13/wordpress-playground-przelom-w-wordpressie/)
-- [Google Tag Manager spowalnia stronę? Nie musi!](https://wordpress.tv/2024/10/13/google-tag-manager-spowalnia-strone-nie-musi/)
 <!-- WPTV:END -->
 
 ## Marketing
