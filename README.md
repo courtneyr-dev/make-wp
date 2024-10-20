@@ -351,6 +351,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Presentación del evento](https://wordpress.tv/2024/10/20/presentacion-del-evento-2/)
+- [Consejos sobre teletrabajo en menos de un minuto](https://wordpress.tv/2024/10/20/consejos-sobre-teletrabajo-en-menos-de-un-minuto/)
+- [Calidad Laboral en el trabajo remoto](https://wordpress.tv/2024/10/20/calidad-laboral-en-el-trabajo-remoto/)
+- [WordPress y Aventuras Remotas: ¡Yo hago el café, tú haces la magia!](https://wordpress.tv/2024/10/20/wordpress-y-aventuras-remotas-yo-hago-el-cafe-tu-haces-la-magia/)
+- [Consejos de un despistáo y una organizá en su día a día](https://wordpress.tv/2024/10/20/consejos-de-un-despistao-y-una-organiza-en-su-dia-a-dia/)
+- [Mi Mochila y Mis Metas: La Vida de un Nómada Digital](https://wordpress.tv/2024/10/20/mi-mochila-y-mis-metas-la-vida-de-un-nomada-digital/)
+- [Trabajar en remoto me permite cocinar a diario para mi familia](https://wordpress.tv/2024/10/20/trabajar-en-remoto-me-permite-cocinar-a-diario-para-mi-familia/)
+- [Balance entre Tinta y Bloques: Equilibrando la Vida Profesional y Personal desde un Pequeño Apartame](https://wordpress.tv/2024/10/20/balance-entre-tinta-y-bloques-equilibrando-la-vida-profesional-y-personal-desde-un-pequeno-apartame/)
+- [Seis errores en la comunicación remota que no recomiendo &lpar;y uno que sí&rpar;](https://wordpress.tv/2024/10/20/seis-errores-en-la-comunicacion-remota-que-no-recomiendo-y-uno-que-si/)
+- [Eficiencia y colaboración: buenas prácticas para reuniones remotas exitosas](https://wordpress.tv/2024/10/20/eficiencia-y-colaboracion-buenas-practicas-para-reuniones-remotas-exitosas/)
+- [Desata el poder de WordPress: creando un entorno de trabajo remoto personalizado](https://wordpress.tv/2024/10/20/desata-el-poder-de-wordpress-creando-un-entorno-de-trabajo-remoto-personalizado/)
 - [Legalidad de 0 a 100 en WordPress](https://wordpress.tv/2024/10/20/legalidad-de-0-a-100-en-wordpress/)
 - [Designing with a block-first mindset](https://wordpress.tv/2024/10/17/designing-with-a-block-first-mindset/)
 - [WordPress showcase for designers](https://wordpress.tv/2024/10/17/wordpress-showcase-for-designers/)
@@ -365,17 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bienvenida](https://wordpress.tv/2024/10/17/bienvenida-2/)
 - [Introduction to the WordPress Training Team](https://wordpress.tv/2024/10/17/introduction-to-the-wordpress-training-team/)
 - [Einführung in WordPress](https://wordpress.tv/2024/10/14/einfuhrung-in-wordpress/)
-- [Hosting, optimización y WPO para e-Commerce](https://wordpress.tv/2024/10/14/hosting-optimizacion-y-wpo-para-e-commerce/)
-- [Transformación digital para centros comerciales](https://wordpress.tv/2024/10/14/transformacion-digital-para-centros-comerciales/)
-- [Estrategias de automatización para un e-commerce centrado en el usuario](https://wordpress.tv/2024/10/14/estrategias-de-automatizacion-para-un-e-commerce-centrado-en-el-usuario/)
-- [Evita que tu negocio pierda dinero blindando tu tienda online](https://wordpress.tv/2024/10/14/evita-que-tu-negocio-pierda-dinero-blindando-tu-tienda-online/)
-- [Co automatyzować w SEO?](https://wordpress.tv/2024/10/13/co-automatyzowac-w-seo/)
-- [Czemu i jak monitorować WordPressa](https://wordpress.tv/2024/10/13/czemu-i-jak-monitorowac-wordpressa/)
-- [Sukces w Budżecie i Czasie: Jak dostarczyliśmy rozbudowany serwis w FSE, przy minimalnych informacjach](https://wordpress.tv/2024/10/13/sukces-w-budzecie-i-czasie-jak-dostarczylismy-rozbudowany-serwis-w-fse-przy-minimalnych-informacjach/)
-- [Współpraca SEO x DEV – jak sprawić, aby „u mnie działa” zadziałało po obu stronach](https://wordpress.tv/2024/10/13/wspolpraca-seo-x-dev-jak-sprawic-aby-u-mnie-dziala-zadzialalo-po-obu-stronach/)
-- [WooCommerce: Subskrypcje Krok po Kroku](https://wordpress.tv/2024/10/13/woocommerce-subskrypcje-krok-po-kroku/)
-- [7 Warstw Zabezpieczeń – Jeden Model OSI, Który Rządzi Nimi Wszystkimi](https://wordpress.tv/2024/10/13/7-warstw-zabezpieczen-jeden-model-osi-ktory-rzadzi-nimi-wszystkimi/)
-- [WordPress Playground – Przełom w WordPressie](https://wordpress.tv/2024/10/13/wordpress-playground-przelom-w-wordpressie/)
 <!-- WPTV:END -->
 
 ## Marketing
