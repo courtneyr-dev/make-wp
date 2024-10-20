@@ -520,16 +520,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Subscription error issue](https://jobs.wordpress.net/job/subscription-error-issue/)
+- [E-commerce/Website Developer](https://jobs.wordpress.net/job/e-commerce-website-developer/)
+- [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-3/)
+- [[Astra] WordPress Web Developer](https://jobs.wordpress.net/job/astra-wordpress-web-developer/)
+- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-4/)
+- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer/)
+- [Classipress Menu Augmentation](https://jobs.wordpress.net/job/classipress-menu-augmentation/)
+- [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-5/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-20/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-101/)
-- [Senior Full Stack WordPress Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-developer-4/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-39/)
-- [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript-4/)
-- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-85/)
-- [WordPress Expert](https://jobs.wordpress.net/job/wordpress-expert-37/)
-- [Senior PHP\WordPress developer](https://jobs.wordpress.net/job/senior-phpwordpress-developer/)
-- [Senior Full Stack Developer](https://jobs.wordpress.net/job/senior-full-stack-developer-8/)
 <!-- JOBS:END -->
 
 ## Central
