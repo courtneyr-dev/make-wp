@@ -295,6 +295,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: Exploring the Twenty Twenty-Five Theme](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-twenty-twenty-five-theme)
 - [Creating Your Own Contact Form Plugin – part 2](https://learn.wordpress.org/?meeting=264152)
 - [Introduction to the WordPress Training Team](https://learn.wordpress.org/?meeting=introduction-to-the-wordpress-training-team)
 - [Contributor Mentorship: Introduction to the WordPress Project &lpar;EMEA/AMER&rpar;](https://learn.wordpress.org/?meeting=contributor-mentorship-introduction-to-the-wordpress-project-emea-amer)
@@ -319,7 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meet the new Learn.WordPress.org](https://learn.wordpress.org/?meeting=meet-the-new-learn-wordpress-org)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition-2)
 - [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition)
-- [What’s new in WordPress 6.6?](https://learn.wordpress.org/?meeting=whats-new-in-wordpress-6-6)
 <!-- SLS:END -->
 
 ## Test
