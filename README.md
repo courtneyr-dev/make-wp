@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for October 22, 2024](https://make.wordpress.org/themes/2024/10/21/themes-team-meeting-agenda-for-october-22-2024/)
 - [Themes team meeting notes for October 08, 2024](https://make.wordpress.org/themes/2024/10/09/themes-team-meeting-notes-for-october-08-2024/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/themes/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Themes team meeting agenda for October 08, 2024](https://make.wordpress.org/themes/2024/10/07/themes-team-meeting-agenda-for-october-08-2024/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Themes team update September 17, 2024](https://make.wordpress.org/themes/2024/09/17/xpost-themes-team-update-september-17-2024/)
 - [X-post: Default Theme Chat Summary, September 11, 2024](https://make.wordpress.org/themes/2024/09/13/xpost-default-theme-chat-summary-september-11-2024/)
 - [Themes team meeting notes for September 10, 2024](https://make.wordpress.org/themes/2024/09/11/themes-team-meeting-notes-for-september-10-2024/)
-- [X-post: Default Theme Chat Agenda: September 11, 2024](https://make.wordpress.org/themes/2024/09/10/xpost-default-theme-chat-agenda-september-11-2024/)
 <!-- THEMES:END -->
 
 ## Plugins
