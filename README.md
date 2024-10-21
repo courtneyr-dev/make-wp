@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Updates to Block Hooks in WordPress 6.7](https://make.wordpress.org/core/2024/10/21/updates-to-block-hooks-in-wordpress-6-7/)
+- [Developer Notes for Zoom Out in WordPress 6.7](https://make.wordpress.org/core/2024/10/21/developer-notes-for-zoom-out-in-wordpress-6-7/)
 - [New Plugin Template Registration API in WordPress 6.7](https://make.wordpress.org/core/2024/10/20/new-plugin-template-registration-api-in-wordpress-6-7/)
 - [Miscellaneous Block Editor Changes in WordPress 6.7](https://make.wordpress.org/core/2024/10/20/miscellaneous-block-editor-changes-in-wordpress-6-7/)
 - [Auto Sizes for Lazy Loaded Images in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/auto-sizes-for-lazy-loaded-images-in-wordpress-6-7/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fields API team seeking new leadership](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/)
 - [Proposal: Make unit test tickets easier to distinguish](https://make.wordpress.org/core/2024/10/11/proposal-make-unit-test-tickets-easier-to-distinguish/)
 - [Dev Blog editorial meeting summary, October 3, 2024](https://make.wordpress.org/core/2024/10/10/dev-blog-editorial-meeting-summary-october_3-2024/)
-- [Hallway Hangout: What’s next for DataViews and DataForm components &lpar;Oct 23, 2024&rpar;](https://make.wordpress.org/core/2024/10/10/hallway-hangout-whats-next-for-dataviews-and-dataform-components-oct-23-2024/)
-- [Summary, Dev Chat, October 9, 2024](https://make.wordpress.org/core/2024/10/09/summary-dev-chat-october-9-2024/)
 <!-- CORE:END -->
 
 ## Design
