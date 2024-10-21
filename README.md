@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/10/21/clpte-request-in-two-projects-2/)
 - [PTE Request for Health Check &amp; Troubleshooting](https://make.wordpress.org/polyglots/2024/10/19/pte-request-for-health-check-troubleshooting/)
 - [PTE Request for Corvita Theme](https://make.wordpress.org/polyglots/2024/10/18/pte-request-for-corvita-theme-3/)
 - [PTE Request for yoast wordpress-seo](https://make.wordpress.org/polyglots/2024/10/17/pte-request-for-yoast-wordpress-seo/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Bit Form](https://make.wordpress.org/polyglots/2024/10/15/pte-request-for-bit-form-2/)
 - [PTE Request for Corvita Theme](https://make.wordpress.org/polyglots/2024/10/15/pte-request-for-corvita-theme-2/)
 - [Hello! I I added translations…](https://make.wordpress.org/polyglots/2024/10/14/hello-i-i-added-translations/)
-- [Hello, I am the theme…](https://make.wordpress.org/polyglots/2024/10/13/hello-i-am-the-theme-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
