@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Internationalization improvements in 6.7](https://make.wordpress.org/core/2024/10/21/i18n-improvements-6-7/)
+- [Block Bindings: Improvements to the Editor Experience in 6.7](https://make.wordpress.org/core/2024/10/21/block-bindings-improvements-to-the-editor-experience-in-6-7/)
 - [Updates to Block Hooks in WordPress 6.7](https://make.wordpress.org/core/2024/10/21/updates-to-block-hooks-in-wordpress-6-7/)
 - [Developer Notes for Zoom Out in WordPress 6.7](https://make.wordpress.org/core/2024/10/21/developer-notes-for-zoom-out-in-wordpress-6-7/)
 - [New Plugin Template Registration API in WordPress 6.7](https://make.wordpress.org/core/2024/10/20/new-plugin-template-registration-api-in-wordpress-6-7/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Subscribe to changes in the Interactivity API state and context on client-side navigation in 6.7](https://make.wordpress.org/core/2024/10/15/subscribe-to-changes-in-the-interactivity-api-state-and-context-on-client-side-navigation-in-6-7/)
 - [Updates to Script Modules in 6.7](https://make.wordpress.org/core/2024/10/14/updates-to-script-modules-in-6-7/)
 - [Fields API team seeking new leadership](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/)
-- [Proposal: Make unit test tickets easier to distinguish](https://make.wordpress.org/core/2024/10/11/proposal-make-unit-test-tickets-easier-to-distinguish/)
-- [Dev Blog editorial meeting summary, October 3, 2024](https://make.wordpress.org/core/2024/10/10/dev-blog-editorial-meeting-summary-october_3-2024/)
 <!-- CORE:END -->
 
 ## Design
