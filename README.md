@@ -295,6 +295,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-2)
+- [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour)
 - [Developer Hours: Exploring the Twenty Twenty-Five Theme](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-twenty-twenty-five-theme)
 - [Creating Your Own Contact Form Plugin – part 2](https://learn.wordpress.org/?meeting=264152)
 - [Introduction to the WordPress Training Team](https://learn.wordpress.org/?meeting=introduction-to-the-wordpress-training-team)
@@ -318,8 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Building WordPress themes with the Create Block Theme plugin](https://learn.wordpress.org/?meeting=developer-hours-building-wordpress-themes-with-the-create-block-theme-plugin)
 - [Meet the new Learn.WordPress.org](https://learn.wordpress.org/?meeting=meet-the-new-learn-wordpress-org-2)
 - [Meet the new Learn.WordPress.org](https://learn.wordpress.org/?meeting=meet-the-new-learn-wordpress-org)
-- [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition-2)
-- [How to install WordPress on an Ubuntu VPS: Nginx edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-nginx-edition)
 <!-- SLS:END -->
 
 ## Test
