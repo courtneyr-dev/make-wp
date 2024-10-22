@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.7 Release Candidate Phase](https://make.wordpress.org/core/2024/10/22/wordpress-6-7-release-candidate-phase/)
 - [Performance Chat Summary: 22 October 2024](https://make.wordpress.org/core/2024/10/22/performance-chat-summary-22-october-2024/)
 - [Performance Chat Agenda: 22 October 2024](https://make.wordpress.org/core/2024/10/22/performance-chat-agenda-22-october-2024/)
 - [Internationalization improvements in 6.7](https://make.wordpress.org/core/2024/10/21/i18n-improvements-6-7/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda, Dev Chat, Oct 16, 2024](https://make.wordpress.org/core/2024/10/15/agenda-dev-chat-october-16-2024/)
 - [Performance Chat Summary: 15 October 2024](https://make.wordpress.org/core/2024/10/15/performance-chat-summary-15-october-2024/)
 - [Performance Chat Agenda: 15 October 2024](https://make.wordpress.org/core/2024/10/15/performance-chat-agenda-15-october-2024/)
-- [Subscribe to changes in the Interactivity API state and context on client-side navigation in 6.7](https://make.wordpress.org/core/2024/10/15/subscribe-to-changes-in-the-interactivity-api-state-and-context-on-client-side-navigation-in-6-7/)
 <!-- CORE:END -->
 
 ## Design
