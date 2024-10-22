@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Autoglot](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-autoglot/)
+- [I currently use the FluentCRM…](https://make.wordpress.org/polyglots/2024/10/22/i-currently-use-the-fluentcrm/)
+- [PTE Request for Bondis Subscriptions Api](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-bondis-subscriptions-api/)
+- [Translating WordPress to Maltese &lpar;there are no editors&rpar;](https://make.wordpress.org/polyglots/2024/10/22/translating-wordpress-to-maltese-there-are-no-editors/)
+- [Hello, I’m not familiar with…](https://make.wordpress.org/polyglots/2024/10/22/hello-im-not-familiar-with/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/10/22/hi-dear-mentors-we-have-152/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-below-listed-themes-7/)
 - [I’ve suggested translations for these…](https://make.wordpress.org/polyglots/2024/10/22/ive-suggested-translations-for-these-2/)
 - [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/10/21/clpte-request-in-two-projects-2/)
 - [PTE Request for Health Check &amp; Troubleshooting](https://make.wordpress.org/polyglots/2024/10/19/pte-request-for-health-check-troubleshooting/)
-- [PTE Request for Corvita Theme](https://make.wordpress.org/polyglots/2024/10/18/pte-request-for-corvita-theme-3/)
-- [PTE Request for yoast wordpress-seo](https://make.wordpress.org/polyglots/2024/10/17/pte-request-for-yoast-wordpress-seo/)
-- [PTE Request for Slim SEO – Fast &amp; Automated WordPress SEO Plugin](https://make.wordpress.org/polyglots/2024/10/17/pte-request-for-bit-form-3/)
-- [Agenda: Weekly Polyglots Chat – October 16, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/16/agenda-weekly-polyglots-chat-october-16-2024-0700-utc/)
-- [Hi,](https://make.wordpress.org/polyglots/2024/10/15/hi-119/)
 <!-- POLYGLOTS:END -->
 
 ## Support
