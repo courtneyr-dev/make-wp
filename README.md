@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE Request for Autoglot](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-autoglot/)
-- [I currently use the FluentCRM…](https://make.wordpress.org/polyglots/2024/10/22/i-currently-use-the-fluentcrm/)
-- [PTE Request for Bondis Subscriptions Api](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-bondis-subscriptions-api/)
-- [Translating WordPress to Maltese &lpar;there are no editors&rpar;](https://make.wordpress.org/polyglots/2024/10/22/translating-wordpress-to-maltese-there-are-no-editors/)
-- [Hello, I’m not familiar with…](https://make.wordpress.org/polyglots/2024/10/22/hello-im-not-familiar-with/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/10/22/hi-dear-mentors-we-have-152/)
-- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-below-listed-themes-7/)
-- [I’ve suggested translations for these…](https://make.wordpress.org/polyglots/2024/10/22/ive-suggested-translations-for-these-2/)
-- [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/10/21/clpte-request-in-two-projects-2/)
-- [PTE Request for Health Check &amp; Troubleshooting](https://make.wordpress.org/polyglots/2024/10/19/pte-request-for-health-check-troubleshooting/)
+- [PTE Request for Learn-WordPress](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-learn-wordpress/)
+- [I am currently using the…](https://make.wordpress.org/polyglots/2024/10/22/i-am-currently-using-the/)
+- [PTE Request for [Contact Form…](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-contact-form-5/)
+- [Hello,](https://make.wordpress.org/polyglots/2024/10/22/hello-93/)
+- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-customer-reviews-for-woocommerce-27/)
+- [PTE Request for TZM Responsive Block Controls](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-tzm-responsive-block-controls/)
+- [PTE Request for Yoyaku Manager](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-yoyaku-manager/)
+- [hi, I am here to…](https://make.wordpress.org/polyglots/2024/10/22/hi-i-am-here-to/)
+- [PTE Request for Digital License Manager](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-digital-license-manager/)
+- [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/10/22/hello-polyglots-307/)
 <!-- POLYGLOTS:END -->
 
 ## Support
