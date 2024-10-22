@@ -522,10 +522,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:START -->
 - [Subscription error issue](https://jobs.wordpress.net/job/subscription-error-issue/)
 - [E-commerce/Website Developer](https://jobs.wordpress.net/job/e-commerce-website-developer/)
+- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer/)
 - [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-3/)
 - [[Astra] WordPress Web Developer](https://jobs.wordpress.net/job/astra-wordpress-web-developer/)
 - [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-4/)
-- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer/)
 - [Classipress Menu Augmentation](https://jobs.wordpress.net/job/classipress-menu-augmentation/)
 - [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-5/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-20/)
