@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/10/22/hi-dear-mentors-we-have-152/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-below-listed-themes-7/)
 - [I’ve suggested translations for these…](https://make.wordpress.org/polyglots/2024/10/22/ive-suggested-translations-for-these-2/)
 - [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/10/21/clpte-request-in-two-projects-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Slim SEO – Fast &amp; Automated WordPress SEO Plugin](https://make.wordpress.org/polyglots/2024/10/17/pte-request-for-bit-form-3/)
 - [Agenda: Weekly Polyglots Chat – October 16, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/16/agenda-weekly-polyglots-chat-october-16-2024-0700-utc/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/10/15/hi-119/)
-- [PTE Request for Bit Form](https://make.wordpress.org/polyglots/2024/10/15/pte-request-for-bit-form-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
