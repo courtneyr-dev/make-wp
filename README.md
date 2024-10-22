@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-below-listed-themes-7/)
+- [I’ve suggested translations for these…](https://make.wordpress.org/polyglots/2024/10/22/ive-suggested-translations-for-these-2/)
 - [CLPTE request in two projects](https://make.wordpress.org/polyglots/2024/10/21/clpte-request-in-two-projects-2/)
 - [PTE Request for Health Check &amp; Troubleshooting](https://make.wordpress.org/polyglots/2024/10/19/pte-request-for-health-check-troubleshooting/)
 - [PTE Request for Corvita Theme](https://make.wordpress.org/polyglots/2024/10/18/pte-request-for-corvita-theme-3/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – October 16, 2024 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/10/16/agenda-weekly-polyglots-chat-october-16-2024-0700-utc/)
 - [Hi,](https://make.wordpress.org/polyglots/2024/10/15/hi-119/)
 - [PTE Request for Bit Form](https://make.wordpress.org/polyglots/2024/10/15/pte-request-for-bit-form-2/)
-- [PTE Request for Corvita Theme](https://make.wordpress.org/polyglots/2024/10/15/pte-request-for-corvita-theme-2/)
-- [Hello! I I added translations…](https://make.wordpress.org/polyglots/2024/10/14/hello-i-i-added-translations/)
 <!-- POLYGLOTS:END -->
 
 ## Support
