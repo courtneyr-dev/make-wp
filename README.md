@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Ecommerce WordPress site needed for smal biz](https://jobs.wordpress.net/job/ecommerce-word-press-site-needed-for-smal-biz/)
 - [Subscription error issue](https://jobs.wordpress.net/job/subscription-error-issue/)
 - [E-commerce/Website Developer](https://jobs.wordpress.net/job/e-commerce-website-developer/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Classipress Menu Augmentation](https://jobs.wordpress.net/job/classipress-menu-augmentation/)
 - [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-5/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-20/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets/)
 <!-- JOBS:END -->
 
 ## Central
