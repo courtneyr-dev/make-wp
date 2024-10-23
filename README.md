@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Fusion Lite](https://make.wordpress.org/polyglots/2024/10/23/pte-request-for-wp-fusion-lite/)
+- [WP Activity Log](https://make.wordpress.org/polyglots/2024/10/23/wp-activity-log/)
 - [PTE Request for NewsAlert Theme](https://make.wordpress.org/polyglots/2024/10/23/pte-request-for-newsalert-theme/)
 - [PTE Request for Learn-WordPress](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-learn-wordpress/)
 - [I am currently using the…](https://make.wordpress.org/polyglots/2024/10/22/i-am-currently-using-the/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-customer-reviews-for-woocommerce-27/)
 - [PTE Request for TZM Responsive Block Controls](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-tzm-responsive-block-controls/)
 - [PTE Request for Yoyaku Manager](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-yoyaku-manager/)
-- [hi, I am here to…](https://make.wordpress.org/polyglots/2024/10/22/hi-i-am-here-to/)
-- [PTE Request for Digital License Manager](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-digital-license-manager/)
 <!-- POLYGLOTS:END -->
 
 ## Support
