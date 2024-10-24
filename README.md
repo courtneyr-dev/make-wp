@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating Your Own Contact Form Plugin – part 2](https://wordpress.tv/2024/10/24/creating-your-own-contact-form-plugin-part-2/)
 - [Creating a portfolio site with a block theme and patterns](https://wordpress.tv/2024/10/22/creating-a-portfolio-site-with-a-block-theme-and-patterns/)
 - [Custom Rest API – rejestracja i obsługa własnych endpointów w WordPress](https://wordpress.tv/2024/10/21/custom-rest-api-rejestracja-i-obsluga-wlasnych-endpointow-w-wordpress-2/)
 - [Presentación del evento](https://wordpress.tv/2024/10/20/presentacion-del-evento-2/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Comunidad diversa, software diverso](https://wordpress.tv/2024/10/17/comunidad-diversa-software-diverso/)
 - [Campañas que rompen barreras](https://wordpress.tv/2024/10/17/campanas-que-rompen-barreras/)
 - [¿Y si empezáramos desde la «equidad» y la «pertenencia» para tener una comunidad más diversa y abierta?](https://wordpress.tv/2024/10/17/y-si-empezaramos-desde-la-equidad-y-la-pertenencia-para-tener-una-comunidad-mas-diversa-y-abier/)
-- [Bienvenida](https://wordpress.tv/2024/10/17/bienvenida-2/)
 <!-- WPTV:END -->
 
 ## Marketing
