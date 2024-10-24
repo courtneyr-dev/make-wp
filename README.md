@@ -520,16 +520,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Arolax Theme Customization Specialist](https://jobs.wordpress.net/job/wordpress-arolax-theme-customization-specialist/)
+- [QA – Arolax WordPress Theme Tester](https://jobs.wordpress.net/job/qa-arolax-wordpress-theme-tester/)
+- [Arolax Theme – WordPress Web Developer](https://jobs.wordpress.net/job/arolax-theme-wordpress-web-developer/)
+- [Lead WordPress Developer for Fast-Growing Pet Company &lpar;Remote/Worldwide&rpar;](https://jobs.wordpress.net/job/lead-wordpress-developer-for-fast-growing-pet-company-remote-worldwide/)
 - [Ecommerce WordPress site needed for smal biz](https://jobs.wordpress.net/job/ecommerce-word-press-site-needed-for-smal-biz/)
 - [Subscription error issue](https://jobs.wordpress.net/job/subscription-error-issue/)
 - [E-commerce/Website Developer](https://jobs.wordpress.net/job/e-commerce-website-developer/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer/)
 - [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-3/)
 - [[Astra] WordPress Web Developer](https://jobs.wordpress.net/job/astra-wordpress-web-developer/)
-- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-4/)
-- [Classipress Menu Augmentation](https://jobs.wordpress.net/job/classipress-menu-augmentation/)
-- [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-5/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-20/)
 <!-- JOBS:END -->
 
 ## Central
