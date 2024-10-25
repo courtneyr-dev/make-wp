@@ -553,7 +553,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
-- [WordCamp Ahmedabad, Gujarat, India](https://central.wordcamp.org/wordcamps/wordcamp-ahmedabad-gujarat-india-6/)
+- [WordCamp Ahmedabad](https://central.wordcamp.org/wordcamps/wordcamp-ahmedabad-gujarat-india-6/)
 - [WP Campus Connect Ajmer](https://central.wordcamp.org/wordcamps/ajmer-india/)
 - [WordCamp Kerala](https://central.wordcamp.org/wordcamps/wordcamp-kozhikode-kerala-india/)
 - [do_action Cagliari &lpar;online&rpar;](https://central.wordcamp.org/wordcamps/do_action-cagliari-online/)
