@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.7 ready to be translated](https://make.wordpress.org/polyglots/2024/10/25/wordpress-6-7-ready-to-be-translated/)
 - [PTE Request for Autoglot](https://make.wordpress.org/polyglots/2024/10/24/pte-request-for-autoglot-2/)
 - [PTE Request for WP Fusion Lite](https://make.wordpress.org/polyglots/2024/10/23/pte-request-for-wp-fusion-lite/)
 - [WP Activity Log](https://make.wordpress.org/polyglots/2024/10/23/wp-activity-log/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Contact Form…](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-contact-form-5/)
 - [Hello,](https://make.wordpress.org/polyglots/2024/10/22/hello-93/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-customer-reviews-for-woocommerce-27/)
-- [PTE Request for TZM Responsive Block Controls](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-tzm-responsive-block-controls/)
 <!-- POLYGLOTS:END -->
 
 ## Support
