@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Pause on SWAG Shipments for WordPress Events, WordCamps, and Meetups](https://make.wordpress.org/community/2024/10/26/pause-on-swag-shipments-for-wordpress-events-wordcamps-and-meetups/)
 - [Community Team October Meeting Recap](https://make.wordpress.org/community/2024/10/10/community-team-october-meeting-recap/)
 - [Please join the WordPress Community Team as a Supporter of Cohort 2024-25](https://make.wordpress.org/community/2024/10/10/please-join-the-wordpress-community-team-as-a-supporter-of-cohort-2024-25/)
 - [Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2024/10/08/announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Important Update: New Marketing/Advertising Guidelines for WordCamp and WordPress Events](https://make.wordpress.org/community/2024/09/16/important-update-new-marketing-advertising-guidelines-for-wordcamp-and-wordpress-events/)
 - [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/community/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
 - [X-post: WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/community/2024/09/12/xpost-wordpress-contribution-health-dashboards-an-experiment/)
-- [WCUS2024 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2024/09/09/wcus2024-contributor-day-community-team-agenda/)
 <!-- COMMUNITY:END -->
 
 ## Meta
