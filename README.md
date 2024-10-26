@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for Last Login Display](https://make.wordpress.org/polyglots/2024/10/26/pte-request-for-last-login-display/)
 - [PTE Request for Dashboard Notepad](https://make.wordpress.org/polyglots/2024/10/25/pte-request-for-dashboard-notepad/)
 - [PTE Request for [Advanced Product Fields for WooCommerce]](https://make.wordpress.org/polyglots/2024/10/25/pte-request-for-advanced-product-fields-for-woocommerce/)
 - [PTE Request for Internal Tags](https://make.wordpress.org/polyglots/2024/10/25/pte-request-for-internal-tags/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WP Fusion Lite](https://make.wordpress.org/polyglots/2024/10/23/pte-request-for-wp-fusion-lite/)
 - [WP Activity Log](https://make.wordpress.org/polyglots/2024/10/23/wp-activity-log/)
 - [PTE Request for NewsAlert Theme](https://make.wordpress.org/polyglots/2024/10/23/pte-request-for-newsalert-theme/)
-- [PTE Request for Learn-WordPress](https://make.wordpress.org/polyglots/2024/10/22/pte-request-for-learn-wordpress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
