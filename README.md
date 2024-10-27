@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Del catálogo a la tienda: diseña para vender y no solo para mostrar](https://wordpress.tv/2024/10/27/del-catalogo-a-la-tienda-disena-para-vender-y-no-solo-para-mostrar/)
 - [Las herramientas que sirven SIEMPRE en cualquier oficio](https://wordpress.tv/2024/10/24/las-herramientas-que-sirven-siempre-en-cualquier-oficio/)
 - [Creating Your Own Contact Form Plugin – part 2](https://wordpress.tv/2024/10/24/creating-your-own-contact-form-plugin-part-2/)
 - [Creating a portfolio site with a block theme and patterns](https://wordpress.tv/2024/10/22/creating-a-portfolio-site-with-a-block-theme-and-patterns/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [La comunidad WordPress: un espacio seguro](https://wordpress.tv/2024/10/17/la-comunidad-wordpress-un-espacio-seguro/)
 - [Lidia Marbán: #WordPressParaTodas…las personas](https://wordpress.tv/2024/10/17/lidia-marban-wordpressparatodaslas-personas/)
 - [Comunidad diversa, software diverso](https://wordpress.tv/2024/10/17/comunidad-diversa-software-diverso/)
-- [Campañas que rompen barreras](https://wordpress.tv/2024/10/17/campanas-que-rompen-barreras/)
 <!-- WPTV:END -->
 
 ## Marketing
