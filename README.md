@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Can anyone review the waiting…](https://make.wordpress.org/polyglots/2024/10/27/can-anyone-review-the-waiting/)
 - [PTE Request for Chat Board](https://make.wordpress.org/polyglots/2024/10/27/pte-request-for-chat-board/)
 - [PTE Request for Dynamic Widgets, Enhanced Media Library](https://make.wordpress.org/polyglots/2024/10/26/pte-request-for-dynamic-widgets/)
 - [PTE request for Last Login Display](https://make.wordpress.org/polyglots/2024/10/26/pte-request-for-last-login-display/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Zotpress I’ve…](https://make.wordpress.org/polyglots/2024/10/25/pte-request-for-zotpress-ive/)
 - [WordPress 6.7 ready to be translated](https://make.wordpress.org/polyglots/2024/10/25/wordpress-6-7-ready-to-be-translated/)
 - [PTE Request for Autoglot](https://make.wordpress.org/polyglots/2024/10/24/pte-request-for-autoglot-2/)
-- [PTE Request for WP Fusion Lite](https://make.wordpress.org/polyglots/2024/10/23/pte-request-for-wp-fusion-lite/)
 <!-- POLYGLOTS:END -->
 
 ## Support
