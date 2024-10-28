@@ -324,6 +324,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Test Team Update: 28 October 2024](https://make.wordpress.org/test/2024/10/28/test-team-update-28-october-2024/)
+- [Week in Test: October 28, 2024](https://make.wordpress.org/test/2024/10/28/week-in-test-october-28-2024/)
 - [Test Chat Summary: 22nd October 2024](https://make.wordpress.org/test/2024/10/24/test-chat-summary-22nd-october-2024/)
 - [Team Chat Agenda: October 22, 2024](https://make.wordpress.org/test/2024/10/22/team-chat-agenda-october-22-2024/)
 - [X-post: Test Team Update: 21 October 2024](https://make.wordpress.org/test/2024/10/21/xpost-test-team-update-21-october-2024/)
@@ -332,8 +334,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing: Test Team Reps for 2024 – 2025](https://make.wordpress.org/test/2024/10/15/introducing-test-team-reps-for-2024-2025/)
 - [Week in Test: October 14, 2024](https://make.wordpress.org/test/2024/10/15/week-in-test-october-14-2024/)
 - [Test Chat Summary: 8th October 2024](https://make.wordpress.org/test/2024/10/08/test-chat-summary-8th-october-2024/)
-- [Team Chat Agenda: October 8, 2024](https://make.wordpress.org/test/2024/10/08/team-chat-agenda-october-8-2024/)
-- [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/test/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 <!-- TEST:END -->
 
 ## TV
