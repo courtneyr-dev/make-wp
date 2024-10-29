@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Please grant @translationsbyautomattic Cross-Locale PTE…](https://make.wordpress.org/polyglots/2024/10/29/please-grant-translationsbyautomattic-cross-locale-pte-4/)
+- [PTE Request for GoPray](https://make.wordpress.org/polyglots/2024/10/29/pte-request-for-gopray/)
 - [PTE Request for picu – Online Photo Proofing Gallery](https://make.wordpress.org/polyglots/2024/10/28/pte-request-for-picu-online-photo-proofing-gallery/)
 - [PTE Request for Tutor LMS…](https://make.wordpress.org/polyglots/2024/10/28/pte-request-for-tutor-lms-4/)
 - [Hi everyone!](https://make.wordpress.org/polyglots/2024/10/28/hi-everyone-7/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Can anyone review the waiting…](https://make.wordpress.org/polyglots/2024/10/27/can-anyone-review-the-waiting/)
 - [PTE Request for Chat Board](https://make.wordpress.org/polyglots/2024/10/27/pte-request-for-chat-board/)
 - [PTE Request for Dynamic Widgets, Enhanced Media Library](https://make.wordpress.org/polyglots/2024/10/26/pte-request-for-dynamic-widgets/)
-- [PTE request for Last Login Display](https://make.wordpress.org/polyglots/2024/10/26/pte-request-for-last-login-display/)
-- [PTE Request for Dashboard Notepad](https://make.wordpress.org/polyglots/2024/10/25/pte-request-for-dashboard-notepad/)
 <!-- POLYGLOTS:END -->
 
 ## Support
