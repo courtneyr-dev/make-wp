@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Exploring the Twenty Twenty-Five Theme](https://wordpress.tv/2024/10/29/developer-hours-exploring-the-twenty-twenty-five-theme/)
 - [Polyglots: WordPress Translation Onboarding](https://wordpress.tv/2024/10/28/polyglots-wordpress-translation-onboarding/)
 - [Polyglots: Introducción a las traducciones en WordPress](https://wordpress.tv/2024/10/28/polyglots-introduccion-a-las-traducciones-en-wordpress/)
 - [Del catálogo a la tienda: diseña para vender y no solo para mostrar](https://wordpress.tv/2024/10/27/del-catalogo-a-la-tienda-disena-para-vender-y-no-solo-para-mostrar/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fixing Plugin Check issues](https://wordpress.tv/2024/10/17/fixing-plugin-check-issues/)
 - [Cómo convencer a toda una comunidad que ser una comunidad inclusiva nos hace mejores](https://wordpress.tv/2024/10/17/como-convencer-a-toda-una-comunidad-que-ser-una-comunidad-inclusiva-nos-hace-mejores/)
 - [Cómo ser profesionales saludables en la era del teletrabajo](https://wordpress.tv/2024/10/17/como-ser-profesionales-saludables-en-la-era-del-teletrabajo/)
-- [La comunidad WordPress: un espacio seguro](https://wordpress.tv/2024/10/17/la-comunidad-wordpress-un-espacio-seguro/)
 <!-- WPTV:END -->
 
 ## Marketing
