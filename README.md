@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-8/)
 - [WordPress Arolax Theme Customization Specialist](https://jobs.wordpress.net/job/wordpress-arolax-theme-customization-specialist/)
 - [QA – Arolax WordPress Theme Tester](https://jobs.wordpress.net/job/qa-arolax-wordpress-theme-tester/)
 - [Arolax Theme – WordPress Web Developer](https://jobs.wordpress.net/job/arolax-theme-wordpress-web-developer/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] WordPress Web Developer](https://jobs.wordpress.net/job/astra-wordpress-web-developer/)
 - [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-4/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer/)
-- [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-3/)
 <!-- JOBS:END -->
 
 ## Central
