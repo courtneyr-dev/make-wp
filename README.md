@@ -506,6 +506,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.7 Release Candidate 2](https://wordpress.org/news/2024/10/wordpress-6-7-release-candidate-2/)
 - [WordPress Community Creates 1,000 Block Themes in 1,000 Days](https://wordpress.org/news/2024/10/wordpress-community-creates-1000-block-themes-in-1000-days/)
 - [WordPress 6.7 Release Candidate 1](https://wordpress.org/news/2024/10/wordpress-6-7-release-candidate-1/)
 - [Expanding Our Code of Conduct to Protect Private Conversations](https://wordpress.org/news/2024/10/protect-private-conversations/)
@@ -515,7 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Secure Custom Fields](https://wordpress.org/news/2024/10/secure-custom-fields/)
 - [Forking is Beautiful](https://wordpress.org/news/2024/10/spoon/)
 - [Please Welcome Mary Hubbard](https://wordpress.org/news/2024/10/proud-mary/)
-- [WordPress 6.7 Beta 2](https://wordpress.org/news/2024/10/wordpress-6-7-beta-2/)
 <!-- NEWS:END -->
 
 ## Jobs
