@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, October 30, 2024](https://make.wordpress.org/core/2024/10/30/summary-dev-chat-october-30-2024/)
 - [Recap: Hallway Hangout DataViews and DataForm Components](https://make.wordpress.org/core/2024/10/30/recap-hallway-hangout-dataviews-and-dataform-components/)
 - [Agenda, Dev Chat, Oct 30, 2024](https://make.wordpress.org/core/2024/10/29/agenda-dev-chat-october-30-2024/)
 - [What’s new in Gutenberg 19.5? &lpar;23 October&rpar;](https://make.wordpress.org/core/2024/10/24/whats-new-in-gutenberg-19-5-23-october/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Extending the Preview Dropdown Menu in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/extending-the-preview-dropdown-menu-in-wordpress-6-7/)
 - [Updates to user-interface components in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/editor-components-updates-in-wordpress-6-7/)
 - [New block type registration APIs to improve performance in WordPress 6.7](https://make.wordpress.org/core/2024/10/17/new-block-type-registration-apis-to-improve-performance-in-wordpress-6-7/)
-- [Summary, Dev Chat, October 16, 2024](https://make.wordpress.org/core/2024/10/17/summary-dev-chat-october-16-2024/)
 <!-- CORE:END -->
 
 ## Design
