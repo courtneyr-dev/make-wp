@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for NewsAlert Theme](https://make.wordpress.org/polyglots/2024/10/30/pte-request-for-newsalert-theme-2/)
 - [PTE Request for Quiz and…](https://make.wordpress.org/polyglots/2024/10/30/pte-request-for-quiz-and-2/)
 - [PTE Request for eventprime-event-calendar-management I’ve…](https://make.wordpress.org/polyglots/2024/10/29/pte-request-for-eventprime-event-calendar-management-ive/)
 - [Please grant @translationsbyautomattic Cross-Locale PTE…](https://make.wordpress.org/polyglots/2024/10/29/please-grant-translationsbyautomattic-cross-locale-pte-4/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi everyone!](https://make.wordpress.org/polyglots/2024/10/28/hi-everyone-7/)
 - [Just submitted a nb_NO complete…](https://make.wordpress.org/polyglots/2024/10/28/just-submitted-a-nb_no-complete/)
 - [PTE Request for various plugins](https://make.wordpress.org/polyglots/2024/10/28/pte-request-for-various-plugins-2/)
-- [Can anyone review the waiting…](https://make.wordpress.org/polyglots/2024/10/27/can-anyone-review-the-waiting/)
 <!-- POLYGLOTS:END -->
 
 ## Support
