@@ -125,6 +125,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Bindings](https://developer.wordpress.org/block-editor/reference-guides/block-api/block-bindings/)
 - [Using TypeScript](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/using-typescript/)
 - [Creating Tables with Plugins](https://developer.wordpress.org/plugins/creating-tables-with-plugins/)
 - [@wordpress/fields](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-fields/)
@@ -133,8 +134,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Concepts](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/)
 - [Server-side rendering: Processing directives on the server](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/server-side-rendering/)
 - [Composite](https://developer.wordpress.org/block-editor/reference-guides/components/composite/)
-- [wp user signup](https://developer.wordpress.org/cli/commands/user/signup/)
-- [wp user exists](https://developer.wordpress.org/cli/commands/user/exists/)
+- [wp site generate](https://developer.wordpress.org/cli/commands/site/generate/)
 <!-- DEVHUB:END -->
 
 ## Themes
