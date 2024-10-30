@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Feedback: Design System Component Pages](https://make.wordpress.org/design/2024/10/30/feedback-design-system-component-pages/)
 - [Design Share #66 &lpar;Oct 7-Oct18&rpar;](https://make.wordpress.org/design/2024/10/18/design-share-66-oct-7-oct18/)
 - [X-post: Help Test WordPress 6.7](https://make.wordpress.org/design/2024/10/11/xpost-help-test-wordpress-6-7/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/design/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Systems: Storybook Improvements](https://make.wordpress.org/design/2024/09/17/design-systems-storybook-improvements/)
 - [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/design/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
 - [Design Share #63 &lpar;Aug 26-Sep 6&rpar;](https://make.wordpress.org/design/2024/09/09/design-share-63-aug-26-sep-6/)
-- [Data Views Update #1](https://make.wordpress.org/design/2024/09/06/data-views-update-1/)
 <!-- DESIGN:END -->
 
 ## Mobile
