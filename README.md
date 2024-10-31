@@ -351,6 +351,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Turismo de interior, fiestas y actividades culturales: montando la guía definitiva de pueblos con WordPress](https://wordpress.tv/2024/10/31/turismo-de-interior-fiestas-y-actividades-culturales-montando-la-guia-definitiva-de-pueblos-con-wordpress/)
+- [¿Web propia, plataforma externa de reservas o mitad y mitad?](https://wordpress.tv/2024/10/31/web-propia-plataforma-externa-de-reservas-o-mitad-y-mitad/)
+- [La relevancia de WordPress dentro del modelo DTI &lpar;Destino Turístico Inteligente&rpar;](https://wordpress.tv/2024/10/31/la-relevancia-de-wordpress-dentro-del-modelo-dti-destino-turistico-inteligente/)
 - [Taller: Las API turísticas: mil y una formas de monetizar tu sitio web](https://wordpress.tv/2024/10/31/taller-las-api-turisticas-mil-y-una-formas-de-monetizar-tu-sitio-web/)
 - [Descubre el Potencial del Turismo Español con Datos Geoespaciales](https://wordpress.tv/2024/10/31/descubre-el-potencial-del-turismo-espanol-con-datos-geoespaciales/)
 - [Creando experiencias memorables: diseño web para yacimientos arqueológicos visitables](https://wordpress.tv/2024/10/31/creando-experiencias-memorables-diseno-web-para-yacimientos-arqueologicos-visitables/)
@@ -373,9 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a portfolio site with a block theme and patterns](https://wordpress.tv/2024/10/22/creating-a-portfolio-site-with-a-block-theme-and-patterns/)
 - [Custom Rest API – rejestracja i obsługa własnych endpointów w WordPress](https://wordpress.tv/2024/10/21/custom-rest-api-rejestracja-i-obsluga-wlasnych-endpointow-w-wordpress-2/)
 - [Presentación del evento](https://wordpress.tv/2024/10/20/presentacion-del-evento-2/)
-- [Consejos sobre teletrabajo en menos de un minuto](https://wordpress.tv/2024/10/20/consejos-sobre-teletrabajo-en-menos-de-un-minuto/)
-- [Calidad Laboral en el trabajo remoto](https://wordpress.tv/2024/10/20/calidad-laboral-en-el-trabajo-remoto/)
-- [WordPress y Aventuras Remotas: ¡Yo hago el café, tú haces la magia!](https://wordpress.tv/2024/10/20/wordpress-y-aventuras-remotas-yo-hago-el-cafe-tu-haces-la-magia/)
 <!-- WPTV:END -->
 
 ## Marketing
