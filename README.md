@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for EventPrime plugin](https://make.wordpress.org/polyglots/2024/10/31/pte-request-for-eventprime-plugin/)
 - [PTE Request for SEATEXT FREE…](https://make.wordpress.org/polyglots/2024/10/31/pte-request-for-seatext-free/)
 - [Request for PTE MasteriyoLMS](https://make.wordpress.org/polyglots/2024/10/30/request-for-pte-masteriyolms/)
 - [PTE Request for NewsAlert Theme](https://make.wordpress.org/polyglots/2024/10/30/pte-request-for-newsalert-theme-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for GoPray](https://make.wordpress.org/polyglots/2024/10/29/pte-request-for-gopray/)
 - [PTE Request for picu – Online Photo Proofing Gallery](https://make.wordpress.org/polyglots/2024/10/28/pte-request-for-picu-online-photo-proofing-gallery/)
 - [PTE Request for Tutor LMS…](https://make.wordpress.org/polyglots/2024/10/28/pte-request-for-tutor-lms-4/)
-- [Hi everyone!](https://make.wordpress.org/polyglots/2024/10/28/hi-everyone-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
