@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Discussion Board…](https://make.wordpress.org/polyglots/2024/10/31/pte-request-for-discussion-board-2/)
 - [PTE Request for EventPrime plugin](https://make.wordpress.org/polyglots/2024/10/31/pte-request-for-eventprime-plugin/)
 - [PTE Request for SEATEXT FREE…](https://make.wordpress.org/polyglots/2024/10/31/pte-request-for-seatext-free/)
 - [Request for PTE MasteriyoLMS](https://make.wordpress.org/polyglots/2024/10/30/request-for-pte-masteriyolms/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Please grant @translationsbyautomattic Cross-Locale PTE…](https://make.wordpress.org/polyglots/2024/10/29/please-grant-translationsbyautomattic-cross-locale-pte-4/)
 - [PTE Request for GoPray](https://make.wordpress.org/polyglots/2024/10/29/pte-request-for-gopray/)
 - [PTE Request for picu – Online Photo Proofing Gallery](https://make.wordpress.org/polyglots/2024/10/28/pte-request-for-picu-online-photo-proofing-gallery/)
-- [PTE Request for Tutor LMS…](https://make.wordpress.org/polyglots/2024/10/28/pte-request-for-tutor-lms-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
