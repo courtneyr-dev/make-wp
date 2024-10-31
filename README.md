@@ -351,6 +351,19 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Taller: Las API turísticas: mil y una formas de monetizar tu sitio web](https://wordpress.tv/2024/10/31/taller-las-api-turisticas-mil-y-una-formas-de-monetizar-tu-sitio-web/)
+- [Descubre el Potencial del Turismo Español con Datos Geoespaciales](https://wordpress.tv/2024/10/31/descubre-el-potencial-del-turismo-espanol-con-datos-geoespaciales/)
+- [Creando experiencias memorables: diseño web para yacimientos arqueológicos visitables](https://wordpress.tv/2024/10/31/creando-experiencias-memorables-diseno-web-para-yacimientos-arqueologicos-visitables/)
+- [Potencia tu empresa conectando WordPress con tu ficha de Google Business Profile](https://wordpress.tv/2024/10/31/potencia-tu-empresa-conectando-wordpress-con-tu-ficha-de-google-business-profile/)
+- [Taller: Planteamiento de un proyecto de diseño web para un cliente del sector turístico](https://wordpress.tv/2024/10/31/taller-planteamiento-de-un-proyecto-de-diseno-web-para-un-cliente-del-sector-turistico/)
+- [Juventud rural y nuevas tecnologías como solución a la España vaciada](https://wordpress.tv/2024/10/31/juventud-rural-y-nuevas-tecnologias-como-solucion-a-la-espana-vaciada/)
+- [La nueva manera de promocionar tu negocio turístico](https://wordpress.tv/2024/10/31/la-nueva-manera-de-promocionar-tu-negocio-turistico/)
+- [Vivir viajando gracias a WordPress](https://wordpress.tv/2024/10/31/vivir-viajando-gracias-a-wordpress/)
+- [Diseños de bucles creativos para webs de turismo](https://wordpress.tv/2024/10/31/disenos-de-bucles-creativos-para-webs-de-turismo/)
+- [La magia del storytelling en el turismo](https://wordpress.tv/2024/10/31/la-magia-del-storytelling-en-el-turismo/)
+- [Cómo usar el videomarketing para atraer más huéspedes](https://wordpress.tv/2024/10/31/como-usar-el-videomarketing-para-atraer-mas-huespedes/)
+- [Gana Miles de Visitantes: La Nueva Forma de Crear Contenidos Turísticos en WordPress con IA](https://wordpress.tv/2024/10/31/gana-miles-de-visitantes-la-nueva-forma-de-crear-contenidos-turisticos-en-wordpress-con-ia/)
+- [SEO: Búsqueda de palabras clave para webs de hoteles](https://wordpress.tv/2024/10/31/seo-busqueda-de-palabras-clave-para-webs-de-hoteles/)
 - [Developer Hours: Exploring the Twenty Twenty-Five Theme](https://wordpress.tv/2024/10/29/developer-hours-exploring-the-twenty-twenty-five-theme/)
 - [Polyglots: WordPress Translation Onboarding](https://wordpress.tv/2024/10/28/polyglots-wordpress-translation-onboarding/)
 - [Polyglots: Introducción a las traducciones en WordPress](https://wordpress.tv/2024/10/28/polyglots-introduccion-a-las-traducciones-en-wordpress/)
@@ -363,19 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Consejos sobre teletrabajo en menos de un minuto](https://wordpress.tv/2024/10/20/consejos-sobre-teletrabajo-en-menos-de-un-minuto/)
 - [Calidad Laboral en el trabajo remoto](https://wordpress.tv/2024/10/20/calidad-laboral-en-el-trabajo-remoto/)
 - [WordPress y Aventuras Remotas: ¡Yo hago el café, tú haces la magia!](https://wordpress.tv/2024/10/20/wordpress-y-aventuras-remotas-yo-hago-el-cafe-tu-haces-la-magia/)
-- [Consejos de un despistáo y una organizá en su día a día](https://wordpress.tv/2024/10/20/consejos-de-un-despistao-y-una-organiza-en-su-dia-a-dia/)
-- [Mi Mochila y Mis Metas: La Vida de un Nómada Digital](https://wordpress.tv/2024/10/20/mi-mochila-y-mis-metas-la-vida-de-un-nomada-digital/)
-- [Trabajar en remoto me permite cocinar a diario para mi familia](https://wordpress.tv/2024/10/20/trabajar-en-remoto-me-permite-cocinar-a-diario-para-mi-familia/)
-- [Balance entre Tinta y Bloques: Equilibrando la Vida Profesional y Personal desde un Pequeño Apartame](https://wordpress.tv/2024/10/20/balance-entre-tinta-y-bloques-equilibrando-la-vida-profesional-y-personal-desde-un-pequeno-apartame/)
-- [Seis errores en la comunicación remota que no recomiendo &lpar;y uno que sí&rpar;](https://wordpress.tv/2024/10/20/seis-errores-en-la-comunicacion-remota-que-no-recomiendo-y-uno-que-si/)
-- [Eficiencia y colaboración: buenas prácticas para reuniones remotas exitosas](https://wordpress.tv/2024/10/20/eficiencia-y-colaboracion-buenas-practicas-para-reuniones-remotas-exitosas/)
-- [Desata el poder de WordPress: creando un entorno de trabajo remoto personalizado](https://wordpress.tv/2024/10/20/desata-el-poder-de-wordpress-creando-un-entorno-de-trabajo-remoto-personalizado/)
-- [Legalidad de 0 a 100 en WordPress](https://wordpress.tv/2024/10/20/legalidad-de-0-a-100-en-wordpress/)
-- [Designing with a block-first mindset](https://wordpress.tv/2024/10/17/designing-with-a-block-first-mindset/)
-- [WordPress showcase for designers](https://wordpress.tv/2024/10/17/wordpress-showcase-for-designers/)
-- [Fixing Plugin Check issues](https://wordpress.tv/2024/10/17/fixing-plugin-check-issues/)
-- [Cómo convencer a toda una comunidad que ser una comunidad inclusiva nos hace mejores](https://wordpress.tv/2024/10/17/como-convencer-a-toda-una-comunidad-que-ser-una-comunidad-inclusiva-nos-hace-mejores/)
-- [Cómo ser profesionales saludables en la era del teletrabajo](https://wordpress.tv/2024/10/17/como-ser-profesionales-saludables-en-la-era-del-teletrabajo/)
 <!-- WPTV:END -->
 
 ## Marketing
