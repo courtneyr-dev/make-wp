@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress/Odoo web &amp; domain configurator](https://jobs.wordpress.net/job/wordpress-odoo-web-domain-configurator/)
 - [Modifying and adding new feature to User Insights Plugin](https://jobs.wordpress.net/job/modifying-and-adding-new-feature-to-user-insights-plugin/)
 - [WordPress and IDX Support Specialist](https://jobs.wordpress.net/job/wordpress-and-idx-support-specialist-2/)
 - [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-8/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lead WordPress Developer for Fast-Growing Pet Company &lpar;Remote/Worldwide&rpar;](https://jobs.wordpress.net/job/lead-wordpress-developer-for-fast-growing-pet-company-remote-worldwide/)
 - [Ecommerce WordPress site needed for smal biz](https://jobs.wordpress.net/job/ecommerce-word-press-site-needed-for-smal-biz/)
 - [E-commerce/Website Developer](https://jobs.wordpress.net/job/e-commerce-website-developer/)
-- [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-3/)
 <!-- JOBS:END -->
 
 ## Central
