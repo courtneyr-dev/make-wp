@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Web accessibility guidelines to create inclusive websites](https://wordpress.tv/2024/10/31/web-accessibility-guidelines-to-create-inclusive-websites/)
+- [Finding a block theme for your design needs](https://wordpress.tv/2024/10/31/finding-a-block-theme-for-your-design-needs/)
 - [Turismo de interior, fiestas y actividades culturales: montando la guía definitiva de pueblos con WordPress](https://wordpress.tv/2024/10/31/turismo-de-interior-fiestas-y-actividades-culturales-montando-la-guia-definitiva-de-pueblos-con-wordpress/)
 - [¿Web propia, plataforma externa de reservas o mitad y mitad?](https://wordpress.tv/2024/10/31/web-propia-plataforma-externa-de-reservas-o-mitad-y-mitad/)
 - [La relevancia de WordPress dentro del modelo DTI &lpar;Destino Turístico Inteligente&rpar;](https://wordpress.tv/2024/10/31/la-relevancia-de-wordpress-dentro-del-modelo-dti-destino-turistico-inteligente/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Las herramientas que sirven SIEMPRE en cualquier oficio](https://wordpress.tv/2024/10/24/las-herramientas-que-sirven-siempre-en-cualquier-oficio/)
 - [Creating Your Own Contact Form Plugin – part 2](https://wordpress.tv/2024/10/24/creating-your-own-contact-form-plugin-part-2/)
 - [Creating a portfolio site with a block theme and patterns](https://wordpress.tv/2024/10/22/creating-a-portfolio-site-with-a-block-theme-and-patterns/)
-- [Custom Rest API – rejestracja i obsługa własnych endpointów w WordPress](https://wordpress.tv/2024/10/21/custom-rest-api-rejestracja-i-obsluga-wlasnych-endpointow-w-wordpress-2/)
-- [Presentación del evento](https://wordpress.tv/2024/10/20/presentacion-del-evento-2/)
 <!-- WPTV:END -->
 
 ## Marketing
