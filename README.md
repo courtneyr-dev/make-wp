@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for two plugins](https://make.wordpress.org/polyglots/2024/11/02/pte-request-for-two-plugins-9/)
 - [Message to @uki2017 about the…](https://make.wordpress.org/polyglots/2024/11/02/message-to-uki2017-about-the/)
 - [I’m currently using the Ultimate…](https://make.wordpress.org/polyglots/2024/11/02/im-currently-using-the-ultimate/)
 - [PTE Request for EventPrime plugin](https://make.wordpress.org/polyglots/2024/11/02/pte-request-for-eventprime-plugin-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for EventPrime plugin](https://make.wordpress.org/polyglots/2024/10/31/pte-request-for-eventprime-plugin/)
 - [PTE Request for SEATEXT FREE…](https://make.wordpress.org/polyglots/2024/10/31/pte-request-for-seatext-free/)
 - [Request for PTE MasteriyoLMS](https://make.wordpress.org/polyglots/2024/10/30/request-for-pte-masteriyolms/)
-- [PTE Request for NewsAlert Theme](https://make.wordpress.org/polyglots/2024/10/30/pte-request-for-newsalert-theme-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
