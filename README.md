@@ -351,6 +351,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Pilotage centralisé : Automatiser la gestion d’un écosystème WordPress grâce au No-Code](https://wordpress.tv/2024/11/02/pilotage-centralise-automatiser-la-gestion-dun-ecosysteme-wordpress-grace-au-no-code/)
+- [Comment contribuer à WordPress quand on n’a pas un profil technique](https://wordpress.tv/2024/11/02/comment-contribuer-a-wordpress-quand-on-na-pas-un-profil-technique/)
+- [Dites non au green washing, hébergez réellement écoresponsable !](https://wordpress.tv/2024/11/02/dites-non-au-green-washing-hebergez-reellement-ecoresponsable/)
 - [Web accessibility guidelines to create inclusive websites](https://wordpress.tv/2024/10/31/web-accessibility-guidelines-to-create-inclusive-websites/)
 - [Finding a block theme for your design needs](https://wordpress.tv/2024/10/31/finding-a-block-theme-for-your-design-needs/)
 - [Turismo de interior, fiestas y actividades culturales: montando la guía definitiva de pueblos con WordPress](https://wordpress.tv/2024/10/31/turismo-de-interior-fiestas-y-actividades-culturales-montando-la-guia-definitiva-de-pueblos-con-wordpress/)
@@ -373,9 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polyglots: WordPress Translation Onboarding](https://wordpress.tv/2024/10/28/polyglots-wordpress-translation-onboarding/)
 - [Polyglots: Introducción a las traducciones en WordPress](https://wordpress.tv/2024/10/28/polyglots-introduccion-a-las-traducciones-en-wordpress/)
 - [Del catálogo a la tienda: diseña para vender y no solo para mostrar](https://wordpress.tv/2024/10/27/del-catalogo-a-la-tienda-disena-para-vender-y-no-solo-para-mostrar/)
-- [Las herramientas que sirven SIEMPRE en cualquier oficio](https://wordpress.tv/2024/10/24/las-herramientas-que-sirven-siempre-en-cualquier-oficio/)
-- [Creating Your Own Contact Form Plugin – part 2](https://wordpress.tv/2024/10/24/creating-your-own-contact-form-plugin-part-2/)
-- [Creating a portfolio site with a block theme and patterns](https://wordpress.tv/2024/10/22/creating-a-portfolio-site-with-a-block-theme-and-patterns/)
 <!-- WPTV:END -->
 
 ## Marketing
