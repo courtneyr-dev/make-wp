@@ -355,7 +355,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Le point sur la sécurité en 2024](https://wordpress.tv/2024/11/03/le-point-sur-la-securite-en-2024/)
 - [Cauchemar en business WordPress : les défis du quotidien et comment les surmonter](https://wordpress.tv/2024/11/03/cauchemar-en-business-wordpress-les-defis-du-quotidien-et-comment-les-surmonter/)
 - [Assurance qualité : un impensé de l’industrie du numérique](https://wordpress.tv/2024/11/03/assurance-qualite-un-impense-de-lindustrie-du-numerique/)
-- [Comment contribuer à WordPress quand on n’a pas un profil technique](https://wordpress.tv/2024/11/03/comment-contribuer-a-wordpress-quand-on-na-pas-un-profil-technique-2/)
 - [Pilotage centralisé : Automatiser la gestion d’un écosystème WordPress grâce au No-Code](https://wordpress.tv/2024/11/02/pilotage-centralise-automatiser-la-gestion-dun-ecosysteme-wordpress-grace-au-no-code/)
 - [Dites non au green washing, hébergez réellement écoresponsable !](https://wordpress.tv/2024/11/02/dites-non-au-green-washing-hebergez-reellement-ecoresponsable/)
 - [Web accessibility guidelines to create inclusive websites](https://wordpress.tv/2024/10/31/web-accessibility-guidelines-to-create-inclusive-websites/)
@@ -376,6 +375,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo usar el videomarketing para atraer más huéspedes](https://wordpress.tv/2024/10/31/como-usar-el-videomarketing-para-atraer-mas-huespedes/)
 - [Gana Miles de Visitantes: La Nueva Forma de Crear Contenidos Turísticos en WordPress con IA](https://wordpress.tv/2024/10/31/gana-miles-de-visitantes-la-nueva-forma-de-crear-contenidos-turisticos-en-wordpress-con-ia/)
 - [SEO: Búsqueda de palabras clave para webs de hoteles](https://wordpress.tv/2024/10/31/seo-busqueda-de-palabras-clave-para-webs-de-hoteles/)
+- [Developer Hours: Exploring the Twenty Twenty-Five Theme](https://wordpress.tv/2024/10/29/developer-hours-exploring-the-twenty-twenty-five-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
