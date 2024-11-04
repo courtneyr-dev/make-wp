@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Páginas, entradas, categorías, etiquetas… ¿Por qué vivir con limitaciones?](https://wordpress.tv/2024/11/04/paginas-entradas-categorias-etiquetas-por-que-vivir-con-limitaciones/)
 - [IA, WordPress et enjeux juridiques : éclairages d’une avocate sur les risques et solutions pour se protéger](https://wordpress.tv/2024/11/03/ia-wordpress-et-enjeux-juridiques-eclairages-dune-avocate-sur-les-risques-et-solutions-pour-se-p/)
 - [Le point sur la sécurité en 2024](https://wordpress.tv/2024/11/03/le-point-sur-la-securite-en-2024/)
 - [Cauchemar en business WordPress : les défis du quotidien et comment les surmonter](https://wordpress.tv/2024/11/03/cauchemar-en-business-wordpress-les-defis-du-quotidien-et-comment-les-surmonter/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo usar el videomarketing para atraer más huéspedes](https://wordpress.tv/2024/10/31/como-usar-el-videomarketing-para-atraer-mas-huespedes/)
 - [Gana Miles de Visitantes: La Nueva Forma de Crear Contenidos Turísticos en WordPress con IA](https://wordpress.tv/2024/10/31/gana-miles-de-visitantes-la-nueva-forma-de-crear-contenidos-turisticos-en-wordpress-con-ia/)
 - [SEO: Búsqueda de palabras clave para webs de hoteles](https://wordpress.tv/2024/10/31/seo-busqueda-de-palabras-clave-para-webs-de-hoteles/)
-- [Developer Hours: Exploring the Twenty Twenty-Five Theme](https://wordpress.tv/2024/10/29/developer-hours-exploring-the-twenty-twenty-five-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
