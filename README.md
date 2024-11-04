@@ -572,6 +572,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## WordPress Foundation
 <!-- WPFoundation:START -->
+- [Kim Parsell Memorial Scholarship Expands to WordCamp Asia and WordCamp Europe!](https://wordpressfoundation.org/news/2024/kim-parsell-memorial-scholarship-expands-to-wordcamp-asia-and-wordcamp-europe/)
 - [2024 WordPress Foundation Meeting Minutes](https://wordpressfoundation.org/news/2024/meeting-minutes/)
 - [WordPress Foundation Donates $100,000 to Internet Archive](https://wordpressfoundation.org/news/2024/wordpress-foundation-donation/)
 - [Announcing the 2024 Kim Parsell Memorial Scholarship Recipient: Cynthia Norman](https://wordpressfoundation.org/news/2024/announcing-the-2024-kim-parsell-memorial-scholarship-recipient-cynthia-norman/)
@@ -581,5 +582,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Kim Parsell Memorial Scholarship for WordCamp US 2023](https://wordpressfoundation.org/news/2023/kim-parsell-memorial-scholarship-for-wordcamp-us-2023/)
 - [2022 Kim Parsell Memorial Scholarship Recipients: Margherita Pelonara, Simona Simionato, and Pooja Derashri](https://wordpressfoundation.org/news/2022/2022-kim-parsell-memorial-scholarship-recipients-margherita-pelonara-simona-simionato-and-pooja-derashri/)
 - [The Kim Parsell Memorial Scholarship Returns for WordCamp US 2022](https://wordpressfoundation.org/news/2022/the-kim-parsell-memorial-scholarship-returns-for-wordcamp-us-2022/)
-- [How is open source software good for business?](https://wordpressfoundation.org/news/2022/open-source-software-good-for-business/)
 <!-- WPFoundation:END -->
