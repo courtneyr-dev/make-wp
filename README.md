@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Theme update, plugin updates, website design modifications, security check full functionality testing including shop and Apple Pay/Google Pay integrtation.](https://jobs.wordpress.net/job/theme-update-plugin-updates-website-design-modifications-security-check-full-functionality-testing-including-shop-and-apple-pay-google-pay-integrtation/)
 - [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-26/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-4/)
 - [WordPress Technical Support](https://jobs.wordpress.net/job/wordpress-technical-support-6/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-8/)
 - [WordPress Arolax Theme Customization Specialist](https://jobs.wordpress.net/job/wordpress-arolax-theme-customization-specialist/)
 - [QA – Arolax WordPress Theme Tester](https://jobs.wordpress.net/job/qa-arolax-wordpress-theme-tester/)
-- [Arolax Theme – WordPress Web Developer](https://jobs.wordpress.net/job/arolax-theme-wordpress-web-developer/)
 <!-- JOBS:END -->
 
 ## Central
