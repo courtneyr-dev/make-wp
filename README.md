@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Sales Closer &lpar;Account Sales Executive&rpar;](https://jobs.wordpress.net/job/sales-closer-account-sales-executive/)
 - [Head of Sales or Sales Director](https://jobs.wordpress.net/job/head-of-sales-or-sales-director/)
 - [Buddybodss and sportpress pro compabilty](https://jobs.wordpress.net/job/buddybodss-and-sportpress-pro-compabilty/)
 - [Theme update, plugin updates, website design modifications, security check full functionality testing including shop and Apple Pay/Google Pay integrtation.](https://jobs.wordpress.net/job/theme-update-plugin-updates-website-design-modifications-security-check-full-functionality-testing-including-shop-and-apple-pay-google-pay-integrtation/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress/Odoo web &amp; domain configurator](https://jobs.wordpress.net/job/wordpress-odoo-web-domain-configurator/)
 - [Modifying and adding new feature to User Insights Plugin](https://jobs.wordpress.net/job/modifying-and-adding-new-feature-to-user-insights-plugin/)
 - [WordPress and IDX Support Specialist](https://jobs.wordpress.net/job/wordpress-and-idx-support-specialist-2/)
-- [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-8/)
 <!-- JOBS:END -->
 
 ## Central
