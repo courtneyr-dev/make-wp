@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-26/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-4/)
 - [WordPress Technical Support](https://jobs.wordpress.net/job/wordpress-technical-support-6/)
 - [WordPress/Odoo web &amp; domain configurator](https://jobs.wordpress.net/job/wordpress-odoo-web-domain-configurator/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Arolax Theme Customization Specialist](https://jobs.wordpress.net/job/wordpress-arolax-theme-customization-specialist/)
 - [QA – Arolax WordPress Theme Tester](https://jobs.wordpress.net/job/qa-arolax-wordpress-theme-tester/)
 - [Arolax Theme – WordPress Web Developer](https://jobs.wordpress.net/job/arolax-theme-wordpress-web-developer/)
-- [Lead WordPress Developer for Fast-Growing Pet Company &lpar;Remote/Worldwide&rpar;](https://jobs.wordpress.net/job/lead-wordpress-developer-for-fast-growing-pet-company-remote-worldwide/)
 <!-- JOBS:END -->
 
 ## Central
