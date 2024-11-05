@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Training Team Updates – November 2024](https://make.wordpress.org/community/2024/11/04/xpost-training-team-updates-november-2024/)
 - [Community Team Rep Nominations for 2025](https://make.wordpress.org/community/2024/11/01/community-team-rep-nominations-for-2025/)
 - [Pause on SWAG Shipments for WordPress Events, WordCamps, and Meetups](https://make.wordpress.org/community/2024/10/26/pause-on-swag-shipments-for-wordpress-events-wordcamps-and-meetups/)
 - [Community Team October Meeting Recap](https://make.wordpress.org/community/2024/10/10/community-team-october-meeting-recap/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 3 – October -2024](https://make.wordpress.org/community/2024/10/03/community-team-meeting-agenda-for-3-october-2024/)
 - [Community Team September Meeting Recap](https://make.wordpress.org/community/2024/09/25/community-team-september-meeting-recap/)
 - [Important Update: New Marketing/Advertising Guidelines for WordCamp and WordPress Events](https://make.wordpress.org/community/2024/09/16/important-update-new-marketing-advertising-guidelines-for-wordcamp-and-wordpress-events/)
-- [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/community/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
 <!-- COMMUNITY:END -->
 
 ## Meta
