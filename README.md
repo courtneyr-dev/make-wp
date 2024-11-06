@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Unlocking advanced SEO techniques: Part 1](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-1/)
+- [Unlocking advanced SEO techniques: Part 2](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-2/)
 - [Páginas, entradas, categorías, etiquetas… ¿Por qué vivir con limitaciones?](https://wordpress.tv/2024/11/04/paginas-entradas-categorias-etiquetas-por-que-vivir-con-limitaciones/)
 - [IA, WordPress et enjeux juridiques : éclairages d’une avocate sur les risques et solutions pour se protéger](https://wordpress.tv/2024/11/03/ia-wordpress-et-enjeux-juridiques-eclairages-dune-avocate-sur-les-risques-et-solutions-pour-se-p/)
 - [Le point sur la sécurité en 2024](https://wordpress.tv/2024/11/03/le-point-sur-la-securite-en-2024/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Diseños de bucles creativos para webs de turismo](https://wordpress.tv/2024/10/31/disenos-de-bucles-creativos-para-webs-de-turismo/)
 - [La magia del storytelling en el turismo](https://wordpress.tv/2024/10/31/la-magia-del-storytelling-en-el-turismo/)
 - [Cómo usar el videomarketing para atraer más huéspedes](https://wordpress.tv/2024/10/31/como-usar-el-videomarketing-para-atraer-mas-huespedes/)
-- [Gana Miles de Visitantes: La Nueva Forma de Crear Contenidos Turísticos en WordPress con IA](https://wordpress.tv/2024/10/31/gana-miles-de-visitantes-la-nueva-forma-de-crear-contenidos-turisticos-en-wordpress-con-ia/)
-- [SEO: Búsqueda de palabras clave para webs de hoteles](https://wordpress.tv/2024/10/31/seo-busqueda-de-palabras-clave-para-webs-de-hoteles/)
 <!-- WPTV:END -->
 
 ## Marketing
