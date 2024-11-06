@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 5 November 2024](https://make.wordpress.org/core/2024/11/06/performance-chat-summary-05-november-2024/)
 - [Performance Chat Agenda: 5 November 2024](https://make.wordpress.org/core/2024/11/05/performance-chat-agenda-05-november-2024/)
 - [Agenda, Dev Chat, Nov 6, 2024](https://make.wordpress.org/core/2024/11/05/agenda-dev-chat-november-6-2024/)
 - [Summary, Dev Chat, October 30, 2024](https://make.wordpress.org/core/2024/10/30/summary-dev-chat-october-30-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Miscellaneous Block Editor Changes in WordPress 6.7](https://make.wordpress.org/core/2024/10/20/miscellaneous-block-editor-changes-in-wordpress-6-7/)
 - [Auto Sizes for Lazy Loaded Images in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/auto-sizes-for-lazy-loaded-images-in-wordpress-6-7/)
 - [Post Editor iframing with meta boxes in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/post-editor-iframing-with-meta-boxes-in-wordpress-6-7/)
-- [Extending the Preview Dropdown Menu in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/extending-the-preview-dropdown-menu-in-wordpress-6-7/)
 <!-- CORE:END -->
 
 ## Design
