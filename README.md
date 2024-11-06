@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Impact and Growth: First Year of the Community Reactivation Project in Latin America](https://make.wordpress.org/community/2024/11/06/impact-and-growth-first-year-of-the-community-reactivation-project-in-latin-america/)
 - [X-post: Training Team Updates – November 2024](https://make.wordpress.org/community/2024/11/04/xpost-training-team-updates-november-2024/)
 - [Community Team Rep Nominations for 2025](https://make.wordpress.org/community/2024/11/01/community-team-rep-nominations-for-2025/)
 - [Pause on SWAG Shipments for WordPress Events, WordCamps, and Meetups](https://make.wordpress.org/community/2024/10/26/pause-on-swag-shipments-for-wordpress-events-wordcamps-and-meetups/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Project Wrap-Up: WordPress Meetup Chapter Program Review and Results](https://make.wordpress.org/community/2024/10/07/project-wrap-up-wordpress-meetup-chapter-program-review-and-results/)
 - [Community Team Meeting Agenda for 3 – October -2024](https://make.wordpress.org/community/2024/10/03/community-team-meeting-agenda-for-3-october-2024/)
 - [Community Team September Meeting Recap](https://make.wordpress.org/community/2024/09/25/community-team-september-meeting-recap/)
-- [Important Update: New Marketing/Advertising Guidelines for WordCamp and WordPress Events](https://make.wordpress.org/community/2024/09/16/important-update-new-marketing-advertising-guidelines-for-wordcamp-and-wordpress-events/)
 <!-- COMMUNITY:END -->
 
 ## Meta
