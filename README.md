@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Interview with Dan Tovbein from Greenpeace](https://wordpress.tv/2024/11/06/interview-with-dan-tovbein-from-greenpeace/)
 - [Unlocking advanced SEO techniques: Part 1](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-1/)
 - [Unlocking advanced SEO techniques: Part 2](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-2/)
 - [Páginas, entradas, categorías, etiquetas… ¿Por qué vivir con limitaciones?](https://wordpress.tv/2024/11/04/paginas-entradas-categorias-etiquetas-por-que-vivir-con-limitaciones/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Vivir viajando gracias a WordPress](https://wordpress.tv/2024/10/31/vivir-viajando-gracias-a-wordpress/)
 - [Diseños de bucles creativos para webs de turismo](https://wordpress.tv/2024/10/31/disenos-de-bucles-creativos-para-webs-de-turismo/)
 - [La magia del storytelling en el turismo](https://wordpress.tv/2024/10/31/la-magia-del-storytelling-en-el-turismo/)
-- [Cómo usar el videomarketing para atraer más huéspedes](https://wordpress.tv/2024/10/31/como-usar-el-videomarketing-para-atraer-mas-huespedes/)
 <!-- WPTV:END -->
 
 ## Marketing
