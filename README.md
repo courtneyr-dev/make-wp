@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 19.6? &lpar;6 Nov&rpar;](https://make.wordpress.org/core/2024/11/06/whats-new-in-gutenberg-15-9-31-may-2-2/)
 - [Summary, Dev Chat, November 6, 2024](https://make.wordpress.org/core/2024/11/06/summary-dev-chat-november-6-2024/)
 - [Performance Chat Summary: 5 November 2024](https://make.wordpress.org/core/2024/11/06/performance-chat-summary-05-november-2024/)
 - [Performance Chat Agenda: 5 November 2024](https://make.wordpress.org/core/2024/11/05/performance-chat-agenda-05-november-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Notes for Zoom Out in WordPress 6.7](https://make.wordpress.org/core/2024/10/21/developer-notes-for-zoom-out-in-wordpress-6-7/)
 - [New Plugin Template Registration API in WordPress 6.7](https://make.wordpress.org/core/2024/10/20/new-plugin-template-registration-api-in-wordpress-6-7/)
 - [Miscellaneous Block Editor Changes in WordPress 6.7](https://make.wordpress.org/core/2024/10/20/miscellaneous-block-editor-changes-in-wordpress-6-7/)
-- [Auto Sizes for Lazy Loaded Images in WordPress 6.7](https://make.wordpress.org/core/2024/10/18/auto-sizes-for-lazy-loaded-images-in-wordpress-6-7/)
 <!-- CORE:END -->
 
 ## Design
