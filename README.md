@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [Insert Codes]](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-insert-codes/)
+- [PTE Request for [Cookie Banner Plugin for WordPress – Consent Manager by AdSimple &lpar;DSGVO/GDPR&rpar;]](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-cookie-banner-plugin-for-wordpress-consent-manager-by-adsimple-dsgvo-gdpr/)
 - [PTE Request for TZM Copyright Block](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-tzm-copyright-block/)
 - [PTE Request for [Ship Discounts]](https://make.wordpress.org/polyglots/2024/11/05/pte-request-for-ship-discounts/)
 - [PTE Request for [Pdf Embed]](https://make.wordpress.org/polyglots/2024/11/05/post-title-pte-request-for-pdf-embed/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2024/11/02/pte-request-for-two-plugins-9/)
 - [Message to @uki2017 about the…](https://make.wordpress.org/polyglots/2024/11/02/message-to-uki2017-about-the/)
 - [I’m currently using the Ultimate…](https://make.wordpress.org/polyglots/2024/11/02/im-currently-using-the-ultimate/)
-- [PTE Request for EventPrime plugin](https://make.wordpress.org/polyglots/2024/11/02/pte-request-for-eventprime-plugin-2/)
-- [PTE Request for GoPray](https://make.wordpress.org/polyglots/2024/11/01/pte-request-for-gopray-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
