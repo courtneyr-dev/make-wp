@@ -529,7 +529,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Theme update, plugin updates, website design modifications, security check full functionality testing including shop and Apple Pay/Google Pay integrtation.](https://jobs.wordpress.net/job/theme-update-plugin-updates-website-design-modifications-security-check-full-functionality-testing-including-shop-and-apple-pay-google-pay-integrtation/)
 - [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-26/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-4/)
-- [WordPress Technical Support](https://jobs.wordpress.net/job/wordpress-technical-support-6/)
+- [WordPress/Odoo web &amp; domain configurator](https://jobs.wordpress.net/job/wordpress-odoo-web-domain-configurator/)
 <!-- JOBS:END -->
 
 ## Central
