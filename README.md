@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Meetup Organizer Newsletter: November 2024](https://make.wordpress.org/community/2024/11/06/meetup-organizer-newsletter-november-2024/)
 - [Community Team Meeting Agenda for 7 November 2024](https://make.wordpress.org/community/2024/11/06/community-team-meeting-agenda-for-7-november-2024/)
 - [Impact and Growth: First Year of the Community Reactivation Project in Latin America](https://make.wordpress.org/community/2024/11/06/impact-and-growth-first-year-of-the-community-reactivation-project-in-latin-america/)
 - [X-post: Training Team Updates – November 2024](https://make.wordpress.org/community/2024/11/04/xpost-training-team-updates-november-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Please join the WordPress Community Team as a Supporter of Cohort 2024-25](https://make.wordpress.org/community/2024/10/10/please-join-the-wordpress-community-team-as-a-supporter-of-cohort-2024-25/)
 - [Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2024/10/08/announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Project Wrap-Up: WordPress Meetup Chapter Program Review and Results](https://make.wordpress.org/community/2024/10/07/project-wrap-up-wordpress-meetup-chapter-program-review-and-results/)
-- [Community Team Meeting Agenda for 3 – October -2024](https://make.wordpress.org/community/2024/10/03/community-team-meeting-agenda-for-3-october-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
