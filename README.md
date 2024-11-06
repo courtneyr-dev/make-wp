@@ -351,6 +351,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Making Room at the Table: Empowering Marginalized Communities Using WordPress](https://wordpress.tv/2024/11/06/making-room-at-the-table-empowering-marginalized-communities-using-wordpress/)
+- [State of Multilingualism in WordPress](https://wordpress.tv/2024/11/06/state-of-multilingualism-in-wordpress/)
+- [From CMS to LMS: Building an Accessible and Engaging eLearning Experience](https://wordpress.tv/2024/11/06/from-cms-to-lms-building-an-accessible-and-engaging-elearning-experience/)
+- [From Free Plugin to 7-Figure Success: A No-Ads Journey to Profitable WordPress Business](https://wordpress.tv/2024/11/06/from-free-plugin-to-7-figure-success-a-no-ads-journey-to-profitable-wordpress-business/)
+- [Burnt Out Making Web Sites? What Your Next Career Could Be](https://wordpress.tv/2024/11/06/burnt-out-making-web-sites-what-your-next-career-could-be/)
+- [How to E-E-A-T Your Way to Better SEO](https://wordpress.tv/2024/11/06/how-to-e-e-a-t-your-way-to-better-seo/)
 - [Taming the Whirlwind – Growing Your Business While You’re Busy](https://wordpress.tv/2024/11/06/taming-the-whirlwind-growing-your-business-while-youre-busy/)
 - [5 Things You Can Do To Make Your Newsletter Stand Out In The Inbox](https://wordpress.tv/2024/11/06/5-things-you-can-do-to-make-your-newsletter-stand-out-in-the-inbox/)
 - [Mesa debate Turismo y OpenSource](https://wordpress.tv/2024/11/06/mesa-debate-turismo-y-opensource/)
@@ -370,12 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web accessibility guidelines to create inclusive websites](https://wordpress.tv/2024/10/31/web-accessibility-guidelines-to-create-inclusive-websites/)
 - [Finding a block theme for your design needs](https://wordpress.tv/2024/10/31/finding-a-block-theme-for-your-design-needs/)
 - [Turismo de interior, fiestas y actividades culturales: montando la guía definitiva de pueblos con WordPress](https://wordpress.tv/2024/10/31/turismo-de-interior-fiestas-y-actividades-culturales-montando-la-guia-definitiva-de-pueblos-con-wordpress/)
-- [¿Web propia, plataforma externa de reservas o mitad y mitad?](https://wordpress.tv/2024/10/31/web-propia-plataforma-externa-de-reservas-o-mitad-y-mitad/)
-- [La relevancia de WordPress dentro del modelo DTI &lpar;Destino Turístico Inteligente&rpar;](https://wordpress.tv/2024/10/31/la-relevancia-de-wordpress-dentro-del-modelo-dti-destino-turistico-inteligente/)
-- [Taller: Las API turísticas: mil y una formas de monetizar tu sitio web](https://wordpress.tv/2024/10/31/taller-las-api-turisticas-mil-y-una-formas-de-monetizar-tu-sitio-web/)
-- [Descubre el Potencial del Turismo Español con Datos Geoespaciales](https://wordpress.tv/2024/10/31/descubre-el-potencial-del-turismo-espanol-con-datos-geoespaciales/)
-- [Creando experiencias memorables: diseño web para yacimientos arqueológicos visitables](https://wordpress.tv/2024/10/31/creando-experiencias-memorables-diseno-web-para-yacimientos-arqueologicos-visitables/)
-- [Potencia tu empresa conectando WordPress con tu ficha de Google Business Profile](https://wordpress.tv/2024/10/31/potencia-tu-empresa-conectando-wordpress-con-tu-ficha-de-google-business-profile/)
 <!-- WPTV:END -->
 
 ## Marketing
