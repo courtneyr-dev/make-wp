@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Taming the Whirlwind – Growing Your Business While You’re Busy](https://wordpress.tv/2024/11/06/taming-the-whirlwind-growing-your-business-while-youre-busy/)
+- [5 Things You Can Do To Make Your Newsletter Stand Out In The Inbox](https://wordpress.tv/2024/11/06/5-things-you-can-do-to-make-your-newsletter-stand-out-in-the-inbox/)
 - [Mesa debate Turismo y OpenSource](https://wordpress.tv/2024/11/06/mesa-debate-turismo-y-opensource/)
 - [Apertura y Bienvenida](https://wordpress.tv/2024/11/06/apertura-y-bienvenida/)
 - [Growing in Accessibility](https://wordpress.tv/2024/11/06/growing-in-accessibility/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Descubre el Potencial del Turismo Español con Datos Geoespaciales](https://wordpress.tv/2024/10/31/descubre-el-potencial-del-turismo-espanol-con-datos-geoespaciales/)
 - [Creando experiencias memorables: diseño web para yacimientos arqueológicos visitables](https://wordpress.tv/2024/10/31/creando-experiencias-memorables-diseno-web-para-yacimientos-arqueologicos-visitables/)
 - [Potencia tu empresa conectando WordPress con tu ficha de Google Business Profile](https://wordpress.tv/2024/10/31/potencia-tu-empresa-conectando-wordpress-con-tu-ficha-de-google-business-profile/)
-- [Taller: Planteamiento de un proyecto de diseño web para un cliente del sector turístico](https://wordpress.tv/2024/10/31/taller-planteamiento-de-un-proyecto-de-diseno-web-para-un-cliente-del-sector-turistico/)
-- [Juventud rural y nuevas tecnologías como solución a la España vaciada](https://wordpress.tv/2024/10/31/juventud-rural-y-nuevas-tecnologias-como-solucion-a-la-espana-vaciada/)
 <!-- WPTV:END -->
 
 ## Marketing
