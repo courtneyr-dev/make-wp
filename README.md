@@ -351,6 +351,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordCamp Wrap-up Conversation](https://wordpress.tv/2024/11/06/wordcamp-wrap-up-conversation/)
+- [Thriving with WordPress Community](https://wordpress.tv/2024/11/06/thriving-with-wordpress-community/)
+- [Crash and Burn&lpar;out&rpar;: Navigating Through Rock Bottom of a ‘Forced’ Sabbatical](https://wordpress.tv/2024/11/06/crash-and-burnout-navigating-through-rock-bottom-of-a-forced-sabbatical/)
+- [Working across timezones as a productive developer](https://wordpress.tv/2024/11/06/working-across-timezones-as-a-productive-developer/)
+- [The Problem&lpar;s&rpar; with WordPress &lpar;not a rant session&rpar;](https://wordpress.tv/2024/11/06/the-problems-with-wordpress-not-a-rant-session/)
+- [WordPress: Empowering the Underserved in Rural Ontario](https://wordpress.tv/2024/11/06/wordpress-empowering-the-underserved-in-rural-ontario/)
+- [Remote work: More than just working remotely](https://wordpress.tv/2024/11/06/remote-work-more-than-just-working-remotely/)
 - [Making Room at the Table: Empowering Marginalized Communities Using WordPress](https://wordpress.tv/2024/11/06/making-room-at-the-table-empowering-marginalized-communities-using-wordpress/)
 - [State of Multilingualism in WordPress](https://wordpress.tv/2024/11/06/state-of-multilingualism-in-wordpress/)
 - [From CMS to LMS: Building an Accessible and Engaging eLearning Experience](https://wordpress.tv/2024/11/06/from-cms-to-lms-building-an-accessible-and-engaging-elearning-experience/)
@@ -369,13 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Páginas, entradas, categorías, etiquetas… ¿Por qué vivir con limitaciones?](https://wordpress.tv/2024/11/04/paginas-entradas-categorias-etiquetas-por-que-vivir-con-limitaciones/)
 - [IA, WordPress et enjeux juridiques : éclairages d’une avocate sur les risques et solutions pour se protéger](https://wordpress.tv/2024/11/03/ia-wordpress-et-enjeux-juridiques-eclairages-dune-avocate-sur-les-risques-et-solutions-pour-se-p/)
 - [Le point sur la sécurité en 2024](https://wordpress.tv/2024/11/03/le-point-sur-la-securite-en-2024/)
-- [Cauchemar en business WordPress : les défis du quotidien et comment les surmonter](https://wordpress.tv/2024/11/03/cauchemar-en-business-wordpress-les-defis-du-quotidien-et-comment-les-surmonter/)
-- [Assurance qualité : un impensé de l’industrie du numérique](https://wordpress.tv/2024/11/03/assurance-qualite-un-impense-de-lindustrie-du-numerique/)
-- [Pilotage centralisé : Automatiser la gestion d’un écosystème WordPress grâce au No-Code](https://wordpress.tv/2024/11/02/pilotage-centralise-automatiser-la-gestion-dun-ecosysteme-wordpress-grace-au-no-code/)
-- [Dites non au green washing, hébergez réellement écoresponsable !](https://wordpress.tv/2024/11/02/dites-non-au-green-washing-hebergez-reellement-ecoresponsable/)
-- [Web accessibility guidelines to create inclusive websites](https://wordpress.tv/2024/10/31/web-accessibility-guidelines-to-create-inclusive-websites/)
-- [Finding a block theme for your design needs](https://wordpress.tv/2024/10/31/finding-a-block-theme-for-your-design-needs/)
-- [Turismo de interior, fiestas y actividades culturales: montando la guía definitiva de pueblos con WordPress](https://wordpress.tv/2024/10/31/turismo-de-interior-fiestas-y-actividades-culturales-montando-la-guia-definitiva-de-pueblos-con-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
