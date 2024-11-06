@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-852/)
 - [Business Development Representative &lpar;BDR&rpar;](https://jobs.wordpress.net/job/business-development-representative-bdr/)
 - [Sales Development Representative &lpar;SDR&rpar;](https://jobs.wordpress.net/job/sales-development-representative-sdr/)
 - [Sales Closer &lpar;Account Sales Executive&rpar;](https://jobs.wordpress.net/job/sales-closer-account-sales-executive/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-26/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-4/)
 - [WordPress Technical Support](https://jobs.wordpress.net/job/wordpress-technical-support-6/)
-- [WordPress/Odoo web &amp; domain configurator](https://jobs.wordpress.net/job/wordpress-odoo-web-domain-configurator/)
 <!-- JOBS:END -->
 
 ## Central
