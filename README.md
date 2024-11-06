@@ -351,6 +351,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mesa debate Turismo y OpenSource](https://wordpress.tv/2024/11/06/mesa-debate-turismo-y-opensource/)
+- [Apertura y Bienvenida](https://wordpress.tv/2024/11/06/apertura-y-bienvenida/)
+- [Growing in Accessibility](https://wordpress.tv/2024/11/06/growing-in-accessibility/)
+- [Working in WordPress With American Companies](https://wordpress.tv/2024/11/06/working-in-wordpress-with-american-companies/)
 - [Interview with Dan Tovbein from Greenpeace](https://wordpress.tv/2024/11/06/interview-with-dan-tovbein-from-greenpeace/)
 - [Unlocking advanced SEO techniques: Part 1](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-1/)
 - [Unlocking advanced SEO techniques: Part 2](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-2/)
@@ -372,10 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Potencia tu empresa conectando WordPress con tu ficha de Google Business Profile](https://wordpress.tv/2024/10/31/potencia-tu-empresa-conectando-wordpress-con-tu-ficha-de-google-business-profile/)
 - [Taller: Planteamiento de un proyecto de diseño web para un cliente del sector turístico](https://wordpress.tv/2024/10/31/taller-planteamiento-de-un-proyecto-de-diseno-web-para-un-cliente-del-sector-turistico/)
 - [Juventud rural y nuevas tecnologías como solución a la España vaciada](https://wordpress.tv/2024/10/31/juventud-rural-y-nuevas-tecnologias-como-solucion-a-la-espana-vaciada/)
-- [La nueva manera de promocionar tu negocio turístico](https://wordpress.tv/2024/10/31/la-nueva-manera-de-promocionar-tu-negocio-turistico/)
-- [Vivir viajando gracias a WordPress](https://wordpress.tv/2024/10/31/vivir-viajando-gracias-a-wordpress/)
-- [Diseños de bucles creativos para webs de turismo](https://wordpress.tv/2024/10/31/disenos-de-bucles-creativos-para-webs-de-turismo/)
-- [La magia del storytelling en el turismo](https://wordpress.tv/2024/10/31/la-magia-del-storytelling-en-el-turismo/)
 <!-- WPTV:END -->
 
 ## Marketing
