@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Announcing the new WordPress Design System Figma library](https://make.wordpress.org/design/2024/11/07/announcing-the-new-wordpress-design-system-figma-library/)
 - [Design Share #67 &lpar;Oct 21-Nov 1&rpar;](https://make.wordpress.org/design/2024/11/01/design-share-67-oct-21-nov-1/)
 - [Feedback: Design System Component Pages](https://make.wordpress.org/design/2024/10/30/feedback-design-system-component-pages/)
 - [Design Share #66 &lpar;Oct 7-Oct18&rpar;](https://make.wordpress.org/design/2024/10/18/design-share-66-oct-7-oct18/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share #64 &lpar;Sep 9-Sep 20&rpar;](https://make.wordpress.org/design/2024/09/24/design-share-64-sep-9-sep-20/)
 - [Data Views Update #2](https://make.wordpress.org/design/2024/09/20/data-views-update-2/)
 - [Design Systems: Storybook Improvements](https://make.wordpress.org/design/2024/09/17/design-systems-storybook-improvements/)
-- [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/design/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
 <!-- DESIGN:END -->
 
 ## Mobile
