@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/11/07/pte-request-for-below-listed-themes-8/)
 - [PTE Request for Secure Custom Fields](https://make.wordpress.org/polyglots/2024/11/07/pte-request-for-secure-custom-fields/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2024/11/06/hello-i-am-the-theme-3/)
 - [Hi, I am Piang Pha….](https://make.wordpress.org/polyglots/2024/11/06/hi-i-am-piang-pha-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for TZM Copyright Block](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-tzm-copyright-block/)
 - [PTE Request for [Ship Discounts]](https://make.wordpress.org/polyglots/2024/11/05/pte-request-for-ship-discounts/)
 - [PTE Request for [Pdf Embed]](https://make.wordpress.org/polyglots/2024/11/05/post-title-pte-request-for-pdf-embed/)
-- [PTE Request for Store Locations Map](https://make.wordpress.org/polyglots/2024/11/04/pte-request-for-store-locations-map/)
 <!-- POLYGLOTS:END -->
 
 ## Support
