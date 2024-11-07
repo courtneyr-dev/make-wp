@@ -351,6 +351,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Gerenciando projetos com IA](https://wordpress.tv/2024/11/07/gerenciando-projetos-com-ia/)
+- [Minha experiência trabalhando em uma empresa internacional como a Human Made.](https://wordpress.tv/2024/11/07/minha-experiencia-trabalhando-em-uma-empresa-internacional-como-a-human-made/)
+- [Performance e Acessibilidade: Criando Experiências Sem Barreiras](https://wordpress.tv/2024/11/07/performance-e-acessibilidade-criando-experiencias-sem-barreiras/)
+- [Pare de utilizar o navegador para desenvolver](https://wordpress.tv/2024/11/07/pare-de-utilizar-o-navegador-para-desenvolver/)
 - [WordCamp Wrap-up Conversation](https://wordpress.tv/2024/11/06/wordcamp-wrap-up-conversation/)
 - [Thriving with WordPress Community](https://wordpress.tv/2024/11/06/thriving-with-wordpress-community/)
 - [Crash and Burn&lpar;out&rpar;: Navigating Through Rock Bottom of a ‘Forced’ Sabbatical](https://wordpress.tv/2024/11/06/crash-and-burnout-navigating-through-rock-bottom-of-a-forced-sabbatical/)
@@ -372,10 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Working in WordPress With American Companies](https://wordpress.tv/2024/11/06/working-in-wordpress-with-american-companies/)
 - [Interview with Dan Tovbein from Greenpeace](https://wordpress.tv/2024/11/06/interview-with-dan-tovbein-from-greenpeace/)
 - [Unlocking advanced SEO techniques: Part 1](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-1/)
-- [Unlocking advanced SEO techniques: Part 2](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-2/)
-- [Páginas, entradas, categorías, etiquetas… ¿Por qué vivir con limitaciones?](https://wordpress.tv/2024/11/04/paginas-entradas-categorias-etiquetas-por-que-vivir-con-limitaciones/)
-- [IA, WordPress et enjeux juridiques : éclairages d’une avocate sur les risques et solutions pour se protéger](https://wordpress.tv/2024/11/03/ia-wordpress-et-enjeux-juridiques-eclairages-dune-avocate-sur-les-risques-et-solutions-pour-se-p/)
-- [Le point sur la sécurité en 2024](https://wordpress.tv/2024/11/03/le-point-sur-la-securite-en-2024/)
 <!-- WPTV:END -->
 
 ## Marketing
