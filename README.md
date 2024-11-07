@@ -520,16 +520,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-853/)
+- [WordPress Site Needs Updating](https://jobs.wordpress.net/job/wordpress-site-needs-updating/)
+- [WordPress Arolax Theme Content Uploading Expert](https://jobs.wordpress.net/job/wordpress-arolax-theme-content-uploading-expert/)
+- [Arolax Theme Content Setup](https://jobs.wordpress.net/job/arolax-theme-content-setup/)
+- [Technical SEO Executive](https://jobs.wordpress.net/job/technical-seo-executive/)
+- [Migrating from Social Engine to WordPress](https://jobs.wordpress.net/job/migrating-from-social-engine-to-wordpress/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-852/)
 - [Business Development Representative &lpar;BDR&rpar;](https://jobs.wordpress.net/job/business-development-representative-bdr/)
 - [Sales Development Representative &lpar;SDR&rpar;](https://jobs.wordpress.net/job/sales-development-representative-sdr/)
 - [Sales Closer &lpar;Account Sales Executive&rpar;](https://jobs.wordpress.net/job/sales-closer-account-sales-executive/)
-- [Head of Sales or Sales Director](https://jobs.wordpress.net/job/head-of-sales-or-sales-director/)
-- [Buddybodss and sportpress pro compabilty](https://jobs.wordpress.net/job/buddybodss-and-sportpress-pro-compabilty/)
-- [Theme update, plugin updates, website design modifications, security check full functionality testing including shop and Apple Pay/Google Pay integrtation.](https://jobs.wordpress.net/job/theme-update-plugin-updates-website-design-modifications-security-check-full-functionality-testing-including-shop-and-apple-pay-google-pay-integrtation/)
-- [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-26/)
-- [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-4/)
-- [WordPress/Odoo web &amp; domain configurator](https://jobs.wordpress.net/job/wordpress-odoo-web-domain-configurator/)
 <!-- JOBS:END -->
 
 ## Central
