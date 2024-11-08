@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Overview of WordPress block theme terms and hierarchy](https://wordpress.tv/2024/11/07/overview-of-wordpress-block-theme-terms-and-hierarchy/)
 - [Design Thinking aplicado na construção de websites](https://wordpress.tv/2024/11/07/design-thinking-aplicado-na-construcao-de-websites/)
 - [Internacionalização de Carreira e Empresa](https://wordpress.tv/2024/11/07/internacionalizacao-de-carreira-e-empresa/)
 - [Gutenberg Custom Blocks: Começando do Zero](https://wordpress.tv/2024/11/07/gutenberg-custom-blocks-comecando-do-zero/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [5 Things You Can Do To Make Your Newsletter Stand Out In The Inbox](https://wordpress.tv/2024/11/06/5-things-you-can-do-to-make-your-newsletter-stand-out-in-the-inbox/)
 - [Mesa debate Turismo y OpenSource](https://wordpress.tv/2024/11/06/mesa-debate-turismo-y-opensource/)
 - [Apertura y Bienvenida](https://wordpress.tv/2024/11/06/apertura-y-bienvenida/)
-- [Growing in Accessibility](https://wordpress.tv/2024/11/06/growing-in-accessibility/)
 <!-- WPTV:END -->
 
 ## Marketing
