@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Editor request for my plugin](https://make.wordpress.org/polyglots/2024/11/08/editor-request-for-my-plugin-2/)
 - [PTE Request for EventPrime plugin](https://make.wordpress.org/polyglots/2024/11/08/pte-request-for-eventprime-plugin-3/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/11/08/hi-dear-mentors-we-have-153/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/11/07/pte-request-for-below-listed-themes-8/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – November 6, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/11/06/agenda-weekly-polyglots-chat-november-6-2024-1300-utc/)
 - [PTE Request for [Insert Codes]](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-insert-codes/)
 - [PTE Request for [Cookie Banner Plugin for WordPress – Consent Manager by AdSimple &lpar;DSGVO/GDPR&rpar;]](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-cookie-banner-plugin-for-wordpress-consent-manager-by-adsimple-dsgvo-gdpr/)
-- [PTE Request for TZM Copyright Block](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-tzm-copyright-block/)
 <!-- POLYGLOTS:END -->
 
 ## Support
