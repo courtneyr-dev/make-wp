@@ -295,6 +295,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-4)
+- [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-3)
 - [Developer Hours: Exploring the Block Bindings API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-block-bindings-api-wordpress-6-7)
 - [WordPressデータの引越方法について、様々なバリエーションを知ろう！](https://learn.wordpress.org/?meeting=wordpress%e3%83%87%e3%83%bc%e3%82%bf%e3%81%ae%e5%bc%95%e8%b6%8a%e6%96%b9%e6%b3%95%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%80%81%e6%a7%98%e3%80%85%e3%81%aa%e3%83%90%e3%83%aa%e3%82%a8%e3%83%bc%e3%82%b7)
 - [WordPress Users: Exploring new features introduced in 6.7](https://learn.wordpress.org/?meeting=wordpress-users-exploring-new-features-introduced-in-6-7)
@@ -318,8 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: A First Look at the Template Registration API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-a-first-look-at-the-template-registration-api-in-wordpress-6-7)
 - [How to install WordPress on an Ubuntu VPS: OpenLiteSpeed edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-openlitespeed-edition)
 - [Using the Grid block](https://learn.wordpress.org/?meeting=using-the-grid-block)
-- [Adding theme.json in classic themes](https://learn.wordpress.org/?meeting=adding-theme-json-in-classic-themes)
-- [Developer Hours: Hello, Blocks! – An Introduction to Block Development](https://learn.wordpress.org/?meeting=developer-hours-hello-blocks-an-introduction-to-block-development)
 <!-- SLS:END -->
 
 ## Test
