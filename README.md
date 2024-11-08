@@ -351,6 +351,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Design Thinking aplicado na construção de websites](https://wordpress.tv/2024/11/07/design-thinking-aplicado-na-construcao-de-websites/)
+- [Internacionalização de Carreira e Empresa](https://wordpress.tv/2024/11/07/internacionalizacao-de-carreira-e-empresa/)
+- [Gutenberg Custom Blocks: Começando do Zero](https://wordpress.tv/2024/11/07/gutenberg-custom-blocks-comecando-do-zero/)
 - [Gerenciando projetos com IA](https://wordpress.tv/2024/11/07/gerenciando-projetos-com-ia/)
 - [Minha experiência trabalhando em uma empresa internacional como a Human Made.](https://wordpress.tv/2024/11/07/minha-experiencia-trabalhando-em-uma-empresa-internacional-como-a-human-made/)
 - [Performance e Acessibilidade: Criando Experiências Sem Barreiras](https://wordpress.tv/2024/11/07/performance-e-acessibilidade-criando-experiencias-sem-barreiras/)
@@ -373,9 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mesa debate Turismo y OpenSource](https://wordpress.tv/2024/11/06/mesa-debate-turismo-y-opensource/)
 - [Apertura y Bienvenida](https://wordpress.tv/2024/11/06/apertura-y-bienvenida/)
 - [Growing in Accessibility](https://wordpress.tv/2024/11/06/growing-in-accessibility/)
-- [Working in WordPress With American Companies](https://wordpress.tv/2024/11/06/working-in-wordpress-with-american-companies/)
-- [Interview with Dan Tovbein from Greenpeace](https://wordpress.tv/2024/11/06/interview-with-dan-tovbein-from-greenpeace/)
-- [Unlocking advanced SEO techniques: Part 1](https://wordpress.tv/2024/11/05/unlocking-advanced-seo-techniques-part-1/)
 <!-- WPTV:END -->
 
 ## Marketing
