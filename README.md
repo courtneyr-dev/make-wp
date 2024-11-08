@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for EventPrime plugin](https://make.wordpress.org/polyglots/2024/11/08/pte-request-for-eventprime-plugin-3/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/11/08/hi-dear-mentors-we-have-153/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/11/07/pte-request-for-below-listed-themes-8/)
 - [PTE Request for Secure Custom Fields](https://make.wordpress.org/polyglots/2024/11/07/pte-request-for-secure-custom-fields/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2024/11/06/hello-i-am-the-theme-3/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [Insert Codes]](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-insert-codes/)
 - [PTE Request for [Cookie Banner Plugin for WordPress – Consent Manager by AdSimple &lpar;DSGVO/GDPR&rpar;]](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-cookie-banner-plugin-for-wordpress-consent-manager-by-adsimple-dsgvo-gdpr/)
 - [PTE Request for TZM Copyright Block](https://make.wordpress.org/polyglots/2024/11/06/pte-request-for-tzm-copyright-block/)
-- [PTE Request for [Ship Discounts]](https://make.wordpress.org/polyglots/2024/11/05/pte-request-for-ship-discounts/)
-- [PTE Request for [Pdf Embed]](https://make.wordpress.org/polyglots/2024/11/05/post-title-pte-request-for-pdf-embed/)
 <!-- POLYGLOTS:END -->
 
 ## Support
