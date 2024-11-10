@@ -520,6 +520,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-5/)
+- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-2/)
+- [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-86/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-853/)
 - [WordPress Site Needs Updating](https://jobs.wordpress.net/job/wordpress-site-needs-updating/)
 - [WordPress Arolax Theme Content Uploading Expert](https://jobs.wordpress.net/job/wordpress-arolax-theme-content-uploading-expert/)
@@ -527,9 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Technical SEO Executive](https://jobs.wordpress.net/job/technical-seo-executive/)
 - [Migrating from Social Engine to WordPress](https://jobs.wordpress.net/job/migrating-from-social-engine-to-wordpress/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-852/)
-- [Business Development Representative &lpar;BDR&rpar;](https://jobs.wordpress.net/job/business-development-representative-bdr/)
-- [Sales Development Representative &lpar;SDR&rpar;](https://jobs.wordpress.net/job/sales-development-representative-sdr/)
-- [Sales Closer &lpar;Account Sales Executive&rpar;](https://jobs.wordpress.net/job/sales-closer-account-sales-executive/)
 <!-- JOBS:END -->
 
 ## Central
