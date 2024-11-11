@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress’te Ürün Odaklı Büyüme](https://wordpress.tv/2024/11/11/wordpresste-urun-odakli-buyume/)
+- [Telling Memorable WordPress Stories](https://wordpress.tv/2024/11/11/telling-memorable-wordpress-stories/)
 - [Bienvenida y presentación de la comunidad WordPress](https://wordpress.tv/2024/11/11/bienvenida-y-presentacion-de-la-comunidad-wordpress/)
 - [Conoce a los equipos de la comunidad WordPress](https://wordpress.tv/2024/11/11/conoce-a-los-equipos-de-la-comunidad-wordpress/)
 - [Cómo conseguir trabajo con WordPress](https://wordpress.tv/2024/11/11/como-conseguir-trabajo-con-wordpress/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gerenciando projetos com IA](https://wordpress.tv/2024/11/07/gerenciando-projetos-com-ia/)
 - [Minha experiência trabalhando em uma empresa internacional como a Human Made.](https://wordpress.tv/2024/11/07/minha-experiencia-trabalhando-em-uma-empresa-internacional-como-a-human-made/)
 - [Performance e Acessibilidade: Criando Experiências Sem Barreiras](https://wordpress.tv/2024/11/07/performance-e-acessibilidade-criando-experiencias-sem-barreiras/)
-- [Pare de utilizar o navegador para desenvolver](https://wordpress.tv/2024/11/07/pare-de-utilizar-o-navegador-para-desenvolver/)
-- [WordCamp Wrap-up Conversation](https://wordpress.tv/2024/11/06/wordcamp-wrap-up-conversation/)
 <!-- WPTV:END -->
 
 ## Marketing
