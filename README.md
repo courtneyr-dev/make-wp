@@ -351,6 +351,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Por que é tão importante apoiar WordCamps](https://wordpress.tv/2024/11/11/por-que-e-tao-importante-apoiar-wordcamps/)
+- [Painel: Fomento e Gestão Comunitária – Encerramento WordCamp Rio 2024](https://wordpress.tv/2024/11/11/painel-fomento-e-gestao-comunitaria-encerramento-wordcamp-rio-2024/)
+- [WordPress Corporativo: desafios comuns e como superá-los](https://wordpress.tv/2024/11/11/wordpress-corporativo-desafios-comuns-e-como-supera-los/)
+- [Colaborar ou Desaparecer](https://wordpress.tv/2024/11/11/colaborar-ou-desaparecer/)
+- [Acessibilidade na Web #ParaTodosVerem](https://wordpress.tv/2024/11/11/acessibilidade-na-web-paratodosverem/)
+- [Introdução ao PHP Code_Sniffer e WordPress Coding Standards](https://wordpress.tv/2024/11/11/introducao-ao-php-code_sniffer-e-wordpress-coding-standards/)
+- [Segurança no desenvolvimento de plugins para WordPress](https://wordpress.tv/2024/11/11/seguranca-no-desenvolvimento-de-plugins-para-wordpress/)
 - [Comment contribuer à WordPress quand on n’a pas un profil technique](https://wordpress.tv/2024/11/09/comment-contribuer-a-wordpress-quand-on-na-pas-un-profil-technique/)
 - [Overview of WordPress block theme terms and hierarchy](https://wordpress.tv/2024/11/07/overview-of-wordpress-block-theme-terms-and-hierarchy/)
 - [Design Thinking aplicado na construção de websites](https://wordpress.tv/2024/11/07/design-thinking-aplicado-na-construcao-de-websites/)
@@ -369,13 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remote work: More than just working remotely](https://wordpress.tv/2024/11/06/remote-work-more-than-just-working-remotely/)
 - [Making Room at the Table: Empowering Marginalized Communities Using WordPress](https://wordpress.tv/2024/11/06/making-room-at-the-table-empowering-marginalized-communities-using-wordpress/)
 - [State of Multilingualism in WordPress](https://wordpress.tv/2024/11/06/state-of-multilingualism-in-wordpress/)
-- [From CMS to LMS: Building an Accessible and Engaging eLearning Experience](https://wordpress.tv/2024/11/06/from-cms-to-lms-building-an-accessible-and-engaging-elearning-experience/)
-- [From Free Plugin to 7-Figure Success: A No-Ads Journey to Profitable WordPress Business](https://wordpress.tv/2024/11/06/from-free-plugin-to-7-figure-success-a-no-ads-journey-to-profitable-wordpress-business/)
-- [Burnt Out Making Web Sites? What Your Next Career Could Be](https://wordpress.tv/2024/11/06/burnt-out-making-web-sites-what-your-next-career-could-be/)
-- [How to E-E-A-T Your Way to Better SEO](https://wordpress.tv/2024/11/06/how-to-e-e-a-t-your-way-to-better-seo/)
-- [Taming the Whirlwind – Growing Your Business While You’re Busy](https://wordpress.tv/2024/11/06/taming-the-whirlwind-growing-your-business-while-youre-busy/)
-- [5 Things You Can Do To Make Your Newsletter Stand Out In The Inbox](https://wordpress.tv/2024/11/06/5-things-you-can-do-to-make-your-newsletter-stand-out-in-the-inbox/)
-- [Mesa debate Turismo y OpenSource](https://wordpress.tv/2024/11/06/mesa-debate-turismo-y-opensource/)
 <!-- WPTV:END -->
 
 ## Marketing
