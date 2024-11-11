@@ -354,6 +354,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Por que é tão importante apoiar WordCamps](https://wordpress.tv/2024/11/11/por-que-e-tao-importante-apoiar-wordcamps/)
 - [Painel: Fomento e Gestão Comunitária – Encerramento WordCamp Rio 2024](https://wordpress.tv/2024/11/11/painel-fomento-e-gestao-comunitaria-encerramento-wordcamp-rio-2024/)
 - [WordPress Corporativo: desafios comuns e como superá-los](https://wordpress.tv/2024/11/11/wordpress-corporativo-desafios-comuns-e-como-supera-los/)
+- [Painel: Estratégias de Criação de Conteúdo](https://wordpress.tv/2024/11/11/painel-estrategias-de-criacao-de-conteudo/)
 - [Colaborar ou Desaparecer](https://wordpress.tv/2024/11/11/colaborar-ou-desaparecer/)
 - [Acessibilidade na Web #ParaTodosVerem](https://wordpress.tv/2024/11/11/acessibilidade-na-web-paratodosverem/)
 - [Introdução ao PHP Code_Sniffer e WordPress Coding Standards](https://wordpress.tv/2024/11/11/introducao-ao-php-code_sniffer-e-wordpress-coding-standards/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress: Empowering the Underserved in Rural Ontario](https://wordpress.tv/2024/11/06/wordpress-empowering-the-underserved-in-rural-ontario/)
 - [Remote work: More than just working remotely](https://wordpress.tv/2024/11/06/remote-work-more-than-just-working-remotely/)
 - [Making Room at the Table: Empowering Marginalized Communities Using WordPress](https://wordpress.tv/2024/11/06/making-room-at-the-table-empowering-marginalized-communities-using-wordpress/)
-- [State of Multilingualism in WordPress](https://wordpress.tv/2024/11/06/state-of-multilingualism-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
