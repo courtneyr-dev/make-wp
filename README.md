@@ -351,6 +351,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bienvenida y presentación de la comunidad WordPress](https://wordpress.tv/2024/11/11/bienvenida-y-presentacion-de-la-comunidad-wordpress/)
+- [Conoce a los equipos de la comunidad WordPress](https://wordpress.tv/2024/11/11/conoce-a-los-equipos-de-la-comunidad-wordpress/)
+- [Cómo conseguir trabajo con WordPress](https://wordpress.tv/2024/11/11/como-conseguir-trabajo-con-wordpress/)
+- [Menu not appearing in appearance tab WordPress. Widgets &amp; Menus Missing](https://wordpress.tv/2024/11/11/menu-not-appearing-in-appearance-tab-wordpress-widgets-menus-missing/)
+- [Entdecke die WordPress-Kommunikation mit Slack](https://wordpress.tv/2024/11/11/entdecke-die-wordpress-kommunikation-mit-slack/)
+- [Optimización de Ventas en E-commerce con Chatbots Inteligentes](https://wordpress.tv/2024/11/11/optimizacion-de-ventas-en-e-commerce-con-chatbots-inteligentes/)
+- [TTFB: El Primer Paso Hacia una Experiencia de Compra Inolvidable.](https://wordpress.tv/2024/11/11/ttfb-el-primer-paso-hacia-una-experiencia-de-compra-inolvidable/)
 - [Por que é tão importante apoiar WordCamps](https://wordpress.tv/2024/11/11/por-que-e-tao-importante-apoiar-wordcamps/)
 - [Painel: Fomento e Gestão Comunitária – Encerramento WordCamp Rio 2024](https://wordpress.tv/2024/11/11/painel-fomento-e-gestao-comunitaria-encerramento-wordcamp-rio-2024/)
 - [WordPress Corporativo: desafios comuns e como superá-los](https://wordpress.tv/2024/11/11/wordpress-corporativo-desafios-comuns-e-como-supera-los/)
@@ -369,13 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance e Acessibilidade: Criando Experiências Sem Barreiras](https://wordpress.tv/2024/11/07/performance-e-acessibilidade-criando-experiencias-sem-barreiras/)
 - [Pare de utilizar o navegador para desenvolver](https://wordpress.tv/2024/11/07/pare-de-utilizar-o-navegador-para-desenvolver/)
 - [WordCamp Wrap-up Conversation](https://wordpress.tv/2024/11/06/wordcamp-wrap-up-conversation/)
-- [Thriving with WordPress Community](https://wordpress.tv/2024/11/06/thriving-with-wordpress-community/)
-- [Crash and Burn&lpar;out&rpar;: Navigating Through Rock Bottom of a ‘Forced’ Sabbatical](https://wordpress.tv/2024/11/06/crash-and-burnout-navigating-through-rock-bottom-of-a-forced-sabbatical/)
-- [Working across timezones as a productive developer](https://wordpress.tv/2024/11/06/working-across-timezones-as-a-productive-developer/)
-- [The Problem&lpar;s&rpar; with WordPress &lpar;not a rant session&rpar;](https://wordpress.tv/2024/11/06/the-problems-with-wordpress-not-a-rant-session/)
-- [WordPress: Empowering the Underserved in Rural Ontario](https://wordpress.tv/2024/11/06/wordpress-empowering-the-underserved-in-rural-ontario/)
-- [Remote work: More than just working remotely](https://wordpress.tv/2024/11/06/remote-work-more-than-just-working-remotely/)
-- [Making Room at the Table: Empowering Marginalized Communities Using WordPress](https://wordpress.tv/2024/11/06/making-room-at-the-table-empowering-marginalized-communities-using-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
