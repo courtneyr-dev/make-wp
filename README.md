@@ -520,16 +520,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-21/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-40/)
+- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-2/)
+- [QA – WordPress plugin tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-23/)
 - [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-5/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-2/)
 - [WordPress Plugin Developer](https://jobs.wordpress.net/job/wordpress-plugin-developer-86/)
 - [WordPress Site Needs Updating](https://jobs.wordpress.net/job/wordpress-site-needs-updating/)
 - [WordPress Arolax Theme Content Uploading Expert](https://jobs.wordpress.net/job/wordpress-arolax-theme-content-uploading-expert/)
 - [Arolax Theme Content Setup](https://jobs.wordpress.net/job/arolax-theme-content-setup/)
-- [Technical SEO Executive](https://jobs.wordpress.net/job/technical-seo-executive/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-852/)
-- [Business Development Representative &lpar;BDR&rpar;](https://jobs.wordpress.net/job/business-development-representative-bdr/)
-- [Sales Development Representative &lpar;SDR&rpar;](https://jobs.wordpress.net/job/sales-development-representative-sdr/)
 <!-- JOBS:END -->
 
 ## Central
