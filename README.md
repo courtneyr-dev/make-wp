@@ -528,8 +528,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Arolax Theme Content Uploading Expert](https://jobs.wordpress.net/job/wordpress-arolax-theme-content-uploading-expert/)
 - [Arolax Theme Content Setup](https://jobs.wordpress.net/job/arolax-theme-content-setup/)
 - [Technical SEO Executive](https://jobs.wordpress.net/job/technical-seo-executive/)
-- [Migrating from Social Engine to WordPress](https://jobs.wordpress.net/job/migrating-from-social-engine-to-wordpress/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-852/)
+- [Business Development Representative &lpar;BDR&rpar;](https://jobs.wordpress.net/job/business-development-representative-bdr/)
 <!-- JOBS:END -->
 
 ## Central
