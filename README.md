@@ -506,6 +506,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.7 “Rollins”](https://wordpress.org/news/2024/11/rollins/)
 - [WordPress 6.7 Release Candidate 3](https://wordpress.org/news/2024/11/wordpress-6-7-release-candidate-3/)
 - [WordPress 6.7 Release Candidate 2](https://wordpress.org/news/2024/10/wordpress-6-7-release-candidate-2/)
 - [WordPress Community Creates 1,000 Block Themes in 1,000 Days](https://wordpress.org/news/2024/10/wordpress-community-creates-1000-block-themes-in-1000-days/)
@@ -515,7 +516,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Engine Promotions &amp; Coupons](https://wordpress.org/news/2024/10/wp-engine-promotions/)
 - [WordPress 6.7 Beta 3](https://wordpress.org/news/2024/10/wordpress-6-7-beta-3/)
 - [Secure Custom Fields](https://wordpress.org/news/2024/10/secure-custom-fields/)
-- [Forking is Beautiful](https://wordpress.org/news/2024/10/spoon/)
 <!-- NEWS:END -->
 
 ## Jobs
