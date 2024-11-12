@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Exploring WordPress 6.7](https://wordpress.tv/2024/11/12/exploring-wordpress-6-7/)
 - [From Code to Leadership: Inspiring Engineers to Embrace Leadership Roles](https://wordpress.tv/2024/11/11/from-code-to-leadership-inspiring-engineers-to-embrace-leadership-roles/)
 - [WordPress’te Ürün Odaklı Büyüme](https://wordpress.tv/2024/11/11/wordpresste-urun-odakli-buyume/)
 - [Telling Memorable WordPress Stories](https://wordpress.tv/2024/11/11/telling-memorable-wordpress-stories/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Internacionalização de Carreira e Empresa](https://wordpress.tv/2024/11/07/internacionalizacao-de-carreira-e-empresa/)
 - [Gutenberg Custom Blocks: Começando do Zero](https://wordpress.tv/2024/11/07/gutenberg-custom-blocks-comecando-do-zero/)
 - [Gerenciando projetos com IA](https://wordpress.tv/2024/11/07/gerenciando-projetos-com-ia/)
-- [Minha experiência trabalhando em uma empresa internacional como a Human Made.](https://wordpress.tv/2024/11/07/minha-experiencia-trabalhando-em-uma-empresa-internacional-como-a-human-made/)
 <!-- WPTV:END -->
 
 ## Marketing
