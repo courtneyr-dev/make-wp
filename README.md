@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [WP_HTML_Unsupported_Exception::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_unsupported_exception/__construct/)
-- [WP_HTML_Active_Formatting_Elements::clear_up_to_last_marker&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_active_formatting_elements/clear_up_to_last_marker/)
-- [WP_HTML_Active_Formatting_Elements::insert_marker&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_active_formatting_elements/insert_marker/)
-- [WP_Dependencies::get_etag&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_dependencies/get_etag/)
-- [WP_Image_Editor_GD::set_quality&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_image_editor_gd/set_quality/)
-- [WP_Block_Metadata_Registry::get_plugin_dir&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/get_plugin_dir/)
-- [WP_Block_Metadata_Registry::get_wpinc_dir&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/get_wpinc_dir/)
-- [WP_Block_Metadata_Registry::default_identifier_callback&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/default_identifier_callback/)
-- [WP_Block_Metadata_Registry::has_metadata&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/has_metadata/)
-- [WP_Block_Metadata_Registry::find_collection_path&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/find_collection_path/)
+- [WP_Exception](https://developer.wordpress.org/reference/classes/wp_exception/)
+- [block_bindings_source_value](https://developer.wordpress.org/reference/hooks/block_bindings_source_value/)
+- [WP_Font_Face_Resolver::get_fonts_from_style_variations&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_font_face_resolver/get_fonts_from_style_variations/)
+- [unregister_block_template&lpar;&rpar;](https://developer.wordpress.org/reference/functions/unregister_block_template/)
+- [register_block_template&lpar;&rpar;](https://developer.wordpress.org/reference/functions/register_block_template/)
+- [WP_Script_Modules::print_a11y_script_module_html&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_script_modules/print_a11y_script_module_html/)
+- [script_module_data_{$module_id}](https://developer.wordpress.org/reference/hooks/script_module_data_module_id/)
+- [WP_Script_Modules::print_script_module_data&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_script_modules/print_script_module_data/)
+- [feed_links_extra_args](https://developer.wordpress.org/reference/hooks/feed_links_extra_args/)
+- [feed_links_args](https://developer.wordpress.org/reference/hooks/feed_links_args/)
 <!-- DEVHUB:END -->
 
 ## Themes
