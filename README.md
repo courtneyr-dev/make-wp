@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Agenda for November 13, 2024](https://make.wordpress.org/meta/2024/11/13/agenda-for-november-13-2024/)
 - [Agenda for October 30, 2024](https://make.wordpress.org/meta/2024/10/30/agenda-for-october-30-2024/)
 - [Agenda for October 16, 2024](https://make.wordpress.org/meta/2024/10/16/agenda-for-october-16-2024/)
 - [Agenda for October 1, 2024](https://make.wordpress.org/meta/2024/10/02/agenda-for-october-1-2024/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Upcoming Security Changes for Plugin and Theme Authors on WordPress.org](https://make.wordpress.org/meta/2024/09/04/xpost-upcoming-security-changes-for-plugin-and-theme-authors-on-wordpress-org/)
 - [Agenda for August 7, 2024](https://make.wordpress.org/meta/2024/08/07/agenda-for-august-7-2024/)
 - [X-post: Meet the new Learn WordPress](https://make.wordpress.org/meta/2024/08/02/xpost-meet-the-new-learn-wordpress/)
-- [WordCamp US Contributor Day](https://make.wordpress.org/meta/2024/07/24/wordcamp-us-contributor-day/)
 <!-- META:END -->
 
 ## Training
