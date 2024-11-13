@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [wp_print_font_faces_from_style_variations&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_print_font_faces_from_style_variations/)
+- [get_user&lpar;&rpar;](https://developer.wordpress.org/reference/functions/get_user/)
+- [wp_is_heic_image_mime_type&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_is_heic_image_mime_type/)
+- [wp_get_wp_version&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_wp_version/)
+- [wp_create_block_style_variation_instance_name&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_create_block_style_variation_instance_name/)
+- [user_can_for_site&lpar;&rpar;](https://developer.wordpress.org/reference/functions/user_can_for_site/)
+- [current_user_can_for_site&lpar;&rpar;](https://developer.wordpress.org/reference/functions/current_user_can_for_site/)
+- [wp_check_comment_data&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_check_comment_data/)
 - [WP_Exception](https://developer.wordpress.org/reference/classes/wp_exception/)
 - [block_bindings_source_value](https://developer.wordpress.org/reference/hooks/block_bindings_source_value/)
-- [WP_Font_Face_Resolver::get_fonts_from_style_variations&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_font_face_resolver/get_fonts_from_style_variations/)
-- [unregister_block_template&lpar;&rpar;](https://developer.wordpress.org/reference/functions/unregister_block_template/)
-- [register_block_template&lpar;&rpar;](https://developer.wordpress.org/reference/functions/register_block_template/)
-- [WP_Script_Modules::print_a11y_script_module_html&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_script_modules/print_a11y_script_module_html/)
-- [script_module_data_{$module_id}](https://developer.wordpress.org/reference/hooks/script_module_data_module_id/)
-- [WP_Script_Modules::print_script_module_data&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_script_modules/print_script_module_data/)
-- [feed_links_extra_args](https://developer.wordpress.org/reference/hooks/feed_links_extra_args/)
-- [feed_links_args](https://developer.wordpress.org/reference/hooks/feed_links_args/)
 <!-- DEVHUB:END -->
 
 ## Themes
