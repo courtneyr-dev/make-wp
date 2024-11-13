@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [So You’ve Published Your Website, Now What? Essential Tools and Strategies for Securing and Optimizing Your New Website](https://wordpress.tv/2024/11/13/ron-brennan-ron-brennan-so-youve-published-your-website-now-what-essential-tools-and-strategies-for-securing-and-optimizing-your-new-website/)
 - [Project Management for ADHD’ers](https://wordpress.tv/2024/11/13/shanta-r-nathwani-tantienhime-shanta-r-nathwani-tantienhime-project-management-for-adhders/)
 - [Designing a Joy-Filled Workflow: Integrating Purpose, Productivity, and Personal Balance into Freelancing and WordPress Development](https://wordpress.tv/2024/11/13/christine-baker-marriage-christine-baker-marriage-designing-a-joy-filled-workflow-integrating-purpose-productivity-and-personal-balance-into-freelancing-and-wordpress-development/)
 - [Exploring WordPress 6.7](https://wordpress.tv/2024/11/12/exploring-wordpress-6-7/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Comment contribuer à WordPress quand on n’a pas un profil technique](https://wordpress.tv/2024/11/09/comment-contribuer-a-wordpress-quand-on-na-pas-un-profil-technique/)
 - [Overview of WordPress block theme terms and hierarchy](https://wordpress.tv/2024/11/07/overview-of-wordpress-block-theme-terms-and-hierarchy/)
 - [Design Thinking aplicado na construção de websites](https://wordpress.tv/2024/11/07/design-thinking-aplicado-na-construcao-de-websites/)
-- [Internacionalização de Carreira e Empresa](https://wordpress.tv/2024/11/07/internacionalizacao-de-carreira-e-empresa/)
 <!-- WPTV:END -->
 
 ## Marketing
