@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Bindings](https://developer.wordpress.org/block-editor/reference-guides/block-api/block-bindings/)
-- [Using TypeScript](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/using-typescript/)
-- [Creating Tables with Plugins](https://developer.wordpress.org/plugins/creating-tables-with-plugins/)
-- [@wordpress/fields](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-fields/)
-- [Understanding global state, local context and derived state](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/undestanding-global-state-local-context-and-derived-state/)
-- [The Reactive and Declarative mindset](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/the-reactive-and-declarative-mindset/)
-- [Core Concepts](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/)
-- [Server-side rendering: Processing directives on the server](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/core-concepts/server-side-rendering/)
-- [Composite](https://developer.wordpress.org/block-editor/reference-guides/components/composite/)
-- [wp site generate](https://developer.wordpress.org/cli/commands/site/generate/)
+- [WP_HTML_Unsupported_Exception::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_unsupported_exception/__construct/)
+- [WP_HTML_Active_Formatting_Elements::clear_up_to_last_marker&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_active_formatting_elements/clear_up_to_last_marker/)
+- [WP_HTML_Active_Formatting_Elements::insert_marker&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_html_active_formatting_elements/insert_marker/)
+- [WP_Dependencies::get_etag&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_dependencies/get_etag/)
+- [WP_Image_Editor_GD::set_quality&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_image_editor_gd/set_quality/)
+- [WP_Block_Metadata_Registry::get_plugin_dir&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/get_plugin_dir/)
+- [WP_Block_Metadata_Registry::get_wpinc_dir&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/get_wpinc_dir/)
+- [WP_Block_Metadata_Registry::default_identifier_callback&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/default_identifier_callback/)
+- [WP_Block_Metadata_Registry::has_metadata&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/has_metadata/)
+- [WP_Block_Metadata_Registry::find_collection_path&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_block_metadata_registry/find_collection_path/)
 <!-- DEVHUB:END -->
 
 ## Themes
