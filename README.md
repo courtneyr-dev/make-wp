@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Project Management for ADHD’ers](https://wordpress.tv/2024/11/13/shanta-r-nathwani-tantienhime-shanta-r-nathwani-tantienhime-project-management-for-adhders/)
 - [Designing a Joy-Filled Workflow: Integrating Purpose, Productivity, and Personal Balance into Freelancing and WordPress Development](https://wordpress.tv/2024/11/13/christine-baker-marriage-christine-baker-marriage-designing-a-joy-filled-workflow-integrating-purpose-productivity-and-personal-balance-into-freelancing-and-wordpress-development/)
 - [Exploring WordPress 6.7](https://wordpress.tv/2024/11/12/exploring-wordpress-6-7/)
 - [From Code to Leadership: Inspiring Engineers to Embrace Leadership Roles](https://wordpress.tv/2024/11/11/from-code-to-leadership-inspiring-engineers-to-embrace-leadership-roles/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Overview of WordPress block theme terms and hierarchy](https://wordpress.tv/2024/11/07/overview-of-wordpress-block-theme-terms-and-hierarchy/)
 - [Design Thinking aplicado na construção de websites](https://wordpress.tv/2024/11/07/design-thinking-aplicado-na-construcao-de-websites/)
 - [Internacionalização de Carreira e Empresa](https://wordpress.tv/2024/11/07/internacionalizacao-de-carreira-e-empresa/)
-- [Gutenberg Custom Blocks: Começando do Zero](https://wordpress.tv/2024/11/07/gutenberg-custom-blocks-comecando-do-zero/)
 <!-- WPTV:END -->
 
 ## Marketing
