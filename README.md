@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Baselinker-Woo](https://make.wordpress.org/polyglots/2024/11/14/pte-request-for-baselinker-woo/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/11/14/hi-dear-mentors-we-have-154/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/11/14/pte-request-for-below-listed-themes-9/)
 - [Agenda: Weekly Polyglots Chat – November 13, 2024 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/11/13/agenda-weekly-polyglots-chat-november-13-2024-700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Better Messages](https://make.wordpress.org/polyglots/2024/11/12/pte-request-for-better-messages/)
 - [PTE Request for H5P](https://make.wordpress.org/polyglots/2024/11/11/pte-request-for-h5p/)
 - [Translation review and PTE request…](https://make.wordpress.org/polyglots/2024/11/11/translation-review-and-pte-request-2/)
-- [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2024/11/10/pte-request-for-performance-lab/)
 <!-- POLYGLOTS:END -->
 
 ## Support
