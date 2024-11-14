@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Site Interactivity Using H5P](https://wordpress.tv/2024/11/14/trevor-johnson-steigelman-trevor-johnson-steigelman-site-interactivity-using-h5p/)
 - [Digital Media Arts on WordPress](https://wordpress.tv/2024/11/14/erik-schneider-erik-schneider-digital-media-arts-on-wordpress/)
 - [Auditing your Site for Success: Tips and Tricks from a Developer turned Solutions Architect](https://wordpress.tv/2024/11/14/miriam-goldman-miriam-goldman-auditing-your-site-for-success-tips-and-tricks-from-a-developer-turned-solutions-architect/)
 - [From Learning to Leading: Empowering WordPress Communities through Education](https://wordpress.tv/2024/11/14/robbie-adair-robbie-adair-from-learning-to-leading-empowering-wordpress-communities-through-education/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Entdecke die WordPress-Kommunikation mit Slack](https://wordpress.tv/2024/11/11/entdecke-die-wordpress-kommunikation-mit-slack/)
 - [Optimización de Ventas en E-commerce con Chatbots Inteligentes](https://wordpress.tv/2024/11/11/optimizacion-de-ventas-en-e-commerce-con-chatbots-inteligentes/)
 - [TTFB: El Primer Paso Hacia una Experiencia de Compra Inolvidable.](https://wordpress.tv/2024/11/11/ttfb-el-primer-paso-hacia-una-experiencia-de-compra-inolvidable/)
-- [Por que é tão importante apoiar WordCamps](https://wordpress.tv/2024/11/11/por-que-e-tao-importante-apoiar-wordcamps/)
 <!-- WPTV:END -->
 
 ## Marketing
