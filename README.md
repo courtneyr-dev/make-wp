@@ -351,6 +351,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Setting up my first Printful/WooCommerce store](https://wordpress.tv/2024/11/14/freed-freed-setting-up-my-first-printful-woocommerce-store/)
+- [Journey Into the WordPress Community &lpar;1-year Anniversary Journey&rpar;](https://wordpress.tv/2024/11/14/james-lau-james-lau-journey-into-the-wordpress-community-1-year-anniversary-journey/)
+- [Mastering Advanced Custom Fields for Customization](https://wordpress.tv/2024/11/14/matt-graham-matt-graham-mastering-advanced-custom-fields-for-customization/)
+- [5 Things You Can Do To Make Your Newsletter Stand Out In The Inbox](https://wordpress.tv/2024/11/14/adrian-tobey-adrian-tobey-5-things-you-can-do-to-make-your-newsletter-stand-out-in-the-inbox/)
+- [Level Up! Taking your WordPress Code up a Notch](https://wordpress.tv/2024/11/14/amanda-giles-amanda-giles-level-up-taking-your-wordpress-code-up-a-notch/)
 - [Do you really need all those plugins?](https://wordpress.tv/2024/11/14/ben-dunkle-ben-dunkle-do-you-really-need-all-those-plugins/)
 - [So You’ve Published Your Website, Now What? Essential Tools and Strategies for Securing and Optimizing Your New Website](https://wordpress.tv/2024/11/13/ron-brennan-ron-brennan-so-youve-published-your-website-now-what-essential-tools-and-strategies-for-securing-and-optimizing-your-new-website/)
 - [Project Management for ADHD’ers](https://wordpress.tv/2024/11/13/shanta-r-nathwani-tantienhime-shanta-r-nathwani-tantienhime-project-management-for-adhders/)
@@ -371,11 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Corporativo: desafios comuns e como superá-los](https://wordpress.tv/2024/11/11/wordpress-corporativo-desafios-comuns-e-como-supera-los/)
 - [Painel: Estratégias de Criação de Conteúdo](https://wordpress.tv/2024/11/11/painel-estrategias-de-criacao-de-conteudo/)
 - [Colaborar ou Desaparecer](https://wordpress.tv/2024/11/11/colaborar-ou-desaparecer/)
-- [Acessibilidade na Web #ParaTodosVerem](https://wordpress.tv/2024/11/11/acessibilidade-na-web-paratodosverem/)
-- [Introdução ao PHP Code_Sniffer e WordPress Coding Standards](https://wordpress.tv/2024/11/11/introducao-ao-php-code_sniffer-e-wordpress-coding-standards/)
-- [Segurança no desenvolvimento de plugins para WordPress](https://wordpress.tv/2024/11/11/seguranca-no-desenvolvimento-de-plugins-para-wordpress/)
-- [Comment contribuer à WordPress quand on n’a pas un profil technique](https://wordpress.tv/2024/11/09/comment-contribuer-a-wordpress-quand-on-na-pas-un-profil-technique/)
-- [Overview of WordPress block theme terms and hierarchy](https://wordpress.tv/2024/11/07/overview-of-wordpress-block-theme-terms-and-hierarchy/)
 <!-- WPTV:END -->
 
 ## Marketing
