@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [From Learning to Leading: Empowering WordPress Communities through Education](https://wordpress.tv/2024/11/14/robbie-adair-robbie-adair-from-learning-to-leading-empowering-wordpress-communities-through-education/)
+- [Burnt Out Making Web Sites? What Your Next Career Could Be.](https://wordpress.tv/2024/11/14/bud-kraus-bud-kraus-burnt-out-making-web-sites-what-your-next-career-could-be/)
 - [Setting up my first Printful/WooCommerce store](https://wordpress.tv/2024/11/14/freed-freed-setting-up-my-first-printful-woocommerce-store/)
 - [Journey Into the WordPress Community &lpar;1-year Anniversary Journey&rpar;](https://wordpress.tv/2024/11/14/james-lau-james-lau-journey-into-the-wordpress-community-1-year-anniversary-journey/)
 - [Mastering Advanced Custom Fields for Customization](https://wordpress.tv/2024/11/14/matt-graham-matt-graham-mastering-advanced-custom-fields-for-customization/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Por que é tão importante apoiar WordCamps](https://wordpress.tv/2024/11/11/por-que-e-tao-importante-apoiar-wordcamps/)
 - [Painel: Fomento e Gestão Comunitária – Encerramento WordCamp Rio 2024](https://wordpress.tv/2024/11/11/painel-fomento-e-gestao-comunitaria-encerramento-wordcamp-rio-2024/)
 - [WordPress Corporativo: desafios comuns e como superá-los](https://wordpress.tv/2024/11/11/wordpress-corporativo-desafios-comuns-e-como-supera-los/)
-- [Painel: Estratégias de Criação de Conteúdo](https://wordpress.tv/2024/11/11/painel-estrategias-de-criacao-de-conteudo/)
-- [Colaborar ou Desaparecer](https://wordpress.tv/2024/11/11/colaborar-ou-desaparecer/)
 <!-- WPTV:END -->
 
 ## Marketing
