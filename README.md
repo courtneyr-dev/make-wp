@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Digital Media Arts on WordPress](https://wordpress.tv/2024/11/14/erik-schneider-erik-schneider-digital-media-arts-on-wordpress/)
+- [Auditing your Site for Success: Tips and Tricks from a Developer turned Solutions Architect](https://wordpress.tv/2024/11/14/miriam-goldman-miriam-goldman-auditing-your-site-for-success-tips-and-tricks-from-a-developer-turned-solutions-architect/)
 - [From Learning to Leading: Empowering WordPress Communities through Education](https://wordpress.tv/2024/11/14/robbie-adair-robbie-adair-from-learning-to-leading-empowering-wordpress-communities-through-education/)
 - [Burnt Out Making Web Sites? What Your Next Career Could Be.](https://wordpress.tv/2024/11/14/bud-kraus-bud-kraus-burnt-out-making-web-sites-what-your-next-career-could-be/)
 - [Setting up my first Printful/WooCommerce store](https://wordpress.tv/2024/11/14/freed-freed-setting-up-my-first-printful-woocommerce-store/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Optimización de Ventas en E-commerce con Chatbots Inteligentes](https://wordpress.tv/2024/11/11/optimizacion-de-ventas-en-e-commerce-con-chatbots-inteligentes/)
 - [TTFB: El Primer Paso Hacia una Experiencia de Compra Inolvidable.](https://wordpress.tv/2024/11/11/ttfb-el-primer-paso-hacia-una-experiencia-de-compra-inolvidable/)
 - [Por que é tão importante apoiar WordCamps](https://wordpress.tv/2024/11/11/por-que-e-tao-importante-apoiar-wordcamps/)
-- [Painel: Fomento e Gestão Comunitária – Encerramento WordCamp Rio 2024](https://wordpress.tv/2024/11/11/painel-fomento-e-gestao-comunitaria-encerramento-wordcamp-rio-2024/)
-- [WordPress Corporativo: desafios comuns e como superá-los](https://wordpress.tv/2024/11/11/wordpress-corporativo-desafios-comuns-e-como-supera-los/)
 <!-- WPTV:END -->
 
 ## Marketing
