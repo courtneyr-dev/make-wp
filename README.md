@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [State of the Word 2024](https://make.wordpress.org/community/2024/11/15/state-of-the-word-2024/)
 - [Community Team November Meeting Recap](https://make.wordpress.org/community/2024/11/13/community-team-november-meeting-recap/)
 - [Meetup Organizer Newsletter: November 2024](https://make.wordpress.org/community/2024/11/06/meetup-organizer-newsletter-november-2024/)
 - [Community Team Meeting Agenda for 7 November 2024](https://make.wordpress.org/community/2024/11/06/community-team-meeting-agenda-for-7-november-2024/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pause on SWAG Shipments for WordPress Events, WordCamps, and Meetups](https://make.wordpress.org/community/2024/10/26/pause-on-swag-shipments-for-wordpress-events-wordcamps-and-meetups/)
 - [Community Team October Meeting Recap](https://make.wordpress.org/community/2024/10/10/community-team-october-meeting-recap/)
 - [Please join the WordPress Community Team as a Supporter of Cohort 2024-25](https://make.wordpress.org/community/2024/10/10/please-join-the-wordpress-community-team-as-a-supporter-of-cohort-2024-25/)
-- [Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/community/2024/10/08/announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 <!-- COMMUNITY:END -->
 
 ## Meta
