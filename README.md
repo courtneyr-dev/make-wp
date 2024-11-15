@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the Style Book as a design guide](https://wordpress.tv/2024/11/14/using-the-style-book-as-a-design-guide/)
+- [Customizing theme settings: Colors, fonts, typography and layout](https://wordpress.tv/2024/11/14/customizing-theme-settings-colors-fonts-typography-and-layout/)
 - [Site Interactivity Using H5P](https://wordpress.tv/2024/11/14/trevor-johnson-steigelman-trevor-johnson-steigelman-site-interactivity-using-h5p/)
 - [Digital Media Arts on WordPress](https://wordpress.tv/2024/11/14/erik-schneider-erik-schneider-digital-media-arts-on-wordpress/)
 - [Auditing your Site for Success: Tips and Tricks from a Developer turned Solutions Architect](https://wordpress.tv/2024/11/14/miriam-goldman-miriam-goldman-auditing-your-site-for-success-tips-and-tricks-from-a-developer-turned-solutions-architect/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo conseguir trabajo con WordPress](https://wordpress.tv/2024/11/11/como-conseguir-trabajo-con-wordpress/)
 - [Menu not appearing in appearance tab WordPress. Widgets &amp; Menus Missing](https://wordpress.tv/2024/11/11/menu-not-appearing-in-appearance-tab-wordpress-widgets-menus-missing/)
 - [Entdecke die WordPress-Kommunikation mit Slack](https://wordpress.tv/2024/11/11/entdecke-die-wordpress-kommunikation-mit-slack/)
-- [Optimización de Ventas en E-commerce con Chatbots Inteligentes](https://wordpress.tv/2024/11/11/optimizacion-de-ventas-en-e-commerce-con-chatbots-inteligentes/)
-- [TTFB: El Primer Paso Hacia una Experiencia de Compra Inolvidable.](https://wordpress.tv/2024/11/11/ttfb-el-primer-paso-hacia-una-experiencia-de-compra-inolvidable/)
 <!-- WPTV:END -->
 
 ## Marketing
