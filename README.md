@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “Tutor LMS Elementor Addons” Plugin](https://make.wordpress.org/polyglots/2024/11/16/pte-request-for-tutor-lms-elementor-addons-plugin/)
 - [CLPTE request in Broken Link Checker](https://make.wordpress.org/polyglots/2024/11/15/clpte-request-in-broken-link-checker/)
 - [PTE Request for Aruba WP Migration Tool](https://make.wordpress.org/polyglots/2024/11/15/pte-request-for-aruba-wp-migration-tool/)
 - [PTE Request for Baselinker-Woo](https://make.wordpress.org/polyglots/2024/11/14/pte-request-for-baselinker-woo/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.7 zh_CN packaging issues](https://make.wordpress.org/polyglots/2024/11/13/wordpress-6-7-zh_cn-packaging-issues/)
 - [Pte request for wheel of life pro.](https://make.wordpress.org/polyglots/2024/11/13/pte-request-for-wheel-of-life-pro/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2024/11/13/hello-polyglots-308/)
-- [PTE Request for Better Messages](https://make.wordpress.org/polyglots/2024/11/12/pte-request-for-better-messages/)
 <!-- POLYGLOTS:END -->
 
 ## Support
