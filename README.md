@@ -351,6 +351,18 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [SEO para E-Commerce](https://wordpress.tv/2024/11/17/seo-para-e-commerce/)
+- [Reportes personalizados para WooCommerce Analytics](https://wordpress.tv/2024/11/17/reportes-personalizados-para-woocommerce-analytics/)
+- [¿Aún realizas tus propias entregas con exceles? Automatiza con Woocommerce y Detrack](https://wordpress.tv/2024/11/17/aun-realizas-tus-propias-entregas-con-exceles-automatiza-con-woocommerce-y-detrack/)
+- [Estrategias para cerrar ventas como chat setter / Chat closer](https://wordpress.tv/2024/11/17/estrategias-para-cerrar-ventas-como-chat-setter-chat-closer/)
+- [4 Tips en 10 minutos para que tu E-commerce destaque en Google](https://wordpress.tv/2024/11/17/4-tips-en-10-minutos-para-que-tu-e-commerce-destaque-en-google/)
+- [Método STOP-F para iniciar a presupuestar como emprendedor](https://wordpress.tv/2024/11/17/metodo-stop-f-para-iniciar-a-presupuestar-como-emprendedor/)
+- [Automatización: el aliado del comercio](https://wordpress.tv/2024/11/17/automatizacion-el-aliado-del-comercio/)
+- [Cómo Instalar y Optimizar un Sistema de Afiliados en tu E-commerce para Aumentar las Ventas](https://wordpress.tv/2024/11/17/como-instalar-y-optimizar-un-sistema-de-afiliados-en-tu-e-commerce-para-aumentar-las-ventas/)
+- [De la cocina al desarrollo: Ingredientes para una Web sabrosa, lucrativa y sustanciosa](https://wordpress.tv/2024/11/17/de-la-cocina-al-desarrollo-ingredientes-para-una-web-sabrosa-lucrativa-y-sustanciosa/)
+- [De Consultas a Conversaciones: Optimiza las búsquedas en tu e-commerce con ChatGPT](https://wordpress.tv/2024/11/17/de-consultas-a-conversaciones-optimiza-las-busquedas-en-tu-e-commerce-con-chatgpt/)
+- [Scrum y Gestión de Proyectos para el Éxito en E-commerce](https://wordpress.tv/2024/11/17/scrum-y-gestion-de-proyectos-para-el-exito-en-e-commerce/)
+- [Cómo aumentar las ventas de tu e-commerce con content marketing](https://wordpress.tv/2024/11/17/como-aumentar-las-ventas-de-tu-e-commerce-con-content-marketing/)
 - [Using the Style Book as a design guide](https://wordpress.tv/2024/11/14/using-the-style-book-as-a-design-guide/)
 - [Customizing theme settings: Colors, fonts, typography and layout](https://wordpress.tv/2024/11/14/customizing-theme-settings-colors-fonts-typography-and-layout/)
 - [Site Interactivity Using H5P](https://wordpress.tv/2024/11/14/trevor-johnson-steigelman-trevor-johnson-steigelman-site-interactivity-using-h5p/)
@@ -364,18 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [5 Things You Can Do To Make Your Newsletter Stand Out In The Inbox](https://wordpress.tv/2024/11/14/adrian-tobey-adrian-tobey-5-things-you-can-do-to-make-your-newsletter-stand-out-in-the-inbox/)
 - [Level Up! Taking your WordPress Code up a Notch](https://wordpress.tv/2024/11/14/amanda-giles-amanda-giles-level-up-taking-your-wordpress-code-up-a-notch/)
 - [Do you really need all those plugins?](https://wordpress.tv/2024/11/14/ben-dunkle-ben-dunkle-do-you-really-need-all-those-plugins/)
-- [So You’ve Published Your Website, Now What? Essential Tools and Strategies for Securing and Optimizing Your New Website](https://wordpress.tv/2024/11/13/ron-brennan-ron-brennan-so-youve-published-your-website-now-what-essential-tools-and-strategies-for-securing-and-optimizing-your-new-website/)
-- [Project Management for ADHD’ers](https://wordpress.tv/2024/11/13/shanta-r-nathwani-tantienhime-shanta-r-nathwani-tantienhime-project-management-for-adhders/)
-- [Designing a Joy-Filled Workflow: Integrating Purpose, Productivity, and Personal Balance into Freelancing and WordPress Development](https://wordpress.tv/2024/11/13/christine-baker-marriage-christine-baker-marriage-designing-a-joy-filled-workflow-integrating-purpose-productivity-and-personal-balance-into-freelancing-and-wordpress-development/)
-- [Exploring WordPress 6.7](https://wordpress.tv/2024/11/12/exploring-wordpress-6-7/)
-- [From Code to Leadership: Inspiring Engineers to Embrace Leadership Roles](https://wordpress.tv/2024/11/11/from-code-to-leadership-inspiring-engineers-to-embrace-leadership-roles/)
-- [WordPress’te Ürün Odaklı Büyüme](https://wordpress.tv/2024/11/11/wordpresste-urun-odakli-buyume/)
-- [Telling Memorable WordPress Stories](https://wordpress.tv/2024/11/11/telling-memorable-wordpress-stories/)
-- [Bienvenida y presentación de la comunidad WordPress](https://wordpress.tv/2024/11/11/bienvenida-y-presentacion-de-la-comunidad-wordpress/)
-- [Conoce a los equipos de la comunidad WordPress](https://wordpress.tv/2024/11/11/conoce-a-los-equipos-de-la-comunidad-wordpress/)
-- [Cómo conseguir trabajo con WordPress](https://wordpress.tv/2024/11/11/como-conseguir-trabajo-con-wordpress/)
-- [Menu not appearing in appearance tab WordPress. Widgets &amp; Menus Missing](https://wordpress.tv/2024/11/11/menu-not-appearing-in-appearance-tab-wordpress-widgets-menus-missing/)
-- [Entdecke die WordPress-Kommunikation mit Slack](https://wordpress.tv/2024/11/11/entdecke-die-wordpress-kommunikation-mit-slack/)
 <!-- WPTV:END -->
 
 ## Marketing
