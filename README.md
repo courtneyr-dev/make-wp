@@ -351,10 +351,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Estrategias para cerrar ventas como chat setter / Chat closer](https://wordpress.tv/2024/11/17/estrategias-para-cerrar-ventas-como-chat-setter-chat-closer/)
 - [SEO para E-Commerce](https://wordpress.tv/2024/11/17/seo-para-e-commerce/)
 - [Reportes personalizados para WooCommerce Analytics](https://wordpress.tv/2024/11/17/reportes-personalizados-para-woocommerce-analytics/)
 - [¿Aún realizas tus propias entregas con exceles? Automatiza con Woocommerce y Detrack](https://wordpress.tv/2024/11/17/aun-realizas-tus-propias-entregas-con-exceles-automatiza-con-woocommerce-y-detrack/)
-- [Estrategias para cerrar ventas como chat setter / Chat closer](https://wordpress.tv/2024/11/17/estrategias-para-cerrar-ventas-como-chat-setter-chat-closer/)
 - [4 Tips en 10 minutos para que tu E-commerce destaque en Google](https://wordpress.tv/2024/11/17/4-tips-en-10-minutos-para-que-tu-e-commerce-destaque-en-google/)
 - [Método STOP-F para iniciar a presupuestar como emprendedor](https://wordpress.tv/2024/11/17/metodo-stop-f-para-iniciar-a-presupuestar-como-emprendedor/)
 - [Automatización: el aliado del comercio](https://wordpress.tv/2024/11/17/automatizacion-el-aliado-del-comercio/)
