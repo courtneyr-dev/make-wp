@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Online Meetup Series 1: Session 1: Introduction To WordPress](https://wordpress.tv/2024/11/18/online-meetup-series1-session-1-introduction-to-wordpress/)
 - [Estrategias para cerrar ventas como chat setter / Chat closer](https://wordpress.tv/2024/11/17/estrategias-para-cerrar-ventas-como-chat-setter-chat-closer/)
 - [SEO para E-Commerce](https://wordpress.tv/2024/11/17/seo-para-e-commerce/)
 - [Reportes personalizados para WooCommerce Analytics](https://wordpress.tv/2024/11/17/reportes-personalizados-para-woocommerce-analytics/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mastering Advanced Custom Fields for Customization](https://wordpress.tv/2024/11/14/matt-graham-matt-graham-mastering-advanced-custom-fields-for-customization/)
 - [5 Things You Can Do To Make Your Newsletter Stand Out In The Inbox](https://wordpress.tv/2024/11/14/adrian-tobey-adrian-tobey-5-things-you-can-do-to-make-your-newsletter-stand-out-in-the-inbox/)
 - [Level Up! Taking your WordPress Code up a Notch](https://wordpress.tv/2024/11/14/amanda-giles-amanda-giles-level-up-taking-your-wordpress-code-up-a-notch/)
-- [Do you really need all those plugins?](https://wordpress.tv/2024/11/14/ben-dunkle-ben-dunkle-do-you-really-need-all-those-plugins/)
 <!-- WPTV:END -->
 
 ## Marketing
