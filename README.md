@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Campañas de Meta Ads a sitio web y análisis de métricas avanzadas](https://wordpress.tv/2024/11/18/campanas-de-meta-ads-a-sitio-web-y-analisis-de-metricas-avanzadas/)
+- [Crea un sitio web con alta tasa de conversión en tu e-commerce](https://wordpress.tv/2024/11/18/crea-un-sitio-web-con-alta-tasa-de-conversion-en-tu-e-commerce/)
 - [Online Meetup Series 1: Session 1: Introduction To WordPress](https://wordpress.tv/2024/11/18/online-meetup-series1-session-1-introduction-to-wordpress/)
 - [Estrategias para cerrar ventas como chat setter / Chat closer](https://wordpress.tv/2024/11/17/estrategias-para-cerrar-ventas-como-chat-setter-chat-closer/)
 - [SEO para E-Commerce](https://wordpress.tv/2024/11/17/seo-para-e-commerce/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Setting up my first Printful/WooCommerce store](https://wordpress.tv/2024/11/14/freed-freed-setting-up-my-first-printful-woocommerce-store/)
 - [Journey Into the WordPress Community &lpar;1-year Anniversary Journey&rpar;](https://wordpress.tv/2024/11/14/james-lau-james-lau-journey-into-the-wordpress-community-1-year-anniversary-journey/)
 - [Mastering Advanced Custom Fields for Customization](https://wordpress.tv/2024/11/14/matt-graham-matt-graham-mastering-advanced-custom-fields-for-customization/)
-- [5 Things You Can Do To Make Your Newsletter Stand Out In The Inbox](https://wordpress.tv/2024/11/14/adrian-tobey-adrian-tobey-5-things-you-can-do-to-make-your-newsletter-stand-out-in-the-inbox/)
-- [Level Up! Taking your WordPress Code up a Notch](https://wordpress.tv/2024/11/14/amanda-giles-amanda-giles-level-up-taking-your-wordpress-code-up-a-notch/)
 <!-- WPTV:END -->
 
 ## Marketing
