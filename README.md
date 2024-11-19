@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Exploring the Block Bindings API in WordPress 6.7](https://wordpress.tv/2024/11/19/developer-hours-exploring-the-block-bindings-api-in-wordpress-6-7/)
 - [Campañas de Meta Ads a sitio web y análisis de métricas avanzadas](https://wordpress.tv/2024/11/18/campanas-de-meta-ads-a-sitio-web-y-analisis-de-metricas-avanzadas/)
 - [Crea un sitio web con alta tasa de conversión en tu e-commerce](https://wordpress.tv/2024/11/18/crea-un-sitio-web-con-alta-tasa-de-conversion-en-tu-e-commerce/)
 - [Online Meetup Series 1: Session 1: Introduction To WordPress](https://wordpress.tv/2024/11/18/online-meetup-series1-session-1-introduction-to-wordpress/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Burnt Out Making Web Sites? What Your Next Career Could Be.](https://wordpress.tv/2024/11/14/bud-kraus-bud-kraus-burnt-out-making-web-sites-what-your-next-career-could-be/)
 - [Setting up my first Printful/WooCommerce store](https://wordpress.tv/2024/11/14/freed-freed-setting-up-my-first-printful-woocommerce-store/)
 - [Journey Into the WordPress Community &lpar;1-year Anniversary Journey&rpar;](https://wordpress.tv/2024/11/14/james-lau-james-lau-journey-into-the-wordpress-community-1-year-anniversary-journey/)
-- [Mastering Advanced Custom Fields for Customization](https://wordpress.tv/2024/11/14/matt-graham-matt-graham-mastering-advanced-custom-fields-for-customization/)
 <!-- WPTV:END -->
 
 ## Marketing
