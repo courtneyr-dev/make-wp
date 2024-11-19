@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 19 November 2024](https://make.wordpress.org/core/2024/11/19/performance-chat-agenda-19-november-2024/)
 - [WordPress 6.7.1 Release Schedule](https://make.wordpress.org/core/2024/11/19/wordpress-6-7-1-release-schedule/)
 - [Agenda, Dev Chat, Nov 20, 2024](https://make.wordpress.org/core/2024/11/19/agenda-dev-chat-nov-20-2024/)
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/core/2024/11/18/xpost-hello-wordpress-community-lets-chat/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda, Dev Chat, Nov 6, 2024](https://make.wordpress.org/core/2024/11/05/agenda-dev-chat-november-6-2024/)
 - [Summary, Dev Chat, October 30, 2024](https://make.wordpress.org/core/2024/10/30/summary-dev-chat-october-30-2024/)
 - [Recap: Hallway Hangout DataViews and DataForm Components](https://make.wordpress.org/core/2024/10/30/recap-hallway-hangout-dataviews-and-dataform-components/)
-- [Agenda, Dev Chat, Oct 30, 2024](https://make.wordpress.org/core/2024/10/29/agenda-dev-chat-october-30-2024/)
 <!-- CORE:END -->
 
 ## Design
