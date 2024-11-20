@@ -295,6 +295,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Developer Hours: Improve your workflows with WordPress development tools](https://learn.wordpress.org/?meeting=developer-hours-improve-your-workflows-with-wordpress-development-tools)
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-4)
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-3)
 - [Developer Hours: Exploring the Block Bindings API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-block-bindings-api-wordpress-6-7)
@@ -319,7 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Setting up a WordPress blog](https://learn.wordpress.org/?meeting=setting-up-a-wordpress-blog)
 - [Developer Hours: A First Look at the Template Registration API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-a-first-look-at-the-template-registration-api-in-wordpress-6-7)
 - [How to install WordPress on an Ubuntu VPS: OpenLiteSpeed edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-openlitespeed-edition)
-- [Using the Grid block](https://learn.wordpress.org/?meeting=using-the-grid-block)
 <!-- SLS:END -->
 
 ## Test
