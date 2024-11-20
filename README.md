@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Avinza Theme](https://make.wordpress.org/polyglots/2024/11/20/pte-request-for-avinza-theme/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2024/11/19/hi-polyglots-team-3/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2024/11/19/hello-polyglots-team-8/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/11/19/hi-dear-mentors-we-have-155/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Recipe Creator](https://make.wordpress.org/polyglots/2024/11/17/pte-request-for-recipe-creator/)
 - [PTE Request for “Tutor LMS Elementor Addons” Plugin](https://make.wordpress.org/polyglots/2024/11/16/pte-request-for-tutor-lms-elementor-addons-plugin/)
 - [CLPTE request in Broken Link Checker](https://make.wordpress.org/polyglots/2024/11/15/clpte-request-in-broken-link-checker/)
-- [PTE Request for Aruba WP Migration Tool](https://make.wordpress.org/polyglots/2024/11/15/pte-request-for-aruba-wp-migration-tool/)
 <!-- POLYGLOTS:END -->
 
 ## Support
