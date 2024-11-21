@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Why design in the Site Editor and use it for prototyping?](https://wordpress.tv/2024/11/20/why-design-in-the-site-editor-and-use-it-for-prototyping/)
+- [Troubleshooting your site: Plugin and theme conflicts](https://wordpress.tv/2024/11/20/troubleshooting-your-site-plugin-and-theme-conflicts/)
 - [WordPressデータの引越方法について、様々なバリエーションを知ろう！](https://wordpress.tv/2024/11/20/learn-about-the-various-variations-of-how-to-migrate-wordpress-data/)
 - [Developer Hours: Exploring the Block Bindings API in WordPress 6.7](https://wordpress.tv/2024/11/19/developer-hours-exploring-the-block-bindings-api-in-wordpress-6-7/)
 - [Campañas de Meta Ads a sitio web y análisis de métricas avanzadas](https://wordpress.tv/2024/11/18/campanas-de-meta-ads-a-sitio-web-y-analisis-de-metricas-avanzadas/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Digital Media Arts on WordPress](https://wordpress.tv/2024/11/14/erik-schneider-erik-schneider-digital-media-arts-on-wordpress/)
 - [Auditing your Site for Success: Tips and Tricks from a Developer turned Solutions Architect](https://wordpress.tv/2024/11/14/miriam-goldman-miriam-goldman-auditing-your-site-for-success-tips-and-tricks-from-a-developer-turned-solutions-architect/)
 - [From Learning to Leading: Empowering WordPress Communities through Education](https://wordpress.tv/2024/11/14/robbie-adair-robbie-adair-from-learning-to-leading-empowering-wordpress-communities-through-education/)
-- [Burnt Out Making Web Sites? What Your Next Career Could Be.](https://wordpress.tv/2024/11/14/bud-kraus-bud-kraus-burnt-out-making-web-sites-what-your-next-career-could-be/)
-- [Setting up my first Printful/WooCommerce store](https://wordpress.tv/2024/11/14/freed-freed-setting-up-my-first-printful-woocommerce-store/)
 <!-- WPTV:END -->
 
 ## Marketing
