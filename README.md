@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.8 Call for Volunteers](https://make.wordpress.org/core/2024/11/21/wordpress-6-8-call-for-volunteers/)
 - [What’s new in Gutenberg 19.7? &lpar;20 November&rpar;](https://make.wordpress.org/core/2024/11/20/whats-new-in-gutenberg-19-7-20-november/)
 - [WordPress 6.7.1 RC1 is now available](https://make.wordpress.org/core/2024/11/20/wordpress-6-7-1-rc1-is-now-available/)
 - [Proposal: Major releases for 2025](https://make.wordpress.org/core/2024/11/19/proposal-major-releases-for-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Getting ready for PHP 8.4: some code changes landing in 6.7](https://make.wordpress.org/core/2024/11/07/getting-ready-for-php-8-4-some-code-changes-landing-in-6-7/)
 - [What’s new in Gutenberg 19.6? &lpar;6 Nov&rpar;](https://make.wordpress.org/core/2024/11/06/whats-new-in-gutenberg-15-9-31-may-2-2/)
 - [Summary, Dev Chat, November 6, 2024](https://make.wordpress.org/core/2024/11/06/summary-dev-chat-november-6-2024/)
-- [Performance Chat Summary: 5 November 2024](https://make.wordpress.org/core/2024/11/06/performance-chat-summary-05-november-2024/)
 <!-- CORE:END -->
 
 ## Design
