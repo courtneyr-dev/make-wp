@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/11/21/pte-request-for-below-listed-themes-11/)
 - [PTE Request for [SEPA QR-Code…](https://make.wordpress.org/polyglots/2024/11/20/pte-request-for-sepa-qr-code/)
 - [PTE Request for Avinza Theme](https://make.wordpress.org/polyglots/2024/11/20/pte-request-for-avinza-theme/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2024/11/19/hi-polyglots-team-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/11/19/pte-request-for-below-listed-plugins/)
 - [PTE Request for WordPress 6.7x](https://make.wordpress.org/polyglots/2024/11/18/pte-request-for-wordpress-6-7x/)
 - [PTE Request for Recipe Creator](https://make.wordpress.org/polyglots/2024/11/17/pte-request-for-recipe-creator/)
-- [PTE Request for “Tutor LMS Elementor Addons” Plugin](https://make.wordpress.org/polyglots/2024/11/16/pte-request-for-tutor-lms-elementor-addons-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
