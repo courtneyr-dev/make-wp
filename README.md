@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Transformando un tema clásico en uno de bloques](https://wordpress.tv/2024/11/22/transformando-un-tema-clasico-en-uno-de-bloques/)
 - [Why design in the Site Editor and use it for prototyping?](https://wordpress.tv/2024/11/20/why-design-in-the-site-editor-and-use-it-for-prototyping/)
 - [Troubleshooting your site: Plugin and theme conflicts](https://wordpress.tv/2024/11/20/troubleshooting-your-site-plugin-and-theme-conflicts/)
 - [WordPressデータの引越方法について、様々なバリエーションを知ろう！](https://wordpress.tv/2024/11/20/learn-about-the-various-variations-of-how-to-migrate-wordpress-data/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Site Interactivity Using H5P](https://wordpress.tv/2024/11/14/trevor-johnson-steigelman-trevor-johnson-steigelman-site-interactivity-using-h5p/)
 - [Digital Media Arts on WordPress](https://wordpress.tv/2024/11/14/erik-schneider-erik-schneider-digital-media-arts-on-wordpress/)
 - [Auditing your Site for Success: Tips and Tricks from a Developer turned Solutions Architect](https://wordpress.tv/2024/11/14/miriam-goldman-miriam-goldman-auditing-your-site-for-success-tips-and-tricks-from-a-developer-turned-solutions-architect/)
-- [From Learning to Leading: Empowering WordPress Communities through Education](https://wordpress.tv/2024/11/14/robbie-adair-robbie-adair-from-learning-to-leading-empowering-wordpress-communities-through-education/)
 <!-- WPTV:END -->
 
 ## Marketing
