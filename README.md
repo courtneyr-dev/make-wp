@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Using Playground for data liberation, site synchronization, and building streaming parsers](https://make.wordpress.org/core/2024/11/22/xpost-using-playground-for-data-liberation-site-synchronization-and-building-streaming-parsers/)
 - [Update on Phase 3: Collaboration efforts](https://make.wordpress.org/core/2024/11/21/update-on-phase-3-collaboration-efforts/)
 - [WordPress 6.8 Call for Volunteers](https://make.wordpress.org/core/2024/11/21/wordpress-6-8-call-for-volunteers/)
 - [What’s new in Gutenberg 19.7? &lpar;20 November&rpar;](https://make.wordpress.org/core/2024/11/20/whats-new-in-gutenberg-19-7-20-november/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of the Developer Blog editorial meeting on 7  November 2024](https://make.wordpress.org/core/2024/11/07/developer-blog-editorial-meeting-summary-november-7-2024/)
 - [WordPress 6.7 Release Candidate 4](https://make.wordpress.org/core/2024/11/07/wordpress-6-7-release-candidate-4/)
 - [Getting ready for PHP 8.4: some code changes landing in 6.7](https://make.wordpress.org/core/2024/11/07/getting-ready-for-php-8-4-some-code-changes-landing-in-6-7/)
-- [What’s new in Gutenberg 19.6? &lpar;6 Nov&rpar;](https://make.wordpress.org/core/2024/11/06/whats-new-in-gutenberg-15-9-31-may-2-2/)
 <!-- CORE:END -->
 
 ## Design
