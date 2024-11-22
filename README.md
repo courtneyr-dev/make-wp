@@ -295,6 +295,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-6)
+- [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-5)
 - [Developer Hours: Improve your workflows with WordPress development tools](https://learn.wordpress.org/?meeting=developer-hours-improve-your-workflows-with-wordpress-development-tools)
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-4)
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-3)
@@ -318,8 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [デザインデータからのテーマ作成。ブロックを活用して更新しやすいテーマを作ろう！](https://learn.wordpress.org/?meeting=%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%83%87%e3%83%bc%e3%82%bf%e3%81%8b%e3%82%89%e3%81%ae%e3%83%86%e3%83%bc%e3%83%9e%e4%bd%9c%e6%88%90%e3%80%82%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%92%e6%b4%bb)
 - [Exploring the Query Loop block](https://learn.wordpress.org/?meeting=exploring-the-query-loop-block)
 - [Setting up a WordPress blog](https://learn.wordpress.org/?meeting=setting-up-a-wordpress-blog)
-- [Developer Hours: A First Look at the Template Registration API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-a-first-look-at-the-template-registration-api-in-wordpress-6-7)
-- [How to install WordPress on an Ubuntu VPS: OpenLiteSpeed edition](https://learn.wordpress.org/?meeting=how-to-install-wordpress-on-an-ubuntu-vps-openlitespeed-edition)
 <!-- SLS:END -->
 
 ## Test
