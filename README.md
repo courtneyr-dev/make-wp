@@ -520,6 +520,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-12/)
+- [[Astra] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-2/)
 - [One time website set up. Small business page.](https://jobs.wordpress.net/job/one-time-website-set-up-small-business-page/)
 - [Full stack plugin developer](https://jobs.wordpress.net/job/full-stack-plugin-developer/)
 - [Manager, Site Reliability Engineering](https://jobs.wordpress.net/job/manager-site-reliability-engineering/)
@@ -528,8 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-21/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-40/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-2/)
-- [QA – WordPress plugin tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-23/)
-- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-5/)
 <!-- JOBS:END -->
 
 ## Central
