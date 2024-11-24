@@ -520,6 +520,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Arolax Theme Customization Expert](https://jobs.wordpress.net/job/arolax-theme-customization-expert/)
+- [Fix my WordPress problem](https://jobs.wordpress.net/job/fix-my-wordpress-problem-2/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-12/)
 - [[Astra] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-2/)
 - [One time website set up. Small business page.](https://jobs.wordpress.net/job/one-time-website-set-up-small-business-page/)
@@ -528,8 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Head of Sales &lpar;Outbound Sales Manager&rpar;](https://jobs.wordpress.net/job/head-of-sales-outbound-sales-manager/)
 - [Customer Support Engineer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/customer-support-engineer-remote-2/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-21/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-40/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-2/)
 <!-- JOBS:END -->
 
 ## Central
