@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for multiple plugins](https://make.wordpress.org/polyglots/2024/11/24/pte-request-for-multiple-plugins-6/)
+- [PTE Request for multiple plugins](https://make.wordpress.org/polyglots/2024/11/24/pte-request-for-multiple-plugins-5/)
 - [Hi, it’s been more than…](https://make.wordpress.org/polyglots/2024/11/24/hi-its-been-more-than/)
 - [PTE Request for Widgets for Social Photo Feed](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-widgets-for-social-photo-feed/)
 - [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-below-listed-plugins-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2024/11/21/i-am-the-plugin-author-45/)
 - [PTE Request for [Ship Discounts]](https://make.wordpress.org/polyglots/2024/11/21/pte-request-for-ship-discounts-2/)
 - [PTE Request for Additional Fees for WooCommerce Plugin](https://make.wordpress.org/polyglots/2024/11/21/pte-request-for-additional-fees-for-woocommerce-plugin/)
-- [WordPress 6.7.1 has been released….](https://make.wordpress.org/polyglots/2024/11/21/wordpress-6-7-1-has-been-released/)
-- [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/11/21/pte-request-for-below-listed-themes-11/)
 <!-- POLYGLOTS:END -->
 
 ## Support
