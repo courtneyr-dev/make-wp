@@ -351,6 +351,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WooCommerce hace mucho más que tiendas](https://wordpress.tv/2024/11/24/woocommerce-hace-mucho-mas-que-tiendas/)
+- [Desarrollo global de portales web: Estrategias y mejores prácticas](https://wordpress.tv/2024/11/24/desarrollo-global-de-portales-web-estrategias-y-mejores-practicas/)
+- [Multiplica el potencial de tus PDP](https://wordpress.tv/2024/11/24/multiplica-el-potencial-de-tus-pdp/)
+- [De coste a ganancia: Usa los gastos de envío para vender más](https://wordpress.tv/2024/11/24/de-coste-a-ganancia-usa-los-gastos-de-envio-para-vender-mas/)
+- [Vender más siendo accesibles](https://wordpress.tv/2024/11/24/vender-mas-siendo-accesibles/)
+- [WooCommerce en tiendas online que facturan más de 1 millón mensual](https://wordpress.tv/2024/11/24/woocommerce-en-tiendas-online-que-facturan-mas-de-1-millon-mensual/)
+- [WooCommerce y la carga condicional](https://wordpress.tv/2024/11/24/woocommerce-y-la-carga-condicional/)
+- [Probando en lugar de adivinar](https://wordpress.tv/2024/11/24/probando-en-lugar-de-adivinar/)
+- [Reactを使ったWordPressのカスタマイズ 「WordCamp Asia 2024のワークショップの内容をみんなで試してみよう Vol.2」よりWord Counter編・中級者向け](https://wordpress.tv/2024/11/24/react%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9fwordpress%e3%81%ae%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba-%e3%80%8cwordcamp-asia-2024%e3%81%ae%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7/)
+- [Me faltan manos: 7 ayudas de IA para tiendas online](https://wordpress.tv/2024/11/24/me-faltan-manos-7-ayudas-de-ia-para-tiendas-online/)
 - [Transformando un tema clásico en uno de bloques](https://wordpress.tv/2024/11/22/transformando-un-tema-clasico-en-uno-de-bloques/)
 - [Why design in the Site Editor and use it for prototyping?](https://wordpress.tv/2024/11/20/why-design-in-the-site-editor-and-use-it-for-prototyping/)
 - [Troubleshooting your site: Plugin and theme conflicts](https://wordpress.tv/2024/11/20/troubleshooting-your-site-plugin-and-theme-conflicts/)
@@ -366,16 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [4 Tips en 10 minutos para que tu E-commerce destaque en Google](https://wordpress.tv/2024/11/17/4-tips-en-10-minutos-para-que-tu-e-commerce-destaque-en-google/)
 - [Método STOP-F para iniciar a presupuestar como emprendedor](https://wordpress.tv/2024/11/17/metodo-stop-f-para-iniciar-a-presupuestar-como-emprendedor/)
 - [Automatización: el aliado del comercio](https://wordpress.tv/2024/11/17/automatizacion-el-aliado-del-comercio/)
-- [Cómo Instalar y Optimizar un Sistema de Afiliados en tu E-commerce para Aumentar las Ventas](https://wordpress.tv/2024/11/17/como-instalar-y-optimizar-un-sistema-de-afiliados-en-tu-e-commerce-para-aumentar-las-ventas/)
-- [De la cocina al desarrollo: Ingredientes para una Web sabrosa, lucrativa y sustanciosa](https://wordpress.tv/2024/11/17/de-la-cocina-al-desarrollo-ingredientes-para-una-web-sabrosa-lucrativa-y-sustanciosa/)
-- [De Consultas a Conversaciones: Optimiza las búsquedas en tu e-commerce con ChatGPT](https://wordpress.tv/2024/11/17/de-consultas-a-conversaciones-optimiza-las-busquedas-en-tu-e-commerce-con-chatgpt/)
-- [Scrum y Gestión de Proyectos para el Éxito en E-commerce](https://wordpress.tv/2024/11/17/scrum-y-gestion-de-proyectos-para-el-exito-en-e-commerce/)
-- [Cómo aumentar las ventas de tu e-commerce con content marketing](https://wordpress.tv/2024/11/17/como-aumentar-las-ventas-de-tu-e-commerce-con-content-marketing/)
-- [Using the Style Book as a design guide](https://wordpress.tv/2024/11/14/using-the-style-book-as-a-design-guide/)
-- [Customizing theme settings: Colors, fonts, typography and layout](https://wordpress.tv/2024/11/14/customizing-theme-settings-colors-fonts-typography-and-layout/)
-- [Site Interactivity Using H5P](https://wordpress.tv/2024/11/14/trevor-johnson-steigelman-trevor-johnson-steigelman-site-interactivity-using-h5p/)
-- [Digital Media Arts on WordPress](https://wordpress.tv/2024/11/14/erik-schneider-erik-schneider-digital-media-arts-on-wordpress/)
-- [Auditing your Site for Success: Tips and Tricks from a Developer turned Solutions Architect](https://wordpress.tv/2024/11/14/miriam-goldman-miriam-goldman-auditing-your-site-for-success-tips-and-tricks-from-a-developer-turned-solutions-architect/)
 <!-- WPTV:END -->
 
 ## Marketing
