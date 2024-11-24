@@ -351,10 +351,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Comunica bien para vender mejor en tu tienda](https://wordpress.tv/2024/11/24/comunica-bien-para-vender-mejor-en-tu-tienda/)
+- [Aprende Todo sobre los sesgos para mejorar tus ventas](https://wordpress.tv/2024/11/24/aprende-todo-sobre-los-sesgos-para-mejorar-tus-ventas/)
 - [Taller de diseño responsive para WooCommerce](https://wordpress.tv/2024/11/24/taller-de-diseno-responsive-para-woocommerce/)
 - [Marketing automation para eCommerce](https://wordpress.tv/2024/11/24/marketing-automation-para-ecommerce/)
 - [BNPL](https://wordpress.tv/2024/11/24/bnpl/)
-- [Wajari Velásquez: Ante todo, mucho enlace: Rastreo avanzado de tu tienda online](https://wordpress.tv/2024/11/24/wajari-velasquez-ante-todo-mucho-enlace-rastreo-avanzado-de-tu-tienda-online/)
+- [Ante todo, mucho enlace: Rastreo avanzado de tu tienda online](https://wordpress.tv/2024/11/24/ante-todo-mucho-enlace-rastreo-avanzado-de-tu-tienda-online/)
 - [WooCommerce hace mucho más que tiendas](https://wordpress.tv/2024/11/24/woocommerce-hace-mucho-mas-que-tiendas/)
 - [Desarrollo global de portales web: Estrategias y mejores prácticas](https://wordpress.tv/2024/11/24/desarrollo-global-de-portales-web-estrategias-y-mejores-practicas/)
 - [Multiplica el potencial de tus PDP](https://wordpress.tv/2024/11/24/multiplica-el-potencial-de-tus-pdp/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crea un sitio web con alta tasa de conversión en tu e-commerce](https://wordpress.tv/2024/11/18/crea-un-sitio-web-con-alta-tasa-de-conversion-en-tu-e-commerce/)
 - [Online Meetup Series 1: Session 1: Introduction To WordPress](https://wordpress.tv/2024/11/18/online-meetup-series1-session-1-introduction-to-wordpress/)
 - [Estrategias para cerrar ventas como chat setter / Chat closer](https://wordpress.tv/2024/11/17/estrategias-para-cerrar-ventas-como-chat-setter-chat-closer/)
-- [SEO para E-Commerce](https://wordpress.tv/2024/11/17/seo-para-e-commerce/)
-- [Reportes personalizados para WooCommerce Analytics](https://wordpress.tv/2024/11/17/reportes-personalizados-para-woocommerce-analytics/)
 <!-- WPTV:END -->
 
 ## Marketing
