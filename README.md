@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi, it’s been more than…](https://make.wordpress.org/polyglots/2024/11/24/hi-its-been-more-than/)
 - [PTE Request for Widgets for Social Photo Feed](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-widgets-for-social-photo-feed/)
 - [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-below-listed-plugins-2/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/11/22/pte-request-for-following-themes-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Additional Fees for WooCommerce Plugin](https://make.wordpress.org/polyglots/2024/11/21/pte-request-for-additional-fees-for-woocommerce-plugin/)
 - [WordPress 6.7.1 has been released….](https://make.wordpress.org/polyglots/2024/11/21/wordpress-6-7-1-has-been-released/)
 - [PTE Request for Below Listed Themes](https://make.wordpress.org/polyglots/2024/11/21/pte-request-for-below-listed-themes-11/)
-- [PTE Request for [SEPA QR-Code…](https://make.wordpress.org/polyglots/2024/11/20/pte-request-for-sepa-qr-code/)
 <!-- POLYGLOTS:END -->
 
 ## Support
