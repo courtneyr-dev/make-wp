@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Panel – Reinvigorating Local WordPress Communities](https://wordpress.tv/2024/11/25/panel-reinvigorating-local-wordpress-communities/)
 - [Comunica bien para vender mejor en tu tienda](https://wordpress.tv/2024/11/24/comunica-bien-para-vender-mejor-en-tu-tienda/)
 - [Aprende Todo sobre los sesgos para mejorar tus ventas](https://wordpress.tv/2024/11/24/aprende-todo-sobre-los-sesgos-para-mejorar-tus-ventas/)
 - [Taller de diseño responsive para WooCommerce](https://wordpress.tv/2024/11/24/taller-de-diseno-responsive-para-woocommerce/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Campañas de Meta Ads a sitio web y análisis de métricas avanzadas](https://wordpress.tv/2024/11/18/campanas-de-meta-ads-a-sitio-web-y-analisis-de-metricas-avanzadas/)
 - [Crea un sitio web con alta tasa de conversión en tu e-commerce](https://wordpress.tv/2024/11/18/crea-un-sitio-web-con-alta-tasa-de-conversion-en-tu-e-commerce/)
 - [Online Meetup Series 1: Session 1: Introduction To WordPress](https://wordpress.tv/2024/11/18/online-meetup-series1-session-1-introduction-to-wordpress/)
-- [Estrategias para cerrar ventas como chat setter / Chat closer](https://wordpress.tv/2024/11/17/estrategias-para-cerrar-ventas-como-chat-setter-chat-closer/)
 <!-- WPTV:END -->
 
 ## Marketing
