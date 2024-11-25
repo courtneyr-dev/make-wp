@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Table ronde communautaire](https://wordpress.tv/2024/11/25/table-ronde-communautaire/)
 - [Haz que otros trabajen por ti: guía para afiliados con WooCommerce](https://wordpress.tv/2024/11/25/haz-que-otros-trabajen-por-ti-guia-para-afiliados-con-woocommerce/)
 - [Aprendiendo de los mejores… cómo NO hacer las cosas en ecommerce](https://wordpress.tv/2024/11/25/aprendiendo-de-los-mejores-como-no-hacer-las-cosas-en-ecommerce/)
 - [Pinterest: hará que tu Ecommerce sea más viral que un meme](https://wordpress.tv/2024/11/25/pinterest-hara-que-tu-ecommerce-sea-mas-viral-que-un-meme/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility: Benefits Beyond Compliance](https://wordpress.tv/2024/11/25/accessibility-benefits-beyond-compliance/)
 - [Design for Devs: Making the most of Patterns](https://wordpress.tv/2024/11/25/design-for-devs-making-the-most-of-patterns/)
 - [Making WordPress the Hero of your Customer’s Digital Story](https://wordpress.tv/2024/11/25/making-wordpress-the-hero-of-your-customers-digital-story/)
-- [Panel – Reinvigorating Local WordPress Communities](https://wordpress.tv/2024/11/25/panel-reinvigorating-local-wordpress-communities/)
 <!-- WPTV:END -->
 
 ## Marketing
