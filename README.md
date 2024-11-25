@@ -351,6 +351,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Haz que otros trabajen por ti: guía para afiliados con WooCommerce](https://wordpress.tv/2024/11/25/haz-que-otros-trabajen-por-ti-guia-para-afiliados-con-woocommerce/)
+- [Aprendiendo de los mejores… cómo NO hacer las cosas en ecommerce](https://wordpress.tv/2024/11/25/aprendiendo-de-los-mejores-como-no-hacer-las-cosas-en-ecommerce/)
+- [Pinterest: hará que tu Ecommerce sea más viral que un meme](https://wordpress.tv/2024/11/25/pinterest-hara-que-tu-ecommerce-sea-mas-viral-que-un-meme/)
 - [How I Went From a PHP Shortcode Guy to a React / Block Guy](https://wordpress.tv/2024/11/25/how-i-went-from-a-php-shortcode-guy-to-a-react-block-guy/)
 - [Custom WooCommerce for Large Travel Agency: Unlocking Revenue &amp; Automating Operations](https://wordpress.tv/2024/11/25/custom-woocommerce-for-large-travel-agency-unlocking-revenue-automating-operations/)
 - [Community Contributions without Coding: Empowering WordPress through Engagement and Education](https://wordpress.tv/2024/11/25/community-contributions-without-coding-empowering-wordpress-through-engagement-and-education/)
@@ -373,9 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design for Devs: Making the most of Patterns](https://wordpress.tv/2024/11/25/design-for-devs-making-the-most-of-patterns/)
 - [Making WordPress the Hero of your Customer’s Digital Story](https://wordpress.tv/2024/11/25/making-wordpress-the-hero-of-your-customers-digital-story/)
 - [Panel – Reinvigorating Local WordPress Communities](https://wordpress.tv/2024/11/25/panel-reinvigorating-local-wordpress-communities/)
-- [Comunica bien para vender mejor en tu tienda](https://wordpress.tv/2024/11/24/comunica-bien-para-vender-mejor-en-tu-tienda/)
-- [Aprende Todo sobre los sesgos para mejorar tus ventas](https://wordpress.tv/2024/11/24/aprende-todo-sobre-los-sesgos-para-mejorar-tus-ventas/)
-- [Taller de diseño responsive para WooCommerce](https://wordpress.tv/2024/11/24/taller-de-diseno-responsive-para-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
