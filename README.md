@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WordCamp Delhi 2024: Contributor Day schedule and details](https://make.wordpress.org/community/2024/11/25/wordcamp-delhi-2024-contributor-day-schedule-and-details/)
 - [Vote for the 2025 Community Team Reps!](https://make.wordpress.org/community/2024/11/25/vote-for-the-2025-community-team-reps/)
 - [WordPress Contributor Mentorship: 2024 Q4 Cohort Graduates](https://make.wordpress.org/community/2024/11/21/wordpress-contributor-mentorship-2024-q4-cohort-graduates/)
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/community/2024/11/19/xpost-hello-wordpress-community-lets-chat/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 7 November 2024](https://make.wordpress.org/community/2024/11/06/community-team-meeting-agenda-for-7-november-2024/)
 - [Impact and Growth: First Year of the Community Reactivation Project in Latin America](https://make.wordpress.org/community/2024/11/06/impact-and-growth-first-year-of-the-community-reactivation-project-in-latin-america/)
 - [X-post: Training Team Updates – November 2024](https://make.wordpress.org/community/2024/11/04/xpost-training-team-updates-november-2024/)
-- [Community Team Rep Nominations for 2025](https://make.wordpress.org/community/2024/11/01/community-team-rep-nominations-for-2025/)
 <!-- COMMUNITY:END -->
 
 ## Meta
