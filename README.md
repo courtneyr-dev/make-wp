@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [5 aspectos para diferenciar tu tienda en mercados globales](https://wordpress.tv/2024/11/26/5-aspectos-para-diferenciar-tu-tienda-en-mercados-globales/)
 - [Table ronde communautaire](https://wordpress.tv/2024/11/25/table-ronde-communautaire/)
 - [Haz que otros trabajen por ti: guía para afiliados con WooCommerce](https://wordpress.tv/2024/11/25/haz-que-otros-trabajen-por-ti-guia-para-afiliados-con-woocommerce/)
 - [Aprendiendo de los mejores… cómo NO hacer las cosas en ecommerce](https://wordpress.tv/2024/11/25/aprendiendo-de-los-mejores-como-no-hacer-las-cosas-en-ecommerce/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Welcoming our Robot Collaborators: AI and Creativity in Content Marketing](https://wordpress.tv/2024/11/25/welcoming-our-robot-collaborators-ai-and-creativity-in-content-marketing/)
 - [Accessibility: Benefits Beyond Compliance](https://wordpress.tv/2024/11/25/accessibility-benefits-beyond-compliance/)
 - [Design for Devs: Making the most of Patterns](https://wordpress.tv/2024/11/25/design-for-devs-making-the-most-of-patterns/)
-- [Making WordPress the Hero of your Customer’s Digital Story](https://wordpress.tv/2024/11/25/making-wordpress-the-hero-of-your-customers-digital-story/)
 <!-- WPTV:END -->
 
 ## Marketing
