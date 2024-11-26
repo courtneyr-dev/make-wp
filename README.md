@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Starting – and continuing – a conversation about Indigenous representation and perspectives in WordPress](https://make.wordpress.org/community/2024/11/26/starting-and-continuing-a-conversation-about-indigenous-representation-and-perspectives-in-wordpress/)
 - [WordCamp Delhi 2024: Contributor Day schedule and details](https://make.wordpress.org/community/2024/11/25/wordcamp-delhi-2024-contributor-day-schedule-and-details/)
 - [Vote for the 2025 Community Team Reps!](https://make.wordpress.org/community/2024/11/25/vote-for-the-2025-community-team-reps/)
 - [WordPress Contributor Mentorship: 2024 Q4 Cohort Graduates](https://make.wordpress.org/community/2024/11/21/wordpress-contributor-mentorship-2024-q4-cohort-graduates/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: November 2024](https://make.wordpress.org/community/2024/11/06/meetup-organizer-newsletter-november-2024/)
 - [Community Team Meeting Agenda for 7 November 2024](https://make.wordpress.org/community/2024/11/06/community-team-meeting-agenda-for-7-november-2024/)
 - [Impact and Growth: First Year of the Community Reactivation Project in Latin America](https://make.wordpress.org/community/2024/11/06/impact-and-growth-first-year-of-the-community-reactivation-project-in-latin-america/)
-- [X-post: Training Team Updates – November 2024](https://make.wordpress.org/community/2024/11/04/xpost-training-team-updates-november-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
