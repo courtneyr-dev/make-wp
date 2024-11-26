@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for GDPR Cookie Compliance – Cookie Banner, Cookie Consent, Cookie Notice – CCPA, DSGVO, RGPD](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-gdpr-cookie-compliance-cookie-banner-cookie-consent-cookie-notice-ccpa-dsgvo-rgpd/)
 - [PTE Request for ATUM WooCommerce Inventory Management and Stock Tracking](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-atum-woocommerce-inventory-management-and-stock-tracking/)
 - [PTE Request for Inline Tooltips…](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-inline-tooltips/)
 - [French Translation for EventPrime Plugin](https://make.wordpress.org/polyglots/2024/11/25/french-translation-for-eventprime-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, it’s been more than…](https://make.wordpress.org/polyglots/2024/11/24/hi-its-been-more-than/)
 - [PTE Request for Widgets for Social Photo Feed](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-widgets-for-social-photo-feed/)
 - [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-below-listed-plugins-2/)
-- [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/11/22/pte-request-for-following-themes-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
