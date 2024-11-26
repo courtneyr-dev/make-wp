@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ATUM WooCommerce Inventory Management and Stock Tracking](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-atum-woocommerce-inventory-management-and-stock-tracking/)
 - [PTE Request for Inline Tooltips…](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-inline-tooltips/)
 - [French Translation for EventPrime Plugin](https://make.wordpress.org/polyglots/2024/11/25/french-translation-for-eventprime-plugin/)
 - [Polish translation of the OceanWP theme](https://make.wordpress.org/polyglots/2024/11/24/hi-iworks-com2r-could-you/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Widgets for Social Photo Feed](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-widgets-for-social-photo-feed/)
 - [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-below-listed-plugins-2/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/11/22/pte-request-for-following-themes-3/)
-- [Dear Polyglots team We have…](https://make.wordpress.org/polyglots/2024/11/21/dear-polyglots-team-we-have/)
 <!-- POLYGLOTS:END -->
 
 ## Support
