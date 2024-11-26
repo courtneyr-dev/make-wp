@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Inline Tooltips…](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-inline-tooltips/)
 - [French Translation for EventPrime Plugin](https://make.wordpress.org/polyglots/2024/11/25/french-translation-for-eventprime-plugin/)
 - [Polish translation of the OceanWP theme](https://make.wordpress.org/polyglots/2024/11/24/hi-iworks-com2r-could-you/)
 - [PTE Request for multiple plugins](https://make.wordpress.org/polyglots/2024/11/24/pte-request-for-multiple-plugins-6/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/11/23/pte-request-for-below-listed-plugins-2/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/11/22/pte-request-for-following-themes-3/)
 - [Dear Polyglots team We have…](https://make.wordpress.org/polyglots/2024/11/21/dear-polyglots-team-we-have/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2024/11/21/i-am-the-plugin-author-45/)
 <!-- POLYGLOTS:END -->
 
 ## Support
