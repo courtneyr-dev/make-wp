@@ -529,7 +529,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Manager, Site Reliability Engineering](https://jobs.wordpress.net/job/manager-site-reliability-engineering/)
 - [Head of Sales &lpar;Outbound Sales Manager&rpar;](https://jobs.wordpress.net/job/head-of-sales-outbound-sales-manager/)
 - [Customer Support Engineer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/customer-support-engineer-remote-2/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-21/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-40/)
 <!-- JOBS:END -->
 
 ## Central
