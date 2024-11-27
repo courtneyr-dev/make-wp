@@ -521,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [Arolax Theme Setup &amp; Content Integration](https://jobs.wordpress.net/job/arolax-theme-setup-content-integration/)
-- [Development of a new website](https://jobs.wordpress.net/job/development-of-a-new-website/)
 - [PHP, WordPress and Woocommerce Expert Needed](https://jobs.wordpress.net/job/php-wordpress-and-woocommerce-expert-needed/)
 - [Frontend Developer](https://jobs.wordpress.net/job/frontend-developer-7/)
 - [Tech Tutor](https://jobs.wordpress.net/job/tech-tutor/)
@@ -530,6 +529,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-2/)
 - [One time website set up. Small business page.](https://jobs.wordpress.net/job/one-time-website-set-up-small-business-page/)
 - [Full stack plugin developer](https://jobs.wordpress.net/job/full-stack-plugin-developer/)
+- [Manager, Site Reliability Engineering](https://jobs.wordpress.net/job/manager-site-reliability-engineering/)
 <!-- JOBS:END -->
 
 ## Central
