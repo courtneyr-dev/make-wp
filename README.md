@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Polishing 💩: How to design beautiful websites from horrible logos [UI &amp; UX]](https://wordpress.tv/2024/11/27/polishing-%f0%9f%92%a9-how-to-design-beautiful-websites-from-horrible-logos-ui-ux/)
 - [Case study: Scaling a WooCommerce Store from 16k to 6.5M in 3 Years](https://wordpress.tv/2024/11/27/case-study-scaling-a-woocommerce-store-from-16k-to-6-5m-in-3-years/)
 - [The Enterprise Approach to WordPress Security](https://wordpress.tv/2024/11/27/the-enterprise-approach-to-wordpress-security-2/)
 - [The Problem With WordPress: A Deep Dive Into the WordPress Database](https://wordpress.tv/2024/11/27/the-problem-with-wordpress-a-deep-dive-into-the-wordpress-database/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Ultimate Guide to Image SEO for WordPress: Attract More Traffic and Engagement](https://wordpress.tv/2024/11/25/the-ultimate-guide-to-image-seo-for-wordpress-attract-more-traffic-and-engagement/)
 - [The Post Thumbnail Paradox](https://wordpress.tv/2024/11/25/the-post-thumbnail-paradox/)
 - [Secure by Design: Integrating Security Into Your Web Project](https://wordpress.tv/2024/11/25/secure-by-design-integrating-security-into-your-web-project/)
-- [Leveraging the MVC Pattern for Enterprise WordPress Development](https://wordpress.tv/2024/11/25/leveraging-the-mvc-pattern-for-enterprise-wordpress-development/)
 <!-- WPTV:END -->
 
 ## Marketing
