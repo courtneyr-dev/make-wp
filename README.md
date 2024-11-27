@@ -351,6 +351,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Case study: Scaling a WooCommerce Store from 16k to 6.5M in 3 Years](https://wordpress.tv/2024/11/27/case-study-scaling-a-woocommerce-store-from-16k-to-6-5m-in-3-years/)
+- [The Enterprise Approach to WordPress Security](https://wordpress.tv/2024/11/27/the-enterprise-approach-to-wordpress-security-2/)
+- [The Problem With WordPress: A Deep Dive Into the WordPress Database](https://wordpress.tv/2024/11/27/the-problem-with-wordpress-a-deep-dive-into-the-wordpress-database/)
 - [5 aspectos para diferenciar tu tienda en mercados globales](https://wordpress.tv/2024/11/26/5-aspectos-para-diferenciar-tu-tienda-en-mercados-globales/)
 - [Table ronde communautaire](https://wordpress.tv/2024/11/25/table-ronde-communautaire/)
 - [Haz que otros trabajen por ti: guía para afiliados con WooCommerce](https://wordpress.tv/2024/11/25/haz-que-otros-trabajen-por-ti-guia-para-afiliados-con-woocommerce/)
@@ -373,9 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Post Thumbnail Paradox](https://wordpress.tv/2024/11/25/the-post-thumbnail-paradox/)
 - [Secure by Design: Integrating Security Into Your Web Project](https://wordpress.tv/2024/11/25/secure-by-design-integrating-security-into-your-web-project/)
 - [Leveraging the MVC Pattern for Enterprise WordPress Development](https://wordpress.tv/2024/11/25/leveraging-the-mvc-pattern-for-enterprise-wordpress-development/)
-- [Welcoming our Robot Collaborators: AI and Creativity in Content Marketing](https://wordpress.tv/2024/11/25/welcoming-our-robot-collaborators-ai-and-creativity-in-content-marketing/)
-- [Accessibility: Benefits Beyond Compliance](https://wordpress.tv/2024/11/25/accessibility-benefits-beyond-compliance/)
-- [Design for Devs: Making the most of Patterns](https://wordpress.tv/2024/11/25/design-for-devs-making-the-most-of-patterns/)
 <!-- WPTV:END -->
 
 ## Marketing
