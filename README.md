@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Themes I’d…](https://make.wordpress.org/polyglots/2024/11/27/pte-request-for-themes-id/)
 - [PTE Request for ContactSync](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-contactsync/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/11/26/ive-suggested-translations-for-this-34/)
 - [PTE Request for GDPR Cookie Compliance – Cookie Banner, Cookie Consent, Cookie Notice – CCPA, DSGVO, RGPD](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-gdpr-cookie-compliance-cookie-banner-cookie-consent-cookie-notice-ccpa-dsgvo-rgpd/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polish translation of the OceanWP theme](https://make.wordpress.org/polyglots/2024/11/24/hi-iworks-com2r-could-you/)
 - [PTE Request for multiple plugins](https://make.wordpress.org/polyglots/2024/11/24/pte-request-for-multiple-plugins-6/)
 - [PTE Request for multiple plugins](https://make.wordpress.org/polyglots/2024/11/24/pte-request-for-multiple-plugins-5/)
-- [Hi, it’s been more than…](https://make.wordpress.org/polyglots/2024/11/24/hi-its-been-more-than/)
 <!-- POLYGLOTS:END -->
 
 ## Support
