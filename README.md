@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE request for Sugar Calendar](https://make.wordpress.org/polyglots/2024/11/28/clpte-request-for-sugar-calendar/)
 - [PTE Request for Starter Templates plugin](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-starter-templates-plugin/)
 - [PTE Request for Bit Form, Bit Integrations, Bit Assist, Bit Social, Bit SMTP, Bit File Manager](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-bit-form-bit-integrations-bit-assist-bit-social-bit-smtp-bit-file-manager/)
 - [Introducing Bulk Pre-Translations for General Translation Editors &lpar;GTEs&rpar;](https://make.wordpress.org/polyglots/2024/11/27/introducing-bulk-pre-translations-for-general-translation-editors-gtes/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for GDPR Cookie Compliance – Cookie Banner, Cookie Consent, Cookie Notice – CCPA, DSGVO, RGPD](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-gdpr-cookie-compliance-cookie-banner-cookie-consent-cookie-notice-ccpa-dsgvo-rgpd/)
 - [PTE Request for ATUM WooCommerce Inventory Management and Stock Tracking](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-atum-woocommerce-inventory-management-and-stock-tracking/)
 - [PTE Request for Inline Tooltips…](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-inline-tooltips/)
-- [French Translation for EventPrime Plugin](https://make.wordpress.org/polyglots/2024/11/25/french-translation-for-eventprime-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
