@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Tripzzy](https://make.wordpress.org/polyglots/2024/11/29/pte-request-for-tripzzy/)
 - [PTE Request for Creator Assistant](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-creator-assistant/)
 - [CLPTE request for Sugar Calendar](https://make.wordpress.org/polyglots/2024/11/28/clpte-request-for-sugar-calendar/)
 - [PTE Request for Starter Templates plugin](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-starter-templates-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ContactSync](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-contactsync/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/11/26/ive-suggested-translations-for-this-34/)
 - [PTE Request for GDPR Cookie Compliance – Cookie Banner, Cookie Consent, Cookie Notice – CCPA, DSGVO, RGPD](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-gdpr-cookie-compliance-cookie-banner-cookie-consent-cookie-notice-ccpa-dsgvo-rgpd/)
-- [PTE Request for ATUM WooCommerce Inventory Management and Stock Tracking](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-atum-woocommerce-inventory-management-and-stock-tracking/)
 <!-- POLYGLOTS:END -->
 
 ## Support
