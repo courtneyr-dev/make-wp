@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tour d’horizon de l’API Interactivity](https://wordpress.tv/2024/11/29/tour-dhorizon-de-lapi-interactivity/)
+- [Battle FSE](https://wordpress.tv/2024/11/29/battle-fse/)
 - [Designing with the Group block](https://wordpress.tv/2024/11/28/designing-with-the-group-block/)
 - [Dimensions: Padding, margin and block spacing](https://wordpress.tv/2024/11/28/dimensions-padding-margin-and-block-spacing/)
 - [Conoce la nueva Herramienta para hacer tu Plugin más seguro y cumpla buenas Prácticas](https://wordpress.tv/2024/11/28/conoce-la-nueva-herramienta-para-hacer-tu-plugin-mas-seguro-y-cumpla-buenas-practicas/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [10 Things I Learn From Teaching WordPress in College for 12 Months](https://wordpress.tv/2024/11/25/10-things-i-learn-from-teaching-wordpress-in-college-for-12-months/)
 - [Client Communication – Improve Sales and Service Using Whole Brain Thinking](https://wordpress.tv/2024/11/25/client-communication-improve-sales-and-service-using-whole-brain-thinking/)
 - [Practical Sustainability](https://wordpress.tv/2024/11/25/practical-sustainability/)
-- [Boostez votre SEO WordPress avec une stratégie de communication bien pensée !](https://wordpress.tv/2024/11/25/boostez-votre-seo-wordpress-avec-une-strategie-de-communication-bien-pensee/)
-- [Developing Reusable Components for Your WordPress Themes](https://wordpress.tv/2024/11/25/developing-reusable-components-for-your-wordpress-themes/)
 <!-- WPTV:END -->
 
 ## Marketing
