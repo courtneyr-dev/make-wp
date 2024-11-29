@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Od zlecenia do pozwu – czego nauczył nas proces sądowy o wdrażaniu stron internetowych](https://wordpress.tv/2024/11/29/od-zlecenia-do-pozwu-czego-nauczyl-nas-proces-sadowy-o-wdrazaniu-stron-internetowych/)
+- [Przychodzi freelancer do teamu i spotyka Git’a, commity, pull requesty, code review i automatyczne…](https://wordpress.tv/2024/11/29/przychodzi-freelancer-do-teamu-i-spotyka-gita-commity-pull-requesty-code-review-i-automatyczne/)
 - [Jak wybrać idealny hosting dla wordpress?](https://wordpress.tv/2024/11/29/jak-wybrac-idealny-hosting-dla-wordpress/)
 - [Biznes w barterze – jak rozwijać firmę bez angażowania gotówki](https://wordpress.tv/2024/11/29/biznes-w-barterze-jak-rozwijac-firme-bez-angazowania-gotowki/)
 - [Tour d’horizon de l’API Interactivity](https://wordpress.tv/2024/11/29/tour-dhorizon-de-lapi-interactivity/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Add Facebook Live Video to Your Page](https://wordpress.tv/2024/11/25/add-facebook-live-video-to-your-page/)
 - [Layouts in the Block Editor: How They Work and What’s Next](https://wordpress.tv/2024/11/25/layouts-in-the-block-editor-how-they-work-and-whats-next/)
 - [Plugin Review – Top 10 Mistakes Plugin Authors Make!](https://wordpress.tv/2024/11/25/plugin-review-top-10-mistakes-plugin-authors-make-2/)
-- [The Agency Business Model Is Broken, What Do We Do Instead?](https://wordpress.tv/2024/11/25/the-agency-business-model-is-broken-what-do-we-do-instead/)
-- [10 Things I Learn From Teaching WordPress in College for 12 Months](https://wordpress.tv/2024/11/25/10-things-i-learn-from-teaching-wordpress-in-college-for-12-months/)
 <!-- WPTV:END -->
 
 ## Marketing
