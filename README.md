@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [ABC Personalizacji WordPressa – motywy i kolory](https://wordpress.tv/2024/11/30/abc-personalizacji-wordpressa-motywy-i-kolory/)
 - [Hands-on Introduction to WP-CLI for Beginners](https://wordpress.tv/2024/11/30/prathamesh-palve-hands-on-introduction-to-wp-cli-for-beginners/)
 - [Series One: Session Two: Getting Good With WordPress](https://wordpress.tv/2024/11/30/series-one-session-two-getting-good-with-wordpress/)
 - [Jeszcze przed ABC! zanim podejmiesz pierwsze kroki](https://wordpress.tv/2024/11/29/jeszcze-przed-abc-zanim-podejmiesz-pierwsze-kroki/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How I Went From a PHP Shortcode Guy to a React / Block Guy](https://wordpress.tv/2024/11/25/how-i-went-from-a-php-shortcode-guy-to-a-react-block-guy/)
 - [Custom WooCommerce for Large Travel Agency: Unlocking Revenue &amp; Automating Operations](https://wordpress.tv/2024/11/25/custom-woocommerce-for-large-travel-agency-unlocking-revenue-automating-operations/)
 - [Community Contributions without Coding: Empowering WordPress through Engagement and Education](https://wordpress.tv/2024/11/25/community-contributions-without-coding-empowering-wordpress-through-engagement-and-education/)
-- [How to Not Hate WordPress as a Junior Dev](https://wordpress.tv/2024/11/25/how-to-not-hate-wordpress-as-a-junior-dev/)
 <!-- WPTV:END -->
 
 ## Marketing
