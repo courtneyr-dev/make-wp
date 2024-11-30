@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for FluentCommunity – Full-fledge Social Network, Community &amp; LMS](https://make.wordpress.org/polyglots/2024/11/30/pte-request-for-fluentcommunity-full-fledge-social-network-community-lms/)
+- [Project Translation Editor &lpar;PTE&rpar; Request…](https://make.wordpress.org/polyglots/2024/11/30/project-translation-editor-pte-request/)
 - [PTE Request for Tripzzy](https://make.wordpress.org/polyglots/2024/11/29/pte-request-for-tripzzy/)
 - [PTE Request for Creator Assistant](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-creator-assistant/)
 - [CLPTE request for Sugar Calendar](https://make.wordpress.org/polyglots/2024/11/28/clpte-request-for-sugar-calendar/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing Bulk Pre-Translations for General Translation Editors &lpar;GTEs&rpar;](https://make.wordpress.org/polyglots/2024/11/27/introducing-bulk-pre-translations-for-general-translation-editors-gtes/)
 - [PTE Request for Themes I’d…](https://make.wordpress.org/polyglots/2024/11/27/pte-request-for-themes-id/)
 - [PTE Request for ContactSync](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-contactsync/)
-- [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2024/11/26/ive-suggested-translations-for-this-34/)
-- [PTE Request for GDPR Cookie Compliance – Cookie Banner, Cookie Consent, Cookie Notice – CCPA, DSGVO, RGPD](https://make.wordpress.org/polyglots/2024/11/26/pte-request-for-gdpr-cookie-compliance-cookie-banner-cookie-consent-cookie-notice-ccpa-dsgvo-rgpd/)
 <!-- POLYGLOTS:END -->
 
 ## Support
