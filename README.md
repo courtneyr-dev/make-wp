@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Series One: Session Two: Getting Good With WordPress](https://wordpress.tv/2024/11/30/series-one-session-two-getting-good-with-wordpress/)
 - [Jeszcze przed ABC! zanim podejmiesz pierwsze kroki](https://wordpress.tv/2024/11/29/jeszcze-przed-abc-zanim-podejmiesz-pierwsze-kroki/)
 - [Od zlecenia do pozwu – czego nauczył nas proces sądowy o wdrażaniu stron internetowych](https://wordpress.tv/2024/11/29/od-zlecenia-do-pozwu-czego-nauczyl-nas-proces-sadowy-o-wdrazaniu-stron-internetowych/)
 - [Przychodzi freelancer do teamu i spotyka Git’a, commity, pull requesty, code review i automatyczne…](https://wordpress.tv/2024/11/29/przychodzi-freelancer-do-teamu-i-spotyka-gita-commity-pull-requesty-code-review-i-automatyczne/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Contributions without Coding: Empowering WordPress through Engagement and Education](https://wordpress.tv/2024/11/25/community-contributions-without-coding-empowering-wordpress-through-engagement-and-education/)
 - [How to Not Hate WordPress as a Junior Dev](https://wordpress.tv/2024/11/25/how-to-not-hate-wordpress-as-a-junior-dev/)
 - [Add Facebook Live Video to Your Page](https://wordpress.tv/2024/11/25/add-facebook-live-video-to-your-page/)
-- [Layouts in the Block Editor: How They Work and What’s Next](https://wordpress.tv/2024/11/25/layouts-in-the-block-editor-how-they-work-and-whats-next/)
 <!-- WPTV:END -->
 
 ## Marketing
