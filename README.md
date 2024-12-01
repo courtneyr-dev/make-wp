@@ -351,6 +351,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Najpopularniejsze błędy osób początkujących w tworzeniu stron na WordPress dla Klientów](https://wordpress.tv/2024/12/01/najpopularniejsze-bledy-osob-poczatkujacych-w-tworzeniu-stron-na-wordpress-dla-klientow/)
+- [Certyfikat SSL – co to jest i dlaczego jest ważny?](https://wordpress.tv/2024/12/01/certyfikat-ssl-co-to-jest-i-dlaczego-jest-wazny/)
+- [7 sposobów na przyspieszenie działania Twojej strony WWW](https://wordpress.tv/2024/12/01/7-sposobow-na-przyspieszenie-dzialania-twojej-strony-www/)
+- [Contributing – Twój wkład w rozwój WordPressa](https://wordpress.tv/2024/12/01/contributing-twoj-wklad-w-rozwoj-wordpressa/)
+- [Gotowi na produkcję? Osiem kluczowych aspektów wdrożenia WordPress, które łatwo przeoczyć.](https://wordpress.tv/2024/12/01/gotowi-na-produkcje-osiem-kluczowych-aspektow-wdrozenia-wordpress-ktore-latwo-przeoczyc/)
+- [Od lajka do Klienta: Poznaj skuteczną strategie Social Sellingu](https://wordpress.tv/2024/12/01/od-lajka-do-klienta-poznaj-skuteczna-strategie-social-sellingu/)
 - [Ale dlaczego dostałem to, czego chciałem?” O wyzwaniach w skutecznej komunikacji między klientami a deweloperami](https://wordpress.tv/2024/12/01/ale-dlaczego-dostalem-to-czego-chcialem-o-wyzwaniach-w-skutecznej-komunikacji-miedzy-klientami-a-deweloperami/)
 - [ABC Personalizacji WordPressa – motywy i kolory](https://wordpress.tv/2024/11/30/abc-personalizacji-wordpressa-motywy-i-kolory/)
 - [Hands-on Introduction to WP-CLI for Beginners](https://wordpress.tv/2024/11/30/prathamesh-palve-hands-on-introduction-to-wp-cli-for-beginners/)
@@ -370,12 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Enterprise Approach to WordPress Security](https://wordpress.tv/2024/11/27/the-enterprise-approach-to-wordpress-security-2/)
 - [The Problem With WordPress: A Deep Dive Into the WordPress Database](https://wordpress.tv/2024/11/27/the-problem-with-wordpress-a-deep-dive-into-the-wordpress-database/)
 - [5 aspectos para diferenciar tu tienda en mercados globales](https://wordpress.tv/2024/11/26/5-aspectos-para-diferenciar-tu-tienda-en-mercados-globales/)
-- [Table ronde communautaire](https://wordpress.tv/2024/11/25/table-ronde-communautaire/)
-- [Haz que otros trabajen por ti: guía para afiliados con WooCommerce](https://wordpress.tv/2024/11/25/haz-que-otros-trabajen-por-ti-guia-para-afiliados-con-woocommerce/)
-- [Aprendiendo de los mejores… cómo NO hacer las cosas en ecommerce](https://wordpress.tv/2024/11/25/aprendiendo-de-los-mejores-como-no-hacer-las-cosas-en-ecommerce/)
-- [Pinterest: hará que tu Ecommerce sea más viral que un meme](https://wordpress.tv/2024/11/25/pinterest-hara-que-tu-ecommerce-sea-mas-viral-que-un-meme/)
-- [How I Went From a PHP Shortcode Guy to a React / Block Guy](https://wordpress.tv/2024/11/25/how-i-went-from-a-php-shortcode-guy-to-a-react-block-guy/)
-- [Custom WooCommerce for Large Travel Agency: Unlocking Revenue &amp; Automating Operations](https://wordpress.tv/2024/11/25/custom-woocommerce-for-large-travel-agency-unlocking-revenue-automating-operations/)
 <!-- WPTV:END -->
 
 ## Marketing
