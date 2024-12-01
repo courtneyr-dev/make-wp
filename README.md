@@ -351,6 +351,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Jak zabezpieczać środowisko WEB przed cyberatakami ze szczególnym uwzględnieniem BOT’ow](https://wordpress.tv/2024/12/01/jak-zabezpieczac-srodowisko-web-przed-cyberatakami-ze-szczegolnym-uwzglednieniem-botow/)
+- [Dałem shackować swoją stronę, abyś Ty nie musiał_a.](https://wordpress.tv/2024/12/01/dalem-shackowac-swoja-strone-abys-ty-nie-musial_a/)
+- [Jak się zabezpieczać? Czyli o security w WordPressie](https://wordpress.tv/2024/12/01/jak-sie-zabezpieczac-czyli-o-security-w-wordpressie-2/)
 - [Podstawy SEO na WordPressie](https://wordpress.tv/2024/12/01/podstawy-seo-na-wordpressie/)
 - [Najpopularniejsze błędy osób początkujących w tworzeniu stron na WordPress dla Klientów](https://wordpress.tv/2024/12/01/najpopularniejsze-bledy-osob-poczatkujacych-w-tworzeniu-stron-na-wordpress-dla-klientow/)
 - [Certyfikat SSL – co to jest i dlaczego jest ważny?](https://wordpress.tv/2024/12/01/certyfikat-ssl-co-to-jest-i-dlaczego-jest-wazny/)
@@ -373,9 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dimensions: Padding, margin and block spacing](https://wordpress.tv/2024/11/28/dimensions-padding-margin-and-block-spacing/)
 - [Conoce la nueva Herramienta para hacer tu Plugin más seguro y cumpla buenas Prácticas](https://wordpress.tv/2024/11/28/conoce-la-nueva-herramienta-para-hacer-tu-plugin-mas-seguro-y-cumpla-buenas-practicas/)
 - [Polishing 💩: How to design beautiful websites from horrible logos [UI &amp; UX]](https://wordpress.tv/2024/11/27/polishing-%f0%9f%92%a9-how-to-design-beautiful-websites-from-horrible-logos-ui-ux/)
-- [Case study: Scaling a WooCommerce Store from 16k to 6.5M in 3 Years](https://wordpress.tv/2024/11/27/case-study-scaling-a-woocommerce-store-from-16k-to-6-5m-in-3-years/)
-- [The Enterprise Approach to WordPress Security](https://wordpress.tv/2024/11/27/the-enterprise-approach-to-wordpress-security-2/)
-- [The Problem With WordPress: A Deep Dive Into the WordPress Database](https://wordpress.tv/2024/11/27/the-problem-with-wordpress-a-deep-dive-into-the-wordpress-database/)
 <!-- WPTV:END -->
 
 ## Marketing
