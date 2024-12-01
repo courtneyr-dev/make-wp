@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Podstawy SEO na WordPressie](https://wordpress.tv/2024/12/01/podstawy-seo-na-wordpressie/)
 - [Najpopularniejsze błędy osób początkujących w tworzeniu stron na WordPress dla Klientów](https://wordpress.tv/2024/12/01/najpopularniejsze-bledy-osob-poczatkujacych-w-tworzeniu-stron-na-wordpress-dla-klientow/)
 - [Certyfikat SSL – co to jest i dlaczego jest ważny?](https://wordpress.tv/2024/12/01/certyfikat-ssl-co-to-jest-i-dlaczego-jest-wazny/)
 - [7 sposobów na przyspieszenie działania Twojej strony WWW](https://wordpress.tv/2024/12/01/7-sposobow-na-przyspieszenie-dzialania-twojej-strony-www/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Case study: Scaling a WooCommerce Store from 16k to 6.5M in 3 Years](https://wordpress.tv/2024/11/27/case-study-scaling-a-woocommerce-store-from-16k-to-6-5m-in-3-years/)
 - [The Enterprise Approach to WordPress Security](https://wordpress.tv/2024/11/27/the-enterprise-approach-to-wordpress-security-2/)
 - [The Problem With WordPress: A Deep Dive Into the WordPress Database](https://wordpress.tv/2024/11/27/the-problem-with-wordpress-a-deep-dive-into-the-wordpress-database/)
-- [5 aspectos para diferenciar tu tienda en mercados globales](https://wordpress.tv/2024/11/26/5-aspectos-para-diferenciar-tu-tienda-en-mercados-globales/)
 <!-- WPTV:END -->
 
 ## Marketing
