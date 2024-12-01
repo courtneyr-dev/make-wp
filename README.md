@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Accessibility w praktyce: Jak zbudować wydajną stronę dostępną dla wszystkich](https://wordpress.tv/2024/12/01/accessibility-w-praktyce-jak-zbudowac-wydajna-strone-dostepna-dla-wszystkich/)
+- [Gutenberg na sterydach: Custom bloki w kilka minut](https://wordpress.tv/2024/12/01/gutenberg-na-sterydach-custom-bloki-w-kilka-minut/)
 - [Używanie komponentów WordPressowych poza Gutenbergiem](https://wordpress.tv/2024/12/01/uzywanie-komponentow-wordpressowych-poza-gutenbergiem/)
 - [Jak zabezpieczać środowisko WEB przed cyberatakami ze szczególnym uwzględnieniem BOT’ow](https://wordpress.tv/2024/12/01/jak-zabezpieczac-srodowisko-web-przed-cyberatakami-ze-szczegolnym-uwzglednieniem-botow/)
 - [Dałem shackować swoją stronę, abyś Ty nie musiał_a.](https://wordpress.tv/2024/12/01/dalem-shackowac-swoja-strone-abys-ty-nie-musial_a/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tour d’horizon de l’API Interactivity](https://wordpress.tv/2024/11/29/tour-dhorizon-de-lapi-interactivity/)
 - [Battle FSE](https://wordpress.tv/2024/11/29/battle-fse/)
 - [Designing with the Group block](https://wordpress.tv/2024/11/28/designing-with-the-group-block/)
-- [Dimensions: Padding, margin and block spacing](https://wordpress.tv/2024/11/28/dimensions-padding-margin-and-block-spacing/)
-- [Conoce la nueva Herramienta para hacer tu Plugin más seguro y cumpla buenas Prácticas](https://wordpress.tv/2024/11/28/conoce-la-nueva-herramienta-para-hacer-tu-plugin-mas-seguro-y-cumpla-buenas-practicas/)
 <!-- WPTV:END -->
 
 ## Marketing
