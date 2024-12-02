@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request in multiple projects: Polish locale](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-polish-locale/)
+- [PTE request in multiple projects: Japanese](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-japanese/)
 - [PTE Request for Plugins fluent-community](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-pluginsfluentcommunity/)
 - [PTE Request for FluentCommunity – Full-fledge Social Network, Community &amp; LMS](https://make.wordpress.org/polyglots/2024/11/30/pte-request-for-fluentcommunity-full-fledge-social-network-community-lms/)
 - [Project Translation Editor &lpar;PTE&rpar; Request…](https://make.wordpress.org/polyglots/2024/11/30/project-translation-editor-pte-request/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE request for Sugar Calendar](https://make.wordpress.org/polyglots/2024/11/28/clpte-request-for-sugar-calendar/)
 - [PTE Request for Starter Templates plugin](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-starter-templates-plugin/)
 - [PTE Request for Bit Form, Bit Integrations, Bit Assist, Bit Social, Bit SMTP, Bit File Manager](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-bit-form-bit-integrations-bit-assist-bit-social-bit-smtp-bit-file-manager/)
-- [Introducing Bulk Pre-Translations for General Translation Editors &lpar;GTEs&rpar;](https://make.wordpress.org/polyglots/2024/11/27/introducing-bulk-pre-translations-for-general-translation-editors-gtes/)
-- [PTE Request for Themes I’d…](https://make.wordpress.org/polyglots/2024/11/27/pte-request-for-themes-id/)
 <!-- POLYGLOTS:END -->
 
 ## Support
