@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Quiz Maker](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-quiz-maker/)
 - [PTE request in multiple projects: Polish locale](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-polish-locale/)
 - [PTE request in multiple projects: Japanese](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-japanese/)
 - [PTE Request for Plugins fluent-community](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-pluginsfluentcommunity/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Creator Assistant](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-creator-assistant/)
 - [CLPTE request for Sugar Calendar](https://make.wordpress.org/polyglots/2024/11/28/clpte-request-for-sugar-calendar/)
 - [PTE Request for Starter Templates plugin](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-starter-templates-plugin/)
-- [PTE Request for Bit Form, Bit Integrations, Bit Assist, Bit Social, Bit SMTP, Bit File Manager](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-bit-form-bit-integrations-bit-assist-bit-social-bit-smtp-bit-file-manager/)
 <!-- POLYGLOTS:END -->
 
 ## Support
