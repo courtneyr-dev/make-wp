@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Construye tu sitio en tiempo record. Dominando los patrones de WordPress](https://wordpress.tv/2024/12/02/construye-tu-sitio-en-tiempo-record-dominando-los-patrones-de-wordpress/)
 - [WordPress à l’échelle dans le Cloud : Stratégies et Meilleures Pratiques](https://wordpress.tv/2024/12/02/wordpress-a-lechelle-dans-le-cloud-strategies-et-meilleures-pratiques/)
 - [Accessibility w praktyce: Jak zbudować wydajną stronę dostępną dla wszystkich](https://wordpress.tv/2024/12/01/accessibility-w-praktyce-jak-zbudowac-wydajna-strone-dostepna-dla-wszystkich/)
 - [Gutenberg na sterydach: Custom bloki w kilka minut](https://wordpress.tv/2024/12/01/gutenberg-na-sterydach-custom-bloki-w-kilka-minut/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jak wybrać idealny hosting dla wordpress?](https://wordpress.tv/2024/11/29/jak-wybrac-idealny-hosting-dla-wordpress/)
 - [Biznes w barterze – jak rozwijać firmę bez angażowania gotówki](https://wordpress.tv/2024/11/29/biznes-w-barterze-jak-rozwijac-firme-bez-angazowania-gotowki/)
 - [Tour d’horizon de l’API Interactivity](https://wordpress.tv/2024/11/29/tour-dhorizon-de-lapi-interactivity/)
-- [Battle FSE](https://wordpress.tv/2024/11/29/battle-fse/)
 <!-- WPTV:END -->
 
 ## Marketing
