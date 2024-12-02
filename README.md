@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress SEO decoded: Tools, tricks &amp; real-world wins](https://wordpress.tv/2024/12/02/wordpress-seo-decoded-tools-tricks-real-world-wins/)
 - [Construye tu sitio en tiempo record. Dominando los patrones de WordPress](https://wordpress.tv/2024/12/02/construye-tu-sitio-en-tiempo-record-dominando-los-patrones-de-wordpress/)
 - [WordPress à l’échelle dans le Cloud : Stratégies et Meilleures Pratiques](https://wordpress.tv/2024/12/02/wordpress-a-lechelle-dans-le-cloud-strategies-et-meilleures-pratiques/)
 - [Accessibility w praktyce: Jak zbudować wydajną stronę dostępną dla wszystkich](https://wordpress.tv/2024/12/01/accessibility-w-praktyce-jak-zbudowac-wydajna-strone-dostepna-dla-wszystkich/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Przychodzi freelancer do teamu i spotyka Git’a, commity, pull requesty, code review i automatyczne…](https://wordpress.tv/2024/11/29/przychodzi-freelancer-do-teamu-i-spotyka-gita-commity-pull-requesty-code-review-i-automatyczne/)
 - [Jak wybrać idealny hosting dla wordpress?](https://wordpress.tv/2024/11/29/jak-wybrac-idealny-hosting-dla-wordpress/)
 - [Biznes w barterze – jak rozwijać firmę bez angażowania gotówki](https://wordpress.tv/2024/11/29/biznes-w-barterze-jak-rozwijac-firme-bez-angazowania-gotowki/)
-- [Tour d’horizon de l’API Interactivity](https://wordpress.tv/2024/11/29/tour-dhorizon-de-lapi-interactivity/)
 <!-- WPTV:END -->
 
 ## Marketing
