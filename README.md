@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design Share #69 &lpar;Nov 18-Nov 29&rpar;](https://make.wordpress.org/design/2024/12/02/design-share-69-nov-18-nov-29/)
 - [Design Share #68 &lpar;Nov 4-Nov 15&rpar;](https://make.wordpress.org/design/2024/11/18/design-share-68-nov-4-nov-15/)
 - [Announcing the new WordPress Design System Figma library](https://make.wordpress.org/design/2024/11/07/announcing-the-new-wordpress-design-system-figma-library/)
 - [Design Share #67 &lpar;Oct 21-Nov 1&rpar;](https://make.wordpress.org/design/2024/11/01/design-share-67-oct-21-nov-1/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/design/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Design Share #65 &lpar;Sep 23-Oct 4&rpar;](https://make.wordpress.org/design/2024/10/07/design-share-65-sep-23-oct-4/)
 - [Design Share #64 &lpar;Sep 9-Sep 20&rpar;](https://make.wordpress.org/design/2024/09/24/design-share-64-sep-9-sep-20/)
-- [Data Views Update #2](https://make.wordpress.org/design/2024/09/20/data-views-update-2/)
 <!-- DESIGN:END -->
 
 ## Mobile
