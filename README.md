@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Pay with Vipps and MobilePay for WooCommerce  and Login with Vipps and MobilePay](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-pay-with-vipps-and-mobilepay-for-woocommerce-and-login-with-vipps-and-mobilepay/)
 - [PTE request in multiple projects: German &lpar;Germany&rpar; locale](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-german-germany-locale/)
 - [PTE Request for Quiz Maker](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-quiz-maker/)
 - [PTE request in multiple projects: Polish locale](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-polish-locale/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Project Translation Editor &lpar;PTE&rpar; Request…](https://make.wordpress.org/polyglots/2024/11/30/project-translation-editor-pte-request/)
 - [PTE Request for Tripzzy](https://make.wordpress.org/polyglots/2024/11/29/pte-request-for-tripzzy/)
 - [PTE Request for Creator Assistant](https://make.wordpress.org/polyglots/2024/11/28/pte-request-for-creator-assistant/)
-- [CLPTE request for Sugar Calendar](https://make.wordpress.org/polyglots/2024/11/28/clpte-request-for-sugar-calendar/)
 <!-- POLYGLOTS:END -->
 
 ## Support
