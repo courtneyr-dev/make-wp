@@ -351,6 +351,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Otwarcie WordCamp Wroclaw 2024](https://wordpress.tv/2024/12/02/otwarcie-wordcamp-wroclaw-2024/)
+- [WordPress Playground – Przełom w WordPressie](https://wordpress.tv/2024/12/02/wordpress-playground-przelom-w-wordpressie-2/)
+- [Jak utopić miliony w produkcie, którego nikt nie chce – poradnik dla odważnych](https://wordpress.tv/2024/12/02/jak-utopic-miliony-w-produkcie-ktorego-nikt-nie-chce-poradnik-dla-odwaznych/)
+- [Marketplace na WooCommerce: Jak Zarządzać Sprzedawcami i Płatnościami](https://wordpress.tv/2024/12/02/marketplace-na-woocommerce-jak-zarzadzac-sprzedawcami-i-platnosciami/)
+- [Wszystko zaczyna się od umowy, czyli tych błędów nie popełniaj robiąc stronę na WordPressie](https://wordpress.tv/2024/12/02/wszystko-zaczyna-sie-od-umowy-czyli-tych-bledow-nie-popelniaj-robiac-strone-na-wordpressie/)
+- [WordPress + Kubernetes, dlaczego warto?](https://wordpress.tv/2024/12/02/wordpress-kubernetes-dlaczego-warto/)
+- [Jak &lpar;nie&rpar; współpracować z wysokobudżetowym Klientem strony WordPress?](https://wordpress.tv/2024/12/02/jak-nie-wspolpracowac-z-wysokobudzetowym-klientem-strony-wordpress/)
+- [Unikaj pułapek komunikacyjnych: najczęstsze błędy w zarządzaniu projektami](https://wordpress.tv/2024/12/02/unikaj-pulapek-komunikacyjnych-najczestsze-bledy-w-zarzadzaniu-projektami/)
+- [Szybki na desktop, wolny na mobile? O optymalizacji WordPress-a i WooCommerce-a dla urządzeń mobilnych.](https://wordpress.tv/2024/12/02/szybki-na-desktop-wolny-na-mobile-o-optymalizacji-wordpress-a-i-woocommerce-a-dla-urzadzen-mobilnych/)
+- [Każdy klik ma znaczenie – SEO a deploy/maintenance DEV](https://wordpress.tv/2024/12/02/kazdy-klik-ma-znaczenie-seo-a-deploy-maintenance-dev/)
+- [Czy aby przypadkiem nie cenisz się zbyt nisko?](https://wordpress.tv/2024/12/02/czy-aby-przypadkiem-nie-cenisz-sie-zbyt-nisko/)
+- [Własne typy postów w edytorze blokowym](https://wordpress.tv/2024/12/02/wlasne-typy-postow-w-edytorze-blokowym/)
+- [5 rzeczy, które budują zaangażowaną i dającą wartość społeczność](https://wordpress.tv/2024/12/02/5-rzeczy-ktore-buduja-zaangazowana-i-dajaca-wartosc-spolecznosc/)
+- [Full Site Editing w podejściu Headlessowym. Case Study.](https://wordpress.tv/2024/12/02/full-site-editing-w-podejsciu-headlessowym-case-study-3/)
 - [WordPress SEO decoded: Tools, tricks &amp; real-world wins](https://wordpress.tv/2024/12/02/wordpress-seo-decoded-tools-tricks-real-world-wins/)
 - [Construye tu sitio en tiempo record. Dominando los patrones de WordPress](https://wordpress.tv/2024/12/02/construye-tu-sitio-en-tiempo-record-dominando-los-patrones-de-wordpress/)
 - [WordPress à l’échelle dans le Cloud : Stratégies et Meilleures Pratiques](https://wordpress.tv/2024/12/02/wordpress-a-lechelle-dans-le-cloud-strategies-et-meilleures-pratiques/)
@@ -362,20 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jak się zabezpieczać? Czyli o security w WordPressie](https://wordpress.tv/2024/12/01/jak-sie-zabezpieczac-czyli-o-security-w-wordpressie-2/)
 - [Podstawy SEO na WordPressie](https://wordpress.tv/2024/12/01/podstawy-seo-na-wordpressie/)
 - [Najpopularniejsze błędy osób początkujących w tworzeniu stron na WordPress dla Klientów](https://wordpress.tv/2024/12/01/najpopularniejsze-bledy-osob-poczatkujacych-w-tworzeniu-stron-na-wordpress-dla-klientow/)
-- [Certyfikat SSL – co to jest i dlaczego jest ważny?](https://wordpress.tv/2024/12/01/certyfikat-ssl-co-to-jest-i-dlaczego-jest-wazny/)
-- [7 sposobów na przyspieszenie działania Twojej strony WWW](https://wordpress.tv/2024/12/01/7-sposobow-na-przyspieszenie-dzialania-twojej-strony-www/)
-- [Contributing – Twój wkład w rozwój WordPressa](https://wordpress.tv/2024/12/01/contributing-twoj-wklad-w-rozwoj-wordpressa/)
-- [Gotowi na produkcję? Osiem kluczowych aspektów wdrożenia WordPress, które łatwo przeoczyć.](https://wordpress.tv/2024/12/01/gotowi-na-produkcje-osiem-kluczowych-aspektow-wdrozenia-wordpress-ktore-latwo-przeoczyc/)
-- [Od lajka do Klienta: Poznaj skuteczną strategie Social Sellingu](https://wordpress.tv/2024/12/01/od-lajka-do-klienta-poznaj-skuteczna-strategie-social-sellingu/)
-- [Ale dlaczego dostałem to, czego chciałem?” O wyzwaniach w skutecznej komunikacji między klientami a deweloperami](https://wordpress.tv/2024/12/01/ale-dlaczego-dostalem-to-czego-chcialem-o-wyzwaniach-w-skutecznej-komunikacji-miedzy-klientami-a-deweloperami/)
-- [ABC Personalizacji WordPressa – motywy i kolory](https://wordpress.tv/2024/11/30/abc-personalizacji-wordpressa-motywy-i-kolory/)
-- [Hands-on Introduction to WP-CLI for Beginners](https://wordpress.tv/2024/11/30/prathamesh-palve-hands-on-introduction-to-wp-cli-for-beginners/)
-- [Series One: Session Two: Getting Good With WordPress](https://wordpress.tv/2024/11/30/series-one-session-two-getting-good-with-wordpress/)
-- [Jeszcze przed ABC! zanim podejmiesz pierwsze kroki](https://wordpress.tv/2024/11/29/jeszcze-przed-abc-zanim-podejmiesz-pierwsze-kroki/)
-- [Od zlecenia do pozwu – czego nauczył nas proces sądowy o wdrażaniu stron internetowych](https://wordpress.tv/2024/11/29/od-zlecenia-do-pozwu-czego-nauczyl-nas-proces-sadowy-o-wdrazaniu-stron-internetowych/)
-- [Przychodzi freelancer do teamu i spotyka Git’a, commity, pull requesty, code review i automatyczne…](https://wordpress.tv/2024/11/29/przychodzi-freelancer-do-teamu-i-spotyka-gita-commity-pull-requesty-code-review-i-automatyczne/)
-- [Jak wybrać idealny hosting dla wordpress?](https://wordpress.tv/2024/11/29/jak-wybrac-idealny-hosting-dla-wordpress/)
-- [Biznes w barterze – jak rozwijać firmę bez angażowania gotówki](https://wordpress.tv/2024/11/29/biznes-w-barterze-jak-rozwijac-firme-bez-angazowania-gotowki/)
 <!-- WPTV:END -->
 
 ## Marketing
