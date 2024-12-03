@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Delicious Recipes…](https://make.wordpress.org/polyglots/2024/12/03/pte-request-for-delicious-recipes-5/)
 - [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/12/03/pte-request-for-below-listed-plugins-3/)
 - [Hi polyglots,](https://make.wordpress.org/polyglots/2024/12/02/hi-polyglots-110/)
 - [PTE Request for Pay with Vipps and MobilePay for WooCommerce  and Login with Vipps and MobilePay](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-pay-with-vipps-and-mobilepay-for-woocommerce-and-login-with-vipps-and-mobilepay/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request in multiple projects: Japanese](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-japanese/)
 - [PTE Request for Plugins fluent-community](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-pluginsfluentcommunity/)
 - [PTE Request for FluentCommunity – Full-fledge Social Network, Community &amp; LMS](https://make.wordpress.org/polyglots/2024/11/30/pte-request-for-fluentcommunity-full-fledge-social-network-community-lms/)
-- [Project Translation Editor &lpar;PTE&rpar; Request…](https://make.wordpress.org/polyglots/2024/11/30/project-translation-editor-pte-request/)
 <!-- POLYGLOTS:END -->
 
 ## Support
