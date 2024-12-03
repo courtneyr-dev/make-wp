@@ -351,6 +351,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using AI to Help You Write an API for a WordPress Website](https://wordpress.tv/2024/12/03/using-ai-to-help-you-write-an-api-for-a-wordpress-website/)
+- [Design WordPress Site In Minutes: The AI Revolution You Can’t Ignore](https://wordpress.tv/2024/12/03/design-wordpress-site-in-minutes-the-ai-revolution-you-cant-ignore/)
 - [Otwarcie WordCamp Wroclaw 2024](https://wordpress.tv/2024/12/02/otwarcie-wordcamp-wroclaw-2024/)
 - [WordPress Playground – Przełom w WordPressie](https://wordpress.tv/2024/12/02/wordpress-playground-przelom-w-wordpressie-2/)
 - [Jak utopić miliony w produkcie, którego nikt nie chce – poradnik dla odważnych](https://wordpress.tv/2024/12/02/jak-utopic-miliony-w-produkcie-ktorego-nikt-nie-chce-poradnik-dla-odwaznych/)
@@ -374,8 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jak zabezpieczać środowisko WEB przed cyberatakami ze szczególnym uwzględnieniem BOT’ow](https://wordpress.tv/2024/12/01/jak-zabezpieczac-srodowisko-web-przed-cyberatakami-ze-szczegolnym-uwzglednieniem-botow/)
 - [Dałem shackować swoją stronę, abyś Ty nie musiał_a.](https://wordpress.tv/2024/12/01/dalem-shackowac-swoja-strone-abys-ty-nie-musial_a/)
 - [Jak się zabezpieczać? Czyli o security w WordPressie](https://wordpress.tv/2024/12/01/jak-sie-zabezpieczac-czyli-o-security-w-wordpressie-2/)
-- [Podstawy SEO na WordPressie](https://wordpress.tv/2024/12/01/podstawy-seo-na-wordpressie/)
-- [Najpopularniejsze błędy osób początkujących w tworzeniu stron na WordPress dla Klientów](https://wordpress.tv/2024/12/01/najpopularniejsze-bledy-osob-poczatkujacych-w-tworzeniu-stron-na-wordpress-dla-klientow/)
 <!-- WPTV:END -->
 
 ## Marketing
