@@ -351,6 +351,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [I Survived the Theme Review Process: And Lived to Tell the Tale](https://wordpress.tv/2024/12/03/i-survived-the-theme-review-process-and-lived-to-tell-the-tale/)
+- [Designing in WordPress in the Last 20 Years](https://wordpress.tv/2024/12/03/designing-in-wordpress-in-the-last-20-years/)
+- [No-Code Contributions: Why it matters to the WordPress ecosystem](https://wordpress.tv/2024/12/03/no-code-contributions-why-it-matters-to-the-wordpress-ecosystem/)
+- [How to Grow and Monetise your WordPress Blog While Traveling the World!](https://wordpress.tv/2024/12/03/how-to-grow-and-monetise-your-wordpress-blog-while-traveling-the-world/)
+- [Digital Experience Optimization &lpar;DXO&rpar;](https://wordpress.tv/2024/12/03/digital-experience-optimization-dxo/)
+- [Benefits of contributing to WordPress open-source project &lpar;Five for the future&rpar;](https://wordpress.tv/2024/12/03/benefits-of-contributing-to-wordpress-open-source-project-five-for-the-future/)
+- [Top 5 Woocommerce SEO Strategies](https://wordpress.tv/2024/12/03/top-5-woocommerce-seo-strategies/)
+- [Cooking Up WordPress: A Chef’s WordPress Journey](https://wordpress.tv/2024/12/03/cooking-up-wordpress-a-chefs-wordpress-journey/)
+- [Artificial Intelligence In Content Creation: How AI Can Enhance, Not Replace, Human Creativity!](https://wordpress.tv/2024/12/03/artificial-intelligence-in-content-creation-how-ai-can-enhance-not-replace-human-creativity/)
+- [Managing multiple WordPress plugins in a single repo](https://wordpress.tv/2024/12/03/managing-multiple-wordpress-plugins-in-a-single-repo/)
+- [Terraforming your WordPress into native mobile apps](https://wordpress.tv/2024/12/03/terraforming-your-wordpress-into-native-mobile-apps/)
+- [Building Your First Plugin&lpar;s&rpar; – the Why and How](https://wordpress.tv/2024/12/03/building-your-first-plugins-the-why-and-how/)
+- [From Good to Great: How Exceptional Support Can Sustain and Grow Your WordPress Business](https://wordpress.tv/2024/12/03/from-good-to-great-how-exceptional-support-can-sustain-and-grow-your-wordpress-business/)
+- [Headless WordPress and API](https://wordpress.tv/2024/12/03/headless-wordpress-and-api/)
+- [Implementing Robust Security Measures for WordPress Website](https://wordpress.tv/2024/12/03/implementing-robust-security-measures-for-wordpress-website/)
 - [Using AI to Help You Write an API for a WordPress Website](https://wordpress.tv/2024/12/03/using-ai-to-help-you-write-an-api-for-a-wordpress-website/)
 - [Design WordPress Site In Minutes: The AI Revolution You Can’t Ignore](https://wordpress.tv/2024/12/03/design-wordpress-site-in-minutes-the-ai-revolution-you-cant-ignore/)
 - [Otwarcie WordCamp Wroclaw 2024](https://wordpress.tv/2024/12/02/otwarcie-wordcamp-wroclaw-2024/)
@@ -361,21 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress + Kubernetes, dlaczego warto?](https://wordpress.tv/2024/12/02/wordpress-kubernetes-dlaczego-warto/)
 - [Jak &lpar;nie&rpar; współpracować z wysokobudżetowym Klientem strony WordPress?](https://wordpress.tv/2024/12/02/jak-nie-wspolpracowac-z-wysokobudzetowym-klientem-strony-wordpress/)
 - [Unikaj pułapek komunikacyjnych: najczęstsze błędy w zarządzaniu projektami](https://wordpress.tv/2024/12/02/unikaj-pulapek-komunikacyjnych-najczestsze-bledy-w-zarzadzaniu-projektami/)
-- [Szybki na desktop, wolny na mobile? O optymalizacji WordPress-a i WooCommerce-a dla urządzeń mobilnych.](https://wordpress.tv/2024/12/02/szybki-na-desktop-wolny-na-mobile-o-optymalizacji-wordpress-a-i-woocommerce-a-dla-urzadzen-mobilnych/)
-- [Każdy klik ma znaczenie – SEO a deploy/maintenance DEV](https://wordpress.tv/2024/12/02/kazdy-klik-ma-znaczenie-seo-a-deploy-maintenance-dev/)
-- [Czy aby przypadkiem nie cenisz się zbyt nisko?](https://wordpress.tv/2024/12/02/czy-aby-przypadkiem-nie-cenisz-sie-zbyt-nisko/)
-- [Własne typy postów w edytorze blokowym](https://wordpress.tv/2024/12/02/wlasne-typy-postow-w-edytorze-blokowym/)
-- [5 rzeczy, które budują zaangażowaną i dającą wartość społeczność](https://wordpress.tv/2024/12/02/5-rzeczy-ktore-buduja-zaangazowana-i-dajaca-wartosc-spolecznosc/)
-- [Full Site Editing w podejściu Headlessowym. Case Study.](https://wordpress.tv/2024/12/02/full-site-editing-w-podejsciu-headlessowym-case-study-3/)
-- [WordPress SEO decoded: Tools, tricks &amp; real-world wins](https://wordpress.tv/2024/12/02/wordpress-seo-decoded-tools-tricks-real-world-wins/)
-- [Construye tu sitio en tiempo record. Dominando los patrones de WordPress](https://wordpress.tv/2024/12/02/construye-tu-sitio-en-tiempo-record-dominando-los-patrones-de-wordpress/)
-- [WordPress à l’échelle dans le Cloud : Stratégies et Meilleures Pratiques](https://wordpress.tv/2024/12/02/wordpress-a-lechelle-dans-le-cloud-strategies-et-meilleures-pratiques/)
-- [Accessibility w praktyce: Jak zbudować wydajną stronę dostępną dla wszystkich](https://wordpress.tv/2024/12/01/accessibility-w-praktyce-jak-zbudowac-wydajna-strone-dostepna-dla-wszystkich/)
-- [Gutenberg na sterydach: Custom bloki w kilka minut](https://wordpress.tv/2024/12/01/gutenberg-na-sterydach-custom-bloki-w-kilka-minut/)
-- [Używanie komponentów WordPressowych poza Gutenbergiem](https://wordpress.tv/2024/12/01/uzywanie-komponentow-wordpressowych-poza-gutenbergiem/)
-- [Jak zabezpieczać środowisko WEB przed cyberatakami ze szczególnym uwzględnieniem BOT’ow](https://wordpress.tv/2024/12/01/jak-zabezpieczac-srodowisko-web-przed-cyberatakami-ze-szczegolnym-uwzglednieniem-botow/)
-- [Dałem shackować swoją stronę, abyś Ty nie musiał_a.](https://wordpress.tv/2024/12/01/dalem-shackowac-swoja-strone-abys-ty-nie-musial_a/)
-- [Jak się zabezpieczać? Czyli o security w WordPressie](https://wordpress.tv/2024/12/01/jak-sie-zabezpieczac-czyli-o-security-w-wordpressie-2/)
 <!-- WPTV:END -->
 
 ## Marketing
