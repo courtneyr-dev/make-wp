@@ -520,16 +520,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Web Developer with Expertise in “Animation Addons for Elementor” WordPress Plugin &lpar;Remote&rpar;](https://jobs.wordpress.net/job/web-developer-with-expertise-in-animation-addons-for-elementor-wordpress-plugin-remote/)
+- [Sr. Web Developer &amp; WordPress Specialist](https://jobs.wordpress.net/job/sr-web-developer-wordpress-specialist/)
+- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-3/)
+- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-6/)
+- [[Astra] Associate Product Manager](https://jobs.wordpress.net/job/astra-associate-product-manager/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-5/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-13/)
 - [Arolax Theme Setup &amp; Content Integration](https://jobs.wordpress.net/job/arolax-theme-setup-content-integration/)
 - [PHP, WordPress and Woocommerce Expert Needed](https://jobs.wordpress.net/job/php-wordpress-and-woocommerce-expert-needed/)
 - [Frontend Developer](https://jobs.wordpress.net/job/frontend-developer-7/)
-- [Tech Tutor](https://jobs.wordpress.net/job/tech-tutor/)
-- [Arolax Theme Customization Expert](https://jobs.wordpress.net/job/arolax-theme-customization-expert/)
-- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-12/)
-- [[Astra] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-2/)
-- [One time website set up. Small business page.](https://jobs.wordpress.net/job/one-time-website-set-up-small-business-page/)
 <!-- JOBS:END -->
 
 ## Central
