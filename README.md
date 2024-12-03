@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Improve your workflows with WordPress development tools](https://wordpress.tv/2024/12/03/developer-hours-improve-your-workflows-with-wordpress-development-tools/)
 - [I Survived the Theme Review Process: And Lived to Tell the Tale](https://wordpress.tv/2024/12/03/i-survived-the-theme-review-process-and-lived-to-tell-the-tale/)
 - [Designing in WordPress in the Last 20 Years](https://wordpress.tv/2024/12/03/designing-in-wordpress-in-the-last-20-years/)
 - [No-Code Contributions: Why it matters to the WordPress ecosystem](https://wordpress.tv/2024/12/03/no-code-contributions-why-it-matters-to-the-wordpress-ecosystem/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Wszystko zaczyna się od umowy, czyli tych błędów nie popełniaj robiąc stronę na WordPressie](https://wordpress.tv/2024/12/02/wszystko-zaczyna-sie-od-umowy-czyli-tych-bledow-nie-popelniaj-robiac-strone-na-wordpressie/)
 - [WordPress + Kubernetes, dlaczego warto?](https://wordpress.tv/2024/12/02/wordpress-kubernetes-dlaczego-warto/)
 - [Jak &lpar;nie&rpar; współpracować z wysokobudżetowym Klientem strony WordPress?](https://wordpress.tv/2024/12/02/jak-nie-wspolpracowac-z-wysokobudzetowym-klientem-strony-wordpress/)
-- [Unikaj pułapek komunikacyjnych: najczęstsze błędy w zarządzaniu projektami](https://wordpress.tv/2024/12/02/unikaj-pulapek-komunikacyjnych-najczestsze-bledy-w-zarzadzaniu-projektami/)
 <!-- WPTV:END -->
 
 ## Marketing
