@@ -295,6 +295,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WordPress Playground for developers](https://learn.wordpress.org/?meeting=wordpress-playground-for-developers)
 - [Developer Hours: Everything you need to know about WordPress Playground](https://learn.wordpress.org/?meeting=developer-hours-everything-you-need-to-know-about-wordpress-playground)
 - [Using and customizing WordPress media blocks](https://learn.wordpress.org/?meeting=using-and-customizing-wordpress-media-blocks)
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-6)
@@ -319,7 +320,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Playground Block code editor theme support](https://learn.wordpress.org/?meeting=wordpress-playground-block-code-editor-theme-support)
 - [Creating Your Own Contact Form Plugin](https://learn.wordpress.org/?meeting=creating-your-own-contact-form-plugin)
 - [Submitting an enhancement to the WordPress Playground Block](https://learn.wordpress.org/?meeting=submitting-an-enhancement-to-the-wordpress-playground-block)
-- [デザインデータからのテーマ作成。ブロックを活用して更新しやすいテーマを作ろう！](https://learn.wordpress.org/?meeting=%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%83%87%e3%83%bc%e3%82%bf%e3%81%8b%e3%82%89%e3%81%ae%e3%83%86%e3%83%bc%e3%83%9e%e4%bd%9c%e6%88%90%e3%80%82%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%82%92%e6%b4%bb)
 <!-- SLS:END -->
 
 ## Test
