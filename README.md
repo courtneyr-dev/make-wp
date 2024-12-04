@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for several projects](https://make.wordpress.org/polyglots/2024/12/04/pte-request-for-several-projects-6/)
+- [PTE request in two projects](https://make.wordpress.org/polyglots/2024/12/04/pte-request-in-two-projects/)
 - [PTE Request for Delicious Recipes…](https://make.wordpress.org/polyglots/2024/12/03/pte-request-for-delicious-recipes-5/)
 - [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/12/03/pte-request-for-below-listed-plugins-3/)
 - [Hi polyglots,](https://make.wordpress.org/polyglots/2024/12/02/hi-polyglots-110/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Quiz Maker](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-quiz-maker/)
 - [PTE request in multiple projects: Polish locale](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-polish-locale/)
 - [PTE request in multiple projects: Japanese](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-japanese/)
-- [PTE Request for Plugins fluent-community](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-pluginsfluentcommunity/)
-- [PTE Request for FluentCommunity – Full-fledge Social Network, Community &amp; LMS](https://make.wordpress.org/polyglots/2024/11/30/pte-request-for-fluentcommunity-full-fledge-social-network-community-lms/)
 <!-- POLYGLOTS:END -->
 
 ## Support
