@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Modular: Diseño Atómico y SCSS para Interfaces Flexible](https://wordpress.tv/2024/12/04/wordpress-modular-diseno-atomico-y-scss-para-interfaces-flexible/)
 - [Rendimiento, Seguridad y Estabilidad: Buenas Prácticas sin plugins de terceros](https://wordpress.tv/2024/12/04/rendimiento-seguridad-estabilidad/)
 - [Developer Hours: Improve your workflows with WordPress development tools](https://wordpress.tv/2024/12/03/developer-hours-improve-your-workflows-with-wordpress-development-tools/)
 - [I Survived the Theme Review Process: And Lived to Tell the Tale](https://wordpress.tv/2024/12/03/i-survived-the-theme-review-process-and-lived-to-tell-the-tale/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jak utopić miliony w produkcie, którego nikt nie chce – poradnik dla odważnych](https://wordpress.tv/2024/12/02/jak-utopic-miliony-w-produkcie-ktorego-nikt-nie-chce-poradnik-dla-odwaznych/)
 - [Marketplace na WooCommerce: Jak Zarządzać Sprzedawcami i Płatnościami](https://wordpress.tv/2024/12/02/marketplace-na-woocommerce-jak-zarzadzac-sprzedawcami-i-platnosciami/)
 - [Wszystko zaczyna się od umowy, czyli tych błędów nie popełniaj robiąc stronę na WordPressie](https://wordpress.tv/2024/12/02/wszystko-zaczyna-sie-od-umowy-czyli-tych-bledow-nie-popelniaj-robiac-strone-na-wordpressie/)
-- [WordPress + Kubernetes, dlaczego warto?](https://wordpress.tv/2024/12/02/wordpress-kubernetes-dlaczego-warto/)
 <!-- WPTV:END -->
 
 ## Marketing
