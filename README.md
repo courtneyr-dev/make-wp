@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Rendimiento, Seguridad y Estabilidad: Buenas Prácticas sin plugins de terceros](https://wordpress.tv/2024/12/04/rendimiento-seguridad-estabilidad/)
 - [Developer Hours: Improve your workflows with WordPress development tools](https://wordpress.tv/2024/12/03/developer-hours-improve-your-workflows-with-wordpress-development-tools/)
 - [I Survived the Theme Review Process: And Lived to Tell the Tale](https://wordpress.tv/2024/12/03/i-survived-the-theme-review-process-and-lived-to-tell-the-tale/)
 - [Designing in WordPress in the Last 20 Years](https://wordpress.tv/2024/12/03/designing-in-wordpress-in-the-last-20-years/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Marketplace na WooCommerce: Jak Zarządzać Sprzedawcami i Płatnościami](https://wordpress.tv/2024/12/02/marketplace-na-woocommerce-jak-zarzadzac-sprzedawcami-i-platnosciami/)
 - [Wszystko zaczyna się od umowy, czyli tych błędów nie popełniaj robiąc stronę na WordPressie](https://wordpress.tv/2024/12/02/wszystko-zaczyna-sie-od-umowy-czyli-tych-bledow-nie-popelniaj-robiac-strone-na-wordpressie/)
 - [WordPress + Kubernetes, dlaczego warto?](https://wordpress.tv/2024/12/02/wordpress-kubernetes-dlaczego-warto/)
-- [Jak &lpar;nie&rpar; współpracować z wysokobudżetowym Klientem strony WordPress?](https://wordpress.tv/2024/12/02/jak-nie-wspolpracowac-z-wysokobudzetowym-klientem-strony-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
