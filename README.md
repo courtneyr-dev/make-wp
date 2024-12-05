@@ -520,6 +520,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [System Admin with DevOps experience – Remote](https://jobs.wordpress.net/job/system-admin-with-devops-experience-remote/)
 - [WordPress GSAP Animation Expert &lpar;Specializing in “Animation Addons for Elementor” Plugin&rpar;](https://jobs.wordpress.net/job/wordpress-gsap-animation-expert-specializing-in-animation-addons-for-elementor-plugin/)
 - [Web Developer with Expertise in “Animation Addons for Elementor” WordPress Plugin &lpar;Remote&rpar;](https://jobs.wordpress.net/job/web-developer-with-expertise-in-animation-addons-for-elementor-wordpress-plugin-remote/)
 - [Sr. Web Developer &amp; WordPress Specialist](https://jobs.wordpress.net/job/sr-web-developer-wordpress-specialist/)
@@ -529,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-5/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-13/)
 - [Arolax Theme Setup &amp; Content Integration](https://jobs.wordpress.net/job/arolax-theme-setup-content-integration/)
-- [PHP, WordPress and Woocommerce Expert Needed](https://jobs.wordpress.net/job/php-wordpress-and-woocommerce-expert-needed/)
 <!-- JOBS:END -->
 
 ## Central
