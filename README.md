@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 5 – December -2024](https://make.wordpress.org/community/2024/12/05/community-team-meeting-agenda-for-5-december-2024/)
 - [Starting – and continuing – a conversation about Indigenous representation and perspectives in WordPress](https://make.wordpress.org/community/2024/11/26/starting-and-continuing-a-conversation-about-indigenous-representation-and-perspectives-in-wordpress/)
 - [WordCamp Delhi 2024: Contributor Day schedule and details](https://make.wordpress.org/community/2024/11/25/wordcamp-delhi-2024-contributor-day-schedule-and-details/)
 - [Vote for our WP Community Team Reps for 2025](https://make.wordpress.org/community/2024/11/25/vote-for-the-2025-community-team-reps/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team November Meeting Recap](https://make.wordpress.org/community/2024/11/13/community-team-november-meeting-recap/)
 - [Meetup Organizer Newsletter: November 2024](https://make.wordpress.org/community/2024/11/06/meetup-organizer-newsletter-november-2024/)
 - [Community Team Meeting Agenda for 7 November 2024](https://make.wordpress.org/community/2024/11/06/community-team-meeting-agenda-for-7-november-2024/)
-- [Impact and Growth: First Year of the Community Reactivation Project in Latin America](https://make.wordpress.org/community/2024/11/06/impact-and-growth-first-year-of-the-community-reactivation-project-in-latin-america/)
 <!-- COMMUNITY:END -->
 
 ## Meta
