@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Proposal: Segmenting Learning Pathway courses for better engagement](https://make.wordpress.org/training/2024/12/05/proposal-segmenting-learning-pathway-courses-for-better-engagement/)
 - [Training Team Meeting Recap – 26th November 2024](https://make.wordpress.org/training/2024/12/01/training-team-meeting-recap-26th-november-2024/)
 - [Training Team Meeting Recap – 19th November 2024](https://make.wordpress.org/training/2024/11/24/training-team-meeting-recap-19th-november-2024/)
 - [Contributor Spotlight: Jonathan Bossenger](https://make.wordpress.org/training/2024/11/19/contributor-spotlight-jonathan-bossenger/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Updates – November 2024](https://make.wordpress.org/training/2024/11/04/xpost-training-team-updates-november-2024/)
 - [Training Team Meeting Recap – 29th October 2024.](https://make.wordpress.org/training/2024/11/02/training-team-meeting-recap-29th-october-2024/)
 - [Training Team Meeting Recap – 22nd October 2024](https://make.wordpress.org/training/2024/10/27/training-team-meeting-recap-22nd-october-2024/)
-- [Brainstorm: Introducing Learning Pathways to users during onboarding](https://make.wordpress.org/training/2024/10/24/brainstorm-introducing-learning-pathways-to-users-during-onboarding/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
