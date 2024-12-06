@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.7 Release Retrospective](https://make.wordpress.org/core/2024/12/06/wordpress-6-7-release-retrospective/)
+- [Hallway Hangout: Performance End of Year Review 2024](https://make.wordpress.org/core/2024/12/06/hallway-hangout-performance-end-of-year-review-2024/)
 - [Summary, Dev Chat, December 4, 2024](https://make.wordpress.org/core/2024/12/05/summary-dev-chat-december-4-2024/)
 - [Let’s reconsider adopting the WP Consent API](https://make.wordpress.org/core/2024/12/04/lets-reconsider-adopting-the-wp-consent-api/)
 - [What’s new in Gutenberg 19.8? &lpar;04 December&rpar;](https://make.wordpress.org/core/2024/12/04/whats-new-in-gutenberg-19-8-4-december/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.7.1 RC1 is now available](https://make.wordpress.org/core/2024/11/20/wordpress-6-7-1-rc1-is-now-available/)
 - [Proposal: Major releases for 2025](https://make.wordpress.org/core/2024/11/19/proposal-major-releases-for-2025/)
 - [Performance Chat Summary: 19 November 2024](https://make.wordpress.org/core/2024/11/19/performance-chat-summary-19-november-2024/)
-- [Performance Chat Agenda: 19 November 2024](https://make.wordpress.org/core/2024/11/19/performance-chat-agenda-19-november-2024/)
-- [WordPress 6.7.1 Release Schedule](https://make.wordpress.org/core/2024/11/19/wordpress-6-7-1-release-schedule/)
 <!-- CORE:END -->
 
 ## Design
