@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Delicious Recipes…](https://make.wordpress.org/polyglots/2024/12/07/pte-request-for-delicious-recipes-6/)
 - [Dear polyglot team,](https://make.wordpress.org/polyglots/2024/12/06/dear-polyglot-team-2/)
 - [PTE Request for Plugins Sb Custom Logo](https://make.wordpress.org/polyglots/2024/12/06/pte-request-for-plugins-sb-custom-logo/)
 - [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2024/12/06/pte-request-for-code-snippets-4/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/12/05/pte-request-for-following-themes-4/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2024/12/04/pte-request-for-several-projects-6/)
 - [PTE request in two projects](https://make.wordpress.org/polyglots/2024/12/04/pte-request-in-two-projects/)
-- [PTE Request for Delicious Recipes…](https://make.wordpress.org/polyglots/2024/12/03/pte-request-for-delicious-recipes-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
