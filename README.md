@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Dear polyglot team,](https://make.wordpress.org/polyglots/2024/12/06/dear-polyglot-team-2/)
+- [PTE Request for Plugins Sb Custom Logo](https://make.wordpress.org/polyglots/2024/12/06/pte-request-for-plugins-sb-custom-logo/)
+- [PTE Request for Code Snippets](https://make.wordpress.org/polyglots/2024/12/06/pte-request-for-code-snippets-4/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2024/12/06/i-am-the-plugin-author-46/)
 - [PTE Request for Power Captcha Recaptcha](https://make.wordpress.org/polyglots/2024/12/05/pte-request-for-power-captcha-recaptcha/)
 - [PTE Request for Pushnews](https://make.wordpress.org/polyglots/2024/12/05/pte-request-for-pushnews/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2024/12/05/pte-request-for-following-themes-4/)
 - [PTE Request for several projects](https://make.wordpress.org/polyglots/2024/12/04/pte-request-for-several-projects-6/)
 - [PTE request in two projects](https://make.wordpress.org/polyglots/2024/12/04/pte-request-in-two-projects/)
 - [PTE Request for Delicious Recipes…](https://make.wordpress.org/polyglots/2024/12/03/pte-request-for-delicious-recipes-5/)
-- [PTE request for below listed Plugins](https://make.wordpress.org/polyglots/2024/12/03/pte-request-for-below-listed-plugins-3/)
-- [Hi polyglots,](https://make.wordpress.org/polyglots/2024/12/02/hi-polyglots-110/)
-- [PTE Request for Pay with Vipps and MobilePay for WooCommerce  and Login with Vipps and MobilePay](https://make.wordpress.org/polyglots/2024/12/02/pte-request-for-pay-with-vipps-and-mobilepay-for-woocommerce-and-login-with-vipps-and-mobilepay/)
-- [PTE request in multiple projects: German &lpar;Germany&rpar; locale](https://make.wordpress.org/polyglots/2024/12/02/pte-request-in-multiple-projects-german-germany-locale/)
 <!-- POLYGLOTS:END -->
 
 ## Support
