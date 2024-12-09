@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress: menos complicado que armar un moble de IKEA](https://wordpress.tv/2024/12/09/wordpress-menos-complicado-que-armar-un-moble-de-ikea/)
 - [Utilize the Gallery block](https://wordpress.tv/2024/12/05/utilize-the-gallery-block/)
 - [Using the WordPress Media and Text block](https://wordpress.tv/2024/12/05/using-the-wordpress-media-and-text-block/)
 - [Polices Variables sous WordPress : Le Guide Ultime pour Thèmes FSE](https://wordpress.tv/2024/12/04/polices-variables-sous-wordpress-le-guide-ultime-pour-themes-fse/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using AI to Help You Write an API for a WordPress Website](https://wordpress.tv/2024/12/03/using-ai-to-help-you-write-an-api-for-a-wordpress-website/)
 - [Design WordPress Site In Minutes: The AI Revolution You Can’t Ignore](https://wordpress.tv/2024/12/03/design-wordpress-site-in-minutes-the-ai-revolution-you-cant-ignore/)
 - [Otwarcie WordCamp Wroclaw 2024](https://wordpress.tv/2024/12/02/otwarcie-wordcamp-wroclaw-2024/)
-- [WordPress Playground – Przełom w WordPressie](https://wordpress.tv/2024/12/02/wordpress-playground-przelom-w-wordpressie-2/)
 <!-- WPTV:END -->
 
 ## Marketing
