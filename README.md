@@ -520,16 +520,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-41/)
+- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-3/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-13/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-22/)
+- [Python Developer &lpar;Python, Flask, AWS, Rest API, Security, Docker, Boto3, SDK, Unit testing, Git&rpar;](https://jobs.wordpress.net/job/python-developer-python-flask-aws-rest-api-security-docker-boto3-sdk-unit-testing-git/)
 - [System Admin with DevOps experience – Remote](https://jobs.wordpress.net/job/system-admin-with-devops-experience-remote/)
 - [WordPress GSAP Animation Expert &lpar;Specializing in “Animation Addons for Elementor” Plugin&rpar;](https://jobs.wordpress.net/job/wordpress-gsap-animation-expert-specializing-in-animation-addons-for-elementor-plugin/)
 - [Web Developer with Expertise in “Animation Addons for Elementor” WordPress Plugin &lpar;Remote&rpar;](https://jobs.wordpress.net/job/web-developer-with-expertise-in-animation-addons-for-elementor-wordpress-plugin-remote/)
 - [Sr. Web Developer &amp; WordPress Specialist](https://jobs.wordpress.net/job/sr-web-developer-wordpress-specialist/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-3/)
-- [[Astra] QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/astra-qa-wordpress-plugin-tester-6/)
-- [[Astra] Associate Product Manager](https://jobs.wordpress.net/job/astra-associate-product-manager/)
-- [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-5/)
-- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-13/)
-- [Arolax Theme Setup &amp; Content Integration](https://jobs.wordpress.net/job/arolax-theme-setup-content-integration/)
 <!-- JOBS:END -->
 
 ## Central
