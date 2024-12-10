@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 10 December 2024](https://make.wordpress.org/core/2024/12/10/performance-chat-summary-10-december-2024/)
+- [Agenda, Dev Chat, Dec 11, 2024](https://make.wordpress.org/core/2024/12/10/agenda-dev-chat-dec-11-2024/)
 - [Performance Chat Agenda: 10 December 2024](https://make.wordpress.org/core/2024/12/10/performance-chat-agenda-10-december-2024/)
 - [WordPress 6.7 Performance Improvements](https://make.wordpress.org/core/2024/12/10/wordpress-6-7-performance-improvements/)
 - [Summary of the Developer Blog editorial meeting on 5  December 2024](https://make.wordpress.org/core/2024/12/07/developer-blog-editorial-meeting-summary-december-5-2024/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, November 20, 2024](https://make.wordpress.org/core/2024/11/25/summary-dev-chat-november-20-2024/)
 - [X-post: Using Playground for data liberation, site synchronization, and building streaming parsers](https://make.wordpress.org/core/2024/11/22/xpost-using-playground-for-data-liberation-site-synchronization-and-building-streaming-parsers/)
 - [Update on Phase 3: Collaboration efforts](https://make.wordpress.org/core/2024/11/21/update-on-phase-3-collaboration-efforts/)
-- [WordPress 6.8 Call for Volunteers](https://make.wordpress.org/core/2024/11/21/wordpress-6-8-call-for-volunteers/)
-- [What’s new in Gutenberg 19.7? &lpar;20 November&rpar;](https://make.wordpress.org/core/2024/11/20/whats-new-in-gutenberg-19-7-20-november/)
 <!-- CORE:END -->
 
 ## Design
