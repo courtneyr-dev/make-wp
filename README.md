@@ -380,6 +380,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/marketing/2024/12/10/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Training Team Updates – November 2024](https://make.wordpress.org/marketing/2024/11/04/xpost-training-team-updates-november-2024/)
 - [X-post: WordCamp US 2024 Marketing Discussion](https://make.wordpress.org/marketing/2024/09/19/xpost-wordcamp-us-2024-marketing-discussion/)
 - [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/marketing/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
@@ -389,7 +390,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/marketing/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 - [WordPress Media Corps Next Steps](https://make.wordpress.org/marketing/2024/04/29/wordpress-media-corps-next-steps/)
 - [X-post: The Pattern Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/marketing/2024/04/17/xpost-the-pattern-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
-- [X-post: The Forums get a refresh](https://make.wordpress.org/marketing/2024/04/10/xpost-the-forums-get-a-refresh/)
 <!-- MARKETING:END -->
 
 ## CLI
