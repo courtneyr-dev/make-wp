@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/meta/2024/12/10/the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/meta/2024/11/18/xpost-hello-wordpress-community-lets-chat/)
 - [Agenda for November 13, 2024](https://make.wordpress.org/meta/2024/11/13/agenda-for-november-13-2024/)
 - [Agenda for October 30, 2024](https://make.wordpress.org/meta/2024/10/30/agenda-for-october-30-2024/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Update about the GatherPress project](https://make.wordpress.org/meta/2024/09/05/xpost-update-about-the-gatherpress-project/)
 - [Agenda for September 4, 2024](https://make.wordpress.org/meta/2024/09/04/agenda-for-september-4-2024/)
 - [X-post: Upcoming Security Changes for Plugin and Theme Authors on WordPress.org](https://make.wordpress.org/meta/2024/09/04/xpost-upcoming-security-changes-for-plugin-and-theme-authors-on-wordpress-org/)
-- [Agenda for August 7, 2024](https://make.wordpress.org/meta/2024/08/07/agenda-for-august-7-2024/)
 <!-- META:END -->
 
 ## Training
