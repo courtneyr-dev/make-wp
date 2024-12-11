@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Announcing the 2025 Global Sponsorship Program](https://make.wordpress.org/community/2024/12/11/announcing-the-2025-global-sponsorship-program/)
 - [Meetup Organizer Newsletter: December 2024](https://make.wordpress.org/community/2024/12/06/meetup-organizer-newsletter-december-2024/)
 - [Community Team Meeting Agenda for 5 – December -2024](https://make.wordpress.org/community/2024/12/05/community-team-meeting-agenda-for-5-december-2024/)
 - [Starting – and continuing – a conversation about Indigenous representation and perspectives in WordPress](https://make.wordpress.org/community/2024/11/26/starting-and-continuing-a-conversation-about-indigenous-representation-and-perspectives-in-wordpress/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/community/2024/11/19/xpost-hello-wordpress-community-lets-chat/)
 - [State of the Word 2024](https://make.wordpress.org/community/2024/11/15/state-of-the-word-2024/)
 - [Community Team November Meeting Recap](https://make.wordpress.org/community/2024/11/13/community-team-november-meeting-recap/)
-- [Meetup Organizer Newsletter: November 2024](https://make.wordpress.org/community/2024/11/06/meetup-organizer-newsletter-november-2024/)
 <!-- COMMUNITY:END -->
 
 ## Meta
