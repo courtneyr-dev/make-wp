@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Comienza a ser rebelde y a decir que NO](https://wordpress.tv/2024/12/12/comienza-a-ser-rebelde-y-a-decir-que-no/)
 - [Explore synced pattern overrides](https://wordpress.tv/2024/12/11/explore-synced-pattern-overrides/)
 - [WordPress: menos complicado que armar un moble de IKEA](https://wordpress.tv/2024/12/09/wordpress-menos-complicado-que-armar-un-moble-de-ikea/)
 - [Utilize the Gallery block](https://wordpress.tv/2024/12/05/utilize-the-gallery-block/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Headless WordPress and API](https://wordpress.tv/2024/12/03/headless-wordpress-and-api/)
 - [Implementing Robust Security Measures for WordPress Website](https://wordpress.tv/2024/12/03/implementing-robust-security-measures-for-wordpress-website/)
 - [Using AI to Help You Write an API for a WordPress Website](https://wordpress.tv/2024/12/03/using-ai-to-help-you-write-an-api-for-a-wordpress-website/)
-- [Design WordPress Site In Minutes: The AI Revolution You Can’t Ignore](https://wordpress.tv/2024/12/03/design-wordpress-site-in-minutes-the-ai-revolution-you-cant-ignore/)
 <!-- WPTV:END -->
 
 ## Marketing
