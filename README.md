@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for form-block I’ve…](https://make.wordpress.org/polyglots/2024/12/12/pte-request-for-form-block-ive/)
+- [Request to be added as…](https://make.wordpress.org/polyglots/2024/12/12/request-to-be-added-as/)
+- [PTE Request for Plover Kit Plugin and Plover Theme](https://make.wordpress.org/polyglots/2024/12/12/pte-request-for-plover-kit-plugin-and-plover-theme/)
 - [PTE request for Quiz Maker](https://make.wordpress.org/polyglots/2024/12/12/pte-request-for-quiz-maker-2/)
 - [X-post: Make WordPress gets a refresh](https://make.wordpress.org/polyglots/2024/12/12/xpost-make-wordpress-gets-a-refresh/)
 - [Review Request for Translation Project](https://make.wordpress.org/polyglots/2024/12/11/review-request-for-translation-project/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – December 11, 2024 &lpar;09:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/12/11/agenda-weekly-polyglots-chat-december-11-2024-0900-utc/)
 - [PTE Request for Disco – Dynamic Discount Plugin](https://make.wordpress.org/polyglots/2024/12/10/pte-request-for-disco-dynamic-discount-plugin/)
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/polyglots/2024/12/10/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
-- [PTE request](https://make.wordpress.org/polyglots/2024/12/10/pte-request-31/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/12/09/hi-dear-mentors-we-have-156/)
-- [Hello,](https://make.wordpress.org/polyglots/2024/12/08/hello-94/)
 <!-- POLYGLOTS:END -->
 
 ## Support
