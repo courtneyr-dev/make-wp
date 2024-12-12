@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Make WordPress gets a refresh](https://make.wordpress.org/support/2024/12/xpost-make-wordpress-gets-a-refresh/)
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/support/2024/12/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/support/2024/11/xpost-hello-wordpress-community-lets-chat/)
 - [Support Team Meeting – October November 14th](https://make.wordpress.org/support/2024/11/support-team-meeting-october-november-14th/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Support Team Meeting – October 3rd](https://make.wordpress.org/support/2024/10/support-team-meeting-october-3rd/)
 - [September 5th Support Team Meeting Summary](https://make.wordpress.org/support/2024/09/september-5th-support-team-meeting-summary-2/)
 - [Support Team Meeting – September 5th](https://make.wordpress.org/support/2024/09/support-team-meeting-september-5th/)
-- [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/support/2024/08/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 <!-- SUPPORT:END -->
 
 ## Documentation
