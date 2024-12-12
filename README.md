@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [X-post: Make WordPress gets a refresh](https://make.wordpress.org/accessibility/2024/12/12/xpost-make-wordpress-gets-a-refresh/)
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/accessibility/2024/12/10/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [Accessibility Team Meeting Agenda: Dec 04, 2024](https://make.wordpress.org/accessibility/2024/12/02/accessibility-team-meeting-agenda-dec-04-2024/)
 - [Accessibility Team Meeting Agenda: Nov 06, 2024](https://make.wordpress.org/accessibility/2024/11/01/accessibility-team-meeting-agenda-nov-06-2024/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/accessibility/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Accessibility Team Meeting Agenda: Oct 02, 2024](https://make.wordpress.org/accessibility/2024/09/26/accessibility-team-meeting-agenda-oct-02-2024/)
 - [Accessibility Team Meeting Notes: September 18, 2024](https://make.wordpress.org/accessibility/2024/09/26/accessibility-team-meeting-notes-september-18-2024/)
-- [X-post: Design Systems: Storybook Improvements](https://make.wordpress.org/accessibility/2024/09/17/xpost-design-systems-storybook-improvements/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
