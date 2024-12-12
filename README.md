@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, December 11, 2024](https://make.wordpress.org/core/2024/12/12/summary-dev-chat-december-11-2024/)
 - [Performance Chat Summary: 10 December 2024](https://make.wordpress.org/core/2024/12/10/performance-chat-summary-10-december-2024/)
 - [Agenda, Dev Chat, Dec 11, 2024](https://make.wordpress.org/core/2024/12/10/agenda-dev-chat-dec-11-2024/)
 - [Performance Chat Agenda: 10 December 2024](https://make.wordpress.org/core/2024/12/10/performance-chat-agenda-10-december-2024/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 26 November 2024](https://make.wordpress.org/core/2024/11/26/performance-chat-agenda-26-november-2024/)
 - [Summary, Dev Chat, November 20, 2024](https://make.wordpress.org/core/2024/11/25/summary-dev-chat-november-20-2024/)
 - [X-post: Using Playground for data liberation, site synchronization, and building streaming parsers](https://make.wordpress.org/core/2024/11/22/xpost-using-playground-for-data-liberation-site-synchronization-and-building-streaming-parsers/)
-- [Update on Phase 3: Collaboration efforts](https://make.wordpress.org/core/2024/11/21/update-on-phase-3-collaboration-efforts/)
 <!-- CORE:END -->
 
 ## Design
