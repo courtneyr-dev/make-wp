@@ -351,6 +351,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Block themes: The future of Full Site Editing and what to expect from WordPress 6.7](https://wordpress.tv/2024/12/13/block-themes-the-future-of-full-site-editing-and-what-to-expect-from-wordpress-6-7/)
+- [How We Create Elementor Landing Pages That Convert Over 4%](https://wordpress.tv/2024/12/13/how-we-create-elementor-landing-pages-that-convert-over-4/)
+- [WooCommerce Automations: Revolutionizing eCommerce with Practical Solutions](https://wordpress.tv/2024/12/13/woocommerce-automations-revolutionizing-ecommerce-with-practical-solutions/)
+- [Forking the GPL Way](https://wordpress.tv/2024/12/13/forking-the-gpl-way/)
+- [EzyCourse vs WordPress! A CMS for creating e-class platforms, and the example of VETVR.pro platform](https://wordpress.tv/2024/12/13/ezycourse-vs-wordpress-a-cms-for-creating-e-class-platforms-and-the-example-of-vetvr-pro-platform/)
+- [Make your users’ search experience great](https://wordpress.tv/2024/12/13/make-your-users-search-experience-great/)
+- [Find Clients for Your Agency by Leveraging All Your Channels](https://wordpress.tv/2024/12/13/find-clients-for-your-agency-by-leveraging-all-your-channels/)
+- [Code, Test, Repeat: Accelerating Development with WordPress Playground](https://wordpress.tv/2024/12/13/code-test-repeat-accelerating-development-with-wordpress-playground/)
+- [Effective personal and business branding](https://wordpress.tv/2024/12/13/effective-personal-and-business-branding/)
 - [Comienza a ser rebelde y a decir que NO](https://wordpress.tv/2024/12/12/comienza-a-ser-rebelde-y-a-decir-que-no/)
 - [Explore synced pattern overrides](https://wordpress.tv/2024/12/11/explore-synced-pattern-overrides/)
 - [WordPress: menos complicado que armar un moble de IKEA](https://wordpress.tv/2024/12/09/wordpress-menos-complicado-que-armar-un-moble-de-ikea/)
@@ -367,15 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Digital Experience Optimization &lpar;DXO&rpar;](https://wordpress.tv/2024/12/03/digital-experience-optimization-dxo/)
 - [Benefits of contributing to WordPress open-source project &lpar;Five for the future&rpar;](https://wordpress.tv/2024/12/03/benefits-of-contributing-to-wordpress-open-source-project-five-for-the-future/)
 - [Top 5 Woocommerce SEO Strategies](https://wordpress.tv/2024/12/03/top-5-woocommerce-seo-strategies/)
-- [Cooking Up WordPress: A Chef’s WordPress Journey](https://wordpress.tv/2024/12/03/cooking-up-wordpress-a-chefs-wordpress-journey/)
-- [Artificial Intelligence In Content Creation: How AI Can Enhance, Not Replace, Human Creativity!](https://wordpress.tv/2024/12/03/artificial-intelligence-in-content-creation-how-ai-can-enhance-not-replace-human-creativity/)
-- [Managing multiple WordPress plugins in a single repo](https://wordpress.tv/2024/12/03/managing-multiple-wordpress-plugins-in-a-single-repo/)
-- [Terraforming your WordPress into native mobile apps](https://wordpress.tv/2024/12/03/terraforming-your-wordpress-into-native-mobile-apps/)
-- [Building Your First Plugin&lpar;s&rpar; – the Why and How](https://wordpress.tv/2024/12/03/building-your-first-plugins-the-why-and-how/)
-- [From Good to Great: How Exceptional Support Can Sustain and Grow Your WordPress Business](https://wordpress.tv/2024/12/03/from-good-to-great-how-exceptional-support-can-sustain-and-grow-your-wordpress-business/)
-- [Headless WordPress and API](https://wordpress.tv/2024/12/03/headless-wordpress-and-api/)
-- [Implementing Robust Security Measures for WordPress Website](https://wordpress.tv/2024/12/03/implementing-robust-security-measures-for-wordpress-website/)
-- [Using AI to Help You Write an API for a WordPress Website](https://wordpress.tv/2024/12/03/using-ai-to-help-you-write-an-api-for-a-wordpress-website/)
 <!-- WPTV:END -->
 
 ## Marketing
