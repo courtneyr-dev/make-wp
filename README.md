@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Responsive Blocks – WordPress Gutenberg](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-responsive-blocks-wordpress-gutenberg/)
 - [PTE Request for Blockbase &lpar;Theme&rpar;](https://make.wordpress.org/polyglots/2024/12/14/pte-request-for-blockbase-theme/)
 - [PTE Request for All-In-One Security &lpar;AIOS&rpar; – Security and Firewall](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-all-in-one-security-aios-security-and-firewall/)
 - [PTE Request for MONEI](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-monei/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request to be added as…](https://make.wordpress.org/polyglots/2024/12/12/request-to-be-added-as/)
 - [PTE Request for Plover Kit Plugin and Plover Theme](https://make.wordpress.org/polyglots/2024/12/12/pte-request-for-plover-kit-plugin-and-plover-theme/)
 - [PTE request for Quiz Maker](https://make.wordpress.org/polyglots/2024/12/12/pte-request-for-quiz-maker-2/)
-- [X-post: Make WordPress gets a refresh](https://make.wordpress.org/polyglots/2024/12/12/xpost-make-wordpress-gets-a-refresh/)
 <!-- POLYGLOTS:END -->
 
 ## Support
