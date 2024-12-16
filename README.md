@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Playground for developers](https://wordpress.tv/2024/12/16/wordpress-playground-for-developers/)
 - [Las bases para construir un buscador semántico con IA para plugins WordPress](https://wordpress.tv/2024/12/15/las-bases-para-construir-un-buscador-semantico-con-ia-para-plugins-wordpress/)
 - [Diseñar para interfaces con IA](https://wordpress.tv/2024/12/15/disenar-para-interfaces-con-ia/)
 - [Block themes: The future of Full Site Editing and what to expect from WordPress 6.7](https://wordpress.tv/2024/12/13/block-themes-the-future-of-full-site-editing-and-what-to-expect-from-wordpress-6-7/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Designing in WordPress in the Last 20 Years](https://wordpress.tv/2024/12/03/designing-in-wordpress-in-the-last-20-years/)
 - [No-Code Contributions: Why it matters to the WordPress ecosystem](https://wordpress.tv/2024/12/03/no-code-contributions-why-it-matters-to-the-wordpress-ecosystem/)
 - [How to Grow and Monetise your WordPress Blog While Traveling the World!](https://wordpress.tv/2024/12/03/how-to-grow-and-monetise-your-wordpress-blog-while-traveling-the-world/)
-- [Digital Experience Optimization &lpar;DXO&rpar;](https://wordpress.tv/2024/12/03/digital-experience-optimization-dxo/)
 <!-- WPTV:END -->
 
 ## Marketing
