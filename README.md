@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for PTE role for BackWPup &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/17/request-for-pte-role-for-backwpup-fa_ir/)
+- [PTE Request for Evion Theme](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-evion-theme/)
 - [PTE Request for “WP Fast…](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-wp-fast/)
 - [PTE Request for [gzseo]](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-gzseo/)
 - [GTE Request for WordpPress versions.](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-wordppress-versions/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for All-In-One Security &lpar;AIOS&rpar; – Security and Firewall](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-all-in-one-security-aios-security-and-firewall/)
 - [PTE Request for MONEI](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-monei/)
 - [PTE Request for Checkout Plugins](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-checkout-plugins/)
-- [PTE Request for SaasLauncher](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-saaslauncher/)
-- [PTE Request for form-block I’ve…](https://make.wordpress.org/polyglots/2024/12/12/pte-request-for-form-block-ive/)
 <!-- POLYGLOTS:END -->
 
 ## Support
