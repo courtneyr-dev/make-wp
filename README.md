@@ -69,7 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [I am already an editor…](https://make.wordpress.org/polyglots/2024/12/17/i-am-already-an-editor/)
+- [GTE Request for Belarusian Locale](https://make.wordpress.org/polyglots/2024/12/17/gte-request-for-belarusian-locale/)
+- [PTE Request for Secure Custom Fields](https://make.wordpress.org/polyglots/2024/12/17/i-am-already-an-editor/)
 - [Request for PTE role for BackWPup &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/17/request-for-pte-role-for-backwpup-fa_ir/)
 - [PTE Request for Evion Theme](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-evion-theme/)
 - [PTE Request for “WP Fast…](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-wp-fast/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Responsive Blocks – WordPress Gutenberg](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-responsive-blocks-wordpress-gutenberg/)
 - [PTE Request for Blockbase &lpar;Theme&rpar;](https://make.wordpress.org/polyglots/2024/12/14/pte-request-for-blockbase-theme/)
 - [PTE Request for All-In-One Security &lpar;AIOS&rpar; – Security and Firewall](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-all-in-one-security-aios-security-and-firewall/)
-- [PTE Request for MONEI](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-monei/)
 <!-- POLYGLOTS:END -->
 
 ## Support
