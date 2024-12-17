@@ -523,13 +523,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Seeking Integration Expert for Data-Driven E-Learning Platform](https://jobs.wordpress.net/job/seeking-integration-expert-for-data-driven-e-learning-platform/)
 - [Improve our booking plugin with new add ons](https://jobs.wordpress.net/job/improve-our-booking-plugin-with-new-add-ons/)
 - [Lead Generation Manager](https://jobs.wordpress.net/job/lead-generation-manager/)
-- [Tweak a JavaScript code to read an array and auto-populate Data on Form](https://jobs.wordpress.net/job/tweak-a-javascript-code-to-read-an-array-and-auto-populate-data-on-form/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-14/)
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-3/)
 - [WordPress site cutomized theme + slightly complicated advanced search feature](https://jobs.wordpress.net/job/wordpress-site-cutomized-theme-slightly-complicated-advanced-search-feature/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-41/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-3/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-22/)
+- [Python Developer &lpar;Python, Flask, AWS, Rest API, Security, Docker, Boto3, SDK, Unit testing, Git&rpar;](https://jobs.wordpress.net/job/python-developer-python-flask-aws-rest-api-security-docker-boto3-sdk-unit-testing-git/)
 <!-- JOBS:END -->
 
 ## Central
