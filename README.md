@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “WP Fast…](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-wp-fast/)
 - [PTE Request for [gzseo]](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-gzseo/)
 - [GTE Request for WordpPress versions.](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-wordppress-versions/)
 - [PTE Request for Responsive Blocks – WordPress Gutenberg](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-responsive-blocks-wordpress-gutenberg/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Checkout Plugins](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-checkout-plugins/)
 - [PTE Request for SaasLauncher](https://make.wordpress.org/polyglots/2024/12/13/pte-request-for-saaslauncher/)
 - [PTE Request for form-block I’ve…](https://make.wordpress.org/polyglots/2024/12/12/pte-request-for-form-block-ive/)
-- [Request to be added as…](https://make.wordpress.org/polyglots/2024/12/12/request-to-be-added-as/)
 <!-- POLYGLOTS:END -->
 
 ## Support
