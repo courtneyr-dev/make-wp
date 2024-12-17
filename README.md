@@ -351,6 +351,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Developer Hours: Everything you need to know about WordPress Playground](https://wordpress.tv/2024/12/17/developer-hours-everything-you-need-to-know-about-wordpress-playground/)
 - [WordPress Playground for developers](https://wordpress.tv/2024/12/16/wordpress-playground-for-developers/)
 - [Las bases para construir un buscador semántico con IA para plugins WordPress](https://wordpress.tv/2024/12/15/las-bases-para-construir-un-buscador-semantico-con-ia-para-plugins-wordpress/)
 - [Diseñar para interfaces con IA](https://wordpress.tv/2024/12/15/disenar-para-interfaces-con-ia/)
@@ -375,7 +376,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I Survived the Theme Review Process: And Lived to Tell the Tale](https://wordpress.tv/2024/12/03/i-survived-the-theme-review-process-and-lived-to-tell-the-tale/)
 - [Designing in WordPress in the Last 20 Years](https://wordpress.tv/2024/12/03/designing-in-wordpress-in-the-last-20-years/)
 - [No-Code Contributions: Why it matters to the WordPress ecosystem](https://wordpress.tv/2024/12/03/no-code-contributions-why-it-matters-to-the-wordpress-ecosystem/)
-- [How to Grow and Monetise your WordPress Blog While Traveling the World!](https://wordpress.tv/2024/12/03/how-to-grow-and-monetise-your-wordpress-blog-while-traveling-the-world/)
 <!-- WPTV:END -->
 
 ## Marketing
