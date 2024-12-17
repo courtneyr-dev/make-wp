@@ -553,10 +553,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordCamp Zaragoza 2025](https://central.wordcamp.org/wordcamps/wordcamp-zaragoza-2025/)
 - [WordCamp Kraków, Poland](https://central.wordcamp.org/wordcamps/wordcamp-krakow-poland/)
+- [WordCamp Montclair, NJ, USA](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj-usa-3/)
 - [WordCamp Nepal 2025](https://central.wordcamp.org/wordcamps/wordcampnepal2025/)
 - [WordCamp Ahmedabad](https://central.wordcamp.org/wordcamps/wordcamp-ahmedabad-gujarat-india-6/)
-- [WordCamp Kerala](https://central.wordcamp.org/wordcamps/wordcamp-kozhikode-kerala-india/)
 - [WordCamp Wrocław](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-poland/)
 - [WordCamp Kolhapur](https://central.wordcamp.org/wordcamps/kolhapur-2025/)
 - [WordCamp Pune, India](https://central.wordcamp.org/wordcamps/wordcamp-pune-maharashtra-india-2/)
@@ -567,7 +568,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Madrid, Spain](https://central.wordcamp.org/wordcamps/wordcamp-madrid-comunidad-de-madrid-spain/)
 - [WordCamp Sevilla](https://central.wordcamp.org/wordcamps/wordcamp-sevilla-spain-2/)
 - [WordCamp Port Harcourt](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2/)
-- [WordCamp Guatemala City](https://central.wordcamp.org/wordcamps/wordcamp-guatemala-guatemala/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
