@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – December 18, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/12/18/agenda-weekly-polyglots-chat-december-18-2024-1300-utc/)
 - [Request for PTE for Disable Comments &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/18/request-for-pte-for-disable-comments-fa_ir/)
 - [PTE Request for [myclub-groups]](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-myclub-groups/)
 - [GTE Request for Belarusian Locale](https://make.wordpress.org/polyglots/2024/12/17/gte-request-for-belarusian-locale/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for “WP Fast…](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-wp-fast/)
 - [PTE Request for [gzseo]](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-gzseo/)
 - [GTE Request for WordpPress versions.](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-wordppress-versions/)
-- [PTE Request for Responsive Blocks – WordPress Gutenberg](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-responsive-blocks-wordpress-gutenberg/)
 <!-- POLYGLOTS:END -->
 
 ## Support
