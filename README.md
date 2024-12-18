@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Updates to the content of the WordCamp Central Website!](https://make.wordpress.org/community/2024/12/18/updates-to-the-content-of-the-wordcamp-central-website/)
 - [Program Wide Payment and Contract Intermission — 2024-12-20 – 2025-01-05](https://make.wordpress.org/community/2024/12/17/program-wide-payment-and-contract-intermission-2024-12-20-2025-01-05/)
 - [[Update] 2025 Community Team Rep’s Voting ends, Thoughts &amp; farewell from a Rep, and more.](https://make.wordpress.org/community/2024/12/16/update-2025-community-team-reps-voting-ends-thoughts-farewell-from-a-rep-and-more/)
 - [Refreshing Commitments: Supporting Community Team in 2025](https://make.wordpress.org/community/2024/12/12/refreshing-commitments-supporting-community-team-in-2025/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Starting – and continuing – a conversation about Indigenous representation and perspectives in WordPress](https://make.wordpress.org/community/2024/11/26/starting-and-continuing-a-conversation-about-indigenous-representation-and-perspectives-in-wordpress/)
 - [WordCamp Delhi 2024: Contributor Day schedule and details](https://make.wordpress.org/community/2024/11/25/wordcamp-delhi-2024-contributor-day-schedule-and-details/)
 - [Vote for our WP Community Team Reps for 2025](https://make.wordpress.org/community/2024/11/25/vote-for-the-2025-community-team-reps/)
-- [WordPress Contributor Mentorship: 2024 Q4 Cohort Graduates](https://make.wordpress.org/community/2024/11/21/wordpress-contributor-mentorship-2024-q4-cohort-graduates/)
 <!-- COMMUNITY:END -->
 
 ## Meta
