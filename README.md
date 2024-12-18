@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for PTE for Disable Comments &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/18/request-for-pte-for-disable-comments-fa_ir/)
 - [PTE Request for [myclub-groups]](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-myclub-groups/)
 - [GTE Request for Belarusian Locale](https://make.wordpress.org/polyglots/2024/12/17/gte-request-for-belarusian-locale/)
 - [PTE Request for Secure Custom Fields](https://make.wordpress.org/polyglots/2024/12/17/i-am-already-an-editor/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [gzseo]](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-gzseo/)
 - [GTE Request for WordpPress versions.](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-wordppress-versions/)
 - [PTE Request for Responsive Blocks – WordPress Gutenberg](https://make.wordpress.org/polyglots/2024/12/16/pte-request-for-responsive-blocks-wordpress-gutenberg/)
-- [PTE Request for Blockbase &lpar;Theme&rpar;](https://make.wordpress.org/polyglots/2024/12/14/pte-request-for-blockbase-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
