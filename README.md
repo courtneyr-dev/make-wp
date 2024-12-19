@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- COURSES:START -->
 - [Beginner WordPress Developer](https://learn.wordpress.org/course/beginner-wordpress-developer/)
 - [Beginner WordPress User](https://learn.wordpress.org/course/beginner-wordpress-user/)
+- [Beginner WordPress Designer](https://learn.wordpress.org/course/beginner-wordpress-designer/)
 - [Intermediate WordPress User](https://learn.wordpress.org/course/intermediate-wordpress-user/)
 - [Intermediate Theme Developer](https://learn.wordpress.org/course/intermediate-theme-developer/)
 - [Advanced WordPress User](https://learn.wordpress.org/course/advanced-wordpress-user/)
