@@ -556,11 +556,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordCamp Zaragoza 2025](https://central.wordcamp.org/wordcamps/wordcamp-zaragoza-2025/)
 - [WordCamp Kraków, Poland](https://central.wordcamp.org/wordcamps/wordcamp-krakow-poland/)
+- [WordCamp Johor Bahru](https://central.wordcamp.org/wordcamps/wordcamp-iskandar-puteri-johor-bahru-johor-malaysia/)
 - [WordCamp Montclair, NJ, USA](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj-usa-3/)
 - [WordCamp Nepal 2025](https://central.wordcamp.org/wordcamps/wordcampnepal2025/)
 - [WordCamp Ahmedabad](https://central.wordcamp.org/wordcamps/wordcamp-ahmedabad-gujarat-india-6/)
 - [WordCamp Wrocław](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-poland/)
-- [WordCamp Kolhapur](https://central.wordcamp.org/wordcamps/kolhapur-2025/)
 - [WordCamp Pune, India](https://central.wordcamp.org/wordcamps/wordcamp-pune-maharashtra-india-2/)
 - [WordCamp Lithuania](https://central.wordcamp.org/wordcamps/wordcamp-lithuania-2025/)
 - [WordCamp Sofia, Bulgaria](https://central.wordcamp.org/wordcamps/wordcamp-sofia-bulgaria-3/)
