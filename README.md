@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE and PTE request in three project](https://make.wordpress.org/polyglots/2024/12/20/clpte-and-pte-request-in-three-project/)
 - [PTE Request for Ultimate Member](https://make.wordpress.org/polyglots/2024/12/20/pte-request-for-ultimate-member-3/)
 - [PTE Request for AI Services &lpar;`ai-services`&rpar; and Snow Fall &lpar;`snow-fall`&rpar;](https://make.wordpress.org/polyglots/2024/12/19/pte-request-for-ai-services-ai-services-and-snow-fall-snow-fall/)
 - [Agenda: Weekly Polyglots Chat – December 18, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/12/18/agenda-weekly-polyglots-chat-december-18-2024-1300-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Secure Custom Fields](https://make.wordpress.org/polyglots/2024/12/17/i-am-already-an-editor/)
 - [Request for PTE role for BackWPup &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/17/request-for-pte-role-for-backwpup-fa_ir/)
 - [PTE Request for Evion Theme](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-evion-theme/)
-- [PTE Request for “WP Fast…](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-wp-fast/)
 <!-- POLYGLOTS:END -->
 
 ## Support
