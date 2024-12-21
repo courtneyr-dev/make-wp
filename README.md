@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for PTE for AppMySite &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/21/request-for-pte-for-appmysite-fa_ir/)
 - [PTE Request for Social Chat](https://make.wordpress.org/polyglots/2024/12/21/pte-request-for-social-chat/)
 - [CLPTE and PTE request in three project](https://make.wordpress.org/polyglots/2024/12/20/clpte-and-pte-request-in-three-project/)
 - [PTE Request for Ultimate Member](https://make.wordpress.org/polyglots/2024/12/20/pte-request-for-ultimate-member-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [myclub-groups]](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-myclub-groups/)
 - [GTE Request for Belarusian Locale](https://make.wordpress.org/polyglots/2024/12/17/gte-request-for-belarusian-locale/)
 - [PTE Request for Secure Custom Fields](https://make.wordpress.org/polyglots/2024/12/17/i-am-already-an-editor/)
-- [Request for PTE role for BackWPup &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/17/request-for-pte-role-for-backwpup-fa_ir/)
 <!-- POLYGLOTS:END -->
 
 ## Support
