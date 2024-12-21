@@ -325,6 +325,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Calling all WordPress test enthusiasts in Ahmedabad! 📢](https://make.wordpress.org/test/2024/12/21/calling-all-wordpress-test-enthusiasts-in-ahmedabad-%f0%9f%93%a2/)
 - [Team Chat Agenda: 18th December 2024](https://make.wordpress.org/test/2024/12/18/team-chat-agenda-18th-december-2024/)
 - [X-post: Test Team Update: 16 December 2024](https://make.wordpress.org/test/2024/12/16/xpost-test-team-update-16-december-2024/)
 - [Week in Test: December 16, 2024](https://make.wordpress.org/test/2024/12/16/week-in-test-december-16-2024/)
@@ -334,7 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Team Chat Agenda: 4th December 2024](https://make.wordpress.org/test/2024/12/04/team-chat-agenda-4th-december-2024/)
 - [Week in Test: December 3, 2024](https://make.wordpress.org/test/2024/12/03/week-in-test-december-3-2024/)
 - [X-post: Test Team Update: 2 December 2024](https://make.wordpress.org/test/2024/12/02/xpost-test-team-update-2-december-2024/)
-- [X-post: Test Team Update: 25 November 2024](https://make.wordpress.org/test/2024/11/26/xpost-test-team-update-25-november-2024/)
 <!-- TEST:END -->
 
 ## TV
