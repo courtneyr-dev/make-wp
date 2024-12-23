@@ -356,7 +356,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Determining the correct hook](https://wordpress.tv/2024/12/23/determining-the-correct-hook/)
 - [Removing Hooks](https://wordpress.tv/2024/12/23/removing-hooks/)
 - [Custom hooks](https://wordpress.tv/2024/12/23/custom-hooks/)
-- [You can be on this stage too – public speaking and story telling at WordCamps and beyond](https://wordpress.tv/2024/12/23/you-can-be-on-this-stage-too-public-speaking-and-story-telling-at-wordcamps-and-beyond/)
 - [Introducción a WordPress](https://wordpress.tv/2024/12/19/introduccion-a-wordpress/)
 - [Developer Hours: Everything you need to know about WordPress Playground](https://wordpress.tv/2024/12/17/developer-hours-everything-you-need-to-know-about-wordpress-playground/)
 - [WordPress Playground for developers](https://wordpress.tv/2024/12/16/wordpress-playground-for-developers/)
@@ -377,6 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Utilize the Gallery block](https://wordpress.tv/2024/12/05/utilize-the-gallery-block/)
 - [Using the WordPress Media and Text block](https://wordpress.tv/2024/12/05/using-the-wordpress-media-and-text-block/)
 - [Polices Variables sous WordPress : Le Guide Ultime pour Thèmes FSE](https://wordpress.tv/2024/12/04/polices-variables-sous-wordpress-le-guide-ultime-pour-themes-fse/)
+- [WordPress Modular: Diseño Atómico y SCSS para Interfaces Flexible](https://wordpress.tv/2024/12/04/wordpress-modular-diseno-atomico-y-scss-para-interfaces-flexible/)
 <!-- WPTV:END -->
 
 ## Marketing
