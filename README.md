@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Complexiteit in schaalbaarheid: 25+ gemeenten bedienen met uitdagen](https://wordpress.tv/2024/12/23/complexiteit-in-schaalbaarheid-25-gemeenten-bedienen-met-uitdagen/)
+- [Een accessibility audit: dé kans om je publiek te vergroten!](https://wordpress.tv/2024/12/23/een-accessibility-audit-de-kans-om-je-publiek-te-vergroten/)
+- [&lpar;Cold Turkey&rpar; Overstappen van een pagebuilder naar FSE](https://wordpress.tv/2024/12/23/cold-turkey-overstappen-van-een-pagebuilder-naar-fse/)
+- [Server Side Tracking: de toekomst bestendige first party oplossing](https://wordpress.tv/2024/12/23/server-side-tracking-de-toekomst-bestendige-first-party-oplossing/)
+- [Scaling up WooCommerce: a deep dive into high performance order storage.](https://wordpress.tv/2024/12/23/scaling-up-woocommerce-a-deep-dive-into-high-performance-order-storage/)
+- [Contentless Marketing](https://wordpress.tv/2024/12/23/contentless-marketing/)
+- [Resurrecting the Dead](https://wordpress.tv/2024/12/23/resurrecting-the-dead/)
+- [5 mistakes to avoid while scaling your WordPress business](https://wordpress.tv/2024/12/23/5-mistakes-to-avoid-while-scaling-your-wordpress-business/)
+- [Opschalen voor webdesigners 2.0](https://wordpress.tv/2024/12/23/opschalen-voor-webdesigners-2-0/)
+- [Scaling your agency: is your favorite page builder ready for that?](https://wordpress.tv/2024/12/23/scaling-your-agency-is-your-favorite-page-builder-ready-for-that/)
 - [Developing with hooks](https://wordpress.tv/2024/12/23/developing-with-hooks/)
 - [Determining the correct hook](https://wordpress.tv/2024/12/23/determining-the-correct-hook/)
 - [Removing Hooks](https://wordpress.tv/2024/12/23/removing-hooks/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Forking the GPL Way](https://wordpress.tv/2024/12/13/forking-the-gpl-way/)
 - [EzyCourse vs WordPress! A CMS for creating e-class platforms, and the example of VETVR.pro platform](https://wordpress.tv/2024/12/13/ezycourse-vs-wordpress-a-cms-for-creating-e-class-platforms-and-the-example-of-vetvr-pro-platform/)
 - [Make your users’ search experience great](https://wordpress.tv/2024/12/13/make-your-users-search-experience-great/)
-- [Find Clients for Your Agency by Leveraging All Your Channels](https://wordpress.tv/2024/12/13/find-clients-for-your-agency-by-leveraging-all-your-channels/)
-- [Code, Test, Repeat: Accelerating Development with WordPress Playground](https://wordpress.tv/2024/12/13/code-test-repeat-accelerating-development-with-wordpress-playground/)
-- [Effective personal and business branding](https://wordpress.tv/2024/12/13/effective-personal-and-business-branding/)
-- [Comienza a ser rebelde y a decir que NO](https://wordpress.tv/2024/12/12/comienza-a-ser-rebelde-y-a-decir-que-no/)
-- [Explore synced pattern overrides](https://wordpress.tv/2024/12/11/explore-synced-pattern-overrides/)
-- [WordPress: menos complicado que armar un moble de IKEA](https://wordpress.tv/2024/12/09/wordpress-menos-complicado-que-armar-un-moble-de-ikea/)
-- [Utilize the Gallery block](https://wordpress.tv/2024/12/05/utilize-the-gallery-block/)
-- [Using the WordPress Media and Text block](https://wordpress.tv/2024/12/05/using-the-wordpress-media-and-text-block/)
-- [Polices Variables sous WordPress : Le Guide Ultime pour Thèmes FSE](https://wordpress.tv/2024/12/04/polices-variables-sous-wordpress-le-guide-ultime-pour-themes-fse/)
-- [WordPress Modular: Diseño Atómico y SCSS para Interfaces Flexible](https://wordpress.tv/2024/12/04/wordpress-modular-diseno-atomico-y-scss-para-interfaces-flexible/)
 <!-- WPTV:END -->
 
 ## Marketing
