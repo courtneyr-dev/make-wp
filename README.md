@@ -352,6 +352,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Zo verduurzaam je je eigen website](https://wordpress.tv/2024/12/24/zo-verduurzaam-je-je-eigen-website/)
+- [Ethics of Data Collection – How to Usefully do Analytics](https://wordpress.tv/2024/12/24/ethics-of-data-collection-how-to-usefully-do-analytics/)
+- [Test de schaalbaarheid van je WordPress site](https://wordpress.tv/2024/12/24/test-de-schaalbaarheid-van-je-wordpress-site/)
+- [Supercharge your Workflow with Automation](https://wordpress.tv/2024/12/24/supercharge-your-workflow-with-automation/)
+- [Liberating data with WordPress Playground in a Browser Extension](https://wordpress.tv/2024/12/24/liberating-data-with-wordpress-playground-in-a-browser-extension/)
+- [GitHub Actions Workflows: Tips and Best Practices for Streamlining Your CI/CD Pip](https://wordpress.tv/2024/12/24/github-actions-workflows-tips-and-best-practices-for-streamlining-your-ci-cd-pip/)
+- [How to Speed Up a Site with 500,000 Attachments](https://wordpress.tv/2024/12/24/how-to-speed-up-a-site-with-500000-attachments/)
 - [Speak your users’ language: what to look out for when going global](https://wordpress.tv/2024/12/24/speak-your-users-language-what-to-look-out-for-when-going-global/)
 - [WordPress as a social network – a vision to democratize publishing](https://wordpress.tv/2024/12/24/wordpress-as-a-social-network-a-vision-to-democratize-publishing/)
 - [Betere toegankelijkheid is meer business](https://wordpress.tv/2024/12/24/betere-toegankelijkheid-is-meer-business/)
@@ -370,13 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developing with hooks](https://wordpress.tv/2024/12/23/developing-with-hooks/)
 - [Determining the correct hook](https://wordpress.tv/2024/12/23/determining-the-correct-hook/)
 - [Removing Hooks](https://wordpress.tv/2024/12/23/removing-hooks/)
-- [Custom hooks](https://wordpress.tv/2024/12/23/custom-hooks/)
-- [Introducción a WordPress](https://wordpress.tv/2024/12/19/introduccion-a-wordpress/)
-- [Developer Hours: Everything you need to know about WordPress Playground](https://wordpress.tv/2024/12/17/developer-hours-everything-you-need-to-know-about-wordpress-playground/)
-- [WordPress Playground for developers](https://wordpress.tv/2024/12/16/wordpress-playground-for-developers/)
-- [Las bases para construir un buscador semántico con IA para plugins WordPress](https://wordpress.tv/2024/12/15/las-bases-para-construir-un-buscador-semantico-con-ia-para-plugins-wordpress/)
-- [Diseñar para interfaces con IA](https://wordpress.tv/2024/12/15/disenar-para-interfaces-con-ia/)
-- [Block themes: The future of Full Site Editing and what to expect from WordPress 6.7](https://wordpress.tv/2024/12/13/block-themes-the-future-of-full-site-editing-and-what-to-expect-from-wordpress-6-7/)
 <!-- WPTV:END -->
 
 ## Marketing
