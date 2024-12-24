@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Begin your Podcasting journey with WordPress – Implementation &amp; Monetization](https://wordpress.tv/2024/12/24/begin-your-podcasting-journey-with-wordpress-implementation-monetization/)
 - [Zo verduurzaam je je eigen website](https://wordpress.tv/2024/12/24/zo-verduurzaam-je-je-eigen-website/)
 - [Ethics of Data Collection – How to Usefully do Analytics](https://wordpress.tv/2024/12/24/ethics-of-data-collection-how-to-usefully-do-analytics/)
 - [Test de schaalbaarheid van je WordPress site](https://wordpress.tv/2024/12/24/test-de-schaalbaarheid-van-je-wordpress-site/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Scaling your agency: is your favorite page builder ready for that?](https://wordpress.tv/2024/12/23/scaling-your-agency-is-your-favorite-page-builder-ready-for-that/)
 - [Developing with hooks](https://wordpress.tv/2024/12/23/developing-with-hooks/)
 - [Determining the correct hook](https://wordpress.tv/2024/12/23/determining-the-correct-hook/)
-- [Removing Hooks](https://wordpress.tv/2024/12/23/removing-hooks/)
 <!-- WPTV:END -->
 
 ## Marketing
