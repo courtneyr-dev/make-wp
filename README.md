@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/12/24/hi-dear-mentors-we-have-157/)
 - [Request for PTE for WP Crontrol &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/22/request-for-pte-for-appmysite-fa_ir-2/)
 - [Request for PTE for AppMySite &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/21/request-for-pte-for-appmysite-fa_ir/)
 - [PTE Request for Social Chat](https://make.wordpress.org/polyglots/2024/12/21/pte-request-for-social-chat/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – December 18, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/12/18/agenda-weekly-polyglots-chat-december-18-2024-1300-utc/)
 - [Request for PTE for Disable Comments &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/18/request-for-pte-for-disable-comments-fa_ir/)
 - [PTE Request for [myclub-groups]](https://make.wordpress.org/polyglots/2024/12/17/pte-request-for-myclub-groups/)
-- [GTE Request for Belarusian Locale](https://make.wordpress.org/polyglots/2024/12/17/gte-request-for-belarusian-locale/)
 <!-- POLYGLOTS:END -->
 
 ## Support
