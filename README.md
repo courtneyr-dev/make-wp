@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Speak your users’ language: what to look out for when going global](https://wordpress.tv/2024/12/24/speak-your-users-language-what-to-look-out-for-when-going-global/)
 - [WordPress as a social network – a vision to democratize publishing](https://wordpress.tv/2024/12/24/wordpress-as-a-social-network-a-vision-to-democratize-publishing/)
 - [Betere toegankelijkheid is meer business](https://wordpress.tv/2024/12/24/betere-toegankelijkheid-is-meer-business/)
 - [Meer met minder: haal de bezem door je website](https://wordpress.tv/2024/12/24/meer-met-minder-haal-de-bezem-door-je-website/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Las bases para construir un buscador semántico con IA para plugins WordPress](https://wordpress.tv/2024/12/15/las-bases-para-construir-un-buscador-semantico-con-ia-para-plugins-wordpress/)
 - [Diseñar para interfaces con IA](https://wordpress.tv/2024/12/15/disenar-para-interfaces-con-ia/)
 - [Block themes: The future of Full Site Editing and what to expect from WordPress 6.7](https://wordpress.tv/2024/12/13/block-themes-the-future-of-full-site-editing-and-what-to-expect-from-wordpress-6-7/)
-- [How We Create Elementor Landing Pages That Convert Over 4%](https://wordpress.tv/2024/12/13/how-we-create-elementor-landing-pages-that-convert-over-4/)
 <!-- WPTV:END -->
 
 ## Marketing
