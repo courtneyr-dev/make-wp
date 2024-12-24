@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress as a social network – a vision to democratize publishing](https://wordpress.tv/2024/12/24/wordpress-as-a-social-network-a-vision-to-democratize-publishing/)
+- [Betere toegankelijkheid is meer business](https://wordpress.tv/2024/12/24/betere-toegankelijkheid-is-meer-business/)
+- [Meer met minder: haal de bezem door je website](https://wordpress.tv/2024/12/24/meer-met-minder-haal-de-bezem-door-je-website/)
+- [Creating a landing page for a holiday event using TT5](https://wordpress.tv/2024/12/24/creating-a-landing-page-for-a-holiday-event-using-tt5/)
 - [Complexiteit in schaalbaarheid: 25+ gemeenten bedienen met uitdagen](https://wordpress.tv/2024/12/23/complexiteit-in-schaalbaarheid-25-gemeenten-bedienen-met-uitdagen/)
 - [Een accessibility audit: dé kans om je publiek te vergroten!](https://wordpress.tv/2024/12/23/een-accessibility-audit-de-kans-om-je-publiek-te-vergroten/)
 - [&lpar;Cold Turkey&rpar; Overstappen van een pagebuilder naar FSE](https://wordpress.tv/2024/12/23/cold-turkey-overstappen-van-een-pagebuilder-naar-fse/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Diseñar para interfaces con IA](https://wordpress.tv/2024/12/15/disenar-para-interfaces-con-ia/)
 - [Block themes: The future of Full Site Editing and what to expect from WordPress 6.7](https://wordpress.tv/2024/12/13/block-themes-the-future-of-full-site-editing-and-what-to-expect-from-wordpress-6-7/)
 - [How We Create Elementor Landing Pages That Convert Over 4%](https://wordpress.tv/2024/12/13/how-we-create-elementor-landing-pages-that-convert-over-4/)
-- [WooCommerce Automations: Revolutionizing eCommerce with Practical Solutions](https://wordpress.tv/2024/12/13/woocommerce-automations-revolutionizing-ecommerce-with-practical-solutions/)
-- [Forking the GPL Way](https://wordpress.tv/2024/12/13/forking-the-gpl-way/)
-- [EzyCourse vs WordPress! A CMS for creating e-class platforms, and the example of VETVR.pro platform](https://wordpress.tv/2024/12/13/ezycourse-vs-wordpress-a-cms-for-creating-e-class-platforms-and-the-example-of-vetvr-pro-platform/)
-- [Make your users’ search experience great](https://wordpress.tv/2024/12/13/make-your-users-search-experience-great/)
 <!-- WPTV:END -->
 
 ## Marketing
