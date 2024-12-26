@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-3/)
 - [Seeking Integration Expert for Data-Driven E-Learning Platform](https://jobs.wordpress.net/job/seeking-integration-expert-for-data-driven-e-learning-platform/)
 - [Improve our booking plugin with new add ons](https://jobs.wordpress.net/job/improve-our-booking-plugin-with-new-add-ons/)
 - [Lead Generation Manager](https://jobs.wordpress.net/job/lead-generation-manager/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-41/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-3/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-22/)
-- [System Admin with DevOps experience – Remote](https://jobs.wordpress.net/job/system-admin-with-devops-experience-remote/)
 <!-- JOBS:END -->
 
 ## Central
