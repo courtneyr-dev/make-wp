@@ -355,7 +355,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sometimes It’s Good to Pivot: Navigating Life’s Turning Points](https://wordpress.tv/2024/12/25/sometimes-its-good-to-pivot-navigating-lifes-turning-points/)
 - [Analytics for WordPress](https://wordpress.tv/2024/12/25/analytics-for-wordpress/)
 - [Getting the Most Out of WordCamps](https://wordpress.tv/2024/12/25/getting-the-most-out-of-wordcamps/)
-- [Panel Discussion: The Entrepreneur’s Journey – Stories of Triumph and Lesson Learned](https://wordpress.tv/2024/12/24/panel-discussion-the-entrepreneurs-journey-stories-of-triumph-and-lesson-learned/)
 - [The last woman standing, what does it mean to be acquired](https://wordpress.tv/2024/12/24/the-last-woman-standing-what-does-it-mean-to-be-acquired/)
 - [Begin your Podcasting journey with WordPress – Implementation &amp; Monetization](https://wordpress.tv/2024/12/24/begin-your-podcasting-journey-with-wordpress-implementation-monetization/)
 - [Zo verduurzaam je je eigen website](https://wordpress.tv/2024/12/24/zo-verduurzaam-je-je-eigen-website/)
@@ -377,6 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Scaling up WooCommerce: a deep dive into high performance order storage.](https://wordpress.tv/2024/12/23/scaling-up-woocommerce-a-deep-dive-into-high-performance-order-storage/)
 - [Contentless Marketing](https://wordpress.tv/2024/12/23/contentless-marketing/)
 - [Resurrecting the Dead](https://wordpress.tv/2024/12/23/resurrecting-the-dead/)
+- [5 mistakes to avoid while scaling your WordPress business](https://wordpress.tv/2024/12/23/5-mistakes-to-avoid-while-scaling-your-wordpress-business/)
 <!-- WPTV:END -->
 
 ## Marketing
