@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Card number copier for woocommerce](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-card-number-copier-for-woocommerce/)
 - [PTE Request for MailOptin](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-mailoptin/)
 - [Hello Polyglots, Please add me…](https://make.wordpress.org/polyglots/2024/12/26/hello-polyglots-please-add-me-4/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/12/24/hi-dear-mentors-we-have-157/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE and PTE request in three project](https://make.wordpress.org/polyglots/2024/12/20/clpte-and-pte-request-in-three-project/)
 - [PTE Request for Ultimate Member](https://make.wordpress.org/polyglots/2024/12/20/pte-request-for-ultimate-member-3/)
 - [PTE Request for AI Services &lpar;`ai-services`&rpar; and Snow Fall &lpar;`snow-fall`&rpar;](https://make.wordpress.org/polyglots/2024/12/19/pte-request-for-ai-services-ai-services-and-snow-fall-snow-fall/)
-- [Agenda: Weekly Polyglots Chat – December 18, 2024 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2024/12/18/agenda-weekly-polyglots-chat-december-18-2024-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
