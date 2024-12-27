@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-854/)
 - [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-4/)
 - [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-3/)
 - [Seeking Integration Expert for Data-Driven E-Learning Platform](https://jobs.wordpress.net/job/seeking-integration-expert-for-data-driven-e-learning-platform/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-3/)
 - [WordPress site cutomized theme + slightly complicated advanced search feature](https://jobs.wordpress.net/job/wordpress-site-cutomized-theme-slightly-complicated-advanced-search-feature/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-41/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-3/)
 <!-- JOBS:END -->
 
 ## Central
