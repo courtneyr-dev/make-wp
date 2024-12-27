@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Multiple WordPress Site Management/Improvement Using DreamIt webhoster](https://jobs.wordpress.net/job/multiple-wordpress-site-management-improvement-using-dreamit-webhoster/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-854/)
 - [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-4/)
 - [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-3/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-14/)
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-3/)
 - [WordPress site cutomized theme + slightly complicated advanced search feature](https://jobs.wordpress.net/job/wordpress-site-cutomized-theme-slightly-complicated-advanced-search-feature/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-41/)
 <!-- JOBS:END -->
 
 ## Central
