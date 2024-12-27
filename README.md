@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress GSAP Animator Using “Animation Addons for Elementor” Plugin](https://jobs.wordpress.net/job/wordpress-gsap-animator-using-animation-addons-for-elementor-plugin/)
 - [Junior Web Developer](https://jobs.wordpress.net/job/junior-web-developer-7/)
 - [Multiple WordPress Site Management/Improvement Using DreamIt webhoster](https://jobs.wordpress.net/job/multiple-wordpress-site-management-improvement-using-dreamit-webhoster/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-854/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Improve our booking plugin with new add ons](https://jobs.wordpress.net/job/improve-our-booking-plugin-with-new-add-ons/)
 - [Lead Generation Manager](https://jobs.wordpress.net/job/lead-generation-manager/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-14/)
-- [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-3/)
 <!-- JOBS:END -->
 
 ## Central
