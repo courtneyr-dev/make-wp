@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “Wappi – Send Notifications via personal WhatsApp and Telegram”](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-wappi-send-notifications-via-personal-whatsapp-and-telegram/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2024/12/29/i-am-the-author-of-8/)
 - [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-contact-form-7-3/)
 - [PTE Request for English Chess Data](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-english-chess-data/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2024/12/24/hi-dear-mentors-we-have-157/)
 - [Request for PTE for WP Crontrol &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/22/request-for-pte-for-appmysite-fa_ir-2/)
 - [Request for PTE for AppMySite &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/21/request-for-pte-for-appmysite-fa_ir/)
-- [PTE Request for Social Chat](https://make.wordpress.org/polyglots/2024/12/21/pte-request-for-social-chat/)
 <!-- POLYGLOTS:END -->
 
 ## Support
