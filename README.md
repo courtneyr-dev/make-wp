@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the author of…](https://make.wordpress.org/polyglots/2024/12/29/i-am-the-author-of-8/)
+- [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-contact-form-7-3/)
+- [PTE Request for English Chess Data](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-english-chess-data/)
 - [PTE Request for Card number copier for woocommerce](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-card-number-copier-for-woocommerce/)
 - [PTE Request for MailOptin](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-mailoptin/)
 - [Hello Polyglots, Please add me…](https://make.wordpress.org/polyglots/2024/12/26/hello-polyglots-please-add-me-4/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for PTE for WP Crontrol &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/22/request-for-pte-for-appmysite-fa_ir-2/)
 - [Request for PTE for AppMySite &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2024/12/21/request-for-pte-for-appmysite-fa_ir/)
 - [PTE Request for Social Chat](https://make.wordpress.org/polyglots/2024/12/21/pte-request-for-social-chat/)
-- [CLPTE and PTE request in three project](https://make.wordpress.org/polyglots/2024/12/20/clpte-and-pte-request-in-three-project/)
-- [PTE Request for Ultimate Member](https://make.wordpress.org/polyglots/2024/12/20/pte-request-for-ultimate-member-3/)
-- [PTE Request for AI Services &lpar;`ai-services`&rpar; and Snow Fall &lpar;`snow-fall`&rpar;](https://make.wordpress.org/polyglots/2024/12/19/pte-request-for-ai-services-ai-services-and-snow-fall-snow-fall/)
 <!-- POLYGLOTS:END -->
 
 ## Support
