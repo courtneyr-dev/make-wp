@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Arolax Theme Content Setup](https://jobs.wordpress.net/job/arolax-theme-content-setup-2/)
+- [Animation Addons for Elementor Experts](https://jobs.wordpress.net/job/animation-addons-for-elementor-experts/)
 - [Apply Coupon code in a child product of a bundle product](https://jobs.wordpress.net/job/apply-coupon-code-in-a-child-product-of-a-bundle-product/)
 - [WordPress GSAP Animator Using “Animation Addons for Elementor” Plugin](https://jobs.wordpress.net/job/wordpress-gsap-animator-using-animation-addons-for-elementor-plugin/)
 - [Junior Web Developer](https://jobs.wordpress.net/job/junior-web-developer-7/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-4/)
 - [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-3/)
 - [Seeking Integration Expert for Data-Driven E-Learning Platform](https://jobs.wordpress.net/job/seeking-integration-expert-for-data-driven-e-learning-platform/)
-- [Improve our booking plugin with new add ons](https://jobs.wordpress.net/job/improve-our-booking-plugin-with-new-add-ons/)
-- [Lead Generation Manager](https://jobs.wordpress.net/job/lead-generation-manager/)
 <!-- JOBS:END -->
 
 ## Central
