@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo reactivar tu Comunidad](https://wordpress.tv/2024/12/30/como-reactivar-tu-comunidad/)
 - [Sometimes It’s Good to Pivot: Navigating Life’s Turning Points](https://wordpress.tv/2024/12/25/sometimes-its-good-to-pivot-navigating-lifes-turning-points/)
 - [Analytics for WordPress](https://wordpress.tv/2024/12/25/analytics-for-wordpress/)
 - [Getting the Most Out of WordCamps](https://wordpress.tv/2024/12/25/getting-the-most-out-of-wordcamps/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Scaling up WooCommerce: a deep dive into high performance order storage.](https://wordpress.tv/2024/12/23/scaling-up-woocommerce-a-deep-dive-into-high-performance-order-storage/)
 - [Contentless Marketing](https://wordpress.tv/2024/12/23/contentless-marketing/)
 - [Resurrecting the Dead](https://wordpress.tv/2024/12/23/resurrecting-the-dead/)
-- [5 mistakes to avoid while scaling your WordPress business](https://wordpress.tv/2024/12/23/5-mistakes-to-avoid-while-scaling-your-wordpress-business/)
 <!-- WPTV:END -->
 
 ## Marketing
