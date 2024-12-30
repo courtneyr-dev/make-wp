@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [A Year in Themes Team – 2024](https://make.wordpress.org/themes/2024/12/30/a-year-in-themes-team-2024/)
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/themes/2024/11/18/xpost-hello-wordpress-community-lets-chat/)
 - [Nominations Call for the themes team representatives: 2025 Edition](https://make.wordpress.org/themes/2024/11/13/nominations-call-for-the-themes-team-representatives-2025-edition/)
 - [Celebrating 1,000 Block Themes in the themes repository!](https://make.wordpress.org/themes/2024/10/23/celebrating-1000-block-themes-in-the-themes-repository/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/themes/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [Themes team meeting agenda for October 08, 2024](https://make.wordpress.org/themes/2024/10/07/themes-team-meeting-agenda-for-october-08-2024/)
 - [Themes team meeting notes for September 24, 2024](https://make.wordpress.org/themes/2024/09/26/themes-team-meeting-notes-for-september-24-2024/)
-- [X-post: Default Theme Chat Agenda: September 25, 2024](https://make.wordpress.org/themes/2024/09/24/xpost-default-theme-chat-agenda-september-25-2024/)
 <!-- THEMES:END -->
 
 ## Plugins
