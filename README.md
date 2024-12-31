@@ -352,7 +352,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Why contribute to the polyglots and training team? And who can do it?](https://wordpress.tv/2024/12/31/why-contribute-to-the-polyglots-and-training-team-and-who-can-do-it/)
 - [Cómo reactivar tu Comunidad](https://wordpress.tv/2024/12/30/como-reactivar-tu-comunidad/)
 - [Sometimes It’s Good to Pivot: Navigating Life’s Turning Points](https://wordpress.tv/2024/12/25/sometimes-its-good-to-pivot-navigating-lifes-turning-points/)
 - [Analytics for WordPress](https://wordpress.tv/2024/12/25/analytics-for-wordpress/)
@@ -377,6 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Server Side Tracking: de toekomst bestendige first party oplossing](https://wordpress.tv/2024/12/23/server-side-tracking-de-toekomst-bestendige-first-party-oplossing/)
 - [Scaling up WooCommerce: a deep dive into high performance order storage.](https://wordpress.tv/2024/12/23/scaling-up-woocommerce-a-deep-dive-into-high-performance-order-storage/)
 - [Contentless Marketing](https://wordpress.tv/2024/12/23/contentless-marketing/)
+- [Resurrecting the Dead](https://wordpress.tv/2024/12/23/resurrecting-the-dead/)
 <!-- WPTV:END -->
 
 ## Marketing
