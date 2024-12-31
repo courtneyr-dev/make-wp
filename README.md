@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Apertura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/apertura-wordcamp-grinon-2024/)
+- [Clausura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/clausura-wordcamp-grinon-2024/)
 - [Cómo reactivar tu Comunidad](https://wordpress.tv/2024/12/30/como-reactivar-tu-comunidad/)
 - [Sometimes It’s Good to Pivot: Navigating Life’s Turning Points](https://wordpress.tv/2024/12/25/sometimes-its-good-to-pivot-navigating-lifes-turning-points/)
 - [Analytics for WordPress](https://wordpress.tv/2024/12/25/analytics-for-wordpress/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [&lpar;Cold Turkey&rpar; Overstappen van een pagebuilder naar FSE](https://wordpress.tv/2024/12/23/cold-turkey-overstappen-van-een-pagebuilder-naar-fse/)
 - [Server Side Tracking: de toekomst bestendige first party oplossing](https://wordpress.tv/2024/12/23/server-side-tracking-de-toekomst-bestendige-first-party-oplossing/)
 - [Scaling up WooCommerce: a deep dive into high performance order storage.](https://wordpress.tv/2024/12/23/scaling-up-woocommerce-a-deep-dive-into-high-performance-order-storage/)
-- [Contentless Marketing](https://wordpress.tv/2024/12/23/contentless-marketing/)
-- [Resurrecting the Dead](https://wordpress.tv/2024/12/23/resurrecting-the-dead/)
 <!-- WPTV:END -->
 
 ## Marketing
