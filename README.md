@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [A Year in the Plugins Review Team – 2024](https://make.wordpress.org/plugins/2024/12/31/a-year-in-the-plugins-review-team-2024/)
 - [Plugin Check Goals &amp; Roadmap](https://make.wordpress.org/plugins/2024/12/24/plugin-check-goals-roadmap/)
 - [Plugin Check and 2FA Now Mandatory For New Plugin Submissions](https://make.wordpress.org/plugins/2024/10/01/plugin-check-and-2fa-now-mandatory-for-new-plugin-submissions/)
 - [Introducing Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/plugins/2024/09/17/introducing-plugin-check-pcp/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Password Reset Required for Plugin Authors](https://make.wordpress.org/plugins/2024/06/29/password-reset-required-for-plugin-authors/)
 - [Keeping Your Plugin Committer Accounts Secure](https://make.wordpress.org/plugins/2024/06/26/keeping-your-plugin-committer-accounts-secure/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/plugins/2024/06/05/xpost-training-team-update-june-2024/)
-- [How should we shape the future of the Plugin Review team?](https://make.wordpress.org/plugins/2024/06/03/how-should-we-shape-the-future-of-the-plugin-review-team/)
 <!-- PLUGINS:END -->
 
 ## Community
