@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Unlocking Growth Through Community: A Strategic Approach for WordPress Businesses](https://wordpress.tv/2025/01/01/unlocking-growth-through-community-a-strategic-approach-for-wordpress-businesses/)
 - [Product Management v. Project Management — Synergies, Conflicts, and Coexistence](https://wordpress.tv/2025/01/01/product-management-v-project-management-synergies-conflicts-and-coexistence/)
 - [Making WordPress : Why &amp; How](https://wordpress.tv/2025/01/01/making-wordpress-why-how/)
 - [The Future of Blogging: Is It Still Relevant in 2024 and Beyond?](https://wordpress.tv/2025/01/01/the-future-of-blogging-is-it-still-relevant-in-2024-and-beyond/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Betere toegankelijkheid is meer business](https://wordpress.tv/2024/12/24/betere-toegankelijkheid-is-meer-business/)
 - [Meer met minder: haal de bezem door je website](https://wordpress.tv/2024/12/24/meer-met-minder-haal-de-bezem-door-je-website/)
 - [Creating a landing page for a holiday event using TT5](https://wordpress.tv/2024/12/24/creating-a-landing-page-for-a-holiday-event-using-tt5/)
-- [Complexiteit in schaalbaarheid: 25+ gemeenten bedienen met uitdagen](https://wordpress.tv/2024/12/23/complexiteit-in-schaalbaarheid-25-gemeenten-bedienen-met-uitdagen/)
 <!-- WPTV:END -->
 
 ## Marketing
