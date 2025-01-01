@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Product Management v. Project Management — Synergies, Conflicts, and Coexistence](https://wordpress.tv/2025/01/01/product-management-v-project-management-synergies-conflicts-and-coexistence/)
+- [Making WordPress : Why &amp; How](https://wordpress.tv/2025/01/01/making-wordpress-why-how/)
+- [The Future of Blogging: Is It Still Relevant in 2024 and Beyond?](https://wordpress.tv/2025/01/01/the-future-of-blogging-is-it-still-relevant-in-2024-and-beyond/)
+- [Crafting a Winning Launch Strategy for Your WordPress Product](https://wordpress.tv/2025/01/01/crafting-a-winning-launch-strategy-for-your-wordpress-product/)
 - [Apertura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/apertura-wordcamp-grinon-2024/)
 - [Clausura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/clausura-wordcamp-grinon-2024/)
 - [Cómo reactivar tu Comunidad](https://wordpress.tv/2024/12/30/como-reactivar-tu-comunidad/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meer met minder: haal de bezem door je website](https://wordpress.tv/2024/12/24/meer-met-minder-haal-de-bezem-door-je-website/)
 - [Creating a landing page for a holiday event using TT5](https://wordpress.tv/2024/12/24/creating-a-landing-page-for-a-holiday-event-using-tt5/)
 - [Complexiteit in schaalbaarheid: 25+ gemeenten bedienen met uitdagen](https://wordpress.tv/2024/12/23/complexiteit-in-schaalbaarheid-25-gemeenten-bedienen-met-uitdagen/)
-- [Een accessibility audit: dé kans om je publiek te vergroten!](https://wordpress.tv/2024/12/23/een-accessibility-audit-de-kans-om-je-publiek-te-vergroten/)
-- [&lpar;Cold Turkey&rpar; Overstappen van een pagebuilder naar FSE](https://wordpress.tv/2024/12/23/cold-turkey-overstappen-van-een-pagebuilder-naar-fse/)
-- [Server Side Tracking: de toekomst bestendige first party oplossing](https://wordpress.tv/2024/12/23/server-side-tracking-de-toekomst-bestendige-first-party-oplossing/)
-- [Scaling up WooCommerce: a deep dive into high performance order storage.](https://wordpress.tv/2024/12/23/scaling-up-woocommerce-a-deep-dive-into-high-performance-order-storage/)
 <!-- WPTV:END -->
 
 ## Marketing
