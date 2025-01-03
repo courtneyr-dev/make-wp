@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for GTE Support for…](https://make.wordpress.org/polyglots/2025/01/03/request-for-gte-support-for/)
 - [PTE Request for Vital Video Plugin](https://make.wordpress.org/polyglots/2025/01/02/pte-request-for-vital-video-plugin/)
 - [I’ve suggested translations for BuddyPress…](https://make.wordpress.org/polyglots/2025/01/02/ive-suggested-translations-for-buddypress/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/01/01/i-am-the-plugin-author-47/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for English Chess Data](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-english-chess-data/)
 - [PTE Request for Card number copier for woocommerce](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-card-number-copier-for-woocommerce/)
 - [PTE Request for MailOptin](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-mailoptin/)
-- [Hello Polyglots, Please add me…](https://make.wordpress.org/polyglots/2024/12/26/hello-polyglots-please-add-me-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
