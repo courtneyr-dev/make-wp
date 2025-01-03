@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Essential Addons…](https://make.wordpress.org/polyglots/2025/01/03/pte-request-for-essential-addons/)
 - [Request for GTE Support for…](https://make.wordpress.org/polyglots/2025/01/03/request-for-gte-support-for/)
 - [PTE Request for Vital Video Plugin](https://make.wordpress.org/polyglots/2025/01/02/pte-request-for-vital-video-plugin/)
 - [I’ve suggested translations for BuddyPress…](https://make.wordpress.org/polyglots/2025/01/02/ive-suggested-translations-for-buddypress/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-contact-form-7-3/)
 - [PTE Request for English Chess Data](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-english-chess-data/)
 - [PTE Request for Card number copier for woocommerce](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-card-number-copier-for-woocommerce/)
-- [PTE Request for MailOptin](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-mailoptin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
