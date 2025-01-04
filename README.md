@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Panel: Diversity, Equity, Inclusivity &amp; Belonging in Bangladesh while contributing to WordPress](https://wordpress.tv/2025/01/04/panel-diversity-equity-inclusivity-belonging-in-bangladesh-while-contributing-to-wordpress/)
+- [High Performance MySQL](https://wordpress.tv/2025/01/04/high-performance-mysql/)
+- [AI-Powered Support: Turning AI into Your Secret Weapon for Customer Happiness](https://wordpress.tv/2025/01/04/ai-powered-support-turning-ai-into-your-secret-weapon-for-customer-happiness/)
+- [Block Theme Development: Theme.json in practical](https://wordpress.tv/2025/01/04/block-theme-development-theme-json-in-practical/)
+- [A masterclass on organizational decision making](https://wordpress.tv/2025/01/04/a-masterclass-on-organizational-decision-making/)
 - [Unlocking Growth Through Community: A Strategic Approach for WordPress Businesses](https://wordpress.tv/2025/01/01/unlocking-growth-through-community-a-strategic-approach-for-wordpress-businesses/)
 - [Product Management v. Project Management — Synergies, Conflicts, and Coexistence](https://wordpress.tv/2025/01/01/product-management-v-project-management-synergies-conflicts-and-coexistence/)
 - [Making WordPress : Why &amp; How](https://wordpress.tv/2025/01/01/making-wordpress-why-how/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Liberating data with WordPress Playground in a Browser Extension](https://wordpress.tv/2024/12/24/liberating-data-with-wordpress-playground-in-a-browser-extension/)
 - [GitHub Actions Workflows: Tips and Best Practices for Streamlining Your CI/CD Pip](https://wordpress.tv/2024/12/24/github-actions-workflows-tips-and-best-practices-for-streamlining-your-ci-cd-pip/)
 - [How to Speed Up a Site with 500,000 Attachments](https://wordpress.tv/2024/12/24/how-to-speed-up-a-site-with-500000-attachments/)
-- [Speak your users’ language: what to look out for when going global](https://wordpress.tv/2024/12/24/speak-your-users-language-what-to-look-out-for-when-going-global/)
-- [WordPress as a social network – a vision to democratize publishing](https://wordpress.tv/2024/12/24/wordpress-as-a-social-network-a-vision-to-democratize-publishing/)
-- [Betere toegankelijkheid is meer business](https://wordpress.tv/2024/12/24/betere-toegankelijkheid-is-meer-business/)
-- [Meer met minder: haal de bezem door je website](https://wordpress.tv/2024/12/24/meer-met-minder-haal-de-bezem-door-je-website/)
-- [Creating a landing page for a holiday event using TT5](https://wordpress.tv/2024/12/24/creating-a-landing-page-for-a-holiday-event-using-tt5/)
 <!-- WPTV:END -->
 
 ## Marketing
