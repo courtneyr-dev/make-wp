@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WooCommerce Plugin](https://make.wordpress.org/polyglots/2025/01/04/pte-request-for-woocommerce-plugin/)
+- [Request for GTE Support for Polyglot](https://make.wordpress.org/polyglots/2025/01/04/request-for-gte-support-for-polyglot/)
+- [PTE Request for Comment Emojis for WP](https://make.wordpress.org/polyglots/2025/01/04/pte-request-for-comment-emojis-for-wp/)
 - [PTE Request for Essential Addons…](https://make.wordpress.org/polyglots/2025/01/03/pte-request-for-essential-addons/)
 - [Request for GTE Support for…](https://make.wordpress.org/polyglots/2025/01/03/request-for-gte-support-for/)
 - [PTE Request for Vital Video Plugin](https://make.wordpress.org/polyglots/2025/01/02/pte-request-for-vital-video-plugin/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/01/01/i-am-the-plugin-author-47/)
 - [PTE Request for multiple projects](https://make.wordpress.org/polyglots/2024/12/30/pte-request-for-multiple-projects/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2024/12/29/i-am-the-author-of-8/)
-- [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-contact-form-7-3/)
-- [PTE Request for English Chess Data](https://make.wordpress.org/polyglots/2024/12/29/pte-request-for-english-chess-data/)
-- [PTE Request for Card number copier for woocommerce](https://make.wordpress.org/polyglots/2024/12/27/pte-request-for-card-number-copier-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
