@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordCamp Sylhet 2024 Closing Ceremony](https://wordpress.tv/2025/01/04/wordcamp-sylhet-2024-closing-ceremony/)
+- [Panel: The Gig Economy: Opportunities and Challenges](https://wordpress.tv/2025/01/04/panel-the-gig-economy-opportunities-and-challenges/)
+- [Breaking Ground: A Fresh Perspective on WordPress with React](https://wordpress.tv/2025/01/04/breaking-ground-a-fresh-perspective-on-wordpress-with-react/)
+- [Data-Driven Redesigns: The EDIT UX Framework in Action](https://wordpress.tv/2025/01/04/data-driven-redesigns-the-edit-ux-framework-in-action/)
+- [How to Choose a Tech Career &amp; Finding top talent in a candidate](https://wordpress.tv/2025/01/04/how-to-choose-a-tech-career-finding-top-talent-in-a-candidate/)
+- [Panel: Importance of human-centered design](https://wordpress.tv/2025/01/04/panel-importance-of-human-centered-design/)
 - [Panel: Diversity, Equity, Inclusivity &amp; Belonging in Bangladesh while contributing to WordPress](https://wordpress.tv/2025/01/04/panel-diversity-equity-inclusivity-belonging-in-bangladesh-while-contributing-to-wordpress/)
 - [High Performance MySQL](https://wordpress.tv/2025/01/04/high-performance-mysql/)
 - [AI-Powered Support: Turning AI into Your Secret Weapon for Customer Happiness](https://wordpress.tv/2025/01/04/ai-powered-support-turning-ai-into-your-secret-weapon-for-customer-happiness/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The last woman standing, what does it mean to be acquired](https://wordpress.tv/2024/12/24/the-last-woman-standing-what-does-it-mean-to-be-acquired/)
 - [Begin your Podcasting journey with WordPress – Implementation &amp; Monetization](https://wordpress.tv/2024/12/24/begin-your-podcasting-journey-with-wordpress-implementation-monetization/)
 - [Zo verduurzaam je je eigen website](https://wordpress.tv/2024/12/24/zo-verduurzaam-je-je-eigen-website/)
-- [Ethics of Data Collection – How to Usefully do Analytics](https://wordpress.tv/2024/12/24/ethics-of-data-collection-how-to-usefully-do-analytics/)
-- [Test de schaalbaarheid van je WordPress site](https://wordpress.tv/2024/12/24/test-de-schaalbaarheid-van-je-wordpress-site/)
-- [Supercharge your Workflow with Automation](https://wordpress.tv/2024/12/24/supercharge-your-workflow-with-automation/)
-- [Liberating data with WordPress Playground in a Browser Extension](https://wordpress.tv/2024/12/24/liberating-data-with-wordpress-playground-in-a-browser-extension/)
-- [GitHub Actions Workflows: Tips and Best Practices for Streamlining Your CI/CD Pip](https://wordpress.tv/2024/12/24/github-actions-workflows-tips-and-best-practices-for-streamlining-your-ci-cd-pip/)
-- [How to Speed Up a Site with 500,000 Attachments](https://wordpress.tv/2024/12/24/how-to-speed-up-a-site-with-500000-attachments/)
 <!-- WPTV:END -->
 
 ## Marketing
