@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Forminator Forms…](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-forminator-forms/)
+- [PTE Request for SportsPress – Sports Club &amp; League Manager and SportsPress for Football &lpar;Soccer&rpar;](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-sportspress-sports-club-league-manager-and-sportspress-for-football-soccer/)
 - [PTE request for the WS…](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-the-ws/)
 - [PTE Request for Magty Theme &lpar;Gujarati&rpar;](https://make.wordpress.org/polyglots/2025/01/05/pte-request-for-magty-theme-gujarati/)
 - [PTE request for the VS Event List plugin](https://make.wordpress.org/polyglots/2025/01/05/pte-request-for-the-vs-event-list-plugin/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Comment Emojis for WP](https://make.wordpress.org/polyglots/2025/01/04/pte-request-for-comment-emojis-for-wp/)
 - [PTE Request for Essential Addons…](https://make.wordpress.org/polyglots/2025/01/03/pte-request-for-essential-addons/)
 - [Request for GTE Support for…](https://make.wordpress.org/polyglots/2025/01/03/request-for-gte-support-for/)
-- [PTE Request for Vital Video Plugin](https://make.wordpress.org/polyglots/2025/01/02/pte-request-for-vital-video-plugin/)
-- [I’ve suggested translations for BuddyPress…](https://make.wordpress.org/polyglots/2025/01/02/ive-suggested-translations-for-buddypress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
