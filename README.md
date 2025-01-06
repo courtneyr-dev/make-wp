@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Frontend Designer / Full-Stack Developer &lpar;Freelance Contractor Role&rpar;](https://jobs.wordpress.net/job/wordpress-frontend-designer-full-stack-developer-freelance-contractor-role/)
+- [Improve speed &amp; On Site SEO optimization](https://jobs.wordpress.net/job/improve-speed-on-site-seo-optimization/)
+- [Customize Divi templates](https://jobs.wordpress.net/job/customize-divi-templates/)
 - [Digital Marketing Specialist &amp; Content Writer](https://jobs.wordpress.net/job/digital-marketing-specialist-content-writer/)
 - [Site Update/Mirgation](https://jobs.wordpress.net/job/site-update-mirgation/)
 - [Arolax Theme Content Setup](https://jobs.wordpress.net/job/arolax-theme-content-setup-2/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Apply Coupon code in a child product of a bundle product](https://jobs.wordpress.net/job/apply-coupon-code-in-a-child-product-of-a-bundle-product/)
 - [WordPress GSAP Animator Using “Animation Addons for Elementor” Plugin](https://jobs.wordpress.net/job/wordpress-gsap-animator-using-animation-addons-for-elementor-plugin/)
 - [Junior Web Developer](https://jobs.wordpress.net/job/junior-web-developer-7/)
-- [Multiple WordPress Site Management/Improvement Using DreamIt webhoster](https://jobs.wordpress.net/job/multiple-wordpress-site-management-improvement-using-dreamit-webhoster/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-854/)
-- [WordPress Technical Document Writer](https://jobs.wordpress.net/job/wordpress-technical-document-writer-4/)
 <!-- JOBS:END -->
 
 ## Central
