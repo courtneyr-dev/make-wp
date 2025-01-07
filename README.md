@@ -125,6 +125,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/upload-media](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-upload-media/)
 - [wp_print_font_faces_from_style_variations&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_print_font_faces_from_style_variations/)
 - [get_user&lpar;&rpar;](https://developer.wordpress.org/reference/functions/get_user/)
 - [wp_is_heic_image_mime_type&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_is_heic_image_mime_type/)
@@ -134,7 +135,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [current_user_can_for_site&lpar;&rpar;](https://developer.wordpress.org/reference/functions/current_user_can_for_site/)
 - [wp_check_comment_data&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_check_comment_data/)
 - [WP_Exception](https://developer.wordpress.org/reference/classes/wp_exception/)
-- [block_bindings_source_value](https://developer.wordpress.org/reference/hooks/block_bindings_source_value/)
 <!-- DEVHUB:END -->
 
 ## Themes
