@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [IP routing issues / IP Blocked?](https://make.wordpress.org/systems/2025/01/07/ip-routing-issues-ip-blocked/)
 - [HelpScout forward: polyglots@wordpress.org Can we…](https://make.wordpress.org/systems/2024/11/26/helpscout-forward-polyglotswordpress-org-can-we/)
 - [CORS headers for ps.w.org &amp; ts.w.org](https://make.wordpress.org/systems/2024/10/15/cors-headers-for-ps-w-org-ts-w-org/)
 - [429’s on WordCamp sites](https://make.wordpress.org/systems/2024/10/04/429s-on-wordcamp-sites/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Schema redirect for wp-env.json](https://make.wordpress.org/systems/2024/06/18/schema-redirect-for-wp-env-json/)
 - [Reprovision dd32.dev wporg Sandbox](https://make.wordpress.org/systems/2024/06/10/reprovision-wp-org-sandbox/)
 - [Increase query params length for trac](https://make.wordpress.org/systems/2024/05/31/increase-query-params-length-for-trac/)
-- [Enable CORS for core translation downloads](https://make.wordpress.org/systems/2024/04/10/enable-cors-for-core-translation-downloads/)
 <!-- SYSTEMS:END -->
 
 ## News
