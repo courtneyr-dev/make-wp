@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Query About Rosetta Page Language Guidelines](https://make.wordpress.org/polyglots/2025/01/07/hi-there-11/)
 - [PTE Request for Image Alt Text Plugin](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-image-alt-text-plugin/)
 - [PTE Request for Converter for…](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-converter-for-2/)
 - [PTE Request for [onOffice for WP-Websites]](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-onoffice-for-wp-websites-10/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for SportsPress – Sports Club &amp; League Manager and SportsPress for Football &lpar;Soccer&rpar;](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-sportspress-sports-club-league-manager-and-sportspress-for-football-soccer/)
 - [PTE request for the WS…](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-the-ws/)
 - [PTE Request for Magty Theme &lpar;Gujarati&rpar;](https://make.wordpress.org/polyglots/2025/01/05/pte-request-for-magty-theme-gujarati/)
-- [PTE request for the VS Event List plugin](https://make.wordpress.org/polyglots/2025/01/05/pte-request-for-the-vs-event-list-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
