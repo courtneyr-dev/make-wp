@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Digital Marketing Freelancer](https://jobs.wordpress.net/job/digital-marketing-freelancer/)
+- [Senior WordPress Developer &lpar;3-4 Years Experience&rpar; – Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-3-4-years-experience-remote/)
 - [WordPress Frontend Designer / Full-Stack Developer &lpar;Freelance Contractor Role&rpar;](https://jobs.wordpress.net/job/wordpress-frontend-designer-full-stack-developer-freelance-contractor-role/)
 - [Improve speed &amp; On Site SEO optimization](https://jobs.wordpress.net/job/improve-speed-on-site-seo-optimization/)
 - [Digital Marketing Specialist &amp; Content Writer](https://jobs.wordpress.net/job/digital-marketing-specialist-content-writer/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Animation Addons for Elementor Experts](https://jobs.wordpress.net/job/animation-addons-for-elementor-experts/)
 - [Apply Coupon code in a child product of a bundle product](https://jobs.wordpress.net/job/apply-coupon-code-in-a-child-product-of-a-bundle-product/)
 - [WordPress GSAP Animator Using “Animation Addons for Elementor” Plugin](https://jobs.wordpress.net/job/wordpress-gsap-animator-using-animation-addons-for-elementor-plugin/)
-- [Junior Web Developer](https://jobs.wordpress.net/job/junior-web-developer-7/)
-- [Multiple WordPress Site Management/Improvement Using DreamIt webhoster](https://jobs.wordpress.net/job/multiple-wordpress-site-management-improvement-using-dreamit-webhoster/)
 <!-- JOBS:END -->
 
 ## Central
