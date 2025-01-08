@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for Image…](https://make.wordpress.org/polyglots/2025/01/08/ive-suggested-translations-for-image/)
+- [PTE Request for [SyncPA – Discord Notifier for SureCart]](https://make.wordpress.org/polyglots/2025/01/08/pte-request-for-syncpa-discord-notifier-for-surecart/)
 - [Request for PTE for Chatina AI &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/01/08/request-for-pte-for-chatina-ai-fa_ir/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/01/08/hi-dear-mentors-we-have-158/)
 - [Agenda: Weekly Polyglots Chat – January 8, 2025 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/01/08/agenda-weekly-polyglots-chat-january-8-2025-1300-utc/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for : Email Log](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-email-log/)
 - [PTE Request for GiveWP –…](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-givewp-2/)
 - [PTE Request for WPForms –…](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-wpforms/)
-- [Request for GTE Support for Urdu Locale](https://make.wordpress.org/polyglots/2025/01/07/request-for-gte-support-for-polyglot-2/)
-- [PTE Request for Twenty Twenty-Five Theme](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-twenty-twenty-five-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
