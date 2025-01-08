@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – January 8, 2025 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/01/08/agenda-weekly-polyglots-chat-january-8-2025-1300-utc/)
 - [PTE Request for Post Type…](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-post-type/)
 - [Please add me to this…](https://make.wordpress.org/polyglots/2025/01/07/please-add-me-to-this-3/)
 - [PTE Request for : Email Log](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-email-log/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Twenty Twenty-Five Theme](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-twenty-twenty-five-theme/)
 - [Query About Rosetta Page Language Guidelines](https://make.wordpress.org/polyglots/2025/01/07/hi-there-11/)
 - [PTE Request for Image Alt Text Plugin](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-image-alt-text-plugin/)
-- [PTE Request for Converter for…](https://make.wordpress.org/polyglots/2025/01/06/pte-request-for-converter-for-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
