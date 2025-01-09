@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 7 January 2025](https://make.wordpress.org/core/2025/01/09/performance-chat-summary-07-january-2025/)
 - [Agenda, Dev Chat, Jan 8, 2025](https://make.wordpress.org/core/2025/01/08/agenda-dev-chat-jan-8-2025/)
 - [Reliable Sync Protocol PR: Live Demo &amp; Discussion for Collaborative Editing](https://make.wordpress.org/core/2025/01/07/reliable-sync-protocol-pr-live-demo-discussion-for-collaborative-editing/)
 - [Performance Chat Agenda: 7 January 2025](https://make.wordpress.org/core/2025/01/07/performance-chat-agenda-07-january-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, December 4, 2024](https://make.wordpress.org/core/2024/12/05/summary-dev-chat-december-4-2024/)
 - [Let’s reconsider adopting the WP Consent API](https://make.wordpress.org/core/2024/12/04/lets-reconsider-adopting-the-wp-consent-api/)
 - [What’s new in Gutenberg 19.8? &lpar;04 December&rpar;](https://make.wordpress.org/core/2024/12/04/whats-new-in-gutenberg-19-8-4-december/)
-- [Performance Chat Summary: 3 December 2024](https://make.wordpress.org/core/2024/12/03/performance-chat-summary-03-december-2024/)
 <!-- CORE:END -->
 
 ## Design
