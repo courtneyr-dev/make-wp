@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for : Email Log Plugin](https://make.wordpress.org/polyglots/2025/01/09/pte-request-for-email-log-plugin/)
 - [[teknoger-control] için eklenti yazarıyım. Eklentilerimiz…](https://make.wordpress.org/polyglots/2025/01/08/teknoger-control-icin-eklenti-yazariyim-eklentilerimiz/)
 - [I’ve suggested translations for Image…](https://make.wordpress.org/polyglots/2025/01/08/ive-suggested-translations-for-image/)
 - [PTE Request for [SyncPA – Discord Notifier for SureCart]](https://make.wordpress.org/polyglots/2025/01/08/pte-request-for-syncpa-discord-notifier-for-surecart/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Post Type…](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-post-type/)
 - [Please add me to this…](https://make.wordpress.org/polyglots/2025/01/07/please-add-me-to-this-3/)
 - [PTE Request for : Email Log](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-email-log/)
-- [PTE Request for GiveWP –…](https://make.wordpress.org/polyglots/2025/01/07/pte-request-for-givewp-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
