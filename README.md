@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for January 9 – 2025](https://make.wordpress.org/community/2025/01/09/community-team-meeting-agenda-for-january-9-2025/)
 - [Update on the Community Team Supporters Cohort](https://make.wordpress.org/community/2024/12/24/update-on-the-community-team-supporters-cohort/)
 - [Hosting WordPress Events for Women on International Women’s Day](https://make.wordpress.org/community/2024/12/19/hosting-wordpress-events-for-women-on-international-womens-day/)
 - [Updates to the content of the WordCamp Central Website!](https://make.wordpress.org/community/2024/12/18/updates-to-the-content-of-the-wordcamp-central-website/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcing the 2025 Global Sponsorship Program](https://make.wordpress.org/community/2024/12/11/announcing-the-2025-global-sponsorship-program/)
 - [Meetup Organizer Newsletter: December 2024](https://make.wordpress.org/community/2024/12/06/meetup-organizer-newsletter-december-2024/)
 - [Community Team Meeting Agenda for 5 – December -2024](https://make.wordpress.org/community/2024/12/05/community-team-meeting-agenda-for-5-december-2024/)
-- [Starting – and continuing – a conversation about Indigenous representation and perspectives in WordPress](https://make.wordpress.org/community/2024/11/26/starting-and-continuing-a-conversation-about-indigenous-representation-and-perspectives-in-wordpress/)
 <!-- COMMUNITY:END -->
 
 ## Meta
