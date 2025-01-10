@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [React Frontend Developer with PHP/Laravel Experience &lpar;Remote&rpar;](https://jobs.wordpress.net/job/react-frontend-developer-with-php-laravel-experience-remote/)
+- [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-4/)
+- [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-4/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-855/)
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-102/)
 - [Digital Marketing Freelancer](https://jobs.wordpress.net/job/digital-marketing-freelancer/)
 - [Senior WordPress Developer &lpar;3-4 Years Experience&rpar; – Remote](https://jobs.wordpress.net/job/senior-wordpress-developer-3-4-years-experience-remote/)
 - [WordPress Frontend Designer / Full-Stack Developer &lpar;Freelance Contractor Role&rpar;](https://jobs.wordpress.net/job/wordpress-frontend-designer-full-stack-developer-freelance-contractor-role/)
 - [Improve speed &amp; On Site SEO optimization](https://jobs.wordpress.net/job/improve-speed-on-site-seo-optimization/)
 - [Digital Marketing Specialist &amp; Content Writer](https://jobs.wordpress.net/job/digital-marketing-specialist-content-writer/)
-- [Site Update/Mirgation](https://jobs.wordpress.net/job/site-update-mirgation/)
-- [Arolax Theme Content Setup](https://jobs.wordpress.net/job/arolax-theme-content-setup-2/)
-- [Animation Addons for Elementor Experts](https://jobs.wordpress.net/job/animation-addons-for-elementor-experts/)
-- [Apply Coupon code in a child product of a bundle product](https://jobs.wordpress.net/job/apply-coupon-code-in-a-child-product-of-a-bundle-product/)
-- [WordPress GSAP Animator Using “Animation Addons for Elementor” Plugin](https://jobs.wordpress.net/job/wordpress-gsap-animator-using-animation-addons-for-elementor-plugin/)
 <!-- JOBS:END -->
 
 ## Central
