@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [custom-admin-update][custom-css-inoculate]](https://make.wordpress.org/polyglots/2025/01/10/pte-request-for-custom-admin-updatecustom-css-inoculate/)
+- [Just added translated strings for…](https://make.wordpress.org/polyglots/2025/01/10/just-added-translated-strings-for/)
 - [PTE Request for : Custom Css Inoculate](https://make.wordpress.org/polyglots/2025/01/09/pte-request-for-custom-css-inoculate/)
 - [PTE Request for BFPC Image Cropper](https://make.wordpress.org/polyglots/2025/01/09/pte-request-for-bfpc-image-cropper/)
 - [PTE Request for [Classic Widgets]…](https://make.wordpress.org/polyglots/2025/01/09/pte-request-for-classic-widgets-3/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I’ve suggested translations for Image…](https://make.wordpress.org/polyglots/2025/01/08/ive-suggested-translations-for-image/)
 - [PTE Request for [SyncPA – Discord Notifier for SureCart]](https://make.wordpress.org/polyglots/2025/01/08/pte-request-for-syncpa-discord-notifier-for-surecart/)
 - [Request for PTE for Chatina AI &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/01/08/request-for-pte-for-chatina-ai-fa_ir/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/01/08/hi-dear-mentors-we-have-158/)
-- [Agenda: Weekly Polyglots Chat – January 8, 2025 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/01/08/agenda-weekly-polyglots-chat-january-8-2025-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
