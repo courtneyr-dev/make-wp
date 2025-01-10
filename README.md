@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Create a landing page](https://wordpress.tv/2025/01/09/create-a-landing-page/)
 - [Cómo consumir y procesar datos abiertos de WordPress](https://wordpress.tv/2025/01/08/como-consumir-y-procesar-datos-abiertos-de-wordpress/)
 - [WordCamp Sylhet 2024 Closing Ceremony](https://wordpress.tv/2025/01/04/wordcamp-sylhet-2024-closing-ceremony/)
 - [Panel: The Gig Economy: Opportunities and Challenges](https://wordpress.tv/2025/01/04/panel-the-gig-economy-opportunities-and-challenges/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Analytics for WordPress](https://wordpress.tv/2024/12/25/analytics-for-wordpress/)
 - [Getting the Most Out of WordCamps](https://wordpress.tv/2024/12/25/getting-the-most-out-of-wordcamps/)
 - [The last woman standing, what does it mean to be acquired](https://wordpress.tv/2024/12/24/the-last-woman-standing-what-does-it-mean-to-be-acquired/)
-- [Begin your Podcasting journey with WordPress – Implementation &amp; Monetization](https://wordpress.tv/2024/12/24/begin-your-podcasting-journey-with-wordpress-implementation-monetization/)
 <!-- WPTV:END -->
 
 ## Marketing
