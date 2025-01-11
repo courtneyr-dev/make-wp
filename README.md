@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 20.0? &lpar;10 January&rpar;](https://make.wordpress.org/core/2025/01/11/whats-new-in-gutenberg-20-0-10-january/)
 - [WordPress 6.8: Release Squad, Timeline, and Focus](https://make.wordpress.org/core/2025/01/11/wordpress-6-8-release-squad-timeline-and-focus/)
 - [Summary, Dev Chat, Jan 8, 2025](https://make.wordpress.org/core/2025/01/10/summary-dev-chat-january-8-2025/)
 - [Performance Chat Summary: 7 January 2025](https://make.wordpress.org/core/2025/01/09/performance-chat-summary-07-january-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of the Developer Blog editorial meeting on 5  December 2024](https://make.wordpress.org/core/2024/12/07/developer-blog-editorial-meeting-summary-december-5-2024/)
 - [WordPress 6.7 Release Retrospective](https://make.wordpress.org/core/2024/12/06/wordpress-6-7-release-retrospective/)
 - [Hallway Hangout: Performance End of Year Review 2024](https://make.wordpress.org/core/2024/12/06/hallway-hangout-performance-end-of-year-review-2024/)
-- [Summary, Dev Chat, December 4, 2024](https://make.wordpress.org/core/2024/12/05/summary-dev-chat-december-4-2024/)
 <!-- CORE:END -->
 
 ## Design
