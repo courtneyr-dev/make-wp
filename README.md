@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [comment-emojis-for-wp]](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-comment-emojis-for-wp-2/)
+- [I am the plugin author for Gold-Price](https://make.wordpress.org/polyglots/2025/01/13/i-am-the-plugin-author-for-gold-price/)
+- [PTE Request for Pixobe Coloring Book Plugin](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-pixobe-coloring-book-plugin/)
+- [PTE Request for Jetpack Plugin](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-jetpack-plugin/)
+- [PTE Request for API ISARUD](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-api-isarud/)
+- [PTE Request for KP Zip Downloader](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-kp-zip-downloader/)
 - [PTE Request for Billing Process Engineering for Woo Plugin](https://make.wordpress.org/polyglots/2025/01/11/pte-request-for-woocommerce-plugin-3/)
 - [PTE Request for WooCommerce Plugin](https://make.wordpress.org/polyglots/2025/01/10/pte-request-for-woocommerce-plugin-2/)
 - [PTE Request for [custom-admin-update][custom-css-inoculate]](https://make.wordpress.org/polyglots/2025/01/10/pte-request-for-custom-admin-updatecustom-css-inoculate/)
 - [Just added translated strings for…](https://make.wordpress.org/polyglots/2025/01/10/just-added-translated-strings-for/)
-- [PTE Request for BFPC Image Cropper](https://make.wordpress.org/polyglots/2025/01/09/pte-request-for-bfpc-image-cropper/)
-- [PTE Request for [Classic Widgets]…](https://make.wordpress.org/polyglots/2025/01/09/pte-request-for-classic-widgets-3/)
-- [PTE Request for : Email Log Plugin](https://make.wordpress.org/polyglots/2025/01/09/pte-request-for-email-log-plugin/)
-- [[teknoger-control] için eklenti yazarıyım. Eklentilerimiz…](https://make.wordpress.org/polyglots/2025/01/08/teknoger-control-icin-eklenti-yazariyim-eklentilerimiz/)
-- [I’ve suggested translations for Image…](https://make.wordpress.org/polyglots/2025/01/08/ive-suggested-translations-for-image/)
-- [PTE Request for [SyncPA – Discord Notifier for SureCart]](https://make.wordpress.org/polyglots/2025/01/08/pte-request-for-syncpa-discord-notifier-for-surecart/)
 <!-- POLYGLOTS:END -->
 
 ## Support
