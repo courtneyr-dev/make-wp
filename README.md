@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Analytics im Backend: Website-Daten aus der Datenbank auslesen und Arbeiten automatisieren](https://wordpress.tv/2025/01/14/analytics-im-backend-website-daten-aus-der-datenbank-auslesen-und-arbeiten-automatisieren/)
+- [Refresh, Relaunch, Erfolg: Die Kunst des gelungenen Neustarts](https://wordpress.tv/2025/01/14/refresh-relaunch-erfolg-die-kunst-des-gelungenen-neustarts/)
+- [learn.wordpress.org – Was ist das?](https://wordpress.tv/2025/01/14/learn-wordpress-org-was-ist-das-2/)
 - [WordPress aus der Sicht eines Linux Admins](https://wordpress.tv/2025/01/14/wordpress-aus-der-sicht-eines-linux-admins/)
 - [Create a landing page](https://wordpress.tv/2025/01/09/create-a-landing-page/)
 - [Cómo consumir y procesar datos abiertos de WordPress](https://wordpress.tv/2025/01/08/como-consumir-y-procesar-datos-abiertos-de-wordpress/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Apertura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/apertura-wordcamp-grinon-2024/)
 - [Clausura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/clausura-wordcamp-grinon-2024/)
 - [Cómo reactivar tu Comunidad](https://wordpress.tv/2024/12/30/como-reactivar-tu-comunidad/)
-- [Sometimes It’s Good to Pivot: Navigating Life’s Turning Points](https://wordpress.tv/2024/12/25/sometimes-its-good-to-pivot-navigating-lifes-turning-points/)
-- [Analytics for WordPress](https://wordpress.tv/2024/12/25/analytics-for-wordpress/)
-- [Getting the Most Out of WordCamps](https://wordpress.tv/2024/12/25/getting-the-most-out-of-wordcamps/)
 <!-- WPTV:END -->
 
 ## Marketing
