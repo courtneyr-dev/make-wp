@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Proposal:  Deputy Team Representatives for the WordPress Training Team](https://make.wordpress.org/training/2025/01/14/proposal-deputy-team-representatives-for-the-wordpress-training-team/)
 - [Training Team Meeting Recap – 17 December 2024](https://make.wordpress.org/training/2024/12/23/training-team-meeting-recap-17-december-2024/)
 - [Training Team 2025 Goals Setting](https://make.wordpress.org/training/2024/12/17/training-team-2025-goals-setting/)
 - [Training Team Meeting Recap – 10th December 2024](https://make.wordpress.org/training/2024/12/16/training-team-meeting-recap-10th-december-2024/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Segmenting Learning Pathway courses for better engagement](https://make.wordpress.org/training/2024/12/05/proposal-segmenting-learning-pathway-courses-for-better-engagement/)
 - [Training Team Meeting Recap – 26th November 2024](https://make.wordpress.org/training/2024/12/01/training-team-meeting-recap-26th-november-2024/)
 - [Training Team Meeting Recap – 19th November 2024](https://make.wordpress.org/training/2024/11/24/training-team-meeting-recap-19th-november-2024/)
-- [Contributor Spotlight: Jonathan Bossenger](https://make.wordpress.org/training/2024/11/19/contributor-spotlight-jonathan-bossenger/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
