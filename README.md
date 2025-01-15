@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for DB Edit…](https://make.wordpress.org/polyglots/2025/01/15/pte-request-for-db-edit/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/01/14/hi-dear-mentors-we-have-159/)
 - [PTE Request for Echo Knowledge Base](https://make.wordpress.org/polyglots/2025/01/14/pte-request-for-echo-knowledge-base/)
 - [PTE Request for WooCommerce Plugin](https://make.wordpress.org/polyglots/2025/01/14/pte-request-for-woocommerce-plugin-4/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Jetpack Plugin](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-jetpack-plugin/)
 - [PTE Request for API ISARUD](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-api-isarud/)
 - [PTE Request for KP Zip Downloader](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-kp-zip-downloader/)
-- [PTE Request for Billing Process Engineering for Woo Plugin](https://make.wordpress.org/polyglots/2025/01/11/pte-request-for-woocommerce-plugin-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
