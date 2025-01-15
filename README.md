@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design plans for WordPress 6.8](https://make.wordpress.org/design/2025/01/15/design-plans-for-wordpress-6-8/)
 - [Design Share #70 &lpar;Dec 2-Dec 13&rpar;](https://make.wordpress.org/design/2024/12/17/design-share-70-dec-2-dec-13/)
 - [X-post: Make WordPress gets a refresh](https://make.wordpress.org/design/2024/12/12/xpost-make-wordpress-gets-a-refresh/)
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/design/2024/12/10/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share #67 &lpar;Oct 21-Nov 1&rpar;](https://make.wordpress.org/design/2024/11/01/design-share-67-oct-21-nov-1/)
 - [Feedback: Design System Component Pages](https://make.wordpress.org/design/2024/10/30/feedback-design-system-component-pages/)
 - [Design Share #66 &lpar;Oct 7-Oct18&rpar;](https://make.wordpress.org/design/2024/10/18/design-share-66-oct-7-oct18/)
-- [X-post: Help Test WordPress 6.7](https://make.wordpress.org/design/2024/10/11/xpost-help-test-wordpress-6-7/)
 <!-- DESIGN:END -->
 
 ## Mobile
