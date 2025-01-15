@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-856/)
 - [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-6/)
 - [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-36/)
 - [Clean up existing website for mobile](https://jobs.wordpress.net/job/clean-up-existing-website-for-mobile/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [React Frontend Developer with PHP/Laravel Experience &lpar;Remote&rpar;](https://jobs.wordpress.net/job/react-frontend-developer-with-php-laravel-experience-remote/)
 - [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-4/)
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-4/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-855/)
 <!-- JOBS:END -->
 
 ## Central
