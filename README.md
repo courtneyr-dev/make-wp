@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Themes team update January 15, 2025](https://make.wordpress.org/updates/2025/01/15/themes-team-update-january-15-2025/)
 - [Test Team Update: 13 January 2025](https://make.wordpress.org/updates/2025/01/14/test-team-update-13-january-2025/)
 - [Documentation Team Update – January 13, 2025](https://make.wordpress.org/updates/2025/01/13/documentation-team-update-january-13-2025/)
 - [Themes team update January 7, 2025](https://make.wordpress.org/updates/2025/01/07/themes-team-update-january-7-2025/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Test Team Update: 23 December 2024](https://make.wordpress.org/updates/2024/12/23/test-team-update-23-december-2024/)
 - [Plugin Review Team: 23 December 2024](https://make.wordpress.org/updates/2024/12/23/plugin-review-team-23-december-2024/)
 - [Themes team update December 17, 2024](https://make.wordpress.org/updates/2024/12/17/themes-team-update-december-17-2024/)
-- [X-post: [Update] 2025 Community Team Rep’s Voting ends, Thoughts &amp; farewell from a Rep, and more.](https://make.wordpress.org/updates/2024/12/16/xpost-update-2025-community-team-reps-voting-ends-thoughts-farewell-from-a-rep-and-more/)
 <!-- UPDATES:END -->
 
 ## Project
