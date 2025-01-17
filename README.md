@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Exclude Search](https://make.wordpress.org/polyglots/2025/01/17/pte-request-for-exclude-search/)
 - [PTE Request for SureCart Plugin](https://make.wordpress.org/polyglots/2025/01/17/pte-request-for-surecart-plugin/)
 - [PTE Request for : String locator](https://make.wordpress.org/polyglots/2025/01/16/pte-request-for-string-locator/)
 - [PTE Request for the PDF Invoices &amp; Packing Slips for WooCommerce plugin](https://make.wordpress.org/polyglots/2025/01/15/pte-request-for-the-pdf-invoices-packing-slips-for-woocommerce-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WooCommerce Plugin](https://make.wordpress.org/polyglots/2025/01/14/pte-request-for-woocommerce-plugin-4/)
 - [PTE Request for [comment-emojis-for-wp]](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-comment-emojis-for-wp-2/)
 - [I am the plugin author for Gold-Price](https://make.wordpress.org/polyglots/2025/01/13/i-am-the-plugin-author-for-gold-price/)
-- [PTE Request for Pixobe Coloring Book Plugin](https://make.wordpress.org/polyglots/2025/01/13/pte-request-for-pixobe-coloring-book-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
