@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Content Writer for Shanerhat.com](https://jobs.wordpress.net/job/content-writer-for-shanerhat-com/)
+- [UI/UX Designer for Shanerhat.com](https://jobs.wordpress.net/job/ui-ux-designer-for-shanerhat-com/)
+- [WordPress Maintenance Expert for Shanerhat.com](https://jobs.wordpress.net/job/wordpress-maintenance-expert-for-shanerhat-com/)
+- [Frontend Developer Gutenberg Expertise](https://jobs.wordpress.net/job/frontend-developer-gutenberg-expertise/)
+- [Junior WordPress Developer](https://jobs.wordpress.net/job/junior-wordpress-developer-22/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-856/)
 - [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-6/)
 - [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-36/)
 - [Clean up existing website for mobile](https://jobs.wordpress.net/job/clean-up-existing-website-for-mobile/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-42/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-23/)
-- [Full-Time &lpar;Remote&rpar; WordPress + WooCommerce Developer &lpar;Full Stack&rpar;](https://jobs.wordpress.net/job/full-time-remote-wordpress-woocommerce-developer-full-stack/)
-- [React Frontend Developer with PHP/Laravel Experience &lpar;Remote&rpar;](https://jobs.wordpress.net/job/react-frontend-developer-with-php-laravel-experience-remote/)
-- [[ASTRA] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-4/)
-- [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-4/)
 <!-- JOBS:END -->
 
 ## Central
