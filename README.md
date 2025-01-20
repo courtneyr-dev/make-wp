@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [La estructura de todos nuestros proyectos de plugin a medida](https://wordpress.tv/2025/01/20/la-estructura-de-todos-nuestros-proyectos-de-plugin-a-medida/)
 - [Analytics im Backend: Website-Daten aus der Datenbank auslesen und Arbeiten automatisieren](https://wordpress.tv/2025/01/14/analytics-im-backend-website-daten-aus-der-datenbank-auslesen-und-arbeiten-automatisieren/)
 - [Refresh, Relaunch, Erfolg: Die Kunst des gelungenen Neustarts](https://wordpress.tv/2025/01/14/refresh-relaunch-erfolg-die-kunst-des-gelungenen-neustarts/)
 - [learn.wordpress.org – Was ist das?](https://wordpress.tv/2025/01/14/learn-wordpress-org-was-ist-das-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crafting a Winning Launch Strategy for Your WordPress Product](https://wordpress.tv/2025/01/01/crafting-a-winning-launch-strategy-for-your-wordpress-product/)
 - [Apertura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/apertura-wordcamp-grinon-2024/)
 - [Clausura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/clausura-wordcamp-grinon-2024/)
-- [Cómo reactivar tu Comunidad](https://wordpress.tv/2024/12/30/como-reactivar-tu-comunidad/)
 <!-- WPTV:END -->
 
 ## Marketing
