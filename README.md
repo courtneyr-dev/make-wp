@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for [EventPrime – Events Calendar, Bookings and Tickets]](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-eventprime-events-calendar-bookings-and-tickets/)
 - [PTE Request for Virtuaria Correios…](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-virtuaria-correios/)
 - [PTE Request for ATR Notifier](https://make.wordpress.org/polyglots/2025/01/19/pte-request-for-atr-notifier/)
 - [PTE Request for Under Construction](https://make.wordpress.org/polyglots/2025/01/18/pte-request-for-under-construction/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Preload Images](https://make.wordpress.org/polyglots/2025/01/18/pte-request-for-preload-images/)
 - [PTE Request for Exclude Search](https://make.wordpress.org/polyglots/2025/01/17/pte-request-for-exclude-search/)
 - [PTE Request for SureCart Plugin](https://make.wordpress.org/polyglots/2025/01/17/pte-request-for-surecart-plugin/)
-- [PTE Request for : String locator](https://make.wordpress.org/polyglots/2025/01/16/pte-request-for-string-locator/)
 <!-- POLYGLOTS:END -->
 
 ## Support
