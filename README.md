@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [website builder assistant](https://jobs.wordpress.net/job/website-builder-assistant/)
 - [Content Writer for Shanerhat.com](https://jobs.wordpress.net/job/content-writer-for-shanerhat-com/)
 - [UI/UX Designer for Shanerhat.com](https://jobs.wordpress.net/job/ui-ux-designer-for-shanerhat-com/)
 - [WordPress Maintenance Expert for Shanerhat.com](https://jobs.wordpress.net/job/wordpress-maintenance-expert-for-shanerhat-com/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-6/)
 - [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-36/)
 - [Clean up existing website for mobile](https://jobs.wordpress.net/job/clean-up-existing-website-for-mobile/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-42/)
 <!-- JOBS:END -->
 
 ## Central
