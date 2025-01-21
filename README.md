@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Notifal I’d…](https://make.wordpress.org/polyglots/2025/01/21/pte-request-for-notifal-id/)
 - [PTE Request for WP Hide &amp; Security Enhancer](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-wp-hide-security-enhancer-3/)
 - [PTE Request for [EventPrime – Events Calendar, Bookings and Tickets]](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-eventprime-events-calendar-bookings-and-tickets/)
 - [PTE Request for Virtuaria Correios…](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-virtuaria-correios/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots Team, I have…](https://make.wordpress.org/polyglots/2025/01/18/hello-polyglots-team-i-have/)
 - [PTE Request for Astra Theme](https://make.wordpress.org/polyglots/2025/01/18/pte-request-for-astra-theme-5/)
 - [PTE Request for Preload Images](https://make.wordpress.org/polyglots/2025/01/18/pte-request-for-preload-images/)
-- [PTE Request for Exclude Search](https://make.wordpress.org/polyglots/2025/01/17/pte-request-for-exclude-search/)
 <!-- POLYGLOTS:END -->
 
 ## Support
