@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the author of…](https://make.wordpress.org/polyglots/2025/01/22/i-am-the-author-of-9/)
 - [PTE Request for Notifal I’d…](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-notifal-id-2/)
 - [PTE Request for Extra Product Data for WooCommerce](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-extra-product-data-for-woocommerce/)
 - [Agenda: Weekly Polyglots Chat – January 22, 2025 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/01/22/agenda-weekly-polyglots-chat-january-22-2025-0700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Virtuaria Correios…](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-virtuaria-correios/)
 - [PTE Request for ATR Notifier](https://make.wordpress.org/polyglots/2025/01/19/pte-request-for-atr-notifier/)
 - [PTE Request for Under Construction](https://make.wordpress.org/polyglots/2025/01/18/pte-request-for-under-construction/)
-- [PTE Request for social-integration-for-bluesky](https://make.wordpress.org/polyglots/2025/01/18/pte-request-for-social-integration-for-bluesky/)
 <!-- POLYGLOTS:END -->
 
 ## Support
