@@ -554,6 +554,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [Voces que inspiran: Women´s Day 2025 Latam](https://central.wordcamp.org/wordcamps/voces-que-inspiran-womens-day-latam/)
 - [WordCamp Zaragoza 2025](https://central.wordcamp.org/wordcamps/wordcamp-zaragoza-2025/)
 - [WordCamp Kraków, Poland](https://central.wordcamp.org/wordcamps/wordcamp-krakow-poland/)
 - [WordCamp Johor Bahru](https://central.wordcamp.org/wordcamps/wordcamp-iskandar-puteri-johor-bahru-johor-malaysia/)
@@ -568,7 +569,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Leipzig, Germany](https://central.wordcamp.org/wordcamps/wordcamp-leipzig-germany-2/)
 - [WordCamp Logroño](https://central.wordcamp.org/wordcamps/wordcamp-logrono-la-rioja/)
 - [WordCamp Madrid, Spain](https://central.wordcamp.org/wordcamps/wordcamp-madrid-comunidad-de-madrid-spain/)
-- [WordCamp Port Harcourt](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
