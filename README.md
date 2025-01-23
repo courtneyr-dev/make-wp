@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/01/23/i-am-the-plugin-author-48/)
 - [PTE Request for Trackserver](https://make.wordpress.org/polyglots/2025/01/23/pte-request-for-trackserver/)
 - [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/23/pte-request-for-flectine-theme/)
 - [PTE Request for ANON::form embedded secure form](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-anonform-embedded-secure-form/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – January 22, 2025 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/01/22/agenda-weekly-polyglots-chat-january-22-2025-0700-utc/)
 - [PTE Request for Notifal I’d…](https://make.wordpress.org/polyglots/2025/01/21/pte-request-for-notifal-id/)
 - [PTE Request for WP Hide &amp; Security Enhancer](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-wp-hide-security-enhancer-3/)
-- [PTE Request for [EventPrime – Events Calendar, Bookings and Tickets]](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-eventprime-events-calendar-bookings-and-tickets/)
 <!-- POLYGLOTS:END -->
 
 ## Support
