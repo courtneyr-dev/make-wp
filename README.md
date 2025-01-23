@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Trackserver](https://make.wordpress.org/polyglots/2025/01/23/pte-request-for-trackserver/)
+- [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/23/pte-request-for-flectine-theme/)
 - [PTE Request for ANON::form embedded secure form](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-anonform-embedded-secure-form/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2025/01/22/i-am-the-author-of-9/)
 - [PTE Request for Notifal I’d…](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-notifal-id-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Notifal I’d…](https://make.wordpress.org/polyglots/2025/01/21/pte-request-for-notifal-id/)
 - [PTE Request for WP Hide &amp; Security Enhancer](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-wp-hide-security-enhancer-3/)
 - [PTE Request for [EventPrime – Events Calendar, Bookings and Tickets]](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-eventprime-events-calendar-bookings-and-tickets/)
-- [PTE Request for Virtuaria Correios…](https://make.wordpress.org/polyglots/2025/01/20/pte-request-for-virtuaria-correios/)
-- [PTE Request for ATR Notifier](https://make.wordpress.org/polyglots/2025/01/19/pte-request-for-atr-notifier/)
 <!-- POLYGLOTS:END -->
 
 ## Support
