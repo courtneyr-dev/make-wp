@@ -69,7 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE &amp; Review request for Simple Buddypress Signup Avatar](https://make.wordpress.org/polyglots/2025/01/26/buddypress-signup-avatar-1/)
+- [PTE &amp; Translation request for Simple Buddypress Signup Avatar](https://make.wordpress.org/polyglots/2025/01/26/buddypress-signup-avatar-1/)
 - [I’m Douglas, author of the…](https://make.wordpress.org/polyglots/2025/01/24/im-douglas-author-of-the/)
 - [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/24/pte-request-for-flectine-theme-2/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/01/23/i-am-the-plugin-author-48/)
