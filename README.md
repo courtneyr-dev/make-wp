@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/01/26/i-am-the-plugin-author-49/)
+- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/01/26/hello-polyglots-team-9/)
 - [PTE &amp; Translation request for Simple Buddypress Signup Avatar](https://make.wordpress.org/polyglots/2025/01/26/buddypress-signup-avatar-1/)
 - [I’m Douglas, author of the…](https://make.wordpress.org/polyglots/2025/01/24/im-douglas-author-of-the/)
 - [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/24/pte-request-for-flectine-theme-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/23/pte-request-for-flectine-theme/)
 - [PTE Request for ANON::form embedded secure form](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-anonform-embedded-secure-form/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2025/01/22/i-am-the-author-of-9/)
-- [PTE Request for Notifal I’d…](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-notifal-id-2/)
-- [PTE Request for Extra Product Data for WooCommerce](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-extra-product-data-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
