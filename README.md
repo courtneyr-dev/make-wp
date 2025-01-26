@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Libretto Upgrade](https://jobs.wordpress.net/job/libretto-upgrade/)
+- [Assemble a site](https://jobs.wordpress.net/job/assemble-a-site/)
+- [PM](https://jobs.wordpress.net/job/pm-3/)
 - [website builder assistant](https://jobs.wordpress.net/job/website-builder-assistant/)
 - [Content Writer for Shanerhat.com](https://jobs.wordpress.net/job/content-writer-for-shanerhat-com/)
 - [UI/UX Designer for Shanerhat.com](https://jobs.wordpress.net/job/ui-ux-designer-for-shanerhat-com/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Frontend Developer Gutenberg Expertise](https://jobs.wordpress.net/job/frontend-developer-gutenberg-expertise/)
 - [Junior WordPress Developer](https://jobs.wordpress.net/job/junior-wordpress-developer-22/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-856/)
-- [Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/senior-wordpress-plugin-developer-6/)
-- [PHP &amp; WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-36/)
-- [Clean up existing website for mobile](https://jobs.wordpress.net/job/clean-up-existing-website-for-mobile/)
 <!-- JOBS:END -->
 
 ## Central
