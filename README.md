@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request to be added as…](https://make.wordpress.org/polyglots/2025/01/27/request-to-be-added-as-2/)
+- [Hello Polyglots Team, PTE request…](https://make.wordpress.org/polyglots/2025/01/27/hello-polyglots-team-pte-request/)
 - [Call for Polyglots Team Representatives- 2025](https://make.wordpress.org/polyglots/2025/01/27/call-for-polyglots-team-representatives-2025/)
 - [Hello Polyglots Team, I am…](https://make.wordpress.org/polyglots/2025/01/27/hello-polyglots-team-i-am/)
 - [PTE request for the Plugins…](https://make.wordpress.org/polyglots/2025/01/27/pte-request-for-the-plugins/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for the theme – Astra](https://make.wordpress.org/polyglots/2025/01/27/pte-request-for-the-theme-astra/)
 - [PTE Request for the PDF Invoices &amp; Packing Slips for WooCommerce plugin](https://make.wordpress.org/polyglots/2025/01/27/pte-request-for-the-pdf-invoices-packing-slips-for-woocommerce-plugin-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/01/27/hi-dear-mentors-we-have-160/)
-- [PTE Request for the PDF Invoices &amp; Packing Slips for WooCommerce plugin](https://make.wordpress.org/polyglots/2025/01/27/pte-request-for-the-pdf/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/01/26/i-am-the-plugin-author-49/)
 <!-- POLYGLOTS:END -->
 
 ## Support
