@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for the PDF Invoices &amp; Packing Slips for WooCommerce plugin](https://make.wordpress.org/polyglots/2025/01/27/pte-request-for-the-pdf-invoices-packing-slips-for-woocommerce-plugin-2/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/01/27/hi-dear-mentors-we-have-160/)
+- [PTE Request for the PDF Invoices &amp; Packing Slips for WooCommerce plugin](https://make.wordpress.org/polyglots/2025/01/27/pte-request-for-the-pdf/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/01/26/i-am-the-plugin-author-49/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/01/26/hello-polyglots-team-9/)
 - [PTE &amp; Translation request for Simple Buddypress Signup Avatar](https://make.wordpress.org/polyglots/2025/01/26/buddypress-signup-avatar-1/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/24/pte-request-for-flectine-theme-2/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/01/23/i-am-the-plugin-author-48/)
 - [PTE Request for Trackserver](https://make.wordpress.org/polyglots/2025/01/23/pte-request-for-trackserver/)
-- [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/23/pte-request-for-flectine-theme/)
-- [PTE Request for ANON::form embedded secure form](https://make.wordpress.org/polyglots/2025/01/22/pte-request-for-anonform-embedded-secure-form/)
-- [I am the author of…](https://make.wordpress.org/polyglots/2025/01/22/i-am-the-author-of-9/)
 <!-- POLYGLOTS:END -->
 
 ## Support
