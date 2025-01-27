@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo crear un calendario de contenidos mensual para RRSS en menos de una hora](https://wordpress.tv/2025/01/27/como-crear-un-calendario-de-contenidos-mensual-para-rrss-en-menos-de-una-hora/)
+- [WordCamp Granada 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-granada-2024-aftermovie/)
+- [WordCamp Pontevedra 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-pontevedra-2024-aftermovie/)
 - [WordPress Security Panel discuss at WordCamp Bengaluru 2024](https://wordpress.tv/2025/01/27/wordpress-security-panel-discuss-at-wordcamp-bengaluru-2024/)
 - [Contributor Day: Where Ideas Merge and You Commit to More Than Code](https://wordpress.tv/2025/01/26/contributor-day-where-ideas-merge-and-you-commit-to-more-than-code/)
 - [La estructura de todos nuestros proyectos de plugin a medida](https://wordpress.tv/2025/01/20/la-estructura-de-todos-nuestros-proyectos-de-plugin-a-medida/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A masterclass on organizational decision making](https://wordpress.tv/2025/01/04/a-masterclass-on-organizational-decision-making/)
 - [Unlocking Growth Through Community: A Strategic Approach for WordPress Businesses](https://wordpress.tv/2025/01/01/unlocking-growth-through-community-a-strategic-approach-for-wordpress-businesses/)
 - [Product Management v. Project Management — Synergies, Conflicts, and Coexistence](https://wordpress.tv/2025/01/01/product-management-v-project-management-synergies-conflicts-and-coexistence/)
-- [Making WordPress : Why &amp; How](https://wordpress.tv/2025/01/01/making-wordpress-why-how/)
-- [The Future of Blogging: Is It Still Relevant in 2024 and Beyond?](https://wordpress.tv/2025/01/01/the-future-of-blogging-is-it-still-relevant-in-2024-and-beyond/)
-- [Crafting a Winning Launch Strategy for Your WordPress Product](https://wordpress.tv/2025/01/01/crafting-a-winning-launch-strategy-for-your-wordpress-product/)
 <!-- WPTV:END -->
 
 ## Marketing
