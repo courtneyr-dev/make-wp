@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Security Panel discuss at WordCamp Bengaluru 2024](https://wordpress.tv/2025/01/27/wordpress-security-panel-discuss-at-wordcamp-bengaluru-2024/)
 - [Contributor Day: Where Ideas Merge and You Commit to More Than Code](https://wordpress.tv/2025/01/26/contributor-day-where-ideas-merge-and-you-commit-to-more-than-code/)
 - [La estructura de todos nuestros proyectos de plugin a medida](https://wordpress.tv/2025/01/20/la-estructura-de-todos-nuestros-proyectos-de-plugin-a-medida/)
 - [Analytics im Backend: Website-Daten aus der Datenbank auslesen und Arbeiten automatisieren](https://wordpress.tv/2025/01/14/analytics-im-backend-website-daten-aus-der-datenbank-auslesen-und-arbeiten-automatisieren/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Making WordPress : Why &amp; How](https://wordpress.tv/2025/01/01/making-wordpress-why-how/)
 - [The Future of Blogging: Is It Still Relevant in 2024 and Beyond?](https://wordpress.tv/2025/01/01/the-future-of-blogging-is-it-still-relevant-in-2024-and-beyond/)
 - [Crafting a Winning Launch Strategy for Your WordPress Product](https://wordpress.tv/2025/01/01/crafting-a-winning-launch-strategy-for-your-wordpress-product/)
-- [Apertura WordCamp Griñón 2024](https://wordpress.tv/2024/12/31/apertura-wordcamp-grinon-2024/)
 <!-- WPTV:END -->
 
 ## Marketing
