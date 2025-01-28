@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Review Request for picu &lpar;Hungarian&rpar;](https://make.wordpress.org/polyglots/2025/01/28/hey-hungarian-team/)
 - [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/28/pte-request-for-flectine-theme-3/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2025/01/28/i-am-the-author-of-10/)
 - [PTE Request for SoftAlt Theme](https://make.wordpress.org/polyglots/2025/01/28/pte-request-for-softalt-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots Team, I am…](https://make.wordpress.org/polyglots/2025/01/27/hello-polyglots-team-i-am/)
 - [PTE request for the Plugins…](https://make.wordpress.org/polyglots/2025/01/27/pte-request-for-the-plugins/)
 - [PTE Request for Protect my infos](https://make.wordpress.org/polyglots/2025/01/27/pte-request-for-protect-my-infos/)
-- [We are the developers of…](https://make.wordpress.org/polyglots/2025/01/27/we-are-the-developers-of/)
 <!-- POLYGLOTS:END -->
 
 ## Support
