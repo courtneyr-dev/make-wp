@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [E-commerce Specialist for Shanerhat](https://jobs.wordpress.net/job/e-commerce-specialist-for-shanerhat/)
 - [Digital Marketing Specialist to Promote Shanerhat](https://jobs.wordpress.net/job/digital-marketing-specialist-to-promote-shanerhat-com/)
 - [WordPress SEO Specialist for Shanerhat](https://jobs.wordpress.net/job/wordpress-seo-specialist-for-shanerhat/)
 - [Associate Marketing Manager Partners GTM WordPress](https://jobs.wordpress.net/job/associate-marketing-manager-partners-gtm-wordpress/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Libretto Upgrade](https://jobs.wordpress.net/job/libretto-upgrade/)
 - [Assemble a site](https://jobs.wordpress.net/job/assemble-a-site/)
 - [PM](https://jobs.wordpress.net/job/pm-3/)
-- [website builder assistant](https://jobs.wordpress.net/job/website-builder-assistant/)
 <!-- JOBS:END -->
 
 ## Central
