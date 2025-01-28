@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Associate Marketing Manager Partners GTM WordPress](https://jobs.wordpress.net/job/associate-marketing-manager-partners-gtm-wordpress/)
 - [Creative WordPress Designer for Shanerhat](https://jobs.wordpress.net/job/creative-wordpress-designer-for-shanerhat/)
 - [Experienced WordPress Developer Needed for Shanerhat](https://jobs.wordpress.net/job/experienced-wordpress-developer-needed-for-shanerhat/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-103/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [website builder assistant](https://jobs.wordpress.net/job/website-builder-assistant/)
 - [Content Writer for Shanerhat.com](https://jobs.wordpress.net/job/content-writer-for-shanerhat-com/)
 - [UI/UX Designer for Shanerhat.com](https://jobs.wordpress.net/job/ui-ux-designer-for-shanerhat-com/)
-- [WordPress Maintenance Expert for Shanerhat.com](https://jobs.wordpress.net/job/wordpress-maintenance-expert-for-shanerhat-com/)
 <!-- JOBS:END -->
 
 ## Central
