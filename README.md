@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for January 28, 2025](https://make.wordpress.org/themes/2025/01/28/themes-team-meeting-agenda-for-january-28-2025/)
 - [Introducing new Themes Team representatives for the 2025](https://make.wordpress.org/themes/2025/01/06/introducing-new-themes-team-representatives-for-the-2025/)
 - [A Year in Themes Team – 2024](https://make.wordpress.org/themes/2024/12/30/a-year-in-themes-team-2024/)
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/themes/2024/11/18/xpost-hello-wordpress-community-lets-chat/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting agenda for October 22, 2024](https://make.wordpress.org/themes/2024/10/21/themes-team-meeting-agenda-for-october-22-2024/)
 - [Themes team meeting notes for October 08, 2024](https://make.wordpress.org/themes/2024/10/09/themes-team-meeting-notes-for-october-08-2024/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/themes/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
-- [Themes team meeting agenda for October 08, 2024](https://make.wordpress.org/themes/2024/10/07/themes-team-meeting-agenda-for-october-08-2024/)
 <!-- THEMES:END -->
 
 ## Plugins
