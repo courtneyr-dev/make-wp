@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Aprende a auditar WordPress para mejorar el rendimiento](https://wordpress.tv/2025/01/29/aprende-a-auditar-wordpress-para-mejorar-el-rendimiento-joan-vega/)
 - [Cómo crear un calendario de contenidos mensual para RRSS en menos de una hora](https://wordpress.tv/2025/01/27/como-crear-un-calendario-de-contenidos-mensual-para-rrss-en-menos-de-una-hora/)
 - [WordCamp Granada 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-granada-2024-aftermovie/)
 - [WordCamp Pontevedra 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-pontevedra-2024-aftermovie/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Theme Development: Theme.json in practical](https://wordpress.tv/2025/01/04/block-theme-development-theme-json-in-practical/)
 - [A masterclass on organizational decision making](https://wordpress.tv/2025/01/04/a-masterclass-on-organizational-decision-making/)
 - [Unlocking Growth Through Community: A Strategic Approach for WordPress Businesses](https://wordpress.tv/2025/01/01/unlocking-growth-through-community-a-strategic-approach-for-wordpress-businesses/)
-- [Product Management v. Project Management — Synergies, Conflicts, and Coexistence](https://wordpress.tv/2025/01/01/product-management-v-project-management-synergies-conflicts-and-coexistence/)
 <!-- WPTV:END -->
 
 ## Marketing
