@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[ASTRA] Vue.js Developer](https://jobs.wordpress.net/job/astra-vue-js-developer/)
+- [[ASTRA] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-4/)
 - [E-commerce Specialist for Shanerhat](https://jobs.wordpress.net/job/e-commerce-specialist-for-shanerhat/)
 - [Digital Marketing Specialist to Promote Shanerhat](https://jobs.wordpress.net/job/digital-marketing-specialist-to-promote-shanerhat-com/)
 - [WordPress SEO Specialist for Shanerhat](https://jobs.wordpress.net/job/wordpress-seo-specialist-for-shanerhat/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Experienced WordPress Developer Needed for Shanerhat](https://jobs.wordpress.net/job/experienced-wordpress-developer-needed-for-shanerhat/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-103/)
 - [Libretto Upgrade](https://jobs.wordpress.net/job/libretto-upgrade/)
-- [Assemble a site](https://jobs.wordpress.net/job/assemble-a-site/)
-- [PM](https://jobs.wordpress.net/job/pm-3/)
 <!-- JOBS:END -->
 
 ## Central
