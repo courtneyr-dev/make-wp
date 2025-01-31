@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Translation Download Counter – Russian](https://make.wordpress.org/polyglots/2025/01/31/translation-download-counter-russian/)
+- [PTE Request for ILACHAT](https://make.wordpress.org/polyglots/2025/01/31/pte-request-for-ilachat/)
+- [PTE Request or posten-bring-checkout I…](https://make.wordpress.org/polyglots/2025/01/31/pte-request-or-posten-bring-checkout-i/)
 - [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2025/01/31/hello-i-am-the-plugin-10/)
 - [PTE Request for Comment Reply Email Notification](https://make.wordpress.org/polyglots/2025/01/30/pte-request-for-comment-reply-email-notification/)
 - [PTE Request for SoftAlt Theme](https://make.wordpress.org/polyglots/2025/01/30/pte-request-for-softalt-theme-2/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Translation request de_DE, es_ES](https://make.wordpress.org/polyglots/2025/01/29/hi-all-6/)
 - [PTE Request for CDEKDelivery](https://make.wordpress.org/polyglots/2025/01/29/pte-request-for-cdekdelivery-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/01/29/hi-dear-mentors-we-have-161/)
-- [Review Request for picu &lpar;Hungarian&rpar;](https://make.wordpress.org/polyglots/2025/01/28/hey-hungarian-team/)
-- [PTE Request for Flectine Theme](https://make.wordpress.org/polyglots/2025/01/28/pte-request-for-flectine-theme-3/)
-- [I am the author of…](https://make.wordpress.org/polyglots/2025/01/28/i-am-the-author-of-10/)
 <!-- POLYGLOTS:END -->
 
 ## Support
