@@ -352,6 +352,18 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Marketing de guerrilla para cuando estás empezando &lpar;y no tienes ni un duro&rpar;](https://wordpress.tv/2025/01/31/marketing-de-guerrilla-para-cuando-estas-empezando-y-no-tienes-ni-un-duro/)
+- [Non chega con aparecer en Google. Hai que dominalo. Aprende como facelo en 2025!](https://wordpress.tv/2025/01/31/non-chega-con-aparecer-en-google-hai-que-dominalo-aprende-como-facelo-en-2025/)
+- [The Future of WordPress](https://wordpress.tv/2025/01/31/the-future-of-wordpress-2/)
+- [How to Change Your Manual Testing Time into Chiya Drinking Time](https://wordpress.tv/2025/01/31/how-to-change-your-manual-testing-time-into-chiya-drinking-time/)
+- [Surviving Entrepreneurship, Technology and Life…](https://wordpress.tv/2025/01/31/surviving-entrepreneurship-technology-and-life/)
+- [AWS Well-Architected: Crafting Your WordPress Fairy Tale](https://wordpress.tv/2025/01/31/aws-well-architected-crafting-your-wordpress-fairy-tale/)
+- [Youth Entrepreneurship: My Startup Journey in Nepal](https://wordpress.tv/2025/01/31/youth-entrepreneurship-my-startup-journey-in-nepal/)
+- [Decode Emotions : The Power of Emotional Intelligence for Tech Leaders](https://wordpress.tv/2025/01/31/decode-emotions-the-power-of-emotional-intelligence-for-tech-leaders/)
+- [Prospects and Challenges of Digital Marketing in the Tourism Sector](https://wordpress.tv/2025/01/31/prospects-and-challenges-of-digital-marketing-in-the-tourism-sector/)
+- [Elevating WordPress with AI: Development, Support and Content Generation](https://wordpress.tv/2025/01/31/elevating-wordpress-with-ai-development-support-and-content-generation/)
+- [Gender of Code](https://wordpress.tv/2025/01/31/gender-of-code/)
+- [Advanced WordPress Developer Overlooked Mistakes](https://wordpress.tv/2025/01/31/advanced-wordpress-developer-overlooked-mistakes/)
 - [Aprende a auditar WordPress para mejorar el rendimiento](https://wordpress.tv/2025/01/29/aprende-a-auditar-wordpress-para-mejorar-el-rendimiento-joan-vega/)
 - [Cómo crear un calendario de contenidos mensual para RRSS en menos de una hora](https://wordpress.tv/2025/01/27/como-crear-un-calendario-de-contenidos-mensual-para-rrss-en-menos-de-una-hora/)
 - [WordCamp Granada 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-granada-2024-aftermovie/)
@@ -365,18 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress aus der Sicht eines Linux Admins](https://wordpress.tv/2025/01/14/wordpress-aus-der-sicht-eines-linux-admins/)
 - [Create a landing page](https://wordpress.tv/2025/01/09/create-a-landing-page/)
 - [Cómo consumir y procesar datos abiertos de WordPress](https://wordpress.tv/2025/01/08/como-consumir-y-procesar-datos-abiertos-de-wordpress/)
-- [WordCamp Sylhet 2024 Closing Ceremony](https://wordpress.tv/2025/01/04/wordcamp-sylhet-2024-closing-ceremony/)
-- [Panel: The Gig Economy: Opportunities and Challenges](https://wordpress.tv/2025/01/04/panel-the-gig-economy-opportunities-and-challenges/)
-- [Breaking Ground: A Fresh Perspective on WordPress with React](https://wordpress.tv/2025/01/04/breaking-ground-a-fresh-perspective-on-wordpress-with-react/)
-- [Data-Driven Redesigns: The EDIT UX Framework in Action](https://wordpress.tv/2025/01/04/data-driven-redesigns-the-edit-ux-framework-in-action/)
-- [How to Choose a Tech Career &amp; Finding top talent in a candidate](https://wordpress.tv/2025/01/04/how-to-choose-a-tech-career-finding-top-talent-in-a-candidate/)
-- [Panel: Importance of human-centered design](https://wordpress.tv/2025/01/04/panel-importance-of-human-centered-design/)
-- [Panel: Diversity, Equity, Inclusivity &amp; Belonging in Bangladesh while contributing to WordPress](https://wordpress.tv/2025/01/04/panel-diversity-equity-inclusivity-belonging-in-bangladesh-while-contributing-to-wordpress/)
-- [High Performance MySQL](https://wordpress.tv/2025/01/04/high-performance-mysql/)
-- [AI-Powered Support: Turning AI into Your Secret Weapon for Customer Happiness](https://wordpress.tv/2025/01/04/ai-powered-support-turning-ai-into-your-secret-weapon-for-customer-happiness/)
-- [Block Theme Development: Theme.json in practical](https://wordpress.tv/2025/01/04/block-theme-development-theme-json-in-practical/)
-- [A masterclass on organizational decision making](https://wordpress.tv/2025/01/04/a-masterclass-on-organizational-decision-making/)
-- [Unlocking Growth Through Community: A Strategic Approach for WordPress Businesses](https://wordpress.tv/2025/01/01/unlocking-growth-through-community-a-strategic-approach-for-wordpress-businesses/)
 <!-- WPTV:END -->
 
 ## Marketing
