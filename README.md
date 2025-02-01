@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Este Nadal envía algo que ninguén espera… e feito con WordPress!](https://wordpress.tv/2025/01/31/este-nadal-envia-algo-que-ninguen-espera-e-feito-con-wordpress/)
 - [Marketing de guerrilla para cuando estás empezando &lpar;y no tienes ni un duro&rpar;](https://wordpress.tv/2025/01/31/marketing-de-guerrilla-para-cuando-estas-empezando-y-no-tienes-ni-un-duro/)
 - [Non chega con aparecer en Google. Hai que dominalo. Aprende como facelo en 2025!](https://wordpress.tv/2025/01/31/non-chega-con-aparecer-en-google-hai-que-dominalo-aprende-como-facelo-en-2025/)
 - [The Future of WordPress](https://wordpress.tv/2025/01/31/the-future-of-wordpress-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [learn.wordpress.org – Was ist das?](https://wordpress.tv/2025/01/14/learn-wordpress-org-was-ist-das-2/)
 - [WordPress aus der Sicht eines Linux Admins](https://wordpress.tv/2025/01/14/wordpress-aus-der-sicht-eines-linux-admins/)
 - [Create a landing page](https://wordpress.tv/2025/01/09/create-a-landing-page/)
-- [Cómo consumir y procesar datos abiertos de WordPress](https://wordpress.tv/2025/01/08/como-consumir-y-procesar-datos-abiertos-de-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
