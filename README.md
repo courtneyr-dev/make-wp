@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [La señora de los plugins: la comunidad de WordPress](https://wordpress.tv/2025/02/04/la-senora-de-los-plugins-la-comunidad-de-wordpress/)
 - [Este Nadal envía algo que ninguén espera… e feito con WordPress!](https://wordpress.tv/2025/01/31/este-nadal-envia-algo-que-ninguen-espera-e-feito-con-wordpress/)
 - [Marketing de guerrilla para cuando estás empezando &lpar;y no tienes ni un duro&rpar;](https://wordpress.tv/2025/01/31/marketing-de-guerrilla-para-cuando-estas-empezando-y-no-tienes-ni-un-duro/)
 - [Non chega con aparecer en Google. Hai que dominalo. Aprende como facelo en 2025!](https://wordpress.tv/2025/01/31/non-chega-con-aparecer-en-google-hai-que-dominalo-aprende-como-facelo-en-2025/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Refresh, Relaunch, Erfolg: Die Kunst des gelungenen Neustarts](https://wordpress.tv/2025/01/14/refresh-relaunch-erfolg-die-kunst-des-gelungenen-neustarts/)
 - [learn.wordpress.org – Was ist das?](https://wordpress.tv/2025/01/14/learn-wordpress-org-was-ist-das-2/)
 - [WordPress aus der Sicht eines Linux Admins](https://wordpress.tv/2025/01/14/wordpress-aus-der-sicht-eines-linux-admins/)
-- [Create a landing page](https://wordpress.tv/2025/01/09/create-a-landing-page/)
 <!-- WPTV:END -->
 
 ## Marketing
