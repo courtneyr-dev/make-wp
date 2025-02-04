@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WP Online Active Users](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-wp-online-active-users/)
 - [PTE Request for Weblix](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-weblix/)
 - [PTE Request for COMMENTXPERT](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-commentxpert/)
 - [Hi! Being Italian I would…](https://make.wordpress.org/polyglots/2025/02/04/hi-being-italian-i-would/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for picu](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-picu-8/)
 - [Translation Download Counter – Russian](https://make.wordpress.org/polyglots/2025/01/31/translation-download-counter-russian/)
 - [PTE Request for ILACHAT](https://make.wordpress.org/polyglots/2025/01/31/pte-request-for-ilachat/)
-- [PTE Request or posten-bring-checkout I…](https://make.wordpress.org/polyglots/2025/01/31/pte-request-or-posten-bring-checkout-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
