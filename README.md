@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Need  WordPress Developer](https://jobs.wordpress.net/job/need-wordpress-developer-4/)
+- [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-9/)
+- [[Astra] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-5/)
 - [[ASTRA] Vue.js Developer](https://jobs.wordpress.net/job/astra-vue-js-developer/)
 - [[ASTRA] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-4/)
 - [E-commerce Specialist for Shanerhat](https://jobs.wordpress.net/job/e-commerce-specialist-for-shanerhat/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress SEO Specialist for Shanerhat](https://jobs.wordpress.net/job/wordpress-seo-specialist-for-shanerhat/)
 - [Associate Marketing Manager Partners GTM WordPress](https://jobs.wordpress.net/job/associate-marketing-manager-partners-gtm-wordpress/)
 - [Creative WordPress Designer for Shanerhat](https://jobs.wordpress.net/job/creative-wordpress-designer-for-shanerhat/)
-- [Experienced WordPress Developer Needed for Shanerhat](https://jobs.wordpress.net/job/experienced-wordpress-developer-needed-for-shanerhat/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-103/)
-- [Libretto Upgrade](https://jobs.wordpress.net/job/libretto-upgrade/)
 <!-- JOBS:END -->
 
 ## Central
