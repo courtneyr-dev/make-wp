@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for COMMENTXPERT](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-commentxpert/)
+- [Hi! Being Italian I would…](https://make.wordpress.org/polyglots/2025/02/04/hi-being-italian-i-would/)
+- [PTE Request for POWER CAPTCHA](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-power-captcha/)
+- [Title: PTE Request for CUB-CF7DB Plugin](https://make.wordpress.org/polyglots/2025/02/04/title-pte-request-for-cub-cf7db-plugin/)
+- [Ik heb hier en daar…](https://make.wordpress.org/polyglots/2025/02/04/ik-heb-hier-en-daar/)
+- [PTE Request for picu](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-picu-8/)
 - [Translation Download Counter – Russian](https://make.wordpress.org/polyglots/2025/01/31/translation-download-counter-russian/)
 - [PTE Request for ILACHAT](https://make.wordpress.org/polyglots/2025/01/31/pte-request-for-ilachat/)
 - [PTE Request or posten-bring-checkout I…](https://make.wordpress.org/polyglots/2025/01/31/pte-request-or-posten-bring-checkout-i/)
 - [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2025/01/31/hello-i-am-the-plugin-10/)
-- [PTE Request for Comment Reply Email Notification](https://make.wordpress.org/polyglots/2025/01/30/pte-request-for-comment-reply-email-notification/)
-- [PTE Request for SoftAlt Theme](https://make.wordpress.org/polyglots/2025/01/30/pte-request-for-softalt-theme-2/)
-- [PTE request for the Yoast SEO](https://make.wordpress.org/polyglots/2025/01/29/pte-request-for-the-yoast-seo/)
-- [Translation request de_DE, es_ES](https://make.wordpress.org/polyglots/2025/01/29/hi-all-6/)
-- [PTE Request for CDEKDelivery](https://make.wordpress.org/polyglots/2025/01/29/pte-request-for-cdekdelivery-2/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/01/29/hi-dear-mentors-we-have-161/)
 <!-- POLYGLOTS:END -->
 
 ## Support
