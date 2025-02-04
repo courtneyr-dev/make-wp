@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Weblix](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-weblix/)
 - [PTE Request for COMMENTXPERT](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-commentxpert/)
 - [Hi! Being Italian I would…](https://make.wordpress.org/polyglots/2025/02/04/hi-being-italian-i-would/)
 - [PTE Request for POWER CAPTCHA](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-power-captcha/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Translation Download Counter – Russian](https://make.wordpress.org/polyglots/2025/01/31/translation-download-counter-russian/)
 - [PTE Request for ILACHAT](https://make.wordpress.org/polyglots/2025/01/31/pte-request-for-ilachat/)
 - [PTE Request or posten-bring-checkout I…](https://make.wordpress.org/polyglots/2025/01/31/pte-request-or-posten-bring-checkout-i/)
-- [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2025/01/31/hello-i-am-the-plugin-10/)
 <!-- POLYGLOTS:END -->
 
 ## Support
