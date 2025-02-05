@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – February 5, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/02/05/agenda-weekly-polyglots-chat-february-5-2025-700-utc/)
 - [PTE Request for WP Online Active Users](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-wp-online-active-users/)
 - [PTE Request for Weblix](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-weblix/)
 - [PTE Request for COMMENTXPERT](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-commentxpert/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ik heb hier en daar…](https://make.wordpress.org/polyglots/2025/02/04/ik-heb-hier-en-daar/)
 - [PTE Request for picu](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-picu-8/)
 - [Translation Download Counter – Russian](https://make.wordpress.org/polyglots/2025/01/31/translation-download-counter-russian/)
-- [PTE Request for ILACHAT](https://make.wordpress.org/polyglots/2025/01/31/pte-request-for-ilachat/)
 <!-- POLYGLOTS:END -->
 
 ## Support
