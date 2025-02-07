@@ -527,10 +527,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Rockstar &amp; Online Marketing Expert](https://jobs.wordpress.net/job/wordpress-rockstar-online-marketing-expert/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-104/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-857/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-24/)
 - [Content Writer](https://jobs.wordpress.net/job/content-writer-20/)
 - [Need  WordPress Developer](https://jobs.wordpress.net/job/need-wordpress-developer-4/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-9/)
+- [[Astra] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-5/)
 <!-- JOBS:END -->
 
 ## Central
