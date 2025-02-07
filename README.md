@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-11/)
 - [Senior PHP Developer &lpar;WordPress &amp; Laravel&rpar;](https://jobs.wordpress.net/job/senior-php-developer-wordpress-laravel/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-858/)
 - [WordPress Rockstar &amp; Online Marketing Expert](https://jobs.wordpress.net/job/wordpress-rockstar-online-marketing-expert/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Content Writer](https://jobs.wordpress.net/job/content-writer-20/)
 - [Need  WordPress Developer](https://jobs.wordpress.net/job/need-wordpress-developer-4/)
 - [CampusPress Site Specialist &lpar;WordPress, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-php-mysql-html-css-9/)
-- [[Astra] Product Manager](https://jobs.wordpress.net/job/astra-product-manager-5/)
 <!-- JOBS:END -->
 
 ## Central
