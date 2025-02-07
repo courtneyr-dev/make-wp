@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for TZM Section Block](https://make.wordpress.org/polyglots/2025/02/07/pte-request-for-tzm-section-block/)
 - [Request for PTE role for BackWPup &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/02/07/request-for-pte-role-for-backwpup-fa_ir-2/)
 - [PTE Request for Britely Theme](https://make.wordpress.org/polyglots/2025/02/07/pte-request-for-britely-theme-2/)
 - [PTE Request for Scanpay for WooCommerce](https://make.wordpress.org/polyglots/2025/02/06/pte-request-for-scanpay-for-woocommerce/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WP Online Active Users](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-wp-online-active-users/)
 - [PTE Request for Weblix](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-weblix/)
 - [PTE Request for COMMENTXPERT](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-commentxpert/)
-- [Hi! Being Italian I would…](https://make.wordpress.org/polyglots/2025/02/04/hi-being-italian-i-would/)
 <!-- POLYGLOTS:END -->
 
 ## Support
