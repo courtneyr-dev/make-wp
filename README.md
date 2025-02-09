@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/09/hi-dear-mentors-we-have-163/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/09/hi-dear-mentors-we-have-162/)
 - [Hello folks,](https://make.wordpress.org/polyglots/2025/02/07/hello-folks/)
 - [PTE Request for TZM Section Block](https://make.wordpress.org/polyglots/2025/02/07/pte-request-for-tzm-section-block/)
 - [Request for PTE role for BackWPup &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/02/07/request-for-pte-role-for-backwpup-fa_ir-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Britely Theme](https://make.wordpress.org/polyglots/2025/02/06/pte-request-for-britely-theme/)
 - [PTE Request for Smart Post Block](https://make.wordpress.org/polyglots/2025/02/05/pte-request-for-smart-post-block/)
 - [Agenda: Weekly Polyglots Chat – February 5, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/02/05/agenda-weekly-polyglots-chat-february-5-2025-700-utc/)
-- [PTE Request for WP Online Active Users](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-wp-online-active-users/)
-- [PTE Request for Weblix](https://make.wordpress.org/polyglots/2025/02/04/pte-request-for-weblix/)
 <!-- POLYGLOTS:END -->
 
 ## Support
