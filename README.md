@@ -70,7 +70,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Polyglots
 <!-- POLYGLOTS:START -->
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/02/09/pte-request-for-following-themes-5/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/09/hi-dear-mentors-we-have-163/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/09/hi-dear-mentors-we-have-162/)
 - [Hello folks,](https://make.wordpress.org/polyglots/2025/02/07/hello-folks/)
 - [PTE Request for TZM Section Block](https://make.wordpress.org/polyglots/2025/02/07/pte-request-for-tzm-section-block/)
@@ -79,6 +78,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Scanpay for WooCommerce](https://make.wordpress.org/polyglots/2025/02/06/pte-request-for-scanpay-for-woocommerce/)
 - [PTE Request for Britely Theme](https://make.wordpress.org/polyglots/2025/02/06/pte-request-for-britely-theme/)
 - [PTE Request for Smart Post Block](https://make.wordpress.org/polyglots/2025/02/05/pte-request-for-smart-post-block/)
+- [Agenda: Weekly Polyglots Chat – February 5, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/02/05/agenda-weekly-polyglots-chat-february-5-2025-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
