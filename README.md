@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Meeting Recap – 4th February 2025](https://make.wordpress.org/training/2025/02/10/training-team-meeting-recap-4th-february-2025/)
 - [Training Team Meeting Recap – 28th January 2025](https://make.wordpress.org/training/2025/02/03/training-team-meeting-recap-28th-january-2025/)
 - [Training Team Meeting Recap – 21st January 2025](https://make.wordpress.org/training/2025/01/28/training-team-meeting-recap-21st-january-2025/)
 - [Training Team Goals for 2025](https://make.wordpress.org/training/2025/01/27/training-team-goals-for-2025/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team 2025 Goals Setting](https://make.wordpress.org/training/2024/12/17/training-team-2025-goals-setting/)
 - [Training Team Meeting Recap – 10th December 2024](https://make.wordpress.org/training/2024/12/16/training-team-meeting-recap-10th-december-2024/)
 - [Thumbnails for Learn – Help us make the final 70](https://make.wordpress.org/training/2024/12/11/thumbnails-for-learn-help-us-make-the-final-70/)
-- [Brainstorm &amp; Table Lead – WordCamp Asia 2025 Contributor Day](https://make.wordpress.org/training/2024/12/10/brainstorm-table-lead-wordcamp-asia-2025-contributor-day/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
