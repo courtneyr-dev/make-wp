@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for February 11, 2025](https://make.wordpress.org/themes/2025/02/10/themes-team-meeting-agenda-for-february-11-2025/)
 - [Themes team meeting notes for January 28, 2025](https://make.wordpress.org/themes/2025/01/30/themes-team-meeting-notes-for-january-28-2025/)
 - [Themes team meeting agenda for January 28, 2025](https://make.wordpress.org/themes/2025/01/28/themes-team-meeting-agenda-for-january-28-2025/)
 - [Introducing new Themes Team representatives for the 2025](https://make.wordpress.org/themes/2025/01/06/introducing-new-themes-team-representatives-for-the-2025/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Celebrating 1,000 Block Themes in the themes repository!](https://make.wordpress.org/themes/2024/10/23/celebrating-1000-block-themes-in-the-themes-repository/)
 - [Themes team meeting notes for October 22, 2024](https://make.wordpress.org/themes/2024/10/23/themes-team-meeting-notes-for-october-22-2024/)
 - [Themes team meeting agenda for October 22, 2024](https://make.wordpress.org/themes/2024/10/21/themes-team-meeting-agenda-for-october-22-2024/)
-- [Themes team meeting notes for October 08, 2024](https://make.wordpress.org/themes/2024/10/09/themes-team-meeting-notes-for-october-08-2024/)
 <!-- THEMES:END -->
 
 ## Plugins
