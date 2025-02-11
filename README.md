@@ -554,11 +554,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [Women WordPress Day 2025 Ajmer, India](https://central.wordcamp.org/wordcamps/ajmer-india-women-wp-2025/)
 - [Voces que inspiran: Women´s Day 2025 Latam](https://central.wordcamp.org/wordcamps/voces-que-inspiran-womens-day-latam/)
+- [EmpowerWP Bhopal 2025](https://central.wordcamp.org/wordcamps/empowerwp-bhopal/)
 - [WordCamp Mukono, Uganda](https://central.wordcamp.org/wordcamps/wordcamp-mukono-uganda/)
 - [WordCamp Zaragoza 2025](https://central.wordcamp.org/wordcamps/wordcamp-zaragoza-2025/)
 - [WordCamp Vienna 2025](https://central.wordcamp.org/wordcamps/wordcamp-vienna-2025/)
-- [WordCamp Kraków, Poland](https://central.wordcamp.org/wordcamps/wordcamp-krakow-poland/)
 - [WordCamp Canada 2025](https://central.wordcamp.org/wordcamps/wordcamp-canada-2025/)
 - [Women WordPress Day 2025, San José, Costa Rica](https://central.wordcamp.org/wordcamps/women-wordpress-day-2025-san-jose-costa-rica/)
 - [WordCamp Johor Bahru](https://central.wordcamp.org/wordcamps/wordcamp-iskandar-puteri-johor-bahru-johor-malaysia/)
@@ -567,7 +568,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Verona](https://central.wordcamp.org/wordcamps/wordcamp-verona-2025/)
 - [WordCamp Lisboa, Portugal](https://central.wordcamp.org/wordcamps/wordcamp-lisboa-2025/)
 - [WordPress Developer Day San José](https://central.wordcamp.org/wordcamps/san-jose/)
-- [WordCamp Lithuania](https://central.wordcamp.org/wordcamps/wordcamp-lithuania-2025/)
 - [WordCamp Kansai, JAPAN](https://central.wordcamp.org/wordcamps/wordcamp-kansai-japan/)
 <!-- WordCamp:END -->
 
