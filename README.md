@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress plugin customization](https://jobs.wordpress.net/job/wordpress-plugin-customization-5/)
+- [WordPress Devellopers](https://jobs.wordpress.net/job/wordpress-devellopers/)
+- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-4/)
+- [Interactive Curriculum Builder Development](https://jobs.wordpress.net/job/interactive-curriculum-builder-development/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-25/)
 - [Online Marketing Expert with WordPress Knowledge](https://jobs.wordpress.net/job/online-marketing-expert-with-wordpress-knowledge/)
 - [Social Media Promotion Specialist with WordPress Knowledge](https://jobs.wordpress.net/job/social-media-promotion-specialist-with-wordpress-knowledge/)
 - [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-11/)
 - [Senior PHP Developer &lpar;WordPress &amp; Laravel&rpar;](https://jobs.wordpress.net/job/senior-php-developer-wordpress-laravel/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-858/)
-- [WordPress Rockstar &amp; Online Marketing Expert](https://jobs.wordpress.net/job/wordpress-rockstar-online-marketing-expert/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-104/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-857/)
-- [Content Writer](https://jobs.wordpress.net/job/content-writer-20/)
 <!-- JOBS:END -->
 
 ## Central
