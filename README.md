@@ -564,11 +564,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Johor Bahru](https://central.wordcamp.org/wordcamps/wordcamp-iskandar-puteri-johor-bahru-johor-malaysia/)
 - [WordCamp Montclair, NJ, USA](https://central.wordcamp.org/wordcamps/wordcamp-montclair-nj-usa-3/)
 - [WordCamp Málaga](https://central.wordcamp.org/wordcamps/wordcamp-malaga-2025/)
+- [WordCamp Verona](https://central.wordcamp.org/wordcamps/wordcamp-verona-2025/)
 - [WordCamp Lisboa, Portugal](https://central.wordcamp.org/wordcamps/wordcamp-lisboa-2025/)
 - [WordPress Developer Day San José](https://central.wordcamp.org/wordcamps/san-jose/)
 - [WordCamp Lithuania](https://central.wordcamp.org/wordcamps/wordcamp-lithuania-2025/)
 - [WordCamp Kansai, JAPAN](https://central.wordcamp.org/wordcamps/wordcamp-kansai-japan/)
-- [WordCamp Leipzig, Germany](https://central.wordcamp.org/wordcamps/wordcamp-leipzig-germany-2/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
