@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Loco Translate](https://make.wordpress.org/polyglots/2025/02/12/pte-request-for-loco-translate-5/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/02/12/i-am-the-plugin-author-50/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/02/12/hello-polyglots-309/)
 - [WordPress 6.7.2 has been released….](https://make.wordpress.org/polyglots/2025/02/11/wordpress-6-7-2-has-been-released/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/02/09/pte-request-for-following-themes-5/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/09/hi-dear-mentors-we-have-162/)
 - [Hello folks,](https://make.wordpress.org/polyglots/2025/02/07/hello-folks/)
-- [PTE Request for TZM Section Block](https://make.wordpress.org/polyglots/2025/02/07/pte-request-for-tzm-section-block/)
 <!-- POLYGLOTS:END -->
 
 ## Support
