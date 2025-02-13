@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for FreedomPay](https://make.wordpress.org/polyglots/2025/02/13/pte-request-for-freedompay/)
 - [Request for PTE role for Query Monitor &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/02/13/request-for-pte-role-for-query-monitor-fa_ir/)
 - [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/13/pte-request-for-premium-addons-for-elementor-2/)
 - [PTE Request for Loco Translate](https://make.wordpress.org/polyglots/2025/02/12/pte-request-for-loco-translate-5/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GTE Request in Arabic Locale](https://make.wordpress.org/polyglots/2025/02/11/gte-request-in-arabic-locale/)
 - [Request for PTE role for User Switching &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/02/11/request-for-pte-role-for-user-switching-fa_ir/)
 - [PTE request in Easy Digital Downloads project](https://make.wordpress.org/polyglots/2025/02/10/pte-request-in-easy-digital-downloads-project/)
-- [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/02/09/pte-request-for-following-themes-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
