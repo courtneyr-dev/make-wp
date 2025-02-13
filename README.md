@@ -568,7 +568,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Verona](https://central.wordcamp.org/wordcamps/wordcamp-verona-2025/)
 - [WordCamp Lisboa, Portugal](https://central.wordcamp.org/wordcamps/wordcamp-lisboa-2025/)
 - [WordPress Developer Day San José](https://central.wordcamp.org/wordcamps/san-jose/)
-- [WordCamp Kansai, JAPAN](https://central.wordcamp.org/wordcamps/wordcamp-kansai-japan/)
+- [WordCamp Kansai 2025, JAPAN](https://central.wordcamp.org/wordcamps/wordcamp-kansai-japan/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
