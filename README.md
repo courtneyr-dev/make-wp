@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress y Emprendimiento. ¿Qué proyectos hacer para este 2025?](https://wordpress.tv/2025/02/13/wordpress-y-emprendimiento-que-proyectos-hacer-para-este-2025/)
 - [Agile Testing, pero de verdad](https://wordpress.tv/2025/02/12/agile-testing-pero-de-verdad/)
 - [La señora de los plugins: la comunidad de WordPress](https://wordpress.tv/2025/02/04/la-senora-de-los-plugins-la-comunidad-de-wordpress/)
 - [Este Nadal envía algo que ninguén espera… e feito con WordPress!](https://wordpress.tv/2025/01/31/este-nadal-envia-algo-que-ninguen-espera-e-feito-con-wordpress/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [La estructura de todos nuestros proyectos de plugin a medida](https://wordpress.tv/2025/01/20/la-estructura-de-todos-nuestros-proyectos-de-plugin-a-medida/)
 - [Analytics im Backend: Website-Daten aus der Datenbank auslesen und Arbeiten automatisieren](https://wordpress.tv/2025/01/14/analytics-im-backend-website-daten-aus-der-datenbank-auslesen-und-arbeiten-automatisieren/)
 - [Refresh, Relaunch, Erfolg: Die Kunst des gelungenen Neustarts](https://wordpress.tv/2025/01/14/refresh-relaunch-erfolg-die-kunst-des-gelungenen-neustarts/)
-- [learn.wordpress.org – Was ist das?](https://wordpress.tv/2025/01/14/learn-wordpress-org-was-ist-das-2/)
 <!-- WPTV:END -->
 
 ## Marketing
