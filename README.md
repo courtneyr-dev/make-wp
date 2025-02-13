@@ -535,6 +535,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [WordCamp Mukono 2025: A Celebration of WordPress and Women in Tech](https://central.wordcamp.org/news/2025/02/wordcamp-mukono-2025-a-celebration-of-wordpress-and-women-in-tech/)
 - [WP Campus Connect Recap: A Journey of Empowering Students and Building Community](https://central.wordcamp.org/news/2024/12/wp-campus-connect-recap-a-journey-of-empowering-students-and-building-community/)
 - [Beyond the Savannah: Join Us at WordCamp Nairobi 2024](https://central.wordcamp.org/news/2024/10/beyond-the-savannah-join-us-at-wordcamp-nairobi-2024/)
 - [Quarterly WordPress Event Sponsorship Report, 2016-2024 Q3](https://central.wordcamp.org/news/2024/09/quarterly-wordpress-event-sponsorship-report-2016-2024-q3/)
@@ -549,7 +550,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WPBeginner joins the WordPress global community sponsorship program in 2024](https://central.wordcamp.org/news/2024/01/wpbeginner-joins-the-wordpress-global-community-sponsorship-program-in-2024/)
 - [GoDaddy sponsors WordPress community events worldwide](https://central.wordcamp.org/news/2024/01/godaddy-sponsors-wordpress-community-events-worldwide/)
 - [2023 Annual Meetup Survey](https://central.wordcamp.org/news/2023/12/2023-annual-meetup-survey/)
-- [WordCamp Lahore 2023 is looking for Speakers and Sponsors](https://central.wordcamp.org/news/2023/10/wordcamp-lahore-2023-is-looking-for-speakers-and-sponsors/)
 <!-- Central:END -->
 
 ### WordCamp
