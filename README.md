@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordCamp Asia 2025: Manila Magic](https://wordpress.org/news/2025/02/wordcamp-asia-2025-manila-magic/)
 - [WordPress 6.7.2 Maintenance Release](https://wordpress.org/news/2025/02/wordpress-6-7-2-maintenance-release/)
 - [Joost/Karim Fork](https://wordpress.org/news/2025/01/jkpress/)
 - [WordPress Themes Need More Weird: A Call for Creative Digital Homes](https://wordpress.org/news/2025/01/wordpress-themes-need-more-weird-a-call-for-creative-digital-homes/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Openverse.org: A Sight for Sore Eyes](https://wordpress.org/news/2024/12/openverse-org-a-sight-for-sore-eyes/)
 - [WordPress 6.7.1 Maintenance Release](https://wordpress.org/news/2024/11/wordpress-6-7-1-maintenance-release/)
 - [WordPress 6.7 “Rollins”](https://wordpress.org/news/2024/11/rollins/)
-- [WordPress 6.7 Release Candidate 3](https://wordpress.org/news/2024/11/wordpress-6-7-release-candidate-3/)
 <!-- NEWS:END -->
 
 ## Jobs
