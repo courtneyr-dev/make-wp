@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [WCAsia 2025 Contributor Day: What should we work on?](https://make.wordpress.org/community/2025/02/14/wcasia-2025-contributor-day-what-should-we-work-on/)
 - [Meetup Organizer Newsletter: February 2025](https://make.wordpress.org/community/2025/02/12/meetup-organizer-newsletter-february-2025/)
 - [Announcement: Sponsor review process changes](https://make.wordpress.org/community/2025/01/31/announcement-sponsor-review-process-changes/)
 - [Meetup Organizer Newsletter: January 2025](https://make.wordpress.org/community/2025/01/10/meetup-organizer-newsletter-january-2025/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Update on the Community Team Supporters Cohort](https://make.wordpress.org/community/2024/12/24/update-on-the-community-team-supporters-cohort/)
 - [Hosting WordPress Events for Women on International Women’s Day](https://make.wordpress.org/community/2024/12/19/hosting-wordpress-events-for-women-on-international-womens-day/)
 - [Updates to the content of the WordCamp Central Website!](https://make.wordpress.org/community/2024/12/18/updates-to-the-content-of-the-wordcamp-central-website/)
-- [Program Wide Payment and Contract Intermission — 2024-12-20 – 2025-01-05](https://make.wordpress.org/community/2024/12/17/program-wide-payment-and-contract-intermission-2024-12-20-2025-01-05/)
 <!-- COMMUNITY:END -->
 
 ## Meta
