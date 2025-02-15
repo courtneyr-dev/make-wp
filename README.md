@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Series 1: Session 3: Getting Started with WordPress](https://wordpress.tv/2025/02/15/series-1-session-3-getting-started-with-wordpress/)
 - [Tester automatiquement son extension avec les outils WP](https://wordpress.tv/2025/02/15/tester-automatiquement-son-extension-avec-les-outils-wp/)
 - [Mise en place d’un tracking avancé et légal sur WordPress](https://wordpress.tv/2025/02/15/mise-en-place-dun-tracking-avance-et-legal-sur-wordpress/)
 - [State of the Word 2024 Panel Discussions](https://wordpress.tv/2025/02/13/state-of-the-word-2024-panel-discussions/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo crear un calendario de contenidos mensual para RRSS en menos de una hora](https://wordpress.tv/2025/01/27/como-crear-un-calendario-de-contenidos-mensual-para-rrss-en-menos-de-una-hora/)
 - [WordCamp Granada 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-granada-2024-aftermovie/)
 - [WordCamp Pontevedra 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-pontevedra-2024-aftermovie/)
-- [WordPress Security Panel discuss at WordCamp Bengaluru 2024](https://wordpress.tv/2025/01/27/wordpress-security-panel-discuss-at-wordcamp-bengaluru-2024/)
 <!-- WPTV:END -->
 
 ## Marketing
