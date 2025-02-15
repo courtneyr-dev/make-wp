@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tester automatiquement son extension avec les outils WP](https://wordpress.tv/2025/02/15/tester-automatiquement-son-extension-avec-les-outils-wp/)
 - [Mise en place d’un tracking avancé et légal sur WordPress](https://wordpress.tv/2025/02/15/mise-en-place-dun-tracking-avance-et-legal-sur-wordpress/)
 - [State of the Word 2024 Panel Discussions](https://wordpress.tv/2025/02/13/state-of-the-word-2024-panel-discussions/)
 - [State of the Word 2024 Q&amp;A](https://wordpress.tv/2025/02/13/state-of-the-word-2024-qa/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Granada 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-granada-2024-aftermovie/)
 - [WordCamp Pontevedra 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-pontevedra-2024-aftermovie/)
 - [WordPress Security Panel discuss at WordCamp Bengaluru 2024](https://wordpress.tv/2025/01/27/wordpress-security-panel-discuss-at-wordcamp-bengaluru-2024/)
-- [Contributor Day: Where Ideas Merge and You Commit to More Than Code](https://wordpress.tv/2025/01/26/contributor-day-where-ideas-merge-and-you-commit-to-more-than-code/)
 <!-- WPTV:END -->
 
 ## Marketing
