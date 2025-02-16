@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Claves y trucos para crear imágenes profesionales con Inteligencia artificial](https://wordpress.tv/2025/02/16/claves-y-trucos-para-crear-imagenes-profesionales-con-inteligencia-artificial/)
+- [Diseño conductual inteligente: UX predictiva](https://wordpress.tv/2025/02/16/diseno-conductual-inteligente-ux-predictiva/)
+- [Como la IA Espía y Roba a la competencia su estrategia Digital](https://wordpress.tv/2025/02/16/como-la-ia-espia-y-roba-a-la-competencia-su-estrategia-digital/)
+- [Inteligencia artificial de la A a la Z](https://wordpress.tv/2025/02/16/inteligencia-artificial-de-la-a-a-la-z/)
 - [Series 1: Session 3: Getting Started with WordPress](https://wordpress.tv/2025/02/15/series-1-session-3-getting-started-with-wordpress/)
 - [Tester automatiquement son extension avec les outils WP](https://wordpress.tv/2025/02/15/tester-automatiquement-son-extension-avec-les-outils-wp/)
 - [Mise en place d’un tracking avancé et légal sur WordPress](https://wordpress.tv/2025/02/15/mise-en-place-dun-tracking-avance-et-legal-sur-wordpress/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Elevating WordPress with AI: Development, Support and Content Generation](https://wordpress.tv/2025/01/31/elevating-wordpress-with-ai-development-support-and-content-generation/)
 - [Gender of Code](https://wordpress.tv/2025/01/31/gender-of-code/)
 - [Advanced WordPress Developer Overlooked Mistakes](https://wordpress.tv/2025/01/31/advanced-wordpress-developer-overlooked-mistakes/)
-- [Aprende a auditar WordPress para mejorar el rendimiento](https://wordpress.tv/2025/01/29/aprende-a-auditar-wordpress-para-mejorar-el-rendimiento-joan-vega/)
-- [Cómo crear un calendario de contenidos mensual para RRSS en menos de una hora](https://wordpress.tv/2025/01/27/como-crear-un-calendario-de-contenidos-mensual-para-rrss-en-menos-de-una-hora/)
-- [WordCamp Granada 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-granada-2024-aftermovie/)
-- [WordCamp Pontevedra 2024 aftermovie](https://wordpress.tv/2025/01/27/wordcamp-pontevedra-2024-aftermovie/)
 <!-- WPTV:END -->
 
 ## Marketing
