@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo ser un desarrollador WordPress con MÁS VALOR gracias a la IA](https://wordpress.tv/2025/02/16/yannick-garcia-como-ser-un-desarrollador-wordpress-con-mas-valor-gracias-a-la-ia/)
+- [Explorando la IA de los Page Builders más populares de 2025](https://wordpress.tv/2025/02/16/explorando-la-ia-de-los-page-builders-mas-populares-de-2025/)
 - [Código en WordPress con ChatGPT &lpar;incluso si no sabes programar&rpar;](https://wordpress.tv/2025/02/16/codigo-en-wordpress-con-chatgpt-incluso-si-no-sabes-programar/)
 - [BOGO: La estrategia psicológica que impulsa ventas en WooCommerce con ayuda de la IA](https://wordpress.tv/2025/02/16/bogo-la-estrategia-psicologica-que-impulsa-ventas-en-woocommerce-con-ayuda-de-la-ia/)
 - [Claves y trucos para crear imágenes profesionales con Inteligencia artificial](https://wordpress.tv/2025/02/16/claves-y-trucos-para-crear-imagenes-profesionales-con-inteligencia-artificial/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [AWS Well-Architected: Crafting Your WordPress Fairy Tale](https://wordpress.tv/2025/01/31/aws-well-architected-crafting-your-wordpress-fairy-tale/)
 - [Youth Entrepreneurship: My Startup Journey in Nepal](https://wordpress.tv/2025/01/31/youth-entrepreneurship-my-startup-journey-in-nepal/)
 - [Decode Emotions : The Power of Emotional Intelligence for Tech Leaders](https://wordpress.tv/2025/01/31/decode-emotions-the-power-of-emotional-intelligence-for-tech-leaders/)
-- [Prospects and Challenges of Digital Marketing in the Tourism Sector](https://wordpress.tv/2025/01/31/prospects-and-challenges-of-digital-marketing-in-the-tourism-sector/)
-- [Elevating WordPress with AI: Development, Support and Content Generation](https://wordpress.tv/2025/01/31/elevating-wordpress-with-ai-development-support-and-content-generation/)
 <!-- WPTV:END -->
 
 ## Marketing
