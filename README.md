@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Centralize All Learn WordPress Resources in One Place](https://make.wordpress.org/training/2025/02/16/centralize-all-learn-wordpress-resources-in-one-place/)
 - [Training Team Meeting Recap – 4th February 2025](https://make.wordpress.org/training/2025/02/10/training-team-meeting-recap-4th-february-2025/)
 - [Contributor Spotlight: Muhibul Haque](https://make.wordpress.org/training/2025/02/09/contributor-spotlight-muhibul-haque/)
 - [Training Team Meeting Recap – 28th January 2025](https://make.wordpress.org/training/2025/02/03/training-team-meeting-recap-28th-january-2025/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal:  Deputy Team Representatives for the WordPress Training Team](https://make.wordpress.org/training/2025/01/14/proposal-deputy-team-representatives-for-the-wordpress-training-team/)
 - [Training Team Meeting Recap – 17 December 2024](https://make.wordpress.org/training/2024/12/23/training-team-meeting-recap-17-december-2024/)
 - [Training Team 2025 Goals Setting](https://make.wordpress.org/training/2024/12/17/training-team-2025-goals-setting/)
-- [Training Team Meeting Recap – 10th December 2024](https://make.wordpress.org/training/2024/12/16/training-team-meeting-recap-10th-december-2024/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
