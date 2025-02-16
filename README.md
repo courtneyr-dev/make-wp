@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mastering WordPress Migration &amp; Backup – ওয়ার্ডপ্রেস মাইগ্রেশন ও ব্যাকআপের পূর্ণাঙ্গ গাইড](https://wordpress.tv/2025/02/16/mastering-wordpress-migration-backup-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a1%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%b8-%e0%a6%ae%e0%a6%be%e0%a6%87%e0%a6%97%e0%a7%8d/)
+- [Como escribir contenidos que posicionen con ChatGPT. Claves para hacer que la IA escriba como tu](https://wordpress.tv/2025/02/16/como-escribir-contenidos-que-posicionen-con-chatgpt-claves-para-hacer-que-la-ia-escriba-como-tu/)
+- [Pensar antes de automatizar: el lado oscuro de la inteligencia artificial](https://wordpress.tv/2025/02/16/pensar-antes-de-automatizar-el-lado-oscuro-de-la-inteligencia-artificial/)
+- [IA: Las reglas del juego han cambiado](https://wordpress.tv/2025/02/16/ia-las-reglas-del-juego-han-cambiado/)
+- [Consigue tu mejor imagen/video para tu WordPress con IA](https://wordpress.tv/2025/02/16/consigue-tu-mejor-imagen-video-para-tu-wordpress-con-ia/)
 - [Cómo ser un desarrollador WordPress con MÁS VALOR gracias a la IA](https://wordpress.tv/2025/02/16/yannick-garcia-como-ser-un-desarrollador-wordpress-con-mas-valor-gracias-a-la-ia/)
 - [Explorando la IA de los Page Builders más populares de 2025](https://wordpress.tv/2025/02/16/explorando-la-ia-de-los-page-builders-mas-populares-de-2025/)
 - [Código en WordPress con ChatGPT &lpar;incluso si no sabes programar&rpar;](https://wordpress.tv/2025/02/16/codigo-en-wordpress-con-chatgpt-incluso-si-no-sabes-programar/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Marketing de guerrilla para cuando estás empezando &lpar;y no tienes ni un duro&rpar;](https://wordpress.tv/2025/01/31/marketing-de-guerrilla-para-cuando-estas-empezando-y-no-tienes-ni-un-duro/)
 - [Non chega con aparecer en Google. Hai que dominalo. Aprende como facelo en 2025!](https://wordpress.tv/2025/01/31/non-chega-con-aparecer-en-google-hai-que-dominalo-aprende-como-facelo-en-2025/)
 - [The Future of WordPress](https://wordpress.tv/2025/01/31/the-future-of-wordpress-2/)
-- [How to Change Your Manual Testing Time into Chiya Drinking Time](https://wordpress.tv/2025/01/31/how-to-change-your-manual-testing-time-into-chiya-drinking-time/)
-- [Surviving Entrepreneurship, Technology and Life…](https://wordpress.tv/2025/01/31/surviving-entrepreneurship-technology-and-life/)
-- [AWS Well-Architected: Crafting Your WordPress Fairy Tale](https://wordpress.tv/2025/01/31/aws-well-architected-crafting-your-wordpress-fairy-tale/)
-- [Youth Entrepreneurship: My Startup Journey in Nepal](https://wordpress.tv/2025/01/31/youth-entrepreneurship-my-startup-journey-in-nepal/)
-- [Decode Emotions : The Power of Emotional Intelligence for Tech Leaders](https://wordpress.tv/2025/01/31/decode-emotions-the-power-of-emotional-intelligence-for-tech-leaders/)
 <!-- WPTV:END -->
 
 ## Marketing
