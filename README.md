@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/02/16/i-am-the-plugin-author-51/)
 - [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/15/pte-request-for-premium-addons-for-elementor-3/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/14/hi-dear-mentors-we-have-163/)
 - [PTE Request for FreedomPay](https://make.wordpress.org/polyglots/2025/02/13/pte-request-for-freedompay/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/02/12/i-am-the-plugin-author-50/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/02/12/hello-polyglots-309/)
 - [WordPress 6.7.2 has been released….](https://make.wordpress.org/polyglots/2025/02/11/wordpress-6-7-2-has-been-released/)
-- [GTE Request in Arabic Locale](https://make.wordpress.org/polyglots/2025/02/11/gte-request-in-arabic-locale/)
 <!-- POLYGLOTS:END -->
 
 ## Support
