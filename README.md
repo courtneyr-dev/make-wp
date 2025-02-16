@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Código en WordPress con ChatGPT &lpar;incluso si no sabes programar&rpar;](https://wordpress.tv/2025/02/16/codigo-en-wordpress-con-chatgpt-incluso-si-no-sabes-programar/)
+- [BOGO: La estrategia psicológica que impulsa ventas en WooCommerce con ayuda de la IA](https://wordpress.tv/2025/02/16/bogo-la-estrategia-psicologica-que-impulsa-ventas-en-woocommerce-con-ayuda-de-la-ia/)
 - [Claves y trucos para crear imágenes profesionales con Inteligencia artificial](https://wordpress.tv/2025/02/16/claves-y-trucos-para-crear-imagenes-profesionales-con-inteligencia-artificial/)
 - [Diseño conductual inteligente: UX predictiva](https://wordpress.tv/2025/02/16/diseno-conductual-inteligente-ux-predictiva/)
 - [Como la IA Espía y Roba a la competencia su estrategia Digital](https://wordpress.tv/2025/02/16/como-la-ia-espia-y-roba-a-la-competencia-su-estrategia-digital/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Decode Emotions : The Power of Emotional Intelligence for Tech Leaders](https://wordpress.tv/2025/01/31/decode-emotions-the-power-of-emotional-intelligence-for-tech-leaders/)
 - [Prospects and Challenges of Digital Marketing in the Tourism Sector](https://wordpress.tv/2025/01/31/prospects-and-challenges-of-digital-marketing-in-the-tourism-sector/)
 - [Elevating WordPress with AI: Development, Support and Content Generation](https://wordpress.tv/2025/01/31/elevating-wordpress-with-ai-development-support-and-content-generation/)
-- [Gender of Code](https://wordpress.tv/2025/01/31/gender-of-code/)
-- [Advanced WordPress Developer Overlooked Mistakes](https://wordpress.tv/2025/01/31/advanced-wordpress-developer-overlooked-mistakes/)
 <!-- WPTV:END -->
 
 ## Marketing
