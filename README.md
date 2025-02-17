@@ -352,7 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Mastering WordPress Migration &amp; Backup – ওয়ার্ডপ্রেস মাইগ্রেশন ও ব্যাকআপের পূর্ণাঙ্গ গাইড](https://wordpress.tv/2025/02/16/mastering-wordpress-migration-backup-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a1%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%b8-%e0%a6%ae%e0%a6%be%e0%a6%87%e0%a6%97%e0%a7%8d/)
+- [Mastering WordPress Migration &amp; Backup – ওয়ার্ডপ্রেস মাইগ্রেশন ও ব্যাকআপের পূর্ণাঙ্গ গাইড](https://wordpress.tv/2025/02/16/mastering-wordpress-migration-backup/)
 - [Como escribir contenidos que posicionen con ChatGPT. Claves para hacer que la IA escriba como tu](https://wordpress.tv/2025/02/16/como-escribir-contenidos-que-posicionen-con-chatgpt-claves-para-hacer-que-la-ia-escriba-como-tu/)
 - [Pensar antes de automatizar: el lado oscuro de la inteligencia artificial](https://wordpress.tv/2025/02/16/pensar-antes-de-automatizar-el-lado-oscuro-de-la-inteligencia-artificial/)
 - [IA: Las reglas del juego han cambiado](https://wordpress.tv/2025/02/16/ia-las-reglas-del-juego-han-cambiado/)
