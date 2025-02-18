@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for AVIF, WebP Converter](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-avif-webp-converter/)
 - [PTE Request for File Manager Pro – Filester](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-file-manager-pro-filester/)
 - [Join the Polyglots Table at WordCamp Asia 2025 Contributor Day!](https://make.wordpress.org/polyglots/2025/02/18/join-the-polyglots-table-at-wordcamp-asia-2025-contributor-day/)
 - [Locale Request: Please add Cameroon…](https://make.wordpress.org/polyglots/2025/02/17/locale-request-please-add-cameroon/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/14/hi-dear-mentors-we-have-163/)
 - [PTE Request for FreedomPay](https://make.wordpress.org/polyglots/2025/02/13/pte-request-for-freedompay/)
 - [Request for PTE role for Query Monitor &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/02/13/request-for-pte-role-for-query-monitor-fa_ir/)
-- [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/13/pte-request-for-premium-addons-for-elementor-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
