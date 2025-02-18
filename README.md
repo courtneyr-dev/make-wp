@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Elegance Menu](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-elegance-menu/)
+- [PTE Request for Communication Icon](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-communication-icon/)
+- [Reviewing/PTE Request for OceanWP theme…](https://make.wordpress.org/polyglots/2025/02/18/reviewing-pte-request-for-oceanwp-theme/)
 - [PTE Request for AVIF, WebP Converter](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-avif-webp-converter/)
 - [PTE Request for File Manager Pro – Filester](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-file-manager-pro-filester/)
 - [Join the Polyglots Table at WordCamp Asia 2025 Contributor Day!](https://make.wordpress.org/polyglots/2025/02/18/join-the-polyglots-table-at-wordcamp-asia-2025-contributor-day/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/17/hi-dear-mentors-we-have-164/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/02/16/i-am-the-plugin-author-51/)
 - [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/15/pte-request-for-premium-addons-for-elementor-3/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/14/hi-dear-mentors-we-have-163/)
-- [PTE Request for FreedomPay](https://make.wordpress.org/polyglots/2025/02/13/pte-request-for-freedompay/)
-- [Request for PTE role for Query Monitor &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/02/13/request-for-pte-role-for-query-monitor-fa_ir/)
 <!-- POLYGLOTS:END -->
 
 ## Support
