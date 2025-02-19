@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for tarteaucitronjs](https://make.wordpress.org/polyglots/2025/02/19/hi-120/)
 - [PTE Request for Elegance Menu](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-elegance-menu/)
 - [PTE Request for Communication Icon](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-communication-icon/)
 - [Reviewing/PTE Request for OceanWP theme…](https://make.wordpress.org/polyglots/2025/02/18/reviewing-pte-request-for-oceanwp-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Locale Request: Please add Cameroon…](https://make.wordpress.org/polyglots/2025/02/17/locale-request-please-add-cameroon/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/17/hi-dear-mentors-we-have-164/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/02/16/i-am-the-plugin-author-51/)
-- [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/15/pte-request-for-premium-addons-for-elementor-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
