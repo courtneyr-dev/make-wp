@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/20/pte-request-for-premium-addons-for-elementor-4/)
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2025/02/20/pte-request-for-woocommerce-11/)
 - [PTE Request for tarteaucitronjs](https://make.wordpress.org/polyglots/2025/02/19/hi-120/)
 - [PTE Request for Elegance Menu](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-elegance-menu/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for File Manager Pro – Filester](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-file-manager-pro-filester/)
 - [Join the Polyglots Table at WordCamp Asia 2025 Contributor Day!](https://make.wordpress.org/polyglots/2025/02/18/join-the-polyglots-table-at-wordcamp-asia-2025-contributor-day/)
 - [Locale Request: Please add Cameroon…](https://make.wordpress.org/polyglots/2025/02/17/locale-request-please-add-cameroon/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/17/hi-dear-mentors-we-have-164/)
 <!-- POLYGLOTS:END -->
 
 ## Support
