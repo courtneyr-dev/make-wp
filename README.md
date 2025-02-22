@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Dear Polygots Community,](https://make.wordpress.org/polyglots/2025/02/22/dear-polygots-community/)
 - [PTE Request for Open Directory Plugin](https://make.wordpress.org/polyglots/2025/02/22/pte-request-for-open-directory-plugin/)
 - [Bonjour à tous, je suis…](https://make.wordpress.org/polyglots/2025/02/21/bonjour-a-tous-je-suis/)
 - [PTE Request for picu](https://make.wordpress.org/polyglots/2025/02/20/pte-request-for-picu-9/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Elegance Menu](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-elegance-menu/)
 - [PTE Request for Communication Icon](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-communication-icon/)
 - [Reviewing/PTE Request for OceanWP theme…](https://make.wordpress.org/polyglots/2025/02/18/reviewing-pte-request-for-oceanwp-theme/)
-- [PTE Request for AVIF, WebP Converter](https://make.wordpress.org/polyglots/2025/02/18/pte-request-for-avif-webp-converter/)
 <!-- POLYGLOTS:END -->
 
 ## Support
