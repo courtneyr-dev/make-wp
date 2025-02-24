@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sube a tu E-Commerce más de 7.000 productos de manera eficiente](https://wordpress.tv/2025/02/24/sube-a-tu-e-commerce-mas-de-7-000-productos-de-manera-eficiente/)
 - [Herramientas de IA para Podcasts y canales de YouTube](https://wordpress.tv/2025/02/24/herramientas-de-ia-para-podcasts-y-canales-de-youtube/)
 - [Los secretos para hacer del mantenimiento web tu mejor negocio](https://wordpress.tv/2025/02/24/los-secretos-para-hacer-del-mantenimiento-web-tu-mejor-negocio-2/)
 - [SEO en 2025: Estrategias Obsoletas vs. Claves para un Mejor Posicionamiento WP](https://wordpress.tv/2025/02/24/seo-en-2025-estrategias-obsoletas-vs-claves-para-un-mejor-posicionamiento-wp/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Inteligencia artificial de la A a la Z](https://wordpress.tv/2025/02/16/inteligencia-artificial-de-la-a-a-la-z/)
 - [Series 1: Session 3: Getting Started with WordPress](https://wordpress.tv/2025/02/15/series-1-session-3-getting-started-with-wordpress/)
 - [Tester automatiquement son extension avec les outils WP](https://wordpress.tv/2025/02/15/tester-automatiquement-son-extension-avec-les-outils-wp/)
-- [Mise en place d’un tracking avancé et légal sur WordPress](https://wordpress.tv/2025/02/15/mise-en-place-dun-tracking-avance-et-legal-sur-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
