@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Herramientas de IA para Podcasts y canales de YouTube](https://wordpress.tv/2025/02/24/herramientas-de-ia-para-podcasts-y-canales-de-youtube/)
+- [Los secretos para hacer del mantenimiento web tu mejor negocio](https://wordpress.tv/2025/02/24/los-secretos-para-hacer-del-mantenimiento-web-tu-mejor-negocio-2/)
+- [SEO en 2025: Estrategias Obsoletas vs. Claves para un Mejor Posicionamiento WP](https://wordpress.tv/2025/02/24/seo-en-2025-estrategias-obsoletas-vs-claves-para-un-mejor-posicionamiento-wp/)
+- [Todo es posible con la ayuda de ChatGPT: Código para no desarrolladores.](https://wordpress.tv/2025/02/24/todo-es-posible-con-la-ayuda-de-chatgpt-codigo-para-no-desarrolladores/)
+- [Cómo la IA está redefiniendo los servicios de hosting y la experiencia de usuario.](https://wordpress.tv/2025/02/24/como-la-ia-esta-redefiniendo-los-servicios-de-hosting-y-la-experiencia-de-usuario/)
+- [Escribe para cautivar: Cómo usar IA para mejorar tu copywriting y storytelling en WordPress](https://wordpress.tv/2025/02/24/escribe-para-cautivar-como-usar-ia-para-mejorar-tu-copywriting-y-storytelling-en-wordpress/)
+- [10 cosas que haces mal con Google Analytics](https://wordpress.tv/2025/02/24/10-cosas-que-haces-mal-con-google-analytics/)
+- [RAG: el sistema para crear un chatbot inteligente](https://wordpress.tv/2025/02/24/rag-el-sistema-para-crear-un-chatbot-inteligente/)
+- [Tu alIAdo para el SocIAl medIA](https://wordpress.tv/2025/02/24/tu-aliado-para-el-social-media/)
 - [Mastering WordPress Migration &amp; Backup – ওয়ার্ডপ্রেস মাইগ্রেশন ও ব্যাকআপের পূর্ণাঙ্গ গাইড](https://wordpress.tv/2025/02/16/mastering-wordpress-migration-backup/)
 - [Como escribir contenidos que posicionen con ChatGPT. Claves para hacer que la IA escriba como tu](https://wordpress.tv/2025/02/16/como-escribir-contenidos-que-posicionen-con-chatgpt-claves-para-hacer-que-la-ia-escriba-como-tu/)
 - [Pensar antes de automatizar: el lado oscuro de la inteligencia artificial](https://wordpress.tv/2025/02/16/pensar-antes-de-automatizar-el-lado-oscuro-de-la-inteligencia-artificial/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Series 1: Session 3: Getting Started with WordPress](https://wordpress.tv/2025/02/15/series-1-session-3-getting-started-with-wordpress/)
 - [Tester automatiquement son extension avec les outils WP](https://wordpress.tv/2025/02/15/tester-automatiquement-son-extension-avec-les-outils-wp/)
 - [Mise en place d’un tracking avancé et légal sur WordPress](https://wordpress.tv/2025/02/15/mise-en-place-dun-tracking-avance-et-legal-sur-wordpress/)
-- [State of the Word 2024 Panel Discussions](https://wordpress.tv/2025/02/13/state-of-the-word-2024-panel-discussions/)
-- [State of the Word 2024 Q&amp;A](https://wordpress.tv/2025/02/13/state-of-the-word-2024-qa/)
-- [State of the Word 2024](https://wordpress.tv/2025/02/13/state-of-the-word-2024/)
-- [Agile Testing, pero de verdad](https://wordpress.tv/2025/02/12/agile-testing-pero-de-verdad/)
-- [La señora de los plugins: la comunidad de WordPress](https://wordpress.tv/2025/02/04/la-senora-de-los-plugins-la-comunidad-de-wordpress/)
-- [Este Nadal envía algo que ninguén espera… e feito con WordPress!](https://wordpress.tv/2025/01/31/este-nadal-envia-algo-que-ninguen-espera-e-feito-con-wordpress/)
-- [Marketing de guerrilla para cuando estás empezando &lpar;y no tienes ni un duro&rpar;](https://wordpress.tv/2025/01/31/marketing-de-guerrilla-para-cuando-estas-empezando-y-no-tienes-ni-un-duro/)
-- [Non chega con aparecer en Google. Hai que dominalo. Aprende como facelo en 2025!](https://wordpress.tv/2025/01/31/non-chega-con-aparecer-en-google-hai-que-dominalo-aprende-como-facelo-en-2025/)
-- [The Future of WordPress](https://wordpress.tv/2025/01/31/the-future-of-wordpress-2/)
 <!-- WPTV:END -->
 
 ## Marketing
