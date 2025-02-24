@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Weekly Updates: Feb 17–21](https://make.wordpress.org/core/2025/02/24/editor-weekly-update-feb-17-21/)
 - [WordCamp Asia 2025 Core Committer Meeting Notes](https://make.wordpress.org/core/2025/02/22/wordcamp-asia-2025-core-committer-meeting-notes/)
 - [Summary, Dev Chat, Feb 19, 2025](https://make.wordpress.org/core/2025/02/19/summary-dev-chat-february-19-2025/)
 - [Agenda, Dev Chat, Feb 19, 2025](https://make.wordpress.org/core/2025/02/18/agenda-dev-chat-feb-19-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda, Dev Chat, Jan 29, 2025](https://make.wordpress.org/core/2025/01/28/agenda-dev-chat-jan-29-2025/)
 - [Summary, Dev Chat, Jan 22, 2025](https://make.wordpress.org/core/2025/01/22/summary-dev-chat-january-22-2025/)
 - [WordPress 6.7.2 Release Planning](https://make.wordpress.org/core/2025/01/22/wordpress-6-7-2-release-planning/)
-- [Agenda, Dev Chat, Jan 22, 2025](https://make.wordpress.org/core/2025/01/22/agenda-dev-chat-jan-22-2025/)
 <!-- CORE:END -->
 
 ## Design
