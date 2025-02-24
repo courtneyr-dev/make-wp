@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Piérdele el miedo al nuevo Editor del Sitio de WordPress](https://wordpress.tv/2025/02/24/pierdele-el-miedo-al-nuevo-editor-del-sitio-de-wordpress/)
 - [Sube a tu E-Commerce más de 7.000 productos de manera eficiente](https://wordpress.tv/2025/02/24/sube-a-tu-e-commerce-mas-de-7-000-productos-de-manera-eficiente/)
 - [Herramientas de IA para Podcasts y canales de YouTube](https://wordpress.tv/2025/02/24/herramientas-de-ia-para-podcasts-y-canales-de-youtube/)
 - [Los secretos para hacer del mantenimiento web tu mejor negocio](https://wordpress.tv/2025/02/24/los-secretos-para-hacer-del-mantenimiento-web-tu-mejor-negocio-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Como la IA Espía y Roba a la competencia su estrategia Digital](https://wordpress.tv/2025/02/16/como-la-ia-espia-y-roba-a-la-competencia-su-estrategia-digital/)
 - [Inteligencia artificial de la A a la Z](https://wordpress.tv/2025/02/16/inteligencia-artificial-de-la-a-a-la-z/)
 - [Series 1: Session 3: Getting Started with WordPress](https://wordpress.tv/2025/02/15/series-1-session-3-getting-started-with-wordpress/)
-- [Tester automatiquement son extension avec les outils WP](https://wordpress.tv/2025/02/15/tester-automatiquement-son-extension-avec-les-outils-wp/)
 <!-- WPTV:END -->
 
 ## Marketing
