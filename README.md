@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Kleingarten](https://make.wordpress.org/polyglots/2025/02/25/pte-request-for-kleingarten/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/24/hi-dear-mentors-we-have-165/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/02/24/hello-polyglots-311/)
 - [Request for GTE for the Polish Language](https://make.wordpress.org/polyglots/2025/02/24/request-for-gte-for-the-polish-language/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for PTE role for…](https://make.wordpress.org/polyglots/2025/02/23/request-for-pte-role-for/)
 - [Dear Polygots Community,](https://make.wordpress.org/polyglots/2025/02/22/dear-polygots-community/)
 - [PTE Request for Open Directory Plugin](https://make.wordpress.org/polyglots/2025/02/22/pte-request-for-open-directory-plugin/)
-- [Bonjour à tous, je suis…](https://make.wordpress.org/polyglots/2025/02/21/bonjour-a-tous-je-suis/)
 <!-- POLYGLOTS:END -->
 
 ## Support
