@@ -9,7 +9,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda, Dev Chat, Feb 19, 2025](https://make.wordpress.org/core/2025/02/18/agenda-dev-chat-feb-19-2025/)
 - [WordPress 6.8 will use bcrypt for password hashing](https://make.wordpress.org/core/2025/02/17/wordpress-6-8-will-use-bcrypt-for-password-hashing/)
 - [Summary, Dev Chat, Feb 12, 2025](https://make.wordpress.org/core/2025/02/12/summary-dev-chat-february-12-2025/)
-- [Performance Chat Summary: 11 February 2025](https://make.wordpress.org/core/2025/02/11/performance-chat-summary-14-january-2025-2/)
+- [Performance Chat Summary: 11 February 2025](https://make.wordpress.org/core/2025/02/11/performance-chat-summary-11-february-2025/)
 - [Agenda, Dev Chat, Feb 12, 2025](https://make.wordpress.org/core/2025/02/11/agenda-dev-chat-feb-12-2025/)
 - [Introducing Core Team Reps for 2025](https://make.wordpress.org/core/2025/02/10/introducing-core-team-reps-for-2025/)
 - [What’s new in Gutenberg 20.1 and 20.2?](https://make.wordpress.org/core/2025/02/08/whats-new-in-gutenberg-20-1-and-20-2/)
