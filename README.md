@@ -557,7 +557,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Women WordPress Day 2025 Surat, India](https://central.wordcamp.org/wordcamps/surat-india/)
 - [Women WordPress Day 2025 Ajmer, India](https://central.wordcamp.org/wordcamps/ajmer-india-women-wp-2025/)
 - [Women WordPress Day 2025 Delhi, India](https://central.wordcamp.org/wordcamps/women-wordpress-day-delhi-2025/)
-- [Voces que inspiran: Women´s Day 2025 Latam](https://central.wordcamp.org/wordcamps/voces-que-inspiran-womens-day-latam/)
+- [Women WordPress Day 2025 Ahmedabad, India](https://central.wordcamp.org/wordcamps/women-wordpress-day-ahmedabad-2025/)
 - [EmpowerWP Bhopal 2025](https://central.wordcamp.org/wordcamps/empowerwp-bhopal/)
 - [WordCamp Jinja 2025](https://central.wordcamp.org/wordcamps/wordcamp-jinja-2025/)
 - [WordCamp Mukono, Uganda](https://central.wordcamp.org/wordcamps/wordcamp-mukono-uganda/)
