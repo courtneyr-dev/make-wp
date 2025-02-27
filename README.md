@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shopire Theme](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-shopire-theme/)
 - [PTE request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-premium-addons-for-elementor-5/)
 - [PTE Request for Rank Math SEO Plugin](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-rank-math-seo-plugin/)
 - [PTE request for the theme – Phlox](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-the-theme-phlox/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Kleingarten](https://make.wordpress.org/polyglots/2025/02/25/pte-request-for-kleingarten/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/24/hi-dear-mentors-we-have-165/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/02/24/hello-polyglots-311/)
-- [Request for GTE for the Polish Language](https://make.wordpress.org/polyglots/2025/02/24/request-for-gte-for-the-polish-language/)
 <!-- POLYGLOTS:END -->
 
 ## Support
