@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/27/hi-dear-mentors-we-have-166/)
 - [PTE request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-premium-addons-for-elementor-6/)
 - [PTE Request for Shopire Theme](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-shopire-theme/)
 - [PTE request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-premium-addons-for-elementor-5/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for SEOPress – On-site SEO](https://make.wordpress.org/polyglots/2025/02/26/pte-request-for-seopress-on-site-seo/)
 - [PTE Request for rezip-packaging-for-woocommerce](https://make.wordpress.org/polyglots/2025/02/25/pte-request-for-rezip-packaging-for-woocommerce/)
 - [PTE Request for Kleingarten](https://make.wordpress.org/polyglots/2025/02/25/pte-request-for-kleingarten/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/24/hi-dear-mentors-we-have-165/)
 <!-- POLYGLOTS:END -->
 
 ## Support
