@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer Needed – Paid Memberships Pro &amp; PHP/SQL Expert](https://jobs.wordpress.net/job/wordpress-developer-needed-paid-memberships-pro-php-sql-expert/)
+- [website editing](https://jobs.wordpress.net/job/website-editing/)
+- [Senior Fullstack WordPress Engineer | Remote &lpar;Europe and Africa&rpar; |  A new challenge awaits!](https://jobs.wordpress.net/job/senior-fullstack-wordpress-engineer-remote-europe-and-africa-a-new-challenge-awaits/)
+- [[ASTRA] Laravel Developer](https://jobs.wordpress.net/job/astra-laravel-developer/)
+- [[ASTRA] Vue.js Developer](https://jobs.wordpress.net/job/astra-vue-js-developer-2/)
+- [WordPress Person Needed for Ongoing Maintenance Tasks](https://jobs.wordpress.net/job/wordpress-person-needed-for-ongoing-maintenance-tasks/)
 - [Small Fix](https://jobs.wordpress.net/job/small-fix/)
 - [Maintain my existing author website](https://jobs.wordpress.net/job/maintain-my-existing-author-website/)
 - [WordPress plugin customization](https://jobs.wordpress.net/job/wordpress-plugin-customization-5/)
 - [WordPress Devellopers](https://jobs.wordpress.net/job/wordpress-devellopers/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-4/)
-- [Interactive Curriculum Builder Development](https://jobs.wordpress.net/job/interactive-curriculum-builder-development/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-25/)
-- [Online Marketing Expert with WordPress Knowledge](https://jobs.wordpress.net/job/online-marketing-expert-with-wordpress-knowledge/)
-- [Social Media Promotion Specialist with WordPress Knowledge](https://jobs.wordpress.net/job/social-media-promotion-specialist-with-wordpress-knowledge/)
-- [WordPress Support Specialist at CampusPress](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-11/)
 <!-- JOBS:END -->
 
 ## Central
