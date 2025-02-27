@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Rank Math SEO Plugin](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-rank-math-seo-plugin/)
+- [PTE request for the theme – Phlox](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-the-theme-phlox/)
 - [PTE Request for ham3da integration for OxaPay](https://make.wordpress.org/polyglots/2025/02/26/pte-request-for-ham3da-integration-for-oxapay/)
 - [PTE Request for SEOPress – On-site SEO](https://make.wordpress.org/polyglots/2025/02/26/pte-request-for-seopress-on-site-seo/)
 - [PTE Request for rezip-packaging-for-woocommerce](https://make.wordpress.org/polyglots/2025/02/25/pte-request-for-rezip-packaging-for-woocommerce/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/02/24/hello-polyglots-311/)
 - [Request for GTE for the Polish Language](https://make.wordpress.org/polyglots/2025/02/24/request-for-gte-for-the-polish-language/)
 - [Request for PTE role for Disable Comments &lpar;fa_IR&rpar;](https://make.wordpress.org/polyglots/2025/02/24/request-for-pte-role-for-disable-comments-fa_ir/)
-- [Request for PTE role for…](https://make.wordpress.org/polyglots/2025/02/23/request-for-pte-role-for-2/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/02/23/hello-polyglots-310/)
 <!-- POLYGLOTS:END -->
 
 ## Support
