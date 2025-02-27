@@ -526,11 +526,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Fullstack WordPress Engineer | Remote &lpar;Europe and Africa&rpar; |  A new challenge awaits!](https://jobs.wordpress.net/job/senior-fullstack-wordpress-engineer-remote-europe-and-africa-a-new-challenge-awaits/)
 - [[ASTRA] Laravel Developer](https://jobs.wordpress.net/job/astra-laravel-developer/)
 - [[ASTRA] Vue.js Developer](https://jobs.wordpress.net/job/astra-vue-js-developer-2/)
-- [WordPress Person Needed for Ongoing Maintenance Tasks](https://jobs.wordpress.net/job/wordpress-person-needed-for-ongoing-maintenance-tasks/)
 - [Small Fix](https://jobs.wordpress.net/job/small-fix/)
 - [Maintain my existing author website](https://jobs.wordpress.net/job/maintain-my-existing-author-website/)
 - [WordPress plugin customization](https://jobs.wordpress.net/job/wordpress-plugin-customization-5/)
 - [WordPress Devellopers](https://jobs.wordpress.net/job/wordpress-devellopers/)
+- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-4/)
 <!-- JOBS:END -->
 
 ## Central
