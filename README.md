@@ -554,6 +554,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [Women WordPress Day 2025 Kolkata](https://central.wordcamp.org/wordcamps/womens-day-kolkata-2025/)
 - [Women WordPress Day 2025 Mumbai India](https://central.wordcamp.org/wordcamps/womens-day-mumbai-2025/)
 - [Women WordPress Day Guatemala 2025](https://central.wordcamp.org/wordcamps/women-wordpress-day-guatemala-2025/)
 - [Women WordPress Day 2025 Surat, India](https://central.wordcamp.org/wordcamps/surat-india/)
@@ -563,7 +564,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Women WordPress Day 2025 Ahmedabad, India](https://central.wordcamp.org/wordcamps/women-wordpress-day-ahmedabad-2025/)
 - [EmpowerWP Bhopal 2025](https://central.wordcamp.org/wordcamps/empowerwp-bhopal/)
 - [WordCamp Jinja 2025](https://central.wordcamp.org/wordcamps/wordcamp-jinja-2025/)
-- [WordCamp Vienna 2025](https://central.wordcamp.org/wordcamps/wordcamp-vienna-2025/)
 - [WordCamp Masaka 2025](https://central.wordcamp.org/wordcamps/wordcamp-masaka-2025/)
 - [WordCamp Bilbao 2025](https://central.wordcamp.org/wordcamps/wordcamp-bilbao-2025/)
 - [Women WordPress Day 2025, San José, Costa Rica](https://central.wordcamp.org/wordcamps/women-wordpress-day-2025-san-jose-costa-rica/)
