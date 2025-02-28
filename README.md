@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Website Reskin](https://jobs.wordpress.net/job/website-reskin/)
+- [Need WordPress Developer](https://jobs.wordpress.net/job/need-wordpress-developer-5/)
 - [WordPress Developer Needed – Paid Memberships Pro &amp; PHP/SQL Expert](https://jobs.wordpress.net/job/wordpress-developer-needed-paid-memberships-pro-php-sql-expert/)
 - [website editing](https://jobs.wordpress.net/job/website-editing/)
 - [Senior Fullstack WordPress Engineer | Remote &lpar;Europe and Africa&rpar; |  A new challenge awaits!](https://jobs.wordpress.net/job/senior-fullstack-wordpress-engineer-remote-europe-and-africa-a-new-challenge-awaits/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Small Fix](https://jobs.wordpress.net/job/small-fix/)
 - [Maintain my existing author website](https://jobs.wordpress.net/job/maintain-my-existing-author-website/)
 - [WordPress plugin customization](https://jobs.wordpress.net/job/wordpress-plugin-customization-5/)
-- [WordPress Devellopers](https://jobs.wordpress.net/job/wordpress-devellopers/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-4/)
 <!-- JOBS:END -->
 
 ## Central
