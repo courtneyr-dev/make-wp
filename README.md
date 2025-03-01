@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [MeetUp WordPress como Framework](https://wordpress.tv/2025/03/01/meetup-wordpress-como-framework/)
+- [Construye tu Sitio de WordPress Rápidamente con Spectra plugin](https://wordpress.tv/2025/03/01/construye-tu-sitio-de-wordpress-rapidamente-con-spectra-plugin/)
 - [¿Sin experiencia? Aprende a demostrar tu talento y conseguir trabajo](https://wordpress.tv/2025/02/27/inaki-lazaro-sin-experiencia-aprende-a-demostrar-tu-talento-y-conseguir-trabajo/)
 - [Piérdele el miedo al nuevo Editor del Sitio de WordPress](https://wordpress.tv/2025/02/24/pierdele-el-miedo-al-nuevo-editor-del-sitio-de-wordpress/)
 - [Sube a tu E-Commerce más de 7.000 productos de manera eficiente](https://wordpress.tv/2025/02/24/sube-a-tu-e-commerce-mas-de-7-000-productos-de-manera-eficiente/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [BOGO: La estrategia psicológica que impulsa ventas en WooCommerce con ayuda de la IA](https://wordpress.tv/2025/02/16/bogo-la-estrategia-psicologica-que-impulsa-ventas-en-woocommerce-con-ayuda-de-la-ia/)
 - [Claves y trucos para crear imágenes profesionales con Inteligencia artificial](https://wordpress.tv/2025/02/16/claves-y-trucos-para-crear-imagenes-profesionales-con-inteligencia-artificial/)
 - [Diseño conductual inteligente: UX predictiva](https://wordpress.tv/2025/02/16/diseno-conductual-inteligente-ux-predictiva/)
-- [Como la IA Espía y Roba a la competencia su estrategia Digital](https://wordpress.tv/2025/02/16/como-la-ia-espia-y-roba-a-la-competencia-su-estrategia-digital/)
-- [Inteligencia artificial de la A a la Z](https://wordpress.tv/2025/02/16/inteligencia-artificial-de-la-a-a-la-z/)
 <!-- WPTV:END -->
 
 ## Marketing
