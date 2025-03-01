@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Headless y Craft Beer gallega: el caso de Cervezas Lupia.](https://wordpress.tv/2025/03/01/wordpress-headless-y-craft-beer-gallega-el-caso-de-cervezas-lupia/)
+- [Ciberseguridad en WordPress. Riesgos y Protecciones](https://wordpress.tv/2025/03/01/ciberseguridad-en-wordpress-riesgos-y-protecciones/)
+- [WordPress y Emprendimiento: qué proyectos hacer para este 2025](https://wordpress.tv/2025/03/01/wordpress-y-emprendimiento-que-proyectos-hacer-para-este-2025/)
+- [Habilidades de la oratoria y la comunicación para conectar con la audiencia](https://wordpress.tv/2025/03/01/habilidades-de-la-oratoria-y-la-comunicacion-para-conectar-con-la-audiencia/)
 - [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2025/03/01/meetup-wordpress-como-framework/)
 - [Construye tu Sitio de WordPress Rápidamente con Spectra plugin](https://wordpress.tv/2025/03/01/construye-tu-sitio-de-wordpress-rapidamente-con-spectra-plugin/)
 - [¿Sin experiencia? Aprende a demostrar tu talento y conseguir trabajo](https://wordpress.tv/2025/02/27/inaki-lazaro-sin-experiencia-aprende-a-demostrar-tu-talento-y-conseguir-trabajo/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Consigue tu mejor imagen/video para tu WordPress con IA](https://wordpress.tv/2025/02/16/consigue-tu-mejor-imagen-video-para-tu-wordpress-con-ia/)
 - [Cómo ser un desarrollador WordPress con MÁS VALOR gracias a la IA](https://wordpress.tv/2025/02/16/yannick-garcia-como-ser-un-desarrollador-wordpress-con-mas-valor-gracias-a-la-ia/)
 - [Explorando la IA de los Page Builders más populares de 2025](https://wordpress.tv/2025/02/16/explorando-la-ia-de-los-page-builders-mas-populares-de-2025/)
-- [Código en WordPress con ChatGPT &lpar;incluso si no sabes programar&rpar;](https://wordpress.tv/2025/02/16/codigo-en-wordpress-con-chatgpt-incluso-si-no-sabes-programar/)
-- [BOGO: La estrategia psicológica que impulsa ventas en WooCommerce con ayuda de la IA](https://wordpress.tv/2025/02/16/bogo-la-estrategia-psicologica-que-impulsa-ventas-en-woocommerce-con-ayuda-de-la-ia/)
-- [Claves y trucos para crear imágenes profesionales con Inteligencia artificial](https://wordpress.tv/2025/02/16/claves-y-trucos-para-crear-imagenes-profesionales-con-inteligencia-artificial/)
-- [Diseño conductual inteligente: UX predictiva](https://wordpress.tv/2025/02/16/diseno-conductual-inteligente-ux-predictiva/)
 <!-- WPTV:END -->
 
 ## Marketing
