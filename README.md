@@ -352,7 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [MeetUp WordPress como Framework](https://wordpress.tv/2025/03/01/meetup-wordpress-como-framework/)
+- [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2025/03/01/meetup-wordpress-como-framework/)
 - [Construye tu Sitio de WordPress Rápidamente con Spectra plugin](https://wordpress.tv/2025/03/01/construye-tu-sitio-de-wordpress-rapidamente-con-spectra-plugin/)
 - [¿Sin experiencia? Aprende a demostrar tu talento y conseguir trabajo](https://wordpress.tv/2025/02/27/inaki-lazaro-sin-experiencia-aprende-a-demostrar-tu-talento-y-conseguir-trabajo/)
 - [Piérdele el miedo al nuevo Editor del Sitio de WordPress](https://wordpress.tv/2025/02/24/pierdele-el-miedo-al-nuevo-editor-del-sitio-de-wordpress/)
