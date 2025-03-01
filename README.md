@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for TZM Block Reveal Controls](https://make.wordpress.org/polyglots/2025/03/01/pte-request-for-tzm-block-reveal-controls/)
 - [PTE Request for Speed ​​Booster Pack ⚡ PageSpeed ​​Optimization Suite](https://make.wordpress.org/polyglots/2025/02/28/pte-request-for-speed-booster-pack-%e2%9a%a1-pagespeed-optimization-suite-2/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/27/hi-dear-mentors-we-have-166/)
 - [PTE request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-premium-addons-for-elementor-6/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for the theme – Phlox](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-the-theme-phlox/)
 - [PTE Request for ham3da integration for OxaPay](https://make.wordpress.org/polyglots/2025/02/26/pte-request-for-ham3da-integration-for-oxapay/)
 - [PTE Request for SEOPress – On-site SEO](https://make.wordpress.org/polyglots/2025/02/26/pte-request-for-seopress-on-site-seo/)
-- [PTE Request for rezip-packaging-for-woocommerce](https://make.wordpress.org/polyglots/2025/02/25/pte-request-for-rezip-packaging-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
