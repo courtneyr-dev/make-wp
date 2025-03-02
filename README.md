@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Customize WordPress theme](https://jobs.wordpress.net/job/customize-wordpress-theme-5/)
 - [Website Reskin](https://jobs.wordpress.net/job/website-reskin/)
 - [Need WordPress Developer](https://jobs.wordpress.net/job/need-wordpress-developer-5/)
 - [WordPress Developer Needed – Paid Memberships Pro &amp; PHP/SQL Expert](https://jobs.wordpress.net/job/wordpress-developer-needed-paid-memberships-pro-php-sql-expert/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[ASTRA] Vue.js Developer](https://jobs.wordpress.net/job/astra-vue-js-developer-2/)
 - [Small Fix](https://jobs.wordpress.net/job/small-fix/)
 - [Maintain my existing author website](https://jobs.wordpress.net/job/maintain-my-existing-author-website/)
-- [WordPress plugin customization](https://jobs.wordpress.net/job/wordpress-plugin-customization-5/)
 <!-- JOBS:END -->
 
 ## Central
