@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bienvenida WordCamp Zaragoza 2025](https://wordpress.tv/2025/03/03/bienvenida-wordcamp-zaragoza-2025/)
 - [Mi asistente IA sabe más de accesibilidad que tú &lpar;y que yo&rpar;](https://wordpress.tv/2025/03/01/mi-asistente-ia-sabe-mas-de-accesibilidad-que-tu-y-que-yo/)
 - [WordPress Headless y Craft Beer gallega: el caso de Cervezas Lupia.](https://wordpress.tv/2025/03/01/wordpress-headless-y-craft-beer-gallega-el-caso-de-cervezas-lupia/)
 - [Ciberseguridad en WordPress. Riesgos y Protecciones](https://wordpress.tv/2025/03/01/ciberseguridad-en-wordpress-riesgos-y-protecciones/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pensar antes de automatizar: el lado oscuro de la inteligencia artificial](https://wordpress.tv/2025/02/16/pensar-antes-de-automatizar-el-lado-oscuro-de-la-inteligencia-artificial/)
 - [IA: Las reglas del juego han cambiado](https://wordpress.tv/2025/02/16/ia-las-reglas-del-juego-han-cambiado/)
 - [Consigue tu mejor imagen/video para tu WordPress con IA](https://wordpress.tv/2025/02/16/consigue-tu-mejor-imagen-video-para-tu-wordpress-con-ia/)
-- [Cómo ser un desarrollador WordPress con MÁS VALOR gracias a la IA](https://wordpress.tv/2025/02/16/yannick-garcia-como-ser-un-desarrollador-wordpress-con-mas-valor-gracias-a-la-ia/)
 <!-- WPTV:END -->
 
 ## Marketing
