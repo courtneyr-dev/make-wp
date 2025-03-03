@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shopire Theme](https://make.wordpress.org/polyglots/2025/03/03/pte-request-for-shopire-theme-2/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2025/03/02/hello-i-am-the-theme-4/)
 - [PTE Request for Disable Cart Fragments by Optimocha](https://make.wordpress.org/polyglots/2025/03/02/pte-request-for-disable-cart-fragments-by-optimocha/)
 - [PTE Request for two of my own themes](https://make.wordpress.org/polyglots/2025/03/02/pte-request-for-two-of-my-own-themes/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/02/27/hi-dear-mentors-we-have-166/)
 - [PTE request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-premium-addons-for-elementor-6/)
 - [PTE Request for Shopire Theme](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-shopire-theme/)
-- [PTE request for Premium Addons for Elementor](https://make.wordpress.org/polyglots/2025/02/27/pte-request-for-premium-addons-for-elementor-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
