@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WCAG w praktyce: Projektowanie i kodowanie dostępnych stron internetowych](https://wordpress.tv/2025/03/03/wcag-w-praktyce-projektowanie-i-kodowanie-dostepnych-stron-internetowych/)
+- [Testowanie dostępności: Jak sprawdzić, czy strona spełnia kryteria WCAG?](https://wordpress.tv/2025/03/03/testowanie-dostepnosci-jak-sprawdzic-czy-strona-spelnia-kryteria-wcag/)
+- [Wprowadzenie do dostępności: Etyczna i Prawna Odpowiedzialność w Świecie Cyfrowym](https://wordpress.tv/2025/03/03/wprowadzenie-do-dostepnosci-etyczna-i-prawna-odpowiedzialnosc-w-swiecie-cyfrowym/)
 - [Bienvenida WordCamp Zaragoza 2025](https://wordpress.tv/2025/03/03/bienvenida-wordcamp-zaragoza-2025/)
 - [Mi asistente IA sabe más de accesibilidad que tú &lpar;y que yo&rpar;](https://wordpress.tv/2025/03/01/mi-asistente-ia-sabe-mas-de-accesibilidad-que-tu-y-que-yo/)
 - [WordPress Headless y Craft Beer gallega: el caso de Cervezas Lupia.](https://wordpress.tv/2025/03/01/wordpress-headless-y-craft-beer-gallega-el-caso-de-cervezas-lupia/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tu alIAdo para el SocIAl medIA](https://wordpress.tv/2025/02/24/tu-aliado-para-el-social-media/)
 - [Mastering WordPress Migration &amp; Backup – ওয়ার্ডপ্রেস মাইগ্রেশন ও ব্যাকআপের পূর্ণাঙ্গ গাইড](https://wordpress.tv/2025/02/16/mastering-wordpress-migration-backup/)
 - [Como escribir contenidos que posicionen con ChatGPT. Claves para hacer que la IA escriba como tu](https://wordpress.tv/2025/02/16/como-escribir-contenidos-que-posicionen-con-chatgpt-claves-para-hacer-que-la-ia-escriba-como-tu/)
-- [Pensar antes de automatizar: el lado oscuro de la inteligencia artificial](https://wordpress.tv/2025/02/16/pensar-antes-de-automatizar-el-lado-oscuro-de-la-inteligencia-artificial/)
-- [IA: Las reglas del juego han cambiado](https://wordpress.tv/2025/02/16/ia-las-reglas-del-juego-han-cambiado/)
-- [Consigue tu mejor imagen/video para tu WordPress con IA](https://wordpress.tv/2025/02/16/consigue-tu-mejor-imagen-video-para-tu-wordpress-con-ia/)
 <!-- WPTV:END -->
 
 ## Marketing
