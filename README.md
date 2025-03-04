@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Help Test WordPress 6.8](https://make.wordpress.org/plugins/2025/03/04/xpost-help-test-wordpress-6-8/)
 - [Plugin author now linked to WordPress.org profiles](https://make.wordpress.org/plugins/2025/02/20/plugin-author-now-linked-wp-profiles/)
 - [A Year in the Plugins Review Team – 2024](https://make.wordpress.org/plugins/2024/12/31/a-year-in-the-plugins-review-team-2024/)
 - [Plugin Check Goals &amp; Roadmap](https://make.wordpress.org/plugins/2024/12/24/plugin-check-goals-roadmap/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Upcoming Security Changes for Plugin and Theme Authors on WordPress.org](https://make.wordpress.org/plugins/2024/09/04/upcoming-security-changes-for-plugin-and-theme-authors-on-wordpress-org/)
 - [X-post: Call for contributors: Intermediate Plugin Developer learning pathway](https://make.wordpress.org/plugins/2024/07/30/xpost-call-for-contributors-intermediate-plugin-developer-learning-pathway/)
 - [Password Reset Required for Plugin Authors](https://make.wordpress.org/plugins/2024/06/29/password-reset-required-for-plugin-authors/)
-- [Keeping Your Plugin Committer Accounts Secure](https://make.wordpress.org/plugins/2024/06/26/keeping-your-plugin-committer-accounts-secure/)
 <!-- PLUGINS:END -->
 
 ## Community
