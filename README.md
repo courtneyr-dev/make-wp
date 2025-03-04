@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Help Test WordPress 6.8](https://make.wordpress.org/core/2025/03/04/xpost-help-test-wordpress-6-8/)
 - [What’s new in Gutenberg 20.3? &lpar;18 February&rpar;](https://make.wordpress.org/core/2025/03/03/whats-new-in-gutenberg-20-3-18-february/)
 - [WordPress 6.8 Release Party Schedule](https://make.wordpress.org/core/2025/03/03/wordpress-6-8-release-party-schedule/)
 - [Recap: WordPress 6.7 “Rollins” Retrospective](https://make.wordpress.org/core/2025/03/03/recap-wordpress-6-7-rollins-retrospective/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.7.2 RC2 is now available](https://make.wordpress.org/core/2025/02/07/wordpress-6-7-2-rc2-is-now-available/)
 - [Summary, Dev Chat, Feb 5, 2025](https://make.wordpress.org/core/2025/02/06/summary-dev-chat-february-5-2025/)
 - [Roadmap to 6.8](https://make.wordpress.org/core/2025/02/06/roadmap-to-6-8/)
-- [WordPress 6.7.2 RC1 is now available](https://make.wordpress.org/core/2025/02/04/wordpress-6-7-2-rc1-is-now-available/)
 <!-- CORE:END -->
 
 ## Design
