@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.8 Beta 1](https://wordpress.org/news/2025/03/wordpress-6-8-beta-1/)
 - [Shaping Tomorrow at WordCamp Asia 2025](https://wordpress.org/news/2025/02/shaping-tomorrow-at-wordcamp-asia-2025/)
 - [Report: WordPress in 2025](https://wordpress.org/news/2025/02/wordpress-in-2025-report/)
 - [WordCamp Asia 2025: Manila Magic](https://wordpress.org/news/2025/02/wordcamp-asia-2025-manila-magic/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Holiday Break](https://wordpress.org/news/2024/12/holiday-break/)
 - [State of the Word 2024: Legacy, Innovation, and Community](https://wordpress.org/news/2024/12/state-of-the-word-2024-legacy-innovation-and-community/)
 - [Write Books With the Block Editor](https://wordpress.org/news/2024/12/write-books-with-the-block-editor/)
-- [Openverse.org: A Sight for Sore Eyes](https://wordpress.org/news/2024/12/openverse-org-a-sight-for-sore-eyes/)
 <!-- NEWS:END -->
 
 ## Jobs
