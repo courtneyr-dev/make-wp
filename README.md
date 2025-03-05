@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [PHP Developer](https://jobs.wordpress.net/job/php-developer-39/)
+- [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-9/)
+- [WordPress And WooCommerce](https://jobs.wordpress.net/job/wordpress-and-woocommerce/)
+- [WordPress Review and Training](https://jobs.wordpress.net/job/wordpress-review-and-training/)
 - [Customize WordPress theme](https://jobs.wordpress.net/job/customize-wordpress-theme-5/)
 - [Website Reskin](https://jobs.wordpress.net/job/website-reskin/)
 - [Need WordPress Developer](https://jobs.wordpress.net/job/need-wordpress-developer-5/)
 - [WordPress Developer Needed – Paid Memberships Pro &amp; PHP/SQL Expert](https://jobs.wordpress.net/job/wordpress-developer-needed-paid-memberships-pro-php-sql-expert/)
 - [website editing](https://jobs.wordpress.net/job/website-editing/)
 - [Senior Fullstack WordPress Engineer | Remote &lpar;Europe and Africa&rpar; |  A new challenge awaits!](https://jobs.wordpress.net/job/senior-fullstack-wordpress-engineer-remote-europe-and-africa-a-new-challenge-awaits/)
-- [[ASTRA] Laravel Developer](https://jobs.wordpress.net/job/astra-laravel-developer/)
-- [[ASTRA] Vue.js Developer](https://jobs.wordpress.net/job/astra-vue-js-developer-2/)
-- [Small Fix](https://jobs.wordpress.net/job/small-fix/)
-- [Maintain my existing author website](https://jobs.wordpress.net/job/maintain-my-existing-author-website/)
 <!-- JOBS:END -->
 
 ## Central
