@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Caso Real: Errores y éxitos al crear mi propio sitio web en WordPress](https://wordpress.tv/2025/03/05/caso-real-errores-y-exitos-al-crear-mi-propio-sitio-web-en-wordpress/)
 - [WCAG w praktyce: Projektowanie i kodowanie dostępnych stron internetowych](https://wordpress.tv/2025/03/03/wcag-w-praktyce-projektowanie-i-kodowanie-dostepnych-stron-internetowych/)
 - [Testowanie dostępności: Jak sprawdzić, czy strona spełnia kryteria WCAG?](https://wordpress.tv/2025/03/03/testowanie-dostepnosci-jak-sprawdzic-czy-strona-spelnia-kryteria-wcag/)
 - [Wprowadzenie do dostępności: Etyczna i Prawna Odpowiedzialność w Świecie Cyfrowym](https://wordpress.tv/2025/03/03/wprowadzenie-do-dostepnosci-etyczna-i-prawna-odpowiedzialnosc-w-swiecie-cyfrowym/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [RAG: el sistema para crear un chatbot inteligente](https://wordpress.tv/2025/02/24/rag-el-sistema-para-crear-un-chatbot-inteligente/)
 - [Tu alIAdo para el SocIAl medIA](https://wordpress.tv/2025/02/24/tu-aliado-para-el-social-media/)
 - [Mastering WordPress Migration &amp; Backup – ওয়ার্ডপ্রেস মাইগ্রেশন ও ব্যাকআপের পূর্ণাঙ্গ গাইড](https://wordpress.tv/2025/02/16/mastering-wordpress-migration-backup/)
-- [Como escribir contenidos que posicionen con ChatGPT. Claves para hacer que la IA escriba como tu](https://wordpress.tv/2025/02/16/como-escribir-contenidos-que-posicionen-con-chatgpt-claves-para-hacer-que-la-ia-escriba-como-tu/)
 <!-- WPTV:END -->
 
 ## Marketing
