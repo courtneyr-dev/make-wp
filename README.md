@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Arvita Theme](https://make.wordpress.org/polyglots/2025/03/06/pte-request-for-arvita-theme/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/04/hi-dear-mentors-we-have-167/)
 - [Dear Polygots Community,](https://make.wordpress.org/polyglots/2025/03/04/dear-polygots-community-2/)
 - [Polyglots Table: A Recap from WordCamp Asia 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/03/03/polyglots-table-a-recap-from-wordcamp-asia-2025-contributor-day/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for two of my own themes](https://make.wordpress.org/polyglots/2025/03/02/pte-request-for-two-of-my-own-themes/)
 - [PTE Request for bbPress Plugin…](https://make.wordpress.org/polyglots/2025/03/01/pte-request-for-bbpress-plugin/)
 - [PTE Request for TZM Block Reveal Controls](https://make.wordpress.org/polyglots/2025/03/01/pte-request-for-tzm-block-reveal-controls/)
-- [PTE Request for Speed ​​Booster Pack ⚡ PageSpeed ​​Optimization Suite](https://make.wordpress.org/polyglots/2025/02/28/pte-request-for-speed-booster-pack-%e2%9a%a1-pagespeed-optimization-suite-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
