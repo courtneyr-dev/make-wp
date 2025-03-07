@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Another Global Sponsor Joins the Party](https://make.wordpress.org/community/2025/03/07/another-global-sponsor-joins-the-party/)
 - [Announcing the First Group of 2025 Global Sponsors](https://make.wordpress.org/community/2025/02/27/announcing-the-first-group-of-2025-global-sponsors/)
 - [WCAsia 2025 Contributor Day: What should we work on?](https://make.wordpress.org/community/2025/02/14/wcasia-2025-contributor-day-what-should-we-work-on/)
 - [Meetup Organizer Newsletter: February 2025](https://make.wordpress.org/community/2025/02/12/meetup-organizer-newsletter-february-2025/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [2025 Community Team Reps](https://make.wordpress.org/community/2025/01/10/2025-community-team-reps/)
 - [Community Team Meeting Agenda for January 9 – 2025](https://make.wordpress.org/community/2025/01/09/community-team-meeting-agenda-for-january-9-2025/)
 - [Update on the Community Team Supporters Cohort](https://make.wordpress.org/community/2024/12/24/update-on-the-community-team-supporters-cohort/)
-- [Hosting WordPress Events for Women on International Women’s Day](https://make.wordpress.org/community/2024/12/19/hosting-wordpress-events-for-women-on-international-womens-day/)
 <!-- COMMUNITY:END -->
 
 ## Meta
