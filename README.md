@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for sams-integration](https://make.wordpress.org/polyglots/2025/03/07/pte-request-for-sams-integration/)
+- [Hello Polyglots team, I am…](https://make.wordpress.org/polyglots/2025/03/07/hello-polyglots-team-i-am-2/)
+- [PTE Request for Shopire Theme](https://make.wordpress.org/polyglots/2025/03/07/pte-request-for-shopire-theme-3/)
 - [PTE Request for Arvita Theme](https://make.wordpress.org/polyglots/2025/03/06/pte-request-for-arvita-theme/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/04/hi-dear-mentors-we-have-167/)
 - [Dear Polygots Community,](https://make.wordpress.org/polyglots/2025/03/04/dear-polygots-community-2/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Shopire Theme](https://make.wordpress.org/polyglots/2025/03/03/pte-request-for-shopire-theme-2/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2025/03/02/hello-i-am-the-theme-4/)
 - [PTE Request for Disable Cart Fragments by Optimocha](https://make.wordpress.org/polyglots/2025/03/02/pte-request-for-disable-cart-fragments-by-optimocha/)
-- [PTE Request for two of my own themes](https://make.wordpress.org/polyglots/2025/03/02/pte-request-for-two-of-my-own-themes/)
-- [PTE Request for bbPress Plugin…](https://make.wordpress.org/polyglots/2025/03/01/pte-request-for-bbpress-plugin/)
-- [PTE Request for TZM Block Reveal Controls](https://make.wordpress.org/polyglots/2025/03/01/pte-request-for-tzm-block-reveal-controls/)
 <!-- POLYGLOTS:END -->
 
 ## Support
