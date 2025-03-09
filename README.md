@@ -352,6 +352,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Membership Sites y CPT: Tu web de membresía a medida con JetEngine](https://wordpress.tv/2025/03/09/membership-sites-y-cpt-tu-web-de-membresia-a-medida-con-jetengine/)
+- [Taller de optimización avanzada WPO – Carga condicional de plugins](https://wordpress.tv/2025/03/09/taller-de-optimizacion-avanzada-wpo-carga-condicional-de-plugins/)
+- [Personaliza los menús de WordPress con CSS](https://wordpress.tv/2025/03/09/personaliza-los-menus-de-wordpress-con-css/)
+- [Crea tu propio plugin para WordPress, desde cero o ya sabiendo algo.](https://wordpress.tv/2025/03/09/crea-tu-propio-plugin-para-wordpress-desde-cero-o-ya-sabiendo-algo/)
+- [Conoces las «Developer tools» del navegador … pero ¿nunca las has usado para analizar el rendimiento](https://wordpress.tv/2025/03/09/conoces-las-developer-tools-del-navegador-pero-nunca-las-has-usado-para-analizar-el-rendimiento/)
+- [Agradecimientos, sorteos y cierre](https://wordpress.tv/2025/03/09/agradecimientos-sorteos-y-cierre/)
+- [MESA DE DEBATE: «El Futuro de WordPress»](https://wordpress.tv/2025/03/09/mesa-de-debate-el-futuro-de-wordpress/)
+- [El drama de los maquetadores: ¿El problema es el código o nuestra forma de usarlos?](https://wordpress.tv/2025/03/09/el-drama-de-los-maquetadores-el-problema-es-el-codigo-o-nuestra-forma-de-usarlos/)
+- [Claves para adaptarte a la factura electrónica](https://wordpress.tv/2025/03/09/claves-para-adaptarte-a-la-factura-electronica/)
+- [Storytelling, copywriting y humor para que tu ponencia WordPress se recuerde mejor](https://wordpress.tv/2025/03/09/storytelling-copywriting-y-humor-para-que-tu-ponencia-wordpress-se-recuerde-mejor/)
+- [Playground: un WordPress de usar y tirar dentro de tu navegador](https://wordpress.tv/2025/03/09/playground-un-wordpress-de-usar-y-tirar-dentro-de-tu-navegador/)
+- [Traducir para vender: Cómo un sitio web multilingüe puede aumentar tus conversiones](https://wordpress.tv/2025/03/09/traducir-para-vender-como-un-sitio-web-multilingue-puede-aumentar-tus-conversiones/)
+- [Microcomunidades + WordPress: La fórmula del impacto social positivo](https://wordpress.tv/2025/03/09/microcomunidades-wordpress-la-formula-del-impacto-social-positivo/)
+- [Presentación de la WordCamp Madrid 2025](https://wordpress.tv/2025/03/09/presentacion-de-la-wordcamp-madrid-2025/)
 - [Caso Real: Errores y éxitos al crear mi propio sitio web en WordPress](https://wordpress.tv/2025/03/05/caso-real-errores-y-exitos-al-crear-mi-propio-sitio-web-en-wordpress/)
 - [WCAG w praktyce: Projektowanie i kodowanie dostępnych stron internetowych](https://wordpress.tv/2025/03/03/wcag-w-praktyce-projektowanie-i-kodowanie-dostepnych-stron-internetowych/)
 - [Testowanie dostępności: Jak sprawdzić, czy strona spełnia kryteria WCAG?](https://wordpress.tv/2025/03/03/testowanie-dostepnosci-jak-sprawdzic-czy-strona-spelnia-kryteria-wcag/)
@@ -363,20 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress y Emprendimiento: qué proyectos hacer para este 2025](https://wordpress.tv/2025/03/01/wordpress-y-emprendimiento-que-proyectos-hacer-para-este-2025/)
 - [Habilidades de la oratoria y la comunicación para conectar con la audiencia](https://wordpress.tv/2025/03/01/habilidades-de-la-oratoria-y-la-comunicacion-para-conectar-con-la-audiencia/)
 - [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2025/03/01/meetup-wordpress-como-framework/)
-- [Construye tu Sitio de WordPress Rápidamente con Spectra plugin](https://wordpress.tv/2025/03/01/construye-tu-sitio-de-wordpress-rapidamente-con-spectra-plugin/)
-- [¿Sin experiencia? Aprende a demostrar tu talento y conseguir trabajo](https://wordpress.tv/2025/02/27/inaki-lazaro-sin-experiencia-aprende-a-demostrar-tu-talento-y-conseguir-trabajo/)
-- [Piérdele el miedo al nuevo Editor del Sitio de WordPress](https://wordpress.tv/2025/02/24/pierdele-el-miedo-al-nuevo-editor-del-sitio-de-wordpress/)
-- [Sube a tu E-Commerce más de 7.000 productos de manera eficiente](https://wordpress.tv/2025/02/24/sube-a-tu-e-commerce-mas-de-7-000-productos-de-manera-eficiente/)
-- [Herramientas de IA para Podcasts y canales de YouTube](https://wordpress.tv/2025/02/24/herramientas-de-ia-para-podcasts-y-canales-de-youtube/)
-- [Los secretos para hacer del mantenimiento web tu mejor negocio](https://wordpress.tv/2025/02/24/los-secretos-para-hacer-del-mantenimiento-web-tu-mejor-negocio-2/)
-- [SEO en 2025: Estrategias Obsoletas vs. Claves para un Mejor Posicionamiento WP](https://wordpress.tv/2025/02/24/seo-en-2025-estrategias-obsoletas-vs-claves-para-un-mejor-posicionamiento-wp/)
-- [Todo es posible con la ayuda de ChatGPT: Código para no desarrolladores.](https://wordpress.tv/2025/02/24/todo-es-posible-con-la-ayuda-de-chatgpt-codigo-para-no-desarrolladores/)
-- [Cómo la IA está redefiniendo los servicios de hosting y la experiencia de usuario.](https://wordpress.tv/2025/02/24/como-la-ia-esta-redefiniendo-los-servicios-de-hosting-y-la-experiencia-de-usuario/)
-- [Escribe para cautivar: Cómo usar IA para mejorar tu copywriting y storytelling en WordPress](https://wordpress.tv/2025/02/24/escribe-para-cautivar-como-usar-ia-para-mejorar-tu-copywriting-y-storytelling-en-wordpress/)
-- [10 cosas que haces mal con Google Analytics](https://wordpress.tv/2025/02/24/10-cosas-que-haces-mal-con-google-analytics/)
-- [RAG: el sistema para crear un chatbot inteligente](https://wordpress.tv/2025/02/24/rag-el-sistema-para-crear-un-chatbot-inteligente/)
-- [Tu alIAdo para el SocIAl medIA](https://wordpress.tv/2025/02/24/tu-aliado-para-el-social-media/)
-- [Mastering WordPress Migration &amp; Backup – ওয়ার্ডপ্রেস মাইগ্রেশন ও ব্যাকআপের পূর্ণাঙ্গ গাইড](https://wordpress.tv/2025/02/16/mastering-wordpress-migration-backup/)
 <!-- WPTV:END -->
 
 ## Marketing
