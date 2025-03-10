@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sobrevive al cliente: La experiencia definitiva](https://wordpress.tv/2025/03/10/sobrevive-al-cliente-la-experiencia-definitiva/)
+- [El editor del sitio, el editor de bloques y su accesibilidad](https://wordpress.tv/2025/03/10/el-editor-del-sitio-el-editor-de-bloques-y-su-accesibilidad/)
+- [¡Dale vida a tu marca! Usa un branding coherente en el diseño de tu web](https://wordpress.tv/2025/03/10/dale-vida-a-tu-marca-usa-un-branding-coherente-en-el-diseno-de-tu-web/)
+- [Diseña una web que no parezca «el típico WordPress»](https://wordpress.tv/2025/03/10/disena-una-web-que-no-parezca-el-tipico-wordpress/)
+- [Analítica avanzada para WooCommerce](https://wordpress.tv/2025/03/10/analitica-avanzada-para-woocommerce/)
 - [Membership Sites y CPT: Tu web de membresía a medida con JetEngine](https://wordpress.tv/2025/03/09/membership-sites-y-cpt-tu-web-de-membresia-a-medida-con-jetengine/)
 - [Taller de optimización avanzada WPO – Carga condicional de plugins](https://wordpress.tv/2025/03/09/taller-de-optimizacion-avanzada-wpo-carga-condicional-de-plugins/)
 - [Personaliza los menús de WordPress con CSS](https://wordpress.tv/2025/03/09/personaliza-los-menus-de-wordpress-con-css/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Wprowadzenie do dostępności: Etyczna i Prawna Odpowiedzialność w Świecie Cyfrowym](https://wordpress.tv/2025/03/03/wprowadzenie-do-dostepnosci-etyczna-i-prawna-odpowiedzialnosc-w-swiecie-cyfrowym/)
 - [Bienvenida WordCamp Zaragoza 2025](https://wordpress.tv/2025/03/03/bienvenida-wordcamp-zaragoza-2025/)
 - [Mi asistente IA sabe más de accesibilidad que tú &lpar;y que yo&rpar;](https://wordpress.tv/2025/03/01/mi-asistente-ia-sabe-mas-de-accesibilidad-que-tu-y-que-yo/)
-- [WordPress Headless y Craft Beer gallega: el caso de Cervezas Lupia.](https://wordpress.tv/2025/03/01/wordpress-headless-y-craft-beer-gallega-el-caso-de-cervezas-lupia/)
-- [Ciberseguridad en WordPress. Riesgos y Protecciones](https://wordpress.tv/2025/03/01/ciberseguridad-en-wordpress-riesgos-y-protecciones/)
-- [WordPress y Emprendimiento: qué proyectos hacer para este 2025](https://wordpress.tv/2025/03/01/wordpress-y-emprendimiento-que-proyectos-hacer-para-este-2025/)
-- [Habilidades de la oratoria y la comunicación para conectar con la audiencia](https://wordpress.tv/2025/03/01/habilidades-de-la-oratoria-y-la-comunicacion-para-conectar-con-la-audiencia/)
-- [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2025/03/01/meetup-wordpress-como-framework/)
 <!-- WPTV:END -->
 
 ## Marketing
