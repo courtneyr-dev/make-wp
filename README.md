@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cómo la IA Generativa y los agentes pueden potenciar tus ideas](https://wordpress.tv/2025/03/10/como-la-ia-generativa-y-los-agentes-pueden-potenciar-tus-ideas/)
+- [Google: El aliado que no sabías que tenías en tu Estrategia Digital](https://wordpress.tv/2025/03/10/google-el-aliado-que-no-sabias-que-tenias-en-tu-estrategia-digital/)
+- [Hackea tu mente](https://wordpress.tv/2025/03/10/hackea-tu-mente/)
+- [Se Tu Efecto Mariposa](https://wordpress.tv/2025/03/10/se-tu-efecto-mariposa/)
 - [Sobrevive al cliente: La experiencia definitiva](https://wordpress.tv/2025/03/10/sobrevive-al-cliente-la-experiencia-definitiva/)
 - [El editor del sitio, el editor de bloques y su accesibilidad](https://wordpress.tv/2025/03/10/el-editor-del-sitio-el-editor-de-bloques-y-su-accesibilidad/)
 - [¡Dale vida a tu marca! Usa un branding coherente en el diseño de tu web](https://wordpress.tv/2025/03/10/dale-vida-a-tu-marca-usa-un-branding-coherente-en-el-diseno-de-tu-web/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Presentación de la WordCamp Madrid 2025](https://wordpress.tv/2025/03/09/presentacion-de-la-wordcamp-madrid-2025/)
 - [Caso Real: Errores y éxitos al crear mi propio sitio web en WordPress](https://wordpress.tv/2025/03/05/caso-real-errores-y-exitos-al-crear-mi-propio-sitio-web-en-wordpress/)
 - [WCAG w praktyce: Projektowanie i kodowanie dostępnych stron internetowych](https://wordpress.tv/2025/03/03/wcag-w-praktyce-projektowanie-i-kodowanie-dostepnych-stron-internetowych/)
-- [Testowanie dostępności: Jak sprawdzić, czy strona spełnia kryteria WCAG?](https://wordpress.tv/2025/03/03/testowanie-dostepnosci-jak-sprawdzic-czy-strona-spelnia-kryteria-wcag/)
-- [Wprowadzenie do dostępności: Etyczna i Prawna Odpowiedzialność w Świecie Cyfrowym](https://wordpress.tv/2025/03/03/wprowadzenie-do-dostepnosci-etyczna-i-prawna-odpowiedzialnosc-w-swiecie-cyfrowym/)
-- [Bienvenida WordCamp Zaragoza 2025](https://wordpress.tv/2025/03/03/bienvenida-wordcamp-zaragoza-2025/)
-- [Mi asistente IA sabe más de accesibilidad que tú &lpar;y que yo&rpar;](https://wordpress.tv/2025/03/01/mi-asistente-ia-sabe-mas-de-accesibilidad-que-tu-y-que-yo/)
 <!-- WPTV:END -->
 
 ## Marketing
