@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Enable bbPress for Block Themes](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-enable-bbpress-for-block-themes/)
 - [PTE Request for Visma Pay &lpar;Embedded Card&rpar; for Woocommerce](https://make.wordpress.org/polyglots/2025/03/10/pte-request-for-visma-pay-embedded-card-for-woocommerce/)
 - [PTE Request for Arvita Theme](https://make.wordpress.org/polyglots/2025/03/10/pte-request-for-arvita-theme-2/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2025/03/09/pte-request-for-customer-reviews-for-woocommerce-28/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dear WordPress Polyglots Team,](https://make.wordpress.org/polyglots/2025/03/07/dear-wordpress-polyglots-team/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/03/07/hello-polyglots-team-10/)
 - [PTE Request for sams-integration](https://make.wordpress.org/polyglots/2025/03/07/pte-request-for-sams-integration/)
-- [Hello Polyglots team, I am…](https://make.wordpress.org/polyglots/2025/03/07/hello-polyglots-team-i-am-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
