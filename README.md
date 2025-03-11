@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Howdy! I like to become…](https://make.wordpress.org/polyglots/2025/03/11/howdy-i-like-to-become/)
 - [PTE Request for MX Custom Login Popup](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-mx-custom-login-popup/)
 - [PTE Request for MúzaPay I…](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-muzapay-i/)
 - [PTE Request for Enable bbPress for Block Themes](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-enable-bbpress-for-block-themes/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dear WordPress Polyglots Team,](https://make.wordpress.org/polyglots/2025/03/08/dear-wordpress-polyglots-team-2/)
 - [CLPTE request in Beacon project](https://make.wordpress.org/polyglots/2025/03/07/clpte-request-in-beacon-project/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/07/hi-dear-mentors-we-have-168/)
-- [Dear WordPress Polyglots Team,](https://make.wordpress.org/polyglots/2025/03/07/dear-wordpress-polyglots-team/)
 <!-- POLYGLOTS:END -->
 
 ## Support
