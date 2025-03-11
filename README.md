@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Escribe menos, impacta más: Cómo simplificar el mensaje en tu web](https://wordpress.tv/2025/03/11/escribe-menos-impacta-mas-como-simplificar-el-mensaje-en-tu-web/)
 - [Cómo la IA Generativa y los agentes pueden potenciar tus ideas](https://wordpress.tv/2025/03/10/como-la-ia-generativa-y-los-agentes-pueden-potenciar-tus-ideas/)
 - [Google: El aliado que no sabías que tenías en tu Estrategia Digital](https://wordpress.tv/2025/03/10/google-el-aliado-que-no-sabias-que-tenias-en-tu-estrategia-digital/)
 - [Hackea tu mente](https://wordpress.tv/2025/03/10/hackea-tu-mente/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Microcomunidades + WordPress: La fórmula del impacto social positivo](https://wordpress.tv/2025/03/09/microcomunidades-wordpress-la-formula-del-impacto-social-positivo/)
 - [Presentación de la WordCamp Madrid 2025](https://wordpress.tv/2025/03/09/presentacion-de-la-wordcamp-madrid-2025/)
 - [Caso Real: Errores y éxitos al crear mi propio sitio web en WordPress](https://wordpress.tv/2025/03/05/caso-real-errores-y-exitos-al-crear-mi-propio-sitio-web-en-wordpress/)
-- [WCAG w praktyce: Projektowanie i kodowanie dostępnych stron internetowych](https://wordpress.tv/2025/03/03/wcag-w-praktyce-projektowanie-i-kodowanie-dostepnych-stron-internetowych/)
 <!-- WPTV:END -->
 
 ## Marketing
