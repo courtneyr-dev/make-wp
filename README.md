@@ -565,7 +565,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Celebración del liderazgo de las mujeres en Tecnología y WordPress – Cochabamba, Bolivia](https://central.wordcamp.org/wordcamps/womens-day-cochabamba-2025/)
 - [Women WordPress Day 2025 Delhi, India](https://central.wordcamp.org/wordcamps/women-wordpress-day-delhi-2025/)
 - [Women WordPress Day 2025 Ahmedabad, India](https://central.wordcamp.org/wordcamps/women-wordpress-day-ahmedabad-2025/)
-- [WordCamp Jinja 2025](https://central.wordcamp.org/wordcamps/wordcamp-jinja-2025/)
+- [Uganda Website Projects Competition 2025](https://central.wordcamp.org/wordcamps/uganda-projects-competition-2025/)
 - [WordCamp Nicaragua 2025](https://central.wordcamp.org/wordcamps/wordcamp-nicaragua-2025/)
 - [WordCamp Masaka 2025](https://central.wordcamp.org/wordcamps/wordcamp-masaka-2025/)
 - [WordCamp Bilbao 2025](https://central.wordcamp.org/wordcamps/wordcamp-bilbao-2025/)
