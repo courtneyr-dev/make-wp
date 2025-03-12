@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Remove layout destroying HTML-Tags](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-remove-layout-destroying-html-tags/)
+- [PTE Request for Advanced Clean Master](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-advanced-clean-master/)
+- [PTE Request for rtMedia](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-rtmedia/)
 - [Howdy! I like to become…](https://make.wordpress.org/polyglots/2025/03/11/howdy-i-like-to-become/)
 - [PTE Request for MX Custom Login Popup](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-mx-custom-login-popup/)
 - [PTE Request for MúzaPay I…](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-muzapay-i/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Visma Pay &lpar;Embedded Card&rpar; for Woocommerce](https://make.wordpress.org/polyglots/2025/03/10/pte-request-for-visma-pay-embedded-card-for-woocommerce/)
 - [PTE Request for Arvita Theme](https://make.wordpress.org/polyglots/2025/03/10/pte-request-for-arvita-theme-2/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2025/03/09/pte-request-for-customer-reviews-for-woocommerce-28/)
-- [Dear WordPress Polyglots Team,](https://make.wordpress.org/polyglots/2025/03/08/dear-wordpress-polyglots-team-2/)
-- [CLPTE request in Beacon project](https://make.wordpress.org/polyglots/2025/03/07/clpte-request-in-beacon-project/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/07/hi-dear-mentors-we-have-168/)
 <!-- POLYGLOTS:END -->
 
 ## Support
