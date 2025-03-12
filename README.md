@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Data: A helpful performance warning for developers in the ‘useSelect’ hook](https://make.wordpress.org/core/2025/03/12/data-a-helpful-performance-warning-for-developers-in-the-useselect-hook/)
 - [Roster of design tools per block &lpar;WordPress 6.8 edition&rpar;](https://make.wordpress.org/core/2025/03/12/roster-of-design-tools-per-block-wordpress-6-8-edition/)
 - [Internationalization improvements in 6.8](https://make.wordpress.org/core/2025/03/12/i18n-improvements-6-8/)
 - [Agenda, Dev Chat, Mar 12, 2025](https://make.wordpress.org/core/2025/03/11/agenda-dev-chat-mar-12-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Weekly Updates: Feb 17–21](https://make.wordpress.org/core/2025/02/24/editor-weekly-update-feb-17-21/)
 - [WordCamp Asia 2025 Core Committer Meeting Notes](https://make.wordpress.org/core/2025/02/22/wordcamp-asia-2025-core-committer-meeting-notes/)
 - [Summary, Dev Chat, Feb 19, 2025](https://make.wordpress.org/core/2025/02/19/summary-dev-chat-february-19-2025/)
-- [Agenda, Dev Chat, Feb 19, 2025](https://make.wordpress.org/core/2025/02/18/agenda-dev-chat-feb-19-2025/)
 <!-- CORE:END -->
 
 ## Design
