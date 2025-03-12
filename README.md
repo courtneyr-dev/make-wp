@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Internationalization improvements in 6.8](https://make.wordpress.org/core/2025/03/12/i18n-improvements-6-8/)
 - [Agenda, Dev Chat, Mar 12, 2025](https://make.wordpress.org/core/2025/03/11/agenda-dev-chat-mar-12-2025/)
 - [Editor Weekly Updates: Mar 3 – Mar 7](https://make.wordpress.org/core/2025/03/11/editor-weekly-update-feb-24-mar-2-2/)
 - [Performance Chat Summary: 11 March 2025](https://make.wordpress.org/core/2025/03/11/performance-chat-summary-11-march-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, Feb 19, 2025](https://make.wordpress.org/core/2025/02/19/summary-dev-chat-february-19-2025/)
 - [Agenda, Dev Chat, Feb 19, 2025](https://make.wordpress.org/core/2025/02/18/agenda-dev-chat-feb-19-2025/)
 - [WordPress 6.8 will use bcrypt for password hashing](https://make.wordpress.org/core/2025/02/17/wordpress-6-8-will-use-bcrypt-for-password-hashing/)
-- [Summary, Dev Chat, Feb 12, 2025](https://make.wordpress.org/core/2025/02/12/summary-dev-chat-february-12-2025/)
 <!-- CORE:END -->
 
 ## Design
