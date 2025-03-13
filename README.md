@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE Request for Gutenberg Plugin](https://make.wordpress.org/polyglots/2025/03/13/clpte-request-for-gutenberg-plugin/)
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/03/12/hi-polyglots-111/)
 - [PTE Request for Remove layout destroying HTML-Tags](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-remove-layout-destroying-html-tags/)
 - [PTE Request for Advanced Clean Master](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-advanced-clean-master/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for MúzaPay I…](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-muzapay-i/)
 - [PTE Request for Enable bbPress for Block Themes](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-enable-bbpress-for-block-themes/)
 - [PTE Request for Visma Pay &lpar;Embedded Card&rpar; for Woocommerce](https://make.wordpress.org/polyglots/2025/03/10/pte-request-for-visma-pay-embedded-card-for-woocommerce/)
-- [PTE Request for Arvita Theme](https://make.wordpress.org/polyglots/2025/03/10/pte-request-for-arvita-theme-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
