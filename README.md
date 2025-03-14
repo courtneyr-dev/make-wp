@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/14/hi-dear-mentors-we-have-169/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/polyglots/2025/03/14/xpost-help-test-wordpress-6-8/)
 - [PTE Request for SVG Support [RU]](https://make.wordpress.org/polyglots/2025/03/13/pte-request-for-svg-support-ru/)
 - [PTE Request for Affilizz](https://make.wordpress.org/polyglots/2025/03/13/pte-request-for-affilizz/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Advanced Clean Master](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-advanced-clean-master/)
 - [PTE Request for rtMedia](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-rtmedia/)
 - [Howdy! I like to become…](https://make.wordpress.org/polyglots/2025/03/11/howdy-i-like-to-become/)
-- [PTE Request for MX Custom Login Popup](https://make.wordpress.org/polyglots/2025/03/11/pte-request-for-mx-custom-login-popup/)
 <!-- POLYGLOTS:END -->
 
 ## Support
