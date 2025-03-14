@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [With my extensive experience as…](https://make.wordpress.org/polyglots/2025/03/14/with-my-extensive-experience-as/)
 - [PTE Request for Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/polyglots/2025/03/14/pte-request-for-plugin-check-pcp/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/14/hi-dear-mentors-we-have-169/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/polyglots/2025/03/14/xpost-help-test-wordpress-6-8/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/03/12/hi-polyglots-111/)
 - [PTE Request for Remove layout destroying HTML-Tags](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-remove-layout-destroying-html-tags/)
 - [PTE Request for Advanced Clean Master](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-advanced-clean-master/)
-- [PTE Request for rtMedia](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-rtmedia/)
 <!-- POLYGLOTS:END -->
 
 ## Support
