@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/polyglots/2025/03/14/pte-request-for-plugin-check-pcp/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/14/hi-dear-mentors-we-have-169/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/polyglots/2025/03/14/xpost-help-test-wordpress-6-8/)
-- [PTE Request for SVG Support [RU]](https://make.wordpress.org/polyglots/2025/03/13/pte-request-for-svg-support-ru/)
+- [PTE Request for SVG Support](https://make.wordpress.org/polyglots/2025/03/13/pte-request-for-svg-support-ru/)
 - [PTE Request for Affilizz](https://make.wordpress.org/polyglots/2025/03/13/pte-request-for-affilizz/)
 - [CLPTE Request for Gutenberg Plugin](https://make.wordpress.org/polyglots/2025/03/13/clpte-request-for-gutenberg-plugin/)
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/03/12/hi-polyglots-111/)
 - [PTE Request for Remove layout destroying HTML-Tags](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-remove-layout-destroying-html-tags/)
 - [PTE Request for Advanced Clean Master](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-advanced-clean-master/)
 - [PTE Request for rtMedia](https://make.wordpress.org/polyglots/2025/03/12/pte-request-for-rtmedia/)
-- [Howdy! I like to become…](https://make.wordpress.org/polyglots/2025/03/11/howdy-i-like-to-become/)
 <!-- POLYGLOTS:END -->
 
 ## Support
