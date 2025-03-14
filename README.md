@@ -556,6 +556,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [Women’s Day New York City 2025](https://central.wordcamp.org/wordcamps/womens-day-new-york-city-2025/)
 - [Women’s Day – Pune, India](https://central.wordcamp.org/wordcamps/womens-day-pune-2025/)
+- [Jornada de Disseny Web amb WordPress Lleida 2025](https://central.wordcamp.org/wordcamps/jornada-disseny-web-lleida-2025/)
 - [Women WordPress Day 2025 Kolkata](https://central.wordcamp.org/wordcamps/womens-day-kolkata-2025/)
 - [Women WordPress Day 2025 Mumbai India](https://central.wordcamp.org/wordcamps/womens-day-mumbai-2025/)
 - [Women WordPress Day Guatemala 2025](https://central.wordcamp.org/wordcamps/women-wordpress-day-guatemala-2025/)
@@ -563,7 +564,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Women WordPress Day 2025 Dhaka](https://central.wordcamp.org/wordcamps/womens-day-dhaka-2025/)
 - [Women WordPress Day 2025 Surat, India](https://central.wordcamp.org/wordcamps/surat-india/)
 - [Celebración del liderazgo de las mujeres en Tecnología y WordPress – Cochabamba, Bolivia](https://central.wordcamp.org/wordcamps/womens-day-cochabamba-2025/)
-- [Women WordPress Day 2025 Delhi, India](https://central.wordcamp.org/wordcamps/women-wordpress-day-delhi-2025/)
 - [Women WordPress Day 2025 Ahmedabad, India](https://central.wordcamp.org/wordcamps/women-wordpress-day-ahmedabad-2025/)
 - [Uganda Website Projects Competition 2025](https://central.wordcamp.org/wordcamps/uganda-projects-competition-2025/)
 - [WordCamp Nicaragua 2025](https://central.wordcamp.org/wordcamps/wordcamp-nicaragua-2025/)
