@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Help Test WordPress 6.8](https://make.wordpress.org/design/2025/03/14/xpost-help-test-wordpress-6-8/)
 - [WordCamp Asia 2025: Contributor Day Recap](https://make.wordpress.org/design/2025/02/27/wordcamp-asia-2025-contributor-day-recap/)
 - [Join the Design Table at WordCamp Asia 2025 Contributor Day!](https://make.wordpress.org/design/2025/02/18/join-the-design-table-at-wordcamp-asia-2025-contributor-day/)
 - [Design plans for WordPress 6.8](https://make.wordpress.org/design/2025/01/15/design-plans-for-wordpress-6-8/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design Share #69 &lpar;Nov 18-Nov 29&rpar;](https://make.wordpress.org/design/2024/12/02/design-share-69-nov-18-nov-29/)
 - [Design Share #68 &lpar;Nov 4-Nov 15&rpar;](https://make.wordpress.org/design/2024/11/18/design-share-68-nov-4-nov-15/)
 - [Announcing the new WordPress Design System Figma library](https://make.wordpress.org/design/2024/11/07/announcing-the-new-wordpress-design-system-figma-library/)
-- [Design Share #67 &lpar;Oct 21-Nov 1&rpar;](https://make.wordpress.org/design/2024/11/01/design-share-67-oct-21-nov-1/)
 <!-- DESIGN:END -->
 
 ## Mobile
