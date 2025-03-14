@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WooCommerce: El eCommerce Sin Barreras para América Latina](https://wordpress.tv/2025/03/14/woocommerce-el-ecommerce-sin-barreras-para-america-latina/)
 - [Escribe menos, impacta más: Cómo simplificar el mensaje en tu web](https://wordpress.tv/2025/03/11/escribe-menos-impacta-mas-como-simplificar-el-mensaje-en-tu-web/)
 - [Cómo la IA Generativa y los agentes pueden potenciar tus ideas](https://wordpress.tv/2025/03/10/como-la-ia-generativa-y-los-agentes-pueden-potenciar-tus-ideas/)
 - [Google: El aliado que no sabías que tenías en tu Estrategia Digital](https://wordpress.tv/2025/03/10/google-el-aliado-que-no-sabias-que-tenias-en-tu-estrategia-digital/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Traducir para vender: Cómo un sitio web multilingüe puede aumentar tus conversiones](https://wordpress.tv/2025/03/09/traducir-para-vender-como-un-sitio-web-multilingue-puede-aumentar-tus-conversiones/)
 - [Microcomunidades + WordPress: La fórmula del impacto social positivo](https://wordpress.tv/2025/03/09/microcomunidades-wordpress-la-formula-del-impacto-social-positivo/)
 - [Presentación de la WordCamp Madrid 2025](https://wordpress.tv/2025/03/09/presentacion-de-la-wordcamp-madrid-2025/)
-- [Caso Real: Errores y éxitos al crear mi propio sitio web en WordPress](https://wordpress.tv/2025/03/05/caso-real-errores-y-exitos-al-crear-mi-propio-sitio-web-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
