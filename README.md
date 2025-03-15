@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Top Customer Channel](https://make.wordpress.org/meta/2025/03/15/top-customer-channel/)
 - [Welcome back everyone! The holiday…](https://make.wordpress.org/meta/2025/01/03/welcome-back-everyone-the-holiday/)
 - [Make WordPress gets a refresh](https://make.wordpress.org/meta/2024/12/12/make-wordpress-gets-a-refresh/)
 - [The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/meta/2024/12/10/the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for October 16, 2024](https://make.wordpress.org/meta/2024/10/16/agenda-for-october-16-2024/)
 - [Agenda for October 1, 2024](https://make.wordpress.org/meta/2024/10/02/agenda-for-october-1-2024/)
 - [The Five for the Future site gets a refresh](https://make.wordpress.org/meta/2024/09/12/the-five-for-the-future-site-gets-a-refresh/)
-- [X-post: Update about the GatherPress project](https://make.wordpress.org/meta/2024/09/05/xpost-update-about-the-gatherpress-project/)
 <!-- META:END -->
 
 ## Training
