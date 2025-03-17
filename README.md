@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Dear Polyglots team,](https://make.wordpress.org/polyglots/2025/03/17/dear-polyglots-team/)
 - [Solicitud PTE para [Interactive Map Widget] y [Store Locations Map]](https://make.wordpress.org/polyglots/2025/03/17/solicitud-pte-para-interactive-map-widget-y-store-locations-map/)
 - [PTE request for GradiantX](https://make.wordpress.org/polyglots/2025/03/17/pte-request-for-gradiantx/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/03/15/hello-polyglots-312/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/14/hi-dear-mentors-we-have-169/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/polyglots/2025/03/14/xpost-help-test-wordpress-6-8/)
 - [PTE Request for SVG Support](https://make.wordpress.org/polyglots/2025/03/13/pte-request-for-svg-support-ru/)
-- [PTE Request for Affilizz](https://make.wordpress.org/polyglots/2025/03/13/pte-request-for-affilizz/)
 <!-- POLYGLOTS:END -->
 
 ## Support
