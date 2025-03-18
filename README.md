@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/18/hi-dear-mentors-we-have-170/)
+- [PTE Request for Paid Member Subscriptions](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-paid-member-subscriptions-2/)
 - [PTE Request for FluentAuth](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-fluentauth/)
 - [Dear Polyglots team,](https://make.wordpress.org/polyglots/2025/03/17/dear-polyglots-team/)
 - [Solicitud PTE para [Interactive Map Widget] y [Store Locations Map]](https://make.wordpress.org/polyglots/2025/03/17/solicitud-pte-para-interactive-map-widget-y-store-locations-map/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Fluent Forms  plugin](https://make.wordpress.org/polyglots/2025/03/15/pte-request-for-fluent-forms-plugin-2/)
 - [With my extensive experience as…](https://make.wordpress.org/polyglots/2025/03/14/with-my-extensive-experience-as/)
 - [PTE Request for Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/polyglots/2025/03/14/pte-request-for-plugin-check-pcp/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/14/hi-dear-mentors-we-have-169/)
-- [X-post: Help Test WordPress 6.8](https://make.wordpress.org/polyglots/2025/03/14/xpost-help-test-wordpress-6-8/)
 <!-- POLYGLOTS:END -->
 
 ## Support
