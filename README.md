@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hola](https://make.wordpress.org/polyglots/2025/03/18/hola-equipo-de-traduccion-de-wordpress/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/18/hi-dear-mentors-we-have-170/)
 - [PTE Request for Paid Member Subscriptions](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-paid-member-subscriptions-2/)
 - [PTE Request for FluentAuth](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-fluentauth/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/03/15/hello-polyglots-312/)
 - [PTE Request for Fluent Forms  plugin](https://make.wordpress.org/polyglots/2025/03/15/pte-request-for-fluent-forms-plugin-2/)
 - [With my extensive experience as…](https://make.wordpress.org/polyglots/2025/03/14/with-my-extensive-experience-as/)
-- [PTE Request for Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/polyglots/2025/03/14/pte-request-for-plugin-check-pcp/)
 <!-- POLYGLOTS:END -->
 
 ## Support
