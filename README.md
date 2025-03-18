@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.8 Beta 3](https://wordpress.org/news/2025/03/wordpress-6-8-beta-3/)
 - [WordPress 6.8 Beta 2](https://wordpress.org/news/2025/03/wordpress-6-8-beta-2/)
 - [WordPress 6.8 Beta 1](https://wordpress.org/news/2025/03/wordpress-6-8-beta-1/)
 - [Shaping Tomorrow at WordCamp Asia 2025](https://wordpress.org/news/2025/02/shaping-tomorrow-at-wordcamp-asia-2025/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Joost/Karim Fork](https://wordpress.org/news/2025/01/jkpress/)
 - [WordPress Themes Need More Weird: A Call for Creative Digital Homes](https://wordpress.org/news/2025/01/wordpress-themes-need-more-weird-a-call-for-creative-digital-homes/)
 - [Holiday Break](https://wordpress.org/news/2024/12/holiday-break/)
-- [State of the Word 2024: Legacy, Innovation, and Community](https://wordpress.org/news/2024/12/state-of-the-word-2024-legacy-innovation-and-community/)
 <!-- NEWS:END -->
 
 ## Jobs
