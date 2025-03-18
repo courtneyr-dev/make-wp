@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for FluentAuth](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-fluentauth/)
 - [Dear Polyglots team,](https://make.wordpress.org/polyglots/2025/03/17/dear-polyglots-team/)
 - [Solicitud PTE para [Interactive Map Widget] y [Store Locations Map]](https://make.wordpress.org/polyglots/2025/03/17/solicitud-pte-para-interactive-map-widget-y-store-locations-map/)
 - [PTE request for GradiantX](https://make.wordpress.org/polyglots/2025/03/17/pte-request-for-gradiantx/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/polyglots/2025/03/14/pte-request-for-plugin-check-pcp/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/14/hi-dear-mentors-we-have-169/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/polyglots/2025/03/14/xpost-help-test-wordpress-6-8/)
-- [PTE Request for SVG Support](https://make.wordpress.org/polyglots/2025/03/13/pte-request-for-svg-support-ru/)
 <!-- POLYGLOTS:END -->
 
 ## Support
