@@ -567,7 +567,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Women WordPress Day 2025 Ahmedabad, India](https://central.wordcamp.org/wordcamps/women-wordpress-day-ahmedabad-2025/)
 - [Uganda Website Projects Competition 2025](https://central.wordcamp.org/wordcamps/uganda-projects-competition-2025/)
 - [WordCamp Nicaragua 2025](https://central.wordcamp.org/wordcamps/wordcamp-nicaragua-2025/)
-- [WordCamp Masaka 2025](https://central.wordcamp.org/wordcamps/wordcamp-masaka-2025/)
+- [WordCamp Brisbane, Australia](https://central.wordcamp.org/wordcamps/brisbane-2025/)
 - [WordCamp Toulouse 2025](https://central.wordcamp.org/wordcamps/wordcamp-toulouse-2025/)
 <!-- WordCamp:END -->
 
