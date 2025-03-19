@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, Mar 19, 2025](https://make.wordpress.org/core/2025/03/19/summary-dev-chat-march-19-2025/)
 - [Agenda, Dev Chat, Mar 19, 2025](https://make.wordpress.org/core/2025/03/19/agenda-dev-chat-mar-19-2025/)
 - [More efficient block type registration in 6.8](https://make.wordpress.org/core/2025/03/13/more-efficient-block-type-registration-in-6-8/)
 - [Summary, Dev Chat, Mar 12, 2025](https://make.wordpress.org/core/2025/03/13/summary-dev-chat-march-12-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.8 Release Party Schedule](https://make.wordpress.org/core/2025/03/03/wordpress-6-8-release-party-schedule/)
 - [Recap: WordPress 6.7 “Rollins” Retrospective](https://make.wordpress.org/core/2025/03/03/recap-wordpress-6-7-rollins-retrospective/)
 - [Summary, Dev Chat, Feb 26, 2025](https://make.wordpress.org/core/2025/02/27/summary-dev-chat-february-26-2025/)
-- [Agenda, Dev Chat, Feb 26, 2025](https://make.wordpress.org/core/2025/02/25/agenda-dev-chat-feb-26-2025/)
 <!-- CORE:END -->
 
 ## Design
