@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – March 19, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/03/19/agenda-weekly-polyglots-chat-march-19-2025-700-utc/)
+- [Vote for the Polyglots Team Representatives 2025](https://make.wordpress.org/polyglots/2025/03/19/vote-for-the-polyglots-team-representatives-2025/)
 - [Hola](https://make.wordpress.org/polyglots/2025/03/18/hola-equipo-de-traduccion-de-wordpress/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/18/hi-dear-mentors-we-have-170/)
 - [PTE Request for Paid Member Subscriptions](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-paid-member-subscriptions-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Solicitud PTE para [Interactive Map Widget] y [Store Locations Map]](https://make.wordpress.org/polyglots/2025/03/17/solicitud-pte-para-interactive-map-widget-y-store-locations-map/)
 - [PTE request for GradiantX](https://make.wordpress.org/polyglots/2025/03/17/pte-request-for-gradiantx/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/03/15/hello-polyglots-312/)
-- [PTE Request for Fluent Forms  plugin](https://make.wordpress.org/polyglots/2025/03/15/pte-request-for-fluent-forms-plugin-2/)
-- [With my extensive experience as…](https://make.wordpress.org/polyglots/2025/03/14/with-my-extensive-experience-as/)
 <!-- POLYGLOTS:END -->
 
 ## Support
