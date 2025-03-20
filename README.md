@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for the Booster for WooCommerce Plugin](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-the-booster-for-woocommerce-plugin/)
 - [PTE Request for Contact Form 7 plugin](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-contact-form-7-plugin/)
 - [Hi guys](https://make.wordpress.org/polyglots/2025/03/20/hi-guys/)
 - [PTE Request for Solid Security](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-solid-security/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: About the Spectator role in the WordPress support forums](https://make.wordpress.org/polyglots/2025/03/19/xpost-about-the-spectator-role-in-the-wordpress-support-forums/)
 - [Agenda: Weekly Polyglots Chat – March 19, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/03/19/agenda-weekly-polyglots-chat-march-19-2025-700-utc/)
 - [Vote for the Polyglots Team Representatives 2025](https://make.wordpress.org/polyglots/2025/03/19/vote-for-the-polyglots-team-representatives-2025/)
-- [Hola](https://make.wordpress.org/polyglots/2025/03/18/hola-equipo-de-traduccion-de-wordpress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
