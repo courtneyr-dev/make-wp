@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Remove PTE for ACF](https://make.wordpress.org/polyglots/2025/03/20/remove-pte-for-acf/)
 - [PTE Request for Shiptastic for WooCommerce](https://make.wordpress.org/polyglots/2025/03/19/post-title-pte-request-for-shiptastic-for-woocommerce/)
 - [X-post: About the Spectator role in the WordPress support forums](https://make.wordpress.org/polyglots/2025/03/19/xpost-about-the-spectator-role-in-the-wordpress-support-forums/)
 - [Agenda: Weekly Polyglots Chat – March 19, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/03/19/agenda-weekly-polyglots-chat-march-19-2025-700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Paid Member Subscriptions](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-paid-member-subscriptions-2/)
 - [PTE Request for FluentAuth](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-fluentauth/)
 - [Dear Polyglots team,](https://make.wordpress.org/polyglots/2025/03/17/dear-polyglots-team/)
-- [Solicitud PTE para [Interactive Map Widget] y [Store Locations Map]](https://make.wordpress.org/polyglots/2025/03/17/solicitud-pte-para-interactive-map-widget-y-store-locations-map/)
 <!-- POLYGLOTS:END -->
 
 ## Support
