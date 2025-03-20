@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Solid Security](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-solid-security/)
+- [PTE Request for Maintenance &amp;…](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-maintenance-2/)
 - [Remove PTE for ACF](https://make.wordpress.org/polyglots/2025/03/20/remove-pte-for-acf/)
 - [PTE Request for Shiptastic for WooCommerce](https://make.wordpress.org/polyglots/2025/03/19/post-title-pte-request-for-shiptastic-for-woocommerce/)
 - [X-post: About the Spectator role in the WordPress support forums](https://make.wordpress.org/polyglots/2025/03/19/xpost-about-the-spectator-role-in-the-wordpress-support-forums/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hola](https://make.wordpress.org/polyglots/2025/03/18/hola-equipo-de-traduccion-de-wordpress/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/18/hi-dear-mentors-we-have-170/)
 - [PTE Request for Paid Member Subscriptions](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-paid-member-subscriptions-2/)
-- [PTE Request for FluentAuth](https://make.wordpress.org/polyglots/2025/03/18/pte-request-for-fluentauth/)
-- [Dear Polyglots team,](https://make.wordpress.org/polyglots/2025/03/17/dear-polyglots-team/)
 <!-- POLYGLOTS:END -->
 
 ## Support
