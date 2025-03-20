@@ -529,8 +529,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Customize WordPress theme](https://jobs.wordpress.net/job/customize-wordpress-theme-5/)
 - [Website Reskin](https://jobs.wordpress.net/job/website-reskin/)
 - [Need WordPress Developer](https://jobs.wordpress.net/job/need-wordpress-developer-5/)
-- [WordPress Developer Needed – Paid Memberships Pro &amp; PHP/SQL Expert](https://jobs.wordpress.net/job/wordpress-developer-needed-paid-memberships-pro-php-sql-expert/)
-- [Senior Fullstack WordPress Engineer | Remote &lpar;Europe and Africa&rpar; |  A new challenge awaits!](https://jobs.wordpress.net/job/senior-fullstack-wordpress-engineer-remote-europe-and-africa-a-new-challenge-awaits/)
 <!-- JOBS:END -->
 
 ## Central
