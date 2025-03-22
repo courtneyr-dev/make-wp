@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the author of…](https://make.wordpress.org/polyglots/2025/03/22/i-am-the-author-of-11/)
 - [PTE Request for MiniCart Theme](https://make.wordpress.org/polyglots/2025/03/22/pte-request-for-minicart-theme/)
 - [PTE Request for Shopire and MiniCart Themes](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-shopire-and-minicart-themes/)
 - [PTE Request for the Booster for WooCommerce Plugin](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-the-booster-for-woocommerce-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Maintenance &amp;…](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-maintenance-2/)
 - [Remove PTE for ACF](https://make.wordpress.org/polyglots/2025/03/20/remove-pte-for-acf/)
 - [PTE Request for Shiptastic for WooCommerce](https://make.wordpress.org/polyglots/2025/03/19/post-title-pte-request-for-shiptastic-for-woocommerce/)
-- [X-post: About the Spectator role in the WordPress support forums](https://make.wordpress.org/polyglots/2025/03/19/xpost-about-the-spectator-role-in-the-wordpress-support-forums/)
 <!-- POLYGLOTS:END -->
 
 ## Support
