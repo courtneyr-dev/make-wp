@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Contributing to WordPress: More Than Just Code](https://wordpress.tv/2025/03/22/contributing-to-wordpress-more-than-just-code/)
 - [Supera el estrés de vender: entiende a tus clientes y gestiona objeciones siendo](https://wordpress.tv/2025/03/21/supera-el-estres-de-vender-entiende-a-tus-clientes-y-gestiona-objeciones-siendo/)
 - [WordPress en acción: cómo diferentes negocios lo usan para vender más](https://wordpress.tv/2025/03/21/wordpress-en-accion-como-diferentes-negocios-lo-usan-para-vender-mas/)
 - [La voz femenina en el desarrollo de tecnologías de IA](https://wordpress.tv/2025/03/17/la-voz-femenina-en-el-desarrollo-de-tecnologias-de-ia/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [El drama de los maquetadores: ¿El problema es el código o nuestra forma de usarlos?](https://wordpress.tv/2025/03/09/el-drama-de-los-maquetadores-el-problema-es-el-codigo-o-nuestra-forma-de-usarlos/)
 - [Claves para adaptarte a la factura electrónica](https://wordpress.tv/2025/03/09/claves-para-adaptarte-a-la-factura-electronica/)
 - [Storytelling, copywriting y humor para que tu ponencia WordPress se recuerde mejor](https://wordpress.tv/2025/03/09/storytelling-copywriting-y-humor-para-que-tu-ponencia-wordpress-se-recuerde-mejor/)
-- [Playground: un WordPress de usar y tirar dentro de tu navegador](https://wordpress.tv/2025/03/09/playground-un-wordpress-de-usar-y-tirar-dentro-de-tu-navegador/)
 <!-- WPTV:END -->
 
 ## Marketing
