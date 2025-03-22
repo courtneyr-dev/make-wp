@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for MiniCart Theme](https://make.wordpress.org/polyglots/2025/03/22/pte-request-for-minicart-theme/)
 - [PTE Request for Shopire and MiniCart Themes](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-shopire-and-minicart-themes/)
 - [PTE Request for the Booster for WooCommerce Plugin](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-the-booster-for-woocommerce-plugin/)
 - [PTE Request for Contact Form 7 plugin](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-contact-form-7-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remove PTE for ACF](https://make.wordpress.org/polyglots/2025/03/20/remove-pte-for-acf/)
 - [PTE Request for Shiptastic for WooCommerce](https://make.wordpress.org/polyglots/2025/03/19/post-title-pte-request-for-shiptastic-for-woocommerce/)
 - [X-post: About the Spectator role in the WordPress support forums](https://make.wordpress.org/polyglots/2025/03/19/xpost-about-the-spectator-role-in-the-wordpress-support-forums/)
-- [Agenda: Weekly Polyglots Chat – March 19, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/03/19/agenda-weekly-polyglots-chat-march-19-2025-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
