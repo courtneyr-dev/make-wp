@@ -527,8 +527,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress And WooCommerce](https://jobs.wordpress.net/job/wordpress-and-woocommerce/)
 - [WordPress Review and Training](https://jobs.wordpress.net/job/wordpress-review-and-training/)
 - [Customize WordPress theme](https://jobs.wordpress.net/job/customize-wordpress-theme-5/)
-- [Website Reskin](https://jobs.wordpress.net/job/website-reskin/)
-- [Need WordPress Developer](https://jobs.wordpress.net/job/need-wordpress-developer-5/)
 <!-- JOBS:END -->
 
 ## Central
