@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Nomination for Project Translation Editor…](https://make.wordpress.org/polyglots/2025/03/23/nomination-for-project-translation-editor/)
 - [Hello, I would like to…](https://make.wordpress.org/polyglots/2025/03/23/hello-i-would-like-to-11/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2025/03/22/i-am-the-author-of-11/)
 - [PTE Request for MiniCart Theme](https://make.wordpress.org/polyglots/2025/03/22/pte-request-for-minicart-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi guys](https://make.wordpress.org/polyglots/2025/03/20/hi-guys/)
 - [PTE Request for Solid Security](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-solid-security/)
 - [PTE Request for Maintenance &amp;…](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-maintenance-2/)
-- [Remove PTE for ACF](https://make.wordpress.org/polyglots/2025/03/20/remove-pte-for-acf/)
 <!-- POLYGLOTS:END -->
 
 ## Support
