@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor Weekly Updates – March 10th – 23rd](https://make.wordpress.org/core/2025/03/24/editor-weekly-updates-march-10th-23rd/)
 - [New filter should_load_block_assets_on_demand in 6.8](https://make.wordpress.org/core/2025/03/24/new-filter-should_load_block_assets_on_demand-in-6-8/)
 - [Changes to the .screen-reader-text class in WordPress 6.8](https://make.wordpress.org/core/2025/03/20/changes-to-the-screen-reader-text-class-in-wordpress-6-8/)
 - [Summary, Dev Chat, Mar 19, 2025](https://make.wordpress.org/core/2025/03/19/summary-dev-chat-march-19-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Weekly Updates: Feb 24 – Mar 2](https://make.wordpress.org/core/2025/03/04/editor-weekly-update-feb-24-mar-2/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/core/2025/03/04/xpost-help-test-wordpress-6-8/)
 - [What’s new in Gutenberg 20.3? &lpar;18 February&rpar;](https://make.wordpress.org/core/2025/03/03/whats-new-in-gutenberg-20-3-18-february/)
-- [WordPress 6.8 Release Party Schedule](https://make.wordpress.org/core/2025/03/03/wordpress-6-8-release-party-schedule/)
 <!-- CORE:END -->
 
 ## Design
