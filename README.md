@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Silbentrennung](https://make.wordpress.org/polyglots/2025/03/24/pte-request-for-silbentrennung/)
 - [PTE Request for MiniCart Theme](https://make.wordpress.org/polyglots/2025/03/24/pte-request-for-minicart-theme-2/)
 - [Translation of Stable &lpar;latest release&rpar;: Norwegian &lpar;Bokmål&rpar;](https://make.wordpress.org/polyglots/2025/03/23/translation-of-stable-latest-release-norwegian-bokmal/)
 - [Nomination for Project Translation Editor…](https://make.wordpress.org/polyglots/2025/03/23/nomination-for-project-translation-editor/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Shopire and MiniCart Themes](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-shopire-and-minicart-themes/)
 - [PTE Request for the Booster for WooCommerce Plugin](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-the-booster-for-woocommerce-plugin/)
 - [PTE Request for Contact Form 7 plugin](https://make.wordpress.org/polyglots/2025/03/20/pte-request-for-contact-form-7-plugin/)
-- [Hi guys](https://make.wordpress.org/polyglots/2025/03/20/hi-guys/)
 <!-- POLYGLOTS:END -->
 
 ## Support
