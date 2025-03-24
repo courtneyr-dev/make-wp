@@ -526,7 +526,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-9/)
 - [WordPress And WooCommerce](https://jobs.wordpress.net/job/wordpress-and-woocommerce/)
 - [WordPress Review and Training](https://jobs.wordpress.net/job/wordpress-review-and-training/)
-- [Customize WordPress theme](https://jobs.wordpress.net/job/customize-wordpress-theme-5/)
 <!-- JOBS:END -->
 
 ## Central
