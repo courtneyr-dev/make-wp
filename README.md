@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 25 March 2025](https://make.wordpress.org/core/2025/03/25/performance-chat-summary-25-march-2025/)
+- [Agenda, Dev Chat, Mar 26, 2025](https://make.wordpress.org/core/2025/03/25/agenda-dev-chat-mar-26-2025/)
 - [Miscellaneous developer changes in WordPress 6.8](https://make.wordpress.org/core/2025/03/25/miscellaneous-developer-changes-in-wordpress-6-8/)
 - [WordPress 6.8 Release Candidate Phase](https://make.wordpress.org/core/2025/03/25/wordpress-6-8-release-candidate-phase/)
 - [Miscellaneous Block Editor Changes in WordPress 6.8](https://make.wordpress.org/core/2025/03/25/miscellaneous-block-editor-changes-in-wordpress-6-8/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Internationalization improvements in 6.8](https://make.wordpress.org/core/2025/03/12/i18n-improvements-6-8/)
 - [Agenda, Dev Chat, Mar 12, 2025](https://make.wordpress.org/core/2025/03/11/agenda-dev-chat-mar-12-2025/)
 - [Editor Weekly Updates: Mar 3 – Mar 7](https://make.wordpress.org/core/2025/03/11/editor-weekly-update-feb-24-mar-2-2/)
-- [Performance Chat Summary: 11 March 2025](https://make.wordpress.org/core/2025/03/11/performance-chat-summary-11-march-2025/)
-- [Speculative Loading in 6.8](https://make.wordpress.org/core/2025/03/06/speculative-loading-in-6-8/)
 <!-- CORE:END -->
 
 ## Design
