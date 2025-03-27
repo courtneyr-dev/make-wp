@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress y el futuro incierto: ¡No entren en pánico &lpar;todavía&rpar;!](https://wordpress.tv/2025/03/27/wordpress-y-el-futuro-incierto-no-entren-en-panico-todavia/)
 - [Conectando la IA y WooCommerce: Aprendizajes al publicar un plugin](https://wordpress.tv/2025/03/24/conectando-la-ia-y-woocommerce-aprendizajes-al-publicar-un-plugin/)
 - [Contributing to WordPress: More Than Just Code](https://wordpress.tv/2025/03/22/contributing-to-wordpress-more-than-just-code/)
 - [Supera el estrés de vender: entiende a tus clientes y gestiona objeciones siendo](https://wordpress.tv/2025/03/21/supera-el-estres-de-vender-entiende-a-tus-clientes-y-gestiona-objeciones-siendo/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agradecimientos, sorteos y cierre](https://wordpress.tv/2025/03/09/agradecimientos-sorteos-y-cierre/)
 - [MESA DE DEBATE: «El Futuro de WordPress»](https://wordpress.tv/2025/03/09/mesa-de-debate-el-futuro-de-wordpress/)
 - [El drama de los maquetadores: ¿El problema es el código o nuestra forma de usarlos?](https://wordpress.tv/2025/03/09/el-drama-de-los-maquetadores-el-problema-es-el-codigo-o-nuestra-forma-de-usarlos/)
-- [Claves para adaptarte a la factura electrónica](https://wordpress.tv/2025/03/09/claves-para-adaptarte-a-la-factura-electronica/)
 <!-- WPTV:END -->
 
 ## Marketing
