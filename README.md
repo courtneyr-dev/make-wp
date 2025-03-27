@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/27/hi-dear-mentors-we-have-172/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/27/hi-dear-mentors-we-have-171/)
 - [Hey Team](https://make.wordpress.org/polyglots/2025/03/26/hey-team-2/)
 - [PTE Request for Query Monitor – The developer tools panel for WordPress](https://make.wordpress.org/polyglots/2025/03/26/pte-request-for-query-monitor-the-developer-tools-panel-for-wordpress/)
 - [Agenda: Weekly Polyglots Chat – March 26, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/03/26/agenda-weekly-polyglots-chat-march-26-2025-1300-utc/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Silbentrennung](https://make.wordpress.org/polyglots/2025/03/24/pte-request-for-silbentrennung/)
 - [PTE Request for MiniCart Theme](https://make.wordpress.org/polyglots/2025/03/24/pte-request-for-minicart-theme-2/)
 - [Translation of Stable &lpar;latest release&rpar;: Norwegian &lpar;Bokmål&rpar;](https://make.wordpress.org/polyglots/2025/03/23/translation-of-stable-latest-release-norwegian-bokmal/)
-- [Nomination for Project Translation Editor…](https://make.wordpress.org/polyglots/2025/03/23/nomination-for-project-translation-editor/)
-- [Hello, I would like to…](https://make.wordpress.org/polyglots/2025/03/23/hello-i-would-like-to-11/)
 <!-- POLYGLOTS:END -->
 
 ## Support
