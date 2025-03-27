@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [New REST API Filter for Exposing Menus Publicly in WordPress 6.8](https://make.wordpress.org/core/2025/03/27/new-rest-api-filter-for-exposing-menus-publicly-in-wordpress-6-8/)
 - [Summary, Dev Chat, Mar 26, 2025](https://make.wordpress.org/core/2025/03/26/summary-dev-chat-march-26-2025/)
 - [Accessibility Improvements in WordPress 6.8](https://make.wordpress.org/core/2025/03/25/accessibility-improvements-in-wordpress-6-8/)
 - [Performance Chat Summary: 25 March 2025](https://make.wordpress.org/core/2025/03/25/performance-chat-summary-25-march-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: A Month in Core – February 2025](https://make.wordpress.org/core/2025/03/13/xpost-a-month-in-core-february-2025/)
 - [Data: A helpful performance warning for developers in the ‘useSelect’ hook](https://make.wordpress.org/core/2025/03/12/data-a-helpful-performance-warning-for-developers-in-the-useselect-hook/)
 - [Roster of design tools per block &lpar;WordPress 6.8 edition&rpar;](https://make.wordpress.org/core/2025/03/12/roster-of-design-tools-per-block-wordpress-6-8-edition/)
-- [Internationalization improvements in 6.8](https://make.wordpress.org/core/2025/03/12/i18n-improvements-6-8/)
 <!-- CORE:END -->
 
 ## Design
