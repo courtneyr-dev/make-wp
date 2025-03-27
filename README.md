@@ -522,10 +522,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [WordPress Fullstack Developer](https://jobs.wordpress.net/job/wordpress-fullstack-developer/)
-- [PHP Developer](https://jobs.wordpress.net/job/php-developer-39/)
-- [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-9/)
-- [WordPress And WooCommerce](https://jobs.wordpress.net/job/wordpress-and-woocommerce/)
-- [WordPress Review and Training](https://jobs.wordpress.net/job/wordpress-review-and-training/)
 <!-- JOBS:END -->
 
 ## Central
