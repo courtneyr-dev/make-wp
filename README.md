@@ -521,7 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [WordPress Fullstack Developer](https://jobs.wordpress.net/job/wordpress-fullstack-developer/)
+- [review site and implement plugins](https://jobs.wordpress.net/job/review-site-and-implement-plugins/)
+- [CampusPress Site Specialist](https://jobs.wordpress.net/job/campuspress-site-specialist-2/)
+- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-15/)
+- [CampusPress Site Specialist &lpar;WordPress, Multisite Networks, Communication, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-multisite-networks-communication-php-mysql-html-css/)
+- [Website Developer](https://jobs.wordpress.net/job/website-developer-28/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-24/)
+- [WordPress Fullstack Developer](https://jobs.wordpress.net/job/wordpress-fullstack-developer-2/)
+- [Full Stack WordPress Developer For Full Time](https://jobs.wordpress.net/job/full-stack-wordpress-developer-for-full-time/)
+- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-43/)
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-8/)
 <!-- JOBS:END -->
 
 ## Central
