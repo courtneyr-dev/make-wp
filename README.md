@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.8 string changes in readme.html file](https://make.wordpress.org/polyglots/2025/03/28/wordpress-6-8-string-changes-in-readme-html-file/)
 - [WordPress 6.8 ready to be translated](https://make.wordpress.org/polyglots/2025/03/28/wordpress-6-8-ready-to-be-translated/)
 - [PTE Request for Easy Auto Reload plugin](https://make.wordpress.org/polyglots/2025/03/28/pte-request-for-easy-auto-reload-plugin/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/27/hi-dear-mentors-we-have-172/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – March 26, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/03/26/agenda-weekly-polyglots-chat-march-26-2025-1300-utc/)
 - [PTE Request for WindPress](https://make.wordpress.org/polyglots/2025/03/25/pte-request-for-windpress/)
 - [PTE Request for AI –…](https://make.wordpress.org/polyglots/2025/03/25/pte-request-for-ai/)
-- [PTE Request for Silbentrennung](https://make.wordpress.org/polyglots/2025/03/24/pte-request-for-silbentrennung/)
 <!-- POLYGLOTS:END -->
 
 ## Support
