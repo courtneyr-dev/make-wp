@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Opportunities as a student for WordCamp](https://wordpress.tv/2025/03/29/opportunities-as-a-student-for-wordcamp/)
+- [Translating WordPress](https://wordpress.tv/2025/03/29/translating-wordpress/)
 - [Securing E-commerce on WordPress: Fraud Detection Strategies for WooCommerce](https://wordpress.tv/2025/03/28/securing-e-commerce-on-wordpress-fraud-detection-strategies-for-woocommerce/)
 - [WordPress y el futuro incierto: ¡No entren en pánico &lpar;todavía&rpar;!](https://wordpress.tv/2025/03/27/wordpress-y-el-futuro-incierto-no-entren-en-panico-todavia/)
 - [Conectando la IA y WooCommerce: Aprendizajes al publicar un plugin](https://wordpress.tv/2025/03/24/conectando-la-ia-y-woocommerce-aprendizajes-al-publicar-un-plugin/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Personaliza los menús de WordPress con CSS](https://wordpress.tv/2025/03/09/personaliza-los-menus-de-wordpress-con-css/)
 - [Crea tu propio plugin para WordPress, desde cero o ya sabiendo algo.](https://wordpress.tv/2025/03/09/crea-tu-propio-plugin-para-wordpress-desde-cero-o-ya-sabiendo-algo/)
 - [Conoces las «Developer tools» del navegador … pero ¿nunca las has usado para analizar el rendimiento](https://wordpress.tv/2025/03/09/conoces-las-developer-tools-del-navegador-pero-nunca-las-has-usado-para-analizar-el-rendimiento/)
-- [Agradecimientos, sorteos y cierre](https://wordpress.tv/2025/03/09/agradecimientos-sorteos-y-cierre/)
-- [MESA DE DEBATE: «El Futuro de WordPress»](https://wordpress.tv/2025/03/09/mesa-de-debate-el-futuro-de-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
