@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/03/30/i-am-the-plugin-author-52/)
 - [PTE Request for Flixita Theme](https://make.wordpress.org/polyglots/2025/03/30/pte-request-for-flixita-theme/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/03/29/pte-request-for-abiz-theme/)
 - [PTE Request for Shopire and MiniCart Themes](https://make.wordpress.org/polyglots/2025/03/29/pte-request-for-shopire-and-minicart-themes-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/27/hi-dear-mentors-we-have-172/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/27/hi-dear-mentors-we-have-171/)
 - [Hey Team](https://make.wordpress.org/polyglots/2025/03/26/hey-team-2/)
-- [PTE Request for Query Monitor – The developer tools panel for WordPress](https://make.wordpress.org/polyglots/2025/03/26/pte-request-for-query-monitor-the-developer-tools-panel-for-wordpress/)
 <!-- POLYGLOTS:END -->
 
 ## Support
