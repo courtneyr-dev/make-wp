@@ -528,9 +528,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-24/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-15/)
 - [CampusPress Site Specialist &lpar;WordPress, Multisite Networks, Communication, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-multisite-networks-communication-php-mysql-html-css/)
-- [Website Developer](https://jobs.wordpress.net/job/website-developer-28/)
 - [CampusPress Site Specialist](https://jobs.wordpress.net/job/campuspress-site-specialist-2/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-43/)
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-8/)
 <!-- JOBS:END -->
 
 ## Central
