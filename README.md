@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [CampusPress Project Assistant](https://jobs.wordpress.net/job/campuspress-project-assistant-2/)
+- [Product Assistant](https://jobs.wordpress.net/job/product-assistant-3/)
+- [Regular WordPress Developer](https://jobs.wordpress.net/job/regular-wordpress-developer/)
 - [review site and implement plugins](https://jobs.wordpress.net/job/review-site-and-implement-plugins/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-24/)
 - [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-15/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Website Developer](https://jobs.wordpress.net/job/website-developer-28/)
 - [CampusPress Site Specialist](https://jobs.wordpress.net/job/campuspress-site-specialist-2/)
 - [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-43/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-8/)
-- [Senior WordPress Engineer — Block Editor, Themes, Automation &lpar;Remote, Full Time&rpar;](https://jobs.wordpress.net/job/senior-wordpress-engineer-block-editor-themes-automation-remote-full-time/)
-- [[Astra] E-commerce Store Specialist](https://jobs.wordpress.net/job/astra-e-commerce-store-specialist/)
 <!-- JOBS:END -->
 
 ## Central
