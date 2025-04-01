@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Aprèn a auditar WordPress per a millorar el rendiment](https://wordpress.tv/2025/04/01/apren-a-auditar-wordpress-per-a-millorar-el-rendiment/)
 - [UX: tendencias vs. estrategia](https://wordpress.tv/2025/03/29/ux-tendencias-vs-estrategia/)
 - [Connessioni di WordPress e Laravel](https://wordpress.tv/2025/03/29/connessioni-di-wordpress-e-laravel/)
 - [Opportunities as a student for WordCamp](https://wordpress.tv/2025/03/29/opportunities-as-a-student-for-wordcamp/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Analítica avanzada para WooCommerce](https://wordpress.tv/2025/03/10/analitica-avanzada-para-woocommerce/)
 - [Membership Sites y CPT: Tu web de membresía a medida con JetEngine](https://wordpress.tv/2025/03/09/membership-sites-y-cpt-tu-web-de-membresia-a-medida-con-jetengine/)
 - [Taller de optimización avanzada WPO – Carga condicional de plugins](https://wordpress.tv/2025/03/09/taller-de-optimizacion-avanzada-wpo-carga-condicional-de-plugins/)
-- [Personaliza los menús de WordPress con CSS](https://wordpress.tv/2025/03/09/personaliza-los-menus-de-wordpress-con-css/)
 <!-- WPTV:END -->
 
 ## Marketing
