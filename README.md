@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for the Mozis theme](https://make.wordpress.org/polyglots/2025/03/31/pte-request-for-the-mozis-theme/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/31/hi-dear-mentors-we-have-173/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/03/30/i-am-the-plugin-author-52/)
 - [PTE Request for Flixita Theme](https://make.wordpress.org/polyglots/2025/03/30/pte-request-for-flixita-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.8 ready to be translated](https://make.wordpress.org/polyglots/2025/03/28/wordpress-6-8-ready-to-be-translated/)
 - [PTE Request for Easy Auto Reload plugin](https://make.wordpress.org/polyglots/2025/03/28/pte-request-for-easy-auto-reload-plugin/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/27/hi-dear-mentors-we-have-172/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/27/hi-dear-mentors-we-have-171/)
 <!-- POLYGLOTS:END -->
 
 ## Support
