@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Proposal – the Documentation team meetings time](https://make.wordpress.org/docs/2025/04/02/proposal-the-documentation-team-meetings-time/)
 - [Summary for Discussion Meeting &lpar;01-Apr-2025&rpar;](https://make.wordpress.org/docs/2025/04/02/summary-for-discussion-meeting-01-apr-2025/)
 - [Summary for Discussion Meeting &lpar;04-Mar-2025&rpar;](https://make.wordpress.org/docs/2025/03/06/summary-for-discussion-meeting-04-mar-2025/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/docs/2025/03/04/xpost-help-test-wordpress-6-8/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Docs Team Meeting &lpar;5-Nov-2024&rpar;](https://make.wordpress.org/docs/2024/11/10/summary-for-docs-team-meeting-5-nov-2024/)
 - [X-post: Training Team Updates – November 2024](https://make.wordpress.org/docs/2024/11/04/xpost-training-team-updates-november-2024/)
 - [Summary for Docs Team Meeting &lpar;15-Oct-2024&rpar;](https://make.wordpress.org/docs/2024/10/19/summary-for-docs-team-meeting-15-oct-2024/)
-- [Online monthly Docs Team Contributor Day October 22, 2024](https://make.wordpress.org/docs/2024/10/17/online-monthly-docs-team-contributor-day-october-22-2024/)
 <!-- DOCS:END -->
 
 ### Support Articles
