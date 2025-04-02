@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, Apr 2, 2025](https://make.wordpress.org/core/2025/04/02/summary-dev-chat-april-2-2025/)
 - [Agenda, Dev Chat, Apr 2, 2025](https://make.wordpress.org/core/2025/04/01/agenda-dev-chat-apr-2-2025/)
 - [WordPress 6.8 Field Guide](https://make.wordpress.org/core/2025/03/28/wordpress-6-8-field-guide/)
 - [New REST API Filter for Exposing Menus Publicly in WordPress 6.8](https://make.wordpress.org/core/2025/03/27/new-rest-api-filter-for-exposing-menus-publicly-in-wordpress-6-8/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda, Dev Chat, Mar 19, 2025](https://make.wordpress.org/core/2025/03/19/agenda-dev-chat-mar-19-2025/)
 - [More efficient block type registration in 6.8](https://make.wordpress.org/core/2025/03/13/more-efficient-block-type-registration-in-6-8/)
 - [Summary, Dev Chat, Mar 12, 2025](https://make.wordpress.org/core/2025/03/13/summary-dev-chat-march-12-2025/)
-- [X-post: A Month in Core – February 2025](https://make.wordpress.org/core/2025/03/13/xpost-a-month-in-core-february-2025/)
 <!-- CORE:END -->
 
 ## Design
