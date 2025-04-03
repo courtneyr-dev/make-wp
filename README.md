@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Add to Home Screen WP, OrderStock by TulipWork &amp; WP Alternative Post Title](https://make.wordpress.org/polyglots/2025/04/03/pte-request-for-add-to-home-screen-wp-orderstock-by-tulipwork-wp-alternative-post-title/)
 - [PTE request for the theme – Blocksy](https://make.wordpress.org/polyglots/2025/04/03/pte-request-for-the-theme-blocksy/)
 - [PTE Request for Embed Consent](https://make.wordpress.org/polyglots/2025/04/03/pte-request-for-embed-consent/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/04/01/pte-request-for-abiz-theme-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Flixita Theme](https://make.wordpress.org/polyglots/2025/03/30/pte-request-for-flixita-theme/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/03/29/pte-request-for-abiz-theme/)
 - [PTE Request for Shopire and MiniCart Themes](https://make.wordpress.org/polyglots/2025/03/29/pte-request-for-shopire-and-minicart-themes-2/)
-- [WordPress 6.8 string changes in readme.html file](https://make.wordpress.org/polyglots/2025/03/28/wordpress-6-8-string-changes-in-readme-html-file/)
 <!-- POLYGLOTS:END -->
 
 ## Support
