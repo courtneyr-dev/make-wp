@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Embed Consent](https://make.wordpress.org/polyglots/2025/04/03/pte-request-for-embed-consent/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/04/01/pte-request-for-abiz-theme-2/)
 - [PTE Request for the Mozis theme](https://make.wordpress.org/polyglots/2025/03/31/pte-request-for-the-mozis-theme/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/31/hi-dear-mentors-we-have-173/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Shopire and MiniCart Themes](https://make.wordpress.org/polyglots/2025/03/29/pte-request-for-shopire-and-minicart-themes-2/)
 - [WordPress 6.8 string changes in readme.html file](https://make.wordpress.org/polyglots/2025/03/28/wordpress-6-8-string-changes-in-readme-html-file/)
 - [WordPress 6.8 ready to be translated](https://make.wordpress.org/polyglots/2025/03/28/wordpress-6-8-ready-to-be-translated/)
-- [PTE Request for Easy Auto Reload plugin](https://make.wordpress.org/polyglots/2025/03/28/pte-request-for-easy-auto-reload-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
