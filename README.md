@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [CampusPress Project Assistant](https://jobs.wordpress.net/job/campuspress-project-assistant-2/)
-- [Product Assistant](https://jobs.wordpress.net/job/product-assistant-3/)
-- [review site and implement plugins](https://jobs.wordpress.net/job/review-site-and-implement-plugins/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-24/)
-- [[ASTRA] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-15/)
-- [CampusPress Site Specialist &lpar;WordPress, Multisite Networks, Communication, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-multisite-networks-communication-php-mysql-html-css/)
-- [CampusPress Site Specialist](https://jobs.wordpress.net/job/campuspress-site-specialist-2/)
-- [WordPress Support Specialist &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-php-mysql-css-html-43/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-8/)
-- [Senior WordPress Engineer — Block Editor, Themes, Automation &lpar;Remote, Full Time&rpar;](https://jobs.wordpress.net/job/senior-wordpress-engineer-block-editor-themes-automation-remote-full-time/)
+- [Need a change in my website](https://jobs.wordpress.net/job/need-a-change-in-my-website/)
+- [Regular WordPress Developer](https://jobs.wordpress.net/job/regular-wordpress-developer-2/)
+- [Jr.Architect](https://jobs.wordpress.net/job/jr-architect/)
+- [Senior WordPress Engineer &lpar;AI Coding Tool Experience Required&rpar;](https://jobs.wordpress.net/job/senior-wordpress-engineer-ai-coding-tool-experience-required/)
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-33/)
+- [Marketing Site Build](https://jobs.wordpress.net/job/marketing-site-build-2/)
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-32/)
+- [Sales Closer &lpar;Account Sales Executive&rpar;](https://jobs.wordpress.net/job/sales-closer-account-sales-executive-2/)
+- [Full Time Graphic Designer Good With Photoshop, XD. No Developer](https://jobs.wordpress.net/job/full-time-graphic-designer-good-with-photoshop-xd-no-developer/)
+- [Web Developer – V.P Consulting Website Build](https://jobs.wordpress.net/job/web-developer-v-p-consulting-website-build/)
 <!-- JOBS:END -->
 
 ## Central
