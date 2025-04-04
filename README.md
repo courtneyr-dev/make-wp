@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Jak nie dać sobie ukraść 100 000 €](https://wordpress.tv/2025/04/04/jak-nie-dac-sobie-ukrasc-100-000-e/)
+- [Aktualizacje – to przecież tylko jedno kliknięcie](https://wordpress.tv/2025/04/04/aktualizacje-to-przeciez-tylko-jedno-klikniecie/)
+- [Bezpieczeństwo w czasie używania i administrowania witryną korzystającą z WordPressa](https://wordpress.tv/2025/04/04/bezpieczenstwo-w-czasie-uzywania-i-administrowania-witryna-korzystajaca-z-wordpressa/)
 - [De la Plantà a la Cremà. El Ciclo de Vida de Vulnerabilidades de WordPress](https://wordpress.tv/2025/04/01/de-la-planta-a-la-crema-el-ciclo-de-vida-de-vulnerabilidades-de-wordpress/)
 - [Aprèn a auditar WordPress per a millorar el rendiment](https://wordpress.tv/2025/04/01/apren-a-auditar-wordpress-per-a-millorar-el-rendiment/)
 - [UX: tendencias vs. estrategia](https://wordpress.tv/2025/03/29/ux-tendencias-vs-estrategia/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sobrevive al cliente: La experiencia definitiva](https://wordpress.tv/2025/03/10/sobrevive-al-cliente-la-experiencia-definitiva/)
 - [El editor del sitio, el editor de bloques y su accesibilidad](https://wordpress.tv/2025/03/10/el-editor-del-sitio-el-editor-de-bloques-y-su-accesibilidad/)
 - [¡Dale vida a tu marca! Usa un branding coherente en el diseño de tu web](https://wordpress.tv/2025/03/10/dale-vida-a-tu-marca-usa-un-branding-coherente-en-el-diseno-de-tu-web/)
-- [Diseña una web que no parezca «el típico WordPress»](https://wordpress.tv/2025/03/10/disena-una-web-que-no-parezca-el-tipico-wordpress/)
-- [Analítica avanzada para WooCommerce](https://wordpress.tv/2025/03/10/analitica-avanzada-para-woocommerce/)
-- [Membership Sites y CPT: Tu web de membresía a medida con JetEngine](https://wordpress.tv/2025/03/09/membership-sites-y-cpt-tu-web-de-membresia-a-medida-con-jetengine/)
 <!-- WPTV:END -->
 
 ## Marketing
