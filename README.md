@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Birthday For WooCommerce](https://make.wordpress.org/polyglots/2025/04/04/pte-request-for-birthday-for-woocommerce/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/04/03/hello-95/)
 - [PTE Request for Add to Home Screen WP, OrderStock by TulipWork &amp; WP Alternative Post Title](https://make.wordpress.org/polyglots/2025/04/03/pte-request-for-add-to-home-screen-wp-orderstock-by-tulipwork-wp-alternative-post-title/)
 - [PTE request for the theme – Blocksy](https://make.wordpress.org/polyglots/2025/04/03/pte-request-for-the-theme-blocksy/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/03/31/hi-dear-mentors-we-have-173/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/03/30/i-am-the-plugin-author-52/)
 - [PTE Request for Flixita Theme](https://make.wordpress.org/polyglots/2025/03/30/pte-request-for-flixita-theme/)
-- [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/03/29/pte-request-for-abiz-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
