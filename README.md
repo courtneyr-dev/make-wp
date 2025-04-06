@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Prävention gegen WordPress-Hacking](https://wordpress.tv/2025/04/06/pravention-gegen-wordpress-hacking/)
+- [Tschüss Google, Hallo KI](https://wordpress.tv/2025/04/06/tschuss-google-hallo-ki/)
+- [Impacto y experiencia del do_action](https://wordpress.tv/2025/04/06/impacto-y-experiencia-del-do_action/)
+- [Opening Remarks](https://wordpress.tv/2025/04/06/opening-remarks-5/)
+- [How We Can Contribute to WordPress and the Different Ways to Get Involved](https://wordpress.tv/2025/04/06/how-we-can-contribute-to-wordpress-and-the-different-ways-to-get-involved/)
+- [Building Your Personal Brand All About You: Unleashing the Power of Personal Branding](https://wordpress.tv/2025/04/06/building-your-personal-brand-all-about-you-unleashing-the-power-of-personal-branding/)
+- [Building a supportive environment for women in our community](https://wordpress.tv/2025/04/06/building-a-supportive-environment-for-women-in-our-community/)
+- [One step forward: Taking a leap beyond my comfort zone](https://wordpress.tv/2025/04/06/one-step-forward-taking-a-leap-beyond-my-comfort-zone/)
+- [Panel Discussion](https://wordpress.tv/2025/04/06/panel-discussion/)
+- [The Role of Women in WordPress Meetups &amp; WordCamps](https://wordpress.tv/2025/04/06/the-role-of-women-in-wordpress-meetups-wordcamps/)
 - [Jak nie dać sobie ukraść 100 000 €](https://wordpress.tv/2025/04/04/jak-nie-dac-sobie-ukrasc-100-000-e/)
 - [Aktualizacje – to przecież tylko jedno kliknięcie](https://wordpress.tv/2025/04/04/aktualizacje-to-przeciez-tylko-jedno-klikniecie/)
 - [Bezpieczeństwo w czasie używania i administrowania witryną korzystającą z WordPressa](https://wordpress.tv/2025/04/04/bezpieczenstwo-w-czasie-uzywania-i-administrowania-witryna-korzystajaca-z-wordpressa/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contributing to WordPress: More Than Just Code](https://wordpress.tv/2025/03/22/contributing-to-wordpress-more-than-just-code/)
 - [Supera el estrés de vender: entiende a tus clientes y gestiona objeciones siendo](https://wordpress.tv/2025/03/21/supera-el-estres-de-vender-entiende-a-tus-clientes-y-gestiona-objeciones-siendo/)
 - [WordPress en acción: cómo diferentes negocios lo usan para vender más](https://wordpress.tv/2025/03/21/wordpress-en-accion-como-diferentes-negocios-lo-usan-para-vender-mas/)
-- [La voz femenina en el desarrollo de tecnologías de IA](https://wordpress.tv/2025/03/17/la-voz-femenina-en-el-desarrollo-de-tecnologias-de-ia/)
-- [WooCommerce: El eCommerce Sin Barreras para América Latina](https://wordpress.tv/2025/03/14/woocommerce-el-ecommerce-sin-barreras-para-america-latina/)
-- [Escribe menos, impacta más: Cómo simplificar el mensaje en tu web](https://wordpress.tv/2025/03/11/escribe-menos-impacta-mas-como-simplificar-el-mensaje-en-tu-web/)
-- [Cómo la IA Generativa y los agentes pueden potenciar tus ideas](https://wordpress.tv/2025/03/10/como-la-ia-generativa-y-los-agentes-pueden-potenciar-tus-ideas/)
-- [Google: El aliado que no sabías que tenías en tu Estrategia Digital](https://wordpress.tv/2025/03/10/google-el-aliado-que-no-sabias-que-tenias-en-tu-estrategia-digital/)
-- [Hackea tu mente](https://wordpress.tv/2025/03/10/hackea-tu-mente/)
-- [Se Tu Efecto Mariposa](https://wordpress.tv/2025/03/10/se-tu-efecto-mariposa/)
-- [Sobrevive al cliente: La experiencia definitiva](https://wordpress.tv/2025/03/10/sobrevive-al-cliente-la-experiencia-definitiva/)
-- [El editor del sitio, el editor de bloques y su accesibilidad](https://wordpress.tv/2025/03/10/el-editor-del-sitio-el-editor-de-bloques-y-su-accesibilidad/)
-- [¡Dale vida a tu marca! Usa un branding coherente en el diseño de tu web](https://wordpress.tv/2025/03/10/dale-vida-a-tu-marca-usa-un-branding-coherente-en-el-diseno-de-tu-web/)
 <!-- WPTV:END -->
 
 ## Marketing
