@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Clean Malware From WordPress website](https://jobs.wordpress.net/job/clean-malware-from-wordpress-website/)
+- [Senior Full Stack WordPress &lpar;and Gutenberg&rpar; Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-and-gutenberg-developer/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-859/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-14/)
 - [Need a change in my website](https://jobs.wordpress.net/job/need-a-change-in-my-website/)
 - [Regular WordPress Developer](https://jobs.wordpress.net/job/regular-wordpress-developer-2/)
 - [Jr.Architect](https://jobs.wordpress.net/job/jr-architect/)
 - [Senior WordPress Engineer &lpar;AI Coding Tool Experience Required&rpar;](https://jobs.wordpress.net/job/senior-wordpress-engineer-ai-coding-tool-experience-required/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-33/)
 - [Marketing Site Build](https://jobs.wordpress.net/job/marketing-site-build-2/)
-- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-32/)
-- [Sales Closer &lpar;Account Sales Executive&rpar;](https://jobs.wordpress.net/job/sales-closer-account-sales-executive-2/)
-- [Full Time Graphic Designer Good With Photoshop, XD. No Developer](https://jobs.wordpress.net/job/full-time-graphic-designer-good-with-photoshop-xd-no-developer/)
-- [Web Developer – V.P Consulting Website Build](https://jobs.wordpress.net/job/web-developer-v-p-consulting-website-build/)
 <!-- JOBS:END -->
 
 ## Central
