@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WordPress.org Russian](https://make.wordpress.org/polyglots/2025/04/08/pte-request-for-wordpress-org-russian/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/08/hi-dear-mentors-we-have-175/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/08/hi-dear-mentors-we-have-174/)
 - [Hi Team,](https://make.wordpress.org/polyglots/2025/04/08/hi-team-7/)
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2025/04/07/post-title-pte-request-for-65/)
+- [PTE Request for…](https://make.wordpress.org/polyglots/2025/04/07/post-title-pte-request-for-65/)
 - [hello polyglots!](https://make.wordpress.org/polyglots/2025/04/06/hello-polyglots-313/)
 - [PTE Request for the Neve Theme &lpar;Gujarati Locale&rpar;](https://make.wordpress.org/polyglots/2025/04/04/pte-request-for-the-neve-theme-gujarati-locale/)
 - [PTE Request for Birthday For WooCommerce](https://make.wordpress.org/polyglots/2025/04/04/pte-request-for-birthday-for-woocommerce/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/04/03/hello-95/)
 - [PTE Request for Add to Home Screen WP, OrderStock by TulipWork &amp; WP Alternative Post Title](https://make.wordpress.org/polyglots/2025/04/03/pte-request-for-add-to-home-screen-wp-orderstock-by-tulipwork-wp-alternative-post-title/)
-- [PTE request for the theme – Blocksy](https://make.wordpress.org/polyglots/2025/04/03/pte-request-for-the-theme-blocksy/)
 <!-- POLYGLOTS:END -->
 
 ## Support
