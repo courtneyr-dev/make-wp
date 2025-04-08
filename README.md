@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.8 Release Candidate 3](https://wordpress.org/news/2025/04/wordpress-6-8-release-candidate-3/)
 - [WordPress 6.8 Release Candidate 2](https://wordpress.org/news/2025/04/wordpress-6-8-release-candidate-2/)
 - [WordPress 6.8 Release Candidate 1](https://wordpress.org/news/2025/03/wordpress-6-8-release-candidate-1/)
 - [WordPress 6.8 Beta 3](https://wordpress.org/news/2025/03/wordpress-6-8-beta-3/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Report: WordPress in 2025](https://wordpress.org/news/2025/02/wordpress-in-2025-report/)
 - [WordCamp Asia 2025: Manila Magic](https://wordpress.org/news/2025/02/wordcamp-asia-2025-manila-magic/)
 - [WordPress 6.7.2 Maintenance Release](https://wordpress.org/news/2025/02/wordpress-6-7-2-maintenance-release/)
-- [Joost/Karim Fork](https://wordpress.org/news/2025/01/jkpress/)
 <!-- NEWS:END -->
 
 ## Jobs
