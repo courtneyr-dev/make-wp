@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, Apr 9, 2025](https://make.wordpress.org/core/2025/04/09/summary-dev-chat-april-9-2025/)
 - [Agenda, Dev Chat, Apr 9, 2025](https://make.wordpress.org/core/2025/04/09/agenda-dev-chat-apr-9-2025/)
 - [PHP 8 support clarification](https://make.wordpress.org/core/2025/04/09/php-8-support-clarification/)
 - [Performance Chat Summary: 8 April 2025](https://make.wordpress.org/core/2025/04/08/performance-chat-summary-25-february-2025-2/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Updates to user-interface components in WordPress 6.8](https://make.wordpress.org/core/2025/03/25/updates-to-user-interface-components-in-wordpress-6-8/)
 - [Interactivity API best practices in 6.8](https://make.wordpress.org/core/2025/03/24/interactivity-api-best-practices-in-6-8/)
 - [Editor Weekly Updates – March 10th – 23rd](https://make.wordpress.org/core/2025/03/24/editor-weekly-updates-march-10th-23rd/)
-- [New filter should_load_block_assets_on_demand in 6.8](https://make.wordpress.org/core/2025/03/24/new-filter-should_load_block_assets_on_demand-in-6-8/)
 <!-- CORE:END -->
 
 ## Design
