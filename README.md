@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Crea tu workflow de Figma a Elementor](https://wordpress.tv/2025/04/09/crea-tu-workflow-de-figma-a-elementor/)
+- [Bienvenida y presentación del evento](https://wordpress.tv/2025/04/09/bienvenida-y-presentacion-del-evento/)
+- [Diseño web y accesibilidad: creando experiencias para todos](https://wordpress.tv/2025/04/09/diseno-web-y-accesibilidad-creando-experiencias-para-todos/)
+- [De Figma a WordPress: del diseño a la web](https://wordpress.tv/2025/04/09/de-figma-a-wordpress-del-diseno-a-la-web/)
+- [Tendencias en diseño web 2025](https://wordpress.tv/2025/04/09/tendencias-en-diseno-web-2025/)
+- [Más allá del marketing: campañas que transforman](https://wordpress.tv/2025/04/09/mas-alla-del-marketing-campanas-que-transforman/)
 - [Empowering Digital Marketers by Transform Websites to Marketing Machines](https://wordpress.tv/2025/04/09/empowering-digital-marketers-by-transform-websites-to-marketing-machines/)
 - [Prävention gegen WordPress-Hacking](https://wordpress.tv/2025/04/06/pravention-gegen-wordpress-hacking/)
 - [Tschüss Google, Hallo KI](https://wordpress.tv/2025/04/06/tschuss-google-hallo-ki/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [UX: tendencias vs. estrategia](https://wordpress.tv/2025/03/29/ux-tendencias-vs-estrategia/)
 - [Connessioni di WordPress e Laravel](https://wordpress.tv/2025/03/29/connessioni-di-wordpress-e-laravel/)
 - [Opportunities as a student for WordCamp](https://wordpress.tv/2025/03/29/opportunities-as-a-student-for-wordcamp/)
-- [Translating WordPress](https://wordpress.tv/2025/03/29/translating-wordpress/)
-- [Securing E-commerce on WordPress: Fraud Detection Strategies for WooCommerce](https://wordpress.tv/2025/03/28/securing-e-commerce-on-wordpress-fraud-detection-strategies-for-woocommerce/)
-- [WordPress y el futuro incierto: ¡No entren en pánico &lpar;todavía&rpar;!](https://wordpress.tv/2025/03/27/wordpress-y-el-futuro-incierto-no-entren-en-panico-todavia/)
-- [Conectando la IA y WooCommerce: Aprendizajes al publicar un plugin](https://wordpress.tv/2025/03/24/conectando-la-ia-y-woocommerce-aprendizajes-al-publicar-un-plugin/)
-- [Contributing to WordPress: More Than Just Code](https://wordpress.tv/2025/03/22/contributing-to-wordpress-more-than-just-code/)
-- [Supera el estrés de vender: entiende a tus clientes y gestiona objeciones siendo](https://wordpress.tv/2025/03/21/supera-el-estres-de-vender-entiende-a-tus-clientes-y-gestiona-objeciones-siendo/)
 <!-- WPTV:END -->
 
 ## Marketing
