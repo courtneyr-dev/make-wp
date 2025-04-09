@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Empowering Digital Marketers by Transform Websites to Marketing Machines](https://wordpress.tv/2025/04/09/empowering-digital-marketers-by-transform-websites-to-marketing-machines/)
 - [Prävention gegen WordPress-Hacking](https://wordpress.tv/2025/04/06/pravention-gegen-wordpress-hacking/)
 - [Tschüss Google, Hallo KI](https://wordpress.tv/2025/04/06/tschuss-google-hallo-ki/)
 - [Impacto y experiencia del do_action](https://wordpress.tv/2025/04/06/impacto-y-experiencia-del-do_action/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Conectando la IA y WooCommerce: Aprendizajes al publicar un plugin](https://wordpress.tv/2025/03/24/conectando-la-ia-y-woocommerce-aprendizajes-al-publicar-un-plugin/)
 - [Contributing to WordPress: More Than Just Code](https://wordpress.tv/2025/03/22/contributing-to-wordpress-more-than-just-code/)
 - [Supera el estrés de vender: entiende a tus clientes y gestiona objeciones siendo](https://wordpress.tv/2025/03/21/supera-el-estres-de-vender-entiende-a-tus-clientes-y-gestiona-objeciones-siendo/)
-- [WordPress en acción: cómo diferentes negocios lo usan para vender más](https://wordpress.tv/2025/03/21/wordpress-en-accion-como-diferentes-negocios-lo-usan-para-vender-mas/)
 <!-- WPTV:END -->
 
 ## Marketing
