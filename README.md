@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team April 2025 Meeting Recap](https://make.wordpress.org/community/2025/04/10/community-team-april-2025-meeting-recap/)
 - [Meetup Organizer Newsletter: March 2025](https://make.wordpress.org/community/2025/04/03/meetup-organizer-newsletter-march-2025/)
 - [Community Team Meeting Agenda for 3 – April -2025](https://make.wordpress.org/community/2025/04/03/community-team-meeting-agenda-for-3-april-2025/)
 - [Announcing WordCamp Volunteer Badges on WordPress.org Profiles](https://make.wordpress.org/community/2025/04/02/announcing-wordcamp-volunteer-badges-on-wordpress-org-profiles/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCAsia 2025 Contributor Day: What should we work on?](https://make.wordpress.org/community/2025/02/14/wcasia-2025-contributor-day-what-should-we-work-on/)
 - [Meetup Organizer Newsletter: February 2025](https://make.wordpress.org/community/2025/02/12/meetup-organizer-newsletter-february-2025/)
 - [Announcement: Sponsor review process changes](https://make.wordpress.org/community/2025/01/31/announcement-sponsor-review-process-changes/)
-- [Meetup Organizer Newsletter: January 2025](https://make.wordpress.org/community/2025/01/10/meetup-organizer-newsletter-january-2025/)
 <!-- COMMUNITY:END -->
 
 ## Meta
