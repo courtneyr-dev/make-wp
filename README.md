@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Help me fix the WordPress site I have- build the menus etc.](https://jobs.wordpress.net/job/help-me-fix-the-wordpress-site-i-have-build-the-menus-etc/)
+- [Website design](https://jobs.wordpress.net/job/website-design-15/)
+- [Full Stack WordPress Developer &lpar;Plugin Development Focus&rpar;](https://jobs.wordpress.net/job/full-stack-wordpress-developer-plugin-development-focus/)
 - [Clean Malware From WordPress website](https://jobs.wordpress.net/job/clean-malware-from-wordpress-website/)
 - [Senior Full Stack WordPress &lpar;and Gutenberg&rpar; Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-and-gutenberg-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-859/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Need a change in my website](https://jobs.wordpress.net/job/need-a-change-in-my-website/)
 - [Regular WordPress Developer](https://jobs.wordpress.net/job/regular-wordpress-developer-2/)
 - [Jr.Architect](https://jobs.wordpress.net/job/jr-architect/)
-- [Senior WordPress Engineer &lpar;AI Coding Tool Experience Required&rpar;](https://jobs.wordpress.net/job/senior-wordpress-engineer-ai-coding-tool-experience-required/)
-- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-33/)
-- [Marketing Site Build](https://jobs.wordpress.net/job/marketing-site-build-2/)
 <!-- JOBS:END -->
 
 ## Central
