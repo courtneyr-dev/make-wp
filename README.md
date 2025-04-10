@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “Campaign Plus…](https://make.wordpress.org/polyglots/2025/04/10/pte-request-for-campaign-plus/)
+- [PTE Request for Post visit count Plugin](https://make.wordpress.org/polyglots/2025/04/10/pte-request-for-post-visit-count-plugin/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/04/09/hi-polyglots-team-4/)
 - [PTE Request for NewsBlogy Theme](https://make.wordpress.org/polyglots/2025/04/09/pte-request-for-newsblogy-theme/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/04/08/hello-polyglots-314/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/08/hi-dear-mentors-we-have-174/)
 - [Hi Team,](https://make.wordpress.org/polyglots/2025/04/08/hi-team-7/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2025/04/07/post-title-pte-request-for-65/)
-- [hello polyglots!](https://make.wordpress.org/polyglots/2025/04/06/hello-polyglots-313/)
-- [PTE Request for the Neve Theme &lpar;Gujarati Locale&rpar;](https://make.wordpress.org/polyglots/2025/04/04/pte-request-for-the-neve-theme-gujarati-locale/)
 <!-- POLYGLOTS:END -->
 
 ## Support
