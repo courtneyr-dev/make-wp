@@ -296,7 +296,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
-- [How to Publish Your Plugin on WordPress.org: Full Guideline &lpar;Bangla&rpar;](https://learn.wordpress.org/?meeting=how-to-publish-your-plugin-on-wordpress-org-full-guideline-bangla)
 - [Mastering WordPress Migration &amp; Backup – Bengali](https://learn.wordpress.org/?meeting=mastering-wordpress-migration-backup-bengali)
 - [サポートフォーラムモデレーター養成ワークショップ](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%e3%83%a2%e3%83%87%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e9%a4%8a%e6%88%90%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7)
 - [WordPress Playground for developers](https://learn.wordpress.org/?meeting=wordpress-playground-for-developers)
@@ -321,6 +320,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fixing Plugin Check issues](https://learn.wordpress.org/?meeting=fixing-plugin-check-issues)
 - [Creating a portfolio site with a block theme and patterns](https://learn.wordpress.org/?meeting=creating-a-portfolio-site-with-a-block-theme-and-patterns)
 - [Developer Hours: An Introduction to Data Views](https://learn.wordpress.org/?meeting=developer-hours-an-introduction-to-data-views)
+- [WordPress Playground Block code editor theme support](https://learn.wordpress.org/?meeting=wordpress-playground-block-code-editor-theme-support)
 <!-- SLS:END -->
 
 ## Test
