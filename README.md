@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Prośba o zatwierdzenie tłumaczeń wtyczki NETSENSAI Shield](https://make.wordpress.org/polyglots/2025/04/11/prosba-o-zatwierdzenie-tlumaczen-wtyczki-netsensai-shield/)
 - [PTE Request for NewsBlogy Theme](https://make.wordpress.org/polyglots/2025/04/11/pte-request-for-newsblogy-theme-2/)
 - [PTE Request for “Campaign Plus…](https://make.wordpress.org/polyglots/2025/04/10/pte-request-for-campaign-plus/)
 - [PTE Request for Post visit count Plugin](https://make.wordpress.org/polyglots/2025/04/10/pte-request-for-post-visit-count-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WordPress.org Russian](https://make.wordpress.org/polyglots/2025/04/08/pte-request-for-wordpress-org-russian/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/08/hi-dear-mentors-we-have-175/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/08/hi-dear-mentors-we-have-174/)
-- [Hi Team,](https://make.wordpress.org/polyglots/2025/04/08/hi-team-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
