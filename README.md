@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [WP-Cli নিয়ে সম্পূর্ণ গাইডলাইন – WP-CLI Complete Guideline](https://learn.wordpress.org/?meeting=wp-cli-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a7%82%e0%a6%b0%e0%a7%8d%e0%a6%a3-%e0%a6%97%e0%a6%be%e0%a6%87%e0%a6%a1%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%a8)
 - [Mastering WordPress Migration &amp; Backup – Bengali](https://learn.wordpress.org/?meeting=mastering-wordpress-migration-backup-bengali)
 - [サポートフォーラムモデレーター養成ワークショップ](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%e3%83%a2%e3%83%87%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e9%a4%8a%e6%88%90%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7)
 - [WordPress Playground for developers](https://learn.wordpress.org/?meeting=wordpress-playground-for-developers)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fixing Plugin Check issues](https://learn.wordpress.org/?meeting=fixing-plugin-check-issues)
 - [Creating a portfolio site with a block theme and patterns](https://learn.wordpress.org/?meeting=creating-a-portfolio-site-with-a-block-theme-and-patterns)
 - [Developer Hours: An Introduction to Data Views](https://learn.wordpress.org/?meeting=developer-hours-an-introduction-to-data-views)
-- [WordPress Playground Block code editor theme support](https://learn.wordpress.org/?meeting=wordpress-playground-block-code-editor-theme-support)
 <!-- SLS:END -->
 
 ## Test
