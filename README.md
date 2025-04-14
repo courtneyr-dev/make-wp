@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Test Team Update: 14 April 2025](https://make.wordpress.org/updates/2025/04/14/test-team-update-14-april-2025/)
 - [Plugin Review Team: 14 April 2025](https://make.wordpress.org/updates/2025/04/14/plugin-review-team-14-april-2025/)
 - [Documentation Team Update – April 14, 2025](https://make.wordpress.org/updates/2025/04/14/documentation-team-update-april-14-2025/)
 - [Test Team Update: 7 April 2025](https://make.wordpress.org/updates/2025/04/08/test-team-update-7-april-2025/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A Month in Core – March 2025](https://make.wordpress.org/updates/2025/04/03/a-month-in-core-march-2025/)
 - [Test Team Update: 31 March 2025](https://make.wordpress.org/updates/2025/04/01/test-team-update-31-march-2025/)
 - [Themes team update April 1, 2025](https://make.wordpress.org/updates/2025/04/01/themes-team-update-april-1-2025/)
-- [Plugin Review Team: 31 March 2025](https://make.wordpress.org/updates/2025/03/31/plugin-review-team-31-march-2025/)
 <!-- UPDATES:END -->
 
 ## Project
