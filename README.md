@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordCamp Europe 2025: Sali, Basel!](https://wordpress.org/news/2025/04/wordcamp-europe-2025-sali-basel/)
 - [WordPress 6.8 Release Candidate 3](https://wordpress.org/news/2025/04/wordpress-6-8-release-candidate-3/)
 - [WordPress 6.8 Release Candidate 2](https://wordpress.org/news/2025/04/wordpress-6-8-release-candidate-2/)
 - [WordPress 6.8 Release Candidate 1](https://wordpress.org/news/2025/03/wordpress-6-8-release-candidate-1/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Shaping Tomorrow at WordCamp Asia 2025](https://wordpress.org/news/2025/02/shaping-tomorrow-at-wordcamp-asia-2025/)
 - [Report: WordPress in 2025](https://wordpress.org/news/2025/02/wordpress-in-2025-report/)
 - [WordCamp Asia 2025: Manila Magic](https://wordpress.org/news/2025/02/wordcamp-asia-2025-manila-magic/)
-- [WordPress 6.7.2 Maintenance Release](https://wordpress.org/news/2025/02/wordpress-6-7-2-maintenance-release/)
 <!-- NEWS:END -->
 
 ## Jobs
