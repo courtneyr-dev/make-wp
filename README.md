@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Reality shop 3D plugin](https://make.wordpress.org/polyglots/2025/04/14/pte-request-for-reality-shop-3d-plugin/)
+- [PTE Request for Gutenberg Blocks…](https://make.wordpress.org/polyglots/2025/04/14/pte-request-for-gutenberg-blocks/)
 - [PTE Request for NewsBlogy Theme](https://make.wordpress.org/polyglots/2025/04/12/pte-request-for-newsblogy-theme-3/)
 - [Request to unify Korean locale slug as “ko” &lpar;remove redundant “_KR”&rpar;](https://make.wordpress.org/polyglots/2025/04/11/request-to-unify-korean-locale-slug-as-ko-remove-redundant-_kr/)
 - [PTE Request for Simple History](https://make.wordpress.org/polyglots/2025/04/11/pte-request-for-simple-history-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for NewsBlogy Theme](https://make.wordpress.org/polyglots/2025/04/11/pte-request-for-newsblogy-theme-2/)
 - [PTE Request for “Campaign Plus…](https://make.wordpress.org/polyglots/2025/04/10/pte-request-for-campaign-plus/)
 - [PTE Request for Post visit count Plugin](https://make.wordpress.org/polyglots/2025/04/10/pte-request-for-post-visit-count-plugin/)
-- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/04/09/hi-polyglots-team-4/)
-- [PTE Request for NewsBlogy Theme](https://make.wordpress.org/polyglots/2025/04/09/pte-request-for-newsblogy-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
