@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Aprende a grabar una charla presencial](https://wordpress.tv/2025/04/14/aprende-a-grabar-una-charla-presencial/)
 - [Crea tu workflow de Figma a Elementor](https://wordpress.tv/2025/04/09/crea-tu-workflow-de-figma-a-elementor/)
 - [Bienvenida y presentación del evento](https://wordpress.tv/2025/04/09/bienvenida-y-presentacion-del-evento/)
 - [Diseño web y accesibilidad: creando experiencias para todos](https://wordpress.tv/2025/04/09/diseno-web-y-accesibilidad-creando-experiencias-para-todos/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Aprèn a auditar WordPress per a millorar el rendiment](https://wordpress.tv/2025/04/01/apren-a-auditar-wordpress-per-a-millorar-el-rendiment/)
 - [UX: tendencias vs. estrategia](https://wordpress.tv/2025/03/29/ux-tendencias-vs-estrategia/)
 - [Connessioni di WordPress e Laravel](https://wordpress.tv/2025/03/29/connessioni-di-wordpress-e-laravel/)
-- [Opportunities as a student for WordCamp](https://wordpress.tv/2025/03/29/opportunities-as-a-student-for-wordcamp/)
 <!-- WPTV:END -->
 
 ## Marketing
