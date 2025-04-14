@@ -437,6 +437,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [A week in Openverse: 2025-04-07 – 2025-04-14](https://make.wordpress.org/openverse/2025/04/14/last-week-openverse-2025-04-07-2025-04-14/)
 - [A week in Openverse: 2025-03-31 – 2025-04-07](https://make.wordpress.org/openverse/2025/04/07/last-week-openverse-2025-03-31-2025-04-07/)
 - [A week in Openverse: 2025-03-24 – 2025-03-31](https://make.wordpress.org/openverse/2025/03/31/last-week-openverse-2025-03-24-2025-03-31/)
 - [A week in Openverse: 2025-03-17 – 2025-03-24](https://make.wordpress.org/openverse/2025/03/24/last-week-openverse-2025-03-17-2025-03-24/)
@@ -446,7 +447,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A week in Openverse: 2025-02-10 – 2025-02-17](https://make.wordpress.org/openverse/2025/02/17/last-week-openverse-2025-02-10-2025-02-17/)
 - [A week in Openverse: 2025-02-03 – 2025-02-10](https://make.wordpress.org/openverse/2025/02/10/last-week-openverse-2025-02-03-2025-02-10/)
 - [Removal of the watermark endpoint](https://make.wordpress.org/openverse/2025/01/28/removal-of-the-watermark-endpoint/)
-- [A week in Openverse: 2025-01-20 – 2025-01-27](https://make.wordpress.org/openverse/2025/01/27/last-week-openverse-2025-01-20-2025-01-27/)
 <!-- OPENVERSE:END -->
 
 ## Photos
