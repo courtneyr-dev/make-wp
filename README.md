@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [📬 Solicitud de Revisión de Traducción – es_AR](https://make.wordpress.org/polyglots/2025/04/15/%f0%9f%93%ac-solicitud-de-revision-de-traduccion-es_ar/)
 - [PTE Request for Flexiva Theme](https://make.wordpress.org/polyglots/2025/04/15/pte-request-for-flexiva-theme/)
 - [Hello Polyglots team!](https://make.wordpress.org/polyglots/2025/04/15/hello-polyglots-team-12/)
 - [Hello Polyglots team!](https://make.wordpress.org/polyglots/2025/04/14/hello-polyglots-team-11/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request to unify Korean locale slug as “ko” &lpar;remove redundant “_KR”&rpar;](https://make.wordpress.org/polyglots/2025/04/11/request-to-unify-korean-locale-slug-as-ko-remove-redundant-_kr/)
 - [PTE Request for Simple History](https://make.wordpress.org/polyglots/2025/04/11/pte-request-for-simple-history-2/)
 - [PTE Request for Openverse &lpar;Korean locale&rpar;](https://make.wordpress.org/polyglots/2025/04/11/pte-request-for-openverse-korean-locale/)
-- [Prośba o zatwierdzenie tłumaczeń wtyczki NETSENSAI Shield](https://make.wordpress.org/polyglots/2025/04/11/prosba-o-zatwierdzenie-tlumaczen-wtyczki-netsensai-shield/)
 <!-- POLYGLOTS:END -->
 
 ## Support
