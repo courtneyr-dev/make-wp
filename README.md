@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat Agenda – April 17, 2025](https://make.wordpress.org/core/2025/04/16/dev-chat-agenda-april-17-2025/)
 - [WordPress 6.8 Release Day Process](https://make.wordpress.org/core/2025/04/14/wordpress-6-8-release-day-process/)
 - [WordPress 6.8 Release Candidate 4](https://make.wordpress.org/core/2025/04/14/wordpress-6-8-release-candidate-4/)
 - [Summary, Dev Chat, Apr 9, 2025](https://make.wordpress.org/core/2025/04/09/summary-dev-chat-april-9-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Miscellaneous developer changes in WordPress 6.8](https://make.wordpress.org/core/2025/03/25/miscellaneous-developer-changes-in-wordpress-6-8/)
 - [WordPress 6.8 Release Candidate Phase](https://make.wordpress.org/core/2025/03/25/wordpress-6-8-release-candidate-phase/)
 - [Miscellaneous Block Editor Changes in WordPress 6.8](https://make.wordpress.org/core/2025/03/25/miscellaneous-block-editor-changes-in-wordpress-6-8/)
-- [Updates to user-interface components in WordPress 6.8](https://make.wordpress.org/core/2025/03/25/updates-to-user-interface-components-in-wordpress-6-8/)
 <!-- CORE:END -->
 
 ## Design
