@@ -524,13 +524,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Junior/Mid-Level WordPress Full-Stack Developer &lpar;Front-End Focus&rpar;](https://jobs.wordpress.net/job/junior-mid-level-wordpress-full-stack-developer-front-end-focus/)
 - [junior WordPress technician](https://jobs.wordpress.net/job/junior-wordpress-technician/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-16/)
-- [Create a WordPress site for renting like booqable &lpar;3weeks – 6 weeks&rpar;](https://jobs.wordpress.net/job/create-a-wordpress-site-for-renting-like-booqable-3weeks-6-weeks/)
 - [Help me fix the WordPress site I have- build the menus etc.](https://jobs.wordpress.net/job/help-me-fix-the-wordpress-site-i-have-build-the-menus-etc/)
 - [Website design](https://jobs.wordpress.net/job/website-design-15/)
 - [Full Stack WordPress Developer &lpar;Plugin Development Focus&rpar;](https://jobs.wordpress.net/job/full-stack-wordpress-developer-plugin-development-focus/)
 - [Clean Malware From WordPress website](https://jobs.wordpress.net/job/clean-malware-from-wordpress-website/)
 - [Senior Full Stack WordPress &lpar;and Gutenberg&rpar; Developer](https://jobs.wordpress.net/job/senior-full-stack-wordpress-and-gutenberg-developer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-859/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-14/)
 <!-- JOBS:END -->
 
 ## Central
