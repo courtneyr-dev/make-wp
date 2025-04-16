@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Similar issue to: https://make.wordpress.org/systems/?p=2374 VSCode…](https://make.wordpress.org/systems/2025/04/16/similar-issue-to-https-make-wordpress-org-systems-p2374-vscode/)
 - [Remove mu.wordpress.org’s deprecated forums](https://make.wordpress.org/systems/2025/01/07/remove-mu-wordpress-orgs-deprecated-forums/)
 - [IP routing issues / IP Blocked?](https://make.wordpress.org/systems/2025/01/07/ip-routing-issues-ip-blocked/)
 - [HelpScout forward: polyglots@wordpress.org Can we…](https://make.wordpress.org/systems/2024/11/26/helpscout-forward-polyglotswordpress-org-can-we/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [MC Release Access for Peter Wilson](https://make.wordpress.org/systems/2024/08/16/mc-release-access-for-peter-wilson/)
 - [www.wp-cli.org SSL setup wp-cli.org is…](https://make.wordpress.org/systems/2024/06/27/www-wp-cli-org-ssl-setup-wp-cli-org-is/)
 - [Schema redirect for wp-env.json](https://make.wordpress.org/systems/2024/06/18/schema-redirect-for-wp-env-json/)
-- [Reprovision dd32.dev wporg Sandbox](https://make.wordpress.org/systems/2024/06/10/reprovision-wp-org-sandbox/)
 <!-- SYSTEMS:END -->
 
 ## News
