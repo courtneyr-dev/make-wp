@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – April 16, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/04/16/agenda-weekly-polyglots-chat-april-16-2025-700-utc/)
 - [📬 Solicitud de Revisión de Traducción – es_AR](https://make.wordpress.org/polyglots/2025/04/15/%f0%9f%93%ac-solicitud-de-revision-de-traduccion-es_ar/)
 - [PTE Request for Flexiva Theme](https://make.wordpress.org/polyglots/2025/04/15/pte-request-for-flexiva-theme/)
 - [Hello Polyglots team!](https://make.wordpress.org/polyglots/2025/04/15/hello-polyglots-team-12/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for NewsBlogy Theme](https://make.wordpress.org/polyglots/2025/04/12/pte-request-for-newsblogy-theme-3/)
 - [Request to unify Korean locale slug as “ko” &lpar;remove redundant “_KR”&rpar;](https://make.wordpress.org/polyglots/2025/04/11/request-to-unify-korean-locale-slug-as-ko-remove-redundant-_kr/)
 - [PTE Request for Simple History](https://make.wordpress.org/polyglots/2025/04/11/pte-request-for-simple-history-2/)
-- [PTE Request for Openverse &lpar;Korean locale&rpar;](https://make.wordpress.org/polyglots/2025/04/11/pte-request-for-openverse-korean-locale/)
 <!-- POLYGLOTS:END -->
 
 ## Support
