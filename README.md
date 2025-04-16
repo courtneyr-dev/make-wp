@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [A New Cadence for WordPress Core](https://make.wordpress.org/project/2025/04/16/a-new-cadence-for-wordpress-core/)
 - [Shutting down WordPress.org’s Matrix Server](https://make.wordpress.org/project/2025/01/11/shutting-down-wordpress-orgs-matrix-server/)
 - [Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/project/2024/11/18/hello-wordpress-community-lets-chat/)
 - [WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/project/2024/09/12/wordpress-contribution-health-dashboards-an-experiment/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: WordPress Contributor Mentorship Program Q4 2024: Call for Interest](https://make.wordpress.org/project/2024/06/15/xpost-wordpress-contributor-mentorship-program-q4-2024-call-for-interest/)
 - [WordPress Project Contributor Handbook v2](https://make.wordpress.org/project/2024/05/31/wordpress-project-contributor-handbook-v2/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/project/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
-- [Let’s try out online DEIB course content!](https://make.wordpress.org/project/2024/05/13/lets-try-out-online-deib-course-content/)
 <!-- PROJECT:END -->
 
 ## Systems
