@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [@wordpress/upload-media](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-upload-media/)
-- [wp_print_font_faces_from_style_variations&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_print_font_faces_from_style_variations/)
-- [get_user&lpar;&rpar;](https://developer.wordpress.org/reference/functions/get_user/)
-- [wp_is_heic_image_mime_type&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_is_heic_image_mime_type/)
-- [wp_get_wp_version&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_get_wp_version/)
-- [wp_create_block_style_variation_instance_name&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_create_block_style_variation_instance_name/)
-- [user_can_for_site&lpar;&rpar;](https://developer.wordpress.org/reference/functions/user_can_for_site/)
-- [current_user_can_for_site&lpar;&rpar;](https://developer.wordpress.org/reference/functions/current_user_can_for_site/)
-- [wp_check_comment_data&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_check_comment_data/)
-- [WP_Exception](https://developer.wordpress.org/reference/classes/wp_exception/)
+- [WP_URL_Pattern_Prefixer::escape_pattern_string&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/escape_pattern_string/)
+- [WP_URL_Pattern_Prefixer::prefix_path_pattern&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/prefix_path_pattern/)
+- [WP_URL_Pattern_Prefixer::get_default_contexts&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/get_default_contexts/)
+- [WP_URL_Pattern_Prefixer](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/)
+- [WP_URL_Pattern_Prefixer::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/__construct/)
+- [wp_render_empty_block_template_warning&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_render_empty_block_template_warning/)
+- [should_load_block_assets_on_demand](https://developer.wordpress.org/reference/hooks/should_load_block_assets_on_demand/)
+- [wp_should_load_block_assets_on_demand&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_should_load_block_assets_on_demand/)
+- [wp_next_scheduled](https://developer.wordpress.org/reference/hooks/wp_next_scheduled/)
+- [get_calendar_args](https://developer.wordpress.org/reference/hooks/get_calendar_args/)
 <!-- DEVHUB:END -->
 
 ## Themes
