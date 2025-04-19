@@ -352,6 +352,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tiny Text, Big Impact: Crafting Content for the Short-Attention-Span Generation](https://wordpress.tv/2025/04/19/tiny-text-big-impact-crafting-content-for-the-short-attention-span-generation/)
+- [Managing Stress for a Healthier Work Experience](https://wordpress.tv/2025/04/19/managing-stress-for-a-healthier-work-experience/)
+- [WordPress malware in 2024](https://wordpress.tv/2025/04/19/wordpress-malware-in-2024/)
+- [Unleashing Open-Source Power: Combining WordPress and Flutter for Native Mobile Apps](https://wordpress.tv/2025/04/19/unleashing-open-source-power-combining-wordpress-and-flutter-for-native-mobile-apps/)
+- [From starting-up to more than 4M websites using WP Rocket in 12 years](https://wordpress.tv/2025/04/19/from-starting-up-to-more-than-4m-websites-using-wp-rocket-in-12-years/)
+- [A practical use of AI in Playwright E2E tests](https://wordpress.tv/2025/04/19/a-practical-use-of-ai-in-playwright-e2e-tests/)
+- [Turning Stories into Brands: The Blueprint for Women Entrepeneurs at the Start of Their Journey with](https://wordpress.tv/2025/04/19/turning-stories-into-brands-the-blueprint-for-women-entrepeneurs-at-the-start-of-their-journey-with/)
+- [Client Sites Gone Wild: Taming the WordPress Maintenance Monster](https://wordpress.tv/2025/04/19/client-sites-gone-wild-taming-the-wordpress-maintenance-monster/)
+- [Devs &amp; SEOs – Eternal Frenemies. Turning the Age-Old WP Civil War Into a Win-Win](https://wordpress.tv/2025/04/19/devs-seos-eternal-frenemies-turning-the-age-old-wp-civil-war-into-a-win-win/)
+- [Mastering Website Performance: A Deep Dive into WordPress Optimization](https://wordpress.tv/2025/04/19/mastering-website-performance-a-deep-dive-into-wordpress-optimization/)
+- [Merging Worlds: Crafting Hybrid Web Apps with WordPress](https://wordpress.tv/2025/04/19/merging-worlds-crafting-hybrid-web-apps-with-wordpress/)
 - [WordPress Roto: Aprende a Encontrar y Corregir Errores Eficazmente](https://wordpress.tv/2025/04/19/wordpress-roto-aprende-a-encontrar-y-corregir-errores-eficazmente/)
 - [WP-CLI নিয়ে সম্পূর্ণ গাইডলাইন – WP-CLI Complete Guideline](https://wordpress.tv/2025/04/18/wp-cli-complete-guideline/)
 - [Des composants Gutenberg dans mes pages d’options, pour une administration aux petits oignons](https://wordpress.tv/2025/04/18/des-composants-gutenberg-dans-mes-pages-doptions-pour-une-administration-aux-petits-oignons/)
@@ -366,17 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Empowering Digital Marketers by Transform Websites to Marketing Machines](https://wordpress.tv/2025/04/09/empowering-digital-marketers-by-transform-websites-to-marketing-machines/)
 - [Prävention gegen WordPress-Hacking](https://wordpress.tv/2025/04/06/pravention-gegen-wordpress-hacking/)
 - [Tschüss Google, Hallo KI](https://wordpress.tv/2025/04/06/tschuss-google-hallo-ki/)
-- [Impacto y experiencia del do_action](https://wordpress.tv/2025/04/06/impacto-y-experiencia-del-do_action/)
-- [Opening Remarks](https://wordpress.tv/2025/04/06/opening-remarks-5/)
-- [How We Can Contribute to WordPress and the Different Ways to Get Involved](https://wordpress.tv/2025/04/06/how-we-can-contribute-to-wordpress-and-the-different-ways-to-get-involved/)
-- [Building Your Personal Brand All About You: Unleashing the Power of Personal Branding](https://wordpress.tv/2025/04/06/building-your-personal-brand-all-about-you-unleashing-the-power-of-personal-branding/)
-- [Building a supportive environment for women in our community](https://wordpress.tv/2025/04/06/building-a-supportive-environment-for-women-in-our-community/)
-- [One step forward: Taking a leap beyond my comfort zone](https://wordpress.tv/2025/04/06/one-step-forward-taking-a-leap-beyond-my-comfort-zone/)
-- [Panel Discussion](https://wordpress.tv/2025/04/06/panel-discussion/)
-- [The Role of Women in WordPress Meetups &amp; WordCamps](https://wordpress.tv/2025/04/06/the-role-of-women-in-wordpress-meetups-wordcamps/)
-- [Jak nie dać sobie ukraść 100 000 €](https://wordpress.tv/2025/04/04/jak-nie-dac-sobie-ukrasc-100-000-e/)
-- [Aktualizacje – to przecież tylko jedno kliknięcie](https://wordpress.tv/2025/04/04/aktualizacje-to-przeciez-tylko-jedno-klikniecie/)
-- [Bezpieczeństwo w czasie używania i administrowania witryną korzystającą z WordPressa](https://wordpress.tv/2025/04/04/bezpieczenstwo-w-czasie-uzywania-i-administrowania-witryna-korzystajaca-z-wordpressa/)
 <!-- WPTV:END -->
 
 ## Marketing
