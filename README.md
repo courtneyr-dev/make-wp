@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Roto: Aprende a Encontrar y Corregir Errores Eficazmente](https://wordpress.tv/2025/04/19/wordpress-roto-aprende-a-encontrar-y-corregir-errores-eficazmente/)
 - [WP-CLI নিয়ে সম্পূর্ণ গাইডলাইন – WP-CLI Complete Guideline](https://wordpress.tv/2025/04/18/wp-cli-complete-guideline/)
 - [Des composants Gutenberg dans mes pages d’options, pour une administration aux petits oignons](https://wordpress.tv/2025/04/18/des-composants-gutenberg-dans-mes-pages-doptions-pour-une-administration-aux-petits-oignons/)
 - [How to record a Live talk](https://wordpress.tv/2025/04/14/how-to-record-a-live-talk/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jak nie dać sobie ukraść 100 000 €](https://wordpress.tv/2025/04/04/jak-nie-dac-sobie-ukrasc-100-000-e/)
 - [Aktualizacje – to przecież tylko jedno kliknięcie](https://wordpress.tv/2025/04/04/aktualizacje-to-przeciez-tylko-jedno-klikniecie/)
 - [Bezpieczeństwo w czasie używania i administrowania witryną korzystającą z WordPressa](https://wordpress.tv/2025/04/04/bezpieczenstwo-w-czasie-uzywania-i-administrowania-witryna-korzystajaca-z-wordpressa/)
-- [De la Plantà a la Cremà. El Ciclo de Vida de Vulnerabilidades de WordPress](https://wordpress.tv/2025/04/01/de-la-planta-a-la-crema-el-ciclo-de-vida-de-vulnerabilidades-de-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
