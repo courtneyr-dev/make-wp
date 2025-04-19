@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordCamp Romania 2024 Aftermovie](https://wordpress.tv/2025/04/19/wordcamp-romania-2024-aftermovie/)
+- [Opening remarks](https://wordpress.tv/2025/04/19/opening-remarks-6/)
+- [Observability for WordPress in practice, so that issues have nowhere to hide](https://wordpress.tv/2025/04/19/observability-for-wordpress-in-practice-so-that-issues-have-nowhere-to-hide/)
+- [How ReactJS can be implemented in WordPress and what are risks for business and developers](https://wordpress.tv/2025/04/19/how-reactjs-can-be-implemented-in-wordpress-and-what-are-risks-for-business-and-developers/)
+- [Community marketer and manager hate each other](https://wordpress.tv/2025/04/19/community-marketer-and-manager-hate-each-other/)
 - [Tiny Text, Big Impact: Crafting Content for the Short-Attention-Span Generation](https://wordpress.tv/2025/04/19/tiny-text-big-impact-crafting-content-for-the-short-attention-span-generation/)
 - [Managing Stress for a Healthier Work Experience](https://wordpress.tv/2025/04/19/managing-stress-for-a-healthier-work-experience/)
 - [WordPress malware in 2024](https://wordpress.tv/2025/04/19/wordpress-malware-in-2024/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bienvenida y presentación del evento](https://wordpress.tv/2025/04/09/bienvenida-y-presentacion-del-evento/)
 - [Diseño web y accesibilidad: creando experiencias para todos](https://wordpress.tv/2025/04/09/diseno-web-y-accesibilidad-creando-experiencias-para-todos/)
 - [De Figma a WordPress: del diseño a la web](https://wordpress.tv/2025/04/09/de-figma-a-wordpress-del-diseno-a-la-web/)
-- [Tendencias en diseño web 2025](https://wordpress.tv/2025/04/09/tendencias-en-diseno-web-2025/)
-- [Más allá del marketing: campañas que transforman](https://wordpress.tv/2025/04/09/mas-alla-del-marketing-campanas-que-transforman/)
-- [Empowering Digital Marketers by Transform Websites to Marketing Machines](https://wordpress.tv/2025/04/09/empowering-digital-marketers-by-transform-websites-to-marketing-machines/)
-- [Prävention gegen WordPress-Hacking](https://wordpress.tv/2025/04/06/pravention-gegen-wordpress-hacking/)
-- [Tschüss Google, Hallo KI](https://wordpress.tv/2025/04/06/tschuss-google-hallo-ki/)
 <!-- WPTV:END -->
 
 ## Marketing
