@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Secure Custom Fields Plugin – @alifjkabir](https://make.wordpress.org/polyglots/2025/04/19/pte-request-for-secure-custom-fields-plugin-alifjkabir/)
 - [PTE Request for Conversios: Google Analytics GA4, Google Ads, GTM &amp; Multiple Pixel Tracking](https://make.wordpress.org/polyglots/2025/04/17/pte-request-for-conversios-google-analytics-ga4-google-ads-gtm-multiple-pixel-tracking/)
 - [PTE Request for Gallery Lightbox](https://make.wordpress.org/polyglots/2025/04/17/pte-request-for-gallery-lightbox/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/17/hi-dear-mentors-we-have-176/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Flexiva Theme](https://make.wordpress.org/polyglots/2025/04/15/pte-request-for-flexiva-theme/)
 - [Hello Polyglots team!](https://make.wordpress.org/polyglots/2025/04/15/hello-polyglots-team-12/)
 - [Hello Polyglots team!](https://make.wordpress.org/polyglots/2025/04/14/hello-polyglots-team-11/)
-- [PTE Request for Reality shop 3D plugin](https://make.wordpress.org/polyglots/2025/04/14/pte-request-for-reality-shop-3d-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
