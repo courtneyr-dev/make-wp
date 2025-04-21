@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress, REST API i bezpieczeństwo – co każdy sprzedawca produktów cyfrowych powinien wiedzieć.](https://wordpress.tv/2025/04/21/wordpress-rest-api-i-bezpieczenstwo-co-kazdy-sprzedawca-produktow-cyfrowych-powinien-wiedziec/)
+- [Hosting bez tajemnic – jak uniknąć najczęstszych problemów z WordPressem](https://wordpress.tv/2025/04/21/hosting-bez-tajemnic-jak-uniknac-najczestszych-problemow-z-wordpressem/)
+- [O tym jak w ciągu miesiąca usunęliśmy 1000 wtyczek z repozytorium – historia największego bug bounty](https://wordpress.tv/2025/04/21/o-tym-jak-w-ciagu-miesiaca-usunelismy-1000-wtyczek-z-repozytorium-historia-najwiekszego-bug-bounty/)
+- [Jak nie stracić potencjalnych klientów? Błędy, które mogą Cię sporo kosztować](https://wordpress.tv/2025/04/21/jak-nie-stracic-potencjalnych-klientow-bledy-ktore-moga-cie-sporo-kosztowac/)
+- [WordPress Playground](https://wordpress.tv/2025/04/21/wordpress-playground/)
+- [Nie pytaj co może zrobić dla Ciebie prawnik, tylko co możesz bez niego.](https://wordpress.tv/2025/04/21/nie-pytaj-co-moze-zrobic-dla-ciebie-prawnik-tylko-co-mozesz-bez-niego/)
+- [Accessibility: Błędy, które utrudniają życie](https://wordpress.tv/2025/04/21/accessibility-bledy-ktore-utrudniaja-zycie/)
+- [Na SEO mi to SEO?](https://wordpress.tv/2025/04/21/na-seo-mi-to-seo/)
+- [Ile razy trzeba zostać zhackowanym, aby czegoś się nauczyć?](https://wordpress.tv/2025/04/21/ile-razy-trzeba-zostac-zhackowanym-aby-czegos-sie-nauczyc/)
 - [WordCamp Romania 2024 Aftermovie](https://wordpress.tv/2025/04/19/wordcamp-romania-2024-aftermovie/)
 - [Opening remarks](https://wordpress.tv/2025/04/19/opening-remarks-6/)
 - [Observability for WordPress in practice, so that issues have nowhere to hide](https://wordpress.tv/2025/04/19/observability-for-wordpress-in-practice-so-that-issues-have-nowhere-to-hide/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Devs &amp; SEOs – Eternal Frenemies. Turning the Age-Old WP Civil War Into a Win-Win](https://wordpress.tv/2025/04/19/devs-seos-eternal-frenemies-turning-the-age-old-wp-civil-war-into-a-win-win/)
 - [Mastering Website Performance: A Deep Dive into WordPress Optimization](https://wordpress.tv/2025/04/19/mastering-website-performance-a-deep-dive-into-wordpress-optimization/)
 - [Merging Worlds: Crafting Hybrid Web Apps with WordPress](https://wordpress.tv/2025/04/19/merging-worlds-crafting-hybrid-web-apps-with-wordpress/)
-- [WordPress Roto: Aprende a Encontrar y Corregir Errores Eficazmente](https://wordpress.tv/2025/04/19/wordpress-roto-aprende-a-encontrar-y-corregir-errores-eficazmente/)
-- [WP-CLI নিয়ে সম্পূর্ণ গাইডলাইন – WP-CLI Complete Guideline](https://wordpress.tv/2025/04/18/wp-cli-complete-guideline/)
-- [Des composants Gutenberg dans mes pages d’options, pour une administration aux petits oignons](https://wordpress.tv/2025/04/18/des-composants-gutenberg-dans-mes-pages-doptions-pour-une-administration-aux-petits-oignons/)
-- [How to record a Live talk](https://wordpress.tv/2025/04/14/how-to-record-a-live-talk/)
-- [Aprende a grabar una charla presencial](https://wordpress.tv/2025/04/14/aprende-a-grabar-una-charla-presencial/)
-- [Crea tu workflow de Figma a Elementor](https://wordpress.tv/2025/04/09/crea-tu-workflow-de-figma-a-elementor/)
-- [Bienvenida y presentación del evento](https://wordpress.tv/2025/04/09/bienvenida-y-presentacion-del-evento/)
-- [Diseño web y accesibilidad: creando experiencias para todos](https://wordpress.tv/2025/04/09/diseno-web-y-accesibilidad-creando-experiencias-para-todos/)
-- [De Figma a WordPress: del diseño a la web](https://wordpress.tv/2025/04/09/de-figma-a-wordpress-del-diseno-a-la-web/)
 <!-- WPTV:END -->
 
 ## Marketing
