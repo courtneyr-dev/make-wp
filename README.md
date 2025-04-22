@@ -339,6 +339,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## TV
 <!-- TV:START -->
+- [X-post: WPTV-to-YouTube Sync Resumes](https://make.wordpress.org/tv/2025/04/22/xpost-wptv-to-youtube-sync-resumes-2/)
+- [X-post: WPTV-to-YouTube Sync Resumes](https://make.wordpress.org/tv/2025/04/22/xpost-wptv-to-youtube-sync-resumes/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/tv/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/tv/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/tv/2024/06/05/xpost-training-team-update-june-2024/)
@@ -347,8 +349,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/tv/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 - [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/tv/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/tv/2023/11/30/xpost-create-tours-for-make-p2s/)
-- [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/tv/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
-- [Enhancing Slide Management for Video Publications](https://make.wordpress.org/tv/2023/06/15/enhancing-slide-management-for-video-publications/)
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
