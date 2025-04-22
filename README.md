@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Free Mic](https://wordpress.tv/2025/04/22/free-mic/)
 - [WordPress, REST API i bezpieczeństwo – co każdy sprzedawca produktów cyfrowych powinien wiedzieć.](https://wordpress.tv/2025/04/21/wordpress-rest-api-i-bezpieczenstwo-co-kazdy-sprzedawca-produktow-cyfrowych-powinien-wiedziec/)
 - [Hosting bez tajemnic – jak uniknąć najczęstszych problemów z WordPressem](https://wordpress.tv/2025/04/21/hosting-bez-tajemnic-jak-uniknac-najczestszych-problemow-z-wordpressem/)
 - [O tym jak w ciągu miesiąca usunęliśmy 1000 wtyczek z repozytorium – historia największego bug bounty](https://wordpress.tv/2025/04/21/o-tym-jak-w-ciagu-miesiaca-usunelismy-1000-wtyczek-z-repozytorium-historia-najwiekszego-bug-bounty/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Client Sites Gone Wild: Taming the WordPress Maintenance Monster](https://wordpress.tv/2025/04/19/client-sites-gone-wild-taming-the-wordpress-maintenance-monster/)
 - [Devs &amp; SEOs – Eternal Frenemies. Turning the Age-Old WP Civil War Into a Win-Win](https://wordpress.tv/2025/04/19/devs-seos-eternal-frenemies-turning-the-age-old-wp-civil-war-into-a-win-win/)
 - [Mastering Website Performance: A Deep Dive into WordPress Optimization](https://wordpress.tv/2025/04/19/mastering-website-performance-a-deep-dive-into-wordpress-optimization/)
-- [Merging Worlds: Crafting Hybrid Web Apps with WordPress](https://wordpress.tv/2025/04/19/merging-worlds-crafting-hybrid-web-apps-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
