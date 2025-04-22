@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: WPTV-to-YouTube Sync Resumes](https://make.wordpress.org/training/2025/04/22/xpost-wptv-to-youtube-sync-resumes/)
 - [Training Team Meeting Recap – 15th April 2025](https://make.wordpress.org/training/2025/04/19/training-team-meeting-recap-15th-april-2025/)
 - [Training Team Meeting Recap – 8th April 2025](https://make.wordpress.org/training/2025/04/13/training-team-meeting-recap-8th-april-2025/)
 - [Training Team Meeting Recap – 1st April 2025](https://make.wordpress.org/training/2025/04/08/training-team-meeting-recap-1st-april-2025/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 11st March 2025](https://make.wordpress.org/training/2025/03/18/training-team-meeting-recap-11st-march-2025/)
 - [Training Team Meeting Recap – 4th March 2025](https://make.wordpress.org/training/2025/03/09/training-team-meeting-recap-4th-march-2025/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/training/2025/03/04/xpost-help-test-wordpress-6-8/)
-- [Announcing the WordPress Training Team Deputy Representative Program and Our First Deputy](https://make.wordpress.org/training/2025/03/04/announcing-the-wordpress-training-team-deputy-representative-program-and-our-first-deputy/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
