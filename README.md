@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – April 23, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/04/23/agenda-weekly-polyglots-chat-april-23-2025-1300-utc/)
 - [PTE Request for RioVizual](https://make.wordpress.org/polyglots/2025/04/23/pte-request-for-riovizual/)
 - [Hello everyone,](https://make.wordpress.org/polyglots/2025/04/23/hello-everyone-9/)
 - [PTE Request for AI Feeds](https://make.wordpress.org/polyglots/2025/04/21/pte-request-for-ai-feeds/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Gallery Lightbox](https://make.wordpress.org/polyglots/2025/04/17/pte-request-for-gallery-lightbox/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/17/hi-dear-mentors-we-have-176/)
 - [PTE Request for Flexiva Theme](https://make.wordpress.org/polyglots/2025/04/16/pte-request-for-flexiva-theme-2/)
-- [Agenda: Weekly Polyglots Chat – April 16, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/04/16/agenda-weekly-polyglots-chat-april-16-2025-700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
