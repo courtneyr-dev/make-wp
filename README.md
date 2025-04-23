@@ -525,12 +525,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-27/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-860/)
 - [Experienced WordPress Developer &lpar;Project-Based&rpar;](https://jobs.wordpress.net/job/experienced-wordpress-developer-project-based/)
-- [Adjusting tables created by Sportspress plugin](https://jobs.wordpress.net/job/adjusting-tables-created-by-sportspress-plugin/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-5/)
 - [PHP WordPress Support Engineer](https://jobs.wordpress.net/job/php-wordpress-support-engineer/)
 - [Marketing Manager &lpar;fully remote&rpar;](https://jobs.wordpress.net/job/marketing-manager-fully-remote/)
 - [Junior/Mid-Level WordPress Full-Stack Developer &lpar;Front-End Focus&rpar;](https://jobs.wordpress.net/job/junior-mid-level-wordpress-full-stack-developer-front-end-focus/)
 - [junior WordPress technician](https://jobs.wordpress.net/job/junior-wordpress-technician/)
+- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-16/)
 <!-- JOBS:END -->
 
 ## Central
