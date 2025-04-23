@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for RioVizual](https://make.wordpress.org/polyglots/2025/04/23/pte-request-for-riovizual/)
+- [Hello everyone,](https://make.wordpress.org/polyglots/2025/04/23/hello-everyone-9/)
 - [PTE Request for AI Feeds](https://make.wordpress.org/polyglots/2025/04/21/pte-request-for-ai-feeds/)
 - [I am the plugin developer…](https://make.wordpress.org/polyglots/2025/04/21/i-am-the-plugin-developer-2/)
 - [PTE Request for Secure Custom Fields Plugin – @alifjkabir](https://make.wordpress.org/polyglots/2025/04/19/pte-request-for-secure-custom-fields-plugin-alifjkabir/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/17/hi-dear-mentors-we-have-176/)
 - [PTE Request for Flexiva Theme](https://make.wordpress.org/polyglots/2025/04/16/pte-request-for-flexiva-theme-2/)
 - [Agenda: Weekly Polyglots Chat – April 16, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/04/16/agenda-weekly-polyglots-chat-april-16-2025-700-utc/)
-- [📬 Solicitud de Revisión de Traducción – es_AR](https://make.wordpress.org/polyglots/2025/04/15/%f0%9f%93%ac-solicitud-de-revision-de-traduccion-es_ar/)
-- [PTE Request for Flexiva Theme](https://make.wordpress.org/polyglots/2025/04/15/pte-request-for-flexiva-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
