@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for  OceanWP Theme  German &lpar;Switzerland&rpar;](https://make.wordpress.org/polyglots/2025/04/24/pte-request-for-oceanwp-theme-german-switzerland/)
+- [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2025/04/24/pte-request-for-independent-analytics-3/)
 - [PTE Request for “YITH WooCommerce Wishlist”](https://make.wordpress.org/polyglots/2025/04/24/pte-request-for-yith-woocommerce-wishlist-3/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/04/24/i-am-the-plugin-author-53/)
 - [PTE Request for GLS Shipping for WooCommerce](https://make.wordpress.org/polyglots/2025/04/23/pte-request-for-gls-shipping-for-woocommerce/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello everyone,](https://make.wordpress.org/polyglots/2025/04/23/hello-everyone-9/)
 - [PTE Request for AI Feeds](https://make.wordpress.org/polyglots/2025/04/21/pte-request-for-ai-feeds/)
 - [I am the plugin developer…](https://make.wordpress.org/polyglots/2025/04/21/i-am-the-plugin-developer-2/)
-- [PTE Request for Secure Custom Fields Plugin – @alifjkabir](https://make.wordpress.org/polyglots/2025/04/19/pte-request-for-secure-custom-fields-plugin-alifjkabir/)
-- [PTE Request for Conversios: Google Analytics GA4, Google Ads, GTM &amp; Multiple Pixel Tracking](https://make.wordpress.org/polyglots/2025/04/17/pte-request-for-conversios-google-analytics-ga4-google-ads-gtm-multiple-pixel-tracking/)
 <!-- POLYGLOTS:END -->
 
 ## Support
