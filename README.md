@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for “YITH WooCommerce Wishlist”](https://make.wordpress.org/polyglots/2025/04/24/pte-request-for-yith-woocommerce-wishlist-3/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/04/24/i-am-the-plugin-author-53/)
 - [PTE Request for GLS Shipping for WooCommerce](https://make.wordpress.org/polyglots/2025/04/23/pte-request-for-gls-shipping-for-woocommerce/)
 - [Agenda: Weekly Polyglots Chat – April 23, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/04/23/agenda-weekly-polyglots-chat-april-23-2025-1300-utc/)
 - [PTE Request for RioVizual](https://make.wordpress.org/polyglots/2025/04/23/pte-request-for-riovizual/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin developer…](https://make.wordpress.org/polyglots/2025/04/21/i-am-the-plugin-developer-2/)
 - [PTE Request for Secure Custom Fields Plugin – @alifjkabir](https://make.wordpress.org/polyglots/2025/04/19/pte-request-for-secure-custom-fields-plugin-alifjkabir/)
 - [PTE Request for Conversios: Google Analytics GA4, Google Ads, GTM &amp; Multiple Pixel Tracking](https://make.wordpress.org/polyglots/2025/04/17/pte-request-for-conversios-google-analytics-ga4-google-ads-gtm-multiple-pixel-tracking/)
-- [PTE Request for Gallery Lightbox](https://make.wordpress.org/polyglots/2025/04/17/pte-request-for-gallery-lightbox/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/17/hi-dear-mentors-we-have-176/)
 <!-- POLYGLOTS:END -->
 
 ## Support
