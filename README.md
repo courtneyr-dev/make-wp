@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tu WordPress, Tu IA](https://wordpress.tv/2025/04/27/tu-wordpress-tu-ia/)
+- [Cómo la IA está destrozando tu GTM: Y qué hacer al respecto](https://wordpress.tv/2025/04/27/como-la-ia-esta-destrozando-tu-gtm-y-que-hacer-al-respecto/)
+- [Automatización Inteligente: Cómo la IA está redefiniendo el flujo de trabajo en WordPress](https://wordpress.tv/2025/04/27/automatizacion-inteligente-como-la-ia-esta-redefiniendo-el-flujo-de-trabajo-en-wordpress/)
+- [Desarrolla en WordPress Plugins más seguros](https://wordpress.tv/2025/04/27/desarrolla-en-wordpress-plugins-mas-seguros/)
+- [Taller: Más que la suma de las partes: IA y estructuras avanzadas en WordPress](https://wordpress.tv/2025/04/27/taller-mas-que-la-suma-de-las-partes-ia-y-estructuras-avanzadas-en-wordpress/)
+- [Taller: Potencia tu Marketing y SEO con Inteligencia Artificial Generativa &lpar;IAG&rpar; en WordPress](https://wordpress.tv/2025/04/27/taller-potencia-tu-marketing-y-seo-con-inteligencia-artificial-generativa-iag-en-wordpress/)
 - [Free Mic](https://wordpress.tv/2025/04/22/free-mic/)
 - [WordPress, REST API i bezpieczeństwo – co każdy sprzedawca produktów cyfrowych powinien wiedzieć.](https://wordpress.tv/2025/04/21/wordpress-rest-api-i-bezpieczenstwo-co-kazdy-sprzedawca-produktow-cyfrowych-powinien-wiedziec/)
 - [Hosting bez tajemnic – jak uniknąć najczęstszych problemów z WordPressem](https://wordpress.tv/2025/04/21/hosting-bez-tajemnic-jak-uniknac-najczestszych-problemow-z-wordpressem/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Managing Stress for a Healthier Work Experience](https://wordpress.tv/2025/04/19/managing-stress-for-a-healthier-work-experience/)
 - [WordPress malware in 2024](https://wordpress.tv/2025/04/19/wordpress-malware-in-2024/)
 - [Unleashing Open-Source Power: Combining WordPress and Flutter for Native Mobile Apps](https://wordpress.tv/2025/04/19/unleashing-open-source-power-combining-wordpress-and-flutter-for-native-mobile-apps/)
-- [From starting-up to more than 4M websites using WP Rocket in 12 years](https://wordpress.tv/2025/04/19/from-starting-up-to-more-than-4m-websites-using-wp-rocket-in-12-years/)
-- [A practical use of AI in Playwright E2E tests](https://wordpress.tv/2025/04/19/a-practical-use-of-ai-in-playwright-e2e-tests/)
-- [Turning Stories into Brands: The Blueprint for Women Entrepeneurs at the Start of Their Journey with](https://wordpress.tv/2025/04/19/turning-stories-into-brands-the-blueprint-for-women-entrepeneurs-at-the-start-of-their-journey-with/)
-- [Client Sites Gone Wild: Taming the WordPress Maintenance Monster](https://wordpress.tv/2025/04/19/client-sites-gone-wild-taming-the-wordpress-maintenance-monster/)
-- [Devs &amp; SEOs – Eternal Frenemies. Turning the Age-Old WP Civil War Into a Win-Win](https://wordpress.tv/2025/04/19/devs-seos-eternal-frenemies-turning-the-age-old-wp-civil-war-into-a-win-win/)
-- [Mastering Website Performance: A Deep Dive into WordPress Optimization](https://wordpress.tv/2025/04/19/mastering-website-performance-a-deep-dive-into-wordpress-optimization/)
 <!-- WPTV:END -->
 
 ## Marketing
