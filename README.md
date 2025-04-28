@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request – GatherPress](https://make.wordpress.org/polyglots/2025/04/28/pte-request-gatherpress/)
 - [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2025/04/28/hello-i-am-the-plugin-11/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2025/04/25/hello-i-am-the-theme-5/)
 - [PTE Request for ProvenExpert I…](https://make.wordpress.org/polyglots/2025/04/25/pte-request-for-provenexpert-i/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/04/24/i-am-the-plugin-author-53/)
 - [PTE Request for GLS Shipping for WooCommerce](https://make.wordpress.org/polyglots/2025/04/23/pte-request-for-gls-shipping-for-woocommerce/)
 - [Agenda: Weekly Polyglots Chat – April 23, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/04/23/agenda-weekly-polyglots-chat-april-23-2025-1300-utc/)
-- [PTE Request for RioVizual](https://make.wordpress.org/polyglots/2025/04/23/pte-request-for-riovizual/)
 <!-- POLYGLOTS:END -->
 
 ## Support
