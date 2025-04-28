@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [WP_URL_Pattern_Prefixer::escape_pattern_string&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/escape_pattern_string/)
-- [WP_URL_Pattern_Prefixer::prefix_path_pattern&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/prefix_path_pattern/)
-- [WP_URL_Pattern_Prefixer::get_default_contexts&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/get_default_contexts/)
-- [WP_URL_Pattern_Prefixer](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/)
-- [WP_URL_Pattern_Prefixer::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_url_pattern_prefixer/__construct/)
-- [wp_render_empty_block_template_warning&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_render_empty_block_template_warning/)
-- [should_load_block_assets_on_demand](https://developer.wordpress.org/reference/hooks/should_load_block_assets_on_demand/)
-- [wp_should_load_block_assets_on_demand&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_should_load_block_assets_on_demand/)
-- [wp_next_scheduled](https://developer.wordpress.org/reference/hooks/wp_next_scheduled/)
-- [get_calendar_args](https://developer.wordpress.org/reference/hooks/get_calendar_args/)
+- [WP_REST_Request::is_method&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_rest_request/is_method/)
+- [wp_prevent_unsupported_mime_type_uploads](https://developer.wordpress.org/reference/hooks/wp_prevent_unsupported_mime_type_uploads/)
+- [image_max_bit_depth](https://developer.wordpress.org/reference/hooks/image_max_bit_depth/)
+- [wp_password_needs_rehash&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_password_needs_rehash/)
+- [password_needs_rehash](https://developer.wordpress.org/reference/hooks/password_needs_rehash/)
+- [wp_hash_password_algorithm](https://developer.wordpress.org/reference/hooks/wp_hash_password_algorithm/)
+- [wp_hash_password_options](https://developer.wordpress.org/reference/hooks/wp_hash_password_options/)
+- [Walker_Nav_Menu::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/walker_nav_menu/__construct/)
+- [wp_initialize_site_preview_hooks&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_initialize_site_preview_hooks/)
+- [WP_Locale::get_month_genitive&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_locale/get_month_genitive/)
 <!-- DEVHUB:END -->
 
 ## Themes
