@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Learn WordPress Coffee Hour](https://learn.wordpress.org/?meeting=learn-wordpress-coffee-hour)
 - [WP-Cli নিয়ে সম্পূর্ণ গাইডলাইন – WP-CLI Complete Guideline](https://learn.wordpress.org/?meeting=wp-cli-complete-guideline)
 - [Mastering WordPress Migration &amp; Backup – Bengali](https://learn.wordpress.org/?meeting=mastering-wordpress-migration-backup-bengali)
 - [サポートフォーラムモデレーター養成ワークショップ](https://learn.wordpress.org/?meeting=%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%e3%83%a2%e3%83%87%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e9%a4%8a%e6%88%90%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: How to Simplify Client Editing in WordPress](https://learn.wordpress.org/?meeting=developer-hours-how-to-simplify-client-editing-in-wordpress)
 - [Fixing Plugin Check issues](https://learn.wordpress.org/?meeting=fixing-plugin-check-issues)
 - [Creating a portfolio site with a block theme and patterns](https://learn.wordpress.org/?meeting=creating-a-portfolio-site-with-a-block-theme-and-patterns)
-- [Developer Hours: An Introduction to Data Views](https://learn.wordpress.org/?meeting=developer-hours-an-introduction-to-data-views)
 <!-- SLS:END -->
 
 ## Test
