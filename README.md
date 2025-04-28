@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Charla/concurso ¿Sabes más que una IA?](https://wordpress.tv/2025/04/27/charla-concurso-sabes-mas-que-una-ia/)
+- [Mesa debate: ¿Nos va mandar la IA al paro a todos?](https://wordpress.tv/2025/04/27/mesa-debate-nos-va-mandar-la-ia-al-paro-a-todos/)
+- [Automatización con IA y n8n: De la idea a la implementación](https://wordpress.tv/2025/04/27/automatizacion-con-ia-y-n8n-de-la-idea-a-la-implementacion/)
+- [WordCamp Connect: SEO, IA y WordPress: ¿Nos enfrentamos al fin del posicionamiento tradicional?](https://wordpress.tv/2025/04/27/wordcamp-connect-seo-ia-y-wordpress-nos-enfrentamos-al-fin-del-posicionamiento-tradicional/)
+- [IA para novatos – Pregunta lo que quieras](https://wordpress.tv/2025/04/27/ia-para-novatos-pregunta-lo-que-quieras/)
+- [La Revolución del vídeo con IA en las redes](https://wordpress.tv/2025/04/27/la-revolucion-del-video-con-ia-en-las-redes/)
+- [5 TIPS para automatizar el SEO local de tu negocio con Inteligencia Artificial](https://wordpress.tv/2025/04/27/5-tips-para-automatizar-el-seo-local-de-tu-negocio-con-inteligencia-artificial/)
+- [Optimización emocional: Cómo la IA puede aumentar las ventas jugando con las emociones del cliente](https://wordpress.tv/2025/04/27/optimizacion-emocional-como-la-ia-puede-aumentar-las-ventas-jugando-con-las-emociones-del-cliente/)
+- [IA y WordPress: El Dúo Imparable del Marketing Digital](https://wordpress.tv/2025/04/27/ia-y-wordpress-el-duo-imparable-del-marketing-digital/)
 - [Tu WordPress, Tu IA](https://wordpress.tv/2025/04/27/tu-wordpress-tu-ia/)
 - [Cómo la IA está destrozando tu GTM: Y qué hacer al respecto](https://wordpress.tv/2025/04/27/como-la-ia-esta-destrozando-tu-gtm-y-que-hacer-al-respecto/)
 - [Automatización Inteligente: Cómo la IA está redefiniendo el flujo de trabajo en WordPress](https://wordpress.tv/2025/04/27/automatizacion-inteligente-como-la-ia-esta-redefiniendo-el-flujo-de-trabajo-en-wordpress/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility: Błędy, które utrudniają życie](https://wordpress.tv/2025/04/21/accessibility-bledy-ktore-utrudniaja-zycie/)
 - [Na SEO mi to SEO?](https://wordpress.tv/2025/04/21/na-seo-mi-to-seo/)
 - [Ile razy trzeba zostać zhackowanym, aby czegoś się nauczyć?](https://wordpress.tv/2025/04/21/ile-razy-trzeba-zostac-zhackowanym-aby-czegos-sie-nauczyc/)
-- [WordCamp Romania 2024 Aftermovie](https://wordpress.tv/2025/04/19/wordcamp-romania-2024-aftermovie/)
-- [Opening remarks](https://wordpress.tv/2025/04/19/opening-remarks-6/)
-- [Observability for WordPress in practice, so that issues have nowhere to hide](https://wordpress.tv/2025/04/19/observability-for-wordpress-in-practice-so-that-issues-have-nowhere-to-hide/)
-- [How ReactJS can be implemented in WordPress and what are risks for business and developers](https://wordpress.tv/2025/04/19/how-reactjs-can-be-implemented-in-wordpress-and-what-are-risks-for-business-and-developers/)
-- [Community marketer and manager hate each other](https://wordpress.tv/2025/04/19/community-marketer-and-manager-hate-each-other/)
-- [Tiny Text, Big Impact: Crafting Content for the Short-Attention-Span Generation](https://wordpress.tv/2025/04/19/tiny-text-big-impact-crafting-content-for-the-short-attention-span-generation/)
-- [Managing Stress for a Healthier Work Experience](https://wordpress.tv/2025/04/19/managing-stress-for-a-healthier-work-experience/)
-- [WordPress malware in 2024](https://wordpress.tv/2025/04/19/wordpress-malware-in-2024/)
-- [Unleashing Open-Source Power: Combining WordPress and Flutter for Native Mobile Apps](https://wordpress.tv/2025/04/19/unleashing-open-source-power-combining-wordpress-and-flutter-for-native-mobile-apps/)
 <!-- WPTV:END -->
 
 ## Marketing
