@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-34/)
+- [Website Review](https://jobs.wordpress.net/job/website-review/)
+- [We’re Hiring: WordPress Developer &lpar;2–3 Years Experience&rpar;](https://jobs.wordpress.net/job/were-hiring-wordpress-developer-2-3-years-experience/)
+- [Woocommerce cart, checkout speed optimization](https://jobs.wordpress.net/job/woocommerce-cart-checkout-speed-optimization/)
+- [WordPress tutor](https://jobs.wordpress.net/job/wordpress-tutor-6/)
+- [PHP WordPress Developer &lpar;All In One Security&rpar;](https://jobs.wordpress.net/job/php-wordpress-developer-all-in-one-security-2/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-211/)
 - [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-27/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-860/)
 - [Experienced WordPress Developer &lpar;Project-Based&rpar;](https://jobs.wordpress.net/job/experienced-wordpress-developer-project-based/)
-- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-5/)
-- [PHP WordPress Support Engineer](https://jobs.wordpress.net/job/php-wordpress-support-engineer/)
-- [Marketing Manager &lpar;fully remote&rpar;](https://jobs.wordpress.net/job/marketing-manager-fully-remote/)
-- [Junior/Mid-Level WordPress Full-Stack Developer &lpar;Front-End Focus&rpar;](https://jobs.wordpress.net/job/junior-mid-level-wordpress-full-stack-developer-front-end-focus/)
-- [junior WordPress technician](https://jobs.wordpress.net/job/junior-wordpress-technician/)
-- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-16/)
 <!-- JOBS:END -->
 
 ## Central
