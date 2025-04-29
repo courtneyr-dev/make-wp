@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Summary for Discussion Meeting &lpar;29 April 2025&rpar;](https://make.wordpress.org/docs/2025/04/29/summary-for-discussion-meeting-29-april-2025/)
 - [Agenda for Discussion Meeting &lpar;29 April 2025&rpar;](https://make.wordpress.org/docs/2025/04/29/agenda-for-discussion-meeting-29-april-2025/)
 - [Summary for Discussion Meeting &lpar;15-Apr-2025&rpar;](https://make.wordpress.org/docs/2025/04/20/summary-for-discussion-meeting-15-apr-2025/)
 - [Agenda for Discussion Meeting &lpar;15-Apr-2025&rpar;](https://make.wordpress.org/docs/2025/04/15/agenda-for-discussion-meeting-15-apr-2025/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary for Discussion Meeting &lpar;04-Mar-2025&rpar;](https://make.wordpress.org/docs/2025/03/06/summary-for-discussion-meeting-04-mar-2025/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/docs/2025/03/04/xpost-help-test-wordpress-6-8/)
 - [Agenda for Discussion Meeting &lpar;18-Feb-2025&rpar;](https://make.wordpress.org/docs/2025/02/18/37000/)
-- [Summary for Discussion Meeting &lpar;04-Feb-2025&rpar;](https://make.wordpress.org/docs/2025/02/18/summary-for-docs-team-meeting-04-feb-2025/)
 <!-- DOCS:END -->
 
 ### Support Articles
