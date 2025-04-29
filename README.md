@@ -535,6 +535,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [EmpowerWP Bhopal 2025: A Journey of Inclusion and Impact!](https://central.wordcamp.org/news/2025/04/empowerwp-bhopal-2025-a-journey-of-inclusion-and-impact/)
 - [Uganda’s Website Projects Competition Returns in 2025 — Bigger and Bolder](https://central.wordcamp.org/news/2025/04/ugandas-website-projects-competition-returns-in-2025-bigger-and-bolder/)
 - [Women in Tech – Ajmer: A Celebration of Empowerment and Connection](https://central.wordcamp.org/news/2025/04/women-in-tech-ajmer-a-celebration-of-empowerment-and-connection/)
 - [WordCamp Mukono 2025: A Celebration of WordPress and Women in Tech](https://central.wordcamp.org/news/2025/02/wordcamp-mukono-2025-a-celebration-of-wordpress-and-women-in-tech/)
@@ -549,7 +550,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Thanks for sponsoring global WordPress community events across the globe, Bluehost!](https://central.wordcamp.org/news/2024/01/thanks-for-sponsoring-global-wordpress-community-events-across-the-globe-bluehost/)
 - [Thanks to Woo for sponsoring community events worldwide](https://central.wordcamp.org/news/2024/01/thanks-to-woo-for-sponsoring-community-events-worldwide/)
 - [Automattic sponsors WordPress community events across the globe](https://central.wordcamp.org/news/2024/01/automattic-sponsors-wordpress-community-events-across-the-globe/)
-- [WPBeginner joins the WordPress global community sponsorship program in 2024](https://central.wordcamp.org/news/2024/01/wpbeginner-joins-the-wordpress-global-community-sponsorship-program-in-2024/)
 <!-- Central:END -->
 
 ### WordCamp
