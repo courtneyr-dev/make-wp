@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, Apr 23, 2025](https://make.wordpress.org/core/2025/04/29/summary-dev-chat-april-23-2025/)
 - [Dev Chat Agenda – April 30, 2025](https://make.wordpress.org/core/2025/04/29/dev-chat-agenda-april-30-2025/)
 - [WordPress 6.8.1 RC1 is now available](https://make.wordpress.org/core/2025/04/28/wordpress-6-8-1-rc1-is-now-available/)
 - [WordPress 6.8.1 Release Schedule](https://make.wordpress.org/core/2025/04/24/wordpress-6-8-1-release-schedule/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 8 April 2025](https://make.wordpress.org/core/2025/04/08/performance-chat-summary-25-february-2025-2/)
 - [Dotorg Core Committers Check In](https://make.wordpress.org/core/2025/04/04/dotorg-core-committers-check-in/)
 - [X-post: A Month in Core – March 2025](https://make.wordpress.org/core/2025/04/03/xpost-a-month-in-core-march-2025/)
-- [Summary, Dev Chat, Apr 2, 2025](https://make.wordpress.org/core/2025/04/02/summary-dev-chat-april-2-2025/)
 <!-- CORE:END -->
 
 ## Design
