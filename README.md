@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Invisible Influence of Design](https://wordpress.tv/2025/04/30/invisible-influence-of-design/)
+- [Boost your local business with a Google Business Profile for SEO Success](https://wordpress.tv/2025/04/30/boost-your-local-business-with-a-google-business-profile-for-seo-success/)
 - [Charla/concurso ¿Sabes más que una IA?](https://wordpress.tv/2025/04/27/charla-concurso-sabes-mas-que-una-ia/)
 - [Mesa debate: ¿Nos va mandar la IA al paro a todos?](https://wordpress.tv/2025/04/27/mesa-debate-nos-va-mandar-la-ia-al-paro-a-todos/)
 - [Automatización con IA y n8n: De la idea a la implementación](https://wordpress.tv/2025/04/27/automatizacion-con-ia-y-n8n-de-la-idea-a-la-implementacion/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Playground](https://wordpress.tv/2025/04/21/wordpress-playground/)
 - [Nie pytaj co może zrobić dla Ciebie prawnik, tylko co możesz bez niego.](https://wordpress.tv/2025/04/21/nie-pytaj-co-moze-zrobic-dla-ciebie-prawnik-tylko-co-mozesz-bez-niego/)
 - [Accessibility: Błędy, które utrudniają życie](https://wordpress.tv/2025/04/21/accessibility-bledy-ktore-utrudniaja-zycie/)
-- [Na SEO mi to SEO?](https://wordpress.tv/2025/04/21/na-seo-mi-to-seo/)
-- [Ile razy trzeba zostać zhackowanym, aby czegoś się nauczyć?](https://wordpress.tv/2025/04/21/ile-razy-trzeba-zostac-zhackowanym-aby-czegos-sie-nauczyc/)
 <!-- WPTV:END -->
 
 ## Marketing
