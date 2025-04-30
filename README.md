@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Aasta Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-aasta-theme/)
 - [PTE Request for EazyShop Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-eazyshop-theme-2/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-abiz-theme-3/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/04/30/i-am-the-plugin-author-54/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/28/hi-dear-mentors-we-have-177/)
 - [PTE Request for EazyShop Theme…](https://make.wordpress.org/polyglots/2025/04/28/pte-request-for-eazyshop-theme/)
 - [PTE Request – GatherPress](https://make.wordpress.org/polyglots/2025/04/28/pte-request-gatherpress/)
-- [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2025/04/28/hello-i-am-the-plugin-11/)
 <!-- POLYGLOTS:END -->
 
 ## Support
