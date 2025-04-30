@@ -352,6 +352,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Future: Why the Open Web Matters](https://wordpress.tv/2025/04/30/the-future-why-the-open-web-matters/)
+- [From Code to Commerce: My Transition from Agency to Plugin Entrepreneur](https://wordpress.tv/2025/04/30/from-code-to-commerce-my-transition-from-agency-to-plugin-entrepreneur/)
+- [Balancing Performance and Well-being: Building a High-Performance Culture Without Burning Out Your T](https://wordpress.tv/2025/04/30/balancing-performance-and-well-being-building-a-high-performance-culture-without-burning-out-your-t/)
+- [Create a demo with Playground](https://wordpress.tv/2025/04/30/create-a-demo-with-playground/)
+- [WordPress Contributions: Building a Transparent System for a Stronger Community](https://wordpress.tv/2025/04/30/wordpress-contributions-building-a-transparent-system-for-a-stronger-community/)
+- [After the Browser: AI Assistants as the New Gateway to Digital Services](https://wordpress.tv/2025/04/30/after-the-browser-ai-assistants-as-the-new-gateway-to-digital-services/)
+- [Campfire: Is AI a magic button? Intelligently incorporating AI technologies into your work.](https://wordpress.tv/2025/04/30/campfire-is-ai-a-magic-button-intelligently-incorporating-ai-technologies-into-your-work/)
+- [Dissecting WordPress Playground](https://wordpress.tv/2025/04/30/dissecting-wordpress-playground/)
 - [Invisible Influence of Design](https://wordpress.tv/2025/04/30/invisible-influence-of-design/)
 - [Boost your local business with a Google Business Profile for SEO Success](https://wordpress.tv/2025/04/30/boost-your-local-business-with-a-google-business-profile-for-seo-success/)
 - [Charla/concurso ¿Sabes más que una IA?](https://wordpress.tv/2025/04/27/charla-concurso-sabes-mas-que-una-ia/)
@@ -369,14 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Desarrolla en WordPress Plugins más seguros](https://wordpress.tv/2025/04/27/desarrolla-en-wordpress-plugins-mas-seguros/)
 - [Taller: Más que la suma de las partes: IA y estructuras avanzadas en WordPress](https://wordpress.tv/2025/04/27/taller-mas-que-la-suma-de-las-partes-ia-y-estructuras-avanzadas-en-wordpress/)
 - [Taller: Potencia tu Marketing y SEO con Inteligencia Artificial Generativa &lpar;IAG&rpar; en WordPress](https://wordpress.tv/2025/04/27/taller-potencia-tu-marketing-y-seo-con-inteligencia-artificial-generativa-iag-en-wordpress/)
-- [Free Mic](https://wordpress.tv/2025/04/22/free-mic/)
-- [WordPress, REST API i bezpieczeństwo – co każdy sprzedawca produktów cyfrowych powinien wiedzieć.](https://wordpress.tv/2025/04/21/wordpress-rest-api-i-bezpieczenstwo-co-kazdy-sprzedawca-produktow-cyfrowych-powinien-wiedziec/)
-- [Hosting bez tajemnic – jak uniknąć najczęstszych problemów z WordPressem](https://wordpress.tv/2025/04/21/hosting-bez-tajemnic-jak-uniknac-najczestszych-problemow-z-wordpressem/)
-- [O tym jak w ciągu miesiąca usunęliśmy 1000 wtyczek z repozytorium – historia największego bug bounty](https://wordpress.tv/2025/04/21/o-tym-jak-w-ciagu-miesiaca-usunelismy-1000-wtyczek-z-repozytorium-historia-najwiekszego-bug-bounty/)
-- [Jak nie stracić potencjalnych klientów? Błędy, które mogą Cię sporo kosztować](https://wordpress.tv/2025/04/21/jak-nie-stracic-potencjalnych-klientow-bledy-ktore-moga-cie-sporo-kosztowac/)
-- [WordPress Playground](https://wordpress.tv/2025/04/21/wordpress-playground/)
-- [Nie pytaj co może zrobić dla Ciebie prawnik, tylko co możesz bez niego.](https://wordpress.tv/2025/04/21/nie-pytaj-co-moze-zrobic-dla-ciebie-prawnik-tylko-co-mozesz-bez-niego/)
-- [Accessibility: Błędy, które utrudniają życie](https://wordpress.tv/2025/04/21/accessibility-bledy-ktore-utrudniaja-zycie/)
 <!-- WPTV:END -->
 
 ## Marketing
