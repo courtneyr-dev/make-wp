@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/04/30/i-am-the-plugin-author-54/)
+- [Hello Polyglots, Please add me…](https://make.wordpress.org/polyglots/2025/04/30/hello-polyglots-please-add-me-5/)
 - [PTE Request for my plugin.](https://make.wordpress.org/polyglots/2025/04/29/pte-request-for-my-plugin-8/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/04/29/hello-96/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/28/hi-dear-mentors-we-have-177/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I am the plugin…](https://make.wordpress.org/polyglots/2025/04/28/hello-i-am-the-plugin-11/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2025/04/25/hello-i-am-the-theme-5/)
 - [PTE Request for ProvenExpert I…](https://make.wordpress.org/polyglots/2025/04/25/pte-request-for-provenexpert-i/)
-- [PTE Request for  OceanWP Theme  German &lpar;Switzerland&rpar;](https://make.wordpress.org/polyglots/2025/04/24/pte-request-for-oceanwp-theme-german-switzerland/)
-- [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2025/04/24/pte-request-for-independent-analytics-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
