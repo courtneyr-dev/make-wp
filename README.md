@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [WordPress 6.8.1 has been released….](https://make.wordpress.org/polyglots/2025/04/30/wordpress-6-8-1-has-been-released/)
 - [Can users be blocked by someone?](https://make.wordpress.org/polyglots/2025/04/30/can-users-be-blocked-by-someone/)
 - [PTE Request for Aasta Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-aasta-theme/)
 - [PTE Request for EazyShop Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-eazyshop-theme-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for my plugin.](https://make.wordpress.org/polyglots/2025/04/29/pte-request-for-my-plugin-8/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/04/29/hello-96/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/28/hi-dear-mentors-we-have-177/)
-- [PTE Request for EazyShop Theme…](https://make.wordpress.org/polyglots/2025/04/28/pte-request-for-eazyshop-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
