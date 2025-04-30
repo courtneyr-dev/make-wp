@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Gutenberg Blocks with AI by Kadence WP – Page Builder Features Plugin](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-gutenberg-blocks-with-ai-by-kadence-wp-page-builder-features-plugin/)
 - [WordPress 6.8.1 has been released….](https://make.wordpress.org/polyglots/2025/04/30/wordpress-6-8-1-has-been-released/)
 - [Can users be blocked by someone?](https://make.wordpress.org/polyglots/2025/04/30/can-users-be-blocked-by-someone/)
 - [PTE Request for Aasta Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-aasta-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots, Please add me…](https://make.wordpress.org/polyglots/2025/04/30/hello-polyglots-please-add-me-5/)
 - [PTE Request for my plugin.](https://make.wordpress.org/polyglots/2025/04/29/pte-request-for-my-plugin-8/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/04/29/hello-96/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/04/28/hi-dear-mentors-we-have-177/)
 <!-- POLYGLOTS:END -->
 
 ## Support
