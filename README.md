@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [I’d like to request access…](https://make.wordpress.org/systems/2025/05/01/id-like-to-request-access/)
 - [Plugins pre-commit rule to prevent nested tags](https://make.wordpress.org/systems/2025/04/30/plugins-pre-commit-rule-to-prevent-nested-tags/)
 - [Similar issue to: https://make.wordpress.org/systems/?p=2374 VSCode…](https://make.wordpress.org/systems/2025/04/16/similar-issue-to-https-make-wordpress-org-systems-p2374-vscode/)
 - [Remove mu.wordpress.org’s deprecated forums](https://make.wordpress.org/systems/2025/01/07/remove-mu-wordpress-orgs-deprecated-forums/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [429’s on WordCamp sites](https://make.wordpress.org/systems/2024/10/04/429s-on-wordcamp-sites/)
 - [Add minimum commit message length for core.](https://make.wordpress.org/systems/2024/09/25/add-minimum-commit-message-length-for-core/)
 - [MC Release Access for Peter Wilson](https://make.wordpress.org/systems/2024/08/16/mc-release-access-for-peter-wilson/)
-- [www.wp-cli.org SSL setup wp-cli.org is…](https://make.wordpress.org/systems/2024/06/27/www-wp-cli-org-ssl-setup-wp-cli-org-is/)
 <!-- SYSTEMS:END -->
 
 ## News
