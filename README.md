@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to hire ethically from emerging markets &lpar;or from the Philippines&rpar;](https://wordpress.tv/2025/05/01/how-to-hire-ethically-from-emerging-markets-or-from-the-philippines/)
+- [Breaking Static: Lessons in Clarity from Military and Aviation Communication](https://wordpress.tv/2025/05/01/breaking-static-lessons-in-clarity-from-military-and-aviation-communication/)
+- [From Code to Customers Make millions with marketing](https://wordpress.tv/2025/05/01/from-code-to-customers-make-millions-with-marketing/)
+- [5 Proven Strategies to Skyrocket Your WordPress Revenue](https://wordpress.tv/2025/05/01/5-proven-strategies-to-skyrocket-your-wordpress-revenue/)
+- [Just enough AI/LLMs to make your WordPress site smart](https://wordpress.tv/2025/05/01/just-enough-ai-llms-to-make-your-wordpress-site-smart/)
+- [Content Modeling: Custom Post Types and Custom Fields in the Block Editor](https://wordpress.tv/2025/05/01/content-modeling-custom-post-types-and-custom-fields-in-the-block-editor/)
+- [Redefining WordPress Design: Innovating Block Themes on Automattic’s Special Projects Team](https://wordpress.tv/2025/05/01/redefining-wordpress-design-innovating-block-themes-on-automattics-special-projects-team/)
+- [Budget-Friendly Usability Testing for WordPress](https://wordpress.tv/2025/05/01/budget-friendly-usability-testing-for-wordpress/)
+- [Matías Ventura: Opening Keynote](https://wordpress.tv/2025/05/01/matias-ventura-opening-keynote/)
 - [The Future: Why the Open Web Matters](https://wordpress.tv/2025/04/30/the-future-why-the-open-web-matters/)
 - [From Code to Commerce: My Transition from Agency to Plugin Entrepreneur](https://wordpress.tv/2025/04/30/from-code-to-commerce-my-transition-from-agency-to-plugin-entrepreneur/)
 - [Balancing Performance and Well-being: Building a High-Performance Culture Without Burning Out Your T](https://wordpress.tv/2025/04/30/balancing-performance-and-well-being-building-a-high-performance-culture-without-burning-out-your-t/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Connect: SEO, IA y WordPress: ¿Nos enfrentamos al fin del posicionamiento tradicional?](https://wordpress.tv/2025/04/27/wordcamp-connect-seo-ia-y-wordpress-nos-enfrentamos-al-fin-del-posicionamiento-tradicional/)
 - [IA para novatos – Pregunta lo que quieras](https://wordpress.tv/2025/04/27/ia-para-novatos-pregunta-lo-que-quieras/)
 - [La Revolución del vídeo con IA en las redes](https://wordpress.tv/2025/04/27/la-revolucion-del-video-con-ia-en-las-redes/)
-- [5 TIPS para automatizar el SEO local de tu negocio con Inteligencia Artificial](https://wordpress.tv/2025/04/27/5-tips-para-automatizar-el-seo-local-de-tu-negocio-con-inteligencia-artificial/)
-- [Optimización emocional: Cómo la IA puede aumentar las ventas jugando con las emociones del cliente](https://wordpress.tv/2025/04/27/optimizacion-emocional-como-la-ia-puede-aumentar-las-ventas-jugando-con-las-emociones-del-cliente/)
-- [IA y WordPress: El Dúo Imparable del Marketing Digital](https://wordpress.tv/2025/04/27/ia-y-wordpress-el-duo-imparable-del-marketing-digital/)
-- [Tu WordPress, Tu IA](https://wordpress.tv/2025/04/27/tu-wordpress-tu-ia/)
-- [Cómo la IA está destrozando tu GTM: Y qué hacer al respecto](https://wordpress.tv/2025/04/27/como-la-ia-esta-destrozando-tu-gtm-y-que-hacer-al-respecto/)
-- [Automatización Inteligente: Cómo la IA está redefiniendo el flujo de trabajo en WordPress](https://wordpress.tv/2025/04/27/automatizacion-inteligente-como-la-ia-esta-redefiniendo-el-flujo-de-trabajo-en-wordpress/)
-- [Desarrolla en WordPress Plugins más seguros](https://wordpress.tv/2025/04/27/desarrolla-en-wordpress-plugins-mas-seguros/)
-- [Taller: Más que la suma de las partes: IA y estructuras avanzadas en WordPress](https://wordpress.tv/2025/04/27/taller-mas-que-la-suma-de-las-partes-ia-y-estructuras-avanzadas-en-wordpress/)
-- [Taller: Potencia tu Marketing y SEO con Inteligencia Artificial Generativa &lpar;IAG&rpar; en WordPress](https://wordpress.tv/2025/04/27/taller-potencia-tu-marketing-y-seo-con-inteligencia-artificial-generativa-iag-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
