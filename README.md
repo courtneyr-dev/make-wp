@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Manual de supervivencia en redes sociais para pequenos negocios e emprendedores](https://wordpress.tv/2025/05/01/manual-de-supervivencia-en-redes-sociais-para-pequenos-negocios-e-emprendedores/)
 - [How to hire ethically from emerging markets &lpar;or from the Philippines&rpar;](https://wordpress.tv/2025/05/01/how-to-hire-ethically-from-emerging-markets-or-from-the-philippines/)
 - [Breaking Static: Lessons in Clarity from Military and Aviation Communication](https://wordpress.tv/2025/05/01/breaking-static-lessons-in-clarity-from-military-and-aviation-communication/)
 - [From Code to Customers Make millions with marketing](https://wordpress.tv/2025/05/01/from-code-to-customers-make-millions-with-marketing/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Automatización con IA y n8n: De la idea a la implementación](https://wordpress.tv/2025/04/27/automatizacion-con-ia-y-n8n-de-la-idea-a-la-implementacion/)
 - [WordCamp Connect: SEO, IA y WordPress: ¿Nos enfrentamos al fin del posicionamiento tradicional?](https://wordpress.tv/2025/04/27/wordcamp-connect-seo-ia-y-wordpress-nos-enfrentamos-al-fin-del-posicionamiento-tradicional/)
 - [IA para novatos – Pregunta lo que quieras](https://wordpress.tv/2025/04/27/ia-para-novatos-pregunta-lo-que-quieras/)
-- [La Revolución del vídeo con IA en las redes](https://wordpress.tv/2025/04/27/la-revolucion-del-video-con-ia-en-las-redes/)
 <!-- WPTV:END -->
 
 ## Marketing
