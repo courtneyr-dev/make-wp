@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-booking-activities-7/)
+- [PTE Request for Mementor Text to Speech &lpar;TTS&rpar;](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-mementor-text-to-speech-tts/)
+- [PTE Request for Necessary Blocks…](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-necessary-blocks/)
+- [PTE Request for Out of Stock Message Manager](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-out-of-stock-message-manager/)
+- [PTE Request for Cloudapps Course Manager plugin](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-cloudapps-course-manager-plugin/)
 - [Status of the @kowordpressorg Twitter/X Handle for ko.wordpress.org](https://make.wordpress.org/polyglots/2025/05/01/status-of-the-kowordpressorg-twitter-x-handle-for-ko-wordpress-org/)
 - [PTE Request for Gutenberg Blocks with AI by Kadence WP – Page Builder Features Plugin](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-gutenberg-blocks-with-ai-by-kadence-wp-page-builder-features-plugin/)
 - [WordPress 6.8.1 has been released….](https://make.wordpress.org/polyglots/2025/04/30/wordpress-6-8-1-has-been-released/)
 - [Can users be blocked by someone?](https://make.wordpress.org/polyglots/2025/04/30/can-users-be-blocked-by-someone/)
 - [PTE Request for Aasta Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-aasta-theme/)
-- [PTE Request for EazyShop Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-eazyshop-theme-2/)
-- [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-abiz-theme-3/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/04/30/i-am-the-plugin-author-54/)
-- [Hello Polyglots, Please add me…](https://make.wordpress.org/polyglots/2025/04/30/hello-polyglots-please-add-me-5/)
-- [PTE Request for my plugin.](https://make.wordpress.org/polyglots/2025/04/29/pte-request-for-my-plugin-8/)
 <!-- POLYGLOTS:END -->
 
 ## Support
