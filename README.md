@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Strategies That Talk Engagement: Are You Listening to What Your Website Needs?](https://wordpress.tv/2025/05/01/strategies-that-talk-engagement-are-you-listening-to-what-your-website-needs/)
 - [Primeros pasos en programacion y WordPress: una guia honesta para nuevas desarrolladoras](https://wordpress.tv/2025/05/01/primeros-pasos-en-programacion-y-wordpress-una-guia-honesta-para-nuevas-desarrolladoras/)
 - [¿Por qué tu Web en WordPress No Funciona? Aplica UX para Mejorarla](https://wordpress.tv/2025/05/01/por-que-tu-web-en-wordpress-no-funciona-aplica-ux-para-mejorarla/)
 - [Manual de supervivencia en redes sociais para pequenos negocios e emprendedores](https://wordpress.tv/2025/05/01/manual-de-supervivencia-en-redes-sociais-para-pequenos-negocios-e-emprendedores/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Boost your local business with a Google Business Profile for SEO Success](https://wordpress.tv/2025/04/30/boost-your-local-business-with-a-google-business-profile-for-seo-success/)
 - [Charla/concurso ¿Sabes más que una IA?](https://wordpress.tv/2025/04/27/charla-concurso-sabes-mas-que-una-ia/)
 - [Mesa debate: ¿Nos va mandar la IA al paro a todos?](https://wordpress.tv/2025/04/27/mesa-debate-nos-va-mandar-la-ia-al-paro-a-todos/)
-- [Automatización con IA y n8n: De la idea a la implementación](https://wordpress.tv/2025/04/27/automatizacion-con-ia-y-n8n-de-la-idea-a-la-implementacion/)
 <!-- WPTV:END -->
 
 ## Marketing
