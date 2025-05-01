@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Primeros pasos en programacion y WordPress: una guia honesta para nuevas desarrolladoras](https://wordpress.tv/2025/05/01/primeros-pasos-en-programacion-y-wordpress-una-guia-honesta-para-nuevas-desarrolladoras/)
+- [¿Por qué tu Web en WordPress No Funciona? Aplica UX para Mejorarla](https://wordpress.tv/2025/05/01/por-que-tu-web-en-wordpress-no-funciona-aplica-ux-para-mejorarla/)
 - [Manual de supervivencia en redes sociais para pequenos negocios e emprendedores](https://wordpress.tv/2025/05/01/manual-de-supervivencia-en-redes-sociais-para-pequenos-negocios-e-emprendedores/)
 - [How to hire ethically from emerging markets &lpar;or from the Philippines&rpar;](https://wordpress.tv/2025/05/01/how-to-hire-ethically-from-emerging-markets-or-from-the-philippines/)
 - [Breaking Static: Lessons in Clarity from Military and Aviation Communication](https://wordpress.tv/2025/05/01/breaking-static-lessons-in-clarity-from-military-and-aviation-communication/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Charla/concurso ¿Sabes más que una IA?](https://wordpress.tv/2025/04/27/charla-concurso-sabes-mas-que-una-ia/)
 - [Mesa debate: ¿Nos va mandar la IA al paro a todos?](https://wordpress.tv/2025/04/27/mesa-debate-nos-va-mandar-la-ia-al-paro-a-todos/)
 - [Automatización con IA y n8n: De la idea a la implementación](https://wordpress.tv/2025/04/27/automatizacion-con-ia-y-n8n-de-la-idea-a-la-implementacion/)
-- [WordCamp Connect: SEO, IA y WordPress: ¿Nos enfrentamos al fin del posicionamiento tradicional?](https://wordpress.tv/2025/04/27/wordcamp-connect-seo-ia-y-wordpress-nos-enfrentamos-al-fin-del-posicionamiento-tradicional/)
-- [IA para novatos – Pregunta lo que quieras](https://wordpress.tv/2025/04/27/ia-para-novatos-pregunta-lo-que-quieras/)
 <!-- WPTV:END -->
 
 ## Marketing
