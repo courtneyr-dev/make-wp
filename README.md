@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Mailing lists subscription functions broken.](https://make.wordpress.org/systems/2025/05/02/mailing-lists-subscription-functions-broken/)
 - [I’d like to request access…](https://make.wordpress.org/systems/2025/05/01/id-like-to-request-access/)
 - [Plugins pre-commit rule to prevent nested tags](https://make.wordpress.org/systems/2025/04/30/plugins-pre-commit-rule-to-prevent-nested-tags/)
 - [Similar issue to: https://make.wordpress.org/systems/?p=2374 VSCode…](https://make.wordpress.org/systems/2025/04/16/similar-issue-to-https-make-wordpress-org-systems-p2374-vscode/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CORS headers for ps.w.org &amp; ts.w.org](https://make.wordpress.org/systems/2024/10/15/cors-headers-for-ps-w-org-ts-w-org/)
 - [429’s on WordCamp sites](https://make.wordpress.org/systems/2024/10/04/429s-on-wordcamp-sites/)
 - [Add minimum commit message length for core.](https://make.wordpress.org/systems/2024/09/25/add-minimum-commit-message-length-for-core/)
-- [MC Release Access for Peter Wilson](https://make.wordpress.org/systems/2024/08/16/mc-release-access-for-peter-wilson/)
 <!-- SYSTEMS:END -->
 
 ## News
