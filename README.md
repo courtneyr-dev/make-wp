@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Spectra Gutenberg Blocks – Website Builder for the Block Editor Plugins](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-spectra-gutenberg-blocks-website-builder-for-the-block-editor-plugins/)
+- [Hi Polyglots team, I am…](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-i-am/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-shopwell-theme/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-5/)
 - [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-booking-activities-7/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Out of Stock Message Manager](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-out-of-stock-message-manager/)
 - [PTE Request for Cloudapps Course Manager plugin](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-cloudapps-course-manager-plugin/)
 - [Status of the @kowordpressorg Twitter/X Handle for ko.wordpress.org](https://make.wordpress.org/polyglots/2025/05/01/status-of-the-kowordpressorg-twitter-x-handle-for-ko-wordpress-org/)
-- [PTE Request for Gutenberg Blocks with AI by Kadence WP – Page Builder Features Plugin](https://make.wordpress.org/polyglots/2025/04/30/pte-request-for-gutenberg-blocks-with-ai-by-kadence-wp-page-builder-features-plugin/)
-- [WordPress 6.8.1 has been released….](https://make.wordpress.org/polyglots/2025/04/30/wordpress-6-8-1-has-been-released/)
 <!-- POLYGLOTS:END -->
 
 ## Support
