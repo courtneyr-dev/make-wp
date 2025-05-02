@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [No más webs sin mantenimiento ni profesionales sin ingresos recurrentes.](https://wordpress.tv/2025/05/02/no-mas-webs-sin-mantenimiento-ni-profesionales-sin-ingresos-recurrentes/)
 - [Strategies That Talk Engagement: Are You Listening to What Your Website Needs?](https://wordpress.tv/2025/05/01/strategies-that-talk-engagement-are-you-listening-to-what-your-website-needs/)
 - [Primeros pasos en programacion y WordPress: una guia honesta para nuevas desarrolladoras](https://wordpress.tv/2025/05/01/primeros-pasos-en-programacion-y-wordpress-una-guia-honesta-para-nuevas-desarrolladoras/)
 - [¿Por qué tu Web en WordPress No Funciona? Aplica UX para Mejorarla](https://wordpress.tv/2025/05/01/por-que-tu-web-en-wordpress-no-funciona-aplica-ux-para-mejorarla/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Invisible Influence of Design](https://wordpress.tv/2025/04/30/invisible-influence-of-design/)
 - [Boost your local business with a Google Business Profile for SEO Success](https://wordpress.tv/2025/04/30/boost-your-local-business-with-a-google-business-profile-for-seo-success/)
 - [Charla/concurso ¿Sabes más que una IA?](https://wordpress.tv/2025/04/27/charla-concurso-sabes-mas-que-una-ia/)
-- [Mesa debate: ¿Nos va mandar la IA al paro a todos?](https://wordpress.tv/2025/04/27/mesa-debate-nos-va-mandar-la-ia-al-paro-a-todos/)
 <!-- WPTV:END -->
 
 ## Marketing
