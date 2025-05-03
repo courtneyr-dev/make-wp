@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-shopwell-theme-2/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-abiz-theme-4/)
 - [PTE Request for Spectra Gutenberg Blocks – Website Builder for the Block Editor Plugins](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-spectra-gutenberg-blocks-website-builder-for-the-block-editor-plugins/)
 - [Hi Polyglots team, I am…](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-i-am/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Mementor Text to Speech &lpar;TTS&rpar;](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-mementor-text-to-speech-tts/)
 - [PTE Request for Necessary Blocks…](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-necessary-blocks/)
 - [PTE Request for Out of Stock Message Manager](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-out-of-stock-message-manager/)
-- [PTE Request for Cloudapps Course Manager plugin](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-cloudapps-course-manager-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
