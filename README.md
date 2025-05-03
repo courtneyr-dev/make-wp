@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Hello Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-hello-theme/)
+- [PTE Request for Jetpack Plugin](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-jetpack-plugin-2/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-shopwell-theme-2/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-abiz-theme-4/)
 - [PTE Request for Spectra Gutenberg Blocks – Website Builder for the Block Editor Plugins](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-spectra-gutenberg-blocks-website-builder-for-the-block-editor-plugins/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-5/)
 - [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-booking-activities-7/)
 - [PTE Request for Mementor Text to Speech &lpar;TTS&rpar;](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-mementor-text-to-speech-tts/)
-- [PTE Request for Necessary Blocks…](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-necessary-blocks/)
-- [PTE Request for Out of Stock Message Manager](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-out-of-stock-message-manager/)
 <!-- POLYGLOTS:END -->
 
 ## Support
