@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Product Expiration Easy Peasy](https://make.wordpress.org/polyglots/2025/05/04/pte-request-for-product-expiration-easy-peasy/)
+- [PTE Request for Altiva Theme](https://make.wordpress.org/polyglots/2025/05/04/pte-request-for-altiva-theme/)
 - [PTE Request for Jetpack Plugin and Hello Elementor theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-jetpack-plugin-2/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-shopwell-theme-2/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-abiz-theme-4/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-shopwell-theme/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-5/)
 - [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-booking-activities-7/)
-- [PTE Request for Mementor Text to Speech &lpar;TTS&rpar;](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-mementor-text-to-speech-tts/)
-- [PTE Request for Necessary Blocks…](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-necessary-blocks/)
 <!-- POLYGLOTS:END -->
 
 ## Support
