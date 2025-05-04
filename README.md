@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Agenda: May 07, 2025](https://make.wordpress.org/accessibility/2025/05/04/accessibility-team-meeting-agenda-may-07-2025/)
 - [Accessibility Team Meeting Agenda: April 02, 2025](https://make.wordpress.org/accessibility/2025/03/30/accessibility-team-meeting-agenda-april-02-2025/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/accessibility/2025/03/04/xpost-help-test-wordpress-6-8/)
 - [Accessibility Team Meeting Agenda: Mar 05, 2025](https://make.wordpress.org/accessibility/2025/03/03/accessibility-team-meeting-agenda-mar-05-2025/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: Dec 04, 2024](https://make.wordpress.org/accessibility/2024/12/02/accessibility-team-meeting-agenda-dec-04-2024/)
 - [Accessibility Team Meeting Agenda: Nov 06, 2024](https://make.wordpress.org/accessibility/2024/11/01/accessibility-team-meeting-agenda-nov-06-2024/)
 - [Next Steps for the Accessibility Team](https://make.wordpress.org/accessibility/2024/10/14/next-steps-for-the-accessibility-team/)
-- [Accessibility Team Meetings Suspended](https://make.wordpress.org/accessibility/2024/10/12/accessibility-team-meetings-suspended/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
