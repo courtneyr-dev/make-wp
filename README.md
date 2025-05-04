@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Easy Media Statistics](https://make.wordpress.org/polyglots/2025/05/04/pte-request-for-easy-media-statistics/)
 - [PTE Request for Product Expiration Easy Peasy](https://make.wordpress.org/polyglots/2025/05/04/pte-request-for-product-expiration-easy-peasy/)
 - [PTE Request for Altiva Theme](https://make.wordpress.org/polyglots/2025/05/04/pte-request-for-altiva-theme/)
 - [PTE Request for Jetpack Plugin and Hello Elementor theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-jetpack-plugin-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots team, I am…](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-i-am/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-shopwell-theme/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-5/)
-- [PTE Request for Booking Activities](https://make.wordpress.org/polyglots/2025/05/01/pte-request-for-booking-activities-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
