@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Developer Brief: Add Advanced Football Stats via CSV to Player Profiles &lpar;SportsPress on WordPress&rpar;](https://jobs.wordpress.net/job/developer-brief-add-advanced-football-stats-via-csv-to-player-profiles-sportspress-on-wordpress/)
+- [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-5/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-861/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-34/)
 - [We’re Hiring: WordPress Developer &lpar;2–3 Years Experience&rpar;](https://jobs.wordpress.net/job/were-hiring-wordpress-developer-2-3-years-experience/)
 - [Woocommerce cart, checkout speed optimization](https://jobs.wordpress.net/job/woocommerce-cart-checkout-speed-optimization/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PHP WordPress Developer &lpar;All In One Security&rpar;](https://jobs.wordpress.net/job/php-wordpress-developer-all-in-one-security-2/)
 - [Web Developer](https://jobs.wordpress.net/job/web-developer-211/)
 - [Full Stack Developer](https://jobs.wordpress.net/job/full-stack-developer-27/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-860/)
-- [Experienced WordPress Developer &lpar;Project-Based&rpar;](https://jobs.wordpress.net/job/experienced-wordpress-developer-project-based/)
-- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-5/)
 <!-- JOBS:END -->
 
 ## Central
