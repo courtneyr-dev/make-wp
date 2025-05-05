@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [De cero a tienda en línea: configuración inicial de WooCommerce](https://wordpress.tv/2025/05/05/de-cero-a-tienda-en-linea-configuracion-inicial-de-woocommerce/)
 - [Open Source, Open Opportunities: How WordPress Can Change Your Life](https://wordpress.tv/2025/05/05/open-source-open-opportunities-how-wordpress-can-change-your-life/)
 - [Breaking into Tech Without a Tech Background](https://wordpress.tv/2025/05/05/breaking-into-tech-without-a-tech-background/)
 - [From Learner to Leader: Women Breaking Barriers in the Digital Age](https://wordpress.tv/2025/05/05/from-learner-to-leader-women-breaking-barriers-in-the-digital-age/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Balancing Performance and Well-being: Building a High-Performance Culture Without Burning Out Your T](https://wordpress.tv/2025/04/30/balancing-performance-and-well-being-building-a-high-performance-culture-without-burning-out-your-t/)
 - [Create a demo with Playground](https://wordpress.tv/2025/04/30/create-a-demo-with-playground/)
 - [WordPress Contributions: Building a Transparent System for a Stronger Community](https://wordpress.tv/2025/04/30/wordpress-contributions-building-a-transparent-system-for-a-stronger-community/)
-- [After the Browser: AI Assistants as the New Gateway to Digital Services](https://wordpress.tv/2025/04/30/after-the-browser-ai-assistants-as-the-new-gateway-to-digital-services/)
 <!-- WPTV:END -->
 
 ## Marketing
