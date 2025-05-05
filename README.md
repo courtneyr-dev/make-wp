@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tecnologías obsoletas con WordPress – Panel de discusión](https://wordpress.tv/2025/05/05/tecnologias-obsoletas-con-wordpress-panel-de-discusion/)
+- [CSS &amp; WordPress &amp; Gutenberg](https://wordpress.tv/2025/05/05/css-wordpress-gutenberg/)
 - [No más webs sin mantenimiento ni profesionales sin ingresos recurrentes.](https://wordpress.tv/2025/05/02/no-mas-webs-sin-mantenimiento-ni-profesionales-sin-ingresos-recurrentes/)
 - [Strategies That Talk Engagement: Are You Listening to What Your Website Needs?](https://wordpress.tv/2025/05/01/strategies-that-talk-engagement-are-you-listening-to-what-your-website-needs/)
 - [Primeros pasos en programacion y WordPress: una guia honesta para nuevas desarrolladoras](https://wordpress.tv/2025/05/01/primeros-pasos-en-programacion-y-wordpress-una-guia-honesta-para-nuevas-desarrolladoras/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Campfire: Is AI a magic button? Intelligently incorporating AI technologies into your work.](https://wordpress.tv/2025/04/30/campfire-is-ai-a-magic-button-intelligently-incorporating-ai-technologies-into-your-work/)
 - [Dissecting WordPress Playground](https://wordpress.tv/2025/04/30/dissecting-wordpress-playground/)
 - [Invisible Influence of Design](https://wordpress.tv/2025/04/30/invisible-influence-of-design/)
-- [Boost your local business with a Google Business Profile for SEO Success](https://wordpress.tv/2025/04/30/boost-your-local-business-with-a-google-business-profile-for-seo-success/)
-- [Charla/concurso ¿Sabes más que una IA?](https://wordpress.tv/2025/04/27/charla-concurso-sabes-mas-que-una-ia/)
 <!-- WPTV:END -->
 
 ## Marketing
