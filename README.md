@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Open Source, Open Opportunities: How WordPress Can Change Your Life](https://wordpress.tv/2025/05/05/open-source-open-opportunities-how-wordpress-can-change-your-life/)
+- [Breaking into Tech Without a Tech Background](https://wordpress.tv/2025/05/05/breaking-into-tech-without-a-tech-background/)
+- [From Learner to Leader: Women Breaking Barriers in the Digital Age](https://wordpress.tv/2025/05/05/from-learner-to-leader-women-breaking-barriers-in-the-digital-age/)
 - [Tecnologías obsoletas con WordPress – Panel de discusión](https://wordpress.tv/2025/05/05/tecnologias-obsoletas-con-wordpress-panel-de-discusion/)
 - [CSS &amp; WordPress &amp; Gutenberg](https://wordpress.tv/2025/05/05/css-wordpress-gutenberg/)
 - [No más webs sin mantenimiento ni profesionales sin ingresos recurrentes.](https://wordpress.tv/2025/05/02/no-mas-webs-sin-mantenimiento-ni-profesionales-sin-ingresos-recurrentes/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Create a demo with Playground](https://wordpress.tv/2025/04/30/create-a-demo-with-playground/)
 - [WordPress Contributions: Building a Transparent System for a Stronger Community](https://wordpress.tv/2025/04/30/wordpress-contributions-building-a-transparent-system-for-a-stronger-community/)
 - [After the Browser: AI Assistants as the New Gateway to Digital Services](https://wordpress.tv/2025/04/30/after-the-browser-ai-assistants-as-the-new-gateway-to-digital-services/)
-- [Campfire: Is AI a magic button? Intelligently incorporating AI technologies into your work.](https://wordpress.tv/2025/04/30/campfire-is-ai-a-magic-button-intelligently-incorporating-ai-technologies-into-your-work/)
-- [Dissecting WordPress Playground](https://wordpress.tv/2025/04/30/dissecting-wordpress-playground/)
-- [Invisible Influence of Design](https://wordpress.tv/2025/04/30/invisible-influence-of-design/)
 <!-- WPTV:END -->
 
 ## Marketing
