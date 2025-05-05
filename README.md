@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Publish Your Plugin on WordPress.org: Full Guideline &lpar;Bangla&rpar;](https://learn.wordpress.org/?meeting=how-to-publish-your-plugin-on-wordpress-org-full-guideline-bangla-2)
 - [Learn WordPress Coffee Hour](https://learn.wordpress.org/?meeting=learn-wordpress-coffee-hour)
 - [WP-Cli নিয়ে সম্পূর্ণ গাইডলাইন – WP-CLI Complete Guideline](https://learn.wordpress.org/?meeting=wp-cli-complete-guideline)
 - [Mastering WordPress Migration &amp; Backup – Bengali](https://learn.wordpress.org/?meeting=mastering-wordpress-migration-backup-bengali)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Contributor Mentorship: Introduction to the WordPress Project &lpar;APAC/EMEA&rpar;](https://learn.wordpress.org/?meeting=contributor-mentorship-introduction-to-the-wordpress-project-apac-emea)
 - [Developer Hours: How to Simplify Client Editing in WordPress](https://learn.wordpress.org/?meeting=developer-hours-how-to-simplify-client-editing-in-wordpress)
 - [Fixing Plugin Check issues](https://learn.wordpress.org/?meeting=fixing-plugin-check-issues)
-- [Creating a portfolio site with a block theme and patterns](https://learn.wordpress.org/?meeting=creating-a-portfolio-site-with-a-block-theme-and-patterns)
 <!-- SLS:END -->
 
 ## Test
