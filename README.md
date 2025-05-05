@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/05/pte-request-for-shopwell-theme-3/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/05/i-am-the-plugin-author-55/)
 - [PTE Request for Easy Media Statistics](https://make.wordpress.org/polyglots/2025/05/04/pte-request-for-easy-media-statistics/)
 - [PTE Request for Product Expiration Easy Peasy](https://make.wordpress.org/polyglots/2025/05/04/pte-request-for-product-expiration-easy-peasy/)
 - [PTE Request for Altiva Theme](https://make.wordpress.org/polyglots/2025/05/04/pte-request-for-altiva-theme/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-abiz-theme-4/)
 - [PTE Request for Spectra Gutenberg Blocks – Website Builder for the Block Editor Plugins](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-spectra-gutenberg-blocks-website-builder-for-the-block-editor-plugins/)
 - [Hi Polyglots team, I am…](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-i-am/)
-- [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-shopwell-theme/)
-- [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/02/hi-polyglots-team-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
