@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Elementor Website Builder](https://make.wordpress.org/polyglots/2025/05/06/pte-request-for-elementor-website-builder/)
 - [PTE Request for Reviews and Rating – Docplanner](https://make.wordpress.org/polyglots/2025/05/05/pte-request-for-reviews-and-rating-docplanner/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/05/pte-request-for-shopwell-theme-3/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/05/i-am-the-plugin-author-55/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Jetpack Plugin and Hello Elementor theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-jetpack-plugin-2/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-shopwell-theme-2/)
 - [PTE Request for Abiz Theme](https://make.wordpress.org/polyglots/2025/05/03/pte-request-for-abiz-theme-4/)
-- [PTE Request for Spectra Gutenberg Blocks – Website Builder for the Block Editor Plugins](https://make.wordpress.org/polyglots/2025/05/02/pte-request-for-spectra-gutenberg-blocks-website-builder-for-the-block-editor-plugins/)
 <!-- POLYGLOTS:END -->
 
 ## Support
