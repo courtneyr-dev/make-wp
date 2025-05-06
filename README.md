@@ -525,12 +525,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Needed to Finalize WordPress Auction Site &lpar;WooCommerce + BrakeDance&rpar;](https://jobs.wordpress.net/job/developer-needed-to-finalize-wordpress-auction-site-woocommerce-brakedance/)
 - [Developer Brief: Add Advanced Football Stats via CSV to Player Profiles &lpar;SportsPress on WordPress&rpar;](https://jobs.wordpress.net/job/developer-brief-add-advanced-football-stats-via-csv-to-player-profiles-sportspress-on-wordpress/)
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-5/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-861/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-34/)
 - [We’re Hiring: WordPress Developer &lpar;2–3 Years Experience&rpar;](https://jobs.wordpress.net/job/were-hiring-wordpress-developer-2-3-years-experience/)
 - [Woocommerce cart, checkout speed optimization](https://jobs.wordpress.net/job/woocommerce-cart-checkout-speed-optimization/)
 - [WordPress tutor](https://jobs.wordpress.net/job/wordpress-tutor-6/)
 - [PHP WordPress Developer &lpar;All In One Security&rpar;](https://jobs.wordpress.net/job/php-wordpress-developer-all-in-one-security-2/)
+- [Web Developer](https://jobs.wordpress.net/job/web-developer-211/)
 <!-- JOBS:END -->
 
 ## Central
