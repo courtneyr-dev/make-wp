@@ -395,6 +395,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [WP-CLI v2.12.0 Release Notes](https://make.wordpress.org/cli/2025/05/07/wp-cli-v2-12-0-release-notes/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/cli/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/cli/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [WP-CLI v2.11.0 Release Notes](https://make.wordpress.org/cli/2024/08/08/wp-cli-v2-11-0-release-notes/)
@@ -404,7 +405,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP-CLI v2.10.0 Release Notes](https://make.wordpress.org/cli/2024/02/08/wp-cli-v2-10-0-release-notes/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/cli/2024/02/02/xpost-incident-response-team-call-for-nominations/)
 - [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/cli/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
-- [X-post: Embracing Matrix for Enhanced Communication](https://make.wordpress.org/cli/2023/12/01/xpost-embracing-matrix-for-enhanced-communication/)
 <!-- CLI:END -->
 
 ## Hosting
