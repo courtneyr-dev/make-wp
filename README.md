@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Stack PHP &amp; JavaScript Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-javascript-developer-wordpress/)
 - [Footy Vision – Team &amp; Match Booking System Specification for Developer &lpar;WordPress + SportsPress&rpar;](https://jobs.wordpress.net/job/footy-vision-team-match-booking-system-specification-for-developer-wordpress-sportspress/)
 - [Developer Needed to Finalize WordPress Auction Site &lpar;WooCommerce + BrakeDance&rpar;](https://jobs.wordpress.net/job/developer-needed-to-finalize-wordpress-auction-site-woocommerce-brakedance/)
 - [Developer Brief: Add Advanced Football Stats via CSV to Player Profiles &lpar;SportsPress on WordPress&rpar;](https://jobs.wordpress.net/job/developer-brief-add-advanced-football-stats-via-csv-to-player-profiles-sportspress-on-wordpress/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Woocommerce cart, checkout speed optimization](https://jobs.wordpress.net/job/woocommerce-cart-checkout-speed-optimization/)
 - [WordPress tutor](https://jobs.wordpress.net/job/wordpress-tutor-6/)
 - [PHP WordPress Developer &lpar;All In One Security&rpar;](https://jobs.wordpress.net/job/php-wordpress-developer-all-in-one-security-2/)
-- [Web Developer](https://jobs.wordpress.net/job/web-developer-211/)
 <!-- JOBS:END -->
 
 ## Central
