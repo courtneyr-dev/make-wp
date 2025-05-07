@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress Campus Connect Expands](https://wordpress.org/news/2025/05/wordpress-campus-connect-expands/)
 - [WordPress 6.8.1 Maintenance Release](https://wordpress.org/news/2025/04/wordpress-6-8-1-maintenance-release/)
 - [WordPress Jubilee](https://wordpress.org/news/2025/04/jubilee/)
 - [WordPress 6.8 “Cecil”](https://wordpress.org/news/2025/04/cecil/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.8 Release Candidate 1](https://wordpress.org/news/2025/03/wordpress-6-8-release-candidate-1/)
 - [WordPress 6.8 Beta 3](https://wordpress.org/news/2025/03/wordpress-6-8-beta-3/)
 - [WordPress 6.8 Beta 2](https://wordpress.org/news/2025/03/wordpress-6-8-beta-2/)
-- [WordPress 6.8 Beta 1](https://wordpress.org/news/2025/03/wordpress-6-8-beta-1/)
 <!-- NEWS:END -->
 
 ## Jobs
