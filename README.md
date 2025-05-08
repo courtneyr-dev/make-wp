@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Astra Theme](https://make.wordpress.org/polyglots/2025/05/08/pte-request-for-astra-theme-6/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/05/08/hi-dear-mentors-we-have-179/)
 - [PTE Request for Advancea Theme](https://make.wordpress.org/polyglots/2025/05/08/pte-request-for-advancea-theme/)
 - [PTE Request for MarketKing —…](https://make.wordpress.org/polyglots/2025/05/08/pte-request-for-marketking/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Fleet Manager](https://make.wordpress.org/polyglots/2025/05/07/pte-request-for-fleet-manager/)
 - [CLPTE request](https://make.wordpress.org/polyglots/2025/05/06/clpte-request-12/)
 - [PTE Request for Elementor Website Builder](https://make.wordpress.org/polyglots/2025/05/06/pte-request-for-elementor-website-builder/)
-- [PTE Request for Reviews and Rating – Docplanner](https://make.wordpress.org/polyglots/2025/05/05/pte-request-for-reviews-and-rating-docplanner/)
 <!-- POLYGLOTS:END -->
 
 ## Support
