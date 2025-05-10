@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Cloudapps Course Manager](https://make.wordpress.org/polyglots/2025/05/10/pte-request-for-cloudapps-course-manager/)
 - [PTE Request for WhatsiPlus Order Notification for WooCommerce](https://make.wordpress.org/polyglots/2025/05/10/pte-request-for-whatsiplus-order-notification-for-woocommerce/)
 - [PTE request for the Display a Quote plugin](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-the-display-a-quote-plugin/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-shopwell-theme-5/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/05/08/hi-dear-mentors-we-have-179/)
 - [PTE Request for Advancea Theme](https://make.wordpress.org/polyglots/2025/05/08/pte-request-for-advancea-theme/)
 - [PTE Request for MarketKing —…](https://make.wordpress.org/polyglots/2025/05/08/pte-request-for-marketking/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/05/07/hi-dear-mentors-we-have-178/)
 <!-- POLYGLOTS:END -->
 
 ## Support
