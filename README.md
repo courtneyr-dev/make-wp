@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Editor Tools Plugin](https://make.wordpress.org/polyglots/2025/05/12/pte-request-for-advanced-editor-tools-plugin/)
+- [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/12/hi-polyglots-team-7/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/11/hi-polyglots-team-6/)
 - [PTE Request for Czech QR…](https://make.wordpress.org/polyglots/2025/05/11/pte-request-for-czech-qr/)
 - [PTE Request for MC4WP: Mailchimp for WordPress Plugin](https://make.wordpress.org/polyglots/2025/05/11/pte-request-for-mc4wp-mailchimp-for-wordpress-plugin/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for the Display a Quote plugin](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-the-display-a-quote-plugin/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-shopwell-theme-5/)
 - [PTE Request for AffiliateX](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-affiliatex/)
-- [PTE Request for Skip Links…](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-skip-links/)
-- [PTE Request for Astra Theme](https://make.wordpress.org/polyglots/2025/05/08/pte-request-for-astra-theme-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
