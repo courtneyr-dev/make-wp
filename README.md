@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Calling Designers: Help Us Create the WordPress Campus Connect Logo!](https://make.wordpress.org/design/2025/05/12/xpost-calling-designers-help-us-create-the-wordpress-campus-connect-logo/)
 - [X-post: Roster of design tools per block &lpar;WordPress 6.8 edition&rpar;](https://make.wordpress.org/design/2025/03/19/xpost-roster-of-design-tools-per-block-wordpress-6-8-edition/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/design/2025/03/14/xpost-help-test-wordpress-6-8/)
 - [WordCamp Asia 2025: Contributor Day Recap](https://make.wordpress.org/design/2025/02/27/wordcamp-asia-2025-contributor-day-recap/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Make WordPress gets a refresh](https://make.wordpress.org/design/2024/12/12/xpost-make-wordpress-gets-a-refresh/)
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/design/2024/12/10/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [Design Share #69 &lpar;Nov 18-Nov 29&rpar;](https://make.wordpress.org/design/2024/12/02/design-share-69-nov-18-nov-29/)
-- [Design Share #68 &lpar;Nov 4-Nov 15&rpar;](https://make.wordpress.org/design/2024/11/18/design-share-68-nov-4-nov-15/)
 <!-- DESIGN:END -->
 
 ## Mobile
