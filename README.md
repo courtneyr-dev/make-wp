@@ -296,6 +296,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [How to Contribute to WordPress Training Through Translation](https://learn.wordpress.org/?meeting=how-to-contribute-to-wordpress-training-through-translation)
+- [Coffee Hour](https://learn.wordpress.org/?meeting=coffee-hour)
 - [Training Team Coffee Hour](https://learn.wordpress.org/?meeting=289069)
 - [How to Publish Your Plugin on WordPress.org: Full Guideline &lpar;Bangla&rpar;](https://learn.wordpress.org/?meeting=how-to-publish-your-plugin-on-wordpress-org-full-guideline-bangla-2)
 - [Learn WordPress Coffee Hour](https://learn.wordpress.org/?meeting=learn-wordpress-coffee-hour)
@@ -319,8 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating Your Own Contact Form Plugin – part 2](https://learn.wordpress.org/?meeting=264152)
 - [Introduction to the WordPress Training Team](https://learn.wordpress.org/?meeting=introduction-to-the-wordpress-training-team)
 - [Contributor Mentorship: Introduction to the WordPress Project &lpar;EMEA/AMER&rpar;](https://learn.wordpress.org/?meeting=contributor-mentorship-introduction-to-the-wordpress-project-emea-amer)
-- [Contributor Mentorship: Introduction to the WordPress Project &lpar;APAC/EMEA&rpar;](https://learn.wordpress.org/?meeting=contributor-mentorship-introduction-to-the-wordpress-project-apac-emea)
-- [Developer Hours: How to Simplify Client Editing in WordPress](https://learn.wordpress.org/?meeting=developer-hours-how-to-simplify-client-editing-in-wordpress)
 <!-- SLS:END -->
 
 ## Test
