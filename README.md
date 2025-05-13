@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for AccessiTrans – ARIA Translator for WPML &amp; Elementor](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-accessitrans-aria-translator-for-wpml-elementor/)
 - [PTE Request for [Code Block Pro]](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-code-block-pro/)
 - [PTE Request for Advancea Theme](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-advancea-theme-2/)
 - [PTE Request for Advanced Editor Tools Plugin](https://make.wordpress.org/polyglots/2025/05/12/pte-request-for-advanced-editor-tools-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for MC4WP: Mailchimp for WordPress Plugin](https://make.wordpress.org/polyglots/2025/05/11/pte-request-for-mc4wp-mailchimp-for-wordpress-plugin/)
 - [PTE Request for Cloudapps Course Manager](https://make.wordpress.org/polyglots/2025/05/10/pte-request-for-cloudapps-course-manager/)
 - [PTE Request for WhatsiPlus Order Notification for WooCommerce](https://make.wordpress.org/polyglots/2025/05/10/pte-request-for-whatsiplus-order-notification-for-woocommerce/)
-- [PTE request for the Display a Quote plugin](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-the-display-a-quote-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
