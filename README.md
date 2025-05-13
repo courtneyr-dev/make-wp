@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to Publish Your Plugin on WordPress.org: Full Guideline &lpar;Bangla&rpar;](https://wordpress.tv/2025/05/13/how-to-publish-your-plugin-on-wordpress-org-full-guideline-bangla/)
+- [Securing WooCommerce: Advanced Fraud Prevention Strategies for Online Stores](https://wordpress.tv/2025/05/13/securing-woocommerce-advanced-fraud-prevention-strategies-for-online-stores/)
+- [Building Business Trust with Forensic Security to Protect Your WordPress Site Favorite session Build](https://wordpress.tv/2025/05/13/building-business-trust-with-forensic-security-to-protect-your-wordpress-site-favorite-session-build/)
+- [UI/UX Crimes: Are you Guilty or Innocent?](https://wordpress.tv/2025/05/13/ui-ux-crimes-are-you-guilty-or-innocent/)
+- [Building Inclusive Websites: Accessibility Best Practices in WordPress](https://wordpress.tv/2025/05/13/building-inclusive-websites-accessibility-best-practices-in-wordpress/)
+- [From Click to Clarity: Role of UX Writing in WordPress Website](https://wordpress.tv/2025/05/13/from-click-to-clarity-role-of-ux-writing-in-wordpress-website/)
 - [De cero a tienda en línea: configuración inicial de WooCommerce](https://wordpress.tv/2025/05/05/de-cero-a-tienda-en-linea-configuracion-inicial-de-woocommerce/)
 - [Open Source, Open Opportunities: How WordPress Can Change Your Life](https://wordpress.tv/2025/05/05/open-source-open-opportunities-how-wordpress-can-change-your-life/)
 - [Breaking into Tech Without a Tech Background](https://wordpress.tv/2025/05/05/breaking-into-tech-without-a-tech-background/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Content Modeling: Custom Post Types and Custom Fields in the Block Editor](https://wordpress.tv/2025/05/01/content-modeling-custom-post-types-and-custom-fields-in-the-block-editor/)
 - [Redefining WordPress Design: Innovating Block Themes on Automattic’s Special Projects Team](https://wordpress.tv/2025/05/01/redefining-wordpress-design-innovating-block-themes-on-automattics-special-projects-team/)
 - [Budget-Friendly Usability Testing for WordPress](https://wordpress.tv/2025/05/01/budget-friendly-usability-testing-for-wordpress/)
-- [Matías Ventura: Opening Keynote](https://wordpress.tv/2025/05/01/matias-ventura-opening-keynote/)
-- [The Future: Why the Open Web Matters](https://wordpress.tv/2025/04/30/the-future-why-the-open-web-matters/)
-- [From Code to Commerce: My Transition from Agency to Plugin Entrepreneur](https://wordpress.tv/2025/04/30/from-code-to-commerce-my-transition-from-agency-to-plugin-entrepreneur/)
-- [Balancing Performance and Well-being: Building a High-Performance Culture Without Burning Out Your T](https://wordpress.tv/2025/04/30/balancing-performance-and-well-being-building-a-high-performance-culture-without-burning-out-your-t/)
-- [Create a demo with Playground](https://wordpress.tv/2025/04/30/create-a-demo-with-playground/)
-- [WordPress Contributions: Building a Transparent System for a Stronger Community](https://wordpress.tv/2025/04/30/wordpress-contributions-building-a-transparent-system-for-a-stronger-community/)
 <!-- WPTV:END -->
 
 ## Marketing
