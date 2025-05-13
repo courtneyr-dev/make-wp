@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Power of WordPress Community in Nepal’s IT Ecosystem, Challenges &amp; Roadmap Ahead](https://wordpress.tv/2025/05/13/power-of-wordpress-community-in-nepals-it-ecosystem-challenges-roadmap-ahead/)
+- [Building WordPress Businesses: Agencies, Products &amp; Beyond](https://wordpress.tv/2025/05/13/building-wordpress-businesses-agencies-products-beyond/)
 - [How to Publish Your Plugin on WordPress.org: Full Guideline &lpar;Bangla&rpar;](https://wordpress.tv/2025/05/13/how-to-publish-your-plugin-on-wordpress-org-full-guideline-bangla/)
 - [Securing WooCommerce: Advanced Fraud Prevention Strategies for Online Stores](https://wordpress.tv/2025/05/13/securing-woocommerce-advanced-fraud-prevention-strategies-for-online-stores/)
 - [Building Business Trust with Forensic Security to Protect Your WordPress Site Favorite session Build](https://wordpress.tv/2025/05/13/building-business-trust-with-forensic-security-to-protect-your-wordpress-site-favorite-session-build/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [5 Proven Strategies to Skyrocket Your WordPress Revenue](https://wordpress.tv/2025/05/01/5-proven-strategies-to-skyrocket-your-wordpress-revenue/)
 - [Just enough AI/LLMs to make your WordPress site smart](https://wordpress.tv/2025/05/01/just-enough-ai-llms-to-make-your-wordpress-site-smart/)
 - [Content Modeling: Custom Post Types and Custom Fields in the Block Editor](https://wordpress.tv/2025/05/01/content-modeling-custom-post-types-and-custom-fields-in-the-block-editor/)
-- [Redefining WordPress Design: Innovating Block Themes on Automattic’s Special Projects Team](https://wordpress.tv/2025/05/01/redefining-wordpress-design-innovating-block-themes-on-automattics-special-projects-team/)
-- [Budget-Friendly Usability Testing for WordPress](https://wordpress.tv/2025/05/01/budget-friendly-usability-testing-for-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
