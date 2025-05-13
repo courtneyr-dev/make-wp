@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advancea Theme](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-advancea-theme-2/)
 - [PTE Request for Advanced Editor Tools Plugin](https://make.wordpress.org/polyglots/2025/05/12/pte-request-for-advanced-editor-tools-plugin/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/12/hi-polyglots-team-7/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/11/hi-polyglots-team-6/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WhatsiPlus Order Notification for WooCommerce](https://make.wordpress.org/polyglots/2025/05/10/pte-request-for-whatsiplus-order-notification-for-woocommerce/)
 - [PTE request for the Display a Quote plugin](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-the-display-a-quote-plugin/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-shopwell-theme-5/)
-- [PTE Request for AffiliateX](https://make.wordpress.org/polyglots/2025/05/09/pte-request-for-affiliatex/)
 <!-- POLYGLOTS:END -->
 
 ## Support
