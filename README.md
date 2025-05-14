@@ -125,8 +125,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [transient pluck](https://developer.wordpress.org/cli/commands/transient/pluck/)
-- [transient patch](https://developer.wordpress.org/cli/commands/transient/patch/)
+- [wp transient pluck](https://developer.wordpress.org/cli/commands/transient/pluck/)
+- [wp transient patch](https://developer.wordpress.org/cli/commands/transient/patch/)
 - [bulk_action_observer_ids](https://developer.wordpress.org/reference/hooks/bulk_action_observer_ids/)
 - [WP_REST_Request::is_method&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_rest_request/is_method/)
 - [wp_prevent_unsupported_mime_type_uploads](https://developer.wordpress.org/reference/hooks/wp_prevent_unsupported_mime_type_uploads/)
