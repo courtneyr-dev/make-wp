@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – May 14, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/05/14/agenda-weekly-polyglots-chat-may-14-2025-700-utc/)
 - [Brainstorm: Polyglots Table at WCEU 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/05/14/brainstorm-polyglots-table-at-wceu-2025-contributor-day/)
 - [PTE Request for AccessiTrans – ARIA Translator for WPML &amp; Elementor](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-accessitrans-aria-translator-for-wpml-elementor/)
 - [PTE Request for [Code Block Pro]](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-code-block-pro/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/05/11/hi-polyglots-team-6/)
 - [PTE Request for Czech QR…](https://make.wordpress.org/polyglots/2025/05/11/pte-request-for-czech-qr/)
 - [PTE Request for MC4WP: Mailchimp for WordPress Plugin](https://make.wordpress.org/polyglots/2025/05/11/pte-request-for-mc4wp-mailchimp-for-wordpress-plugin/)
-- [PTE Request for Cloudapps Course Manager](https://make.wordpress.org/polyglots/2025/05/10/pte-request-for-cloudapps-course-manager/)
 <!-- POLYGLOTS:END -->
 
 ## Support
