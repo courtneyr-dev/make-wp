@@ -554,11 +554,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordPress Campus Connect Ribera del Duero](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-ribera-del-duero/)
 - [Women’s Day New York City 2025](https://central.wordcamp.org/wordcamps/womens-day-new-york-city-2025/)
 - [WordCamp Netherlands 2025](https://central.wordcamp.org/wordcamps/wordcamp-netherlands-2025/)
 - [Women’s Day – Pune, India](https://central.wordcamp.org/wordcamps/womens-day-pune-2025/)
 - [Jornada de Disseny Web amb WordPress Lleida 2025](https://central.wordcamp.org/wordcamps/jornada-disseny-web-lleida-2025/)
-- [Women WordPress Day 2025 Kolkata](https://central.wordcamp.org/wordcamps/womens-day-kolkata-2025/)
 - [WordCamp Montréal 2025](https://central.wordcamp.org/wordcamps/wordcamp-montreal-2025/)
 - [WordCamp Gdynia 2025](https://central.wordcamp.org/wordcamps/wordcamp-gdynia-2025/)
 - [Women WordPress Day Sylhet 2025](https://central.wordcamp.org/wordcamps/women-wp-day-sylhet-2025/)
