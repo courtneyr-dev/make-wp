@@ -521,7 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Build Secure Lifetime Membership WordPress Forum with ID Verification &lpar;Sex Work Industry&rpar;](https://jobs.wordpress.net/job/build-secure-lifetime-membership-wordpress-forum-with-id-verification-sex-work-industry/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-862/)
+- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-17/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-15/)
 - [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-5/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Stack PHP &amp; REACT Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-react-developer-wordpress/)
 - [Technical Project Manager](https://jobs.wordpress.net/job/technical-project-manager-4/)
 - [Full Stack PHP &amp; JavaScript Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-javascript-developer-wordpress/)
-- [Footy Vision – Team &amp; Match Booking System Specification for Developer &lpar;WordPress + SportsPress&rpar;](https://jobs.wordpress.net/job/footy-vision-team-match-booking-system-specification-for-developer-wordpress-sportspress/)
 <!-- JOBS:END -->
 
 ## Central
