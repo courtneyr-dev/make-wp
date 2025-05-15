@@ -526,11 +526,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-5/)
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-25/)
-- [CampusPress Site Specialist &lpar;WordPress, Multisite Networks, Communication, PHP, MySQL, HTML, CSS&rpar;](https://jobs.wordpress.net/job/campuspress-site-specialist-wordpress-multisite-networks-communication-php-mysql-html-css-2/)
 - [Full Stack PHP &amp; REACT Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-react-developer-wordpress/)
 - [Technical Project Manager](https://jobs.wordpress.net/job/technical-project-manager-4/)
 - [Full Stack PHP &amp; JavaScript Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-javascript-developer-wordpress/)
 - [Footy Vision – Team &amp; Match Booking System Specification for Developer &lpar;WordPress + SportsPress&rpar;](https://jobs.wordpress.net/job/footy-vision-team-match-booking-system-specification-for-developer-wordpress-sportspress/)
+- [Developer Needed to Finalize WordPress Auction Site &lpar;WooCommerce + BrakeDance&rpar;](https://jobs.wordpress.net/job/developer-needed-to-finalize-wordpress-auction-site-woocommerce-brakedance/)
 <!-- JOBS:END -->
 
 ## Central
