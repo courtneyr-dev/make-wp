@@ -381,6 +381,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Social icons across WordPress.org](https://make.wordpress.org/marketing/2025/05/16/social-icons-across-wordpress-org/)
 - [WPTV-to-YouTube Sync Resumes](https://make.wordpress.org/marketing/2025/04/22/wptv-to-youtube-sync-resumes/)
 - [X-post: Make WordPress gets a refresh](https://make.wordpress.org/marketing/2024/12/12/xpost-make-wordpress-gets-a-refresh/)
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/marketing/2024/12/10/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
@@ -390,7 +391,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Theme Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/marketing/2024/06/19/xpost-the-theme-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Training Team Update – June 2024](https://make.wordpress.org/marketing/2024/06/04/xpost-training-team-update-june-2024/)
 - [X-post: WordPress Media Corps Initial Roadmap](https://make.wordpress.org/marketing/2024/05/03/xpost-wordpress-media-corps-initial-roadmap/)
-- [X-post: The Plugin Directory gets a refresh](https://make.wordpress.org/marketing/2024/04/30/xpost-the-plugin-directory-gets-a-refresh/)
 <!-- MARKETING:END -->
 
 ## CLI
