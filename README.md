@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-862/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-17/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-15/)
 - [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Technical Project Manager](https://jobs.wordpress.net/job/technical-project-manager-4/)
 - [Full Stack PHP &amp; JavaScript Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-javascript-developer-wordpress/)
 - [Footy Vision – Team &amp; Match Booking System Specification for Developer &lpar;WordPress + SportsPress&rpar;](https://jobs.wordpress.net/job/footy-vision-team-match-booking-system-specification-for-developer-wordpress-sportspress/)
-- [Developer Needed to Finalize WordPress Auction Site &lpar;WooCommerce + BrakeDance&rpar;](https://jobs.wordpress.net/job/developer-needed-to-finalize-wordpress-auction-site-woocommerce-brakedance/)
 <!-- JOBS:END -->
 
 ## Central
