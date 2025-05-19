@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Otimizar imagens para a Web: uma perspetiva WordPress](https://wordpress.tv/2025/05/19/otimizar-imagens-para-a-web-uma-perspetiva-wordpress/)
+- [WooCommerce Checkout block, what you missed!](https://wordpress.tv/2025/05/19/woocommerce-checkout-block-what-you-missed/)
+- [REST API: Como usar o WordPress como um data provider](https://wordpress.tv/2025/05/19/rest-api-como-usar-o-wordpress-como-um-data-provider/)
+- [Plano B: E se te acontecer algo amanhã?](https://wordpress.tv/2025/05/19/plano-b-e-se-te-acontecer-algo-amanha/)
+- [Desmistificando a cibersegurança no WordPress: Proteção inteligente para seu site](https://wordpress.tv/2025/05/19/desmistificando-a-ciberseguranca-no-wordpress-protecao-inteligente-para-seu-site/)
+- [WordPress em DIY é como um iceberg: Um guia para navegar a parte submersa, em língua de humanos](https://wordpress.tv/2025/05/19/wordpress-em-diy-e-como-um-iceberg-um-guia-para-navegar-a-parte-submersa-em-lingua-de-humanos/)
+- [Como otimizei o meu workflow na era Gutenberg: Design, blocos e GitHub](https://wordpress.tv/2025/05/19/como-otimizei-o-meu-workflow-na-era-gutenberg-design-blocos-e-github/)
+- [10x engineering with AI workflows](https://wordpress.tv/2025/05/19/10x-engineering-with-ai-workflows/)
+- [28 de Junho está a chegar: Os teus sites estão prontos para a Lei de Acessibilidade?](https://wordpress.tv/2025/05/19/28-de-junho-esta-a-chegar-os-teus-sites-estao-prontos-para-a-lei-de-acessibilidade/)
+- [Power your WordPress development with automation](https://wordpress.tv/2025/05/19/power-your-wordpress-development-with-automation/)
 - [Where does your time &lpar;and money&rpar; go? Rethinking the true cost of your WordPress stack](https://wordpress.tv/2025/05/19/where-does-your-time-and-money-go-rethinking-the-true-cost-of-your-wordpress-stack/)
 - [Designing before implementing is not double work](https://wordpress.tv/2025/05/19/designing-before-implementing-is-not-double-work/)
 - [Crond service, WP Cron and why Action Scheduler does it better](https://wordpress.tv/2025/05/19/crond-service-wp-cron-and-why-action-scheduler-does-it-better/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Barrierefreiheit auf Mobilgeräten aus SICHT einer Blinden](https://wordpress.tv/2025/05/19/barrierefreiheit-auf-mobilgeraeten-aus-sicht-einer-blinden/)
 - [Unsichtbare Fehler – Kuriositäten aus 20 Jahren WordPress](https://wordpress.tv/2025/05/19/unsichtbare-fehler-kuriositaeten-aus-20-jahren-wordpress/)
 - [How UX Affects Everyday Life](https://wordpress.tv/2025/05/19/how-ux-affects-everyday-life/)
-- [Webseiten für Gen Z – Warum modernes UX-Design entscheidend ist](https://wordpress.tv/2025/05/19/webseiten-fuer-gen-z-warum-modernes-ux-design-entscheidend-ist/)
-- [Wie barrierefrei ist WordPress?](https://wordpress.tv/2025/05/19/wie-barrierefrei-ist-wordpress/)
-- [Block Themes – eine Einführung mit praktischen Beispielen](https://wordpress.tv/2025/05/19/block-themes-eine-einfuehrung-mit-praktischen-beispielen/)
-- [Der Blinde Insighter: Von barrierefreien Webseiten – oder auch nicht](https://wordpress.tv/2025/05/19/der-blinde-insighter-von-barrierefreien-webseiten-oder-auch-nicht/)
-- [Website-Performance steigern: Auch mit 500.000 Anhängen](https://wordpress.tv/2025/05/19/website-performance-steigern-auch-mit-500-000-anhaengen-2/)
-- [Manual de supervivencia digital: cómo dominar las redes y no morir en el intento](https://wordpress.tv/2025/05/16/manual-de-supervivencia-digital-como-dominar-las-redes-y-no-morir-en-el-intento/)
-- [Power of WordPress Community in Nepal’s IT Ecosystem, Challenges &amp; Roadmap Ahead](https://wordpress.tv/2025/05/13/power-of-wordpress-community-in-nepals-it-ecosystem-challenges-roadmap-ahead/)
-- [Building WordPress Businesses: Agencies, Products &amp; Beyond](https://wordpress.tv/2025/05/13/building-wordpress-businesses-agencies-products-beyond/)
-- [How to Publish Your Plugin on WordPress.org: Full Guideline &lpar;Bangla&rpar;](https://wordpress.tv/2025/05/13/how-to-publish-your-plugin-on-wordpress-org-full-guideline-bangla/)
-- [Securing WooCommerce: Advanced Fraud Prevention Strategies for Online Stores](https://wordpress.tv/2025/05/13/securing-woocommerce-advanced-fraud-prevention-strategies-for-online-stores/)
 <!-- WPTV:END -->
 
 ## Marketing
