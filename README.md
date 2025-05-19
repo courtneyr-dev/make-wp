@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Barrierefreiheit mit WordPress](https://wordpress.tv/2025/05/19/barrierefreiheit-mit-wordpress/)
 - [Otimizar imagens para a Web: uma perspetiva WordPress](https://wordpress.tv/2025/05/19/otimizar-imagens-para-a-web-uma-perspetiva-wordpress/)
 - [WooCommerce Checkout block, what you missed!](https://wordpress.tv/2025/05/19/woocommerce-checkout-block-what-you-missed/)
 - [REST API: Como usar o WordPress como um data provider](https://wordpress.tv/2025/05/19/rest-api-como-usar-o-wordpress-como-um-data-provider/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [🤯Te propongo un reto: Dime tu proyercto y te diré cómo hacer la web](https://wordpress.tv/2025/05/19/te-propongo-un-reto-dime-tu-proyercto-y-te-dire-como-hacer-la-web/)
 - [Barrierefreiheit auf Mobilgeräten aus SICHT einer Blinden](https://wordpress.tv/2025/05/19/barrierefreiheit-auf-mobilgeraeten-aus-sicht-einer-blinden/)
 - [Unsichtbare Fehler – Kuriositäten aus 20 Jahren WordPress](https://wordpress.tv/2025/05/19/unsichtbare-fehler-kuriositaeten-aus-20-jahren-wordpress/)
-- [How UX Affects Everyday Life](https://wordpress.tv/2025/05/19/how-ux-affects-everyday-life/)
 <!-- WPTV:END -->
 
 ## Marketing
