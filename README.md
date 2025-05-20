@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 20 May 2025](https://make.wordpress.org/core/2025/05/20/performance-chat-summary-20-may-2025/)
 - [X-post: Building the Testing Use-Case](https://make.wordpress.org/core/2025/05/15/xpost-building-the-testing-use-case/)
 - [Summary, Dev Chat, May 14, 2025](https://make.wordpress.org/core/2025/05/14/summary-dev-chat-may-14-2025/)
 - [Accessibility Focused Bug Scrub – 15 May 2025](https://make.wordpress.org/core/2025/05/14/accessibility-focused-bug-scrub-15-may-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Call for 6.8.x Release Managers](https://make.wordpress.org/core/2025/04/17/call-for-6-8-x-release-managers/)
 - [WP_Query changes in WordPress 6.8](https://make.wordpress.org/core/2025/04/17/wp_query-changes-in-wordpress-6-8/)
 - [X-post: A New Cadence for WordPress Core](https://make.wordpress.org/core/2025/04/16/xpost-a-new-cadence-for-wordpress-core/)
-- [WordPress 6.8 performance improvements](https://make.wordpress.org/core/2025/04/16/wordpress-6-8-performance-improvements/)
 <!-- CORE:END -->
 
 ## Design
