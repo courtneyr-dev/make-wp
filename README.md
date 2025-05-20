@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Pronamic Pay doneren met Mollie](https://make.wordpress.org/polyglots/2025/05/20/pte-request-for-pronamic-pay-doneren-met-mollie/)
 - [PTE Request for WordPress 6.8.x Development – Locale: Emoji](https://make.wordpress.org/polyglots/2025/05/18/pte-request-for-wordpress-6-8-x-development-locale-emoji/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/05/15/hello-polyglots-315/)
 - [PTE Request for Media Downloader](https://make.wordpress.org/polyglots/2025/05/15/pte-request-for-media-downloader/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for AccessiTrans – ARIA Translator for WPML &amp; Elementor](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-accessitrans-aria-translator-for-wpml-elementor/)
 - [PTE Request for [Code Block Pro]](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-code-block-pro/)
 - [PTE Request for Advancea Theme](https://make.wordpress.org/polyglots/2025/05/13/pte-request-for-advancea-theme-2/)
-- [PTE Request for Advanced Editor Tools Plugin](https://make.wordpress.org/polyglots/2025/05/12/pte-request-for-advanced-editor-tools-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
