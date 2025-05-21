@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP Guru](https://jobs.wordpress.net/job/wp-guru/)
 - [WordPress Custom Plugin Developer &lpar;2 to 4 years of work experience&rpar;](https://jobs.wordpress.net/job/wordpress-custom-plugin-developer-2-to-4-years-of-work-experience/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-862/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-17/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-25/)
 - [Full Stack PHP &amp; REACT Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-react-developer-wordpress/)
 - [Technical Project Manager](https://jobs.wordpress.net/job/technical-project-manager-4/)
-- [Full Stack PHP &amp; JavaScript Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-javascript-developer-wordpress/)
 <!-- JOBS:END -->
 
 ## Central
