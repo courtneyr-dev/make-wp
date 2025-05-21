@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [WordPress Campus Connect – Custom subdomain](https://make.wordpress.org/systems/2025/05/21/wordpress-campus-connect-custom-subdomain/)
 - [Mailing lists subscription functions broken.](https://make.wordpress.org/systems/2025/05/02/mailing-lists-subscription-functions-broken/)
 - [I’d like to request access…](https://make.wordpress.org/systems/2025/05/01/id-like-to-request-access/)
 - [Plugins pre-commit rule to prevent nested tags](https://make.wordpress.org/systems/2025/04/30/plugins-pre-commit-rule-to-prevent-nested-tags/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [HelpScout forward: polyglots@wordpress.org Can we…](https://make.wordpress.org/systems/2024/11/26/helpscout-forward-polyglotswordpress-org-can-we/)
 - [CORS headers for ps.w.org &amp; ts.w.org](https://make.wordpress.org/systems/2024/10/15/cors-headers-for-ps-w-org-ts-w-org/)
 - [429’s on WordCamp sites](https://make.wordpress.org/systems/2024/10/04/429s-on-wordcamp-sites/)
-- [Add minimum commit message length for core.](https://make.wordpress.org/systems/2024/09/25/add-minimum-commit-message-length-for-core/)
 <!-- SYSTEMS:END -->
 
 ## News
