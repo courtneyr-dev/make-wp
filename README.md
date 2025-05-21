@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Restoring Trust while Preserving Safety](https://make.wordpress.org/project/2025/05/21/restoring-trust-while-preserving-safety/)
 - [Review of Blocked Community Members](https://make.wordpress.org/project/2025/05/01/review-of-blocked-community-members/)
 - [A New Cadence for WordPress Core](https://make.wordpress.org/project/2025/04/16/a-new-cadence-for-wordpress-core/)
 - [Shutting down WordPress.org’s Matrix Server](https://make.wordpress.org/project/2025/01/11/shutting-down-wordpress-orgs-matrix-server/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/project/2024/08/16/wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [X-post: Addressing Overlapping Initiatives and Improving Collaboration Across Teams](https://make.wordpress.org/project/2024/06/28/xpost-addressing-overlapping-initiatives-and-improving-collaboration-across-teams/)
 - [X-post: WordPress Contributor Mentorship Program Q4 2024: Call for Interest](https://make.wordpress.org/project/2024/06/15/xpost-wordpress-contributor-mentorship-program-q4-2024-call-for-interest/)
-- [WordPress Project Contributor Handbook v2](https://make.wordpress.org/project/2024/05/31/wordpress-project-contributor-handbook-v2/)
 <!-- PROJECT:END -->
 
 ## Systems
