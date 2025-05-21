@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Olivier Gobet: L’API Block Bindings : Intégrer des champs ACF pour des sites FSE dynamiques](https://wordpress.tv/2025/05/21/olivier-gobet-lapi-block-bindings-integrer-des-champs-acf-pour-des-sites-fse-dynamiques/)
 - [Barrierefreiheit mit WordPress](https://wordpress.tv/2025/05/19/barrierefreiheit-mit-wordpress/)
 - [Otimizar imagens para a Web: uma perspetiva WordPress](https://wordpress.tv/2025/05/19/otimizar-imagens-para-a-web-uma-perspetiva-wordpress/)
 - [WooCommerce Checkout block, what you missed!](https://wordpress.tv/2025/05/19/woocommerce-checkout-block-what-you-missed/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Strategie zum Online-Shop – 7-Punkte Fahrplan um einen Shop mit WordPress einzurichten](https://wordpress.tv/2025/05/19/strategie-zum-online-shop-7-punkte-fahrplan-um-einen-shop-mit-wordpress-einzurichten/)
 - [🤯Te propongo un reto: Dime tu proyercto y te diré cómo hacer la web](https://wordpress.tv/2025/05/19/te-propongo-un-reto-dime-tu-proyercto-y-te-dire-como-hacer-la-web/)
 - [Barrierefreiheit auf Mobilgeräten aus SICHT einer Blinden](https://wordpress.tv/2025/05/19/barrierefreiheit-auf-mobilgeraeten-aus-sicht-einer-blinden/)
-- [Unsichtbare Fehler – Kuriositäten aus 20 Jahren WordPress](https://wordpress.tv/2025/05/19/unsichtbare-fehler-kuriositaeten-aus-20-jahren-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
