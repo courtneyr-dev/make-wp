@@ -375,7 +375,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Emprender, ver atardecer y otras cosas del querer](https://wordpress.tv/2025/05/19/emprender-ver-atardecer-y-otras-cosas-del-querer/)
 - [El universo de mi marca… ¡y el mío también!](https://wordpress.tv/2025/05/19/el-universo-de-mi-marca-y-el-mio-tambien/)
 - [Strategie zum Online-Shop – 7-Punkte Fahrplan um einen Shop mit WordPress einzurichten](https://wordpress.tv/2025/05/19/strategie-zum-online-shop-7-punkte-fahrplan-um-einen-shop-mit-wordpress-einzurichten/)
-- [🤯Te propongo un reto: Dime tu proyercto y te diré cómo hacer la web](https://wordpress.tv/2025/05/19/te-propongo-un-reto-dime-tu-proyercto-y-te-dire-como-hacer-la-web/)
+- [🤯Te propongo un reto: Dime tu proyecto y te diré cómo hacer la web](https://wordpress.tv/2025/05/19/te-propongo-un-reto-dime-tu-proyecto-y-te-dire-como-hacer-la-web/)
 - [Barrierefreiheit auf Mobilgeräten aus SICHT einer Blinden](https://wordpress.tv/2025/05/19/barrierefreiheit-auf-mobilgeraeten-aus-sicht-einer-blinden/)
 <!-- WPTV:END -->
 
