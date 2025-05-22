@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Contract Developer Needed to Update Website](https://jobs.wordpress.net/job/contract-developer-needed-to-update-website/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-863/)
+- [WordPress Product Innovator](https://jobs.wordpress.net/job/wordpress-product-innovator-2/)
+- [Product Manager &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/product-manager-wordpress/)
+- [Freelance WordPress Developer](https://jobs.wordpress.net/job/freelance-wordpress-developer-57/)
 - [WP Guru](https://jobs.wordpress.net/job/wp-guru/)
 - [WordPress Custom Plugin Developer &lpar;2 to 4 years of work experience&rpar;](https://jobs.wordpress.net/job/wordpress-custom-plugin-developer-2-to-4-years-of-work-experience/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-862/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-17/)
-- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-15/)
 - [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-5/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-25/)
-- [Full Stack PHP &amp; REACT Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/full-stack-php-react-developer-wordpress/)
-- [Technical Project Manager](https://jobs.wordpress.net/job/technical-project-manager-4/)
 <!-- JOBS:END -->
 
 ## Central
