@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for:](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-16/)
 - [PTE and Review request for…](https://make.wordpress.org/polyglots/2025/05/23/pte-and-review-request-for/)
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2025/05/23/hello-i-am-the-theme-6/)
 - [PTE Request for Live Stock Countdown](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-live-stock-countdown/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WebPrime A/B Testing](https://make.wordpress.org/polyglots/2025/05/22/pte-request-for-webprime-a-b-testing/)
 - [PTE Request for CartFlush AutoClear…](https://make.wordpress.org/polyglots/2025/05/22/gte-request-for-cartflush-autoclear/)
 - [PTE Request for WooCommerce Quaderno…](https://make.wordpress.org/polyglots/2025/05/21/gte-request-for-woocommerce-quaderno/)
-- [PTE Request for Wholesale Suite – WooCommerce Wholesale Prices](https://make.wordpress.org/polyglots/2025/05/21/pte-request-for-wholesale-suite-woocommerce-wholesale-prices/)
 <!-- POLYGLOTS:END -->
 
 ## Support
