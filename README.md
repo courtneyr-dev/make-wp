@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Review Request for AI Bud](https://make.wordpress.org/polyglots/2025/05/23/review-request-for-ai-bud/)
+- [PTE Request for Altiva Theme](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-altiva-theme-2/)
 - [PTE Request for WebPrime A/B Testing](https://make.wordpress.org/polyglots/2025/05/22/pte-request-for-webprime-a-b-testing/)
 - [PTE Request for CartFlush AutoClear…](https://make.wordpress.org/polyglots/2025/05/22/gte-request-for-cartflush-autoclear/)
 - [PTE Request for WooCommerce Quaderno…](https://make.wordpress.org/polyglots/2025/05/21/gte-request-for-woocommerce-quaderno/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introducing the Polyglots Team Reps for 2025 and Beyond](https://make.wordpress.org/polyglots/2025/05/21/introducing-the-polyglots-team-reps-for-2025-and-beyond/)
 - [Agenda: Weekly Polyglots Chat – May 21, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/05/21/agenda-weekly-polyglots-chat-may-21-2025-1300-utc/)
 - [PTE Request for Pronamic Pay doneren met Mollie](https://make.wordpress.org/polyglots/2025/05/20/pte-request-for-pronamic-pay-doneren-met-mollie/)
-- [PTE Request for WordPress 6.8.x Development – Locale: Emoji](https://make.wordpress.org/polyglots/2025/05/18/pte-request-for-wordpress-6-8-x-development-locale-emoji/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/05/15/hello-polyglots-315/)
 <!-- POLYGLOTS:END -->
 
 ## Support
