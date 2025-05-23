@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE and Review request for…](https://make.wordpress.org/polyglots/2025/05/23/pte-and-review-request-for/)
+- [Hello, I am the theme…](https://make.wordpress.org/polyglots/2025/05/23/hello-i-am-the-theme-6/)
 - [PTE Request for Live Stock Countdown](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-live-stock-countdown/)
 - [PTE Request for Tutor LMS](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-tutor-lms-5/)
 - [Review Request for AI Bud](https://make.wordpress.org/polyglots/2025/05/23/review-request-for-ai-bud/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for CartFlush AutoClear…](https://make.wordpress.org/polyglots/2025/05/22/gte-request-for-cartflush-autoclear/)
 - [PTE Request for WooCommerce Quaderno…](https://make.wordpress.org/polyglots/2025/05/21/gte-request-for-woocommerce-quaderno/)
 - [PTE Request for Wholesale Suite – WooCommerce Wholesale Prices](https://make.wordpress.org/polyglots/2025/05/21/pte-request-for-wholesale-suite-woocommerce-wholesale-prices/)
-- [PTE Request for Tab Recall WordPress Plugin](https://make.wordpress.org/polyglots/2025/05/21/pte-request-for-tab-recall-wordpress-plugin/)
-- [Introducing the Polyglots Team Reps for 2025 and Beyond](https://make.wordpress.org/polyglots/2025/05/21/introducing-the-polyglots-team-reps-for-2025-and-beyond/)
 <!-- POLYGLOTS:END -->
 
 ## Support
