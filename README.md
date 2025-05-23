@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Fundamentos para automatizar tu WordPress con n8n](https://wordpress.tv/2025/05/23/fundamentos-para-automatizar-tu-wordpress-con-n8n/)
 - [How to Contribute to WordPress Training Through Translation](https://wordpress.tv/2025/05/23/how-to-contribute-to-wordpress-training-through-translation/)
 - [Cómo crear un «Link in bio» con WordPress sin utilizar plugins](https://wordpress.tv/2025/05/22/como-crear-un-link-in-bio-con-wordpress-sin-utilizar-plugins/)
 - [Instalación y configuración del plugin BulletProof security para mejorar la seguridad de tu sitio we](https://wordpress.tv/2025/05/21/instalacion-y-configuracion-del-plugin-bulletproof-security-para-mejorar-la-seguridad-de-tu-sitio-we/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Barrierefreiheit mit WordPress](https://wordpress.tv/2025/05/19/barrierefreiheit-mit-wordpress/)
 - [Otimizar imagens para a Web: uma perspetiva WordPress](https://wordpress.tv/2025/05/19/otimizar-imagens-para-a-web-uma-perspetiva-wordpress/)
 - [WooCommerce Checkout block, what you missed!](https://wordpress.tv/2025/05/19/woocommerce-checkout-block-what-you-missed/)
-- [REST API: Como usar o WordPress como um data provider](https://wordpress.tv/2025/05/19/rest-api-como-usar-o-wordpress-como-um-data-provider/)
 <!-- WPTV:END -->
 
 ## Marketing
