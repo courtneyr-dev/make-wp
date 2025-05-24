@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Realmente necesitas desarrollar un bloque nuevo? Veamos algunas alternativas](https://wordpress.tv/2025/05/24/realmente-necesitas-desarrollar-un-bloque-nuevo-veamos-algunas-alternativas/)
+- [Automatiza la Atención al Cliente en WordPress con IA y Chatbots](https://wordpress.tv/2025/05/24/automatiza-la-atencion-al-cliente-en-wordpress-con-ia-y-chatbots/)
+- [SEO Local sin rodeos](https://wordpress.tv/2025/05/24/seo-local-sin-rodeos-2/)
+- [¿Tu web es sexy para los medios? Cómo preparar tu comunicación para salir en prensa sin pagar un dur](https://wordpress.tv/2025/05/24/tu-web-es-sexy-para-los-medios-como-preparar-tu-comunicacion-para-salir-en-prensa-sin-pagar-un-dur/)
+- [Entrega webs sin flecos: cómo añadir el toque legal &lpar;correcto&rpar; que marca la diferencia](https://wordpress.tv/2025/05/24/entrega-webs-sin-flecos-como-anadir-el-toque-legal-correcto-que-marca-la-diferencia/)
+- [Lo que aprendí en una noche de San Juan: de TikTok a WordPress](https://wordpress.tv/2025/05/24/lo-que-aprendi-en-una-noche-de-san-juan-de-tiktok-a-wordpress/)
+- [Los 5 principios del SEO para blogueros y demás gente que se supone no sabe de SEO](https://wordpress.tv/2025/05/24/los-5-principios-del-seo-para-blogueros-y-demas-gente-que-se-supone-no-sabe-de-seo/)
+- [La ficha de producto perfecta en WooComerce](https://wordpress.tv/2025/05/24/la-ficha-de-producto-perfecta-en-woocomerce/)
+- [Cómo aumentar la interacción en tu sitio con juegos que creas en segundos](https://wordpress.tv/2025/05/24/como-aumentar-la-interaccion-en-tu-sitio-con-juegos-que-creas-en-segundos/)
+- [Maquetación Moderna: De la Precisión a la Escalabilidad](https://wordpress.tv/2025/05/24/maquetacion-moderna-de-la-precision-a-la-escalabilidad/)
 - [Fundamentos para automatizar tu WordPress con n8n](https://wordpress.tv/2025/05/23/fundamentos-para-automatizar-tu-wordpress-con-n8n/)
 - [How to Contribute to WordPress Training Through Translation](https://wordpress.tv/2025/05/23/how-to-contribute-to-wordpress-training-through-translation/)
 - [Cómo crear un «Link in bio» con WordPress sin utilizar plugins](https://wordpress.tv/2025/05/22/como-crear-un-link-in-bio-con-wordpress-sin-utilizar-plugins/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Estrategias para conseguir más reseñas en tu tienda online](https://wordpress.tv/2025/05/21/estrategias-para-conseguir-mas-resenas-en-tu-tienda-online/)
 - [Marketing y WordPress: plugins imprescindibles para mejorar tu estrategia](https://wordpress.tv/2025/05/21/marketing-y-wordpress-plugins-imprescindibles-para-mejorar-tu-estrategia/)
 - [Adiós a los maquetadores visuales &lpar;o casi&rpar;: La verdad sobre el editor de bloques](https://wordpress.tv/2025/05/21/adios-a-los-maquetadores-visuales-o-casi-la-verdad-sobre-el-editor-de-bloques/)
-- [SEO local sin rodeos](https://wordpress.tv/2025/05/21/seo-local-sin-rodeos/)
-- [Turning User Experience into a Growth Engine](https://wordpress.tv/2025/05/21/turning-user-experience-into-a-growth-engine/)
-- [Escribiendo en WordPress con IA: Más rápido, mejor y sin perder autenticidad](https://wordpress.tv/2025/05/21/escribiendo-en-wordpress-con-ia-mas-rapido-mejor-y-sin-perder-autenticidad/)
-- [DISC: La paleta de colores más allá del diseño Web](https://wordpress.tv/2025/05/21/disc-la-paleta-de-colores-mas-alla-del-diseno-web/)
-- [Las API como fuente de contenidos en WordPress](https://wordpress.tv/2025/05/21/las-api-como-fuente-de-contenidos-en-wordpress/)
-- [10 trucos para no tirar el dinero en Google Ads](https://wordpress.tv/2025/05/21/10-trucos-para-no-tirar-el-dinero-en-google-ads/)
-- [Olivier Gobet: L’API Block Bindings : Intégrer des champs ACF pour des sites FSE dynamiques](https://wordpress.tv/2025/05/21/olivier-gobet-lapi-block-bindings-integrer-des-champs-acf-pour-des-sites-fse-dynamiques/)
-- [Barrierefreiheit mit WordPress](https://wordpress.tv/2025/05/19/barrierefreiheit-mit-wordpress/)
-- [Otimizar imagens para a Web: uma perspetiva WordPress](https://wordpress.tv/2025/05/19/otimizar-imagens-para-a-web-uma-perspetiva-wordpress/)
-- [WooCommerce Checkout block, what you missed!](https://wordpress.tv/2025/05/19/woocommerce-checkout-block-what-you-missed/)
 <!-- WPTV:END -->
 
 ## Marketing
