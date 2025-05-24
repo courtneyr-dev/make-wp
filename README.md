@@ -352,6 +352,17 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Auditar sitios WordPress es igual que catar un vino](https://wordpress.tv/2025/05/24/auditar-sitios-wordpress-es-igual-que-catar-un-vino/)
+- [Los hilos invisibles: Así hackea tu mente el marketing online](https://wordpress.tv/2025/05/24/los-hilos-invisibles-asi-hackea-tu-mente-el-marketing-online/)
+- [Martech en acción: Uniendo marketing e IT para alcanzar objetivos de negocio](https://wordpress.tv/2025/05/24/martech-en-accion-uniendo-marketing-e-it-para-alcanzar-objetivos-de-negocio/)
+- [Contenidos, autoridad y negocio. Cómo generar negocio para tu empresa compartiendo lo que sabes](https://wordpress.tv/2025/05/24/contenidos-autoridad-y-negocio-como-generar-negocio-para-tu-empresa-compartiendo-lo-que-sabes/)
+- [Hablemos de SXO](https://wordpress.tv/2025/05/24/hablemos-de-sxo/)
+- [Stranger Teams: La Clave del Éxito Digital](https://wordpress.tv/2025/05/24/stranger-teams-la-clave-del-exito-digital/)
+- [Productividad para emprendedores y freelancers](https://wordpress.tv/2025/05/24/productividad-para-emprendedores-y-freelancers/)
+- [CSS y bloques de WordPress, el maridaje perfecto](https://wordpress.tv/2025/05/24/css-y-bloques-de-wordpress-el-maridaje-perfecto/)
+- [El arte de la cata digital: cómo vender más vino y enamorar a tus clientes desde la pantalla](https://wordpress.tv/2025/05/24/el-arte-de-la-cata-digital-como-vender-mas-vino-y-enamorar-a-tus-clientes-desde-la-pantalla/)
+- [Hackeando la curva de aprendizaje de WordPress](https://wordpress.tv/2025/05/24/hackeando-la-curva-de-aprendizaje-de-wordpress/)
+- [Cómo contar una buena historia de marca que provoque sed a tus clientes](https://wordpress.tv/2025/05/24/como-contar-una-buena-historia-de-marca-que-provoque-sed-a-tus-clientes/)
 - [¿Realmente necesitas desarrollar un bloque nuevo? Veamos algunas alternativas](https://wordpress.tv/2025/05/24/realmente-necesitas-desarrollar-un-bloque-nuevo-veamos-algunas-alternativas/)
 - [Automatiza la Atención al Cliente en WordPress con IA y Chatbots](https://wordpress.tv/2025/05/24/automatiza-la-atencion-al-cliente-en-wordpress-con-ia-y-chatbots/)
 - [SEO Local sin rodeos](https://wordpress.tv/2025/05/24/seo-local-sin-rodeos-2/)
@@ -366,17 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Contribute to WordPress Training Through Translation](https://wordpress.tv/2025/05/23/how-to-contribute-to-wordpress-training-through-translation/)
 - [Cómo crear un «Link in bio» con WordPress sin utilizar plugins](https://wordpress.tv/2025/05/22/como-crear-un-link-in-bio-con-wordpress-sin-utilizar-plugins/)
 - [Instalación y configuración del plugin BulletProof security para mejorar la seguridad de tu sitio we](https://wordpress.tv/2025/05/21/instalacion-y-configuracion-del-plugin-bulletproof-security-para-mejorar-la-seguridad-de-tu-sitio-we/)
-- [Conectando tu WordPress a un CRM](https://wordpress.tv/2025/05/21/conectando-tu-wordpress-a-un-crm/)
-- [No construyas una web… crea un movimiento: cómo usar WordPress para lanzar comunidades con propósito](https://wordpress.tv/2025/05/21/no-construyas-una-web-crea-un-movimiento-como-usar-wordpress-para-lanzar-comunidades-con-proposito/)
-- [Cómo hacer que tu web escuche antes de hablar](https://wordpress.tv/2025/05/21/como-hacer-que-tu-web-escuche-antes-de-hablar/)
-- [Y ahora… ¿dónde encuentro clientes?](https://wordpress.tv/2025/05/21/y-ahora-donde-encuentro-clientes/)
-- [Secretos y desafíos en la seguridad de WordPress que como usuario jamas imaginé.](https://wordpress.tv/2025/05/21/secretos-y-desafios-en-la-seguridad-de-wordpress-que-como-usuario-jamas-imagine/)
-- [De ejecutor a estratega: El marketing como arma secreta del desarrollador web](https://wordpress.tv/2025/05/21/de-ejecutor-a-estratega-el-marketing-como-arma-secreta-del-desarrollador-web/)
-- [Comunidad, la herramienta más poderosa](https://wordpress.tv/2025/05/21/comunidad-la-herramienta-mas-poderosa/)
-- [Lo verde vende: Técnicas de Green Marketing para tu eCommerce](https://wordpress.tv/2025/05/21/lo-verde-vende-tecnicas-de-green-marketing-para-tu-ecommerce/)
-- [Estrategias para conseguir más reseñas en tu tienda online](https://wordpress.tv/2025/05/21/estrategias-para-conseguir-mas-resenas-en-tu-tienda-online/)
-- [Marketing y WordPress: plugins imprescindibles para mejorar tu estrategia](https://wordpress.tv/2025/05/21/marketing-y-wordpress-plugins-imprescindibles-para-mejorar-tu-estrategia/)
-- [Adiós a los maquetadores visuales &lpar;o casi&rpar;: La verdad sobre el editor de bloques](https://wordpress.tv/2025/05/21/adios-a-los-maquetadores-visuales-o-casi-la-verdad-sobre-el-editor-de-bloques/)
 <!-- WPTV:END -->
 
 ## Marketing
