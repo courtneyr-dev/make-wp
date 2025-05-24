@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Just SMTP](https://make.wordpress.org/polyglots/2025/05/24/pte-request-for-just-smtp/)
 - [PTE Request for Whatsiplus Scheduled Notification for Woocommerce](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-whatsiplus-scheduled-notification-for-woocommerce/)
 - [PTE Request for:](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-16/)
 - [PTE and Review request for…](https://make.wordpress.org/polyglots/2025/05/23/pte-and-review-request-for/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Review Request for AI Bud](https://make.wordpress.org/polyglots/2025/05/23/review-request-for-ai-bud/)
 - [PTE Request for Altiva Theme](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-altiva-theme-2/)
 - [PTE Request for WebPrime A/B Testing](https://make.wordpress.org/polyglots/2025/05/22/pte-request-for-webprime-a-b-testing/)
-- [PTE Request for CartFlush AutoClear…](https://make.wordpress.org/polyglots/2025/05/22/gte-request-for-cartflush-autoclear/)
 <!-- POLYGLOTS:END -->
 
 ## Support
