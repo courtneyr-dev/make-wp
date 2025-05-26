@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Polyglots Week in Review: May 26, 2025](https://make.wordpress.org/polyglots/2025/05/26/xpost-polyglots-week-in-review-may-26-2025/)
 - [PTE Request for Morkva Plugins](https://make.wordpress.org/polyglots/2025/05/26/pte-request-for-morkva-plugins/)
 - [PTE Request for Avanta Theme](https://make.wordpress.org/polyglots/2025/05/26/pte-request-for-avanta-theme/)
 - [PTE Request for Just SMTP](https://make.wordpress.org/polyglots/2025/05/24/pte-request-for-just-smtp/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I am the theme…](https://make.wordpress.org/polyglots/2025/05/23/hello-i-am-the-theme-6/)
 - [PTE Request for Live Stock Countdown](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-live-stock-countdown/)
 - [PTE Request for Tutor LMS](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-tutor-lms-5/)
-- [Review Request for AI Bud](https://make.wordpress.org/polyglots/2025/05/23/review-request-for-ai-bud/)
 <!-- POLYGLOTS:END -->
 
 ## Support
