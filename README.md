@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Morkva Plugins](https://make.wordpress.org/polyglots/2025/05/26/pte-request-for-morkva-plugins/)
+- [PTE Request for Avanta Theme](https://make.wordpress.org/polyglots/2025/05/26/pte-request-for-avanta-theme/)
 - [PTE Request for Just SMTP](https://make.wordpress.org/polyglots/2025/05/24/pte-request-for-just-smtp/)
 - [PTE Request for Whatsiplus Scheduled Notification for Woocommerce](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-whatsiplus-scheduled-notification-for-woocommerce/)
 - [PTE Request for:](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-16/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Live Stock Countdown](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-live-stock-countdown/)
 - [PTE Request for Tutor LMS](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-tutor-lms-5/)
 - [Review Request for AI Bud](https://make.wordpress.org/polyglots/2025/05/23/review-request-for-ai-bud/)
-- [PTE Request for Altiva Theme](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-altiva-theme-2/)
-- [PTE Request for WebPrime A/B Testing](https://make.wordpress.org/polyglots/2025/05/22/pte-request-for-webprime-a-b-testing/)
 <!-- POLYGLOTS:END -->
 
 ## Support
