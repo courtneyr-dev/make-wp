@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for monbillet-embed I…](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-monbillet-embed-i/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/26/i-am-the-plugin-author-56/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/26/hi-polyglots-team-9/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/26/hi-polyglots-team-8/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Just SMTP](https://make.wordpress.org/polyglots/2025/05/24/pte-request-for-just-smtp/)
 - [PTE Request for Whatsiplus Scheduled Notification for Woocommerce](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-whatsiplus-scheduled-notification-for-woocommerce/)
 - [PTE Request for:](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-16/)
-- [PTE and Review request for…](https://make.wordpress.org/polyglots/2025/05/23/pte-and-review-request-for/)
 <!-- POLYGLOTS:END -->
 
 ## Support
