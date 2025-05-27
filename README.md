@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-10/)
+- [PTE Request for Connectoor Jobs](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-connectoor-jobs/)
 - [PTE Request for Avanta Theme](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-avanta-theme-2/)
 - [PTE Request for monbillet-embed I…](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-monbillet-embed-i/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/26/i-am-the-plugin-author-56/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Polyglots Week in Review: May 26, 2025](https://make.wordpress.org/polyglots/2025/05/26/xpost-polyglots-week-in-review-may-26-2025/)
 - [PTE Request for Morkva Plugins](https://make.wordpress.org/polyglots/2025/05/26/pte-request-for-morkva-plugins/)
 - [PTE Request for Avanta Theme](https://make.wordpress.org/polyglots/2025/05/26/pte-request-for-avanta-theme/)
-- [PTE Request for Just SMTP](https://make.wordpress.org/polyglots/2025/05/24/pte-request-for-just-smtp/)
-- [PTE Request for Whatsiplus Scheduled Notification for Woocommerce](https://make.wordpress.org/polyglots/2025/05/23/pte-request-for-whatsiplus-scheduled-notification-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
