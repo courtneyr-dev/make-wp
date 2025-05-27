@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-12/)
+- [PTE Request for Openverse](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-openverse-4/)
+- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-11/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-10/)
 - [PTE Request for Connectoor Jobs](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-connectoor-jobs/)
 - [PTE Request for Avanta Theme](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-avanta-theme-2/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/26/i-am-the-plugin-author-56/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/26/hi-polyglots-team-9/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/26/hi-polyglots-team-8/)
-- [X-post: Polyglots Week in Review: May 26, 2025](https://make.wordpress.org/polyglots/2025/05/26/xpost-polyglots-week-in-review-may-26-2025/)
-- [PTE Request for Morkva Plugins](https://make.wordpress.org/polyglots/2025/05/26/pte-request-for-morkva-plugins/)
-- [PTE Request for Avanta Theme](https://make.wordpress.org/polyglots/2025/05/26/pte-request-for-avanta-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
