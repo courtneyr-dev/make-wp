@@ -573,6 +573,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## WordPress Foundation
 <!-- WPFoundation:START -->
+- [Announcing the Open Horizons Scholarship by Automattic](https://wordpressfoundation.org/news/2025/announcing-the-open-horizons-scholarship-by-automattic/)
 - [Announcing the 2025 WordCamp Europe Kim Parsell Memorial Scholarship Recipient: Eleni Stergatou](https://wordpressfoundation.org/news/2024/announcing-the-2025-wordcamp-europe-kim-parsell-memorial-scholarship-recipient-eleni-stergatou/)
 - [Kim Parsell Memorial Scholarship Expands to WordCamp Asia and WordCamp Europe!](https://wordpressfoundation.org/news/2024/kim-parsell-memorial-scholarship-expands-to-wordcamp-asia-and-wordcamp-europe/)
 - [2024 WordPress Foundation Meeting Minutes](https://wordpressfoundation.org/news/2024/meeting-minutes/)
@@ -582,5 +583,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The WordPress Foundation 2023 Annual Report is Now Available](https://wordpressfoundation.org/news/2024/the-wordpress-foundation-2023-annual-report-is-now-available/)
 - [2023 Kim Parsell Memorial Scholarship Recipient: Yumi Nishioka &lpar;mimi&rpar;](https://wordpressfoundation.org/news/2023/2023-kim-parsell-memorial-scholarship-recipient-mimi/)
 - [Kim Parsell Memorial Scholarship for WordCamp US 2023](https://wordpressfoundation.org/news/2023/kim-parsell-memorial-scholarship-for-wordcamp-us-2023/)
-- [2022 Kim Parsell Memorial Scholarship Recipients: Margherita Pelonara, Simona Simionato, and Pooja Derashri](https://wordpressfoundation.org/news/2022/2022-kim-parsell-memorial-scholarship-recipients-margherita-pelonara-simona-simionato-and-pooja-derashri/)
 <!-- WPFoundation:END -->
