@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Update on the GatherPress project – May 2025](https://make.wordpress.org/community/2025/05/28/update-on-the-gatherpress-project-may-2025/)
 - [Women in WordPress: A Recap of Our International Women’s Day WordPress Events](https://make.wordpress.org/community/2025/05/14/women-in-wordpress-a-recap-of-our-international-womens-day-wordpress-events/)
 - [Calling Designers: Help Us Create the WordPress Campus Connect Logo!](https://make.wordpress.org/community/2025/05/12/calling-designers-help-us-create-the-wordpress-campus-connect-logo/)
 - [Community Team Meeting Agenda for 08 – May -2025](https://make.wordpress.org/community/2025/05/07/community-team-meeting-agenda-for-08-may-2025/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 3 – April -2025](https://make.wordpress.org/community/2025/04/03/community-team-meeting-agenda-for-3-april-2025/)
 - [Announcing WordCamp Volunteer Badges on WordPress.org Profiles](https://make.wordpress.org/community/2025/04/02/announcing-wordcamp-volunteer-badges-on-wordpress-org-profiles/)
 - [🎉 Completing Our Global Sponsorship Dream Team for 2025! 🎉](https://make.wordpress.org/community/2025/03/28/%f0%9f%8e%89-completing-our-global-sponsorship-dream-team-for-2025-%f0%9f%8e%89/)
-- [Another Global Sponsor Joins the Party](https://make.wordpress.org/community/2025/03/07/another-global-sponsor-joins-the-party/)
 <!-- COMMUNITY:END -->
 
 ## Meta
