@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Below Listed Theme](https://make.wordpress.org/polyglots/2025/05/28/pte-request-for-below-listed-theme/)
 - [Agenda: Weekly Polyglots Chat – May 28, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/05/28/agenda-weekly-polyglots-chat-may-28-2025-700-utc/)
 - [Join the Polyglots Table at WordCamp Europe 2025 Contributor Day!](https://make.wordpress.org/polyglots/2025/05/28/join-the-polyglots-table-at-wordcamp-europe-2025-contributor-day/)
 - [PTE Request for EazyShop and MiniCart Themes](https://make.wordpress.org/polyglots/2025/05/28/pte-request-for-eazyshop-and-minicart-themes/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-10/)
 - [PTE Request for Connectoor Jobs](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-connectoor-jobs/)
 - [PTE Request for Avanta Theme](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-avanta-theme-2/)
-- [PTE Request for monbillet-embed I…](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-monbillet-embed-i/)
 <!-- POLYGLOTS:END -->
 
 ## Support
