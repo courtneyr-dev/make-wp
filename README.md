@@ -529,8 +529,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Product Innovator](https://jobs.wordpress.net/job/wordpress-product-innovator-2/)
 - [Product Manager &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/product-manager-wordpress/)
 - [WordPress Custom Plugin Developer &lpar;2 to 4 years of work experience&rpar;](https://jobs.wordpress.net/job/wordpress-custom-plugin-developer-2-to-4-years-of-work-experience/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-862/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-17/)
+- [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology/)
 <!-- JOBS:END -->
 
 ## Central
