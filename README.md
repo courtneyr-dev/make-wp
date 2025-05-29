@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Plugins Team at WCEU 25 | Contributor Day](https://make.wordpress.org/plugins/2025/05/29/plugins-team-at-wceu-25-contributor-day/)
 - [Announcing the Next Plugin Review Team Reps](https://make.wordpress.org/plugins/2025/05/26/announcing-the-next-plugin-review-team-reps/)
 - [The WordPress Ecosystem is Growing: New Plugin Submissions Have Doubled in 2025](https://make.wordpress.org/plugins/2025/05/21/the-wordpress-ecosystem-is-growing-new-plugin-submissions-have-doubled-in-2025/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/plugins/2025/03/04/xpost-help-test-wordpress-6-8/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Check and 2FA Now Mandatory For New Plugin Submissions](https://make.wordpress.org/plugins/2024/10/01/plugin-check-and-2fa-now-mandatory-for-new-plugin-submissions/)
 - [Introducing Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/plugins/2024/09/17/introducing-plugin-check-pcp/)
 - [Guidance on plugins that install other plugins](https://make.wordpress.org/plugins/2024/09/09/guidance-on-plugins-that-install-other-plugins/)
-- [Upcoming Security Changes for Plugin and Theme Authors on WordPress.org](https://make.wordpress.org/plugins/2024/09/04/upcoming-security-changes-for-plugin-and-theme-authors-on-wordpress-org/)
 <!-- PLUGINS:END -->
 
 ## Community
