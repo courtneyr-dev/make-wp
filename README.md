@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/meta/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 - [Top Customer Channel](https://make.wordpress.org/meta/2025/03/15/top-customer-channel/)
 - [Welcome back everyone! The holiday…](https://make.wordpress.org/meta/2025/01/03/welcome-back-everyone-the-holiday/)
 - [Make WordPress gets a refresh](https://make.wordpress.org/meta/2024/12/12/make-wordpress-gets-a-refresh/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for October 30, 2024](https://make.wordpress.org/meta/2024/10/30/agenda-for-october-30-2024/)
 - [Agenda for October 16, 2024](https://make.wordpress.org/meta/2024/10/16/agenda-for-october-16-2024/)
 - [Agenda for October 1, 2024](https://make.wordpress.org/meta/2024/10/02/agenda-for-october-1-2024/)
-- [The Five for the Future site gets a refresh](https://make.wordpress.org/meta/2024/09/12/the-five-for-the-future-site-gets-a-refresh/)
 <!-- META:END -->
 
 ## Training
