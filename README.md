@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-864/)
 - [WordPress polishing](https://jobs.wordpress.net/job/wordpress-polishing/)
 - [Developer, Migration, mainaner](https://jobs.wordpress.net/job/developer-migration-mainaner/)
 - [Senior Front End Developer &lpar;WordPress + React/Next.js Expertise&rpar;](https://jobs.wordpress.net/job/senior-front-end-developer-wordpress-react-next-js-expertise/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product Manager &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/product-manager-wordpress/)
 - [WordPress Custom Plugin Developer &lpar;2 to 4 years of work experience&rpar;](https://jobs.wordpress.net/job/wordpress-custom-plugin-developer-2-to-4-years-of-work-experience/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-17/)
-- [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology/)
 <!-- JOBS:END -->
 
 ## Central
