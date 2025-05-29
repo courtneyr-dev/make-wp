@@ -69,7 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [Hi to all.](https://make.wordpress.org/polyglots/2025/05/29/hi-to-all/)
+- [PTE Request for plugins](https://make.wordpress.org/polyglots/2025/05/29/hi-to-all/)
 - [PTE Request for Plugins and Themes directory](https://make.wordpress.org/polyglots/2025/05/29/pte-request-for-plugins-and-themes-directory/)
 - [PTE Request for Below Listed Theme](https://make.wordpress.org/polyglots/2025/05/28/pte-request-for-below-listed-theme/)
 - [Agenda: Weekly Polyglots Chat – May 28, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/05/28/agenda-weekly-polyglots-chat-may-28-2025-700-utc/)
