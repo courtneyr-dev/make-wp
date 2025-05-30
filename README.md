@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Gellum Business Hours for WooCommerce](https://make.wordpress.org/polyglots/2025/05/30/pte-request-for-gellum-business-hours-for-woocommerce/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-58/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-57/)
 - [PTE Request for plugins](https://make.wordpress.org/polyglots/2025/05/29/hi-to-all/)
 - [PTE Request for Plugins and Themes directory](https://make.wordpress.org/polyglots/2025/05/29/pte-request-for-plugins-and-themes-directory/)
 - [PTE Request for Below Listed Theme](https://make.wordpress.org/polyglots/2025/05/28/pte-request-for-below-listed-theme/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Join the Polyglots Table at WordCamp Europe 2025 Contributor Day!](https://make.wordpress.org/polyglots/2025/05/28/join-the-polyglots-table-at-wordcamp-europe-2025-contributor-day/)
 - [PTE Request for EazyShop and MiniCart Themes](https://make.wordpress.org/polyglots/2025/05/28/pte-request-for-eazyshop-and-minicart-themes/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-12/)
-- [PTE Request for Openverse](https://make.wordpress.org/polyglots/2025/05/27/pte-request-for-openverse-4/)
-- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-11/)
-- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-10/)
 <!-- POLYGLOTS:END -->
 
 ## Support
