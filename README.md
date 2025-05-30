@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ActivityPub](https://make.wordpress.org/polyglots/2025/05/30/pte-request-for-activitypub/)
 - [PTE Request for Gellum Business Hours for WooCommerce](https://make.wordpress.org/polyglots/2025/05/30/pte-request-for-gellum-business-hours-for-woocommerce/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-58/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-57/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – May 28, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/05/28/agenda-weekly-polyglots-chat-may-28-2025-700-utc/)
 - [Join the Polyglots Table at WordCamp Europe 2025 Contributor Day!](https://make.wordpress.org/polyglots/2025/05/28/join-the-polyglots-table-at-wordcamp-europe-2025-contributor-day/)
 - [PTE Request for EazyShop and MiniCart Themes](https://make.wordpress.org/polyglots/2025/05/28/pte-request-for-eazyshop-and-minicart-themes/)
-- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/05/27/hi-polyglots-team-12/)
 <!-- POLYGLOTS:END -->
 
 ## Support
