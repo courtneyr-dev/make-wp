@@ -238,6 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Pagbuo ng Home Page Gamit ang Block Theme](https://learn.wordpress.org/tutorial/tl-building-a-home-page-with-a-block-theme/)
 - [Ebiwandiiko vs. Emiko: Enjawulo eriki??](https://learn.wordpress.org/tutorial/lg-posts-vs-pages-whats-the-difference/)
 - [Pagkilala sa WordPress Dashboard](https://learn.wordpress.org/tutorial/tl-getting-to-know-the-wordpress-dashboard/)
 - [Comment commencer à utiliser WordPress Playground](https://learn.wordpress.org/tutorial/fr-how-to-start-using-wordpress-playground/)
@@ -262,7 +263,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [ম্যানেজ সেটিংসঃ লেখা](https://learn.wordpress.org/tutorial/bn-managing-settings-writing/)
 - [ગુટેનબર્ગ બ્લોક ડેવલપમેન્ટનો પરિચય](https://learn.wordpress.org/tutorial/gu-intro-to-gutenberg-block-development/)
 - [છબીઓ ઉમેરવા અને દૂર કરવી](https://learn.wordpress.org/tutorial/gu-adding-amp-removing-images/)
-- [એડિટરમાં કસ્ટમ CSS](https://learn.wordpress.org/tutorial/gu-custom-css-in-the-editor/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
