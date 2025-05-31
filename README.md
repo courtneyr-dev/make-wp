@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Community Contribution Matters – Get Involved and Make Impact](https://wordpress.tv/2025/05/31/wordpress-community-contribution-matters-get-involved-and-make-impact/)
 - [Auditar sitios WordPress es igual que catar un vino](https://wordpress.tv/2025/05/24/auditar-sitios-wordpress-es-igual-que-catar-un-vino/)
 - [Los hilos invisibles: Así hackea tu mente el marketing online](https://wordpress.tv/2025/05/24/los-hilos-invisibles-asi-hackea-tu-mente-el-marketing-online/)
 - [Martech en acción: Uniendo marketing e IT para alcanzar objetivos de negocio](https://wordpress.tv/2025/05/24/martech-en-accion-uniendo-marketing-e-it-para-alcanzar-objetivos-de-negocio/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fundamentos para automatizar tu WordPress con n8n](https://wordpress.tv/2025/05/23/fundamentos-para-automatizar-tu-wordpress-con-n8n/)
 - [How to Contribute to WordPress Training Through Translation](https://wordpress.tv/2025/05/23/how-to-contribute-to-wordpress-training-through-translation/)
 - [Cómo crear un «Link in bio» con WordPress sin utilizar plugins](https://wordpress.tv/2025/05/22/como-crear-un-link-in-bio-con-wordpress-sin-utilizar-plugins/)
-- [Instalación y configuración del plugin BulletProof security para mejorar la seguridad de tu sitio we](https://wordpress.tv/2025/05/21/instalacion-y-configuracion-del-plugin-bulletproof-security-para-mejorar-la-seguridad-de-tu-sitio-we/)
 <!-- WPTV:END -->
 
 ## Marketing
