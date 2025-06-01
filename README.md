@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Web Producer / Project Manager &lpar;Remote, Part-Time or Freelance&rpar;](https://jobs.wordpress.net/job/web-producer-project-manager-remote-part-time-or-freelance/)
+- [Web Designer &lpar;Full-Time or Part-Time&rpar;](https://jobs.wordpress.net/job/web-designer-full-time-or-part-time/)
 - [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-864/)
 - [WordPress polishing](https://jobs.wordpress.net/job/wordpress-polishing/)
 - [Developer, Migration, mainaner](https://jobs.wordpress.net/job/developer-migration-mainaner/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-863/)
 - [WordPress Product Innovator](https://jobs.wordpress.net/job/wordpress-product-innovator-2/)
 - [Product Manager &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/product-manager-wordpress/)
-- [WordPress Custom Plugin Developer &lpar;2 to 4 years of work experience&rpar;](https://jobs.wordpress.net/job/wordpress-custom-plugin-developer-2-to-4-years-of-work-experience/)
-- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-17/)
 <!-- JOBS:END -->
 
 ## Central
