@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WC Korkmaz Contract](https://make.wordpress.org/polyglots/2025/06/01/pte-request-for-wc-korkmaz-contract/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/01/i-am-the-plugin-author-60/)
 - [PTE request for polish translation of JetPack app](https://make.wordpress.org/polyglots/2025/05/31/pte-request-for-polish-translation-of-jetpack-app/)
 - [PTE Request for Word Snap – Bengali &lpar;bn_BD&rpar;](https://make.wordpress.org/polyglots/2025/05/31/pte-request-for-word-snap-bengali-bn_bd/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-59/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-58/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-57/)
 - [PTE Request for plugins](https://make.wordpress.org/polyglots/2025/05/29/hi-to-all/)
-- [PTE Request for Plugins and Themes directory](https://make.wordpress.org/polyglots/2025/05/29/pte-request-for-plugins-and-themes-directory/)
-- [PTE Request for Below Listed Theme](https://make.wordpress.org/polyglots/2025/05/28/pte-request-for-below-listed-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
