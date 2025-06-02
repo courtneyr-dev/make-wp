@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/02/i-am-the-plugin-author-61/)
 - [PTE Request for WC Korkmaz Contract](https://make.wordpress.org/polyglots/2025/06/01/pte-request-for-wc-korkmaz-contract/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/01/i-am-the-plugin-author-60/)
 - [PTE request for polish translation of JetPack app](https://make.wordpress.org/polyglots/2025/05/31/pte-request-for-polish-translation-of-jetpack-app/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Gellum Business Hours for WooCommerce](https://make.wordpress.org/polyglots/2025/05/30/pte-request-for-gellum-business-hours-for-woocommerce/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-58/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-57/)
-- [PTE Request for plugins](https://make.wordpress.org/polyglots/2025/05/29/hi-to-all/)
 <!-- POLYGLOTS:END -->
 
 ## Support
