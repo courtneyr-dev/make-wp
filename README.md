@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [🌍 WCEU 2025 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2025/06/02/%f0%9f%8c%8d-wceu-2025-contributor-day-community-team-agenda/)
 - [Update on the GatherPress project – May 2025](https://make.wordpress.org/community/2025/05/28/update-on-the-gatherpress-project-may-2025/)
 - [Women in WordPress: A Recap of Our International Women’s Day WordPress Events](https://make.wordpress.org/community/2025/05/14/women-in-wordpress-a-recap-of-our-international-womens-day-wordpress-events/)
 - [Calling Designers: Help Us Create the WordPress Campus Connect Logo!](https://make.wordpress.org/community/2025/05/12/calling-designers-help-us-create-the-wordpress-campus-connect-logo/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meetup Organizer Newsletter: March 2025](https://make.wordpress.org/community/2025/04/03/meetup-organizer-newsletter-march-2025/)
 - [Community Team Meeting Agenda for 3 – April -2025](https://make.wordpress.org/community/2025/04/03/community-team-meeting-agenda-for-3-april-2025/)
 - [Announcing WordCamp Volunteer Badges on WordPress.org Profiles](https://make.wordpress.org/community/2025/04/02/announcing-wordcamp-volunteer-badges-on-wordpress-org-profiles/)
-- [🎉 Completing Our Global Sponsorship Dream Team for 2025! 🎉](https://make.wordpress.org/community/2025/03/28/%f0%9f%8e%89-completing-our-global-sponsorship-dream-team-for-2025-%f0%9f%8e%89/)
 <!-- COMMUNITY:END -->
 
 ## Meta
