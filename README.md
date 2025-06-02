@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Como comercializar o teu primeiro curso online con WordPress](https://wordpress.tv/2025/06/02/como-comercializar-o-teu-primeiro-curso-online-con-wordpress/)
 - [Cómo utilizar el Video Thumbnail Generator para generar miniaturas para WordPressTV](https://wordpress.tv/2025/05/31/como-utilizar-el-video-thumbnail-generator-para-generar-miniaturas-para-wordpresstv/)
 - [O que di a túa web sen palabras](https://wordpress.tv/2025/05/31/o-que-di-a-tua-web-sen-palabras/)
 - [WordPress Community Contribution Matters – Get Involved and Make Impact](https://wordpress.tv/2025/05/31/wordpress-community-contribution-matters-get-involved-and-make-impact/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [La ficha de producto perfecta en WooComerce](https://wordpress.tv/2025/05/24/la-ficha-de-producto-perfecta-en-woocomerce/)
 - [Cómo aumentar la interacción en tu sitio con juegos que creas en segundos](https://wordpress.tv/2025/05/24/como-aumentar-la-interaccion-en-tu-sitio-con-juegos-que-creas-en-segundos/)
 - [Maquetación Moderna: De la Precisión a la Escalabilidad](https://wordpress.tv/2025/05/24/maquetacion-moderna-de-la-precision-a-la-escalabilidad/)
-- [Fundamentos para automatizar tu WordPress con n8n](https://wordpress.tv/2025/05/23/fundamentos-para-automatizar-tu-wordpress-con-n8n/)
 <!-- WPTV:END -->
 
 ## Marketing
