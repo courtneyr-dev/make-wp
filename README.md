@@ -325,6 +325,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [The Code Review Flaw in the Workflow](https://make.wordpress.org/test/2025/06/02/the-code-review-flaw-in-the-workflow/)
 - [Week in Test: June 02, 2025](https://make.wordpress.org/test/2025/06/02/week-in-test-june-02-2025/)
 - [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/test/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 - [Get Involved: Core Test Team at WCEU 2025 Contributor Day](https://make.wordpress.org/test/2025/05/27/get-involved-core-test-team-at-wceu-2025-contributor-day/)
@@ -334,7 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 19 May, 2025](https://make.wordpress.org/test/2025/05/20/xpost-test-team-update-19-may-2025/)
 - [Week in Test: May 19, 2025](https://make.wordpress.org/test/2025/05/19/week-in-test-may-19-2025/)
 - [Building the Testing Use-Case](https://make.wordpress.org/test/2025/05/15/building-the-testing-use-case/)
-- [Week in Test: May 12, 2025](https://make.wordpress.org/test/2025/05/12/week-in-test-may-12-2025/)
 <!-- TEST:END -->
 
 ## TV
