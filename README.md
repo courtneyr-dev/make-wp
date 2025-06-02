@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [El bienestar corporativo y como multiplicar los resultados de la empresa](https://wordpress.tv/2025/06/02/el-bienestar-corporativo-y-como-multiplicar-los-resultados-de-la-empresa/)
+- [Checklist WPO: 10 pasos para que a túa web WordPress non sexa unha tartaruga](https://wordpress.tv/2025/06/02/checklist-wpo-10-pasos-para-que-a-tua-web-wordpress-non-sexa-unha-tartaruga/)
+- [Creando asistentes virtuales con Inteligencia Artificial](https://wordpress.tv/2025/06/02/creando-asistentes-virtuales-con-inteligencia-artificial/)
+- [Eventos WordPress de bajo coste y alto impacto](https://wordpress.tv/2025/06/02/eventos-wordpress-de-bajo-coste-y-alto-impacto/)
 - [Como comercializar o teu primeiro curso online con WordPress](https://wordpress.tv/2025/06/02/como-comercializar-o-teu-primeiro-curso-online-con-wordpress/)
 - [Cómo utilizar el Video Thumbnail Generator para generar miniaturas para WordPressTV](https://wordpress.tv/2025/05/31/como-utilizar-el-video-thumbnail-generator-para-generar-miniaturas-para-wordpresstv/)
 - [O que di a túa web sen palabras](https://wordpress.tv/2025/05/31/o-que-di-a-tua-web-sen-palabras/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Tu web es sexy para los medios? Cómo preparar tu comunicación para salir en prensa sin pagar un dur](https://wordpress.tv/2025/05/24/tu-web-es-sexy-para-los-medios-como-preparar-tu-comunicacion-para-salir-en-prensa-sin-pagar-un-dur/)
 - [Entrega webs sin flecos: cómo añadir el toque legal &lpar;correcto&rpar; que marca la diferencia](https://wordpress.tv/2025/05/24/entrega-webs-sin-flecos-como-anadir-el-toque-legal-correcto-que-marca-la-diferencia/)
 - [Lo que aprendí en una noche de San Juan: de TikTok a WordPress](https://wordpress.tv/2025/05/24/lo-que-aprendi-en-una-noche-de-san-juan-de-tiktok-a-wordpress/)
-- [Los 5 principios del SEO para blogueros y demás gente que se supone no sabe de SEO](https://wordpress.tv/2025/05/24/los-5-principios-del-seo-para-blogueros-y-demas-gente-que-se-supone-no-sabe-de-seo/)
-- [La ficha de producto perfecta en WooComerce](https://wordpress.tv/2025/05/24/la-ficha-de-producto-perfecta-en-woocomerce/)
-- [Cómo aumentar la interacción en tu sitio con juegos que creas en segundos](https://wordpress.tv/2025/05/24/como-aumentar-la-interaccion-en-tu-sitio-con-juegos-que-creas-en-segundos/)
-- [Maquetación Moderna: De la Precisión a la Escalabilidad](https://wordpress.tv/2025/05/24/maquetacion-moderna-de-la-precision-a-la-escalabilidad/)
 <!-- WPTV:END -->
 
 ## Marketing
