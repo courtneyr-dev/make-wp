@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Tainacan](https://make.wordpress.org/polyglots/2025/06/03/pte-request-for-tainacan-3/)
 - [Dear Polyglots community,](https://make.wordpress.org/polyglots/2025/06/03/dear-polyglots-community/)
 - [PTE Request for plugin Cookie…](https://make.wordpress.org/polyglots/2025/06/03/pte-request-for-plugin-cookie/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/02/i-am-the-plugin-author-62/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for polish translation of JetPack app](https://make.wordpress.org/polyglots/2025/05/31/pte-request-for-polish-translation-of-jetpack-app/)
 - [PTE Request for Word Snap – Bengali &lpar;bn_BD&rpar;](https://make.wordpress.org/polyglots/2025/05/31/pte-request-for-word-snap-bengali-bn_bd/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/05/30/i-am-the-plugin-author-59/)
-- [PTE Request for ActivityPub](https://make.wordpress.org/polyglots/2025/05/30/pte-request-for-activitypub/)
 <!-- POLYGLOTS:END -->
 
 ## Support
