@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/project/2025/06/04/criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Restoring Trust while Preserving Safety](https://make.wordpress.org/project/2025/05/21/restoring-trust-while-preserving-safety/)
 - [Review of Blocked Community Members](https://make.wordpress.org/project/2025/05/01/review-of-blocked-community-members/)
 - [A New Cadence for WordPress Core](https://make.wordpress.org/project/2025/04/16/a-new-cadence-for-wordpress-core/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ramping up WordPress on YouTube](https://make.wordpress.org/project/2024/08/19/ramping-up-wordpress-on-youtube/)
 - [WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/project/2024/08/16/wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [X-post: Addressing Overlapping Initiatives and Improving Collaboration Across Teams](https://make.wordpress.org/project/2024/06/28/xpost-addressing-overlapping-initiatives-and-improving-collaboration-across-teams/)
-- [X-post: WordPress Contributor Mentorship Program Q4 2024: Call for Interest](https://make.wordpress.org/project/2024/06/15/xpost-wordpress-contributor-mentorship-program-q4-2024-call-for-interest/)
 <!-- PROJECT:END -->
 
 ## Systems
