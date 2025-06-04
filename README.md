@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/plugins/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Plugins Team at WCEU 25 | Contributor Day](https://make.wordpress.org/plugins/2025/05/29/plugins-team-at-wceu-25-contributor-day/)
 - [Announcing the Next Plugin Review Team Reps](https://make.wordpress.org/plugins/2025/05/26/announcing-the-next-plugin-review-team-reps/)
 - [The WordPress Ecosystem is Growing: New Plugin Submissions Have Doubled in 2025](https://make.wordpress.org/plugins/2025/05/21/the-wordpress-ecosystem-is-growing-new-plugin-submissions-have-doubled-in-2025/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Check Goals &amp; Roadmap](https://make.wordpress.org/plugins/2024/12/24/plugin-check-goals-roadmap/)
 - [Plugin Check and 2FA Now Mandatory For New Plugin Submissions](https://make.wordpress.org/plugins/2024/10/01/plugin-check-and-2fa-now-mandatory-for-new-plugin-submissions/)
 - [Introducing Plugin Check &lpar;PCP&rpar;](https://make.wordpress.org/plugins/2024/09/17/introducing-plugin-check-pcp/)
-- [Guidance on plugins that install other plugins](https://make.wordpress.org/plugins/2024/09/09/guidance-on-plugins-that-install-other-plugins/)
 <!-- PLUGINS:END -->
 
 ## Community
