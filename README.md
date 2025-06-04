@@ -27,6 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/design/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/design/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/design/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 - [X-post: Calling Designers: Help Us Create the WordPress Campus Connect Logo!](https://make.wordpress.org/design/2025/05/12/xpost-calling-designers-help-us-create-the-wordpress-campus-connect-logo/)
@@ -36,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Join the Design Table at WordCamp Asia 2025 Contributor Day!](https://make.wordpress.org/design/2025/02/18/join-the-design-table-at-wordcamp-asia-2025-contributor-day/)
 - [Design plans for WordPress 6.8](https://make.wordpress.org/design/2025/01/15/design-plans-for-wordpress-6-8/)
 - [Design Share #70 &lpar;Dec 2-Dec 13&rpar;](https://make.wordpress.org/design/2024/12/17/design-share-70-dec-2-dec-13/)
-- [X-post: Make WordPress gets a refresh](https://make.wordpress.org/design/2024/12/12/xpost-make-wordpress-gets-a-refresh/)
 <!-- DESIGN:END -->
 
 ## Mobile
