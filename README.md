@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/themes/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Themes Team Meeting Agendas for May 27, 2025](https://make.wordpress.org/themes/2025/05/26/themes-team-meeting-agendas-for-may-27-2025/)
 - [Themes team meeting notes for May 13, 2025](https://make.wordpress.org/themes/2025/05/14/themes-team-meeting-notes-for-may-13-2025/)
 - [Themes Team Meeting Agendas for May 13, 2025](https://make.wordpress.org/themes/2025/05/12/themes-team-meeting-agendas-for-may-13-2025/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting notes for March 11, 2025](https://make.wordpress.org/themes/2025/03/12/themes-team-meeting-notes-for-march-11-2025/)
 - [Themes team meeting agenda for March 11, 2025](https://make.wordpress.org/themes/2025/03/10/themes-team-meeting-agenda-for-march-11-2025/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/themes/2025/03/04/xpost-help-test-wordpress-6-8/)
-- [Themes team meeting agenda for February 11, 2025](https://make.wordpress.org/themes/2025/02/10/themes-team-meeting-agenda-for-february-11-2025/)
 <!-- THEMES:END -->
 
 ## Plugins
