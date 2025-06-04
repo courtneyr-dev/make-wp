@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-865/)
+- [Multilingual WordPress Website for B2B Tech Startup &lpar;EN/ES/FR, Template-Based&rpar;](https://jobs.wordpress.net/job/multilingual-wordpress-website-for-b2b-tech-startup-en-es-fr-template-based/)
 - [Web Producer / Project Manager &lpar;Remote, Part-Time or Freelance&rpar;](https://jobs.wordpress.net/job/web-producer-project-manager-remote-part-time-or-freelance/)
 - [Web Designer &lpar;Full-Time or Part-Time&rpar;](https://jobs.wordpress.net/job/web-designer-full-time-or-part-time/)
 - [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-864/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Front End Developer &lpar;WordPress + React/Next.js Expertise&rpar;](https://jobs.wordpress.net/job/senior-front-end-developer-wordpress-react-next-js-expertise/)
 - [Contract Developer Needed to Update Website](https://jobs.wordpress.net/job/contract-developer-needed-to-update-website/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-863/)
-- [WordPress Product Innovator](https://jobs.wordpress.net/job/wordpress-product-innovator-2/)
-- [Product Manager &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/product-manager-wordpress/)
 <!-- JOBS:END -->
 
 ## Central
