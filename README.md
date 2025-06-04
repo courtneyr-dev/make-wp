@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/accessibility/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/accessibility/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Accessibility Team Meeting Agenda: June 04, 2025](https://make.wordpress.org/accessibility/2025/06/01/accessibility-team-meeting-agenda-june-04-2025/)
 - [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/accessibility/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: Mar 05, 2025](https://make.wordpress.org/accessibility/2025/03/03/accessibility-team-meeting-agenda-mar-05-2025/)
 - [Accessibility Team Meeting Agenda: Feb 05, 2025](https://make.wordpress.org/accessibility/2025/02/03/accessibility-team-meeting-agenda-feb-05-2025/)
 - [X-post: Make WordPress gets a refresh](https://make.wordpress.org/accessibility/2024/12/12/xpost-make-wordpress-gets-a-refresh/)
-- [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/accessibility/2024/12/10/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
