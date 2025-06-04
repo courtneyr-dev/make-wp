@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/community/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [🌍 WCEU 2025 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2025/06/02/%f0%9f%8c%8d-wceu-2025-contributor-day-community-team-agenda/)
 - [Update on the GatherPress project – May 2025](https://make.wordpress.org/community/2025/05/28/update-on-the-gatherpress-project-may-2025/)
 - [Women in WordPress: A Recap of Our International Women’s Day WordPress Events](https://make.wordpress.org/community/2025/05/14/women-in-wordpress-a-recap-of-our-international-womens-day-wordpress-events/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team April 2025 Meeting Recap](https://make.wordpress.org/community/2025/04/10/community-team-april-2025-meeting-recap/)
 - [Meetup Organizer Newsletter: March 2025](https://make.wordpress.org/community/2025/04/03/meetup-organizer-newsletter-march-2025/)
 - [Community Team Meeting Agenda for 3 – April -2025](https://make.wordpress.org/community/2025/04/03/community-team-meeting-agenda-for-3-april-2025/)
-- [Announcing WordCamp Volunteer Badges on WordPress.org Profiles](https://make.wordpress.org/community/2025/04/02/announcing-wordcamp-volunteer-badges-on-wordpress-org-profiles/)
 <!-- COMMUNITY:END -->
 
 ## Meta
