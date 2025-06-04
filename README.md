@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/meta/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/meta/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 - [Top Customer Channel](https://make.wordpress.org/meta/2025/03/15/top-customer-channel/)
 - [Welcome back everyone! The holiday…](https://make.wordpress.org/meta/2025/01/03/welcome-back-everyone-the-holiday/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for November 13, 2024](https://make.wordpress.org/meta/2024/11/13/agenda-for-november-13-2024/)
 - [Agenda for October 30, 2024](https://make.wordpress.org/meta/2024/10/30/agenda-for-october-30-2024/)
 - [Agenda for October 16, 2024](https://make.wordpress.org/meta/2024/10/16/agenda-for-october-16-2024/)
-- [Agenda for October 1, 2024](https://make.wordpress.org/meta/2024/10/02/agenda-for-october-1-2024/)
 <!-- META:END -->
 
 ## Training
