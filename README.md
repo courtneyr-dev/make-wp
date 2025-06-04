@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Kudos Donations…](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-kudos-donations-2/)
 - [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-performance-lab-3/)
 - [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-performance-lab-2/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-shopwell-theme-6/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/02/i-am-the-plugin-author-62/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/02/i-am-the-plugin-author-61/)
 - [PTE Request for WC Korkmaz Contract](https://make.wordpress.org/polyglots/2025/06/01/pte-request-for-wc-korkmaz-contract/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/01/i-am-the-plugin-author-60/)
 <!-- POLYGLOTS:END -->
 
 ## Support
