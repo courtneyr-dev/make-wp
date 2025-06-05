@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 20.4 and 20.5?](https://make.wordpress.org/core/2025/06/05/whats-new-in-gutenberg-20-4-and-20-5/)
 - [Summary, Dev Chat, June 4, 2025](https://make.wordpress.org/core/2025/06/05/summary-dev-chat-june-4-2025/)
 - [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/core/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/core/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, May 14, 2025](https://make.wordpress.org/core/2025/05/14/summary-dev-chat-may-14-2025/)
 - [Accessibility Focused Bug Scrub – 15 May 2025](https://make.wordpress.org/core/2025/05/14/accessibility-focused-bug-scrub-15-may-2025/)
 - [Dev Chat Agenda – May 14, 2025](https://make.wordpress.org/core/2025/05/13/dev-chat-agenda-may-14-2025/)
-- [Summary, Dev Chat, May 7, 2025](https://make.wordpress.org/core/2025/05/07/summary-dev-chat-may-7-2025/)
 <!-- CORE:END -->
 
 ## Design
