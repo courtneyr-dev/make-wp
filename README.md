@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2025/06/05/pte-request-for-contact-form-7-4/)
 - [PTE Request for Safa Theme](https://make.wordpress.org/polyglots/2025/06/05/pte-request-for-safa-theme/)
 - [PTE Request for Kudos Donations…](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-kudos-donations-2/)
 - [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-performance-lab-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dear Polyglots community,](https://make.wordpress.org/polyglots/2025/06/03/dear-polyglots-community/)
 - [PTE Request for plugin Cookie…](https://make.wordpress.org/polyglots/2025/06/03/pte-request-for-plugin-cookie/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/02/i-am-the-plugin-author-62/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/02/i-am-the-plugin-author-61/)
 <!-- POLYGLOTS:END -->
 
 ## Support
