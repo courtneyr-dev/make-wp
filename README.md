@@ -409,6 +409,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [WordCamp Europe 2025 Contributor Day](https://make.wordpress.org/hosting/2025/06/05/wordcamp-europe-2025-contributor-day/)
 - [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/hosting/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/hosting/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Hosting Team Meeting Agenda 2025-06-04](https://make.wordpress.org/hosting/2025/06/04/hosting-team-meeting-on-2025-06-04/)
@@ -418,7 +419,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Team Meeting Agenda 2025-05-14](https://make.wordpress.org/hosting/2025/05/14/hosting-team-meeting-on-2025-05-14/)
 - [Hosting Team Meeting Agenda 2025-05-07](https://make.wordpress.org/hosting/2025/05/07/hosting-team-meeting-on-2025-05-07/)
 - [Hosting Team Meeting Agenda 2025-04-30](https://make.wordpress.org/hosting/2025/04/30/hosting-team-meeting-on-2025-04-30/)
-- [WordCamp Europe Contributor Day: Brainstorm](https://make.wordpress.org/hosting/2025/04/23/wordcamp-europe-contributor-day-brainstorm/)
 <!-- HOSTING:END -->
 
 ## Tide
