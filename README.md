@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for PTE for Openverse](https://make.wordpress.org/polyglots/2025/06/06/request-for-pte-for-openverse/)
+- [PTE Request for Section Blocks – The Layout Builder for Gutenberg](https://make.wordpress.org/polyglots/2025/06/06/pte-request-for-section-blocks-the-layout-builder-for-gutenberg/)
+- [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2025/06/06/pte-request-for-rank-math-seo-5/)
 - [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2025/06/05/pte-request-for-contact-form-7-4/)
 - [PTE Request for Safa Theme](https://make.wordpress.org/polyglots/2025/06/05/pte-request-for-safa-theme/)
 - [PTE Request for Kudos Donations…](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-kudos-donations-2/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-performance-lab-2/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-shopwell-theme-6/)
 - [PTE Request for Tainacan](https://make.wordpress.org/polyglots/2025/06/03/pte-request-for-tainacan-3/)
-- [Dear Polyglots community,](https://make.wordpress.org/polyglots/2025/06/03/dear-polyglots-community/)
-- [PTE Request for plugin Cookie…](https://make.wordpress.org/polyglots/2025/06/03/pte-request-for-plugin-cookie/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/02/i-am-the-plugin-author-62/)
 <!-- POLYGLOTS:END -->
 
 ## Support
