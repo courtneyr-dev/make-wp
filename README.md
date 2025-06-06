@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/06/i-am-the-plugin-author-63/)
 - [Request for PTE for Openverse](https://make.wordpress.org/polyglots/2025/06/06/request-for-pte-for-openverse/)
 - [PTE Request for Section Blocks – The Layout Builder for Gutenberg](https://make.wordpress.org/polyglots/2025/06/06/pte-request-for-section-blocks-the-layout-builder-for-gutenberg/)
 - [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2025/06/06/pte-request-for-rank-math-seo-5/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-performance-lab-3/)
 - [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-performance-lab-2/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-shopwell-theme-6/)
-- [PTE Request for Tainacan](https://make.wordpress.org/polyglots/2025/06/03/pte-request-for-tainacan-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
