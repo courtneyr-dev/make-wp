@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Teen Meets Veteran: Two Perspectives on WordPress](https://wordpress.tv/2025/06/07/teen-meets-veteran-two-perspectives-on-wordpress/)
+- [Social Entrepreneurship in Bulgaria – Driven by Humans, Powered by WordPress](https://wordpress.tv/2025/06/07/social-entrepreneurship-in-bulgaria-driven-by-humans-powered-by-wordpress/)
 - [WordPress without Borders – The Fight for Digital Freedom](https://wordpress.tv/2025/06/07/wordpress-without-borders-the-fight-for-digital-freedom/)
 - [El bienestar corporativo y como multiplicar los resultados de la empresa](https://wordpress.tv/2025/06/02/el-bienestar-corporativo-y-como-multiplicar-los-resultados-de-la-empresa/)
 - [Checklist WPO: 10 pasos para que a túa web WordPress non sexa unha tartaruga](https://wordpress.tv/2025/06/02/checklist-wpo-10-pasos-para-que-a-tua-web-wordpress-non-sexa-unha-tartaruga/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Realmente necesitas desarrollar un bloque nuevo? Veamos algunas alternativas](https://wordpress.tv/2025/05/24/realmente-necesitas-desarrollar-un-bloque-nuevo-veamos-algunas-alternativas/)
 - [Automatiza la Atención al Cliente en WordPress con IA y Chatbots](https://wordpress.tv/2025/05/24/automatiza-la-atencion-al-cliente-en-wordpress-con-ia-y-chatbots/)
 - [SEO Local sin rodeos](https://wordpress.tv/2025/05/24/seo-local-sin-rodeos-2/)
-- [¿Tu web es sexy para los medios? Cómo preparar tu comunicación para salir en prensa sin pagar un dur](https://wordpress.tv/2025/05/24/tu-web-es-sexy-para-los-medios-como-preparar-tu-comunicacion-para-salir-en-prensa-sin-pagar-un-dur/)
-- [Entrega webs sin flecos: cómo añadir el toque legal &lpar;correcto&rpar; que marca la diferencia](https://wordpress.tv/2025/05/24/entrega-webs-sin-flecos-como-anadir-el-toque-legal-correcto-que-marca-la-diferencia/)
 <!-- WPTV:END -->
 
 ## Marketing
