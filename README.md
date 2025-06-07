@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Fireside chat with Mary Hubbard and Matt Mullenweg](https://wordpress.tv/2025/06/07/fireside-chat-with-mary-hubbard-and-matt-mullenweg/)
+- [Your backups are at risk and so are you](https://wordpress.tv/2025/06/07/your-backups-are-at-risk-and-so-are-you/)
 - [Over the Rainbow – Talking about inclusivity for the LGBTQIA+ community in WordPress](https://wordpress.tv/2025/06/07/over-the-rainbow-talking-about-inclusivity-for-the-lgbtqia-community-in-wordpress/)
 - [Micro-Communities + WordPress: The Key to Social Impact](https://wordpress.tv/2025/06/07/micro-communities-wordpress-the-key-to-social-impact/)
 - [Tips for hosting a successful WP meetup in your city](https://wordpress.tv/2025/06/07/tips-for-hosting-a-successful-wp-meetup-in-your-city/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What we learned from building Site Kit and how you can apply this to your WordPress site](https://wordpress.tv/2025/06/07/what-we-learned-from-building-site-kit-and-how-you-can-apply-this-to-your-wordpress-site/)
 - [3 WordPress Agency F*ckups and What I Learned from Them Favorite session: 3 WordPress Agency F*ckups](https://wordpress.tv/2025/06/07/3-wordpress-agency-fckups-and-what-i-learned-from-them-favorite-session-3-wordpress-agency-fckups/)
 - [Building Support as core of product Favorite session: Building Support as core of product](https://wordpress.tv/2025/06/07/building-support-as-core-of-product-favorite-session-building-support-as-core-of-product/)
-- [Transforming Tech Leadership: 3 Ways to Shift Communication and Get Your Time Back](https://wordpress.tv/2025/06/07/transforming-tech-leadership-3-ways-to-shift-communication-and-get-your-time-back/)
-- [Teen Meets Veteran: Two Perspectives on WordPress](https://wordpress.tv/2025/06/07/teen-meets-veteran-two-perspectives-on-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
