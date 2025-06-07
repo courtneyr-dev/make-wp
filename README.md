@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress gems for devs: Interactivity API](https://wordpress.tv/2025/06/07/wordpress-gems-for-devs-interactivity-api-2/)
 - [Building Automated Tests with WordPress Playground](https://wordpress.tv/2025/06/07/building-automated-tests-with-wordpress-playground/)
 - [Turning Stories into Brands: The Blueprint for Women Entrepreneurs on WordPress](https://wordpress.tv/2025/06/07/turning-stories-into-brands-the-blueprint-for-women-entrepreneurs-on-wordpress/)
 - [What you’re missing if you don’t have your own WordPress](https://wordpress.tv/2025/06/07/what-youre-missing-if-you-dont-have-your-own-wordpress/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Over the Rainbow – Talking about inclusivity for the LGBTQIA+ community in WordPress](https://wordpress.tv/2025/06/07/over-the-rainbow-talking-about-inclusivity-for-the-lgbtqia-community-in-wordpress/)
 - [Micro-Communities + WordPress: The Key to Social Impact](https://wordpress.tv/2025/06/07/micro-communities-wordpress-the-key-to-social-impact/)
 - [Tips for hosting a successful WP meetup in your city](https://wordpress.tv/2025/06/07/tips-for-hosting-a-successful-wp-meetup-in-your-city/)
-- [The Future of WordPress: Your Role in the Evolution](https://wordpress.tv/2025/06/07/the-future-of-wordpress-your-role-in-the-evolution/)
 <!-- WPTV:END -->
 
 ## Marketing
