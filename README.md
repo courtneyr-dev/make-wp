@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Client side Web AI Agents for building smarter user experiences in the future](https://wordpress.tv/2025/06/07/client-side-web-ai-agents-for-building-smarter-user-experiences-in-the-future/)
+- [Content strategies that make everybody happy](https://wordpress.tv/2025/06/07/content-strategies-that-make-everybody-happy/)
+- [The worst SEO mistakes I’ve seen on WordPress – so you won’t have to make them](https://wordpress.tv/2025/06/07/the-worst-seo-mistakes-ive-seen-on-wordpress-so-you-wont-have-to-make-them/)
+- [Get your docs read! All the way to the end](https://wordpress.tv/2025/06/07/get-your-docs-read-all-the-way-to-the-end/)
+- [The footer is no longer a forgotten corner](https://wordpress.tv/2025/06/07/the-footer-is-no-longer-a-forgotten-corner/)
 - [WaaS for Agencies: Opportunities, Challenges &amp; Pricing Impact](https://wordpress.tv/2025/06/07/waas-for-agencies-opportunities-challenges-pricing-impact/)
 - [Speak your users’ language: what to look out for when going global](https://wordpress.tv/2025/06/07/speak-your-users-language-what-to-look-out-for-when-going-global-2/)
 - [Multilingual WordPress for developers](https://wordpress.tv/2025/06/07/multilingual-wordpress-for-developers/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to make your website more sustainable](https://wordpress.tv/2025/06/07/how-to-make-your-website-more-sustainable/)
 - [Automating WordPress Setup with Modern AI Tools](https://wordpress.tv/2025/06/07/automating-wordpress-setup-with-modern-ai-tools/)
 - [Do you really need a custom block?](https://wordpress.tv/2025/06/07/do-you-really-need-a-custom-block/)
-- [QA 101: Caring about quality even when it’s not your job](https://wordpress.tv/2025/06/07/qa-101-caring-about-quality-even-when-its-not-your-job/)
-- [How a WordPress Core Committer Thinks: Making Decisions for Millions](https://wordpress.tv/2025/06/07/how-a-wordpress-core-committer-thinks-making-decisions-for-millions/)
-- [Core Web Vitals Mystery Demystified](https://wordpress.tv/2025/06/07/core-web-vitals-mystery-demystified/)
-- [Composer Best Practices](https://wordpress.tv/2025/06/07/composer-best-practices/)
-- [WordPress Speed Build](https://wordpress.tv/2025/06/07/wordpress-speed-build/)
 <!-- WPTV:END -->
 
 ## Marketing
