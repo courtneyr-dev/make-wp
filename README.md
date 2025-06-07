@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WaaS for Agencies: Opportunities, Challenges &amp; Pricing Impact](https://wordpress.tv/2025/06/07/waas-for-agencies-opportunities-challenges-pricing-impact/)
+- [Speak your users’ language: what to look out for when going global](https://wordpress.tv/2025/06/07/speak-your-users-language-what-to-look-out-for-when-going-global-2/)
+- [Multilingual WordPress for developers](https://wordpress.tv/2025/06/07/multilingual-wordpress-for-developers/)
+- [Hidden in plain site: WordPress 6.6’s Auto-Update Rollback Feature](https://wordpress.tv/2025/06/07/hidden-in-plain-site-wordpress-6-6s-auto-update-rollback-feature/)
+- [From Reactive to Proactive: Modern Observability for WordPress at Scale](https://wordpress.tv/2025/06/07/from-reactive-to-proactive-modern-observability-for-wordpress-at-scale/)
+- [What if we choose accessibility over beauty? My story with epilepsy](https://wordpress.tv/2025/06/07/what-if-we-choose-accessibility-over-beauty-my-story-with-epilepsy/)
+- [Prepare for the EAA in less than 3 weeks](https://wordpress.tv/2025/06/07/prepare-for-the-eaa-in-less-than-3-weeks/)
+- [Cyber Resilience Act and WordPress – What to expect?](https://wordpress.tv/2025/06/07/cyber-resilience-act-and-wordpress-what-to-expect/)
+- [Why Block Themes Make WooCommerce Stores Better](https://wordpress.tv/2025/06/07/why-block-themes-make-woocommerce-stores-better/)
 - [Fireside chat with Mary Hubbard and Matt Mullenweg](https://wordpress.tv/2025/06/07/fireside-chat-with-mary-hubbard-and-matt-mullenweg/)
 - [Your backups are at risk and so are you](https://wordpress.tv/2025/06/07/your-backups-are-at-risk-and-so-are-you/)
 - [Over the Rainbow – Talking about inclusivity for the LGBTQIA+ community in WordPress](https://wordpress.tv/2025/06/07/over-the-rainbow-talking-about-inclusivity-for-the-lgbtqia-community-in-wordpress/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Web Vitals Mystery Demystified](https://wordpress.tv/2025/06/07/core-web-vitals-mystery-demystified/)
 - [Composer Best Practices](https://wordpress.tv/2025/06/07/composer-best-practices/)
 - [WordPress Speed Build](https://wordpress.tv/2025/06/07/wordpress-speed-build/)
-- [Live website reviews by industry experts](https://wordpress.tv/2025/06/07/live-website-reviews-by-industry-experts/)
-- [From Zero to Demo: Mastering WordPress Playground Blueprints](https://wordpress.tv/2025/06/07/from-zero-to-demo-mastering-wordpress-playground-blueprints/)
-- [The Block Developer Cookbook: WCEU 2025 Edition](https://wordpress.tv/2025/06/07/the-block-developer-cookbook-wceu-2025-edition/)
-- [Banking on WordPress: Inside a FTSE 50 Bank’s Global Platform](https://wordpress.tv/2025/06/07/banking-on-wordpress-inside-a-ftse-50-banks-global-platform/)
-- [How to Keep Your Head While Going Headless with WordPress](https://wordpress.tv/2025/06/07/how-to-keep-your-head-while-going-headless-with-wordpress/)
-- [Connecting cultures at SWI Swissinfo.ch: The journey to international audience engagement](https://wordpress.tv/2025/06/07/connecting-cultures-at-swi-swissinfo-ch-the-journey-to-international-audience-engagement/)
-- [What we learned from building Site Kit and how you can apply this to your WordPress site](https://wordpress.tv/2025/06/07/what-we-learned-from-building-site-kit-and-how-you-can-apply-this-to-your-wordpress-site/)
-- [3 WordPress Agency F*ckups and What I Learned from Them Favorite session: 3 WordPress Agency F*ckups](https://wordpress.tv/2025/06/07/3-wordpress-agency-fckups-and-what-i-learned-from-them-favorite-session-3-wordpress-agency-fckups/)
-- [Building Support as core of product Favorite session: Building Support as core of product](https://wordpress.tv/2025/06/07/building-support-as-core-of-product-favorite-session-building-support-as-core-of-product/)
 <!-- WPTV:END -->
 
 ## Marketing
