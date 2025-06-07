@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Building Automated Tests with WordPress Playground](https://wordpress.tv/2025/06/07/building-automated-tests-with-wordpress-playground/)
+- [Turning Stories into Brands: The Blueprint for Women Entrepreneurs on WordPress](https://wordpress.tv/2025/06/07/turning-stories-into-brands-the-blueprint-for-women-entrepreneurs-on-wordpress/)
+- [What you’re missing if you don’t have your own WordPress](https://wordpress.tv/2025/06/07/what-youre-missing-if-you-dont-have-your-own-wordpress/)
+- [Accessibility in Reality: Pro Helvetia, a Swiss case study](https://wordpress.tv/2025/06/07/accessibility-in-reality-pro-helvetia-a-swiss-case-study/)
+- [Mythbusting and Q&amp;A about appearing in Google Search](https://wordpress.tv/2025/06/07/mythbusting-and-qa-about-appearing-in-google-search/)
 - [Client side Web AI Agents for building smarter user experiences in the future](https://wordpress.tv/2025/06/07/client-side-web-ai-agents-for-building-smarter-user-experiences-in-the-future/)
 - [Content strategies that make everybody happy](https://wordpress.tv/2025/06/07/content-strategies-that-make-everybody-happy/)
 - [The worst SEO mistakes I’ve seen on WordPress – so you won’t have to make them](https://wordpress.tv/2025/06/07/the-worst-seo-mistakes-ive-seen-on-wordpress-so-you-wont-have-to-make-them/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Micro-Communities + WordPress: The Key to Social Impact](https://wordpress.tv/2025/06/07/micro-communities-wordpress-the-key-to-social-impact/)
 - [Tips for hosting a successful WP meetup in your city](https://wordpress.tv/2025/06/07/tips-for-hosting-a-successful-wp-meetup-in-your-city/)
 - [The Future of WordPress: Your Role in the Evolution](https://wordpress.tv/2025/06/07/the-future-of-wordpress-your-role-in-the-evolution/)
-- [Modernizing WordPress with new Web Platform Features](https://wordpress.tv/2025/06/07/modernizing-wordpress-with-new-web-platform-features/)
-- [Bridging Design and Development: Figma Design Systems for WordPress Success](https://wordpress.tv/2025/06/07/bridging-design-and-development-figma-design-systems-for-wordpress-success/)
-- [How to make your website more sustainable](https://wordpress.tv/2025/06/07/how-to-make-your-website-more-sustainable/)
-- [Automating WordPress Setup with Modern AI Tools](https://wordpress.tv/2025/06/07/automating-wordpress-setup-with-modern-ai-tools/)
-- [Do you really need a custom block?](https://wordpress.tv/2025/06/07/do-you-really-need-a-custom-block/)
 <!-- WPTV:END -->
 
 ## Marketing
