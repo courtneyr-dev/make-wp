@@ -535,6 +535,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [WordCamp Jinja 2025 Recap: An impactful 2 days of learning, diverse speakers, hands-on workshops, contributions, charity website hackathon, and celebration of WordPress on the Nile](https://central.wordcamp.org/news/2025/06/wordcamp-jinja-2025-recap-an-impactful-2-days-of-learning-diverse-speakers-hands-on-workshops-contributions-charity-website-hackathon-and-celebration-of-wordpress-on-the-nile/)
 - [EmpowerWP Bhopal 2025: A Journey of Inclusion and Impact!](https://central.wordcamp.org/news/2025/04/empowerwp-bhopal-2025-a-journey-of-inclusion-and-impact/)
 - [Uganda’s Website Projects Competition Returns in 2025 — Bigger and Bolder](https://central.wordcamp.org/news/2025/04/ugandas-website-projects-competition-returns-in-2025-bigger-and-bolder/)
 - [Women in Tech – Ajmer: A Celebration of Empowerment and Connection](https://central.wordcamp.org/news/2025/04/women-in-tech-ajmer-a-celebration-of-empowerment-and-connection/)
@@ -549,7 +550,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From WordCamps to NextGen Events: Uganda’s Turn to Pilot Innovative WordPress Events is Here!](https://central.wordcamp.org/news/2024/03/from-wordcamps-to-nextgen-events-ugandas-turn-to-pilot-innovative-wordpress-events-is-here/)
 - [Thanks for sponsoring global WordPress community events across the globe, Bluehost!](https://central.wordcamp.org/news/2024/01/thanks-for-sponsoring-global-wordpress-community-events-across-the-globe-bluehost/)
 - [Thanks to Woo for sponsoring community events worldwide](https://central.wordcamp.org/news/2024/01/thanks-to-woo-for-sponsoring-community-events-worldwide/)
-- [Automattic sponsors WordPress community events across the globe](https://central.wordcamp.org/news/2024/01/automattic-sponsors-wordpress-community-events-across-the-globe/)
 <!-- Central:END -->
 
 ### WordCamp
