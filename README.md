@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Over the Rainbow – Talking about inclusivity for the LGBTQIA+ community in WordPress](https://wordpress.tv/2025/06/07/over-the-rainbow-talking-about-inclusivity-for-the-lgbtqia-community-in-wordpress/)
 - [Micro-Communities + WordPress: The Key to Social Impact](https://wordpress.tv/2025/06/07/micro-communities-wordpress-the-key-to-social-impact/)
 - [Tips for hosting a successful WP meetup in your city](https://wordpress.tv/2025/06/07/tips-for-hosting-a-successful-wp-meetup-in-your-city/)
 - [The Future of WordPress: Your Role in the Evolution](https://wordpress.tv/2025/06/07/the-future-of-wordpress-your-role-in-the-evolution/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building Support as core of product Favorite session: Building Support as core of product](https://wordpress.tv/2025/06/07/building-support-as-core-of-product-favorite-session-building-support-as-core-of-product/)
 - [Transforming Tech Leadership: 3 Ways to Shift Communication and Get Your Time Back](https://wordpress.tv/2025/06/07/transforming-tech-leadership-3-ways-to-shift-communication-and-get-your-time-back/)
 - [Teen Meets Veteran: Two Perspectives on WordPress](https://wordpress.tv/2025/06/07/teen-meets-veteran-two-perspectives-on-wordpress/)
-- [Social Entrepreneurship in Bulgaria – Driven by Humans, Powered by WordPress](https://wordpress.tv/2025/06/07/social-entrepreneurship-in-bulgaria-driven-by-humans-powered-by-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
