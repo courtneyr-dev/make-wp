@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ASSISTIO AI plugin](https://make.wordpress.org/polyglots/2025/06/08/pte-request-for-assistio-ai-plugin/)
+- [PTE Request for Assistio plugin](https://make.wordpress.org/polyglots/2025/06/08/pte-request-for-assistio-plugin/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/06/i-am-the-plugin-author-63/)
 - [Request for PTE for Openverse](https://make.wordpress.org/polyglots/2025/06/06/request-for-pte-for-openverse/)
 - [PTE Request for Section Blocks – The Layout Builder for Gutenberg](https://make.wordpress.org/polyglots/2025/06/06/pte-request-for-section-blocks-the-layout-builder-for-gutenberg/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Safa Theme](https://make.wordpress.org/polyglots/2025/06/05/pte-request-for-safa-theme/)
 - [PTE Request for Kudos Donations…](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-kudos-donations-2/)
 - [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-performance-lab-3/)
-- [PTE Request for Performance Lab](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-performance-lab-2/)
-- [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/06/04/pte-request-for-shopwell-theme-6/)
 <!-- POLYGLOTS:END -->
 
 ## Support
