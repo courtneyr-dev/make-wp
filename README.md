@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Fireside chat with Mary Hubbard and Matt Mullenweg](https://wordpress.tv/2025/06/09/fireside-chat-with-mary-hubbard-and-matt-mullenweg/)
+- [WCEU 25: Closing Remarks](https://wordpress.tv/2025/06/09/wceu-25-closing-remarks/)
+- [WCEU 25: Opening Remarks](https://wordpress.tv/2025/06/09/wceu-25-opening-remarks/)
 - [WordPress gems for devs: Interactivity API](https://wordpress.tv/2025/06/07/wordpress-gems-for-devs-interactivity-api-2/)
 - [Building Automated Tests with WordPress Playground](https://wordpress.tv/2025/06/07/building-automated-tests-with-wordpress-playground/)
 - [Turning Stories into Brands: The Blueprint for Women Entrepreneurs on WordPress](https://wordpress.tv/2025/06/07/turning-stories-into-brands-the-blueprint-for-women-entrepreneurs-on-wordpress/)
@@ -372,11 +375,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Prepare for the EAA in less than 3 weeks](https://wordpress.tv/2025/06/07/prepare-for-the-eaa-in-less-than-3-weeks/)
 - [Cyber Resilience Act and WordPress – What to expect?](https://wordpress.tv/2025/06/07/cyber-resilience-act-and-wordpress-what-to-expect/)
 - [Why Block Themes Make WooCommerce Stores Better](https://wordpress.tv/2025/06/07/why-block-themes-make-woocommerce-stores-better/)
-- [Fireside chat with Mary Hubbard and Matt Mullenweg](https://wordpress.tv/2025/06/07/fireside-chat-with-mary-hubbard-and-matt-mullenweg/)
 - [Your backups are at risk and so are you](https://wordpress.tv/2025/06/07/your-backups-are-at-risk-and-so-are-you/)
 - [Over the Rainbow – Talking about inclusivity for the LGBTQIA+ community in WordPress](https://wordpress.tv/2025/06/07/over-the-rainbow-talking-about-inclusivity-for-the-lgbtqia-community-in-wordpress/)
-- [Micro-Communities + WordPress: The Key to Social Impact](https://wordpress.tv/2025/06/07/micro-communities-wordpress-the-key-to-social-impact/)
-- [Tips for hosting a successful WP meetup in your city](https://wordpress.tv/2025/06/07/tips-for-hosting-a-successful-wp-meetup-in-your-city/)
 <!-- WPTV:END -->
 
 ## Marketing
