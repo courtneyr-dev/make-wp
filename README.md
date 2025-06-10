@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The unavoidable truth: WordPress is insecure](https://wordpress.tv/2025/06/10/the-unavoidable-truth-wordpress-is-insecure/)
+- [Anatomy of WordPress Bug Scrub : What &amp; How](https://wordpress.tv/2025/06/10/anatomy-of-wordpress-bug-scrub-what-how/)
+- [Multisite – the hidden champion of large WordPress sites – myths and use cases of WordPress for Ente](https://wordpress.tv/2025/06/10/multisite-the-hidden-champion-of-large-wordpress-sites-myths-and-use-cases-of-wordpress-for-ente/)
+- [From Legacy to Leading: How Are Media Supercharged Their Publishing with Enterprise WordPress](https://wordpress.tv/2025/06/10/from-legacy-to-leading-how-are-media-supercharged-their-publishing-with-enterprise-wordpress/)
+- [How to Grow as a WordPress Developer](https://wordpress.tv/2025/06/10/how-to-grow-as-a-wordpress-developer/)
 - [Fireside chat with Mary Hubbard and Matt Mullenweg](https://wordpress.tv/2025/06/09/fireside-chat-with-mary-hubbard-and-matt-mullenweg/)
 - [WCEU 25: Closing Remarks](https://wordpress.tv/2025/06/09/wceu-25-closing-remarks/)
 - [WCEU 25: Opening Remarks](https://wordpress.tv/2025/06/09/wceu-25-opening-remarks/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hidden in plain site: WordPress 6.6’s Auto-Update Rollback Feature](https://wordpress.tv/2025/06/07/hidden-in-plain-site-wordpress-6-6s-auto-update-rollback-feature/)
 - [From Reactive to Proactive: Modern Observability for WordPress at Scale](https://wordpress.tv/2025/06/07/from-reactive-to-proactive-modern-observability-for-wordpress-at-scale/)
 - [What if we choose accessibility over beauty? My story with epilepsy](https://wordpress.tv/2025/06/07/what-if-we-choose-accessibility-over-beauty-my-story-with-epilepsy/)
-- [Prepare for the EAA in less than 3 weeks](https://wordpress.tv/2025/06/07/prepare-for-the-eaa-in-less-than-3-weeks/)
-- [Cyber Resilience Act and WordPress – What to expect?](https://wordpress.tv/2025/06/07/cyber-resilience-act-and-wordpress-what-to-expect/)
-- [Why Block Themes Make WooCommerce Stores Better](https://wordpress.tv/2025/06/07/why-block-themes-make-woocommerce-stores-better/)
-- [Your backups are at risk and so are you](https://wordpress.tv/2025/06/07/your-backups-are-at-risk-and-so-are-you/)
-- [Over the Rainbow – Talking about inclusivity for the LGBTQIA+ community in WordPress](https://wordpress.tv/2025/06/07/over-the-rainbow-talking-about-inclusivity-for-the-lgbtqia-community-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
