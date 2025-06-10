@@ -325,6 +325,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Week in Test: June 09, 2025](https://make.wordpress.org/test/2025/06/10/week-in-test-june-09-2025/)
+- [WCEU 2025 : Contributor Day Recap](https://make.wordpress.org/test/2025/06/10/wceu-2025-contributor-day-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/test/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [X-post: Test Team Update: 2 June, 2025](https://make.wordpress.org/test/2025/06/02/xpost-test-team-update-2-june-2025/)
 - [The Code Review Flaw in the Workflow](https://make.wordpress.org/test/2025/06/02/the-code-review-flaw-in-the-workflow/)
@@ -333,8 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Get Involved: Core Test Team at WCEU 2025 Contributor Day](https://make.wordpress.org/test/2025/05/27/get-involved-core-test-team-at-wceu-2025-contributor-day/)
 - [Week in Test: May 26, 2025](https://make.wordpress.org/test/2025/05/26/week-in-test-may-26-2025/)
 - [Test Chat Summary: 21st May 2025](https://make.wordpress.org/test/2025/05/23/test-chat-summary-21st-may-2025/)
-- [Team Chat Agenda: 21th May 2025](https://make.wordpress.org/test/2025/05/21/team-chat-agenda-21th-may-2025/)
-- [X-post: Test Team Update: 19 May, 2025](https://make.wordpress.org/test/2025/05/20/xpost-test-team-update-19-may-2025/)
 <!-- TEST:END -->
 
 ## TV
