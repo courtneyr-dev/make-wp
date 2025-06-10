@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-16/)
+- [Gutenberg Developer](https://jobs.wordpress.net/job/gutenberg-developer/)
+- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-18/)
 - [Senior Product Manager](https://jobs.wordpress.net/job/senior-product-manager/)
 - [Water enthusiastic volunteer support sought](https://jobs.wordpress.net/job/water-enthusiastic-volunteer-support-sought/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-865/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Producer / Project Manager &lpar;Remote, Part-Time or Freelance&rpar;](https://jobs.wordpress.net/job/web-producer-project-manager-remote-part-time-or-freelance/)
 - [Web Designer &lpar;Full-Time or Part-Time&rpar;](https://jobs.wordpress.net/job/web-designer-full-time-or-part-time/)
 - [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-864/)
-- [WordPress polishing](https://jobs.wordpress.net/job/wordpress-polishing/)
-- [Developer, Migration, mainaner](https://jobs.wordpress.net/job/developer-migration-mainaner/)
-- [Senior Front End Developer &lpar;WordPress + React/Next.js Expertise&rpar;](https://jobs.wordpress.net/job/senior-front-end-developer-wordpress-react-next-js-expertise/)
 <!-- JOBS:END -->
 
 ## Central
