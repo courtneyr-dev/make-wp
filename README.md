@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for ReGallery](https://make.wordpress.org/polyglots/2025/06/10/pte-request-for-regallery/)
+- [PTE Request for WP Delicious](https://make.wordpress.org/polyglots/2025/06/10/pte-request-for-wp-delicious/)
 - [PTE Request for Document Library…](https://make.wordpress.org/polyglots/2025/06/09/pte-request-for-document-library/)
 - [PTE Request for Lockee](https://make.wordpress.org/polyglots/2025/06/09/pte-request-for-lockee-2/)
 - [PTE Request for ASSISTIO AI plugin](https://make.wordpress.org/polyglots/2025/06/08/pte-request-for-assistio-ai-plugin/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for PTE for Openverse](https://make.wordpress.org/polyglots/2025/06/06/request-for-pte-for-openverse/)
 - [PTE Request for Section Blocks – The Layout Builder for Gutenberg](https://make.wordpress.org/polyglots/2025/06/06/pte-request-for-section-blocks-the-layout-builder-for-gutenberg/)
 - [PTE Request for Rank Math SEO](https://make.wordpress.org/polyglots/2025/06/06/pte-request-for-rank-math-seo-5/)
-- [PTE Request for Contact Form 7](https://make.wordpress.org/polyglots/2025/06/05/pte-request-for-contact-form-7-4/)
-- [PTE Request for Safa Theme](https://make.wordpress.org/polyglots/2025/06/05/pte-request-for-safa-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
