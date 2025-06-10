@@ -523,7 +523,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- JOBS:START -->
 - [Senior Product Manager](https://jobs.wordpress.net/job/senior-product-manager/)
 - [Water enthusiastic volunteer support sought](https://jobs.wordpress.net/job/water-enthusiastic-volunteer-support-sought/)
-- [remove inactive website files](https://jobs.wordpress.net/job/remove-inactive-website-files/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-865/)
 - [Multilingual WordPress Website for B2B Tech Startup &lpar;EN/ES/FR, Template-Based&rpar;](https://jobs.wordpress.net/job/multilingual-wordpress-website-for-b2b-tech-startup-en-es-fr-template-based/)
 - [Web Producer / Project Manager &lpar;Remote, Part-Time or Freelance&rpar;](https://jobs.wordpress.net/job/web-producer-project-manager-remote-part-time-or-freelance/)
@@ -531,6 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-864/)
 - [WordPress polishing](https://jobs.wordpress.net/job/wordpress-polishing/)
 - [Developer, Migration, mainaner](https://jobs.wordpress.net/job/developer-migration-mainaner/)
+- [Senior Front End Developer &lpar;WordPress + React/Next.js Expertise&rpar;](https://jobs.wordpress.net/job/senior-front-end-developer-wordpress-react-next-js-expertise/)
 <!-- JOBS:END -->
 
 ## Central
