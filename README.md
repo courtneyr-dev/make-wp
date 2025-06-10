@@ -561,7 +561,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Galicia 2025](https://central.wordcamp.org/wordcamps/wordcamp-galicia-2025/)
 - [Jornada de Disseny Web amb WordPress Lleida 2025](https://central.wordcamp.org/wordcamps/jornada-disseny-web-lleida-2025/)
 - [WordCamp Montréal 2025](https://central.wordcamp.org/wordcamps/wordcamp-montreal-2025/)
-- [WordCamp Gdynia 2025](https://central.wordcamp.org/wordcamps/wordcamp-gdynia-2025/)
+- [WordCamp Gdynia 2025 EN/PL](https://central.wordcamp.org/wordcamps/wordcamp-gdynia-2025/)
 - [WordCamp Pokhara 2025](https://central.wordcamp.org/wordcamps/wordcamp-pokhara-2025/)
 - [WordCamp Valencia 2025. WordPress Tech Congress.](https://central.wordcamp.org/wordcamps/wordcamp-valencia-2025/)
 - [WP Build Tour Bhopal, M.P.](https://central.wordcamp.org/wordcamps/build-tour-bhopal/)
