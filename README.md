@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [DataViews and DataForms: The future of structured content in WordPress](https://wordpress.tv/2025/06/10/dataviews-and-dataforms-the-future-of-structured-content-in-wordpress/)
 - [From 25 Million to 45 Million Views: Technical Strategies That Fueled RecipeTin Eats’ Growth](https://wordpress.tv/2025/06/10/from-25-million-to-45-million-views-technical-strategies-that-fueled-recipetin-eats-growth/)
 - [Keynote Panel: WordPress in 2030](https://wordpress.tv/2025/06/10/keynote-panel-wordpress-in-2030/)
 - [WordCamp Asia 2025 Closing Keynote](https://wordpress.tv/2025/06/10/wordcamp-asia-2025-closing-keynote/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Client side Web AI Agents for building smarter user experiences in the future](https://wordpress.tv/2025/06/07/client-side-web-ai-agents-for-building-smarter-user-experiences-in-the-future/)
 - [Content strategies that make everybody happy](https://wordpress.tv/2025/06/07/content-strategies-that-make-everybody-happy/)
 - [The worst SEO mistakes I’ve seen on WordPress – so you won’t have to make them](https://wordpress.tv/2025/06/07/the-worst-seo-mistakes-ive-seen-on-wordpress-so-you-wont-have-to-make-them/)
-- [Get your docs read! All the way to the end](https://wordpress.tv/2025/06/07/get-your-docs-read-all-the-way-to-the-end/)
 <!-- WPTV:END -->
 
 ## Marketing
