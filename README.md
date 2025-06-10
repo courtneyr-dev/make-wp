@@ -352,6 +352,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [From 25 Million to 45 Million Views: Technical Strategies That Fueled RecipeTin Eats’ Growth](https://wordpress.tv/2025/06/10/from-25-million-to-45-million-views-technical-strategies-that-fueled-recipetin-eats-growth/)
+- [Keynote Panel: WordPress in 2030](https://wordpress.tv/2025/06/10/keynote-panel-wordpress-in-2030/)
+- [WordCamp Asia 2025 Closing Keynote](https://wordpress.tv/2025/06/10/wordcamp-asia-2025-closing-keynote/)
+- [Breaking Barriers: The Freelancer’s Evolution into Entrepreneurship](https://wordpress.tv/2025/06/10/breaking-barriers-the-freelancers-evolution-into-entrepreneurship/)
+- [WordPress Speed Build Challenge](https://wordpress.tv/2025/06/10/wordpress-speed-build-challenge/)
+- [Diversity in Tech](https://wordpress.tv/2025/06/10/diversity-in-tech/)
+- [Open talk about Open Source: back to the basics of GPL, what it means, and why it matters](https://wordpress.tv/2025/06/10/open-talk-about-open-source-back-to-the-basics-of-gpl-what-it-means-and-why-it-matters/)
 - [The unavoidable truth: WordPress is insecure](https://wordpress.tv/2025/06/10/the-unavoidable-truth-wordpress-is-insecure/)
 - [Anatomy of WordPress Bug Scrub : What &amp; How](https://wordpress.tv/2025/06/10/anatomy-of-wordpress-bug-scrub-what-how/)
 - [Multisite – the hidden champion of large WordPress sites – myths and use cases of WordPress for Ente](https://wordpress.tv/2025/06/10/multisite-the-hidden-champion-of-large-wordpress-sites-myths-and-use-cases-of-wordpress-for-ente/)
@@ -370,13 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Content strategies that make everybody happy](https://wordpress.tv/2025/06/07/content-strategies-that-make-everybody-happy/)
 - [The worst SEO mistakes I’ve seen on WordPress – so you won’t have to make them](https://wordpress.tv/2025/06/07/the-worst-seo-mistakes-ive-seen-on-wordpress-so-you-wont-have-to-make-them/)
 - [Get your docs read! All the way to the end](https://wordpress.tv/2025/06/07/get-your-docs-read-all-the-way-to-the-end/)
-- [The footer is no longer a forgotten corner](https://wordpress.tv/2025/06/07/the-footer-is-no-longer-a-forgotten-corner/)
-- [WaaS for Agencies: Opportunities, Challenges &amp; Pricing Impact](https://wordpress.tv/2025/06/07/waas-for-agencies-opportunities-challenges-pricing-impact/)
-- [Speak your users’ language: what to look out for when going global](https://wordpress.tv/2025/06/07/speak-your-users-language-what-to-look-out-for-when-going-global-2/)
-- [Multilingual WordPress for developers](https://wordpress.tv/2025/06/07/multilingual-wordpress-for-developers/)
-- [Hidden in plain site: WordPress 6.6’s Auto-Update Rollback Feature](https://wordpress.tv/2025/06/07/hidden-in-plain-site-wordpress-6-6s-auto-update-rollback-feature/)
-- [From Reactive to Proactive: Modern Observability for WordPress at Scale](https://wordpress.tv/2025/06/07/from-reactive-to-proactive-modern-observability-for-wordpress-at-scale/)
-- [What if we choose accessibility over beauty? My story with epilepsy](https://wordpress.tv/2025/06/07/what-if-we-choose-accessibility-over-beauty-my-story-with-epilepsy/)
 <!-- WPTV:END -->
 
 ## Marketing
