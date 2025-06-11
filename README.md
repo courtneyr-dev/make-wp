@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/docs/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/docs/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Summary for Discussion Meeting &lpar;06-May-2025&rpar;](https://make.wordpress.org/docs/2025/05/07/summary-for-discussion-meeting-06-may-2025/)
 - [Summary for Discussion Meeting &lpar;29 April 2025&rpar;](https://make.wordpress.org/docs/2025/04/29/summary-for-discussion-meeting-29-april-2025/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Announcement] New meeting times for the Documentation Team](https://make.wordpress.org/docs/2025/04/10/announcement-new-meeting-times-for-the-documentation-team/)
 - [Proposal – the Documentation team meetings time](https://make.wordpress.org/docs/2025/04/02/proposal-the-documentation-team-meetings-time/)
 - [Summary for Discussion Meeting &lpar;01-Apr-2025&rpar;](https://make.wordpress.org/docs/2025/04/02/summary-for-discussion-meeting-01-apr-2025/)
-- [Summary for Discussion Meeting &lpar;04-Mar-2025&rpar;](https://make.wordpress.org/docs/2025/03/06/summary-for-discussion-meeting-04-mar-2025/)
 <!-- DOCS:END -->
 
 ### Support Articles
