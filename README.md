@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/accessibility/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
 - [Start project “Accessibility documentation” on WordCamp Europe 2025.](https://make.wordpress.org/accessibility/2025/06/11/start-project-accessibility-documentation-on-wordcamp-europe-2025/)
 - [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/accessibility/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/accessibility/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: April 02, 2025](https://make.wordpress.org/accessibility/2025/03/30/accessibility-team-meeting-agenda-april-02-2025/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/accessibility/2025/03/04/xpost-help-test-wordpress-6-8/)
 - [Accessibility Team Meeting Agenda: Mar 05, 2025](https://make.wordpress.org/accessibility/2025/03/03/accessibility-team-meeting-agenda-mar-05-2025/)
-- [Accessibility Team Meeting Agenda: Feb 05, 2025](https://make.wordpress.org/accessibility/2025/02/03/accessibility-team-meeting-agenda-feb-05-2025/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
