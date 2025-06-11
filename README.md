@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for PTE for Kids English Alphabet](https://make.wordpress.org/polyglots/2025/06/11/request-for-pte-for-kids-english-alphabet/)
+- [Hello! I have trasnlated the…](https://make.wordpress.org/polyglots/2025/06/11/hello-i-have-trasnlated-the/)
 - [PTE Request for AnyNews Theme](https://make.wordpress.org/polyglots/2025/06/11/pte-request-for-anynews-theme/)
 - [PTE Request for Openverse](https://make.wordpress.org/polyglots/2025/06/11/pte-request-for-openverse-5/)
 - [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2025/06/10/pte-request-for-independent-analytics-4/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Team](https://make.wordpress.org/polyglots/2025/06/10/hello-team-3/)
 - [PTE Request for ReGallery](https://make.wordpress.org/polyglots/2025/06/10/pte-request-for-regallery/)
 - [PTE Request for WP Delicious](https://make.wordpress.org/polyglots/2025/06/10/pte-request-for-wp-delicious/)
-- [PTE Request for Document Library…](https://make.wordpress.org/polyglots/2025/06/09/pte-request-for-document-library/)
-- [PTE Request for Lockee](https://make.wordpress.org/polyglots/2025/06/09/pte-request-for-lockee-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
