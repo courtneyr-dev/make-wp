@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Growth Analyst &lpar;Stripe, Mixpanel, Google Analytics, GA4, Google Optimize, Hotjar&rpar;](https://jobs.wordpress.net/job/growth-analyst-stripe-mixpanel-google-analytics-ga4-google-optimize-hotjar/)
+- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-16/)
+- [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology-2/)
+- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-6/)
+- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-26/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-16/)
 - [Gutenberg Developer](https://jobs.wordpress.net/job/gutenberg-developer/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-18/)
 - [Senior Product Manager](https://jobs.wordpress.net/job/senior-product-manager/)
 - [Water enthusiastic volunteer support sought](https://jobs.wordpress.net/job/water-enthusiastic-volunteer-support-sought/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-865/)
-- [Multilingual WordPress Website for B2B Tech Startup &lpar;EN/ES/FR, Template-Based&rpar;](https://jobs.wordpress.net/job/multilingual-wordpress-website-for-b2b-tech-startup-en-es-fr-template-based/)
-- [Web Producer / Project Manager &lpar;Remote, Part-Time or Freelance&rpar;](https://jobs.wordpress.net/job/web-producer-project-manager-remote-part-time-or-freelance/)
-- [Web Designer &lpar;Full-Time or Part-Time&rpar;](https://jobs.wordpress.net/job/web-designer-full-time-or-part-time/)
-- [WORDPRESS DEVELOPER](https://jobs.wordpress.net/job/wordpress-developer-864/)
 <!-- JOBS:END -->
 
 ## Central
