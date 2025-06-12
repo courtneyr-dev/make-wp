@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-866/)
 - [Growth Analyst &lpar;Stripe, Mixpanel, Google Analytics, GA4, Google Optimize, Hotjar&rpar;](https://jobs.wordpress.net/job/growth-analyst-stripe-mixpanel-google-analytics-ga4-google-optimize-hotjar/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-16/)
 - [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology-2/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gutenberg Developer](https://jobs.wordpress.net/job/gutenberg-developer/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-18/)
 - [Senior Product Manager](https://jobs.wordpress.net/job/senior-product-manager/)
-- [Water enthusiastic volunteer support sought](https://jobs.wordpress.net/job/water-enthusiastic-volunteer-support-sought/)
 <!-- JOBS:END -->
 
 ## Central
