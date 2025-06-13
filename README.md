@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [New Handbook Page for WordPress Campus Connect](https://make.wordpress.org/community/2025/06/13/new-handbook-page-for-wordpress-campus-connect/)
 - [🌍 WCEU 2025 Contributor Day: Community Team Recap](https://make.wordpress.org/community/2025/06/12/%f0%9f%8c%8d-wceu-2025-contributor-day-community-team-recap/)
 - [Community Team Meeting Agenda for 12 – June -2025](https://make.wordpress.org/community/2025/06/11/community-team-meeting-agenda-for-12-june-2025/)
 - [Vote for the new WordPress Campus Connect logo!](https://make.wordpress.org/community/2025/06/11/vote-for-the-new-wordpress-campus-connect-logo/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Women in WordPress: A Recap of Our International Women’s Day WordPress Events](https://make.wordpress.org/community/2025/05/14/women-in-wordpress-a-recap-of-our-international-womens-day-wordpress-events/)
 - [Calling Designers: Help Us Create the WordPress Campus Connect Logo!](https://make.wordpress.org/community/2025/05/12/calling-designers-help-us-create-the-wordpress-campus-connect-logo/)
 - [Community Team Meeting Agenda for 08 – May -2025](https://make.wordpress.org/community/2025/05/07/community-team-meeting-agenda-for-08-may-2025/)
-- [Checking in with our Event and Program Supporters](https://make.wordpress.org/community/2025/05/07/checking-in-with-our-event-and-program-supporters/)
 <!-- COMMUNITY:END -->
 
 ## Meta
