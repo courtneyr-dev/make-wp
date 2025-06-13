@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Need PHP developer](https://jobs.wordpress.net/job/need-php-developer/)
+- [Full Stack PHP &amp; REACT Developer &lpar;WordPress&rpar; – Burst Statistics BV](https://jobs.wordpress.net/job/full-stack-php-react-developer-wordpress-burst-statistics-bv/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-866/)
 - [Growth Analyst &lpar;Stripe, Mixpanel, Google Analytics, GA4, Google Optimize, Hotjar&rpar;](https://jobs.wordpress.net/job/growth-analyst-stripe-mixpanel-google-analytics-ga4-google-optimize-hotjar/)
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-16/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-26/)
 - [WP Frontend/Full-Stack Developer &lpar;Contractor&rpar;](https://jobs.wordpress.net/job/wp-frontend-full-stack-developer-contractor/)
 - [[Astra] Senior WordPress Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-developer-16/)
-- [Gutenberg Developer](https://jobs.wordpress.net/job/gutenberg-developer/)
-- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-18/)
 <!-- JOBS:END -->
 
 ## Central
