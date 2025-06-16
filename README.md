@@ -561,6 +561,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Galicia 2025](https://central.wordcamp.org/wordcamps/wordcamp-galicia-2025/)
 - [Jornada de Disseny Web amb WordPress Lleida 2025](https://central.wordcamp.org/wordcamps/jornada-disseny-web-lleida-2025/)
 - [WordCamp Montréal 2025](https://central.wordcamp.org/wordcamps/wordcamp-montreal-2025/)
+- [WordCamp Lira 2025](https://central.wordcamp.org/wordcamps/wordcamp-lira-2025/)
 - [WordCamp Gdynia 2025 EN/PL](https://central.wordcamp.org/wordcamps/wordcamp-gdynia-2025/)
 - [WordCamp Pokhara 2025](https://central.wordcamp.org/wordcamps/wordcamp-pokhara-2025/)
 - [WordCamp Valencia 2025. WordPress Tech Congress.](https://central.wordcamp.org/wordcamps/wordcamp-valencia-2025/)
@@ -568,7 +569,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Pisa, Tuscany, Italy](https://central.wordcamp.org/wordcamps/wordcamp-pisa-2025/)
 - [WordCamp San Jose 2025](https://central.wordcamp.org/wordcamps/wordcamp-san-jose-2025/)
 - [WordCamp Brisbane, Australia](https://central.wordcamp.org/wordcamps/brisbane-2025/)
-- [WordCamp Toulouse 2025](https://central.wordcamp.org/wordcamps/wordcamp-toulouse-2025/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
