@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/17/i-am-the-plugin-author-64/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2025/06/17/post-title-pte-request-for-67/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/06/17/hello-polyglots-316/)
 - [A structured process for addressing inconsistent translations](https://make.wordpress.org/polyglots/2025/06/16/a-structured-process-for-addressing-inconsistent-translations/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/06/12/hi-dear-mentors-we-have-180/)
 - [Request for PTE for Kids English Alphabet](https://make.wordpress.org/polyglots/2025/06/11/request-for-pte-for-kids-english-alphabet/)
 - [Hello! I have trasnlated the…](https://make.wordpress.org/polyglots/2025/06/11/hello-i-have-trasnlated-the/)
-- [PTE Request for AnyNews Theme](https://make.wordpress.org/polyglots/2025/06/11/pte-request-for-anynews-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
