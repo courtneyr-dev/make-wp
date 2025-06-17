@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 17 June 2025](https://make.wordpress.org/core/2025/06/17/performance-chat-summary-17-june-2025/)
 - [Dev Chat Agenda – June 18, 2025](https://make.wordpress.org/core/2025/06/17/dev-chat-agenda-june-18-2025/)
 - [WordPress 6.8.2 Release Schedule](https://make.wordpress.org/core/2025/06/17/wordpress-6-8-2-release-schedule/)
 - [X-post: Introducing a new SQLite driver for WordPress](https://make.wordpress.org/core/2025/06/15/xpost-introducing-a-new-sqlite-driver-for-wordpress/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Agenda – June 4, 2025](https://make.wordpress.org/core/2025/06/03/dev-chat-agenda-june-4-2025/)
 - [Performance Chat Summary: 3 June 2025](https://make.wordpress.org/core/2025/06/03/performance-chat-summary-3-june-2025/)
 - [X-post: A Month in Core — May 2025](https://make.wordpress.org/core/2025/06/03/xpost-a-month-in-core-may-2025/)
-- [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/core/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 <!-- CORE:END -->
 
 ## Design
