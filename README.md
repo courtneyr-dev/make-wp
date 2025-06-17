@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/06/17/hello-polyglots-316/)
 - [A structured process for addressing inconsistent translations](https://make.wordpress.org/polyglots/2025/06/16/a-structured-process-for-addressing-inconsistent-translations/)
 - [Glossary Entry: Handling HTML Entities in Translations](https://make.wordpress.org/polyglots/2025/06/14/glossary-entry-handling-html-entities-in-translations/)
 - [X-post: Polyglots Week in Review: June 12, 2025](https://make.wordpress.org/polyglots/2025/06/12/xpost-polyglots-week-in-review-june-12-2025/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello! I have trasnlated the…](https://make.wordpress.org/polyglots/2025/06/11/hello-i-have-trasnlated-the/)
 - [PTE Request for AnyNews Theme](https://make.wordpress.org/polyglots/2025/06/11/pte-request-for-anynews-theme/)
 - [PTE Request for Openverse](https://make.wordpress.org/polyglots/2025/06/11/pte-request-for-openverse-5/)
-- [PTE Request for Independent Analytics](https://make.wordpress.org/polyglots/2025/06/10/pte-request-for-independent-analytics-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
