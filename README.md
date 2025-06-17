@@ -69,7 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [&lpar;Post Title&rpar; PTE Request for…](https://make.wordpress.org/polyglots/2025/06/17/post-title-pte-request-for-67/)
+- [PTE Request for…](https://make.wordpress.org/polyglots/2025/06/17/post-title-pte-request-for-67/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/06/17/hello-polyglots-316/)
 - [A structured process for addressing inconsistent translations](https://make.wordpress.org/polyglots/2025/06/16/a-structured-process-for-addressing-inconsistent-translations/)
 - [Glossary Entry: Handling HTML Entities in Translations](https://make.wordpress.org/polyglots/2025/06/14/glossary-entry-handling-html-entities-in-translations/)
