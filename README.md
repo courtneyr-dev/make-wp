@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Las ventajas de tener una IA Local, charla y taller práctico](https://wordpress.tv/2025/06/17/las-ventajas-de-tener-una-ia-local-charla-y-taller-practico/)
+- [Cómo introducirte al mundo digital de manera rápida](https://wordpress.tv/2025/06/17/como-introducirte-al-mundo-digital-de-manera-rapida/)
+- [Te enseño a que tu marca arrase en Instagram sin invertir ni 1€ en publicidad](https://wordpress.tv/2025/06/17/te-enseno-a-que-tu-marca-arrase-en-instagram-sin-invertir-ni-1e-en-publicidad/)
 - [Training Team WordCamp Europe 2025 Contributor Day Online](https://wordpress.tv/2025/06/12/training-team-wordcamp-europe-2025-contributor-day-online/)
 - [DataViews and DataForms: The future of structured content in WordPress](https://wordpress.tv/2025/06/10/dataviews-and-dataforms-the-future-of-structured-content-in-wordpress/)
 - [From 25 Million to 45 Million Views: Technical Strategies That Fueled RecipeTin Eats’ Growth](https://wordpress.tv/2025/06/10/from-25-million-to-45-million-views-technical-strategies-that-fueled-recipetin-eats-growth/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Turning Stories into Brands: The Blueprint for Women Entrepreneurs on WordPress](https://wordpress.tv/2025/06/07/turning-stories-into-brands-the-blueprint-for-women-entrepreneurs-on-wordpress/)
 - [What you’re missing if you don’t have your own WordPress](https://wordpress.tv/2025/06/07/what-youre-missing-if-you-dont-have-your-own-wordpress/)
 - [Accessibility in Reality: Pro Helvetia, a Swiss case study](https://wordpress.tv/2025/06/07/accessibility-in-reality-pro-helvetia-a-swiss-case-study/)
-- [Mythbusting and Q&amp;A about appearing in Google Search](https://wordpress.tv/2025/06/07/mythbusting-and-qa-about-appearing-in-google-search/)
-- [Client side Web AI Agents for building smarter user experiences in the future](https://wordpress.tv/2025/06/07/client-side-web-ai-agents-for-building-smarter-user-experiences-in-the-future/)
-- [Content strategies that make everybody happy](https://wordpress.tv/2025/06/07/content-strategies-that-make-everybody-happy/)
 <!-- WPTV:END -->
 
 ## Marketing
