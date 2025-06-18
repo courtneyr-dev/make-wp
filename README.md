@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Polyglots Table: A Recap from WordCamp Europe 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/06/18/polyglots-table-a-recap-from-wordcamp-europe-2025-contributor-day/)
+- [PTE Request for StoreLinkforMC](https://make.wordpress.org/polyglots/2025/06/18/pte-request-for-storelinkformc/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2025/06/17/im-the-author-of-the-3/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/17/i-am-the-plugin-author-64/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2025/06/17/post-title-pte-request-for-67/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Glossary Entry: Handling HTML Entities in Translations](https://make.wordpress.org/polyglots/2025/06/14/glossary-entry-handling-html-entities-in-translations/)
 - [X-post: Polyglots Week in Review: June 12, 2025](https://make.wordpress.org/polyglots/2025/06/12/xpost-polyglots-week-in-review-june-12-2025/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/06/12/hi-dear-mentors-we-have-181/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/06/12/hi-dear-mentors-we-have-180/)
-- [Request for PTE for Kids English Alphabet](https://make.wordpress.org/polyglots/2025/06/11/request-for-pte-for-kids-english-alphabet/)
 <!-- POLYGLOTS:END -->
 
 ## Support
