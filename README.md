@@ -521,8 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Google site to WordPress](https://jobs.wordpress.net/job/google-site-to-wordpress/)
 - [Senior WordPress Plugins Developer](https://jobs.wordpress.net/job/senior-wordpress-plugins-developer-2/)
-- [Website developer](https://jobs.wordpress.net/job/website-developer-29/)
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-6/)
 - [Need PHP developer](https://jobs.wordpress.net/job/need-php-developer/)
 - [Full Stack PHP &amp; REACT Developer &lpar;WordPress&rpar; – Burst Statistics BV](https://jobs.wordpress.net/job/full-stack-php-react-developer-wordpress-burst-statistics-bv/)
