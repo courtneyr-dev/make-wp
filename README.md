@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Polyglots Week in Review: June 18, 2025](https://make.wordpress.org/polyglots/2025/06/18/xpost-polyglots-week-in-review-june-18-2025/)
 - [Agenda: Weekly Polyglots Chat – June 18, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/06/18/agenda-weekly-polyglots-chat-june-18-2025-1300-utc/)
 - [Polyglots Table: A Recap from WordCamp Europe 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/06/18/polyglots-table-a-recap-from-wordcamp-europe-2025-contributor-day/)
 - [PTE Request for StoreLinkforMC](https://make.wordpress.org/polyglots/2025/06/18/pte-request-for-storelinkformc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/06/17/hello-polyglots-316/)
 - [A structured process for addressing inconsistent translations](https://make.wordpress.org/polyglots/2025/06/16/a-structured-process-for-addressing-inconsistent-translations/)
 - [Glossary Entry: Handling HTML Entities in Translations](https://make.wordpress.org/polyglots/2025/06/14/glossary-entry-handling-html-entities-in-translations/)
-- [X-post: Polyglots Week in Review: June 12, 2025](https://make.wordpress.org/polyglots/2025/06/12/xpost-polyglots-week-in-review-june-12-2025/)
 <!-- POLYGLOTS:END -->
 
 ## Support
