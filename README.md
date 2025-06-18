@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior WordPress Plugins Developer](https://jobs.wordpress.net/job/senior-wordpress-plugins-developer-2/)
 - [Website developer](https://jobs.wordpress.net/job/website-developer-29/)
 - [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-6/)
 - [Need PHP developer](https://jobs.wordpress.net/job/need-php-developer/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-16/)
 - [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology-2/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-6/)
-- [WordPress Support Specialist at CampusPress &lpar;PHP, MySQL, CSS, HTML&rpar;](https://jobs.wordpress.net/job/wordpress-support-specialist-at-campuspress-php-mysql-css-html-26/)
 <!-- JOBS:END -->
 
 ## Central
