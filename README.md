@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, June 18, 2025](https://make.wordpress.org/core/2025/06/19/summary-dev-chat-june-18-2025/)
 - [X-post: Security updates will cease for WordPress versions 4.1 through 4.6](https://make.wordpress.org/core/2025/06/19/xpost-security-updates-will-cease-for-wordpress-versions-4-1-through-4-6/)
 - [Performance Chat Summary: 17 June 2025](https://make.wordpress.org/core/2025/06/17/performance-chat-summary-17-june-2025/)
 - [Dev Chat Agenda – June 18, 2025](https://make.wordpress.org/core/2025/06/17/dev-chat-agenda-june-18-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/core/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [X-post: The Code Review Flaw in the Workflow](https://make.wordpress.org/core/2025/06/04/xpost-the-code-review-flaw-in-the-workflow/)
 - [Dev Chat Agenda – June 4, 2025](https://make.wordpress.org/core/2025/06/03/dev-chat-agenda-june-4-2025/)
-- [Performance Chat Summary: 3 June 2025](https://make.wordpress.org/core/2025/06/03/performance-chat-summary-3-june-2025/)
 <!-- CORE:END -->
 
 ## Design
