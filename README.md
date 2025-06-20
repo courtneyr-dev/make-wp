@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Por qué vende Mercado Libre &lpar;o Amazon&rpar; más que tú?](https://wordpress.tv/2025/06/20/por-que-vende-mercado-libre-o-amazon-mas-que-tu/)
 - [Beyond the Build: Navigating the Full Life Cycle of a Website](https://wordpress.tv/2025/06/20/beyond-the-build-navigating-the-full-life-cycle-of-a-website/)
 - [Accelerating Performance and Scalability for Dynamic WordPress Sites](https://wordpress.tv/2025/06/20/accelerating-performance-and-scalability-for-dynamic-wordpress-sites/)
 - [Stand Out in Google Search: Visual SEO Tips for WordPress Sites](https://wordpress.tv/2025/06/20/stand-out-in-google-search-visual-seo-tips-for-wordpress-sites/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fireside chat with Mary Hubbard and Matt Mullenweg](https://wordpress.tv/2025/06/09/fireside-chat-with-mary-hubbard-and-matt-mullenweg/)
 - [WCEU 25: Closing Remarks](https://wordpress.tv/2025/06/09/wceu-25-closing-remarks/)
 - [WCEU 25: Opening Remarks](https://wordpress.tv/2025/06/09/wceu-25-opening-remarks/)
-- [WordPress gems for devs: Interactivity API](https://wordpress.tv/2025/06/07/wordpress-gems-for-devs-interactivity-api-2/)
 <!-- WPTV:END -->
 
 ## Marketing
