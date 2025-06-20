@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’m the Contributor of the…](https://make.wordpress.org/polyglots/2025/06/20/im-the-contributor-of-the/)
 - [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/06/20/pte-request-for-easybuy-theme/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/06/19/hello-97/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/06/19/hi-dear-mentors-we-have-182/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Polyglots Table: A Recap from WordCamp Europe 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/06/18/polyglots-table-a-recap-from-wordcamp-europe-2025-contributor-day/)
 - [PTE Request for StoreLinkforMC](https://make.wordpress.org/polyglots/2025/06/18/pte-request-for-storelinkformc/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2025/06/17/im-the-author-of-the-3/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/06/17/i-am-the-plugin-author-64/)
 <!-- POLYGLOTS:END -->
 
 ## Support
