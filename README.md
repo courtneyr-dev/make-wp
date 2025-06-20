@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Beyond the Build: Navigating the Full Life Cycle of a Website](https://wordpress.tv/2025/06/20/beyond-the-build-navigating-the-full-life-cycle-of-a-website/)
+- [Accelerating Performance and Scalability for Dynamic WordPress Sites](https://wordpress.tv/2025/06/20/accelerating-performance-and-scalability-for-dynamic-wordpress-sites/)
+- [Stand Out in Google Search: Visual SEO Tips for WordPress Sites](https://wordpress.tv/2025/06/20/stand-out-in-google-search-visual-seo-tips-for-wordpress-sites/)
+- [5 Design Fixes That Instantly Improve ANY Website](https://wordpress.tv/2025/06/20/5-design-fixes-that-instantly-improve-any-website/)
 - [Las ventajas de tener una IA Local, charla y taller práctico](https://wordpress.tv/2025/06/17/las-ventajas-de-tener-una-ia-local-charla-y-taller-practico/)
 - [Cómo introducirte al mundo digital de manera rápida](https://wordpress.tv/2025/06/17/como-introducirte-al-mundo-digital-de-manera-rapida/)
 - [Te enseño a que tu marca arrase en Instagram sin invertir ni 1€ en publicidad](https://wordpress.tv/2025/06/17/te-enseno-a-que-tu-marca-arrase-en-instagram-sin-invertir-ni-1e-en-publicidad/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WCEU 25: Closing Remarks](https://wordpress.tv/2025/06/09/wceu-25-closing-remarks/)
 - [WCEU 25: Opening Remarks](https://wordpress.tv/2025/06/09/wceu-25-opening-remarks/)
 - [WordPress gems for devs: Interactivity API](https://wordpress.tv/2025/06/07/wordpress-gems-for-devs-interactivity-api-2/)
-- [Building Automated Tests with WordPress Playground](https://wordpress.tv/2025/06/07/building-automated-tests-with-wordpress-playground/)
-- [Turning Stories into Brands: The Blueprint for Women Entrepreneurs on WordPress](https://wordpress.tv/2025/06/07/turning-stories-into-brands-the-blueprint-for-women-entrepreneurs-on-wordpress/)
-- [What you’re missing if you don’t have your own WordPress](https://wordpress.tv/2025/06/07/what-youre-missing-if-you-dont-have-your-own-wordpress/)
-- [Accessibility in Reality: Pro Helvetia, a Swiss case study](https://wordpress.tv/2025/06/07/accessibility-in-reality-pro-helvetia-a-swiss-case-study/)
 <!-- WPTV:END -->
 
 ## Marketing
