@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Plugins pre-commit block request](https://make.wordpress.org/systems/2025/06/20/plugins-pre-commit-block-request/)
 - [Facebook Sharer blocked from ps.w.org CDN](https://make.wordpress.org/systems/2025/05/27/facebook-sharer-blocked-from-ps-w-org-cdn/)
 - [WordPress Campus Connect – Custom subdomain](https://make.wordpress.org/systems/2025/05/21/wordpress-campus-connect-custom-subdomain/)
 - [Mailing lists subscription functions broken.](https://make.wordpress.org/systems/2025/05/02/mailing-lists-subscription-functions-broken/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Remove mu.wordpress.org’s deprecated forums](https://make.wordpress.org/systems/2025/01/07/remove-mu-wordpress-orgs-deprecated-forums/)
 - [IP routing issues / IP Blocked?](https://make.wordpress.org/systems/2025/01/07/ip-routing-issues-ip-blocked/)
 - [HelpScout forward: polyglots@wordpress.org Can we…](https://make.wordpress.org/systems/2024/11/26/helpscout-forward-polyglotswordpress-org-can-we/)
-- [CORS headers for ps.w.org &amp; ts.w.org](https://make.wordpress.org/systems/2024/10/15/cors-headers-for-ps-w-org-ts-w-org/)
 <!-- SYSTEMS:END -->
 
 ## News
