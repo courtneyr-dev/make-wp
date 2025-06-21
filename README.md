@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nouvelles obligations d’accessibilité pour les PME et l’e-commerce … Serez-vous prêt à temps ?](https://wordpress.tv/2025/06/21/nouvelles-obligations-daccessibilite-pour-les-pme-et-le-commerce-serez-vous-pret-a-temps/)
+- [Full Site Editing : une méthodologie en 5 étapes pour créer vos sites plus rapidement](https://wordpress.tv/2025/06/21/full-site-editing-une-methodologie-en-5-etapes-pour-creer-vos-sites-plus-rapidement/)
 - [Et si on se créait un plugin WP ensemble avec l’IA ?](https://wordpress.tv/2025/06/20/et-si-on-se-creait-un-plugin-wp-ensemble-avec-lia/)
 - [Le cache objet au service de l’écoconception](https://wordpress.tv/2025/06/20/le-cache-objet-au-service-de-lecoconception/)
 - [¿Por qué vende Mercado Libre &lpar;o Amazon&rpar; más que tú?](https://wordpress.tv/2025/06/20/por-que-vende-mercado-libre-o-amazon-mas-que-tu/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Anatomy of WordPress Bug Scrub : What &amp; How](https://wordpress.tv/2025/06/10/anatomy-of-wordpress-bug-scrub-what-how/)
 - [Multisite – the hidden champion of large WordPress sites – myths and use cases of WordPress for Ente](https://wordpress.tv/2025/06/10/multisite-the-hidden-champion-of-large-wordpress-sites-myths-and-use-cases-of-wordpress-for-ente/)
 - [From Legacy to Leading: How Are Media Supercharged Their Publishing with Enterprise WordPress](https://wordpress.tv/2025/06/10/from-legacy-to-leading-how-are-media-supercharged-their-publishing-with-enterprise-wordpress/)
-- [How to Grow as a WordPress Developer](https://wordpress.tv/2025/06/10/how-to-grow-as-a-wordpress-developer/)
-- [Fireside chat with Mary Hubbard and Matt Mullenweg](https://wordpress.tv/2025/06/09/fireside-chat-with-mary-hubbard-and-matt-mullenweg/)
 <!-- WPTV:END -->
 
 ## Marketing
