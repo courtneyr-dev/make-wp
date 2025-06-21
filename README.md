@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Le bon, la brute et le truand des médias](https://wordpress.tv/2025/06/21/le-bon-la-brute-et-le-truand-des-medias/)
 - [Nouvelles obligations d’accessibilité pour les PME et l’e-commerce … Serez-vous prêt à temps ?](https://wordpress.tv/2025/06/21/nouvelles-obligations-daccessibilite-pour-les-pme-et-le-commerce-serez-vous-pret-a-temps/)
 - [Full Site Editing : une méthodologie en 5 étapes pour créer vos sites plus rapidement](https://wordpress.tv/2025/06/21/full-site-editing-une-methodologie-en-5-etapes-pour-creer-vos-sites-plus-rapidement/)
 - [Et si on se créait un plugin WP ensemble avec l’IA ?](https://wordpress.tv/2025/06/20/et-si-on-se-creait-un-plugin-wp-ensemble-avec-lia/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The unavoidable truth: WordPress is insecure](https://wordpress.tv/2025/06/10/the-unavoidable-truth-wordpress-is-insecure/)
 - [Anatomy of WordPress Bug Scrub : What &amp; How](https://wordpress.tv/2025/06/10/anatomy-of-wordpress-bug-scrub-what-how/)
 - [Multisite – the hidden champion of large WordPress sites – myths and use cases of WordPress for Ente](https://wordpress.tv/2025/06/10/multisite-the-hidden-champion-of-large-wordpress-sites-myths-and-use-cases-of-wordpress-for-ente/)
-- [From Legacy to Leading: How Are Media Supercharged Their Publishing with Enterprise WordPress](https://wordpress.tv/2025/06/10/from-legacy-to-leading-how-are-media-supercharged-their-publishing-with-enterprise-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
