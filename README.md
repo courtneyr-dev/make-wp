@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [HTML to Gutenberg : le développement de blocs Gutenberg accessible à tous](https://wordpress.tv/2025/06/21/html-to-gutenberg-le-developpement-de-blocs-gutenberg-accessible-a-tous/)
+- [Google Search Console : votre meilleur allié &lpar;mal compris&rpar;](https://wordpress.tv/2025/06/21/google-search-console-votre-meilleur-allie-mal-compris/)
 - [Contrat de conception de site web, comment se protéger ?](https://wordpress.tv/2025/06/21/contrat-de-conception-de-site-web-comment-se-proteger/)
 - [Débat Amaury Balmer + Xavier Mouton-Dubosc animé par Eddy Boels](https://wordpress.tv/2025/06/21/debat-amaury-balmer-xavier-mouton-dubosc-anime-par-eddy-boels/)
 - [Et si vous n’aviez pas besoin de coder ce bloc Gutenberg sur-mesure ?](https://wordpress.tv/2025/06/21/et-si-vous-naviez-pas-besoin-de-coder-ce-bloc-gutenberg-sur-mesure/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Asia 2025 Closing Keynote](https://wordpress.tv/2025/06/10/wordcamp-asia-2025-closing-keynote/)
 - [Breaking Barriers: The Freelancer’s Evolution into Entrepreneurship](https://wordpress.tv/2025/06/10/breaking-barriers-the-freelancers-evolution-into-entrepreneurship/)
 - [WordPress Speed Build Challenge](https://wordpress.tv/2025/06/10/wordpress-speed-build-challenge/)
-- [Diversity in Tech](https://wordpress.tv/2025/06/10/diversity-in-tech/)
-- [Open talk about Open Source: back to the basics of GPL, what it means, and why it matters](https://wordpress.tv/2025/06/10/open-talk-about-open-source-back-to-the-basics-of-gpl-what-it-means-and-why-it-matters/)
 <!-- WPTV:END -->
 
 ## Marketing
