@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Contrat de conception de site web, comment se protéger ?](https://wordpress.tv/2025/06/21/contrat-de-conception-de-site-web-comment-se-proteger/)
 - [Débat Amaury Balmer + Xavier Mouton-Dubosc animé par Eddy Boels](https://wordpress.tv/2025/06/21/debat-amaury-balmer-xavier-mouton-dubosc-anime-par-eddy-boels/)
 - [Et si vous n’aviez pas besoin de coder ce bloc Gutenberg sur-mesure ?](https://wordpress.tv/2025/06/21/et-si-vous-naviez-pas-besoin-de-coder-ce-bloc-gutenberg-sur-mesure/)
 - [Le bon, la brute et le truand des médias](https://wordpress.tv/2025/06/21/le-bon-la-brute-et-le-truand-des-medias/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Speed Build Challenge](https://wordpress.tv/2025/06/10/wordpress-speed-build-challenge/)
 - [Diversity in Tech](https://wordpress.tv/2025/06/10/diversity-in-tech/)
 - [Open talk about Open Source: back to the basics of GPL, what it means, and why it matters](https://wordpress.tv/2025/06/10/open-talk-about-open-source-back-to-the-basics-of-gpl-what-it-means-and-why-it-matters/)
-- [The unavoidable truth: WordPress is insecure](https://wordpress.tv/2025/06/10/the-unavoidable-truth-wordpress-is-insecure/)
 <!-- WPTV:END -->
 
 ## Marketing
