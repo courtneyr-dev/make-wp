@@ -27,6 +27,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/design/2025/06/25/xpost-a-little-late-spring-cleaning/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/design/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/design/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
 - [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/design/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/design/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
@@ -35,8 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Roster of design tools per block &lpar;WordPress 6.8 edition&rpar;](https://make.wordpress.org/design/2025/03/19/xpost-roster-of-design-tools-per-block-wordpress-6-8-edition/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/design/2025/03/14/xpost-help-test-wordpress-6-8/)
 - [WordCamp Asia 2025: Contributor Day Recap](https://make.wordpress.org/design/2025/02/27/wordcamp-asia-2025-contributor-day-recap/)
-- [Join the Design Table at WordCamp Asia 2025 Contributor Day!](https://make.wordpress.org/design/2025/02/18/join-the-design-table-at-wordcamp-asia-2025-contributor-day/)
-- [Design plans for WordPress 6.8](https://make.wordpress.org/design/2025/01/15/design-plans-for-wordpress-6-8/)
 <!-- DESIGN:END -->
 
 ## Mobile
