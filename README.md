@@ -325,16 +325,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Proposal: Clarifying Core’s Database Support Policy](https://make.wordpress.org/test/2025/06/28/xpost-proposal-clarifying-cores-database-support-policy/)
+- [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/test/2025/06/25/xpost-a-little-late-spring-cleaning/)
+- [X-post: Test Team Update: 23 June, 2025](https://make.wordpress.org/test/2025/06/23/xpost-test-team-update-23-june-2025/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/test/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
+- [Test Chat Summary: 18th June 2025](https://make.wordpress.org/test/2025/06/23/test-chat-summary-18th-june-2025/)
+- [Week in Test: June 23, 2025](https://make.wordpress.org/test/2025/06/23/week-in-test-june-23-2025/)
 - [Team Chat Agenda: 18th June 2025](https://make.wordpress.org/test/2025/06/18/team-chat-agenda-18th-june-2025/)
 - [X-post: Test Team Update: 16 June, 2025](https://make.wordpress.org/test/2025/06/17/xpost-test-team-update-16-june-2025/)
 - [Week in Test: June 16, 2025](https://make.wordpress.org/test/2025/06/16/week-in-test-june-16-2025/)
 - [Week in Test: June 09, 2025](https://make.wordpress.org/test/2025/06/10/week-in-test-june-09-2025/)
-- [WCEU 2025 : Contributor Day Recap](https://make.wordpress.org/test/2025/06/10/wceu-2025-contributor-day-recap/)
-- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/test/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
-- [X-post: Test Team Update: 2 June, 2025](https://make.wordpress.org/test/2025/06/02/xpost-test-team-update-2-june-2025/)
-- [The Code Review Flaw in the Workflow](https://make.wordpress.org/test/2025/06/02/the-code-review-flaw-in-the-workflow/)
-- [Week in Test: June 02, 2025](https://make.wordpress.org/test/2025/06/02/week-in-test-june-02-2025/)
-- [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/test/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 <!-- TEST:END -->
 
 ## TV
