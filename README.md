@@ -395,6 +395,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## CLI
 <!-- CLI:START -->
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/cli/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [WP-CLI v2.12.0 Release Notes](https://make.wordpress.org/cli/2025/05/07/wp-cli-v2-12-0-release-notes/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/cli/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/cli/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
@@ -404,7 +405,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Save the date! WP-CLI Hack Day on Friday, April 26th](https://make.wordpress.org/cli/2024/04/02/save-the-date-wp-cli-hack-day-on-friday-april-26th/)
 - [WP-CLI v2.10.0 Release Notes](https://make.wordpress.org/cli/2024/02/08/wp-cli-v2-10-0-release-notes/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/cli/2024/02/02/xpost-incident-response-team-call-for-nominations/)
-- [X-post: Update on Matrix Migration: Pausing the Transition](https://make.wordpress.org/cli/2023/12/12/xpost-update-on-matrix-migration-pausing-the-transition/)
 <!-- CLI:END -->
 
 ## Hosting
