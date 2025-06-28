@@ -167,6 +167,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/community/2025/06/25/xpost-a-little-late-spring-cleaning/)
+- [X-post: Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/community/2025/06/24/xpost-online-monthly-docs-team-contributor-day-july-22-2025/)
+- [The Incident Response Team is looking for new members](https://make.wordpress.org/community/2025/06/23/the-incident-response-team-is-looking-for-new-members/)
 - [X-post: Five for the Future WCEU25 Chat](https://make.wordpress.org/community/2025/06/17/xpost-five-for-the-future-wceu25-chat/)
 - [Proposal: Prioritizing CampTix Improvements for a Better Organizer and Attendee Experience](https://make.wordpress.org/community/2025/06/13/proposal-prioritizing-camptix-improvements-for-a-better-organizer-and-attendee-experience/)
 - [New Handbook Page for WordPress Campus Connect](https://make.wordpress.org/community/2025/06/13/new-handbook-page-for-wordpress-campus-connect/)
@@ -174,9 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 12 – June -2025](https://make.wordpress.org/community/2025/06/11/community-team-meeting-agenda-for-12-june-2025/)
 - [Vote for the new WordPress Campus Connect logo!](https://make.wordpress.org/community/2025/06/11/vote-for-the-new-wordpress-campus-connect-logo/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/community/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
-- [🌍 WCEU 2025 Contributor Day: Community Team Agenda](https://make.wordpress.org/community/2025/06/02/%f0%9f%8c%8d-wceu-2025-contributor-day-community-team-agenda/)
-- [Update on the GatherPress project – May 2025](https://make.wordpress.org/community/2025/05/28/update-on-the-gatherpress-project-may-2025/)
-- [Women in WordPress: A Recap of Our International Women’s Day WordPress Events](https://make.wordpress.org/community/2025/05/14/women-in-wordpress-a-recap-of-our-international-womens-day-wordpress-events/)
 <!-- COMMUNITY:END -->
 
 ## Meta
