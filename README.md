@@ -181,6 +181,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/meta/2025/06/25/xpost-a-little-late-spring-cleaning/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/meta/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/meta/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
 - [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/meta/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/meta/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
@@ -189,8 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Welcome back everyone! The holiday…](https://make.wordpress.org/meta/2025/01/03/welcome-back-everyone-the-holiday/)
 - [Make WordPress gets a refresh](https://make.wordpress.org/meta/2024/12/12/make-wordpress-gets-a-refresh/)
 - [The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/meta/2024/12/10/the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
-- [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/meta/2024/11/18/xpost-hello-wordpress-community-lets-chat/)
-- [Agenda for November 13, 2024](https://make.wordpress.org/meta/2024/11/13/agenda-for-november-13-2024/)
 <!-- META:END -->
 
 ## Training
