@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [I’m the Contributor of the…](https://make.wordpress.org/polyglots/2025/06/20/im-the-contributor-of-the/)
-- [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/06/20/pte-request-for-easybuy-theme/)
-- [Hello,](https://make.wordpress.org/polyglots/2025/06/19/hello-97/)
-- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/06/19/hi-dear-mentors-we-have-182/)
-- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/06/18/hi-polyglots-team-13/)
-- [X-post: Polyglots Week in Review: June 18, 2025](https://make.wordpress.org/polyglots/2025/06/18/xpost-polyglots-week-in-review-june-18-2025/)
-- [Agenda: Weekly Polyglots Chat – June 18, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/06/18/agenda-weekly-polyglots-chat-june-18-2025-1300-utc/)
-- [Polyglots Table: A Recap from WordCamp Europe 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/06/18/polyglots-table-a-recap-from-wordcamp-europe-2025-contributor-day/)
-- [PTE Request for StoreLinkforMC](https://make.wordpress.org/polyglots/2025/06/18/pte-request-for-storelinkformc/)
-- [I’m the author of the…](https://make.wordpress.org/polyglots/2025/06/17/im-the-author-of-the-3/)
+- [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/06/30/pte-request-for-easybuy-theme-3/)
+- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/06/29/hello-polyglots-team-14/)
+- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/06/28/hello-polyglots-team-13/)
+- [Hi Polyglots team!](https://make.wordpress.org/polyglots/2025/06/28/hi-polyglots-team-15/)
+- [PTE Request for Current Year By Nasim](https://make.wordpress.org/polyglots/2025/06/27/pte-request-for-current-year-by-nasim/)
+- [PTE Request for Price Based on Country for WooCommerce](https://make.wordpress.org/polyglots/2025/06/27/pte-request-for-price-based-on-country-for-woocommerce/)
+- [Hi Polyglots team, I am…](https://make.wordpress.org/polyglots/2025/06/26/hi-polyglots-team-i-am-2/)
+- [PTE Request for Vik Booking…](https://make.wordpress.org/polyglots/2025/06/26/pte-request-for-vik-booking-2/)
+- [Hello Polyglots team, I’m the…](https://make.wordpress.org/polyglots/2025/06/25/hello-polyglots-team-im-the/)
+- [Requesting PTE Access for accessibility-assistant…](https://make.wordpress.org/polyglots/2025/06/25/requesting-pte-access-for-accessibility-assistant/)
 <!-- POLYGLOTS:END -->
 
 ## Support
