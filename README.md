@@ -3,6 +3,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Proposal: Clarifying Core’s Database Support Policy](https://make.wordpress.org/core/2025/06/27/proposal-clarifying-cores-database-support-policy/)
+- [Summary, Dev Chat, June 25, 2025](https://make.wordpress.org/core/2025/06/25/summary-dev-chat-june-25-2025/)
+- [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/core/2025/06/25/xpost-a-little-late-spring-cleaning/)
+- [Dev Chat Agenda – June 25, 2025](https://make.wordpress.org/core/2025/06/24/dev-chat-agenda-june-25-2025/)
+- [X-post: Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/core/2025/06/24/xpost-online-monthly-docs-team-contributor-day-july-22-2025/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/core/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [Summary, Dev Chat, June 18, 2025](https://make.wordpress.org/core/2025/06/19/summary-dev-chat-june-18-2025/)
 - [X-post: Security updates will cease for WordPress versions 4.1 through 4.6](https://make.wordpress.org/core/2025/06/19/xpost-security-updates-will-cease-for-wordpress-versions-4-1-through-4-6/)
 - [Performance Chat Summary: 17 June 2025](https://make.wordpress.org/core/2025/06/17/performance-chat-summary-17-june-2025/)
@@ -17,12 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in Gutenberg 20.6 and 20.7?](https://make.wordpress.org/core/2025/06/11/whats-new-in-gutenberg-20-6-and-20-7/)
 - [Dev Chat Agenda – June 11, 2025](https://make.wordpress.org/core/2025/06/10/dev-chat-agenda-june-11-2025/)
 - [WordCamp Europe 2025 | Recap of the event](https://make.wordpress.org/core/2025/06/10/wordcamp-europe-2025-recap-of-the-event/)
-- [What’s new in Gutenberg 20.4 and 20.5?](https://make.wordpress.org/core/2025/06/05/whats-new-in-gutenberg-20-4-and-20-5/)
-- [Summary, Dev Chat, June 4, 2025](https://make.wordpress.org/core/2025/06/05/summary-dev-chat-june-4-2025/)
-- [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/core/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
-- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/core/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
-- [X-post: The Code Review Flaw in the Workflow](https://make.wordpress.org/core/2025/06/04/xpost-the-code-review-flaw-in-the-workflow/)
-- [Dev Chat Agenda – June 4, 2025](https://make.wordpress.org/core/2025/06/03/dev-chat-agenda-june-4-2025/)
 <!-- CORE:END -->
 
 ## Design
