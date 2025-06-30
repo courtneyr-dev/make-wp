@@ -41,6 +41,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Mobile
 <!-- MOBILE:START -->
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/mobile/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/mobile/2024/10/08/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
 - [X-post: WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/mobile/2024/08/16/xpost-wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 - [X-post: Incident Response Team: Call for Nominations](https://make.wordpress.org/mobile/2024/02/02/xpost-incident-response-team-call-for-nominations/)
@@ -50,7 +51,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/mobile/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [X-post: Community Summit 2023: Your Role in What’s Next](https://make.wordpress.org/mobile/2023/09/21/xpost-community-summit-2023-your-role-in-whats-next/)
 - [X-post: WordPress Contributor Mentorship Program: Pilot Program Proposal](https://make.wordpress.org/mobile/2023/05/17/xpost-wordpress-contributor-mentorship-program-pilot-program-proposal/)
-- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/mobile/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 <!-- MOBILE:END -->
 
 ## Accessibility
