@@ -97,6 +97,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/docs/2025/06/25/xpost-a-little-late-spring-cleaning/)
+- [Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/docs/2025/06/24/online-monthly-docs-team-contributor-day-july-22-2025/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/docs/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [Online monthly Docs Team Contributor Day June 24, 2025](https://make.wordpress.org/docs/2025/06/18/online-monthly-docs-team-contributor-day-june-24-2025/)
 - [Summary of Docs Team meeting June 17, 2025](https://make.wordpress.org/docs/2025/06/18/summary-of-docs-team-meeting-june-17-2025/)
 - [Agenda for Discussion Meeting &lpar;17 June 2025&rpar;](https://make.wordpress.org/docs/2025/06/17/agenda-for-discussion-meeting-17-june-2025/)
@@ -104,9 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/docs/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Summary for Discussion Meeting &lpar;06-May-2025&rpar;](https://make.wordpress.org/docs/2025/05/07/summary-for-discussion-meeting-06-may-2025/)
 - [Summary for Discussion Meeting &lpar;29 April 2025&rpar;](https://make.wordpress.org/docs/2025/04/29/summary-for-discussion-meeting-29-april-2025/)
-- [Agenda for Discussion Meeting &lpar;29 April 2025&rpar;](https://make.wordpress.org/docs/2025/04/29/agenda-for-discussion-meeting-29-april-2025/)
-- [Summary for Discussion Meeting &lpar;15-Apr-2025&rpar;](https://make.wordpress.org/docs/2025/04/20/summary-for-discussion-meeting-15-apr-2025/)
-- [Agenda for Discussion Meeting &lpar;15-Apr-2025&rpar;](https://make.wordpress.org/docs/2025/04/15/agenda-for-discussion-meeting-15-apr-2025/)
 <!-- DOCS:END -->
 
 ### Support Articles
