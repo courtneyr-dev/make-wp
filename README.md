@@ -195,16 +195,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Welcoming New Mentors to the Training Team Guide Program](https://make.wordpress.org/training/2025/06/30/welcoming-new-mentors-to-the-training-team-guide-program/)
+- [X-post: Training Team Update – June 29, 2025](https://make.wordpress.org/training/2025/06/29/xpost-training-team-update-june-29-2025/)
+- [Training Team Highlights](https://make.wordpress.org/training/2025/06/29/training-team-highlights/)
+- [X-post: Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/training/2025/06/24/xpost-online-monthly-docs-team-contributor-day-july-22-2025/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/training/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [Training Team Meeting Recap – 17th June 2025](https://make.wordpress.org/training/2025/06/20/training-team-meeting-recap-17th-june-2025/)
 - [Training Team Meeting Recap – 10th June, 2025](https://make.wordpress.org/training/2025/06/14/training-team-meeting-recap-10th-june-2025/)
 - [WordCamp Europe 2025 : Contributor Day Recap](https://make.wordpress.org/training/2025/06/12/wordcamp-europe-2025-contributor-day-recap/)
 - [Announcing Our Second Deputy in WordPress Training Team Deputy Representative Program](https://make.wordpress.org/training/2025/06/10/announcing-our-second-deputy-in-wordpress-training-team-deputy-representative-program/)
 - [Training Team Meeting Recap – 3rd June 2025](https://make.wordpress.org/training/2025/06/06/training-team-meeting-recap-3rd-june-2025/)
-- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/training/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
-- [Training Team Meeting Recap – 27th May 2025](https://make.wordpress.org/training/2025/06/03/training-team-meeting-recap-27th-may-2025/)
-- [WordCamp Europe 2025 Contributor Day](https://make.wordpress.org/training/2025/05/27/wordcamp-europe-2025-contributor-day/)
-- [Training Team Meeting Recap – 20th May 2025](https://make.wordpress.org/training/2025/05/22/training-team-meeting-recap-20th-may-2025/)
-- [Training Team Meeting Recap – 13th May 2025](https://make.wordpress.org/training/2025/05/21/training-team-meeting-recap-13th-may-2025/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
