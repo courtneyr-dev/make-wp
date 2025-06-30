@@ -83,16 +83,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Proposal: Clarifying Core’s Database Support Policy](https://make.wordpress.org/support/2025/06/xpost-proposal-clarifying-cores-database-support-policy/)
+- [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/support/2025/06/xpost-a-little-late-spring-cleaning/)
+- [X-post: Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/support/2025/06/xpost-online-monthly-docs-team-contributor-day-july-22-2025/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/support/2025/06/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [About the Spectator role in the WordPress support forums](https://make.wordpress.org/support/2025/03/about-the-spectator-role-in-the-wordpress-support-forums/)
 - [X-post: Make WordPress gets a refresh](https://make.wordpress.org/support/2024/12/xpost-make-wordpress-gets-a-refresh/)
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/support/2024/12/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/support/2024/11/xpost-hello-wordpress-community-lets-chat/)
 - [Support Team Meeting – October November 14th](https://make.wordpress.org/support/2024/11/support-team-meeting-october-november-14th/)
 - [X-post: Training Team Updates – November 2024](https://make.wordpress.org/support/2024/11/xpost-training-team-updates-november-2024/)
-- [Support Team Meeting – October 17th](https://make.wordpress.org/support/2024/10/support-team-meeting-october-17th/)
-- [X-post: Announcing the Third Cohort &lpar;2024 Q4&rpar; of the WordPress Contributor Mentorship Program](https://make.wordpress.org/support/2024/10/xpost-announcing-the-third-cohort-2024-q4-of-the-wordpress-contributor-mentorship-program/)
-- [Support Team Meeting – October 3rd](https://make.wordpress.org/support/2024/10/support-team-meeting-october-3rd/)
-- [September 5th Support Team Meeting Summary](https://make.wordpress.org/support/2024/09/september-5th-support-team-meeting-summary-2/)
 <!-- SUPPORT:END -->
 
 ## Documentation
