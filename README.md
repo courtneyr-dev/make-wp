@@ -409,16 +409,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [X-post: Proposal: Clarifying Core’s Database Support Policy](https://make.wordpress.org/hosting/2025/06/28/xpost-proposal-clarifying-cores-database-support-policy/)
+- [RFC: Automated Hosting Test Runner Service](https://make.wordpress.org/hosting/2025/06/25/rfc-automated-hosting-test-runner-service/)
+- [Hosting Team Meeting Agenda 2025-06-25](https://make.wordpress.org/hosting/2025/06/25/hosting-team-meeting-on-2025-06-25/)
+- [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/hosting/2025/06/25/xpost-a-little-late-spring-cleaning/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/hosting/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [X-post: Security updates will cease for WordPress versions 4.1 through 4.6](https://make.wordpress.org/hosting/2025/06/19/xpost-security-updates-will-cease-for-wordpress-versions-4-1-through-4-6/)
 - [Hosting Team Meeting Agenda 2025-06-18](https://make.wordpress.org/hosting/2025/06/18/hosting-team-meeting-on-2025-06-18/)
 - [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/hosting/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
 - [Hosting Team Meeting Agenda 2025-06-11](https://make.wordpress.org/hosting/2025/06/11/hosting-team-meeting-on-2025-06-04-2/)
 - [WCEU 2025: Recap for the Hosting Table](https://make.wordpress.org/hosting/2025/06/11/wceu-2025-recap-for-the-hosting-table/)
-- [WordCamp Europe 2025 Contributor Day](https://make.wordpress.org/hosting/2025/06/05/wordcamp-europe-2025-contributor-day/)
-- [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/hosting/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
-- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/hosting/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
-- [Hosting Team Meeting Agenda 2025-06-04](https://make.wordpress.org/hosting/2025/06/04/hosting-team-meeting-on-2025-06-04/)
-- [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/hosting/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 <!-- HOSTING:END -->
 
 ## Tide
