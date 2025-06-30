@@ -465,16 +465,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Plugin Review Team: 30 Jun 2025](https://make.wordpress.org/updates/2025/06/30/plugin-review-team-30-jun-2025/)
+- [Training Team Update – June 29, 2025](https://make.wordpress.org/updates/2025/06/29/training-team-update-june-29-2025/)
+- [Polyglots Week in Review: June 24, 2025](https://make.wordpress.org/updates/2025/06/24/polyglots-week-in-review-june-24-2025/)
+- [Themes team update June 24, 2025](https://make.wordpress.org/updates/2025/06/24/themes-team-update-june-24-2025/)
+- [Test Team Update: 23 June, 2025](https://make.wordpress.org/updates/2025/06/23/test-team-update-23-june-2025/)
+- [Plugin Review Team: 23 Jun 2025](https://make.wordpress.org/updates/2025/06/23/plugin-review-team-23-jun-2025/)
+- [Documentation Team Update – June 23, 2025](https://make.wordpress.org/updates/2025/06/23/documentation-team-update-june-23-2025/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/updates/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [Polyglots Week in Review: June 18, 2025](https://make.wordpress.org/updates/2025/06/18/polyglots-week-in-review-june-18-2025/)
 - [Documentation Team Update – June 17, 2025](https://make.wordpress.org/updates/2025/06/17/documentation-team-update-june-17-2025/)
-- [Test Team Update: 16 June, 2025](https://make.wordpress.org/updates/2025/06/17/test-team-update-16-june-2025/)
-- [Plugin Review Team: 16 Jun 2025](https://make.wordpress.org/updates/2025/06/16/plugin-review-team-16-jun-2025/)
-- [Polyglots Week in Review: June 12, 2025](https://make.wordpress.org/updates/2025/06/12/polyglots-week-in-review-june-12-2025/)
-- [A Month in Core — May 2025](https://make.wordpress.org/updates/2025/06/03/a-month-in-core-may-2025/)
-- [Test Team Update: 2 June, 2025](https://make.wordpress.org/updates/2025/06/02/test-team-update-2-june-2025/)
-- [Polyglots Week in Review: June 2, 2025](https://make.wordpress.org/updates/2025/06/02/polyglots-week-in-review-june-2-2025/)
-- [Themes team update May 27, 2025](https://make.wordpress.org/updates/2025/05/27/themes-team-update-may-27-2025/)
-- [Plugin Review Team: 26 May 2025](https://make.wordpress.org/updates/2025/05/26/plugin-review-team-26-may-2025/)
 <!-- UPDATES:END -->
 
 ## Project
