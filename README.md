@@ -352,6 +352,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress non é só para blogs, descubre Lugo Pro](https://wordpress.tv/2025/06/29/wordpress-non-e-so-para-blogs-descubre-lugo-pro/)
+- [Automatiza tu vida con n8n y sus agentes IA](https://wordpress.tv/2025/06/29/automatiza-tu-vida-con-n8n-y-sus-agentes-ia/)
+- [From Zero to Traffic: How to Get Your First 1,000 Visitors on](https://wordpress.tv/2025/06/29/from-zero-to-traffic-how-to-get-your-first-1000-visitors-on/)
+- [From Chaos to Control: SEO Strategies Web Designers Can Actually Use](https://wordpress.tv/2025/06/29/from-chaos-to-control-seo-strategies-web-designers-can-actually-use/)
+- [Custom designs still matters!](https://wordpress.tv/2025/06/29/custom-designs-still-matters/)
+- [42 secondes pour déployer un WordPress prêt-à-l’emploi &lpar;100% automatisé&rpar;](https://wordpress.tv/2025/06/28/42-secondes-pour-deployer-un-wordpress-pret-a-lemploi-100-automatise/)
+- [Comment générer des fiches produits à la volée avec WooCommerce et ACF](https://wordpress.tv/2025/06/27/comment-generer-des-fiches-produits-a-la-volee-avec-woocommerce-et-acf/)
 - [HTML to Gutenberg : le développement de blocs Gutenberg accessible à tous](https://wordpress.tv/2025/06/21/html-to-gutenberg-le-developpement-de-blocs-gutenberg-accessible-a-tous/)
 - [Google Search Console : votre meilleur allié &lpar;mal compris&rpar;](https://wordpress.tv/2025/06/21/google-search-console-votre-meilleur-allie-mal-compris/)
 - [Contrat de conception de site web, comment se protéger ?](https://wordpress.tv/2025/06/21/contrat-de-conception-de-site-web-comment-se-proteger/)
@@ -370,13 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Las ventajas de tener una IA Local, charla y taller práctico](https://wordpress.tv/2025/06/17/las-ventajas-de-tener-una-ia-local-charla-y-taller-practico/)
 - [Cómo introducirte al mundo digital de manera rápida](https://wordpress.tv/2025/06/17/como-introducirte-al-mundo-digital-de-manera-rapida/)
 - [Te enseño a que tu marca arrase en Instagram sin invertir ni 1€ en publicidad](https://wordpress.tv/2025/06/17/te-enseno-a-que-tu-marca-arrase-en-instagram-sin-invertir-ni-1e-en-publicidad/)
-- [Training Team WordCamp Europe 2025 Contributor Day Online](https://wordpress.tv/2025/06/12/training-team-wordcamp-europe-2025-contributor-day-online/)
-- [DataViews and DataForms: The future of structured content in WordPress](https://wordpress.tv/2025/06/10/dataviews-and-dataforms-the-future-of-structured-content-in-wordpress/)
-- [From 25 Million to 45 Million Views: Technical Strategies That Fueled RecipeTin Eats’ Growth](https://wordpress.tv/2025/06/10/from-25-million-to-45-million-views-technical-strategies-that-fueled-recipetin-eats-growth/)
-- [Keynote Panel: WordPress in 2030](https://wordpress.tv/2025/06/10/keynote-panel-wordpress-in-2030/)
-- [WordCamp Asia 2025 Closing Keynote](https://wordpress.tv/2025/06/10/wordcamp-asia-2025-closing-keynote/)
-- [Breaking Barriers: The Freelancer’s Evolution into Entrepreneurship](https://wordpress.tv/2025/06/10/breaking-barriers-the-freelancers-evolution-into-entrepreneurship/)
-- [WordPress Speed Build Challenge](https://wordpress.tv/2025/06/10/wordpress-speed-build-challenge/)
 <!-- WPTV:END -->
 
 ## Marketing
