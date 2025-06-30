@@ -554,12 +554,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordPress Campus Connect Cartago](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-cartago/)
 - [WordCamp Europe 2026](https://central.wordcamp.org/wordcamps/wordcamp-europe-2026/)
 - [WordPress Campus Connect Ribera del Duero](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-ribera-del-duero/)
 - [WordCamp Netherlands 2025](https://central.wordcamp.org/wordcamps/wordcamp-netherlands-2025/)
 - [WordPress Diversity Day Valencia 2025](https://central.wordcamp.org/wordcamps/diversity-day-valencia-2025/)
 - [WordCamp Galicia 2025](https://central.wordcamp.org/wordcamps/wordcamp-galicia-2025/)
-- [Jornada de Disseny Web amb WordPress Lleida 2025](https://central.wordcamp.org/wordcamps/jornada-disseny-web-lleida-2025/)
 - [WordCamp Montréal 2025](https://central.wordcamp.org/wordcamps/wordcamp-montreal-2025/)
 - [WordCamp Lira 2025](https://central.wordcamp.org/wordcamps/wordcamp-lira-2025/)
 - [WordCamp Gdynia 2025 EN/PL](https://central.wordcamp.org/wordcamps/wordcamp-gdynia-2025/)
