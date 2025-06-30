@@ -55,6 +55,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Results survey “Which WP accessibility documentation do you need”](https://make.wordpress.org/accessibility/2025/06/26/results-survey-which-wp-accessibility-documentation-do-you-need/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/accessibility/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [Survey: Which WP accessibility documentation do you need?](https://make.wordpress.org/accessibility/2025/06/16/survey-which-wp-accessibility-documentation-do-you-need/)
 - [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/accessibility/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
 - [Start project “Accessibility documentation” on WordCamp Europe 2025.](https://make.wordpress.org/accessibility/2025/06/11/start-project-accessibility-documentation-on-wordcamp-europe-2025/)
@@ -63,8 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accessibility Team Meeting Agenda: June 04, 2025](https://make.wordpress.org/accessibility/2025/06/01/accessibility-team-meeting-agenda-june-04-2025/)
 - [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/accessibility/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 - [Accessibility Team Meeting Agenda: May 07, 2025](https://make.wordpress.org/accessibility/2025/05/04/accessibility-team-meeting-agenda-may-07-2025/)
-- [Accessibility Team Meeting Agenda: April 02, 2025](https://make.wordpress.org/accessibility/2025/03/30/accessibility-team-meeting-agenda-april-02-2025/)
-- [X-post: Help Test WordPress 6.8](https://make.wordpress.org/accessibility/2025/03/04/xpost-help-test-wordpress-6-8/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
