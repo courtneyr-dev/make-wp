@@ -479,6 +479,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/project/2025/06/25/a-little-late-spring-cleaning/)
+- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/project/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [Five for the Future WCEU25 Chat](https://make.wordpress.org/project/2025/06/17/five-for-the-future-wceu25-chat/)
 - [Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/project/2025/06/04/criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Restoring Trust while Preserving Safety](https://make.wordpress.org/project/2025/05/21/restoring-trust-while-preserving-safety/)
@@ -487,8 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Shutting down WordPress.org’s Matrix Server](https://make.wordpress.org/project/2025/01/11/shutting-down-wordpress-orgs-matrix-server/)
 - [Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/project/2024/11/18/hello-wordpress-community-lets-chat/)
 - [WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/project/2024/09/12/wordpress-contribution-health-dashboards-an-experiment/)
-- [Ramping up WordPress on YouTube](https://make.wordpress.org/project/2024/08/19/ramping-up-wordpress-on-youtube/)
-- [WordPress Contributor Mentorship Program Cohort #3 &lpar;2024 Q4&rpar;: Call for Mentees &amp; Mentors](https://make.wordpress.org/project/2024/08/16/wordpress-contributor-mentorship-program-cohort-3-2024-q4-call-for-mentees-mentors/)
 <!-- PROJECT:END -->
 
 ## Systems
