@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Back-up support](https://jobs.wordpress.net/job/back-up-support/)
+- [Lead Website Engineer](https://jobs.wordpress.net/job/lead-website-engineer/)
+- [Website Development for Heka Leka Foundation](https://jobs.wordpress.net/job/website-development-for-heka-leka-foundation/)
+- [Freelance WordPress Theme Developer](https://jobs.wordpress.net/job/freelance-wordpress-theme-developer/)
+- [Product area layout](https://jobs.wordpress.net/job/product-area-layout/)
+- [Use WordPress to set up organization’s webpage](https://jobs.wordpress.net/job/use-word-press-to-set-up-organizations-webpage/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-27/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-868/)
 - [Google site to WordPress](https://jobs.wordpress.net/job/google-site-to-wordpress/)
 - [Senior WordPress Plugins Developer](https://jobs.wordpress.net/job/senior-wordpress-plugins-developer-2/)
-- [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-6/)
-- [Need PHP developer](https://jobs.wordpress.net/job/need-php-developer/)
-- [Full Stack PHP &amp; REACT Developer &lpar;WordPress&rpar; – Burst Statistics BV](https://jobs.wordpress.net/job/full-stack-php-react-developer-wordpress-burst-statistics-bv/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-866/)
-- [Growth Analyst &lpar;Stripe, Mixpanel, Google Analytics, GA4, Google Optimize, Hotjar&rpar;](https://jobs.wordpress.net/job/growth-analyst-stripe-mixpanel-google-analytics-ga4-google-optimize-hotjar/)
-- [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology-2/)
-- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-6/)
 <!-- JOBS:END -->
 
 ## Central
