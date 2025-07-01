@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Beyond WordPress firewalls: Real-World WordPress Security from a Hosting Perspective](https://wordpress.tv/2025/07/01/beyond-wordpress-firewalls-real-world-wordpress-security-from-a-hosting-perspective/)
 - [¿Un podcast? ¿Pa qué?](https://wordpress.tv/2025/07/01/un-podcast-pa-que/)
 - [WordPress non é só para blogs, descubre Lugo Pro](https://wordpress.tv/2025/06/29/wordpress-non-e-so-para-blogs-descubre-lugo-pro/)
 - [Automatiza tu vida con n8n y sus agentes IA](https://wordpress.tv/2025/06/29/automatiza-tu-vida-con-n8n-y-sus-agentes-ia/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Stand Out in Google Search: Visual SEO Tips for WordPress Sites](https://wordpress.tv/2025/06/20/stand-out-in-google-search-visual-seo-tips-for-wordpress-sites/)
 - [5 Design Fixes That Instantly Improve ANY Website](https://wordpress.tv/2025/06/20/5-design-fixes-that-instantly-improve-any-website/)
 - [Las ventajas de tener una IA Local, charla y taller práctico](https://wordpress.tv/2025/06/17/las-ventajas-de-tener-una-ia-local-charla-y-taller-practico/)
-- [Cómo introducirte al mundo digital de manera rápida](https://wordpress.tv/2025/06/17/como-introducirte-al-mundo-digital-de-manera-rapida/)
 <!-- WPTV:END -->
 
 ## Marketing
