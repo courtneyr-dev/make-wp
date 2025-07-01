@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Un podcast? ¿Pa qué?](https://wordpress.tv/2025/07/01/un-podcast-pa-que/)
 - [WordPress non é só para blogs, descubre Lugo Pro](https://wordpress.tv/2025/06/29/wordpress-non-e-so-para-blogs-descubre-lugo-pro/)
 - [Automatiza tu vida con n8n y sus agentes IA](https://wordpress.tv/2025/06/29/automatiza-tu-vida-con-n8n-y-sus-agentes-ia/)
 - [From Zero to Traffic: How to Get Your First 1,000 Visitors on](https://wordpress.tv/2025/06/29/from-zero-to-traffic-how-to-get-your-first-1000-visitors-on/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [5 Design Fixes That Instantly Improve ANY Website](https://wordpress.tv/2025/06/20/5-design-fixes-that-instantly-improve-any-website/)
 - [Las ventajas de tener una IA Local, charla y taller práctico](https://wordpress.tv/2025/06/17/las-ventajas-de-tener-una-ia-local-charla-y-taller-practico/)
 - [Cómo introducirte al mundo digital de manera rápida](https://wordpress.tv/2025/06/17/como-introducirte-al-mundo-digital-de-manera-rapida/)
-- [Te enseño a que tu marca arrase en Instagram sin invertir ni 1€ en publicidad](https://wordpress.tv/2025/06/17/te-enseno-a-que-tu-marca-arrase-en-instagram-sin-invertir-ni-1e-en-publicidad/)
 <!-- WPTV:END -->
 
 ## Marketing
