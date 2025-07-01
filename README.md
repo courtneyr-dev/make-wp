@@ -521,7 +521,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Back-up support](https://jobs.wordpress.net/job/back-up-support/)
 - [Lead Website Engineer](https://jobs.wordpress.net/job/lead-website-engineer/)
 - [Website Development for Heka Leka Foundation](https://jobs.wordpress.net/job/website-development-for-heka-leka-foundation/)
 - [Freelance WordPress Theme Developer](https://jobs.wordpress.net/job/freelance-wordpress-theme-developer/)
@@ -531,6 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-868/)
 - [Google site to WordPress](https://jobs.wordpress.net/job/google-site-to-wordpress/)
 - [Senior WordPress Plugins Developer](https://jobs.wordpress.net/job/senior-wordpress-plugins-developer-2/)
+- [[ASTRA] Digital Marketing Manager](https://jobs.wordpress.net/job/astra-digital-marketing-manager-6/)
 <!-- JOBS:END -->
 
 ## Central
