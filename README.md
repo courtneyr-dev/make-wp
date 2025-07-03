@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Factura electrónica vs Verifactu: diferencias, obligaciones y soluciones](https://wordpress.tv/2025/07/03/factura-electronica-vs-verifactu-diferencias-obligaciones-y-soluciones/)
+- [Patch Testing and Unit Testing Basics for WordPress Core Development](https://wordpress.tv/2025/07/03/patch-testing-and-unit-testing-basics-for-wordpress-core-development/)
 - [Beyond WordPress firewalls: Real-World WordPress Security from a Hosting Perspective](https://wordpress.tv/2025/07/01/beyond-wordpress-firewalls-real-world-wordpress-security-from-a-hosting-perspective/)
 - [¿Un podcast? ¿Pa qué?](https://wordpress.tv/2025/07/01/un-podcast-pa-que/)
 - [WordPress non é só para blogs, descubre Lugo Pro](https://wordpress.tv/2025/06/29/wordpress-non-e-so-para-blogs-descubre-lugo-pro/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Beyond the Build: Navigating the Full Life Cycle of a Website](https://wordpress.tv/2025/06/20/beyond-the-build-navigating-the-full-life-cycle-of-a-website/)
 - [Accelerating Performance and Scalability for Dynamic WordPress Sites](https://wordpress.tv/2025/06/20/accelerating-performance-and-scalability-for-dynamic-wordpress-sites/)
 - [Stand Out in Google Search: Visual SEO Tips for WordPress Sites](https://wordpress.tv/2025/06/20/stand-out-in-google-search-visual-seo-tips-for-wordpress-sites/)
-- [5 Design Fixes That Instantly Improve ANY Website](https://wordpress.tv/2025/06/20/5-design-fixes-that-instantly-improve-any-website/)
-- [Las ventajas de tener una IA Local, charla y taller práctico](https://wordpress.tv/2025/06/17/las-ventajas-de-tener-una-ia-local-charla-y-taller-practico/)
 <!-- WPTV:END -->
 
 ## Marketing
