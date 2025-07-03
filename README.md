@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [No Internet? No Problem – Offline AI Pair Coding with Ollama](https://wordpress.tv/2025/07/03/no-internet-no-problem-offline-ai-pair-coding-with-ollama/)
 - [Factura electrónica vs Verifactu: diferencias, obligaciones y soluciones](https://wordpress.tv/2025/07/03/factura-electronica-vs-verifactu-diferencias-obligaciones-y-soluciones/)
 - [Patch Testing and Unit Testing Basics for WordPress Core Development](https://wordpress.tv/2025/07/03/patch-testing-and-unit-testing-basics-for-wordpress-core-development/)
 - [Beyond WordPress firewalls: Real-World WordPress Security from a Hosting Perspective](https://wordpress.tv/2025/07/01/beyond-wordpress-firewalls-real-world-wordpress-security-from-a-hosting-perspective/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Por qué vende Mercado Libre &lpar;o Amazon&rpar; más que tú?](https://wordpress.tv/2025/06/20/por-que-vende-mercado-libre-o-amazon-mas-que-tu/)
 - [Beyond the Build: Navigating the Full Life Cycle of a Website](https://wordpress.tv/2025/06/20/beyond-the-build-navigating-the-full-life-cycle-of-a-website/)
 - [Accelerating Performance and Scalability for Dynamic WordPress Sites](https://wordpress.tv/2025/06/20/accelerating-performance-and-scalability-for-dynamic-wordpress-sites/)
-- [Stand Out in Google Search: Visual SEO Tips for WordPress Sites](https://wordpress.tv/2025/06/20/stand-out-in-google-search-visual-seo-tips-for-wordpress-sites/)
 <!-- WPTV:END -->
 
 ## Marketing
