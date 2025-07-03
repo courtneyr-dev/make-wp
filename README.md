@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 03 – July -2025](https://make.wordpress.org/community/2025/07/03/community-team-meeting-agenda-for-03-july-2025/)
 - [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/community/2025/06/25/xpost-a-little-late-spring-cleaning/)
 - [X-post: Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/community/2025/06/24/xpost-online-monthly-docs-team-contributor-day-july-22-2025/)
 - [The Incident Response Team is looking for new members](https://make.wordpress.org/community/2025/06/23/the-incident-response-team-is-looking-for-new-members/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [🌍 WCEU 2025 Contributor Day: Community Team Recap](https://make.wordpress.org/community/2025/06/12/%f0%9f%8c%8d-wceu-2025-contributor-day-community-team-recap/)
 - [Community Team Meeting Agenda for 12 – June -2025](https://make.wordpress.org/community/2025/06/11/community-team-meeting-agenda-for-12-june-2025/)
 - [Vote for the new WordPress Campus Connect logo!](https://make.wordpress.org/community/2025/06/11/vote-for-the-new-wordpress-campus-connect-logo/)
-- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/community/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 <!-- COMMUNITY:END -->
 
 ## Meta
