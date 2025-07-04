@@ -5,7 +5,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- CORE:START -->
 - [Proposal: Introduce Maintenance Mode For Components](https://make.wordpress.org/core/2025/07/02/proposal-introduce-maintenance-mode-for-components/)
 - [X-post: A Month in Core – June 2025](https://make.wordpress.org/core/2025/07/02/xpost-a-month-in-core-june-2025/)
-- [What’s new in Gutenberg 21.1? &lpar;11 June&rpar;](https://make.wordpress.org/core/2025/07/02/whats-new-in-gutenberg-21-1/)
+- [What’s new in Gutenberg 21.1? &lpar;2nd July&rpar;](https://make.wordpress.org/core/2025/07/02/whats-new-in-gutenberg-21-1/)
 - [Performance Chat Summary: 1 July 2025](https://make.wordpress.org/core/2025/07/01/performance-chat-summary-1-july-2025/)
 - [Dev Chat Agenda – July 2, 2025](https://make.wordpress.org/core/2025/07/01/dev-chat-agenda-july-2-2025/)
 - [Proposal: Clarifying Core’s Database Support Policy](https://make.wordpress.org/core/2025/06/27/proposal-clarifying-cores-database-support-policy/)
