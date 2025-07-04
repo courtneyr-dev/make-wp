@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/07/04/hi-dear-mentors-we-have-184/)
 - [GTE Request for Vietnamese language](https://make.wordpress.org/polyglots/2025/07/03/gte-requirements-for-vietnamese-in-general/)
 - [PTE Request for “WooCommerce OTP…](https://make.wordpress.org/polyglots/2025/07/03/pte-request-for-woocommerce-otp/)
 - [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/07/02/pte-request-for-easybuy-theme-4/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – July 2, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/01/agenda-weekly-polyglots-chat-july-2-2025-1300-utc/)
 - [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/06/30/pte-request-for-easybuy-theme-3/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/06/29/hello-polyglots-team-14/)
-- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/06/28/hello-polyglots-team-13/)
 <!-- POLYGLOTS:END -->
 
 ## Support
