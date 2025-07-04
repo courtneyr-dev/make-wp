@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/07/04/i-am-the-plugin-author-65/)
+- [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/07/04/hi-polyglots-112/)
+- [PTE Request for Customer Reviews…](https://make.wordpress.org/polyglots/2025/07/04/pte-request-for-customer-reviews-4/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/07/04/hi-dear-mentors-we-have-184/)
 - [GTE Request for Vietnamese language](https://make.wordpress.org/polyglots/2025/07/03/gte-requirements-for-vietnamese-in-general/)
 - [PTE Request for “WooCommerce OTP…](https://make.wordpress.org/polyglots/2025/07/03/pte-request-for-woocommerce-otp/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for EdenPersona – Connector &amp; Analytics](https://make.wordpress.org/polyglots/2025/07/01/pte-request-for-edenpersona-connector-analytics/)
 - [I’d like to translate some…](https://make.wordpress.org/polyglots/2025/07/01/id-like-to-translate-some/)
 - [Looking for a Italian translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2025/07/01/looking-for-a-italian-translation-reviewer-for-learn-wordpress-content/)
-- [Agenda: Weekly Polyglots Chat – July 2, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/01/agenda-weekly-polyglots-chat-july-2-2025-1300-utc/)
-- [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/06/30/pte-request-for-easybuy-theme-3/)
-- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/06/29/hello-polyglots-team-14/)
 <!-- POLYGLOTS:END -->
 
 ## Support
