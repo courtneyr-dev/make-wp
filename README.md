@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Advanced Product Fields for WooCommerce](https://make.wordpress.org/polyglots/2025/07/07/pte-request-for-advanced-product-fields-for-woocommerce-2/)
 - [PTE Request for Err – Custom Login Page](https://make.wordpress.org/polyglots/2025/07/07/pte-request-for-err-custom-login-page/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/07/hello-polyglots-team-15/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/07/04/i-am-the-plugin-author-65/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [GTE Request for Vietnamese language](https://make.wordpress.org/polyglots/2025/07/03/gte-requirements-for-vietnamese-in-general/)
 - [PTE Request for “WooCommerce OTP…](https://make.wordpress.org/polyglots/2025/07/03/pte-request-for-woocommerce-otp/)
 - [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/07/02/pte-request-for-easybuy-theme-4/)
-- [PTE Request for EdenPersona – Connector &amp; Analytics](https://make.wordpress.org/polyglots/2025/07/01/pte-request-for-edenpersona-connector-analytics/)
 <!-- POLYGLOTS:END -->
 
 ## Support
