@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-37/)
+- [Elementor/Astra site help](https://jobs.wordpress.net/job/elementor-astra-site-help/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-6/)
 - [Lead Website Engineer](https://jobs.wordpress.net/job/lead-website-engineer/)
 - [Website Development for Heka Leka Foundation](https://jobs.wordpress.net/job/website-development-for-heka-leka-foundation/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Use WordPress to set up organization’s webpage](https://jobs.wordpress.net/job/use-word-press-to-set-up-organizations-webpage/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-27/)
 - [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-868/)
-- [Google site to WordPress](https://jobs.wordpress.net/job/google-site-to-wordpress/)
-- [Senior WordPress Plugins Developer](https://jobs.wordpress.net/job/senior-wordpress-plugins-developer-2/)
 <!-- JOBS:END -->
 
 ## Central
