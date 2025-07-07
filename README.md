@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Chantons une bonne relation dans la chorale d’un projet web](https://wordpress.tv/2025/07/07/chantons-une-bonne-relation-dans-la-chorale-dun-projet-web/)
+- [GEO : Optimisez votre visibilité dans les moteurs de recherche d’IA générative](https://wordpress.tv/2025/07/07/geo-optimisez-votre-visibilite-dans-les-moteurs-de-recherche-dia-generative/)
+- [Industrialiser sa production WordPress : C’est pour tout le monde](https://wordpress.tv/2025/07/07/industrialiser-sa-production-wordpress-cest-pour-tout-le-monde/)
 - [No Internet? No Problem – Offline AI Pair Coding with Ollama](https://wordpress.tv/2025/07/03/no-internet-no-problem-offline-ai-pair-coding-with-ollama/)
 - [Factura electrónica vs Verifactu: diferencias, obligaciones y soluciones](https://wordpress.tv/2025/07/03/factura-electronica-vs-verifactu-diferencias-obligaciones-y-soluciones/)
 - [Patch Testing and Unit Testing Basics for WordPress Core Development](https://wordpress.tv/2025/07/03/patch-testing-and-unit-testing-basics-for-wordpress-core-development/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Site Editing : une méthodologie en 5 étapes pour créer vos sites plus rapidement](https://wordpress.tv/2025/06/21/full-site-editing-une-methodologie-en-5-etapes-pour-creer-vos-sites-plus-rapidement/)
 - [Et si on se créait un plugin WP ensemble avec l’IA ?](https://wordpress.tv/2025/06/20/et-si-on-se-creait-un-plugin-wp-ensemble-avec-lia/)
 - [Le cache objet au service de l’écoconception](https://wordpress.tv/2025/06/20/le-cache-objet-au-service-de-lecoconception/)
-- [¿Por qué vende Mercado Libre &lpar;o Amazon&rpar; más que tú?](https://wordpress.tv/2025/06/20/por-que-vende-mercado-libre-o-amazon-mas-que-tu/)
-- [Beyond the Build: Navigating the Full Life Cycle of a Website](https://wordpress.tv/2025/06/20/beyond-the-build-navigating-the-full-life-cycle-of-a-website/)
-- [Accelerating Performance and Scalability for Dynamic WordPress Sites](https://wordpress.tv/2025/06/20/accelerating-performance-and-scalability-for-dynamic-wordpress-sites/)
 <!-- WPTV:END -->
 
 ## Marketing
