@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/07/hello-polyglots-team-15/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/07/04/i-am-the-plugin-author-65/)
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/07/04/hi-polyglots-112/)
 - [PTE Request for Customer Reviews…](https://make.wordpress.org/polyglots/2025/07/04/pte-request-for-customer-reviews-4/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/07/02/pte-request-for-easybuy-theme-4/)
 - [PTE Request for EdenPersona – Connector &amp; Analytics](https://make.wordpress.org/polyglots/2025/07/01/pte-request-for-edenpersona-connector-analytics/)
 - [I’d like to translate some…](https://make.wordpress.org/polyglots/2025/07/01/id-like-to-translate-some/)
-- [Looking for a Italian translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2025/07/01/looking-for-a-italian-translation-reviewer-for-learn-wordpress-content/)
 <!-- POLYGLOTS:END -->
 
 ## Support
