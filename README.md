@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Proposal: Remove the “beta support” label from PHP 8.3 for WordPress 6.8](https://make.wordpress.org/core/2025/07/07/proposal-remove-the-beta-support-label-from-php-8-3-for-wordpress-6-8/)
 - [Summary, Dev Chat, July 2, 2025](https://make.wordpress.org/core/2025/07/05/summary-dev-chat-july-2-2025/)
 - [Proposal: Introduce Maintenance Mode For Components](https://make.wordpress.org/core/2025/07/02/proposal-introduce-maintenance-mode-for-components/)
 - [X-post: A Month in Core – June 2025](https://make.wordpress.org/core/2025/07/02/xpost-a-month-in-core-june-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.8.2 Release Schedule](https://make.wordpress.org/core/2025/06/17/wordpress-6-8-2-release-schedule/)
 - [X-post: Introducing a new SQLite driver for WordPress](https://make.wordpress.org/core/2025/06/15/xpost-introducing-a-new-sqlite-driver-for-wordpress/)
 - [WCEU 2025 Core Committers Meeting Notes](https://make.wordpress.org/core/2025/06/13/wceu-2025-core-committers-meeting-notes/)
-- [Summary, Dev Chat, June 11, 2025](https://make.wordpress.org/core/2025/06/11/summary-dev-chat-june-11-2025/)
 <!-- CORE:END -->
 
 ## Design
