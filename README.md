@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [WordPress 6.8.2 RC1 is now available](https://make.wordpress.org/core/2025/07/08/wordpress-6-8-2-rc1-is-now-available/)
 - [Dev Chat Agenda – July 9, 2025](https://make.wordpress.org/core/2025/07/08/dev-chat-agenda-july-9-2025/)
 - [Proposal: Remove the “beta support” label from PHP 8.3 for WordPress 6.8](https://make.wordpress.org/core/2025/07/07/proposal-remove-the-beta-support-label-from-php-8-3-for-wordpress-6-8/)
 - [Summary, Dev Chat, July 2, 2025](https://make.wordpress.org/core/2025/07/05/summary-dev-chat-july-2-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 17 June 2025](https://make.wordpress.org/core/2025/06/17/performance-chat-summary-17-june-2025/)
 - [Dev Chat Agenda – June 18, 2025](https://make.wordpress.org/core/2025/06/17/dev-chat-agenda-june-18-2025/)
 - [WordPress 6.8.2 Release Schedule](https://make.wordpress.org/core/2025/06/17/wordpress-6-8-2-release-schedule/)
-- [X-post: Introducing a new SQLite driver for WordPress](https://make.wordpress.org/core/2025/06/15/xpost-introducing-a-new-sqlite-driver-for-wordpress/)
 <!-- CORE:END -->
 
 ## Design
