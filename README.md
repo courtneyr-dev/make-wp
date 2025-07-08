@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Corvine Theme](https://make.wordpress.org/polyglots/2025/07/08/pte-request-for-corvine-theme/)
 - [Hi,](https://make.wordpress.org/polyglots/2025/07/07/hi-121/)
 - [Looking for a Korean translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2025/07/07/looking-for-a-korean-translation-reviewer-for-learn-wordpress-content/)
 - [PTE Request for Advanced Product Fields for WooCommerce](https://make.wordpress.org/polyglots/2025/07/07/pte-request-for-advanced-product-fields-for-woocommerce-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/07/04/hi-polyglots-112/)
 - [PTE Request for Customer Reviews…](https://make.wordpress.org/polyglots/2025/07/04/pte-request-for-customer-reviews-4/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/07/04/hi-dear-mentors-we-have-184/)
-- [GTE Request for Vietnamese language](https://make.wordpress.org/polyglots/2025/07/03/gte-requirements-for-vietnamese-in-general/)
 <!-- POLYGLOTS:END -->
 
 ## Support
