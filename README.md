@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Proxy access – webtechpooja](https://make.wordpress.org/systems/2025/07/08/proxy-access-webtechpooja/)
 - [WordPress Campus Connect – ms-files rule missed](https://make.wordpress.org/systems/2025/06/30/wordpress-campus-connect-ms-files-rule-missed/)
 - [Plugins pre-commit block request](https://make.wordpress.org/systems/2025/06/20/plugins-pre-commit-block-request/)
 - [Facebook Sharer blocked from ps.w.org CDN](https://make.wordpress.org/systems/2025/05/27/facebook-sharer-blocked-from-ps-w-org-cdn/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugins pre-commit rule to prevent nested tags](https://make.wordpress.org/systems/2025/04/30/plugins-pre-commit-rule-to-prevent-nested-tags/)
 - [Similar issue to: https://make.wordpress.org/systems/?p=2374 VSCode…](https://make.wordpress.org/systems/2025/04/16/similar-issue-to-https-make-wordpress-org-systems-p2374-vscode/)
 - [Remove mu.wordpress.org’s deprecated forums](https://make.wordpress.org/systems/2025/01/07/remove-mu-wordpress-orgs-deprecated-forums/)
-- [IP routing issues / IP Blocked?](https://make.wordpress.org/systems/2025/01/07/ip-routing-issues-ip-blocked/)
 <!-- SYSTEMS:END -->
 
 ## News
