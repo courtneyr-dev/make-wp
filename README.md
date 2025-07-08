@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Jesús Serrano: Automatizaciones 101: Flujos y agentes IA](https://wordpress.tv/2025/07/08/jesus-serrano-automatizaciones-101-flujos-y-agentes-ia/)
 - [Chantons une bonne relation dans la chorale d’un projet web](https://wordpress.tv/2025/07/07/chantons-une-bonne-relation-dans-la-chorale-dun-projet-web/)
 - [GEO : Optimisez votre visibilité dans les moteurs de recherche d’IA générative](https://wordpress.tv/2025/07/07/geo-optimisez-votre-visibilite-dans-les-moteurs-de-recherche-dia-generative/)
 - [Industrialiser sa production WordPress : C’est pour tout le monde](https://wordpress.tv/2025/07/07/industrialiser-sa-production-wordpress-cest-pour-tout-le-monde/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nouvelles obligations d’accessibilité pour les PME et l’e-commerce … Serez-vous prêt à temps ?](https://wordpress.tv/2025/06/21/nouvelles-obligations-daccessibilite-pour-les-pme-et-le-commerce-serez-vous-pret-a-temps/)
 - [Full Site Editing : une méthodologie en 5 étapes pour créer vos sites plus rapidement](https://wordpress.tv/2025/06/21/full-site-editing-une-methodologie-en-5-etapes-pour-creer-vos-sites-plus-rapidement/)
 - [Et si on se créait un plugin WP ensemble avec l’IA ?](https://wordpress.tv/2025/06/20/et-si-on-se-creait-un-plugin-wp-ensemble-avec-lia/)
-- [Le cache objet au service de l’écoconception](https://wordpress.tv/2025/06/20/le-cache-objet-au-service-de-lecoconception/)
 <!-- WPTV:END -->
 
 ## Marketing
