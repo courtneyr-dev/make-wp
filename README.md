@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Website Finisher](https://jobs.wordpress.net/job/wordpress-website-finisher/)
 - [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-37/)
 - [Elementor/Astra site help](https://jobs.wordpress.net/job/elementor-astra-site-help/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-6/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product area layout](https://jobs.wordpress.net/job/product-area-layout/)
 - [Use WordPress to set up organization’s webpage](https://jobs.wordpress.net/job/use-word-press-to-set-up-organizations-webpage/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-27/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-868/)
 <!-- JOBS:END -->
 
 ## Central
