@@ -3,7 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
-- [Summary, Dev Chat, July 10, 2025](https://make.wordpress.org/core/2025/07/10/summary-dev-chat-july-10-2025/)
+- [Summary, Dev Chat, July 9, 2025](https://make.wordpress.org/core/2025/07/10/summary-dev-chat-july-9-2025/)
 - [Core Committers Check-in – July 2025](https://make.wordpress.org/core/2025/07/10/core-committers-check-in-july-2025/)
 - [WordPress 6.8.2 RC1 is now available](https://make.wordpress.org/core/2025/07/08/wordpress-6-8-2-rc1-is-now-available/)
 - [Dev Chat Agenda – July 9, 2025](https://make.wordpress.org/core/2025/07/08/dev-chat-agenda-july-9-2025/)
