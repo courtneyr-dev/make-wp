@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Bit Form](https://make.wordpress.org/polyglots/2025/07/10/pte-request-for-bit-form-4/)
+- [PTE Request for Corvine Theme](https://make.wordpress.org/polyglots/2025/07/10/pte-request-for-corvine-theme-2/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/07/10/i-am-the-plugin-author-66/)
 - [PTE Request for EasyBuy Theme](https://make.wordpress.org/polyglots/2025/07/10/pte-request-for-easybuy-theme-5/)
 - [Agenda: Weekly Polyglots Chat – July 9, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/09/agenda-weekly-polyglots-chat-july-9-2025-700-utc/)
 - [X-post: Polyglots Week in Review: July 8, 2025](https://make.wordpress.org/polyglots/2025/07/08/xpost-polyglots-week-in-review-july-8-2025/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi,](https://make.wordpress.org/polyglots/2025/07/07/hi-121/)
 - [Looking for a Korean translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2025/07/07/looking-for-a-korean-translation-reviewer-for-learn-wordpress-content/)
 - [PTE Request for Advanced Product Fields for WooCommerce](https://make.wordpress.org/polyglots/2025/07/07/pte-request-for-advanced-product-fields-for-woocommerce-2/)
-- [PTE Request for Err – Custom Login Page](https://make.wordpress.org/polyglots/2025/07/07/pte-request-for-err-custom-login-page/)
-- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/07/hello-polyglots-team-15/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/07/04/i-am-the-plugin-author-65/)
 <!-- POLYGLOTS:END -->
 
 ## Support
