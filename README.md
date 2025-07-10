@@ -352,6 +352,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Catching all the &lpar;edge&rpar; cases: Getting started with automated testing](https://wordpress.tv/2025/07/10/catching-all-the-edge-cases-getting-started-with-automated-testing/)
+- [OMGWTF, Design Approved: How to Present Web Designs That Clients Can’t Refuse](https://wordpress.tv/2025/07/10/omgwtf-design-approved-how-to-present-web-designs-that-clients-cant-refuse/)
+- [Discoverability vs. Monetisation: Pros and Cons of the WordPress Plugin Repo](https://wordpress.tv/2025/07/10/discoverability-vs-monetisation-pros-and-cons-of-the-wordpress-plugin-repo/)
+- [Building Plugins That Stick: Lessons from Scaling Wholesale Suite, Advanced Coupons &amp; Beyond](https://wordpress.tv/2025/07/10/building-plugins-that-stick-lessons-from-scaling-wholesale-suite-advanced-coupons-beyond/)
+- [Building Client-Safe Websites](https://wordpress.tv/2025/07/10/building-client-safe-websites/)
+- [How to Design Your Next Career Move](https://wordpress.tv/2025/07/10/how-to-design-your-next-career-move/)
+- [A case study in using a customised product listing](https://wordpress.tv/2025/07/10/a-case-study-in-using-a-customised-product-listing/)
+- [Leading from the front: The harsh realities of effective technical leadership](https://wordpress.tv/2025/07/10/leading-from-the-front-the-harsh-realities-of-effective-technical-leadership/)
 - [Domena to nie wszystko, ale wszystko zaczyna się od domeny](https://wordpress.tv/2025/07/09/domena-to-nie-wszystko-ale-wszystko-zaczyna-sie-od-domeny/)
 - [Opieka nad stroną WordPress](https://wordpress.tv/2025/07/09/opieka-nad-strona-wordpress/)
 - [Instalacja WordPressa](https://wordpress.tv/2025/07/09/instalacja-wordpressa/)
@@ -369,14 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How we closed almost 1000 plugins in a month – a story of the biggest WordPress bug bounty hunt](https://wordpress.tv/2025/07/09/how-we-closed-almost-1000-plugins-in-a-month-a-story-of-the-biggest-wordpress-bug-bounty-hunt/)
 - [Czy SaaS powinien mieć wtyczkę do WordPressa?](https://wordpress.tv/2025/07/09/czy-saas-powinien-miec-wtyczke-do-wordpressa/)
 - [Fixing and Optimizing websites with AI](https://wordpress.tv/2025/07/09/fixing-and-optimizing-websites-with-ai/)
-- [Jesús Serrano: Automatizaciones 101: Flujos y agentes IA](https://wordpress.tv/2025/07/08/jesus-serrano-automatizaciones-101-flujos-y-agentes-ia/)
-- [Chantons une bonne relation dans la chorale d’un projet web](https://wordpress.tv/2025/07/07/chantons-une-bonne-relation-dans-la-chorale-dun-projet-web/)
-- [GEO : Optimisez votre visibilité dans les moteurs de recherche d’IA générative](https://wordpress.tv/2025/07/07/geo-optimisez-votre-visibilite-dans-les-moteurs-de-recherche-dia-generative/)
-- [Industrialiser sa production WordPress : C’est pour tout le monde](https://wordpress.tv/2025/07/07/industrialiser-sa-production-wordpress-cest-pour-tout-le-monde/)
-- [No Internet? No Problem – Offline AI Pair Coding with Ollama](https://wordpress.tv/2025/07/03/no-internet-no-problem-offline-ai-pair-coding-with-ollama/)
-- [Factura electrónica vs Verifactu: diferencias, obligaciones y soluciones](https://wordpress.tv/2025/07/03/factura-electronica-vs-verifactu-diferencias-obligaciones-y-soluciones/)
-- [Patch Testing and Unit Testing Basics for WordPress Core Development](https://wordpress.tv/2025/07/03/patch-testing-and-unit-testing-basics-for-wordpress-core-development/)
-- [Beyond WordPress firewalls: Real-World WordPress Security from a Hosting Perspective](https://wordpress.tv/2025/07/01/beyond-wordpress-firewalls-real-world-wordpress-security-from-a-hosting-perspective/)
 <!-- WPTV:END -->
 
 ## Marketing
