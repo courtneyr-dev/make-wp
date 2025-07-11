@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Customer Reviews…](https://make.wordpress.org/polyglots/2025/07/11/pte-request-for-customer-reviews-5/)
+- [I’m the author of the…](https://make.wordpress.org/polyglots/2025/07/11/im-the-author-of-the-4/)
 - [PTE Request for Bit Form](https://make.wordpress.org/polyglots/2025/07/10/pte-request-for-bit-form-4/)
 - [PTE Request for Corvine Theme](https://make.wordpress.org/polyglots/2025/07/10/pte-request-for-corvine-theme-2/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/07/10/i-am-the-plugin-author-66/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Polyglots Week in Review: July 8, 2025](https://make.wordpress.org/polyglots/2025/07/08/xpost-polyglots-week-in-review-july-8-2025/)
 - [PTE Request for Corvine Theme](https://make.wordpress.org/polyglots/2025/07/08/pte-request-for-corvine-theme/)
 - [Hi,](https://make.wordpress.org/polyglots/2025/07/07/hi-121/)
-- [Looking for a Korean translation reviewer for Learn WordPress content](https://make.wordpress.org/polyglots/2025/07/07/looking-for-a-korean-translation-reviewer-for-learn-wordpress-content/)
-- [PTE Request for Advanced Product Fields for WooCommerce](https://make.wordpress.org/polyglots/2025/07/07/pte-request-for-advanced-product-fields-for-woocommerce-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
