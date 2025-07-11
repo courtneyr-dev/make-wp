@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Diseña tu propio tema de bloques de WordPress sin código](https://wordpress.tv/2025/07/10/disena-tu-propio-tema-de-bloques-de-wordpress-sin-codigo/)
 - [Catching all the &lpar;edge&rpar; cases: Getting started with automated testing](https://wordpress.tv/2025/07/10/catching-all-the-edge-cases-getting-started-with-automated-testing/)
 - [OMGWTF, Design Approved: How to Present Web Designs That Clients Can’t Refuse](https://wordpress.tv/2025/07/10/omgwtf-design-approved-how-to-present-web-designs-that-clients-cant-refuse/)
 - [Discoverability vs. Monetisation: Pros and Cons of the WordPress Plugin Repo](https://wordpress.tv/2025/07/10/discoverability-vs-monetisation-pros-and-cons-of-the-wordpress-plugin-repo/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Duży, a wciąż szybki. Jak skalować sklep lub serwis na WP bez utraty wydajności?](https://wordpress.tv/2025/07/09/duzy-a-wciaz-szybki-jak-skalowac-sklep-lub-serwis-na-wp-bez-utraty-wydajnosci/)
 - [How we closed almost 1000 plugins in a month – a story of the biggest WordPress bug bounty hunt](https://wordpress.tv/2025/07/09/how-we-closed-almost-1000-plugins-in-a-month-a-story-of-the-biggest-wordpress-bug-bounty-hunt/)
 - [Czy SaaS powinien mieć wtyczkę do WordPressa?](https://wordpress.tv/2025/07/09/czy-saas-powinien-miec-wtyczke-do-wordpressa/)
-- [Fixing and Optimizing websites with AI](https://wordpress.tv/2025/07/09/fixing-and-optimizing-websites-with-ai/)
 <!-- WPTV:END -->
 
 ## Marketing
