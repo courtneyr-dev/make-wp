@@ -409,7 +409,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
-- [Hosting Team Meeting Agenda 2025-07-09](https://make.wordpress.org/hosting/2025/07/09/hosting-team-meeting-on-2025-07-02-2/)
+- [Hosting Team Meeting Agenda 2025-07-09](https://make.wordpress.org/hosting/2025/07/09/hosting-team-meeting-on-2025-07-09/)
 - [Hosting Team Meeting Agenda 2025-07-02](https://make.wordpress.org/hosting/2025/07/02/hosting-team-meeting-on-2025-07-02/)
 - [X-post: Proposal: Clarifying Core’s Database Support Policy](https://make.wordpress.org/hosting/2025/06/28/xpost-proposal-clarifying-cores-database-support-policy/)
 - [RFC: Automated Hosting Test Runner Service](https://make.wordpress.org/hosting/2025/06/25/rfc-automated-hosting-test-runner-service/)
