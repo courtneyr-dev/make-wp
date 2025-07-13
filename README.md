@@ -530,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product area layout](https://jobs.wordpress.net/job/product-area-layout/)
 - [Use WordPress to set up organization’s webpage](https://jobs.wordpress.net/job/use-word-press-to-set-up-organizations-webpage/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-27/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-868/)
 <!-- JOBS:END -->
 
 ## Central
