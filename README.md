@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Porzuć to, póki możesz – o projektach, które trzeba zabić zanim zabiją Ciebie](https://wordpress.tv/2025/07/13/porzuc-to-poki-mozesz-o-projektach-ktore-trzeba-zabic-zanim-zabija-ciebie/)
+- [Jak nie dać sobie ukraść 100 000 euro](https://wordpress.tv/2025/07/13/jak-nie-dac-sobie-ukrasc-100-000-euro/)
 - [Jak delegować z głową i nie zajechać swojej wirtualnej asystentki](https://wordpress.tv/2025/07/13/jak-delegowac-z-glowa-i-nie-zajechac-swojej-wirtualnej-asystentki/)
 - [Jak tworzyć zespoły zdolne do tego, by dowieźć każdy projekt?](https://wordpress.tv/2025/07/13/jak-tworzyc-zespoly-zdolne-do-tego-by-dowiezc-kazdy-projekt/)
 - [Dlaczego UOKiK interesuje się Twoim sklepem? Błędy, które popełniasz](https://wordpress.tv/2025/07/13/dlaczego-uokik-interesuje-sie-twoim-sklepem-bledy-ktore-popelniasz/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [AI w Web Developmencie – kiedy pomaga a kiedy szkodzi?](https://wordpress.tv/2025/07/09/ai-w-web-developmencie-kiedy-pomaga-a-kiedy-szkodzi/)
 - [Skrzynka narzędziowa Blue Team](https://wordpress.tv/2025/07/09/skrzynka-narzedziowa-blue-team/)
 - [Panel dyskusyjny: Hosting](https://wordpress.tv/2025/07/09/panel-dyskusyjny-hosting/)
-- [Panel Dyskusyjny: AI](https://wordpress.tv/2025/07/09/panel-dyskusyjny-ai/)
-- [„Nie musisz kodować, żeby działało” – o roli kompetencji miękkich w IT](https://wordpress.tv/2025/07/09/nie-musisz-kodowac-zeby-dzialalo-o-roli-kompetencji-miekkich-w-it/)
 <!-- WPTV:END -->
 
 ## Marketing
