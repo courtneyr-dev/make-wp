@@ -352,6 +352,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Jak delegować z głową i nie zajechać swojej wirtualnej asystentki](https://wordpress.tv/2025/07/13/jak-delegowac-z-glowa-i-nie-zajechac-swojej-wirtualnej-asystentki/)
+- [Jak tworzyć zespoły zdolne do tego, by dowieźć każdy projekt?](https://wordpress.tv/2025/07/13/jak-tworzyc-zespoly-zdolne-do-tego-by-dowiezc-kazdy-projekt/)
+- [Dlaczego UOKiK interesuje się Twoim sklepem? Błędy, które popełniasz](https://wordpress.tv/2025/07/13/dlaczego-uokik-interesuje-sie-twoim-sklepem-bledy-ktore-popelniasz/)
+- [Why Most Agencies Are Losing Money on Client Onboarding &lpar;and How to Fix It&rpar;](https://wordpress.tv/2025/07/13/why-most-agencies-are-losing-money-on-client-onboarding-and-how-to-fix-it/)
+- [gramatyka sprzedaży](https://wordpress.tv/2025/07/13/gramatyka-sprzedazy/)
+- [Zmęczony/a dramą i niedowiezioną robotą? Czas na CQ!](https://wordpress.tv/2025/07/13/zmeczony-a-drama-i-niedowieziona-robota-czas-na-cq/)
+- [Why contributing is good for business: Benefits of being active in WordPress](https://wordpress.tv/2025/07/13/why-contributing-is-good-for-business-benefits-of-being-active-in-wordpress/)
 - [Diseña tu propio tema de bloques de WordPress sin código](https://wordpress.tv/2025/07/10/disena-tu-propio-tema-de-bloques-de-wordpress-sin-codigo/)
 - [Catching all the &lpar;edge&rpar; cases: Getting started with automated testing](https://wordpress.tv/2025/07/10/catching-all-the-edge-cases-getting-started-with-automated-testing/)
 - [OMGWTF, Design Approved: How to Present Web Designs That Clients Can’t Refuse](https://wordpress.tv/2025/07/10/omgwtf-design-approved-how-to-present-web-designs-that-clients-cant-refuse/)
@@ -370,13 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Panel dyskusyjny: Hosting](https://wordpress.tv/2025/07/09/panel-dyskusyjny-hosting/)
 - [Panel Dyskusyjny: AI](https://wordpress.tv/2025/07/09/panel-dyskusyjny-ai/)
 - [„Nie musisz kodować, żeby działało” – o roli kompetencji miękkich w IT](https://wordpress.tv/2025/07/09/nie-musisz-kodowac-zeby-dzialalo-o-roli-kompetencji-miekkich-w-it/)
-- [I allowed my websites to be hacked so I could develop a defense plan](https://wordpress.tv/2025/07/09/i-allowed-my-websites-to-be-hacked-so-i-could-develop-a-defense-plan/)
-- [Nieoczywiste zagadnienia techniczne, które powinien znać każdy WordPress Developer](https://wordpress.tv/2025/07/09/nieoczywiste-zagadnienia-techniczne-ktore-powinien-znac-kazdy-wordpress-developer/)
-- [Nie Daj Się Oszukać: Podstawy Walidacji Danych w WordPress](https://wordpress.tv/2025/07/09/nie-daj-sie-oszukac-podstawy-walidacji-danych-w-wordpress/)
-- [WordPress gems for devs: fresh new features you’ll actually want to use](https://wordpress.tv/2025/07/09/wordpress-gems-for-devs-fresh-new-features-youll-actually-want-to-use/)
-- [Duży, a wciąż szybki. Jak skalować sklep lub serwis na WP bez utraty wydajności?](https://wordpress.tv/2025/07/09/duzy-a-wciaz-szybki-jak-skalowac-sklep-lub-serwis-na-wp-bez-utraty-wydajnosci/)
-- [How we closed almost 1000 plugins in a month – a story of the biggest WordPress bug bounty hunt](https://wordpress.tv/2025/07/09/how-we-closed-almost-1000-plugins-in-a-month-a-story-of-the-biggest-wordpress-bug-bounty-hunt/)
-- [Czy SaaS powinien mieć wtyczkę do WordPressa?](https://wordpress.tv/2025/07/09/czy-saas-powinien-miec-wtyczke-do-wordpressa/)
 <!-- WPTV:END -->
 
 ## Marketing
