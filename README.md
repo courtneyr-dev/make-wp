@@ -529,7 +529,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Freelance WordPress Theme Developer](https://jobs.wordpress.net/job/freelance-wordpress-theme-developer/)
 - [Product area layout](https://jobs.wordpress.net/job/product-area-layout/)
 - [Use WordPress to set up organization’s webpage](https://jobs.wordpress.net/job/use-word-press-to-set-up-organizations-webpage/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-27/)
 <!-- JOBS:END -->
 
 ## Central
