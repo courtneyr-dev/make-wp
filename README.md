@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Panel discussion: Page Builders](https://wordpress.tv/2025/07/14/panel-discussion-page-builders/)
+- [Strona to za mało – jak zarabiać na usługach, których potrzebują lokalne firmy](https://wordpress.tv/2025/07/14/strona-to-za-malo-jak-zarabiac-na-uslugach-ktorych-potrzebuja-lokalne-firmy/)
+- [WordPress bez pułapek – jak obsługiwać stronę bezpiecznie, legalnie i bez zbędnych kosztów](https://wordpress.tv/2025/07/14/wordpress-bez-pulapek-jak-obslugiwac-strone-bezpiecznie-legalnie-i-bez-zbednych-kosztow/)
+- [Attribution Accuracy for WordPress Plugins: From Confusion to Clarity](https://wordpress.tv/2025/07/14/attribution-accuracy-for-wordpress-plugins-from-confusion-to-clarity/)
+- [Mamy to! WordCamp Europe 2026](https://wordpress.tv/2025/07/14/mamy-to-wordcamp-europe-2026/)
+- [WCEU 2025 After movie](https://wordpress.tv/2025/07/14/wceu-2025-after-movie/)
 - [Porzuć to, póki możesz – o projektach, które trzeba zabić zanim zabiją Ciebie](https://wordpress.tv/2025/07/13/porzuc-to-poki-mozesz-o-projektach-ktore-trzeba-zabic-zanim-zabija-ciebie/)
 - [Jak nie dać sobie ukraść 100 000 euro](https://wordpress.tv/2025/07/13/jak-nie-dac-sobie-ukrasc-100-000-euro/)
 - [Jak delegować z głową i nie zajechać swojej wirtualnej asystentki](https://wordpress.tv/2025/07/13/jak-delegowac-z-glowa-i-nie-zajechac-swojej-wirtualnej-asystentki/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A case study in using a customised product listing](https://wordpress.tv/2025/07/10/a-case-study-in-using-a-customised-product-listing/)
 - [Leading from the front: The harsh realities of effective technical leadership](https://wordpress.tv/2025/07/10/leading-from-the-front-the-harsh-realities-of-effective-technical-leadership/)
 - [Domena to nie wszystko, ale wszystko zaczyna się od domeny](https://wordpress.tv/2025/07/09/domena-to-nie-wszystko-ale-wszystko-zaczyna-sie-od-domeny/)
-- [Opieka nad stroną WordPress](https://wordpress.tv/2025/07/09/opieka-nad-strona-wordpress/)
-- [Instalacja WordPressa](https://wordpress.tv/2025/07/09/instalacja-wordpressa/)
-- [Page Buildery](https://wordpress.tv/2025/07/09/page-buildery/)
-- [AI w Web Developmencie – kiedy pomaga a kiedy szkodzi?](https://wordpress.tv/2025/07/09/ai-w-web-developmencie-kiedy-pomaga-a-kiedy-szkodzi/)
-- [Skrzynka narzędziowa Blue Team](https://wordpress.tv/2025/07/09/skrzynka-narzedziowa-blue-team/)
-- [Panel dyskusyjny: Hosting](https://wordpress.tv/2025/07/09/panel-dyskusyjny-hosting/)
 <!-- WPTV:END -->
 
 ## Marketing
