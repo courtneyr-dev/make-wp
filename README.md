@@ -521,14 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-10/)
+- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-19/)
+- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-7/)
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-9/)
+- [Product Assistant](https://jobs.wordpress.net/job/product-assistant-4/)
+- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-28/)
 - [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-37/)
 - [Elementor/Astra site help](https://jobs.wordpress.net/job/elementor-astra-site-help/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-6/)
 - [Lead Website Engineer](https://jobs.wordpress.net/job/lead-website-engineer/)
-- [Website Development for Heka Leka Foundation](https://jobs.wordpress.net/job/website-development-for-heka-leka-foundation/)
-- [Freelance WordPress Theme Developer](https://jobs.wordpress.net/job/freelance-wordpress-theme-developer/)
-- [Product area layout](https://jobs.wordpress.net/job/product-area-layout/)
-- [Use WordPress to set up organization’s webpage](https://jobs.wordpress.net/job/use-word-press-to-set-up-organizations-webpage/)
 <!-- JOBS:END -->
 
 ## Central
