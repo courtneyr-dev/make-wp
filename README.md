@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Cisza przed burzą – jak hosting zniszczył &lpar;albo uratował&rpar; moją stronę](https://wordpress.tv/2025/07/15/cisza-przed-burza-jak-hosting-zniszczyl-albo-uratowal-moja-strone/)
+- [Czy ej-aj zamieni się w oj-oj?](https://wordpress.tv/2025/07/15/czy-ej-aj-zamieni-sie-w-oj-oj/)
+- [Dostępność Cyfrowa: Kluczowe aspekty tworzenia serwisów bez barier](https://wordpress.tv/2025/07/15/dostepnosc-cyfrowa-kluczowe-aspekty-tworzenia-serwisow-bez-barier/)
+- [6 taktyk jak wykorzystać LinkedIn do sprzedaży swoich usług do firm B2B i nie zostać spamerem](https://wordpress.tv/2025/07/15/6-taktyk-jak-wykorzystac-linkedin-do-sprzedazy-swoich-uslug-do-firm-b2b-i-nie-zostac-spamerem/)
+- [Modelowanie ścieżek konwersji B2B na stronach WWW](https://wordpress.tv/2025/07/15/modelowanie-sciezek-konwersji-b2b-na-stronach-www/)
+- [8 projektów na raz, czyli jak być solo konsultantem i nie zwariować](https://wordpress.tv/2025/07/15/8-projektow-na-raz-czyli-jak-byc-solo-konsultantem-i-nie-zwariowac/)
+- [Jeden WordPress, by wszystkimi rządzić… czyli o WordPress Multisite](https://wordpress.tv/2025/07/15/jeden-wordpress-by-wszystkimi-rzadzic-czyli-o-wordpress-multisite/)
+- [Jak zarabiać więcej dzięki produktom cyfrowym](https://wordpress.tv/2025/07/15/jak-zarabiac-wiecej-dzieki-produktom-cyfrowym/)
+- [Nie tylko wykonawczyni, ale partnerka – jak budować relacje z klientami jako Wirtualna Asystentka?](https://wordpress.tv/2025/07/15/nie-tylko-wykonawczyni-ale-partnerka-jak-budowac-relacje-z-klientami-jako-wirtualna-asystentka/)
+- [Page Builder WordPress, czyli nie wszystko złoto, co się świeci. Jak efektywnie go wykorzystać jedno](https://wordpress.tv/2025/07/15/page-builder-wordpress-czyli-nie-wszystko-zloto-co-sie-swieci-jak-efektywnie-go-wykorzystac-jedno/)
 - [Panel discussion: Page Builders](https://wordpress.tv/2025/07/14/panel-discussion-page-builders/)
 - [Strona to za mało – jak zarabiać na usługach, których potrzebują lokalne firmy](https://wordpress.tv/2025/07/14/strona-to-za-malo-jak-zarabiac-na-uslugach-ktorych-potrzebuja-lokalne-firmy/)
 - [WordPress bez pułapek – jak obsługiwać stronę bezpiecznie, legalnie i bez zbędnych kosztów](https://wordpress.tv/2025/07/14/wordpress-bez-pulapek-jak-obslugiwac-strone-bezpiecznie-legalnie-i-bez-zbednych-kosztow/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [gramatyka sprzedaży](https://wordpress.tv/2025/07/13/gramatyka-sprzedazy/)
 - [Zmęczony/a dramą i niedowiezioną robotą? Czas na CQ!](https://wordpress.tv/2025/07/13/zmeczony-a-drama-i-niedowieziona-robota-czas-na-cq/)
 - [Why contributing is good for business: Benefits of being active in WordPress](https://wordpress.tv/2025/07/13/why-contributing-is-good-for-business-benefits-of-being-active-in-wordpress/)
-- [Diseña tu propio tema de bloques de WordPress sin código](https://wordpress.tv/2025/07/10/disena-tu-propio-tema-de-bloques-de-wordpress-sin-codigo/)
-- [Catching all the &lpar;edge&rpar; cases: Getting started with automated testing](https://wordpress.tv/2025/07/10/catching-all-the-edge-cases-getting-started-with-automated-testing/)
-- [OMGWTF, Design Approved: How to Present Web Designs That Clients Can’t Refuse](https://wordpress.tv/2025/07/10/omgwtf-design-approved-how-to-present-web-designs-that-clients-cant-refuse/)
-- [Discoverability vs. Monetisation: Pros and Cons of the WordPress Plugin Repo](https://wordpress.tv/2025/07/10/discoverability-vs-monetisation-pros-and-cons-of-the-wordpress-plugin-repo/)
-- [Building Plugins That Stick: Lessons from Scaling Wholesale Suite, Advanced Coupons &amp; Beyond](https://wordpress.tv/2025/07/10/building-plugins-that-stick-lessons-from-scaling-wholesale-suite-advanced-coupons-beyond/)
-- [Building Client-Safe Websites](https://wordpress.tv/2025/07/10/building-client-safe-websites/)
-- [How to Design Your Next Career Move](https://wordpress.tv/2025/07/10/how-to-design-your-next-career-move/)
-- [A case study in using a customised product listing](https://wordpress.tv/2025/07/10/a-case-study-in-using-a-customised-product-listing/)
-- [Leading from the front: The harsh realities of effective technical leadership](https://wordpress.tv/2025/07/10/leading-from-the-front-the-harsh-realities-of-effective-technical-leadership/)
-- [Domena to nie wszystko, ale wszystko zaczyna się od domeny](https://wordpress.tv/2025/07/09/domena-to-nie-wszystko-ale-wszystko-zaczyna-sie-od-domeny/)
 <!-- WPTV:END -->
 
 ## Marketing
