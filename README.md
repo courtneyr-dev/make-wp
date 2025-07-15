@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.8.2 Maintenance Release](https://wordpress.org/news/2025/07/wordpress-6-8-2-maintenance-release/)
 - [Celebrating Kim Parsell: 2025 WordCamp US Scholarship Applications Open](https://wordpress.org/news/2025/07/kim-parsell-2025-wcus-scholarship-applications-open/)
 - [Introducing WordPress Credits: A New Contribution Internship Program for University Students](https://wordpress.org/news/2025/07/introducing-wordpress-credits-a-new-contribution-internship-program-for-university-students/)
 - [WordCamp US 2025: See You in Portland, Oregon!](https://wordpress.org/news/2025/06/wordcamp-us-2025-see-you-in-portland-oregon/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Campus Connect Expands](https://wordpress.org/news/2025/05/wordpress-campus-connect-expands/)
 - [WordPress 6.8.1 Maintenance Release](https://wordpress.org/news/2025/04/wordpress-6-8-1-maintenance-release/)
 - [WordPress Jubilee](https://wordpress.org/news/2025/04/jubilee/)
-- [WordPress 6.8 “Cecil”](https://wordpress.org/news/2025/04/cecil/)
 <!-- NEWS:END -->
 
 ## Jobs
