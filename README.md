@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Summary: 15 July 2025](https://make.wordpress.org/core/2025/07/15/performance-chat-summary-15-july-2025/)
 - [WordPress 6.9 Planning Proposal and Call for Volunteers](https://make.wordpress.org/core/2025/07/11/wordpress-6-9-planning-proposal-and-call-for-volunteers/)
 - [Proposal: PHPStan in the WordPress core development workflow](https://make.wordpress.org/core/2025/07/11/proposal-phpstan-in-the-wordpress-core-development-workflow/)
 - [Summary, Dev Chat, July 9, 2025](https://make.wordpress.org/core/2025/07/10/summary-dev-chat-july-9-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Agenda – June 25, 2025](https://make.wordpress.org/core/2025/06/24/dev-chat-agenda-june-25-2025/)
 - [X-post: Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/core/2025/06/24/xpost-online-monthly-docs-team-contributor-day-july-22-2025/)
 - [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/core/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
-- [Summary, Dev Chat, June 18, 2025](https://make.wordpress.org/core/2025/06/19/summary-dev-chat-june-18-2025/)
 <!-- CORE:END -->
 
 ## Design
