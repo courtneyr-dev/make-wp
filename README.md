@@ -493,6 +493,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Hosts missing from Munin](https://make.wordpress.org/systems/2025/07/17/hosts-missing-from-munin/)
+- [Themes.trac 504’s causing automation failures](https://make.wordpress.org/systems/2025/07/17/themes-trac-504s-causing-automation-failures/)
 - [Proxy access – webtechpooja](https://make.wordpress.org/systems/2025/07/08/proxy-access-webtechpooja/)
 - [WordPress Campus Connect – ms-files rule missed](https://make.wordpress.org/systems/2025/06/30/wordpress-campus-connect-ms-files-rule-missed/)
 - [Plugins pre-commit block request](https://make.wordpress.org/systems/2025/06/20/plugins-pre-commit-block-request/)
@@ -501,8 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mailing lists subscription functions broken.](https://make.wordpress.org/systems/2025/05/02/mailing-lists-subscription-functions-broken/)
 - [I’d like to request access…](https://make.wordpress.org/systems/2025/05/01/id-like-to-request-access/)
 - [Plugins pre-commit rule to prevent nested tags](https://make.wordpress.org/systems/2025/04/30/plugins-pre-commit-rule-to-prevent-nested-tags/)
-- [Similar issue to: https://make.wordpress.org/systems/?p=2374 VSCode…](https://make.wordpress.org/systems/2025/04/16/similar-issue-to-https-make-wordpress-org-systems-p2374-vscode/)
-- [Remove mu.wordpress.org’s deprecated forums](https://make.wordpress.org/systems/2025/01/07/remove-mu-wordpress-orgs-deprecated-forums/)
 <!-- SYSTEMS:END -->
 
 ## News
