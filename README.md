@@ -325,6 +325,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [🧪 Calling All Test Team Contributors for WCUS 2025! 🇺🇸](https://make.wordpress.org/test/2025/07/17/%f0%9f%a7%aa-calling-all-test-team-contributors-for-wcus-2025-%f0%9f%87%ba%f0%9f%87%b8/)
+- [Test Chat Summary: July 16, 2025](https://make.wordpress.org/test/2025/07/17/test-chat-summary-july-16-2025/)
 - [X-post: Test Team Update: 16 July, 2025](https://make.wordpress.org/test/2025/07/16/xpost-test-team-update-16-july-2025/)
 - [Team Chat Agenda: 16 July 2025](https://make.wordpress.org/test/2025/07/16/team-chat-agenda-16-july-2025/)
 - [Week in Test: July 14, 2025](https://make.wordpress.org/test/2025/07/14/week-in-test-july-14-2025/)
@@ -333,8 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Team Update: 7 July, 2025](https://make.wordpress.org/test/2025/07/07/xpost-test-team-update-7-july-2025/)
 - [Team Chat Agenda: 02 July 2025](https://make.wordpress.org/test/2025/07/02/team-chat-agenda-02-july-2025/)
 - [X-post: Test Team Update: 30 June, 2025](https://make.wordpress.org/test/2025/06/30/xpost-test-team-update-30-june-2025-2/)
-- [X-post: Test Team Update: 30 June, 2025](https://make.wordpress.org/test/2025/06/30/xpost-test-team-update-30-june-2025/)
-- [Week in Test: June 30, 2025](https://make.wordpress.org/test/2025/06/30/week-in-test-june-30-2025/)
 <!-- TEST:END -->
 
 ## TV
