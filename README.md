@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi Polyglots team 👋](https://make.wordpress.org/polyglots/2025/07/17/hi-polyglots-team-%f0%9f%91%8b/)
 - [PTE Request for Events Manager and others](https://make.wordpress.org/polyglots/2025/07/17/pte-request-for-events-manager-and-others/)
 - [Dear WordPress Translation Team,](https://make.wordpress.org/polyglots/2025/07/16/dear-wordpress-translation-team-2/)
 - [Agenda: Weekly Polyglots Chat – July 16, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/16/agenda-weekly-polyglots-chat-july-16-2025-1300-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Customer Reviews…](https://make.wordpress.org/polyglots/2025/07/11/pte-request-for-customer-reviews-5/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2025/07/11/im-the-author-of-the-4/)
 - [PTE Request for Bit Form](https://make.wordpress.org/polyglots/2025/07/10/pte-request-for-bit-form-4/)
-- [PTE Request for Corvine Theme](https://make.wordpress.org/polyglots/2025/07/10/pte-request-for-corvine-theme-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
