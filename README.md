@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Fullstack Developer](https://jobs.wordpress.net/job/wordpress-fullstack-developer-3/)
+- [Skilled Frontend/Full-Stack WordPress Developer](https://jobs.wordpress.net/job/skilled-frontend-full-stack-wordpress-developer/)
+- [Programming &amp; Automation Specialist](https://jobs.wordpress.net/job/programming-automation-specialist/)
+- [migrate wix site to WordPress](https://jobs.wordpress.net/job/migrate-wix-site-to-wordpress/)
 - [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-10/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-19/)
 - [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-7/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-9/)
 - [Product Assistant](https://jobs.wordpress.net/job/product-assistant-4/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-28/)
-- [PHP WordPress Developer](https://jobs.wordpress.net/job/php-wordpress-developer-37/)
-- [Elementor/Astra site help](https://jobs.wordpress.net/job/elementor-astra-site-help/)
-- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-6/)
-- [Lead Website Engineer](https://jobs.wordpress.net/job/lead-website-engineer/)
 <!-- JOBS:END -->
 
 ## Central
