@@ -564,10 +564,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Diversity Day Valencia 2025](https://central.wordcamp.org/wordcamps/diversity-day-valencia-2025/)
 - [WordCamp Galicia 2025](https://central.wordcamp.org/wordcamps/wordcamp-galicia-2025/)
 - [WordCamp Lira 2025](https://central.wordcamp.org/wordcamps/wordcamp-lira-2025/)
-- [WordCamp Gdynia 2025 EN/PL](https://central.wordcamp.org/wordcamps/wordcamp-gdynia-2025/)
 - [WordCamp Valencia 2025. WordPress Tech Congress.](https://central.wordcamp.org/wordcamps/wordcamp-valencia-2025/)
 - [WP Build Tour Bhopal, M.P.](https://central.wordcamp.org/wordcamps/build-tour-bhopal/)
 - [WordCamp Bengaluru 2025](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-2025/)
+- [WordPress Youth Day Nicaragua](https://central.wordcamp.org/wordcamps/youth-day-nicaragua-2025/)
 - [WordCamp Pisa, Tuscany, Italy](https://central.wordcamp.org/wordcamps/wordcamp-pisa-2025/)
 <!-- WordCamp:END -->
 
