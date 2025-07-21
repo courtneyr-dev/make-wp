@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for Arabic Translation Editor…](https://make.wordpress.org/polyglots/2025/07/21/request-for-arabic-translation-editor/)
 - [PTE Request for Err –…](https://make.wordpress.org/polyglots/2025/07/21/pte-request-for-err/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2025/07/21/ive-suggested-translations-for-this-35/)
 - [Brainstorm: Polyglots Table at WCUS 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/07/21/brainstorm-polyglots-table-at-wcus-2025-contributor-day/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/20/pte-request-for-avinex-theme-2/)
 - [PTE Request for EmailZap](https://make.wordpress.org/polyglots/2025/07/19/pte-request-for-emailzap/)
 - [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/19/pte-request-for-avinex-theme/)
-- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/18/hi-polyglots-team-16/)
 <!-- POLYGLOTS:END -->
 
 ## Support
