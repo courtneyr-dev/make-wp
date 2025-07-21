@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Brainstorm: Polyglots Table at WCUS 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/07/21/brainstorm-polyglots-table-at-wcus-2025-contributor-day/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/21/hello-polyglots-team-17/)
 - [Locale: es_PY](https://make.wordpress.org/polyglots/2025/07/21/locale-es_py/)
 - [PTE Request for Smart Manager – Advanced WooCommerce Bulk Edit &amp; Inventory Management](https://make.wordpress.org/polyglots/2025/07/20/pte-request-for-smart-manager-advanced-woocommerce-bulk-edit-inventory-management/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/18/hi-polyglots-team-16/)
 - [Hello Polyglots team](https://make.wordpress.org/polyglots/2025/07/18/hello-polyglots-team-16/)
 - [Hi Polyglots team 👋](https://make.wordpress.org/polyglots/2025/07/17/hi-polyglots-team-%f0%9f%91%8b/)
-- [PTE Request for Events Manager and others](https://make.wordpress.org/polyglots/2025/07/17/pte-request-for-events-manager-and-others/)
 <!-- POLYGLOTS:END -->
 
 ## Support
