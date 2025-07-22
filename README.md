@@ -83,6 +83,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Online monthly Docs Team Contributor Day August 26, 2025](https://make.wordpress.org/support/2025/07/xpost-online-monthly-docs-team-contributor-day-august-26-2025/)
 - [X-post: Proposal: Clarifying Core’s Database Support Policy](https://make.wordpress.org/support/2025/06/xpost-proposal-clarifying-cores-database-support-policy/)
 - [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/support/2025/06/xpost-a-little-late-spring-cleaning/)
 - [X-post: Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/support/2025/06/xpost-online-monthly-docs-team-contributor-day-july-22-2025/)
@@ -92,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/support/2024/12/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/support/2024/11/xpost-hello-wordpress-community-lets-chat/)
 - [Support Team Meeting – October November 14th](https://make.wordpress.org/support/2024/11/support-team-meeting-october-november-14th/)
-- [X-post: Training Team Updates – November 2024](https://make.wordpress.org/support/2024/11/xpost-training-team-updates-november-2024/)
 <!-- SUPPORT:END -->
 
 ## Documentation
