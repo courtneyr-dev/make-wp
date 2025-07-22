@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – July 23, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/22/agenda-weekly-polyglots-chat-july-23-2025-700-utc/)
 - [Request for Arabic Translation Editor…](https://make.wordpress.org/polyglots/2025/07/21/request-for-arabic-translation-editor/)
 - [PTE Request for Err –…](https://make.wordpress.org/polyglots/2025/07/21/pte-request-for-err/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2025/07/21/ive-suggested-translations-for-this-35/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Smart Manager – Advanced WooCommerce Bulk Edit &amp; Inventory Management](https://make.wordpress.org/polyglots/2025/07/20/pte-request-for-smart-manager-advanced-woocommerce-bulk-edit-inventory-management/)
 - [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/20/pte-request-for-avinex-theme-2/)
 - [PTE Request for EmailZap](https://make.wordpress.org/polyglots/2025/07/19/pte-request-for-emailzap/)
-- [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/19/pte-request-for-avinex-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
