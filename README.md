@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Online monthly Docs Team Contributor Day August 26, 2025](https://make.wordpress.org/community/2025/07/22/xpost-online-monthly-docs-team-contributor-day-august-26-2025/)
 - [How to Talk About and Support the New WordPress Education Initiatives](https://make.wordpress.org/community/2025/07/18/how-to-talk-about-and-support-the-new-wordpress-education-initiatives/)
 - [Meetup Organizer Newsletter: July 2025](https://make.wordpress.org/community/2025/07/15/meetup-organizer-newsletter-july-2025/)
 - [Community Team July 2025 Meeting Recap](https://make.wordpress.org/community/2025/07/09/community-team-july-2025-meeting-recap/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Incident Response Team is looking for new members](https://make.wordpress.org/community/2025/06/23/the-incident-response-team-is-looking-for-new-members/)
 - [X-post: Five for the Future WCEU25 Chat](https://make.wordpress.org/community/2025/06/17/xpost-five-for-the-future-wceu25-chat/)
 - [Proposal: Prioritizing CampTix Improvements for a Better Organizer and Attendee Experience](https://make.wordpress.org/community/2025/06/13/proposal-prioritizing-camptix-improvements-for-a-better-organizer-and-attendee-experience/)
-- [New Handbook Page for WordPress Campus Connect](https://make.wordpress.org/community/2025/06/13/new-handbook-page-for-wordpress-campus-connect/)
 <!-- COMMUNITY:END -->
 
 ## Meta
