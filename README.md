@@ -97,6 +97,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day August 26, 2025](https://make.wordpress.org/docs/2025/07/22/online-monthly-docs-team-contributor-day-august-26-2025/)
+- [Summary of Docs Team meeting July 15, 2025](https://make.wordpress.org/docs/2025/07/22/summary-of-docs-team-meeting-july-15-2025/)
 - [Agenda for Discussion Meeting July 15, 2025](https://make.wordpress.org/docs/2025/07/15/agenda-for-discussion-meeting-july-15-2025/)
 - [Summary of Docs Team meeting July 1, 2025](https://make.wordpress.org/docs/2025/07/02/summary-of-docs-team-meeting-july-1-2025/)
 - [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/docs/2025/06/25/xpost-a-little-late-spring-cleaning/)
@@ -105,8 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Online monthly Docs Team Contributor Day June 24, 2025](https://make.wordpress.org/docs/2025/06/18/online-monthly-docs-team-contributor-day-june-24-2025/)
 - [Summary of Docs Team meeting June 17, 2025](https://make.wordpress.org/docs/2025/06/18/summary-of-docs-team-meeting-june-17-2025/)
 - [Agenda for Discussion Meeting &lpar;17 June 2025&rpar;](https://make.wordpress.org/docs/2025/06/17/agenda-for-discussion-meeting-17-june-2025/)
-- [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/docs/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
-- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/docs/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 <!-- DOCS:END -->
 
 ### Support Articles
