@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Online monthly Docs Team Contributor Day August 26, 2025](https://make.wordpress.org/core/2025/07/22/xpost-online-monthly-docs-team-contributor-day-august-26-2025/)
 - [X-post: First WordPress Quality Analysis Report](https://make.wordpress.org/core/2025/07/22/xpost-first-wordpress-quality-analysis-report/)
 - [What’s new in Gutenberg 21.2? &lpar;16 July&rpar;](https://make.wordpress.org/core/2025/07/18/whats-new-in-gutenberg-21-2-16-july/)
 - [Summary, Dev Chat, July 16, 2025](https://make.wordpress.org/core/2025/07/16/summary-dev-chat-july-16-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 1 July 2025](https://make.wordpress.org/core/2025/07/01/performance-chat-summary-1-july-2025/)
 - [Dev Chat Agenda – July 2, 2025](https://make.wordpress.org/core/2025/07/01/dev-chat-agenda-july-2-2025/)
 - [Proposal: Clarifying Core’s Database Support Policy](https://make.wordpress.org/core/2025/06/27/proposal-clarifying-cores-database-support-policy/)
-- [Summary, Dev Chat, June 25, 2025](https://make.wordpress.org/core/2025/06/25/summary-dev-chat-june-25-2025/)
 <!-- CORE:END -->
 
 ## Design
