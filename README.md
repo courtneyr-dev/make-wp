@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Tech Lead, WordPress Development](https://jobs.wordpress.net/job/tech-lead-wordpress-development/)
+- [Technical Support Engineer](https://jobs.wordpress.net/job/technical-support-engineer-3/)
+- [Part-Time WordPress Expert &lpar;E-commerce Website Management&rpar;](https://jobs.wordpress.net/job/part-time-wordpress-expert-e-commerce-website-management/)
+- [WordPress Developer &lpar;Remote&rpar; | USA – Based Time Zone](https://jobs.wordpress.net/job/wordpress-developer-remote-usa-based-time-zone/)
+- [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-14/)
+- [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-6/)
+- [Sr. Web Developer &amp; WordPress Specialist](https://jobs.wordpress.net/job/sr-web-developer-wordpress-specialist-2/)
 - [WordPress Fullstack Developer](https://jobs.wordpress.net/job/wordpress-fullstack-developer-3/)
 - [Skilled Frontend/Full-Stack WordPress Developer](https://jobs.wordpress.net/job/skilled-frontend-full-stack-wordpress-developer/)
 - [Programming &amp; Automation Specialist](https://jobs.wordpress.net/job/programming-automation-specialist/)
-- [migrate wix site to WordPress](https://jobs.wordpress.net/job/migrate-wix-site-to-wordpress/)
-- [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-10/)
-- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-19/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-9/)
-- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-7/)
-- [Product Assistant](https://jobs.wordpress.net/job/product-assistant-4/)
-- [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-28/)
 <!-- JOBS:END -->
 
 ## Central
