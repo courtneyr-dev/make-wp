@@ -527,8 +527,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [migrate wix site to WordPress](https://jobs.wordpress.net/job/migrate-wix-site-to-wordpress/)
 - [Technical Support Specialist](https://jobs.wordpress.net/job/technical-support-specialist-10/)
 - [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-19/)
-- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-7/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-9/)
+- [Growth Analyst](https://jobs.wordpress.net/job/growth-analyst-7/)
 - [Product Assistant](https://jobs.wordpress.net/job/product-assistant-4/)
 - [QA – WordPress Plugin Tester](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-28/)
 <!-- JOBS:END -->
