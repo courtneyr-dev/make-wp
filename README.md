@@ -521,6 +521,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology-3/)
+- [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-7/)
+- [QA – WordPress Plugin Tester &lpar;WordPress, MySQL, GIT, black-box testing, white-box testing, unit testing, automated testing, manual testing, CSS, PHP, JavaScript, Cypress&rpar;](https://jobs.wordpress.net/job/qa-wordpress-plugin-tester-wordpress-mysql-git-black-box-testing-white-box-testing-unit-testing-automated-testing-manual-testing-css-php-javascript-cypress/)
 - [Tech Lead, WordPress Development](https://jobs.wordpress.net/job/tech-lead-wordpress-development/)
 - [Technical Support Engineer](https://jobs.wordpress.net/job/technical-support-engineer-3/)
 - [Part-Time WordPress Expert &lpar;E-commerce Website Management&rpar;](https://jobs.wordpress.net/job/part-time-wordpress-expert-e-commerce-website-management/)
@@ -528,9 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-14/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-6/)
 - [Sr. Web Developer &amp; WordPress Specialist](https://jobs.wordpress.net/job/sr-web-developer-wordpress-specialist-2/)
-- [WordPress Fullstack Developer](https://jobs.wordpress.net/job/wordpress-fullstack-developer-3/)
-- [Skilled Frontend/Full-Stack WordPress Developer](https://jobs.wordpress.net/job/skilled-frontend-full-stack-wordpress-developer/)
-- [Programming &amp; Automation Specialist](https://jobs.wordpress.net/job/programming-automation-specialist/)
 <!-- JOBS:END -->
 
 ## Central
