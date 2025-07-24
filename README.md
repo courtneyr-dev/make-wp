@@ -274,6 +274,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Intermediate Theme Developer](https://learn.wordpress.org/course/intermediate-theme-developer/)
 - [Advanced WordPress User](https://learn.wordpress.org/course/advanced-wordpress-user/)
 - [Develop Your First Low-Code Block Theme](https://learn.wordpress.org/course/develop-your-first-low-code-block-theme/)
+- [Principi di base dell’Open Source e WordPress](https://learn.wordpress.org/course/it-open-source-basics-and-wordpress/)
 - [Developing your first WordPress block](https://learn.wordpress.org/course/developing-your-first-wordpress-block/)
 - [Community team Program Supporter tasks](https://learn.wordpress.org/course/wordpress-community-team-program-supporter-tasks/)
 - [Community team Supporter basics](https://learn.wordpress.org/course/wordpress-community-team-supporter-basics/)
@@ -291,7 +292,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community team event mentor training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
 - [WordPress meetup organizer training](https://learn.wordpress.org/course/wordpress-meetup-organizer-training/)
 - [Incident Response Team training](https://learn.wordpress.org/course/incident-response-team-training/)
-- [Polyglots contributor training](https://learn.wordpress.org/course/polyglots-contributor-training/)
 <!-- COURSES:END -->
 
 ### Social Learning Spaces
