@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Hidden Gems: Leveraging Less-Known WordPress Plugins that I Have Been Using Since My First Websites](https://wordpress.tv/2025/07/25/hidden-gems-leveraging-less-known-wordpress-plugins-that-i-have-been-using-since-my-first-websites/)
+- [Explorando el futuro de Woocommerce: Novedades 2025](https://wordpress.tv/2025/07/25/explorando-el-futuro-de-woocommerce-novedades-2025/)
+- [The Heart of Customer Support](https://wordpress.tv/2025/07/25/the-heart-of-customer-support/)
 - [WordCamp Bhopal 2023 Highlights](https://wordpress.tv/2025/07/25/wordcamp-bhopal-2023-highlights/)
 - [WPKolhapur Contribution series 10th: Contribute to WordPress Test team](https://wordpress.tv/2025/07/25/wpkolhapur-contribution-series-10th-contribute-to-wordpress-test-team/)
 - [WordPress : la liberté créative pour les stratégies marketing innovantes](https://wordpress.tv/2025/07/25/wordpress-la-liberte-creative-pour-les-strategies-marketing-innovantes/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mamy to! WordCamp Europe 2026](https://wordpress.tv/2025/07/14/mamy-to-wordcamp-europe-2026/)
 - [WCEU 2025 After movie](https://wordpress.tv/2025/07/14/wceu-2025-after-movie/)
 - [Porzuć to, póki możesz – o projektach, które trzeba zabić zanim zabiją Ciebie](https://wordpress.tv/2025/07/13/porzuc-to-poki-mozesz-o-projektach-ktore-trzeba-zabic-zanim-zabija-ciebie/)
-- [Jak nie dać sobie ukraść 100 000 euro](https://wordpress.tv/2025/07/13/jak-nie-dac-sobie-ukrasc-100-000-euro/)
-- [Jak delegować z głową i nie zajechać swojej wirtualnej asystentki](https://wordpress.tv/2025/07/13/jak-delegowac-z-glowa-i-nie-zajechac-swojej-wirtualnej-asystentki/)
-- [Jak tworzyć zespoły zdolne do tego, by dowieźć każdy projekt?](https://wordpress.tv/2025/07/13/jak-tworzyc-zespoly-zdolne-do-tego-by-dowiezc-kazdy-projekt/)
 <!-- WPTV:END -->
 
 ## Marketing
