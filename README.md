@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordCamp Bhopal 2023 Highlights](https://wordpress.tv/2025/07/25/wordcamp-bhopal-2023-highlights/)
+- [WPKolhapur Contribution series 10th: Contribute to WordPress Test team](https://wordpress.tv/2025/07/25/wpkolhapur-contribution-series-10th-contribute-to-wordpress-test-team/)
 - [WordPress : la liberté créative pour les stratégies marketing innovantes](https://wordpress.tv/2025/07/25/wordpress-la-liberte-creative-pour-les-strategies-marketing-innovantes/)
 - [La guerre des landings pages : SEO VS UX](https://wordpress.tv/2025/07/24/la-guerre-des-landings-pages-seo-vs-ux/)
 - [Booster la conversion sur les sites internet](https://wordpress.tv/2025/07/15/booster-la-conversion-sur-les-sites-internet/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jak nie dać sobie ukraść 100 000 euro](https://wordpress.tv/2025/07/13/jak-nie-dac-sobie-ukrasc-100-000-euro/)
 - [Jak delegować z głową i nie zajechać swojej wirtualnej asystentki](https://wordpress.tv/2025/07/13/jak-delegowac-z-glowa-i-nie-zajechac-swojej-wirtualnej-asystentki/)
 - [Jak tworzyć zespoły zdolne do tego, by dowieźć każdy projekt?](https://wordpress.tv/2025/07/13/jak-tworzyc-zespoly-zdolne-do-tego-by-dowiezc-kazdy-projekt/)
-- [Dlaczego UOKiK interesuje się Twoim sklepem? Błędy, które popełniasz](https://wordpress.tv/2025/07/13/dlaczego-uokik-interesuje-sie-twoim-sklepem-bledy-ktore-popelniasz/)
-- [Why Most Agencies Are Losing Money on Client Onboarding &lpar;and How to Fix It&rpar;](https://wordpress.tv/2025/07/13/why-most-agencies-are-losing-money-on-client-onboarding-and-how-to-fix-it/)
 <!-- WPTV:END -->
 
 ## Marketing
