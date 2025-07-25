@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress : la liberté créative pour les stratégies marketing innovantes](https://wordpress.tv/2025/07/25/wordpress-la-liberte-creative-pour-les-strategies-marketing-innovantes/)
 - [La guerre des landings pages : SEO VS UX](https://wordpress.tv/2025/07/24/la-guerre-des-landings-pages-seo-vs-ux/)
 - [Booster la conversion sur les sites internet](https://wordpress.tv/2025/07/15/booster-la-conversion-sur-les-sites-internet/)
 - [Cisza przed burzą – jak hosting zniszczył &lpar;albo uratował&rpar; moją stronę](https://wordpress.tv/2025/07/15/cisza-przed-burza-jak-hosting-zniszczyl-albo-uratowal-moja-strone/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jak tworzyć zespoły zdolne do tego, by dowieźć każdy projekt?](https://wordpress.tv/2025/07/13/jak-tworzyc-zespoly-zdolne-do-tego-by-dowiezc-kazdy-projekt/)
 - [Dlaczego UOKiK interesuje się Twoim sklepem? Błędy, które popełniasz](https://wordpress.tv/2025/07/13/dlaczego-uokik-interesuje-sie-twoim-sklepem-bledy-ktore-popelniasz/)
 - [Why Most Agencies Are Losing Money on Client Onboarding &lpar;and How to Fix It&rpar;](https://wordpress.tv/2025/07/13/why-most-agencies-are-losing-money-on-client-onboarding-and-how-to-fix-it/)
-- [gramatyka sprzedaży](https://wordpress.tv/2025/07/13/gramatyka-sprzedazy/)
 <!-- WPTV:END -->
 
 ## Marketing
