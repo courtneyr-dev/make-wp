@@ -352,6 +352,19 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Why You Might Not Need An Accessibility Specialist](https://wordpress.tv/2025/07/25/why-you-might-not-need-an-accessibility-specialist/)
+- [Underrepresented in Tech: the Journey to Amplify Others](https://wordpress.tv/2025/07/25/underrepresented-in-tech-the-journey-to-amplify-others-2/)
+- [Sell Solutions, Not the Code: AI-Proof Your WordPress Development Career](https://wordpress.tv/2025/07/25/sell-solutions-not-the-code-ai-proof-your-wordpress-development-career/)
+- [Practical AI For Content Performance](https://wordpress.tv/2025/07/25/practical-ai-for-content-performance/)
+- [Building Your WordPress Career: From Beginner to Pro](https://wordpress.tv/2025/07/25/building-your-wordpress-career-from-beginner-to-pro/)
+- [Enhancing WordPress Security: Insights and Strategies](https://wordpress.tv/2025/07/25/enhancing-wordpress-security-insights-and-strategies/)
+- [My Process for Building a Custom WordPress Theme in 2025](https://wordpress.tv/2025/07/25/my-process-for-building-a-custom-wordpress-theme-in-2025/)
+- [Essential Content-Centric Plugins for Your WordPress Website](https://wordpress.tv/2025/07/25/essential-content-centric-plugins-for-your-wordpress-website/)
+- [Partnering with Purpose: How to build a successful partnership](https://wordpress.tv/2025/07/25/partnering-with-purpose-how-to-build-a-successful-partnership/)
+- [Agencies in the Age of AI: Evolution, not Extinction](https://wordpress.tv/2025/07/25/agencies-in-the-age-of-ai-evolution-not-extinction/)
+- [A Journey from Page Builders to Blocks in WordPress](https://wordpress.tv/2025/07/25/a-journey-from-page-builders-to-blocks-in-wordpress/)
+- [Accelerate Your Agency’s Workflows: AI Tools for Accelerated Development and Maintenance](https://wordpress.tv/2025/07/25/accelerate-your-agencys-workflows-ai-tools-for-accelerated-development-and-maintenance/)
+- [We have fun and get things done: Remote work practices for small teams](https://wordpress.tv/2025/07/25/we-have-fun-and-get-things-done-remote-work-practices-for-small-teams/)
 - [Hidden Gems: Leveraging Less-Known WordPress Plugins that I Have Been Using Since My First Websites](https://wordpress.tv/2025/07/25/hidden-gems-leveraging-less-known-wordpress-plugins-that-i-have-been-using-since-my-first-websites/)
 - [Explorando el futuro de Woocommerce: Novedades 2025](https://wordpress.tv/2025/07/25/explorando-el-futuro-de-woocommerce-novedades-2025/)
 - [The Heart of Customer Support](https://wordpress.tv/2025/07/25/the-heart-of-customer-support/)
@@ -364,19 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Czy ej-aj zamieni się w oj-oj?](https://wordpress.tv/2025/07/15/czy-ej-aj-zamieni-sie-w-oj-oj/)
 - [Dostępność Cyfrowa: Kluczowe aspekty tworzenia serwisów bez barier](https://wordpress.tv/2025/07/15/dostepnosc-cyfrowa-kluczowe-aspekty-tworzenia-serwisow-bez-barier/)
 - [6 taktyk jak wykorzystać LinkedIn do sprzedaży swoich usług do firm B2B i nie zostać spamerem](https://wordpress.tv/2025/07/15/6-taktyk-jak-wykorzystac-linkedin-do-sprzedazy-swoich-uslug-do-firm-b2b-i-nie-zostac-spamerem/)
-- [Modelowanie ścieżek konwersji B2B na stronach WWW](https://wordpress.tv/2025/07/15/modelowanie-sciezek-konwersji-b2b-na-stronach-www/)
-- [8 projektów na raz, czyli jak być solo konsultantem i nie zwariować](https://wordpress.tv/2025/07/15/8-projektow-na-raz-czyli-jak-byc-solo-konsultantem-i-nie-zwariowac/)
-- [Jeden WordPress, by wszystkimi rządzić… czyli o WordPress Multisite](https://wordpress.tv/2025/07/15/jeden-wordpress-by-wszystkimi-rzadzic-czyli-o-wordpress-multisite/)
-- [Jak zarabiać więcej dzięki produktom cyfrowym](https://wordpress.tv/2025/07/15/jak-zarabiac-wiecej-dzieki-produktom-cyfrowym/)
-- [Nie tylko wykonawczyni, ale partnerka – jak budować relacje z klientami jako Wirtualna Asystentka?](https://wordpress.tv/2025/07/15/nie-tylko-wykonawczyni-ale-partnerka-jak-budowac-relacje-z-klientami-jako-wirtualna-asystentka/)
-- [Page Builder WordPress, czyli nie wszystko złoto, co się świeci. Jak efektywnie go wykorzystać jedno](https://wordpress.tv/2025/07/15/page-builder-wordpress-czyli-nie-wszystko-zloto-co-sie-swieci-jak-efektywnie-go-wykorzystac-jedno/)
-- [Panel discussion: Page Builders](https://wordpress.tv/2025/07/14/panel-discussion-page-builders/)
-- [Strona to za mało – jak zarabiać na usługach, których potrzebują lokalne firmy](https://wordpress.tv/2025/07/14/strona-to-za-malo-jak-zarabiac-na-uslugach-ktorych-potrzebuja-lokalne-firmy/)
-- [WordPress bez pułapek – jak obsługiwać stronę bezpiecznie, legalnie i bez zbędnych kosztów](https://wordpress.tv/2025/07/14/wordpress-bez-pulapek-jak-obslugiwac-strone-bezpiecznie-legalnie-i-bez-zbednych-kosztow/)
-- [Attribution Accuracy for WordPress Plugins: From Confusion to Clarity](https://wordpress.tv/2025/07/14/attribution-accuracy-for-wordpress-plugins-from-confusion-to-clarity/)
-- [Mamy to! WordCamp Europe 2026](https://wordpress.tv/2025/07/14/mamy-to-wordcamp-europe-2026/)
-- [WCEU 2025 After movie](https://wordpress.tv/2025/07/14/wceu-2025-after-movie/)
-- [Porzuć to, póki możesz – o projektach, które trzeba zabić zanim zabiją Ciebie](https://wordpress.tv/2025/07/13/porzuc-to-poki-mozesz-o-projektach-ktore-trzeba-zabic-zanim-zabija-ciebie/)
 <!-- WPTV:END -->
 
 ## Marketing
