@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Design Thinking in UX: Solving Real User Problems with WordPress](https://wordpress.tv/2025/07/26/design-thinking-in-ux-solving-real-user-problems-with-wordpress/)
 - [Why You Might Not Need An Accessibility Specialist](https://wordpress.tv/2025/07/25/why-you-might-not-need-an-accessibility-specialist/)
 - [Underrepresented in Tech: the Journey to Amplify Others](https://wordpress.tv/2025/07/25/underrepresented-in-tech-the-journey-to-amplify-others-2/)
 - [Sell Solutions, Not the Code: AI-Proof Your WordPress Development Career](https://wordpress.tv/2025/07/25/sell-solutions-not-the-code-ai-proof-your-wordpress-development-career/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cisza przed burzą – jak hosting zniszczył &lpar;albo uratował&rpar; moją stronę](https://wordpress.tv/2025/07/15/cisza-przed-burza-jak-hosting-zniszczyl-albo-uratowal-moja-strone/)
 - [Czy ej-aj zamieni się w oj-oj?](https://wordpress.tv/2025/07/15/czy-ej-aj-zamieni-sie-w-oj-oj/)
 - [Dostępność Cyfrowa: Kluczowe aspekty tworzenia serwisów bez barier](https://wordpress.tv/2025/07/15/dostepnosc-cyfrowa-kluczowe-aspekty-tworzenia-serwisow-bez-barier/)
-- [6 taktyk jak wykorzystać LinkedIn do sprzedaży swoich usług do firm B2B i nie zostać spamerem](https://wordpress.tv/2025/07/15/6-taktyk-jak-wykorzystac-linkedin-do-sprzedazy-swoich-uslug-do-firm-b2b-i-nie-zostac-spamerem/)
 <!-- WPTV:END -->
 
 ## Marketing
