@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [fix some WordPress errors in woocommerce](https://jobs.wordpress.net/job/fix-some-wordpress-errors-in-woocommerce/)
+- [WordPress Technical Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/wordpress-technical-writer-remote-2/)
 - [Growth Analyst &lpar;Stripe, Mixpanel, Google Analytics, GA4, Google Optimize, Hotjar + WordPress&rpar;](https://jobs.wordpress.net/job/growth-analyst-stripe-mixpanel-google-analytics-ga4-google-optimize-hotjar-wordpress/)
 - [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology-3/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, English language, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-english-language-communication-sales-data-entry-google-sheets-7/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Technical Support Engineer](https://jobs.wordpress.net/job/technical-support-engineer-3/)
 - [Part-Time WordPress Expert &lpar;E-commerce Website Management&rpar;](https://jobs.wordpress.net/job/part-time-wordpress-expert-e-commerce-website-management/)
 - [WordPress Developer &lpar;Remote&rpar; | USA – Based Time Zone](https://jobs.wordpress.net/job/wordpress-developer-remote-usa-based-time-zone/)
-- [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-14/)
-- [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-6/)
 <!-- JOBS:END -->
 
 ## Central
