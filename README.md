@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi @faisalahammad, I’ve contributed over…](https://make.wordpress.org/polyglots/2025/07/26/hi-faisalahammad-ive-contributed-over/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/07/25/i-would-like-to-request/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/25/hi-polyglots-team-17/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2025/07/24/im-the-author-of-the-5/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Err –…](https://make.wordpress.org/polyglots/2025/07/21/pte-request-for-err/)
 - [I’ve suggested translations for this…](https://make.wordpress.org/polyglots/2025/07/21/ive-suggested-translations-for-this-35/)
 - [Brainstorm: Polyglots Table at WCUS 2025 Contributor Day](https://make.wordpress.org/polyglots/2025/07/21/brainstorm-polyglots-table-at-wcus-2025-contributor-day/)
-- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/21/hello-polyglots-team-17/)
 <!-- POLYGLOTS:END -->
 
 ## Support
