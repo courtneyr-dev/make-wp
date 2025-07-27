@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Schluss mit Stockbildern: Individuelle Bilder &amp; Icons mit KI für deine WordPress-Seite](https://wordpress.tv/2025/07/27/schluss-mit-stockbildern-individuelle-bilder-icons-mit-ki-fur-deine-wordpress-seite/)
+- [Warum Geschichten Produkte verkaufen](https://wordpress.tv/2025/07/27/warum-geschichten-produkte-verkaufen/)
 - [Design Thinking in UX: Solving Real User Problems with WordPress](https://wordpress.tv/2025/07/26/design-thinking-in-ux-solving-real-user-problems-with-wordpress/)
 - [Why You Might Not Need An Accessibility Specialist](https://wordpress.tv/2025/07/25/why-you-might-not-need-an-accessibility-specialist/)
 - [Underrepresented in Tech: the Journey to Amplify Others](https://wordpress.tv/2025/07/25/underrepresented-in-tech-the-journey-to-amplify-others-2/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [La guerre des landings pages : SEO VS UX](https://wordpress.tv/2025/07/24/la-guerre-des-landings-pages-seo-vs-ux/)
 - [Booster la conversion sur les sites internet](https://wordpress.tv/2025/07/15/booster-la-conversion-sur-les-sites-internet/)
 - [Cisza przed burzą – jak hosting zniszczył &lpar;albo uratował&rpar; moją stronę](https://wordpress.tv/2025/07/15/cisza-przed-burza-jak-hosting-zniszczyl-albo-uratowal-moja-strone/)
-- [Czy ej-aj zamieni się w oj-oj?](https://wordpress.tv/2025/07/15/czy-ej-aj-zamieni-sie-w-oj-oj/)
-- [Dostępność Cyfrowa: Kluczowe aspekty tworzenia serwisów bez barier](https://wordpress.tv/2025/07/15/dostepnosc-cyfrowa-kluczowe-aspekty-tworzenia-serwisow-bez-barier/)
 <!-- WPTV:END -->
 
 ## Marketing
