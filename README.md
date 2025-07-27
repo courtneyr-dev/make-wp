@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi, i am the plugin…](https://make.wordpress.org/polyglots/2025/07/27/hi-i-am-the-plugin-9/)
 - [Locale Request](https://make.wordpress.org/polyglots/2025/07/27/locale-request/)
 - [PTE Request for BlogHash Theme](https://make.wordpress.org/polyglots/2025/07/27/pte-request-for-bloghash-theme/)
 - [Hi @faisalahammad, I’ve contributed over…](https://make.wordpress.org/polyglots/2025/07/26/hi-faisalahammad-ive-contributed-over/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/23/pte-request-for-avinex-theme-3/)
 - [Agenda: Weekly Polyglots Chat – July 23, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/22/agenda-weekly-polyglots-chat-july-23-2025-700-utc/)
 - [Request for Arabic Translation Editor…](https://make.wordpress.org/polyglots/2025/07/21/request-for-arabic-translation-editor/)
-- [PTE Request for Err –…](https://make.wordpress.org/polyglots/2025/07/21/pte-request-for-err/)
 <!-- POLYGLOTS:END -->
 
 ## Support
