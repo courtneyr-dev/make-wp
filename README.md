@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Web Designer / SEO Expert](https://jobs.wordpress.net/job/wordpress-web-designer-seo-expert/)
 - [fix some WordPress errors in woocommerce](https://jobs.wordpress.net/job/fix-some-wordpress-errors-in-woocommerce/)
 - [WordPress Technical Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/wordpress-technical-writer-remote-2/)
 - [Growth Analyst &lpar;Stripe, Mixpanel, Google Analytics, GA4, Google Optimize, Hotjar + WordPress&rpar;](https://jobs.wordpress.net/job/growth-analyst-stripe-mixpanel-google-analytics-ga4-google-optimize-hotjar-wordpress/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Tech Lead, WordPress Development](https://jobs.wordpress.net/job/tech-lead-wordpress-development/)
 - [Technical Support Engineer](https://jobs.wordpress.net/job/technical-support-engineer-3/)
 - [Part-Time WordPress Expert &lpar;E-commerce Website Management&rpar;](https://jobs.wordpress.net/job/part-time-wordpress-expert-e-commerce-website-management/)
-- [WordPress Developer &lpar;Remote&rpar; | USA – Based Time Zone](https://jobs.wordpress.net/job/wordpress-developer-remote-usa-based-time-zone/)
 <!-- JOBS:END -->
 
 ## Central
