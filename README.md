@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Summer Photo Contest Opening Session &lpar;English&rpar;](https://wordpress.tv/2025/07/29/summer-photo-contest-opening-session-english/)
+- [Sesión de apertura del Summer Photo Contest &lpar;español&rpar;](https://wordpress.tv/2025/07/29/sesion-de-apertura-del-summer-photo-contest-espanol/)
 - [Schluss mit Stockbildern: Individuelle Bilder &amp; Icons mit KI für deine WordPress-Seite](https://wordpress.tv/2025/07/27/schluss-mit-stockbildern-individuelle-bilder-icons-mit-ki-fur-deine-wordpress-seite/)
 - [Warum Geschichten Produkte verkaufen](https://wordpress.tv/2025/07/27/warum-geschichten-produkte-verkaufen/)
 - [Design Thinking in UX: Solving Real User Problems with WordPress](https://wordpress.tv/2025/07/26/design-thinking-in-ux-solving-real-user-problems-with-wordpress/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WPKolhapur Contribution series 10th: Contribute to WordPress Test team](https://wordpress.tv/2025/07/25/wpkolhapur-contribution-series-10th-contribute-to-wordpress-test-team/)
 - [WordPress : la liberté créative pour les stratégies marketing innovantes](https://wordpress.tv/2025/07/25/wordpress-la-liberte-creative-pour-les-strategies-marketing-innovantes/)
 - [La guerre des landings pages : SEO VS UX](https://wordpress.tv/2025/07/24/la-guerre-des-landings-pages-seo-vs-ux/)
-- [Booster la conversion sur les sites internet](https://wordpress.tv/2025/07/15/booster-la-conversion-sur-les-sites-internet/)
-- [Cisza przed burzą – jak hosting zniszczył &lpar;albo uratował&rpar; moją stronę](https://wordpress.tv/2025/07/15/cisza-przed-burza-jak-hosting-zniszczyl-albo-uratowal-moja-strone/)
 <!-- WPTV:END -->
 
 ## Marketing
