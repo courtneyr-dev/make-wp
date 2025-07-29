@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [X-post: Polyglots Week in Review: July 28, 2025](https://make.wordpress.org/polyglots/2025/07/29/xpost-polyglots-week-in-review-july-28-2025/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/07/28/i-would-like-to-request-2/)
 - [PTE Request for “zahls.ch Credit Cards, PostFinance and TWINT for WooCommerce”](https://make.wordpress.org/polyglots/2025/07/27/pte-request-for-zahls-ch-credit-cards-postfinance-and-twint-for-woocommerce/)
 - [Hi, i am the plugin…](https://make.wordpress.org/polyglots/2025/07/27/hi-i-am-the-plugin-9/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/07/25/i-would-like-to-request/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/25/hi-polyglots-team-17/)
 - [I’m the author of the…](https://make.wordpress.org/polyglots/2025/07/24/im-the-author-of-the-5/)
-- [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/23/pte-request-for-avinex-theme-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
