@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat Agenda – July 30, 2025](https://make.wordpress.org/core/2025/07/29/dev-chat-agenda-july-30-2025/)
+- [Performance Chat Summary: 29 July 2025](https://make.wordpress.org/core/2025/07/29/performance-chat-summary-29-july-2025/)
 - [Roadmap to 6.9](https://make.wordpress.org/core/2025/07/28/roadmap-to-6-9/)
 - [Summary, Dev Chat, July 23, 2025](https://make.wordpress.org/core/2025/07/23/summary-dev-chat-july-23-2025/)
 - [Dev Chat Agenda – July 23, 2025](https://make.wordpress.org/core/2025/07/23/dev-chat-agenda-july-23-2025/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Remove the “beta support” label from PHP 8.3 for WordPress 6.8](https://make.wordpress.org/core/2025/07/07/proposal-remove-the-beta-support-label-from-php-8-3-for-wordpress-6-8/)
 - [Summary, Dev Chat, July 2, 2025](https://make.wordpress.org/core/2025/07/05/summary-dev-chat-july-2-2025/)
 - [Proposal: Introduce Maintenance Mode For Components](https://make.wordpress.org/core/2025/07/02/proposal-introduce-maintenance-mode-for-components/)
-- [X-post: A Month in Core – June 2025](https://make.wordpress.org/core/2025/07/02/xpost-a-month-in-core-june-2025/)
-- [What’s new in Gutenberg 21.1? &lpar;2nd July&rpar;](https://make.wordpress.org/core/2025/07/02/whats-new-in-gutenberg-21-1/)
 <!-- CORE:END -->
 
 ## Design
