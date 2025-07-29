@@ -195,7 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
-- [Announcing Training Team Cohort: “ WordPress Block Editor Basics ”](https://make.wordpress.org/training/2025/07/29/announcing-training-team-cohort-wordpress-block-editor-basics/)
+- [Announcing the Training Team Cohort: “WordPress Block Editor Basics”](https://make.wordpress.org/training/2025/07/29/announcing-training-team-cohort-wordpress-block-editor-basics/)
 - [Training Team Meeting Recap – 22th July 2025](https://make.wordpress.org/training/2025/07/28/training-team-meeting-recap-22th-july-2025/)
 - [X-post: Online monthly Docs Team Contributor Day August 26, 2025](https://make.wordpress.org/training/2025/07/22/xpost-online-monthly-docs-team-contributor-day-august-26-2025/)
 - [Training Team Meeting Recap – 15th July 2025](https://make.wordpress.org/training/2025/07/22/training-team-meeting-recap-15th-july-2025/)
