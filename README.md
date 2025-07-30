@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – July 30, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/30/agenda-weekly-polyglots-chat-july-30-2025-1300-utc/)
 - [Feedify-several locales](https://make.wordpress.org/polyglots/2025/07/29/feedify-several-locales/)
 - [PTE Request for Tiny Widget Manager](https://make.wordpress.org/polyglots/2025/07/29/pte-request-for-tiny-widget-manager/)
 - [Hello, I would like to…](https://make.wordpress.org/polyglots/2025/07/29/hello-i-would-like-to-12/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/07/28/i-would-like-to-request-2/)
 - [PTE Request for “zahls.ch Credit Cards, PostFinance and TWINT for WooCommerce”](https://make.wordpress.org/polyglots/2025/07/27/pte-request-for-zahls-ch-credit-cards-postfinance-and-twint-for-woocommerce/)
 - [Hi, i am the plugin…](https://make.wordpress.org/polyglots/2025/07/27/hi-i-am-the-plugin-9/)
-- [Locale Request](https://make.wordpress.org/polyglots/2025/07/27/locale-request/)
 <!-- POLYGLOTS:END -->
 
 ## Support
