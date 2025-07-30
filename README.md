@@ -562,13 +562,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Campus Connect Cartago](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-cartago/)
 - [WordCamp Europe 2026](https://central.wordcamp.org/wordcamps/wordcamp-europe-2026/)
 - [Summer Photo Contest 2025](https://central.wordcamp.org/wordcamps/summer-photo-contest-2025/)
+- [WordCamp Bharatpur 2025](https://central.wordcamp.org/wordcamps/wordcamp-bharatpur-2025/)
 - [WordCamp Athens 2025](https://central.wordcamp.org/wordcamps/wordcamp-athens-2025/)
-- [WordPress Diversity Day Valencia 2025](https://central.wordcamp.org/wordcamps/diversity-day-valencia-2025/)
+- [WordCamp Dhaka 2025](https://central.wordcamp.org/wordcamps/wordcamp-dhaka-2025/)
 - [WordCamp Lira 2025](https://central.wordcamp.org/wordcamps/wordcamp-lira-2025/)
 - [WordCamp Vršac 2025](https://central.wordcamp.org/wordcamps/wordcamp-vrsac-2025/)
 - [WordCamp Bengaluru 2025](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-2025/)
 - [WordPress Youth Day Nicaragua](https://central.wordcamp.org/wordcamps/youth-day-nicaragua-2025/)
-- [WordCamp Pisa, Tuscany, Italy](https://central.wordcamp.org/wordcamps/wordcamp-pisa-2025/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
