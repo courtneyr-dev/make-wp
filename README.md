@@ -352,7 +352,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Bagaimana Tahun Pertama Saya](https://wordpress.tv/2025/07/31/bagaimana-tahun-pertama-saya/)
+- [WordPress Basics: A No-Fluff Introduction](https://wordpress.tv/2025/07/31/wordpress-basics-a-no-fluff-introduction/)
+- [Finding Community Through Curiosity](https://wordpress.tv/2025/07/31/finding-community-through-curiosity/)
+- [The Real WordCamp Happens Off the Stage: How to Build Connections and Seize Opportunities](https://wordpress.tv/2025/07/31/the-real-wordcamp-happens-off-the-stage-how-to-build-connections-and-seize-opportunities/)
+- [Georgia Papas: Monetise Your Hobbies With WordPress](https://wordpress.tv/2025/07/31/georgia-papas-monetise-your-hobbies-with-wordpress/)
+- [Signing Off with Confidence: Adding Legal Weight to WordPress Workflows](https://wordpress.tv/2025/07/31/signing-off-with-confidence-adding-legal-weight-to-wordpress-workflows/)
+- [Growing in a Community That Builds You](https://wordpress.tv/2025/07/31/growing-in-a-community-that-builds-you/)
+- [AI-Powered Hyper-Personalization: Building WordPress Sites That Adapt in Real-Time](https://wordpress.tv/2025/07/31/ai-powered-hyper-personalization-building-wordpress-sites-that-adapt-in-real-time/)
+- [The Future of Websites &amp; Blogs: How to Stay Relevant in 2025](https://wordpress.tv/2025/07/31/the-future-of-websites-blogs-how-to-stay-relevant-in-2025/)
+- [Build Your First WordPress Plugin with The Power of AI &lpar;Even if You Can’t Code!&rpar;](https://wordpress.tv/2025/07/31/build-your-first-wordpress-plugin-with-the-power-of-ai-even-if-you-cant-code/)
+- [From Pitch to Partnership: Growing Lasting Client Relationships](https://wordpress.tv/2025/07/31/from-pitch-to-partnership-growing-lasting-client-relationships/)
+- [How AI Helps Me Design Websites Faster](https://wordpress.tv/2025/07/31/how-ai-helps-me-design-websites-faster/)
+- [Panel 2: How digital infrastructure and smart city development are shaping Johor’s future](https://wordpress.tv/2025/07/31/panel-2-how-digital-infrastructure-and-smart-city-development-are-shaping-johors-future/)
+- [Panel 1: Workflow Automation, Security and DevOps for WordPress](https://wordpress.tv/2025/07/31/panel-1-workflow-automation-security-and-devops-for-wordpress/)
+- [From Clicks to Conversions: Strategies to Design, Optimize &amp; Measure](https://wordpress.tv/2025/07/31/from-clicks-to-conversions-strategies-to-design-optimize-measure/)
+- [Dari JB ke SaaS Global: Bagaimana Tahun Pertama Saya](https://wordpress.tv/2025/07/31/bagaimana-tahun-pertama-saya/)
 - [Fengshui in WordPress page design](https://wordpress.tv/2025/07/31/fengshui-in-wordpress-page-design/)
 - [From Chatbot to AI Agent](https://wordpress.tv/2025/07/31/from-chatbot-to-ai-agent/)
 - [XAI in WordPress Security: Understanding the “Why” Behind AI-Driven Decisions](https://wordpress.tv/2025/07/31/xai-in-wordpress-security-understanding-the-why-behind-ai-driven-decisions/)
@@ -363,20 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Schluss mit Stockbildern: Individuelle Bilder &amp; Icons mit KI für deine WordPress-Seite](https://wordpress.tv/2025/07/27/schluss-mit-stockbildern-individuelle-bilder-icons-mit-ki-fur-deine-wordpress-seite/)
 - [Warum Geschichten Produkte verkaufen](https://wordpress.tv/2025/07/27/warum-geschichten-produkte-verkaufen/)
 - [Design Thinking in UX: Solving Real User Problems with WordPress](https://wordpress.tv/2025/07/26/design-thinking-in-ux-solving-real-user-problems-with-wordpress/)
-- [Why You Might Not Need An Accessibility Specialist](https://wordpress.tv/2025/07/25/why-you-might-not-need-an-accessibility-specialist/)
-- [Underrepresented in Tech: the Journey to Amplify Others](https://wordpress.tv/2025/07/25/underrepresented-in-tech-the-journey-to-amplify-others-2/)
-- [Sell Solutions, Not the Code: AI-Proof Your WordPress Development Career](https://wordpress.tv/2025/07/25/sell-solutions-not-the-code-ai-proof-your-wordpress-development-career/)
-- [Practical AI For Content Performance](https://wordpress.tv/2025/07/25/practical-ai-for-content-performance/)
-- [Building Your WordPress Career: From Beginner to Pro](https://wordpress.tv/2025/07/25/building-your-wordpress-career-from-beginner-to-pro/)
-- [Enhancing WordPress Security: Insights and Strategies](https://wordpress.tv/2025/07/25/enhancing-wordpress-security-insights-and-strategies/)
-- [My Process for Building a Custom WordPress Theme in 2025](https://wordpress.tv/2025/07/25/my-process-for-building-a-custom-wordpress-theme-in-2025/)
-- [Essential Content-Centric Plugins for Your WordPress Website](https://wordpress.tv/2025/07/25/essential-content-centric-plugins-for-your-wordpress-website/)
-- [Partnering with Purpose: How to build a successful partnership](https://wordpress.tv/2025/07/25/partnering-with-purpose-how-to-build-a-successful-partnership/)
-- [Agencies in the Age of AI: Evolution, not Extinction](https://wordpress.tv/2025/07/25/agencies-in-the-age-of-ai-evolution-not-extinction/)
-- [A Journey from Page Builders to Blocks in WordPress](https://wordpress.tv/2025/07/25/a-journey-from-page-builders-to-blocks-in-wordpress/)
-- [Accelerate Your Agency’s Workflows: AI Tools for Accelerated Development and Maintenance](https://wordpress.tv/2025/07/25/accelerate-your-agencys-workflows-ai-tools-for-accelerated-development-and-maintenance/)
-- [We have fun and get things done: Remote work practices for small teams](https://wordpress.tv/2025/07/25/we-have-fun-and-get-things-done-remote-work-practices-for-small-teams/)
-- [Hidden Gems: Leveraging Less-Known WordPress Plugins that I Have Been Using Since My First Websites](https://wordpress.tv/2025/07/25/hidden-gems-leveraging-less-known-wordpress-plugins-that-i-have-been-using-since-my-first-websites/)
 <!-- WPTV:END -->
 
 ## Marketing
