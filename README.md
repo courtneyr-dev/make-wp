@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bagaimana Tahun Pertama Saya](https://wordpress.tv/2025/07/31/bagaimana-tahun-pertama-saya/)
+- [Fengshui in WordPress page design](https://wordpress.tv/2025/07/31/fengshui-in-wordpress-page-design/)
+- [From Chatbot to AI Agent](https://wordpress.tv/2025/07/31/from-chatbot-to-ai-agent/)
+- [XAI in WordPress Security: Understanding the “Why” Behind AI-Driven Decisions](https://wordpress.tv/2025/07/31/xai-in-wordpress-security-understanding-the-why-behind-ai-driven-decisions/)
+- [AI-Powered Agency Management: The Future of Productivity](https://wordpress.tv/2025/07/31/ai-powered-agency-management-the-future-of-productivity/)
+- [Optimising Website Costs and Performance Through Site Audits and Maintenance](https://wordpress.tv/2025/07/31/optimising-website-costs-and-performance-through-site-audits-and-maintenance/)
 - [Summer Photo Contest Opening Session &lpar;English&rpar;](https://wordpress.tv/2025/07/29/summer-photo-contest-opening-session-english/)
 - [Sesión de apertura del Summer Photo Contest &lpar;español&rpar;](https://wordpress.tv/2025/07/29/sesion-de-apertura-del-summer-photo-contest-espanol/)
 - [Schluss mit Stockbildern: Individuelle Bilder &amp; Icons mit KI für deine WordPress-Seite](https://wordpress.tv/2025/07/27/schluss-mit-stockbildern-individuelle-bilder-icons-mit-ki-fur-deine-wordpress-seite/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Accelerate Your Agency’s Workflows: AI Tools for Accelerated Development and Maintenance](https://wordpress.tv/2025/07/25/accelerate-your-agencys-workflows-ai-tools-for-accelerated-development-and-maintenance/)
 - [We have fun and get things done: Remote work practices for small teams](https://wordpress.tv/2025/07/25/we-have-fun-and-get-things-done-remote-work-practices-for-small-teams/)
 - [Hidden Gems: Leveraging Less-Known WordPress Plugins that I Have Been Using Since My First Websites](https://wordpress.tv/2025/07/25/hidden-gems-leveraging-less-known-wordpress-plugins-that-i-have-been-using-since-my-first-websites/)
-- [Explorando el futuro de Woocommerce: Novedades 2025](https://wordpress.tv/2025/07/25/explorando-el-futuro-de-woocommerce-novedades-2025/)
-- [The Heart of Customer Support](https://wordpress.tv/2025/07/25/the-heart-of-customer-support/)
-- [WordCamp Bhopal 2023 Highlights](https://wordpress.tv/2025/07/25/wordcamp-bhopal-2023-highlights/)
-- [WPKolhapur Contribution series 10th: Contribute to WordPress Test team](https://wordpress.tv/2025/07/25/wpkolhapur-contribution-series-10th-contribute-to-wordpress-test-team/)
-- [WordPress : la liberté créative pour les stratégies marketing innovantes](https://wordpress.tv/2025/07/25/wordpress-la-liberte-creative-pour-les-strategies-marketing-innovantes/)
-- [La guerre des landings pages : SEO VS UX](https://wordpress.tv/2025/07/24/la-guerre-des-landings-pages-seo-vs-ux/)
 <!-- WPTV:END -->
 
 ## Marketing
