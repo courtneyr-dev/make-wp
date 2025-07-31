@@ -195,6 +195,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Training Team Update – July 31, 2025](https://make.wordpress.org/training/2025/07/31/xpost-training-team-update-july-31-2025-2/)
+- [X-post: Training Team Update – July 31, 2025](https://make.wordpress.org/training/2025/07/31/xpost-training-team-update-july-31-2025/)
 - [Announcing the Training Team Cohort: “WordPress Block Editor Basics”](https://make.wordpress.org/training/2025/07/29/announcing-training-team-cohort-wordpress-block-editor-basics/)
 - [Training Team Meeting Recap – 22th July 2025](https://make.wordpress.org/training/2025/07/28/training-team-meeting-recap-22th-july-2025/)
 - [X-post: Online monthly Docs Team Contributor Day August 26, 2025](https://make.wordpress.org/training/2025/07/22/xpost-online-monthly-docs-team-contributor-day-august-26-2025/)
@@ -203,8 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 8th July 2025](https://make.wordpress.org/training/2025/07/11/training-team-meeting-recap-8th-july-2025/)
 - [X-post: Looking for a Korean translation reviewer for Learn WordPress content](https://make.wordpress.org/training/2025/07/07/xpost-looking-for-a-korean-translation-reviewer-for-learn-wordpress-content/)
 - [Training Team Meeting Recap – 1st July 2025](https://make.wordpress.org/training/2025/07/04/training-team-meeting-recap-1st-july-2025/)
-- [X-post: Looking for a Italian translation reviewer for Learn WordPress content](https://make.wordpress.org/training/2025/07/01/xpost-looking-for-a-italian-translation-reviewer-for-learn-wordpress-content/)
-- [Training Team Meeting Recap – 24th June 2025](https://make.wordpress.org/training/2025/06/30/training-team-meeting-recap-24th-june-2025/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
