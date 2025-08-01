@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Powerkit – Supercharge your WordPress Site](https://make.wordpress.org/polyglots/2025/08/01/pte-request-for-powerkit-supercharge-your-wordpress-site/)
+- [Approval Request](https://make.wordpress.org/polyglots/2025/08/01/approval-request-2/)
 - [PTE Request for three plugins](https://make.wordpress.org/polyglots/2025/07/31/pte-request-for-three-plugins-5/)
 - [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/31/pte-request-for-avinex-theme-4/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/30/hi-polyglots-team-18/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Tiny Widget Manager](https://make.wordpress.org/polyglots/2025/07/29/pte-request-for-tiny-widget-manager/)
 - [Hello, I would like to…](https://make.wordpress.org/polyglots/2025/07/29/hello-i-would-like-to-12/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/07/29/i-would-like-to-request-3/)
-- [PTE Request for Easy Architect](https://make.wordpress.org/polyglots/2025/07/29/pte-request-for-easy-architect/)
-- [X-post: Polyglots Week in Review: July 28, 2025](https://make.wordpress.org/polyglots/2025/07/29/xpost-polyglots-week-in-review-july-28-2025/)
 <!-- POLYGLOTS:END -->
 
 ## Support
