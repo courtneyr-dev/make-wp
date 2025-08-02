@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/08/02/pte-request-for-shopwell-theme-7/)
 - [PTE Request for Powerkit – Supercharge your WordPress Site](https://make.wordpress.org/polyglots/2025/08/01/pte-request-for-powerkit-supercharge-your-wordpress-site/)
 - [Approval Request](https://make.wordpress.org/polyglots/2025/08/01/approval-request-2/)
 - [PTE Request for three plugins](https://make.wordpress.org/polyglots/2025/07/31/pte-request-for-three-plugins-5/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Feedify-several locales](https://make.wordpress.org/polyglots/2025/07/29/feedify-several-locales/)
 - [PTE Request for Tiny Widget Manager](https://make.wordpress.org/polyglots/2025/07/29/pte-request-for-tiny-widget-manager/)
 - [Hello, I would like to…](https://make.wordpress.org/polyglots/2025/07/29/hello-i-would-like-to-12/)
-- [I would like to request…](https://make.wordpress.org/polyglots/2025/07/29/i-would-like-to-request-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
