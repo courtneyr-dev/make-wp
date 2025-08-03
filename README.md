@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Call for Accessibility Team Representatives](https://make.wordpress.org/accessibility/2025/08/03/call-for-accessibility-team-representatives-2/)
 - [Accessibility Team Meeting Agenda: July 09, 2025](https://make.wordpress.org/accessibility/2025/07/08/accessibility-team-meeting-agenda-july-09-2025/)
 - [Results survey “Which WP accessibility documentation do you need”](https://make.wordpress.org/accessibility/2025/06/26/results-survey-which-wp-accessibility-documentation-do-you-need/)
 - [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/accessibility/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/accessibility/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/accessibility/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Accessibility Team Meeting Agenda: June 04, 2025](https://make.wordpress.org/accessibility/2025/06/01/accessibility-team-meeting-agenda-june-04-2025/)
-- [X-post: Hallway Hangout: Let’s chat about the new AI team](https://make.wordpress.org/accessibility/2025/05/29/xpost-hallway-hangout-lets-chat-about-the-new-ai-team/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
