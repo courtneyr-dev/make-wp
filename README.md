@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Monthly Education Buzz Report – July 2025](https://make.wordpress.org/community/2025/08/04/monthly-education-buzz-report-july-2025/)
 - [WordPress Academy: A Case Study from WordCamp Krakow](https://make.wordpress.org/community/2025/07/29/wordpress-academy-a-case-study-from-wordcamp-krakow/)
 - [X-post: Online monthly Docs Team Contributor Day August 26, 2025](https://make.wordpress.org/community/2025/07/22/xpost-online-monthly-docs-team-contributor-day-august-26-2025/)
 - [How to Talk About and Support the New WordPress Education Initiatives](https://make.wordpress.org/community/2025/07/18/how-to-talk-about-and-support-the-new-wordpress-education-initiatives/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/community/2025/06/25/xpost-a-little-late-spring-cleaning/)
 - [X-post: Online monthly Docs Team Contributor Day July 22, 2025](https://make.wordpress.org/community/2025/06/24/xpost-online-monthly-docs-team-contributor-day-july-22-2025/)
 - [The Incident Response Team is looking for new members](https://make.wordpress.org/community/2025/06/23/the-incident-response-team-is-looking-for-new-members/)
-- [X-post: Five for the Future WCEU25 Chat](https://make.wordpress.org/community/2025/06/17/xpost-five-for-the-future-wceu25-chat/)
 <!-- COMMUNITY:END -->
 
 ## Meta
