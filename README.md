@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/08/04/hi-polyglots-team-19/)
 - [PTE Request for Daleel – Arabic States for Woocommerce, Khattat – Arabic Fonts, Saudi Currency, Phone Validator with Flags for WooCommerce, and Sharek Me](https://make.wordpress.org/polyglots/2025/08/03/pte-request-for-daleel-arabic-states-for-woocommerce-khattat-arabic-fonts-saudi-currency-phone-validator-with-flags-for-woocommerce-and-sharek-me/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/08/02/pte-request-for-shopwell-theme-7/)
 - [PTE Request for Powerkit – Supercharge your WordPress Site](https://make.wordpress.org/polyglots/2025/08/01/pte-request-for-powerkit-supercharge-your-wordpress-site/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/30/hi-polyglots-team-18/)
 - [Agenda: Weekly Polyglots Chat – July 30, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/30/agenda-weekly-polyglots-chat-july-30-2025-1300-utc/)
 - [Feedify-several locales](https://make.wordpress.org/polyglots/2025/07/29/feedify-several-locales/)
-- [PTE Request for Tiny Widget Manager](https://make.wordpress.org/polyglots/2025/07/29/pte-request-for-tiny-widget-manager/)
 <!-- POLYGLOTS:END -->
 
 ## Support
