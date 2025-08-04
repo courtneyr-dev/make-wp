@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for NIP Field for WooCommerce](https://make.wordpress.org/polyglots/2025/08/04/pte-request-for-nip-field-for-woocommerce/)
 - [PTE Request for Maintenance plugin.](https://make.wordpress.org/polyglots/2025/08/04/pte-request-for-maintenance-plugin/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/08/04/hi-polyglots-team-19/)
 - [PTE Request for Daleel – Arabic States for Woocommerce, Khattat – Arabic Fonts, Saudi Currency, Phone Validator with Flags for WooCommerce, and Sharek Me](https://make.wordpress.org/polyglots/2025/08/03/pte-request-for-daleel-arabic-states-for-woocommerce-khattat-arabic-fonts-saudi-currency-phone-validator-with-flags-for-woocommerce-and-sharek-me/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for three plugins](https://make.wordpress.org/polyglots/2025/07/31/pte-request-for-three-plugins-5/)
 - [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/31/pte-request-for-avinex-theme-4/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/07/30/hi-polyglots-team-18/)
-- [Agenda: Weekly Polyglots Chat – July 30, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/07/30/agenda-weekly-polyglots-chat-july-30-2025-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
