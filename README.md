@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for patrons-tips](https://make.wordpress.org/polyglots/2025/08/05/pte-request-for-patrons-tips/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/05/i-am-the-plugin-author-67/)
+- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/05/hello-polyglots-team-18/)
+- [PTE Request for [Rectus Auto Tagging]](https://make.wordpress.org/polyglots/2025/08/05/pte-request-for-rectus-auto-tagging/)
 - [X-post: Polyglots Week in Review: August 4, 2025](https://make.wordpress.org/polyglots/2025/08/04/xpost-polyglots-week-in-review-august-4-2025/)
 - [PTE Request for NIP Field for WooCommerce](https://make.wordpress.org/polyglots/2025/08/04/pte-request-for-nip-field-for-woocommerce/)
 - [PTE Request for Maintenance plugin.](https://make.wordpress.org/polyglots/2025/08/04/pte-request-for-maintenance-plugin/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/08/04/hi-polyglots-team-19/)
 - [PTE Request for Daleel – Arabic States for Woocommerce, Khattat – Arabic Fonts, Saudi Currency, Phone Validator with Flags for WooCommerce, and Sharek Me](https://make.wordpress.org/polyglots/2025/08/03/pte-request-for-daleel-arabic-states-for-woocommerce-khattat-arabic-fonts-saudi-currency-phone-validator-with-flags-for-woocommerce-and-sharek-me/)
 - [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/08/02/pte-request-for-shopwell-theme-7/)
-- [PTE Request for Powerkit – Supercharge your WordPress Site](https://make.wordpress.org/polyglots/2025/08/01/pte-request-for-powerkit-supercharge-your-wordpress-site/)
-- [Approval Request](https://make.wordpress.org/polyglots/2025/08/01/approval-request-2/)
-- [PTE Request for three plugins](https://make.wordpress.org/polyglots/2025/07/31/pte-request-for-three-plugins-5/)
-- [PTE Request for Avinex Theme](https://make.wordpress.org/polyglots/2025/07/31/pte-request-for-avinex-theme-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
