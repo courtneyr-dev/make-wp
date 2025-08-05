@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Download Counters broken after caching change.](https://make.wordpress.org/systems/2025/08/05/download-counters-broken-after-caching-change/)
 - [Hosts missing from Munin](https://make.wordpress.org/systems/2025/07/17/hosts-missing-from-munin/)
 - [Themes.trac 504’s causing automation failures](https://make.wordpress.org/systems/2025/07/17/themes-trac-504s-causing-automation-failures/)
 - [Proxy access – webtechpooja](https://make.wordpress.org/systems/2025/07/08/proxy-access-webtechpooja/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Campus Connect – Custom subdomain](https://make.wordpress.org/systems/2025/05/21/wordpress-campus-connect-custom-subdomain/)
 - [Mailing lists subscription functions broken.](https://make.wordpress.org/systems/2025/05/02/mailing-lists-subscription-functions-broken/)
 - [I’d like to request access…](https://make.wordpress.org/systems/2025/05/01/id-like-to-request-access/)
-- [Plugins pre-commit rule to prevent nested tags](https://make.wordpress.org/systems/2025/04/30/plugins-pre-commit-rule-to-prevent-nested-tags/)
 <!-- SYSTEMS:END -->
 
 ## News
