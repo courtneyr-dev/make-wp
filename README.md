@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Customer Review…](https://make.wordpress.org/polyglots/2025/08/06/pte-request-for-customer-review/)
 - [Agenda: Weekly Polyglots Chat – August 6, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/08/06/agenda-weekly-polyglots-chat-august-6-2025-700-utc/)
 - [PTE Request for patrons-tips](https://make.wordpress.org/polyglots/2025/08/05/pte-request-for-patrons-tips/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/05/i-am-the-plugin-author-67/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for NIP Field for WooCommerce](https://make.wordpress.org/polyglots/2025/08/04/pte-request-for-nip-field-for-woocommerce/)
 - [PTE Request for Maintenance plugin.](https://make.wordpress.org/polyglots/2025/08/04/pte-request-for-maintenance-plugin/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/08/04/hi-polyglots-team-19/)
-- [PTE Request for Daleel – Arabic States for Woocommerce, Khattat – Arabic Fonts, Saudi Currency, Phone Validator with Flags for WooCommerce, and Sharek Me](https://make.wordpress.org/polyglots/2025/08/03/pte-request-for-daleel-arabic-states-for-woocommerce-khattat-arabic-fonts-saudi-currency-phone-validator-with-flags-for-woocommerce-and-sharek-me/)
 <!-- POLYGLOTS:END -->
 
 ## Support
