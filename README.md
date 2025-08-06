@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – August 6, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/08/06/agenda-weekly-polyglots-chat-august-6-2025-700-utc/)
 - [PTE Request for patrons-tips](https://make.wordpress.org/polyglots/2025/08/05/pte-request-for-patrons-tips/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/05/i-am-the-plugin-author-67/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/05/hello-polyglots-team-18/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Maintenance plugin.](https://make.wordpress.org/polyglots/2025/08/04/pte-request-for-maintenance-plugin/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/08/04/hi-polyglots-team-19/)
 - [PTE Request for Daleel – Arabic States for Woocommerce, Khattat – Arabic Fonts, Saudi Currency, Phone Validator with Flags for WooCommerce, and Sharek Me](https://make.wordpress.org/polyglots/2025/08/03/pte-request-for-daleel-arabic-states-for-woocommerce-khattat-arabic-fonts-saudi-currency-phone-validator-with-flags-for-woocommerce-and-sharek-me/)
-- [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/08/02/pte-request-for-shopwell-theme-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
