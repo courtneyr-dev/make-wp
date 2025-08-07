@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Masala of Marketing for your Business](https://wordpress.tv/2025/08/07/the-masala-of-marketing-for-your-business/)
+- [AI for Beginners: How to Use AI Tools to Boost Your Skills In WordPress](https://wordpress.tv/2025/08/07/ai-for-beginners-how-to-use-ai-tools-to-boost-your-skills-in-wordpress/)
 - [WordPress Basics: A No-Fluff Introduction](https://wordpress.tv/2025/07/31/wordpress-basics-a-no-fluff-introduction/)
 - [Finding Community Through Curiosity](https://wordpress.tv/2025/07/31/finding-community-through-curiosity/)
 - [The Real WordCamp Happens Off the Stage: How to Build Connections and Seize Opportunities](https://wordpress.tv/2025/07/31/the-real-wordcamp-happens-off-the-stage-how-to-build-connections-and-seize-opportunities/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summer Photo Contest Opening Session &lpar;English&rpar;](https://wordpress.tv/2025/07/29/summer-photo-contest-opening-session-english/)
 - [Sesión de apertura del Summer Photo Contest &lpar;español&rpar;](https://wordpress.tv/2025/07/29/sesion-de-apertura-del-summer-photo-contest-espanol/)
 - [Schluss mit Stockbildern: Individuelle Bilder &amp; Icons mit KI für deine WordPress-Seite](https://wordpress.tv/2025/07/27/schluss-mit-stockbildern-individuelle-bilder-icons-mit-ki-fur-deine-wordpress-seite/)
-- [Warum Geschichten Produkte verkaufen](https://wordpress.tv/2025/07/27/warum-geschichten-produkte-verkaufen/)
-- [Design Thinking in UX: Solving Real User Problems with WordPress](https://wordpress.tv/2025/07/26/design-thinking-in-ux-solving-real-user-problems-with-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
