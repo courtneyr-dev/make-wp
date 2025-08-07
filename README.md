@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, August 6, 2025](https://make.wordpress.org/core/2025/08/07/summary-dev-chat-august-6-2025/)
 - [Dev Chat Agenda – August 6, 2025](https://make.wordpress.org/core/2025/08/05/dev-chat-agenda-august-6-2025/)
 - [X-post: A Month in Core – July 2025](https://make.wordpress.org/core/2025/08/01/xpost-a-month-in-core-july-2025/)
 - [Summary, Dev Chat, July 30, 2025](https://make.wordpress.org/core/2025/08/01/summary-dev-chat-july-30-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: PHPStan in the WordPress core development workflow](https://make.wordpress.org/core/2025/07/11/proposal-phpstan-in-the-wordpress-core-development-workflow/)
 - [Summary, Dev Chat, July 9, 2025](https://make.wordpress.org/core/2025/07/10/summary-dev-chat-july-9-2025/)
 - [Core Committers Check-in – July 2025](https://make.wordpress.org/core/2025/07/10/core-committers-check-in-july-2025/)
-- [WordPress 6.8.2 RC1 is now available](https://make.wordpress.org/core/2025/07/08/wordpress-6-8-2-rc1-is-now-available/)
 <!-- CORE:END -->
 
 ## Design
