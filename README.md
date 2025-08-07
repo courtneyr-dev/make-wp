@@ -522,8 +522,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [Web Developer with WordPress](https://jobs.wordpress.net/job/web-developer-with-wordpress/)
-- [Product Assistant](https://jobs.wordpress.net/job/product-assistant-5/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-10/)
 - [PHP Plugin Developer](https://jobs.wordpress.net/job/php-plugin-developer/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-7/)
 - [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-15/)
@@ -531,6 +529,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Partnership Opportunity – Bring Website Development Clients &amp; Earn Per Project](https://jobs.wordpress.net/job/partnership-opportunity-bring-website-development-clients-earn-per-project/)
 - [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-7/)
 - [WordPress Web Designer / SEO Expert](https://jobs.wordpress.net/job/wordpress-web-designer-seo-expert/)
+- [WordPress Technical Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/wordpress-technical-writer-remote-2/)
+- [Tech Lead, WordPress Development](https://jobs.wordpress.net/job/tech-lead-wordpress-development/)
 <!-- JOBS:END -->
 
 ## Central
