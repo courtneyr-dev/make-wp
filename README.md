@@ -565,8 +565,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Wrocław 2025](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-2025/)
 - [WordCamp Athens 2025](https://central.wordcamp.org/wordcamps/wordcamp-athens-2025/)
 - [WordCamp Dhaka 2025](https://central.wordcamp.org/wordcamps/wordcamp-dhaka-2025/)
+- [WordCamp Uyo 2025](https://central.wordcamp.org/wordcamps/wordcamp-uyo-2025/)
 - [WordCamp Vršac 2025](https://central.wordcamp.org/wordcamps/wordcamp-vrsac-2025/)
-- [WordCamp Bengaluru 2025](https://central.wordcamp.org/wordcamps/wordcamp-bengaluru-2025/)
 - [WordPress Youth Day Nicaragua](https://central.wordcamp.org/wordcamps/youth-day-nicaragua-2025/)
 - [WordCamp Bhopal 2025](https://central.wordcamp.org/wordcamps/wordcamp-bhopal-2025/)
 <!-- WordCamp:END -->
