@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/08/08/pte-request-for-shopwell-theme-8/)
+- [PTE Request for WP Wiki Tooltip](https://make.wordpress.org/polyglots/2025/08/08/pte-request-for-wp-wiki-tooltip-2/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/08/08/i-would-like-to-request-4/)
 - [PTE Request](https://make.wordpress.org/polyglots/2025/08/07/pte-request-33/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/07/i-am-the-plugin-author-68/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – August 6, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/08/06/agenda-weekly-polyglots-chat-august-6-2025-700-utc/)
 - [PTE Request for patrons-tips](https://make.wordpress.org/polyglots/2025/08/05/pte-request-for-patrons-tips/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/05/i-am-the-plugin-author-67/)
-- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/05/hello-polyglots-team-18/)
-- [PTE Request for [Rectus Auto Tagging]](https://make.wordpress.org/polyglots/2025/08/05/pte-request-for-rectus-auto-tagging/)
 <!-- POLYGLOTS:END -->
 
 ## Support
