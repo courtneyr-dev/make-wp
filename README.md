@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for GatherPress Hello,…](https://make.wordpress.org/polyglots/2025/08/10/pte-request-for-gatherpress-hello/)
+- [Hi,](https://make.wordpress.org/polyglots/2025/08/10/hi-122/)
 - [Kickstarting Kinyarwanda locale](https://make.wordpress.org/polyglots/2025/08/09/kickstarting-kinyarwanda-locale/)
 - [PTE Request for Variation Price Display Range for WooCommerce](https://make.wordpress.org/polyglots/2025/08/09/pte-request-for-variation-price-display-range-for-woocommerce/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/08/i-am-the-plugin-author-69/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WP Wiki Tooltip](https://make.wordpress.org/polyglots/2025/08/08/pte-request-for-wp-wiki-tooltip-2/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/08/08/i-would-like-to-request-4/)
 - [PTE Request](https://make.wordpress.org/polyglots/2025/08/07/pte-request-33/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/07/i-am-the-plugin-author-68/)
-- [PTE Request](https://make.wordpress.org/polyglots/2025/08/06/pte-request-32/)
 <!-- POLYGLOTS:END -->
 
 ## Support
