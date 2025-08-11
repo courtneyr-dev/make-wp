@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Plugin Rollout: Phased Releases](https://make.wordpress.org/plugins/2025/08/11/plugin-rollout-phased-releases/)
 - [Requiring the README to be written in English](https://make.wordpress.org/plugins/2025/07/28/requiring-the-readme-to-be-written-in-english/)
 - [Team Name Change to “Plugins Team”](https://make.wordpress.org/plugins/2025/07/12/team-name-change-to-plugins-team/)
 - [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/plugins/2025/06/25/xpost-a-little-late-spring-cleaning/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Announcing the Next Plugin Review Team Reps](https://make.wordpress.org/plugins/2025/05/26/announcing-the-next-plugin-review-team-reps/)
 - [The WordPress Ecosystem is Growing: New Plugin Submissions Have Doubled in 2025](https://make.wordpress.org/plugins/2025/05/21/the-wordpress-ecosystem-is-growing-new-plugin-submissions-have-doubled-in-2025/)
 - [X-post: Help Test WordPress 6.8](https://make.wordpress.org/plugins/2025/03/04/xpost-help-test-wordpress-6-8/)
-- [Plugin author now linked to WordPress.org profiles](https://make.wordpress.org/plugins/2025/02/20/plugin-author-now-linked-wp-profiles/)
 <!-- PLUGINS:END -->
 
 ## Community
