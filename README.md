@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Comfortable Admin Page](https://make.wordpress.org/polyglots/2025/08/11/pte-request-for-comfortable-admin-page/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/08/10/i-would-like-to-request-6/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/08/10/i-would-like-to-request-5/)
 - [PTE Request for Override PHP…](https://make.wordpress.org/polyglots/2025/08/10/pte-request-for-override-php/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Variation Price Display Range for WooCommerce](https://make.wordpress.org/polyglots/2025/08/09/pte-request-for-variation-price-display-range-for-woocommerce/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/08/i-am-the-plugin-author-69/)
 - [Hello, I am the author…](https://make.wordpress.org/polyglots/2025/08/08/hello-i-am-the-author-5/)
-- [PTE Request for Shopwell Theme](https://make.wordpress.org/polyglots/2025/08/08/pte-request-for-shopwell-theme-8/)
 <!-- POLYGLOTS:END -->
 
 ## Support
