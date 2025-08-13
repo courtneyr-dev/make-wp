@@ -528,9 +528,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product Assistant](https://jobs.wordpress.net/job/product-assistant-7/)
 - [AI-proficient WordPress Developer](https://jobs.wordpress.net/job/ai-proficient-wordpress-developer/)
 - [Technical Support Engineer for a Plugin](https://jobs.wordpress.net/job/technical-support-engineer-for-a-plugin/)
-- [Web Developer with WordPress](https://jobs.wordpress.net/job/web-developer-with-wordpress/)
 - [PHP Plugin Developer](https://jobs.wordpress.net/job/php-plugin-developer/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-7/)
+- [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-15/)
 <!-- JOBS:END -->
 
 ## Central
