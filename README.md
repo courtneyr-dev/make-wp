@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots Team, 👋](https://make.wordpress.org/polyglots/2025/08/13/hello-polyglots-team-%f0%9f%91%8b/)
 - [PTE Request for Quiz Maker…](https://make.wordpress.org/polyglots/2025/08/12/pte-request-for-quiz-maker-3/)
 - [Agenda: Weekly Polyglots Chat – August 13, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/08/12/agenda-weekly-polyglots-chat-august-13-2025-1300-utc/)
 - [PTE Request for Comfortable Admin Page](https://make.wordpress.org/polyglots/2025/08/11/pte-request-for-comfortable-admin-page/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for GatherPress Hello,…](https://make.wordpress.org/polyglots/2025/08/10/pte-request-for-gatherpress-hello/)
 - [Hi,](https://make.wordpress.org/polyglots/2025/08/10/hi-122/)
 - [Kickstarting Kinyarwanda locale](https://make.wordpress.org/polyglots/2025/08/09/kickstarting-kinyarwanda-locale/)
-- [PTE Request for Variation Price Display Range for WooCommerce](https://make.wordpress.org/polyglots/2025/08/09/pte-request-for-variation-price-display-range-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
