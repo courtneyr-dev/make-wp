@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mastering Content Creation &amp; Personal Branding with WordPress &amp; LinkedIn](https://wordpress.tv/2025/08/14/mastering-content-creation-personal-branding-with-wordpress-linkedin/)
+- [From Interest to Impact: Turning Your Passion into a Profession](https://wordpress.tv/2025/08/14/from-interest-to-impact-turning-your-passion-into-a-profession/)
+- [Mind Hacks to Spark Creativity in Logical Thinkers](https://wordpress.tv/2025/08/14/mind-hacks-to-spark-creativity-in-logical-thinkers/)
+- [Mastering the Art of WordPress: 13 Years of Advanced Tips and Tricks](https://wordpress.tv/2025/08/14/mastering-the-art-of-wordpress-13-years-of-advanced-tips-and-tricks/)
 - [Desplegando WordPress en AWS con Kubernetes](https://wordpress.tv/2025/08/14/desplegando-wordpress-en-aws-con-kubernetes/)
 - [Crafting Custom WP-CLI Commands: Unlocking WordPress Flexibility](https://wordpress.tv/2025/08/14/crafting-custom-wp-cli-commands-unlocking-wordpress-flexibility/)
 - [The Masala of Marketing for your Business](https://wordpress.tv/2025/08/07/the-masala-of-marketing-for-your-business/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dari JB ke SaaS Global: Bagaimana Tahun Pertama Saya](https://wordpress.tv/2025/07/31/bagaimana-tahun-pertama-saya/)
 - [Fengshui in WordPress page design](https://wordpress.tv/2025/07/31/fengshui-in-wordpress-page-design/)
 - [From Chatbot to AI Agent](https://wordpress.tv/2025/07/31/from-chatbot-to-ai-agent/)
-- [XAI in WordPress Security: Understanding the “Why” Behind AI-Driven Decisions](https://wordpress.tv/2025/07/31/xai-in-wordpress-security-understanding-the-why-behind-ai-driven-decisions/)
-- [AI-Powered Agency Management: The Future of Productivity](https://wordpress.tv/2025/07/31/ai-powered-agency-management-the-future-of-productivity/)
-- [Optimising Website Costs and Performance Through Site Audits and Maintenance](https://wordpress.tv/2025/07/31/optimising-website-costs-and-performance-through-site-audits-and-maintenance/)
-- [Summer Photo Contest Opening Session &lpar;English&rpar;](https://wordpress.tv/2025/07/29/summer-photo-contest-opening-session-english/)
 <!-- WPTV:END -->
 
 ## Marketing
