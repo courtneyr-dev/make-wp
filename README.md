@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Crafting Custom WP-CLI Commands: Unlocking WordPress Flexibility](https://wordpress.tv/2025/08/14/crafting-custom-wp-cli-commands-unlocking-wordpress-flexibility/)
 - [The Masala of Marketing for your Business](https://wordpress.tv/2025/08/07/the-masala-of-marketing-for-your-business/)
 - [AI for Beginners: How to Use AI Tools to Boost Your Skills In WordPress](https://wordpress.tv/2025/08/07/ai-for-beginners-how-to-use-ai-tools-to-boost-your-skills-in-wordpress/)
 - [WordPress Basics: A No-Fluff Introduction](https://wordpress.tv/2025/07/31/wordpress-basics-a-no-fluff-introduction/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Optimising Website Costs and Performance Through Site Audits and Maintenance](https://wordpress.tv/2025/07/31/optimising-website-costs-and-performance-through-site-audits-and-maintenance/)
 - [Summer Photo Contest Opening Session &lpar;English&rpar;](https://wordpress.tv/2025/07/29/summer-photo-contest-opening-session-english/)
 - [Sesión de apertura del Summer Photo Contest &lpar;español&rpar;](https://wordpress.tv/2025/07/29/sesion-de-apertura-del-summer-photo-contest-espanol/)
-- [Schluss mit Stockbildern: Individuelle Bilder &amp; Icons mit KI für deine WordPress-Seite](https://wordpress.tv/2025/07/27/schluss-mit-stockbildern-individuelle-bilder-icons-mit-ki-fur-deine-wordpress-seite/)
 <!-- WPTV:END -->
 
 ## Marketing
