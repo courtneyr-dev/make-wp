@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Desplegando WordPress en AWS con Kubernetes](https://wordpress.tv/2025/08/14/desplegando-wordpress-en-aws-con-kubernetes/)
 - [Crafting Custom WP-CLI Commands: Unlocking WordPress Flexibility](https://wordpress.tv/2025/08/14/crafting-custom-wp-cli-commands-unlocking-wordpress-flexibility/)
 - [The Masala of Marketing for your Business](https://wordpress.tv/2025/08/07/the-masala-of-marketing-for-your-business/)
 - [AI for Beginners: How to Use AI Tools to Boost Your Skills In WordPress](https://wordpress.tv/2025/08/07/ai-for-beginners-how-to-use-ai-tools-to-boost-your-skills-in-wordpress/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [AI-Powered Agency Management: The Future of Productivity](https://wordpress.tv/2025/07/31/ai-powered-agency-management-the-future-of-productivity/)
 - [Optimising Website Costs and Performance Through Site Audits and Maintenance](https://wordpress.tv/2025/07/31/optimising-website-costs-and-performance-through-site-audits-and-maintenance/)
 - [Summer Photo Contest Opening Session &lpar;English&rpar;](https://wordpress.tv/2025/07/29/summer-photo-contest-opening-session-english/)
-- [Sesión de apertura del Summer Photo Contest &lpar;español&rpar;](https://wordpress.tv/2025/07/29/sesion-de-apertura-del-summer-photo-contest-espanol/)
 <!-- WPTV:END -->
 
 ## Marketing
