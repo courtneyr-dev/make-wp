@@ -111,6 +111,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Recovery Mode](https://wordpress.org/support/article/recovery-mode/)
 - [Submenu Block](https://wordpress.org/support/article/submenu-block/)
 - [Comments Block](https://wordpress.org/support/article/comments-block/)
 - [Post Navigation Link Block](https://wordpress.org/support/article/post-navigation-link-block/)
@@ -120,7 +121,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Posts List Block](https://wordpress.org/support/article/posts-list-block/)
 - [Stack Block](https://wordpress.org/support/article/stack-block/)
 - [Pocket Casts Embed Block](https://wordpress.org/support/article/pocket-casts-embed-block/)
-- [Row Block](https://wordpress.org/support/article/row-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
