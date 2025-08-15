@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Summary, Dev Chat, August 13, 2025](https://make.wordpress.org/core/2025/08/15/summary-dev-chat-august-13-2025/)
 - [What’s new in Gutenberg 21.4? &lpar;13 August&rpar;](https://make.wordpress.org/core/2025/08/14/whats-new-in-gutenberg-21-4-13-august/)
 - [Dev Chat Agenda – August 13, 2025](https://make.wordpress.org/core/2025/08/13/dev-chat-agenda-august-13-2025/)
 - [Performance Chat Summary: 12 August 2025](https://make.wordpress.org/core/2025/08/12/performance-chat-summary-12-august-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, July 16, 2025](https://make.wordpress.org/core/2025/07/16/summary-dev-chat-july-16-2025/)
 - [Dev Chat Agenda – July 16, 2025](https://make.wordpress.org/core/2025/07/16/dev-chat-agenda-july-16-2025/)
 - [Performance Chat Summary: 15 July 2025](https://make.wordpress.org/core/2025/07/15/performance-chat-summary-15-july-2025/)
-- [WordPress 6.9 Planning Proposal and Call for Volunteers](https://make.wordpress.org/core/2025/07/11/wordpress-6-9-planning-proposal-and-call-for-volunteers/)
 <!-- CORE:END -->
 
 ## Design
