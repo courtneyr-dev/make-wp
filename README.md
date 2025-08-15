@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I have suggested and translated…](https://make.wordpress.org/polyglots/2025/08/15/i-have-suggested-and-translated/)
 - [PTE Request for Rank Math](https://make.wordpress.org/polyglots/2025/08/14/pte-request-for-rank-math-3/)
 - [Hello Polyglots Team, 👋](https://make.wordpress.org/polyglots/2025/08/13/hello-polyglots-team-%f0%9f%91%8b/)
 - [PTE Request for Quiz Maker…](https://make.wordpress.org/polyglots/2025/08/12/pte-request-for-quiz-maker-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/08/10/i-would-like-to-request-5/)
 - [PTE Request for Override PHP…](https://make.wordpress.org/polyglots/2025/08/10/pte-request-for-override-php/)
 - [PTE Request for GatherPress Hello,…](https://make.wordpress.org/polyglots/2025/08/10/pte-request-for-gatherpress-hello/)
-- [Hi,](https://make.wordpress.org/polyglots/2025/08/10/hi-122/)
 <!-- POLYGLOTS:END -->
 
 ## Support
