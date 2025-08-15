@@ -352,6 +352,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Алгоритъмът на уверената комуникация](https://wordpress.tv/2025/08/15/%d0%b0%d0%bb%d0%b3%d0%be%d1%80%d0%b8%d1%82%d1%8a%d0%bc%d1%8a%d1%82-%d0%bd%d0%b0-%d1%83%d0%b2%d0%b5%d1%80%d0%b5%d0%bd%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bc%d1%83%d0%bd%d0%b8%d0%ba%d0%b0%d1%86%d0%b8/)
+- [Нулев интерфейс – край на браузера](https://wordpress.tv/2025/08/15/%d0%bd%d1%83%d0%bb%d0%b5%d0%b2-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81-%d0%ba%d1%80%d0%b0%d0%b9-%d0%bd%d0%b0-%d0%b1%d1%80%d0%b0%d1%83%d0%b7%d0%b5%d1%80%d0%b0/)
+- [Remarkable Content Angles: Stand out with content that’s Remarkably You](https://wordpress.tv/2025/08/15/remarkable-content-angles-stand-out-with-content-thats-remarkably-you/)
+- [Gutenberg in Action: How the Block Editor Simplifies Client Workflows and Boosts Agency Efficiency](https://wordpress.tv/2025/08/15/gutenberg-in-action-how-the-block-editor-simplifies-client-workflows-and-boosts-agency-efficiency/)
+- [Десет капана, които да избягваме в WordPress през 2025](https://wordpress.tv/2025/08/15/%d0%b4%d0%b5%d1%81%d0%b5%d1%82-%d0%ba%d0%b0%d0%bf%d0%b0%d0%bd%d0%b0-%d0%ba%d0%be%d0%b8%d1%82%d0%be-%d0%b4%d0%b0-%d0%b8%d0%b7%d0%b1%d1%8f%d0%b3%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b2-wordpress-%d0%bf%d1%80/)
+- [How To Always Build a Fast WordPress Site](https://wordpress.tv/2025/08/15/how-to-always-build-a-fast-wordpress-site/)
+- [Как нюзлетърите могат да са ни полезни през 2024](https://wordpress.tv/2025/08/15/%d0%ba%d0%b0%d0%ba-%d0%bd%d1%8e%d0%b7%d0%bb%d0%b5%d1%82%d1%8a%d1%80%d0%b8%d1%82%d0%b5-%d0%bc%d0%be%d0%b3%d0%b0%d1%82-%d0%b4%d0%b0-%d1%81%d0%b0-%d0%bd%d0%b8-%d0%bf%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d0%b8/)
+- [How to Sell WordPress Products &amp; Services Internationally [Actionable Tips]](https://wordpress.tv/2025/08/15/how-to-sell-wordpress-products-services-internationally-actionable-tips/)
 - [Mastering Content Creation &amp; Personal Branding with WordPress &amp; LinkedIn](https://wordpress.tv/2025/08/14/mastering-content-creation-personal-branding-with-wordpress-linkedin/)
 - [From Interest to Impact: Turning Your Passion into a Profession](https://wordpress.tv/2025/08/14/from-interest-to-impact-turning-your-passion-into-a-profession/)
 - [Mind Hacks to Spark Creativity in Logical Thinkers](https://wordpress.tv/2025/08/14/mind-hacks-to-spark-creativity-in-logical-thinkers/)
@@ -369,14 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [AI-Powered Hyper-Personalization: Building WordPress Sites That Adapt in Real-Time](https://wordpress.tv/2025/07/31/ai-powered-hyper-personalization-building-wordpress-sites-that-adapt-in-real-time/)
 - [The Future of Websites &amp; Blogs: How to Stay Relevant in 2025](https://wordpress.tv/2025/07/31/the-future-of-websites-blogs-how-to-stay-relevant-in-2025/)
 - [Build Your First WordPress Plugin with The Power of AI &lpar;Even if You Can’t Code!&rpar;](https://wordpress.tv/2025/07/31/build-your-first-wordpress-plugin-with-the-power-of-ai-even-if-you-cant-code/)
-- [From Pitch to Partnership: Growing Lasting Client Relationships](https://wordpress.tv/2025/07/31/from-pitch-to-partnership-growing-lasting-client-relationships/)
-- [How AI Helps Me Design Websites Faster](https://wordpress.tv/2025/07/31/how-ai-helps-me-design-websites-faster/)
-- [Panel 2: How digital infrastructure and smart city development are shaping Johor’s future](https://wordpress.tv/2025/07/31/panel-2-how-digital-infrastructure-and-smart-city-development-are-shaping-johors-future/)
-- [Panel 1: Workflow Automation, Security and DevOps for WordPress](https://wordpress.tv/2025/07/31/panel-1-workflow-automation-security-and-devops-for-wordpress/)
-- [From Clicks to Conversions: Strategies to Design, Optimize &amp; Measure](https://wordpress.tv/2025/07/31/from-clicks-to-conversions-strategies-to-design-optimize-measure/)
-- [Dari JB ke SaaS Global: Bagaimana Tahun Pertama Saya](https://wordpress.tv/2025/07/31/bagaimana-tahun-pertama-saya/)
-- [Fengshui in WordPress page design](https://wordpress.tv/2025/07/31/fengshui-in-wordpress-page-design/)
-- [From Chatbot to AI Agent](https://wordpress.tv/2025/07/31/from-chatbot-to-ai-agent/)
 <!-- WPTV:END -->
 
 ## Marketing
