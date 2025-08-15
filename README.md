@@ -522,7 +522,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [WooCommerce Custom Product Type Plugin For Non-Profit](https://jobs.wordpress.net/job/woocommerce-custom-product-type-plugin-for-non-profit/)
-- [Fixing internal server error issue](https://jobs.wordpress.net/job/fixing-internal-server-error-issue/)
 - [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-16/)
 - [Product Assistant](https://jobs.wordpress.net/job/product-assistant-7/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-12/)
@@ -531,6 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PHP Plugin Developer](https://jobs.wordpress.net/job/php-plugin-developer/)
 - [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-7/)
 - [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-15/)
+- [E COMMERCE SITE](https://jobs.wordpress.net/job/e-commerce-site-2/)
 <!-- JOBS:END -->
 
 ## Central
