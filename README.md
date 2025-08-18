@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Workshop: Как да станете успешен WP фрилансър с помощта на WordPress общността](https://wordpress.tv/2025/08/18/workshop-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d1%81%d1%82%d0%b0%d0%bd%d0%b5%d1%82%d0%b5-%d1%83%d1%81%d0%bf%d0%b5%d1%88%d0%b5%d0%bd-wp-%d1%84%d1%80%d0%b8%d0%bb%d0%b0%d0%bd%d1%81%d1%8a%d1%80-%d1%81-%d0%bf/)
+- [From Freelancer to the Office](https://wordpress.tv/2025/08/18/from-freelancer-to-the-office/)
+- [Фундаменталната роля на проучването при изграждане на успешен WordPress сайт](https://wordpress.tv/2025/08/18/%d1%84%d1%83%d0%bd%d0%b4%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d0%b0%d0%bb%d0%bd%d0%b0%d1%82%d0%b0-%d1%80%d0%be%d0%bb%d1%8f-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d1%83%d1%87%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be/)
+- [WordPress в училище – история за бизнес, ChatGPT и мечтите на поколение Z](https://wordpress.tv/2025/08/18/wordpress-%d0%b2-%d1%83%d1%87%d0%b8%d0%bb%d0%b8%d1%89%d0%b5-%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81-chatgpt-%d0%b8-%d0%bc%d0%b5%d1%87/)
+- [Rapid WordPress &lpar;Plugin&rpar; Development](https://wordpress.tv/2025/08/18/rapid-wordpress-plugin-development/)
+- [Ефективна QA стратегия за WordPress проекти](https://wordpress.tv/2025/08/18/%d0%b5%d1%84%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%b0-qa-%d1%81%d1%82%d1%80%d0%b0%d1%82%d0%b5%d0%b3%d0%b8%d1%8f-%d0%b7%d0%b0-wordpress-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b8/)
+- [Building a Robust WordPress Multisite Network: Strategies for Success](https://wordpress.tv/2025/08/18/building-a-robust-wordpress-multisite-network-strategies-for-success/)
+- [Как ReactJS може да бъде имплементиран в WordPress и какви са рисковете за бизнеса и програмистите?](https://wordpress.tv/2025/08/18/%d0%ba%d0%b0%d0%ba-reactjs-%d0%bc%d0%be%d0%b6%d0%b5-%d0%b4%d0%b0-%d0%b1%d1%8a%d0%b4%d0%b5-%d0%b8%d0%bc%d0%bf%d0%bb%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d0%b8%d1%80%d0%b0%d0%bd-%d0%b2-wordpress-%d0%b8-%d0%ba/)
+- [Launchpad: a bunch of accessible good practices](https://wordpress.tv/2025/08/18/launchpad-a-bunch-of-accessible-good-practices/)
 - [Алгоритъмът на уверената комуникация](https://wordpress.tv/2025/08/15/%d0%b0%d0%bb%d0%b3%d0%be%d1%80%d0%b8%d1%82%d1%8a%d0%bc%d1%8a%d1%82-%d0%bd%d0%b0-%d1%83%d0%b2%d0%b5%d1%80%d0%b5%d0%bd%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bc%d1%83%d0%bd%d0%b8%d0%ba%d0%b0%d1%86%d0%b8/)
 - [Нулев интерфейс – край на браузера](https://wordpress.tv/2025/08/15/%d0%bd%d1%83%d0%bb%d0%b5%d0%b2-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81-%d0%ba%d1%80%d0%b0%d0%b9-%d0%bd%d0%b0-%d0%b1%d1%80%d0%b0%d1%83%d0%b7%d0%b5%d1%80%d0%b0/)
 - [Remarkable Content Angles: Stand out with content that’s Remarkably You](https://wordpress.tv/2025/08/15/remarkable-content-angles-stand-out-with-content-thats-remarkably-you/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Crafting Custom WP-CLI Commands: Unlocking WordPress Flexibility](https://wordpress.tv/2025/08/14/crafting-custom-wp-cli-commands-unlocking-wordpress-flexibility/)
 - [The Masala of Marketing for your Business](https://wordpress.tv/2025/08/07/the-masala-of-marketing-for-your-business/)
 - [AI for Beginners: How to Use AI Tools to Boost Your Skills In WordPress](https://wordpress.tv/2025/08/07/ai-for-beginners-how-to-use-ai-tools-to-boost-your-skills-in-wordpress/)
-- [WordPress Basics: A No-Fluff Introduction](https://wordpress.tv/2025/07/31/wordpress-basics-a-no-fluff-introduction/)
-- [Finding Community Through Curiosity](https://wordpress.tv/2025/07/31/finding-community-through-curiosity/)
-- [The Real WordCamp Happens Off the Stage: How to Build Connections and Seize Opportunities](https://wordpress.tv/2025/07/31/the-real-wordcamp-happens-off-the-stage-how-to-build-connections-and-seize-opportunities/)
-- [Georgia Papas: Monetise Your Hobbies With WordPress](https://wordpress.tv/2025/07/31/georgia-papas-monetise-your-hobbies-with-wordpress/)
-- [Signing Off with Confidence: Adding Legal Weight to WordPress Workflows](https://wordpress.tv/2025/07/31/signing-off-with-confidence-adding-legal-weight-to-wordpress-workflows/)
-- [Growing in a Community That Builds You](https://wordpress.tv/2025/07/31/growing-in-a-community-that-builds-you/)
-- [AI-Powered Hyper-Personalization: Building WordPress Sites That Adapt in Real-Time](https://wordpress.tv/2025/07/31/ai-powered-hyper-personalization-building-wordpress-sites-that-adapt-in-real-time/)
-- [The Future of Websites &amp; Blogs: How to Stay Relevant in 2025](https://wordpress.tv/2025/07/31/the-future-of-websites-blogs-how-to-stay-relevant-in-2025/)
-- [Build Your First WordPress Plugin with The Power of AI &lpar;Even if You Can’t Code!&rpar;](https://wordpress.tv/2025/07/31/build-your-first-wordpress-plugin-with-the-power-of-ai-even-if-you-cant-code/)
 <!-- WPTV:END -->
 
 ## Marketing
