@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/18/hello-polyglots-team-21/)
+- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/18/hello-polyglots-team-20/)
+- [PTE Request for Novera Smart Chat](https://make.wordpress.org/polyglots/2025/08/18/pte-request-for-novera-smart-chat/)
+- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/18/hello-polyglots-team-19/)
+- [PTE Request for CityCourier –…](https://make.wordpress.org/polyglots/2025/08/18/pte-request-for-citycourier/)
 - [PTE request for Five Star Business Profile and Schema](https://make.wordpress.org/polyglots/2025/08/15/pte-request-for-five-star-business-profile-and-schema/)
 - [PTE Request for Bookingor](https://make.wordpress.org/polyglots/2025/08/15/pte-request-for-bookingor/)
 - [I have suggested and translated…](https://make.wordpress.org/polyglots/2025/08/15/i-have-suggested-and-translated/)
 - [PTE Request for Rank Math](https://make.wordpress.org/polyglots/2025/08/14/pte-request-for-rank-math-3/)
 - [Hello Polyglots Team, 👋](https://make.wordpress.org/polyglots/2025/08/13/hello-polyglots-team-%f0%9f%91%8b/)
-- [PTE Request for Quiz Maker…](https://make.wordpress.org/polyglots/2025/08/12/pte-request-for-quiz-maker-3/)
-- [Agenda: Weekly Polyglots Chat – August 13, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/08/12/agenda-weekly-polyglots-chat-august-13-2025-1300-utc/)
-- [PTE Request for Comfortable Admin Page](https://make.wordpress.org/polyglots/2025/08/11/pte-request-for-comfortable-admin-page/)
-- [I would like to request…](https://make.wordpress.org/polyglots/2025/08/10/i-would-like-to-request-6/)
-- [I would like to request…](https://make.wordpress.org/polyglots/2025/08/10/i-would-like-to-request-5/)
 <!-- POLYGLOTS:END -->
 
 ## Support
