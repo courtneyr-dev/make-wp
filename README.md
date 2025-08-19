@@ -534,6 +534,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [Nurturing New Contributors: WordPress Kolhapur Community’s Online Contribution Series](https://central.wordcamp.org/news/2025/08/nurturing-new-contributors-wordpress-kolhapur-communitys-online-contribution-series/)
 - [First-Ever WordPress Campus Connect in Southeast Asia Kicks Off](https://central.wordcamp.org/news/2025/08/first-ever-wordpress-campus-connect-in-southeast-asia-kicks-off/)
 - [Highlights from WordCamp Masaka 2025](https://central.wordcamp.org/news/2025/07/highlights-from-wordcamp-masaka-2025/)
 - [WordCamp Jinja 2025 Recap: An impactful 2 days of learning, diverse speakers, hands-on workshops, contributions, charity website hackathon, and celebration of WordPress on the Nile](https://central.wordcamp.org/news/2025/06/wordcamp-jinja-2025-recap-an-impactful-2-days-of-learning-diverse-speakers-hands-on-workshops-contributions-charity-website-hackathon-and-celebration-of-wordpress-on-the-nile/)
@@ -548,7 +549,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bridging Africa’s Digital Gaps: The PayDel Summit 2024 &lpar;A WordPress Event&rpar;](https://central.wordcamp.org/news/2024/08/bridging-africas-digital-gaps-the-paydel-summit-2024-a-wordpress-event/)
 - [WordCamp Netherlands 2024 rescheduled](https://central.wordcamp.org/news/2024/08/wordcamp-netherlands-2024-rescheduled/)
 - [Announcing the Shortlisted Projects for Uganda Website Projects Competition 2024](https://central.wordcamp.org/news/2024/06/announcing-the-shortlisted-projects-for-uganda-website-projects-competition-2024/)
-- [From WordCamps to NextGen Events: Uganda’s Turn to Pilot Innovative WordPress Events is Here!](https://central.wordcamp.org/news/2024/03/from-wordcamps-to-nextgen-events-ugandas-turn-to-pilot-innovative-wordpress-events-is-here/)
 <!-- Central:END -->
 
 ### WordCamp
