@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Website Accessibility – Why, When and How](https://wordpress.tv/2025/08/19/website-accessibility-why-when-and-how-2/)
+- [Crafting Attractive Block Themes Using the Block Editor Alone](https://wordpress.tv/2025/08/19/crafting-attractive-block-themes-using-the-block-editor-alone/)
 - [Проактивно използване на AI чатбот на уебсайт](https://wordpress.tv/2025/08/19/%d0%bf%d1%80%d0%be%d0%b0%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%be-%d0%b8%d0%b7%d0%bf%d0%be%d0%bb%d0%b7%d0%b2%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-ai-%d1%87%d0%b0%d1%82%d0%b1%d0%be%d1%82-%d0%bd%d0%b0-%d1%83%d0%b5/)
 - [Workshop: UI/UX през 2024 Как да спрем да проектираме за роботи и да започнем да проектираме за хора](https://wordpress.tv/2025/08/19/workshop-ui-ux-%d0%bf%d1%80%d0%b5%d0%b7-2024-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d1%81%d0%bf%d1%80%d0%b5%d0%bc-%d0%b4%d0%b0-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b8%d1%80%d0%b0%d0%bc%d0%b5-%d0%b7/)
 - [Workshop: Google Site Kit by Google. Best practices, what’s coming and monetization](https://wordpress.tv/2025/08/19/workshop-google-site-kit-by-google-best-practices-whats-coming-and-monetization/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Sell WordPress Products &amp; Services Internationally [Actionable Tips]](https://wordpress.tv/2025/08/15/how-to-sell-wordpress-products-services-internationally-actionable-tips/)
 - [Mastering Content Creation &amp; Personal Branding with WordPress &amp; LinkedIn](https://wordpress.tv/2025/08/14/mastering-content-creation-personal-branding-with-wordpress-linkedin/)
 - [From Interest to Impact: Turning Your Passion into a Profession](https://wordpress.tv/2025/08/14/from-interest-to-impact-turning-your-passion-into-a-profession/)
-- [Mind Hacks to Spark Creativity in Logical Thinkers](https://wordpress.tv/2025/08/14/mind-hacks-to-spark-creativity-in-logical-thinkers/)
-- [Mastering the Art of WordPress: 13 Years of Advanced Tips and Tricks](https://wordpress.tv/2025/08/14/mastering-the-art-of-wordpress-13-years-of-advanced-tips-and-tricks/)
 <!-- WPTV:END -->
 
 ## Marketing
