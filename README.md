@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Проактивно използване на AI чатбот на уебсайт](https://wordpress.tv/2025/08/19/%d0%bf%d1%80%d0%be%d0%b0%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%be-%d0%b8%d0%b7%d0%bf%d0%be%d0%bb%d0%b7%d0%b2%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-ai-%d1%87%d0%b0%d1%82%d0%b1%d0%be%d1%82-%d0%bd%d0%b0-%d1%83%d0%b5/)
+- [Workshop: UI/UX през 2024 Как да спрем да проектираме за роботи и да започнем да проектираме за хора](https://wordpress.tv/2025/08/19/workshop-ui-ux-%d0%bf%d1%80%d0%b5%d0%b7-2024-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d1%81%d0%bf%d1%80%d0%b5%d0%bc-%d0%b4%d0%b0-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b8%d1%80%d0%b0%d0%bc%d0%b5-%d0%b7/)
+- [Workshop: Google Site Kit by Google. Best practices, what’s coming and monetization](https://wordpress.tv/2025/08/19/workshop-google-site-kit-by-google-best-practices-whats-coming-and-monetization/)
+- [Workshop: How WordPress powered Forbes](https://wordpress.tv/2025/08/19/workshop-how-wordpress-powered-forbes/)
 - [Workshop: Как да станете успешен WP фрилансър с помощта на WordPress общността](https://wordpress.tv/2025/08/18/workshop-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d1%81%d1%82%d0%b0%d0%bd%d0%b5%d1%82%d0%b5-%d1%83%d1%81%d0%bf%d0%b5%d1%88%d0%b5%d0%bd-wp-%d1%84%d1%80%d0%b8%d0%bb%d0%b0%d0%bd%d1%81%d1%8a%d1%80-%d1%81-%d0%bf/)
 - [From Freelancer to the Office](https://wordpress.tv/2025/08/18/from-freelancer-to-the-office/)
 - [Фундаменталната роля на проучването при изграждане на успешен WordPress сайт](https://wordpress.tv/2025/08/18/%d1%84%d1%83%d0%bd%d0%b4%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d0%b0%d0%bb%d0%bd%d0%b0%d1%82%d0%b0-%d1%80%d0%be%d0%bb%d1%8f-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d1%83%d1%87%d0%b2%d0%b0%d0%bd%d0%b5%d1%82%d0%be/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From Interest to Impact: Turning Your Passion into a Profession](https://wordpress.tv/2025/08/14/from-interest-to-impact-turning-your-passion-into-a-profession/)
 - [Mind Hacks to Spark Creativity in Logical Thinkers](https://wordpress.tv/2025/08/14/mind-hacks-to-spark-creativity-in-logical-thinkers/)
 - [Mastering the Art of WordPress: 13 Years of Advanced Tips and Tricks](https://wordpress.tv/2025/08/14/mastering-the-art-of-wordpress-13-years-of-advanced-tips-and-tricks/)
-- [Desplegando WordPress en AWS con Kubernetes](https://wordpress.tv/2025/08/14/desplegando-wordpress-en-aws-con-kubernetes/)
-- [Crafting Custom WP-CLI Commands: Unlocking WordPress Flexibility](https://wordpress.tv/2025/08/14/crafting-custom-wp-cli-commands-unlocking-wordpress-flexibility/)
-- [The Masala of Marketing for your Business](https://wordpress.tv/2025/08/07/the-masala-of-marketing-for-your-business/)
-- [AI for Beginners: How to Use AI Tools to Boost Your Skills In WordPress](https://wordpress.tv/2025/08/07/ai-for-beginners-how-to-use-ai-tools-to-boost-your-skills-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
