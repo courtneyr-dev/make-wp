@@ -55,6 +55,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Rep Elections – Voting Now Open](https://make.wordpress.org/accessibility/2025/08/19/accessibility-team-rep-elections-voting-now-open/)
 - [Update project WP A11y Docs July/August 2025](https://make.wordpress.org/accessibility/2025/08/08/update-project-wp-a11y-docs/)
 - [Accessibility Team Meeting Agenda: Aug 06, 2025](https://make.wordpress.org/accessibility/2025/08/05/accessibility-team-meeting-agenda-aug-06-2025/)
 - [Call for Accessibility Team Representatives](https://make.wordpress.org/accessibility/2025/08/03/call-for-accessibility-team-representatives-2/)
@@ -64,7 +65,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Survey: Which WP accessibility documentation do you need?](https://make.wordpress.org/accessibility/2025/06/16/survey-which-wp-accessibility-documentation-do-you-need/)
 - [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/accessibility/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
 - [Start project “Accessibility documentation” on WordCamp Europe 2025.](https://make.wordpress.org/accessibility/2025/06/11/start-project-accessibility-documentation-on-wordcamp-europe-2025/)
-- [X-post: Introducing the AI Team – Hallway Hangout Recap](https://make.wordpress.org/accessibility/2025/06/04/xpost-introducing-the-ai-team-hallway-hangout-recap/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
