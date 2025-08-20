@@ -521,13 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-16/)
-- [AI-proficient WordPress Developer](https://jobs.wordpress.net/job/ai-proficient-wordpress-developer/)
-- [Technical Support Engineer for a Plugin](https://jobs.wordpress.net/job/technical-support-engineer-for-a-plugin/)
-- [PHP Plugin Developer](https://jobs.wordpress.net/job/php-plugin-developer/)
-- [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-7/)
-- [E COMMERCE SITE](https://jobs.wordpress.net/job/e-commerce-site-2/)
-- [Partnership Opportunity – Bring Website Development Clients &amp; Earn Per Project](https://jobs.wordpress.net/job/partnership-opportunity-bring-website-development-clients-earn-per-project/)
+- [Web Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/web-developer-wordpress-8/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-870/)
+- [Documentation Writer](https://jobs.wordpress.net/job/documentation-writer/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-869/)
+- [WordPress Principal Engineer](https://jobs.wordpress.net/job/wordpress-principal-engineer/)
+- [Product Assistant](https://jobs.wordpress.net/job/product-assistant-8/)
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-13/)
+- [Kingdom Thinkers Academy Website](https://jobs.wordpress.net/job/kingdom-thinkers-academy-website/)
+- [Get WP Dashboard &amp; website back](https://jobs.wordpress.net/job/get-wp-dashboard-website-back/)
+- [WordPress Freelancer](https://jobs.wordpress.net/job/wordpress-freelancer-9/)
 <!-- JOBS:END -->
 
 ## Central
