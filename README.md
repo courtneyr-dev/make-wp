@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Tech Lead](https://jobs.wordpress.net/job/wordpress-tech-lead/)
 - [Web Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/web-developer-wordpress-8/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-870/)
 - [Documentation Writer](https://jobs.wordpress.net/job/documentation-writer/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-13/)
 - [Kingdom Thinkers Academy Website](https://jobs.wordpress.net/job/kingdom-thinkers-academy-website/)
 - [Get WP Dashboard &amp; website back](https://jobs.wordpress.net/job/get-wp-dashboard-website-back/)
-- [WordPress Freelancer](https://jobs.wordpress.net/job/wordpress-freelancer-9/)
 <!-- JOBS:END -->
 
 ## Central
