@@ -529,7 +529,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Website Developer](https://jobs.wordpress.net/job/wordpress-website-developer-15/)
 - [E COMMERCE SITE](https://jobs.wordpress.net/job/e-commerce-site-2/)
 - [Partnership Opportunity – Bring Website Development Clients &amp; Earn Per Project](https://jobs.wordpress.net/job/partnership-opportunity-bring-website-development-clients-earn-per-project/)
-- [[Astra] WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-wordpress-plugin-developer-7/)
 <!-- JOBS:END -->
 
 ## Central
