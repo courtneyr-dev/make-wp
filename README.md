@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – August 20, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/08/20/agenda-weekly-polyglots-chat-august-20-2025-700-utc/)
+- [X-post: Polyglots Week in Review: August 19, 2025](https://make.wordpress.org/polyglots/2025/08/20/xpost-polyglots-week-in-review-august-19-2025/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2025/08/19/pte-request-for-18/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2025/08/19/pte-request-for-17/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/08/18/hello-99/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/18/hello-polyglots-team-20/)
 - [PTE Request for Novera Smart Chat](https://make.wordpress.org/polyglots/2025/08/18/pte-request-for-novera-smart-chat/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/18/hello-polyglots-team-19/)
-- [PTE Request for CityCourier –…](https://make.wordpress.org/polyglots/2025/08/18/pte-request-for-citycourier/)
-- [PTE request for Five Star Business Profile and Schema](https://make.wordpress.org/polyglots/2025/08/15/pte-request-for-five-star-business-profile-and-schema/)
 <!-- POLYGLOTS:END -->
 
 ## Support
