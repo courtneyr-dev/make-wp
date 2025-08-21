@@ -267,6 +267,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
+- [WordPress Credits](https://learn.wordpress.org/course/wordpress-credits/)
 - [Beginner WordPress Developer](https://learn.wordpress.org/course/beginner-wordpress-developer/)
 - [Beginner WordPress User](https://learn.wordpress.org/course/beginner-wordpress-user/)
 - [Beginner WordPress Designer](https://learn.wordpress.org/course/beginner-wordpress-designer/)
@@ -291,7 +292,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Basic principles of conflict resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)
 - [Community team event mentor training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
 - [WordPress meetup organizer training](https://learn.wordpress.org/course/wordpress-meetup-organizer-training/)
-- [Incident Response Team training](https://learn.wordpress.org/course/incident-response-team-training/)
 <!-- COURSES:END -->
 
 ### Social Learning Spaces
