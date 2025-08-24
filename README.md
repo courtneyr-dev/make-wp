@@ -527,10 +527,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Documentation Writer](https://jobs.wordpress.net/job/documentation-writer/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-869/)
 - [WordPress Principal Engineer](https://jobs.wordpress.net/job/wordpress-principal-engineer/)
-- [Product Assistant](https://jobs.wordpress.net/job/product-assistant-8/)
-- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-13/)
 - [Kingdom Thinkers Academy Website](https://jobs.wordpress.net/job/kingdom-thinkers-academy-website/)
 - [Get WP Dashboard &amp; website back](https://jobs.wordpress.net/job/get-wp-dashboard-website-back/)
+- [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-8/)
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-108/)
 <!-- JOBS:END -->
 
 ## Central
