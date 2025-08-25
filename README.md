@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Dostępność Cyfrowa 2025: Obowiązek Prawny, Etyka i Korzyści Biznesowe dla Twojej Firmy](https://wordpress.tv/2025/08/25/dostepnosc-cyfrowa-2025-obowiazek-prawny-etyka-i-korzysci-biznesowe-dla-twojej-firmy/)
 - [Unlocking the power of Feedback](https://wordpress.tv/2025/08/22/unlocking-the-power-of-feedback/)
 - [Choosing the Right Layout for Your WordPress Website](https://wordpress.tv/2025/08/22/choosing-the-right-layout-for-your-wordpress-website/)
 - [Cómo implementar IA en tu WordPress: casos y ejemplos](https://wordpress.tv/2025/08/21/como-implementar-ia-en-tu-wordpress-casos-y-ejemplos/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gutenberg in Action: How the Block Editor Simplifies Client Workflows and Boosts Agency Efficiency](https://wordpress.tv/2025/08/15/gutenberg-in-action-how-the-block-editor-simplifies-client-workflows-and-boosts-agency-efficiency/)
 - [Десет капана, които да избягваме в WordPress през 2025](https://wordpress.tv/2025/08/15/%d0%b4%d0%b5%d1%81%d0%b5%d1%82-%d0%ba%d0%b0%d0%bf%d0%b0%d0%bd%d0%b0-%d0%ba%d0%be%d0%b8%d1%82%d0%be-%d0%b4%d0%b0-%d0%b8%d0%b7%d0%b1%d1%8f%d0%b3%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b2-wordpress-%d0%bf%d1%80/)
 - [How To Always Build a Fast WordPress Site](https://wordpress.tv/2025/08/15/how-to-always-build-a-fast-wordpress-site/)
-- [Как нюзлетърите могат да са ни полезни през 2024](https://wordpress.tv/2025/08/15/%d0%ba%d0%b0%d0%ba-%d0%bd%d1%8e%d0%b7%d0%bb%d0%b5%d1%82%d1%8a%d1%80%d0%b8%d1%82%d0%b5-%d0%bc%d0%be%d0%b3%d0%b0%d1%82-%d0%b4%d0%b0-%d1%81%d0%b0-%d0%bd%d0%b8-%d0%bf%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d0%b8/)
 <!-- WPTV:END -->
 
 ## Marketing
