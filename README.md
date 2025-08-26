@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tech y negocio sí pueden hablar el mismo idioma](https://wordpress.tv/2025/08/26/tech-y-negocio-si-pueden-hablar-el-mismo-idioma/)
+- [¿Diseñadores, qué tenemos con las cajas? Estructura de un sitio web para diseñadores](https://wordpress.tv/2025/08/26/disenadores-que-tenemos-con-las-cajas-estructura-de-un-sitio-web-para-disenadores/)
 - [Estrategia de contenido vitaminado con IA](https://wordpress.tv/2025/08/26/estrategia-de-contenido-vitaminado-con-ia/)
 - [Dostępność Cyfrowa 2025: Obowiązek Prawny, Etyka i Korzyści Biznesowe dla Twojej Firmy](https://wordpress.tv/2025/08/25/dostepnosc-cyfrowa-2025-obowiazek-prawny-etyka-i-korzysci-biznesowe-dla-twojej-firmy/)
 - [Unlocking the power of Feedback](https://wordpress.tv/2025/08/22/unlocking-the-power-of-feedback/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Алгоритъмът на уверената комуникация](https://wordpress.tv/2025/08/15/%d0%b0%d0%bb%d0%b3%d0%be%d1%80%d0%b8%d1%82%d1%8a%d0%bc%d1%8a%d1%82-%d0%bd%d0%b0-%d1%83%d0%b2%d0%b5%d1%80%d0%b5%d0%bd%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bc%d1%83%d0%bd%d0%b8%d0%ba%d0%b0%d1%86%d0%b8/)
 - [Нулев интерфейс – край на браузера](https://wordpress.tv/2025/08/15/%d0%bd%d1%83%d0%bb%d0%b5%d0%b2-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81-%d0%ba%d1%80%d0%b0%d0%b9-%d0%bd%d0%b0-%d0%b1%d1%80%d0%b0%d1%83%d0%b7%d0%b5%d1%80%d0%b0/)
 - [Remarkable Content Angles: Stand out with content that’s Remarkably You](https://wordpress.tv/2025/08/15/remarkable-content-angles-stand-out-with-content-thats-remarkably-you/)
-- [Gutenberg in Action: How the Block Editor Simplifies Client Workflows and Boosts Agency Efficiency](https://wordpress.tv/2025/08/15/gutenberg-in-action-how-the-block-editor-simplifies-client-workflows-and-boosts-agency-efficiency/)
-- [Десет капана, които да избягваме в WordPress през 2025](https://wordpress.tv/2025/08/15/%d0%b4%d0%b5%d1%81%d0%b5%d1%82-%d0%ba%d0%b0%d0%bf%d0%b0%d0%bd%d0%b0-%d0%ba%d0%be%d0%b8%d1%82%d0%be-%d0%b4%d0%b0-%d0%b8%d0%b7%d0%b1%d1%8f%d0%b3%d0%b2%d0%b0%d0%bc%d0%b5-%d0%b2-wordpress-%d0%bf%d1%80/)
 <!-- WPTV:END -->
 
 ## Marketing
