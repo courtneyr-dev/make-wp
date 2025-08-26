@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Trasciende Fronteras con WordPress](https://wordpress.tv/2025/08/26/trasciende-fronteras-con-wordpress/)
+- [Branding para Sitios en WordPress](https://wordpress.tv/2025/08/26/branding-para-sitios-en-wordpress/)
+- [Crea tu primer block theme, del desarrollo tradicional a theme.json](https://wordpress.tv/2025/08/26/crea-tu-primer-block-theme-del-desarrollo-tradicional-a-theme-json/)
+- [Tips para sacar el mejor provecho a tus trabajo vectoriales](https://wordpress.tv/2025/08/26/tips-para-sacar-el-mejor-provecho-a-tus-trabajo-vectoriales/)
 - [Tech y negocio sí pueden hablar el mismo idioma](https://wordpress.tv/2025/08/26/tech-y-negocio-si-pueden-hablar-el-mismo-idioma/)
 - [¿Diseñadores, qué tenemos con las cajas? Estructura de un sitio web para diseñadores](https://wordpress.tv/2025/08/26/disenadores-que-tenemos-con-las-cajas-estructura-de-un-sitio-web-para-disenadores/)
 - [Estrategia de contenido vitaminado con IA](https://wordpress.tv/2025/08/26/estrategia-de-contenido-vitaminado-con-ia/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ефективна QA стратегия за WordPress проекти](https://wordpress.tv/2025/08/18/%d0%b5%d1%84%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%b0-qa-%d1%81%d1%82%d1%80%d0%b0%d1%82%d0%b5%d0%b3%d0%b8%d1%8f-%d0%b7%d0%b0-wordpress-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b8/)
 - [Building a Robust WordPress Multisite Network: Strategies for Success](https://wordpress.tv/2025/08/18/building-a-robust-wordpress-multisite-network-strategies-for-success/)
 - [Как ReactJS може да бъде имплементиран в WordPress и какви са рисковете за бизнеса и програмистите?](https://wordpress.tv/2025/08/18/%d0%ba%d0%b0%d0%ba-reactjs-%d0%bc%d0%be%d0%b6%d0%b5-%d0%b4%d0%b0-%d0%b1%d1%8a%d0%b4%d0%b5-%d0%b8%d0%bc%d0%bf%d0%bb%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d0%b8%d1%80%d0%b0%d0%bd-%d0%b2-wordpress-%d0%b8-%d0%ba/)
-- [Launchpad: a bunch of accessible good practices](https://wordpress.tv/2025/08/18/launchpad-a-bunch-of-accessible-good-practices/)
-- [Алгоритъмът на уверената комуникация](https://wordpress.tv/2025/08/15/%d0%b0%d0%bb%d0%b3%d0%be%d1%80%d0%b8%d1%82%d1%8a%d0%bc%d1%8a%d1%82-%d0%bd%d0%b0-%d1%83%d0%b2%d0%b5%d1%80%d0%b5%d0%bd%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bc%d1%83%d0%bd%d0%b8%d0%ba%d0%b0%d1%86%d0%b8/)
-- [Нулев интерфейс – край на браузера](https://wordpress.tv/2025/08/15/%d0%bd%d1%83%d0%bb%d0%b5%d0%b2-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81-%d0%ba%d1%80%d0%b0%d0%b9-%d0%bd%d0%b0-%d0%b1%d1%80%d0%b0%d1%83%d0%b7%d0%b5%d1%80%d0%b0/)
-- [Remarkable Content Angles: Stand out with content that’s Remarkably You](https://wordpress.tv/2025/08/15/remarkable-content-angles-stand-out-with-content-thats-remarkably-you/)
 <!-- WPTV:END -->
 
 ## Marketing
