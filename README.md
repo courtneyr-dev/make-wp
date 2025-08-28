@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer for Meditation Website Maintenance &amp; Updates](https://jobs.wordpress.net/job/wordpress-developer-for-meditation-website-maintenance-updates/)
+- [Full Stack WordPress Developer &lpar;Custom Themes &amp; Plugins&rpar;](https://jobs.wordpress.net/job/full-stack-wordpress-developer-custom-themes-plugins/)
 - [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-21/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-36/)
 - [Product Assistant](https://jobs.wordpress.net/job/product-assistant-9/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Web Developer – Senior – WordPress / PHP / Laravel](https://jobs.wordpress.net/job/web-developer-senior-wordpress-php-laravel/)
 - [WordPress Tech Lead](https://jobs.wordpress.net/job/wordpress-tech-lead/)
 - [Web Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/web-developer-wordpress-8/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-870/)
-- [Documentation Writer](https://jobs.wordpress.net/job/documentation-writer/)
 <!-- JOBS:END -->
 
 ## Central
