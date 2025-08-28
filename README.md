@@ -465,7 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
-- [Polyglots Week in Review: August 27, 2025](https://make.wordpress.org/updates/2025/08/27/polyglots-week-in-review-august-26-2025/)
+- [Polyglots Week in Review: August 27, 2025](https://make.wordpress.org/updates/2025/08/27/polyglots-week-in-review-august-27-2025/)
 - [Themes team update August 26, 2025](https://make.wordpress.org/updates/2025/08/26/themes-team-update-august-26-2025/)
 - [Documentation Team Update – August 25, 2025](https://make.wordpress.org/updates/2025/08/25/documentation-team-update-august-25-2025/)
 - [Test Team Update: 19 August, 2025](https://make.wordpress.org/updates/2025/08/19/test-team-update-19-august-2025/)
