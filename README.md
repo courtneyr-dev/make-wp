@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Flexible Subscriptions](https://make.wordpress.org/polyglots/2025/08/28/pte-request-for-flexible-subscriptions/)
+- [PTE Request for DW Picha Changelog](https://make.wordpress.org/polyglots/2025/08/28/pte-request-for-dw-picha-changelog/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/28/i-am-the-plugin-author-71/)
 - [Hello, I am the author…](https://make.wordpress.org/polyglots/2025/08/28/hello-i-am-the-author-6/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/27/i-am-the-plugin-author-70/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/26/hello-polyglots-team-22/)
 - [PTE Request for Flixona Theme](https://make.wordpress.org/polyglots/2025/08/26/pte-request-for-flixona-theme-2/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/08/26/hello-100/)
-- [PTE Request for Chromax Theme](https://make.wordpress.org/polyglots/2025/08/26/pte-request-for-chromax-theme-2/)
-- [PTE Request for Flixona Theme](https://make.wordpress.org/polyglots/2025/08/26/pte-request-for-flixona-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
