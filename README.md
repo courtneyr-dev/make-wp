@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-21/)
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-36/)
+- [Product Assistant](https://jobs.wordpress.net/job/product-assistant-9/)
+- [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-14/)
+- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-109/)
+- [Web Developer – Senior – WordPress / PHP / Laravel](https://jobs.wordpress.net/job/web-developer-senior-wordpress-php-laravel/)
 - [WordPress Tech Lead](https://jobs.wordpress.net/job/wordpress-tech-lead/)
 - [Web Developer &lpar;WordPress&rpar;](https://jobs.wordpress.net/job/web-developer-wordpress-8/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-870/)
 - [Documentation Writer](https://jobs.wordpress.net/job/documentation-writer/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-869/)
-- [WordPress Principal Engineer](https://jobs.wordpress.net/job/wordpress-principal-engineer/)
-- [Kingdom Thinkers Academy Website](https://jobs.wordpress.net/job/kingdom-thinkers-academy-website/)
-- [Get WP Dashboard &amp; website back](https://jobs.wordpress.net/job/get-wp-dashboard-website-back/)
-- [WordPress Support Engineer](https://jobs.wordpress.net/job/wordpress-support-engineer-8/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-108/)
 <!-- JOBS:END -->
 
 ## Central
