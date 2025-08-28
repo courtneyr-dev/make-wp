@@ -267,7 +267,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
-- [WordPress Credits](https://learn.wordpress.org/course/wordpress-credits/)
 - [Beginner WordPress Developer](https://learn.wordpress.org/course/beginner-wordpress-developer/)
 - [Beginner WordPress User](https://learn.wordpress.org/course/beginner-wordpress-user/)
 - [Beginner WordPress Designer](https://learn.wordpress.org/course/beginner-wordpress-designer/)
@@ -282,6 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a 4-page business website](https://learn.wordpress.org/course/creating-a-4-page-business-website/)
 - [Using the WordPress Data Layer](https://learn.wordpress.org/course/using-the-wordpress-data-layer/)
 - [Introduction to Block Development:  Build your first custom block](https://learn.wordpress.org/course/introduction-to-block-development-build-your-first-custom-block/)
+- [WordPress Credits](https://learn.wordpress.org/course/wordpress-credits/)
 - [Getting Started With WordPress: Get Familiar](https://learn.wordpress.org/course/getting-started-with-wordpress-get-familiar/)
 - [Getting Started With WordPress: Get Set Up](https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/)
 - [How decisions are made in the WordPress project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
