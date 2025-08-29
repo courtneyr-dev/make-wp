@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2025/08/29/pte-request-for-customer-reviews-for-woocommerce-30/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/08/29/pte-request-for-multiple-plugins-7/)
 - [PTE Request for Flexible Subscriptions](https://make.wordpress.org/polyglots/2025/08/28/pte-request-for-flexible-subscriptions/)
 - [PTE Request for DW Picha Changelog](https://make.wordpress.org/polyglots/2025/08/28/pte-request-for-dw-picha-changelog/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Chromax Theme](https://make.wordpress.org/polyglots/2025/08/27/pte-request-for-chromax-theme-3/)
 - [Skipping Our Weekly Chat for August 27, 2025](https://make.wordpress.org/polyglots/2025/08/27/skipping-our-weekly-chat-for-august-27-2025/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/26/hello-polyglots-team-22/)
-- [PTE Request for Flixona Theme](https://make.wordpress.org/polyglots/2025/08/26/pte-request-for-flixona-theme-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
