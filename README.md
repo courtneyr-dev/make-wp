@@ -57,7 +57,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- ACCESSIBILITY:START -->
 - [Introducing Accessibility Team Reps for 2025–2026](https://make.wordpress.org/accessibility/2025/08/28/introducing-accessibility-team-reps-for-2025-2026/)
 - [Accessibility Team Rep Elections – Voting Now Open](https://make.wordpress.org/accessibility/2025/08/19/accessibility-team-rep-elections-voting-now-open/)
-- [Update project WP A11y Docs July/August 2025](https://make.wordpress.org/accessibility/2025/08/08/update-project-wp-a11y-docs/)
+- [Update project WP A11y Docs July 2025](https://make.wordpress.org/accessibility/2025/08/08/update-project-wp-a11y-docs/)
 - [Accessibility Team Meeting Agenda: Aug 06, 2025](https://make.wordpress.org/accessibility/2025/08/05/accessibility-team-meeting-agenda-aug-06-2025/)
 - [Call for Accessibility Team Representatives](https://make.wordpress.org/accessibility/2025/08/03/call-for-accessibility-team-representatives-2/)
 - [Accessibility Team Meeting Agenda: July 09, 2025](https://make.wordpress.org/accessibility/2025/07/08/accessibility-team-meeting-agenda-july-09-2025/)
