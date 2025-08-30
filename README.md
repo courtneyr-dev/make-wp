@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Issues Exporter…](https://make.wordpress.org/polyglots/2025/08/30/pte-request-for-issues-exporter/)
+- [PTE Request for Trafficontent &lpar;zh_CN,…](https://make.wordpress.org/polyglots/2025/08/30/pte-request-for-trafficontent-zh_cn/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2025/08/29/pte-request-for-customer-reviews-for-woocommerce-30/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/08/29/pte-request-for-multiple-plugins-7/)
 - [PTE Request for Flexible Subscriptions](https://make.wordpress.org/polyglots/2025/08/28/pte-request-for-flexible-subscriptions/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I am the author…](https://make.wordpress.org/polyglots/2025/08/28/hello-i-am-the-author-6/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/27/i-am-the-plugin-author-70/)
 - [PTE Request for Chromax Theme](https://make.wordpress.org/polyglots/2025/08/27/pte-request-for-chromax-theme-3/)
-- [Skipping Our Weekly Chat for August 27, 2025](https://make.wordpress.org/polyglots/2025/08/27/skipping-our-weekly-chat-for-august-27-2025/)
-- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/08/26/hello-polyglots-team-22/)
 <!-- POLYGLOTS:END -->
 
 ## Support
