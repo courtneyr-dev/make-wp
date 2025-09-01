@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am requesting PTE status…](https://make.wordpress.org/polyglots/2025/09/01/i-am-requesting-pte-status/)
 - [PTE Request for PWA —…](https://make.wordpress.org/polyglots/2025/09/01/pte-request-for-pwa/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/08/31/pte-request-for-multiple-plugins-8/)
 - [PTE Request for Link Shortner](https://make.wordpress.org/polyglots/2025/08/31/pte-request-for-link-shortner/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/08/29/pte-request-for-multiple-plugins-7/)
 - [PTE Request for Flexible Subscriptions](https://make.wordpress.org/polyglots/2025/08/28/pte-request-for-flexible-subscriptions/)
 - [PTE Request for DW Picha Changelog](https://make.wordpress.org/polyglots/2025/08/28/pte-request-for-dw-picha-changelog/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/08/28/i-am-the-plugin-author-71/)
 <!-- POLYGLOTS:END -->
 
 ## Support
