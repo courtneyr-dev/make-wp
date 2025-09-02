@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Community Team Meeting Agenda for 04 – September -2025](https://make.wordpress.org/community/2025/09/02/community-team-meeting-agenda-for-04-september-2025/)
 - [Growing New Contributors: Kolhapur’s Online Contribution Journey](https://make.wordpress.org/community/2025/09/02/growing-new-contributors-kolhapurs-online-contribution-journey/)
 - [WordPress Credits Program Update](https://make.wordpress.org/community/2025/08/22/wordpress-credits-program-update/)
 - [Community Team Meeting Agenda for 07 – August -2025](https://make.wordpress.org/community/2025/08/07/community-team-meeting-agenda-for-07-august-2025/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Talk About and Support the New WordPress Education Initiatives](https://make.wordpress.org/community/2025/07/18/how-to-talk-about-and-support-the-new-wordpress-education-initiatives/)
 - [Meetup Organizer Newsletter: July 2025](https://make.wordpress.org/community/2025/07/15/meetup-organizer-newsletter-july-2025/)
 - [Community Team July 2025 Meeting Recap](https://make.wordpress.org/community/2025/07/09/community-team-july-2025-meeting-recap/)
-- [Community Team Meeting Agenda for 03 – July -2025](https://make.wordpress.org/community/2025/07/03/community-team-meeting-agenda-for-03-july-2025/)
 <!-- COMMUNITY:END -->
 
 ## Meta
