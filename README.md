@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Backend support](https://jobs.wordpress.net/job/backend-support/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-871/)
 - [Freelance WordPress Developer &lpar;U.S.-Based, 1099 Contractor&rpar;](https://jobs.wordpress.net/job/freelance-wordpress-developer-u-s-based-1099-contractor/)
 - [Product Assistant](https://jobs.wordpress.net/job/product-assistant-10/)
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-15/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Graphic Designer](https://jobs.wordpress.net/job/graphic-designer-21/)
 - [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-36/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-109/)
-- [Web Developer – Senior – WordPress / PHP / Laravel](https://jobs.wordpress.net/job/web-developer-senior-wordpress-php-laravel/)
-- [WordPress Tech Lead](https://jobs.wordpress.net/job/wordpress-tech-lead/)
 <!-- JOBS:END -->
 
 ## Central
