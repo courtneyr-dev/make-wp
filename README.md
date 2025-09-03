@@ -352,6 +352,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Keynote and Q&amp;A](https://wordpress.tv/2025/09/03/keynote-and-qa/)
+- [Unlock Developer Superpowers with AI](https://wordpress.tv/2025/09/03/unlock-developer-superpowers-with-ai/)
+- [Contributing by Testing WordPress](https://wordpress.tv/2025/09/03/contributing-by-testing-wordpress/)
+- [Confident Consultations: Qualify and Close with the SCOPE Strategy](https://wordpress.tv/2025/09/03/confident-consultations-qualify-and-close-with-the-scope-strategy/)
+- [The System is the Strategy](https://wordpress.tv/2025/09/03/the-system-is-the-strategy/)
+- [Cozy AI Cooking: WordCamp Edition](https://wordpress.tv/2025/09/03/cozy-ai-cooking-wordcamp-edition/)
+- [The Silent Killer of Agency Growth &lpar;and How to Fix It&rpar;](https://wordpress.tv/2025/09/03/the-silent-killer-of-agency-growth-and-how-to-fix-it/)
+- [Tag Team Your Blocks: Customizing Gutenberg with WP_HTML_Tag_Processor](https://wordpress.tv/2025/09/03/tag-team-your-blocks-customizing-gutenberg-with-wp_html_tag_processor/)
+- [Figuring Out Sponsored Contribution](https://wordpress.tv/2025/09/03/figuring-out-sponsored-contribution/)
+- [Your Words, Your Brain, Your Device: Democratizing Writing Assistance with ML at the Edge](https://wordpress.tv/2025/09/03/your-words-your-brain-your-device-democratizing-writing-assistance-with-ml-at-the-edge/)
 - [A New Era of Experiential Medicine – AI and the Brain](https://wordpress.tv/2025/09/03/a-new-era-of-experiential-medicine-ai-and-the-brain/)
 - [Fixing and Optimizing websites with AI](https://wordpress.tv/2025/09/03/fixing-and-optimizing-websites-with-ai-2/)
 - [Building Resilient Interfaces by Embracing Fluid Design](https://wordpress.tv/2025/09/03/building-resilient-interfaces-by-embracing-fluid-design/)
@@ -367,16 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Panel: WordPress Campus Connect: Empowering WordPress’ Future Generations](https://wordpress.tv/2025/09/03/panel-wordpress-campus-connect-empowering-wordpress-future-generations/)
 - [Scaling WordPress: How CANCOM Manages 150 Sites with One Smart System](https://wordpress.tv/2025/09/03/scaling-wordpress-how-cancom-manages-150-sites-with-one-smart-system/)
 - [Moving a Website from Classic to a Block Theme](https://wordpress.tv/2025/09/03/moving-a-website-from-classic-to-a-block-theme/)
-- [Block Composability: The Past and The Future](https://wordpress.tv/2025/09/03/block-composability-the-past-and-the-future/)
-- [The Site Speed Frontier with Performance Lab and Beyond](https://wordpress.tv/2025/09/03/the-site-speed-frontier-with-performance-lab-and-beyond/)
-- [Reimagining WordPress Editing: How We Embedded Gutenberg Into Our Product Ecosystem](https://wordpress.tv/2025/09/03/reimagining-wordpress-editing-how-we-embedded-gutenberg-into-our-product-ecosystem/)
-- [How We Revamped the Jim Joseph Foundation Site Without Disruption](https://wordpress.tv/2025/09/03/how-we-revamped-the-jim-joseph-foundation-site-without-disruption/)
-- [Establishing Authority: How Agency Owners Can Use Content to Elevate Their Thought Leadership](https://wordpress.tv/2025/09/03/establishing-authority-how-agency-owners-can-use-content-to-elevate-their-thought-leadership/)
-- [Improving WordPress Multisite: Simplifying Features and Enhancing the User Experience](https://wordpress.tv/2025/09/03/improving-wordpress-multisite-simplifying-features-and-enhancing-the-user-experience/)
-- [Coding the Magic: A Developer’s Journey Through Aloha](https://wordpress.tv/2025/09/03/coding-the-magic-a-developers-journey-through-aloha/)
-- [WordPress in the Newsroom: Tech That Supports Real Journalism](https://wordpress.tv/2025/09/03/wordpress-in-the-newsroom-tech-that-supports-real-journalism/)
-- [Modernizing at Scale: How FSE Supports Wikimedia’s Evolving UX](https://wordpress.tv/2025/09/03/modernizing-at-scale-how-fse-supports-wikimedias-evolving-ux/)
-- [The Tech That Comes Next: How Changemakers, Philanthropists, and Technologists Can Build an Equitabl](https://wordpress.tv/2025/09/03/the-tech-that-comes-next-how-changemakers-philanthropists-and-technologists-can-build-an-equitabl/)
 <!-- WPTV:END -->
 
 ## Marketing
