@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Panel: Mujeres en tecnología](https://wordpress.tv/2025/09/04/panel-mujeres-en-tecnologia/)
 - [WooCommerce Webhook Implementation using Python](https://wordpress.tv/2025/09/04/woocommerce-webhook-implementation-using-python/)
 - [Finding Your Why in WordPress](https://wordpress.tv/2025/09/04/finding-your-why-in-wordpress/)
 - [Keynote and Q&amp;A](https://wordpress.tv/2025/09/03/keynote-and-qa/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Zero to Plugin in 30 Minutes – Harnessing AI Coding Assistants for WordPress Development](https://wordpress.tv/2025/09/03/zero-to-plugin-in-30-minutes-harnessing-ai-coding-assistants-for-wordpress-development/)
 - [Using Low Vision As My Tool To Help Me Teach WordPress](https://wordpress.tv/2025/09/03/using-low-vision-as-my-tool-to-help-me-teach-wordpress-2/)
 - [Working in the WordPress Ecosystem](https://wordpress.tv/2025/09/03/working-in-the-wordpress-ecosystem/)
-- [Panel: WordPress Campus Connect: Empowering WordPress’ Future Generations](https://wordpress.tv/2025/09/03/panel-wordpress-campus-connect-empowering-wordpress-future-generations/)
 <!-- WPTV:END -->
 
 ## Marketing
