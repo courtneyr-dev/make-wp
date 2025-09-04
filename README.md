@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WooCommerce Webhook Implementation using Python](https://wordpress.tv/2025/09/04/woocommerce-webhook-implementation-using-python/)
+- [Finding Your Why in WordPress](https://wordpress.tv/2025/09/04/finding-your-why-in-wordpress/)
 - [Keynote and Q&amp;A](https://wordpress.tv/2025/09/03/keynote-and-qa/)
 - [Unlock Developer Superpowers with AI](https://wordpress.tv/2025/09/03/unlock-developer-superpowers-with-ai/)
 - [Contributing by Testing WordPress](https://wordpress.tv/2025/09/03/contributing-by-testing-wordpress/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Low Vision As My Tool To Help Me Teach WordPress](https://wordpress.tv/2025/09/03/using-low-vision-as-my-tool-to-help-me-teach-wordpress-2/)
 - [Working in the WordPress Ecosystem](https://wordpress.tv/2025/09/03/working-in-the-wordpress-ecosystem/)
 - [Panel: WordPress Campus Connect: Empowering WordPress’ Future Generations](https://wordpress.tv/2025/09/03/panel-wordpress-campus-connect-empowering-wordpress-future-generations/)
-- [Scaling WordPress: How CANCOM Manages 150 Sites with One Smart System](https://wordpress.tv/2025/09/03/scaling-wordpress-how-cancom-manages-150-sites-with-one-smart-system/)
-- [Moving a Website from Classic to a Block Theme](https://wordpress.tv/2025/09/03/moving-a-website-from-classic-to-a-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
