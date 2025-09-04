@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for eKart Theme](https://make.wordpress.org/polyglots/2025/09/04/pte-request-for-ekart-theme/)
 - [PTE Request for [Medical Care]…](https://make.wordpress.org/polyglots/2025/09/03/pte-request-for-medical-care/)
 - [Agenda: Weekly Polyglots Chat – September 3, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/03/agenda-weekly-polyglots-chat-september-3-2025-700-utc/)
 - [PTE Request for seatreg](https://make.wordpress.org/polyglots/2025/09/02/pte-request-for-seatreg-3/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am requesting PTE status…](https://make.wordpress.org/polyglots/2025/09/01/i-am-requesting-pte-status/)
 - [PTE Request for PWA —…](https://make.wordpress.org/polyglots/2025/09/01/pte-request-for-pwa/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/08/31/pte-request-for-multiple-plugins-8/)
-- [PTE Request for Link Shortner](https://make.wordpress.org/polyglots/2025/08/31/pte-request-for-link-shortner/)
 <!-- POLYGLOTS:END -->
 
 ## Support
