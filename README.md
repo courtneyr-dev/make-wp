@@ -555,10 +555,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### WordCamp
 <!-- WordCamp:START -->
 - [WordPress Campus Connect Jaipur 2025](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-jaipur-2025/)
-- [WordPress Campus Connect Ajmer](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-ajmer/)
+- [WordCamp Skopje 2025](https://central.wordcamp.org/wordcamps/wordcamp-skopje-2025/)
 - [WordPress Day for Ecommerce Porto 2025](https://central.wordcamp.org/wordcamps/wordpress-day-ecommerce-porto-2025/)
 - [WordCamp Bangkok 2025](https://central.wordcamp.org/wordcamps/wordcamp-bangkok-2025/)
-- [WordPress Campus Connect San José](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-san-jose/)
 - [WordCamp Islamabad 2025](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-2025/)
 - [WordCamp Malaysia 2025](https://central.wordcamp.org/wordcamps/wordcamp-malaysia-2025/)
 - [WordCamp Bharatpur 2025](https://central.wordcamp.org/wordcamps/wordcamp-bharatpur-2025/)
@@ -566,6 +565,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Wrocław 2025](https://central.wordcamp.org/wordcamps/wordcamp-wroclaw-2025/)
 - [WordCamp Guatemala 2025](https://central.wordcamp.org/wordcamps/wordcamp-guatemala-2025/)
 - [WordCamp Dhaka 2025](https://central.wordcamp.org/wordcamps/wordcamp-dhaka-2025/)
+- [WordCamp Port Harcourt 2025](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2025/)
 - [WordCamp Uyo 2025](https://central.wordcamp.org/wordcamps/wordcamp-uyo-2025/)
 - [WordCamp Vršac 2025](https://central.wordcamp.org/wordcamps/wordcamp-vrsac-2025/)
 - [WordCamp Bhopal 2025](https://central.wordcamp.org/wordcamps/wordcamp-bhopal-2025/)
