@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Prettier Emails: Supporting Inline Embedded Images](https://make.wordpress.org/core/2025/09/04/prettier-emails-supporting-inline-embedded-images/)
 - [Summary, Dev Chat, September 3, 2025](https://make.wordpress.org/core/2025/09/03/summary-dev-chat-september-3-2025/)
 - [Dev Chat Agenda – September 3, 2025](https://make.wordpress.org/core/2025/09/02/dev-chat-agenda-september-3-2025/)
 - [What’s new in Gutenberg 21.5? &lpar;27 August&rpar;](https://make.wordpress.org/core/2025/08/28/whats-new-in-gutenberg-21-5/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: A Month in Core – July 2025](https://make.wordpress.org/core/2025/08/01/xpost-a-month-in-core-july-2025/)
 - [Summary, Dev Chat, July 30, 2025](https://make.wordpress.org/core/2025/08/01/summary-dev-chat-july-30-2025/)
 - [What’s new in Gutenberg 21.3? &lpar;30 July&rpar;](https://make.wordpress.org/core/2025/07/30/whats-new-in-gutenberg-21-3/)
-- [Dev Chat Agenda – July 30, 2025](https://make.wordpress.org/core/2025/07/29/dev-chat-agenda-july-30-2025/)
 <!-- CORE:END -->
 
 ## Design
