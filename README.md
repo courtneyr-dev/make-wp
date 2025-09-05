@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Plugin localization](https://make.wordpress.org/polyglots/2025/09/05/plugin-localization/)
 - [PTE Request for Chromax Theme](https://make.wordpress.org/polyglots/2025/09/04/pte-request-for-chromax-theme-4/)
 - [PTE Request for eKart Theme](https://make.wordpress.org/polyglots/2025/09/04/pte-request-for-ekart-theme/)
 - [PTE Request for [Medical Care]…](https://make.wordpress.org/polyglots/2025/09/03/pte-request-for-medical-care/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/09/02/hi-polyglots-115/)
 - [PTE Request for Gallery Tile Links for Elementor](https://make.wordpress.org/polyglots/2025/09/01/pte-request-for-gallery-tile-links-for-elementor/)
 - [I am requesting PTE status…](https://make.wordpress.org/polyglots/2025/09/01/i-am-requesting-pte-status/)
-- [PTE Request for PWA —…](https://make.wordpress.org/polyglots/2025/09/01/pte-request-for-pwa/)
 <!-- POLYGLOTS:END -->
 
 ## Support
