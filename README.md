@@ -556,7 +556,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WordCamp:START -->
 - [WordPress Campus Connect Jaipur 2025](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-jaipur-2025/)
 - [WordCamp Skopje 2025](https://central.wordcamp.org/wordcamps/wordcamp-skopje-2025/)
-- [WordPress Day for Ecommerce Porto 2025](https://central.wordcamp.org/wordcamps/wordpress-day-ecommerce-porto-2025/)
+- [Código Costa 2025](https://central.wordcamp.org/wordcamps/codigo-costa-noja-2025/)
 - [WordCamp Bangkok 2025](https://central.wordcamp.org/wordcamps/wordcamp-bangkok-2025/)
 - [WordCamp Islamabad 2025](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-2025/)
 - [WordCamp Malaysia 2025](https://central.wordcamp.org/wordcamps/wordcamp-malaysia-2025/)
