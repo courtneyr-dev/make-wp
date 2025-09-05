@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi,](https://make.wordpress.org/polyglots/2025/09/05/hi-123/)
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/09/05/hi-dear-mentors-we-have-186/)
 - [Plugin localization](https://make.wordpress.org/polyglots/2025/09/05/plugin-localization/)
 - [PTE Request for Chromax Theme](https://make.wordpress.org/polyglots/2025/09/04/pte-request-for-chromax-theme-4/)
 - [PTE Request for eKart Theme](https://make.wordpress.org/polyglots/2025/09/04/pte-request-for-ekart-theme/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for seatreg](https://make.wordpress.org/polyglots/2025/09/02/pte-request-for-seatreg-3/)
 - [PTE Request for Booking Software](https://make.wordpress.org/polyglots/2025/09/02/pte-request-for-booking-software/)
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/09/02/hi-polyglots-115/)
-- [PTE Request for Gallery Tile Links for Elementor](https://make.wordpress.org/polyglots/2025/09/01/pte-request-for-gallery-tile-links-for-elementor/)
-- [I am requesting PTE status…](https://make.wordpress.org/polyglots/2025/09/01/i-am-requesting-pte-status/)
 <!-- POLYGLOTS:END -->
 
 ## Support
