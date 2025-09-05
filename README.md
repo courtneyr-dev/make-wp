@@ -557,6 +557,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Campus Connect Jaipur 2025](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-jaipur-2025/)
 - [WordCamp Skopje 2025](https://central.wordcamp.org/wordcamps/wordcamp-skopje-2025/)
 - [Código Costa 2025](https://central.wordcamp.org/wordcamps/codigo-costa-noja-2025/)
+- [WordPress Campus Connect Pontevedra UVigo](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-pontevedra-universidad-vigo-comunicacion/)
 - [WordCamp Bangkok 2025](https://central.wordcamp.org/wordcamps/wordcamp-bangkok-2025/)
 - [WordCamp Islamabad 2025](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-2025/)
 - [WordCamp Malaysia 2025](https://central.wordcamp.org/wordcamps/wordcamp-malaysia-2025/)
@@ -567,7 +568,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Dhaka 2025](https://central.wordcamp.org/wordcamps/wordcamp-dhaka-2025/)
 - [WordCamp Port Harcourt 2025](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2025/)
 - [WordCamp Uyo 2025](https://central.wordcamp.org/wordcamps/wordcamp-uyo-2025/)
-- [WordCamp Vršac 2025](https://central.wordcamp.org/wordcamps/wordcamp-vrsac-2025/)
 - [WordCamp Bhopal 2025](https://central.wordcamp.org/wordcamps/wordcamp-bhopal-2025/)
 <!-- WordCamp:END -->
 
