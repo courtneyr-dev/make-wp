@@ -352,6 +352,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creators around a Campfire: How WordPress YouTubers Are Shaping the Ecosystem](https://wordpress.tv/2025/09/05/creators-around-a-campfire-how-wordpress-youtubers-are-shaping-the-ecosystem/)
+- [Turn Your Local WordPress Install Into Your AI Coding Assistant](https://wordpress.tv/2025/09/05/turn-your-local-wordpress-install-into-your-ai-coding-assistant/)
+- [Beyond the Build: The 3E Framework for Scalable WordPress Platforms](https://wordpress.tv/2025/09/05/beyond-the-build-the-3e-framework-for-scalable-wordpress-platforms/)
+- [The Block Developer Cookbook](https://wordpress.tv/2025/09/05/the-block-developer-cookbook/)
+- [What Top WordPress Product Companies Do Differently — Masterclass for Product Builders](https://wordpress.tv/2025/09/05/what-top-wordpress-product-companies-do-differently-masterclass-for-product-builders/)
+- [Catch Bugs Faster with AI &amp; Playwright &lpar;No Hype, Just Results&rpar;](https://wordpress.tv/2025/09/05/catch-bugs-faster-with-ai-playwright-no-hype-just-results/)
+- [Scalable, Ethical AI: How to Own Your Content and Your AI with WordPress](https://wordpress.tv/2025/09/05/scalable-ethical-ai-how-to-own-your-content-and-your-ai-with-wordpress/)
+- [Launch Your Personal Portfolio — A Hands-On WordPress Workshop](https://wordpress.tv/2025/09/05/launch-your-personal-portfolio-a-hands-on-wordpress-workshop/)
 - [Panel: Mujeres en tecnología](https://wordpress.tv/2025/09/04/panel-mujeres-en-tecnologia/)
 - [WooCommerce Webhook Implementation using Python](https://wordpress.tv/2025/09/04/woocommerce-webhook-implementation-using-python/)
 - [Finding Your Why in WordPress](https://wordpress.tv/2025/09/04/finding-your-why-in-wordpress/)
@@ -369,14 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Fixing and Optimizing websites with AI](https://wordpress.tv/2025/09/03/fixing-and-optimizing-websites-with-ai-2/)
 - [Building Resilient Interfaces by Embracing Fluid Design](https://wordpress.tv/2025/09/03/building-resilient-interfaces-by-embracing-fluid-design/)
 - [Building Experiences: Design Systems, User Experience, and Full Site Editing](https://wordpress.tv/2025/09/03/building-experiences-design-systems-user-experience-and-full-site-editing/)
-- [A PHP Developer’s Guide to ReactJS](https://wordpress.tv/2025/09/03/a-php-developers-guide-to-reactjs/)
-- [Core AI: What We’re Building](https://wordpress.tv/2025/09/03/core-ai-what-were-building/)
-- [How &lpar;and why!&rpar; Google Search keeps evolving](https://wordpress.tv/2025/09/03/how-and-why-google-search-keeps-evolving/)
-- [Data visualization the easy way &lpar;National Marine Sanctuaries has got your back&rpar;](https://wordpress.tv/2025/09/03/data-visualization-the-easy-way-national-marine-sanctuaries-has-got-your-back/)
-- [Putting Creativity to Work](https://wordpress.tv/2025/09/03/putting-creativity-to-work/)
-- [Zero to Plugin in 30 Minutes – Harnessing AI Coding Assistants for WordPress Development](https://wordpress.tv/2025/09/03/zero-to-plugin-in-30-minutes-harnessing-ai-coding-assistants-for-wordpress-development/)
-- [Using Low Vision As My Tool To Help Me Teach WordPress](https://wordpress.tv/2025/09/03/using-low-vision-as-my-tool-to-help-me-teach-wordpress-2/)
-- [Working in the WordPress Ecosystem](https://wordpress.tv/2025/09/03/working-in-the-wordpress-ecosystem/)
 <!-- WPTV:END -->
 
 ## Marketing
