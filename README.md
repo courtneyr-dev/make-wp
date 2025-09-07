@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Japanese PTE for Post Publish Email Notifier](https://make.wordpress.org/polyglots/2025/09/07/japanese-pte-for-post-publish-email-notifier/)
+- [PTE Request for GrabWP Tenancy](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-grabwp-tenancy/)
+- [PTE Request for “Stick My Header for Astra”](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-stick-my-header-for-astra/)
+- [PTE Request for Quelix](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-quelix/)
 - [PTE Request for [CLIPTAKES] I’ve…](https://make.wordpress.org/polyglots/2025/09/05/pte-request-for-cliptakes-ive/)
 - [Hi,](https://make.wordpress.org/polyglots/2025/09/05/hi-123/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/09/05/hi-dear-mentors-we-have-186/)
 - [Plugin localization](https://make.wordpress.org/polyglots/2025/09/05/plugin-localization/)
 - [PTE Request for Chromax Theme](https://make.wordpress.org/polyglots/2025/09/04/pte-request-for-chromax-theme-4/)
 - [PTE Request for eKart Theme](https://make.wordpress.org/polyglots/2025/09/04/pte-request-for-ekart-theme/)
-- [PTE Request for [Medical Care]…](https://make.wordpress.org/polyglots/2025/09/03/pte-request-for-medical-care/)
-- [Agenda: Weekly Polyglots Chat – September 3, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/03/agenda-weekly-polyglots-chat-september-3-2025-700-utc/)
-- [PTE Request for seatreg](https://make.wordpress.org/polyglots/2025/09/02/pte-request-for-seatreg-3/)
-- [PTE Request for Booking Software](https://make.wordpress.org/polyglots/2025/09/02/pte-request-for-booking-software/)
 <!-- POLYGLOTS:END -->
 
 ## Support
