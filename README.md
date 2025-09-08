@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WPPizza – A Restaurant Plugin](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-wppizza-a-restaurant-plugin/)
+- [PTE Request for WordPress, Danish…](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-wordpress-danish/)
 - [Hello, I’ve suggested over 200…](https://make.wordpress.org/polyglots/2025/09/08/hello-ive-suggested-over-200/)
 - [Japanese PTE for Post Publish Email Notifier](https://make.wordpress.org/polyglots/2025/09/07/japanese-pte-for-post-publish-email-notifier/)
 - [PTE Request for GrabWP Tenancy](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-grabwp-tenancy/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [CLIPTAKES] I’ve…](https://make.wordpress.org/polyglots/2025/09/05/pte-request-for-cliptakes-ive/)
 - [Hi,](https://make.wordpress.org/polyglots/2025/09/05/hi-123/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/09/05/hi-dear-mentors-we-have-186/)
-- [Plugin localization](https://make.wordpress.org/polyglots/2025/09/05/plugin-localization/)
-- [PTE Request for Chromax Theme](https://make.wordpress.org/polyglots/2025/09/04/pte-request-for-chromax-theme-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
