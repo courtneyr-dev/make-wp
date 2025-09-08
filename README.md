@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Mastering the Query Loop block in WordPress](https://learn.wordpress.org/?meeting=mastering-the-query-loop-block-in-wordpress)
 - [Training Team Coffee Hour](https://learn.wordpress.org/?meeting=training-team-coffee-hour)
 - [ટ્રાન્સલેશન દ્વારા વર્ડપ્રેસ ટ્રેનિંગમાં કેવી રીતે યોગદાન આપવું](https://learn.wordpress.org/?meeting=%e0%aa%9f%e0%ab%8d%e0%aa%b0%e0%aa%be%e0%aa%a8%e0%ab%8d%e0%aa%b8%e0%aa%b2%e0%ab%87%e0%aa%b6%e0%aa%a8-%e0%aa%a6%e0%ab%8d%e0%aa%b5%e0%aa%be%e0%aa%b0%e0%aa%be-%e0%aa%b5%e0%aa%b0%e0%ab%8d%e0%aa%a1%e0%aa%aa)
 - [How to Contribute to WordPress Training Through Translation](https://learn.wordpress.org/?meeting=how-to-contribute-to-wordpress-training-through-translation)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-2)
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour)
 - [Developer Hours: Exploring the Twenty Twenty-Five Theme](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-twenty-twenty-five-theme)
-- [Creating Your Own Contact Form Plugin – part 2](https://learn.wordpress.org/?meeting=264152)
 <!-- SLS:END -->
 
 ## Test
