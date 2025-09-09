@@ -125,16 +125,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Packages releases to NPM and WordPress Core updates](https://developer.wordpress.org/block-editor/contributors/code/release/package-release-and-core-updates/)
+- [Gutenberg plugin releases](https://developer.wordpress.org/block-editor/contributors/code/release/plugin-release/)
 - [DateCalendar](https://developer.wordpress.org/block-editor/reference-guides/components/date-calendar/)
 - [DateRangeCalendar](https://developer.wordpress.org/block-editor/reference-guides/components/date-range-calendar/)
-- [wp transient pluck](https://developer.wordpress.org/cli/commands/transient/pluck/)
 - [wp transient patch](https://developer.wordpress.org/cli/commands/transient/patch/)
+- [wp transient pluck](https://developer.wordpress.org/cli/commands/transient/pluck/)
 - [bulk_action_observer_ids](https://developer.wordpress.org/reference/hooks/bulk_action_observer_ids/)
 - [WP_REST_Request::is_method&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_rest_request/is_method/)
 - [wp_prevent_unsupported_mime_type_uploads](https://developer.wordpress.org/reference/hooks/wp_prevent_unsupported_mime_type_uploads/)
 - [image_max_bit_depth](https://developer.wordpress.org/reference/hooks/image_max_bit_depth/)
-- [wp_password_needs_rehash&lpar;&rpar;](https://developer.wordpress.org/reference/functions/wp_password_needs_rehash/)
-- [wp_hash_password_algorithm](https://developer.wordpress.org/reference/hooks/wp_hash_password_algorithm/)
 <!-- DEVHUB:END -->
 
 ## Themes
