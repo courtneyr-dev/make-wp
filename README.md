@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Pleenk](https://make.wordpress.org/polyglots/2025/09/09/pte-request-for-pleenk/)
+- [I have added translations for…](https://make.wordpress.org/polyglots/2025/09/09/i-have-added-translations-for/)
 - [PTE Request for Tutor LMS plugin into Catalan](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-tutor-lms-plugin-into-catalan-2/)
 - [PTE Request for WPPizza – A Restaurant Plugin](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-wppizza-a-restaurant-plugin/)
 - [PTE Request for WordPress, Danish…](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-wordpress-danish/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for GrabWP Tenancy](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-grabwp-tenancy/)
 - [PTE Request for “Stick My Header for Astra”](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-stick-my-header-for-astra/)
 - [PTE Request for Quelix](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-quelix/)
-- [PTE Request for [CLIPTAKES] I’ve…](https://make.wordpress.org/polyglots/2025/09/05/pte-request-for-cliptakes-ive/)
-- [Hi,](https://make.wordpress.org/polyglots/2025/09/05/hi-123/)
 <!-- POLYGLOTS:END -->
 
 ## Support
