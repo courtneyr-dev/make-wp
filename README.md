@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Panel Discussion From Barriers To Belonging Building Diverse &amp; Inclusive Tech Communities](https://wordpress.tv/2025/09/09/panel-discussion-from-barriers-to-belonging-building-diverse-inclusive-tech-communities/)
+- [The Innovation Gap How Missing Perspectives Threaten WordPress Future](https://wordpress.tv/2025/09/09/the-innovation-gap-how-missing-perspectives-threaten-wordpress-future/)
+- [Back, Restore &amp; Migrate In WordPress – Ssanya Andrew](https://wordpress.tv/2025/09/09/back-restore-migrate-in-wordpress-ssanya-andrew/)
 - [Creators around a Campfire: How WordPress YouTubers Are Shaping the Ecosystem](https://wordpress.tv/2025/09/05/creators-around-a-campfire-how-wordpress-youtubers-are-shaping-the-ecosystem/)
 - [Turn Your Local WordPress Install Into Your AI Coding Assistant](https://wordpress.tv/2025/09/05/turn-your-local-wordpress-install-into-your-ai-coding-assistant/)
 - [Beyond the Build: The 3E Framework for Scalable WordPress Platforms](https://wordpress.tv/2025/09/05/beyond-the-build-the-3e-framework-for-scalable-wordpress-platforms/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Figuring Out Sponsored Contribution](https://wordpress.tv/2025/09/03/figuring-out-sponsored-contribution/)
 - [Your Words, Your Brain, Your Device: Democratizing Writing Assistance with ML at the Edge](https://wordpress.tv/2025/09/03/your-words-your-brain-your-device-democratizing-writing-assistance-with-ml-at-the-edge/)
 - [A New Era of Experiential Medicine – AI and the Brain](https://wordpress.tv/2025/09/03/a-new-era-of-experiential-medicine-ai-and-the-brain/)
-- [Fixing and Optimizing websites with AI](https://wordpress.tv/2025/09/03/fixing-and-optimizing-websites-with-ai-2/)
-- [Building Resilient Interfaces by Embracing Fluid Design](https://wordpress.tv/2025/09/03/building-resilient-interfaces-by-embracing-fluid-design/)
-- [Building Experiences: Design Systems, User Experience, and Full Site Editing](https://wordpress.tv/2025/09/03/building-experiences-design-systems-user-experience-and-full-site-editing/)
 <!-- WPTV:END -->
 
 ## Marketing
