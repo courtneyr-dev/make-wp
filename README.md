@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/09/10/i-am-the-plugin-author-72/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/09/10/hello-101/)
 - [CLPTE Request for Booking Software](https://make.wordpress.org/polyglots/2025/09/10/clpte-request-for-booking-software/)
 - [Agenda: Weekly Polyglots Chat – September 10, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/10/agenda-weekly-polyglots-chat-september-10-2025-1300-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Tutor LMS plugin into Catalan](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-tutor-lms-plugin-into-catalan-2/)
 - [PTE Request for WPPizza – A Restaurant Plugin](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-wppizza-a-restaurant-plugin/)
 - [PTE Request for WordPress, Danish…](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-wordpress-danish/)
-- [Hello, I’ve suggested over 200…](https://make.wordpress.org/polyglots/2025/09/08/hello-ive-suggested-over-200/)
 <!-- POLYGLOTS:END -->
 
 ## Support
