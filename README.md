@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [request to be editor of theme](https://make.wordpress.org/polyglots/2025/09/10/request-to-be-editor-of-theme/)
 - [PTE Request for Pleenk](https://make.wordpress.org/polyglots/2025/09/09/pte-request-for-pleenk/)
 - [I have added translations for…](https://make.wordpress.org/polyglots/2025/09/09/i-have-added-translations-for/)
 - [PTE Request for Tutor LMS plugin into Catalan](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-tutor-lms-plugin-into-catalan-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Japanese PTE for Post Publish Email Notifier](https://make.wordpress.org/polyglots/2025/09/07/japanese-pte-for-post-publish-email-notifier/)
 - [PTE Request for GrabWP Tenancy](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-grabwp-tenancy/)
 - [PTE Request for “Stick My Header for Astra”](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-stick-my-header-for-astra/)
-- [PTE Request for Quelix](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-quelix/)
 <!-- POLYGLOTS:END -->
 
 ## Support
