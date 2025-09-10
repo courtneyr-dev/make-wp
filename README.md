@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE Request for Booking Software](https://make.wordpress.org/polyglots/2025/09/10/clpte-request-for-booking-software/)
 - [Agenda: Weekly Polyglots Chat – September 10, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/10/agenda-weekly-polyglots-chat-september-10-2025-1300-utc/)
 - [request to be editor of theme](https://make.wordpress.org/polyglots/2025/09/10/request-to-be-editor-of-theme/)
 - [PTE Request for Pleenk](https://make.wordpress.org/polyglots/2025/09/09/pte-request-for-pleenk/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WordPress, Danish…](https://make.wordpress.org/polyglots/2025/09/08/pte-request-for-wordpress-danish/)
 - [Hello, I’ve suggested over 200…](https://make.wordpress.org/polyglots/2025/09/08/hello-ive-suggested-over-200/)
 - [Japanese PTE for Post Publish Email Notifier](https://make.wordpress.org/polyglots/2025/09/07/japanese-pte-for-post-publish-email-notifier/)
-- [PTE Request for GrabWP Tenancy](https://make.wordpress.org/polyglots/2025/09/07/pte-request-for-grabwp-tenancy/)
 <!-- POLYGLOTS:END -->
 
 ## Support
