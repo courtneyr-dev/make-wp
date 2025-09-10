@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ergonomie Web : l’apport des sciences cognitives](https://wordpress.tv/2025/09/10/ergonomie-web-lapport-des-sciences-cognitives/)
 - [Desarrollo nocode de aplicaciones CRUD con WordPress](https://wordpress.tv/2025/09/10/desarrollo-nocode-de-aplicaciones-crud-con-wordpress/)
 - [Cómo escalar mi negocio con el mindset de organización comercial.](https://wordpress.tv/2025/09/10/como-escalar-mi-negocio-con-el-mindset-de-organizacion-comercial/)
 - [Panel Discussion From Barriers To Belonging Building Diverse &amp; Inclusive Tech Communities](https://wordpress.tv/2025/09/09/panel-discussion-from-barriers-to-belonging-building-diverse-inclusive-tech-communities/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cozy AI Cooking: WordCamp Edition](https://wordpress.tv/2025/09/03/cozy-ai-cooking-wordcamp-edition/)
 - [The Silent Killer of Agency Growth &lpar;and How to Fix It&rpar;](https://wordpress.tv/2025/09/03/the-silent-killer-of-agency-growth-and-how-to-fix-it/)
 - [Tag Team Your Blocks: Customizing Gutenberg with WP_HTML_Tag_Processor](https://wordpress.tv/2025/09/03/tag-team-your-blocks-customizing-gutenberg-with-wp_html_tag_processor/)
-- [Figuring Out Sponsored Contribution](https://wordpress.tv/2025/09/03/figuring-out-sponsored-contribution/)
 <!-- WPTV:END -->
 
 ## Marketing
