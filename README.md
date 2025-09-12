@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Domain Redirect Request](https://make.wordpress.org/systems/2025/09/12/domain-redirect-request/)
 - [Domain forwarding: `wordpress.{ong,ngo}` =&gt; foundation donations](https://make.wordpress.org/systems/2025/09/10/domain-forwarding-wordpress-ongngo-foundation-donations/)
 - [Download Counters broken after caching change.](https://make.wordpress.org/systems/2025/08/05/download-counters-broken-after-caching-change/)
 - [Hosts missing from Munin](https://make.wordpress.org/systems/2025/07/17/hosts-missing-from-munin/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugins pre-commit block request](https://make.wordpress.org/systems/2025/06/20/plugins-pre-commit-block-request/)
 - [Facebook Sharer blocked from ps.w.org CDN](https://make.wordpress.org/systems/2025/05/27/facebook-sharer-blocked-from-ps-w-org-cdn/)
 - [WordPress Campus Connect – Custom subdomain](https://make.wordpress.org/systems/2025/05/21/wordpress-campus-connect-custom-subdomain/)
-- [Mailing lists subscription functions broken.](https://make.wordpress.org/systems/2025/05/02/mailing-lists-subscription-functions-broken/)
 <!-- SYSTEMS:END -->
 
 ## News
