@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Dynamic XML…](https://make.wordpress.org/polyglots/2025/09/13/pte-request-for-dynamic-xml/)
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/09/13/i-am-the-plugin-author-73/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/09/13/hello-polyglots-team-23/)
 - [Hello Poliglots team,](https://make.wordpress.org/polyglots/2025/09/11/hello-poliglots-team/)
 - [PTE Request for eKart Theme](https://make.wordpress.org/polyglots/2025/09/11/pte-request-for-ekart-theme-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CLPTE Request for Booking Software](https://make.wordpress.org/polyglots/2025/09/10/clpte-request-for-booking-software/)
 - [Agenda: Weekly Polyglots Chat – September 10, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/10/agenda-weekly-polyglots-chat-september-10-2025-1300-utc/)
 - [request to be editor of theme](https://make.wordpress.org/polyglots/2025/09/10/request-to-be-editor-of-theme/)
-- [PTE Request for Pleenk](https://make.wordpress.org/polyglots/2025/09/09/pte-request-for-pleenk/)
-- [I have added translations for…](https://make.wordpress.org/polyglots/2025/09/09/i-have-added-translations-for/)
 <!-- POLYGLOTS:END -->
 
 ## Support
