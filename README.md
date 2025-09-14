@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [¿Qué es un RAG? La forma de crear chatbots con IA &lpar;con un poco de programación&rpar;](https://wordpress.tv/2025/09/14/que-es-un-rag-la-forma-de-crear-chatbots-con-ia-con-un-poco-de-programacion/)
+- [Create Custom Widget into Elementor](https://wordpress.tv/2025/09/14/create-custom-widget-into-elementor/)
+- [WordPress Plugin Development: From Idea to Marketplace](https://wordpress.tv/2025/09/14/wordpress-plugin-development-from-idea-to-marketplace/)
+- [Making the Most of WordCamp](https://wordpress.tv/2025/09/14/making-the-most-of-wordcamp/)
 - [Ergonomie Web : l’apport des sciences cognitives](https://wordpress.tv/2025/09/10/ergonomie-web-lapport-des-sciences-cognitives/)
 - [Desarrollo nocode de aplicaciones CRUD con WordPress](https://wordpress.tv/2025/09/10/desarrollo-nocode-de-aplicaciones-crud-con-wordpress/)
 - [Cómo escalar mi negocio con el mindset de organización comercial.](https://wordpress.tv/2025/09/10/como-escalar-mi-negocio-con-el-mindset-de-organizacion-comercial/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Unlock Developer Superpowers with AI](https://wordpress.tv/2025/09/03/unlock-developer-superpowers-with-ai/)
 - [Contributing by Testing WordPress](https://wordpress.tv/2025/09/03/contributing-by-testing-wordpress/)
 - [Confident Consultations: Qualify and Close with the SCOPE Strategy](https://wordpress.tv/2025/09/03/confident-consultations-qualify-and-close-with-the-scope-strategy/)
-- [The System is the Strategy](https://wordpress.tv/2025/09/03/the-system-is-the-strategy/)
-- [Cozy AI Cooking: WordCamp Edition](https://wordpress.tv/2025/09/03/cozy-ai-cooking-wordcamp-edition/)
-- [The Silent Killer of Agency Growth &lpar;and How to Fix It&rpar;](https://wordpress.tv/2025/09/03/the-silent-killer-of-agency-growth-and-how-to-fix-it/)
-- [Tag Team Your Blocks: Customizing Gutenberg with WP_HTML_Tag_Processor](https://wordpress.tv/2025/09/03/tag-team-your-blocks-customizing-gutenberg-with-wp_html_tag_processor/)
 <!-- WPTV:END -->
 
 ## Marketing
