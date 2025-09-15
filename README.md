@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Multiple](https://make.wordpress.org/polyglots/2025/09/15/pte-request-for-multiple/)
 - [PTE Request for ATR Cookie Notice](https://make.wordpress.org/polyglots/2025/09/14/hello-102/)
 - [PTE Request for Dynamic XML…](https://make.wordpress.org/polyglots/2025/09/13/pte-request-for-dynamic-xml/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/09/13/i-am-the-plugin-author-73/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/09/10/i-am-the-plugin-author-72/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/09/10/hello-101/)
 - [CLPTE Request for Booking Software](https://make.wordpress.org/polyglots/2025/09/10/clpte-request-for-booking-software/)
-- [Agenda: Weekly Polyglots Chat – September 10, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/10/agenda-weekly-polyglots-chat-september-10-2025-1300-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
