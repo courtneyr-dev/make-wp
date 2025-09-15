@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Bug Scrub Schedule for WordPress 6.9](https://make.wordpress.org/core/2025/09/15/bug-scrub-schedule-for-wordpress-6-9/)
 - [Two-Factor Authentication is Required for All People With the Capabilities to Publish Here, on make/core](https://make.wordpress.org/core/2025/09/11/two-factor-authentication-is-required-for-all-people-with-the-capabilities-to-publish-here-on-make-core/)
 - [Summary, Dev Chat, September 10, 2025](https://make.wordpress.org/core/2025/09/10/summary-dev-chat-september-10-2025/)
 - [X-post: Docs team participation in WordPress releases](https://make.wordpress.org/core/2025/09/10/xpost-docs-team-participation-in-wordpress-releases/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Core Team at WCUS Contributor Day 2025](https://make.wordpress.org/core/2025/08/20/core-team-at-wcus-contributor-day-2025/)
 - [Announcing the WordPress 6.9 Release Squad](https://make.wordpress.org/core/2025/08/19/announcing-the-wordpress-6-9-release-squad/)
 - [Dev Chat Agenda – August 20, 2025](https://make.wordpress.org/core/2025/08/19/dev-chat-agenda-august-20-2025/)
-- [Summary, Dev Chat, August 13, 2025](https://make.wordpress.org/core/2025/08/15/summary-dev-chat-august-13-2025/)
 <!-- CORE:END -->
 
 ## Design
