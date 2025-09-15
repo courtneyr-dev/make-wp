@@ -479,6 +479,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Announcing the Core Program Team](https://make.wordpress.org/project/2025/09/15/announcing-the-core-program-team/)
 - [A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/project/2025/06/25/a-little-late-spring-cleaning/)
 - [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/project/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [Five for the Future WCEU25 Chat](https://make.wordpress.org/project/2025/06/17/five-for-the-future-wceu25-chat/)
@@ -488,7 +489,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [A New Cadence for WordPress Core](https://make.wordpress.org/project/2025/04/16/a-new-cadence-for-wordpress-core/)
 - [Shutting down WordPress.org’s Matrix Server](https://make.wordpress.org/project/2025/01/11/shutting-down-wordpress-orgs-matrix-server/)
 - [Hello, WordPress Community – Let’s Chat!](https://make.wordpress.org/project/2024/11/18/hello-wordpress-community-lets-chat/)
-- [WordPress Contribution Health Dashboards: An Experiment](https://make.wordpress.org/project/2024/09/12/wordpress-contribution-health-dashboards-an-experiment/)
 <!-- PROJECT:END -->
 
 ## Systems
