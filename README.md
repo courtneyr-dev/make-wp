@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [#clpte Solicitação de ajuda para…](https://make.wordpress.org/polyglots/2025/09/17/clpte-solicitacao-de-ajuda-para/)
+- [Hi, I would like to…](https://make.wordpress.org/polyglots/2025/09/17/hi-i-would-like-to-18/)
+- [Hello,](https://make.wordpress.org/polyglots/2025/09/17/hello-103/)
 - [PTE Request for Chrowix Theme](https://make.wordpress.org/polyglots/2025/09/17/pte-request-for-chrowix-theme-2/)
 - [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/09/17/hi-polyglots-team-20/)
 - [Agenda: Weekly Polyglots Chat – September 17, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/17/agenda-weekly-polyglots-chat-september-17-2025-700-utc/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the author of…](https://make.wordpress.org/polyglots/2025/09/16/i-am-the-author-of-12/)
 - [PTE Request for Multiple](https://make.wordpress.org/polyglots/2025/09/15/pte-request-for-multiple/)
 - [PTE Request for ATR Cookie Notice](https://make.wordpress.org/polyglots/2025/09/14/hello-102/)
-- [PTE Request for Dynamic XML…](https://make.wordpress.org/polyglots/2025/09/13/pte-request-for-dynamic-xml/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/09/13/i-am-the-plugin-author-73/)
-- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/09/13/hello-polyglots-team-23/)
 <!-- POLYGLOTS:END -->
 
 ## Support
