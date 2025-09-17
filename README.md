@@ -69,7 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [#clpte Solicitação de ajuda para…](https://make.wordpress.org/polyglots/2025/09/17/clpte-solicitacao-de-ajuda-para/)
+- [Solicitação de ajuda para…](https://make.wordpress.org/polyglots/2025/09/17/clpte-solicitacao-de-ajuda-para/)
 - [Hi, I would like to…](https://make.wordpress.org/polyglots/2025/09/17/hi-i-would-like-to-18/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/09/17/hello-103/)
 - [PTE Request for Chrowix Theme](https://make.wordpress.org/polyglots/2025/09/17/pte-request-for-chrowix-theme-2/)
