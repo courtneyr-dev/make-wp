@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Beyond Your Website Supercharging WordPress With Email Marketing](https://wordpress.tv/2025/09/17/beyond-your-website-supercharging-wordpress-with-email-marketing/)
+- [Design to Websites Made Easy Converting Figma Layouts to Elementor](https://wordpress.tv/2025/09/17/design-to-websites-made-easy-converting-figma-layouts-to-elementor/)
+- [WordPress fácil: instala tu web en minutos.](https://wordpress.tv/2025/09/17/wordpress-facil-instala-tu-web-en-minutos/)
 - [¿Qué es un RAG? La forma de crear chatbots con IA &lpar;con un poco de programación&rpar;](https://wordpress.tv/2025/09/14/que-es-un-rag-la-forma-de-crear-chatbots-con-ia-con-un-poco-de-programacion/)
 - [Create Custom Widget into Elementor](https://wordpress.tv/2025/09/14/create-custom-widget-into-elementor/)
 - [WordPress Plugin Development: From Idea to Marketplace](https://wordpress.tv/2025/09/14/wordpress-plugin-development-from-idea-to-marketplace/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WooCommerce Webhook Implementation using Python](https://wordpress.tv/2025/09/04/woocommerce-webhook-implementation-using-python/)
 - [Finding Your Why in WordPress](https://wordpress.tv/2025/09/04/finding-your-why-in-wordpress/)
 - [Keynote and Q&amp;A](https://wordpress.tv/2025/09/03/keynote-and-qa/)
-- [Unlock Developer Superpowers with AI](https://wordpress.tv/2025/09/03/unlock-developer-superpowers-with-ai/)
-- [Contributing by Testing WordPress](https://wordpress.tv/2025/09/03/contributing-by-testing-wordpress/)
-- [Confident Consultations: Qualify and Close with the SCOPE Strategy](https://wordpress.tv/2025/09/03/confident-consultations-qualify-and-close-with-the-scope-strategy/)
 <!-- WPTV:END -->
 
 ## Marketing
