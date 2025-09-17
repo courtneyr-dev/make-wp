@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Panel Discussion: Career in WordPress](https://wordpress.tv/2025/09/17/panel-discussion-career-in-wordpress/)
 - [Beyond Your Website Supercharging WordPress With Email Marketing](https://wordpress.tv/2025/09/17/beyond-your-website-supercharging-wordpress-with-email-marketing/)
 - [Design to Websites Made Easy Converting Figma Layouts to Elementor](https://wordpress.tv/2025/09/17/design-to-websites-made-easy-converting-figma-layouts-to-elementor/)
 - [WordPress fácil: instala tu web en minutos.](https://wordpress.tv/2025/09/17/wordpress-facil-instala-tu-web-en-minutos/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Panel: Mujeres en tecnología](https://wordpress.tv/2025/09/04/panel-mujeres-en-tecnologia/)
 - [WooCommerce Webhook Implementation using Python](https://wordpress.tv/2025/09/04/woocommerce-webhook-implementation-using-python/)
 - [Finding Your Why in WordPress](https://wordpress.tv/2025/09/04/finding-your-why-in-wordpress/)
-- [Keynote and Q&amp;A](https://wordpress.tv/2025/09/03/keynote-and-qa/)
 <!-- WPTV:END -->
 
 ## Marketing
