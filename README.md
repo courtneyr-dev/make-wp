@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Las Dos Caras de la Inteligencia Artificial con Fernando Tellado y Eric Seguí](https://wordpress.tv/2025/09/18/las-dos-caras-de-la-inteligencia-artificial-con-fernando-tellado-y-eric-segui/)
 - [Panel Discussion: Career in WordPress](https://wordpress.tv/2025/09/17/panel-discussion-career-in-wordpress/)
 - [Beyond Your Website Supercharging WordPress With Email Marketing](https://wordpress.tv/2025/09/17/beyond-your-website-supercharging-wordpress-with-email-marketing/)
 - [Design to Websites Made Easy Converting Figma Layouts to Elementor](https://wordpress.tv/2025/09/17/design-to-websites-made-easy-converting-figma-layouts-to-elementor/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Launch Your Personal Portfolio — A Hands-On WordPress Workshop](https://wordpress.tv/2025/09/05/launch-your-personal-portfolio-a-hands-on-wordpress-workshop/)
 - [Panel: Mujeres en tecnología](https://wordpress.tv/2025/09/04/panel-mujeres-en-tecnologia/)
 - [WooCommerce Webhook Implementation using Python](https://wordpress.tv/2025/09/04/woocommerce-webhook-implementation-using-python/)
-- [Finding Your Why in WordPress](https://wordpress.tv/2025/09/04/finding-your-why-in-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
