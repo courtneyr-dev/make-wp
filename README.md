@@ -559,6 +559,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Campus Connect Jaipur 2025](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-jaipur-2025/)
 - [WordCamp Skopje 2025](https://central.wordcamp.org/wordcamps/wordcamp-skopje-2025/)
 - [WordPress Campus Connect Kolhapur, India](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-kolhapur/)
+- [WordPress Campus Connect Jinja, Eastern Region, Uganda](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-jinja-uganda/)
 - [WordCamp Sofia 2025](https://central.wordcamp.org/wordcamps/wordcamp-sofia-2025/)
 - [Código Costa 2025](https://central.wordcamp.org/wordcamps/codigo-costa-noja-2025/)
 - [WordPress Campus Connect Pontevedra UVigo](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-pontevedra-universidad-vigo-comunicacion/)
@@ -568,7 +569,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Guatemala 2025](https://central.wordcamp.org/wordcamps/wordcamp-guatemala-2025/)
 - [WordCamp Port Harcourt 2025](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2025/)
 - [WordCamp Nairobi 2025](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-2025/)
-- [WordCamp Uyo 2025](https://central.wordcamp.org/wordcamps/wordcamp-uyo-2025/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
