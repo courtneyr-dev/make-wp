@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Online monthly Docs Team Contributor Day September 23, 2025](https://make.wordpress.org/docs/2025/09/18/online-monthly-docs-team-contributor-day-september-23-2025/)
 - [Summary of Docs Team meeting September 9, 2025](https://make.wordpress.org/docs/2025/09/16/summary-of-docs-team-meeting-septermber-9-2025/)
 - [Agenda for Discussion Meeting September 16, 2025](https://make.wordpress.org/docs/2025/09/16/agenda-for-discussion-meeting-september-16-2025/)
 - [Docs team participation in WordPress releases](https://make.wordpress.org/docs/2025/09/10/docs-team-participation-in-wordpress-releases/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Documentation team meetings summer break](https://make.wordpress.org/docs/2025/08/05/the-documentation-team-meetings-summer-break/)
 - [X-post: Documentation Team Update – August 4, 2025](https://make.wordpress.org/docs/2025/08/04/xpost-documentation-team-update-august-4-2025/)
 - [Summary of Docs Team meeting July 29, 2025](https://make.wordpress.org/docs/2025/08/03/summary-of-docs-team-meeting-july-29-2025/)
-- [Proposal: Responsible AI workflow for creating new documentation for WordPress 6.9](https://make.wordpress.org/docs/2025/07/24/proposal-responsible-ai-workflow-for-creating-new-documentation-for-wordpress-6-9/)
 <!-- DOCS:END -->
 
 ### Support Articles
