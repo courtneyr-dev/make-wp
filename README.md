@@ -71,7 +71,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- POLYGLOTS:START -->
 - [PTE Request for My Plugins…](https://make.wordpress.org/polyglots/2025/09/18/pte-request-for-my-plugins-3/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/09/18/hello-polyglots-team-25/)
-- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/09/18/hello-polyglots-team-24/)
 - [PTE Request for sgdien-contact-footer](https://make.wordpress.org/polyglots/2025/09/18/pte-request-for-sgdien-contact-footer/)
 - [PTE Request for Chrowix Theme](https://make.wordpress.org/polyglots/2025/09/18/pte-request-for-chrowix-theme-3/)
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2025/09/18/pte-request-for-two-plugins-10/)
@@ -79,6 +78,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi, I would like to…](https://make.wordpress.org/polyglots/2025/09/17/hi-i-would-like-to-18/)
 - [Hello,](https://make.wordpress.org/polyglots/2025/09/17/hello-103/)
 - [PTE Request for Chrowix Theme](https://make.wordpress.org/polyglots/2025/09/17/pte-request-for-chrowix-theme-2/)
+- [Hi Polyglots Team,](https://make.wordpress.org/polyglots/2025/09/17/hi-polyglots-team-20/)
 <!-- POLYGLOTS:END -->
 
 ## Support
