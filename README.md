@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots! Please add @mediterraneaservices…](https://make.wordpress.org/polyglots/2025/09/19/hello-polyglots-please-add-mediterraneaservices/)
 - [PTE Request for AiGude Tools](https://make.wordpress.org/polyglots/2025/09/19/pte-request-for-aigude-tools/)
 - [Objet : Demande pour contribuer…](https://make.wordpress.org/polyglots/2025/09/19/objet-demande-pour-contribuer/)
 - [PTE Request for XML Sitemaps Manager](https://make.wordpress.org/polyglots/2025/09/19/pte-request-for-xml-sitemaps-manager-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Chrowix Theme](https://make.wordpress.org/polyglots/2025/09/18/pte-request-for-chrowix-theme-3/)
 - [PTE Request for two plugins](https://make.wordpress.org/polyglots/2025/09/18/pte-request-for-two-plugins-10/)
 - [Solicitação de ajuda para…](https://make.wordpress.org/polyglots/2025/09/17/clpte-solicitacao-de-ajuda-para/)
-- [Hi, I would like to…](https://make.wordpress.org/polyglots/2025/09/17/hi-i-would-like-to-18/)
 <!-- POLYGLOTS:END -->
 
 ## Support
