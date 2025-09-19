@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Call for Mentors](https://make.wordpress.org/community/2025/09/19/call-for-mentors/)
 - [X-post: Online monthly Docs Team Contributor Day September 23, 2025](https://make.wordpress.org/community/2025/09/18/xpost-online-monthly-docs-team-contributor-day-september-23-2025/)
 - [Community Team September 2025 Meeting Recap](https://make.wordpress.org/community/2025/09/11/community-team-september-2025-meeting-recap/)
 - [Monthly Education Buzz Report – August 2025](https://make.wordpress.org/community/2025/09/08/monthly-education-buzz-report-august-2025/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 07 – August -2025](https://make.wordpress.org/community/2025/08/07/community-team-meeting-agenda-for-07-august-2025/)
 - [Monthly Education Buzz Report – July 2025](https://make.wordpress.org/community/2025/08/04/monthly-education-buzz-report-july-2025/)
 - [WordPress Academy: A Case Study from WordCamp Krakow](https://make.wordpress.org/community/2025/07/29/wordpress-academy-a-case-study-from-wordcamp-krakow/)
-- [X-post: Online monthly Docs Team Contributor Day August 26, 2025](https://make.wordpress.org/community/2025/07/22/xpost-online-monthly-docs-team-contributor-day-august-26-2025/)
 <!-- COMMUNITY:END -->
 
 ## Meta
