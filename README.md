@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [So, you want to create lessons for Learn WordPress?](https://wordpress.tv/2025/09/19/so-you-want-to-create-lessons-for-learn-wordpress/)
 - [Las Dos Caras de la Inteligencia Artificial con Fernando Tellado y Eric Seguí](https://wordpress.tv/2025/09/18/las-dos-caras-de-la-inteligencia-artificial-con-fernando-tellado-y-eric-segui/)
 - [Panel Discussion: Career in WordPress](https://wordpress.tv/2025/09/17/panel-discussion-career-in-wordpress/)
 - [Beyond Your Website Supercharging WordPress With Email Marketing](https://wordpress.tv/2025/09/17/beyond-your-website-supercharging-wordpress-with-email-marketing/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Scalable, Ethical AI: How to Own Your Content and Your AI with WordPress](https://wordpress.tv/2025/09/05/scalable-ethical-ai-how-to-own-your-content-and-your-ai-with-wordpress/)
 - [Launch Your Personal Portfolio — A Hands-On WordPress Workshop](https://wordpress.tv/2025/09/05/launch-your-personal-portfolio-a-hands-on-wordpress-workshop/)
 - [Panel: Mujeres en tecnología](https://wordpress.tv/2025/09/04/panel-mujeres-en-tecnologia/)
-- [WooCommerce Webhook Implementation using Python](https://wordpress.tv/2025/09/04/woocommerce-webhook-implementation-using-python/)
 <!-- WPTV:END -->
 
 ## Marketing
