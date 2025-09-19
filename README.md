@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Website manager](https://jobs.wordpress.net/job/website-manager-5/)
+- [WordPress Performance Optimization Engineer &lpar;Remote, U.S./Canada&rpar;](https://jobs.wordpress.net/job/wordpress-performance-optimization-engineer-remote-u-s-canada/)
 - [Product Manager / Innovator &lpar;WordPress &amp; WooCommerce&rpar; – WP Overnight](https://jobs.wordpress.net/job/product-manager-innovator-wordpress-woocommerce-wp-overnight/)
 - [Marketing Specialist](https://jobs.wordpress.net/job/marketing-specialist/)
 - [WordPress/WooCommerce Plugin Developer – WP Overnight](https://jobs.wordpress.net/job/wordpress-woocommerce-plugin-developer-wp-overnight/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Sales Support Specialist](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-16/)
 - [WordPress Maintenance Contractor](https://jobs.wordpress.net/job/wordpress-maintenance-contractor/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-110/)
-- [Part-Time WordPress Expert &lpar;E-commerce Website Management&rpar;](https://jobs.wordpress.net/job/part-time-wordpress-expert-e-commerce-website-management-2/)
-- [Backend support](https://jobs.wordpress.net/job/backend-support/)
 <!-- JOBS:END -->
 
 ## Central
