@@ -381,6 +381,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: Call for Mentors](https://make.wordpress.org/marketing/2025/09/19/xpost-call-for-mentors/)
 - [X-post: Introducing the #content-creators slack channel](https://make.wordpress.org/marketing/2025/09/12/xpost-introducing-the-content-creators-slack-channel/)
 - [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/marketing/2025/06/25/xpost-a-little-late-spring-cleaning/)
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/marketing/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
@@ -390,7 +391,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/marketing/2024/12/10/xpost-the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 - [X-post: Training Team Updates – November 2024](https://make.wordpress.org/marketing/2024/11/04/xpost-training-team-updates-november-2024/)
 - [X-post: WordCamp US 2024 Marketing Discussion](https://make.wordpress.org/marketing/2024/09/19/xpost-wordcamp-us-2024-marketing-discussion/)
-- [X-post: The Five for the Future site gets a refresh](https://make.wordpress.org/marketing/2024/09/12/xpost-the-five-for-the-future-site-gets-a-refresh/)
 <!-- MARKETING:END -->
 
 ## CLI
