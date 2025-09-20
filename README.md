@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Automating WordPress Maintenance with WP-CLI](https://wordpress.tv/2025/09/20/automating-wordpress-maintenance-with-wp-cli/)
+- [No More Pending Payments: How Small WordPress Agencies Can Automate Accounting](https://wordpress.tv/2025/09/20/no-more-pending-payments-how-small-wordpress-agencies-can-automate-accounting/)
 - [How to Write Image Alt-Text](https://wordpress.tv/2025/09/19/how-to-write-image-alt-text/)
 - [So, you want to create lessons for Learn WordPress?](https://wordpress.tv/2025/09/19/so-you-want-to-create-lessons-for-learn-wordpress/)
 - [Las Dos Caras de la Inteligencia Artificial con Fernando Tellado y Eric Seguí](https://wordpress.tv/2025/09/18/las-dos-caras-de-la-inteligencia-artificial-con-fernando-tellado-y-eric-segui/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Block Developer Cookbook](https://wordpress.tv/2025/09/05/the-block-developer-cookbook/)
 - [What Top WordPress Product Companies Do Differently — Masterclass for Product Builders](https://wordpress.tv/2025/09/05/what-top-wordpress-product-companies-do-differently-masterclass-for-product-builders/)
 - [Catch Bugs Faster with AI &amp; Playwright &lpar;No Hype, Just Results&rpar;](https://wordpress.tv/2025/09/05/catch-bugs-faster-with-ai-playwright-no-hype-just-results/)
-- [Scalable, Ethical AI: How to Own Your Content and Your AI with WordPress](https://wordpress.tv/2025/09/05/scalable-ethical-ai-how-to-own-your-content-and-your-ai-with-wordpress/)
-- [Launch Your Personal Portfolio — A Hands-On WordPress Workshop](https://wordpress.tv/2025/09/05/launch-your-personal-portfolio-a-hands-on-wordpress-workshop/)
 <!-- WPTV:END -->
 
 ## Marketing
