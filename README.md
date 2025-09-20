@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Security for E-commerce: Protecting Your Investment, Revenue and Reputation](https://wordpress.tv/2025/09/20/wordpress-security-for-e-commerce-protecting-your-investment-revenue-and-reputation/)
 - [Automating WordPress Maintenance with WP-CLI](https://wordpress.tv/2025/09/20/automating-wordpress-maintenance-with-wp-cli/)
 - [No More Pending Payments: How Small WordPress Agencies Can Automate Accounting](https://wordpress.tv/2025/09/20/no-more-pending-payments-how-small-wordpress-agencies-can-automate-accounting/)
 - [How to Write Image Alt-Text](https://wordpress.tv/2025/09/19/how-to-write-image-alt-text/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Beyond the Build: The 3E Framework for Scalable WordPress Platforms](https://wordpress.tv/2025/09/05/beyond-the-build-the-3e-framework-for-scalable-wordpress-platforms/)
 - [The Block Developer Cookbook](https://wordpress.tv/2025/09/05/the-block-developer-cookbook/)
 - [What Top WordPress Product Companies Do Differently — Masterclass for Product Builders](https://wordpress.tv/2025/09/05/what-top-wordpress-product-companies-do-differently-masterclass-for-product-builders/)
-- [Catch Bugs Faster with AI &amp; Playwright &lpar;No Hype, Just Results&rpar;](https://wordpress.tv/2025/09/05/catch-bugs-faster-with-ai-playwright-no-hype-just-results/)
 <!-- WPTV:END -->
 
 ## Marketing
