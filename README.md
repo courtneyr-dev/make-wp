@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Arvina Theme](https://make.wordpress.org/polyglots/2025/09/21/pte-request-for-arvina-theme-2/)
 - [PTE Request for XML Sitemaps &amp; Google News](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-xml-sitemaps-google-news/)
 - [Eafatura e-Arşiv Entegrasyon](https://make.wordpress.org/polyglots/2025/09/20/eafatura-e-arsiv-entegrasyon/)
 - [#PTE Request for “Digital Conversion”…](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-digital-conversion/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for AiGude Tools](https://make.wordpress.org/polyglots/2025/09/19/pte-request-for-aigude-tools/)
 - [Objet : Demande pour contribuer…](https://make.wordpress.org/polyglots/2025/09/19/objet-demande-pour-contribuer/)
 - [PTE Request for XML Sitemaps Manager](https://make.wordpress.org/polyglots/2025/09/19/pte-request-for-xml-sitemaps-manager-2/)
-- [PTE Request for My Plugins…](https://make.wordpress.org/polyglots/2025/09/18/pte-request-for-my-plugins-3/)
 <!-- POLYGLOTS:END -->
 
 ## Support
