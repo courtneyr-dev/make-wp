@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Elementor Website…](https://make.wordpress.org/polyglots/2025/09/22/pte-request-for-elementor-website/)
+- [I am the plugin author.](https://make.wordpress.org/polyglots/2025/09/22/i-am-the-plugin-author-74/)
 - [Hello, my name is Okwanga…](https://make.wordpress.org/polyglots/2025/09/22/hello-my-name-is-okwanga/)
 - [PTE Request for Arvina Theme](https://make.wordpress.org/polyglots/2025/09/21/pte-request-for-arvina-theme-2/)
 - [PTE Request for XML Sitemaps &amp; Google News](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-xml-sitemaps-google-news/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for eKart Theme](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-ekart-theme-3/)
 - [PTE Request for Arvina Theme](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-arvina-theme/)
 - [Hello Polyglots! Please add @mediterraneaservices…](https://make.wordpress.org/polyglots/2025/09/19/hello-polyglots-please-add-mediterraneaservices/)
-- [PTE Request for AiGude Tools](https://make.wordpress.org/polyglots/2025/09/19/pte-request-for-aigude-tools/)
-- [Objet : Demande pour contribuer…](https://make.wordpress.org/polyglots/2025/09/19/objet-demande-pour-contribuer/)
 <!-- POLYGLOTS:END -->
 
 ## Support
