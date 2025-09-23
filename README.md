@@ -326,9 +326,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Test
 <!-- TEST:START -->
 - [X-post: Call for Mentors: Join WordPress Credits](https://make.wordpress.org/test/2025/09/23/xpost-call-for-mentors/)
-- [Week in Test: Sepetmber 23, 2025](https://make.wordpress.org/test/2025/09/23/week-in-test-sepetmber-23-2025/)
+- [Week in Test: September 23, 2025](https://make.wordpress.org/test/2025/09/23/week-in-test-sepetmber-23-2025/)
 - [X-post: Test Team Update: 16 September, 2025](https://make.wordpress.org/test/2025/09/16/xpost-test-team-update-16-september-2025/)
-- [Week in Test: Sepetmber 15, 2025](https://make.wordpress.org/test/2025/09/15/week-in-test-sepetmber-15-2025/)
+- [Week in Test: September 15, 2025](https://make.wordpress.org/test/2025/09/15/week-in-test-sepetmber-15-2025/)
 - [Test Team Reps: Submit Your Votes &lpar;2025–2026&rpar;](https://make.wordpress.org/test/2025/09/15/test-team-reps-submit-your-votes-2025-2026/)
 - [Test Chat Summary: September 10th, 2025](https://make.wordpress.org/test/2025/09/12/test-chat-summary-september-10th-2025/)
 - [Team Chat Agenda: 10th September 2025](https://make.wordpress.org/test/2025/09/10/team-chat-agenda-10th-september-2025/)
