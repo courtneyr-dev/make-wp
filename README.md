@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/09/23/hello-polyglots-team-24/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/09/23/pte-request-for-following-themes-6/)
 - [PTE Request for Elementor Website…](https://make.wordpress.org/polyglots/2025/09/22/pte-request-for-elementor-website/)
 - [I am the plugin author.](https://make.wordpress.org/polyglots/2025/09/22/i-am-the-plugin-author-74/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Eafatura e-Arşiv Entegrasyon](https://make.wordpress.org/polyglots/2025/09/20/eafatura-e-arsiv-entegrasyon/)
 - [#PTE Request for “Digital Conversion”…](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-digital-conversion/)
 - [PTE Request for eKart Theme](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-ekart-theme-3/)
-- [PTE Request for Arvina Theme](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-arvina-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
