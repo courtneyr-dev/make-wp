@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Error in Categories / Excerpt Translation – French Canadian](https://make.wordpress.org/polyglots/2025/09/24/error-in-categories-excerpt-translation-french-canadian/)
+- [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/09/24/hi-polyglots-team-21/)
+- [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/09/24/hello-polyglots-317/)
 - [Agenda: Weekly Polyglots Chat – September 24, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/24/agenda-weekly-polyglots-chat-september-24-2025-1300-utc/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/09/24/hello-polyglots-team-26/)
 - [PTE Request for WC Korkmaz Contract](https://make.wordpress.org/polyglots/2025/09/23/pte-request-for-wc-korkmaz-contract-2/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/09/23/pte-request-for-following-themes-6/)
 - [PTE Request for Elementor Website…](https://make.wordpress.org/polyglots/2025/09/22/pte-request-for-elementor-website/)
 - [I am the plugin author.](https://make.wordpress.org/polyglots/2025/09/22/i-am-the-plugin-author-74/)
-- [Hello, my name is Okwanga…](https://make.wordpress.org/polyglots/2025/09/22/hello-my-name-is-okwanga/)
-- [PTE Request for Arvina Theme](https://make.wordpress.org/polyglots/2025/09/21/pte-request-for-arvina-theme-2/)
-- [PTE Request for XML Sitemaps &amp; Google News](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-xml-sitemaps-google-news/)
 <!-- POLYGLOTS:END -->
 
 ## Support
