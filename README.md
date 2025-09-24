@@ -465,6 +465,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Polyglots Week in Review: September 24, 2025](https://make.wordpress.org/updates/2025/09/24/polyglots-week-in-review-september-24-2025/)
 - [Themes team update September 23, 2025](https://make.wordpress.org/updates/2025/09/23/themes-team-update-september-23-2025/)
 - [Plugins Team: 22 Sep 2025](https://make.wordpress.org/updates/2025/09/22/plugins-team-22-sep-2025/)
 - [Documentation Team Update – September 22, 2025](https://make.wordpress.org/updates/2025/09/22/documentation-team-update-september-22-2025/)
@@ -474,7 +475,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugins Team: 15 Sep 2025](https://make.wordpress.org/updates/2025/09/15/plugins-team-15-sep-2025/)
 - [Documentation Team Update – September 15, 2025](https://make.wordpress.org/updates/2025/09/15/documentation-team-update-september-15-2025/)
 - [A Month in Core – August 2025](https://make.wordpress.org/updates/2025/09/09/a-month-in-core-august-2025/)
-- [Polyglots Week in Review: September 9, 2025](https://make.wordpress.org/updates/2025/09/09/polyglots-week-in-review-september-9-2025/)
 <!-- UPDATES:END -->
 
 ## Project
