@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – September 24, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/24/agenda-weekly-polyglots-chat-september-24-2025-1300-utc/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/09/24/hello-polyglots-team-26/)
 - [PTE Request for WC Korkmaz Contract](https://make.wordpress.org/polyglots/2025/09/23/pte-request-for-wc-korkmaz-contract-2/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/09/23/hello-polyglots-team-24/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, my name is Okwanga…](https://make.wordpress.org/polyglots/2025/09/22/hello-my-name-is-okwanga/)
 - [PTE Request for Arvina Theme](https://make.wordpress.org/polyglots/2025/09/21/pte-request-for-arvina-theme-2/)
 - [PTE Request for XML Sitemaps &amp; Google News](https://make.wordpress.org/polyglots/2025/09/20/pte-request-for-xml-sitemaps-google-news/)
-- [Eafatura e-Arşiv Entegrasyon](https://make.wordpress.org/polyglots/2025/09/20/eafatura-e-arsiv-entegrasyon/)
 <!-- POLYGLOTS:END -->
 
 ## Support
