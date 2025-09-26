@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mastering the Query Loop block in WordPress](https://wordpress.tv/2025/09/26/mastering-the-query-loop-block-in-wordpress/)
 - [De visitas a ventas: cómo optimizar SEO y WooCommerce](https://wordpress.tv/2025/09/25/de-visitas-a-ventas-como-optimizar-seo-y-woocommerce/)
 - [Welcome to WordPress Credits – Lesson One](https://wordpress.tv/2025/09/23/cheyne-klein-welcome-to-wordpress-credits-lesson-one/)
 - [Escalando 6 marcas con recursos limitados sin morir en el proceso](https://wordpress.tv/2025/09/22/escalando-6-marcas-con-recursos-limitados-sin-morir-en-el-proceso/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Innovation Gap How Missing Perspectives Threaten WordPress Future](https://wordpress.tv/2025/09/09/the-innovation-gap-how-missing-perspectives-threaten-wordpress-future/)
 - [Back, Restore &amp; Migrate In WordPress – Ssanya Andrew](https://wordpress.tv/2025/09/09/back-restore-migrate-in-wordpress-ssanya-andrew/)
 - [Creators around a Campfire: How WordPress YouTubers Are Shaping the Ecosystem](https://wordpress.tv/2025/09/05/creators-around-a-campfire-how-wordpress-youtubers-are-shaping-the-ecosystem/)
-- [Turn Your Local WordPress Install Into Your AI Coding Assistant](https://wordpress.tv/2025/09/05/turn-your-local-wordpress-install-into-your-ai-coding-assistant/)
 <!-- WPTV:END -->
 
 ## Marketing
