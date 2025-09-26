@@ -566,7 +566,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Islamabad 2025](https://central.wordcamp.org/wordcamps/wordcamp-islamabad-2025/)
 - [WordCamp Malaysia 2025](https://central.wordcamp.org/wordcamps/wordcamp-malaysia-2025/)
 - [WordCamp Taiwan 2025](https://central.wordcamp.org/wordcamps/wordcamp-taiwan-2025/)
-- [WordCamp Guatemala 2025](https://central.wordcamp.org/wordcamps/wordcamp-guatemala-2025/)
+- [WordCamp Brasil 2025](https://central.wordcamp.org/wordcamps/wordcamp-brasil-2025/)
 - [WordCamp Port Harcourt 2026](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2025/)
 - [WordCamp Nairobi 2025](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-2025/)
 <!-- WordCamp:END -->
