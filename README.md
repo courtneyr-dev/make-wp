@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-woocommerce-12/)
 - [PTE Request for Nexter Extension…](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-nexter-extension/)
 - [PTE Request for Customer Reviews…](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-customer-reviews-6/)
 - [PTE Request for AutoAlt AI – Automatic Image Alt Text Generator](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-autoalt-ai-automatic-image-alt-text-generator/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/09/24/hello-polyglots-317/)
 - [Agenda: Weekly Polyglots Chat – September 24, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/09/24/agenda-weekly-polyglots-chat-september-24-2025-1300-utc/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/09/24/hello-polyglots-team-26/)
-- [PTE Request for WC Korkmaz Contract](https://make.wordpress.org/polyglots/2025/09/23/pte-request-for-wc-korkmaz-contract-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
