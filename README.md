@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for AutoAlt AI – Automatic Image Alt Text Generator](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-autoalt-ai-automatic-image-alt-text-generator/)
+- [Hi, I have translated 210…](https://make.wordpress.org/polyglots/2025/09/26/hi-i-have-translated-210/)
 - [Error in Categories / Excerpt Translation – French Canadian](https://make.wordpress.org/polyglots/2025/09/24/error-in-categories-excerpt-translation-french-canadian/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/09/24/hi-polyglots-team-21/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/09/24/hello-polyglots-317/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for WC Korkmaz Contract](https://make.wordpress.org/polyglots/2025/09/23/pte-request-for-wc-korkmaz-contract-2/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/09/23/hello-polyglots-team-24/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/09/23/pte-request-for-following-themes-6/)
-- [PTE Request for Elementor Website…](https://make.wordpress.org/polyglots/2025/09/22/pte-request-for-elementor-website/)
-- [I am the plugin author.](https://make.wordpress.org/polyglots/2025/09/22/i-am-the-plugin-author-74/)
 <!-- POLYGLOTS:END -->
 
 ## Support
