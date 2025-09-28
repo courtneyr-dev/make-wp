@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Visibiliza o teu blog e mellora o SEO con NotebookLM IA](https://wordpress.tv/2025/09/28/visibiliza-o-teu-blog-e-mellora-o-seo-con-notebooklm-ia/)
+- [WordPress con superpoderes: cuando la IA y los MCPs se ponen a picar código](https://wordpress.tv/2025/09/28/wordpress-con-superpoderes-cuando-la-ia-y-los-mcps-se-ponen-a-picar-codigo/)
 - [Mastering the Query Loop block in WordPress](https://wordpress.tv/2025/09/26/mastering-the-query-loop-block-in-wordpress/)
 - [De visitas a ventas: cómo optimizar SEO y WooCommerce](https://wordpress.tv/2025/09/25/de-visitas-a-ventas-como-optimizar-seo-y-woocommerce/)
 - [Welcome to WordPress Credits – Lesson One](https://wordpress.tv/2025/09/23/cheyne-klein-welcome-to-wordpress-credits-lesson-one/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo escalar mi negocio con el mindset de organización comercial.](https://wordpress.tv/2025/09/10/como-escalar-mi-negocio-con-el-mindset-de-organizacion-comercial/)
 - [Panel Discussion From Barriers To Belonging Building Diverse &amp; Inclusive Tech Communities](https://wordpress.tv/2025/09/09/panel-discussion-from-barriers-to-belonging-building-diverse-inclusive-tech-communities/)
 - [The Innovation Gap How Missing Perspectives Threaten WordPress Future](https://wordpress.tv/2025/09/09/the-innovation-gap-how-missing-perspectives-threaten-wordpress-future/)
-- [Back, Restore &amp; Migrate In WordPress – Ssanya Andrew](https://wordpress.tv/2025/09/09/back-restore-migrate-in-wordpress-ssanya-andrew/)
-- [Creators around a Campfire: How WordPress YouTubers Are Shaping the Ecosystem](https://wordpress.tv/2025/09/05/creators-around-a-campfire-how-wordpress-youtubers-are-shaping-the-ecosystem/)
 <!-- WPTV:END -->
 
 ## Marketing
