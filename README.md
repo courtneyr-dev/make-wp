@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for linked-media-without-import](https://make.wordpress.org/polyglots/2025/09/29/pte-request-for-linked-media-without-import/)
 - [PTE Request for External Links New Tab](https://make.wordpress.org/polyglots/2025/09/28/pte-request-for-external-links-new-tab/)
 - [PTE Request for Yoast SEO](https://make.wordpress.org/polyglots/2025/09/28/pte-request-for-yoast-seo-8/)
 - [PTE Request for CartFlows and Modern Cart Starter](https://make.wordpress.org/polyglots/2025/09/27/pte-request-for-cartflows-and-modern-cart-starter/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for AutoAlt AI – Automatic Image Alt Text Generator](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-autoalt-ai-automatic-image-alt-text-generator/)
 - [Hi, I have translated 210…](https://make.wordpress.org/polyglots/2025/09/26/hi-i-have-translated-210/)
 - [Error in Categories / Excerpt Translation – French Canadian](https://make.wordpress.org/polyglots/2025/09/24/error-in-categories-excerpt-translation-french-canadian/)
-- [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/09/24/hi-polyglots-team-21/)
 <!-- POLYGLOTS:END -->
 
 ## Support
