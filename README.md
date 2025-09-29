@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I don’t want to get…](https://make.wordpress.org/polyglots/2025/09/29/i-dont-want-to-get/)
 - [Title: PTE Request for Meliconnect](https://make.wordpress.org/polyglots/2025/09/29/title-pte-request-for-meliconnect/)
 - [PTE Request for linked-media-without-import](https://make.wordpress.org/polyglots/2025/09/29/pte-request-for-linked-media-without-import/)
 - [PTE Request for External Links New Tab](https://make.wordpress.org/polyglots/2025/09/28/pte-request-for-external-links-new-tab/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Nexter Extension…](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-nexter-extension/)
 - [PTE Request for Customer Reviews…](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-customer-reviews-6/)
 - [PTE Request for AutoAlt AI – Automatic Image Alt Text Generator](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-autoalt-ai-automatic-image-alt-text-generator/)
-- [Hi, I have translated 210…](https://make.wordpress.org/polyglots/2025/09/26/hi-i-have-translated-210/)
 <!-- POLYGLOTS:END -->
 
 ## Support
