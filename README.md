@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for Dear Flipbook…](https://make.wordpress.org/polyglots/2025/09/30/pte-request-for-dear-flipbook/)
+- [Looking for a Russian translation reviewer for the Learn WordPress content](https://make.wordpress.org/polyglots/2025/09/30/looking-for-a-russian-translation-reviewer-for-the-learn-wordpress-content/)
 - [I don’t want to get…](https://make.wordpress.org/polyglots/2025/09/29/i-dont-want-to-get/)
 - [Title: PTE Request for Meliconnect](https://make.wordpress.org/polyglots/2025/09/29/title-pte-request-for-meliconnect/)
 - [PTE Request for linked-media-without-import](https://make.wordpress.org/polyglots/2025/09/29/pte-request-for-linked-media-without-import/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for CartFlows and Modern Cart Starter](https://make.wordpress.org/polyglots/2025/09/27/pte-request-for-cartflows-and-modern-cart-starter/)
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-woocommerce-12/)
 - [PTE Request for Nexter Extension…](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-nexter-extension/)
-- [PTE Request for Customer Reviews…](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-customer-reviews-6/)
-- [PTE Request for AutoAlt AI – Automatic Image Alt Text Generator](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-autoalt-ai-automatic-image-alt-text-generator/)
 <!-- POLYGLOTS:END -->
 
 ## Support
