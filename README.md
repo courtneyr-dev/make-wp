@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Looking for a Russian translation reviewer for the Learn WordPress content](https://make.wordpress.org/training/2025/09/30/xpost-looking-for-a-russian-translation-reviewer-for-the-learn-wordpress-content/)
 - [Training Team Meeting Recap – 23rd September 2025](https://make.wordpress.org/training/2025/09/29/training-team-meeting-recap-23rd-september-2025/)
 - [Training Team Meeting Recap – 16th September 2025](https://make.wordpress.org/training/2025/09/21/training-team-meeting-recap-16th-september-2025/)
 - [X-post: Call for Mentors](https://make.wordpress.org/training/2025/09/19/xpost-call-for-mentors/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Training Team Update – August 31, 2025](https://make.wordpress.org/training/2025/08/31/xpost-training-team-update-august-31-2025/)
 - [Training Team Meeting Recap – 26th August 2025](https://make.wordpress.org/training/2025/08/29/training-team-meeting-recap-26th-august-2025/)
 - [Training Team Meeting Recap – 19th August 2025](https://make.wordpress.org/training/2025/08/24/training-team-meeting-recap-19th-august-2025/)
-- [Training Team Meeting Recap – 12th August 2025](https://make.wordpress.org/training/2025/08/19/training-team-meeting-recap-12th-august-2025/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
