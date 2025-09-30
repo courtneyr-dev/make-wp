@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Marketing Specialist](https://jobs.wordpress.net/job/wordpress-marketing-specialist/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-875/)
 - [migrate wix to WordPress](https://jobs.wordpress.net/job/migrate-wix-to-wordpress/)
 - [Developer/ Designer](https://jobs.wordpress.net/job/developer-designer-4/)
 - [Clean, Fast Psychotherapy Website Needed](https://jobs.wordpress.net/job/clean-fast-psychotherapy-website-needed/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product Manager / Innovator &lpar;WordPress &amp; WooCommerce&rpar; – WP Overnight](https://jobs.wordpress.net/job/product-manager-innovator-wordpress-woocommerce-wp-overnight/)
 - [Marketing Specialist](https://jobs.wordpress.net/job/marketing-specialist/)
 - [WordPress/WooCommerce Plugin Developer – WP Overnight](https://jobs.wordpress.net/job/wordpress-woocommerce-plugin-developer-wp-overnight/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-873/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-872/)
 <!-- JOBS:END -->
 
 ## Central
