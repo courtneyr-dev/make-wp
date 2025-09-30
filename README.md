@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello mentors,](https://make.wordpress.org/polyglots/2025/09/30/hello-mentors/)
+- [WordPress 6.8.3 has been released….](https://make.wordpress.org/polyglots/2025/09/30/wordpress-6-8-3-has-been-released/)
 - [PTE request for Dear Flipbook…](https://make.wordpress.org/polyglots/2025/09/30/pte-request-for-dear-flipbook/)
 - [Looking for a Russian translation reviewer for the Learn WordPress content](https://make.wordpress.org/polyglots/2025/09/30/looking-for-a-russian-translation-reviewer-for-the-learn-wordpress-content/)
 - [I don’t want to get…](https://make.wordpress.org/polyglots/2025/09/29/i-dont-want-to-get/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for External Links New Tab](https://make.wordpress.org/polyglots/2025/09/28/pte-request-for-external-links-new-tab/)
 - [PTE Request for Yoast SEO](https://make.wordpress.org/polyglots/2025/09/28/pte-request-for-yoast-seo-8/)
 - [PTE Request for CartFlows and Modern Cart Starter](https://make.wordpress.org/polyglots/2025/09/27/pte-request-for-cartflows-and-modern-cart-starter/)
-- [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-woocommerce-12/)
-- [PTE Request for Nexter Extension…](https://make.wordpress.org/polyglots/2025/09/26/pte-request-for-nexter-extension/)
 <!-- POLYGLOTS:END -->
 
 ## Support
