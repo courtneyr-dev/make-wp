@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.8.3 Release](https://wordpress.org/news/2025/09/wordpress-6-8-3-release/)
 - [Portland Welcomes WordCamp US 2025: A Community Gathering](https://wordpress.org/news/2025/08/portland-welcomes-wcus-2025/)
 - [Portland, Are You Ready? The WCUS 2025 Schedule Has Arrived!](https://wordpress.org/news/2025/08/portland-are-you-ready-the-wcus-2025-schedule-has-arrived/)
 - [Maintenance Releases for WordPress branches 4.7 to 6.7](https://wordpress.org/news/2025/08/maintenance-releases-for-wordpress-branches-4-7-to-6-7/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp US 2025: See You in Portland, Oregon!](https://wordpress.org/news/2025/06/wordcamp-us-2025-see-you-in-portland-oregon/)
 - [Dropping security updates for WordPress versions 4.1 through 4.6](https://wordpress.org/news/2025/06/dropping-security-updates-for-wordpress-versions-4-1-through-4-6/)
 - [WCEU 2025: A Community Celebration in the Swiss Sun](https://wordpress.org/news/2025/06/wceu-2025-a-community-celebration-in-the-swiss-sun/)
-- [Announcing the Formation of the WordPress AI Team](https://wordpress.org/news/2025/05/announcing-the-formation-of-the-wordpress-ai-team/)
 <!-- NEWS:END -->
 
 ## Jobs
