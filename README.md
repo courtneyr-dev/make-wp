@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Reporting a Misappropriation of Funds](https://make.wordpress.org/community/2025/10/01/reporting-a-misappropriation-of-funds/)
 - [WordPress and Higher Education: An Alliance that Transforms](https://make.wordpress.org/community/2025/09/29/wordpress-and-higher-education-an-alliance-that-transforms/)
 - [Call for Mentors: Join WordPress Credits](https://make.wordpress.org/community/2025/09/19/call-for-mentors/)
 - [X-post: Online monthly Docs Team Contributor Day September 23, 2025](https://make.wordpress.org/community/2025/09/18/xpost-online-monthly-docs-team-contributor-day-september-23-2025/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Growing New Contributors: Kolhapur’s Online Contribution Journey](https://make.wordpress.org/community/2025/09/02/growing-new-contributors-kolhapurs-online-contribution-journey/)
 - [WordPress Credits Program Update](https://make.wordpress.org/community/2025/08/22/wordpress-credits-program-update/)
 - [Community Team Meeting Agenda for 07 – August -2025](https://make.wordpress.org/community/2025/08/07/community-team-meeting-agenda-for-07-august-2025/)
-- [Monthly Education Buzz Report – July 2025](https://make.wordpress.org/community/2025/08/04/monthly-education-buzz-report-july-2025/)
 <!-- COMMUNITY:END -->
 
 ## Meta
