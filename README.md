@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Facilitating Workshops in the WordPress Training Team](https://learn.wordpress.org/?meeting=facilitating-workshops-in-the-wordpress-training-team)
 - [So, you want to create lessons for Learn WordPress?](https://learn.wordpress.org/?meeting=so-you-want-to-create-lessons-for-learn-wordpress)
 - [How to Write Image Alt-Text](https://learn.wordpress.org/?meeting=how-to-write-image-alt-text)
 - [Mastering the Query Loop block in WordPress](https://learn.wordpress.org/?meeting=mastering-the-query-loop-block-in-wordpress)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Developer Hours: Exploring the Block Bindings API in WordPress 6.7](https://learn.wordpress.org/?meeting=developer-hours-exploring-the-block-bindings-api-wordpress-6-7)
 - [WordPressデータの引越方法について、様々なバリエーションを知ろう！](https://learn.wordpress.org/?meeting=wordpress%e3%83%87%e3%83%bc%e3%82%bf%e3%81%ae%e5%bc%95%e8%b6%8a%e6%96%b9%e6%b3%95%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%80%81%e6%a7%98%e3%80%85%e3%81%aa%e3%83%90%e3%83%aa%e3%82%a8%e3%83%bc%e3%82%b7)
 - [WordPress Users: Exploring new features introduced in 6.7](https://learn.wordpress.org/?meeting=wordpress-users-exploring-new-features-introduced-in-6-7)
-- [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-2)
 <!-- SLS:END -->
 
 ## Test
