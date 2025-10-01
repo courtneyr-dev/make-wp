@@ -376,7 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Dark Side of Automatic Updates: Securing WordPress Supply Chains in CI/CD](https://wordpress.tv/2025/09/30/the-dark-side-of-automatic-updates-securing-wordpress-supply-chains-in-ci-cd/)
 - [Simple WordPress Security Wins – How to Protect Your WordPress Users’ Accounts &lpar;for FREE&rpar;](https://wordpress.tv/2025/09/30/simple-wordpress-security-wins-how-to-protect-your-wordpress-users-accounts-for-free/)
 - [n8n + LLM: proste automatyzacje dla małych biznesów](https://wordpress.tv/2025/09/30/n8n-llm-proste-automatyzacje-dla-malych-biznesow/)
-- [Security in the age of AI – Discussion Panel](https://wordpress.tv/2025/09/30/security-in-the-age-of-ai-discussion-panel/)
+- [Leady w erze AI – WordPress między automatyzacją a relacjami – Panel dyskusyjny](https://wordpress.tv/2025/09/30/leady-w-erze-ai-wordpress-miedzy-automatyzacja-a-relacjami-panel-dyskusyjny/)
 <!-- WPTV:END -->
 
 ## Marketing
