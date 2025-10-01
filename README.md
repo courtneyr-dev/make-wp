@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – October 1, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/10/01/agenda-weekly-polyglots-chat-october-1-2025-700-utc/)
 - [Hello mentors,](https://make.wordpress.org/polyglots/2025/09/30/hello-mentors/)
 - [WordPress 6.8.3 has been released….](https://make.wordpress.org/polyglots/2025/09/30/wordpress-6-8-3-has-been-released/)
 - [PTE request for Dear Flipbook…](https://make.wordpress.org/polyglots/2025/09/30/pte-request-for-dear-flipbook/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for linked-media-without-import](https://make.wordpress.org/polyglots/2025/09/29/pte-request-for-linked-media-without-import/)
 - [PTE Request for External Links New Tab](https://make.wordpress.org/polyglots/2025/09/28/pte-request-for-external-links-new-tab/)
 - [PTE Request for Yoast SEO](https://make.wordpress.org/polyglots/2025/09/28/pte-request-for-yoast-seo-8/)
-- [PTE Request for CartFlows and Modern Cart Starter](https://make.wordpress.org/polyglots/2025/09/27/pte-request-for-cartflows-and-modern-cart-starter/)
 <!-- POLYGLOTS:END -->
 
 ## Support
