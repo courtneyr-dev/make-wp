@@ -21,8 +21,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Agenda – September 10, 2025](https://make.wordpress.org/core/2025/09/09/dev-chat-agenda-september-10-2025/)
 - [Performance Chat Summary: 9 September 2025](https://make.wordpress.org/core/2025/09/09/performance-chat-summary-9-september-2025/)
 - [X-post: A Month in Core – August 2025](https://make.wordpress.org/core/2025/09/09/xpost-a-month-in-core-august-2025/)
+- [Dev Blog editorial meeting summary, September 4, 2025](https://make.wordpress.org/core/2025/09/08/dev-blog-editorial-meeting-summary-september_4-2025/)
 - [Introducing the #content-creators slack channel](https://make.wordpress.org/core/2025/09/07/introducing-the-content-creators-slack-channel/)
-- [Prettier Emails: Supporting Inline Embedded Images](https://make.wordpress.org/core/2025/09/04/prettier-emails-supporting-inline-embedded-images/)
 <!-- CORE:END -->
 
 ## Design
