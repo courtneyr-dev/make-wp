@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Angela Jin: How to Choose and Install Themes](https://wordpress.tv/2025/10/02/angela-jin-angela-jin-how-to-choose-and-install-themes/)
 - [Security in the age of AI – Discussion Panel](https://wordpress.tv/2025/10/01/security-in-the-age-of-ai-discussion-panel/)
 - [Beyond Blocks: Engineering Custom WordPress Elements with WPBakery](https://wordpress.tv/2025/09/30/beyond-blocks-engineering-custom-wordpress-elements-with-wpbakery/)
 - [Multisite – the hidden champion of large WordPress sites – myths and use cases of WordPress for Enterprises](https://wordpress.tv/2025/09/30/multisite-the-hidden-champion-of-large-wordpress-sites-myths-and-use-cases-of-wordpress-for-ente-2/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Automating the Patch: AI Agents for Code Security and Beyond](https://wordpress.tv/2025/09/30/automating-the-patch-ai-agents-for-code-security-and-beyond/)
 - [The Dark Side of Automatic Updates: Securing WordPress Supply Chains in CI/CD](https://wordpress.tv/2025/09/30/the-dark-side-of-automatic-updates-securing-wordpress-supply-chains-in-ci-cd/)
 - [Simple WordPress Security Wins – How to Protect Your WordPress Users’ Accounts &lpar;for FREE&rpar;](https://wordpress.tv/2025/09/30/simple-wordpress-security-wins-how-to-protect-your-wordpress-users-accounts-for-free/)
-- [n8n + LLM: proste automatyzacje dla małych biznesów](https://wordpress.tv/2025/09/30/n8n-llm-proste-automatyzacje-dla-malych-biznesow/)
 <!-- WPTV:END -->
 
 ## Marketing
