@@ -352,7 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Angela Jin: How to Choose and Install Themes](https://wordpress.tv/2025/10/02/angela-jin-angela-jin-how-to-choose-and-install-themes/)
+- [How to Choose and Install Themes](https://wordpress.tv/2025/10/02/angela-jin-how-to-choose-and-install-themes-2/)
 - [Security in the age of AI – Discussion Panel](https://wordpress.tv/2025/10/01/security-in-the-age-of-ai-discussion-panel/)
 - [Beyond Blocks: Engineering Custom WordPress Elements with WPBakery](https://wordpress.tv/2025/09/30/beyond-blocks-engineering-custom-wordpress-elements-with-wpbakery/)
 - [Multisite – the hidden champion of large WordPress sites – myths and use cases of WordPress for Enterprises](https://wordpress.tv/2025/09/30/multisite-the-hidden-champion-of-large-wordpress-sites-myths-and-use-cases-of-wordpress-for-ente-2/)
