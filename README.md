@@ -69,7 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [CLPTE Request for WPML Multilingual for Easy Digital Downloads](https://make.wordpress.org/polyglots/2025/10/02/clpte-request-for-wpml-multilingual-for-easy-digital-downloads/)
+- [CLPTE Request for WPML Multilingual for Easy Digital Downloads](https://make.wordpress.org/polyglots/2025/10/02/clpte-request-for-wpml-multilingual-for-easy-digital-downloads-2/)
+- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/10/02/hello-polyglots-team-27/)
+- [PTE Request for “Order Status…](https://make.wordpress.org/polyglots/2025/10/02/pte-request-for-order-status/)
 - [Agenda: Weekly Polyglots Chat – October 1, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/10/01/agenda-weekly-polyglots-chat-october-1-2025-700-utc/)
 - [Hello mentors,](https://make.wordpress.org/polyglots/2025/09/30/hello-mentors/)
 - [WordPress 6.8.3 has been released….](https://make.wordpress.org/polyglots/2025/09/30/wordpress-6-8-3-has-been-released/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Looking for a Russian translation reviewer for the Learn WordPress content](https://make.wordpress.org/polyglots/2025/09/30/looking-for-a-russian-translation-reviewer-for-the-learn-wordpress-content/)
 - [I don’t want to get…](https://make.wordpress.org/polyglots/2025/09/29/i-dont-want-to-get/)
 - [Title: PTE Request for Meliconnect](https://make.wordpress.org/polyglots/2025/09/29/title-pte-request-for-meliconnect/)
-- [PTE Request for linked-media-without-import](https://make.wordpress.org/polyglots/2025/09/29/pte-request-for-linked-media-without-import/)
-- [PTE Request for External Links New Tab](https://make.wordpress.org/polyglots/2025/09/28/pte-request-for-external-links-new-tab/)
 <!-- POLYGLOTS:END -->
 
 ## Support
