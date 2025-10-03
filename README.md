@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-11/)
+- [Fluent Community Web Developer](https://jobs.wordpress.net/job/fluent-community-web-developer/)
 - [WordPress Marketing Specialist](https://jobs.wordpress.net/job/wordpress-marketing-specialist/)
 - [WordPress Developer – Volunteer](https://jobs.wordpress.net/job/wordpress-developer-volunteer-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-875/)
@@ -529,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Website manager](https://jobs.wordpress.net/job/website-manager-5/)
 - [WordPress Performance Optimization Engineer &lpar;Remote, U.S./Canada&rpar;](https://jobs.wordpress.net/job/wordpress-performance-optimization-engineer-remote-u-s-canada/)
 - [Product Manager / Innovator &lpar;WordPress &amp; WooCommerce&rpar; – WP Overnight](https://jobs.wordpress.net/job/product-manager-innovator-wordpress-woocommerce-wp-overnight/)
-- [Marketing Specialist](https://jobs.wordpress.net/job/marketing-specialist/)
 <!-- JOBS:END -->
 
 ## Central
