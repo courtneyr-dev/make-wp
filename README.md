@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Credits Student Guide](https://wordpress.tv/2025/10/02/wordpress-credits-student-guide/)
 - [How to Navigate the WordPress Credits Course](https://wordpress.tv/2025/10/02/how-to-navigate-the-wordpress-credits-course/)
 - [How to Choose and Install Themes](https://wordpress.tv/2025/10/02/angela-jin-how-to-choose-and-install-themes-2/)
 - [Security in the age of AI – Discussion Panel](https://wordpress.tv/2025/10/01/security-in-the-age-of-ai-discussion-panel/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Testowanie z przygodami – czyli jak jeden plugin rozwalił całe testy wydajnościowe – case study z WooCommerce](https://wordpress.tv/2025/09/30/mateusz-zadorozny-testowanie-z-przygodami-czyli-jak-jeden-plugin-rozwalil-cale-testy-wydajnosciowe-case-study-z-wo/)
 - [Boty, AI i brudny ruch: cisi zabójcy Twojego WordPress](https://wordpress.tv/2025/09/30/boty-ai-i-brudny-ruch-cisi-zabojcy-twojego-wordpress/)
 - [Automating the Patch: AI Agents for Code Security and Beyond](https://wordpress.tv/2025/09/30/automating-the-patch-ai-agents-for-code-security-and-beyond/)
-- [The Dark Side of Automatic Updates: Securing WordPress Supply Chains in CI/CD](https://wordpress.tv/2025/09/30/the-dark-side-of-automatic-updates-securing-wordpress-supply-chains-in-ci-cd/)
 <!-- WPTV:END -->
 
 ## Marketing
