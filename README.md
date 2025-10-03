@@ -530,7 +530,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Performance Optimization Engineer &lpar;Remote, U.S./Canada&rpar;](https://jobs.wordpress.net/job/wordpress-performance-optimization-engineer-remote-u-s-canada/)
 - [Product Manager / Innovator &lpar;WordPress &amp; WooCommerce&rpar; – WP Overnight](https://jobs.wordpress.net/job/product-manager-innovator-wordpress-woocommerce-wp-overnight/)
 - [Marketing Specialist](https://jobs.wordpress.net/job/marketing-specialist/)
-- [WordPress/WooCommerce Plugin Developer – WP Overnight](https://jobs.wordpress.net/job/wordpress-woocommerce-plugin-developer-wp-overnight/)
 <!-- JOBS:END -->
 
 ## Central
