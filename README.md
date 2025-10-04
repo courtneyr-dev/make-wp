@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Call for Testing: Ability to Hide Blocks](https://make.wordpress.org/core/2025/10/04/xpost-call-for-testing-ability-to-hide-blocks/)
 - [Summary, Dev Chat, October 1, 2025](https://make.wordpress.org/core/2025/10/02/summary-dev-chat-october-1-2025/)
 - [Dev Chat Agenda – October 1, 2025](https://make.wordpress.org/core/2025/09/30/dev-chat-agenda-october-1-2025-2/)
 - [What’s new in Gutenberg 21.7? &lpar;24 September&rpar;](https://make.wordpress.org/core/2025/09/29/whats-new-in-gutenberg-21-7-24-september/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Summary: 9 September 2025](https://make.wordpress.org/core/2025/09/09/performance-chat-summary-9-september-2025/)
 - [X-post: A Month in Core – August 2025](https://make.wordpress.org/core/2025/09/09/xpost-a-month-in-core-august-2025/)
 - [Dev Blog editorial meeting summary, September 4, 2025](https://make.wordpress.org/core/2025/09/08/dev-blog-editorial-meeting-summary-september_4-2025/)
-- [Introducing the #content-creators slack channel](https://make.wordpress.org/core/2025/09/07/introducing-the-content-creators-slack-channel/)
 <!-- CORE:END -->
 
 ## Design
