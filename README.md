@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [De clic a alumno: UX que impulsa tus ventas en webs de formación](https://wordpress.tv/2025/10/05/de-clic-a-alumno-ux-que-impulsa-tus-ventas-en-webs-de-formacion/)
+- [Los básicos de una web responsable](https://wordpress.tv/2025/10/05/los-basicos-de-una-web-responsable/)
+- [Iago Rivas: Manteniendo viva la web con blogs](https://wordpress.tv/2025/10/05/iago-rivas-manteniendo-viva-la-web-con-blogs/)
 - [Doutor WordPress](https://wordpress.tv/2025/10/05/doutor-wordpress/)
 - [¿Tu academia online no vende suficiente? Revisión exprés para desbloquear tus ventas](https://wordpress.tv/2025/10/05/tu-academia-online-no-vende-suficiente-revision-expres-para-desbloquear-tus-ventas/)
 - [Cómo hacer… en WordPress](https://wordpress.tv/2025/10/05/como-hacer-en-wordpress/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Beyond Plugins: Automate with Make in Minutes, Not Months](https://wordpress.tv/2025/09/30/beyond-plugins-automate-with-make-in-minutes-not-months/)
 - [Testing Faster Than a Red Bull Pit Stop: WordPress Playground and WooCommerce Blueprints](https://wordpress.tv/2025/09/30/testing-faster-than-a-red-bull-pit-stop-wordpress-playground-and-woocommerce-blueprints/)
 - [SEO od podstaw: jak stworzyć stronę w WordPress, którą pokocha Google](https://wordpress.tv/2025/09/30/seo-od-podstaw-jak-stworzyc-strone-w-wordpress-ktora-pokocha-google/)
-- [Od instalacji do..? Czyli jak świadomie stworzyć swoją pierwszą stronę internetową.](https://wordpress.tv/2025/09/30/od-instalacji-do-czyli-jak-swiadomie-stworzyc-swoja-pierwsza-strone-internetowa/)
-- [Soft skills w czasach Ai – o roli WordPress dewelopera przyszłości](https://wordpress.tv/2025/09/30/soft-skills-w-czasach-ai-o-roli-wordpress-dewelopera-przyszlosci/)
-- [GlotPress – własny system tłumaczeń dla projektów komercyjnych](https://wordpress.tv/2025/09/30/glotpress-wlasny-system-tlumaczen-dla-projektow-komercyjnych/)
 <!-- WPTV:END -->
 
 ## Marketing
