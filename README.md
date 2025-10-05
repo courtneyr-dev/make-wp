@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I’ve suggested translations for Five…](https://make.wordpress.org/polyglots/2025/10/05/ive-suggested-translations-for-five/)
 - [PTE Request for All In One Link Shortener](https://make.wordpress.org/polyglots/2025/10/03/pte-request-for-all-in-one-link-shortener/)
 - [CLPTE Request for WPML Multilingual for Easy Digital Downloads](https://make.wordpress.org/polyglots/2025/10/02/clpte-request-for-wpml-multilingual-for-easy-digital-downloads-2/)
 - [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/10/02/hello-polyglots-team-27/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.8.3 has been released….](https://make.wordpress.org/polyglots/2025/09/30/wordpress-6-8-3-has-been-released/)
 - [PTE request for Dear Flipbook…](https://make.wordpress.org/polyglots/2025/09/30/pte-request-for-dear-flipbook/)
 - [Looking for a Russian translation reviewer for the Learn WordPress content](https://make.wordpress.org/polyglots/2025/09/30/looking-for-a-russian-translation-reviewer-for-the-learn-wordpress-content/)
-- [I don’t want to get…](https://make.wordpress.org/polyglots/2025/09/29/i-dont-want-to-get/)
 <!-- POLYGLOTS:END -->
 
 ## Support
