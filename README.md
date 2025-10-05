@@ -352,9 +352,20 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Crea y vende formación con total libertad](https://wordpress.tv/2025/10/05/crea-y-vende-formacion-con-total-libertad/)
+- [Exprimindo a API: personalización de chamadas e respostas](https://wordpress.tv/2025/10/05/exprimindo-a-api-personalizacion-de-chamadas-e-respostas/)
+- [+26.000 fotos libres de derechos: descubre el WordPress Photo Directory](https://wordpress.tv/2025/10/05/26-000-fotos-libres-de-derechos-descubre-el-wordpress-photo-directory/)
+- [Princesa por Sorpresa, versión WordPress](https://wordpress.tv/2025/10/05/princesa-por-sorpresa-version-wordpress/)
+- [Microcomunidades WordPress y aprendizaje colaborativo](https://wordpress.tv/2025/10/05/microcomunidades-wordpress-y-aprendizaje-colaborativo/)
+- [Educación, WordPress y preguntas incómodas](https://wordpress.tv/2025/10/05/educacion-wordpress-y-preguntas-incomodas/)
+- [Cómo montar un proyecto formativo con cabeza: estrategia, estructura y plugins](https://wordpress.tv/2025/10/05/como-montar-un-proyecto-formativo-con-cabeza-estrategia-estructura-y-plugins/)
+- [Aprender, conectar y crecer en la comunidad WordPress](https://wordpress.tv/2025/10/05/aprender-conectar-y-crecer-en-la-comunidad-wordpress/)
+- [Os básicos dunha web responsable](https://wordpress.tv/2025/10/05/os-basicos-dunha-web-responsable/)
+- [Tu web de cursos bajo microscopio lo que convence y lo que espanta](https://wordpress.tv/2025/10/05/tu-web-de-cursos-bajo-microscopio-lo-que-convence-y-lo-que-espanta/)
+- [WordPress Campus Connect: creando un puente entre el aula y el mundo profesional real](https://wordpress.tv/2025/10/05/wordpress-campus-connect-creando-un-puente-entre-el-aula-y-el-mundo-profesional-real/)
+- [El mejor hosting para proyectos de formación no tiene que ser para mí](https://wordpress.tv/2025/10/05/el-mejor-hosting-para-proyectos-de-formacion-no-tiene-que-ser-para-mi/)
 - [De clic a alumno: UX que impulsa tus ventas en webs de formación](https://wordpress.tv/2025/10/05/de-clic-a-alumno-ux-que-impulsa-tus-ventas-en-webs-de-formacion/)
-- [Los básicos de una web responsable](https://wordpress.tv/2025/10/05/los-basicos-de-una-web-responsable/)
-- [Iago Rivas: Manteniendo viva la web con blogs](https://wordpress.tv/2025/10/05/iago-rivas-manteniendo-viva-la-web-con-blogs/)
+- [Manteniendo viva la web con blogs](https://wordpress.tv/2025/10/05/iago-rivas-manteniendo-viva-la-web-con-blogs/)
 - [Doutor WordPress](https://wordpress.tv/2025/10/05/doutor-wordpress/)
 - [¿Tu academia online no vende suficiente? Revisión exprés para desbloquear tus ventas](https://wordpress.tv/2025/10/05/tu-academia-online-no-vende-suficiente-revision-expres-para-desbloquear-tus-ventas/)
 - [Cómo hacer… en WordPress](https://wordpress.tv/2025/10/05/como-hacer-en-wordpress/)
@@ -366,17 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Caso real de un side project de cursos online con WordPress](https://wordpress.tv/2025/10/05/caso-real-de-un-side-project-de-cursos-online-con-wordpress/)
 - [WordPress Credits Student Guide](https://wordpress.tv/2025/10/02/wordpress-credits-student-guide/)
 - [How to Navigate the WordPress Credits Course](https://wordpress.tv/2025/10/02/how-to-navigate-the-wordpress-credits-course/)
-- [How to Choose and Install Themes](https://wordpress.tv/2025/10/02/angela-jin-how-to-choose-and-install-themes-2/)
-- [Security in the age of AI – Discussion Panel](https://wordpress.tv/2025/10/01/security-in-the-age-of-ai-discussion-panel/)
-- [Beyond Blocks: Engineering Custom WordPress Elements with WPBakery](https://wordpress.tv/2025/09/30/beyond-blocks-engineering-custom-wordpress-elements-with-wpbakery/)
-- [Multisite – the hidden champion of large WordPress sites – myths and use cases of WordPress for Enterprises](https://wordpress.tv/2025/09/30/multisite-the-hidden-champion-of-large-wordpress-sites-myths-and-use-cases-of-wordpress-for-ente-2/)
-- [Search has changed. Now what? How to Stay Visible in the Age of AI Search](https://wordpress.tv/2025/09/30/search-has-changed-now-what-how-to-stay-visible-in-the-age-of-ai-search/)
-- [Jak zacząć przygodę z własną stroną internetową?](https://wordpress.tv/2025/09/30/jak-zaczac-przygode-z-wlasna-strona-internetowa/)
-- [The Shape of Things to Come – The Cyber Resilience Act and Open Source Development](https://wordpress.tv/2025/09/30/the-shape-of-things-to-come-the-cyber-resilience-act-and-open-source-development/)
-- [The Loyalty Loop: Social Video for WordPress Brands](https://wordpress.tv/2025/09/30/the-loyalty-loop-social-video-for-wordpress-brands/)
-- [Beyond Plugins: Automate with Make in Minutes, Not Months](https://wordpress.tv/2025/09/30/beyond-plugins-automate-with-make-in-minutes-not-months/)
-- [Testing Faster Than a Red Bull Pit Stop: WordPress Playground and WooCommerce Blueprints](https://wordpress.tv/2025/09/30/testing-faster-than-a-red-bull-pit-stop-wordpress-playground-and-woocommerce-blueprints/)
-- [SEO od podstaw: jak stworzyć stronę w WordPress, którą pokocha Google](https://wordpress.tv/2025/09/30/seo-od-podstaw-jak-stworzyc-strone-w-wordpress-ktora-pokocha-google/)
 <!-- WPTV:END -->
 
 ## Marketing
