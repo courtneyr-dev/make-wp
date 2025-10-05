@@ -352,6 +352,15 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Doutor WordPress](https://wordpress.tv/2025/10/05/doutor-wordpress/)
+- [¿Tu academia online no vende suficiente? Revisión exprés para desbloquear tus ventas](https://wordpress.tv/2025/10/05/tu-academia-online-no-vende-suficiente-revision-expres-para-desbloquear-tus-ventas/)
+- [Cómo hacer… en WordPress](https://wordpress.tv/2025/10/05/como-hacer-en-wordpress/)
+- [Hablando con WordPress desde fuera: autenticación y acceso a datos](https://wordpress.tv/2025/10/05/hablando-con-wordpress-desde-fuera-autenticacion-y-acceso-a-datos/)
+- [Playground, la mejor herramienta jamás inventada para enseñar WordPress](https://wordpress.tv/2025/10/05/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/)
+- [Crear GPTs adaptados sin perder la calma](https://wordpress.tv/2025/10/05/crear-gpts-adaptados-sin-perder-la-calma/)
+- [Crea, escala, simplifica: el ciclo real de una escuela online](https://wordpress.tv/2025/10/05/crea-escala-simplifica-el-ciclo-real-de-una-escuela-online/)
+- [WPO sin humo: Cómo mejorar el rendimiento de tu WordPress sin depender de plugins](https://wordpress.tv/2025/10/05/wpo-sin-humo-como-mejorar-el-rendimiento-de-tu-wordpress-sin-depender-de-plugins/)
+- [Caso real de un side project de cursos online con WordPress](https://wordpress.tv/2025/10/05/caso-real-de-un-side-project-de-cursos-online-con-wordpress/)
 - [WordPress Credits Student Guide](https://wordpress.tv/2025/10/02/wordpress-credits-student-guide/)
 - [How to Navigate the WordPress Credits Course](https://wordpress.tv/2025/10/02/how-to-navigate-the-wordpress-credits-course/)
 - [How to Choose and Install Themes](https://wordpress.tv/2025/10/02/angela-jin-how-to-choose-and-install-themes-2/)
@@ -368,15 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Od instalacji do..? Czyli jak świadomie stworzyć swoją pierwszą stronę internetową.](https://wordpress.tv/2025/09/30/od-instalacji-do-czyli-jak-swiadomie-stworzyc-swoja-pierwsza-strone-internetowa/)
 - [Soft skills w czasach Ai – o roli WordPress dewelopera przyszłości](https://wordpress.tv/2025/09/30/soft-skills-w-czasach-ai-o-roli-wordpress-dewelopera-przyszlosci/)
 - [GlotPress – własny system tłumaczeń dla projektów komercyjnych](https://wordpress.tv/2025/09/30/glotpress-wlasny-system-tlumaczen-dla-projektow-komercyjnych/)
-- [Jak AI uratowało d*pę organizatorowi eventu, tworząc narzędzie webowe do generowania grafik w kilka](https://wordpress.tv/2025/09/30/jak-ai-uratowalo-dpe-organizatorowi-eventu-tworzac-narzedzie-webowe-do-generowania-grafik-w-kilka/)
-- [Zaprojektuj Checkout, nie formularz PIT – 5 błędów UX, przez które klienci porzucają koszyki w WooCommerce](https://wordpress.tv/2025/09/30/zaprojektuj-checkout-nie-formularz-pit-5-bledow-ux-przez-ktore-klienci-porzucaja-koszyki-w-woocommerce/)
-- [Guilty pleasure Twoich klientów, czyli jak posegmentować klientów, aby odkryć ich skryte potrzeby](https://wordpress.tv/2025/09/30/krzysztof-miotk-guilty-pleasure-twoich-klientow-czyli-jak-posegmentowac-klientow-aby-odkryc-ich-skryte-potrzeby/)
-- [Gdy kolory marki nie zdają egzaminu z kontrastu. Jak pogodzić branding z dostępnością w WordPressie?](https://wordpress.tv/2025/09/30/gdy-kolory-marki-nie-zdaja-egzaminu-z-kontrastu-jak-pogodzic-branding-z-dostepnoscia-w-wordpressie/)
-- [&lpar;Cyber&rpar;mózg. Jak zadbać o dobrostan w erze cyfrowej?](https://wordpress.tv/2025/09/30/cybermozg-jak-zadbac-o-dobrostan-w-erze-cyfrowej/)
-- [Pisanie wtyczek i motywów w nowoczesnym PHP](https://wordpress.tv/2025/09/30/pisanie-wtyczek-i-motywow-w-nowoczesnym-php/)
-- [Testowanie z przygodami – czyli jak jeden plugin rozwalił całe testy wydajnościowe – case study z WooCommerce](https://wordpress.tv/2025/09/30/mateusz-zadorozny-testowanie-z-przygodami-czyli-jak-jeden-plugin-rozwalil-cale-testy-wydajnosciowe-case-study-z-wo/)
-- [Boty, AI i brudny ruch: cisi zabójcy Twojego WordPress](https://wordpress.tv/2025/09/30/boty-ai-i-brudny-ruch-cisi-zabojcy-twojego-wordpress/)
-- [Automating the Patch: AI Agents for Code Security and Beyond](https://wordpress.tv/2025/09/30/automating-the-patch-ai-agents-for-code-security-and-beyond/)
 <!-- WPTV:END -->
 
 ## Marketing
