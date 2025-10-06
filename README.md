@@ -354,7 +354,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WPTV:START -->
 - [Apertura de la WordCamp Galicia 2025](https://wordpress.tv/2025/10/06/apertura-de-la-wordcamp-galicia-2025/)
 - [Cierre y despedida WordCamp Galicia](https://wordpress.tv/2025/10/06/cierre-y-despedida-wordcamp-galicia/)
-- [De clic a alumno: UX que impulsa tus ventas en webs de formación](https://wordpress.tv/2025/10/06/de-clic-a-alumno-ux-que-impulsa-tus-ventas-en-webs-de-formacion-2/)
 - [O teu curso ensina moito, pero os algoritmos non se matricularon nel](https://wordpress.tv/2025/10/06/o-teu-curso-ensina-moito-pero-os-algoritmos-non-se-matricularon-nel/)
 - [Desarrolla y crea Test para que tus plugins no tengan errores](https://wordpress.tv/2025/10/06/desarrolla-y-crea-test-para-que-tus-plugins-no-tengan-errores/)
 - [Facilitating Workshops in the WordPress Training Team](https://wordpress.tv/2025/10/06/facilitating-workshops-in-the-wordpress-training-team/)
@@ -377,6 +376,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo hacer… en WordPress](https://wordpress.tv/2025/10/05/como-hacer-en-wordpress/)
 - [Hablando con WordPress desde fuera: autenticación y acceso a datos](https://wordpress.tv/2025/10/05/hablando-con-wordpress-desde-fuera-autenticacion-y-acceso-a-datos/)
 - [Playground, la mejor herramienta jamás inventada para enseñar WordPress](https://wordpress.tv/2025/10/05/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/)
+- [Crear GPTs adaptados sin perder la calma](https://wordpress.tv/2025/10/05/crear-gpts-adaptados-sin-perder-la-calma/)
 <!-- WPTV:END -->
 
 ## Marketing
