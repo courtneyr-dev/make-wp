@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Dev Chat Agenda – October 8, 2025](https://make.wordpress.org/core/2025/10/06/dev-chat-agenda-october-8-2025/)
 - [X-post: Call for Testing: Accordion Block](https://make.wordpress.org/core/2025/10/06/xpost-call-for-testing-accordion-block/)
 - [X-post: Call for Testing: Ability to Hide Blocks](https://make.wordpress.org/core/2025/10/04/xpost-call-for-testing-ability-to-hide-blocks/)
 - [Summary, Dev Chat, October 1, 2025](https://make.wordpress.org/core/2025/10/02/summary-dev-chat-october-1-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in Gutenberg 21.6? &lpar;10 September&rpar;](https://make.wordpress.org/core/2025/09/10/whats-new-in-gutenberg-21-6-10-september/)
 - [Dev Chat Agenda – September 10, 2025](https://make.wordpress.org/core/2025/09/09/dev-chat-agenda-september-10-2025/)
 - [Performance Chat Summary: 9 September 2025](https://make.wordpress.org/core/2025/09/09/performance-chat-summary-9-september-2025/)
-- [X-post: A Month in Core – August 2025](https://make.wordpress.org/core/2025/09/09/xpost-a-month-in-core-august-2025/)
 <!-- CORE:END -->
 
 ## Design
