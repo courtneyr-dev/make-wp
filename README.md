@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Content &amp; Community Intern &lpar;AI / FinTech&rpar;](https://jobs.wordpress.net/job/content-community-intern-ai-fintech/)
+- [Senior Full Stack Engineer](https://jobs.wordpress.net/job/senior-full-stack-engineer-2/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-11/)
 - [Fluent Community Web Developer](https://jobs.wordpress.net/job/fluent-community-web-developer/)
 - [WordPress Marketing Specialist](https://jobs.wordpress.net/job/wordpress-marketing-specialist/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [migrate wix to WordPress](https://jobs.wordpress.net/job/migrate-wix-to-wordpress/)
 - [Clean, Fast Psychotherapy Website Needed](https://jobs.wordpress.net/job/clean-fast-psychotherapy-website-needed/)
 - [Website manager](https://jobs.wordpress.net/job/website-manager-5/)
-- [WordPress Performance Optimization Engineer &lpar;Remote, U.S./Canada&rpar;](https://jobs.wordpress.net/job/wordpress-performance-optimization-engineer-remote-u-s-canada/)
-- [Product Manager / Innovator &lpar;WordPress &amp; WooCommerce&rpar; – WP Overnight](https://jobs.wordpress.net/job/product-manager-innovator-wordpress-woocommerce-wp-overnight/)
 <!-- JOBS:END -->
 
 ## Central
