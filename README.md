@@ -325,6 +325,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Team Chat Agenda: 8 October 2025](https://make.wordpress.org/test/2025/10/07/team-chat-agenda-8-october-2025/)
 - [Week in Test: October 6, 2025](https://make.wordpress.org/test/2025/10/06/week-in-test-october-6-2025/)
 - [Call for Testing: Accordion Block](https://make.wordpress.org/test/2025/10/06/call-for-testing-accordion-block/)
 - [Call for Testing: Ability to Hide Blocks](https://make.wordpress.org/test/2025/10/04/call-for-testing-ability-to-hide-blocks/)
@@ -334,7 +335,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [The Test Handbook Overhaul](https://make.wordpress.org/test/2025/09/30/the-test-handbook-overhaul/)
 - [Week in Test: September 29, 2025](https://make.wordpress.org/test/2025/09/29/week-in-test-september-29-2025/)
 - [Test Chat Summary: September 24, 2025](https://make.wordpress.org/test/2025/09/29/test-chat-summary-september-24-2025/)
-- [Team Chat Agenda: 24th September 2025](https://make.wordpress.org/test/2025/09/24/team-chat-agenda-24th-september-2025/)
 <!-- TEST:END -->
 
 ## TV
