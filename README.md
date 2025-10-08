@@ -554,6 +554,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordPress Campus Connect Kishoreganj, Bangladesh](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-kishoreganj-bangladesh/)
 - [WordPress Campus Connect Udupi 2025](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-udupi-2025/)
 - [WordPress en Femenino Málaga 2025](https://central.wordcamp.org/wordcamps/en-femenino-malaga-2025/)
 - [Site Editor Workshop Jakarta 2025](https://central.wordcamp.org/wordcamps/site-editor-workshop-jakarta-2025/)
@@ -567,7 +568,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Taiwan 2025](https://central.wordcamp.org/wordcamps/wordcamp-taiwan-2025/)
 - [WordCamp Brasil 2025](https://central.wordcamp.org/wordcamps/wordcamp-brasil-2025/)
 - [WordCamp Asia 2026](https://central.wordcamp.org/wordcamps/wordcamp-asia-2026/)
-- [WordCamp Port Harcourt 2026](https://central.wordcamp.org/wordcamps/wordcamp-port-harcourt-2025/)
 - [WordCamp Nairobi 2025](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-2025/)
 <!-- WordCamp:END -->
 
