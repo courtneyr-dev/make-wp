@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Getting the Word Out: A Content-First Approach](https://wordpress.tv/2025/10/08/getting-the-word-out-a-content-first-approach/)
+- [Ladies and Gentlemen… and others. La comunicazione inclusiva sul web](https://wordpress.tv/2025/10/08/ladies-and-gentlemen-and-others-la-comunicazione-inclusiva-sul-web/)
 - [Apertura de la WordCamp Galicia 2025](https://wordpress.tv/2025/10/06/apertura-de-la-wordcamp-galicia-2025/)
 - [Cierre y despedida WordCamp Galicia](https://wordpress.tv/2025/10/06/cierre-y-despedida-wordcamp-galicia/)
 - [O teu curso ensina moito, pero os algoritmos non se matricularon nel](https://wordpress.tv/2025/10/06/o-teu-curso-ensina-moito-pero-os-algoritmos-non-se-matricularon-nel/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Tu academia online no vende suficiente? Revisión exprés para desbloquear tus ventas](https://wordpress.tv/2025/10/05/tu-academia-online-no-vende-suficiente-revision-expres-para-desbloquear-tus-ventas/)
 - [Cómo hacer… en WordPress](https://wordpress.tv/2025/10/05/como-hacer-en-wordpress/)
 - [Hablando con WordPress desde fuera: autenticación y acceso a datos](https://wordpress.tv/2025/10/05/hablando-con-wordpress-desde-fuera-autenticacion-y-acceso-a-datos/)
-- [Playground, la mejor herramienta jamás inventada para enseñar WordPress](https://wordpress.tv/2025/10/05/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/)
-- [Crear GPTs adaptados sin perder la calma](https://wordpress.tv/2025/10/05/crear-gpts-adaptados-sin-perder-la-calma/)
 <!-- WPTV:END -->
 
 ## Marketing
