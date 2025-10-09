@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Luxe Gallery…](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-luxe-gallery/)
 - [PTE Request for Chromica Theme](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-chromica-theme/)
 - [PTE Request for PostFlow](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-postflow/)
 - [I would like to be…](https://make.wordpress.org/polyglots/2025/10/08/i-would-like-to-be-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for REALIZER](https://make.wordpress.org/polyglots/2025/10/06/pte-request-for-realizer/)
 - [I’ve suggested translations for Five…](https://make.wordpress.org/polyglots/2025/10/05/ive-suggested-translations-for-five/)
 - [PTE Request for All In One Link Shortener](https://make.wordpress.org/polyglots/2025/10/03/pte-request-for-all-in-one-link-shortener/)
-- [CLPTE Request for WPML Multilingual for Easy Digital Downloads](https://make.wordpress.org/polyglots/2025/10/02/clpte-request-for-wpml-multilingual-for-easy-digital-downloads-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
