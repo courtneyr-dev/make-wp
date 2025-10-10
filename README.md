@@ -270,6 +270,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Beginner WordPress Developer](https://learn.wordpress.org/course/beginner-wordpress-developer/)
 - [Beginner WordPress User](https://learn.wordpress.org/course/beginner-wordpress-user/)
 - [Beginner WordPress Designer](https://learn.wordpress.org/course/beginner-wordpress-designer/)
+- [Scrivere con la voce di WordPress](https://learn.wordpress.org/course/it-writing-in-the-wordpress-voice/)
 - [Intermediate WordPress User](https://learn.wordpress.org/course/intermediate-wordpress-user/)
 - [Intermediate Theme Developer](https://learn.wordpress.org/course/intermediate-theme-developer/)
 - [Advanced WordPress User](https://learn.wordpress.org/course/advanced-wordpress-user/)
@@ -291,7 +292,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Writing in the WordPress voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
 - [Basic principles of conflict resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)
 - [Community team event mentor training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
-- [WordPress meetup organizer training](https://learn.wordpress.org/course/wordpress-meetup-organizer-training/)
 <!-- COURSES:END -->
 
 ### Social Learning Spaces
