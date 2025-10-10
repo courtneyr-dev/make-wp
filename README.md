@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Fluent Forms – Customizable Contact Forms, Survey, Quiz, &amp; Conversational Form Builder Plugin](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-fluent-forms-customizable-contact-forms-survey-quiz-conversational-form-builder-plugin/)
+- [PTE Request for Chromica Theme](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-chromica-theme-2/)
 - [PTE Request for Rectus Term Link](https://make.wordpress.org/polyglots/2025/10/10/pte-application-rectus-term-link/)
 - [PTE Request for Luxe Gallery…](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-luxe-gallery/)
 - [PTE Request for Chromica Theme](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-chromica-theme/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello, I am the author…](https://make.wordpress.org/polyglots/2025/10/08/hello-i-am-the-author-7/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/10/08/pte-request-for-following-themes-7/)
 - [PTE Request for Author Box WP Lens](https://make.wordpress.org/polyglots/2025/10/06/pte-request-for-author-box-wp-lens/)
-- [PTE Request for REALIZER](https://make.wordpress.org/polyglots/2025/10/06/pte-request-for-realizer/)
-- [I’ve suggested translations for Five…](https://make.wordpress.org/polyglots/2025/10/05/ive-suggested-translations-for-five/)
 <!-- POLYGLOTS:END -->
 
 ## Support
