@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-20/)
+- [PTE Request for Accessibility OneTap…](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-accessibility-onetap/)
 - [PTE Request for Fluent Forms – Customizable Contact Forms, Survey, Quiz, &amp; Conversational Form Builder Plugin](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-fluent-forms-customizable-contact-forms-survey-quiz-conversational-form-builder-plugin/)
 - [PTE Request for Chromica Theme](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-chromica-theme-2/)
 - [PTE Request for Rectus Term Link](https://make.wordpress.org/polyglots/2025/10/10/pte-application-rectus-term-link/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for PostFlow](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-postflow/)
 - [I would like to be…](https://make.wordpress.org/polyglots/2025/10/08/i-would-like-to-be-2/)
 - [Hello, I am the author…](https://make.wordpress.org/polyglots/2025/10/08/hello-i-am-the-author-7/)
-- [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/10/08/pte-request-for-following-themes-7/)
-- [PTE Request for Author Box WP Lens](https://make.wordpress.org/polyglots/2025/10/06/pte-request-for-author-box-wp-lens/)
 <!-- POLYGLOTS:END -->
 
 ## Support
