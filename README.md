@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Rectus Term Link](https://make.wordpress.org/polyglots/2025/10/10/pte-application-rectus-term-link/)
 - [PTE Request for Luxe Gallery…](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-luxe-gallery/)
 - [PTE Request for Chromica Theme](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-chromica-theme/)
 - [PTE Request for PostFlow](https://make.wordpress.org/polyglots/2025/10/09/pte-request-for-postflow/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Author Box WP Lens](https://make.wordpress.org/polyglots/2025/10/06/pte-request-for-author-box-wp-lens/)
 - [PTE Request for REALIZER](https://make.wordpress.org/polyglots/2025/10/06/pte-request-for-realizer/)
 - [I’ve suggested translations for Five…](https://make.wordpress.org/polyglots/2025/10/05/ive-suggested-translations-for-five/)
-- [PTE Request for All In One Link Shortener](https://make.wordpress.org/polyglots/2025/10/03/pte-request-for-all-in-one-link-shortener/)
 <!-- POLYGLOTS:END -->
 
 ## Support
