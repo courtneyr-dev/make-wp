@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Campus Connect Info Session 2](https://wordpress.tv/2025/10/09/wordpress-campus-connect-info-session-2/)
+- [WordPress Campus Connect Info Session 1](https://wordpress.tv/2025/10/09/wordpress-campus-connect-info-session-1/)
 - [From Websites to Workflows: Automating Business with WordPress and Beyond](https://wordpress.tv/2025/10/08/from-websites-to-workflows-automating-business-with-wordpress-and-beyond/)
 - [Getting the Word Out: A Content-First Approach](https://wordpress.tv/2025/10/08/getting-the-word-out-a-content-first-approach/)
 - [Ladies and Gentlemen… and others. La comunicazione inclusiva sul web](https://wordpress.tv/2025/10/08/ladies-and-gentlemen-and-others-la-comunicazione-inclusiva-sul-web/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [De clic a alumno: UX que impulsa tus ventas en webs de formación](https://wordpress.tv/2025/10/05/de-clic-a-alumno-ux-que-impulsa-tus-ventas-en-webs-de-formacion/)
 - [Manteniendo viva la web con blogs](https://wordpress.tv/2025/10/05/iago-rivas-manteniendo-viva-la-web-con-blogs/)
 - [Doutor WordPress](https://wordpress.tv/2025/10/05/doutor-wordpress/)
-- [¿Tu academia online no vende suficiente? Revisión exprés para desbloquear tus ventas](https://wordpress.tv/2025/10/05/tu-academia-online-no-vende-suficiente-revision-expres-para-desbloquear-tus-ventas/)
-- [Cómo hacer… en WordPress](https://wordpress.tv/2025/10/05/como-hacer-en-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
