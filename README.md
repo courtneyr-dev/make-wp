@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Kako pojedinac može vratiti zajedinici i doprineti – od entuzijaste do aktivnog člana](https://wordpress.tv/2025/10/13/kako-pojedinac-moze-vratiti-zajedinici-i-doprineti-od-entuzijaste-do-aktivnog-clana/)
+- [Launched and Live! Now What? Handling Errors on Your WordPress Site](https://wordpress.tv/2025/10/13/launched-and-live-now-what-handling-errors-on-your-wordpress-site/)
+- [Žitije lending stranice](https://wordpress.tv/2025/10/13/zitije-lending-stranice/)
+- [Migrate Your WordPress website easily – No plugin used](https://wordpress.tv/2025/10/13/migrate-your-wordpress-website-easily-no-plugin-used/)
 - [WordPress Campus Connect Info Session 2](https://wordpress.tv/2025/10/09/wordpress-campus-connect-info-session-2/)
 - [WordPress Campus Connect Info Session 1](https://wordpress.tv/2025/10/09/wordpress-campus-connect-info-session-1/)
 - [From Websites to Workflows: Automating Business with WordPress and Beyond](https://wordpress.tv/2025/10/08/from-websites-to-workflows-automating-business-with-wordpress-and-beyond/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Os básicos dunha web responsable](https://wordpress.tv/2025/10/05/os-basicos-dunha-web-responsable/)
 - [Tu web de cursos bajo microscopio lo que convence y lo que espanta](https://wordpress.tv/2025/10/05/tu-web-de-cursos-bajo-microscopio-lo-que-convence-y-lo-que-espanta/)
 - [WordPress Campus Connect: creando un puente entre el aula y el mundo profesional real](https://wordpress.tv/2025/10/05/wordpress-campus-connect-creando-un-puente-entre-el-aula-y-el-mundo-profesional-real/)
-- [El mejor hosting para proyectos de formación no tiene que ser para mí](https://wordpress.tv/2025/10/05/el-mejor-hosting-para-proyectos-de-formacion-no-tiene-que-ser-para-mi/)
-- [De clic a alumno: UX que impulsa tus ventas en webs de formación](https://wordpress.tv/2025/10/05/de-clic-a-alumno-ux-que-impulsa-tus-ventas-en-webs-de-formacion/)
-- [Manteniendo viva la web con blogs](https://wordpress.tv/2025/10/05/iago-rivas-manteniendo-viva-la-web-con-blogs/)
-- [Doutor WordPress](https://wordpress.tv/2025/10/05/doutor-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
