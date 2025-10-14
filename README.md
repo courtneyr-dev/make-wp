@@ -325,7 +325,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
-- [X-post: Test Team Update: 13 Octomber, 2025](https://make.wordpress.org/test/2025/10/14/xpost-test-team-update-13-octomber-2025/)
+- [X-post: Test Team Update: 13 October, 2025](https://make.wordpress.org/test/2025/10/14/xpost-test-team-update-13-octomber-2025/)
 - [Week in Test: October 13, 2025](https://make.wordpress.org/test/2025/10/13/week-in-test-october-13-2025/)
 - [X-post: WordPress 6.9 Release Party Schedule](https://make.wordpress.org/test/2025/10/10/xpost-wordpress-6-9-release-party-schedule/)
 - [Team Chat Agenda: 8 October 2025](https://make.wordpress.org/test/2025/10/07/team-chat-agenda-8-october-2025/)
