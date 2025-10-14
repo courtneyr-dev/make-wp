@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Credits – Sponsorship opportunities and benefits](https://wordpress.tv/2025/10/13/wordpress-credits-sponsorship-opportunities-and-benefits/)
 - [Kako pojedinac može vratiti zajedinici i doprineti – od entuzijaste do aktivnog člana](https://wordpress.tv/2025/10/13/kako-pojedinac-moze-vratiti-zajedinici-i-doprineti-od-entuzijaste-do-aktivnog-clana/)
 - [Launched and Live! Now What? Handling Errors on Your WordPress Site](https://wordpress.tv/2025/10/13/launched-and-live-now-what-handling-errors-on-your-wordpress-site/)
 - [Žitije lending stranice](https://wordpress.tv/2025/10/13/zitije-lending-stranice/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Aprender, conectar y crecer en la comunidad WordPress](https://wordpress.tv/2025/10/05/aprender-conectar-y-crecer-en-la-comunidad-wordpress/)
 - [Os básicos dunha web responsable](https://wordpress.tv/2025/10/05/os-basicos-dunha-web-responsable/)
 - [Tu web de cursos bajo microscopio lo que convence y lo que espanta](https://wordpress.tv/2025/10/05/tu-web-de-cursos-bajo-microscopio-lo-que-convence-y-lo-que-espanta/)
-- [WordPress Campus Connect: creando un puente entre el aula y el mundo profesional real](https://wordpress.tv/2025/10/05/wordpress-campus-connect-creando-un-puente-entre-el-aula-y-el-mundo-profesional-real/)
 <!-- WPTV:END -->
 
 ## Marketing
