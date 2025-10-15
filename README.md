@@ -527,7 +527,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Content &amp; Community Intern &lpar;AI / FinTech&rpar;](https://jobs.wordpress.net/job/content-community-intern-ai-fintech/)
 - [Senior Full Stack Engineer](https://jobs.wordpress.net/job/senior-full-stack-engineer-2/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-11/)
-- [Fluent Community Web Developer](https://jobs.wordpress.net/job/fluent-community-web-developer/)
 - [WordPress Marketing Specialist](https://jobs.wordpress.net/job/wordpress-marketing-specialist/)
 - [WordPress Developer – Volunteer](https://jobs.wordpress.net/job/wordpress-developer-volunteer-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-875/)
