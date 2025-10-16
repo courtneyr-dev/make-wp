@@ -280,6 +280,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community team Program Supporter tasks](https://learn.wordpress.org/course/wordpress-community-team-program-supporter-tasks/)
 - [Community team Supporter basics](https://learn.wordpress.org/course/wordpress-community-team-supporter-basics/)
 - [Creating a 4-page business website](https://learn.wordpress.org/course/creating-a-4-page-business-website/)
+- [WordPress Credits Mentor’s Course](https://learn.wordpress.org/course/wordpress-credits-mentors-course/)
 - [Using the WordPress Data Layer](https://learn.wordpress.org/course/using-the-wordpress-data-layer/)
 - [Introduction to Block Development:  Build your first custom block](https://learn.wordpress.org/course/introduction-to-block-development-build-your-first-custom-block/)
 - [WordPress Credits](https://learn.wordpress.org/course/wordpress-credits/)
@@ -291,7 +292,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community meeting etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
 - [Writing in the WordPress voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)
 - [Basic principles of conflict resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)
-- [Community team event mentor training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
 <!-- COURSES:END -->
 
 ### Social Learning Spaces
