@@ -125,6 +125,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/latex-to-mathml](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-latex-to-mathml/)
 - [@wordpress/admin-ui](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-admin-ui/)
 - [@wordpress/views](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-views/)
 - [Gutenberg plugin releases](https://developer.wordpress.org/block-editor/contributors/code/release/plugin-release/)
@@ -134,7 +135,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [wp transient patch](https://developer.wordpress.org/cli/commands/transient/patch/)
 - [wp transient pluck](https://developer.wordpress.org/cli/commands/transient/pluck/)
 - [bulk_action_observer_ids](https://developer.wordpress.org/reference/hooks/bulk_action_observer_ids/)
-- [WP_REST_Request::is_method&lpar;&rpar;](https://developer.wordpress.org/reference/classes/wp_rest_request/is_method/)
 <!-- DEVHUB:END -->
 
 ## Themes
