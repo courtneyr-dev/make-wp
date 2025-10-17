@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi,](https://make.wordpress.org/polyglots/2025/10/17/hi-124/)
 - [PTE request for WooCommerce Reviews](https://make.wordpress.org/polyglots/2025/10/15/pte-request-for-woocommerce-reviews/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/15/hello-polyglots-team-31/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/14/hello-polyglots-team-30/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-20/)
 - [PTE Request for Accessibility OneTap…](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-accessibility-onetap/)
 - [PTE Request for Fluent Forms – Customizable Contact Forms, Survey, Quiz, &amp; Conversational Form Builder Plugin](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-fluent-forms-customizable-contact-forms-survey-quiz-conversational-form-builder-plugin/)
-- [PTE Request for Chromica Theme](https://make.wordpress.org/polyglots/2025/10/10/pte-request-for-chromica-theme-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
