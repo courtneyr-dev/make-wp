@@ -352,6 +352,21 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Custom Post Types al descubierto](https://wordpress.tv/2025/10/19/custom-post-types-al-descubierto/)
+- [CSS: todo lo que no sabías que necesitabas](https://wordpress.tv/2025/10/19/css-todo-lo-que-no-sabias-que-necesitabas/)
+- [Cómo colaborar con una diseñadora para transformar un diseño a medida en WordPress](https://wordpress.tv/2025/10/19/como-colaborar-con-una-disenadora-para-transformar-un-diseno-a-medida-en-wordpress/)
+- [Cómo colaborar con un desarrollador para llevar tu diseño a medida a WordPress](https://wordpress.tv/2025/10/19/como-colaborar-con-un-desarrollador-para-llevar-tu-diseno-a-medida-a-wordpress/)
+- [Collateral Damage im Cookie-Krieg: So bändigst du die Consent Technik](https://wordpress.tv/2025/10/19/collateral-damage-im-cookie-krieg-so-bandigst-du-die-consent-technik/)
+- [Langweilig – und doch wichtig: Datenschutzerklärungen und Cookie-Banner](https://wordpress.tv/2025/10/19/langweilig-und-doch-wichtig-datenschutzerklarungen-und-cookie-banner/)
+- [Remote Teams: Challenges and Best Practices for Growth](https://wordpress.tv/2025/10/19/remote-teams-challenges-and-best-practices-for-growth/)
+- [Sharing sites safely: anonymize data before handover – thoughts, tools, and tips](https://wordpress.tv/2025/10/19/sharing-sites-safely-anonymize-data-before-handover-thoughts-tools-and-tips/)
+- [Stop Guessing What Users Want](https://wordpress.tv/2025/10/19/stop-guessing-what-users-want/)
+- [WordPress Security Beyond Plugins](https://wordpress.tv/2025/10/19/wordpress-security-beyond-plugins/)
+- [Alati za optimizovanje developmenta i generalnu produktivnost](https://wordpress.tv/2025/10/19/alati-za-optimizovanje-developmenta-i-generalnu-produktivnost/)
+- [Više kupaca uz pristupačnost, bez većeg budžeta](https://wordpress.tv/2025/10/19/vise-kupaca-uz-pristupacnost-bez-veceg-budzeta/)
+- [SEO arhitektura otporna na sve: WordPress u visokokonkurentnim nišama](https://wordpress.tv/2025/10/19/seo-arhitektura-otporna-na-sve-wordpress-u-visokokonkurentnim-nisama/)
+- [The creation of small business websites in WordPress from scratch](https://wordpress.tv/2025/10/19/the-creation-of-small-business-websites-in-wordpress-from-scratch/)
+- [Kreiranje sadržaja u svetu AI: kako kreirati autentično i relevantno](https://wordpress.tv/2025/10/19/kreiranje-sadrzaja-u-svetu-ai-kako-kreirati-autenticno-i-relevantno/)
 - [From invisible time drains to extra profit: how to reclaim what your workflow is stealing from you](https://wordpress.tv/2025/10/19/from-invisible-time-drains-to-extra-profit-how-to-reclaim-what-your-workflow-is-stealing-from-you/)
 - [WordPress Credits – Sponsorship opportunities and benefits](https://wordpress.tv/2025/10/13/wordpress-credits-sponsorship-opportunities-and-benefits/)
 - [Kako pojedinac može vratiti zajedinici i doprineti – od entuzijaste do aktivnog člana](https://wordpress.tv/2025/10/13/kako-pojedinac-moze-vratiti-zajedinici-i-doprineti-od-entuzijaste-do-aktivnog-clana/)
@@ -362,21 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Campus Connect Info Session 1](https://wordpress.tv/2025/10/09/wordpress-campus-connect-info-session-1/)
 - [From Websites to Workflows: Automating Business with WordPress and Beyond](https://wordpress.tv/2025/10/08/from-websites-to-workflows-automating-business-with-wordpress-and-beyond/)
 - [Getting the Word Out: A Content-First Approach](https://wordpress.tv/2025/10/08/getting-the-word-out-a-content-first-approach/)
-- [Ladies and Gentlemen… and others. La comunicazione inclusiva sul web](https://wordpress.tv/2025/10/08/ladies-and-gentlemen-and-others-la-comunicazione-inclusiva-sul-web/)
-- [Apertura de la WordCamp Galicia 2025](https://wordpress.tv/2025/10/06/apertura-de-la-wordcamp-galicia-2025/)
-- [Cierre y despedida WordCamp Galicia](https://wordpress.tv/2025/10/06/cierre-y-despedida-wordcamp-galicia/)
-- [O teu curso ensina moito, pero os algoritmos non se matricularon nel](https://wordpress.tv/2025/10/06/o-teu-curso-ensina-moito-pero-os-algoritmos-non-se-matricularon-nel/)
-- [Desarrolla y crea Test para que tus plugins no tengan errores](https://wordpress.tv/2025/10/06/desarrolla-y-crea-test-para-que-tus-plugins-no-tengan-errores/)
-- [Facilitating Workshops in the WordPress Training Team](https://wordpress.tv/2025/10/06/facilitating-workshops-in-the-wordpress-training-team/)
-- [Crea y vende formación con total libertad](https://wordpress.tv/2025/10/05/crea-y-vende-formacion-con-total-libertad/)
-- [Exprimindo a API: personalización de chamadas e respostas](https://wordpress.tv/2025/10/05/exprimindo-a-api-personalizacion-de-chamadas-e-respostas/)
-- [+26.000 fotos libres de derechos: descubre el WordPress Photo Directory](https://wordpress.tv/2025/10/05/26-000-fotos-libres-de-derechos-descubre-el-wordpress-photo-directory/)
-- [Princesa por Sorpresa, versión WordPress](https://wordpress.tv/2025/10/05/princesa-por-sorpresa-version-wordpress/)
-- [Microcomunidades WordPress y aprendizaje colaborativo](https://wordpress.tv/2025/10/05/microcomunidades-wordpress-y-aprendizaje-colaborativo/)
-- [Educación, WordPress y preguntas incómodas](https://wordpress.tv/2025/10/05/educacion-wordpress-y-preguntas-incomodas/)
-- [Cómo montar un proyecto formativo con cabeza: estrategia, estructura y plugins](https://wordpress.tv/2025/10/05/como-montar-un-proyecto-formativo-con-cabeza-estrategia-estructura-y-plugins/)
-- [Aprender, conectar y crecer en la comunidad WordPress](https://wordpress.tv/2025/10/05/aprender-conectar-y-crecer-en-la-comunidad-wordpress/)
-- [Os básicos dunha web responsable](https://wordpress.tv/2025/10/05/os-basicos-dunha-web-responsable/)
 <!-- WPTV:END -->
 
 ## Marketing
