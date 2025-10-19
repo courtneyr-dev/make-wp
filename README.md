@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE request for AcademyLMS plugin…](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-academylms-plugin/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/19/hello-polyglots-team-32/)
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-directorist-3/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-11/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-10/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-9/)
 - [PTE Request for two of our own plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-two-of-our-own-plugins/)
-- [PTE Request for AI Content Writer](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-ai-content-writer/)
 <!-- POLYGLOTS:END -->
 
 ## Support
