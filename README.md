@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/19/hello-polyglots-team-32/)
+- [PTE Request for Directorist](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-directorist-3/)
+- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-11/)
+- [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/10/19/hi-polyglots-116/)
+- [PTE Request for Dashboard Summary](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-dashboard-summary/)
+- [Request for PTE Role and Review of Bengali Translations for PageFlash Plugin](https://make.wordpress.org/polyglots/2025/10/19/request-for-pte-role-and-review-of-bengali-translations-for-pageflash-plugin/)
+- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-10/)
+- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-9/)
+- [PTE Request for two of our own plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-two-of-our-own-plugins/)
 - [PTE Request for AI Content Writer](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-ai-content-writer/)
-- [Request for PTE Role and Review of Arabic Translations](https://make.wordpress.org/polyglots/2025/10/18/request-for-pte-role-and-review-of-arabic-translations/)
-- [PTE Request for [vr-frases]](https://make.wordpress.org/polyglots/2025/10/18/pte-request-for-vr-frases/)
-- [Request for PTE Role and…](https://make.wordpress.org/polyglots/2025/10/17/request-for-pte-role-and/)
-- [Hi,](https://make.wordpress.org/polyglots/2025/10/17/hi-124/)
-- [PTE request for WooCommerce Reviews](https://make.wordpress.org/polyglots/2025/10/15/pte-request-for-woocommerce-reviews/)
-- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/15/hello-polyglots-team-31/)
-- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/14/hello-polyglots-team-30/)
-- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/10/14/hello-polyglots-team-29/)
-- [Hello Polyglots team,](https://make.wordpress.org/polyglots/2025/10/13/hello-polyglots-team-28/)
 <!-- POLYGLOTS:END -->
 
 ## Support
