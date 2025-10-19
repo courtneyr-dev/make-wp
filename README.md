@@ -352,6 +352,13 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Neurodivergencia y diseño web: crear experiencias que no sobrecarguen](https://wordpress.tv/2025/10/19/neurodivergencia-y-diseno-web-crear-experiencias-que-no-sobrecarguen/)
+- [El Espejismo de la Accesibilidad Instantánea: Una Guía para Ver la Realidad](https://wordpress.tv/2025/10/19/el-espejismo-de-la-accesibilidad-instantanea-una-guia-para-ver-la-realidad/)
+- [Emprendedoras expatriadas: Negocios y Hobbygocios](https://wordpress.tv/2025/10/19/emprendedoras-expatriadas-negocios-y-hobbygocios/)
+- [WordPress Without Borders: Building a Global Enterprise from a Non-Traditional Path](https://wordpress.tv/2025/10/19/wordpress-without-borders-building-a-global-enterprise-from-a-non-traditional-path/)
+- [AI as the Great Equalizer, practical applications for more inclusive WordPress](https://wordpress.tv/2025/10/19/ai-as-the-great-equalizer-practical-applications-for-more-inclusive-wordpress/)
+- [Diseñar para todas: sostenibilidad, feminismo y accesibilidad en entornos digitales](https://wordpress.tv/2025/10/19/disenar-para-todas-sostenibilidad-feminismo-y-accesibilidad-en-entornos-digitales/)
+- [Tu audiencia es más diversa de lo que crees](https://wordpress.tv/2025/10/19/tu-audiencia-es-mas-diversa-de-lo-que-crees/)
 - [Custom Post Types al descubierto](https://wordpress.tv/2025/10/19/custom-post-types-al-descubierto/)
 - [CSS: todo lo que no sabías que necesitabas](https://wordpress.tv/2025/10/19/css-todo-lo-que-no-sabias-que-necesitabas/)
 - [Cómo colaborar con una diseñadora para transformar un diseño a medida en WordPress](https://wordpress.tv/2025/10/19/como-colaborar-con-una-disenadora-para-transformar-un-diseno-a-medida-en-wordpress/)
@@ -370,13 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [From invisible time drains to extra profit: how to reclaim what your workflow is stealing from you](https://wordpress.tv/2025/10/19/from-invisible-time-drains-to-extra-profit-how-to-reclaim-what-your-workflow-is-stealing-from-you/)
 - [WordPress Credits – Sponsorship opportunities and benefits](https://wordpress.tv/2025/10/13/wordpress-credits-sponsorship-opportunities-and-benefits/)
 - [Kako pojedinac može vratiti zajedinici i doprineti – od entuzijaste do aktivnog člana](https://wordpress.tv/2025/10/13/kako-pojedinac-moze-vratiti-zajedinici-i-doprineti-od-entuzijaste-do-aktivnog-clana/)
-- [Launched and Live! Now What? Handling Errors on Your WordPress Site](https://wordpress.tv/2025/10/13/launched-and-live-now-what-handling-errors-on-your-wordpress-site/)
-- [Žitije lending stranice](https://wordpress.tv/2025/10/13/zitije-lending-stranice/)
-- [Migrate Your WordPress website easily – No plugin used](https://wordpress.tv/2025/10/13/migrate-your-wordpress-website-easily-no-plugin-used/)
-- [WordPress Campus Connect Info Session 2](https://wordpress.tv/2025/10/09/wordpress-campus-connect-info-session-2/)
-- [WordPress Campus Connect Info Session 1](https://wordpress.tv/2025/10/09/wordpress-campus-connect-info-session-1/)
-- [From Websites to Workflows: Automating Business with WordPress and Beyond](https://wordpress.tv/2025/10/08/from-websites-to-workflows-automating-business-with-wordpress-and-beyond/)
-- [Getting the Word Out: A Content-First Approach](https://wordpress.tv/2025/10/08/getting-the-word-out-a-content-first-approach/)
 <!-- WPTV:END -->
 
 ## Marketing
