@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [From invisible time drains to extra profit: how to reclaim what your workflow is stealing from you](https://wordpress.tv/2025/10/19/from-invisible-time-drains-to-extra-profit-how-to-reclaim-what-your-workflow-is-stealing-from-you/)
 - [WordPress Credits – Sponsorship opportunities and benefits](https://wordpress.tv/2025/10/13/wordpress-credits-sponsorship-opportunities-and-benefits/)
 - [Kako pojedinac može vratiti zajedinici i doprineti – od entuzijaste do aktivnog člana](https://wordpress.tv/2025/10/13/kako-pojedinac-moze-vratiti-zajedinici-i-doprineti-od-entuzijaste-do-aktivnog-clana/)
 - [Launched and Live! Now What? Handling Errors on Your WordPress Site](https://wordpress.tv/2025/10/13/launched-and-live-now-what-handling-errors-on-your-wordpress-site/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo montar un proyecto formativo con cabeza: estrategia, estructura y plugins](https://wordpress.tv/2025/10/05/como-montar-un-proyecto-formativo-con-cabeza-estrategia-estructura-y-plugins/)
 - [Aprender, conectar y crecer en la comunidad WordPress](https://wordpress.tv/2025/10/05/aprender-conectar-y-crecer-en-la-comunidad-wordpress/)
 - [Os básicos dunha web responsable](https://wordpress.tv/2025/10/05/os-basicos-dunha-web-responsable/)
-- [Tu web de cursos bajo microscopio lo que convence y lo que espanta](https://wordpress.tv/2025/10/05/tu-web-de-cursos-bajo-microscopio-lo-que-convence-y-lo-que-espanta/)
 <!-- WPTV:END -->
 
 ## Marketing
