@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for LatePoint Plugin](https://make.wordpress.org/polyglots/2025/10/20/pte-request-for-latepoint-plugin/)
+- [Hi!](https://make.wordpress.org/polyglots/2025/10/20/hi-125/)
 - [Hello Team,](https://make.wordpress.org/polyglots/2025/10/20/hello-team-4/)
 - [PTE request for AcademyLMS plugin…](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-academylms-plugin/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/19/hello-polyglots-team-32/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/10/19/hi-polyglots-116/)
 - [PTE Request for Dashboard Summary](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-dashboard-summary/)
 - [Request for PTE Role and Review of Bengali Translations for PageFlash Plugin](https://make.wordpress.org/polyglots/2025/10/19/request-for-pte-role-and-review-of-bengali-translations-for-pageflash-plugin/)
-- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-10/)
-- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-9/)
 <!-- POLYGLOTS:END -->
 
 ## Support
