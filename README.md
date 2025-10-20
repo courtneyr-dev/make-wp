@@ -437,6 +437,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [A week in Openverse: 2025-10-13 – 2025-10-20](https://make.wordpress.org/openverse/2025/10/20/last-week-openverse-2025-10-13-2025-10-20/)
 - [A week in Openverse: 2025-09-29 – 2025-10-06](https://make.wordpress.org/openverse/2025/10/06/last-week-openverse-2025-09-29-2025-10-06/)
 - [A week in Openverse: 2025-09-22 – 2025-09-29](https://make.wordpress.org/openverse/2025/09/29/last-week-openverse-2025-09-22-2025-09-29/)
 - [A week in Openverse: 2025-09-08 – 2025-09-15](https://make.wordpress.org/openverse/2025/09/15/last-week-openverse-2025-09-08-2025-09-15/)
@@ -446,7 +447,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/openverse/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [A week in Openverse: 2025-06-09 – 2025-06-16](https://make.wordpress.org/openverse/2025/06/16/last-week-openverse-2025-06-09-2025-06-16/)
 - [A week in Openverse: 2025-06-02 – 2025-06-09](https://make.wordpress.org/openverse/2025/06/09/last-week-openverse-2025-06-02-2025-06-09/)
-- [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/openverse/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 <!-- OPENVERSE:END -->
 
 ## Photos
