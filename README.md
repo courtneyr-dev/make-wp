@@ -296,6 +296,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Landing Pages, Posts, &amp; More: Strategies for a Stronger Site](https://learn.wordpress.org/?meeting=landing-pages-posts-more-strategies-for-a-stronger-site)
 - [Building Top-Level Menus &amp; Sub-Menus](https://learn.wordpress.org/?meeting=building-top-level-menus-sub-menus)
 - [How to Host Workshop in Training Team?](https://learn.wordpress.org/?meeting=300237)
 - [[No Title] - ?meeting=300236](https://learn.wordpress.org/?meeting=300236)
@@ -320,7 +321,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-5)
 - [Developer Hours: Improve your workflows with WordPress development tools](https://learn.wordpress.org/?meeting=developer-hours-improve-your-workflows-with-wordpress-development-tools)
 - [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-4)
-- [Learn WordPress Study Hour](https://learn.wordpress.org/?meeting=learn-wordpress-study-hour-3)
 <!-- SLS:END -->
 
 ## Test
