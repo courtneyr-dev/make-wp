@@ -521,15 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
-- [Web Developer Needed](https://jobs.wordpress.net/job/web-developer-needed/)
-- [[Astra] WordPress Support Specialist](https://jobs.wordpress.net/job/astra-wordpress-support-specialist-20/)
-- [[Astra] UI/UX Designer &lpar;Product Design&rpar;](https://jobs.wordpress.net/job/astra-ui-ux-designer-product-design/)
-- [Content &amp; Community Intern &lpar;AI / FinTech&rpar;](https://jobs.wordpress.net/job/content-community-intern-ai-fintech/)
-- [Senior Full Stack Engineer](https://jobs.wordpress.net/job/senior-full-stack-engineer-2/)
-- [Hosting Support](https://jobs.wordpress.net/job/hosting-support-11/)
-- [WordPress Marketing Specialist](https://jobs.wordpress.net/job/wordpress-marketing-specialist/)
-- [WordPress Developer – Volunteer](https://jobs.wordpress.net/job/wordpress-developer-volunteer-4/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-875/)
+- [Canada/U.S. only — Lean WordPress &lpar;Kadence/Core&rpar; from existing packs — evidence-first](https://jobs.wordpress.net/job/canada-u-s-only-lean-wordpress-kadence-core-from-existing-packs-evidence-first/)
+- [Minor style sheet edits to existing website](https://jobs.wordpress.net/job/minor-style-sheet-edits-to-existing-website/)
+- [WordPress/Elemental developer needed](https://jobs.wordpress.net/job/wordpress-elemental-developer-needed/)
+- [migrate wix to WordPress](https://jobs.wordpress.net/job/migrate-wix-to-wordpress-2/)
+- [Senior Front-End WordPress Developer – Tailwind Specialist](https://jobs.wordpress.net/job/senior-front-end-wordpress-developer-tailwind-specialist/)
+- [FULL STACK WordPress developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-37/)
+- [WordPress Maintenance &amp; Optimization Specialist &lpar;Part-Time, Remote&rpar;](https://jobs.wordpress.net/job/wordpress-maintenance-optimization-specialist-part-time-remote/)
+- [PHP/Fullstack developer](https://jobs.wordpress.net/job/php-fullstack-developer/)
+- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-876/)
+- [WordPress Developer &lpar;React + PHP + Frontend Ninja&rpar;](https://jobs.wordpress.net/job/wordpress-developer-react-php-frontend-ninja/)
 <!-- JOBS:END -->
 
 ## Central
