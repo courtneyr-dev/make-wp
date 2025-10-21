@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Simple Connection…](https://make.wordpress.org/polyglots/2025/10/21/pte-request-for-simple-connection/)
 - [PTE Request for ShopWay Theme](https://make.wordpress.org/polyglots/2025/10/21/pte-request-for-shopway-theme/)
 - [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/21/request-for-bengali-pte-role/)
 - [PTE Request for LatePoint Plugin](https://make.wordpress.org/polyglots/2025/10/20/pte-request-for-latepoint-plugin/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/19/hello-polyglots-team-32/)
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-directorist-3/)
 - [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-11/)
-- [Hi Polyglots,](https://make.wordpress.org/polyglots/2025/10/19/hi-polyglots-116/)
 <!-- POLYGLOTS:END -->
 
 ## Support
