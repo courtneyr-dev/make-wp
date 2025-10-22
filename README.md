@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WooCommerce, FluentCart, EasyCommerce, Dokan, and Site Kit by Google Plugins](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-woocommerce-fluentcart-easycommerce-dokan-and-site-kit-by-google-plugins/)
 - [PTE Request for Simple Connection…](https://make.wordpress.org/polyglots/2025/10/21/pte-request-for-simple-connection/)
 - [PTE Request for ShopWay Theme](https://make.wordpress.org/polyglots/2025/10/21/pte-request-for-shopway-theme/)
 - [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/21/request-for-bengali-pte-role/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE request for AcademyLMS plugin…](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-academylms-plugin/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/10/19/hello-polyglots-team-32/)
 - [PTE Request for Directorist](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-directorist-3/)
-- [PTE Request for Multiple Plugins](https://make.wordpress.org/polyglots/2025/10/19/pte-request-for-multiple-plugins-11/)
 <!-- POLYGLOTS:END -->
 
 ## Support
