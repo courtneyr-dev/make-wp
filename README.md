@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Running WordPress directly from the JavaScript code with runCLI](https://wordpress.tv/2025/10/22/running-wordpress-directly-from-the-javascript-code-with-runcli/)
 - [Neurodivergencia y diseño web: crear experiencias que no sobrecarguen](https://wordpress.tv/2025/10/19/neurodivergencia-y-diseno-web-crear-experiencias-que-no-sobrecarguen/)
 - [El Espejismo de la Accesibilidad Instantánea: Una Guía para Ver la Realidad](https://wordpress.tv/2025/10/19/el-espejismo-de-la-accesibilidad-instantanea-una-guia-para-ver-la-realidad/)
 - [Emprendedoras expatriadas: Negocios y Hobbygocios](https://wordpress.tv/2025/10/19/emprendedoras-expatriadas-negocios-y-hobbygocios/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Kreiranje sadržaja u svetu AI: kako kreirati autentično i relevantno](https://wordpress.tv/2025/10/19/kreiranje-sadrzaja-u-svetu-ai-kako-kreirati-autenticno-i-relevantno/)
 - [From invisible time drains to extra profit: how to reclaim what your workflow is stealing from you](https://wordpress.tv/2025/10/19/from-invisible-time-drains-to-extra-profit-how-to-reclaim-what-your-workflow-is-stealing-from-you/)
 - [WordPress Credits – Sponsorship opportunities and benefits](https://wordpress.tv/2025/10/13/wordpress-credits-sponsorship-opportunities-and-benefits/)
-- [Kako pojedinac može vratiti zajedinici i doprineti – od entuzijaste do aktivnog člana](https://wordpress.tv/2025/10/13/kako-pojedinac-moze-vratiti-zajedinici-i-doprineti-od-entuzijaste-do-aktivnog-clana/)
 <!-- WPTV:END -->
 
 ## Marketing
