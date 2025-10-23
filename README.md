@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [2025 WordPress Youth Day, Nicaragua. Mission accomplished!](https://make.wordpress.org/community/2025/10/23/2025-wordpress-youth-day-nicaragua-mission-accomplished/)
 - [WordPress Campus Connect Events: Who Can Organize Them?](https://make.wordpress.org/community/2025/10/17/wordpress-campus-connect-events-who-can-organize-them/)
 - [Monthly Education Buzz Report – September 2025](https://make.wordpress.org/community/2025/10/09/monthly-education-buzz-report-september-2025/)
 - [Community Team Meeting Agenda for 09 – October -2025](https://make.wordpress.org/community/2025/10/07/community-team-meeting-agenda-for-09-october-2025/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Online monthly Docs Team Contributor Day September 23, 2025](https://make.wordpress.org/community/2025/09/18/xpost-online-monthly-docs-team-contributor-day-september-23-2025/)
 - [Community Team September 2025 Meeting Recap](https://make.wordpress.org/community/2025/09/11/community-team-september-2025-meeting-recap/)
 - [Monthly Education Buzz Report – August 2025](https://make.wordpress.org/community/2025/09/08/monthly-education-buzz-report-august-2025/)
-- [Community Team Meeting Agenda for 04 – September -2025](https://make.wordpress.org/community/2025/09/02/community-team-meeting-agenda-for-04-september-2025/)
 <!-- COMMUNITY:END -->
 
 ## Meta
