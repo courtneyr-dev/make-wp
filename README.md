@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for FLuentCart](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-fluentcart/)
 - [PTE Request for ‘Smart Thumbnails GW’ – fa_IR](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-smart-thumbnails-gw-fa_ir/)
 - [Request for PTE Role and…](https://make.wordpress.org/polyglots/2025/10/22/request-for-pte-role-and-2/)
 - [PTE Request for iP.1 Contact Form](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-ip-1-contact-form/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/21/request-for-bengali-pte-role/)
 - [PTE Request for LatePoint Plugin](https://make.wordpress.org/polyglots/2025/10/20/pte-request-for-latepoint-plugin/)
 - [Hi!](https://make.wordpress.org/polyglots/2025/10/20/hi-125/)
-- [Hello Team,](https://make.wordpress.org/polyglots/2025/10/20/hello-team-4/)
 <!-- POLYGLOTS:END -->
 
 ## Support
