@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [আপনার ব্লক এডিটর যাত্রার প্রথম ধাপ: Block Editor Basics Course Cohort in Bengali](https://make.wordpress.org/training/2025/10/23/block-editor-basics-course-cohort-in-bengali/)
 - [Training Team Meeting Recap – 7th Oct 2025](https://make.wordpress.org/training/2025/10/13/training-team-meeting-recap-7th-oct-2025/)
 - [Training Team Meeting Recap – 30th September 2025](https://make.wordpress.org/training/2025/10/04/training-team-meeting-recap-30th-september-2025/)
 - [Cohort Block Editor Basics: what we learned — and what’s next](https://make.wordpress.org/training/2025/10/04/cohort-block-editor-basics-what-we-learned-and-whats-next/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Training Team Meeting Recap – 16th September 2025](https://make.wordpress.org/training/2025/09/21/training-team-meeting-recap-16th-september-2025/)
 - [X-post: Call for Mentors](https://make.wordpress.org/training/2025/09/19/xpost-call-for-mentors/)
 - [X-post: Online monthly Docs Team Contributor Day September 23, 2025](https://make.wordpress.org/training/2025/09/18/xpost-online-monthly-docs-team-contributor-day-september-23-2025/)
-- [Training Team Meeting Recap – 9th September 2025](https://make.wordpress.org/training/2025/09/15/training-team-meeting-recap-9th-september-2025/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
