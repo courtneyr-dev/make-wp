@@ -522,7 +522,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [Canada/U.S. only — Lean WordPress &lpar;Kadence/Core&rpar; from existing packs — evidence-first](https://jobs.wordpress.net/job/canada-u-s-only-lean-wordpress-kadence-core-from-existing-packs-evidence-first/)
-- [Minor style sheet edits to existing website](https://jobs.wordpress.net/job/minor-style-sheet-edits-to-existing-website/)
 - [WordPress/Elemental developer needed](https://jobs.wordpress.net/job/wordpress-elemental-developer-needed/)
 - [migrate wix to WordPress](https://jobs.wordpress.net/job/migrate-wix-to-wordpress-2/)
 - [WordPress Maintenance &amp; Optimization Specialist &lpar;Part-Time, Remote&rpar;](https://jobs.wordpress.net/job/wordpress-maintenance-optimization-specialist-part-time-remote/)
@@ -531,6 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-876/)
 - [WordPress Developer &lpar;React + PHP + Frontend Ninja&rpar;](https://jobs.wordpress.net/job/wordpress-developer-react-php-frontend-ninja/)
 - [PHP/Fullstack developer](https://jobs.wordpress.net/job/php-fullstack-developer/)
+- [Web Developer Needed](https://jobs.wordpress.net/job/web-developer-needed/)
 <!-- JOBS:END -->
 
 ## Central
