@@ -69,16 +69,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Synapse](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-synapse/)
+- [I would like to request…](https://make.wordpress.org/polyglots/2025/10/23/i-would-like-to-request-7/)
+- [Hi WordPress translation team&lpar;s&rpar;!](https://make.wordpress.org/polyglots/2025/10/23/hi-wordpress-translation-teams/)
+- [PTE Request for CookieYes – Cookie Banner for Cookie Consent](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-cookieyes-cookie-banner-for-cookie-consent/)
 - [PTE Request for FLuentCart](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-fluentcart/)
 - [PTE Request for ‘Smart Thumbnails GW’ – fa_IR](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-smart-thumbnails-gw-fa_ir/)
 - [Request for PTE Role and…](https://make.wordpress.org/polyglots/2025/10/22/request-for-pte-role-and-2/)
 - [PTE Request for iP.1 Contact Form](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-ip-1-contact-form/)
 - [PTE Request for WooCommerce, FluentCart, EasyCommerce, Dokan, and Site Kit by Google Plugins](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-woocommerce-fluentcart-easycommerce-dokan-and-site-kit-by-google-plugins/)
 - [PTE Request for Simple Connection…](https://make.wordpress.org/polyglots/2025/10/21/pte-request-for-simple-connection/)
-- [PTE Request for ShopWay Theme](https://make.wordpress.org/polyglots/2025/10/21/pte-request-for-shopway-theme/)
-- [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/21/request-for-bengali-pte-role/)
-- [PTE Request for LatePoint Plugin](https://make.wordpress.org/polyglots/2025/10/20/pte-request-for-latepoint-plugin/)
-- [Hi!](https://make.wordpress.org/polyglots/2025/10/20/hi-125/)
 <!-- POLYGLOTS:END -->
 
 ## Support
