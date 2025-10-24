@@ -181,6 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [X-post: Call for Developers: WordPress Events Tooling Improvements](https://make.wordpress.org/meta/2025/10/24/xpost-call-for-developers-wordpress-events-tooling-improvements/)
 - [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/meta/2025/06/25/xpost-a-little-late-spring-cleaning/)
 - [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/meta/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 - [X-post: AI Chat Agenda – 12 June 2025](https://make.wordpress.org/meta/2025/06/11/xpost-ai-chat-agenda-12-june-2025/)
@@ -190,7 +191,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Top Customer Channel](https://make.wordpress.org/meta/2025/03/15/top-customer-channel/)
 - [Welcome back everyone! The holiday…](https://make.wordpress.org/meta/2025/01/03/welcome-back-everyone-the-holiday/)
 - [Make WordPress gets a refresh](https://make.wordpress.org/meta/2024/12/12/make-wordpress-gets-a-refresh/)
-- [The Photos Directory gets a refresh and is now powered by blocks](https://make.wordpress.org/meta/2024/12/10/the-photos-directory-gets-a-refresh-and-is-now-powered-by-blocks/)
 <!-- META:END -->
 
 ## Training
