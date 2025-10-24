@@ -69,8 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE Request for CookieYes –…](https://make.wordpress.org/polyglots/2025/10/24/pte-request-for-cookieyes-2/)
-- [PTE Request for CookieYes –…](https://make.wordpress.org/polyglots/2025/10/24/pte-request-for-cookieyes/)
+- [PTE Request for CookieYes – Cookie Banner for Cookie Consent &lpar;pl_PL and fi&rpar;](https://make.wordpress.org/polyglots/2025/10/24/pte-request-for-cookieyes-cookie-banner-for-cookie-consent-pl_pl-fi-and-nl_nl/)
 - [PTE Request for Synapse](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-synapse/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/10/23/i-would-like-to-request-7/)
 - [Hi WordPress translation team&lpar;s&rpar;!](https://make.wordpress.org/polyglots/2025/10/23/hi-wordpress-translation-teams/)
@@ -79,6 +78,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ‘Smart Thumbnails GW’ – fa_IR](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-smart-thumbnails-gw-fa_ir/)
 - [Request for PTE Role and…](https://make.wordpress.org/polyglots/2025/10/22/request-for-pte-role-and-2/)
 - [PTE Request for iP.1 Contact Form](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-ip-1-contact-form/)
+- [PTE Request for WooCommerce, FluentCart, EasyCommerce, Dokan, and Site Kit by Google Plugins](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-woocommerce-fluentcart-easycommerce-dokan-and-site-kit-by-google-plugins/)
 <!-- POLYGLOTS:END -->
 
 ## Support
