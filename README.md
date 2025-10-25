@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Enosi Embedder Unity](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-enosi-embedder-unity/)
+- [PTE Request for Daisy Titles and BuddyPress Plugins](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-daisy-titles-and-buddypress-plugins/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/10/24/hello-polyglots-318/)
 - [PTE Request for CookieYes – Cookie Banner for Cookie Consent &lpar;pl_PL and fi&rpar;](https://make.wordpress.org/polyglots/2025/10/24/pte-request-for-cookieyes-cookie-banner-for-cookie-consent-pl_pl-fi-and-nl_nl/)
 - [PTE Request for Synapse](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-synapse/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for CookieYes – Cookie Banner for Cookie Consent](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-cookieyes-cookie-banner-for-cookie-consent/)
 - [PTE Request for FLuentCart](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-fluentcart/)
 - [PTE Request for ‘Smart Thumbnails GW’ – fa_IR](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-smart-thumbnails-gw-fa_ir/)
-- [Request for PTE Role and…](https://make.wordpress.org/polyglots/2025/10/22/request-for-pte-role-and-2/)
-- [PTE Request for iP.1 Contact Form](https://make.wordpress.org/polyglots/2025/10/22/pte-request-for-ip-1-contact-form/)
 <!-- POLYGLOTS:END -->
 
 ## Support
