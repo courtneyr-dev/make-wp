@@ -352,6 +352,12 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Entre biberones, miedos y micrófonos: Sube al escenario aunque te tiemble la voz](https://wordpress.tv/2025/10/25/entre-biberones-miedos-y-microfonos-sube-al-escenario-aunque-te-tiemble-la-voz/)
+- [El algoritmo de la comunicación: oratoria para convencer, presentar y liderar](https://wordpress.tv/2025/10/25/el-algoritmo-de-la-comunicacion-oratoria-para-convencer-presentar-y-liderar/)
+- [¿Gestión de Proyectos o Terapia de Pareja? Cómo liderar equipos WordPress sin morir en el intento](https://wordpress.tv/2025/10/25/gestion-de-proyectos-o-terapia-de-pareja-como-liderar-equipos-wordpress-sin-morir-en-el-intento/)
+- [Una web = una oportunidad](https://wordpress.tv/2025/10/25/una-web-una-oportunidad-2/)
+- [Bienvenida y presentación WordPress en Femenino Málaga 2025](https://wordpress.tv/2025/10/25/bienvenida-y-presentacion-wordpress-en-femenino-malaga-2025/)
+- [Is WordPress playground only for developers?](https://wordpress.tv/2025/10/25/is-wordpress-playground-only-for-developers/)
 - [Una web = una oportunidad](https://wordpress.tv/2025/10/23/una-web-una-oportunidad/)
 - [Running WordPress directly from the JavaScript code with runCLI](https://wordpress.tv/2025/10/22/running-wordpress-directly-from-the-javascript-code-with-runcli/)
 - [Neurodivergencia y diseño web: crear experiencias que no sobrecarguen](https://wordpress.tv/2025/10/19/neurodivergencia-y-diseno-web-crear-experiencias-que-no-sobrecarguen/)
@@ -371,12 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sharing sites safely: anonymize data before handover – thoughts, tools, and tips](https://wordpress.tv/2025/10/19/sharing-sites-safely-anonymize-data-before-handover-thoughts-tools-and-tips/)
 - [Stop Guessing What Users Want](https://wordpress.tv/2025/10/19/stop-guessing-what-users-want/)
 - [WordPress Security Beyond Plugins](https://wordpress.tv/2025/10/19/wordpress-security-beyond-plugins/)
-- [Alati za optimizovanje developmenta i generalnu produktivnost](https://wordpress.tv/2025/10/19/alati-za-optimizovanje-developmenta-i-generalnu-produktivnost/)
-- [Više kupaca uz pristupačnost, bez većeg budžeta](https://wordpress.tv/2025/10/19/vise-kupaca-uz-pristupacnost-bez-veceg-budzeta/)
-- [SEO arhitektura otporna na sve: WordPress u visokokonkurentnim nišama](https://wordpress.tv/2025/10/19/seo-arhitektura-otporna-na-sve-wordpress-u-visokokonkurentnim-nisama/)
-- [The creation of small business websites in WordPress from scratch](https://wordpress.tv/2025/10/19/the-creation-of-small-business-websites-in-wordpress-from-scratch/)
-- [Kreiranje sadržaja u svetu AI: kako kreirati autentično i relevantno](https://wordpress.tv/2025/10/19/kreiranje-sadrzaja-u-svetu-ai-kako-kreirati-autenticno-i-relevantno/)
-- [From invisible time drains to extra profit: how to reclaim what your workflow is stealing from you](https://wordpress.tv/2025/10/19/from-invisible-time-drains-to-extra-profit-how-to-reclaim-what-your-workflow-is-stealing-from-you/)
 <!-- WPTV:END -->
 
 ## Marketing
