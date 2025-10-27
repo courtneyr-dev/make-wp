@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [वर्डप्रेस से वेबसाइट बनाना सीखें – शुरुआती लोगों के लिए](https://wordpress.tv/2025/10/27/%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a1%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8-%e0%a4%b8%e0%a5%87-%e0%a4%b5%e0%a5%87%e0%a4%ac%e0%a4%b8%e0%a4%be%e0%a4%87%e0%a4%9f-%e0%a4%ac%e0%a4%a8%e0%a4%be/)
+- [Building top-level menus &amp; sub-menus](https://wordpress.tv/2025/10/27/building-top-level-menus-sub-menus/)
 - [Entre biberones, miedos y micrófonos: Sube al escenario aunque te tiemble la voz](https://wordpress.tv/2025/10/25/entre-biberones-miedos-y-microfonos-sube-al-escenario-aunque-te-tiemble-la-voz/)
 - [El algoritmo de la comunicación: oratoria para convencer, presentar y liderar](https://wordpress.tv/2025/10/25/el-algoritmo-de-la-comunicacion-oratoria-para-convencer-presentar-y-liderar/)
 - [¿Gestión de Proyectos o Terapia de Pareja? Cómo liderar equipos WordPress sin morir en el intento](https://wordpress.tv/2025/10/25/gestion-de-proyectos-o-terapia-de-pareja-como-liderar-equipos-wordpress-sin-morir-en-el-intento/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Langweilig – und doch wichtig: Datenschutzerklärungen und Cookie-Banner](https://wordpress.tv/2025/10/19/langweilig-und-doch-wichtig-datenschutzerklarungen-und-cookie-banner/)
 - [Remote Teams: Challenges and Best Practices for Growth](https://wordpress.tv/2025/10/19/remote-teams-challenges-and-best-practices-for-growth/)
 - [Sharing sites safely: anonymize data before handover – thoughts, tools, and tips](https://wordpress.tv/2025/10/19/sharing-sites-safely-anonymize-data-before-handover-thoughts-tools-and-tips/)
-- [Stop Guessing What Users Want](https://wordpress.tv/2025/10/19/stop-guessing-what-users-want/)
-- [WordPress Security Beyond Plugins](https://wordpress.tv/2025/10/19/wordpress-security-beyond-plugins/)
 <!-- WPTV:END -->
 
 ## Marketing
