@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: Week in Test: October 27, 2025](https://make.wordpress.org/core/2025/10/27/xpost-week-in-test-october-27-2025/)
 - [X-post: Test Chat Summary: October 22nd, 2025](https://make.wordpress.org/core/2025/10/24/xpost-test-chat-summary-october-22nd-2025/)
 - [Coding Standard Proposal: Make it explicit that PHP files must use the .php extension](https://make.wordpress.org/core/2025/10/23/coding-standard-proposal-make-it-explicit-that-php-files-must-use-the-php-extension/)
 - [Summary, Dev Chat, October 22, 2025](https://make.wordpress.org/core/2025/10/22/summary-dev-chat-october-22-2025/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Testing: Accordion Block](https://make.wordpress.org/core/2025/10/06/xpost-call-for-testing-accordion-block/)
 - [X-post: Call for Testing: Ability to Hide Blocks](https://make.wordpress.org/core/2025/10/04/xpost-call-for-testing-ability-to-hide-blocks/)
 - [Summary, Dev Chat, October 1, 2025](https://make.wordpress.org/core/2025/10/02/summary-dev-chat-october-1-2025/)
-- [Dev Chat Agenda – October 1, 2025](https://make.wordpress.org/core/2025/09/30/dev-chat-agenda-october-1-2025-2/)
 <!-- CORE:END -->
 
 ## Design
