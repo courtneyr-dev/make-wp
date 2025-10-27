@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/27/request-for-bengali-pte-role-2/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-forminator-forms-2/)
 - [PTE Request for Modern Cart Starter for WooCommerce](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-modern-cart-starter-for-woocommerce/)
 - [PTE Request for Echo Knowledge Base](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-echo-knowledge-base-2/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for CookieYes – Cookie Banner for Cookie Consent &lpar;pl_PL and fi&rpar;](https://make.wordpress.org/polyglots/2025/10/24/pte-request-for-cookieyes-cookie-banner-for-cookie-consent-pl_pl-fi-and-nl_nl/)
 - [PTE Request for Synapse](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-synapse/)
 - [I would like to request…](https://make.wordpress.org/polyglots/2025/10/23/i-would-like-to-request-7/)
-- [Hi WordPress translation team&lpar;s&rpar;!](https://make.wordpress.org/polyglots/2025/10/23/hi-wordpress-translation-teams/)
 <!-- POLYGLOTS:END -->
 
 ## Support
