@@ -521,6 +521,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Skilled Full-Stack WordPress Developer &lpar;Contract/Freelancer&rpar;](https://jobs.wordpress.net/job/skilled-full-stack-wordpress-developer-contract-freelancer-2/)
+- [Creating Custom  Dashboard Access for Members](https://jobs.wordpress.net/job/creating-custom-dashboard-access-for-members/)
 - [WordPress expert front-end and back-end](https://jobs.wordpress.net/job/wordpress-expert-frontend-and-backend/)
 - [Lead Developer](https://jobs.wordpress.net/job/lead-developer-17/)
 - [Canada/U.S. only — Lean WordPress &lpar;Kadence/Core&rpar; from existing packs — evidence-first](https://jobs.wordpress.net/job/canada-u-s-only-lean-wordpress-kadence-core-from-existing-packs-evidence-first/)
@@ -529,8 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [FULL STACK WordPress developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-37/)
 - [WordPress Maintenance &amp; Optimization Specialist &lpar;Part-Time, Remote&rpar;](https://jobs.wordpress.net/job/wordpress-maintenance-optimization-specialist-part-time-remote/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-876/)
-- [WordPress Developer &lpar;React + PHP + Frontend Ninja&rpar;](https://jobs.wordpress.net/job/wordpress-developer-react-php-frontend-ninja/)
-- [PHP/Fullstack developer](https://jobs.wordpress.net/job/php-fullstack-developer/)
 <!-- JOBS:END -->
 
 ## Central
