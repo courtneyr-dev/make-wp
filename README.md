@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Zinify Theme](https://make.wordpress.org/polyglots/2025/10/28/pte-request-for-zinify-theme/)
 - [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/27/request-for-bengali-pte-role-2/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-forminator-forms-2/)
 - [PTE Request for Modern Cart Starter for WooCommerce](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-modern-cart-starter-for-woocommerce/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/10/24/hello-polyglots-318/)
 - [PTE Request for CookieYes – Cookie Banner for Cookie Consent &lpar;pl_PL and fi&rpar;](https://make.wordpress.org/polyglots/2025/10/24/pte-request-for-cookieyes-cookie-banner-for-cookie-consent-pl_pl-fi-and-nl_nl/)
 - [PTE Request for Synapse](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-synapse/)
-- [I would like to request…](https://make.wordpress.org/polyglots/2025/10/23/i-would-like-to-request-7/)
 <!-- POLYGLOTS:END -->
 
 ## Support
