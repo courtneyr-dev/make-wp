@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Two plugins in Gujarati and Hindi](https://make.wordpress.org/polyglots/2025/10/28/two-plugins-in-gujarati-and-hindi/)
+- [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2025/10/28/pte-request-for-woocommerce-13/)
 - [Hello Polyglots team!](https://make.wordpress.org/polyglots/2025/10/28/hello-polyglots-team-33/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/10/28/i-am-the-plugin-author-75/)
 - [Subscriber Manager Lite for Telegram de_CH](https://make.wordpress.org/polyglots/2025/10/28/subscriber-manager-lite-for-telegram-de_ch/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/27/request-for-bengali-pte-role-2/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-forminator-forms-2/)
 - [PTE Request for Modern Cart Starter for WooCommerce](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-modern-cart-starter-for-woocommerce/)
-- [PTE Request for Echo Knowledge Base](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-echo-knowledge-base-2/)
-- [PTE Request for Enosi Embedder Unity](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-enosi-embedder-unity/)
 <!-- POLYGLOTS:END -->
 
 ## Support
