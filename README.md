@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/10/28/i-am-the-plugin-author-75/)
 - [Subscriber Manager Lite for Telegram de_CH](https://make.wordpress.org/polyglots/2025/10/28/subscriber-manager-lite-for-telegram-de_ch/)
 - [CLPTE request for CookieYes plugin](https://make.wordpress.org/polyglots/2025/10/28/clpte-request-for-cookieyes-plugin/)
 - [PTE Request for Zinify Theme](https://make.wordpress.org/polyglots/2025/10/28/pte-request-for-zinify-theme/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Echo Knowledge Base](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-echo-knowledge-base-2/)
 - [PTE Request for Enosi Embedder Unity](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-enosi-embedder-unity/)
 - [PTE Request for Daisy Titles and BuddyPress Plugins](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-daisy-titles-and-buddypress-plugins/)
-- [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/10/24/hello-polyglots-318/)
 <!-- POLYGLOTS:END -->
 
 ## Support
