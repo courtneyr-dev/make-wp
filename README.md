@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Subscriber Manager Lite for Telegram de_CH](https://make.wordpress.org/polyglots/2025/10/28/subscriber-manager-lite-for-telegram-de_ch/)
+- [CLPTE request for CookieYes plugin](https://make.wordpress.org/polyglots/2025/10/28/clpte-request-for-cookieyes-plugin/)
 - [PTE Request for Zinify Theme](https://make.wordpress.org/polyglots/2025/10/28/pte-request-for-zinify-theme/)
 - [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/27/request-for-bengali-pte-role-2/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-forminator-forms-2/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Enosi Embedder Unity](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-enosi-embedder-unity/)
 - [PTE Request for Daisy Titles and BuddyPress Plugins](https://make.wordpress.org/polyglots/2025/10/25/pte-request-for-daisy-titles-and-buddypress-plugins/)
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2025/10/24/hello-polyglots-318/)
-- [PTE Request for CookieYes – Cookie Banner for Cookie Consent &lpar;pl_PL and fi&rpar;](https://make.wordpress.org/polyglots/2025/10/24/pte-request-for-cookieyes-cookie-banner-for-cookie-consent-pl_pl-fi-and-nl_nl/)
-- [PTE Request for Synapse](https://make.wordpress.org/polyglots/2025/10/23/pte-request-for-synapse/)
 <!-- POLYGLOTS:END -->
 
 ## Support
