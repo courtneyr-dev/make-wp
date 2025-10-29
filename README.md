@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Agenda: Weekly Polyglots Chat – October 29, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/10/29/agenda-weekly-polyglots-chat-october-29-2025-700-utc/)
 - [Two plugins in Gujarati and Hindi](https://make.wordpress.org/polyglots/2025/10/28/two-plugins-in-gujarati-and-hindi/)
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2025/10/28/pte-request-for-woocommerce-13/)
 - [Hello Polyglots team!](https://make.wordpress.org/polyglots/2025/10/28/hello-polyglots-team-33/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Zinify Theme](https://make.wordpress.org/polyglots/2025/10/28/pte-request-for-zinify-theme/)
 - [Request for Bengali PTE Role…](https://make.wordpress.org/polyglots/2025/10/27/request-for-bengali-pte-role-2/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-forminator-forms-2/)
-- [PTE Request for Modern Cart Starter for WooCommerce](https://make.wordpress.org/polyglots/2025/10/27/pte-request-for-modern-cart-starter-for-woocommerce/)
 <!-- POLYGLOTS:END -->
 
 ## Support
