@@ -153,6 +153,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [The Plugin Check Plugin now creates automatic security reports after each plugin update](https://make.wordpress.org/plugins/2025/10/29/plugin-check-plugin-now-creates-automatic-security-reports-update/)
 - [Stats of Plugins Team after WordCamp US](https://make.wordpress.org/plugins/2025/08/31/stats-of-plugins-team-after-wordcamp-us/)
 - [Plugin Rollout: Phased Releases](https://make.wordpress.org/plugins/2025/08/11/plugin-rollout-phased-releases/)
 - [Requiring the README to be written in English](https://make.wordpress.org/plugins/2025/07/28/requiring-the-readme-to-be-written-in-english/)
@@ -162,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Criteria for Creating or Migrating Repositories under the WordPress GitHub Organization](https://make.wordpress.org/plugins/2025/06/04/xpost-criteria-for-creating-or-migrating-repositories-under-the-wordpress-github-organization/)
 - [Plugins Team at WCEU 25 | Contributor Day](https://make.wordpress.org/plugins/2025/05/29/plugins-team-at-wceu-25-contributor-day/)
 - [Announcing the Next Plugin Review Team Reps](https://make.wordpress.org/plugins/2025/05/26/announcing-the-next-plugin-review-team-reps/)
-- [The WordPress Ecosystem is Growing: New Plugin Submissions Have Doubled in 2025](https://make.wordpress.org/plugins/2025/05/21/the-wordpress-ecosystem-is-growing-new-plugin-submissions-have-doubled-in-2025/)
 <!-- PLUGINS:END -->
 
 ## Community
