@@ -530,7 +530,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Front-End WordPress Developer – Tailwind Specialist](https://jobs.wordpress.net/job/senior-front-end-wordpress-developer-tailwind-specialist/)
 - [FULL STACK WordPress developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-37/)
 - [WordPress Maintenance &amp; Optimization Specialist &lpar;Part-Time, Remote&rpar;](https://jobs.wordpress.net/job/wordpress-maintenance-optimization-specialist-part-time-remote/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-876/)
+- [WordPress Developer &lpar;React + PHP + Frontend Ninja&rpar;](https://jobs.wordpress.net/job/wordpress-developer-react-php-frontend-ninja/)
 <!-- JOBS:END -->
 
 ## Central
