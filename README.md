@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Diseña webs con IA: de la Idea al Sitio en tiempo récord](https://wordpress.tv/2025/10/29/disena-webs-con-ia-de-la-idea-al-sitio-en-tiempo-record/)
 - [Decir NO: una herramienta infravalorada para sobrevivir al emprendimiento](https://wordpress.tv/2025/10/27/decir-no-una-herramienta-infravalorada-para-sobrevivir-al-emprendimiento/)
 - [वर्डप्रेस से वेबसाइट बनाना सीखें – शुरुआती लोगों के लिए](https://wordpress.tv/2025/10/27/%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a1%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8-%e0%a4%b8%e0%a5%87-%e0%a4%b5%e0%a5%87%e0%a4%ac%e0%a4%b8%e0%a4%be%e0%a4%87%e0%a4%9f-%e0%a4%ac%e0%a4%a8%e0%a4%be/)
 - [Building top-level menus &amp; sub-menus](https://wordpress.tv/2025/10/27/building-top-level-menus-sub-menus/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cómo colaborar con un desarrollador para llevar tu diseño a medida a WordPress](https://wordpress.tv/2025/10/19/como-colaborar-con-un-desarrollador-para-llevar-tu-diseno-a-medida-a-wordpress/)
 - [Collateral Damage im Cookie-Krieg: So bändigst du die Consent Technik](https://wordpress.tv/2025/10/19/collateral-damage-im-cookie-krieg-so-bandigst-du-die-consent-technik/)
 - [Langweilig – und doch wichtig: Datenschutzerklärungen und Cookie-Banner](https://wordpress.tv/2025/10/19/langweilig-und-doch-wichtig-datenschutzerklarungen-und-cookie-banner/)
-- [Remote Teams: Challenges and Best Practices for Growth](https://wordpress.tv/2025/10/19/remote-teams-challenges-and-best-practices-for-growth/)
 <!-- WPTV:END -->
 
 ## Marketing
