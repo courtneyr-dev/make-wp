@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/10/30/hi-polyglots-team-22/)
 - [OpenAI’s gpt-4.1* and gpt-5* models are available at translate.wordpress.org](https://make.wordpress.org/polyglots/2025/10/30/openais-gpt-4-1-and-gpt-5-models-are-available-at-translate-wordpress-org/)
 - [PTE Request for Zinify Theme](https://make.wordpress.org/polyglots/2025/10/29/pte-request-for-zinify-theme-2/)
 - [Agenda: Weekly Polyglots Chat – October 29, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/10/29/agenda-weekly-polyglots-chat-october-29-2025-700-utc/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/10/28/i-am-the-plugin-author-75/)
 - [Subscriber Manager Lite for Telegram de_CH](https://make.wordpress.org/polyglots/2025/10/28/subscriber-manager-lite-for-telegram-de_ch/)
 - [CLPTE request for CookieYes plugin](https://make.wordpress.org/polyglots/2025/10/28/clpte-request-for-cookieyes-plugin/)
-- [PTE Request for Zinify Theme](https://make.wordpress.org/polyglots/2025/10/28/pte-request-for-zinify-theme/)
 <!-- POLYGLOTS:END -->
 
 ## Support
