@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [WordCamp IPv6 not using LE SSL certs.](https://make.wordpress.org/systems/2025/10/31/wordcamp-ipv6-not-using-le-ssl-certs/)
 - [SMTP access for Mercantile.](https://make.wordpress.org/systems/2025/10/27/smtp-access-for-mercantile/)
 - [Domain Redirect Request](https://make.wordpress.org/systems/2025/09/12/domain-redirect-request/)
 - [Domain forwarding: `wordpress.{ong,ngo}` =&gt; foundation donations](https://make.wordpress.org/systems/2025/09/10/domain-forwarding-wordpress-ongngo-foundation-donations/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proxy access – webtechpooja](https://make.wordpress.org/systems/2025/07/08/proxy-access-webtechpooja/)
 - [WordPress Campus Connect – ms-files rule missed](https://make.wordpress.org/systems/2025/06/30/wordpress-campus-connect-ms-files-rule-missed/)
 - [Plugins pre-commit block request](https://make.wordpress.org/systems/2025/06/20/plugins-pre-commit-block-request/)
-- [Facebook Sharer blocked from ps.w.org CDN](https://make.wordpress.org/systems/2025/05/27/facebook-sharer-blocked-from-ps-w-org-cdn/)
 <!-- SYSTEMS:END -->
 
 ## News
