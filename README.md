@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress 6.8 Features in Action + 6.9 Sneak Peek: A Hands-On Workshop](https://wordpress.tv/2025/10/31/wordpress-6-8-features-in-action-6-9-sneak-peek-a-hands-on-workshop/)
+- [De tu web al mundo: claves para dar el salto internacional con éxito](https://wordpress.tv/2025/10/31/de-tu-web-al-mundo-claves-para-dar-el-salto-internacional-con-exito/)
+- [Convertir en Black Friday. Técnicas, psicología y plugins impulsar tu Ecommerce](https://wordpress.tv/2025/10/31/convertir-en-black-friday-tecnicas-psicologia-y-plugins-impulsar-tu-ecommerce/)
+- [WordPress + IA + RGPD: cómo blindar tu web y vender sin miedo](https://wordpress.tv/2025/10/31/wordpress-ia-rgpd-como-blindar-tu-web-y-vender-sin-miedo/)
 - [How to contribute to WordPress](https://wordpress.tv/2025/10/30/how-to-contribute-to-wordpress/)
 - [Diseña webs con IA: de la Idea al Sitio en tiempo récord](https://wordpress.tv/2025/10/29/disena-webs-con-ia-de-la-idea-al-sitio-en-tiempo-record/)
 - [Decir NO: una herramienta infravalorada para sobrevivir al emprendimiento](https://wordpress.tv/2025/10/27/decir-no-una-herramienta-infravalorada-para-sobrevivir-al-emprendimiento/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Diseñar para todas: sostenibilidad, feminismo y accesibilidad en entornos digitales](https://wordpress.tv/2025/10/19/disenar-para-todas-sostenibilidad-feminismo-y-accesibilidad-en-entornos-digitales/)
 - [Tu audiencia es más diversa de lo que crees](https://wordpress.tv/2025/10/19/tu-audiencia-es-mas-diversa-de-lo-que-crees/)
 - [Custom Post Types al descubierto](https://wordpress.tv/2025/10/19/custom-post-types-al-descubierto/)
-- [CSS: todo lo que no sabías que necesitabas](https://wordpress.tv/2025/10/19/css-todo-lo-que-no-sabias-que-necesitabas/)
-- [Cómo colaborar con una diseñadora para transformar un diseño a medida en WordPress](https://wordpress.tv/2025/10/19/como-colaborar-con-una-disenadora-para-transformar-un-diseno-a-medida-en-wordpress/)
-- [Cómo colaborar con un desarrollador para llevar tu diseño a medida a WordPress](https://wordpress.tv/2025/10/19/como-colaborar-con-un-desarrollador-para-llevar-tu-diseno-a-medida-a-wordpress/)
-- [Collateral Damage im Cookie-Krieg: So bändigst du die Consent Technik](https://wordpress.tv/2025/10/19/collateral-damage-im-cookie-krieg-so-bandigst-du-die-consent-technik/)
 <!-- WPTV:END -->
 
 ## Marketing
