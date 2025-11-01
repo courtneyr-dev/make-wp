@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Give Directions Plugin &lpar;Japanese Locale&rpar;](https://make.wordpress.org/polyglots/2025/11/01/pte-request-for-give-directions-plugin-japanese-locale/)
 - [I’d like to request PTE…](https://make.wordpress.org/polyglots/2025/10/31/id-like-to-request-pte/)
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/10/31/pte-request-for-following-themes-8/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/10/30/hi-polyglots-team-22/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Two plugins in Gujarati and Hindi](https://make.wordpress.org/polyglots/2025/10/28/two-plugins-in-gujarati-and-hindi/)
 - [PTE Request for WooCommerce](https://make.wordpress.org/polyglots/2025/10/28/pte-request-for-woocommerce-13/)
 - [Hello Polyglots team!](https://make.wordpress.org/polyglots/2025/10/28/hello-polyglots-team-33/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/10/28/i-am-the-plugin-author-75/)
 <!-- POLYGLOTS:END -->
 
 ## Support
