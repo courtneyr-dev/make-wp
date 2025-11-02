@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Gli altri innovano, l’Europa regola: NIS2 dal punto di vista di una micro-agenzia](https://wordpress.tv/2025/11/02/gli-altri-innovano-leuropa-regola-nis2-dal-punto-di-vista-di-una-micro-agenzia/)
+- [Il tuo sito parla davvero a chiunque?](https://wordpress.tv/2025/11/02/il-tuo-sito-parla-davvero-a-chiunque/)
+- [From reactive to proactive: modern observability for WordPress](https://wordpress.tv/2025/11/02/from-reactive-to-proactive-modern-observability-for-wordpress/)
 - [Oltre l’estetica: come progettare identità visive accessibili](https://wordpress.tv/2025/11/02/oltre-lestetica-come-progettare-identita-visive-accessibili/)
 - [Una vacanza con prezzo ballerino](https://wordpress.tv/2025/11/02/una-vacanza-con-prezzo-ballerino/)
 - [From hours to seconds: how AI is changing everything inside WordPress](https://wordpress.tv/2025/11/02/from-hours-to-seconds-how-ai-is-changing-everything-inside-wordpress/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Diseña webs con IA: de la Idea al Sitio en tiempo récord](https://wordpress.tv/2025/10/29/disena-webs-con-ia-de-la-idea-al-sitio-en-tiempo-record/)
 - [Decir NO: una herramienta infravalorada para sobrevivir al emprendimiento](https://wordpress.tv/2025/10/27/decir-no-una-herramienta-infravalorada-para-sobrevivir-al-emprendimiento/)
 - [वर्डप्रेस से वेबसाइट बनाना सीखें – शुरुआती लोगों के लिए](https://wordpress.tv/2025/10/27/%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a1%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8-%e0%a4%b8%e0%a5%87-%e0%a4%b5%e0%a5%87%e0%a4%ac%e0%a4%b8%e0%a4%be%e0%a4%87%e0%a4%9f-%e0%a4%ac%e0%a4%a8%e0%a4%be/)
-- [Building top-level menus &amp; sub-menus](https://wordpress.tv/2025/10/27/building-top-level-menus-sub-menus/)
-- [Entre biberones, miedos y micrófonos: Sube al escenario aunque te tiemble la voz](https://wordpress.tv/2025/10/25/entre-biberones-miedos-y-microfonos-sube-al-escenario-aunque-te-tiemble-la-voz/)
-- [El algoritmo de la comunicación: oratoria para convencer, presentar y liderar](https://wordpress.tv/2025/10/25/el-algoritmo-de-la-comunicacion-oratoria-para-convencer-presentar-y-liderar/)
 <!-- WPTV:END -->
 
 ## Marketing
