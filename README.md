@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Come aumentare le conversioni del tuo ecommerce, checkout al pari di Shopify e Amazon](https://wordpress.tv/2025/11/02/come-aumentare-le-conversioni-del-tuo-ecommerce-checkout-al-pari-di-shopify-e-amazon/)
+- [Tema accessibile in 10 minuti, si può fare?Tema accessibile in 10 minuti, si può fare?](https://wordpress.tv/2025/11/02/tema-accessibile-in-10-minuti-si-puo-faretema-accessibile-in-10-minuti-si-puo-fare/)
 - [Velocizzare WordPress e ACF con un sistema di cache transient intelligente](https://wordpress.tv/2025/11/02/velocizzare-wordpress-e-acf-con-un-sistema-di-cache-transient-intelligente/)
 - [Chi scrive il codice? L’era dell’IA tra hype, paure e responsabilità](https://wordpress.tv/2025/11/02/chi-scrive-il-codice-lera-dellia-tra-hype-paure-e-responsabilita/)
 - [The complete observability stack for your WordPress sites](https://wordpress.tv/2025/11/02/the-complete-observability-stack-for-your-wordpress-sites/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [¿Gestión de Proyectos o Terapia de Pareja? Cómo liderar equipos WordPress sin morir en el intento](https://wordpress.tv/2025/10/25/gestion-de-proyectos-o-terapia-de-pareja-como-liderar-equipos-wordpress-sin-morir-en-el-intento/)
 - [Una web = una oportunidad](https://wordpress.tv/2025/10/25/una-web-una-oportunidad-2/)
 - [Bienvenida y presentación WordPress en Femenino Málaga 2025](https://wordpress.tv/2025/10/25/bienvenida-y-presentacion-wordpress-en-femenino-malaga-2025/)
-- [Is WordPress playground only for developers?](https://wordpress.tv/2025/10/25/is-wordpress-playground-only-for-developers/)
-- [Una web = una oportunidad](https://wordpress.tv/2025/10/23/una-web-una-oportunidad/)
 <!-- WPTV:END -->
 
 ## Marketing
