@@ -352,6 +352,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nomadi digitali e lavoratori da remoto: strategie, strumenti e modelli di business](https://wordpress.tv/2025/11/02/nomadi-digitali-e-lavoratori-da-remoto-strategie-strumenti-e-modelli-di-business/)
+- [An easier way to build an online course in WordPress &lpar;without a LMS&rpar;](https://wordpress.tv/2025/11/02/an-easier-way-to-build-an-online-course-in-wordpress-without-a-lms/)
+- [Migliorare WordPress Multisite](https://wordpress.tv/2025/11/02/migliorare-wordpress-multisite/)
+- [Contribuzione e accessibilità: non è &lpar;solo&rpar; una questione di strumenti](https://wordpress.tv/2025/11/02/contribuzione-e-accessibilita-non-e-solo-una-questione-di-strumenti/)
 - [Da Child Theme a FSE: un caso studio](https://wordpress.tv/2025/11/02/da-child-theme-a-fse-un-caso-studio/)
 - [Gli altri innovano, l’Europa regola: NIS2 dal punto di vista di una micro-agenzia](https://wordpress.tv/2025/11/02/gli-altri-innovano-leuropa-regola-nis2-dal-punto-di-vista-di-una-micro-agenzia/)
 - [Il tuo sito parla davvero a chiunque?](https://wordpress.tv/2025/11/02/il-tuo-sito-parla-davvero-a-chiunque/)
@@ -373,10 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.8 Features in Action + 6.9 Sneak Peek: A Hands-On Workshop](https://wordpress.tv/2025/10/31/wordpress-6-8-features-in-action-6-9-sneak-peek-a-hands-on-workshop/)
 - [De tu web al mundo: claves para dar el salto internacional con éxito](https://wordpress.tv/2025/10/31/de-tu-web-al-mundo-claves-para-dar-el-salto-internacional-con-exito/)
 - [Convertir en Black Friday. Técnicas, psicología y plugins impulsar tu Ecommerce](https://wordpress.tv/2025/10/31/convertir-en-black-friday-tecnicas-psicologia-y-plugins-impulsar-tu-ecommerce/)
-- [WordPress + IA + RGPD: cómo blindar tu web y vender sin miedo](https://wordpress.tv/2025/10/31/wordpress-ia-rgpd-como-blindar-tu-web-y-vender-sin-miedo/)
-- [How to contribute to WordPress](https://wordpress.tv/2025/10/30/how-to-contribute-to-wordpress/)
-- [Diseña webs con IA: de la Idea al Sitio en tiempo récord](https://wordpress.tv/2025/10/29/disena-webs-con-ia-de-la-idea-al-sitio-en-tiempo-record/)
-- [Decir NO: una herramienta infravalorada para sobrevivir al emprendimiento](https://wordpress.tv/2025/10/27/decir-no-una-herramienta-infravalorada-para-sobrevivir-al-emprendimiento/)
 <!-- WPTV:END -->
 
 ## Marketing
