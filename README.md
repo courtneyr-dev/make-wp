@@ -195,6 +195,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Nomination for 2026 Training Team Reps](https://make.wordpress.org/training/2025/11/02/nomination-for-2026-training-team-reps/)
 - [X-post: Call for Developers: WordPress Events Tooling Improvements](https://make.wordpress.org/training/2025/10/26/xpost-call-for-developers-wordpress-events-tooling-improvements/)
 - [Training Team Meeting Recap – 21st October 2025](https://make.wordpress.org/training/2025/10/26/training-team-meeting-recap-21st-october-2025/)
 - [আপনার ব্লক এডিটর যাত্রার প্রথম ধাপ: Block Editor Basics Course Cohort in Bengali](https://make.wordpress.org/training/2025/10/23/block-editor-basics-course-cohort-in-bengali/)
@@ -204,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Cohort Block Editor Basics: what we learned — and what’s next](https://make.wordpress.org/training/2025/10/04/cohort-block-editor-basics-what-we-learned-and-whats-next/)
 - [X-post: Training Team Update – October 1, 2025](https://make.wordpress.org/training/2025/10/01/xpost-training-team-update-october-1-2025/)
 - [X-post: Looking for a Russian translation reviewer for the Learn WordPress content](https://make.wordpress.org/training/2025/09/30/xpost-looking-for-a-russian-translation-reviewer-for-the-learn-wordpress-content/)
-- [Training Team Meeting Recap – 23rd September 2025](https://make.wordpress.org/training/2025/09/29/training-team-meeting-recap-23rd-september-2025/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
