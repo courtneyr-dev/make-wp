@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mind hacks to spark creativity in logical thinkers](https://wordpress.tv/2025/11/02/mind-hacks-to-spark-creativity-in-logical-thinkers-2/)
+- [European Accessibilty Act. Facciamo ordine tra falsi miti e fake news.](https://wordpress.tv/2025/11/02/european-accessibilty-act-facciamo-ordine-tra-falsi-miti-e-fake-news/)
 - [Non ti serve &lpar;ancora&rpar; un sito web](https://wordpress.tv/2025/11/02/non-ti-serve-ancora-un-sito-web/)
 - [AccessibilNO](https://wordpress.tv/2025/11/02/accessibilno/)
 - [WordPress 6.8 Features in Action + 6.9 Sneak Peek: A Hands-On Workshop](https://wordpress.tv/2025/10/31/wordpress-6-8-features-in-action-6-9-sneak-peek-a-hands-on-workshop/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [El Espejismo de la Accesibilidad Instantánea: Una Guía para Ver la Realidad](https://wordpress.tv/2025/10/19/el-espejismo-de-la-accesibilidad-instantanea-una-guia-para-ver-la-realidad/)
 - [Emprendedoras expatriadas: Negocios y Hobbygocios](https://wordpress.tv/2025/10/19/emprendedoras-expatriadas-negocios-y-hobbygocios/)
 - [WordPress Without Borders: Building a Global Enterprise from a Non-Traditional Path](https://wordpress.tv/2025/10/19/wordpress-without-borders-building-a-global-enterprise-from-a-non-traditional-path/)
-- [AI as the Great Equalizer, practical applications for more inclusive WordPress](https://wordpress.tv/2025/10/19/ai-as-the-great-equalizer-practical-applications-for-more-inclusive-wordpress/)
-- [Diseñar para todas: sostenibilidad, feminismo y accesibilidad en entornos digitales](https://wordpress.tv/2025/10/19/disenar-para-todas-sostenibilidad-feminismo-y-accesibilidad-en-entornos-digitales/)
 <!-- WPTV:END -->
 
 ## Marketing
