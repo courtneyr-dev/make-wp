@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Oltre l’estetica: come progettare identità visive accessibili](https://wordpress.tv/2025/11/02/oltre-lestetica-come-progettare-identita-visive-accessibili/)
+- [Una vacanza con prezzo ballerino](https://wordpress.tv/2025/11/02/una-vacanza-con-prezzo-ballerino/)
+- [From hours to seconds: how AI is changing everything inside WordPress](https://wordpress.tv/2025/11/02/from-hours-to-seconds-how-ai-is-changing-everything-inside-wordpress/)
 - [Come aumentare le conversioni del tuo ecommerce, checkout al pari di Shopify e Amazon](https://wordpress.tv/2025/11/02/come-aumentare-le-conversioni-del-tuo-ecommerce-checkout-al-pari-di-shopify-e-amazon/)
 - [Tema accessibile in 10 minuti, si può fare?Tema accessibile in 10 minuti, si può fare?](https://wordpress.tv/2025/11/02/tema-accessibile-in-10-minuti-si-puo-faretema-accessibile-in-10-minuti-si-puo-fare/)
 - [Velocizzare WordPress e ACF con un sistema di cache transient intelligente](https://wordpress.tv/2025/11/02/velocizzare-wordpress-e-acf-con-un-sistema-di-cache-transient-intelligente/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building top-level menus &amp; sub-menus](https://wordpress.tv/2025/10/27/building-top-level-menus-sub-menus/)
 - [Entre biberones, miedos y micrófonos: Sube al escenario aunque te tiemble la voz](https://wordpress.tv/2025/10/25/entre-biberones-miedos-y-microfonos-sube-al-escenario-aunque-te-tiemble-la-voz/)
 - [El algoritmo de la comunicación: oratoria para convencer, presentar y liderar](https://wordpress.tv/2025/10/25/el-algoritmo-de-la-comunicacion-oratoria-para-convencer-presentar-y-liderar/)
-- [¿Gestión de Proyectos o Terapia de Pareja? Cómo liderar equipos WordPress sin morir en el intento](https://wordpress.tv/2025/10/25/gestion-de-proyectos-o-terapia-de-pareja-como-liderar-equipos-wordpress-sin-morir-en-el-intento/)
-- [Una web = una oportunidad](https://wordpress.tv/2025/10/25/una-web-una-oportunidad-2/)
-- [Bienvenida y presentación WordPress en Femenino Málaga 2025](https://wordpress.tv/2025/10/25/bienvenida-y-presentacion-wordpress-en-femenino-malaga-2025/)
 <!-- WPTV:END -->
 
 ## Marketing
