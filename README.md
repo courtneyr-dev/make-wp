@@ -352,6 +352,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Velocizzare WordPress e ACF con un sistema di cache transient intelligente](https://wordpress.tv/2025/11/02/velocizzare-wordpress-e-acf-con-un-sistema-di-cache-transient-intelligente/)
+- [Chi scrive il codice? L’era dell’IA tra hype, paure e responsabilità](https://wordpress.tv/2025/11/02/chi-scrive-il-codice-lera-dellia-tra-hype-paure-e-responsabilita/)
+- [The complete observability stack for your WordPress sites](https://wordpress.tv/2025/11/02/the-complete-observability-stack-for-your-wordpress-sites/)
+- [Customer journey narrativo: trasformare il tuo sito turistico WordPress in un percorso coinvolgente](https://wordpress.tv/2025/11/02/customer-journey-narrativo-trasformare-il-tuo-sito-turistico-wordpress-in-un-percorso-coinvolgente/)
+- [Making websites user-friendly not machine friendly](https://wordpress.tv/2025/11/02/making-websites-user-friendly-not-machine-friendly/)
 - [Mind hacks to spark creativity in logical thinkers](https://wordpress.tv/2025/11/02/mind-hacks-to-spark-creativity-in-logical-thinkers-2/)
 - [European Accessibilty Act. Facciamo ordine tra falsi miti e fake news.](https://wordpress.tv/2025/11/02/european-accessibilty-act-facciamo-ordine-tra-falsi-miti-e-fake-news/)
 - [Non ti serve &lpar;ancora&rpar; un sito web](https://wordpress.tv/2025/11/02/non-ti-serve-ancora-un-sito-web/)
@@ -372,11 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Bienvenida y presentación WordPress en Femenino Málaga 2025](https://wordpress.tv/2025/10/25/bienvenida-y-presentacion-wordpress-en-femenino-malaga-2025/)
 - [Is WordPress playground only for developers?](https://wordpress.tv/2025/10/25/is-wordpress-playground-only-for-developers/)
 - [Una web = una oportunidad](https://wordpress.tv/2025/10/23/una-web-una-oportunidad/)
-- [Running WordPress directly from the JavaScript code with runCLI](https://wordpress.tv/2025/10/22/running-wordpress-directly-from-the-javascript-code-with-runcli/)
-- [Neurodivergencia y diseño web: crear experiencias que no sobrecarguen](https://wordpress.tv/2025/10/19/neurodivergencia-y-diseno-web-crear-experiencias-que-no-sobrecarguen/)
-- [El Espejismo de la Accesibilidad Instantánea: Una Guía para Ver la Realidad](https://wordpress.tv/2025/10/19/el-espejismo-de-la-accesibilidad-instantanea-una-guia-para-ver-la-realidad/)
-- [Emprendedoras expatriadas: Negocios y Hobbygocios](https://wordpress.tv/2025/10/19/emprendedoras-expatriadas-negocios-y-hobbygocios/)
-- [WordPress Without Borders: Building a Global Enterprise from a Non-Traditional Path](https://wordpress.tv/2025/10/19/wordpress-without-borders-building-a-global-enterprise-from-a-non-traditional-path/)
 <!-- WPTV:END -->
 
 ## Marketing
