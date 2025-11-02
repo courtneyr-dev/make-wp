@@ -352,6 +352,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Non ti serve &lpar;ancora&rpar; un sito web](https://wordpress.tv/2025/11/02/non-ti-serve-ancora-un-sito-web/)
+- [AccessibilNO](https://wordpress.tv/2025/11/02/accessibilno/)
 - [WordPress 6.8 Features in Action + 6.9 Sneak Peek: A Hands-On Workshop](https://wordpress.tv/2025/10/31/wordpress-6-8-features-in-action-6-9-sneak-peek-a-hands-on-workshop/)
 - [De tu web al mundo: claves para dar el salto internacional con éxito](https://wordpress.tv/2025/10/31/de-tu-web-al-mundo-claves-para-dar-el-salto-internacional-con-exito/)
 - [Convertir en Black Friday. Técnicas, psicología y plugins impulsar tu Ecommerce](https://wordpress.tv/2025/10/31/convertir-en-black-friday-tecnicas-psicologia-y-plugins-impulsar-tu-ecommerce/)
@@ -375,8 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Without Borders: Building a Global Enterprise from a Non-Traditional Path](https://wordpress.tv/2025/10/19/wordpress-without-borders-building-a-global-enterprise-from-a-non-traditional-path/)
 - [AI as the Great Equalizer, practical applications for more inclusive WordPress](https://wordpress.tv/2025/10/19/ai-as-the-great-equalizer-practical-applications-for-more-inclusive-wordpress/)
 - [Diseñar para todas: sostenibilidad, feminismo y accesibilidad en entornos digitales](https://wordpress.tv/2025/10/19/disenar-para-todas-sostenibilidad-feminismo-y-accesibilidad-en-entornos-digitales/)
-- [Tu audiencia es más diversa de lo que crees](https://wordpress.tv/2025/10/19/tu-audiencia-es-mas-diversa-de-lo-que-crees/)
-- [Custom Post Types al descubierto](https://wordpress.tv/2025/10/19/custom-post-types-al-descubierto/)
 <!-- WPTV:END -->
 
 ## Marketing
