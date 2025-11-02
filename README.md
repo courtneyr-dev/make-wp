@@ -69,7 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
-- [PTE request for cs_CZ lokale for plugin StoreEngine](https://make.wordpress.org/polyglots/2025/11/02/pte-request-for-cs_cz-lokale-for-plugin-storeengine/)
+- [PTE Request for beckin-post-notes](https://make.wordpress.org/polyglots/2025/11/02/pte-request-for-beckin-post-notes/)
+- [PTE request for cs_CZ locale for multiple plugins](https://make.wordpress.org/polyglots/2025/11/02/pte-request-for-cs_cz-lokale-for-plugin-storeengine/)
 - [Hello Polyglots team, I’ve completed…](https://make.wordpress.org/polyglots/2025/11/01/hello-polyglots-team-ive-completed/)
 - [PTE Request for Give Directions Plugin &lpar;Japanese Locale&rpar;](https://make.wordpress.org/polyglots/2025/11/01/pte-request-for-give-directions-plugin-japanese-locale/)
 - [I’d like to request PTE…](https://make.wordpress.org/polyglots/2025/10/31/id-like-to-request-pte/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [OpenAI’s gpt-4.1* and gpt-5* models are available at translate.wordpress.org](https://make.wordpress.org/polyglots/2025/10/30/openais-gpt-4-1-and-gpt-5-models-are-available-at-translate-wordpress-org/)
 - [PTE Request for Zinify Theme](https://make.wordpress.org/polyglots/2025/10/29/pte-request-for-zinify-theme-2/)
 - [Agenda: Weekly Polyglots Chat – October 29, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/10/29/agenda-weekly-polyglots-chat-october-29-2025-700-utc/)
-- [Two plugins in Gujarati and Hindi](https://make.wordpress.org/polyglots/2025/10/28/two-plugins-in-gujarati-and-hindi/)
 <!-- POLYGLOTS:END -->
 
 ## Support
