@@ -125,6 +125,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/boot](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-boot/)
 - [@wordpress/wp-build](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-wp-build/)
 - [@wordpress/global-styles-ui](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-global-styles-ui/)
 - [@wordpress/theme](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-theme/)
@@ -134,7 +135,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [@wordpress/views](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-views/)
 - [Gutenberg plugin releases](https://developer.wordpress.org/block-editor/contributors/code/release/plugin-release/)
 - [Packages releases to NPM and WordPress Core updates](https://developer.wordpress.org/block-editor/contributors/code/release/package-release-and-core-updates/)
-- [DateCalendar](https://developer.wordpress.org/block-editor/reference-guides/components/date-calendar/)
 <!-- DEVHUB:END -->
 
 ## Themes
