@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Monthly Education Buzz Report – October 2025](https://make.wordpress.org/community/2025/11/03/monthly-education-buzz-report-october-2025/)
 - [WordPress Campus Connect Cartago COVAO 2025](https://make.wordpress.org/community/2025/10/28/wordpress-campus-connect-cartago-covao-2025/)
 - [WordCamp Islamabad 2025 – A Celebration of Learning, Contribution, and Community](https://make.wordpress.org/community/2025/10/28/wordcamp-islamabad-2025-a-celebration-of-learning-contribution-and-community/)
 - [Call for Developers: WordPress Events Tooling Improvements](https://make.wordpress.org/community/2025/10/24/call-for-developers-wordpress-events-tooling-improvements/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Team Meeting Agenda for 09 – October -2025](https://make.wordpress.org/community/2025/10/07/community-team-meeting-agenda-for-09-october-2025/)
 - [Reporting a Misappropriation of Funds](https://make.wordpress.org/community/2025/10/01/reporting-a-misappropriation-of-funds/)
 - [WordPress and Higher Education: An Alliance that Transforms](https://make.wordpress.org/community/2025/09/29/wordpress-and-higher-education-an-alliance-that-transforms/)
-- [Call for Mentors: Join WordPress Credits](https://make.wordpress.org/community/2025/09/19/call-for-mentors/)
 <!-- COMMUNITY:END -->
 
 ## Meta
