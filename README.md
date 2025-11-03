@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/11/03/hi-dear-mentors-we-have-187/)
 - [PTE Request for ShopWay Theme](https://make.wordpress.org/polyglots/2025/11/03/pte-request-for-shopway-theme-2/)
 - [PTE Request for beckin-post-notes](https://make.wordpress.org/polyglots/2025/11/02/pte-request-for-beckin-post-notes/)
 - [PTE request for cs_CZ locale for multiple plugins](https://make.wordpress.org/polyglots/2025/11/02/pte-request-for-cs_cz-lokale-for-plugin-storeengine/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/10/31/pte-request-for-following-themes-8/)
 - [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/10/30/hi-polyglots-team-22/)
 - [OpenAI’s gpt-4.1* and gpt-5* models are available at translate.wordpress.org](https://make.wordpress.org/polyglots/2025/10/30/openais-gpt-4-1-and-gpt-5-models-are-available-at-translate-wordpress-org/)
-- [PTE Request for Zinify Theme](https://make.wordpress.org/polyglots/2025/10/29/pte-request-for-zinify-theme-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
