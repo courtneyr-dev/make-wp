@@ -97,6 +97,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Rethinking Contributor Recognition in Documentation Team](https://make.wordpress.org/docs/2025/11/04/rethinking-contributor-recognition-in-documentation-team/)
 - [X-post: Documentation Team Update – November 3, 2025](https://make.wordpress.org/docs/2025/11/03/xpost-documentation-team-update-november-3-2025/)
 - [X-post: Documentation Team Update – October 21, 2025](https://make.wordpress.org/docs/2025/10/21/xpost-documentation-team-update-october-21-2025/)
 - [X-post: Documentation Team Update – October 14, 2025](https://make.wordpress.org/docs/2025/10/14/xpost-documentation-team-update-october-14-2025/)
@@ -106,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Mentors](https://make.wordpress.org/docs/2025/09/19/xpost-call-for-mentors/)
 - [Summary of Docs Team meeting September 16, 2025](https://make.wordpress.org/docs/2025/09/18/summary-of-docs-team-meeting-september-16-2025/)
 - [Online monthly Docs Team Contributor Day September 23, 2025](https://make.wordpress.org/docs/2025/09/18/online-monthly-docs-team-contributor-day-september-23-2025/)
-- [Summary of Docs Team meeting September 9, 2025](https://make.wordpress.org/docs/2025/09/16/summary-of-docs-team-meeting-septermber-9-2025/)
 <!-- DOCS:END -->
 
 ### Support Articles
