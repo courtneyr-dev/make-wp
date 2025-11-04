@@ -139,6 +139,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Nominations Call for the themes team representatives: 2026 Edition](https://make.wordpress.org/themes/2025/11/04/nominations-call-for-the-themes-team-representatives-2026-edition/)
 - [Themes team meeting notes for September 23, 2025](https://make.wordpress.org/themes/2025/09/24/themes-team-meeting-notes-for-september-23-2025/)
 - [Themes Team Meeting Agendas for September 23, 2025](https://make.wordpress.org/themes/2025/09/23/themes-team-meeting-agendas-for-september-23-2025/)
 - [Themes team meeting notes for September 9, 2025](https://make.wordpress.org/themes/2025/09/11/themes-team-meeting-notes-for-september-9-2025/)
@@ -148,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes team meeting notes for August 12, 2025](https://make.wordpress.org/themes/2025/08/13/themes-team-meeting-notes-for-august-12-2025/)
 - [Themes Team Meeting Agendas for August 12, 2025](https://make.wordpress.org/themes/2025/08/11/themes-team-meeting-agendas-for-august-12-2025/)
 - [X-post: A Little &lpar;Late&rpar; Spring Cleaning](https://make.wordpress.org/themes/2025/06/25/xpost-a-little-late-spring-cleaning/)
-- [X-post: The Incident Response Team is looking for new members](https://make.wordpress.org/themes/2025/06/23/xpost-the-incident-response-team-is-looking-for-new-members/)
 <!-- THEMES:END -->
 
 ## Plugins
