@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Credits: Aprender contribuyendo](https://wordpress.tv/2025/11/04/wordpress-credits-aprender-contribuyendo/)
 - [Content managers: let’s make your website accessible](https://wordpress.tv/2025/11/04/content-managers-lets-make-your-website-accessible/)
 - [Nomadi digitali e lavoratori da remoto: strategie, strumenti e modelli di business](https://wordpress.tv/2025/11/02/nomadi-digitali-e-lavoratori-da-remoto-strategie-strumenti-e-modelli-di-business/)
 - [An easier way to build an online course in WordPress &lpar;without a LMS&rpar;](https://wordpress.tv/2025/11/02/an-easier-way-to-build-an-online-course-in-wordpress-without-a-lms/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Non ti serve &lpar;ancora&rpar; un sito web](https://wordpress.tv/2025/11/02/non-ti-serve-ancora-un-sito-web/)
 - [AccessibilNO](https://wordpress.tv/2025/11/02/accessibilno/)
 - [WordPress 6.8 Features in Action + 6.9 Sneak Peek: A Hands-On Workshop](https://wordpress.tv/2025/10/31/wordpress-6-8-features-in-action-6-9-sneak-peek-a-hands-on-workshop/)
-- [De tu web al mundo: claves para dar el salto internacional con éxito](https://wordpress.tv/2025/10/31/de-tu-web-al-mundo-claves-para-dar-el-salto-internacional-con-exito/)
 <!-- WPTV:END -->
 
 ## Marketing
