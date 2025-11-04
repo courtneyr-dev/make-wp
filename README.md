@@ -522,8 +522,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn-2/)
-- [Product Assistant &lpar;WordPress, Mixpanel, Google Analytics, Jira, Communication, Data Analysis, Research, Agile/Scrum methodology&rpar;](https://jobs.wordpress.net/job/product-assistant-wordpress-mixpanel-google-analytics-jira-communication-data-analysis-research-agile-scrum-methodology-4/)
-- [Hosting Support &lpar;WordPress, Linux, Ubuntu, Bash, NGINX, PHP, MySQL&rpar;](https://jobs.wordpress.net/job/hosting-support-wordpress-linux-ubuntu-bash-nginx-php-mysql-17/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-communication-sales-data-entry-google-sheets/)
 - [Skilled Full-Stack WordPress Developer &lpar;Contract/Freelancer&rpar;](https://jobs.wordpress.net/job/skilled-full-stack-wordpress-developer-contract-freelancer-2/)
 - [Creating Custom  Dashboard Access for Members](https://jobs.wordpress.net/job/creating-custom-dashboard-access-for-members/)
@@ -531,6 +529,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lead Developer](https://jobs.wordpress.net/job/lead-developer-17/)
 - [Canada/U.S. only — Lean WordPress &lpar;Kadence/Core&rpar; from existing packs — evidence-first](https://jobs.wordpress.net/job/canada-u-s-only-lean-wordpress-kadence-core-from-existing-packs-evidence-first/)
 - [migrate wix to WordPress](https://jobs.wordpress.net/job/migrate-wix-to-wordpress-2/)
+- [Senior Front-End WordPress Developer – Tailwind Specialist](https://jobs.wordpress.net/job/senior-front-end-wordpress-developer-tailwind-specialist/)
+- [FULL STACK WordPress developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-37/)
 <!-- JOBS:END -->
 
 ## Central
