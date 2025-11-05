@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [FAIR: Descentralizando la infraestructura de WordPress](https://wordpress.tv/2025/11/05/fair-descentralizando-la-infraestructura-de-wordpress/)
 - [Landing Pages, Posts, &amp; More: Strategies for a Stronger Site](https://wordpress.tv/2025/11/04/landing-pages-posts-more-strategies-for-a-stronger-site/)
 - [WordPress Credits: Aprender contribuyendo](https://wordpress.tv/2025/11/04/wordpress-credits-aprender-contribuyendo/)
 - [Content managers: let’s make your website accessible](https://wordpress.tv/2025/11/04/content-managers-lets-make-your-website-accessible/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mind hacks to spark creativity in logical thinkers](https://wordpress.tv/2025/11/02/mind-hacks-to-spark-creativity-in-logical-thinkers-2/)
 - [European Accessibilty Act. Facciamo ordine tra falsi miti e fake news.](https://wordpress.tv/2025/11/02/european-accessibilty-act-facciamo-ordine-tra-falsi-miti-e-fake-news/)
 - [Non ti serve &lpar;ancora&rpar; un sito web](https://wordpress.tv/2025/11/02/non-ti-serve-ancora-un-sito-web/)
-- [AccessibilNO](https://wordpress.tv/2025/11/02/accessibilno/)
 <!-- WPTV:END -->
 
 ## Marketing
