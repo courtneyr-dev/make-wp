@@ -69,6 +69,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the author of…](https://make.wordpress.org/polyglots/2025/11/05/i-am-the-author-of-13/)
+- [Agenda: Weekly Polyglots Chat – November 5, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/11/05/agenda-weekly-polyglots-chat-november-5-2025-1300-utc/)
+- [Help Us Translate and Review: WordPress Credits &amp; Campus Connect](https://make.wordpress.org/polyglots/2025/11/05/help-us-translate-and-review-wordpress-credits-campus-connect/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/11/03/hi-dear-mentors-we-have-187/)
 - [PTE Request for ShopWay Theme](https://make.wordpress.org/polyglots/2025/11/03/pte-request-for-shopway-theme-2/)
 - [PTE Request for beckin-post-notes](https://make.wordpress.org/polyglots/2025/11/02/pte-request-for-beckin-post-notes/)
@@ -76,9 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots team, I’ve completed…](https://make.wordpress.org/polyglots/2025/11/01/hello-polyglots-team-ive-completed/)
 - [PTE Request for Give Directions Plugin &lpar;Japanese Locale&rpar;](https://make.wordpress.org/polyglots/2025/11/01/pte-request-for-give-directions-plugin-japanese-locale/)
 - [I’d like to request PTE…](https://make.wordpress.org/polyglots/2025/10/31/id-like-to-request-pte/)
-- [PTE Request for Following Themes](https://make.wordpress.org/polyglots/2025/10/31/pte-request-for-following-themes-8/)
-- [Hi Polyglots team,](https://make.wordpress.org/polyglots/2025/10/30/hi-polyglots-team-22/)
-- [OpenAI’s gpt-4.1* and gpt-5* models are available at translate.wordpress.org](https://make.wordpress.org/polyglots/2025/10/30/openais-gpt-4-1-and-gpt-5-models-are-available-at-translate-wordpress-org/)
 <!-- POLYGLOTS:END -->
 
 ## Support
