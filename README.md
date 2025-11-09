@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/09/i-am-the-plugin-author-77/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/08/i-am-the-plugin-author-76/)
 - [PTE request for Wheel of Life into cs_CZ](https://make.wordpress.org/polyglots/2025/11/08/pte-request-for-wheel-of-life-into-cs_cz/)
 - [PTE Request for User Profile Tabs](https://make.wordpress.org/polyglots/2025/11/06/pte-request-for-user-profile-tabs/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Help Us Translate and Review: WordPress Credits &amp; Campus Connect](https://make.wordpress.org/polyglots/2025/11/05/help-us-translate-and-review-wordpress-credits-campus-connect/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/11/03/hi-dear-mentors-we-have-187/)
 - [PTE Request for ShopWay Theme](https://make.wordpress.org/polyglots/2025/11/03/pte-request-for-shopway-theme-2/)
-- [PTE Request for beckin-post-notes](https://make.wordpress.org/polyglots/2025/11/02/pte-request-for-beckin-post-notes/)
 <!-- POLYGLOTS:END -->
 
 ## Support
