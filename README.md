@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [UI/UX Plugin Designer for WordPress plugins](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins-2/)
 - [WordPress Developer – EdTech Project](https://jobs.wordpress.net/job/wordpress-developer-edtech-project/)
 - [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn-2/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-communication-sales-data-entry-google-sheets/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Lead Developer](https://jobs.wordpress.net/job/lead-developer-17/)
 - [Canada/U.S. only — Lean WordPress &lpar;Kadence/Core&rpar; from existing packs — evidence-first](https://jobs.wordpress.net/job/canada-u-s-only-lean-wordpress-kadence-core-from-existing-packs-evidence-first/)
 - [migrate wix to WordPress](https://jobs.wordpress.net/job/migrate-wix-to-wordpress-2/)
-- [FULL STACK WordPress developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-37/)
 <!-- JOBS:END -->
 
 ## Central
