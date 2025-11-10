@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Request for PTE for 1881 Number Lookup](https://make.wordpress.org/polyglots/2025/11/10/request-for-pte-for-1881-number-lookup/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/09/i-am-the-plugin-author-77/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/08/i-am-the-plugin-author-76/)
 - [PTE request for Wheel of Life into cs_CZ](https://make.wordpress.org/polyglots/2025/11/08/pte-request-for-wheel-of-life-into-cs_cz/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – November 5, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/11/05/agenda-weekly-polyglots-chat-november-5-2025-1300-utc/)
 - [Help Us Translate and Review: WordPress Credits &amp; Campus Connect](https://make.wordpress.org/polyglots/2025/11/05/help-us-translate-and-review-wordpress-credits-campus-connect/)
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2025/11/03/hi-dear-mentors-we-have-187/)
-- [PTE Request for ShopWay Theme](https://make.wordpress.org/polyglots/2025/11/03/pte-request-for-shopway-theme-2/)
 <!-- POLYGLOTS:END -->
 
 ## Support
