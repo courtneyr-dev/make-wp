@@ -535,6 +535,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Central
 <!-- Central:START -->
+- [WordPress Udupi Community Empowers 300+ Students Across Coastal Karnataka Through Campus Connect](https://central.wordcamp.org/news/2025/11/wordpress-udupi-community-empowers-300-students-across-coastal-karnataka-through-campus-connect/)
 - [Bhopal Hosts WP Build Tour 2025: Empowering 1700+ Students Across Central India](https://central.wordcamp.org/news/2025/10/bhopal-hosts-wp-build-tour-2025-empowering-1700-students-across-central-india/)
 - [Nurturing New Contributors: WordPress Kolhapur Community’s Online Contribution Series](https://central.wordcamp.org/news/2025/08/nurturing-new-contributors-wordpress-kolhapur-communitys-online-contribution-series/)
 - [First-Ever WordPress Campus Connect in Southeast Asia Kicks Off](https://central.wordcamp.org/news/2025/08/first-ever-wordpress-campus-connect-in-southeast-asia-kicks-off/)
@@ -549,7 +550,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Quarterly WordPress Event Sponsorship Report, 2016-2024 Q3](https://central.wordcamp.org/news/2024/09/quarterly-wordpress-event-sponsorship-report-2016-2024-q3/)
 - [WordCamp Jinja 2024: Diverse Speaker Sessions, Creatives and Students Camp, Workshops, Free Web Design Hackathon, fun activities and more!](https://central.wordcamp.org/news/2024/09/wordcamp-jinja-2024-diverse-speaker-sessions-creatives-and-students-camp-workshops-free-web-design-hackathon-fun-activities-and-more/)
 - [Bridging Africa’s Digital Gaps: The PayDel Summit 2024 &lpar;A WordPress Event&rpar;](https://central.wordcamp.org/news/2024/08/bridging-africas-digital-gaps-the-paydel-summit-2024-a-wordpress-event/)
-- [WordCamp Netherlands 2024 rescheduled](https://central.wordcamp.org/news/2024/08/wordcamp-netherlands-2024-rescheduled/)
 <!-- Central:END -->
 
 ### WordCamp
