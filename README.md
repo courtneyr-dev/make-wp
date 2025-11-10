@@ -352,6 +352,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Diseños que enganchan en la era de la IA: herramientas, tendencias, diseño y estrategia](https://wordpress.tv/2025/11/10/disenos-que-enganchan-en-la-era-de-la-ia-herramientas-tendencias-diseno-y-estrategia/)
+- [5 cosas que debes entender &lpar;y hacer&rpar; para que tu web convierta de verdad](https://wordpress.tv/2025/11/10/5-cosas-que-debes-entender-y-hacer-para-que-tu-web-convierta-de-verdad/)
+- [Conecta, convence, convierte: El poder de los congresos presenciales en las ventas.](https://wordpress.tv/2025/11/10/conecta-convence-convierte-el-poder-de-los-congresos-presenciales-en-las-ventas/)
 - [WordPress MCP + Abilities API: Habla con tu Web](https://wordpress.tv/2025/11/10/wordpress-mcp-abilities-api-habla-con-tu-web/)
 - [Evaluando un sistema de caché. Medio-Avanzado](https://wordpress.tv/2025/11/10/evaluando-un-sistema-de-cache-medio-avanzado/)
 - [Del funnel al flywheel: Cómo crecer con WordPress](https://wordpress.tv/2025/11/10/del-funnel-al-flywheel-como-crecer-con-wordpress/)
@@ -374,9 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Building for Content Editors: Why Designers and Developers Need To Care More](https://wordpress.tv/2025/11/10/building-for-content-editors-why-designers-and-developers-need-to-care-more/)
 - [Shipping WordPress Without Shipping Code: How Project Managers Can Lead Releases](https://wordpress.tv/2025/11/10/shipping-wordpress-without-shipping-code-how-project-managers-can-lead-releases/)
 - [The Return of Invisible CMS](https://wordpress.tv/2025/11/10/the-return-of-invisible-cms/)
-- [Software Supply Chain Security &amp; Risk Management: Why the Future will be Federated](https://wordpress.tv/2025/11/10/software-supply-chain-security-risk-management-why-the-future-will-be-federated/)
-- [Cultural Algorithms: The Innovation Multiplier](https://wordpress.tv/2025/11/10/cultural-algorithms-the-innovation-multiplier/)
-- [Keeping Humans in the Loop: Tactful AI in a Collaborative Community](https://wordpress.tv/2025/11/10/keeping-humans-in-the-loop-tactful-ai-in-a-collaborative-community/)
 <!-- WPTV:END -->
 
 ## Marketing
