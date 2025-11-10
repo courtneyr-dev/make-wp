@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Apertura WordCamp Valencia](https://wordpress.tv/2025/11/10/apertura-wordcamp-valencia/)
 - [Speed Build Challenge](https://wordpress.tv/2025/11/10/speed-build-challenge/)
 - [Diseños que enganchan en la era de la IA: herramientas, tendencias, diseño y estrategia](https://wordpress.tv/2025/11/10/disenos-que-enganchan-en-la-era-de-la-ia-herramientas-tendencias-diseno-y-estrategia/)
 - [5 cosas que debes entender &lpar;y hacer&rpar; para que tu web convierta de verdad](https://wordpress.tv/2025/11/10/5-cosas-que-debes-entender-y-hacer-para-que-tu-web-convierta-de-verdad/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Serverless WordPress Demystified: Scale, Savings &amp; Modern Workflows](https://wordpress.tv/2025/11/10/serverless-wordpress-demystified-scale-savings-modern-workflows/)
 - [From Blog to Book: How I turned a Blogging Gig into a Published Book](https://wordpress.tv/2025/11/10/from-blog-to-book-how-i-turned-a-blogging-gig-into-a-published-book/)
 - [Building for Content Editors: Why Designers and Developers Need To Care More](https://wordpress.tv/2025/11/10/building-for-content-editors-why-designers-and-developers-need-to-care-more/)
-- [Shipping WordPress Without Shipping Code: How Project Managers Can Lead Releases](https://wordpress.tv/2025/11/10/shipping-wordpress-without-shipping-code-how-project-managers-can-lead-releases/)
 <!-- WPTV:END -->
 
 ## Marketing
