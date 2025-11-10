@@ -521,16 +521,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress and Cloudflare Security Specialist](https://jobs.wordpress.net/job/wordpress-and-cloudflare-security-specialist/)
+- [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-22/)
+- [Design and build a simple, professional website for MRF Plant Hire](https://jobs.wordpress.net/job/design-and-build-a-simple-professional-website-for-mrf-plant-hire/)
 - [UI/UX Plugin Designer for WordPress plugins](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins-2/)
 - [WordPress Developer – EdTech Project](https://jobs.wordpress.net/job/wordpress-developer-edtech-project/)
-- [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn-2/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-communication-sales-data-entry-google-sheets/)
+- [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn-2/)
 - [Skilled Full-Stack WordPress Developer &lpar;Contract/Freelancer&rpar;](https://jobs.wordpress.net/job/skilled-full-stack-wordpress-developer-contract-freelancer-2/)
-- [Creating Custom  Dashboard Access for Members](https://jobs.wordpress.net/job/creating-custom-dashboard-access-for-members/)
 - [WordPress expert front-end and back-end](https://jobs.wordpress.net/job/wordpress-expert-frontend-and-backend/)
 - [Lead Developer](https://jobs.wordpress.net/job/lead-developer-17/)
-- [Canada/U.S. only — Lean WordPress &lpar;Kadence/Core&rpar; from existing packs — evidence-first](https://jobs.wordpress.net/job/canada-u-s-only-lean-wordpress-kadence-core-from-existing-packs-evidence-first/)
-- [migrate wix to WordPress](https://jobs.wordpress.net/job/migrate-wix-to-wordpress-2/)
 <!-- JOBS:END -->
 
 ## Central
