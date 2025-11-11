@@ -125,6 +125,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [@wordpress/ui](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-ui/)
 - [@wordpress/asset-loader](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-asset-loader/)
 - [@wordpress/lazy-editor](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-lazy-editor/)
 - [@wordpress/boot](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-boot/)
@@ -134,7 +135,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [@wordpress/global-styles-engine](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-global-styles-engine/)
 - [@wordpress/latex-to-mathml](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-latex-to-mathml/)
 - [@wordpress/admin-ui](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-admin-ui/)
-- [@wordpress/views](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-views/)
 <!-- DEVHUB:END -->
 
 ## Themes
