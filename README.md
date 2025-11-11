@@ -507,6 +507,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.9 Release Candidate 1](https://wordpress.org/news/2025/11/wordpress-6-9-release-candidate-1/)
 - [WordPress 6.9 Beta 3](https://wordpress.org/news/2025/11/wordpress-6-9-beta-3/)
 - [WordPress 6.9 Beta 2](https://wordpress.org/news/2025/10/wordpress-6-9-beta-2/)
 - [WordPress 6.8.3 Release](https://wordpress.org/news/2025/09/wordpress-6-8-3-release/)
@@ -516,7 +517,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.8.2 Maintenance Release](https://wordpress.org/news/2025/07/wordpress-6-8-2-maintenance-release/)
 - [Celebrating Kim Parsell: 2025 WordCamp US Scholarship Applications Open](https://wordpress.org/news/2025/07/kim-parsell-2025-wcus-scholarship-applications-open/)
 - [Introducing WordPress Credits: A New Contribution Internship Program for University Students](https://wordpress.org/news/2025/07/introducing-wordpress-credits-a-new-contribution-internship-program-for-university-students/)
-- [WordCamp US 2025: See You in Portland, Oregon!](https://wordpress.org/news/2025/06/wordcamp-us-2025-see-you-in-portland-oregon/)
 <!-- NEWS:END -->
 
 ## Jobs
