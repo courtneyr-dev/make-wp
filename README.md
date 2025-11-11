@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Developer Blog editorial meeting notes of November 6, 2025](https://make.wordpress.org/core/2025/11/11/developer-blog-editorial-meeting-notes-nov-6-2025/)
 - [Abilities API in WordPress 6.9](https://make.wordpress.org/core/2025/11/10/abilities-api-in-wordpress-6-9/)
 - [X-post: Week in Test: November 10, 2025](https://make.wordpress.org/core/2025/11/10/xpost-week-in-test-november-10-2025/)
 - [WordPress 6.9 Beta 4](https://make.wordpress.org/core/2025/11/07/wordpress-6-9-beta-4/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 6.9 Beta 1](https://make.wordpress.org/core/2025/10/21/wordpress-6-9-beta-1/)
 - [X-post: Team Chat Agenda: 22nd October 2025](https://make.wordpress.org/core/2025/10/21/xpost-team-chat-agenda-22nd-october-2025/)
 - [Summary, Dev Chat, October 15, 2025](https://make.wordpress.org/core/2025/10/15/summary-dev-chat-october-8-2025-2/)
-- [Dev Chat Agenda – October 15, 2025](https://make.wordpress.org/core/2025/10/14/dev-chat-agenda-october-15-2025/)
 <!-- CORE:END -->
 
 ## Design
