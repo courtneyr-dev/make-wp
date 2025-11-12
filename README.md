@@ -521,6 +521,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Stack WordPress Developer](https://jobs.wordpress.net/job/full-stack-wordpress-developer-38/)
 - [WordPress and Cloudflare Security Specialist](https://jobs.wordpress.net/job/wordpress-and-cloudflare-security-specialist/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-22/)
 - [Design and build a simple, professional website for MRF Plant Hire](https://jobs.wordpress.net/job/design-and-build-a-simple-professional-website-for-mrf-plant-hire/)
@@ -530,7 +531,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-communication-sales-data-entry-google-sheets/)
 - [Skilled Full-Stack WordPress Developer &lpar;Contract/Freelancer&rpar;](https://jobs.wordpress.net/job/skilled-full-stack-wordpress-developer-contract-freelancer-2/)
 - [WordPress expert front-end and back-end](https://jobs.wordpress.net/job/wordpress-expert-frontend-and-backend/)
-- [Lead Developer](https://jobs.wordpress.net/job/lead-developer-17/)
 <!-- JOBS:END -->
 
 ## Central
