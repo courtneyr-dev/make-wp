@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Preparing the Post Editor for Full iframe Integration](https://make.wordpress.org/core/2025/11/12/preparing-the-post-editor-for-full-iframe-integration/)
 - [Block Bindings improvements in WordPress 6.9](https://make.wordpress.org/core/2025/11/12/block-bindings-improvements-in-wordpress-6-9/)
 - [Theme.json Border Radius Presets Support in WordPress 6.9](https://make.wordpress.org/core/2025/11/12/theme-json-border-radius-presets-support-in-wordpress-6-9/)
 - [WordPress 6.9 Release Candidate Phase](https://make.wordpress.org/core/2025/11/11/wordpress-6-9-release-candidate-phase/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dev Chat Agenda – October 29, 2025](https://make.wordpress.org/core/2025/10/28/dev-chat-agenda-october-29-2025/)
 - [X-post: Week in Test: October 27, 2025](https://make.wordpress.org/core/2025/10/27/xpost-week-in-test-october-27-2025/)
 - [X-post: Test Chat Summary: October 22nd, 2025](https://make.wordpress.org/core/2025/10/24/xpost-test-chat-summary-october-22nd-2025/)
-- [Coding Standard Proposal: Make it explicit that PHP files must use the .php extension](https://make.wordpress.org/core/2025/10/23/coding-standard-proposal-make-it-explicit-that-php-files-must-use-the-php-extension/)
 <!-- CORE:END -->
 
 ## Design
