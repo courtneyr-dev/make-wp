@@ -167,6 +167,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [2026 Global Partner Program Announcement](https://make.wordpress.org/community/2025/11/12/2026-global-partner-program-announcement/)
 - [Community Team update on Bangladesh](https://make.wordpress.org/community/2025/11/12/community-team-update-on-bangladesh/)
 - [Community Team November 2025 Meeting Recap](https://make.wordpress.org/community/2025/11/11/community-team-november-2025-meeting-recap/)
 - [WP Credits – Updates on Sponsorship Guidelines](https://make.wordpress.org/community/2025/11/05/wp-credits-updates-sponsorship/)
@@ -176,7 +177,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Islamabad 2025 – A Celebration of Learning, Contribution, and Community](https://make.wordpress.org/community/2025/10/28/wordcamp-islamabad-2025-a-celebration-of-learning-contribution-and-community/)
 - [Call for Developers: WordPress Events Tooling Improvements](https://make.wordpress.org/community/2025/10/24/call-for-developers-wordpress-events-tooling-improvements/)
 - [2025 WordPress Youth Day, Nicaragua. Mission accomplished!](https://make.wordpress.org/community/2025/10/23/2025-wordpress-youth-day-nicaragua-mission-accomplished/)
-- [WordPress Campus Connect Events: Who Can Organize Them?](https://make.wordpress.org/community/2025/10/17/wordpress-campus-connect-events-who-can-organize-them/)
 <!-- COMMUNITY:END -->
 
 ## Meta
