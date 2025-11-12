@@ -493,6 +493,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Flawed 6.9 branch history for wordpress-develop Git mirrors](https://make.wordpress.org/systems/2025/11/12/flawed-6-9-branch-history-for-wordpress-develop-git-mirrors/)
 - [WordCamp IPv6 not using LE SSL certs.](https://make.wordpress.org/systems/2025/10/31/wordcamp-ipv6-not-using-le-ssl-certs/)
 - [SMTP access for Mercantile.](https://make.wordpress.org/systems/2025/10/27/smtp-access-for-mercantile/)
 - [Domain Redirect Request](https://make.wordpress.org/systems/2025/09/12/domain-redirect-request/)
@@ -502,7 +503,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes.trac 504’s causing automation failures](https://make.wordpress.org/systems/2025/07/17/themes-trac-504s-causing-automation-failures/)
 - [Proxy access – webtechpooja](https://make.wordpress.org/systems/2025/07/08/proxy-access-webtechpooja/)
 - [WordPress Campus Connect – ms-files rule missed](https://make.wordpress.org/systems/2025/06/30/wordpress-campus-connect-ms-files-rule-missed/)
-- [Plugins pre-commit block request](https://make.wordpress.org/systems/2025/06/20/plugins-pre-commit-block-request/)
 <!-- SYSTEMS:END -->
 
 ## News
