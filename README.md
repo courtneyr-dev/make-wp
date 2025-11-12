@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Theme.json Border Radius Presets Support in WordPress 6.9](https://make.wordpress.org/core/2025/11/12/theme-json-border-radius-presets-support-in-wordpress-6-9/)
 - [WordPress 6.9 Release Candidate Phase](https://make.wordpress.org/core/2025/11/11/wordpress-6-9-release-candidate-phase/)
 - [Dev Chat Agenda – November 12, 2025](https://make.wordpress.org/core/2025/11/11/dev-chat-agenda-november-12-2025/)
 - [DataViews, DataForm, et al. in WordPress 6.9](https://make.wordpress.org/core/2025/11/11/dataviews-dataform-et-al-in-wordpress-6-9/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Test Chat Summary: October 22nd, 2025](https://make.wordpress.org/core/2025/10/24/xpost-test-chat-summary-october-22nd-2025/)
 - [Coding Standard Proposal: Make it explicit that PHP files must use the .php extension](https://make.wordpress.org/core/2025/10/23/coding-standard-proposal-make-it-explicit-that-php-files-must-use-the-php-extension/)
 - [Summary, Dev Chat, October 22, 2025](https://make.wordpress.org/core/2025/10/22/summary-dev-chat-october-22-2025/)
-- [Dev Chat Agenda – October 22, 2025](https://make.wordpress.org/core/2025/10/21/dev-chat-agenda-october-22-2025/)
 <!-- CORE:END -->
 
 ## Design
