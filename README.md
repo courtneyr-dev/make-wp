@@ -554,14 +554,14 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### WordCamp
 <!-- WordCamp:START -->
+- [WordPress Campus Connect Zamboanga City, Philippines](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-zamboanga-city-philippines/)
 - [WordPress Campus Connect Kishoreganj, Bangladesh](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-kishoreganj-bangladesh/)
+- [WordPress Campus Connect RCC Institute of Information Technology, Kolkata](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-rccit-kolkata/)
 - [WordPress Campus Connect Udupi 2025](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-udupi-2025/)
 - [WordPress Campus Connect Kaliro Uganda](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-kaliro-uganda/)
 - [WordPress en Femenino Málaga 2025](https://central.wordcamp.org/wordcamps/en-femenino-malaga-2025/)
-- [Site Editor Workshop Jakarta 2025](https://central.wordcamp.org/wordcamps/site-editor-workshop-jakarta-2025/)
 - [WordPress Campus Connect Catarroja, Valencia 2025](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-catarroja-valencia-2025/)
 - [WordCamp Kolhapur 2026](https://central.wordcamp.org/wordcamps/wordcamp-kolhapur-2026/)
-- [WordPress Day Cybersecurity Granada 2025](https://central.wordcamp.org/wordcamps/wpday-cybersecurity-granada-2025/)
 - [WordCamp Surat 2025](https://central.wordcamp.org/wordcamps/wordcamp-surat-gujarat-india-3/)
 - [WordPress Campus Connect Jinja, Eastern Region, Uganda](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-jinja-uganda/)
 - [WordPress Campus Connect Ponferrada](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-ponferrada/)
