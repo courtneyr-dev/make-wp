@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Help Us Translate and Review: Content Collaboration Vol 02/2025](https://make.wordpress.org/polyglots/2025/11/12/help-us-translate-and-review-content-collaboration-vol-02-2025/)
 - [PTE Request for Base &lpar;formerly BaseLinker&rpar; – 300+ marketplaces, 150+ carriers &amp; PIM &amp; OMS &amp; WMS in one](https://make.wordpress.org/polyglots/2025/11/10/pte-request-for-base-formerly-baselinker-300-marketplaces-150-carriers-pim-oms-wms-in-one/)
 - [Request for PTE for 1881 Number Lookup](https://make.wordpress.org/polyglots/2025/11/10/request-for-pte-for-1881-number-lookup/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/09/i-am-the-plugin-author-77/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for old post message](https://make.wordpress.org/polyglots/2025/11/06/pte-request-for-old-post-message/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2025/11/05/i-am-the-author-of-13/)
 - [Agenda: Weekly Polyglots Chat – November 5, 2025 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/11/05/agenda-weekly-polyglots-chat-november-5-2025-1300-utc/)
-- [Help Us Translate and Review: WordPress Credits &amp; Campus Connect](https://make.wordpress.org/polyglots/2025/11/05/help-us-translate-and-review-wordpress-credits-campus-connect/)
 <!-- POLYGLOTS:END -->
 
 ## Support
