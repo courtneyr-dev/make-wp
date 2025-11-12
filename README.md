@@ -3,6 +3,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Changes to the Interactivity API in WordPress 6.9](https://make.wordpress.org/core/2025/11/12/changes-to-the-interactivity-api-in-wordpress-6-9/)
+- [Interactivity API’s client navigation improvements in WordPress 6.9](https://make.wordpress.org/core/2025/11/12/interactivity-apis-client-navigation-improvements-in-wordpress-6-9/)
 - [Preparing the Post Editor for Full iframe Integration](https://make.wordpress.org/core/2025/11/12/preparing-the-post-editor-for-full-iframe-integration/)
 - [Block Bindings improvements in WordPress 6.9](https://make.wordpress.org/core/2025/11/12/block-bindings-improvements-in-wordpress-6-9/)
 - [Theme.json Border Radius Presets Support in WordPress 6.9](https://make.wordpress.org/core/2025/11/12/theme-json-border-radius-presets-support-in-wordpress-6-9/)
@@ -21,8 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, October 29, 2025](https://make.wordpress.org/core/2025/10/29/summary-dev-chat-october-29-2025/)
 - [Gutenberg 21.9 &lpar;October 22&rpar;](https://make.wordpress.org/core/2025/10/28/gutenberg-21-9-october-22/)
 - [Dev Chat Agenda – October 29, 2025](https://make.wordpress.org/core/2025/10/28/dev-chat-agenda-october-29-2025/)
-- [X-post: Week in Test: October 27, 2025](https://make.wordpress.org/core/2025/10/27/xpost-week-in-test-october-27-2025/)
-- [X-post: Test Chat Summary: October 22nd, 2025](https://make.wordpress.org/core/2025/10/24/xpost-test-chat-summary-october-22nd-2025/)
 <!-- CORE:END -->
 
 ## Design
