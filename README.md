@@ -352,6 +352,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to test the next WordPress release with WordPress Playground](https://wordpress.tv/2025/11/13/how-to-test-the-next-wordpress-release-with-wordpress-playground/)
 - [Cierre WordCamp Valencia 2025](https://wordpress.tv/2025/11/10/cierre-wordcamp-valencia-2025/)
 - [Apertura WordCamp Valencia](https://wordpress.tv/2025/11/10/apertura-wordcamp-valencia/)
 - [Speed Build Challenge](https://wordpress.tv/2025/11/10/speed-build-challenge/)
@@ -376,7 +377,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [El verdadero futuro de nuestras webs: Lo que tu agencia SEO no quiere que sepas](https://wordpress.tv/2025/11/10/el-verdadero-futuro-de-nuestras-webs-lo-que-tu-agencia-seo-no-quiere-que-sepas/)
 - [Matt Mullenweg: Town Hall / AMA](https://wordpress.tv/2025/11/10/matt-mullenweg-town-hall-ama/)
 - [Serverless WordPress Demystified: Scale, Savings &amp; Modern Workflows](https://wordpress.tv/2025/11/10/serverless-wordpress-demystified-scale-savings-modern-workflows/)
-- [From Blog to Book: How I turned a Blogging Gig into a Published Book](https://wordpress.tv/2025/11/10/from-blog-to-book-how-i-turned-a-blogging-gig-into-a-published-book/)
 <!-- WPTV:END -->
 
 ## Marketing
