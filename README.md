@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for WPKJ Alipay Gateway for FluentCart](https://make.wordpress.org/polyglots/2025/11/13/pte-request-for-wpkj-alipay-gateway-for-fluentcart/)
 - [X-post: Polyglots Week in Review: November 11, 2025](https://make.wordpress.org/polyglots/2025/11/12/xpost-polyglots-week-in-review-november-11-2025/)
 - [Agenda: Weekly Polyglots Chat – November 12, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/11/12/agenda-weekly-polyglots-chat-november-12-2025-700-utc/)
 - [Help Us Translate and Review: Content Collaboration Vol 02/2025](https://make.wordpress.org/polyglots/2025/11/12/help-us-translate-and-review-content-collaboration-vol-02-2025/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/08/i-am-the-plugin-author-76/)
 - [PTE request for Wheel of Life into cs_CZ](https://make.wordpress.org/polyglots/2025/11/08/pte-request-for-wheel-of-life-into-cs_cz/)
 - [PTE Request for User Profile Tabs](https://make.wordpress.org/polyglots/2025/11/06/pte-request-for-user-profile-tabs/)
-- [PTE Request for old post message](https://make.wordpress.org/polyglots/2025/11/06/pte-request-for-old-post-message/)
 <!-- POLYGLOTS:END -->
 
 ## Support
