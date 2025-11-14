@@ -69,6 +69,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/11/14/hello-polyglots-team-34/)
 - [PTE Request for Unibiz Theme](https://make.wordpress.org/polyglots/2025/11/13/pte-request-for-unibiz-theme/)
 - [PTE Request for WPEye](https://make.wordpress.org/polyglots/2025/11/13/pte-request-for-wpeye/)
 - [PTE Request for WPKJ Alipay Gateway for FluentCart](https://make.wordpress.org/polyglots/2025/11/13/pte-request-for-wpkj-alipay-gateway-for-fluentcart/)
@@ -78,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Base &lpar;formerly BaseLinker&rpar; – 300+ marketplaces, 150+ carriers &amp; PIM &amp; OMS &amp; WMS in one](https://make.wordpress.org/polyglots/2025/11/10/pte-request-for-base-formerly-baselinker-300-marketplaces-150-carriers-pim-oms-wms-in-one/)
 - [Request for PTE for 1881 Number Lookup](https://make.wordpress.org/polyglots/2025/11/10/request-for-pte-for-1881-number-lookup/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/09/i-am-the-plugin-author-77/)
-- [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/08/i-am-the-plugin-author-76/)
 <!-- POLYGLOTS:END -->
 
 ## Support
