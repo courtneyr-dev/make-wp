@@ -529,8 +529,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn-2/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-communication-sales-data-entry-google-sheets/)
 - [Skilled Full-Stack WordPress Developer &lpar;Contract/Freelancer&rpar;](https://jobs.wordpress.net/job/skilled-full-stack-wordpress-developer-contract-freelancer-2/)
-- [WordPress expert front-end and back-end](https://jobs.wordpress.net/job/wordpress-expert-frontend-and-backend/)
-- [Lead Developer](https://jobs.wordpress.net/job/lead-developer-17/)
 <!-- JOBS:END -->
 
 ## Central
