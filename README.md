@@ -563,10 +563,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordCamp Surat 2025](https://central.wordcamp.org/wordcamps/wordcamp-surat-gujarat-india-3/)
 - [WordPress Campus Connect Jinja, Eastern Region, Uganda](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-jinja-uganda/)
 - [WordPress Campus Connect Ponferrada](https://central.wordcamp.org/wordcamps/wordpress-campus-connect-ponferrada/)
+- [WordCamp Pune 2026](https://central.wordcamp.org/wordcamps/wordcamp-pune-2026/)
 - [WordCamp Nice 2026](https://central.wordcamp.org/wordcamps/wordcamp-nice-2026/)
 - [WordCamp Brasil 2025](https://central.wordcamp.org/wordcamps/wordcamp-brasil-2025/)
 - [WordCamp Asia 2026](https://central.wordcamp.org/wordcamps/wordcamp-asia-2026/)
-- [WordCamp Nairobi 2025](https://central.wordcamp.org/wordcamps/wordcamp-nairobi-2025/)
 <!-- WordCamp:END -->
 
 ## WordPress Foundation
