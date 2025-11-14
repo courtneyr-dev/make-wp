@@ -521,6 +521,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Set Up Christian Blog Website](https://jobs.wordpress.net/job/set-up-christian-blog-website/)
+- [UI/UX Plugin Designer for WordPress plugins](https://jobs.wordpress.net/job/ui-ux-plugin-designer-for-wordpress-plugins-3/)
+- [Business Support / Finance admin &lpar;Xero, Zoho books&rpar;](https://jobs.wordpress.net/job/business-support-finance-admin-xero-zoho-books-5/)
+- [WordPress developer for Job Board](https://jobs.wordpress.net/job/wordpress-developer-for-job-board/)
 - [WordPress and Cloudflare Security Specialist](https://jobs.wordpress.net/job/wordpress-and-cloudflare-security-specialist/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-22/)
 - [Design and build a simple, professional website for MRF Plant Hire](https://jobs.wordpress.net/job/design-and-build-a-simple-professional-website-for-mrf-plant-hire/)
