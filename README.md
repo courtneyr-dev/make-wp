@@ -525,7 +525,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress and Cloudflare Security Specialist](https://jobs.wordpress.net/job/wordpress-and-cloudflare-security-specialist/)
 - [WordPress Support Specialist](https://jobs.wordpress.net/job/wordpress-support-specialist-22/)
 - [Design and build a simple, professional website for MRF Plant Hire](https://jobs.wordpress.net/job/design-and-build-a-simple-professional-website-for-mrf-plant-hire/)
-- [WordPress Developer – EdTech Project](https://jobs.wordpress.net/job/wordpress-developer-edtech-project/)
 - [WordPress Developer &lpar;WordPress, PHP, OOP, Composer, PHPUnit, coding standards, CSS3, MySQL, HTML, JavaScript, jQuery, VueJS, React, NPM, Gulp, Webpack, Jest, JSON, RESTful APIs, Git, SVN&rpar;](https://jobs.wordpress.net/job/wordpress-developer-wordpress-php-oop-composer-phpunit-coding-standards-css3-mysql-html-javascript-jquery-vuejs-react-npm-gulp-webpack-jest-json-restful-apis-git-svn-2/)
 - [WordPress Sales Support Specialist &lpar;WordPress, Customer Support, Communication, Sales, Data entry, Google Sheets&rpar;](https://jobs.wordpress.net/job/wordpress-sales-support-specialist-wordpress-customer-support-communication-sales-data-entry-google-sheets/)
 - [Skilled Full-Stack WordPress Developer &lpar;Contract/Freelancer&rpar;](https://jobs.wordpress.net/job/skilled-full-stack-wordpress-developer-contract-freelancer-2/)
