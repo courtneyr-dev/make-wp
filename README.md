@@ -69,6 +69,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Quicksy Theme](https://make.wordpress.org/polyglots/2025/11/15/pte-request-for-quicksy-theme/)
+- [WordPress 6.9 ready to be translated](https://make.wordpress.org/polyglots/2025/11/15/wordpress-6-9-ready-to-be-translated/)
 - [I am the plugin author…](https://make.wordpress.org/polyglots/2025/11/14/i-am-the-plugin-author-78/)
 - [Hello Polyglots Team,](https://make.wordpress.org/polyglots/2025/11/14/hello-polyglots-team-34/)
 - [PTE Request for Unibiz Theme](https://make.wordpress.org/polyglots/2025/11/13/pte-request-for-unibiz-theme/)
@@ -77,8 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Polyglots Week in Review: November 11, 2025](https://make.wordpress.org/polyglots/2025/11/12/xpost-polyglots-week-in-review-november-11-2025/)
 - [Agenda: Weekly Polyglots Chat – November 12, 2025 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2025/11/12/agenda-weekly-polyglots-chat-november-12-2025-700-utc/)
 - [Help Us Translate and Review: Content Collaboration Vol 02/2025](https://make.wordpress.org/polyglots/2025/11/12/help-us-translate-and-review-content-collaboration-vol-02-2025/)
-- [PTE Request for Base &lpar;formerly BaseLinker&rpar; – 300+ marketplaces, 150+ carriers &amp; PIM &amp; OMS &amp; WMS in one](https://make.wordpress.org/polyglots/2025/11/10/pte-request-for-base-formerly-baselinker-300-marketplaces-150-carriers-pim-oms-wms-in-one/)
-- [Request for PTE for 1881 Number Lookup](https://make.wordpress.org/polyglots/2025/11/10/request-for-pte-for-1881-number-lookup/)
 <!-- POLYGLOTS:END -->
 
 ## Support
