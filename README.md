@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [X-post: A Month in Core – October 2025](https://make.wordpress.org/core/2025/11/15/xpost-a-month-in-core-october-2025/)
 - [Notes feature in WordPress 6.9](https://make.wordpress.org/core/2025/11/15/notes-feature-in-wordpress-6-9/)
 - [Summary, Dev Chat, November 12, 2025](https://make.wordpress.org/core/2025/11/12/summary-dev-chat-november-12-2025/)
 - [Heading Block CSS Specificity Fix in WordPress 6.9](https://make.wordpress.org/core/2025/11/12/heading-block-css-specificity-fix-in-wordpress-6-9/)
@@ -22,7 +23,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, November 5, 2025](https://make.wordpress.org/core/2025/11/05/summary-dev-chat-november-5-2025/)
 - [What’s new in Gutenberg 22.0? &lpar;5 November&rpar;](https://make.wordpress.org/core/2025/11/05/whats-new-in-gutenberg-22-0-05-november/)
 - [Dev Chat Agenda – November 5, 2025](https://make.wordpress.org/core/2025/11/04/dev-chat-agenda-november-5-2025/)
-- [X-post: Week in Test: November 3, 2025](https://make.wordpress.org/core/2025/10/31/xpost-week-in-test-november-3-2025/)
 <!-- CORE:END -->
 
 ## Design
